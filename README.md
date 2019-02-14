@@ -7,6 +7,8 @@ This repository is updated directly from The Unicode Consortium's latest [CLDR] 
 
 It is maintained for anyone who needs easily-parsable emoji in one of several formats, and directly for use in my own [Splatmoji], the Linux desktop emoji/emoticon picker.
 
+<img src="logo.png" width="400">
+
 # Installation
 
 Not much to it:
@@ -169,4 +171,4 @@ This repository is distributed under the [MIT license](LICENSE.md).
 
 [CLDR]: http://cldr.unicode.org/index/downloads
 [Christopher Peterson]: https://chrispeterson.info
-[Splatmoji]: (https://chrispeterson.info)
+[Splatmoji]: https://github.com/cspeterson/splatmoji
