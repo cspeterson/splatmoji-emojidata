@@ -14,7 +14,7 @@ It is maintained for anyone who needs easily-parsable emoji in one of several fo
 Not much to it:
 
 ```
-git clone https://github.com/cspeterson/splatmoji-emoji.git
+git clone https://github.com/cspeterson/splatmoji-emojidata.git
 # Now you have the data! 😀
 ```
 
