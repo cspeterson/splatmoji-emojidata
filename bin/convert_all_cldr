@@ -1,0 +1,77 @@
+#!/usr/bin/env bash
+
+read -r -d '' help <<EOF
+Downloads the latest CLDR from unicode (or uses a provided version), unpacks
+it, and converts all of the emoji with their keywords (in all languages,
+separately), into more readily-usable formats.
+
+Usage:
+  # To automatically download the latest CLDR and convert everything
+  # into \`../data\`
+  "$(basename ${0})"
+
+  # To use a specific local CLDR zip and convert everything into \`../data\`
+  "$(basename ${0})" /path/to/cldr/core.zip
+EOF
+
+trap early_exit SIGINT
+early_exit() {
+  echo
+  echo
+  echo "Temporary files may be left at '${temp_dir}'."
+  exit $?
+}
+
+script_dir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
+
+if [ "${1}" == '-h' ] || [ "${1}" == '--help' ]; then
+  echo "${help}"
+  exit 0
+else
+  temp_dir=$(mktemp -d)
+  mkdir -p "${temp_dir}"
+  extract_dir="${temp_dir}/core"
+  if [ -f "${1}" ]; then
+    # If given a file, try to extract from/to those
+    download_filepath="${1}"
+  else
+    # Else go get the latest CLDR zip and use that
+    download_filepath="${temp_dir}/core.zip"
+    wget --output-document "${download_filepath}" "http://unicode.org/Public/cldr/latest/core.zip"
+  fi
+fi
+
+unzip -d "${extract_dir}" "${download_filepath}"
+
+annotations_base=()
+for f in "${extract_dir}/common/annotations/"*.xml; do
+  f=${f%.xml}
+  f=${f##*/}
+  annotations_base+=($f)
+done
+
+annotations_derived=()
+for f in "${extract_dir}/common/annotationsDerived/"*.xml; do
+  f=${f%.xml}
+  f=${f##*/}
+  annotations_derived+=($f)
+done
+
+for format in {json,tsv,yaml}; do
+  mkdir -p "${script_dir}/../data/${format}"
+
+  # Base annotations
+  for lang in "${annotations_base[@]}"; do
+    out=$(python3 "${script_dir}/cldrconv.py" --failifempty --format "${format}" "${extract_dir}/common/annotations/${lang}.xml") && echo "${out}" > "${script_dir}/../data/${format}/${lang}.base.${format}"
+  done
+  # Derived annotations only
+  for lang in "${annotations_derived[@]}"; do
+    out=$(python3 "${script_dir}/cldrconv.py" --failifempty --format "${format}" "${extract_dir}/common/annotationsDerived/${lang}.xml") && echo "${out}" > "${script_dir}/../data/${format}/${lang}.derived.${format}"
+  done
+  # Combined base and derived annotations
+  for lang in "${annotations_derived[@]}"; do
+    out=$(python3 "${script_dir}/cldrconv.py" --failifempty --format "${format}" "${extract_dir}/common/annotationsDerived/${lang}.xml" "${extract_dir}/common/annotations/${lang}.xml") && echo "${out}" > "${script_dir}/../data/${format}/${lang}.all.${format}"
+  done
+done
+
+echo "Done! Temporary files left at '${temp_dir}'."
