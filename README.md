@@ -91,14 +91,12 @@ JSON:
 
 ```json
 {
-    [...]
     "🤓": [
         "face",
         "geek",
         "nerd face",
         "nerd"
     ],
-    [...]
 }
 ```
 
@@ -117,6 +115,8 @@ YAML:
   - geek
   - nerd face
 ```
+
+--------------------------------
 
 # Reproducing the data directly from the source
 
@@ -160,6 +160,12 @@ bin/convert_all_cldr
 # If you have the zip on hand already
 bin/convert_all_cldr /path/to/cldr/core.zip
 ```
+
+--------------------------------
+
+# Contributing
+
+The Unicode Consortium has kind of already done the contributing by making the CLDR data available, but I'm open to any process improvements or suggestions. 🙂
 
 # Self-promotion
 
