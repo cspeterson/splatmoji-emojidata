@@ -7,7 +7,7 @@ This repository is updated directly from The Unicode Consortium's latest [CLDR] 
 
 It is maintained for anyone who needs easily-parsable emoji in one of several formats, and directly for use in my own [Splatmoji], the Linux desktop emoji/emoticon picker.
 
-<img src="logo.png" width="400">
+<img src="assets/logo.png" width="400">
 
 # Installation
 
