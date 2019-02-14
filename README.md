@@ -111,8 +111,8 @@ YAML:
 ```yaml
 🤓:
   - face
-  - nerd
   - geek
+  - nerd
   - nerd face
 ```
 
