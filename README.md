@@ -85,7 +85,7 @@ The files are named according to the the source CLDR data files using standard l
 │       └── [...]
 ```
 
-As for the individual formats, they all contain the same data in as neat the same format as possible:
+As for the individual formats, they all contain the same data in as near the same format as possible:
 
 JSON:
 
