@@ -42,12 +42,6 @@
   - Auge
   - gross
   - klein
-👽:
-  - Alien
-  - Ausserirdischer
-  - Ausserirdisches Wesen
-  - Gesicht
-  - UFO
 🧟‍♂:
   - Zombiemann
 🚶:
@@ -99,11 +93,6 @@
   - Augenschutz
   - Schweissen
   - Schwimmen
-⛑:
-  - Helm
-  - Helm mit weissem Kreuz
-  - Hilfe
-  - Kreuz
 💐:
   - Blumen
   - Blumenstrauss
@@ -142,14 +131,6 @@
   - Nachtisch
   - Schokolade
   - Sosse
-☕:
-  - Getränk
-  - Heissgetränk
-  - Kaffee
-  - Tee
-  - dampfend
-  - heiss
-  - trinken
 🍻:
   - Bier
   - anstossen
@@ -166,13 +147,6 @@
   - Vase
   - kochen
   - trinken
-♨:
-  - Dampf
-  - Heisse Quellen
-  - Quellen
-  - dampfend
-  - heiss
-  - heisse Quellen
 🌌:
   - Galaxie
   - Milchstrasse
@@ -191,18 +165,6 @@
   - Strassenbahn
   - Tram
   - Waggon
-🛣:
-  - Autobahn
-  - Schnellstrasse
-⭐:
-  - Stern
-  - weisser mittelgrosser Stern
-🌥:
-  - Sonne
-  - Sonne hinter grosser Wolke
-  - Wetter
-  - Wolke
-  - grosse Wolke
 🔥:
   - Flamme
   - heiss
@@ -210,9 +172,6 @@
   - Schweiss
   - Wasser
   - Wassertropfen
-⚽:
-  - Ball
-  - Fussball
 🥌:
   - Spiel
   - Stein
@@ -233,8 +192,6 @@
   - anpinnen
   - rund
   - runde Reisszwecke
-🚼:
-  - Baby-Symbol
 🛅:
   - Gepäck
   - Schliessfach
@@ -245,11 +202,6 @@
 🚷:
   - Fussgänger-verboten-Schild
   - verboten
-⭕:
-  - Grosser Kreis
-  - Kreis
-  - o
-  - rot
 ✅:
   - Weisses Häkchen
   - abgehakt
@@ -266,25 +218,11 @@
   - Eingabesymbol lateinische Grossbuchstaben
   - Grossbuchstaben
   - lateinische Grossbuchstaben
-🅰:
-  - Blut
-  - Blutgruppe
-  - Grossbuchstabe A in Quadrat
-  - a
-  - negativ
-  - positiv
 🆎:
   - Blut
   - Blutgruppe
   - Grossbuchstaben AB in rotem Quadrat
   - ab
-  - negativ
-  - positiv
-🅱:
-  - Blut
-  - Blutgruppe
-  - Grossbuchstabe B in Quadrat
-  - b
   - negativ
   - positiv
 🆑:
@@ -296,20 +234,9 @@
 🆖:
   - Grossbuchstaben NG in blauem Quadrat
   - NG
-🅾:
-  - '0'
-  - Blut
-  - Blutgruppe
-  - Grossbuchstabe O in Quadrat
-  - negativ
-  - positiv
 🆗:
   - Grossbuchstaben OK in blauem Quadrat
   - OK
-🅿:
-  - Grossbuchstabe P in Quadrat
-  - Parkplatz
-  - Quadrat
 🆚:
   - Grossbuchstaben VS in orangefarbenem Quadrat
   - VS
@@ -324,40 +251,6 @@
   - Grosser blauer Kreis
   - Kreis
   - blau
-⚪:
-  - Ball
-  - Grosser weisser Kreis
-  - Kreis
-  - weiss
-⚫:
-  - Ball
-  - Grosser schwarzer Kreis
-  - Kreis
-  - schwarz
-⬜:
-  - Grosses weisses Quadrat
-  - Quadrat
-  - weiss
-⬛:
-  - Grosses schwarzes Quadrat
-  - Quadrat
-  - schwarz
-◼:
-  - Mittelgrosses schwarzes Quadrat
-  - Quadrat
-  - schwarz
-◻:
-  - Mittelgrosses weisses Quadrat
-  - Quadrat
-  - weiss
-◽:
-  - Mittelkleines weisses Quadrat
-  - Quadrat
-  - weiss
-▫:
-  - Kleines weisses Quadrat
-  - Quadrat
-  - weiss
 🔶:
   - Grosse orangefarbene Raute
   - Raute
@@ -371,8 +264,115 @@
   - Weisse quadratische Schaltfläche
   - quadratisch
   - weiss
-🏳:
+▫️:
+  - Kleines weisses Quadrat
+  - Quadrat
+  - weiss
+◻️:
+  - Mittelgrosses weisses Quadrat
+  - Quadrat
+  - weiss
+◼️:
+  - Mittelgrosses schwarzes Quadrat
+  - Quadrat
+  - schwarz
+◽️:
+  - Mittelkleines weisses Quadrat
+  - Quadrat
+  - weiss
+☕️:
+  - Getränk
+  - Heissgetränk
+  - Kaffee
+  - Tee
+  - dampfend
+  - heiss
+  - trinken
+♨️:
+  - Dampf
+  - Heisse Quellen
+  - Quellen
+  - dampfend
+  - heiss
+  - heisse Quellen
+⚪️:
+  - Ball
+  - Grosser weisser Kreis
+  - Kreis
+  - weiss
+⚫️:
+  - Ball
+  - Grosser schwarzer Kreis
+  - Kreis
+  - schwarz
+⚽️:
+  - Ball
+  - Fussball
+⛑️:
+  - Helm
+  - Helm mit weissem Kreuz
+  - Hilfe
+  - Kreuz
+⬛️:
+  - Grosses schwarzes Quadrat
+  - Quadrat
+  - schwarz
+⬜️:
+  - Grosses weisses Quadrat
+  - Quadrat
+  - weiss
+⭐️:
+  - Stern
+  - weisser mittelgrosser Stern
+⭕️:
+  - Grosser Kreis
+  - Kreis
+  - o
+  - rot
+🅰️:
+  - Blut
+  - Blutgruppe
+  - Grossbuchstabe A in Quadrat
+  - a
+  - negativ
+  - positiv
+🅱️:
+  - Blut
+  - Blutgruppe
+  - Grossbuchstabe B in Quadrat
+  - b
+  - negativ
+  - positiv
+🅾️:
+  - '0'
+  - Blut
+  - Blutgruppe
+  - Grossbuchstabe O in Quadrat
+  - negativ
+  - positiv
+🅿️:
+  - Grossbuchstabe P in Quadrat
+  - Parkplatz
+  - Quadrat
+🌥️:
+  - Sonne
+  - Sonne hinter grosser Wolke
+  - Wetter
+  - Wolke
+  - grosse Wolke
+🏳️:
   - Fahne
   - Wehende weisse Fahne
   - wehen
   - weisse Fahne
+👽️:
+  - Alien
+  - Ausserirdischer
+  - Ausserirdisches Wesen
+  - Gesicht
+  - UFO
+🚼️:
+  - Baby-Symbol
+🛣️:
+  - Autobahn
+  - Schnellstrasse
