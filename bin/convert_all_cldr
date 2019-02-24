@@ -6,12 +6,7 @@ it, and converts all of the emoji with their keywords (in all languages,
 separately), into more readily-usable formats.
 
 Usage:
-  # To automatically download the latest CLDR and convert everything
-  # into \`../data\`
-  "$(basename ${0})"
-
-  # To use a specific local CLDR zip and convert everything into \`../data\`
-  "$(basename ${0})" /path/to/cldr/core.zip
+  $(basename ${0}) [/path/to/cldr/core.zip] [/path/to/emoji-variation-sequences.txt]
 EOF
 
 trap early_exit SIGINT
@@ -27,21 +22,33 @@ script_dir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
 if [ "${1}" == '-h' ] || [ "${1}" == '--help' ]; then
   echo "${help}"
   exit 0
-else
-  temp_dir=$(mktemp -d)
-  mkdir -p "${temp_dir}"
-  extract_dir="${temp_dir}/core"
-  if [ -f "${1}" ]; then
-    # If given a file, try to extract from/to those
-    download_filepath="${1}"
-  else
-    # Else go get the latest CLDR zip and use that
-    download_filepath="${temp_dir}/core.zip"
-    wget --output-document "${download_filepath}" "http://unicode.org/Public/cldr/latest/core.zip"
-  fi
 fi
 
-unzip -d "${extract_dir}" "${download_filepath}"
+# Setup temp work area
+temp_dir=$(mktemp -d)
+mkdir -p "${temp_dir}"
+extract_dir="${temp_dir}/core"
+
+# Get/use cldr zip
+if [ -f "${1}" ]; then
+  # If given a file, try to extract from/to those
+  cldr_filepath="${1}"
+else
+  # Else go get the latest CLDR zip and use that
+  cldr_filepath="${temp_dir}/core.zip"
+  wget --output-document "${cldr_filepath}" "http://unicode.org/Public/cldr/latest/core.zip"
+fi
+unzip -d "${extract_dir}" "${cldr_filepath}"
+
+# Get/use presentation sequences
+if [ -f "${2}" ]; then
+  # Use if given from local file
+  presentations_filepath="${2}"
+else
+  # Else go get the latest from Unicode
+  presentations_filepath="${temp_dir}/emoji-variation-sequences.txt"
+  wget --output-document "${presentations_filepath} 'https://www.unicode.org/Public/emoji/latest/emoji-variation-sequences.txt'"
+fi
 
 annotations_base=()
 for f in "${extract_dir}/common/annotations/"*.xml; do
@@ -62,15 +69,15 @@ for format in {json,tsv,yaml}; do
 
   # Base annotations
   for lang in "${annotations_base[@]}"; do
-    out=$(python3 "${script_dir}/cldrconv.py" --failifempty --format "${format}" "${extract_dir}/common/annotations/${lang}.xml") && echo "${out}" > "${script_dir}/../data/${format}/${lang}.base.${format}"
+    out=$(python3 "${script_dir}/converter.py" --failifempty --presentation-sequences ${presentations_filepath} --format "${format}" "${extract_dir}/common/annotations/${lang}.xml") && echo "${out}" > "${script_dir}/../data/${format}/${lang}.base.${format}"
   done
   # Derived annotations only
   for lang in "${annotations_derived[@]}"; do
-    out=$(python3 "${script_dir}/cldrconv.py" --failifempty --format "${format}" "${extract_dir}/common/annotationsDerived/${lang}.xml") && echo "${out}" > "${script_dir}/../data/${format}/${lang}.derived.${format}"
+    out=$(python3 "${script_dir}/converter.py" --failifempty --presentation-sequences ${presentations_filepath} --format "${format}" "${extract_dir}/common/annotationsDerived/${lang}.xml") && echo "${out}" > "${script_dir}/../data/${format}/${lang}.derived.${format}"
   done
   # Combined base and derived annotations
   for lang in "${annotations_derived[@]}"; do
-    out=$(python3 "${script_dir}/cldrconv.py" --failifempty --format "${format}" "${extract_dir}/common/annotationsDerived/${lang}.xml" "${extract_dir}/common/annotations/${lang}.xml") && echo "${out}" > "${script_dir}/../data/${format}/${lang}.all.${format}"
+    out=$(python3 "${script_dir}/converter.py" --failifempty --presentation-sequences ${presentations_filepath} --format "${format}" "${extract_dir}/common/annotationsDerived/${lang}.xml" "${extract_dir}/common/annotations/${lang}.xml") && echo "${out}" > "${script_dir}/../data/${format}/${lang}.all.${format}"
   done
 done
 
