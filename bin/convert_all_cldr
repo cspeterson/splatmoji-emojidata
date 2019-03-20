@@ -6,7 +6,7 @@ it, and converts all of the emoji with their keywords (in all languages,
 separately), into more readily-usable formats.
 
 Usage:
-  $(basename ${0}) [/path/to/cldr/core.zip] [/path/to/emoji-variation-sequences.txt]
+  $(basename ${0}) -c [/path/to/cldr/core.zip] -s [/path/to/emoji-variation-sequences.txt] -o [/path/to/emoji-ordering-rules.txt]
 EOF
 
 trap early_exit SIGINT
@@ -19,10 +19,28 @@ early_exit() {
 
 script_dir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
 
-if [ "${1}" == '-h' ] || [ "${1}" == '--help' ]; then
-  echo "${help}"
-  exit 0
-fi
+while getopts ':c:ho:s:' opt; do
+  case "${opt}" in
+    c)
+      cldr_filepath="${OPTARG}"
+      ;;
+    h)
+      echo "${help}"
+      exit 0
+      ;;
+    o)
+      ordering="${OPTARG}"
+      ;;
+    s)
+      sequences="${OPTARG}"
+      ;;
+    *)
+      echo "Invalid option ${OPTARG}" >&2
+      echo "${help}"
+      exit 1
+      ;;
+  esac
+done
 
 # Setup temp work area
 temp_dir=$(mktemp -d)
@@ -30,24 +48,25 @@ mkdir -p "${temp_dir}"
 extract_dir="${temp_dir}/core"
 
 # Get/use cldr zip
-if [ -f "${1}" ]; then
-  # If given a file, try to extract from/to those
-  cldr_filepath="${1}"
-else
+if ! [ -f "${cldr_filepath}" ]; then
   # Else go get the latest CLDR zip and use that
   cldr_filepath="${temp_dir}/core.zip"
-  wget --output-document "${cldr_filepath}" "http://unicode.org/Public/cldr/latest/core.zip"
+  wget --output-document "${cldr_filepath}" 'http://unicode.org/Public/cldr/latest/core.zip'
 fi
 unzip -d "${extract_dir}" "${cldr_filepath}"
 
 # Get/use presentation sequences
-if [ -f "${2}" ]; then
-  # Use if given from local file
-  presentations_filepath="${2}"
-else
+if ! [ -f "${sequences}" ]; then
   # Else go get the latest from Unicode
-  presentations_filepath="${temp_dir}/emoji-variation-sequences.txt"
-  wget --output-document "${presentations_filepath} 'https://www.unicode.org/Public/emoji/latest/emoji-variation-sequences.txt'"
+  sequences="${temp_dir}/emoji-variation-sequences.txt"
+  wget --output-document "${sequences}" 'https://www.unicode.org/Public/emoji/latest/emoji-variation-sequences.txt'
+fi
+
+# Get/use ordering/grouping data
+if ! [ -f "${ordering}" ]; then
+  # Else go get the latest from Unicode
+  ordering="${temp_dir}/emoji-ordering-rules.txt"
+  wget --output-document "${ordering}" 'https://unicode.org/emoji/charts/emoji-ordering-rules.txt'
 fi
 
 annotations_base=()
@@ -67,17 +86,9 @@ done
 for format in {json,tsv,yaml}; do
   mkdir -p "${script_dir}/../data/${format}"
 
-  # Base annotations
-  for lang in "${annotations_base[@]}"; do
-    out=$(python3 "${script_dir}/converter.py" --failifempty --presentation-sequences ${presentations_filepath} --format "${format}" "${extract_dir}/common/annotations/${lang}.xml") && echo "${out}" > "${script_dir}/../data/${format}/${lang}.base.${format}"
-  done
-  # Derived annotations only
-  for lang in "${annotations_derived[@]}"; do
-    out=$(python3 "${script_dir}/converter.py" --failifempty --presentation-sequences ${presentations_filepath} --format "${format}" "${extract_dir}/common/annotationsDerived/${lang}.xml") && echo "${out}" > "${script_dir}/../data/${format}/${lang}.derived.${format}"
-  done
   # Combined base and derived annotations
   for lang in "${annotations_derived[@]}"; do
-    out=$(python3 "${script_dir}/converter.py" --failifempty --presentation-sequences ${presentations_filepath} --format "${format}" "${extract_dir}/common/annotationsDerived/${lang}.xml" "${extract_dir}/common/annotations/${lang}.xml") && echo "${out}" > "${script_dir}/../data/${format}/${lang}.all.${format}"
+    out=$(python3 "${script_dir}/converter.py" --failifempty --ordering-rules "${ordering}" --presentation-sequences "${sequences}" --format "${format}" "${extract_dir}/common/annotationsDerived/${lang}.xml" "${extract_dir}/common/annotations/${lang}.xml") && echo "${out}" > "${script_dir}/../data/${format}/${lang}.${format}"
   done
 done
 

@@ -1,7 +1,7 @@
 splatmoji-emojidata
 ===================
 
-A simple machine- and human-readable complete collection of all emoji, kept current directly from Unicode releases.
+A simple machine- and human-readable complete collection of all emoji, with keywords in all available languages, kept current directly from Unicode releases.
 
 This repository is updated directly from The Unicode Consortium's latest [CLDR] (Common Local Data Repository) which Unicode provides for internationalization in general, but which also happens to provide handy internationalized keywords for emoji.
 
@@ -24,12 +24,11 @@ git clone https://github.com/cspeterson/splatmoji-emojidata.git
 
 If you're just looking for the obvious English-language full emoji collections, those would be either:
 
-* `data/{json,tsv,yaml}/en.base.{json,tsv,yaml}`: the full base set of emoji with English-language annotations.
-* `data/{json,tsv,yaml}/en.all.{json,tsv,yaml}`: the full base set of emoji with English-language annotations, *and* all derivations. This is the most comprehensive and includes all skin color variations and country flags.
+* `data/{json,tsv,yaml}/en.all.{json,tsv,yaml}`: the full base set of emoji with English-language annotations.
 
 ## How is this data organized?
 
-This repo includes all of the base annotated emoji, the derived emoji variants, and both of the former per available language combined.
+This repo includes all of the annotated emoji per available language.
 
 The same data is made available in json, tsv, and yaml.
 
@@ -40,48 +39,24 @@ The files are named according to the the source CLDR data files using standard l
 ├── data
 │   ├── json
 │       ├── [...]
-│       ├── en.all.json
-│       ├── en_AU.all.json
-│       ├── en_AU.base.json
-│       ├── en_AU.derived.json
-│       ├── en.base.json
-│       ├── en_CA.all.json
-│       ├── en_CA.base.json
-│       ├── en_CA.derived.json
-│       ├── en.derived.json
-│       ├── en_GB.all.json
-│       ├── en_GB.base.json
-│       ├── en_GB.derived.json
+│       ├── en.json
+│       ├── en_AU.json
+│       ├── en_CA.json
+│       ├── en_GB.json
 │       └── [...]
 │   ├── tsv
 │       ├── [...]
-│       ├── en.all.tsv
-│       ├── en_AU.all.tsv
-│       ├── en_AU.base.tsv
-│       ├── en_AU.derived.tsv
-│       ├── en.base.tsv
-│       ├── en_CA.all.tsv
-│       ├── en_CA.base.tsv
-│       ├── en_CA.derived.tsv
-│       ├── en.derived.tsv
-│       ├── en_GB.all.tsv
-│       ├── en_GB.base.tsv
-│       ├── en_GB.derived.tsv
+│       ├── en.tsv
+│       ├── en_AU.tsv
+│       ├── en_CA.tsv
+│       ├── en_GB.tsv
 │       └── [...]
 │   └── yaml
 │       ├── [...]
-│       ├── en.all.yaml
-│       ├── en_AU.all.yaml
-│       ├── en_AU.base.yaml
-│       ├── en_AU.derived.yaml
-│       ├── en.base.yaml
-│       ├── en_CA.all.yaml
-│       ├── en_CA.base.yaml
-│       ├── en_CA.derived.yaml
-│       ├── en.derived.yaml
-│       ├── en_GB.all.yaml
-│       ├── en_GB.base.yaml
-│       ├── en_GB.derived.yaml
+│       ├── en.yaml
+│       ├── en_AU.yaml
+│       ├── en_CA.yaml
+│       ├── en_GB.yaml
 │       └── [...]
 ```
 
@@ -94,8 +69,8 @@ JSON:
     "🤓": [
         "face",
         "geek",
-        "nerd face",
         "nerd"
+        "nerd face",
     ],
 }
 ```
@@ -103,7 +78,7 @@ JSON:
 TSV:
 
 ```
-🤓      face, geek, nerd face, nerd
+🤓      face, geek, nerd, nerd face
 ```
 
 YAML:
@@ -117,6 +92,10 @@ YAML:
 ```
 
 --------------------------------
+
+# Versioning
+
+The major version of this package is always based on the Unicode CLDR version from which is sourced. The minor and patch versions should follow [Semver 2.0.0] conventions.
 
 # Reproducing the data directly from the source
 
@@ -150,22 +129,21 @@ Or if you don't use virtual environments but should:
 pip3 install -r requirements.txt
 ```
 
-
 ## Usage
 
 ```sh
-# With no arguments, this script will fetch and convert directly from the latest CLDR zip:
+# With no arguments, this script will fetch and convert directly from the latest CLDR zip and other files:
 bin/convert_all_cldr
 
-# If you have the zip on hand already
-bin/convert_all_cldr /path/to/cldr/core.zip
+# If you have a particular version on hand:
+bin/convert_all_cldr -c /path/to/cldr/core.zip -s /path/to/emoji-variation-sequences.txt -o /path/to/emoji-ordering-rules.txt
 ```
 
 --------------------------------
 
 # Contributing
 
-The Unicode Consortium has kind of already done the contributing by making the CLDR data available, but I'm open to any process improvements or suggestions. 🙂
+The Unicode Consortium has kind of already done the contributing by making the CLDR data available, but I'm open to any improvements or suggestions. 🙂
 
 # Self-promotion
 
@@ -173,11 +151,14 @@ This repository was created and is maintained by [Christopher Peterson] for use 
 
 Also, if you're here you're probably a nerd of some variety and should definitely also check out the awesome podcast [Decipher SciFi] 🤓
 
-# License
+# Licenses
 
-This repository is distributed under the [MIT license](LICENSE.md).
+CLDR data files included in this repository in the `lib/` directory are distributed under the [Unicode Data License](lib/unicode-license.txt).
+
+The rest of the code and data in this repository are distributed under the [Apache license](LICENSE.md) 
 
 [CLDR]: http://cldr.unicode.org/index/downloads
 [Christopher Peterson]: https://chrispeterson.info
-[Splatmoji]: https://github.com/cspeterson/splatmoji
 [Decipher SciFi]: https://decipherscifi.com
+[Semver 2.0.0]: https://semver.org/
+[Splatmoji]: https://github.com/cspeterson/splatmoji
