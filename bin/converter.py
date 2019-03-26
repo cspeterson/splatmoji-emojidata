@@ -49,6 +49,7 @@ def parse_args():
     parser.add_argument(
         '--format', '-f',
         type=str,
+        required=True,
         choices={'json', 'yaml', 'tsv'},
         help=('Format to output.')
     )
@@ -122,8 +123,13 @@ def main():
         with open(xmlfile, encoding='utf-8') as fd:
             doc = xmltodict.parse(fd.read())
         try:
-            annotations.extend(doc['ldml']['annotations']['annotation'])
-        except KeyError:
+            file_annotations = doc['ldml']['annotations']['annotation']
+            # If there is only one annotation, it'll come out as the bare
+            # element rather than a list. Account for this.
+            if isinstance(file_annotations, OrderedDict):
+                file_annotations = [file_annotations]
+            annotations.extend(file_annotations)
+        except (KeyError, TypeError):
             print("File {} included no annotations. Exiting.".format(xmlfile), file=sys.stderr)
             if args.failifempty:
                 sys.exit(1)
