@@ -522,6 +522,8 @@
 💜:
   - cœur
   - violet
+🤎:
+  - cœur brun
 💯:
   - cent
   - cent points
@@ -787,12 +789,38 @@
   - main
   - 'ok : peau foncée'
   - peau foncée
+🤏🏻:
+  - 'pouce et index rapprochés : peau claire'
+🤏🏼:
+  - peau modérément claire
+  - petite quantité
+  - petite somme
+  - peu
+  - pouce et index rapprochés
+  - 'pouce et index rapprochés : peau modérément claire'
+  - un peu
+🤏🏽:
+  - 'pouce et index rapprochés : peau légèrement mate'
+🤏🏾:
+  - peau modérément foncée
+  - petite quantité
+  - petite somme
+  - peu
+  - pouce et index rapprochés
+  - 'pouce et index rapprochés : peau modérément foncée'
+  - un peu
+🤏🏿:
+  - 'pouce et index rapprochés : peau foncée'
 ✌️:
   - V de la victoire
   - ciseaux
   - victoire
 ✌🏻:
+  - V de la victoire
   - 'V de la victoire : peau claire'
+  - ciseaux
+  - peau claire
+  - victoire
 ✌🏼:
   - V de la victoire
   - 'V de la victoire : peau modérément claire'
@@ -800,7 +828,11 @@
   - peau modérément claire
   - victoire
 ✌🏽:
+  - V de la victoire
   - 'V de la victoire : peau légèrement mate'
+  - ciseaux
+  - peau légèrement mate
+  - victoire
 ✌🏾:
   - V de la victoire
   - 'V de la victoire : peau modérément foncée'
@@ -808,7 +840,11 @@
   - peau modérément foncée
   - victoire
 ✌🏿:
+  - V de la victoire
   - 'V de la victoire : peau foncée'
+  - ciseaux
+  - peau foncée
+  - victoire
 🤞:
   - chance
   - croisés
@@ -1722,6 +1758,14 @@
   - peau modérément foncée
 💪🏿:
   - 'biceps contracté : peau foncée'
+🦾:
+  - accessibilité
+  - bras
+  - prothèse
+🦿:
+  - accessibilité
+  - jambe
+  - prothèse
 🦵🏻:
   - 'jambe : peau claire'
 🦵🏼:
@@ -1774,6 +1818,26 @@
   - peau modérément foncée
 👂🏿:
   - 'oreille : peau foncée'
+🦻🏻:
+  - 'oreille appareillée : peau claire'
+🦻🏼:
+  - accessibilité
+  - malentendant
+  - oreille appareillée
+  - 'oreille appareillée : peau modérément claire'
+  - peau modérément claire
+  - prothèse auditive
+🦻🏽:
+  - 'oreille appareillée : peau légèrement mate'
+🦻🏾:
+  - accessibilité
+  - malentendant
+  - oreille appareillée
+  - 'oreille appareillée : peau modérément foncée'
+  - peau modérément foncée
+  - prothèse auditive
+🦻🏿:
+  - 'oreille appareillée : peau foncée'
 👃🏻:
   - 'nez : peau claire'
 👃🏼:
@@ -1869,12 +1933,7 @@
 👦🏿:
   - 'garçon : peau foncée'
 👧🏻:
-  - fille
   - 'fille : peau claire'
-  - jeune
-  - peau claire
-  - vierge
-  - zodiaque
 👧🏼:
   - fille
   - 'fille : peau modérément claire'
@@ -1883,12 +1942,7 @@
   - vierge
   - zodiaque
 👧🏽:
-  - fille
   - 'fille : peau légèrement mate'
-  - jeune
-  - peau légèrement mate
-  - vierge
-  - zodiaque
 👧🏾:
   - fille
   - 'fille : peau modérément foncée'
@@ -1897,12 +1951,7 @@
   - vierge
   - zodiaque
 👧🏿:
-  - fille
   - 'fille : peau foncée'
-  - jeune
-  - peau foncée
-  - vierge
-  - zodiaque
 🧑:
   - adulte
   - genre non défini
@@ -1937,7 +1986,13 @@
   - genre non défini
   - peau foncée
   - personne
+👱:
+  - blond
+  - personne blonde
 👱🏻:
+  - blond
+  - peau claire
+  - personne blonde
   - 'personne blonde : peau claire'
 👱🏼:
   - blond
@@ -1945,6 +2000,9 @@
   - personne blonde
   - 'personne blonde : peau modérément claire'
 👱🏽:
+  - blond
+  - peau légèrement mate
+  - personne blonde
   - 'personne blonde : peau légèrement mate'
 👱🏾:
   - blond
@@ -1952,6 +2010,9 @@
   - personne blonde
   - 'personne blonde : peau modérément foncée'
 👱🏿:
+  - blond
+  - peau foncée
+  - personne blonde
   - 'personne blonde : peau foncée'
 👨:
   - adulte
@@ -1988,49 +2049,61 @@
 🧔🏻:
   - barbe
   - barbu
+  - 'homme barbu : peau claire'
   - peau claire
   - personne
-  - 'personne barbue : peau claire'
 🧔🏼:
   - barbe
   - barbu
+  - 'homme barbu : peau modérément claire'
   - peau modérément claire
   - personne
-  - 'personne barbue : peau modérément claire'
 🧔🏽:
   - barbe
   - barbu
+  - 'homme barbu : peau légèrement mate'
   - peau légèrement mate
   - personne
-  - 'personne barbue : peau légèrement mate'
 🧔🏾:
   - barbe
   - barbu
+  - 'homme barbu : peau modérément foncée'
   - peau modérément foncée
   - personne
-  - 'personne barbue : peau modérément foncée'
 🧔🏿:
   - barbe
   - barbu
+  - 'homme barbu : peau foncée'
   - peau foncée
   - personne
-  - 'personne barbue : peau foncée'
+👱‍♂:
+  - blond
+  - homme
 👱🏻‍♂:
+  - blond
+  - homme
   - 'homme blond : peau claire'
+  - peau claire
 👱🏼‍♂:
   - blond
   - homme
   - 'homme blond : peau modérément claire'
   - peau modérément claire
 👱🏽‍♂:
+  - blond
+  - homme
   - 'homme blond : peau légèrement mate'
+  - peau légèrement mate
 👱🏾‍♂:
   - blond
   - homme
   - 'homme blond : peau modérément foncée'
   - peau modérément foncée
 👱🏿‍♂:
+  - blond
+  - homme
   - 'homme blond : peau foncée'
+  - peau foncée
 👨‍🦰:
   - adulte
   - cheveux roux
@@ -2199,22 +2272,34 @@
   - femme
   - 'femme : peau foncée'
   - peau foncée
+👱‍♀:
+  - blonde
+  - femme
 👱🏻‍♀:
+  - blonde
+  - femme
   - 'femme blonde : peau claire'
+  - peau claire
 👱🏼‍♀:
   - blonde
   - femme
   - 'femme blonde : peau modérément claire'
   - peau modérément claire
 👱🏽‍♀:
+  - blonde
+  - femme
   - 'femme blonde : peau légèrement mate'
+  - peau légèrement mate
 👱🏾‍♀:
   - blonde
   - femme
   - 'femme blonde : peau modérément foncée'
   - peau modérément foncée
 👱🏿‍♀:
+  - blonde
+  - femme
   - 'femme blonde : peau foncée'
+  - peau foncée
 👩‍🦰:
   - adulte
   - cheveux roux
@@ -3252,6 +3337,88 @@
   - peau modérément foncée
 🙋🏿‍♀:
   - 'femme qui lève la main : peau foncée'
+🧏🏻:
+  - 'personne sourde : peau claire'
+🧏🏼:
+  - accessibilité
+  - entendre
+  - malentendant
+  - oreille
+  - peau modérément claire
+  - personne sourde
+  - 'personne sourde : peau modérément claire'
+  - sourd
+🧏🏽:
+  - 'personne sourde : peau légèrement mate'
+🧏🏾:
+  - accessibilité
+  - entendre
+  - malentendant
+  - oreille
+  - peau modérément foncée
+  - personne sourde
+  - 'personne sourde : peau modérément foncée'
+  - sourd
+🧏🏿:
+  - 'personne sourde : peau foncée'
+🧏🏻‍♂:
+  - 'homme sourd : peau claire'
+🧏🏼‍♂:
+  - accessibilité
+  - entendre
+  - homme sourd
+  - 'homme sourd : peau modérément claire'
+  - malentendant
+  - oreille
+  - peau modérément claire
+  - sourd
+🧏🏽‍♂:
+  - 'homme sourd : peau légèrement mate'
+🧏🏾‍♂:
+  - accessibilité
+  - entendre
+  - homme sourd
+  - 'homme sourd : peau modérément foncée'
+  - malentendant
+  - oreille
+  - peau modérément foncée
+  - sourd
+🧏🏿‍♂:
+  - 'homme sourd : peau foncée'
+🧏‍♀:
+  - femme
+  - malentendante
+  - sourde
+🧏🏻‍♀:
+  - femme
+  - 'femme sourde : peau claire'
+  - malentendante
+  - peau claire
+  - sourde
+🧏🏼‍♀:
+  - femme
+  - 'femme sourde : peau modérément claire'
+  - malentendante
+  - peau modérément claire
+  - sourde
+🧏🏽‍♀:
+  - femme
+  - 'femme sourde : peau légèrement mate'
+  - malentendante
+  - peau légèrement mate
+  - sourde
+🧏🏾‍♀:
+  - femme
+  - 'femme sourde : peau modérément foncée'
+  - malentendante
+  - peau modérément foncée
+  - sourde
+🧏🏿‍♀:
+  - femme
+  - 'femme sourde : peau foncée'
+  - malentendante
+  - peau foncée
+  - sourde
 🙇:
   - personne qui s’incline
 🙇🏻:
@@ -4980,6 +5147,7 @@
   - bébé
   - peau modérément claire
   - sein
+  - soins
 🤱🏽:
   - 'allaitement : peau légèrement mate'
 🤱🏾:
@@ -4988,6 +5156,7 @@
   - bébé
   - peau modérément foncée
   - sein
+  - soins
 🤱🏿:
   - 'allaitement : peau foncée'
 👼🏻:
@@ -5096,45 +5265,50 @@
 🦸🏻:
   - gentil, héroïne, héros, super pouvoirs
   - peau claire
-  - 'super-héros : peau claire'
+  - superhéros
+  - 'superhéros : peau claire'
 🦸🏼:
   - gentil, héroïne, héros, super pouvoirs
   - peau modérément claire
-  - 'super-héros : peau modérément claire'
+  - superhéros
+  - 'superhéros : peau modérément claire'
 🦸🏽:
   - gentil, héroïne, héros, super pouvoirs
   - peau légèrement mate
-  - 'super-héros : peau légèrement mate'
+  - superhéros
+  - 'superhéros : peau légèrement mate'
 🦸🏾:
   - gentil, héroïne, héros, super pouvoirs
   - peau modérément foncée
-  - 'super-héros : peau modérément foncée'
+  - superhéros
+  - 'superhéros : peau modérément foncée'
 🦸🏿:
   - gentil, héroïne, héros, super pouvoirs
   - peau foncée
-  - 'super-héros : peau foncée'
+  - superhéros
+  - 'superhéros : peau foncée'
 🦸‍♂:
   - super-héros
 🦸🏻‍♂:
-  - bien, héros, homme, super pouvoir
   - peau claire
-  - 'super-héros homme : peau claire'
+  - super-héros
+  - 'super-héros : peau claire'
 🦸🏼‍♂:
-  - bien, héros, homme, super pouvoir
   - peau modérément claire
-  - 'super-héros homme : peau modérément claire'
+  - super-héros
+  - 'super-héros : peau modérément claire'
 🦸🏽‍♂:
-  - bien, héros, homme, super pouvoir
   - peau légèrement mate
-  - 'super-héros homme : peau légèrement mate'
+  - super-héros
+  - 'super-héros : peau légèrement mate'
 🦸🏾‍♂:
-  - bien, héros, homme, super pouvoir
   - peau modérément foncée
-  - 'super-héros homme : peau modérément foncée'
+  - super-héros
+  - 'super-héros : peau modérément foncée'
 🦸🏿‍♂:
-  - bien, héros, homme, super pouvoir
   - peau foncée
-  - 'super-héros homme : peau foncée'
+  - super-héros
+  - 'super-héros : peau foncée'
 🦸‍♀:
   - bien, femme, héroïne, héros, super pouvoir
 🦸🏻‍♀:
@@ -5931,6 +6105,256 @@
   - peau foncée
   - piétonne
   - randonnée
+🧍🏻:
+  - 'personne debout : peau claire'
+🧍🏼:
+  - debout
+  - peau modérément claire
+  - personne debout
+  - 'personne debout : peau modérément claire'
+🧍🏽:
+  - 'personne debout : peau légèrement mate'
+🧍🏾:
+  - debout
+  - peau modérément foncée
+  - personne debout
+  - 'personne debout : peau modérément foncée'
+🧍🏿:
+  - 'personne debout : peau foncée'
+🧍🏻‍♂:
+  - 'homme debout : peau claire'
+🧍🏼‍♂:
+  - debout
+  - homme
+  - 'homme debout : peau modérément claire'
+  - peau modérément claire
+🧍🏽‍♂:
+  - 'homme debout : peau légèrement mate'
+🧍🏾‍♂:
+  - debout
+  - homme
+  - 'homme debout : peau modérément foncée'
+  - peau modérément foncée
+🧍🏿‍♂:
+  - 'homme debout : peau foncée'
+🧍🏻‍♀:
+  - 'femme debout : peau claire'
+🧍🏼‍♀:
+  - debout
+  - femme
+  - 'femme debout : peau modérément claire'
+  - peau modérément claire
+🧍🏽‍♀:
+  - 'femme debout : peau légèrement mate'
+🧍🏾‍♀:
+  - debout
+  - femme
+  - 'femme debout : peau modérément foncée'
+  - peau modérément foncée
+🧍🏿‍♀:
+  - 'femme debout : peau foncée'
+🧎🏻:
+  - 'personne à genoux : peau claire'
+🧎🏼:
+  - peau modérément claire
+  - personne à genoux
+  - 'personne à genoux : peau modérément claire'
+  - à genoux
+🧎🏽:
+  - 'personne à genoux : peau légèrement mate'
+🧎🏾:
+  - peau modérément foncée
+  - personne à genoux
+  - 'personne à genoux : peau modérément foncée'
+  - à genoux
+🧎🏿:
+  - 'personne à genoux : peau foncée'
+🧎🏻‍♂:
+  - 'homme à genoux : peau claire'
+🧎🏼‍♂:
+  - homme
+  - homme à genoux
+  - 'homme à genoux : peau modérément claire'
+  - peau modérément claire
+  - à genoux
+🧎🏽‍♂:
+  - 'homme à genoux : peau légèrement mate'
+🧎🏾‍♂:
+  - homme
+  - homme à genoux
+  - 'homme à genoux : peau modérément foncée'
+  - peau modérément foncée
+  - à genoux
+🧎🏿‍♂:
+  - 'homme à genoux : peau foncée'
+🧎🏻‍♀:
+  - 'femme à genoux : peau claire'
+🧎🏼‍♀:
+  - femme
+  - femme à genoux
+  - 'femme à genoux : peau modérément claire'
+  - peau modérément claire
+  - à genoux
+🧎🏽‍♀:
+  - 'femme à genoux : peau légèrement mate'
+🧎🏾‍♀:
+  - femme
+  - femme à genoux
+  - 'femme à genoux : peau modérément foncée'
+  - peau modérément foncée
+  - à genoux
+🧎🏿‍♀:
+  - 'femme à genoux : peau foncée'
+👨🏻‍🦯:
+  - 'homme avec canne blanche : peau claire'
+👨🏼‍🦯:
+  - accessibilité
+  - aveugle
+  - déficient visuel
+  - homme
+  - homme avec canne blanche
+  - 'homme avec canne blanche : peau modérément claire'
+  - malvoyant
+  - peau modérément claire
+👨🏽‍🦯:
+  - 'homme avec canne blanche : peau légèrement mate'
+👨🏾‍🦯:
+  - accessibilité
+  - aveugle
+  - déficient visuel
+  - homme
+  - homme avec canne blanche
+  - 'homme avec canne blanche : peau modérément foncée'
+  - malvoyant
+  - peau modérément foncée
+👨🏿‍🦯:
+  - 'homme avec canne blanche : peau foncée'
+👩‍🦯:
+  - accessibilité
+  - aveugle
+  - déficiente visuelle
+  - femme
+  - malvoyante
+👩🏻‍🦯:
+  - accessibilité
+  - aveugle
+  - déficiente visuelle
+  - femme
+  - 'femme avec canne blanche : peau claire'
+  - malvoyante
+  - peau claire
+👩🏼‍🦯:
+  - accessibilité
+  - aveugle
+  - déficiente visuelle
+  - femme
+  - 'femme avec canne blanche : peau modérément claire'
+  - malvoyante
+  - peau modérément claire
+👩🏽‍🦯:
+  - accessibilité
+  - aveugle
+  - déficiente visuelle
+  - femme
+  - 'femme avec canne blanche : peau légèrement mate'
+  - malvoyante
+  - peau légèrement mate
+👩🏾‍🦯:
+  - accessibilité
+  - aveugle
+  - déficiente visuelle
+  - femme
+  - 'femme avec canne blanche : peau modérément foncée'
+  - malvoyante
+  - peau modérément foncée
+👩🏿‍🦯:
+  - accessibilité
+  - aveugle
+  - déficiente visuelle
+  - femme
+  - 'femme avec canne blanche : peau foncée'
+  - malvoyante
+  - peau foncée
+👨🏻‍🦼:
+  - 'homme en fauteuil motorisé : peau claire'
+👨🏼‍🦼:
+  - accessibilité
+  - fauteuil roulant
+  - homme
+  - homme en fauteuil motorisé
+  - 'homme en fauteuil motorisé : peau modérément claire'
+  - peau modérément claire
+👨🏽‍🦼:
+  - 'homme en fauteuil motorisé : peau légèrement mate'
+👨🏾‍🦼:
+  - accessibilité
+  - fauteuil roulant
+  - homme
+  - homme en fauteuil motorisé
+  - 'homme en fauteuil motorisé : peau modérément foncée'
+  - peau modérément foncée
+👨🏿‍🦼:
+  - 'homme en fauteuil motorisé : peau foncée'
+👩🏻‍🦼:
+  - 'femme en fauteuil motorisé : peau claire'
+👩🏼‍🦼:
+  - accessibilité
+  - fauteuil roulant
+  - femme
+  - femme en fauteuil motorisé
+  - 'femme en fauteuil motorisé : peau modérément claire'
+  - peau modérément claire
+👩🏽‍🦼:
+  - 'femme en fauteuil motorisé : peau légèrement mate'
+👩🏾‍🦼:
+  - accessibilité
+  - fauteuil roulant
+  - femme
+  - femme en fauteuil motorisé
+  - 'femme en fauteuil motorisé : peau modérément foncée'
+  - peau modérément foncée
+👩🏿‍🦼:
+  - 'femme en fauteuil motorisé : peau foncée'
+👨🏻‍🦽:
+  - 'homme en fauteuil roulant manuel : peau claire'
+👨🏼‍🦽:
+  - accessibilité
+  - fauteuil roulant
+  - homme
+  - homme en fauteuil roulant manuel
+  - 'homme en fauteuil roulant manuel : peau modérément claire'
+  - peau modérément claire
+👨🏽‍🦽:
+  - 'homme en fauteuil roulant manuel : peau légèrement mate'
+👨🏾‍🦽:
+  - accessibilité
+  - fauteuil roulant
+  - homme
+  - homme en fauteuil roulant manuel
+  - 'homme en fauteuil roulant manuel : peau modérément foncée'
+  - peau modérément foncée
+👨🏿‍🦽:
+  - 'homme en fauteuil roulant manuel : peau foncée'
+👩🏻‍🦽:
+  - 'femme en fauteuil roulant manuel : peau claire'
+👩🏼‍🦽:
+  - accessibilité
+  - fauteuil roulant
+  - femme
+  - femme en fauteuil roulant manuel
+  - 'femme en fauteuil roulant manuel : peau modérément claire'
+  - peau modérément claire
+👩🏽‍🦽:
+  - 'femme en fauteuil roulant manuel : peau légèrement mate'
+👩🏾‍🦽:
+  - accessibilité
+  - fauteuil roulant
+  - femme
+  - femme en fauteuil roulant manuel
+  - 'femme en fauteuil roulant manuel : peau modérément foncée'
+  - peau modérément foncée
+👩🏿‍🦽:
+  - 'femme en fauteuil roulant manuel : peau foncée'
 🏃:
   - personne qui court
 🏃🏻:
@@ -7619,6 +8043,7 @@
   - peau modérément claire
   - personne dans la posture du lotus
   - 'personne dans la posture du lotus : peau modérément claire'
+  - position du lotus
   - yoga
 🧘🏽:
   - 'personne dans la posture du lotus : peau légèrement mate'
@@ -7627,6 +8052,7 @@
   - peau modérément foncée
   - personne dans la posture du lotus
   - 'personne dans la posture du lotus : peau modérément foncée'
+  - position du lotus
   - yoga
 🧘🏿:
   - 'personne dans la posture du lotus : peau foncée'
@@ -7637,6 +8063,7 @@
   - 'homme dans la posture du lotus : peau modérément claire'
   - méditation
   - peau modérément claire
+  - position du lotus
   - yoga
 🧘🏽‍♂:
   - 'homme dans la posture du lotus : peau légèrement mate'
@@ -7645,6 +8072,7 @@
   - 'homme dans la posture du lotus : peau modérément foncée'
   - méditation
   - peau modérément foncée
+  - position du lotus
   - yoga
 🧘🏿‍♂:
   - 'homme dans la posture du lotus : peau foncée'
@@ -7655,6 +8083,7 @@
   - 'femme dans la posture du lotus : peau modérément claire'
   - méditation
   - peau modérément claire
+  - position du lotus
   - yoga
 🧘🏽‍♀:
   - 'femme dans la posture du lotus : peau légèrement mate'
@@ -7663,12 +8092,14 @@
   - 'femme dans la posture du lotus : peau modérément foncée'
   - méditation
   - peau modérément foncée
+  - position du lotus
   - yoga
 🧘🏿‍♀:
   - 'femme dans la posture du lotus : peau foncée'
 🛀🏻:
   - 'personne prenant un bain : peau claire'
 🛀🏼:
+  - baignoire
   - bain
   - peau modérément claire
   - personne prenant un bain
@@ -7676,6 +8107,7 @@
 🛀🏽:
   - 'personne prenant un bain : peau légèrement mate'
 🛀🏾:
+  - baignoire
   - bain
   - peau modérément foncée
   - personne prenant un bain
@@ -7698,40 +8130,856 @@
   - 'personne au lit : peau modérément foncée'
 🛌🏿:
   - 'personne au lit : peau foncée'
+🧑‍🤝‍🧑:
+  - personnes se tenant par la main
+🧑🏻‍🤝‍🧑🏻:
+  - peau claire
+  - personnes se tenant par la main
+  - 'personnes se tenant par la main : peau claire'
+🧑🏼‍🤝‍🧑🏻:
+  - peau claire
+  - peau modérément claire
+  - personnes se tenant par la main
+  - 'personnes se tenant par la main : peau modérément claire et peau claire'
+🧑🏼‍🤝‍🧑🏼:
+  - peau modérément claire
+  - personnes se tenant par la main
+  - 'personnes se tenant par la main : peau modérément claire'
+🧑🏽‍🤝‍🧑🏻:
+  - peau claire
+  - peau légèrement mate
+  - personnes se tenant par la main
+  - 'personnes se tenant par la main : peau légèrement mate et peau claire'
+🧑🏽‍🤝‍🧑🏼:
+  - peau légèrement mate
+  - peau modérément claire
+  - personnes se tenant par la main
+  - 'personnes se tenant par la main : peau légèrement mate et peau modérément claire'
+🧑🏽‍🤝‍🧑🏽:
+  - peau légèrement mate
+  - personnes se tenant par la main
+  - 'personnes se tenant par la main : peau légèrement mate'
+🧑🏾‍🤝‍🧑🏻:
+  - peau claire
+  - peau modérément foncée
+  - personnes se tenant par la main
+  - 'personnes se tenant par la main : peau modérément foncée et peau claire'
+🧑🏾‍🤝‍🧑🏼:
+  - peau modérément claire
+  - peau modérément foncée
+  - personnes se tenant par la main
+  - 'personnes se tenant par la main : peau modérément foncée et peau modérément claire'
+🧑🏾‍🤝‍🧑🏽:
+  - peau légèrement mate
+  - peau modérément foncée
+  - personnes se tenant par la main
+  - 'personnes se tenant par la main : peau modérément foncée et peau légèrement mate'
+🧑🏾‍🤝‍🧑🏾:
+  - peau modérément foncée
+  - personnes se tenant par la main
+  - 'personnes se tenant par la main : peau modérément foncée'
+🧑🏿‍🤝‍🧑🏻:
+  - peau claire
+  - peau foncée
+  - personnes se tenant par la main
+  - 'personnes se tenant par la main : peau foncée et peau claire'
+🧑🏿‍🤝‍🧑🏼:
+  - peau foncée
+  - peau modérément claire
+  - personnes se tenant par la main
+  - 'personnes se tenant par la main : peau foncée et peau modérément claire'
+🧑🏿‍🤝‍🧑🏽:
+  - peau foncée
+  - peau légèrement mate
+  - personnes se tenant par la main
+  - 'personnes se tenant par la main : peau foncée et peau légèrement mate'
+🧑🏿‍🤝‍🧑🏾:
+  - peau foncée
+  - peau modérément foncée
+  - personnes se tenant par la main
+  - 'personnes se tenant par la main : peau foncée et peau modérément foncée'
+🧑🏿‍🤝‍🧑🏿:
+  - peau foncée
+  - personnes se tenant par la main
+  - 'personnes se tenant par la main : peau foncée'
 👭:
   - couple
   - deux femmes se tenant par la main
+  - ensemble
+  - femmes
   - jumelles
+  - main
+  - main dans la main
+  - se tenant par la main
+  - union
+👭🏻:
+  - couple
+  - deux femmes se tenant par la main
+  - 'deux femmes se tenant par la main : peau claire'
+  - ensemble
+  - femmes
+  - jumelles
+  - main
+  - main dans la main
+  - peau claire
+  - se tenant par la main
+  - union
+👩🏼‍🤝‍👩🏻:
+  - couple
+  - deux femmes se tenant par la main
+  - 'deux femmes se tenant par la main : peau modérément claire et peau claire'
+  - ensemble
+  - femmes
+  - jumelles
+  - main
+  - main dans la main
+  - peau claire
+  - peau modérément claire
+  - se tenant par la main
+  - union
+👭🏼:
+  - couple
+  - deux femmes se tenant par la main
+  - 'deux femmes se tenant par la main : peau modérément claire'
+  - ensemble
+  - femmes
+  - jumelles
+  - main
+  - main dans la main
+  - peau modérément claire
+  - se tenant par la main
+  - union
+👩🏽‍🤝‍👩🏻:
+  - couple
+  - deux femmes se tenant par la main
+  - 'deux femmes se tenant par la main : peau légèrement mate et peau claire'
+  - ensemble
+  - femmes
+  - jumelles
+  - main
+  - main dans la main
+  - peau claire
+  - peau légèrement mate
+  - se tenant par la main
+  - union
+👩🏽‍🤝‍👩🏼:
+  - couple
+  - deux femmes se tenant par la main
+  - 'deux femmes se tenant par la main : peau légèrement mate et peau modérément claire'
+  - ensemble
+  - femmes
+  - jumelles
+  - main
+  - main dans la main
+  - peau légèrement mate
+  - peau modérément claire
+  - se tenant par la main
+  - union
+👭🏽:
+  - couple
+  - deux femmes se tenant par la main
+  - 'deux femmes se tenant par la main : peau légèrement mate'
+  - ensemble
+  - femmes
+  - jumelles
+  - main
+  - main dans la main
+  - peau légèrement mate
+  - se tenant par la main
+  - union
+👩🏾‍🤝‍👩🏻:
+  - couple
+  - deux femmes se tenant par la main
+  - 'deux femmes se tenant par la main : peau modérément foncée et peau claire'
+  - ensemble
+  - femmes
+  - jumelles
+  - main
+  - main dans la main
+  - peau claire
+  - peau modérément foncée
+  - se tenant par la main
+  - union
+👩🏾‍🤝‍👩🏼:
+  - couple
+  - deux femmes se tenant par la main
+  - 'deux femmes se tenant par la main : peau modérément foncée et peau modérément
+    claire'
+  - ensemble
+  - femmes
+  - jumelles
+  - main
+  - main dans la main
+  - peau modérément claire
+  - peau modérément foncée
+  - se tenant par la main
+  - union
+👩🏾‍🤝‍👩🏽:
+  - couple
+  - deux femmes se tenant par la main
+  - 'deux femmes se tenant par la main : peau modérément foncée et peau légèrement
+    mate'
+  - ensemble
+  - femmes
+  - jumelles
+  - main
+  - main dans la main
+  - peau légèrement mate
+  - peau modérément foncée
+  - se tenant par la main
+  - union
+👭🏾:
+  - couple
+  - deux femmes se tenant par la main
+  - 'deux femmes se tenant par la main : peau modérément foncée'
+  - ensemble
+  - femmes
+  - jumelles
+  - main
+  - main dans la main
+  - peau modérément foncée
+  - se tenant par la main
+  - union
+👩🏿‍🤝‍👩🏻:
+  - couple
+  - deux femmes se tenant par la main
+  - 'deux femmes se tenant par la main : peau foncée et peau claire'
+  - ensemble
+  - femmes
+  - jumelles
+  - main
+  - main dans la main
+  - peau claire
+  - peau foncée
+  - se tenant par la main
+  - union
+👩🏿‍🤝‍👩🏼:
+  - couple
+  - deux femmes se tenant par la main
+  - 'deux femmes se tenant par la main : peau foncée et peau modérément claire'
+  - ensemble
+  - femmes
+  - jumelles
+  - main
+  - main dans la main
+  - peau foncée
+  - peau modérément claire
+  - se tenant par la main
+  - union
+👩🏿‍🤝‍👩🏽:
+  - couple
+  - deux femmes se tenant par la main
+  - 'deux femmes se tenant par la main : peau foncée et peau légèrement mate'
+  - ensemble
+  - femmes
+  - jumelles
+  - main
+  - main dans la main
+  - peau foncée
+  - peau légèrement mate
+  - se tenant par la main
+  - union
+👩🏿‍🤝‍👩🏾:
+  - couple
+  - deux femmes se tenant par la main
+  - 'deux femmes se tenant par la main : peau foncée et peau modérément foncée'
+  - ensemble
+  - femmes
+  - jumelles
+  - main
+  - main dans la main
+  - peau foncée
+  - peau modérément foncée
+  - se tenant par la main
+  - union
+👭🏿:
+  - couple
+  - deux femmes se tenant par la main
+  - 'deux femmes se tenant par la main : peau foncée'
+  - ensemble
+  - femmes
+  - jumelles
+  - main
+  - main dans la main
+  - peau foncée
+  - se tenant par la main
+  - union
 👫:
   - couple
+  - ensemble
   - femme
   - homme
   - homme et femme se tenant par la main
+  - main
+  - main dans la main
+  - se tenant par la main
+  - union
+👫🏻:
+  - couple
+  - ensemble
+  - femme
+  - homme
+  - homme et femme se tenant par la main
+  - 'homme et femme se tenant par la main : peau claire'
+  - main
+  - main dans la main
+  - peau claire
+  - se tenant par la main
+  - union
+👩🏻‍🤝‍👨🏼:
+  - couple
+  - ensemble
+  - femme
+  - homme
+  - homme et femme se tenant par la main
+  - 'homme et femme se tenant par la main : peau claire et peau modérément claire'
+  - main
+  - main dans la main
+  - peau claire
+  - peau modérément claire
+  - se tenant par la main
+  - union
+👩🏻‍🤝‍👨🏽:
+  - couple
+  - ensemble
+  - femme
+  - homme
+  - homme et femme se tenant par la main
+  - 'homme et femme se tenant par la main : peau claire et peau légèrement mate'
+  - main
+  - main dans la main
+  - peau claire
+  - peau légèrement mate
+  - se tenant par la main
+  - union
+👩🏻‍🤝‍👨🏾:
+  - couple
+  - ensemble
+  - femme
+  - homme
+  - homme et femme se tenant par la main
+  - 'homme et femme se tenant par la main : peau claire et peau modérément foncée'
+  - main
+  - main dans la main
+  - peau claire
+  - peau modérément foncée
+  - se tenant par la main
+  - union
+👩🏻‍🤝‍👨🏿:
+  - couple
+  - ensemble
+  - femme
+  - homme
+  - homme et femme se tenant par la main
+  - 'homme et femme se tenant par la main : peau claire et peau foncée'
+  - main
+  - main dans la main
+  - peau claire
+  - peau foncée
+  - se tenant par la main
+  - union
+👩🏼‍🤝‍👨🏻:
+  - couple
+  - ensemble
+  - femme
+  - homme
+  - homme et femme se tenant par la main
+  - 'homme et femme se tenant par la main : peau modérément claire et peau claire'
+  - main
+  - main dans la main
+  - peau claire
+  - peau modérément claire
+  - se tenant par la main
+  - union
+👫🏼:
+  - couple
+  - ensemble
+  - femme
+  - homme
+  - homme et femme se tenant par la main
+  - 'homme et femme se tenant par la main : peau modérément claire'
+  - main
+  - main dans la main
+  - peau modérément claire
+  - se tenant par la main
+  - union
+👩🏼‍🤝‍👨🏽:
+  - couple
+  - ensemble
+  - femme
+  - homme
+  - homme et femme se tenant par la main
+  - 'homme et femme se tenant par la main : peau modérément claire et peau légèrement
+    mate'
+  - main
+  - main dans la main
+  - peau légèrement mate
+  - peau modérément claire
+  - se tenant par la main
+  - union
+👩🏼‍🤝‍👨🏾:
+  - couple
+  - ensemble
+  - femme
+  - homme
+  - homme et femme se tenant par la main
+  - 'homme et femme se tenant par la main : peau modérément claire et peau modérément
+    foncée'
+  - main
+  - main dans la main
+  - peau modérément claire
+  - peau modérément foncée
+  - se tenant par la main
+  - union
+👩🏼‍🤝‍👨🏿:
+  - couple
+  - ensemble
+  - femme
+  - homme
+  - homme et femme se tenant par la main
+  - 'homme et femme se tenant par la main : peau modérément claire et peau foncée'
+  - main
+  - main dans la main
+  - peau foncée
+  - peau modérément claire
+  - se tenant par la main
+  - union
+👩🏽‍🤝‍👨🏻:
+  - couple
+  - ensemble
+  - femme
+  - homme
+  - homme et femme se tenant par la main
+  - 'homme et femme se tenant par la main : peau légèrement mate et peau claire'
+  - main
+  - main dans la main
+  - peau claire
+  - peau légèrement mate
+  - se tenant par la main
+  - union
+👩🏽‍🤝‍👨🏼:
+  - couple
+  - ensemble
+  - femme
+  - homme
+  - homme et femme se tenant par la main
+  - 'homme et femme se tenant par la main : peau légèrement mate et peau modérément
+    claire'
+  - main
+  - main dans la main
+  - peau légèrement mate
+  - peau modérément claire
+  - se tenant par la main
+  - union
+👫🏽:
+  - couple
+  - ensemble
+  - femme
+  - homme
+  - homme et femme se tenant par la main
+  - 'homme et femme se tenant par la main : peau légèrement mate'
+  - main
+  - main dans la main
+  - peau légèrement mate
+  - se tenant par la main
+  - union
+👩🏽‍🤝‍👨🏾:
+  - couple
+  - ensemble
+  - femme
+  - homme
+  - homme et femme se tenant par la main
+  - 'homme et femme se tenant par la main : peau légèrement mate et peau modérément
+    foncée'
+  - main
+  - main dans la main
+  - peau légèrement mate
+  - peau modérément foncée
+  - se tenant par la main
+  - union
+👩🏽‍🤝‍👨🏿:
+  - couple
+  - ensemble
+  - femme
+  - homme
+  - homme et femme se tenant par la main
+  - 'homme et femme se tenant par la main : peau légèrement mate et peau foncée'
+  - main
+  - main dans la main
+  - peau foncée
+  - peau légèrement mate
+  - se tenant par la main
+  - union
+👩🏾‍🤝‍👨🏻:
+  - couple
+  - ensemble
+  - femme
+  - homme
+  - homme et femme se tenant par la main
+  - 'homme et femme se tenant par la main : peau modérément foncée et peau claire'
+  - main
+  - main dans la main
+  - peau claire
+  - peau modérément foncée
+  - se tenant par la main
+  - union
+👩🏾‍🤝‍👨🏼:
+  - couple
+  - ensemble
+  - femme
+  - homme
+  - homme et femme se tenant par la main
+  - 'homme et femme se tenant par la main : peau modérément foncée et peau modérément
+    claire'
+  - main
+  - main dans la main
+  - peau modérément claire
+  - peau modérément foncée
+  - se tenant par la main
+  - union
+👩🏾‍🤝‍👨🏽:
+  - couple
+  - ensemble
+  - femme
+  - homme
+  - homme et femme se tenant par la main
+  - 'homme et femme se tenant par la main : peau modérément foncée et peau légèrement
+    mate'
+  - main
+  - main dans la main
+  - peau légèrement mate
+  - peau modérément foncée
+  - se tenant par la main
+  - union
+👫🏾:
+  - couple
+  - ensemble
+  - femme
+  - homme
+  - homme et femme se tenant par la main
+  - 'homme et femme se tenant par la main : peau modérément foncée'
+  - main
+  - main dans la main
+  - peau modérément foncée
+  - se tenant par la main
+  - union
+👩🏾‍🤝‍👨🏿:
+  - couple
+  - ensemble
+  - femme
+  - homme
+  - homme et femme se tenant par la main
+  - 'homme et femme se tenant par la main : peau modérément foncée et peau foncée'
+  - main
+  - main dans la main
+  - peau foncée
+  - peau modérément foncée
+  - se tenant par la main
+  - union
+👩🏿‍🤝‍👨🏻:
+  - couple
+  - ensemble
+  - femme
+  - homme
+  - homme et femme se tenant par la main
+  - 'homme et femme se tenant par la main : peau foncée et peau claire'
+  - main
+  - main dans la main
+  - peau claire
+  - peau foncée
+  - se tenant par la main
+  - union
+👩🏿‍🤝‍👨🏼:
+  - couple
+  - ensemble
+  - femme
+  - homme
+  - homme et femme se tenant par la main
+  - 'homme et femme se tenant par la main : peau foncée et peau modérément claire'
+  - main
+  - main dans la main
+  - peau foncée
+  - peau modérément claire
+  - se tenant par la main
+  - union
+👩🏿‍🤝‍👨🏽:
+  - couple
+  - ensemble
+  - femme
+  - homme
+  - homme et femme se tenant par la main
+  - 'homme et femme se tenant par la main : peau foncée et peau légèrement mate'
+  - main
+  - main dans la main
+  - peau foncée
+  - peau légèrement mate
+  - se tenant par la main
+  - union
+👩🏿‍🤝‍👨🏾:
+  - couple
+  - ensemble
+  - femme
+  - homme
+  - homme et femme se tenant par la main
+  - 'homme et femme se tenant par la main : peau foncée et peau modérément foncée'
+  - main
+  - main dans la main
+  - peau foncée
+  - peau modérément foncée
+  - se tenant par la main
+  - union
+👫🏿:
+  - couple
+  - ensemble
+  - femme
+  - homme
+  - homme et femme se tenant par la main
+  - 'homme et femme se tenant par la main : peau foncée'
+  - main
+  - main dans la main
+  - peau foncée
+  - se tenant par la main
+  - union
 👬:
   - couple
   - deux hommes se tenant par la main
+  - ensemble
   - gémeaux
+  - hommes
   - jumeaux
+  - main
+  - main dans la main
+  - se tenant par la main
+  - union
+  - zodiaque
+👬🏻:
+  - couple
+  - deux hommes se tenant par la main
+  - 'deux hommes se tenant par la main : peau claire'
+  - ensemble
+  - gémeaux
+  - hommes
+  - jumeaux
+  - main
+  - main dans la main
+  - peau claire
+  - se tenant par la main
+  - union
+  - zodiaque
+👨🏼‍🤝‍👨🏻:
+  - couple
+  - deux hommes se tenant par la main
+  - 'deux hommes se tenant par la main : peau modérément claire et peau claire'
+  - ensemble
+  - gémeaux
+  - hommes
+  - jumeaux
+  - main
+  - main dans la main
+  - peau claire
+  - peau modérément claire
+  - se tenant par la main
+  - union
+  - zodiaque
+👬🏼:
+  - couple
+  - deux hommes se tenant par la main
+  - 'deux hommes se tenant par la main : peau modérément claire'
+  - ensemble
+  - gémeaux
+  - hommes
+  - jumeaux
+  - main
+  - main dans la main
+  - peau modérément claire
+  - se tenant par la main
+  - union
+  - zodiaque
+👨🏽‍🤝‍👨🏻:
+  - couple
+  - deux hommes se tenant par la main
+  - 'deux hommes se tenant par la main : peau légèrement mate et peau claire'
+  - ensemble
+  - gémeaux
+  - hommes
+  - jumeaux
+  - main
+  - main dans la main
+  - peau claire
+  - peau légèrement mate
+  - se tenant par la main
+  - union
+  - zodiaque
+👨🏽‍🤝‍👨🏼:
+  - couple
+  - deux hommes se tenant par la main
+  - 'deux hommes se tenant par la main : peau légèrement mate et peau modérément claire'
+  - ensemble
+  - gémeaux
+  - hommes
+  - jumeaux
+  - main
+  - main dans la main
+  - peau légèrement mate
+  - peau modérément claire
+  - se tenant par la main
+  - union
+  - zodiaque
+👬🏽:
+  - couple
+  - deux hommes se tenant par la main
+  - 'deux hommes se tenant par la main : peau légèrement mate'
+  - ensemble
+  - gémeaux
+  - hommes
+  - jumeaux
+  - main
+  - main dans la main
+  - peau légèrement mate
+  - se tenant par la main
+  - union
+  - zodiaque
+👨🏾‍🤝‍👨🏻:
+  - couple
+  - deux hommes se tenant par la main
+  - 'deux hommes se tenant par la main : peau modérément foncée et peau claire'
+  - ensemble
+  - gémeaux
+  - hommes
+  - jumeaux
+  - main
+  - main dans la main
+  - peau claire
+  - peau modérément foncée
+  - se tenant par la main
+  - union
+  - zodiaque
+👨🏾‍🤝‍👨🏼:
+  - couple
+  - deux hommes se tenant par la main
+  - 'deux hommes se tenant par la main : peau modérément foncée et peau modérément
+    claire'
+  - ensemble
+  - gémeaux
+  - hommes
+  - jumeaux
+  - main
+  - main dans la main
+  - peau modérément claire
+  - peau modérément foncée
+  - se tenant par la main
+  - union
+  - zodiaque
+👨🏾‍🤝‍👨🏽:
+  - couple
+  - deux hommes se tenant par la main
+  - 'deux hommes se tenant par la main : peau modérément foncée et peau légèrement
+    mate'
+  - ensemble
+  - gémeaux
+  - hommes
+  - jumeaux
+  - main
+  - main dans la main
+  - peau légèrement mate
+  - peau modérément foncée
+  - se tenant par la main
+  - union
+  - zodiaque
+👬🏾:
+  - couple
+  - deux hommes se tenant par la main
+  - 'deux hommes se tenant par la main : peau modérément foncée'
+  - ensemble
+  - gémeaux
+  - hommes
+  - jumeaux
+  - main
+  - main dans la main
+  - peau modérément foncée
+  - se tenant par la main
+  - union
+  - zodiaque
+👨🏿‍🤝‍👨🏻:
+  - couple
+  - deux hommes se tenant par la main
+  - 'deux hommes se tenant par la main : peau foncée et peau claire'
+  - ensemble
+  - gémeaux
+  - hommes
+  - jumeaux
+  - main
+  - main dans la main
+  - peau claire
+  - peau foncée
+  - se tenant par la main
+  - union
+  - zodiaque
+👨🏿‍🤝‍👨🏼:
+  - couple
+  - deux hommes se tenant par la main
+  - 'deux hommes se tenant par la main : peau foncée et peau modérément claire'
+  - ensemble
+  - gémeaux
+  - hommes
+  - jumeaux
+  - main
+  - main dans la main
+  - peau foncée
+  - peau modérément claire
+  - se tenant par la main
+  - union
+  - zodiaque
+👨🏿‍🤝‍👨🏽:
+  - couple
+  - deux hommes se tenant par la main
+  - 'deux hommes se tenant par la main : peau foncée et peau légèrement mate'
+  - ensemble
+  - gémeaux
+  - hommes
+  - jumeaux
+  - main
+  - main dans la main
+  - peau foncée
+  - peau légèrement mate
+  - se tenant par la main
+  - union
+  - zodiaque
+👨🏿‍🤝‍👨🏾:
+  - couple
+  - deux hommes se tenant par la main
+  - 'deux hommes se tenant par la main : peau foncée et peau modérément foncée'
+  - ensemble
+  - gémeaux
+  - hommes
+  - jumeaux
+  - main
+  - main dans la main
+  - peau foncée
+  - peau modérément foncée
+  - se tenant par la main
+  - union
+  - zodiaque
+👬🏿:
+  - couple
+  - deux hommes se tenant par la main
+  - 'deux hommes se tenant par la main : peau foncée'
+  - ensemble
+  - gémeaux
+  - hommes
+  - jumeaux
+  - main
+  - main dans la main
+  - peau foncée
+  - se tenant par la main
+  - union
   - zodiaque
 👩‍❤‍💋‍👨:
-  - baiser
-  - bisou
   - 'bisou : femme et homme'
-  - couple
-  - femme
-  - homme
 👨‍❤‍💋‍👨:
-  - baiser
-  - bisou
   - 'bisou : homme et homme'
-  - couple
-  - homme
 👩‍❤‍💋‍👩:
-  - baiser
-  - bisou
   - 'bisou : femme et femme'
-  - couple
-  - femme
 💑:
   - amour
   - couple
@@ -7828,6 +9076,8 @@
   - singe
 🦍:
   - gorille
+🦧:
+  - singe
 🐶:
   - animal
   - chien
@@ -7839,6 +9089,13 @@
   - chien
   - compagnie
   - domestique
+🦮:
+  - chien-guide
+🐕‍🦺:
+  - accessibilité
+  - aide
+  - assistance
+  - chien
 🐩:
   - animal
   - caniche
@@ -7848,12 +9105,8 @@
   - loup
   - tête
 🦊:
-  - animal
-  - chat
-  - compagnie
-  - domestique
+  - renard
   - tête
-  - têterenard
 🐱:
   - animal
   - chat
@@ -7969,6 +9222,18 @@
   - panda
   - tête
   - tête de panda
+🦥:
+  - endormi
+  - lent
+🦦:
+  - joueur
+  - pêcheur
+🦨:
+  - animal
+  - bête puante
+  - odeur
+  - puer
+  - putois
 🦘:
   - Australie
   - bébé kangourou
@@ -8015,6 +9280,9 @@
   - jeune cygne
   - oiseau
   - vilain petit canard
+🦩:
+  - rose
+  - tropical
 🐸:
   - grenouille
   - tête
@@ -8144,6 +9412,14 @@
 🥦:
   - brocoli
   - chou sauvage
+🧄:
+  - aromatisant
+  - assaisonnement
+  - condiment
+🧅:
+  - aromatisant
+  - assaisonnement
+  - condiment
 🍄:
   - champignon
   - vénéneux
@@ -8225,6 +9501,8 @@
 🍿:
   - pop-corn
   - popcorn
+🧈:
+  - produit laitier
 🧂:
   - condiment
   - mélangeur
@@ -8404,6 +9682,10 @@
   - soda
   - verre
   - verre avec paille
+🧃:
+  - boîte à boire
+  - carton
+  - jus de fruits
 🍽️:
   - assiette
   - couteau
@@ -8525,6 +9807,9 @@
   - mariage
 🗽:
   - statue de la Liberté
+🛕:
+  - hindou
+  - temple
 ⛩️:
   - sanctuaire
   - shinto
@@ -8754,6 +10039,10 @@
   - avion
   - avion à l’atterissage
   - débarquement
+🪂:
+  - chute libre
+  - parachute ascensionnel
+  - parapente
 🚟:
   - suspendu
   - train
@@ -8843,6 +10132,10 @@
   - soleil
   - soleil avec visage
   - visage
+🪐:
+  - saturne
+  - saturnien
+  - saturnienne
 ⭐️:
   - étoile
   - étoile blanche moyenne
@@ -9240,6 +10533,8 @@
   - docteur
   - expérience
   - scientifique
+🦺:
+  - veste de sécurité
 👕:
   - T-shirt
   - chandail
@@ -9250,6 +10545,14 @@
   - bas
   - chaussettes
   - pieds
+🥻:
+  - robe
+  - vêtement
+🩲:
+  - bobettes
+  - maillot de bain
+  - sous-vêtement
+  - une pièce
 👙:
   - bikini
   - maillot de bain
@@ -9362,6 +10665,10 @@
 🎧️:
   - casque d’écoute
   - écouteur
+🪕:
+  - cordes
+  - instrument
+  - musique
 📱:
   - téléphone
   - téléphone cellulaire
@@ -9616,6 +10923,9 @@
   - flèche
   - sagittaire
   - zodiaque
+🔧:
+  - clé
+  - outil
 🔩:
   - outil
   - vis
@@ -10045,22 +11355,21 @@
   - symbole japonais du débutant
 ⭕️:
   - cercle
-  - grand cercle épais
-✅:
-  - coche
-  - coche blanche
-  - marque
+  - grand
+  - o
+  - rouge
 ✔️:
   - coche
   - coche noire
   - marque
 ✖️:
+  - '*'
   - annuler
-  - fois
-  - multiplication
   - multiplier
+  - non
   - signe de multiplication
   - x
+  - ×
 ❌:
   - annuler
   - croix
@@ -10068,25 +11377,27 @@
   - multiplier
   - x
 ➕:
+  - +
   - addition
-  - math
-  - mathématique
+  - arithmétique
+  - mathématiques
   - plus
   - signe d’addition
-  - somme
 ➖:
-  - math
-  - mathématique
+  - '-'
+  - arithmétique
+  - mathématiques
   - moins
   - signe de soustraction
   - soustraction
-  - soustraire
+  - −
 ➗:
-  - diviser
+  - /
+  - arithmétique
   - division
-  - math
-  - mathématique
+  - mathématiques
   - signe de division
+  - ÷
 〽️:
   - début de la musique
   - japonais
@@ -10108,6 +11419,10 @@
   - ponctuation
 ⁉️:
   - point d’exclamation
+  - point d’interrogation
+  - ponctuation
+  - question
+❓️:
   - point d’interrogation
   - ponctuation
   - question
@@ -10356,12 +11671,42 @@
   - rond
   - rouge
   - sphère
+🟠:
+  - cercle orange
+🟡:
+  - cercle jaune
+🟢:
+  - cercle vert
 🔵:
   - rond bleu
+🟣:
+  - cercle violet
+🟤:
+  - cercle brun
 ⚫️:
   - rond noir
 ⚪️:
   - rond blanc
+🟥:
+  - carré
+  - rouge
+🟧:
+  - carré
+  - orange
+🟨:
+  - carré
+  - jaune
+🟩:
+  - carré
+  - vert
+🟦:
+  - bleu
+  - carré
+🟪:
+  - carré
+  - violet
+🟫:
+  - carré brun
 ◼️:
   - carré noir de taille moyenne
   - forme
@@ -10851,7 +12196,7 @@
 🇸🇾:
   - 'drapeau : Syrie'
 🇸🇿:
-  - 'drapeau : Swaziland'
+  - 'drapeau : Eswatini'
 🇹🇦:
   - 'drapeau : Tristan da Cunha'
 🇹🇨:

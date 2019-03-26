@@ -76,7 +76,7 @@
 🥰:
   - ljubezen
   - oboževanje
-  - smejoči obraz s 3 srčki
+  - smejoči obraz s srčki
   - zaljubljenost
 😍:
   - ljubezen
@@ -442,6 +442,11 @@
   - obraz
   - utrujen obraz
   - utrujeno
+🥱:
+  - dolgčas
+  - utrujen
+  - zehajoč obraz
+  - zehanje
 😤:
   - obraz
   - obraz s paro skozi nos
@@ -548,26 +553,27 @@
   - vesoljska pošast
 🤖:
   - obraz
-  - obraz robota
   - pošast
   - robot
 😺:
   - mačka
   - nasmeh
   - obraz
-  - odprto
-  - režeči mačji obraz
+  - odprta
+  - režeča se mačka
+  - smeh
   - usta
 😸:
   - mačka
   - nasmeh
   - obraz
-  - oči
+  - oko
   - režanje
-  - režeči mačji obraz s smejočimi očmi
+  - režeča se mačka s smejočimi očmi
 😹:
   - mačji obraz s solzami sreče
   - mačka
+  - mačka s solzami sreče
   - obraz
   - solze
   - veselje
@@ -577,18 +583,21 @@
   - nasmeh
   - obraz
   - oči
+  - smejoča se mačka z očmi v obliki srčka
   - smejoči mačji obraz z očmi v obliki srčka
   - srce
 😼:
   - ironično
   - mačji obraz s prifrknjenim nasmeškom
   - mačka
+  - mačka s prifrknjenim nasmeškom
   - nasmeh
   - obraz
   - porogljivo
 😽:
   - mačji obraz z zaprtimi očmi, ki poljublja
   - mačka
+  - mačka poljublja z zaprtimi očmi
   - obraz
   - oči
   - poljub
@@ -596,9 +605,11 @@
   - mačka
   - naveličano
   - obraz
-  - presenečen mačji obraz
+  - odprta usta
+  - presenečena mačka
   - presenečeno
 😿:
+  - jokajoča mačka
   - jokajoči mačji obraz
   - jokanje
   - mačka
@@ -609,6 +620,7 @@
   - kujanje
   - mačji obraz, ki kuha mulo
   - mačka
+  - mačka kuha mulo
   - obraz
 🙈:
   - gesta
@@ -723,6 +735,10 @@
   - srce
   - vijolično
   - vijolično srce
+🤎:
+  - rjavo
+  - rjavo srce
+  - srce
 🖤:
   - hudobno
   - podlo
@@ -730,6 +746,10 @@
   - zlobno
   - črno
   - črno srce
+🤍:
+  - belo
+  - belo srce
+  - srce
 💯:
   - '100'
   - sto
@@ -1057,6 +1077,40 @@
   - telo
   - temen ten kože
   - v redu
+🤏:
+  - majhna količina
+  - malo
+  - roka s ščepcem
+🤏🏻:
+  - majhna količina
+  - malo
+  - roka s ščepcem
+  - 'roka s ščepcem: svetel ten kože'
+  - svetel ten kože
+🤏🏼:
+  - majhna količina
+  - malo
+  - roka s ščepcem
+  - 'roka s ščepcem: srednje svetel ten kože'
+  - srednje svetel ten kože
+🤏🏽:
+  - majhna količina
+  - malo
+  - roka s ščepcem
+  - 'roka s ščepcem: srednji ten kože'
+  - srednji ten kože
+🤏🏾:
+  - majhna količina
+  - malo
+  - roka s ščepcem
+  - 'roka s ščepcem: srednje temen ten kože'
+  - srednje temen ten kože
+🤏🏿:
+  - majhna količina
+  - malo
+  - roka s ščepcem
+  - 'roka s ščepcem: temen ten kože'
+  - temen ten kože
 ✌️:
   - dlan
   - dlan s prstoma, ki kažeta znak za zmago
@@ -2296,6 +2350,16 @@
   - strip
   - telo
   - temen ten kože
+🦾:
+  - invalid
+  - mehanska roka
+  - proteza
+  - umetni ud
+🦿:
+  - invalid
+  - mehanska noga
+  - proteza
+  - umetni ud
 🦵:
   - brca
   - noga
@@ -2392,6 +2456,40 @@
   - temen ten kože
   - uho
   - 'uho: temen ten kože'
+🦻:
+  - naglušni
+  - okvara sluha
+  - uho s slušnim aparatom
+🦻🏻:
+  - naglušni
+  - okvara sluha
+  - svetel ten kože
+  - uho s slušnim aparatom
+  - 'uho s slušnim aparatom: svetel ten kože'
+🦻🏼:
+  - naglušni
+  - okvara sluha
+  - srednje svetel ten kože
+  - uho s slušnim aparatom
+  - 'uho s slušnim aparatom: srednje svetel ten kože'
+🦻🏽:
+  - naglušni
+  - okvara sluha
+  - srednji ten kože
+  - uho s slušnim aparatom
+  - 'uho s slušnim aparatom: srednji ten kože'
+🦻🏾:
+  - naglušni
+  - okvara sluha
+  - srednje temen ten kože
+  - uho s slušnim aparatom
+  - 'uho s slušnim aparatom: srednje temen ten kože'
+🦻🏿:
+  - naglušni
+  - okvara sluha
+  - temen ten kože
+  - uho s slušnim aparatom
+  - 'uho s slušnim aparatom: temen ten kože'
 👃:
   - nos
   - telo
@@ -2571,32 +2669,44 @@
   - 'odrasla oseba: temen ten kože'
   - temen ten kože
 👱:
+  - lasje
+  - 'oseba: svetli lasje'
+  - svetli lasje
   - svetlolasa oseba
-  - svetlolaso
 👱🏻:
+  - lasje
+  - 'oseba: svetel ten kože in svetli lasje'
+  - 'oseba: svetli lasje'
   - svetel ten kože
+  - svetli lasje
   - svetlolasa oseba
-  - 'svetlolasa oseba: svetel ten kože'
-  - svetlolaso
 👱🏼:
+  - lasje
+  - 'oseba: srednje svetel ten kože in svetli lasje'
+  - 'oseba: svetli lasje'
   - srednje svetel ten kože
+  - svetli lasje
   - svetlolasa oseba
-  - 'svetlolasa oseba: srednje svetel ten kože'
-  - svetlolaso
 👱🏽:
+  - lasje
+  - 'oseba: srednji ten kože in svetli lasje'
+  - 'oseba: svetli lasje'
   - srednji ten kože
+  - svetli lasje
   - svetlolasa oseba
-  - 'svetlolasa oseba: srednji ten kože'
-  - svetlolaso
 👱🏾:
+  - lasje
+  - 'oseba: srednje temen ten kože in svetli lasje'
+  - 'oseba: svetli lasje'
   - srednje temen ten kože
+  - svetli lasje
   - svetlolasa oseba
-  - 'svetlolasa oseba: srednje temen ten kože'
-  - svetlolaso
 👱🏿:
+  - lasje
+  - 'oseba: svetli lasje'
+  - 'oseba: temen ten kože in svetli lasje'
+  - svetli lasje
   - svetlolasa oseba
-  - 'svetlolasa oseba: temen ten kože'
-  - svetlolaso
   - temen ten kože
 👨:
   - fant
@@ -2627,60 +2737,90 @@
   - 'moški: temen ten kože'
   - temen ten kože
 🧔:
-  - bradat moški
+  - brada
+  - moški
+  - 'moški: brada'
+  - oseba
 🧔🏻:
-  - bradat moški
-  - 'bradat moški: svetel ten kože'
+  - brada
+  - moški
+  - 'moški: brada'
+  - 'moški: svetel ten kože in brada'
+  - oseba
   - svetel ten kože
 🧔🏼:
-  - bradat moški
-  - 'bradat moški: srednje svetel ten kože'
+  - brada
+  - moški
+  - 'moški: brada'
+  - 'moški: srednje svetel ten kože in brada'
+  - oseba
   - srednje svetel ten kože
 🧔🏽:
-  - bradat moški
-  - 'bradat moški: srednji ten kože'
+  - brada
+  - moški
+  - 'moški: brada'
+  - 'moški: srednji ten kože in brada'
+  - oseba
   - srednji ten kože
 🧔🏾:
-  - bradat moški
-  - 'bradat moški: srednje temen ten kože'
+  - brada
+  - moški
+  - 'moški: brada'
+  - 'moški: srednje temen ten kože in brada'
+  - oseba
   - srednje temen ten kože
 🧔🏿:
-  - bradat moški
-  - 'bradat moški: temen ten kože'
+  - brada
+  - moški
+  - 'moški: brada'
+  - 'moški: temen ten kože in brada'
+  - oseba
   - temen ten kože
 👱‍♂:
   - blondinec
   - fant
+  - lasje
   - moški
+  - 'moški: blondinec'
 👱🏻‍♂:
   - blondinec
-  - 'blondinec: svetel ten kože'
   - fant
+  - lasje
   - moški
+  - 'moški: blondinec'
+  - 'moški: svetel ten kože in blondinec'
   - svetel ten kože
 👱🏼‍♂:
   - blondinec
-  - 'blondinec: srednje svetel ten kože'
   - fant
+  - lasje
   - moški
+  - 'moški: blondinec'
+  - 'moški: srednje svetel ten kože in blondinec'
   - srednje svetel ten kože
 👱🏽‍♂:
   - blondinec
-  - 'blondinec: srednji ten kože'
   - fant
+  - lasje
   - moški
+  - 'moški: blondinec'
+  - 'moški: srednji ten kože in blondinec'
   - srednji ten kože
 👱🏾‍♂:
   - blondinec
-  - 'blondinec: srednje temen ten kože'
   - fant
+  - lasje
   - moški
+  - 'moški: blondinec'
+  - 'moški: srednje temen ten kože in blondinec'
   - srednje temen ten kože
 👱🏿‍♂:
   - blondinec
-  - 'blondinec: temen ten kože'
   - fant
+  - lasje
   - moški
+  - 'moški: blondinec'
+  - 'moški: temen ten kože in blondinec'
   - temen ten kože
 👨‍🦰:
   - fant
@@ -2853,37 +2993,49 @@
 👱‍♀:
   - blondinka
   - dekle
+  - lasje
   - ženska
+  - 'ženska: blondinka'
 👱🏻‍♀:
   - blondinka
-  - 'blondinka: svetel ten kože'
   - dekle
+  - lasje
   - svetel ten kože
   - ženska
+  - 'ženska: blondinka'
+  - 'ženska: svetel ten kože in blondinka'
 👱🏼‍♀:
   - blondinka
-  - 'blondinka: srednje svetel ten kože'
   - dekle
+  - lasje
   - srednje svetel ten kože
   - ženska
+  - 'ženska: blondinka'
+  - 'ženska: srednje svetel ten kože in blondinka'
 👱🏽‍♀:
   - blondinka
-  - 'blondinka: srednji ten kože'
   - dekle
+  - lasje
   - srednji ten kože
   - ženska
+  - 'ženska: blondinka'
+  - 'ženska: srednji ten kože in blondinka'
 👱🏾‍♀:
   - blondinka
-  - 'blondinka: srednje temen ten kože'
   - dekle
+  - lasje
   - srednje temen ten kože
   - ženska
+  - 'ženska: blondinka'
+  - 'ženska: srednje temen ten kože in blondinka'
 👱🏿‍♀:
   - blondinka
-  - 'blondinka: temen ten kože'
   - dekle
+  - lasje
   - temen ten kože
   - ženska
+  - 'ženska: blondinka'
+  - 'ženska: temen ten kože in blondinka'
 👩‍🦰:
   - dekle
   - rdeči lasje
@@ -4044,6 +4196,110 @@
   - ženska
   - ženska, ki dviguje roko
   - 'ženska, ki dviguje roko: temen ten kože'
+🧏:
+  - gluh
+  - gluha oseba
+  - invalid
+  - sluh
+  - uho
+🧏🏻:
+  - gluh
+  - gluha oseba
+  - 'gluha oseba: svetel ten kože'
+  - invalid
+  - sluh
+  - svetel ten kože
+  - uho
+🧏🏼:
+  - gluh
+  - gluha oseba
+  - 'gluha oseba: srednje svetel ten kože'
+  - invalid
+  - sluh
+  - srednje svetel ten kože
+  - uho
+🧏🏽:
+  - gluh
+  - gluha oseba
+  - 'gluha oseba: srednji ten kože'
+  - invalid
+  - sluh
+  - srednji ten kože
+  - uho
+🧏🏾:
+  - gluh
+  - gluha oseba
+  - 'gluha oseba: srednje temen ten kože'
+  - invalid
+  - sluh
+  - srednje temen ten kože
+  - uho
+🧏🏿:
+  - gluh
+  - gluha oseba
+  - 'gluha oseba: temen ten kože'
+  - invalid
+  - sluh
+  - temen ten kože
+  - uho
+🧏‍♂:
+  - gluh
+  - gluh moški
+  - moški
+🧏🏻‍♂:
+  - gluh
+  - 'gluh moški: svetel ten kože'
+  - moški
+  - svetel ten kože
+🧏🏼‍♂:
+  - gluh
+  - 'gluh moški: srednje svetel ten kože'
+  - moški
+  - srednje svetel ten kože
+🧏🏽‍♂:
+  - gluh
+  - 'gluh moški: srednji ten kože'
+  - moški
+  - srednji ten kože
+🧏🏾‍♂:
+  - gluh
+  - 'gluh moški: srednje temen ten kože'
+  - moški
+  - srednje temen ten kože
+🧏🏿‍♂:
+  - gluh
+  - 'gluh moški: temen ten kože'
+  - moški
+  - temen ten kože
+🧏‍♀:
+  - gluha
+  - gluha ženska
+  - ženska
+🧏🏻‍♀:
+  - gluha
+  - 'gluha ženska: svetel ten kože'
+  - svetel ten kože
+  - ženska
+🧏🏼‍♀:
+  - gluha
+  - 'gluha ženska: srednje svetel ten kože'
+  - srednje svetel ten kože
+  - ženska
+🧏🏽‍♀:
+  - gluha
+  - 'gluha ženska: srednji ten kože'
+  - srednji ten kože
+  - ženska
+🧏🏾‍♀:
+  - gluha
+  - 'gluha ženska: srednje temen ten kože'
+  - srednje temen ten kože
+  - ženska
+🧏🏿‍♀:
+  - gluha
+  - 'gluha ženska: temen ten kože'
+  - temen ten kože
+  - ženska
 🙇:
   - gesta
   - opravičilo
@@ -7359,41 +7615,41 @@
   - junak
   - junakinja
   - super moč
+  - superjunak/superjunakinja
+  - 'superjunak/superjunakinja: svetel ten kože'
   - svetel ten kože
-  - ženska superjunakinja
-  - 'ženska superjunakinja: svetel ten kože'
 🦸🏼:
   - dober
   - junak
   - junakinja
   - srednje svetel ten kože
   - super moč
-  - ženska superjunakinja
-  - 'ženska superjunakinja: srednje svetel ten kože'
+  - superjunak/superjunakinja
+  - 'superjunak/superjunakinja: srednje svetel ten kože'
 🦸🏽:
   - dober
   - junak
   - junakinja
   - srednji ten kože
   - super moč
-  - ženska superjunakinja
-  - 'ženska superjunakinja: srednji ten kože'
+  - superjunak/superjunakinja
+  - 'superjunak/superjunakinja: srednji ten kože'
 🦸🏾:
   - dober
   - junak
   - junakinja
   - srednje temen ten kože
   - super moč
-  - ženska superjunakinja
-  - 'ženska superjunakinja: srednje temen ten kože'
+  - superjunak/superjunakinja
+  - 'superjunak/superjunakinja: srednje temen ten kože'
 🦸🏿:
   - dober
   - junak
   - junakinja
   - super moč
+  - superjunak/superjunakinja
+  - 'superjunak/superjunakinja: temen ten kože'
   - temen ten kože
-  - ženska superjunakinja
-  - 'ženska superjunakinja: temen ten kože'
 🦸‍♂:
   - dober
   - junak
@@ -8440,6 +8696,444 @@
   - ženska
   - ženska, ki hodi
   - 'ženska, ki hodi: temen ten kože'
+🧍:
+  - pokonci
+  - stati
+  - stoječa oseba
+🧍🏻:
+  - pokonci
+  - stati
+  - stoječa oseba
+  - 'stoječa oseba: svetel ten kože'
+  - svetel ten kože
+🧍🏼:
+  - pokonci
+  - srednje svetel ten kože
+  - stati
+  - stoječa oseba
+  - 'stoječa oseba: srednje svetel ten kože'
+🧍🏽:
+  - pokonci
+  - srednji ten kože
+  - stati
+  - stoječa oseba
+  - 'stoječa oseba: srednji ten kože'
+🧍🏾:
+  - pokonci
+  - srednje temen ten kože
+  - stati
+  - stoječa oseba
+  - 'stoječa oseba: srednje temen ten kože'
+🧍🏿:
+  - pokonci
+  - stati
+  - stoječa oseba
+  - 'stoječa oseba: temen ten kože'
+  - temen ten kože
+🧍‍♂:
+  - moški
+  - stoječ moški
+  - stoji
+🧍🏻‍♂:
+  - moški
+  - stoječ moški
+  - 'stoječ moški: svetel ten kože'
+  - stoji
+  - svetel ten kože
+🧍🏼‍♂:
+  - moški
+  - srednje svetel ten kože
+  - stoječ moški
+  - 'stoječ moški: srednje svetel ten kože'
+  - stoji
+🧍🏽‍♂:
+  - moški
+  - srednji ten kože
+  - stoječ moški
+  - 'stoječ moški: srednji ten kože'
+  - stoji
+🧍🏾‍♂:
+  - moški
+  - srednje temen ten kože
+  - stoječ moški
+  - 'stoječ moški: srednje temen ten kože'
+  - stoji
+🧍🏿‍♂:
+  - moški
+  - stoječ moški
+  - 'stoječ moški: temen ten kože'
+  - stoji
+  - temen ten kože
+🧍‍♀:
+  - stoječa ženska
+  - stoji
+  - ženska
+🧍🏻‍♀:
+  - stoječa ženska
+  - 'stoječa ženska: svetel ten kože'
+  - stoji
+  - svetel ten kože
+  - ženska
+🧍🏼‍♀:
+  - srednje svetel ten kože
+  - stoječa ženska
+  - 'stoječa ženska: srednje svetel ten kože'
+  - stoji
+  - ženska
+🧍🏽‍♀:
+  - srednji ten kože
+  - stoječa ženska
+  - 'stoječa ženska: srednji ten kože'
+  - stoji
+  - ženska
+🧍🏾‍♀:
+  - srednje temen ten kože
+  - stoječa ženska
+  - 'stoječa ženska: srednje temen ten kože'
+  - stoji
+  - ženska
+🧍🏿‍♀:
+  - stoječa ženska
+  - 'stoječa ženska: temen ten kože'
+  - stoji
+  - temen ten kože
+  - ženska
+🧎:
+  - klečanje
+  - klečeča oseba
+🧎🏻:
+  - klečanje
+  - klečeča oseba
+  - 'klečeča oseba: svetel ten kože'
+  - svetel ten kože
+🧎🏼:
+  - klečanje
+  - klečeča oseba
+  - 'klečeča oseba: srednje svetel ten kože'
+  - srednje svetel ten kože
+🧎🏽:
+  - klečanje
+  - klečeča oseba
+  - 'klečeča oseba: srednji ten kože'
+  - srednji ten kože
+🧎🏾:
+  - klečanje
+  - klečeča oseba
+  - 'klečeča oseba: srednje temen ten kože'
+  - srednje temen ten kože
+🧎🏿:
+  - klečanje
+  - klečeča oseba
+  - 'klečeča oseba: temen ten kože'
+  - temen ten kože
+🧎‍♂:
+  - klečanje
+  - klečeč moški
+  - moški
+🧎🏻‍♂:
+  - klečanje
+  - klečeč moški
+  - 'klečeč moški: svetel ten kože'
+  - moški
+  - svetel ten kože
+🧎🏼‍♂:
+  - klečanje
+  - klečeč moški
+  - 'klečeč moški: srednje svetel ten kože'
+  - moški
+  - srednje svetel ten kože
+🧎🏽‍♂:
+  - klečanje
+  - klečeč moški
+  - 'klečeč moški: srednji ten kože'
+  - moški
+  - srednji ten kože
+🧎🏾‍♂:
+  - klečanje
+  - klečeč moški
+  - 'klečeč moški: srednje temen ten kože'
+  - moški
+  - srednje temen ten kože
+🧎🏿‍♂:
+  - klečanje
+  - klečeč moški
+  - 'klečeč moški: temen ten kože'
+  - moški
+  - temen ten kože
+🧎‍♀:
+  - klečanje
+  - klečeča ženska
+  - ženska
+🧎🏻‍♀:
+  - klečanje
+  - klečeča ženska
+  - 'klečeča ženska: svetel ten kože'
+  - svetel ten kože
+  - ženska
+🧎🏼‍♀:
+  - klečanje
+  - klečeča ženska
+  - 'klečeča ženska: srednje svetel ten kože'
+  - srednje svetel ten kože
+  - ženska
+🧎🏽‍♀:
+  - klečanje
+  - klečeča ženska
+  - 'klečeča ženska: srednji ten kože'
+  - srednji ten kože
+  - ženska
+🧎🏾‍♀:
+  - klečanje
+  - klečeča ženska
+  - 'klečeča ženska: srednje temen ten kože'
+  - srednje temen ten kože
+  - ženska
+🧎🏿‍♀:
+  - klečanje
+  - klečeča ženska
+  - 'klečeča ženska: temen ten kože'
+  - temen ten kože
+  - ženska
+👨‍🦯:
+  - invalid
+  - moški
+  - moški s palico za slepe
+  - slep
+👨🏻‍🦯:
+  - invalid
+  - moški
+  - moški s palico za slepe
+  - 'moški s palico za slepe: svetel ten kože'
+  - slep
+  - svetel ten kože
+👨🏼‍🦯:
+  - invalid
+  - moški
+  - moški s palico za slepe
+  - 'moški s palico za slepe: srednje svetel ten kože'
+  - slep
+  - srednje svetel ten kože
+👨🏽‍🦯:
+  - invalid
+  - moški
+  - moški s palico za slepe
+  - 'moški s palico za slepe: srednji ten kože'
+  - slep
+  - srednji ten kože
+👨🏾‍🦯:
+  - invalid
+  - moški
+  - moški s palico za slepe
+  - 'moški s palico za slepe: srednje temen ten kože'
+  - slep
+  - srednje temen ten kože
+👨🏿‍🦯:
+  - invalid
+  - moški
+  - moški s palico za slepe
+  - 'moški s palico za slepe: temen ten kože'
+  - slep
+  - temen ten kože
+👩‍🦯:
+  - invalid
+  - slepa
+  - ženska
+  - ženska s palico za slepe
+👩🏻‍🦯:
+  - invalid
+  - slepa
+  - svetel ten kože
+  - ženska
+  - ženska s palico za slepe
+  - 'ženska s palico za slepe: svetel ten kože'
+👩🏼‍🦯:
+  - invalid
+  - slepa
+  - srednje svetel ten kože
+  - ženska
+  - ženska s palico za slepe
+  - 'ženska s palico za slepe: srednje svetel ten kože'
+👩🏽‍🦯:
+  - invalid
+  - slepa
+  - srednji ten kože
+  - ženska
+  - ženska s palico za slepe
+  - 'ženska s palico za slepe: srednji ten kože'
+👩🏾‍🦯:
+  - invalid
+  - slepa
+  - srednje temen ten kože
+  - ženska
+  - ženska s palico za slepe
+  - 'ženska s palico za slepe: srednje temen ten kože'
+👩🏿‍🦯:
+  - invalid
+  - slepa
+  - temen ten kože
+  - ženska
+  - ženska s palico za slepe
+  - 'ženska s palico za slepe: temen ten kože'
+👨‍🦼:
+  - invalid
+  - moški
+  - moški na motoriziranem invalidskem vozičku
+  - voziček
+👨🏻‍🦼:
+  - invalid
+  - moški
+  - moški na motoriziranem invalidskem vozičku
+  - 'moški na motoriziranem invalidskem vozičku: svetel ten kože'
+  - svetel ten kože
+  - voziček
+👨🏼‍🦼:
+  - invalid
+  - moški
+  - moški na motoriziranem invalidskem vozičku
+  - 'moški na motoriziranem invalidskem vozičku: srednje svetel ten kože'
+  - srednje svetel ten kože
+  - voziček
+👨🏽‍🦼:
+  - invalid
+  - moški
+  - moški na motoriziranem invalidskem vozičku
+  - 'moški na motoriziranem invalidskem vozičku: srednji ten kože'
+  - srednji ten kože
+  - voziček
+👨🏾‍🦼:
+  - invalid
+  - moški
+  - moški na motoriziranem invalidskem vozičku
+  - 'moški na motoriziranem invalidskem vozičku: srednje temen ten kože'
+  - srednje temen ten kože
+  - voziček
+👨🏿‍🦼:
+  - invalid
+  - moški
+  - moški na motoriziranem invalidskem vozičku
+  - 'moški na motoriziranem invalidskem vozičku: temen ten kože'
+  - temen ten kože
+  - voziček
+👩‍🦼:
+  - invalid
+  - voziček
+  - ženska
+  - ženska na motoriziranem invalidskem vozičku
+👩🏻‍🦼:
+  - invalid
+  - svetel ten kože
+  - voziček
+  - ženska
+  - ženska na motoriziranem invalidskem vozičku
+  - 'ženska na motoriziranem invalidskem vozičku: svetel ten kože'
+👩🏼‍🦼:
+  - invalid
+  - srednje svetel ten kože
+  - voziček
+  - ženska
+  - ženska na motoriziranem invalidskem vozičku
+  - 'ženska na motoriziranem invalidskem vozičku: srednje svetel ten kože'
+👩🏽‍🦼:
+  - invalid
+  - srednji ten kože
+  - voziček
+  - ženska
+  - ženska na motoriziranem invalidskem vozičku
+  - 'ženska na motoriziranem invalidskem vozičku: srednji ten kože'
+👩🏾‍🦼:
+  - invalid
+  - srednje temen ten kože
+  - voziček
+  - ženska
+  - ženska na motoriziranem invalidskem vozičku
+  - 'ženska na motoriziranem invalidskem vozičku: srednje temen ten kože'
+👩🏿‍🦼:
+  - invalid
+  - temen ten kože
+  - voziček
+  - ženska
+  - ženska na motoriziranem invalidskem vozičku
+  - 'ženska na motoriziranem invalidskem vozičku: temen ten kože'
+👨‍🦽:
+  - invalid
+  - moški
+  - moški na ročnem invalidskem vozičku
+  - voziček
+👨🏻‍🦽:
+  - invalid
+  - moški
+  - moški na ročnem invalidskem vozičku
+  - 'moški na ročnem invalidskem vozičku: svetel ten kože'
+  - svetel ten kože
+  - voziček
+👨🏼‍🦽:
+  - invalid
+  - moški
+  - moški na ročnem invalidskem vozičku
+  - 'moški na ročnem invalidskem vozičku: srednje svetel ten kože'
+  - srednje svetel ten kože
+  - voziček
+👨🏽‍🦽:
+  - invalid
+  - moški
+  - moški na ročnem invalidskem vozičku
+  - 'moški na ročnem invalidskem vozičku: srednji ten kože'
+  - srednji ten kože
+  - voziček
+👨🏾‍🦽:
+  - invalid
+  - moški
+  - moški na ročnem invalidskem vozičku
+  - 'moški na ročnem invalidskem vozičku: srednje temen ten kože'
+  - srednje temen ten kože
+  - voziček
+👨🏿‍🦽:
+  - invalid
+  - moški
+  - moški na ročnem invalidskem vozičku
+  - 'moški na ročnem invalidskem vozičku: temen ten kože'
+  - temen ten kože
+  - voziček
+👩‍🦽:
+  - invalid
+  - voziček
+  - ženska
+  - ženska na ročnem invalidskem vozičku
+👩🏻‍🦽:
+  - invalid
+  - svetel ten kože
+  - voziček
+  - ženska
+  - ženska na ročnem invalidskem vozičku
+  - 'ženska na ročnem invalidskem vozičku: svetel ten kože'
+👩🏼‍🦽:
+  - invalid
+  - srednje svetel ten kože
+  - voziček
+  - ženska
+  - ženska na ročnem invalidskem vozičku
+  - 'ženska na ročnem invalidskem vozičku: srednje svetel ten kože'
+👩🏽‍🦽:
+  - invalid
+  - srednji ten kože
+  - voziček
+  - ženska
+  - ženska na ročnem invalidskem vozičku
+  - 'ženska na ročnem invalidskem vozičku: srednji ten kože'
+👩🏾‍🦽:
+  - invalid
+  - srednje temen ten kože
+  - voziček
+  - ženska
+  - ženska na ročnem invalidskem vozičku
+  - 'ženska na ročnem invalidskem vozičku: srednje temen ten kože'
+👩🏿‍🦽:
+  - invalid
+  - temen ten kože
+  - voziček
+  - ženska
+  - ženska na ročnem invalidskem vozičku
+  - 'ženska na ročnem invalidskem vozičku: temen ten kože'
 🏃:
   - maraton
   - tek
@@ -10641,20 +11335,526 @@
   - par
   - roka
   - ženska
-  - ženski, ki se držita za roke
+  - ženski se držita za roke
+👭🏻:
+  - držati
+  - par
+  - roka
+  - svetel ten kože
+  - ženska
+  - ženski se držita za roke
+  - 'ženski se držita za roke: svetel ten kože'
+👩🏼‍🤝‍👩🏻:
+  - držati
+  - par
+  - roka
+  - srednje svetel ten kože
+  - svetel ten kože
+  - ženska
+  - ženski se držita za roke
+  - 'ženski se držita za roke: srednje svetel ten kože in svetel ten kože'
+👭🏼:
+  - držati
+  - par
+  - roka
+  - srednje svetel ten kože
+  - ženska
+  - ženski se držita za roke
+  - 'ženski se držita za roke: srednje svetel ten kože'
+👩🏽‍🤝‍👩🏻:
+  - držati
+  - par
+  - roka
+  - srednji ten kože
+  - svetel ten kože
+  - ženska
+  - ženski se držita za roke
+  - 'ženski se držita za roke: srednji ten kože in svetel ten kože'
+👩🏽‍🤝‍👩🏼:
+  - držati
+  - par
+  - roka
+  - srednje svetel ten kože
+  - srednji ten kože
+  - ženska
+  - ženski se držita za roke
+  - 'ženski se držita za roke: srednji ten kože in srednje svetel ten kože'
+👭🏽:
+  - držati
+  - par
+  - roka
+  - srednji ten kože
+  - ženska
+  - ženski se držita za roke
+  - 'ženski se držita za roke: srednji ten kože'
+👩🏾‍🤝‍👩🏻:
+  - držati
+  - par
+  - roka
+  - srednje temen ten kože
+  - svetel ten kože
+  - ženska
+  - ženski se držita za roke
+  - 'ženski se držita za roke: srednje temen ten kože in svetel ten kože'
+👩🏾‍🤝‍👩🏼:
+  - držati
+  - par
+  - roka
+  - srednje svetel ten kože
+  - srednje temen ten kože
+  - ženska
+  - ženski se držita za roke
+  - 'ženski se držita za roke: srednje temen ten kože in srednje svetel ten kože'
+👩🏾‍🤝‍👩🏽:
+  - držati
+  - par
+  - roka
+  - srednje temen ten kože
+  - srednji ten kože
+  - ženska
+  - ženski se držita za roke
+  - 'ženski se držita za roke: srednje temen ten kože in srednji ten kože'
+👭🏾:
+  - držati
+  - par
+  - roka
+  - srednje temen ten kože
+  - ženska
+  - ženski se držita za roke
+  - 'ženski se držita za roke: srednje temen ten kože'
+👩🏿‍🤝‍👩🏻:
+  - držati
+  - par
+  - roka
+  - svetel ten kože
+  - temen ten kože
+  - ženska
+  - ženski se držita za roke
+  - 'ženski se držita za roke: temen ten kože in svetel ten kože'
+👩🏿‍🤝‍👩🏼:
+  - držati
+  - par
+  - roka
+  - srednje svetel ten kože
+  - temen ten kože
+  - ženska
+  - ženski se držita za roke
+  - 'ženski se držita za roke: temen ten kože in srednje svetel ten kože'
+👩🏿‍🤝‍👩🏽:
+  - držati
+  - par
+  - roka
+  - srednji ten kože
+  - temen ten kože
+  - ženska
+  - ženski se držita za roke
+  - 'ženski se držita za roke: temen ten kože in srednji ten kože'
+👩🏿‍🤝‍👩🏾:
+  - držati
+  - par
+  - roka
+  - srednje temen ten kože
+  - temen ten kože
+  - ženska
+  - ženski se držita za roke
+  - 'ženski se držita za roke: temen ten kože in srednje temen ten kože'
+👭🏿:
+  - držati
+  - par
+  - roka
+  - temen ten kože
+  - ženska
+  - ženski se držita za roke
+  - 'ženski se držita za roke: temen ten kože'
 👫:
   - držati
   - moški
-  - moški in ženska, ki se držita za roke
+  - moški in ženska se držita za roke
   - par
   - roka
   - ženska
-👬:
-  - dvojčka
-  - moška, ki se držita za roke
+👫🏻:
+  - držati
   - moški
+  - moški in ženska se držita za roke
+  - 'moški in ženska se držita za roke: svetel ten kože'
   - par
   - roka
+  - svetel ten kože
+  - ženska
+👩🏻‍🤝‍👨🏼:
+  - držati
+  - moški
+  - moški in ženska se držita za roke
+  - 'moški in ženska se držita za roke: svetel ten kože in srednje svetel ten kože'
+  - par
+  - roka
+  - srednje svetel ten kože
+  - svetel ten kože
+  - ženska
+👩🏻‍🤝‍👨🏽:
+  - držati
+  - moški
+  - moški in ženska se držita za roke
+  - 'moški in ženska se držita za roke: svetel ten kože in srednji ten kože'
+  - par
+  - roka
+  - srednji ten kože
+  - svetel ten kože
+  - ženska
+👩🏻‍🤝‍👨🏾:
+  - držati
+  - moški
+  - moški in ženska se držita za roke
+  - 'moški in ženska se držita za roke: svetel ten kože in srednje temen ten kože'
+  - par
+  - roka
+  - srednje temen ten kože
+  - svetel ten kože
+  - ženska
+👩🏻‍🤝‍👨🏿:
+  - držati
+  - moški
+  - moški in ženska se držita za roke
+  - 'moški in ženska se držita za roke: svetel ten kože in temen ten kože'
+  - par
+  - roka
+  - svetel ten kože
+  - temen ten kože
+  - ženska
+👩🏼‍🤝‍👨🏻:
+  - držati
+  - moški
+  - moški in ženska se držita za roke
+  - 'moški in ženska se držita za roke: srednje svetel ten kože in svetel ten kože'
+  - par
+  - roka
+  - srednje svetel ten kože
+  - svetel ten kože
+  - ženska
+👫🏼:
+  - držati
+  - moški
+  - moški in ženska se držita za roke
+  - 'moški in ženska se držita za roke: srednje svetel ten kože'
+  - par
+  - roka
+  - srednje svetel ten kože
+  - ženska
+👩🏼‍🤝‍👨🏽:
+  - držati
+  - moški
+  - moški in ženska se držita za roke
+  - 'moški in ženska se držita za roke: srednje svetel ten kože in srednji ten kože'
+  - par
+  - roka
+  - srednje svetel ten kože
+  - srednji ten kože
+  - ženska
+👩🏼‍🤝‍👨🏾:
+  - držati
+  - moški
+  - moški in ženska se držita za roke
+  - 'moški in ženska se držita za roke: srednje svetel ten kože in srednje temen ten
+    kože'
+  - par
+  - roka
+  - srednje svetel ten kože
+  - srednje temen ten kože
+  - ženska
+👩🏼‍🤝‍👨🏿:
+  - držati
+  - moški
+  - moški in ženska se držita za roke
+  - 'moški in ženska se držita za roke: srednje svetel ten kože in temen ten kože'
+  - par
+  - roka
+  - srednje svetel ten kože
+  - temen ten kože
+  - ženska
+👩🏽‍🤝‍👨🏻:
+  - držati
+  - moški
+  - moški in ženska se držita za roke
+  - 'moški in ženska se držita za roke: srednji ten kože in svetel ten kože'
+  - par
+  - roka
+  - srednji ten kože
+  - svetel ten kože
+  - ženska
+👩🏽‍🤝‍👨🏼:
+  - držati
+  - moški
+  - moški in ženska se držita za roke
+  - 'moški in ženska se držita za roke: srednji ten kože in srednje svetel ten kože'
+  - par
+  - roka
+  - srednje svetel ten kože
+  - srednji ten kože
+  - ženska
+👫🏽:
+  - držati
+  - moški
+  - moški in ženska se držita za roke
+  - 'moški in ženska se držita za roke: srednji ten kože'
+  - par
+  - roka
+  - srednji ten kože
+  - ženska
+👩🏽‍🤝‍👨🏾:
+  - držati
+  - moški
+  - moški in ženska se držita za roke
+  - 'moški in ženska se držita za roke: srednji ten kože in srednje temen ten kože'
+  - par
+  - roka
+  - srednje temen ten kože
+  - srednji ten kože
+  - ženska
+👩🏽‍🤝‍👨🏿:
+  - držati
+  - moški
+  - moški in ženska se držita za roke
+  - 'moški in ženska se držita za roke: srednji ten kože in temen ten kože'
+  - par
+  - roka
+  - srednji ten kože
+  - temen ten kože
+  - ženska
+👩🏾‍🤝‍👨🏻:
+  - držati
+  - moški
+  - moški in ženska se držita za roke
+  - 'moški in ženska se držita za roke: srednje temen ten kože in svetel ten kože'
+  - par
+  - roka
+  - srednje temen ten kože
+  - svetel ten kože
+  - ženska
+👩🏾‍🤝‍👨🏼:
+  - držati
+  - moški
+  - moški in ženska se držita za roke
+  - 'moški in ženska se držita za roke: srednje temen ten kože in srednje svetel ten
+    kože'
+  - par
+  - roka
+  - srednje svetel ten kože
+  - srednje temen ten kože
+  - ženska
+👩🏾‍🤝‍👨🏽:
+  - držati
+  - moški
+  - moški in ženska se držita za roke
+  - 'moški in ženska se držita za roke: srednje temen ten kože in srednji ten kože'
+  - par
+  - roka
+  - srednje temen ten kože
+  - srednji ten kože
+  - ženska
+👫🏾:
+  - držati
+  - moški
+  - moški in ženska se držita za roke
+  - 'moški in ženska se držita za roke: srednje temen ten kože'
+  - par
+  - roka
+  - srednje temen ten kože
+  - ženska
+👩🏾‍🤝‍👨🏿:
+  - držati
+  - moški
+  - moški in ženska se držita za roke
+  - 'moški in ženska se držita za roke: srednje temen ten kože in temen ten kože'
+  - par
+  - roka
+  - srednje temen ten kože
+  - temen ten kože
+  - ženska
+👩🏿‍🤝‍👨🏻:
+  - držati
+  - moški
+  - moški in ženska se držita za roke
+  - 'moški in ženska se držita za roke: temen ten kože in svetel ten kože'
+  - par
+  - roka
+  - svetel ten kože
+  - temen ten kože
+  - ženska
+👩🏿‍🤝‍👨🏼:
+  - držati
+  - moški
+  - moški in ženska se držita za roke
+  - 'moški in ženska se držita za roke: temen ten kože in srednje svetel ten kože'
+  - par
+  - roka
+  - srednje svetel ten kože
+  - temen ten kože
+  - ženska
+👩🏿‍🤝‍👨🏽:
+  - držati
+  - moški
+  - moški in ženska se držita za roke
+  - 'moški in ženska se držita za roke: temen ten kože in srednji ten kože'
+  - par
+  - roka
+  - srednji ten kože
+  - temen ten kože
+  - ženska
+👩🏿‍🤝‍👨🏾:
+  - držati
+  - moški
+  - moški in ženska se držita za roke
+  - 'moški in ženska se držita za roke: temen ten kože in srednje temen ten kože'
+  - par
+  - roka
+  - srednje temen ten kože
+  - temen ten kože
+  - ženska
+👫🏿:
+  - držati
+  - moški
+  - moški in ženska se držita za roke
+  - 'moški in ženska se držita za roke: temen ten kože'
+  - par
+  - roka
+  - temen ten kože
+  - ženska
+👬:
+  - dvojčka
+  - moška se držita za roke
+  - moški
+  - par
+  - zodiak
+👬🏻:
+  - dvojčka
+  - moška se držita za roke
+  - 'moška se držita za roke: svetel ten kože'
+  - moški
+  - par
+  - svetel ten kože
+  - zodiak
+👨🏼‍🤝‍👨🏻:
+  - dvojčka
+  - moška se držita za roke
+  - 'moška se držita za roke: srednje svetel ten kože in svetel ten kože'
+  - moški
+  - par
+  - srednje svetel ten kože
+  - svetel ten kože
+  - zodiak
+👬🏼:
+  - dvojčka
+  - moška se držita za roke
+  - 'moška se držita za roke: srednje svetel ten kože'
+  - moški
+  - par
+  - srednje svetel ten kože
+  - zodiak
+👨🏽‍🤝‍👨🏻:
+  - dvojčka
+  - moška se držita za roke
+  - 'moška se držita za roke: srednji ten kože in svetel ten kože'
+  - moški
+  - par
+  - srednji ten kože
+  - svetel ten kože
+  - zodiak
+👨🏽‍🤝‍👨🏼:
+  - dvojčka
+  - moška se držita za roke
+  - 'moška se držita za roke: srednji ten kože in srednje svetel ten kože'
+  - moški
+  - par
+  - srednje svetel ten kože
+  - srednji ten kože
+  - zodiak
+👬🏽:
+  - dvojčka
+  - moška se držita za roke
+  - 'moška se držita za roke: srednji ten kože'
+  - moški
+  - par
+  - srednji ten kože
+  - zodiak
+👨🏾‍🤝‍👨🏻:
+  - dvojčka
+  - moška se držita za roke
+  - 'moška se držita za roke: srednje temen ten kože in svetel ten kože'
+  - moški
+  - par
+  - srednje temen ten kože
+  - svetel ten kože
+  - zodiak
+👨🏾‍🤝‍👨🏼:
+  - dvojčka
+  - moška se držita za roke
+  - 'moška se držita za roke: srednje temen ten kože in srednje svetel ten kože'
+  - moški
+  - par
+  - srednje svetel ten kože
+  - srednje temen ten kože
+  - zodiak
+👨🏾‍🤝‍👨🏽:
+  - dvojčka
+  - moška se držita za roke
+  - 'moška se držita za roke: srednje temen ten kože in srednji ten kože'
+  - moški
+  - par
+  - srednje temen ten kože
+  - srednji ten kože
+  - zodiak
+👬🏾:
+  - dvojčka
+  - moška se držita za roke
+  - 'moška se držita za roke: srednje temen ten kože'
+  - moški
+  - par
+  - srednje temen ten kože
+  - zodiak
+👨🏿‍🤝‍👨🏻:
+  - dvojčka
+  - moška se držita za roke
+  - 'moška se držita za roke: temen ten kože in svetel ten kože'
+  - moški
+  - par
+  - svetel ten kože
+  - temen ten kože
+  - zodiak
+👨🏿‍🤝‍👨🏼:
+  - dvojčka
+  - moška se držita za roke
+  - 'moška se držita za roke: temen ten kože in srednje svetel ten kože'
+  - moški
+  - par
+  - srednje svetel ten kože
+  - temen ten kože
+  - zodiak
+👨🏿‍🤝‍👨🏽:
+  - dvojčka
+  - moška se držita za roke
+  - 'moška se držita za roke: temen ten kože in srednji ten kože'
+  - moški
+  - par
+  - srednji ten kože
+  - temen ten kože
+  - zodiak
+👨🏿‍🤝‍👨🏾:
+  - dvojčka
+  - moška se držita za roke
+  - 'moška se držita za roke: temen ten kože in srednje temen ten kože'
+  - moški
+  - par
+  - srednje temen ten kože
+  - temen ten kože
+  - zodiak
+👬🏿:
+  - dvojčka
+  - moška se držita za roke
+  - 'moška se držita za roke: temen ten kože'
+  - moški
+  - par
+  - temen ten kože
   - zodiak
 💏:
   - par
@@ -10975,6 +12175,9 @@
 🦍:
   - gorila
   - žival
+🦧:
+  - opica
+  - orangutan
 🐶:
   - domači ljubljenček
   - obraz
@@ -10983,17 +12186,25 @@
 🐕️:
   - domači ljubljenček
   - pes
+🦮:
+  - pes vodnik
+  - slepi
+  - vodnik
+🐕‍🦺:
+  - policijski
+  - pomoč
+  - reševalni
+  - službeni pes
+  - vojaški
 🐩:
   - pes
   - pudelj
 🐺:
   - obraz
   - volk
-  - volčji obraz
 🦊:
   - lisica
-  - lisičji obraz
-  - žival
+  - obraz
 🦝:
   - radoveden
   - rakun
@@ -11030,7 +12241,6 @@
 🦄:
   - obraz
   - samorog
-  - samorogov obraz
 🦓:
   - zebra
 🦌:
@@ -11114,7 +12324,6 @@
 🐹:
   - domači ljubljenček
   - hrček
-  - hrčkov obraz
   - obraz
 🐰:
   - domači ljubljenček
@@ -11136,7 +12345,6 @@
   - žival
 🐻:
   - medved
-  - medvedov obraz
   - obraz
 🐨:
   - koala
@@ -11144,7 +12352,18 @@
 🐼:
   - obraz
   - panda
-  - pandin obraz
+🦥:
+  - len
+  - lenivec
+  - počasen
+  - zaspan
+🦦:
+  - igriva
+  - lovi ribe
+  - vidra
+🦨:
+  - skunk
+  - smrdi
 🦘:
   - Avstralija
   - kenguru
@@ -11207,6 +12426,11 @@
   - pamet
   - ptica
   - sova
+🦩:
+  - flamingo
+  - nastopaški
+  - tropski
+  - vpadljiv
 🦚:
   - bahava
   - pav
@@ -11221,7 +12445,6 @@
 🐸:
   - obraz
   - žaba
-  - žabji obraz
 🐊:
   - krokodil
 🐢:
@@ -11533,6 +12756,15 @@
   - zelje
 🥦:
   - brokoli
+🧄:
+  - aromatično
+  - dišavnica
+  - začimba
+  - česen
+🧅:
+  - aromatično
+  - solzenje
+  - čebula
 🍄:
   - goba
   - rastlina
@@ -11567,6 +12799,10 @@
 🥞:
   - hrana
   - palačinke
+🧇:
+  - oblat
+  - pecivo
+  - vafelj
 🧀:
   - kos sira
   - sir
@@ -11613,6 +12849,10 @@
   - hrana
   - kebab
   - nadev
+🧆:
+  - falafel
+  - kroglica
+  - čičerika
 🥚:
   - hrana
   - jajca
@@ -11642,6 +12882,10 @@
 🍿:
   - kokice
   - pokovka
+🧈:
+  - maslo
+  - mlečni izdelek
+  - mlečno
 🧂:
   - sol
   - solnica
@@ -11743,6 +12987,11 @@
   - hrana
   - ligenj
   - mehkužec
+🦪:
+  - biser
+  - ostriga
+  - potapljanje
+  - školjka
 🍦:
   - krema
   - led
@@ -11902,6 +13151,18 @@
   - žgane pijače
 🥤:
   - kozarec s slamico
+🧃:
+  - tetrapak s pijačo
+  - tetrapak s sokom
+🧉:
+  - mate čaj
+  - napitek
+  - pijača
+🧊:
+  - hladno
+  - ledena kocka
+  - ledeno
+  - ohladitev
 🥢:
   - jedilne paličice
 🍽️:
@@ -12116,6 +13377,10 @@
   - mošeja
   - muslimansko
   - vera
+🛕:
+  - hindu
+  - hindujski tempelj
+  - tempelj
 🕍:
   - jud
   - judovsko
@@ -12361,6 +13626,15 @@
 🛵:
   - motor
   - skuter
+🦽:
+  - invalid
+  - ročni invalidski voziček
+🦼:
+  - invalid
+  - motoriziran invalidski voziček
+🛺:
+  - rikša z motorjem
+  - tuk tuk
 🚲️:
   - kolo
   - vozilo
@@ -12472,6 +13746,12 @@
   - prihodi
   - pristanek
   - vozilo
+🪂:
+  - jadralni zmaj
+  - jadralno padalo
+  - padalo
+  - parasailing
+  - skok s padalom
 💺:
   - sedež
   - stol
@@ -12835,6 +14115,10 @@
   - svetlo
   - vesolje
   - vreme
+🪐:
+  - planet z obročem
+  - saturn
+  - saturnov obroč
 ⭐️:
   - bela srednja zvezda
   - zvezda
@@ -13020,6 +14304,7 @@
   - ognjemet
   - petarda
 ✨:
+  - '*'
   - iskrenje
   - iskrice
   - zvezda
@@ -13233,6 +14518,11 @@
   - palica
   - riba
   - ribiška palica
+🤿:
+  - na dah
+  - potapljanje
+  - potapljaška maska
+  - snorkljanje
 🎽:
   - lenta
   - majica
@@ -13252,6 +14542,15 @@
   - središče
   - zadetek
   - zadetek v polno
+🪀:
+  - igrača
+  - jojo
+  - nihanje
+  - proč sem
+🪁:
+  - jadrati
+  - leteti
+  - zmaj (igrača)
 🎱:
   - '8'
   - biljard
@@ -13291,6 +14590,7 @@
   - kocka
 🧩:
   - delček
+  - delček sestavljanke
   - namig
   - prileganje
   - sestavljanka
@@ -13393,6 +14693,11 @@
   - laboratorijska halja
   - zdravnik
   - znanstvenik
+🦺:
+  - jopič
+  - reševalni
+  - v sili
+  - varnostni jopič
 👔:
   - kravata
   - oblačila
@@ -13419,6 +14724,26 @@
 👘:
   - kimono
   - oblačila
+🥻:
+  - oblačilo
+  - obleka
+  - ogrinjalo
+  - sari
+🩱:
+  - enodelne kopalke
+  - kopalna obleka
+  - ženske kopalke
+🩲:
+  - enodelno
+  - kopalke
+  - kopalno oblačilo
+  - spodnje hlače
+  - spodnje perilo
+🩳:
+  - kopalke
+  - kopalne hlače
+  - kratke hlače
+  - spodnje perilo
 👙:
   - bikini
   - oblačila
@@ -13483,6 +14808,10 @@
   - čevelj
   - ženska
   - ženski sandali
+🩰:
+  - balet
+  - baletni čeveljci
+  - ples
 👢:
   - oblačila
   - čevelj
@@ -13636,6 +14965,12 @@
   - glasba
   - glasbilo
   - violina
+🪕:
+  - bendžo
+  - brenkalo
+  - glasba
+  - glasbilo
+  - strune
 🥁:
   - boben
   - glasba
@@ -13792,6 +15127,12 @@
   - luč
   - rdeče
   - rdeči lampijon
+🪔:
+  - dyja
+  - lučka
+  - olje
+  - oljna lučka
+  - svetilka
 📔:
   - knjiga
   - okrašeno
@@ -14164,6 +15505,12 @@
 🔨:
   - kladivo
   - orodje
+🪓:
+  - cepljenje
+  - drva
+  - les
+  - sekanje
+  - sekira
 ⛏️:
   - kramp
   - orodje
@@ -14226,6 +15573,10 @@
   - tehtnica
   - teža
   - zodiak
+🦯:
+  - invalid
+  - palica za slepe
+  - slepota
 🔗:
   - člen
 ⛓️:
@@ -14284,10 +15635,27 @@
   - medicina
   - orodje
   - zdravnik
+🩸:
+  - kaplja krvi
+  - krvodajalstvo
+  - medicina
+  - menstruacija
+  - zdravstvo
 💊:
   - bolno
   - tableta
   - zdravilo
+  - zdravnik
+🩹:
+  - hanzaplast
+  - rana
+  - samolepilni obliž
+🩺:
+  - medicina
+  - pljuča
+  - prsni koš
+  - srce
+  - stetoskop
   - zdravnik
 🚪:
   - vrata
@@ -14300,6 +15668,10 @@
   - kavč
   - kavč in svetilka
   - svetilka
+🪑:
+  - sedeti
+  - sedež
+  - stol
 🚽:
   - stranišče
   - straniščna školjka
@@ -14309,6 +15681,11 @@
 🛁:
   - banja
   - kad
+🪒:
+  - britev
+  - britje
+  - britvica
+  - ostro
 🧴:
   - krema za sončenje
   - losjon
@@ -14888,48 +16265,66 @@
 ⭕️:
   - krog
   - o
-  - velik krog
+  - rdeč
+  - velik
+  - velik prazen krog
 ✅:
-  - bela kljukica
+  - gumb
+  - gumb s kljukico
   - kljukica
-  - znak
+  - potrditev
+  - ✓
 ☑️:
-  - glasovnica
   - kljukica
-  - škatla
-  - škatla za glasovanje s kljukico
+  - polje
+  - potrditveno polje s kjukico
+  - potrditveno polje s kljukico
+  - ✓
 ✔️:
   - kljukica
   - znak
+  - ✓
 ✖️:
   - množenje
   - množiti
-  - preklic
+  - prekliči
   - x
-  - znak x za množenje
+  - znak
+  - znak za množenje
+  - ×
 ❌:
   - križec
   - množenje
   - množiti
+  - oznaka
   - preklic
   - x
-  - znak
+  - ×
 ❎:
   - gumb s križcem
-  - kvadratno
-  - znak
+  - kvadrat
+  - oznaka
+  - x
+  - ×
 ➕:
+  - +
   - matematika
   - plus
+  - znak
   - znak za plus
 ➖:
+  - '-'
   - matematika
   - minus
+  - znak
   - znak za minus
+  - −
 ➗:
   - deljenje
   - matematika
+  - znak
   - znak za deljenje
+  - ÷
 ➰:
   - pentlja
   - spirala
@@ -14946,43 +16341,55 @@
   - znak
   - znak za part
 ✳️:
+  - '*'
   - zvezdica
   - zvezdica z osmimi špicami
 ✴️:
+  - '*'
   - osemkraka zvezda
   - zvezda
 ❇️:
+  - '*'
   - iskra
 ‼️:
+  - '!'
+  - '!!'
   - dva klicaja
   - dvojni klicaj
   - klicaj
   - ločilo
   - znak
 ⁉️:
+  - '!'
+  - '!?'
+  - '?'
   - klicaj
   - klicaj in vprašaj
-  - ločilo
-  - vprašanje
-  - znak
-❓️:
+  - klicaj-vprašaj
   - ločilo
   - vprašaj
-  - vprašanje
+  - znak
+❓️:
+  - '?'
+  - ločilo
+  - vprašaj
   - znak
 ❔:
+  - '?'
   - bel vprašaj
+  - bel vprašanj
   - ločilo
   - obrobljeno
-  - vprašanje
-  - znak
+  - oznaka
+  - vprašaj
 ❕:
+  - '!'
   - bel klicaj
   - klicaj
-  - ločilo
   - obrobljeno
   - znak
 ❗️:
+  - '!'
   - klicaj
   - ločilo
   - znak
@@ -14993,8 +16400,10 @@
   - valovito
 ©️:
   - avtorske pravice
+  - c
 ®️:
-  - registriran
+  - r
+  - registrirano
 ™️:
   - TM
   - blagovna znamka
@@ -15237,11 +16646,31 @@
   - krog
   - rdeč krog
   - rdeče
+🟠:
+  - krog
+  - oranžen
+  - oranžen krog
+🟡:
+  - krog
+  - rumen
+  - rumen krog
+🟢:
+  - krog
+  - zelen
+  - zelen krog
 🔵:
   - geometrično
   - krog
   - moder krog
   - modro
+🟣:
+  - krog
+  - škrlaten
+  - škrlaten krog
+🟤:
+  - krog
+  - rjav
+  - rjav krog
 ⚫️:
   - geometrično
   - krog
@@ -15250,6 +16679,34 @@
   - bel krog
   - geometrično
   - krog
+🟥:
+  - kvadrat
+  - rdeč
+  - rdeč kvadrat
+🟧:
+  - kvadrat
+  - oranžen
+  - oranžen kvadrat
+🟨:
+  - kvadrat
+  - rumen
+  - rumen kvadrat
+🟩:
+  - kvadrat
+  - zelen
+  - zelen kvadrat
+🟦:
+  - kvadrat
+  - moder
+  - moder kvadrat
+🟪:
+  - kvadrat
+  - škrlaten
+  - škrlaten kvadrat
+🟫:
+  - kvadrat
+  - rjav
+  - rjav kvadrat
 ⬛️:
   - geometrično
   - kvadrat
@@ -15812,7 +17269,7 @@
   - 'zastava: Marshallovi otoki'
 🇲🇰:
   - zastava
-  - 'zastava: Makedonija'
+  - 'zastava: Severna Makedonija'
 🇲🇱:
   - zastava
   - 'zastava: Mali'

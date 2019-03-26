@@ -70,7 +70,7 @@
   - ártatlanság
 🥰:
   - imádat
-  - mosolygós arc 3 szívvel
+  - mosolygós arc szívekkel
   - szerelem
   - szerelmes
 😍:
@@ -437,6 +437,13 @@
   - arc
   - fáradt arc
   - fáradtság
+🥱:
+  - arc
+  - fáradt
+  - ásít
+  - ásítás
+  - ásító
+  - ásító arc
 😤:
   - arc
   - győzelem
@@ -531,33 +538,33 @@
 🤖:
   - arc
   - robot
-  - robotarc
   - szörny
 😺:
   - arc
   - macska
   - mosoly
-  - mosolygó macskaarc nyitott szájjal
-  - nevető macskaarc
-  - nyitott száj
+  - nevető macska
+  - nyitott
+  - száj
 😸:
   - arc
   - macska
-  - mosoly
+  - mosolygó
   - nevetés
-  - nevető macskaarc mosolygó szemmel
+  - nevető macska mosolygó szemmel
   - szem
 😹:
   - arc
+  - könny
   - macska
-  - macskaarc örömkönnyekkel
+  - macska örömkönnyekkel
   - mosoly
   - örömkönny
 😻:
   - arc
   - macska
   - mosoly
-  - mosolygó macskaarc szív alakú szemmel
+  - mosolygó macska szív alakú szemmel
   - szerelem
   - szív
 😼:
@@ -565,30 +572,32 @@
   - fanyar
   - irónia
   - macska
-  - macskaarc fanyar mosollyal
+  - macska fanyar mosollyal
   - mosoly
 😽:
   - arc
-  - csukott szem
   - csók
-  - csókoló macskaarc lehunyt szemmel
+  - csókoló
+  - csókoló macska
   - macska
 🙀:
   - arc
   - hűha
   - kimerült
-  - kimerült macskaarc
+  - kimerült macska
   - macska
 😿:
   - arc
   - macska
   - szomorú
   - sírás
-  - síró macskaarc
+  - síró
+  - síró macska
 😾:
   - arc
   - duzzogás
-  - duzzogó macskaarc
+  - duzzogó
+  - duzzogó macska
   - macska
 🙈:
   - majom
@@ -694,10 +703,18 @@
   - lila
   - lila szív
   - szív
+🤎:
+  - barna
+  - barna szív
+  - szív
 🖤:
   - fekete
   - fekete szív
   - gonosz
+  - szív
+🤍:
+  - fehér
+  - fehér szív
   - szív
 💯:
   - '100'
@@ -1020,6 +1037,34 @@
   - rendben
   - sötét bőrtónus
   - test
+🤏:
+  - csippentő kéz
+  - kis összeg
+🤏🏻:
+  - csippentő kéz
+  - 'csippentő kéz: világos bőrtónus'
+  - kis összeg
+  - világos bőrtónus
+🤏🏼:
+  - csippentő kéz
+  - 'csippentő kéz: közepesen világos bőrtónus'
+  - kis összeg
+  - közepesen világos bőrtónus
+🤏🏽:
+  - csippentő kéz
+  - 'csippentő kéz: közepes bőrtónus'
+  - kis összeg
+  - közepes bőrtónus
+🤏🏾:
+  - csippentő kéz
+  - 'csippentő kéz: közepesen sötét bőrtónus'
+  - kis összeg
+  - közepesen sötét bőrtónus
+🤏🏿:
+  - csippentő kéz
+  - 'csippentő kéz: sötét bőrtónus'
+  - kis összeg
+  - sötét bőrtónus
 ✌️:
   - betű
   - győzelmi jelet mutató kéz
@@ -2156,6 +2201,14 @@
   - karizom
   - képregény
   - sötét bőrtónus
+🦾:
+  - akadálymentesség
+  - mechanikus kar
+  - protézis
+🦿:
+  - akadálymentesség
+  - mechanikus láb
+  - protézis
 🦵:
   - comb
   - lábszár
@@ -2264,6 +2317,40 @@
   - sötét bőrtónus
   - test
   - testrész
+🦻:
+  - akadálymentesség
+  - fül hallókészülékkel
+  - nagyothalló
+🦻🏻:
+  - akadálymentesség
+  - fül hallókészülékkel
+  - 'fül hallókészülékkel: világos bőrtónus'
+  - nagyothalló
+  - világos bőrtónus
+🦻🏼:
+  - akadálymentesség
+  - fül hallókészülékkel
+  - 'fül hallókészülékkel: közepesen világos bőrtónus'
+  - közepesen világos bőrtónus
+  - nagyothalló
+🦻🏽:
+  - akadálymentesség
+  - fül hallókészülékkel
+  - 'fül hallókészülékkel: közepes bőrtónus'
+  - közepes bőrtónus
+  - nagyothalló
+🦻🏾:
+  - akadálymentesség
+  - fül hallókészülékkel
+  - 'fül hallókészülékkel: közepesen sötét bőrtónus'
+  - közepesen sötét bőrtónus
+  - nagyothalló
+🦻🏿:
+  - akadálymentesség
+  - fül hallókészülékkel
+  - 'fül hallókészülékkel: sötét bőrtónus'
+  - nagyothalló
+  - sötét bőrtónus
 👃:
   - fej
   - orr
@@ -3750,6 +3837,110 @@
   - vidám
   - vidáman intő nő
   - 'vidáman intő nő: sötét bőrtónus'
+🧏:
+  - akadálymentesség
+  - fül
+  - hall
+  - siket
+  - siket ember
+🧏🏻:
+  - akadálymentesség
+  - fül
+  - hall
+  - siket
+  - siket ember
+  - 'siket ember: világos bőrtónus'
+  - világos bőrtónus
+🧏🏼:
+  - akadálymentesség
+  - fül
+  - hall
+  - közepesen világos bőrtónus
+  - siket
+  - siket ember
+  - 'siket ember: közepesen világos bőrtónus'
+🧏🏽:
+  - akadálymentesség
+  - fül
+  - hall
+  - közepes bőrtónus
+  - siket
+  - siket ember
+  - 'siket ember: közepes bőrtónus'
+🧏🏾:
+  - akadálymentesség
+  - fül
+  - hall
+  - közepesen sötét bőrtónus
+  - siket
+  - siket ember
+  - 'siket ember: közepesen sötét bőrtónus'
+🧏🏿:
+  - akadálymentesség
+  - fül
+  - hall
+  - siket
+  - siket ember
+  - 'siket ember: sötét bőrtónus'
+  - sötét bőrtónus
+🧏‍♂:
+  - férfi
+  - siket
+  - siket férfi
+🧏🏻‍♂:
+  - férfi
+  - siket
+  - 'siket férfi: világos bőrtónus'
+  - világos bőrtónus
+🧏🏼‍♂:
+  - férfi
+  - közepesen világos bőrtónus
+  - siket
+  - 'siket férfi: közepesen világos bőrtónus'
+🧏🏽‍♂:
+  - férfi
+  - közepes bőrtónus
+  - siket
+  - 'siket férfi: közepes bőrtónus'
+🧏🏾‍♂:
+  - férfi
+  - közepesen sötét bőrtónus
+  - siket
+  - 'siket férfi: közepesen sötét bőrtónus'
+🧏🏿‍♂:
+  - férfi
+  - siket
+  - 'siket férfi: sötét bőrtónus'
+  - sötét bőrtónus
+🧏‍♀:
+  - nő
+  - siket
+  - siket nő
+🧏🏻‍♀:
+  - nő
+  - siket
+  - 'siket nő: világos bőrtónus'
+  - világos bőrtónus
+🧏🏼‍♀:
+  - közepesen világos bőrtónus
+  - nő
+  - siket
+  - 'siket nő: közepesen világos bőrtónus'
+🧏🏽‍♀:
+  - közepes bőrtónus
+  - nő
+  - siket
+  - 'siket nő: közepes bőrtónus'
+🧏🏾‍♀:
+  - közepesen sötét bőrtónus
+  - nő
+  - siket
+  - 'siket nő: közepesen sötét bőrtónus'
+🧏🏿‍♀:
+  - nő
+  - siket
+  - 'siket nő: sötét bőrtónus'
+  - sötét bőrtónus
 🙇:
   - bocsánatkérés
   - meghajlás
@@ -7690,6 +7881,450 @@
   - 'sétáló nő: sötét bőrtónus'
   - sötét bőrtónus
   - túra
+🧍:
+  - áll
+  - álló
+  - álló ember
+🧍🏻:
+  - világos bőrtónus
+  - áll
+  - álló
+  - álló ember
+  - 'álló ember: világos bőrtónus'
+🧍🏼:
+  - közepesen világos bőrtónus
+  - áll
+  - álló
+  - álló ember
+  - 'álló ember: közepesen világos bőrtónus'
+🧍🏽:
+  - közepes bőrtónus
+  - áll
+  - álló
+  - álló ember
+  - 'álló ember: közepes bőrtónus'
+🧍🏾:
+  - közepesen sötét bőrtónus
+  - áll
+  - álló
+  - álló ember
+  - 'álló ember: közepesen sötét bőrtónus'
+🧍🏿:
+  - sötét bőrtónus
+  - áll
+  - álló
+  - álló ember
+  - 'álló ember: sötét bőrtónus'
+🧍‍♂:
+  - férfi
+  - áll
+  - álló férfi
+🧍🏻‍♂:
+  - férfi
+  - világos bőrtónus
+  - áll
+  - álló férfi
+  - 'álló férfi: világos bőrtónus'
+🧍🏼‍♂:
+  - férfi
+  - közepesen világos bőrtónus
+  - áll
+  - álló férfi
+  - 'álló férfi: közepesen világos bőrtónus'
+🧍🏽‍♂:
+  - férfi
+  - közepes bőrtónus
+  - áll
+  - álló férfi
+  - 'álló férfi: közepes bőrtónus'
+🧍🏾‍♂:
+  - férfi
+  - közepesen sötét bőrtónus
+  - áll
+  - álló férfi
+  - 'álló férfi: közepesen sötét bőrtónus'
+🧍🏿‍♂:
+  - férfi
+  - sötét bőrtónus
+  - áll
+  - álló férfi
+  - 'álló férfi: sötét bőrtónus'
+🧍‍♀:
+  - nő
+  - áll
+  - álló nő
+🧍🏻‍♀:
+  - nő
+  - világos bőrtónus
+  - áll
+  - álló nő
+  - 'álló nő: világos bőrtónus'
+🧍🏼‍♀:
+  - közepesen világos bőrtónus
+  - nő
+  - áll
+  - álló nő
+  - 'álló nő: közepesen világos bőrtónus'
+🧍🏽‍♀:
+  - közepes bőrtónus
+  - nő
+  - áll
+  - álló nő
+  - 'álló nő: közepes bőrtónus'
+🧍🏾‍♀:
+  - közepesen sötét bőrtónus
+  - nő
+  - áll
+  - álló nő
+  - 'álló nő: közepesen sötét bőrtónus'
+🧍🏿‍♀:
+  - nő
+  - sötét bőrtónus
+  - áll
+  - álló nő
+  - 'álló nő: sötét bőrtónus'
+🧎:
+  - térdel
+  - térdelő
+  - térdelő ember
+🧎🏻:
+  - térdel
+  - térdelő
+  - térdelő ember
+  - 'térdelő ember: világos bőrtónus'
+  - világos bőrtónus
+🧎🏼:
+  - közepesen világos bőrtónus
+  - térdel
+  - térdelő
+  - térdelő ember
+  - 'térdelő ember: közepesen világos bőrtónus'
+🧎🏽:
+  - közepes bőrtónus
+  - térdel
+  - térdelő
+  - térdelő ember
+  - 'térdelő ember: közepes bőrtónus'
+🧎🏾:
+  - közepesen sötét bőrtónus
+  - térdel
+  - térdelő
+  - térdelő ember
+  - 'térdelő ember: közepesen sötét bőrtónus'
+🧎🏿:
+  - sötét bőrtónus
+  - térdel
+  - térdelő
+  - térdelő ember
+  - 'térdelő ember: sötét bőrtónus'
+🧎‍♂:
+  - férfi
+  - térdel
+  - térdelő férfi
+🧎🏻‍♂:
+  - férfi
+  - térdel
+  - térdelő férfi
+  - 'térdelő férfi: világos bőrtónus'
+  - világos bőrtónus
+🧎🏼‍♂:
+  - férfi
+  - közepesen világos bőrtónus
+  - térdel
+  - térdelő férfi
+  - 'térdelő férfi: közepesen világos bőrtónus'
+🧎🏽‍♂:
+  - férfi
+  - közepes bőrtónus
+  - térdel
+  - térdelő férfi
+  - 'térdelő férfi: közepes bőrtónus'
+🧎🏾‍♂:
+  - férfi
+  - közepesen sötét bőrtónus
+  - térdel
+  - térdelő férfi
+  - 'térdelő férfi: közepesen sötét bőrtónus'
+🧎🏿‍♂:
+  - férfi
+  - sötét bőrtónus
+  - térdel
+  - térdelő férfi
+  - 'térdelő férfi: sötét bőrtónus'
+🧎‍♀:
+  - nő
+  - térdel
+  - térdelő nő
+🧎🏻‍♀:
+  - nő
+  - térdel
+  - térdelő nő
+  - 'térdelő nő: világos bőrtónus'
+  - világos bőrtónus
+🧎🏼‍♀:
+  - közepesen világos bőrtónus
+  - nő
+  - térdel
+  - térdelő nő
+  - 'térdelő nő: közepesen világos bőrtónus'
+🧎🏽‍♀:
+  - közepes bőrtónus
+  - nő
+  - térdel
+  - térdelő nő
+  - 'térdelő nő: közepes bőrtónus'
+🧎🏾‍♀:
+  - közepesen sötét bőrtónus
+  - nő
+  - térdel
+  - térdelő nő
+  - 'térdelő nő: közepesen sötét bőrtónus'
+🧎🏿‍♀:
+  - nő
+  - sötét bőrtónus
+  - térdel
+  - térdelő nő
+  - 'térdelő nő: sötét bőrtónus'
+👨‍🦯:
+  - akadálymentesség
+  - férfi
+  - férfi fehér bottal
+  - vak
+👨🏻‍🦯:
+  - akadálymentesség
+  - férfi
+  - férfi fehér bottal
+  - 'férfi fehér bottal: világos bőrtónus'
+  - vak
+  - világos bőrtónus
+👨🏼‍🦯:
+  - akadálymentesség
+  - férfi
+  - férfi fehér bottal
+  - 'férfi fehér bottal: közepesen világos bőrtónus'
+  - közepesen világos bőrtónus
+  - vak
+👨🏽‍🦯:
+  - akadálymentesség
+  - férfi
+  - férfi fehér bottal
+  - 'férfi fehér bottal: közepes bőrtónus'
+  - közepes bőrtónus
+  - vak
+👨🏾‍🦯:
+  - akadálymentesség
+  - férfi
+  - férfi fehér bottal
+  - 'férfi fehér bottal: közepesen sötét bőrtónus'
+  - közepesen sötét bőrtónus
+  - vak
+👨🏿‍🦯:
+  - akadálymentesség
+  - férfi
+  - férfi fehér bottal
+  - 'férfi fehér bottal: sötét bőrtónus'
+  - sötét bőrtónus
+  - vak
+👩‍🦯:
+  - akadálymentesség
+  - nő
+  - nő fehér bottal
+  - vak
+👩🏻‍🦯:
+  - akadálymentesség
+  - nő
+  - nő fehér bottal
+  - 'nő fehér bottal: világos bőrtónus'
+  - vak
+  - világos bőrtónus
+👩🏼‍🦯:
+  - akadálymentesség
+  - közepesen világos bőrtónus
+  - nő
+  - nő fehér bottal
+  - 'nő fehér bottal: közepesen világos bőrtónus'
+  - vak
+👩🏽‍🦯:
+  - akadálymentesség
+  - közepes bőrtónus
+  - nő
+  - nő fehér bottal
+  - 'nő fehér bottal: közepes bőrtónus'
+  - vak
+👩🏾‍🦯:
+  - akadálymentesség
+  - közepesen sötét bőrtónus
+  - nő
+  - nő fehér bottal
+  - 'nő fehér bottal: közepesen sötét bőrtónus'
+  - vak
+👩🏿‍🦯:
+  - akadálymentesség
+  - nő
+  - nő fehér bottal
+  - 'nő fehér bottal: sötét bőrtónus'
+  - sötét bőrtónus
+  - vak
+👨‍🦼:
+  - akadálymentesség
+  - férfi
+  - férfi motoros kerekesszékben
+  - kerekesszék
+👨🏻‍🦼:
+  - akadálymentesség
+  - férfi
+  - férfi motoros kerekesszékben
+  - 'férfi motoros kerekesszékben: világos bőrtónus'
+  - kerekesszék
+  - világos bőrtónus
+👨🏼‍🦼:
+  - akadálymentesség
+  - férfi
+  - férfi motoros kerekesszékben
+  - 'férfi motoros kerekesszékben: közepesen világos bőrtónus'
+  - kerekesszék
+  - közepesen világos bőrtónus
+👨🏽‍🦼:
+  - akadálymentesség
+  - férfi
+  - férfi motoros kerekesszékben
+  - 'férfi motoros kerekesszékben: közepes bőrtónus'
+  - kerekesszék
+  - közepes bőrtónus
+👨🏾‍🦼:
+  - akadálymentesség
+  - férfi
+  - férfi motoros kerekesszékben
+  - 'férfi motoros kerekesszékben: közepesen sötét bőrtónus'
+  - kerekesszék
+  - közepesen sötét bőrtónus
+👨🏿‍🦼:
+  - akadálymentesség
+  - férfi
+  - férfi motoros kerekesszékben
+  - 'férfi motoros kerekesszékben: sötét bőrtónus'
+  - kerekesszék
+  - sötét bőrtónus
+👩‍🦼:
+  - akadálymentesség
+  - kerekesszék
+  - nő
+  - nő motoros kerekesszékben
+👩🏻‍🦼:
+  - akadálymentesség
+  - kerekesszék
+  - nő
+  - nő motoros kerekesszékben
+  - 'nő motoros kerekesszékben: világos bőrtónus'
+  - világos bőrtónus
+👩🏼‍🦼:
+  - akadálymentesség
+  - kerekesszék
+  - közepesen világos bőrtónus
+  - nő
+  - nő motoros kerekesszékben
+  - 'nő motoros kerekesszékben: közepesen világos bőrtónus'
+👩🏽‍🦼:
+  - akadálymentesség
+  - kerekesszék
+  - közepes bőrtónus
+  - nő
+  - nő motoros kerekesszékben
+  - 'nő motoros kerekesszékben: közepes bőrtónus'
+👩🏾‍🦼:
+  - akadálymentesség
+  - kerekesszék
+  - közepesen sötét bőrtónus
+  - nő
+  - nő motoros kerekesszékben
+  - 'nő motoros kerekesszékben: közepesen sötét bőrtónus'
+👩🏿‍🦼:
+  - akadálymentesség
+  - kerekesszék
+  - nő
+  - nő motoros kerekesszékben
+  - 'nő motoros kerekesszékben: sötét bőrtónus'
+  - sötét bőrtónus
+👨‍🦽:
+  - akadálymentesség
+  - férfi
+  - férfi kézi hajtású kerekesszékben
+  - kerekesszék
+👨🏻‍🦽:
+  - akadálymentesség
+  - férfi
+  - férfi kézi hajtású kerekesszékben
+  - 'férfi kézi hajtású kerekesszékben: világos bőrtónus'
+  - kerekesszék
+  - világos bőrtónus
+👨🏼‍🦽:
+  - akadálymentesség
+  - férfi
+  - férfi kézi hajtású kerekesszékben
+  - 'férfi kézi hajtású kerekesszékben: közepesen világos bőrtónus'
+  - kerekesszék
+  - közepesen világos bőrtónus
+👨🏽‍🦽:
+  - akadálymentesség
+  - férfi
+  - férfi kézi hajtású kerekesszékben
+  - 'férfi kézi hajtású kerekesszékben: közepes bőrtónus'
+  - kerekesszék
+  - közepes bőrtónus
+👨🏾‍🦽:
+  - akadálymentesség
+  - férfi
+  - férfi kézi hajtású kerekesszékben
+  - 'férfi kézi hajtású kerekesszékben: közepesen sötét bőrtónus'
+  - kerekesszék
+  - közepesen sötét bőrtónus
+👨🏿‍🦽:
+  - akadálymentesség
+  - férfi
+  - férfi kézi hajtású kerekesszékben
+  - 'férfi kézi hajtású kerekesszékben: sötét bőrtónus'
+  - kerekesszék
+  - sötét bőrtónus
+👩‍🦽:
+  - akadálymentesség
+  - kerekesszék
+  - nő
+  - nő kézi hajtású kerekesszékben
+👩🏻‍🦽:
+  - akadálymentesség
+  - kerekesszék
+  - nő
+  - nő kézi hajtású kerekesszékben
+  - 'nő kézi hajtású kerekesszékben: világos bőrtónus'
+  - világos bőrtónus
+👩🏼‍🦽:
+  - akadálymentesség
+  - kerekesszék
+  - közepesen világos bőrtónus
+  - nő
+  - nő kézi hajtású kerekesszékben
+  - 'nő kézi hajtású kerekesszékben: közepesen világos bőrtónus'
+👩🏽‍🦽:
+  - akadálymentesség
+  - kerekesszék
+  - közepes bőrtónus
+  - nő
+  - nő kézi hajtású kerekesszékben
+  - 'nő kézi hajtású kerekesszékben: közepes bőrtónus'
+👩🏾‍🦽:
+  - akadálymentesség
+  - kerekesszék
+  - közepesen sötét bőrtónus
+  - nő
+  - nő kézi hajtású kerekesszékben
+  - 'nő kézi hajtású kerekesszékben: közepesen sötét bőrtónus'
+👩🏿‍🦽:
+  - akadálymentesség
+  - kerekesszék
+  - nő
+  - nő kézi hajtású kerekesszékben
+  - 'nő kézi hajtású kerekesszékben: sötét bőrtónus'
+  - sötét bőrtónus
 🏃:
   - futás
   - futó
@@ -9869,21 +10504,572 @@
   - 'ember az ágyban: sötét bőrtónus'
   - szálloda
   - sötét bőrtónus
+🧑‍🤝‍🧑:
+  - egymás kezét fogó emberek
+  - fogás
+  - kéz
+  - kézenfogva
+  - pár
+🧑🏻‍🤝‍🧑🏻:
+  - egymás kezét fogó emberek
+  - 'egymás kezét fogó emberek: világos bőrtónus'
+  - fogás
+  - kéz
+  - kézenfogva
+  - pár
+  - világos bőrtónus
+🧑🏼‍🤝‍🧑🏻:
+  - egymás kezét fogó emberek
+  - 'egymás kezét fogó emberek: közepesen világos bőrtónus és világos bőrtónus'
+  - fogás
+  - kéz
+  - kézenfogva
+  - közepesen világos bőrtónus
+  - pár
+  - világos bőrtónus
+🧑🏼‍🤝‍🧑🏼:
+  - egymás kezét fogó emberek
+  - 'egymás kezét fogó emberek: közepesen világos bőrtónus'
+  - fogás
+  - kéz
+  - kézenfogva
+  - közepesen világos bőrtónus
+  - pár
+🧑🏽‍🤝‍🧑🏻:
+  - egymás kezét fogó emberek
+  - 'egymás kezét fogó emberek: közepes bőrtónus és világos bőrtónus'
+  - fogás
+  - kéz
+  - kézenfogva
+  - közepes bőrtónus
+  - pár
+  - világos bőrtónus
+🧑🏽‍🤝‍🧑🏼:
+  - egymás kezét fogó emberek
+  - 'egymás kezét fogó emberek: közepes bőrtónus és közepesen világos bőrtónus'
+  - fogás
+  - kéz
+  - kézenfogva
+  - közepes bőrtónus
+  - közepesen világos bőrtónus
+  - pár
+🧑🏽‍🤝‍🧑🏽:
+  - egymás kezét fogó emberek
+  - 'egymás kezét fogó emberek: közepes bőrtónus'
+  - fogás
+  - kéz
+  - kézenfogva
+  - közepes bőrtónus
+  - pár
+🧑🏾‍🤝‍🧑🏻:
+  - egymás kezét fogó emberek
+  - 'egymás kezét fogó emberek: közepesen sötét bőrtónus és világos bőrtónus'
+  - fogás
+  - kéz
+  - kézenfogva
+  - közepesen sötét bőrtónus
+  - pár
+  - világos bőrtónus
+🧑🏾‍🤝‍🧑🏼:
+  - egymás kezét fogó emberek
+  - 'egymás kezét fogó emberek: közepesen sötét bőrtónus és közepesen világos bőrtónus'
+  - fogás
+  - kéz
+  - kézenfogva
+  - közepesen sötét bőrtónus
+  - közepesen világos bőrtónus
+  - pár
+🧑🏾‍🤝‍🧑🏽:
+  - egymás kezét fogó emberek
+  - 'egymás kezét fogó emberek: közepesen sötét bőrtónus és közepes bőrtónus'
+  - fogás
+  - kéz
+  - kézenfogva
+  - közepes bőrtónus
+  - közepesen sötét bőrtónus
+  - pár
+🧑🏾‍🤝‍🧑🏾:
+  - egymás kezét fogó emberek
+  - 'egymás kezét fogó emberek: közepesen sötét bőrtónus'
+  - fogás
+  - kéz
+  - kézenfogva
+  - közepesen sötét bőrtónus
+  - pár
+🧑🏿‍🤝‍🧑🏻:
+  - egymás kezét fogó emberek
+  - 'egymás kezét fogó emberek: sötét bőrtónus és világos bőrtónus'
+  - fogás
+  - kéz
+  - kézenfogva
+  - pár
+  - sötét bőrtónus
+  - világos bőrtónus
+🧑🏿‍🤝‍🧑🏼:
+  - egymás kezét fogó emberek
+  - 'egymás kezét fogó emberek: sötét bőrtónus és közepesen világos bőrtónus'
+  - fogás
+  - kéz
+  - kézenfogva
+  - közepesen világos bőrtónus
+  - pár
+  - sötét bőrtónus
+🧑🏿‍🤝‍🧑🏽:
+  - egymás kezét fogó emberek
+  - 'egymás kezét fogó emberek: sötét bőrtónus és közepes bőrtónus'
+  - fogás
+  - kéz
+  - kézenfogva
+  - közepes bőrtónus
+  - pár
+  - sötét bőrtónus
+🧑🏿‍🤝‍🧑🏾:
+  - egymás kezét fogó emberek
+  - 'egymás kezét fogó emberek: sötét bőrtónus és közepesen sötét bőrtónus'
+  - fogás
+  - kéz
+  - kézenfogva
+  - közepesen sötét bőrtónus
+  - pár
+  - sötét bőrtónus
+🧑🏿‍🤝‍🧑🏿:
+  - egymás kezét fogó emberek
+  - 'egymás kezét fogó emberek: sötét bőrtónus'
+  - fogás
+  - kéz
+  - kézenfogva
+  - pár
+  - sötét bőrtónus
 👭:
   - kézen fogva
   - kézen fogva álló nők
   - nők
   - pár
+👭🏻:
+  - kézen fogva
+  - kézen fogva álló nők
+  - 'kézen fogva álló nők: világos bőrtónus'
+  - nők
+  - pár
+  - világos bőrtónus
+👩🏼‍🤝‍👩🏻:
+  - kézen fogva
+  - kézen fogva álló nők
+  - 'kézen fogva álló nők: közepesen világos bőrtónus és világos bőrtónus'
+  - közepesen világos bőrtónus
+  - nők
+  - pár
+  - világos bőrtónus
+👭🏼:
+  - kézen fogva
+  - kézen fogva álló nők
+  - 'kézen fogva álló nők: közepesen világos bőrtónus'
+  - közepesen világos bőrtónus
+  - nők
+  - pár
+👩🏽‍🤝‍👩🏻:
+  - kézen fogva
+  - kézen fogva álló nők
+  - 'kézen fogva álló nők: közepes bőrtónus és világos bőrtónus'
+  - közepes bőrtónus
+  - nők
+  - pár
+  - világos bőrtónus
+👩🏽‍🤝‍👩🏼:
+  - kézen fogva
+  - kézen fogva álló nők
+  - 'kézen fogva álló nők: közepes bőrtónus és közepesen világos bőrtónus'
+  - közepes bőrtónus
+  - közepesen világos bőrtónus
+  - nők
+  - pár
+👭🏽:
+  - kézen fogva
+  - kézen fogva álló nők
+  - 'kézen fogva álló nők: közepes bőrtónus'
+  - közepes bőrtónus
+  - nők
+  - pár
+👩🏾‍🤝‍👩🏻:
+  - kézen fogva
+  - kézen fogva álló nők
+  - 'kézen fogva álló nők: közepesen sötét bőrtónus és világos bőrtónus'
+  - közepesen sötét bőrtónus
+  - nők
+  - pár
+  - világos bőrtónus
+👩🏾‍🤝‍👩🏼:
+  - kézen fogva
+  - kézen fogva álló nők
+  - 'kézen fogva álló nők: közepesen sötét bőrtónus és közepesen világos bőrtónus'
+  - közepesen sötét bőrtónus
+  - közepesen világos bőrtónus
+  - nők
+  - pár
+👩🏾‍🤝‍👩🏽:
+  - kézen fogva
+  - kézen fogva álló nők
+  - 'kézen fogva álló nők: közepesen sötét bőrtónus és közepes bőrtónus'
+  - közepes bőrtónus
+  - közepesen sötét bőrtónus
+  - nők
+  - pár
+👭🏾:
+  - kézen fogva
+  - kézen fogva álló nők
+  - 'kézen fogva álló nők: közepesen sötét bőrtónus'
+  - közepesen sötét bőrtónus
+  - nők
+  - pár
+👩🏿‍🤝‍👩🏻:
+  - kézen fogva
+  - kézen fogva álló nők
+  - 'kézen fogva álló nők: sötét bőrtónus és világos bőrtónus'
+  - nők
+  - pár
+  - sötét bőrtónus
+  - világos bőrtónus
+👩🏿‍🤝‍👩🏼:
+  - kézen fogva
+  - kézen fogva álló nők
+  - 'kézen fogva álló nők: sötét bőrtónus és közepesen világos bőrtónus'
+  - közepesen világos bőrtónus
+  - nők
+  - pár
+  - sötét bőrtónus
+👩🏿‍🤝‍👩🏽:
+  - kézen fogva
+  - kézen fogva álló nők
+  - 'kézen fogva álló nők: sötét bőrtónus és közepes bőrtónus'
+  - közepes bőrtónus
+  - nők
+  - pár
+  - sötét bőrtónus
+👩🏿‍🤝‍👩🏾:
+  - kézen fogva
+  - kézen fogva álló nők
+  - 'kézen fogva álló nők: sötét bőrtónus és közepesen sötét bőrtónus'
+  - közepesen sötét bőrtónus
+  - nők
+  - pár
+  - sötét bőrtónus
+👭🏿:
+  - kézen fogva
+  - kézen fogva álló nők
+  - 'kézen fogva álló nők: sötét bőrtónus'
+  - nők
+  - pár
+  - sötét bőrtónus
 👫:
   - kéz a kézben
   - kézen fogva álló férfi és nő
   - pár
+👫🏻:
+  - kéz a kézben
+  - kézen fogva álló férfi és nő
+  - 'kézen fogva álló férfi és nő: világos bőrtónus'
+  - pár
+  - világos bőrtónus
+👩🏻‍🤝‍👨🏼:
+  - kéz a kézben
+  - kézen fogva álló férfi és nő
+  - 'kézen fogva álló férfi és nő: világos bőrtónus és közepesen világos bőrtónus'
+  - közepesen világos bőrtónus
+  - pár
+  - világos bőrtónus
+👩🏻‍🤝‍👨🏽:
+  - kéz a kézben
+  - kézen fogva álló férfi és nő
+  - 'kézen fogva álló férfi és nő: világos bőrtónus és közepes bőrtónus'
+  - közepes bőrtónus
+  - pár
+  - világos bőrtónus
+👩🏻‍🤝‍👨🏾:
+  - kéz a kézben
+  - kézen fogva álló férfi és nő
+  - 'kézen fogva álló férfi és nő: világos bőrtónus és közepesen sötét bőrtónus'
+  - közepesen sötét bőrtónus
+  - pár
+  - világos bőrtónus
+👩🏻‍🤝‍👨🏿:
+  - kéz a kézben
+  - kézen fogva álló férfi és nő
+  - 'kézen fogva álló férfi és nő: világos bőrtónus és sötét bőrtónus'
+  - pár
+  - sötét bőrtónus
+  - világos bőrtónus
+👩🏼‍🤝‍👨🏻:
+  - kéz a kézben
+  - kézen fogva álló férfi és nő
+  - 'kézen fogva álló férfi és nő: közepesen világos bőrtónus és világos bőrtónus'
+  - közepesen világos bőrtónus
+  - pár
+  - világos bőrtónus
+👫🏼:
+  - kéz a kézben
+  - kézen fogva álló férfi és nő
+  - 'kézen fogva álló férfi és nő: közepesen világos bőrtónus'
+  - közepesen világos bőrtónus
+  - pár
+👩🏼‍🤝‍👨🏽:
+  - kéz a kézben
+  - kézen fogva álló férfi és nő
+  - 'kézen fogva álló férfi és nő: közepesen világos bőrtónus és közepes bőrtónus'
+  - közepes bőrtónus
+  - közepesen világos bőrtónus
+  - pár
+👩🏼‍🤝‍👨🏾:
+  - kéz a kézben
+  - kézen fogva álló férfi és nő
+  - 'kézen fogva álló férfi és nő: közepesen világos bőrtónus és közepesen sötét bőrtónus'
+  - közepesen sötét bőrtónus
+  - közepesen világos bőrtónus
+  - pár
+👩🏼‍🤝‍👨🏿:
+  - kéz a kézben
+  - kézen fogva álló férfi és nő
+  - 'kézen fogva álló férfi és nő: közepesen világos bőrtónus és sötét bőrtónus'
+  - közepesen világos bőrtónus
+  - pár
+  - sötét bőrtónus
+👩🏽‍🤝‍👨🏻:
+  - kéz a kézben
+  - kézen fogva álló férfi és nő
+  - 'kézen fogva álló férfi és nő: közepes bőrtónus és világos bőrtónus'
+  - közepes bőrtónus
+  - pár
+  - világos bőrtónus
+👩🏽‍🤝‍👨🏼:
+  - kéz a kézben
+  - kézen fogva álló férfi és nő
+  - 'kézen fogva álló férfi és nő: közepes bőrtónus és közepesen világos bőrtónus'
+  - közepes bőrtónus
+  - közepesen világos bőrtónus
+  - pár
+👫🏽:
+  - kéz a kézben
+  - kézen fogva álló férfi és nő
+  - 'kézen fogva álló férfi és nő: közepes bőrtónus'
+  - közepes bőrtónus
+  - pár
+👩🏽‍🤝‍👨🏾:
+  - kéz a kézben
+  - kézen fogva álló férfi és nő
+  - 'kézen fogva álló férfi és nő: közepes bőrtónus és közepesen sötét bőrtónus'
+  - közepes bőrtónus
+  - közepesen sötét bőrtónus
+  - pár
+👩🏽‍🤝‍👨🏿:
+  - kéz a kézben
+  - kézen fogva álló férfi és nő
+  - 'kézen fogva álló férfi és nő: közepes bőrtónus és sötét bőrtónus'
+  - közepes bőrtónus
+  - pár
+  - sötét bőrtónus
+👩🏾‍🤝‍👨🏻:
+  - kéz a kézben
+  - kézen fogva álló férfi és nő
+  - 'kézen fogva álló férfi és nő: közepesen sötét bőrtónus és világos bőrtónus'
+  - közepesen sötét bőrtónus
+  - pár
+  - világos bőrtónus
+👩🏾‍🤝‍👨🏼:
+  - kéz a kézben
+  - kézen fogva álló férfi és nő
+  - 'kézen fogva álló férfi és nő: közepesen sötét bőrtónus és közepesen világos bőrtónus'
+  - közepesen sötét bőrtónus
+  - közepesen világos bőrtónus
+  - pár
+👩🏾‍🤝‍👨🏽:
+  - kéz a kézben
+  - kézen fogva álló férfi és nő
+  - 'kézen fogva álló férfi és nő: közepesen sötét bőrtónus és közepes bőrtónus'
+  - közepes bőrtónus
+  - közepesen sötét bőrtónus
+  - pár
+👫🏾:
+  - kéz a kézben
+  - kézen fogva álló férfi és nő
+  - 'kézen fogva álló férfi és nő: közepesen sötét bőrtónus'
+  - közepesen sötét bőrtónus
+  - pár
+👩🏾‍🤝‍👨🏿:
+  - kéz a kézben
+  - kézen fogva álló férfi és nő
+  - 'kézen fogva álló férfi és nő: közepesen sötét bőrtónus és sötét bőrtónus'
+  - közepesen sötét bőrtónus
+  - pár
+  - sötét bőrtónus
+👩🏿‍🤝‍👨🏻:
+  - kéz a kézben
+  - kézen fogva álló férfi és nő
+  - 'kézen fogva álló férfi és nő: sötét bőrtónus és világos bőrtónus'
+  - pár
+  - sötét bőrtónus
+  - világos bőrtónus
+👩🏿‍🤝‍👨🏼:
+  - kéz a kézben
+  - kézen fogva álló férfi és nő
+  - 'kézen fogva álló férfi és nő: sötét bőrtónus és közepesen világos bőrtónus'
+  - közepesen világos bőrtónus
+  - pár
+  - sötét bőrtónus
+👩🏿‍🤝‍👨🏽:
+  - kéz a kézben
+  - kézen fogva álló férfi és nő
+  - 'kézen fogva álló férfi és nő: sötét bőrtónus és közepes bőrtónus'
+  - közepes bőrtónus
+  - pár
+  - sötét bőrtónus
+👩🏿‍🤝‍👨🏾:
+  - kéz a kézben
+  - kézen fogva álló férfi és nő
+  - 'kézen fogva álló férfi és nő: sötét bőrtónus és közepesen sötét bőrtónus'
+  - közepesen sötét bőrtónus
+  - pár
+  - sötét bőrtónus
+👫🏿:
+  - kéz a kézben
+  - kézen fogva álló férfi és nő
+  - 'kézen fogva álló férfi és nő: sötét bőrtónus'
+  - pár
+  - sötét bőrtónus
 👬:
   - férfiak
   - ikrek
   - kézen fogva
   - kézen fogva álló férfiak
   - pár
+👬🏻:
+  - férfiak
+  - ikrek
+  - kézen fogva
+  - kézen fogva álló férfiak
+  - 'kézen fogva álló férfiak: világos bőrtónus'
+  - pár
+  - világos bőrtónus
+👨🏼‍🤝‍👨🏻:
+  - férfiak
+  - ikrek
+  - kézen fogva
+  - kézen fogva álló férfiak
+  - 'kézen fogva álló férfiak: közepesen világos bőrtónus és világos bőrtónus'
+  - közepesen világos bőrtónus
+  - pár
+  - világos bőrtónus
+👬🏼:
+  - férfiak
+  - ikrek
+  - kézen fogva
+  - kézen fogva álló férfiak
+  - 'kézen fogva álló férfiak: közepesen világos bőrtónus'
+  - közepesen világos bőrtónus
+  - pár
+👨🏽‍🤝‍👨🏻:
+  - férfiak
+  - ikrek
+  - kézen fogva
+  - kézen fogva álló férfiak
+  - 'kézen fogva álló férfiak: közepes bőrtónus és világos bőrtónus'
+  - közepes bőrtónus
+  - pár
+  - világos bőrtónus
+👨🏽‍🤝‍👨🏼:
+  - férfiak
+  - ikrek
+  - kézen fogva
+  - kézen fogva álló férfiak
+  - 'kézen fogva álló férfiak: közepes bőrtónus és közepesen világos bőrtónus'
+  - közepes bőrtónus
+  - közepesen világos bőrtónus
+  - pár
+👬🏽:
+  - férfiak
+  - ikrek
+  - kézen fogva
+  - kézen fogva álló férfiak
+  - 'kézen fogva álló férfiak: közepes bőrtónus'
+  - közepes bőrtónus
+  - pár
+👨🏾‍🤝‍👨🏻:
+  - férfiak
+  - ikrek
+  - kézen fogva
+  - kézen fogva álló férfiak
+  - 'kézen fogva álló férfiak: közepesen sötét bőrtónus és világos bőrtónus'
+  - közepesen sötét bőrtónus
+  - pár
+  - világos bőrtónus
+👨🏾‍🤝‍👨🏼:
+  - férfiak
+  - ikrek
+  - kézen fogva
+  - kézen fogva álló férfiak
+  - 'kézen fogva álló férfiak: közepesen sötét bőrtónus és közepesen világos bőrtónus'
+  - közepesen sötét bőrtónus
+  - közepesen világos bőrtónus
+  - pár
+👨🏾‍🤝‍👨🏽:
+  - férfiak
+  - ikrek
+  - kézen fogva
+  - kézen fogva álló férfiak
+  - 'kézen fogva álló férfiak: közepesen sötét bőrtónus és közepes bőrtónus'
+  - közepes bőrtónus
+  - közepesen sötét bőrtónus
+  - pár
+👬🏾:
+  - férfiak
+  - ikrek
+  - kézen fogva
+  - kézen fogva álló férfiak
+  - 'kézen fogva álló férfiak: közepesen sötét bőrtónus'
+  - közepesen sötét bőrtónus
+  - pár
+👨🏿‍🤝‍👨🏻:
+  - férfiak
+  - ikrek
+  - kézen fogva
+  - kézen fogva álló férfiak
+  - 'kézen fogva álló férfiak: sötét bőrtónus és világos bőrtónus'
+  - pár
+  - sötét bőrtónus
+  - világos bőrtónus
+👨🏿‍🤝‍👨🏼:
+  - férfiak
+  - ikrek
+  - kézen fogva
+  - kézen fogva álló férfiak
+  - 'kézen fogva álló férfiak: sötét bőrtónus és közepesen világos bőrtónus'
+  - közepesen világos bőrtónus
+  - pár
+  - sötét bőrtónus
+👨🏿‍🤝‍👨🏽:
+  - férfiak
+  - ikrek
+  - kézen fogva
+  - kézen fogva álló férfiak
+  - 'kézen fogva álló férfiak: sötét bőrtónus és közepes bőrtónus'
+  - közepes bőrtónus
+  - pár
+  - sötét bőrtónus
+👨🏿‍🤝‍👨🏾:
+  - férfiak
+  - ikrek
+  - kézen fogva
+  - kézen fogva álló férfiak
+  - 'kézen fogva álló férfiak: sötét bőrtónus és közepesen sötét bőrtónus'
+  - közepesen sötét bőrtónus
+  - pár
+  - sötét bőrtónus
+👬🏿:
+  - férfiak
+  - ikrek
+  - kézen fogva
+  - kézen fogva álló férfiak
+  - 'kézen fogva álló férfiak: sötét bőrtónus'
+  - pár
+  - sötét bőrtónus
 💏:
   - csók
   - pár
@@ -10254,6 +11440,9 @@
 🦍:
   - gorilla
   - állat
+🦧:
+  - emberszabású majom
+  - orangután
 🐶:
   - fej
   - kedvenc
@@ -10263,6 +11452,17 @@
 🐕️:
   - kisállat
   - kutya
+🦮:
+  - akadálymentesség
+  - vak
+  - vakvezető
+  - vakvezető kutya
+🐕‍🦺:
+  - akadálymentesség
+  - kutya
+  - segítség
+  - segítő
+  - segítőkutya
 🐩:
   - kedvenc
   - kisállat
@@ -10277,7 +11477,6 @@
   - fej
   - róka
   - rókafej
-  - állat
 🦝:
   - kíváncsi
   - mosómedve
@@ -10453,9 +11652,19 @@
   - medve
 🐼:
   - fej
-  - maci
   - panda
   - pandafej
+🦥:
+  - lajhár
+  - lassú
+  - lusta
+🦦:
+  - halászó
+  - játékos
+  - vidra
+🦨:
+  - bűz
+  - bűzösborz
 🦘:
   - Ausztrália
   - erszényes
@@ -10516,6 +11725,10 @@
   - bagoly
   - bölcs
   - madár
+🦩:
+  - flamingó
+  - színpompás
+  - trópusi
 🦚:
   - büszke
   - hivalkodó
@@ -10848,6 +12061,12 @@
 🥦:
   - brokkoli
   - vadkáposzta
+🧄:
+  - fokhagyma
+  - ízesítés
+🧅:
+  - hagyma
+  - ízesítés
 🍄:
   - gomba
   - növény
@@ -10881,6 +12100,10 @@
 🥞:
   - palacsinta
   - étel
+🧇:
+  - gofri
+  - határozatlan
+  - vas
 🧀:
   - lyukas sajt
   - sajt
@@ -10943,6 +12166,10 @@
   - pita
   - töltött
   - étel
+🧆:
+  - csicseriborsó
+  - falafel
+  - húsgolyó
 🥚:
   - tojás
   - étel
@@ -10972,6 +12199,9 @@
 🍿:
   - kukorica
   - pattogatott kukorica
+🧈:
+  - tejtermék
+  - vaj
 🧂:
   - fűszer
   - só
@@ -11068,6 +12298,10 @@
 🦑:
   - tintahal
   - étel
+🦪:
+  - búvárkodás
+  - gyöngy
+  - osztriga
 🍦:
   - desszert
   - fagyi
@@ -11227,6 +12461,16 @@
   - ivólé
   - pohár szívószállal
   - szóda
+🧃:
+  - gyümölcsleves doboz
+  - italos doboz
+🧉:
+  - ital
+  - maté
+🧊:
+  - hideg
+  - jéghegy
+  - jégkocka
 🥢:
   - evőpálcikák
   - hashi
@@ -11450,6 +12694,10 @@
   - mohamedán
   - muszlim
   - vallás
+🛕:
+  - hindu
+  - hindu templom
+  - templom
 🕍:
   - szentély
   - templom
@@ -11684,6 +12932,15 @@
 🛵:
   - motor
   - robogó
+🦽:
+  - akadálymentesség
+  - kézi hajtású kerekesszék
+🦼:
+  - akadálymentesség
+  - motoros kerekesszék
+🛺:
+  - motoros riksa
+  - tuk tuk
 🚲️:
   - bicikli
   - jármű
@@ -11792,6 +13049,9 @@
   - repülőgép
   - repülőgép érkezése
   - érkezés
+🪂:
+  - ejtőernyő
+  - siklóernyő
 💺:
   - szék
   - ülés
@@ -12152,6 +13412,9 @@
   - nap
   - nap arccal
   - égitest
+🪐:
+  - gyűrűs bolygó
+  - szaturnusz
 ⭐️:
   - csillag
 🌟:
@@ -12555,6 +13818,11 @@
   - hal
   - horgászbot
   - pecabot
+🤿:
+  - búvárkodás
+  - búvármaszk
+  - merülés
+  - szabadtüdős merülés
 🎽:
   - futás
   - futómez
@@ -12577,6 +13845,14 @@
   - játék
   - találat
   - telitalálat
+🪀:
+  - jojó
+  - jojózik
+  - játék
+🪁:
+  - papírsárkány
+  - repül
+  - szárnyal
 🎱:
   - 8-as
   - biliárd
@@ -12714,6 +13990,12 @@
   - laborköpeny
   - orvos
   - tudós
+🦺:
+  - biztonság
+  - mellény
+  - mentő
+  - mentőmellény
+  - vészhelyzet
 👔:
   - elegancia
   - nyakkendő
@@ -12747,6 +14029,21 @@
   - kimonó
   - ruha
   - ruházat
+🥻:
+  - ruha
+  - ruházat
+  - szári
+🩱:
+  - egyrészes fürdőruha
+  - fürdőruha
+🩲:
+  - alsó
+  - egyrészes
+  - fürdőnadrág
+🩳:
+  - alsó
+  - fürdőnadrág
+  - rövidnadrág
 👙:
   - bikini
   - fürdő
@@ -12815,6 +14112,10 @@
   - ruha
   - ruházat
   - szandál
+🩰:
+  - balett
+  - balettcipő
+  - tánc
 👢:
   - csizma
   - lábbeli
@@ -12972,6 +14273,10 @@
 🎻:
   - hangszer
   - hegedű
+  - zene
+🪕:
+  - bendzsó
+  - húros
   - zene
 🥁:
   - dob
@@ -13134,6 +14439,11 @@
   - lámpa
   - piros
   - piros papírlámpa
+🪔:
+  - diya
+  - lámpa
+  - olaj
+  - olajlámpa
 📔:
   - borító
   - díszes
@@ -13505,6 +14815,12 @@
 🔨:
   - kalapács
   - szerszám
+🪓:
+  - balta
+  - fa
+  - fejsze
+  - szekerce
+  - vágás
 ⛏️:
   - bányászat
   - csákány
@@ -13564,6 +14880,10 @@
   - kétkarú mérleg
   - mérleg
   - tömeg
+🦯:
+  - akadálymentesség
+  - fehér bot
+  - vak
 🔗:
   - kapocs
   - láncszem
@@ -13625,6 +14945,11 @@
   - injekciós tű
   - orvos
   - vérvétel
+🩸:
+  - gyógyszer
+  - menstruáció
+  - véradás
+  - vércsepp
 💊:
   - betegség
   - doktor
@@ -13632,6 +14957,14 @@
   - orvos
   - pirula
   - tabletta
+🩹:
+  - kötszer
+  - ragtapasz
+🩺:
+  - gyógyszer
+  - orvos
+  - sztetoszkóp
+  - szív
 🚪:
   - ajtó
 🛏️:
@@ -13643,6 +14976,10 @@
   - kanapé és lámpa
   - lámpa
   - szálloda
+🪑:
+  - szék
+  - ül
+  - ülés
 🚽:
   - mosdó
   - toalett
@@ -13654,6 +14991,10 @@
 🛁:
   - fürdés
   - fürdőkád
+🪒:
+  - borotva
+  - borotvál
+  - éles
 🧴:
   - hidratáló
   - krém
@@ -14564,10 +15905,30 @@
   - kör
   - piros
   - piros kör
+🟠:
+  - kör
+  - narancssárga
+  - narancssárga kör
+🟡:
+  - kör
+  - sárga
+  - sárga kör
+🟢:
+  - kör
+  - zöld
+  - zöld kör
 🔵:
   - alakzat
   - kék
   - kék kör
+  - kör
+🟣:
+  - kör
+  - lila
+  - lila kör
+🟤:
+  - barna
+  - barna kör
   - kör
 ⚫️:
   - alakzat
@@ -14577,6 +15938,34 @@
   - alakzat
   - fehér kör
   - kör
+🟥:
+  - négyzet
+  - vörös
+  - vörös négyzet
+🟧:
+  - narancssárga
+  - narancssárga négyzet
+  - négyzet
+🟨:
+  - négyzet
+  - sárga
+  - sárga négyzet
+🟩:
+  - négyzet
+  - zöld
+  - zöld négyzet
+🟦:
+  - kék
+  - kék négyzet
+  - négyzet
+🟪:
+  - lila
+  - lila négyzet
+  - négyzet
+🟫:
+  - barna
+  - barna négyzet
+  - négyzet
 ⬛️:
   - geometria
   - nagy fekete négyzet
@@ -14927,7 +16316,7 @@
   - 'zászló: Mikronézia'
 🇫🇴:
   - zászló
-  - 'zászló: Feröer-szigetek'
+  - 'zászló: Feröer szigetek'
 🇫🇷:
   - zászló
   - 'zászló: Franciaország'
@@ -15140,7 +16529,7 @@
   - 'zászló: Marshall-szigetek'
 🇲🇰:
   - zászló
-  - 'zászló: Macedónia'
+  - 'zászló: Észak-Macedónia'
 🇲🇱:
   - zászló
   - 'zászló: Mali'
@@ -15437,7 +16826,7 @@
   - 'zászló: Amerikai Virgin-szigetek'
 🇻🇳:
   - zászló
-  - 'zászló: Vietnam'
+  - 'zászló: Vietnám'
 🇻🇺:
   - zászló
   - 'zászló: Vanuatu'

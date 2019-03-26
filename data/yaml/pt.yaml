@@ -442,6 +442,8 @@
   - exausto
   - rosto
   - rosto cansado
+🥱:
+  - rosto bocejando
 😤:
   - rosto
   - rosto soltando vapor pelo nariz
@@ -519,6 +521,7 @@
   - monstro alienígena
   - rosto
 🤖:
+  - monstro
   - robô
   - rosto
   - rosto de robô
@@ -531,22 +534,23 @@
   - rosto de gato sorrindo
 😸:
   - gato
-  - riso
+  - olho
   - rosto
-  - rosto de gato
   - rosto de gato sorrindo com olhos sorridentes
+  - sorridente
   - sorriso
 😹:
+  - alegria
   - gato
+  - lágrimas
   - rosto
-  - rosto de gato
   - rosto de gato com lágrimas de alegria
 😻:
-  - apaixonado
+  - amor
+  - coração
   - gato
   - olho
   - rosto
-  - rosto de gato com olhos de coração
   - rosto de gato sorridente com olhos de coração
   - sorriso
 😼:
@@ -651,10 +655,11 @@
   - coração
   - coração decorativo
 ❣️:
-  - coração
   - exclamação
   - exclamação de coração
-  - ponto de exclamação vermelho
+  - exclamação em forma de coração
+  - pontuação
+  - sinal
 💔:
   - coração
   - coração partido
@@ -690,11 +695,15 @@
   - coração roxo
   - emoção
   - roxo
+🤎:
+  - coração marrom
 🖤:
   - coração
   - coração preto
   - negro
   - preto
+🤍:
+  - coração branco
 💯:
   - '100'
   - 100 pontos
@@ -860,40 +869,45 @@
   - cinco dedos
   - dedos
   - mão
+  - mão aberta com os dedos separados
+  - 'mão aberta com os dedos separados: pele clara'
   - mão aberta indicando cinco
-  - 'mão aberta indicando cinco: pele clara'
   - palma da mão
   - pele clara
 🖐🏼:
   - cinco dedos
   - dedos
   - mão
+  - mão aberta com os dedos separados
+  - 'mão aberta com os dedos separados: pele morena clara'
   - mão aberta indicando cinco
-  - 'mão aberta indicando cinco: pele morena clara'
   - palma da mão
   - pele morena clara
 🖐🏽:
   - cinco dedos
   - dedos
   - mão
+  - mão aberta com os dedos separados
+  - 'mão aberta com os dedos separados: pele morena'
   - mão aberta indicando cinco
-  - 'mão aberta indicando cinco: pele morena'
   - palma da mão
   - pele morena
 🖐🏾:
   - cinco dedos
   - dedos
   - mão
+  - mão aberta com os dedos separados
+  - 'mão aberta com os dedos separados: pele morena escura'
   - mão aberta indicando cinco
-  - 'mão aberta indicando cinco: pele morena escura'
   - palma da mão
   - pele morena escura
 🖐🏿:
   - cinco dedos
   - dedos
   - mão
+  - mão aberta com os dedos separados
+  - 'mão aberta com os dedos separados: pele escura'
   - mão aberta indicando cinco
-  - 'mão aberta indicando cinco: pele escura'
   - palma da mão
   - pele escura
 ✋:
@@ -1028,6 +1042,34 @@
   - sinal
   - sinal de ok
   - 'sinal de ok: pele escura'
+🤏:
+  - mão beliscando
+  - pequena quantidade
+🤏🏻:
+  - mão beliscando
+  - 'mão beliscando: pele clara'
+  - pele clara
+  - pequena quantidade
+🤏🏼:
+  - mão beliscando
+  - 'mão beliscando: pele morena clara'
+  - pele morena clara
+  - pequena quantidade
+🤏🏽:
+  - mão beliscando
+  - 'mão beliscando: pele morena'
+  - pele morena
+  - pequena quantidade
+🤏🏾:
+  - mão beliscando
+  - 'mão beliscando: pele morena escura'
+  - pele morena escura
+  - pequena quantidade
+🤏🏿:
+  - mão beliscando
+  - 'mão beliscando: pele escura'
+  - pele escura
+  - pequena quantidade
 ✌️:
   - mão com sinal de vitória
   - mão em V de vitória
@@ -1114,25 +1156,35 @@
   - mão
   - te amo
 🤟🏻:
-  - '"te amo" em libras'
-  - '"te amo" em libras: pele clara'
+  - gesto de "te amo"
+  - 'gesto de "te amo": pele clara'
+  - mão
   - pele clara
+  - te amo
 🤟🏼:
-  - '"te amo" em libras'
-  - '"te amo" em libras: pele morena clara'
+  - gesto de "te amo"
+  - 'gesto de "te amo": pele morena clara'
+  - mão
   - pele morena clara
+  - te amo
 🤟🏽:
-  - '"te amo" em libras'
-  - '"te amo" em libras: pele morena'
+  - gesto de "te amo"
+  - 'gesto de "te amo": pele morena'
+  - mão
   - pele morena
+  - te amo
 🤟🏾:
-  - '"te amo" em libras'
-  - '"te amo" em libras: pele morena escura'
+  - gesto de "te amo"
+  - 'gesto de "te amo": pele morena escura'
+  - mão
   - pele morena escura
+  - te amo
 🤟🏿:
-  - '"te amo" em libras'
-  - '"te amo" em libras: pele escura'
+  - gesto de "te amo"
+  - 'gesto de "te amo": pele escura'
+  - mão
   - pele escura
+  - te amo
 🤘:
   - chifres
   - dedos
@@ -2079,6 +2131,10 @@
   - forte
   - músculo
   - pele escura
+🦾:
+  - braço mecânico
+🦿:
+  - perna mecânica
 🦵:
   - chute
   - membro
@@ -2175,6 +2231,28 @@
   - orelha
   - 'orelha: pele escura'
   - pele escura
+🦻:
+  - ouvido com aparelho auditivo
+🦻🏻:
+  - ouvido com aparelho auditivo
+  - 'ouvido com aparelho auditivo: pele clara'
+  - pele clara
+🦻🏼:
+  - ouvido com aparelho auditivo
+  - 'ouvido com aparelho auditivo: pele morena clara'
+  - pele morena clara
+🦻🏽:
+  - ouvido com aparelho auditivo
+  - 'ouvido com aparelho auditivo: pele morena'
+  - pele morena
+🦻🏾:
+  - ouvido com aparelho auditivo
+  - 'ouvido com aparelho auditivo: pele morena escura'
+  - pele morena escura
+🦻🏿:
+  - ouvido com aparelho auditivo
+  - 'ouvido com aparelho auditivo: pele escura'
+  - pele escura
 👃:
   - corpo
   - nariz
@@ -2241,28 +2319,28 @@
 👶🏻:
   - bebê
   - 'bebê: pele clara'
+  - neném
   - pele clara
-  - pessoas
 👶🏼:
   - bebê
   - 'bebê: pele morena clara'
+  - neném
   - pele morena clara
-  - pessoas
 👶🏽:
   - bebê
   - 'bebê: pele morena'
+  - neném
   - pele morena
-  - pessoas
 👶🏾:
   - bebê
   - 'bebê: pele morena escura'
+  - neném
   - pele morena escura
-  - pessoas
 👶🏿:
   - bebê
   - 'bebê: pele escura'
+  - neném
   - pele escura
-  - pessoas
 🧒:
   - criança
 🧒🏻:
@@ -2289,550 +2367,617 @@
   - jovem
   - menino
 👦🏻:
+  - jovem
   - menino
   - 'menino: pele clara'
   - pele clara
-  - pessoas
 👦🏼:
+  - jovem
   - menino
   - 'menino: pele morena clara'
   - pele morena clara
-  - pessoas
 👦🏽:
+  - jovem
   - menino
   - 'menino: pele morena'
   - pele morena
-  - pessoas
 👦🏾:
+  - jovem
   - menino
   - 'menino: pele morena escura'
   - pele morena escura
-  - pessoas
 👦🏿:
+  - jovem
   - menino
   - 'menino: pele escura'
   - pele escura
-  - pessoas
 👧:
   - garota
   - menina
 👧🏻:
+  - garota
   - menina
   - 'menina: pele clara'
   - pele clara
-  - pessoas
 👧🏼:
+  - garota
   - menina
   - 'menina: pele morena clara'
   - pele morena clara
-  - pessoas
 👧🏽:
+  - garota
   - menina
   - 'menina: pele morena'
   - pele morena
-  - pessoas
 👧🏾:
+  - garota
   - menina
   - 'menina: pele morena escura'
   - pele morena escura
-  - pessoas
 👧🏿:
+  - garota
   - menina
   - 'menina: pele escura'
   - pele escura
-  - pessoas
 🧑:
   - adulto
   - gênero não especificado
   - pessoa
 🧑🏻:
   - adulto
-  - 'adulto: pele clara'
+  - gênero não especificado
   - pele clara
+  - pessoa
+  - 'pessoa: pele clara'
 🧑🏼:
   - adulto
-  - 'adulto: pele morena clara'
+  - gênero não especificado
   - pele morena clara
+  - pessoa
+  - 'pessoa: pele morena clara'
 🧑🏽:
   - adulto
-  - 'adulto: pele morena'
+  - gênero não especificado
   - pele morena
+  - pessoa
+  - 'pessoa: pele morena'
 🧑🏾:
   - adulto
-  - 'adulto: pele morena escura'
+  - gênero não especificado
   - pele morena escura
+  - pessoa
+  - 'pessoa: pele morena escura'
 🧑🏿:
   - adulto
-  - 'adulto: pele escura'
+  - gênero não especificado
   - pele escura
+  - pessoa
+  - 'pessoa: pele escura'
 👱:
+  - cabelo
   - loiro
   - louro
   - pessoa loira
   - pessoa loura
   - 'pessoa: cabelo louro'
 👱🏻:
+  - cabelo
   - loiro
+  - louro
   - pele clara
   - pessoa loira
-  - 'pessoa loira: pele clara'
-  - pessoas
+  - pessoa loura
+  - 'pessoa: cabelo louro'
+  - 'pessoa: pele clara e cabelo louro'
 👱🏼:
+  - cabelo
   - loiro
+  - louro
   - pele morena clara
   - pessoa loira
-  - 'pessoa loira: pele morena clara'
-  - pessoas
+  - pessoa loura
+  - 'pessoa: cabelo louro'
+  - 'pessoa: pele morena clara e cabelo louro'
 👱🏽:
+  - cabelo
   - loiro
+  - louro
   - pele morena
   - pessoa loira
-  - 'pessoa loira: pele morena'
-  - pessoas
+  - pessoa loura
+  - 'pessoa: cabelo louro'
+  - 'pessoa: pele morena e cabelo louro'
 👱🏾:
+  - cabelo
   - loiro
+  - louro
   - pele morena escura
   - pessoa loira
-  - 'pessoa loira: pele morena escura'
-  - pessoas
+  - pessoa loura
+  - 'pessoa: cabelo louro'
+  - 'pessoa: pele morena escura e cabelo louro'
 👱🏿:
+  - cabelo
   - loiro
+  - louro
   - pele escura
   - pessoa loira
-  - 'pessoa loira: pele escura'
-  - pessoas
+  - pessoa loura
+  - 'pessoa: cabelo louro'
+  - 'pessoa: pele escura e cabelo louro'
 👨:
   - adulto
   - homem
 👨🏻:
+  - adulto
   - homem
   - 'homem: pele clara'
   - pele clara
-  - pessoas
 👨🏼:
+  - adulto
   - homem
   - 'homem: pele morena clara'
   - pele morena clara
-  - pessoas
 👨🏽:
+  - adulto
   - homem
   - 'homem: pele morena'
   - pele morena
-  - pessoas
 👨🏾:
+  - adulto
   - homem
   - 'homem: pele morena escura'
   - pele morena escura
-  - pessoas
 👨🏿:
+  - adulto
   - homem
   - 'homem: pele escura'
   - pele escura
-  - pessoas
 🧔:
   - barba
   - barbudo
+  - homem
+  - 'homem: barba'
+  - pessoa
 🧔🏻:
   - barba
   - barbudo
-  - 'barbudo: pele clara'
+  - homem
+  - 'homem: barba'
+  - 'homem: pele clara e barba'
   - pele clara
+  - pessoa
 🧔🏼:
   - barba
   - barbudo
-  - 'barbudo: pele morena clara'
+  - homem
+  - 'homem: barba'
+  - 'homem: pele morena clara e barba'
   - pele morena clara
+  - pessoa
 🧔🏽:
   - barba
   - barbudo
-  - 'barbudo: pele morena'
+  - homem
+  - 'homem: barba'
+  - 'homem: pele morena e barba'
   - pele morena
+  - pessoa
 🧔🏾:
   - barba
   - barbudo
-  - 'barbudo: pele morena escura'
+  - homem
+  - 'homem: barba'
+  - 'homem: pele morena escura e barba'
   - pele morena escura
+  - pessoa
 🧔🏿:
   - barba
   - barbudo
-  - 'barbudo: pele escura'
-  - pele escura
-👱‍♂:
   - homem
+  - 'homem: barba'
+  - 'homem: pele escura e barba'
+  - pele escura
+  - pessoa
+👱‍♂:
+  - cabelo
+  - homem
+  - 'homem: cabelo loiro'
   - loiro
   - louro
 👱🏻‍♂:
+  - cabelo
   - homem
+  - 'homem: cabelo loiro'
+  - 'homem: pele clara e cabelo loiro'
   - loiro
-  - 'loiro: pele clara'
   - louro
   - pele clara
 👱🏼‍♂:
+  - cabelo
   - homem
+  - 'homem: cabelo loiro'
+  - 'homem: pele morena clara e cabelo loiro'
   - loiro
-  - 'loiro: pele morena clara'
   - louro
   - pele morena clara
 👱🏽‍♂:
+  - cabelo
   - homem
+  - 'homem: cabelo loiro'
+  - 'homem: pele morena e cabelo loiro'
   - loiro
-  - 'loiro: pele morena'
   - louro
   - pele morena
 👱🏾‍♂:
+  - cabelo
   - homem
+  - 'homem: cabelo loiro'
+  - 'homem: pele morena escura e cabelo loiro'
   - loiro
-  - 'loiro: pele morena escura'
   - louro
   - pele morena escura
 👱🏿‍♂:
+  - cabelo
   - homem
+  - 'homem: cabelo loiro'
+  - 'homem: pele escura e cabelo loiro'
   - loiro
-  - 'loiro: pele escura'
   - louro
   - pele escura
 👨‍🦰:
+  - adulto
   - cabelo vermelho
   - homem
   - 'homem: cabelo vermelho'
-  - pessoas
 👨🏻‍🦰:
+  - adulto
   - cabelo vermelho
   - homem
   - 'homem: pele clara e cabelo vermelho'
   - pele clara
-  - pessoas
 👨🏼‍🦰:
+  - adulto
   - cabelo vermelho
   - homem
   - 'homem: pele morena clara e cabelo vermelho'
   - pele morena clara
-  - pessoas
 👨🏽‍🦰:
+  - adulto
   - cabelo vermelho
   - homem
   - 'homem: pele morena e cabelo vermelho'
   - pele morena
-  - pessoas
 👨🏾‍🦰:
+  - adulto
   - cabelo vermelho
   - homem
   - 'homem: pele morena escura e cabelo vermelho'
   - pele morena escura
-  - pessoas
 👨🏿‍🦰:
+  - adulto
   - cabelo vermelho
   - homem
   - 'homem: pele escura e cabelo vermelho'
   - pele escura
-  - pessoas
 👨‍🦱:
+  - adulto
   - cabelo cacheado
   - homem
   - 'homem: cabelo cacheado'
-  - pessoas
 👨🏻‍🦱:
+  - adulto
   - cabelo cacheado
   - homem
   - 'homem: pele clara e cabelo cacheado'
   - pele clara
-  - pessoas
 👨🏼‍🦱:
+  - adulto
   - cabelo cacheado
   - homem
   - 'homem: pele morena clara e cabelo cacheado'
   - pele morena clara
-  - pessoas
 👨🏽‍🦱:
+  - adulto
   - cabelo cacheado
   - homem
   - 'homem: pele morena e cabelo cacheado'
   - pele morena
-  - pessoas
 👨🏾‍🦱:
+  - adulto
   - cabelo cacheado
   - homem
   - 'homem: pele morena escura e cabelo cacheado'
   - pele morena escura
-  - pessoas
 👨🏿‍🦱:
+  - adulto
   - cabelo cacheado
   - homem
   - 'homem: pele escura e cabelo cacheado'
   - pele escura
-  - pessoas
 👨‍🦳:
+  - adulto
   - cabelo branco
   - homem
   - 'homem: cabelo branco'
-  - pessoas
 👨🏻‍🦳:
+  - adulto
   - cabelo branco
   - homem
   - 'homem: pele clara e cabelo branco'
   - pele clara
-  - pessoas
 👨🏼‍🦳:
+  - adulto
   - cabelo branco
   - homem
   - 'homem: pele morena clara e cabelo branco'
   - pele morena clara
-  - pessoas
 👨🏽‍🦳:
+  - adulto
   - cabelo branco
   - homem
   - 'homem: pele morena e cabelo branco'
   - pele morena
-  - pessoas
 👨🏾‍🦳:
+  - adulto
   - cabelo branco
   - homem
   - 'homem: pele morena escura e cabelo branco'
   - pele morena escura
-  - pessoas
 👨🏿‍🦳:
+  - adulto
   - cabelo branco
   - homem
   - 'homem: pele escura e cabelo branco'
   - pele escura
-  - pessoas
 👨‍🦲:
+  - adulto
   - careca
   - homem
   - 'homem: careca'
-  - pessoas
 👨🏻‍🦲:
+  - adulto
   - careca
   - homem
   - 'homem: pele clara e careca'
   - pele clara
-  - pessoas
 👨🏼‍🦲:
+  - adulto
   - careca
   - homem
   - 'homem: pele morena clara e careca'
   - pele morena clara
-  - pessoas
 👨🏽‍🦲:
+  - adulto
   - careca
   - homem
   - 'homem: pele morena e careca'
   - pele morena
-  - pessoas
 👨🏾‍🦲:
+  - adulto
   - careca
   - homem
   - 'homem: pele morena escura e careca'
   - pele morena escura
-  - pessoas
 👨🏿‍🦲:
+  - adulto
   - careca
   - homem
   - 'homem: pele escura e careca'
   - pele escura
-  - pessoas
 👩:
   - adulta
   - mulher
 👩🏻:
+  - adulta
   - mulher
   - 'mulher: pele clara'
   - pele clara
-  - pessoas
 👩🏼:
+  - adulta
   - mulher
   - 'mulher: pele morena clara'
   - pele morena clara
-  - pessoas
 👩🏽:
+  - adulta
   - mulher
   - 'mulher: pele morena'
   - pele morena
-  - pessoas
 👩🏾:
+  - adulta
   - mulher
   - 'mulher: pele morena escura'
   - pele morena escura
-  - pessoas
 👩🏿:
+  - adulta
   - mulher
   - 'mulher: pele escura'
   - pele escura
-  - pessoas
 👱‍♀:
   - loira
   - loura
   - mulher
+  - 'mulher: cabelo loiro'
 👱🏻‍♀:
+  - cabelo loiro
   - loira
-  - 'loira: pele clara'
   - loura
   - mulher
+  - 'mulher: cabelo loiro'
+  - 'mulher: pele clara e cabelo loiro'
   - pele clara
 👱🏼‍♀:
+  - cabelo loiro
   - loira
-  - 'loira: pele morena clara'
   - loura
   - mulher
+  - 'mulher: cabelo loiro'
+  - 'mulher: pele morena clara e cabelo loiro'
   - pele morena clara
 👱🏽‍♀:
+  - cabelo loiro
   - loira
-  - 'loira: pele morena'
   - loura
   - mulher
+  - 'mulher: cabelo loiro'
+  - 'mulher: pele morena e cabelo loiro'
   - pele morena
 👱🏾‍♀:
+  - cabelo loiro
   - loira
-  - 'loira: pele morena escura'
   - loura
   - mulher
+  - 'mulher: cabelo loiro'
+  - 'mulher: pele morena escura e cabelo loiro'
   - pele morena escura
 👱🏿‍♀:
+  - cabelo loiro
   - loira
-  - 'loira: pele escura'
   - loura
   - mulher
+  - 'mulher: cabelo loiro'
+  - 'mulher: pele escura e cabelo loiro'
   - pele escura
 👩‍🦰:
+  - adulta
   - cabelo vermelho
   - mulher
   - 'mulher: cabelo vermelho'
-  - pessoas
 👩🏻‍🦰:
+  - adulta
   - cabelo vermelho
   - mulher
   - 'mulher: pele clara e cabelo vermelho'
   - pele clara
-  - pessoas
 👩🏼‍🦰:
+  - adulta
   - cabelo vermelho
   - mulher
   - 'mulher: pele morena clara e cabelo vermelho'
   - pele morena clara
-  - pessoas
 👩🏽‍🦰:
+  - adulta
   - cabelo vermelho
   - mulher
   - 'mulher: pele morena e cabelo vermelho'
   - pele morena
-  - pessoas
 👩🏾‍🦰:
+  - adulta
   - cabelo vermelho
   - mulher
   - 'mulher: pele morena escura e cabelo vermelho'
   - pele morena escura
-  - pessoas
 👩🏿‍🦰:
+  - adulta
   - cabelo vermelho
   - mulher
   - 'mulher: pele escura e cabelo vermelho'
   - pele escura
-  - pessoas
 👩‍🦱:
+  - adulta
   - cabelo cacheado
   - mulher
   - 'mulher: cabelo cacheado'
-  - pessoas
 👩🏻‍🦱:
+  - adulta
   - cabelo cacheado
   - mulher
   - 'mulher: pele clara e cabelo cacheado'
   - pele clara
-  - pessoas
 👩🏼‍🦱:
+  - adulta
   - cabelo cacheado
   - mulher
   - 'mulher: pele morena clara e cabelo cacheado'
   - pele morena clara
-  - pessoas
 👩🏽‍🦱:
+  - adulta
   - cabelo cacheado
   - mulher
   - 'mulher: pele morena e cabelo cacheado'
   - pele morena
-  - pessoas
 👩🏾‍🦱:
+  - adulta
   - cabelo cacheado
   - mulher
   - 'mulher: pele morena escura e cabelo cacheado'
   - pele morena escura
-  - pessoas
 👩🏿‍🦱:
+  - adulta
   - cabelo cacheado
   - mulher
   - 'mulher: pele escura e cabelo cacheado'
   - pele escura
-  - pessoas
 👩‍🦳:
+  - adulta
   - cabelo branco
   - mulher
   - 'mulher: cabelo branco'
-  - pessoas
 👩🏻‍🦳:
+  - adulta
   - cabelo branco
   - mulher
   - 'mulher: pele clara e cabelo branco'
   - pele clara
-  - pessoas
 👩🏼‍🦳:
+  - adulta
   - cabelo branco
   - mulher
   - 'mulher: pele morena clara e cabelo branco'
   - pele morena clara
-  - pessoas
 👩🏽‍🦳:
+  - adulta
   - cabelo branco
   - mulher
   - 'mulher: pele morena e cabelo branco'
   - pele morena
-  - pessoas
 👩🏾‍🦳:
+  - adulta
   - cabelo branco
   - mulher
   - 'mulher: pele morena escura e cabelo branco'
   - pele morena escura
-  - pessoas
 👩🏿‍🦳:
+  - adulta
   - cabelo branco
   - mulher
   - 'mulher: pele escura e cabelo branco'
   - pele escura
-  - pessoas
 👩‍🦲:
+  - adulta
   - careca
   - mulher
   - 'mulher: careca'
-  - pessoas
 👩🏻‍🦲:
+  - adulta
   - careca
   - mulher
   - 'mulher: pele clara e careca'
   - pele clara
-  - pessoas
 👩🏼‍🦲:
+  - adulta
   - careca
   - mulher
   - 'mulher: pele morena clara e careca'
   - pele morena clara
-  - pessoas
 👩🏽‍🦲:
+  - adulta
   - careca
   - mulher
   - 'mulher: pele morena e careca'
   - pele morena
-  - pessoas
 👩🏾‍🦲:
+  - adulta
   - careca
   - mulher
   - 'mulher: pele morena escura e careca'
   - pele morena escura
-  - pessoas
 👩🏿‍🦲:
+  - adulta
   - careca
   - mulher
   - 'mulher: pele escura e careca'
   - pele escura
-  - pessoas
 🧓:
   - adulto
   - idoso
@@ -2867,69 +3012,69 @@
   - homem idoso
   - idoso
 👴🏻:
+  - adulto
   - homem
   - 'homem idoso: pele clara'
   - idoso
   - pele clara
-  - pessoas
 👴🏼:
+  - adulto
   - homem
   - 'homem idoso: pele morena clara'
   - idoso
   - pele morena clara
-  - pessoas
 👴🏽:
+  - adulto
   - homem
   - 'homem idoso: pele morena'
   - idoso
   - pele morena
-  - pessoas
 👴🏾:
+  - adulto
   - homem
   - 'homem idoso: pele morena escura'
   - idoso
   - pele morena escura
-  - pessoas
 👴🏿:
+  - adulto
   - homem
   - 'homem idoso: pele escura'
   - idoso
   - pele escura
-  - pessoas
 👵:
   - adulta
   - idosa
   - mulher
 👵🏻:
+  - adulta
   - idosa
   - 'idosa: pele clara'
   - mulher
   - pele clara
-  - pessoas
 👵🏼:
+  - adulta
   - idosa
   - 'idosa: pele morena clara'
   - mulher
   - pele morena clara
-  - pessoas
 👵🏽:
+  - adulta
   - idosa
   - 'idosa: pele morena'
   - mulher
   - pele morena
-  - pessoas
 👵🏾:
+  - adulta
   - idosa
   - 'idosa: pele morena escura'
   - mulher
   - pele morena escura
-  - pessoas
 👵🏿:
+  - adulta
   - idosa
   - 'idosa: pele escura'
   - mulher
   - pele escura
-  - pessoas
 🙍:
   - franzindo a sobrancelha
   - gesto
@@ -3057,39 +3202,39 @@
   - pessoa fazendo bico
 🙎🏻:
   - fazendo bico
-  - 'fazendo bico: pele clara'
   - gesto
   - pele clara
   - pessoa
   - pessoa fazendo bico
+  - 'pessoa fazendo bico: pele clara'
 🙎🏼:
   - fazendo bico
-  - 'fazendo bico: pele morena clara'
   - gesto
   - pele morena clara
   - pessoa
   - pessoa fazendo bico
+  - 'pessoa fazendo bico: pele morena clara'
 🙎🏽:
   - fazendo bico
-  - 'fazendo bico: pele morena'
   - gesto
   - pele morena
   - pessoa
   - pessoa fazendo bico
+  - 'pessoa fazendo bico: pele morena'
 🙎🏾:
   - fazendo bico
-  - 'fazendo bico: pele morena escura'
   - gesto
   - pele morena escura
   - pessoa
   - pessoa fazendo bico
+  - 'pessoa fazendo bico: pele morena escura'
 🙎🏿:
   - fazendo bico
-  - 'fazendo bico: pele escura'
   - gesto
   - pele escura
   - pessoa
   - pessoa fazendo bico
+  - 'pessoa fazendo bico: pele escura'
 🙎‍♂:
   - bico
   - cara feia
@@ -3177,44 +3322,39 @@
   - proibido
 🙅🏻:
   - gesto
-  - gesto para “não é bom”
-  - 'gesto para “não é bom”: pele clara'
-  - não é bom
+  - mão
   - pele clara
+  - pessoa fazendo gesto de “não”
+  - 'pessoa fazendo gesto de “não”: pele clara'
   - proibido
-  - rosto
 🙅🏼:
   - gesto
-  - gesto para “não é bom”
-  - 'gesto para “não é bom”: pele morena clara'
-  - não é bom
+  - mão
   - pele morena clara
+  - pessoa fazendo gesto de “não”
+  - 'pessoa fazendo gesto de “não”: pele morena clara'
   - proibido
-  - rosto
 🙅🏽:
   - gesto
-  - gesto para “não é bom”
-  - 'gesto para “não é bom”: pele morena'
-  - não é bom
+  - mão
   - pele morena
+  - pessoa fazendo gesto de “não”
+  - 'pessoa fazendo gesto de “não”: pele morena'
   - proibido
-  - rosto
 🙅🏾:
   - gesto
-  - gesto para “não é bom”
-  - 'gesto para “não é bom”: pele morena escura'
-  - não é bom
+  - mão
   - pele morena escura
+  - pessoa fazendo gesto de “não”
+  - 'pessoa fazendo gesto de “não”: pele morena escura'
   - proibido
-  - rosto
 🙅🏿:
   - gesto
-  - gesto para “não é bom”
-  - 'gesto para “não é bom”: pele escura'
-  - não é bom
+  - mão
   - pele escura
+  - pessoa fazendo gesto de “não”
+  - 'pessoa fazendo gesto de “não”: pele escura'
   - proibido
-  - rosto
 🙅‍♂:
   - gesto
   - homem
@@ -3224,43 +3364,43 @@
 🙅🏻‍♂:
   - gesto
   - homem
-  - homem dizendo “não”
-  - 'homem dizendo “não”: pele clara'
-  - não
-  - pare
+  - homem fazendo gesto de “não”
+  - 'homem fazendo gesto de “não”: pele clara'
+  - mão
   - pele clara
+  - proibido
 🙅🏼‍♂:
   - gesto
   - homem
-  - homem dizendo “não”
-  - 'homem dizendo “não”: pele morena clara'
-  - não
-  - pare
+  - homem fazendo gesto de “não”
+  - 'homem fazendo gesto de “não”: pele morena clara'
+  - mão
   - pele morena clara
+  - proibido
 🙅🏽‍♂:
   - gesto
   - homem
-  - homem dizendo “não”
-  - 'homem dizendo “não”: pele morena'
-  - não
-  - pare
+  - homem fazendo gesto de “não”
+  - 'homem fazendo gesto de “não”: pele morena'
+  - mão
   - pele morena
+  - proibido
 🙅🏾‍♂:
   - gesto
   - homem
-  - homem dizendo “não”
-  - 'homem dizendo “não”: pele morena escura'
-  - não
-  - pare
+  - homem fazendo gesto de “não”
+  - 'homem fazendo gesto de “não”: pele morena escura'
+  - mão
   - pele morena escura
+  - proibido
 🙅🏿‍♂:
   - gesto
   - homem
-  - homem dizendo “não”
-  - 'homem dizendo “não”: pele escura'
-  - não
-  - pare
+  - homem fazendo gesto de “não”
+  - 'homem fazendo gesto de “não”: pele escura'
+  - mão
   - pele escura
+  - proibido
 🙅‍♀:
   - gesto
   - mulher
@@ -3269,84 +3409,84 @@
   - proibido
 🙅🏻‍♀:
   - gesto
-  - muher
-  - mulher dizendo “não”
-  - 'mulher dizendo “não”: pele clara'
-  - não
-  - pare
+  - mulher
+  - mulher fazendo gesto de “não”
+  - 'mulher fazendo gesto de “não”: pele clara'
+  - mão
   - pele clara
+  - proibido
 🙅🏼‍♀:
   - gesto
-  - muher
-  - mulher dizendo “não”
-  - 'mulher dizendo “não”: pele morena clara'
-  - não
-  - pare
+  - mulher
+  - mulher fazendo gesto de “não”
+  - 'mulher fazendo gesto de “não”: pele morena clara'
+  - mão
   - pele morena clara
+  - proibido
 🙅🏽‍♀:
   - gesto
-  - muher
-  - mulher dizendo “não”
-  - 'mulher dizendo “não”: pele morena'
-  - não
-  - pare
+  - mulher
+  - mulher fazendo gesto de “não”
+  - 'mulher fazendo gesto de “não”: pele morena'
+  - mão
   - pele morena
+  - proibido
 🙅🏾‍♀:
   - gesto
-  - muher
-  - mulher dizendo “não”
-  - 'mulher dizendo “não”: pele morena escura'
-  - não
-  - pare
+  - mulher
+  - mulher fazendo gesto de “não”
+  - 'mulher fazendo gesto de “não”: pele morena escura'
+  - mão
   - pele morena escura
+  - proibido
 🙅🏿‍♀:
   - gesto
-  - muher
-  - mulher dizendo “não”
-  - 'mulher dizendo “não”: pele escura'
-  - não
-  - pare
+  - mulher
+  - mulher fazendo gesto de “não”
+  - 'mulher fazendo gesto de “não”: pele escura'
+  - mão
   - pele escura
+  - proibido
 🙆:
   - OK
   - gesto
   - mão
   - pessoa fazendo gesto de “OK”
 🙆🏻:
+  - OK
   - gesto
-  - gesto para “OK”
-  - 'gesto para “OK”: pele clara'
+  - mão
   - pele clara
-  - rosto
-  - tudo bem
+  - pessoa fazendo gesto de “OK”
+  - 'pessoa fazendo gesto de “OK”: pele clara'
 🙆🏼:
+  - OK
   - gesto
-  - gesto para “OK”
-  - 'gesto para “OK”: pele morena clara'
+  - mão
   - pele morena clara
-  - rosto
-  - tudo bem
+  - pessoa fazendo gesto de “OK”
+  - 'pessoa fazendo gesto de “OK”: pele morena clara'
 🙆🏽:
+  - OK
   - gesto
-  - gesto para “OK”
-  - 'gesto para “OK”: pele morena'
+  - mão
   - pele morena
-  - rosto
-  - tudo bem
+  - pessoa fazendo gesto de “OK”
+  - 'pessoa fazendo gesto de “OK”: pele morena'
 🙆🏾:
+  - OK
   - gesto
-  - gesto para “OK”
-  - 'gesto para “OK”: pele morena escura'
+  - mão
   - pele morena escura
-  - rosto
-  - tudo bem
+  - pessoa fazendo gesto de “OK”
+  - 'pessoa fazendo gesto de “OK”: pele morena escura'
 🙆🏿:
+  - OK
   - gesto
-  - gesto para “OK”
-  - 'gesto para “OK”: pele escura'
+  - mão
   - pele escura
-  - rosto
-  - tudo bem
+  - pessoa fazendo gesto de “OK”
+  - 'pessoa fazendo gesto de “OK”: pele escura'
 🙆‍♂:
   - OK
   - gesto
@@ -3354,45 +3494,45 @@
   - homem fazendo gesto de “OK”
   - mão
 🙆🏻‍♂:
+  - OK
   - gesto
   - homem
-  - homem dizendo “ok”
-  - 'homem dizendo “ok”: pele clara'
+  - homem fazendo gesto de “OK”
+  - 'homem fazendo gesto de “OK”: pele clara'
+  - mão
   - pele clara
-  - sim
-  - tudo bem
 🙆🏼‍♂:
+  - OK
   - gesto
   - homem
-  - homem dizendo “ok”
-  - 'homem dizendo “ok”: pele morena clara'
+  - homem fazendo gesto de “OK”
+  - 'homem fazendo gesto de “OK”: pele morena clara'
+  - mão
   - pele morena clara
-  - sim
-  - tudo bem
 🙆🏽‍♂:
+  - OK
   - gesto
   - homem
-  - homem dizendo “ok”
-  - 'homem dizendo “ok”: pele morena'
+  - homem fazendo gesto de “OK”
+  - 'homem fazendo gesto de “OK”: pele morena'
+  - mão
   - pele morena
-  - sim
-  - tudo bem
 🙆🏾‍♂:
+  - OK
   - gesto
   - homem
-  - homem dizendo “ok”
-  - 'homem dizendo “ok”: pele morena escura'
+  - homem fazendo gesto de “OK”
+  - 'homem fazendo gesto de “OK”: pele morena escura'
+  - mão
   - pele morena escura
-  - sim
-  - tudo bem
 🙆🏿‍♂:
+  - OK
   - gesto
   - homem
-  - homem dizendo “ok”
-  - 'homem dizendo “ok”: pele escura'
+  - homem fazendo gesto de “OK”
+  - 'homem fazendo gesto de “OK”: pele escura'
+  - mão
   - pele escura
-  - sim
-  - tudo bem
 🙆‍♀:
   - OK
   - gesto
@@ -3400,45 +3540,45 @@
   - mulher fazendo gesto de “OK”
   - mão
 🙆🏻‍♀:
+  - OK
   - gesto
   - mulher
-  - mulher dizendo “ok”
-  - 'mulher dizendo “ok”: pele clara'
+  - mulher fazendo gesto de “OK”
+  - 'mulher fazendo gesto de “OK”: pele clara'
+  - mão
   - pele clara
-  - sim
-  - tudo bem
 🙆🏼‍♀:
+  - OK
   - gesto
   - mulher
-  - mulher dizendo “ok”
-  - 'mulher dizendo “ok”: pele morena clara'
+  - mulher fazendo gesto de “OK”
+  - 'mulher fazendo gesto de “OK”: pele morena clara'
+  - mão
   - pele morena clara
-  - sim
-  - tudo bem
 🙆🏽‍♀:
+  - OK
   - gesto
   - mulher
-  - mulher dizendo “ok”
-  - 'mulher dizendo “ok”: pele morena'
+  - mulher fazendo gesto de “OK”
+  - 'mulher fazendo gesto de “OK”: pele morena'
+  - mão
   - pele morena
-  - sim
-  - tudo bem
 🙆🏾‍♀:
+  - OK
   - gesto
   - mulher
-  - mulher dizendo “ok”
-  - 'mulher dizendo “ok”: pele morena escura'
+  - mulher fazendo gesto de “OK”
+  - 'mulher fazendo gesto de “OK”: pele morena escura'
+  - mão
   - pele morena escura
-  - sim
-  - tudo bem
 🙆🏿‍♀:
+  - OK
   - gesto
   - mulher
-  - mulher dizendo “ok”
-  - 'mulher dizendo “ok”: pele escura'
+  - mulher fazendo gesto de “OK”
+  - 'mulher fazendo gesto de “OK”: pele escura'
+  - mão
   - pele escura
-  - sim
-  - tudo bem
 💁:
   - ajuda
   - informações
@@ -3447,113 +3587,93 @@
 💁🏻:
   - ajuda
   - informações
+  - mão
   - pele clara
-  - pessoas
-  - recepção
-  - 'recepção: pele clara'
+  - pessoa com a palma virada para cima
+  - 'pessoa com a palma virada para cima: pele clara'
 💁🏼:
   - ajuda
   - informações
+  - mão
   - pele morena clara
-  - pessoas
-  - recepção
-  - 'recepção: pele morena clara'
+  - pessoa com a palma virada para cima
+  - 'pessoa com a palma virada para cima: pele morena clara'
 💁🏽:
   - ajuda
   - informações
+  - mão
   - pele morena
-  - pessoas
-  - recepção
-  - 'recepção: pele morena'
+  - pessoa com a palma virada para cima
+  - 'pessoa com a palma virada para cima: pele morena'
 💁🏾:
   - ajuda
   - informações
+  - mão
   - pele morena escura
-  - pessoas
-  - recepção
-  - 'recepção: pele morena escura'
+  - pessoa com a palma virada para cima
+  - 'pessoa com a palma virada para cima: pele morena escura'
 💁🏿:
   - ajuda
   - informações
+  - mão
   - pele escura
-  - pessoas
-  - recepção
-  - 'recepção: pele escura'
+  - pessoa com a palma virada para cima
+  - 'pessoa com a palma virada para cima: pele escura'
 💁‍♂:
   - homem
   - homem com a palma virada para cima
 💁🏻‍♂:
-  - ajuda
   - homem
-  - homem dando uma dica
-  - 'homem dando uma dica: pele clara'
-  - informação
+  - homem com a palma virada para cima
+  - 'homem com a palma virada para cima: pele clara'
   - pele clara
 💁🏼‍♂:
-  - ajuda
   - homem
-  - homem dando uma dica
-  - 'homem dando uma dica: pele morena clara'
-  - informação
+  - homem com a palma virada para cima
+  - 'homem com a palma virada para cima: pele morena clara'
   - pele morena clara
 💁🏽‍♂:
-  - ajuda
   - homem
-  - homem dando uma dica
-  - 'homem dando uma dica: pele morena'
-  - informação
+  - homem com a palma virada para cima
+  - 'homem com a palma virada para cima: pele morena'
   - pele morena
 💁🏾‍♂:
-  - ajuda
   - homem
-  - homem dando uma dica
-  - 'homem dando uma dica: pele morena escura'
-  - informação
+  - homem com a palma virada para cima
+  - 'homem com a palma virada para cima: pele morena escura'
   - pele morena escura
 💁🏿‍♂:
-  - ajuda
   - homem
-  - homem dando uma dica
-  - 'homem dando uma dica: pele escura'
-  - informação
+  - homem com a palma virada para cima
+  - 'homem com a palma virada para cima: pele escura'
   - pele escura
 💁‍♀:
   - mulher
   - mulher com a palma virada para cima
 💁🏻‍♀:
-  - ajuda
-  - informação
   - mulher
-  - mulher dando uma dica
-  - 'mulher dando uma dica: pele clara'
+  - mulher com a palma virada para cima
+  - 'mulher com a palma virada para cima: pele clara'
   - pele clara
 💁🏼‍♀:
-  - ajuda
-  - informação
   - mulher
-  - mulher dando uma dica
-  - 'mulher dando uma dica: pele morena clara'
+  - mulher com a palma virada para cima
+  - 'mulher com a palma virada para cima: pele morena clara'
   - pele morena clara
 💁🏽‍♀:
-  - ajuda
-  - informação
   - mulher
-  - mulher dando uma dica
-  - 'mulher dando uma dica: pele morena'
+  - mulher com a palma virada para cima
+  - 'mulher com a palma virada para cima: pele morena'
   - pele morena
 💁🏾‍♀:
-  - ajuda
-  - informação
   - mulher
-  - mulher dando uma dica
-  - 'mulher dando uma dica: pele morena escura'
+  - mulher com a palma virada para cima
+  - 'mulher com a palma virada para cima: pele morena escura'
   - pele morena escura
 💁🏿‍♀:
-  - ajuda
-  - informação
   - mulher
-  - mulher dando uma dica
-  - 'mulher dando uma dica: pele escura'
+  - mulher com a palma virada para cima
+  - 'mulher com a palma virada para cima: pele escura'
   - pele escura
 🙋:
   - feliz
@@ -3565,42 +3685,42 @@
   - feliz
   - gesto
   - levantando a mão
-  - 'levantando a mão: pele clara'
   - pele clara
   - pessoa
   - pessoa levantando a mão
+  - 'pessoa levantando a mão: pele clara'
 🙋🏼:
   - feliz
   - gesto
   - levantando a mão
-  - 'levantando a mão: pele morena clara'
   - pele morena clara
   - pessoa
   - pessoa levantando a mão
+  - 'pessoa levantando a mão: pele morena clara'
 🙋🏽:
   - feliz
   - gesto
   - levantando a mão
-  - 'levantando a mão: pele morena'
   - pele morena
   - pessoa
   - pessoa levantando a mão
+  - 'pessoa levantando a mão: pele morena'
 🙋🏾:
   - feliz
   - gesto
   - levantando a mão
-  - 'levantando a mão: pele morena escura'
   - pele morena escura
   - pessoa
   - pessoa levantando a mão
+  - 'pessoa levantando a mão: pele morena escura'
 🙋🏿:
   - feliz
   - gesto
   - levantando a mão
-  - 'levantando a mão: pele escura'
   - pele escura
   - pessoa
   - pessoa levantando a mão
+  - 'pessoa levantando a mão: pele escura'
 🙋‍♂:
   - gesto
   - homem
@@ -3693,6 +3813,72 @@
   - mão
   - pedir a palavra
   - pele escura
+🧏:
+  - pessoa surda
+🧏🏻:
+  - pele clara
+  - pessoa surda
+  - 'pessoa surda: pele clara'
+🧏🏼:
+  - pele morena clara
+  - pessoa surda
+  - 'pessoa surda: pele morena clara'
+🧏🏽:
+  - pele morena
+  - pessoa surda
+  - 'pessoa surda: pele morena'
+🧏🏾:
+  - pele morena escura
+  - pessoa surda
+  - 'pessoa surda: pele morena escura'
+🧏🏿:
+  - pele escura
+  - pessoa surda
+  - 'pessoa surda: pele escura'
+🧏‍♂:
+  - homem surdo
+🧏🏻‍♂:
+  - homem surdo
+  - 'homem surdo: pele clara'
+  - pele clara
+🧏🏼‍♂:
+  - homem surdo
+  - 'homem surdo: pele morena clara'
+  - pele morena clara
+🧏🏽‍♂:
+  - homem surdo
+  - 'homem surdo: pele morena'
+  - pele morena
+🧏🏾‍♂:
+  - homem surdo
+  - 'homem surdo: pele morena escura'
+  - pele morena escura
+🧏🏿‍♂:
+  - homem surdo
+  - 'homem surdo: pele escura'
+  - pele escura
+🧏‍♀:
+  - mulher surda
+🧏🏻‍♀:
+  - mulher surda
+  - 'mulher surda: pele clara'
+  - pele clara
+🧏🏼‍♀:
+  - mulher surda
+  - 'mulher surda: pele morena clara'
+  - pele morena clara
+🧏🏽‍♀:
+  - mulher surda
+  - 'mulher surda: pele morena'
+  - pele morena
+🧏🏾‍♀:
+  - mulher surda
+  - 'mulher surda: pele morena escura'
+  - pele morena escura
+🧏🏿‍♀:
+  - mulher surda
+  - 'mulher surda: pele escura'
+  - pele escura
 🙇:
   - desculpa
   - gesto
@@ -3706,8 +3892,9 @@
   - gesto
   - pele clara
   - perdão
-  - 'perdão: pele clara'
   - pessoa
+  - pessoa fazendo reverência
+  - 'pessoa fazendo reverência: pele clara'
   - reverência
   - reverência respeitosa
 🙇🏼:
@@ -3715,8 +3902,9 @@
   - gesto
   - pele morena clara
   - perdão
-  - 'perdão: pele morena clara'
   - pessoa
+  - pessoa fazendo reverência
+  - 'pessoa fazendo reverência: pele morena clara'
   - reverência
   - reverência respeitosa
 🙇🏽:
@@ -3724,8 +3912,9 @@
   - gesto
   - pele morena
   - perdão
-  - 'perdão: pele morena'
   - pessoa
+  - pessoa fazendo reverência
+  - 'pessoa fazendo reverência: pele morena'
   - reverência
   - reverência respeitosa
 🙇🏾:
@@ -3733,8 +3922,9 @@
   - gesto
   - pele morena escura
   - perdão
-  - 'perdão: pele morena escura'
   - pessoa
+  - pessoa fazendo reverência
+  - 'pessoa fazendo reverência: pele morena escura'
   - reverência
   - reverência respeitosa
 🙇🏿:
@@ -3742,8 +3932,9 @@
   - gesto
   - pele escura
   - perdão
-  - 'perdão: pele escura'
   - pessoa
+  - pessoa fazendo reverência
+  - 'pessoa fazendo reverência: pele escura'
   - reverência
   - reverência respeitosa
 🙇‍♂:
@@ -3758,8 +3949,9 @@
   - desculpas
   - gesto
   - homem
+  - homem fazendo reverência
+  - 'homem fazendo reverência: pele clara'
   - homem pedindo desculpas
-  - 'homem pedindo desculpas: pele clara'
   - pele clara
   - respeito
   - reverência
@@ -3767,8 +3959,9 @@
   - desculpas
   - gesto
   - homem
+  - homem fazendo reverência
+  - 'homem fazendo reverência: pele morena clara'
   - homem pedindo desculpas
-  - 'homem pedindo desculpas: pele morena clara'
   - pele morena clara
   - respeito
   - reverência
@@ -3776,8 +3969,9 @@
   - desculpas
   - gesto
   - homem
+  - homem fazendo reverência
+  - 'homem fazendo reverência: pele morena'
   - homem pedindo desculpas
-  - 'homem pedindo desculpas: pele morena'
   - pele morena
   - respeito
   - reverência
@@ -3785,8 +3979,9 @@
   - desculpas
   - gesto
   - homem
+  - homem fazendo reverência
+  - 'homem fazendo reverência: pele morena escura'
   - homem pedindo desculpas
-  - 'homem pedindo desculpas: pele morena escura'
   - pele morena escura
   - respeito
   - reverência
@@ -3794,8 +3989,9 @@
   - desculpas
   - gesto
   - homem
+  - homem fazendo reverência
+  - 'homem fazendo reverência: pele escura'
   - homem pedindo desculpas
-  - 'homem pedindo desculpas: pele escura'
   - pele escura
   - respeito
   - reverência
@@ -3811,8 +4007,9 @@
   - desculpas
   - gesto
   - mulher
+  - mulher fazendo reverência
+  - 'mulher fazendo reverência: pele clara'
   - mulher pedindo desculpas
-  - 'mulher pedindo desculpas: pele clara'
   - pele clara
   - respeito
   - reverência
@@ -3820,8 +4017,9 @@
   - desculpas
   - gesto
   - mulher
+  - mulher fazendo reverência
+  - 'mulher fazendo reverência: pele morena clara'
   - mulher pedindo desculpas
-  - 'mulher pedindo desculpas: pele morena clara'
   - pele morena clara
   - respeito
   - reverência
@@ -3829,8 +4027,9 @@
   - desculpas
   - gesto
   - mulher
+  - mulher fazendo reverência
+  - 'mulher fazendo reverência: pele morena'
   - mulher pedindo desculpas
-  - 'mulher pedindo desculpas: pele morena'
   - pele morena
   - respeito
   - reverência
@@ -3838,8 +4037,9 @@
   - desculpas
   - gesto
   - mulher
+  - mulher fazendo reverência
+  - 'mulher fazendo reverência: pele morena escura'
   - mulher pedindo desculpas
-  - 'mulher pedindo desculpas: pele morena escura'
   - pele morena escura
   - respeito
   - reverência
@@ -3847,8 +4047,9 @@
   - desculpas
   - gesto
   - mulher
+  - mulher fazendo reverência
+  - 'mulher fazendo reverência: pele escura'
   - mulher pedindo desculpas
-  - 'mulher pedindo desculpas: pele escura'
   - pele escura
   - respeito
   - reverência
@@ -3862,31 +4063,36 @@
   - desapontamento
   - pele clara
   - pessoa dececionada
-  - 'pessoa dececionada: pele clara'
+  - pessoa decepcionada
+  - 'pessoa decepcionada: pele clara'
 🤦🏼:
   - decepção
   - desapontamento
   - pele morena clara
   - pessoa dececionada
-  - 'pessoa dececionada: pele morena clara'
+  - pessoa decepcionada
+  - 'pessoa decepcionada: pele morena clara'
 🤦🏽:
   - decepção
   - desapontamento
   - pele morena
   - pessoa dececionada
-  - 'pessoa dececionada: pele morena'
+  - pessoa decepcionada
+  - 'pessoa decepcionada: pele morena'
 🤦🏾:
   - decepção
   - desapontamento
   - pele morena escura
   - pessoa dececionada
-  - 'pessoa dececionada: pele morena escura'
+  - pessoa decepcionada
+  - 'pessoa decepcionada: pele morena escura'
 🤦🏿:
   - decepção
   - desapontamento
   - pele escura
   - pessoa dececionada
-  - 'pessoa dececionada: pele escura'
+  - pessoa decepcionada
+  - 'pessoa decepcionada: pele escura'
 🤦‍♂:
   - decepção
   - desapontamento
@@ -3975,39 +4181,44 @@
   - pessoa dando de ombros
 🤷🏻:
   - dar de ombros
-  - 'dar de ombros: pele clara'
   - ignorância
   - indiferença
   - ombros
   - pele clara
+  - pessoa dando de ombros
+  - 'pessoa dando de ombros: pele clara'
 🤷🏼:
   - dar de ombros
-  - 'dar de ombros: pele morena clara'
   - ignorância
   - indiferença
   - ombros
   - pele morena clara
+  - pessoa dando de ombros
+  - 'pessoa dando de ombros: pele morena clara'
 🤷🏽:
   - dar de ombros
-  - 'dar de ombros: pele morena'
   - ignorância
   - indiferença
   - ombros
   - pele morena
+  - pessoa dando de ombros
+  - 'pessoa dando de ombros: pele morena'
 🤷🏾:
   - dar de ombros
-  - 'dar de ombros: pele morena escura'
   - ignorância
   - indiferença
   - ombros
   - pele morena escura
+  - pessoa dando de ombros
+  - 'pessoa dando de ombros: pele morena escura'
 🤷🏿:
   - dar de ombros
-  - 'dar de ombros: pele escura'
   - ignorância
   - indiferença
   - ombros
   - pele escura
+  - pessoa dando de ombros
+  - 'pessoa dando de ombros: pele escura'
 🤷‍♂:
   - dar de ombros
   - homem
@@ -4251,37 +4462,37 @@
   - mulher
 👩🏻‍🎓:
   - aluna
+  - 'aluna: pele clara'
   - estudante
   - formanda
-  - 'formanda: pele clara'
   - mulher
   - pele clara
 👩🏼‍🎓:
   - aluna
+  - 'aluna: pele morena clara'
   - estudante
   - formanda
-  - 'formanda: pele morena clara'
   - mulher
   - pele morena clara
 👩🏽‍🎓:
   - aluna
+  - 'aluna: pele morena'
   - estudante
   - formanda
-  - 'formanda: pele morena'
   - mulher
   - pele morena
 👩🏾‍🎓:
   - aluna
+  - 'aluna: pele morena escura'
   - estudante
   - formanda
-  - 'formanda: pele morena escura'
   - mulher
   - pele morena escura
 👩🏿‍🎓:
   - aluna
+  - 'aluna: pele escura'
   - estudante
   - formanda
-  - 'formanda: pele escura'
   - mulher
   - pele escura
 👨‍🏫:
@@ -5731,31 +5942,26 @@
   - guarda
   - 'guarda: pele clara'
   - pele clara
-  - pessoas
   - segurança
 💂🏼:
   - guarda
   - 'guarda: pele morena clara'
   - pele morena clara
-  - pessoas
   - segurança
 💂🏽:
   - guarda
   - 'guarda: pele morena'
   - pele morena
-  - pessoas
   - segurança
 💂🏾:
   - guarda
   - 'guarda: pele morena escura'
   - pele morena escura
-  - pessoas
   - segurança
 💂🏿:
   - guarda
   - 'guarda: pele escura'
   - pele escura
-  - pessoas
   - segurança
 💂‍♂:
   - guarda
@@ -5835,37 +6041,42 @@
   - trabalhador de construção civil
 👷🏻:
   - construção
+  - pedreiro
   - pele clara
   - pessoas
-  - trabalhador
+  - trabalhador de construção
   - trabalhador de construção civil
   - 'trabalhador de construção civil: pele clara'
 👷🏼:
   - construção
+  - pedreiro
   - pele morena clara
   - pessoas
-  - trabalhador
+  - trabalhador de construção
   - trabalhador de construção civil
   - 'trabalhador de construção civil: pele morena clara'
 👷🏽:
   - construção
+  - pedreiro
   - pele morena
   - pessoas
-  - trabalhador
+  - trabalhador de construção
   - trabalhador de construção civil
   - 'trabalhador de construção civil: pele morena'
 👷🏾:
   - construção
+  - pedreiro
   - pele morena escura
   - pessoas
-  - trabalhador
+  - trabalhador de construção
   - trabalhador de construção civil
   - 'trabalhador de construção civil: pele morena escura'
 👷🏿:
   - construção
+  - pedreiro
   - pele escura
   - pessoas
-  - trabalhador
+  - trabalhador de construção
   - trabalhador de construção civil
   - 'trabalhador de construção civil: pele escura'
 👷‍♂:
@@ -5976,32 +6187,32 @@
   - princesa
 👸🏻:
   - conto de fadas
+  - fantasia
   - pele clara
-  - pessoas
   - princesa
   - 'princesa: pele clara'
 👸🏼:
   - conto de fadas
+  - fantasia
   - pele morena clara
-  - pessoas
   - princesa
   - 'princesa: pele morena clara'
 👸🏽:
   - conto de fadas
+  - fantasia
   - pele morena
-  - pessoas
   - princesa
   - 'princesa: pele morena'
 👸🏾:
   - conto de fadas
+  - fantasia
   - pele morena escura
-  - pessoas
   - princesa
   - 'princesa: pele morena escura'
 👸🏿:
   - conto de fadas
+  - fantasia
   - pele escura
-  - pessoas
   - princesa
   - 'princesa: pele escura'
 👳:
@@ -6011,38 +6222,38 @@
   - turbante
 👳🏻:
   - homem com turbante
+  - homem vestindo turbante
   - pele clara
-  - pessoa vestindo turbante
-  - 'pessoa vestindo turbante: pele clara'
-  - pessoas
+  - pessoa com turbante
+  - 'pessoa com turbante: pele clara'
   - turbante
 👳🏼:
   - homem com turbante
+  - homem vestindo turbante
   - pele morena clara
-  - pessoa vestindo turbante
-  - 'pessoa vestindo turbante: pele morena clara'
-  - pessoas
+  - pessoa com turbante
+  - 'pessoa com turbante: pele morena clara'
   - turbante
 👳🏽:
   - homem com turbante
+  - homem vestindo turbante
   - pele morena
-  - pessoa vestindo turbante
-  - 'pessoa vestindo turbante: pele morena'
-  - pessoas
+  - pessoa com turbante
+  - 'pessoa com turbante: pele morena'
   - turbante
 👳🏾:
   - homem com turbante
+  - homem vestindo turbante
   - pele morena escura
-  - pessoa vestindo turbante
-  - 'pessoa vestindo turbante: pele morena escura'
-  - pessoas
+  - pessoa com turbante
+  - 'pessoa com turbante: pele morena escura'
   - turbante
 👳🏿:
   - homem com turbante
+  - homem vestindo turbante
   - pele escura
-  - pessoa vestindo turbante
-  - 'pessoa vestindo turbante: pele escura'
-  - pessoas
+  - pessoa com turbante
+  - 'pessoa com turbante: pele escura'
   - turbante
 👳‍♂:
   - homem
@@ -6157,22 +6368,32 @@
   - lenço
   - mulher com véu
 🧕🏻:
+  - hijab
+  - lenço
   - mulher com véu
   - 'mulher com véu: pele clara'
   - pele clara
 🧕🏼:
+  - hijab
+  - lenço
   - mulher com véu
   - 'mulher com véu: pele morena clara'
   - pele morena clara
 🧕🏽:
+  - hijab
+  - lenço
   - mulher com véu
   - 'mulher com véu: pele morena'
   - pele morena
 🧕🏾:
+  - hijab
+  - lenço
   - mulher com véu
   - 'mulher com véu: pele morena escura'
   - pele morena escura
 🧕🏿:
+  - hijab
+  - lenço
   - mulher com véu
   - 'mulher com véu: pele escura'
   - pele escura
@@ -6239,7 +6460,6 @@
   - noiva com véu
   - 'noiva: pele clara'
   - pele clara
-  - pessoas
   - véu
 👰🏼:
   - casamento
@@ -6247,7 +6467,6 @@
   - noiva com véu
   - 'noiva: pele morena clara'
   - pele morena clara
-  - pessoas
   - véu
 👰🏽:
   - casamento
@@ -6255,7 +6474,6 @@
   - noiva com véu
   - 'noiva: pele morena'
   - pele morena
-  - pessoas
   - véu
 👰🏾:
   - casamento
@@ -6263,7 +6481,6 @@
   - noiva com véu
   - 'noiva: pele morena escura'
   - pele morena escura
-  - pessoas
   - véu
 👰🏿:
   - casamento
@@ -6271,35 +6488,34 @@
   - noiva com véu
   - 'noiva: pele escura'
   - pele escura
-  - pessoas
   - véu
 🤰:
   - grávida
   - mulher
 🤰🏻:
   - grávida
+  - 'grávida: pele clara'
   - mulher
-  - 'mulher grávida: pele clara'
   - pele clara
 🤰🏼:
   - grávida
+  - 'grávida: pele morena clara'
   - mulher
-  - 'mulher grávida: pele morena clara'
   - pele morena clara
 🤰🏽:
   - grávida
+  - 'grávida: pele morena'
   - mulher
-  - 'mulher grávida: pele morena'
   - pele morena
 🤰🏾:
   - grávida
+  - 'grávida: pele morena escura'
   - mulher
-  - 'mulher grávida: pele morena escura'
   - pele morena escura
 🤰🏿:
   - grávida
+  - 'grávida: pele escura'
   - mulher
-  - 'mulher grávida: pele escura'
   - pele escura
 🤱:
   - amamentando
@@ -6309,22 +6525,37 @@
 🤱🏻:
   - amamentando
   - 'amamentando: pele clara'
+  - amamentação
+  - bebê
+  - neném
   - pele clara
 🤱🏼:
   - amamentando
   - 'amamentando: pele morena clara'
+  - amamentação
+  - bebê
+  - neném
   - pele morena clara
 🤱🏽:
   - amamentando
   - 'amamentando: pele morena'
+  - amamentação
+  - bebê
+  - neném
   - pele morena
 🤱🏾:
   - amamentando
   - 'amamentando: pele morena escura'
+  - amamentação
+  - bebê
+  - neném
   - pele morena escura
 🤱🏿:
   - amamentando
   - 'amamentando: pele escura'
+  - amamentação
+  - bebê
+  - neném
   - pele escura
 👼:
   - anjo
@@ -6372,39 +6603,39 @@
   - Papai Noel
   - comemoração
 🎅🏻:
+  - Natal
+  - Noel
+  - Papai Noel
+  - 'Papai Noel: pele clara'
   - comemoração
-  - natal
-  - noel
-  - 'noel: pele clara'
-  - papai noel
   - pele clara
 🎅🏼:
+  - Natal
+  - Noel
+  - Papai Noel
+  - 'Papai Noel: pele morena clara'
   - comemoração
-  - natal
-  - noel
-  - 'noel: pele morena clara'
-  - papai noel
   - pele morena clara
 🎅🏽:
+  - Natal
+  - Noel
+  - Papai Noel
+  - 'Papai Noel: pele morena'
   - comemoração
-  - natal
-  - noel
-  - 'noel: pele morena'
-  - papai noel
   - pele morena
 🎅🏾:
+  - Natal
+  - Noel
+  - Papai Noel
+  - 'Papai Noel: pele morena escura'
   - comemoração
-  - natal
-  - noel
-  - 'noel: pele morena escura'
-  - papai noel
   - pele morena escura
 🎅🏿:
+  - Natal
+  - Noel
+  - Papai Noel
+  - 'Papai Noel: pele escura'
   - comemoração
-  - natal
-  - noel
-  - 'noel: pele escura'
-  - papai noel
   - pele escura
 🤶:
   - Mamãe Noel
@@ -6412,34 +6643,39 @@
   - Noel
   - comemoração
 🤶🏻:
-  - mamãe
-  - 'mamãe noel: pele clara'
-  - natal
-  - noel
+  - Mamãe Noel
+  - 'Mamãe Noel: pele clara'
+  - Natal
+  - Noel
+  - comemoração
   - pele clara
 🤶🏼:
-  - mamãe
-  - 'mamãe noel: pele morena clara'
-  - natal
-  - noel
+  - Mamãe Noel
+  - 'Mamãe Noel: pele morena clara'
+  - Natal
+  - Noel
+  - comemoração
   - pele morena clara
 🤶🏽:
-  - mamãe
-  - 'mamãe noel: pele morena'
-  - natal
-  - noel
+  - Mamãe Noel
+  - 'Mamãe Noel: pele morena'
+  - Natal
+  - Noel
+  - comemoração
   - pele morena
 🤶🏾:
-  - mamãe
-  - 'mamãe noel: pele morena escura'
-  - natal
-  - noel
+  - Mamãe Noel
+  - 'Mamãe Noel: pele morena escura'
+  - Natal
+  - Noel
+  - comemoração
   - pele morena escura
 🤶🏿:
-  - mamãe
-  - 'mamãe noel: pele escura'
-  - natal
-  - noel
+  - Mamãe Noel
+  - 'Mamãe Noel: pele escura'
+  - Natal
+  - Noel
+  - comemoração
   - pele escura
 🦸:
   - boa
@@ -6747,22 +6983,37 @@
   - maga
   - mago
 🧙🏻:
+  - bruxa
+  - feiticeira
+  - maga
   - mago
   - 'mago: pele clara'
   - pele clara
 🧙🏼:
+  - bruxa
+  - feiticeira
+  - maga
   - mago
   - 'mago: pele morena clara'
   - pele morena clara
 🧙🏽:
+  - bruxa
+  - feiticeira
+  - maga
   - mago
   - 'mago: pele morena'
   - pele morena
 🧙🏾:
+  - bruxa
+  - feiticeira
+  - maga
   - mago
   - 'mago: pele morena escura'
   - pele morena escura
 🧙🏿:
+  - bruxa
+  - feiticeira
+  - maga
   - mago
   - 'mago: pele escura'
   - pele escura
@@ -6771,53 +7022,68 @@
   - homem mago
   - mago
 🧙🏻‍♂:
+  - feiticeiro
   - homem mago
   - 'homem mago: pele clara'
+  - mago
   - pele clara
 🧙🏼‍♂:
+  - feiticeiro
   - homem mago
   - 'homem mago: pele morena clara'
+  - mago
   - pele morena clara
 🧙🏽‍♂:
+  - feiticeiro
   - homem mago
   - 'homem mago: pele morena'
+  - mago
   - pele morena
 🧙🏾‍♂:
+  - feiticeiro
   - homem mago
   - 'homem mago: pele morena escura'
+  - mago
   - pele morena escura
 🧙🏿‍♂:
+  - feiticeiro
   - homem mago
   - 'homem mago: pele escura'
+  - mago
   - pele escura
 🧙‍♀:
   - bruxa
   - feiticeira
   - maga
 🧙🏻‍♀:
+  - bruxa
+  - feiticeira
   - maga
   - 'maga: pele clara'
-  - mulher maga
   - pele clara
 🧙🏼‍♀:
+  - bruxa
+  - feiticeira
   - maga
   - 'maga: pele morena clara'
-  - mulher maga
   - pele morena clara
 🧙🏽‍♀:
+  - bruxa
+  - feiticeira
   - maga
   - 'maga: pele morena'
-  - mulher maga
   - pele morena
 🧙🏾‍♀:
+  - bruxa
+  - feiticeira
   - maga
   - 'maga: pele morena escura'
-  - mulher maga
   - pele morena escura
 🧙🏿‍♀:
+  - bruxa
+  - feiticeira
   - maga
   - 'maga: pele escura'
-  - mulher maga
   - pele escura
 🧚:
   - fada
@@ -6845,22 +7111,27 @@
   - fada
   - homem fada
 🧚🏻‍♂:
+  - fada
   - homem fada
   - 'homem fada: pele clara'
   - pele clara
 🧚🏼‍♂:
+  - fada
   - homem fada
   - 'homem fada: pele morena clara'
   - pele morena clara
 🧚🏽‍♂:
+  - fada
   - homem fada
   - 'homem fada: pele morena'
   - pele morena
 🧚🏾‍♂:
+  - fada
   - homem fada
   - 'homem fada: pele morena escura'
   - pele morena escura
 🧚🏿‍♂:
+  - fada
   - homem fada
   - 'homem fada: pele escura'
   - pele escura
@@ -6868,22 +7139,27 @@
   - fada
   - mulher fada
 🧚🏻‍♀:
+  - fada
   - mulher fada
   - 'mulher fada: pele clara'
   - pele clara
 🧚🏼‍♀:
+  - fada
   - mulher fada
   - 'mulher fada: pele morena clara'
   - pele morena clara
 🧚🏽‍♀:
+  - fada
   - mulher fada
   - 'mulher fada: pele morena'
   - pele morena
 🧚🏾‍♀:
+  - fada
   - mulher fada
   - 'mulher fada: pele morena escura'
   - pele morena escura
 🧚🏿‍♀:
+  - fada
   - mulher fada
   - 'mulher fada: pele escura'
   - pele escura
@@ -6891,22 +7167,27 @@
   - Drácula
   - vampiro
 🧛🏻:
+  - Drácula
   - pele clara
   - vampiro
   - 'vampiro: pele clara'
 🧛🏼:
+  - Drácula
   - pele morena clara
   - vampiro
   - 'vampiro: pele morena clara'
 🧛🏽:
+  - Drácula
   - pele morena
   - vampiro
   - 'vampiro: pele morena'
 🧛🏾:
+  - Drácula
   - pele morena escura
   - vampiro
   - 'vampiro: pele morena escura'
 🧛🏿:
+  - Drácula
   - pele escura
   - vampiro
   - 'vampiro: pele escura'
@@ -6915,25 +7196,35 @@
   - homem vampiro
   - vampiro
 🧛🏻‍♂:
+  - Drácula
   - homem vampiro
   - 'homem vampiro: pele clara'
   - pele clara
+  - vampiro
 🧛🏼‍♂:
+  - Drácula
   - homem vampiro
   - 'homem vampiro: pele morena clara'
   - pele morena clara
+  - vampiro
 🧛🏽‍♂:
+  - Drácula
   - homem vampiro
   - 'homem vampiro: pele morena'
   - pele morena
+  - vampiro
 🧛🏾‍♂:
+  - Drácula
   - homem vampiro
   - 'homem vampiro: pele morena escura'
   - pele morena escura
+  - vampiro
 🧛🏿‍♂:
+  - Drácula
   - homem vampiro
   - 'homem vampiro: pele escura'
   - pele escura
+  - vampiro
 🧛‍♀:
   - mulher vampira
   - vampira
@@ -6941,22 +7232,27 @@
   - mulher vampira
   - 'mulher vampira: pele clara'
   - pele clara
+  - vampira
 🧛🏼‍♀:
   - mulher vampira
   - 'mulher vampira: pele morena clara'
   - pele morena clara
+  - vampira
 🧛🏽‍♀:
   - mulher vampira
   - 'mulher vampira: pele morena'
   - pele morena
+  - vampira
 🧛🏾‍♀:
   - mulher vampira
   - 'mulher vampira: pele morena escura'
   - pele morena escura
+  - vampira
 🧛🏿‍♀:
   - mulher vampira
   - 'mulher vampira: pele escura'
   - pele escura
+  - vampira
 🧜:
   - pessoa sereia
   - sereia
@@ -6964,42 +7260,52 @@
   - pele clara
   - pessoa sereia
   - 'pessoa sereia: pele clara'
+  - sereia
 🧜🏼:
   - pele morena clara
   - pessoa sereia
   - 'pessoa sereia: pele morena clara'
+  - sereia
 🧜🏽:
   - pele morena
   - pessoa sereia
   - 'pessoa sereia: pele morena'
+  - sereia
 🧜🏾:
   - pele morena escura
   - pessoa sereia
   - 'pessoa sereia: pele morena escura'
+  - sereia
 🧜🏿:
   - pele escura
   - pessoa sereia
   - 'pessoa sereia: pele escura'
+  - sereia
 🧜‍♂:
   - Tritão
   - sereio
 🧜🏻‍♂:
+  - Tritão
   - pele clara
   - sereio
   - 'sereio: pele clara'
 🧜🏼‍♂:
+  - Tritão
   - pele morena clara
   - sereio
   - 'sereio: pele morena clara'
 🧜🏽‍♂:
+  - Tritão
   - pele morena
   - sereio
   - 'sereio: pele morena'
 🧜🏾‍♂:
+  - Tritão
   - pele morena escura
   - sereio
   - 'sereio: pele morena escura'
 🧜🏿‍♂:
+  - Tritão
   - pele escura
   - sereio
   - 'sereio: pele escura'
@@ -7031,67 +7337,87 @@
 🧝🏻:
   - elfo
   - 'elfo: pele clara'
+  - mágico
   - pele clara
 🧝🏼:
   - elfo
   - 'elfo: pele morena clara'
+  - mágico
   - pele morena clara
 🧝🏽:
   - elfo
   - 'elfo: pele morena'
+  - mágico
   - pele morena
 🧝🏾:
   - elfo
   - 'elfo: pele morena escura'
+  - mágico
   - pele morena escura
 🧝🏿:
   - elfo
   - 'elfo: pele escura'
+  - mágico
   - pele escura
 🧝‍♂:
   - duende homem
   - elfo
   - elfo homem
 🧝🏻‍♂:
-  - homem elfo
-  - 'homem elfo: pele clara'
+  - duende homem
+  - elfo
+  - elfo homem
+  - 'elfo homem: pele clara'
   - pele clara
 🧝🏼‍♂:
-  - homem elfo
-  - 'homem elfo: pele morena clara'
+  - duende homem
+  - elfo
+  - elfo homem
+  - 'elfo homem: pele morena clara'
   - pele morena clara
 🧝🏽‍♂:
-  - homem elfo
-  - 'homem elfo: pele morena'
+  - duende homem
+  - elfo
+  - elfo homem
+  - 'elfo homem: pele morena'
   - pele morena
 🧝🏾‍♂:
-  - homem elfo
-  - 'homem elfo: pele morena escura'
+  - duende homem
+  - elfo
+  - elfo homem
+  - 'elfo homem: pele morena escura'
   - pele morena escura
 🧝🏿‍♂:
-  - homem elfo
-  - 'homem elfo: pele escura'
+  - duende homem
+  - elfo
+  - elfo homem
+  - 'elfo homem: pele escura'
   - pele escura
 🧝‍♀:
   - duende mulher
   - elfa
 🧝🏻‍♀:
+  - duende mulher
   - elfa
   - 'elfa: pele clara'
   - pele clara
 🧝🏼‍♀:
+  - duende mulher
   - elfa
   - 'elfa: pele morena clara'
   - pele morena clara
 🧝🏽‍♀:
+  - duende mulher
   - elfa
   - 'elfa: pele morena'
   - pele morena
 🧝🏾‍♀:
+  - duende mulher
   - elfa
   - 'elfa: pele morena escura'
   - pele morena escura
 🧝🏿‍♀:
+  - duende mulher
   - elfa
   - 'elfa: pele escura'
   - pele escura
@@ -7118,33 +7444,38 @@
 💆🏻:
   - massagem
   - massagem facial
-  - 'massagem facial: pele clara'
   - pele
   - pele clara
+  - pessoa recebendo massagem facial
+  - 'pessoa recebendo massagem facial: pele clara'
 💆🏼:
   - massagem
   - massagem facial
-  - 'massagem facial: pele morena clara'
   - pele
   - pele morena clara
+  - pessoa recebendo massagem facial
+  - 'pessoa recebendo massagem facial: pele morena clara'
 💆🏽:
   - massagem
   - massagem facial
-  - 'massagem facial: pele morena'
   - pele
   - pele morena
+  - pessoa recebendo massagem facial
+  - 'pessoa recebendo massagem facial: pele morena'
 💆🏾:
   - massagem
   - massagem facial
-  - 'massagem facial: pele morena escura'
   - pele
   - pele morena escura
+  - pessoa recebendo massagem facial
+  - 'pessoa recebendo massagem facial: pele morena escura'
 💆🏿:
   - massagem
   - massagem facial
-  - 'massagem facial: pele escura'
   - pele
   - pele escura
+  - pessoa recebendo massagem facial
+  - 'pessoa recebendo massagem facial: pele escura'
 💆‍♂:
   - homem
   - homem recebendo massagem facial
@@ -7234,36 +7565,41 @@
 💇🏻:
   - beleza
   - corte de cabelo
-  - 'corte de cabelo: pele clara'
   - pele clara
+  - pessoa cortando o cabelo
+  - 'pessoa cortando o cabelo: pele clara'
   - salão
   - salão de beleza
 💇🏼:
   - beleza
   - corte de cabelo
-  - 'corte de cabelo: pele morena clara'
   - pele morena clara
+  - pessoa cortando o cabelo
+  - 'pessoa cortando o cabelo: pele morena clara'
   - salão
   - salão de beleza
 💇🏽:
   - beleza
   - corte de cabelo
-  - 'corte de cabelo: pele morena'
   - pele morena
+  - pessoa cortando o cabelo
+  - 'pessoa cortando o cabelo: pele morena'
   - salão
   - salão de beleza
 💇🏾:
   - beleza
   - corte de cabelo
-  - 'corte de cabelo: pele morena escura'
   - pele morena escura
+  - pessoa cortando o cabelo
+  - 'pessoa cortando o cabelo: pele morena escura'
   - salão
   - salão de beleza
 💇🏿:
   - beleza
   - corte de cabelo
-  - 'corte de cabelo: pele escura'
   - pele escura
+  - pessoa cortando o cabelo
+  - 'pessoa cortando o cabelo: pele escura'
   - salão
   - salão de beleza
 💇‍♂:
@@ -7352,69 +7688,79 @@
   - pessoa andando
   - pessoa caminhando
 🚶🏻:
-  - caminhante
-  - pedestre
-  - 'pedestre: pele clara'
+  - andar
+  - caminhar
   - pele clara
+  - pessoa andando
+  - 'pessoa andando: pele clara'
+  - pessoa caminhando
 🚶🏼:
-  - caminhante
-  - pedestre
-  - 'pedestre: pele morena clara'
+  - andar
+  - caminhar
   - pele morena clara
+  - pessoa andando
+  - 'pessoa andando: pele morena clara'
+  - pessoa caminhando
 🚶🏽:
-  - caminhante
-  - pedestre
-  - 'pedestre: pele morena'
+  - andar
+  - caminhar
   - pele morena
+  - pessoa andando
+  - 'pessoa andando: pele morena'
+  - pessoa caminhando
 🚶🏾:
-  - caminhante
-  - pedestre
-  - 'pedestre: pele morena escura'
+  - andar
+  - caminhar
   - pele morena escura
+  - pessoa andando
+  - 'pessoa andando: pele morena escura'
+  - pessoa caminhando
 🚶🏿:
-  - caminhante
-  - pedestre
-  - 'pedestre: pele escura'
+  - andar
+  - caminhar
   - pele escura
+  - pessoa andando
+  - 'pessoa andando: pele escura'
+  - pessoa caminhando
 🚶‍♂:
   - andar
   - caminhar
   - homem andando
   - homem caminhando
 🚶🏻‍♂:
-  - caminhada
-  - homem
+  - andar
+  - caminhar
   - homem andando
   - 'homem andando: pele clara'
-  - passeio
+  - homem caminhando
   - pele clara
 🚶🏼‍♂:
-  - caminhada
-  - homem
+  - andar
+  - caminhar
   - homem andando
   - 'homem andando: pele morena clara'
-  - passeio
+  - homem caminhando
   - pele morena clara
 🚶🏽‍♂:
-  - caminhada
-  - homem
+  - andar
+  - caminhar
   - homem andando
   - 'homem andando: pele morena'
-  - passeio
+  - homem caminhando
   - pele morena
 🚶🏾‍♂:
-  - caminhada
-  - homem
+  - andar
+  - caminhar
   - homem andando
   - 'homem andando: pele morena escura'
-  - passeio
+  - homem caminhando
   - pele morena escura
 🚶🏿‍♂:
-  - caminhada
-  - homem
+  - andar
+  - caminhar
   - homem andando
   - 'homem andando: pele escura'
-  - passeio
+  - homem caminhando
   - pele escura
 🚶‍♀:
   - andar
@@ -7422,39 +7768,411 @@
   - mulher andando
   - mulher caminhando
 🚶🏻‍♀:
-  - caminhada
-  - mulher
+  - andar
+  - caminhar
   - mulher andando
   - 'mulher andando: pele clara'
-  - passeio
+  - mulher caminhando
   - pele clara
 🚶🏼‍♀:
-  - caminhada
-  - mulher
+  - andar
+  - caminhar
   - mulher andando
   - 'mulher andando: pele morena clara'
-  - passeio
+  - mulher caminhando
   - pele morena clara
 🚶🏽‍♀:
-  - caminhada
-  - mulher
+  - andar
+  - caminhar
   - mulher andando
   - 'mulher andando: pele morena'
-  - passeio
+  - mulher caminhando
   - pele morena
 🚶🏾‍♀:
-  - caminhada
-  - mulher
+  - andar
+  - caminhar
   - mulher andando
   - 'mulher andando: pele morena escura'
-  - passeio
+  - mulher caminhando
   - pele morena escura
 🚶🏿‍♀:
-  - caminhada
-  - mulher
+  - andar
+  - caminhar
   - mulher andando
   - 'mulher andando: pele escura'
-  - passeio
+  - mulher caminhando
+  - pele escura
+🧍:
+  - pessoa em pé
+🧍🏻:
+  - pele clara
+  - pessoa em pé
+  - 'pessoa em pé: pele clara'
+🧍🏼:
+  - pele morena clara
+  - pessoa em pé
+  - 'pessoa em pé: pele morena clara'
+🧍🏽:
+  - pele morena
+  - pessoa em pé
+  - 'pessoa em pé: pele morena'
+🧍🏾:
+  - pele morena escura
+  - pessoa em pé
+  - 'pessoa em pé: pele morena escura'
+🧍🏿:
+  - pele escura
+  - pessoa em pé
+  - 'pessoa em pé: pele escura'
+🧍‍♂:
+  - homem em pé
+🧍🏻‍♂:
+  - homem em pé
+  - 'homem em pé: pele clara'
+  - pele clara
+🧍🏼‍♂:
+  - homem em pé
+  - 'homem em pé: pele morena clara'
+  - pele morena clara
+🧍🏽‍♂:
+  - homem em pé
+  - 'homem em pé: pele morena'
+  - pele morena
+🧍🏾‍♂:
+  - homem em pé
+  - 'homem em pé: pele morena escura'
+  - pele morena escura
+🧍🏿‍♂:
+  - homem em pé
+  - 'homem em pé: pele escura'
+  - pele escura
+🧍‍♀:
+  - mulher em pé
+🧍🏻‍♀:
+  - mulher em pé
+  - 'mulher em pé: pele clara'
+  - pele clara
+🧍🏼‍♀:
+  - mulher em pé
+  - 'mulher em pé: pele morena clara'
+  - pele morena clara
+🧍🏽‍♀:
+  - mulher em pé
+  - 'mulher em pé: pele morena'
+  - pele morena
+🧍🏾‍♀:
+  - mulher em pé
+  - 'mulher em pé: pele morena escura'
+  - pele morena escura
+🧍🏿‍♀:
+  - mulher em pé
+  - 'mulher em pé: pele escura'
+  - pele escura
+🧎:
+  - pessoa ajoelhando
+🧎🏻:
+  - pele clara
+  - pessoa ajoelhando
+  - 'pessoa ajoelhando: pele clara'
+🧎🏼:
+  - pele morena clara
+  - pessoa ajoelhando
+  - 'pessoa ajoelhando: pele morena clara'
+🧎🏽:
+  - pele morena
+  - pessoa ajoelhando
+  - 'pessoa ajoelhando: pele morena'
+🧎🏾:
+  - pele morena escura
+  - pessoa ajoelhando
+  - 'pessoa ajoelhando: pele morena escura'
+🧎🏿:
+  - pele escura
+  - pessoa ajoelhando
+  - 'pessoa ajoelhando: pele escura'
+🧎‍♂:
+  - homem ajoelhando
+🧎🏻‍♂:
+  - homem ajoelhando
+  - 'homem ajoelhando: pele clara'
+  - pele clara
+🧎🏼‍♂:
+  - homem ajoelhando
+  - 'homem ajoelhando: pele morena clara'
+  - pele morena clara
+🧎🏽‍♂:
+  - homem ajoelhando
+  - 'homem ajoelhando: pele morena'
+  - pele morena
+🧎🏾‍♂:
+  - homem ajoelhando
+  - 'homem ajoelhando: pele morena escura'
+  - pele morena escura
+🧎🏿‍♂:
+  - homem ajoelhando
+  - 'homem ajoelhando: pele escura'
+  - pele escura
+🧎‍♀:
+  - mulher ajoelhando
+🧎🏻‍♀:
+  - mulher ajoelhando
+  - 'mulher ajoelhando: pele clara'
+  - pele clara
+🧎🏼‍♀:
+  - mulher ajoelhando
+  - 'mulher ajoelhando: pele morena clara'
+  - pele morena clara
+🧎🏽‍♀:
+  - mulher ajoelhando
+  - 'mulher ajoelhando: pele morena'
+  - pele morena
+🧎🏾‍♀:
+  - mulher ajoelhando
+  - 'mulher ajoelhando: pele morena escura'
+  - pele morena escura
+🧎🏿‍♀:
+  - mulher ajoelhando
+  - 'mulher ajoelhando: pele escura'
+  - pele escura
+👨‍🦯:
+  - accessibilidade
+  - cego
+  - homem
+  - homem com bengala para cego
+👨🏻‍🦯:
+  - accessibilidade
+  - cego
+  - homem
+  - homem com bengala para cego
+  - 'homem com bengala para cego: pele clara'
+  - pele clara
+👨🏼‍🦯:
+  - accessibilidade
+  - cego
+  - homem
+  - homem com bengala para cego
+  - 'homem com bengala para cego: pele morena clara'
+  - pele morena clara
+👨🏽‍🦯:
+  - accessibilidade
+  - cego
+  - homem
+  - homem com bengala para cego
+  - 'homem com bengala para cego: pele morena'
+  - pele morena
+👨🏾‍🦯:
+  - accessibilidade
+  - cego
+  - homem
+  - homem com bengala para cego
+  - 'homem com bengala para cego: pele morena escura'
+  - pele morena escura
+👨🏿‍🦯:
+  - accessibilidade
+  - cego
+  - homem
+  - homem com bengala para cego
+  - 'homem com bengala para cego: pele escura'
+  - pele escura
+👩‍🦯:
+  - accessibilidade
+  - cega
+  - mulher
+  - mulher com bengala para cego
+👩🏻‍🦯:
+  - accessibilidade
+  - cega
+  - mulher
+  - mulher com bengala para cego
+  - 'mulher com bengala para cego: pele clara'
+  - pele clara
+👩🏼‍🦯:
+  - accessibilidade
+  - cega
+  - mulher
+  - mulher com bengala para cego
+  - 'mulher com bengala para cego: pele morena clara'
+  - pele morena clara
+👩🏽‍🦯:
+  - accessibilidade
+  - cega
+  - mulher
+  - mulher com bengala para cego
+  - 'mulher com bengala para cego: pele morena'
+  - pele morena
+👩🏾‍🦯:
+  - accessibilidade
+  - cega
+  - mulher
+  - mulher com bengala para cego
+  - 'mulher com bengala para cego: pele morena escura'
+  - pele morena escura
+👩🏿‍🦯:
+  - accessibilidade
+  - cega
+  - mulher
+  - mulher com bengala para cego
+  - 'mulher com bengala para cego: pele escura'
+  - pele escura
+👨‍🦼:
+  - acessibilidade
+  - cadeira de rodas
+  - homem
+  - homem em cadeira de rodas motorizada
+👨🏻‍🦼:
+  - acessibilidade
+  - cadeira de rodas
+  - homem
+  - homem em cadeira de rodas motorizada
+  - 'homem em cadeira de rodas motorizada: pele clara'
+  - pele clara
+👨🏼‍🦼:
+  - acessibilidade
+  - cadeira de rodas
+  - homem
+  - homem em cadeira de rodas motorizada
+  - 'homem em cadeira de rodas motorizada: pele morena clara'
+  - pele morena clara
+👨🏽‍🦼:
+  - acessibilidade
+  - cadeira de rodas
+  - homem
+  - homem em cadeira de rodas motorizada
+  - 'homem em cadeira de rodas motorizada: pele morena'
+  - pele morena
+👨🏾‍🦼:
+  - acessibilidade
+  - cadeira de rodas
+  - homem
+  - homem em cadeira de rodas motorizada
+  - 'homem em cadeira de rodas motorizada: pele morena escura'
+  - pele morena escura
+👨🏿‍🦼:
+  - acessibilidade
+  - cadeira de rodas
+  - homem
+  - homem em cadeira de rodas motorizada
+  - 'homem em cadeira de rodas motorizada: pele escura'
+  - pele escura
+👩‍🦼:
+  - acessibilidade
+  - cadeira de rodas
+  - mulher
+  - mulher em cadeira de rodas motorizada
+👩🏻‍🦼:
+  - acessibilidade
+  - cadeira de rodas
+  - mulher
+  - mulher em cadeira de rodas motorizada
+  - 'mulher em cadeira de rodas motorizada: pele clara'
+  - pele clara
+👩🏼‍🦼:
+  - acessibilidade
+  - cadeira de rodas
+  - mulher
+  - mulher em cadeira de rodas motorizada
+  - 'mulher em cadeira de rodas motorizada: pele morena clara'
+  - pele morena clara
+👩🏽‍🦼:
+  - acessibilidade
+  - cadeira de rodas
+  - mulher
+  - mulher em cadeira de rodas motorizada
+  - 'mulher em cadeira de rodas motorizada: pele morena'
+  - pele morena
+👩🏾‍🦼:
+  - acessibilidade
+  - cadeira de rodas
+  - mulher
+  - mulher em cadeira de rodas motorizada
+  - 'mulher em cadeira de rodas motorizada: pele morena escura'
+  - pele morena escura
+👩🏿‍🦼:
+  - acessibilidade
+  - cadeira de rodas
+  - mulher
+  - mulher em cadeira de rodas motorizada
+  - 'mulher em cadeira de rodas motorizada: pele escura'
+  - pele escura
+👨‍🦽:
+  - acessibilidade
+  - cadeira de rodas
+  - homem
+  - homem em cadeira de rodas manual
+👨🏻‍🦽:
+  - acessibilidade
+  - cadeira de rodas
+  - homem
+  - homem em cadeira de rodas manual
+  - 'homem em cadeira de rodas manual: pele clara'
+  - pele clara
+👨🏼‍🦽:
+  - acessibilidade
+  - cadeira de rodas
+  - homem
+  - homem em cadeira de rodas manual
+  - 'homem em cadeira de rodas manual: pele morena clara'
+  - pele morena clara
+👨🏽‍🦽:
+  - acessibilidade
+  - cadeira de rodas
+  - homem
+  - homem em cadeira de rodas manual
+  - 'homem em cadeira de rodas manual: pele morena'
+  - pele morena
+👨🏾‍🦽:
+  - acessibilidade
+  - cadeira de rodas
+  - homem
+  - homem em cadeira de rodas manual
+  - 'homem em cadeira de rodas manual: pele morena escura'
+  - pele morena escura
+👨🏿‍🦽:
+  - acessibilidade
+  - cadeira de rodas
+  - homem
+  - homem em cadeira de rodas manual
+  - 'homem em cadeira de rodas manual: pele escura'
+  - pele escura
+👩‍🦽:
+  - acessibilidade
+  - cadeira de rodas
+  - mulher
+  - mulher em cadeira de rodas manual
+👩🏻‍🦽:
+  - acessibilidade
+  - cadeira de rodas
+  - mulher
+  - mulher em cadeira de rodas manual
+  - 'mulher em cadeira de rodas manual: pele clara'
+  - pele clara
+👩🏼‍🦽:
+  - acessibilidade
+  - cadeira de rodas
+  - mulher
+  - mulher em cadeira de rodas manual
+  - 'mulher em cadeira de rodas manual: pele morena clara'
+  - pele morena clara
+👩🏽‍🦽:
+  - acessibilidade
+  - cadeira de rodas
+  - mulher
+  - mulher em cadeira de rodas manual
+  - 'mulher em cadeira de rodas manual: pele morena'
+  - pele morena
+👩🏾‍🦽:
+  - acessibilidade
+  - cadeira de rodas
+  - mulher
+  - mulher em cadeira de rodas manual
+  - 'mulher em cadeira de rodas manual: pele morena escura'
+  - pele morena escura
+👩🏿‍🦽:
+  - acessibilidade
+  - cadeira de rodas
+  - mulher
+  - mulher em cadeira de rodas manual
+  - 'mulher em cadeira de rodas manual: pele escura'
   - pele escura
 🏃:
   - corrida
@@ -7467,36 +8185,41 @@
   - esporte
   - maratona
   - maratonista
-  - 'maratonista: pele clara'
   - pele clara
+  - pessoa correndo
+  - 'pessoa correndo: pele clara'
 🏃🏼:
   - corrida
   - esporte
   - maratona
   - maratonista
-  - 'maratonista: pele morena clara'
   - pele morena clara
+  - pessoa correndo
+  - 'pessoa correndo: pele morena clara'
 🏃🏽:
   - corrida
   - esporte
   - maratona
   - maratonista
-  - 'maratonista: pele morena'
   - pele morena
+  - pessoa correndo
+  - 'pessoa correndo: pele morena'
 🏃🏾:
   - corrida
   - esporte
   - maratona
   - maratonista
-  - 'maratonista: pele morena escura'
   - pele morena escura
+  - pessoa correndo
+  - 'pessoa correndo: pele morena escura'
 🏃🏿:
   - corrida
   - esporte
   - maratona
   - maratonista
-  - 'maratonista: pele escura'
   - pele escura
+  - pessoa correndo
+  - 'pessoa correndo: pele escura'
 🏃‍♂:
   - corrida
   - esporte
@@ -7509,6 +8232,7 @@
   - homem
   - homem correndo
   - 'homem correndo: pele clara'
+  - maratona
   - pele clara
 🏃🏼‍♂:
   - corrida
@@ -7516,6 +8240,7 @@
   - homem
   - homem correndo
   - 'homem correndo: pele morena clara'
+  - maratona
   - pele morena clara
 🏃🏽‍♂:
   - corrida
@@ -7523,6 +8248,7 @@
   - homem
   - homem correndo
   - 'homem correndo: pele morena'
+  - maratona
   - pele morena
 🏃🏾‍♂:
   - corrida
@@ -7530,6 +8256,7 @@
   - homem
   - homem correndo
   - 'homem correndo: pele morena escura'
+  - maratona
   - pele morena escura
 🏃🏿‍♂:
   - corrida
@@ -7537,6 +8264,7 @@
   - homem
   - homem correndo
   - 'homem correndo: pele escura'
+  - maratona
   - pele escura
 🏃‍♀:
   - corrida
@@ -7547,6 +8275,7 @@
 🏃🏻‍♀:
   - corrida
   - esporte
+  - maratona
   - mulher
   - mulher correndo
   - 'mulher correndo: pele clara'
@@ -7554,6 +8283,7 @@
 🏃🏼‍♀:
   - corrida
   - esporte
+  - maratona
   - mulher
   - mulher correndo
   - 'mulher correndo: pele morena clara'
@@ -7561,6 +8291,7 @@
 🏃🏽‍♀:
   - corrida
   - esporte
+  - maratona
   - mulher
   - mulher correndo
   - 'mulher correndo: pele morena'
@@ -7568,6 +8299,7 @@
 🏃🏾‍♀:
   - corrida
   - esporte
+  - maratona
   - mulher
   - mulher correndo
   - 'mulher correndo: pele morena escura'
@@ -7575,6 +8307,7 @@
 🏃🏿‍♀:
   - corrida
   - esporte
+  - maratona
   - mulher
   - mulher correndo
   - 'mulher correndo: pele escura'
@@ -7584,35 +8317,30 @@
   - mulher
   - mulher dançando
 💃🏻:
-  - bailarina
-  - 'bailarina: pele clara'
-  - dança
+  - dançando
+  - mulher
+  - 'mulher dançando: pele clara'
   - pele clara
-  - pessoas
 💃🏼:
-  - bailarina
-  - 'bailarina: pele morena clara'
-  - dança
+  - dançando
+  - mulher
+  - 'mulher dançando: pele morena clara'
   - pele morena clara
-  - pessoas
 💃🏽:
-  - bailarina
-  - 'bailarina: pele morena'
-  - dança
+  - dançando
+  - mulher
+  - 'mulher dançando: pele morena'
   - pele morena
-  - pessoas
 💃🏾:
-  - bailarina
-  - 'bailarina: pele morena escura'
-  - dança
+  - dançando
+  - mulher
+  - 'mulher dançando: pele morena escura'
   - pele morena escura
-  - pessoas
 💃🏿:
-  - bailarina
-  - 'bailarina: pele escura'
-  - dança
+  - dançando
+  - mulher
+  - 'mulher dançando: pele escura'
   - pele escura
-  - pessoas
 🕺:
   - dançando
   - homem
@@ -7650,31 +8378,36 @@
 🕴🏻:
   - homem
   - homem de terno
-  - 'homem de terno: pele clara'
+  - homem de terno levitando
+  - 'homem de terno levitando: pele clara'
   - pele clara
   - terno
 🕴🏼:
   - homem
   - homem de terno
-  - 'homem de terno: pele morena clara'
+  - homem de terno levitando
+  - 'homem de terno levitando: pele morena clara'
   - pele morena clara
   - terno
 🕴🏽:
   - homem
   - homem de terno
-  - 'homem de terno: pele morena'
+  - homem de terno levitando
+  - 'homem de terno levitando: pele morena'
   - pele morena
   - terno
 🕴🏾:
   - homem
   - homem de terno
-  - 'homem de terno: pele morena escura'
+  - homem de terno levitando
+  - 'homem de terno levitando: pele morena escura'
   - pele morena escura
   - terno
 🕴🏿:
   - homem
   - homem de terno
-  - 'homem de terno: pele escura'
+  - homem de terno levitando
+  - 'homem de terno levitando: pele escura'
   - pele escura
   - terno
 👯:
@@ -7702,22 +8435,27 @@
   - pele clara
   - pessoa na sauna
   - 'pessoa na sauna: pele clara'
+  - sauna
 🧖🏼:
   - pele morena clara
   - pessoa na sauna
   - 'pessoa na sauna: pele morena clara'
+  - sauna
 🧖🏽:
   - pele morena
   - pessoa na sauna
   - 'pessoa na sauna: pele morena'
+  - sauna
 🧖🏾:
   - pele morena escura
   - pessoa na sauna
   - 'pessoa na sauna: pele morena escura'
+  - sauna
 🧖🏿:
   - pele escura
   - pessoa na sauna
   - 'pessoa na sauna: pele escura'
+  - sauna
 🧖‍♂:
   - homem na sauna
   - sauna
@@ -7725,22 +8463,27 @@
   - homem na sauna
   - 'homem na sauna: pele clara'
   - pele clara
+  - sauna
 🧖🏼‍♂:
   - homem na sauna
   - 'homem na sauna: pele morena clara'
   - pele morena clara
+  - sauna
 🧖🏽‍♂:
   - homem na sauna
   - 'homem na sauna: pele morena'
   - pele morena
+  - sauna
 🧖🏾‍♂:
   - homem na sauna
   - 'homem na sauna: pele morena escura'
   - pele morena escura
+  - sauna
 🧖🏿‍♂:
   - homem na sauna
   - 'homem na sauna: pele escura'
   - pele escura
+  - sauna
 🧖‍♀:
   - mulher na sauna
   - sauna
@@ -7748,42 +8491,52 @@
   - mulher na sauna
   - 'mulher na sauna: pele clara'
   - pele clara
+  - sauna
 🧖🏼‍♀:
   - mulher na sauna
   - 'mulher na sauna: pele morena clara'
   - pele morena clara
+  - sauna
 🧖🏽‍♀:
   - mulher na sauna
   - 'mulher na sauna: pele morena'
   - pele morena
+  - sauna
 🧖🏾‍♀:
   - mulher na sauna
   - 'mulher na sauna: pele morena escura'
   - pele morena escura
+  - sauna
 🧖🏿‍♀:
   - mulher na sauna
   - 'mulher na sauna: pele escura'
   - pele escura
+  - sauna
 🧗:
   - escalar
   - pessoa escalando
 🧗🏻:
+  - escalar
   - pele clara
   - pessoa escalando
   - 'pessoa escalando: pele clara'
 🧗🏼:
+  - escalar
   - pele morena clara
   - pessoa escalando
   - 'pessoa escalando: pele morena clara'
 🧗🏽:
+  - escalar
   - pele morena
   - pessoa escalando
   - 'pessoa escalando: pele morena'
 🧗🏾:
+  - escalar
   - pele morena escura
   - pessoa escalando
   - 'pessoa escalando: pele morena escura'
 🧗🏿:
+  - escalar
   - pele escura
   - pessoa escalando
   - 'pessoa escalando: pele escura'
@@ -7791,22 +8544,27 @@
   - escalar
   - homem escalando
 🧗🏻‍♂:
+  - escalar
   - homem escalando
   - 'homem escalando: pele clara'
   - pele clara
 🧗🏼‍♂:
+  - escalar
   - homem escalando
   - 'homem escalando: pele morena clara'
   - pele morena clara
 🧗🏽‍♂:
+  - escalar
   - homem escalando
   - 'homem escalando: pele morena'
   - pele morena
 🧗🏾‍♂:
+  - escalar
   - homem escalando
   - 'homem escalando: pele morena escura'
   - pele morena escura
 🧗🏿‍♂:
+  - escalar
   - homem escalando
   - 'homem escalando: pele escura'
   - pele escura
@@ -7814,22 +8572,27 @@
   - escalar
   - mulher escalando
 🧗🏻‍♀:
+  - escalar
   - mulher escalando
   - 'mulher escalando: pele clara'
   - pele clara
 🧗🏼‍♀:
+  - escalar
   - mulher escalando
   - 'mulher escalando: pele morena clara'
   - pele morena clara
 🧗🏽‍♀:
+  - escalar
   - mulher escalando
   - 'mulher escalando: pele morena'
   - pele morena
 🧗🏾‍♀:
+  - escalar
   - mulher escalando
   - 'mulher escalando: pele morena escura'
   - pele morena escura
 🧗🏿‍♀:
+  - escalar
   - mulher escalando
   - 'mulher escalando: pele escura'
   - pele escura
@@ -7939,76 +8702,81 @@
   - bola
   - esporte
   - golfe
-  - jogador de golfe
-  - 'jogador de golfe: pele clara'
+  - golfista
+  - 'golfista: pele clara'
   - pele clara
+  - pessoa jogando golfe
 🏌🏼:
   - bola
   - esporte
   - golfe
-  - jogador de golfe
-  - 'jogador de golfe: pele morena clara'
+  - golfista
+  - 'golfista: pele morena clara'
   - pele morena clara
+  - pessoa jogando golfe
 🏌🏽:
   - bola
   - esporte
   - golfe
-  - jogador de golfe
-  - 'jogador de golfe: pele morena'
+  - golfista
+  - 'golfista: pele morena'
   - pele morena
+  - pessoa jogando golfe
 🏌🏾:
   - bola
   - esporte
   - golfe
-  - jogador de golfe
-  - 'jogador de golfe: pele morena escura'
+  - golfista
+  - 'golfista: pele morena escura'
   - pele morena escura
+  - pessoa jogando golfe
 🏌🏿:
   - bola
   - esporte
   - golfe
-  - jogador de golfe
-  - 'jogador de golfe: pele escura'
+  - golfista
+  - 'golfista: pele escura'
   - pele escura
+  - pessoa jogando golfe
 🏌‍♂:
   - golfe
   - homem
   - homem golfista
   - homem jogando golfe
 🏌🏻‍♂:
-  - esporte
   - golfe
   - homem
   - homem golfista
   - 'homem golfista: pele clara'
+  - homem jogando golfe
   - pele clara
 🏌🏼‍♂:
-  - esporte
   - golfe
   - homem
   - homem golfista
   - 'homem golfista: pele morena clara'
+  - homem jogando golfe
   - pele morena clara
 🏌🏽‍♂:
-  - esporte
   - golfe
   - homem
   - homem golfista
   - 'homem golfista: pele morena'
+  - homem jogando golfe
   - pele morena
 🏌🏾‍♂:
-  - esporte
   - golfe
   - homem
   - homem golfista
   - 'homem golfista: pele morena escura'
+  - homem jogando golfe
   - pele morena escura
 🏌🏿‍♂:
-  - esporte
   - golfe
   - homem
   - homem golfista
   - 'homem golfista: pele escura'
+  - homem jogando golfe
   - pele escura
 🏌‍♀:
   - golfe
@@ -8016,152 +8784,142 @@
   - mulher golfista
   - mulher jogando golfe
 🏌🏻‍♀:
-  - esporte
   - golfe
   - mulher
   - mulher golfista
   - 'mulher golfista: pele clara'
+  - mulher jogando golfe
   - pele clara
 🏌🏼‍♀:
-  - esporte
   - golfe
   - mulher
   - mulher golfista
   - 'mulher golfista: pele morena clara'
+  - mulher jogando golfe
   - pele morena clara
 🏌🏽‍♀:
-  - esporte
   - golfe
   - mulher
   - mulher golfista
   - 'mulher golfista: pele morena'
+  - mulher jogando golfe
   - pele morena
 🏌🏾‍♀:
-  - esporte
   - golfe
   - mulher
   - mulher golfista
   - 'mulher golfista: pele morena escura'
+  - mulher jogando golfe
   - pele morena escura
 🏌🏿‍♀:
-  - esporte
   - golfe
   - mulher
   - mulher golfista
   - 'mulher golfista: pele escura'
+  - mulher jogando golfe
   - pele escura
 🏄️:
   - pessoa surfando
   - surfe
   - surfista
 🏄🏻:
-  - esporte
   - pele clara
-  - surf
-  - 'surf: pele clara'
+  - pessoa surfando
+  - surfe
   - surfista
+  - 'surfista: pele clara'
 🏄🏼:
-  - esporte
   - pele morena clara
-  - surf
-  - 'surf: pele morena clara'
+  - pessoa surfando
+  - surfe
   - surfista
+  - 'surfista: pele morena clara'
 🏄🏽:
-  - esporte
   - pele morena
-  - surf
-  - 'surf: pele morena'
+  - pessoa surfando
+  - surfe
   - surfista
+  - 'surfista: pele morena'
 🏄🏾:
-  - esporte
   - pele morena escura
-  - surf
-  - 'surf: pele morena escura'
+  - pessoa surfando
+  - surfe
   - surfista
+  - 'surfista: pele morena escura'
 🏄🏿:
-  - esporte
   - pele escura
-  - surf
-  - 'surf: pele escura'
+  - pessoa surfando
+  - surfe
   - surfista
+  - 'surfista: pele escura'
 🏄‍♂:
   - homem
   - homem surfista
   - surfando
 🏄🏻‍♂:
-  - esporte
   - homem
   - homem surfista
   - 'homem surfista: pele clara'
   - pele clara
-  - surfe
+  - surfando
 🏄🏼‍♂:
-  - esporte
   - homem
   - homem surfista
   - 'homem surfista: pele morena clara'
   - pele morena clara
-  - surfe
+  - surfando
 🏄🏽‍♂:
-  - esporte
   - homem
   - homem surfista
   - 'homem surfista: pele morena'
   - pele morena
-  - surfe
+  - surfando
 🏄🏾‍♂:
-  - esporte
   - homem
   - homem surfista
   - 'homem surfista: pele morena escura'
   - pele morena escura
-  - surfe
+  - surfando
 🏄🏿‍♂:
-  - esporte
   - homem
   - homem surfista
   - 'homem surfista: pele escura'
   - pele escura
-  - surfe
+  - surfando
 🏄‍♀:
   - mulher
   - mulher surfista
   - surfando
 🏄🏻‍♀:
-  - esporte
   - mulher
   - mulher surfista
   - 'mulher surfista: pele clara'
   - pele clara
-  - surfe
+  - surfando
 🏄🏼‍♀:
-  - esporte
   - mulher
   - mulher surfista
   - 'mulher surfista: pele morena clara'
   - pele morena clara
-  - surfe
+  - surfando
 🏄🏽‍♀:
-  - esporte
   - mulher
   - mulher surfista
   - 'mulher surfista: pele morena'
   - pele morena
-  - surfe
+  - surfando
 🏄🏾‍♀:
-  - esporte
   - mulher
   - mulher surfista
   - 'mulher surfista: pele morena escura'
   - pele morena escura
-  - surfe
+  - surfando
 🏄🏿‍♀:
-  - esporte
   - mulher
   - mulher surfista
   - 'mulher surfista: pele escura'
   - pele escura
-  - surfe
+  - surfando
 🚣:
   - barco
   - barco a remo
@@ -8170,32 +8928,37 @@
 🚣🏻:
   - barco
   - barco a remo
-  - 'barco a remo: pele clara'
   - pele clara
+  - pessoa remando
+  - 'pessoa remando: pele clara'
   - veículo
 🚣🏼:
   - barco
   - barco a remo
-  - 'barco a remo: pele morena clara'
   - pele morena clara
+  - pessoa remando
+  - 'pessoa remando: pele morena clara'
   - veículo
 🚣🏽:
   - barco
   - barco a remo
-  - 'barco a remo: pele morena'
   - pele morena
+  - pessoa remando
+  - 'pessoa remando: pele morena'
   - veículo
 🚣🏾:
   - barco
   - barco a remo
-  - 'barco a remo: pele morena escura'
   - pele morena escura
+  - pessoa remando
+  - 'pessoa remando: pele morena escura'
   - veículo
 🚣🏿:
   - barco
   - barco a remo
-  - 'barco a remo: pele escura'
   - pele escura
+  - pessoa remando
+  - 'pessoa remando: pele escura'
   - veículo
 🚣‍♂:
   - esporte
@@ -8206,37 +8969,42 @@
 🚣🏻‍♂:
   - esporte
   - homem
+  - homem remando
+  - 'homem remando: pele clara'
   - pele clara
   - remador
-  - 'remador: pele clara'
   - remo
 🚣🏼‍♂:
   - esporte
   - homem
+  - homem remando
+  - 'homem remando: pele morena clara'
   - pele morena clara
   - remador
-  - 'remador: pele morena clara'
   - remo
 🚣🏽‍♂:
   - esporte
   - homem
+  - homem remando
+  - 'homem remando: pele morena'
   - pele morena
   - remador
-  - 'remador: pele morena'
   - remo
 🚣🏾‍♂:
   - esporte
   - homem
+  - homem remando
+  - 'homem remando: pele morena escura'
   - pele morena escura
   - remador
-  - 'remador: pele morena escura'
   - remo
 🚣🏿‍♂:
   - esporte
   - homem
+  - homem remando
+  - 'homem remando: pele escura'
   - pele escura
   - remador
-  - 'remador: pele escura'
   - remo
 🚣‍♀:
   - esporte
@@ -8247,37 +9015,42 @@
 🚣🏻‍♀:
   - esporte
   - mulher
+  - mulher remando
+  - 'mulher remando: pele clara'
   - pele clara
   - remadora
-  - 'remadora: pele clara'
   - remo
 🚣🏼‍♀:
   - esporte
   - mulher
+  - mulher remando
+  - 'mulher remando: pele morena clara'
   - pele morena clara
   - remadora
-  - 'remadora: pele morena clara'
   - remo
 🚣🏽‍♀:
   - esporte
   - mulher
+  - mulher remando
+  - 'mulher remando: pele morena'
   - pele morena
   - remadora
-  - 'remadora: pele morena'
   - remo
 🚣🏾‍♀:
   - esporte
   - mulher
+  - mulher remando
+  - 'mulher remando: pele morena escura'
   - pele morena escura
   - remadora
-  - 'remadora: pele morena escura'
   - remo
 🚣🏿‍♀:
   - esporte
   - mulher
+  - mulher remando
+  - 'mulher remando: pele escura'
   - pele escura
   - remadora
-  - 'remadora: pele escura'
   - remo
 🏊️:
   - esporte
@@ -8285,63 +9058,73 @@
   - pessoa nadando
 🏊🏻:
   - esporte
-  - nadador
-  - 'nadador: pele clara'
   - nadar
-  - natação
   - pele clara
+  - pessoa nadando
+  - 'pessoa nadando: pele clara'
 🏊🏼:
   - esporte
-  - nadador
-  - 'nadador: pele morena clara'
   - nadar
-  - natação
   - pele morena clara
+  - pessoa nadando
+  - 'pessoa nadando: pele morena clara'
 🏊🏽:
   - esporte
-  - nadador
-  - 'nadador: pele morena'
   - nadar
-  - natação
   - pele morena
+  - pessoa nadando
+  - 'pessoa nadando: pele morena'
 🏊🏾:
   - esporte
-  - nadador
-  - 'nadador: pele morena escura'
   - nadar
-  - natação
   - pele morena escura
+  - pessoa nadando
+  - 'pessoa nadando: pele morena escura'
 🏊🏿:
   - esporte
-  - nadador
-  - 'nadador: pele escura'
   - nadar
-  - natação
   - pele escura
+  - pessoa nadando
+  - 'pessoa nadando: pele escura'
 🏊‍♂:
   - homem
   - homem nadando
   - nadar
   - natação
 🏊🏻‍♂:
+  - homem
   - homem nadando
   - 'homem nadando: pele clara'
+  - nadar
+  - natação
   - pele clara
 🏊🏼‍♂:
+  - homem
   - homem nadando
   - 'homem nadando: pele morena clara'
+  - nadar
+  - natação
   - pele morena clara
 🏊🏽‍♂:
+  - homem
   - homem nadando
   - 'homem nadando: pele morena'
+  - nadar
+  - natação
   - pele morena
 🏊🏾‍♂:
+  - homem
   - homem nadando
   - 'homem nadando: pele morena escura'
+  - nadar
+  - natação
   - pele morena escura
 🏊🏿‍♂:
+  - homem
   - homem nadando
   - 'homem nadando: pele escura'
+  - nadar
+  - natação
   - pele escura
 🏊‍♀:
   - mulher
@@ -8349,38 +9132,38 @@
   - nadar
   - natação
 🏊🏻‍♀:
-  - esporte
   - mulher
-  - nadadora
-  - 'nadadora: pele clara'
+  - mulher nadando
+  - 'mulher nadando: pele clara'
+  - nadar
   - natação
   - pele clara
 🏊🏼‍♀:
-  - esporte
   - mulher
-  - nadadora
-  - 'nadadora: pele morena clara'
+  - mulher nadando
+  - 'mulher nadando: pele morena clara'
+  - nadar
   - natação
   - pele morena clara
 🏊🏽‍♀:
-  - esporte
   - mulher
-  - nadadora
-  - 'nadadora: pele morena'
+  - mulher nadando
+  - 'mulher nadando: pele morena'
+  - nadar
   - natação
   - pele morena
 🏊🏾‍♀:
-  - esporte
   - mulher
-  - nadadora
-  - 'nadadora: pele morena escura'
+  - mulher nadando
+  - 'mulher nadando: pele morena escura'
+  - nadar
   - natação
   - pele morena escura
 🏊🏿‍♀:
-  - esporte
   - mulher
-  - nadadora
-  - 'nadadora: pele escura'
+  - mulher nadando
+  - 'mulher nadando: pele escura'
+  - nadar
   - natação
   - pele escura
 ⛹️:
@@ -8392,37 +9175,37 @@
   - basquete
   - bola
   - esporte
-  - jogador de basquete
-  - 'jogador de basquete: pele clara'
   - pele clara
+  - pessoa jogando basquete
+  - 'pessoa jogando basquete: pele clara'
 ⛹🏼:
   - basquete
   - bola
   - esporte
-  - jogador de basquete
-  - 'jogador de basquete: pele morena clara'
   - pele morena clara
+  - pessoa jogando basquete
+  - 'pessoa jogando basquete: pele morena clara'
 ⛹🏽:
   - basquete
   - bola
   - esporte
-  - jogador de basquete
-  - 'jogador de basquete: pele morena'
   - pele morena
+  - pessoa jogando basquete
+  - 'pessoa jogando basquete: pele morena'
 ⛹🏾:
   - basquete
   - bola
   - esporte
-  - jogador de basquete
-  - 'jogador de basquete: pele morena escura'
   - pele morena escura
+  - pessoa jogando basquete
+  - 'pessoa jogando basquete: pele morena escura'
 ⛹🏿:
   - basquete
   - bola
   - esporte
-  - jogador de basquete
-  - 'jogador de basquete: pele escura'
   - pele escura
+  - pessoa jogando basquete
+  - 'pessoa jogando basquete: pele escura'
 ⛹‍♂:
   - basquete
   - bola
@@ -8434,45 +9217,40 @@
   - bola
   - esporte
   - homem
-  - jogador
-  - 'jogador: pele clara'
-  - jogo
+  - homem jogando basquete
+  - 'homem jogando basquete: pele clara'
   - pele clara
 ⛹🏼‍♂:
   - basquete
   - bola
   - esporte
   - homem
-  - jogador
-  - 'jogador: pele morena clara'
-  - jogo
+  - homem jogando basquete
+  - 'homem jogando basquete: pele morena clara'
   - pele morena clara
 ⛹🏽‍♂:
   - basquete
   - bola
   - esporte
   - homem
-  - jogador
-  - 'jogador: pele morena'
-  - jogo
+  - homem jogando basquete
+  - 'homem jogando basquete: pele morena'
   - pele morena
 ⛹🏾‍♂:
   - basquete
   - bola
   - esporte
   - homem
-  - jogador
-  - 'jogador: pele morena escura'
-  - jogo
+  - homem jogando basquete
+  - 'homem jogando basquete: pele morena escura'
   - pele morena escura
 ⛹🏿‍♂:
   - basquete
   - bola
   - esporte
   - homem
-  - jogador
-  - 'jogador: pele escura'
-  - jogo
+  - homem jogando basquete
+  - 'homem jogando basquete: pele escura'
   - pele escura
 ⛹‍♀:
   - basquete
@@ -8484,46 +9262,41 @@
   - basquete
   - bola
   - esporte
-  - jogadora
-  - 'jogadora: pele clara'
-  - jogo
   - mulher
+  - mulher jogando basquete
+  - 'mulher jogando basquete: pele clara'
   - pele clara
 ⛹🏼‍♀:
   - basquete
   - bola
   - esporte
-  - jogadora
-  - 'jogadora: pele morena clara'
-  - jogo
   - mulher
+  - mulher jogando basquete
+  - 'mulher jogando basquete: pele morena clara'
   - pele morena clara
 ⛹🏽‍♀:
   - basquete
   - bola
   - esporte
-  - jogadora
-  - 'jogadora: pele morena'
-  - jogo
   - mulher
+  - mulher jogando basquete
+  - 'mulher jogando basquete: pele morena'
   - pele morena
 ⛹🏾‍♀:
   - basquete
   - bola
   - esporte
-  - jogadora
-  - 'jogadora: pele morena escura'
-  - jogo
   - mulher
+  - mulher jogando basquete
+  - 'mulher jogando basquete: pele morena escura'
   - pele morena escura
 ⛹🏿‍♀:
   - basquete
   - bola
   - esporte
-  - jogadora
-  - 'jogadora: pele escura'
-  - jogo
   - mulher
+  - mulher jogando basquete
+  - 'mulher jogando basquete: pele escura'
   - pele escura
 🏋️:
   - esporte
@@ -8533,43 +9306,38 @@
 🏋🏻:
   - esporte
   - força
-  - levantador
-  - levantador de peso
-  - 'levantador de peso: pele clara'
   - pele clara
   - peso
+  - pessoa levantando peso
+  - 'pessoa levantando peso: pele clara'
 🏋🏼:
   - esporte
   - força
-  - levantador
-  - levantador de peso
-  - 'levantador de peso: pele morena clara'
   - pele morena clara
   - peso
+  - pessoa levantando peso
+  - 'pessoa levantando peso: pele morena clara'
 🏋🏽:
   - esporte
   - força
-  - levantador
-  - levantador de peso
-  - 'levantador de peso: pele morena'
   - pele morena
   - peso
+  - pessoa levantando peso
+  - 'pessoa levantando peso: pele morena'
 🏋🏾:
   - esporte
   - força
-  - levantador
-  - levantador de peso
-  - 'levantador de peso: pele morena escura'
   - pele morena escura
   - peso
+  - pessoa levantando peso
+  - 'pessoa levantando peso: pele morena escura'
 🏋🏿:
   - esporte
   - força
-  - levantador
-  - levantador de peso
-  - 'levantador de peso: pele escura'
   - pele escura
   - peso
+  - pessoa levantando peso
+  - 'pessoa levantando peso: pele escura'
 🏋‍♂:
   - esporte
   - força
@@ -8582,7 +9350,6 @@
   - homem
   - homem levantando peso
   - 'homem levantando peso: pele clara'
-  - levantamento de peso
   - pele clara
   - peso
 🏋🏼‍♂:
@@ -8591,7 +9358,6 @@
   - homem
   - homem levantando peso
   - 'homem levantando peso: pele morena clara'
-  - levantamento de peso
   - pele morena clara
   - peso
 🏋🏽‍♂:
@@ -8600,7 +9366,6 @@
   - homem
   - homem levantando peso
   - 'homem levantando peso: pele morena'
-  - levantamento de peso
   - pele morena
   - peso
 🏋🏾‍♂:
@@ -8609,7 +9374,6 @@
   - homem
   - homem levantando peso
   - 'homem levantando peso: pele morena escura'
-  - levantamento de peso
   - pele morena escura
   - peso
 🏋🏿‍♂:
@@ -8618,7 +9382,6 @@
   - homem
   - homem levantando peso
   - 'homem levantando peso: pele escura'
-  - levantamento de peso
   - pele escura
   - peso
 🏋‍♀:
@@ -8630,7 +9393,6 @@
 🏋🏻‍♀:
   - esporte
   - força
-  - levantamento de peso
   - mulher
   - mulher levantando peso
   - 'mulher levantando peso: pele clara'
@@ -8639,7 +9401,6 @@
 🏋🏼‍♀:
   - esporte
   - força
-  - levantamento de peso
   - mulher
   - mulher levantando peso
   - 'mulher levantando peso: pele morena clara'
@@ -8648,7 +9409,6 @@
 🏋🏽‍♀:
   - esporte
   - força
-  - levantamento de peso
   - mulher
   - mulher levantando peso
   - 'mulher levantando peso: pele morena'
@@ -8657,7 +9417,6 @@
 🏋🏾‍♀:
   - esporte
   - força
-  - levantamento de peso
   - mulher
   - mulher levantando peso
   - 'mulher levantando peso: pele morena escura'
@@ -8666,7 +9425,6 @@
 🏋🏿‍♀:
   - esporte
   - força
-  - levantamento de peso
   - mulher
   - mulher levantando peso
   - 'mulher levantando peso: pele escura'
@@ -8800,82 +9558,77 @@
 🚵🏻:
   - bicicleta
   - ciclista
-  - ciclista das montanhas
-  - 'ciclista das montanhas: pele clara'
-  - montanha
+  - mountain bike
   - pele clara
+  - pessoa fazendo mountain bike
+  - 'pessoa fazendo mountain bike: pele clara'
 🚵🏼:
   - bicicleta
   - ciclista
-  - ciclista das montanhas
-  - 'ciclista das montanhas: pele morena clara'
-  - montanha
+  - mountain bike
   - pele morena clara
+  - pessoa fazendo mountain bike
+  - 'pessoa fazendo mountain bike: pele morena clara'
 🚵🏽:
   - bicicleta
   - ciclista
-  - ciclista das montanhas
-  - 'ciclista das montanhas: pele morena'
-  - montanha
+  - mountain bike
   - pele morena
+  - pessoa fazendo mountain bike
+  - 'pessoa fazendo mountain bike: pele morena'
 🚵🏾:
   - bicicleta
   - ciclista
-  - ciclista das montanhas
-  - 'ciclista das montanhas: pele morena escura'
-  - montanha
+  - mountain bike
   - pele morena escura
+  - pessoa fazendo mountain bike
+  - 'pessoa fazendo mountain bike: pele morena escura'
 🚵🏿:
   - bicicleta
   - ciclista
-  - ciclista das montanhas
-  - 'ciclista das montanhas: pele escura'
-  - montanha
+  - mountain bike
   - pele escura
+  - pessoa fazendo mountain bike
+  - 'pessoa fazendo mountain bike: pele escura'
 🚵‍♂:
   - bicicleta
   - ciclista
   - homem fazendo mountain bike
   - mountain bike
 🚵🏻‍♂:
+  - bicicleta
   - ciclista
-  - esporte
-  - homem
   - homem fazendo mountain bike
   - 'homem fazendo mountain bike: pele clara'
-  - montanha
+  - mountain bike
   - pele clara
 🚵🏼‍♂:
+  - bicicleta
   - ciclista
-  - esporte
-  - homem
   - homem fazendo mountain bike
   - 'homem fazendo mountain bike: pele morena clara'
-  - montanha
+  - mountain bike
   - pele morena clara
 🚵🏽‍♂:
+  - bicicleta
   - ciclista
-  - esporte
-  - homem
   - homem fazendo mountain bike
   - 'homem fazendo mountain bike: pele morena'
-  - montanha
+  - mountain bike
   - pele morena
 🚵🏾‍♂:
+  - bicicleta
   - ciclista
-  - esporte
-  - homem
   - homem fazendo mountain bike
   - 'homem fazendo mountain bike: pele morena escura'
-  - montanha
+  - mountain bike
   - pele morena escura
 🚵🏿‍♂:
+  - bicicleta
   - ciclista
-  - esporte
-  - homem
   - homem fazendo mountain bike
   - 'homem fazendo mountain bike: pele escura'
-  - montanha
+  - mountain bike
   - pele escura
 🚵‍♀:
   - bicicleta
@@ -8883,42 +9636,37 @@
   - mountain bike
   - mulher fazendo mountain bike
 🚵🏻‍♀:
+  - bicicleta
   - ciclista
-  - esporte
-  - montanha
-  - mulher
+  - mountain bike
   - mulher fazendo mountain bike
   - 'mulher fazendo mountain bike: pele clara'
   - pele clara
 🚵🏼‍♀:
+  - bicicleta
   - ciclista
-  - esporte
-  - montanha
-  - mulher
+  - mountain bike
   - mulher fazendo mountain bike
   - 'mulher fazendo mountain bike: pele morena clara'
   - pele morena clara
 🚵🏽‍♀:
+  - bicicleta
   - ciclista
-  - esporte
-  - montanha
-  - mulher
+  - mountain bike
   - mulher fazendo mountain bike
   - 'mulher fazendo mountain bike: pele morena'
   - pele morena
 🚵🏾‍♀:
+  - bicicleta
   - ciclista
-  - esporte
-  - montanha
-  - mulher
+  - mountain bike
   - mulher fazendo mountain bike
   - 'mulher fazendo mountain bike: pele morena escura'
   - pele morena escura
 🚵🏿‍♀:
+  - bicicleta
   - ciclista
-  - esporte
-  - montanha
-  - mulher
+  - mountain bike
   - mulher fazendo mountain bike
   - 'mulher fazendo mountain bike: pele escura'
   - pele escura
@@ -8931,38 +9679,43 @@
 🤸🏻:
   - esporte
   - estrela
-  - 'estrela: pele clara'
   - ginástica
   - pele clara
   - pessoa
+  - pessoa fazendo estrela
+  - 'pessoa fazendo estrela: pele clara'
 🤸🏼:
   - esporte
   - estrela
-  - 'estrela: pele morena clara'
   - ginástica
   - pele morena clara
   - pessoa
+  - pessoa fazendo estrela
+  - 'pessoa fazendo estrela: pele morena clara'
 🤸🏽:
   - esporte
   - estrela
-  - 'estrela: pele morena'
   - ginástica
   - pele morena
   - pessoa
+  - pessoa fazendo estrela
+  - 'pessoa fazendo estrela: pele morena'
 🤸🏾:
   - esporte
   - estrela
-  - 'estrela: pele morena escura'
   - ginástica
   - pele morena escura
   - pessoa
+  - pessoa fazendo estrela
+  - 'pessoa fazendo estrela: pele morena escura'
 🤸🏿:
   - esporte
   - estrela
-  - 'estrela: pele escura'
   - ginástica
   - pele escura
   - pessoa
+  - pessoa fazendo estrela
+  - 'pessoa fazendo estrela: pele escura'
 🤸‍♂:
   - esporte
   - estrela
@@ -9078,40 +9831,35 @@
   - pessoa
   - pessoa jogando polo aquático
 🤽🏻:
-  - aquático
   - esporte
   - pele clara
   - pessoa
-  - polo
-  - 'polo aquático: pele clara'
+  - pessoa jogando polo aquático
+  - 'pessoa jogando polo aquático: pele clara'
 🤽🏼:
-  - aquático
   - esporte
   - pele morena clara
   - pessoa
-  - polo
-  - 'polo aquático: pele morena clara'
+  - pessoa jogando polo aquático
+  - 'pessoa jogando polo aquático: pele morena clara'
 🤽🏽:
-  - aquático
   - esporte
   - pele morena
   - pessoa
-  - polo
-  - 'polo aquático: pele morena'
+  - pessoa jogando polo aquático
+  - 'pessoa jogando polo aquático: pele morena'
 🤽🏾:
-  - aquático
   - esporte
   - pele morena escura
   - pessoa
-  - polo
-  - 'polo aquático: pele morena escura'
+  - pessoa jogando polo aquático
+  - 'pessoa jogando polo aquático: pele morena escura'
 🤽🏿:
-  - aquático
   - esporte
   - pele escura
   - pessoa
-  - polo
-  - 'polo aquático: pele escura'
+  - pessoa jogando polo aquático
+  - 'pessoa jogando polo aquático: pele escura'
 🤽‍♂:
   - esporte
   - homem
@@ -9122,40 +9870,45 @@
 🤽🏻‍♂:
   - esporte
   - homem
+  - homem jogando polo aquático
+  - 'homem jogando polo aquático: pele clara'
   - jogador de polo aquático
-  - 'jogador de polo aquático: pele clara'
   - pele clara
   - piscina
   - polo
 🤽🏼‍♂:
   - esporte
   - homem
+  - homem jogando polo aquático
+  - 'homem jogando polo aquático: pele morena clara'
   - jogador de polo aquático
-  - 'jogador de polo aquático: pele morena clara'
   - pele morena clara
   - piscina
   - polo
 🤽🏽‍♂:
   - esporte
   - homem
+  - homem jogando polo aquático
+  - 'homem jogando polo aquático: pele morena'
   - jogador de polo aquático
-  - 'jogador de polo aquático: pele morena'
   - pele morena
   - piscina
   - polo
 🤽🏾‍♂:
   - esporte
   - homem
+  - homem jogando polo aquático
+  - 'homem jogando polo aquático: pele morena escura'
   - jogador de polo aquático
-  - 'jogador de polo aquático: pele morena escura'
   - pele morena escura
   - piscina
   - polo
 🤽🏿‍♂:
   - esporte
   - homem
+  - homem jogando polo aquático
+  - 'homem jogando polo aquático: pele escura'
   - jogador de polo aquático
-  - 'jogador de polo aquático: pele escura'
   - pele escura
   - piscina
   - polo
@@ -9169,40 +9922,45 @@
 🤽🏻‍♀:
   - esporte
   - jogadora de polo aquático
-  - 'jogadora de polo aquático: pele clara'
   - mulher
+  - mulher jogando polo aquático
+  - 'mulher jogando polo aquático: pele clara'
   - pele clara
   - piscina
   - polo
 🤽🏼‍♀:
   - esporte
   - jogadora de polo aquático
-  - 'jogadora de polo aquático: pele morena clara'
   - mulher
+  - mulher jogando polo aquático
+  - 'mulher jogando polo aquático: pele morena clara'
   - pele morena clara
   - piscina
   - polo
 🤽🏽‍♀:
   - esporte
   - jogadora de polo aquático
-  - 'jogadora de polo aquático: pele morena'
   - mulher
+  - mulher jogando polo aquático
+  - 'mulher jogando polo aquático: pele morena'
   - pele morena
   - piscina
   - polo
 🤽🏾‍♀:
   - esporte
   - jogadora de polo aquático
-  - 'jogadora de polo aquático: pele morena escura'
   - mulher
+  - mulher jogando polo aquático
+  - 'mulher jogando polo aquático: pele morena escura'
   - pele morena escura
   - piscina
   - polo
 🤽🏿‍♀:
   - esporte
   - jogadora de polo aquático
-  - 'jogadora de polo aquático: pele escura'
   - mulher
+  - mulher jogando polo aquático
+  - 'mulher jogando polo aquático: pele escura'
   - pele escura
   - piscina
   - polo
@@ -9360,35 +10118,40 @@
   - equilíbrio
   - habilidade
   - malabarismo
-  - 'malabarismo: pele clara'
+  - malabarista
+  - 'malabarista: pele clara'
   - multitarefa
   - pele clara
 🤹🏼:
   - equilíbrio
   - habilidade
   - malabarismo
-  - 'malabarismo: pele morena clara'
+  - malabarista
+  - 'malabarista: pele morena clara'
   - multitarefa
   - pele morena clara
 🤹🏽:
   - equilíbrio
   - habilidade
   - malabarismo
-  - 'malabarismo: pele morena'
+  - malabarista
+  - 'malabarista: pele morena'
   - multitarefa
   - pele morena
 🤹🏾:
   - equilíbrio
   - habilidade
   - malabarismo
-  - 'malabarismo: pele morena escura'
+  - malabarista
+  - 'malabarista: pele morena escura'
   - multitarefa
   - pele morena escura
 🤹🏿:
   - equilíbrio
   - habilidade
   - malabarismo
-  - 'malabarismo: pele escura'
+  - malabarista
+  - 'malabarista: pele escura'
   - multitarefa
   - pele escura
 🤹‍♂:
@@ -9501,25 +10264,40 @@
   - pessoa na posição de lótus
   - yoga
 🧘🏻:
+  - ioga
+  - meditação
   - pele clara
   - pessoa na posição de lótus
   - 'pessoa na posição de lótus: pele clara'
+  - yoga
 🧘🏼:
+  - ioga
+  - meditação
   - pele morena clara
   - pessoa na posição de lótus
   - 'pessoa na posição de lótus: pele morena clara'
+  - yoga
 🧘🏽:
+  - ioga
+  - meditação
   - pele morena
   - pessoa na posição de lótus
   - 'pessoa na posição de lótus: pele morena'
+  - yoga
 🧘🏾:
+  - ioga
+  - meditação
   - pele morena escura
   - pessoa na posição de lótus
   - 'pessoa na posição de lótus: pele morena escura'
+  - yoga
 🧘🏿:
+  - ioga
+  - meditação
   - pele escura
   - pessoa na posição de lótus
   - 'pessoa na posição de lótus: pele escura'
+  - yoga
 🧘‍♂:
   - homem na posição de lótus
   - ioga
@@ -9528,81 +10306,106 @@
 🧘🏻‍♂:
   - homem na posição de lótus
   - 'homem na posição de lótus: pele clara'
+  - ioga
+  - meditação
   - pele clara
+  - yoga
 🧘🏼‍♂:
   - homem na posição de lótus
   - 'homem na posição de lótus: pele morena clara'
+  - ioga
+  - meditação
   - pele morena clara
+  - yoga
 🧘🏽‍♂:
   - homem na posição de lótus
   - 'homem na posição de lótus: pele morena'
+  - ioga
+  - meditação
   - pele morena
+  - yoga
 🧘🏾‍♂:
   - homem na posição de lótus
   - 'homem na posição de lótus: pele morena escura'
+  - ioga
+  - meditação
   - pele morena escura
+  - yoga
 🧘🏿‍♂:
   - homem na posição de lótus
   - 'homem na posição de lótus: pele escura'
+  - ioga
+  - meditação
   - pele escura
+  - yoga
 🧘‍♀:
   - ioga
   - meditação
   - mulher na posição de lótus
   - yoga
 🧘🏻‍♀:
+  - ioga
+  - meditação
   - mulher na posição de lótus
   - 'mulher na posição de lótus: pele clara'
   - pele clara
+  - yoga
 🧘🏼‍♀:
+  - ioga
+  - meditação
   - mulher na posição de lótus
   - 'mulher na posição de lótus: pele morena clara'
   - pele morena clara
+  - yoga
 🧘🏽‍♀:
+  - ioga
+  - meditação
   - mulher na posição de lótus
   - 'mulher na posição de lótus: pele morena'
   - pele morena
+  - yoga
 🧘🏾‍♀:
+  - ioga
+  - meditação
   - mulher na posição de lótus
   - 'mulher na posição de lótus: pele morena escura'
   - pele morena escura
+  - yoga
 🧘🏿‍♀:
+  - ioga
+  - meditação
   - mulher na posição de lótus
   - 'mulher na posição de lótus: pele escura'
   - pele escura
+  - yoga
 🛀:
   - banheira
   - pessoa tomando banho
 🛀🏻:
   - banheira
-  - banho
-  - 'banho: pele clara'
   - pele clara
-  - água
+  - pessoa tomando banho
+  - 'pessoa tomando banho: pele clara'
 🛀🏼:
   - banheira
-  - banho
-  - 'banho: pele morena clara'
   - pele morena clara
-  - água
+  - pessoa tomando banho
+  - 'pessoa tomando banho: pele morena clara'
 🛀🏽:
   - banheira
-  - banho
-  - 'banho: pele morena'
   - pele morena
-  - água
+  - pessoa tomando banho
+  - 'pessoa tomando banho: pele morena'
 🛀🏾:
   - banheira
-  - banho
-  - 'banho: pele morena escura'
   - pele morena escura
-  - água
+  - pessoa tomando banho
+  - 'pessoa tomando banho: pele morena escura'
 🛀🏿:
   - banheira
-  - banho
-  - 'banho: pele escura'
   - pele escura
-  - água
+  - pessoa tomando banho
+  - 'pessoa tomando banho: pele escura'
 🛌:
   - hotel
   - pessoa
@@ -9643,6 +10446,78 @@
   - pessoa deitada na cama
   - 'pessoa deitada na cama: pele escura'
   - sono
+🧑‍🤝‍🧑:
+  - pessoas de mãos dadas
+🧑🏻‍🤝‍🧑🏻:
+  - pele clara
+  - pessoas de mãos dadas
+  - 'pessoas de mãos dadas: pele clara'
+🧑🏼‍🤝‍🧑🏻:
+  - pele clara
+  - pele morena clara
+  - pessoas de mãos dadas
+  - 'pessoas de mãos dadas: pele morena clara e pele clara'
+🧑🏼‍🤝‍🧑🏼:
+  - pele morena clara
+  - pessoas de mãos dadas
+  - 'pessoas de mãos dadas: pele morena clara'
+🧑🏽‍🤝‍🧑🏻:
+  - pele clara
+  - pele morena
+  - pessoas de mãos dadas
+  - 'pessoas de mãos dadas: pele morena e pele clara'
+🧑🏽‍🤝‍🧑🏼:
+  - pele morena
+  - pele morena clara
+  - pessoas de mãos dadas
+  - 'pessoas de mãos dadas: pele morena e pele morena clara'
+🧑🏽‍🤝‍🧑🏽:
+  - pele morena
+  - pessoas de mãos dadas
+  - 'pessoas de mãos dadas: pele morena'
+🧑🏾‍🤝‍🧑🏻:
+  - pele clara
+  - pele morena escura
+  - pessoas de mãos dadas
+  - 'pessoas de mãos dadas: pele morena escura e pele clara'
+🧑🏾‍🤝‍🧑🏼:
+  - pele morena clara
+  - pele morena escura
+  - pessoas de mãos dadas
+  - 'pessoas de mãos dadas: pele morena escura e pele morena clara'
+🧑🏾‍🤝‍🧑🏽:
+  - pele morena
+  - pele morena escura
+  - pessoas de mãos dadas
+  - 'pessoas de mãos dadas: pele morena escura e pele morena'
+🧑🏾‍🤝‍🧑🏾:
+  - pele morena escura
+  - pessoas de mãos dadas
+  - 'pessoas de mãos dadas: pele morena escura'
+🧑🏿‍🤝‍🧑🏻:
+  - pele clara
+  - pele escura
+  - pessoas de mãos dadas
+  - 'pessoas de mãos dadas: pele escura e pele clara'
+🧑🏿‍🤝‍🧑🏼:
+  - pele escura
+  - pele morena clara
+  - pessoas de mãos dadas
+  - 'pessoas de mãos dadas: pele escura e pele morena clara'
+🧑🏿‍🤝‍🧑🏽:
+  - pele escura
+  - pele morena
+  - pessoas de mãos dadas
+  - 'pessoas de mãos dadas: pele escura e pele morena'
+🧑🏿‍🤝‍🧑🏾:
+  - pele escura
+  - pele morena escura
+  - pessoas de mãos dadas
+  - 'pessoas de mãos dadas: pele escura e pele morena escura'
+🧑🏿‍🤝‍🧑🏿:
+  - pele escura
+  - pessoas de mãos dadas
+  - 'pessoas de mãos dadas: pele escura'
 👭:
   - casal
   - duas mulheres de mão dadas
@@ -9650,19 +10525,529 @@
   - mulher
   - mãos dadas
   - pessoas
+👭🏻:
+  - casal
+  - duas mulheres de mão dadas
+  - duas mulheres de mãos dadas
+  - 'duas mulheres de mãos dadas: pele clara'
+  - mulher
+  - mãos dadas
+  - pele clara
+  - pessoas
+👩🏼‍🤝‍👩🏻:
+  - casal
+  - duas mulheres de mão dadas
+  - duas mulheres de mãos dadas
+  - 'duas mulheres de mãos dadas: pele morena clara e pele clara'
+  - mulher
+  - mãos dadas
+  - pele clara
+  - pele morena clara
+  - pessoas
+👭🏼:
+  - casal
+  - duas mulheres de mão dadas
+  - duas mulheres de mãos dadas
+  - 'duas mulheres de mãos dadas: pele morena clara'
+  - mulher
+  - mãos dadas
+  - pele morena clara
+  - pessoas
+👩🏽‍🤝‍👩🏻:
+  - casal
+  - duas mulheres de mão dadas
+  - duas mulheres de mãos dadas
+  - 'duas mulheres de mãos dadas: pele morena e pele clara'
+  - mulher
+  - mãos dadas
+  - pele clara
+  - pele morena
+  - pessoas
+👩🏽‍🤝‍👩🏼:
+  - casal
+  - duas mulheres de mão dadas
+  - duas mulheres de mãos dadas
+  - 'duas mulheres de mãos dadas: pele morena e pele morena clara'
+  - mulher
+  - mãos dadas
+  - pele morena
+  - pele morena clara
+  - pessoas
+👭🏽:
+  - casal
+  - duas mulheres de mão dadas
+  - duas mulheres de mãos dadas
+  - 'duas mulheres de mãos dadas: pele morena'
+  - mulher
+  - mãos dadas
+  - pele morena
+  - pessoas
+👩🏾‍🤝‍👩🏻:
+  - casal
+  - duas mulheres de mão dadas
+  - duas mulheres de mãos dadas
+  - 'duas mulheres de mãos dadas: pele morena escura e pele clara'
+  - mulher
+  - mãos dadas
+  - pele clara
+  - pele morena escura
+  - pessoas
+👩🏾‍🤝‍👩🏼:
+  - casal
+  - duas mulheres de mão dadas
+  - duas mulheres de mãos dadas
+  - 'duas mulheres de mãos dadas: pele morena escura e pele morena clara'
+  - mulher
+  - mãos dadas
+  - pele morena clara
+  - pele morena escura
+  - pessoas
+👩🏾‍🤝‍👩🏽:
+  - casal
+  - duas mulheres de mão dadas
+  - duas mulheres de mãos dadas
+  - 'duas mulheres de mãos dadas: pele morena escura e pele morena'
+  - mulher
+  - mãos dadas
+  - pele morena
+  - pele morena escura
+  - pessoas
+👭🏾:
+  - casal
+  - duas mulheres de mão dadas
+  - duas mulheres de mãos dadas
+  - 'duas mulheres de mãos dadas: pele morena escura'
+  - mulher
+  - mãos dadas
+  - pele morena escura
+  - pessoas
+👩🏿‍🤝‍👩🏻:
+  - casal
+  - duas mulheres de mão dadas
+  - duas mulheres de mãos dadas
+  - 'duas mulheres de mãos dadas: pele escura e pele clara'
+  - mulher
+  - mãos dadas
+  - pele clara
+  - pele escura
+  - pessoas
+👩🏿‍🤝‍👩🏼:
+  - casal
+  - duas mulheres de mão dadas
+  - duas mulheres de mãos dadas
+  - 'duas mulheres de mãos dadas: pele escura e pele morena clara'
+  - mulher
+  - mãos dadas
+  - pele escura
+  - pele morena clara
+  - pessoas
+👩🏿‍🤝‍👩🏽:
+  - casal
+  - duas mulheres de mão dadas
+  - duas mulheres de mãos dadas
+  - 'duas mulheres de mãos dadas: pele escura e pele morena'
+  - mulher
+  - mãos dadas
+  - pele escura
+  - pele morena
+  - pessoas
+👩🏿‍🤝‍👩🏾:
+  - casal
+  - duas mulheres de mão dadas
+  - duas mulheres de mãos dadas
+  - 'duas mulheres de mãos dadas: pele escura e pele morena escura'
+  - mulher
+  - mãos dadas
+  - pele escura
+  - pele morena escura
+  - pessoas
+👭🏿:
+  - casal
+  - duas mulheres de mão dadas
+  - duas mulheres de mãos dadas
+  - 'duas mulheres de mãos dadas: pele escura'
+  - mulher
+  - mãos dadas
+  - pele escura
+  - pessoas
 👫:
   - casal
   - homem
   - homem e mulher de mãos dadas
   - mulher
   - mãos dadas
-  - pessoas
+👫🏻:
+  - casal
+  - homem
+  - homem e mulher de mãos dadas
+  - 'homem e mulher de mãos dadas: pele clara'
+  - mulher
+  - mãos dadas
+  - pele clara
+👩🏻‍🤝‍👨🏼:
+  - casal
+  - homem
+  - homem e mulher de mãos dadas
+  - 'homem e mulher de mãos dadas: pele clara e pele morena clara'
+  - mulher
+  - mãos dadas
+  - pele clara
+  - pele morena clara
+👩🏻‍🤝‍👨🏽:
+  - casal
+  - homem
+  - homem e mulher de mãos dadas
+  - 'homem e mulher de mãos dadas: pele clara e pele morena'
+  - mulher
+  - mãos dadas
+  - pele clara
+  - pele morena
+👩🏻‍🤝‍👨🏾:
+  - casal
+  - homem
+  - homem e mulher de mãos dadas
+  - 'homem e mulher de mãos dadas: pele clara e pele morena escura'
+  - mulher
+  - mãos dadas
+  - pele clara
+  - pele morena escura
+👩🏻‍🤝‍👨🏿:
+  - casal
+  - homem
+  - homem e mulher de mãos dadas
+  - 'homem e mulher de mãos dadas: pele clara e pele escura'
+  - mulher
+  - mãos dadas
+  - pele clara
+  - pele escura
+👩🏼‍🤝‍👨🏻:
+  - casal
+  - homem
+  - homem e mulher de mãos dadas
+  - 'homem e mulher de mãos dadas: pele morena clara e pele clara'
+  - mulher
+  - mãos dadas
+  - pele clara
+  - pele morena clara
+👫🏼:
+  - casal
+  - homem
+  - homem e mulher de mãos dadas
+  - 'homem e mulher de mãos dadas: pele morena clara'
+  - mulher
+  - mãos dadas
+  - pele morena clara
+👩🏼‍🤝‍👨🏽:
+  - casal
+  - homem
+  - homem e mulher de mãos dadas
+  - 'homem e mulher de mãos dadas: pele morena clara e pele morena'
+  - mulher
+  - mãos dadas
+  - pele morena
+  - pele morena clara
+👩🏼‍🤝‍👨🏾:
+  - casal
+  - homem
+  - homem e mulher de mãos dadas
+  - 'homem e mulher de mãos dadas: pele morena clara e pele morena escura'
+  - mulher
+  - mãos dadas
+  - pele morena clara
+  - pele morena escura
+👩🏼‍🤝‍👨🏿:
+  - casal
+  - homem
+  - homem e mulher de mãos dadas
+  - 'homem e mulher de mãos dadas: pele morena clara e pele escura'
+  - mulher
+  - mãos dadas
+  - pele escura
+  - pele morena clara
+👩🏽‍🤝‍👨🏻:
+  - casal
+  - homem
+  - homem e mulher de mãos dadas
+  - 'homem e mulher de mãos dadas: pele morena e pele clara'
+  - mulher
+  - mãos dadas
+  - pele clara
+  - pele morena
+👩🏽‍🤝‍👨🏼:
+  - casal
+  - homem
+  - homem e mulher de mãos dadas
+  - 'homem e mulher de mãos dadas: pele morena e pele morena clara'
+  - mulher
+  - mãos dadas
+  - pele morena
+  - pele morena clara
+👫🏽:
+  - casal
+  - homem
+  - homem e mulher de mãos dadas
+  - 'homem e mulher de mãos dadas: pele morena'
+  - mulher
+  - mãos dadas
+  - pele morena
+👩🏽‍🤝‍👨🏾:
+  - casal
+  - homem
+  - homem e mulher de mãos dadas
+  - 'homem e mulher de mãos dadas: pele morena e pele morena escura'
+  - mulher
+  - mãos dadas
+  - pele morena
+  - pele morena escura
+👩🏽‍🤝‍👨🏿:
+  - casal
+  - homem
+  - homem e mulher de mãos dadas
+  - 'homem e mulher de mãos dadas: pele morena e pele escura'
+  - mulher
+  - mãos dadas
+  - pele escura
+  - pele morena
+👩🏾‍🤝‍👨🏻:
+  - casal
+  - homem
+  - homem e mulher de mãos dadas
+  - 'homem e mulher de mãos dadas: pele morena escura e pele clara'
+  - mulher
+  - mãos dadas
+  - pele clara
+  - pele morena escura
+👩🏾‍🤝‍👨🏼:
+  - casal
+  - homem
+  - homem e mulher de mãos dadas
+  - 'homem e mulher de mãos dadas: pele morena escura e pele morena clara'
+  - mulher
+  - mãos dadas
+  - pele morena clara
+  - pele morena escura
+👩🏾‍🤝‍👨🏽:
+  - casal
+  - homem
+  - homem e mulher de mãos dadas
+  - 'homem e mulher de mãos dadas: pele morena escura e pele morena'
+  - mulher
+  - mãos dadas
+  - pele morena
+  - pele morena escura
+👫🏾:
+  - casal
+  - homem
+  - homem e mulher de mãos dadas
+  - 'homem e mulher de mãos dadas: pele morena escura'
+  - mulher
+  - mãos dadas
+  - pele morena escura
+👩🏾‍🤝‍👨🏿:
+  - casal
+  - homem
+  - homem e mulher de mãos dadas
+  - 'homem e mulher de mãos dadas: pele morena escura e pele escura'
+  - mulher
+  - mãos dadas
+  - pele escura
+  - pele morena escura
+👩🏿‍🤝‍👨🏻:
+  - casal
+  - homem
+  - homem e mulher de mãos dadas
+  - 'homem e mulher de mãos dadas: pele escura e pele clara'
+  - mulher
+  - mãos dadas
+  - pele clara
+  - pele escura
+👩🏿‍🤝‍👨🏼:
+  - casal
+  - homem
+  - homem e mulher de mãos dadas
+  - 'homem e mulher de mãos dadas: pele escura e pele morena clara'
+  - mulher
+  - mãos dadas
+  - pele escura
+  - pele morena clara
+👩🏿‍🤝‍👨🏽:
+  - casal
+  - homem
+  - homem e mulher de mãos dadas
+  - 'homem e mulher de mãos dadas: pele escura e pele morena'
+  - mulher
+  - mãos dadas
+  - pele escura
+  - pele morena
+👩🏿‍🤝‍👨🏾:
+  - casal
+  - homem
+  - homem e mulher de mãos dadas
+  - 'homem e mulher de mãos dadas: pele escura e pele morena escura'
+  - mulher
+  - mãos dadas
+  - pele escura
+  - pele morena escura
+👫🏿:
+  - casal
+  - homem
+  - homem e mulher de mãos dadas
+  - 'homem e mulher de mãos dadas: pele escura'
+  - mulher
+  - mãos dadas
+  - pele escura
 👬:
   - casal
   - dois homens de mãos dadas
-  - homem
+  - gêmeos
+  - homens
+  - irmãos
   - mãos dadas
-  - pessoas
+👬🏻:
+  - casal
+  - dois homens de mãos dadas
+  - 'dois homens de mãos dadas: pele clara'
+  - gêmeos
+  - homens
+  - irmãos
+  - mãos dadas
+  - pele clara
+👨🏼‍🤝‍👨🏻:
+  - casal
+  - dois homens de mãos dadas
+  - 'dois homens de mãos dadas: pele morena clara e pele clara'
+  - gêmeos
+  - homens
+  - irmãos
+  - mãos dadas
+  - pele clara
+  - pele morena clara
+👬🏼:
+  - casal
+  - dois homens de mãos dadas
+  - 'dois homens de mãos dadas: pele morena clara'
+  - gêmeos
+  - homens
+  - irmãos
+  - mãos dadas
+  - pele morena clara
+👨🏽‍🤝‍👨🏻:
+  - casal
+  - dois homens de mãos dadas
+  - 'dois homens de mãos dadas: pele morena e pele clara'
+  - gêmeos
+  - homens
+  - irmãos
+  - mãos dadas
+  - pele clara
+  - pele morena
+👨🏽‍🤝‍👨🏼:
+  - casal
+  - dois homens de mãos dadas
+  - 'dois homens de mãos dadas: pele morena e pele morena clara'
+  - gêmeos
+  - homens
+  - irmãos
+  - mãos dadas
+  - pele morena
+  - pele morena clara
+👬🏽:
+  - casal
+  - dois homens de mãos dadas
+  - 'dois homens de mãos dadas: pele morena'
+  - gêmeos
+  - homens
+  - irmãos
+  - mãos dadas
+  - pele morena
+👨🏾‍🤝‍👨🏻:
+  - casal
+  - dois homens de mãos dadas
+  - 'dois homens de mãos dadas: pele morena escura e pele clara'
+  - gêmeos
+  - homens
+  - irmãos
+  - mãos dadas
+  - pele clara
+  - pele morena escura
+👨🏾‍🤝‍👨🏼:
+  - casal
+  - dois homens de mãos dadas
+  - 'dois homens de mãos dadas: pele morena escura e pele morena clara'
+  - gêmeos
+  - homens
+  - irmãos
+  - mãos dadas
+  - pele morena clara
+  - pele morena escura
+👨🏾‍🤝‍👨🏽:
+  - casal
+  - dois homens de mãos dadas
+  - 'dois homens de mãos dadas: pele morena escura e pele morena'
+  - gêmeos
+  - homens
+  - irmãos
+  - mãos dadas
+  - pele morena
+  - pele morena escura
+👬🏾:
+  - casal
+  - dois homens de mãos dadas
+  - 'dois homens de mãos dadas: pele morena escura'
+  - gêmeos
+  - homens
+  - irmãos
+  - mãos dadas
+  - pele morena escura
+👨🏿‍🤝‍👨🏻:
+  - casal
+  - dois homens de mãos dadas
+  - 'dois homens de mãos dadas: pele escura e pele clara'
+  - gêmeos
+  - homens
+  - irmãos
+  - mãos dadas
+  - pele clara
+  - pele escura
+👨🏿‍🤝‍👨🏼:
+  - casal
+  - dois homens de mãos dadas
+  - 'dois homens de mãos dadas: pele escura e pele morena clara'
+  - gêmeos
+  - homens
+  - irmãos
+  - mãos dadas
+  - pele escura
+  - pele morena clara
+👨🏿‍🤝‍👨🏽:
+  - casal
+  - dois homens de mãos dadas
+  - 'dois homens de mãos dadas: pele escura e pele morena'
+  - gêmeos
+  - homens
+  - irmãos
+  - mãos dadas
+  - pele escura
+  - pele morena
+👨🏿‍🤝‍👨🏾:
+  - casal
+  - dois homens de mãos dadas
+  - 'dois homens de mãos dadas: pele escura e pele morena escura'
+  - gêmeos
+  - homens
+  - irmãos
+  - mãos dadas
+  - pele escura
+  - pele morena escura
+👬🏿:
+  - casal
+  - dois homens de mãos dadas
+  - 'dois homens de mãos dadas: pele escura'
+  - gêmeos
+  - homens
+  - irmãos
+  - mãos dadas
+  - pele escura
 💏:
   - beijar
   - beijo
@@ -9671,24 +11056,21 @@
   - beijar
   - beijo
   - 'beijo: mulher e homem'
+  - casal
   - homem
   - mulher
-  - pessoas
-  - romance
 👨‍❤‍💋‍👨:
   - beijar
   - beijo
   - 'beijo: homem e homem'
+  - casal
   - homem
-  - pessoas
-  - romance
 👩‍❤‍💋‍👩:
   - beijar
   - beijo
   - 'beijo: mulher e mulher'
+  - casal
   - mulher
-  - pessoas
-  - romance
 💑:
   - casal apaixonado
   - casal com um coração
@@ -10014,6 +11396,9 @@
   - animal
   - gorila
   - macaco
+🦧:
+  - macaco
+  - orangotango
 🐶:
   - animal
   - cachorro
@@ -10022,6 +11407,17 @@
 🐕️:
   - animal
   - cachorro
+🦮:
+  - acessibilidade
+  - cegueira
+  - cão-guia
+  - guia
+🐕‍🦺:
+  - accessibilidade
+  - assistência
+  - cão
+  - cão de serviço
+  - serviço
 🐩:
   - animal
   - cachorro
@@ -10032,7 +11428,6 @@
   - rosto
   - rosto de lobo
 🦊:
-  - animal
   - raposa
   - rosto
   - rosto de raposa
@@ -10049,7 +11444,6 @@
   - animal
   - gato
 🦁:
-  - Leão
   - animal
   - leão
   - rosto
@@ -10076,7 +11470,6 @@
   - corrida de cavalo
   - equestre
 🦄:
-  - animal
   - rosto
   - rosto de unicórnio
   - unicórnio
@@ -10217,6 +11610,17 @@
   - panda
   - rosto
   - rosto de panda
+🦥:
+  - lenta
+  - preguiça
+  - preguiçosa
+🦦:
+  - brincalhona
+  - lontra
+  - pesca
+🦨:
+  - fedor
+  - gambá
 🦘:
   - Austrália
   - canguru
@@ -10290,6 +11694,10 @@
   - coruja
   - pássaro
   - sabedoria
+🦩:
+  - extravagante
+  - flamingo
+  - tropical
 🦚:
   - ave
   - orgulhoso
@@ -10602,6 +12010,12 @@
   - verdura
 🥦:
   - brócolis
+🧄:
+  - alho
+  - tempero
+🧅:
+  - cebola
+  - tempero
 🍄:
   - champignon
   - cogumelo
@@ -10633,6 +12047,10 @@
   - comida
   - crepes
   - panquecas
+🧇:
+  - gofre
+  - waffle
+  - wafle
 🧀:
   - queijo
   - queijo suíço
@@ -10681,6 +12099,10 @@
   - pão recheado
   - recheio
   - wrap
+🧆:
+  - almôndega
+  - falafel
+  - grão de bico
 🥚:
   - comida
   - ovo
@@ -10713,6 +12135,9 @@
   - balde de pipoca
   - pipoca
   - pipoca de cinema
+🧈:
+  - laticínio
+  - manteiga
 🧂:
   - condimento
   - sal
@@ -10814,6 +12239,10 @@
   - comida
   - lula
   - molusco
+🦪:
+  - mergulho
+  - ostra
+  - pérola
 🍦:
   - sorvete
   - sorvete de casquinha
@@ -10955,6 +12384,16 @@
 🥤:
   - copo com canudo
   - suco
+🧃:
+  - caixa de suco
+  - suco de caixa
+🧉:
+  - bebida
+  - mate
+🧊:
+  - cubo de gelo
+  - gelado
+  - iceberg
 🥢:
   - hashi
   - pauzinhos
@@ -11145,6 +12584,10 @@
   - mesquita
   - muçulmano
   - religião
+🛕:
+  - hindu
+  - templo
+  - templo hindu
 🕍:
   - judaísmo
   - judeu
@@ -11375,6 +12818,15 @@
 🛵:
   - moto
   - scooter
+🦽:
+  - acessibilidade
+  - cadeira de rodas manual
+🦼:
+  - acessibilidade
+  - cadeira de rodas motorizada
+🛺:
+  - automóvel riquixá
+  - autorriquixá
 🚲️:
   - bicicleta
   - veículo
@@ -11481,6 +12933,11 @@
   - avião aterrissando
   - pousando
   - veículo
+🪂:
+  - asa-delta
+  - paraquedas
+  - parasail
+  - saltar de paraquedas
 💺:
   - assento
   - cadeira
@@ -11743,6 +13200,10 @@
   - rosto
   - rosto do sol
   - sol
+🪐:
+  - planeta com anéis
+  - saturnino
+  - saturno
 ⭐️:
   - estrela branca média
 🌟:
@@ -11925,10 +13386,10 @@
   - explosivo
   - fogos de artifício
 ✨:
+  - '*'
   - brilhos
   - estrelas
   - estrelas brilhantes
-  - faíscas
 🎈:
   - balão
   - comemoração
@@ -12142,6 +13603,12 @@
   - pesca
   - vara
   - vara de pescar e peixe
+🤿:
+  - mergulhador
+  - mergulho
+  - máscara de mergulho
+  - scuba
+  - snorkeling
 🎽:
   - camiseta
   - camiseta de corrida
@@ -12164,6 +13631,14 @@
   - no alvo
   - tiro
   - tiro certeiro
+🪀:
+  - brinquedo
+  - flutua
+  - ioiô
+🪁:
+  - pipa
+  - planar
+  - voar
 🎱:
   - bilhar
   - bola oito
@@ -12309,6 +13784,11 @@
   - experiência
   - jaleco
   - médico
+🦺:
+  - colete
+  - colete salva-vidas
+  - emergência
+  - segurança
 👔:
   - acessório
   - gravata
@@ -12343,6 +13823,24 @@
   - quimono
   - roupa
   - vestir
+🥻:
+  - roupa
+  - sari
+  - vestido
+🩱:
+  - maiô
+  - roupa de banho
+🩲:
+  - cueca
+  - peça única
+  - roupa de banho
+  - roupa de praia
+  - roupa íntima
+🩳:
+  - bermuda
+  - roupa de banho
+  - roupa de praia
+  - shorts
 👙:
   - biquíni
   - roupa
@@ -12401,6 +13899,10 @@
   - feminino
   - sandália feminina
   - sandálias
+🩰:
+  - balé
+  - dança
+  - sapatilha de balé
 👢:
   - acessório
   - bota feminina
@@ -12558,6 +14060,10 @@
   - instrumento musical
   - música
   - violino
+🪕:
+  - banjo
+  - cordas
+  - música
 🥁:
   - baquetas
   - música
@@ -12726,6 +14232,11 @@
   - lanterna de papel
   - lanterna vermelha de papel
   - vermelha
+🪔:
+  - diya
+  - lâmpada
+  - lâmpada de óleo
+  - óleo
 📔:
   - caderno
   - caderno decorado
@@ -13103,6 +14614,11 @@
 🔨:
   - ferramenta
   - martelo
+🪓:
+  - cortar
+  - machado
+  - madeira
+  - partir
 ⛏️:
   - ferramenta
   - mineração
@@ -13167,6 +14683,10 @@
   - libra
   - peso
   - zodíaco
+🦯:
+  - acessibilidade
+  - bengala para cegos
+  - cegueira
 🔗:
   - corrente
   - link
@@ -13229,12 +14749,25 @@
   - médico
   - remédio
   - seringa
+🩸:
+  - doação de sangue
+  - gota de sangue
+  - medicina
+  - menstruação
 💊:
   - comprimido
   - medicina
   - médico
   - pílula
   - remédio
+🩹:
+  - atadura adesiva
+  - curativo
+🩺:
+  - coração
+  - estetoscópio
+  - medicina
+  - médico
 🚪:
   - porta
 🛏️:
@@ -13246,6 +14779,10 @@
   - lâmpada
   - sofá
   - sofá e luminária
+🪑:
+  - assento
+  - cadeira
+  - sentar
 🚽:
   - banheiro
   - privada
@@ -13259,6 +14796,10 @@
   - água
 🛁:
   - banheira
+🪒:
+  - afiada
+  - barbear
+  - lâmina
 🧴:
   - frasco de loção
   - hidratante
@@ -13880,62 +15421,68 @@
   - símbolo japonês de principiante
   - verde e amarela
 ⭕️:
-  - aro
   - círculo
-  - círculo grande pesado
-  - círculo vermelho vazio
+  - círculo grande oco
+  - grande
+  - o
   - vermelho
 ✅:
+  - botão
+  - marca
   - marca de seleção branca
-  - marca de verificação
-  - marca de verificação grande
   - verificação
+  - ✓
 ☑️:
   - caixa
   - caixa de seleção marcada com tique
   - marca de verificação
-  - verificação
+  - ✓
 ✔️:
+  - marca
   - marca de seleção
-  - marca de verificação
-  - marcar
-  - selecionar
+  - verificação
+  - ✓
 ✖️:
   - X
-  - X preto
   - cancelar
   - multiplicar
   - multiplicação
+  - sinal de multiplicação
   - x de multiplicação
+  - ×
 ❌:
   - X
   - cancelar
   - multiplicar
   - multiplicação
-  - vermelho
   - xis
+  - ×
 ❎:
+  - botão de caixa com X
   - botão de xis
-  - x em um quadrado verde
-  - x verde
+  - marcado
+  - quadrado
+  - x
+  - ×
 ➕:
-  - mais
+  - +
+  - matemática
   - sinal
-  - sinal de maior
   - sinal de mais
   - símbolo de adição
 ➖:
+  - '-'
+  - matemática
   - menos
   - sinal
-  - sinal de menor
-  - sinal de menos
   - símbolo de subtração
+  - −
 ➗:
   - divisão
+  - matemática
   - sinal
-  - sinal de divisão
-  - sinal de divisão grande
   - símbolo de divisão
+  - ÷
 ➰:
   - laço encaracolado
   - loop
@@ -13953,41 +15500,55 @@
   - sinal japonês indicando início de música
   - símbolo japonês de canto
 ✳️:
+  - '*'
   - asterisco
   - asterisco de oito pontas
-  - estrela
 ✴️:
+  - '*'
   - estrela
   - estrela de oito pontas
 ❇️:
-  - brilho
+  - '*'
   - faísca
 ‼️:
+  - '!'
+  - '!!'
   - dupla exclamação
   - exclamação
-  - exclamação dupla
+  - explosão
+  - ponto de exclamação duplo
   - pontuação
 ⁉️:
+  - '!'
+  - '!?'
+  - '?'
   - exclamação
   - exclamação com interrogação
-  - interrogação
   - pergunta
   - pontuação
+  - sinal
 ❓️:
-  - interrogação
+  - '?'
   - pergunta
   - ponto de interrogação
   - pontuação
+  - sinal
 ❔:
-  - interrogação
+  - '?'
+  - delineado
   - pergunta
   - ponto de interrogação branco
   - pontuação
+  - sinal
 ❕:
-  - exclamação
+  - '!'
+  - delineado
+  - mark
   - ponto de exclamação branco
   - pontuação
+  - sinal
 ❗️:
+  - '!'
   - exclamação
   - ponto de exclamação
   - pontuação
@@ -14270,11 +15831,31 @@
   - círculo vermelho
   - geométrico
   - vermelho
+🟠:
+  - círculo
+  - círculo laranja
+  - laranja
+🟡:
+  - amarelo
+  - círculo
+  - círculo amarelo
+🟢:
+  - círculo
+  - círculo verde
+  - verde
 🔵:
   - azul
   - círculo
   - círculo azul
   - geométrico
+🟣:
+  - círculo
+  - círculo roxo
+  - roxo
+🟤:
+  - círculo
+  - círculo marrom
+  - marrom
 ⚫️:
   - círculo
   - círculo preto
@@ -14283,6 +15864,34 @@
   - círculo
   - círculo branco
   - geométrico
+🟥:
+  - quadrado
+  - quadrado vermelho
+  - vermelho
+🟧:
+  - laranja
+  - quadrado
+  - quadrado laranja
+🟨:
+  - amarelo
+  - quadrado
+  - quadrado amarelo
+🟩:
+  - quadrado
+  - quadrado verde
+  - verde
+🟦:
+  - azul
+  - quadrado
+  - quadrado azul
+🟪:
+  - quadrado
+  - quadrado roxo
+  - roxo
+🟫:
+  - marrom
+  - quadrado
+  - quadrado marrom
 ⬛️:
   - geométrico
   - quadrado
@@ -14412,7 +16021,7 @@
   - 'bandeira: Antígua e Barbuda'
 🇦🇮:
   - bandeira
-  - 'bandeira: Anguilla'
+  - 'bandeira: Anguila'
 🇦🇱:
   - bandeira
   - 'bandeira: Albânia'
@@ -14523,7 +16132,7 @@
   - 'bandeira: República Centro-Africana'
 🇨🇬:
   - bandeira
-  - 'bandeira: Congo - Brazzaville'
+  - 'bandeira: República do Congo'
 🇨🇭:
   - bandeira
   - 'bandeira: Suíça'
@@ -14592,7 +16201,7 @@
   - 'bandeira: Argélia'
 🇪🇦:
   - bandeira
-  - 'bandeira: Ceuta e Melilha'
+  - 'bandeira: Ceuta e Melilla'
 🇪🇨:
   - bandeira
   - 'bandeira: Equador'
@@ -14829,7 +16438,7 @@
   - 'bandeira: Mônaco'
 🇲🇩:
   - bandeira
-  - 'bandeira: Moldávia'
+  - 'bandeira: Moldova'
 🇲🇪:
   - bandeira
   - 'bandeira: Montenegro'
@@ -14844,7 +16453,7 @@
   - 'bandeira: Ilhas Marshall'
 🇲🇰:
   - bandeira
-  - 'bandeira: Macedônia'
+  - 'bandeira: Macedônia do Norte'
 🇲🇱:
   - bandeira
   - 'bandeira: Mali'
@@ -14910,7 +16519,7 @@
   - 'bandeira: Nicarágua'
 🇳🇱:
   - bandeira
-  - 'bandeira: Holanda'
+  - 'bandeira: Países Baixos'
 🇳🇴:
   - bandeira
   - 'bandeira: Noruega'
@@ -15057,7 +16666,7 @@
   - 'bandeira: Tristão da Cunha'
 🇹🇨:
   - bandeira
-  - 'bandeira: Ilhas Turks e Caicos'
+  - 'bandeira: Ilhas Turcas e Caicos'
 🇹🇩:
   - bandeira
   - 'bandeira: Chade'

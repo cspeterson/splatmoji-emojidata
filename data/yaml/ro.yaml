@@ -75,7 +75,7 @@
   - înger
 🥰:
   - adorație
-  - față zâmbitoare cu 3 inimioare
+  - față zâmbitoare cu inimioare
   - pasiune
   - îndrăgostit
   - îndrăgostită
@@ -452,6 +452,11 @@
   - față
   - față obosită
   - oboseală
+🥱:
+  - căscat
+  - față care cască
+  - oboseală
+  - plictis
 😤:
   - față
   - față care scoate fum pe nări
@@ -546,50 +551,54 @@
   - ozn
 🤖:
   - față
-  - față de robot
   - monstru
   - robot
 😺:
-  - față de pisică încântată
-  - gură deschisă
+  - deschisă
+  - față
+  - gură
   - pisică
+  - pisică încântată
   - zâmbet
 😸:
   - față
-  - față de pisică încântată cu ochi zâmbitori
-  - ochi închiși
+  - ochi
   - pisică
+  - pisică încântată cu ochi zâmbitori
   - zâmbet
   - încântare
 😹:
   - bucurie
   - față
-  - față de pisică cu lacrimi de bucurie
   - lacrimi
   - pisică
+  - pisică cu lacrimi de bucurie
 😻:
+  - dragoste
   - față
-  - față de pisică zâmbitoare cu inimioare la ochi
   - inimioare
   - ochi
   - pisică
+  - pisică zâmbitoare cu inimioare la ochi
   - zâmbet
 😼:
   - față
-  - față de pisică cu zâmbet ironic
+  - ironie
   - pisică
+  - pisică cu zâmbet ironic
   - zâmbet
   - șiretenie
 😽:
   - față
-  - față de pisică pupăcioasă
   - ochi
   - pisică
+  - pisică pupăcioasă
   - sărut
 🙀:
   - față
-  - față de pisică surprinsă
+  - oh
   - pisică
+  - pisică surprinsă
   - sperietură
   - surpriză
   - uimire
@@ -598,13 +607,14 @@
   - față de pisică plângând
   - lacrimă
   - pisică
+  - pisică plângând
   - plâns
 😾:
   - bosumflare
   - enervare
   - față
-  - față de pisică îmbufnată
   - pisică
+  - pisică îmbufnată
 🙈:
   - față
   - interzis
@@ -714,12 +724,21 @@
   - inimă
   - inimă mov
   - mov
+🤎:
+  - inimă
+  - inimă maro
+  - maro
 🖤:
   - inimă
   - inimă neagră
   - malefic
   - negru
   - rău
+🤍:
+  - alb
+  - albă
+  - inimă
+  - inimă albă
 💯:
   - '100'
   - maxim
@@ -1025,6 +1044,40 @@
   - semnul ok
   - 'semnul ok: ton închis al pielii'
   - ton închis al pielii
+🤏:
+  - cantitate mică
+  - mână cu două degete apropiate
+  - valoare mică
+🤏🏻:
+  - cantitate mică
+  - mână cu două degete apropiate
+  - 'mână cu două degete apropiate: ton deschis al pielii'
+  - ton deschis al pielii
+  - valoare mică
+🤏🏼:
+  - cantitate mică
+  - mână cu două degete apropiate
+  - 'mână cu două degete apropiate: ton semi‑deschis al pielii'
+  - ton semi‑deschis al pielii
+  - valoare mică
+🤏🏽:
+  - cantitate mică
+  - mână cu două degete apropiate
+  - 'mână cu două degete apropiate: ton mediu al pielii'
+  - ton mediu al pielii
+  - valoare mică
+🤏🏾:
+  - cantitate mică
+  - mână cu două degete apropiate
+  - 'mână cu două degete apropiate: ton semi‑închis al pielii'
+  - ton semi‑închis al pielii
+  - valoare mică
+🤏🏿:
+  - cantitate mică
+  - mână cu două degete apropiate
+  - 'mână cu două degete apropiate: ton închis al pielii'
+  - ton închis al pielii
+  - valoare mică
 ✌️:
   - degete
   - mână
@@ -2163,6 +2216,16 @@
   - forță
   - mușchi
   - ton închis al pielii
+🦾:
+  - accesibilitate
+  - braț mecanic
+  - protetic
+  - proteză
+🦿:
+  - accesibilitate
+  - picior mecanic
+  - protetic
+  - proteză
 🦵:
   - membru
   - picior
@@ -2259,6 +2322,46 @@
   - ton închis al pielii
   - ureche
   - 'ureche: ton închis al pielii'
+🦻:
+  - accesibilitate
+  - deficiențe auditive
+  - hipoacuzie
+  - ureche cu proteză auditivă
+🦻🏻:
+  - accesibilitate
+  - deficiențe auditive
+  - hipoacuzie
+  - ton deschis al pielii
+  - ureche cu proteză auditivă
+  - 'ureche cu proteză auditivă: ton deschis al pielii'
+🦻🏼:
+  - accesibilitate
+  - deficiențe auditive
+  - hipoacuzie
+  - ton semi‑deschis al pielii
+  - ureche cu proteză auditivă
+  - 'ureche cu proteză auditivă: ton semi‑deschis al pielii'
+🦻🏽:
+  - accesibilitate
+  - deficiențe auditive
+  - hipoacuzie
+  - ton mediu al pielii
+  - ureche cu proteză auditivă
+  - 'ureche cu proteză auditivă: ton mediu al pielii'
+🦻🏾:
+  - accesibilitate
+  - deficiențe auditive
+  - hipoacuzie
+  - ton semi‑închis al pielii
+  - ureche cu proteză auditivă
+  - 'ureche cu proteză auditivă: ton semi‑închis al pielii'
+🦻🏿:
+  - accesibilitate
+  - deficiențe auditive
+  - hipoacuzie
+  - ton închis al pielii
+  - ureche cu proteză auditivă
+  - 'ureche cu proteză auditivă: ton închis al pielii'
 👃:
   - corp
   - nas
@@ -2359,31 +2462,31 @@
 🧒🏻:
   - copil
   - 'copil: ton deschis al pielii'
-  - sex neutru
+  - neutru
   - ton deschis al pielii
   - tânăr
 🧒🏼:
   - copil
   - 'copil: ton semi‑deschis al pielii'
-  - sex neutru
+  - neutru
   - ton semi‑deschis al pielii
   - tânăr
 🧒🏽:
   - copil
   - 'copil: ton mediu al pielii'
-  - sex neutru
+  - neutru
   - ton mediu al pielii
   - tânăr
 🧒🏾:
   - copil
   - 'copil: ton semi‑închis al pielii'
-  - sex neutru
+  - neutru
   - ton semi‑închis al pielii
   - tânăr
 🧒🏿:
   - copil
   - 'copil: ton închis al pielii'
-  - sex neutru
+  - neutru
   - ton închis al pielii
   - tânăr
 👦:
@@ -2473,66 +2576,78 @@
 🧑🏻:
   - adult
   - 'adult: ton deschis al pielii'
-  - gen neutru
+  - neutru
   - persoană
   - ton deschis al pielii
 🧑🏼:
   - adult
   - 'adult: ton semi‑deschis al pielii'
-  - gen neutru
+  - neutru
   - persoană
   - ton semi‑deschis al pielii
 🧑🏽:
   - adult
   - 'adult: ton mediu al pielii'
-  - gen neutru
+  - neutru
   - persoană
   - ton mediu al pielii
 🧑🏾:
   - adult
   - 'adult: ton semi‑închis al pielii'
-  - gen neutru
+  - neutru
   - persoană
   - ton semi‑închis al pielii
 🧑🏿:
   - adult
   - 'adult: ton închis al pielii'
-  - gen neutru
+  - neutru
   - persoană
   - ton închis al pielii
 👱:
   - blond
   - om
   - persoană blondă
+  - persoană cu păr blond
+  - păr
 👱🏻:
   - blond
   - om
   - persoană blondă
   - 'persoană blondă: ton deschis al pielii'
+  - persoană cu păr blond
+  - păr
   - ton deschis al pielii
 👱🏼:
   - blond
   - om
   - persoană blondă
   - 'persoană blondă: ton semi‑deschis al pielii'
+  - persoană cu păr blond
+  - păr
   - ton semi‑deschis al pielii
 👱🏽:
   - blond
   - om
   - persoană blondă
   - 'persoană blondă: ton mediu al pielii'
+  - persoană cu păr blond
+  - păr
   - ton mediu al pielii
 👱🏾:
   - blond
   - om
   - persoană blondă
   - 'persoană blondă: ton semi‑închis al pielii'
+  - persoană cu păr blond
+  - păr
   - ton semi‑închis al pielii
 👱🏿:
   - blond
   - om
   - persoană blondă
   - 'persoană blondă: ton închis al pielii'
+  - persoană cu păr blond
+  - păr
   - ton închis al pielii
 👨:
   - adult
@@ -2564,60 +2679,84 @@
   - ton închis al pielii
 🧔:
   - barbă
-  - persoană cu barbă
+  - bărbat
+  - bărbat cu barbă
+  - persoană
 🧔🏻:
   - barbă
-  - persoană cu barbă
-  - 'persoană cu barbă: ton deschis al pielii'
+  - bărbat
+  - bărbat cu barbă
+  - 'bărbat cu barbă: ton deschis al pielii'
+  - persoană
   - ton deschis al pielii
 🧔🏼:
   - barbă
-  - persoană cu barbă
-  - 'persoană cu barbă: ton semi‑deschis al pielii'
+  - bărbat
+  - bărbat cu barbă
+  - 'bărbat cu barbă: ton semi‑deschis al pielii'
+  - persoană
   - ton semi‑deschis al pielii
 🧔🏽:
   - barbă
-  - persoană cu barbă
-  - 'persoană cu barbă: ton mediu al pielii'
+  - bărbat
+  - bărbat cu barbă
+  - 'bărbat cu barbă: ton mediu al pielii'
+  - persoană
   - ton mediu al pielii
 🧔🏾:
   - barbă
-  - persoană cu barbă
-  - 'persoană cu barbă: ton semi‑închis al pielii'
+  - bărbat
+  - bărbat cu barbă
+  - 'bărbat cu barbă: ton semi‑închis al pielii'
+  - persoană
   - ton semi‑închis al pielii
 🧔🏿:
   - barbă
-  - persoană cu barbă
-  - 'persoană cu barbă: ton închis al pielii'
+  - bărbat
+  - bărbat cu barbă
+  - 'bărbat cu barbă: ton închis al pielii'
+  - persoană
   - ton închis al pielii
 👱‍♂:
   - blond
   - bărbat
   - bărbat blond
+  - bărbat cu păr blond
+  - păr
 👱🏻‍♂:
   - blond
   - bărbat
   - 'bărbat blond: ton deschis al pielii'
+  - bărbat cu păr blond
+  - păr
   - ton deschis al pielii
 👱🏼‍♂:
   - blond
   - bărbat
   - 'bărbat blond: ton semi‑deschis al pielii'
+  - bărbat cu păr blond
+  - păr
   - ton semi‑deschis al pielii
 👱🏽‍♂:
   - blond
   - bărbat
   - 'bărbat blond: ton mediu al pielii'
+  - bărbat cu păr blond
+  - păr
   - ton mediu al pielii
 👱🏾‍♂:
   - blond
   - bărbat
   - 'bărbat blond: ton semi‑închis al pielii'
+  - bărbat cu păr blond
+  - păr
   - ton semi‑închis al pielii
 👱🏿‍♂:
   - blond
   - bărbat
   - 'bărbat blond: ton închis al pielii'
+  - bărbat cu păr blond
+  - păr
   - ton închis al pielii
 👨‍🦰:
   - adult
@@ -2791,30 +2930,42 @@
   - blondă
   - femeie
   - femeie blondă
+  - femeie cu păr blond
+  - păr
 👱🏻‍♀:
   - blondă
   - femeie
   - 'femeie blondă: ton deschis al pielii'
+  - femeie cu păr blond
+  - păr
   - ton deschis al pielii
 👱🏼‍♀:
   - blondă
   - femeie
   - 'femeie blondă: ton semi‑deschis al pielii'
+  - femeie cu păr blond
+  - păr
   - ton semi‑deschis al pielii
 👱🏽‍♀:
   - blondă
   - femeie
   - 'femeie blondă: ton mediu al pielii'
+  - femeie cu păr blond
+  - păr
   - ton mediu al pielii
 👱🏾‍♀:
   - blondă
   - femeie
   - 'femeie blondă: ton semi‑închis al pielii'
+  - femeie cu păr blond
+  - păr
   - ton semi‑închis al pielii
 👱🏿‍♀:
   - blondă
   - femeie
   - 'femeie blondă: ton închis al pielii'
+  - femeie cu păr blond
+  - păr
   - ton închis al pielii
 👩‍🦰:
   - adultă
@@ -2963,36 +3114,41 @@
   - persoană în vârstă
   - vârstnic
 🧓🏻:
+  - adult
   - bătrân
-  - persoană
+  - neutru
   - persoană în vârstă
   - 'persoană în vârstă: ton deschis al pielii'
   - ton deschis al pielii
   - vârstnic
 🧓🏼:
+  - adult
   - bătrân
-  - persoană
+  - neutru
   - persoană în vârstă
   - 'persoană în vârstă: ton semi‑deschis al pielii'
   - ton semi‑deschis al pielii
   - vârstnic
 🧓🏽:
+  - adult
   - bătrân
-  - persoană
+  - neutru
   - persoană în vârstă
   - 'persoană în vârstă: ton mediu al pielii'
   - ton mediu al pielii
   - vârstnic
 🧓🏾:
+  - adult
   - bătrân
-  - persoană
+  - neutru
   - persoană în vârstă
   - 'persoană în vârstă: ton semi‑închis al pielii'
   - ton semi‑închis al pielii
   - vârstnic
 🧓🏿:
+  - adult
   - bătrân
-  - persoană
+  - neutru
   - persoană în vârstă
   - 'persoană în vârstă: ton închis al pielii'
   - ton închis al pielii
@@ -3814,6 +3970,116 @@
   - 'femeie care ridică mâna: ton închis al pielii'
   - gest
   - mână ridicată
+  - ton închis al pielii
+🧏:
+  - accesibilitate
+  - auz
+  - persoană surdă
+  - surditate
+  - surzenie
+  - ureche
+🧏🏻:
+  - accesibilitate
+  - auz
+  - persoană surdă
+  - 'persoană surdă: ton deschis al pielii'
+  - surditate
+  - surzenie
+  - ton deschis al pielii
+  - ureche
+🧏🏼:
+  - accesibilitate
+  - auz
+  - persoană surdă
+  - 'persoană surdă: ton semi‑deschis al pielii'
+  - surditate
+  - surzenie
+  - ton semi‑deschis al pielii
+  - ureche
+🧏🏽:
+  - accesibilitate
+  - auz
+  - persoană surdă
+  - 'persoană surdă: ton mediu al pielii'
+  - surditate
+  - surzenie
+  - ton mediu al pielii
+  - ureche
+🧏🏾:
+  - accesibilitate
+  - auz
+  - persoană surdă
+  - 'persoană surdă: ton semi‑închis al pielii'
+  - surditate
+  - surzenie
+  - ton semi‑închis al pielii
+  - ureche
+🧏🏿:
+  - accesibilitate
+  - auz
+  - persoană surdă
+  - 'persoană surdă: ton închis al pielii'
+  - surditate
+  - surzenie
+  - ton închis al pielii
+  - ureche
+🧏‍♂:
+  - bărbat
+  - bărbat surd
+  - surd
+🧏🏻‍♂:
+  - bărbat
+  - 'bărbat surd: ton deschis al pielii'
+  - surd
+  - ton deschis al pielii
+🧏🏼‍♂:
+  - bărbat
+  - 'bărbat surd: ton semi‑deschis al pielii'
+  - surd
+  - ton semi‑deschis al pielii
+🧏🏽‍♂:
+  - bărbat
+  - 'bărbat surd: ton mediu al pielii'
+  - surd
+  - ton mediu al pielii
+🧏🏾‍♂:
+  - bărbat
+  - 'bărbat surd: ton semi‑închis al pielii'
+  - surd
+  - ton semi‑închis al pielii
+🧏🏿‍♂:
+  - bărbat
+  - 'bărbat surd: ton închis al pielii'
+  - surd
+  - ton închis al pielii
+🧏‍♀:
+  - femeie
+  - femeie surdă
+  - surdă
+🧏🏻‍♀:
+  - femeie
+  - 'femeie surdă: ton deschis al pielii'
+  - surdă
+  - ton deschis al pielii
+🧏🏼‍♀:
+  - femeie
+  - 'femeie surdă: ton semi‑deschis al pielii'
+  - surdă
+  - ton semi‑deschis al pielii
+🧏🏽‍♀:
+  - femeie
+  - 'femeie surdă: ton mediu al pielii'
+  - surdă
+  - ton mediu al pielii
+🧏🏾‍♀:
+  - femeie
+  - 'femeie surdă: ton semi‑închis al pielii'
+  - surdă
+  - ton semi‑închis al pielii
+🧏🏿‍♀:
+  - femeie
+  - 'femeie surdă: ton închis al pielii'
+  - surdă
   - ton închis al pielii
 🙇:
   - persoană care se înclină
@@ -7730,6 +7996,522 @@
   - mers
   - plimbare
   - ton închis al pielii
+🧍:
+  - a sta în picioare
+  - persoană în picioare
+  - ridicat
+  - stat în picioare
+🧍🏻:
+  - a sta în picioare
+  - persoană în picioare
+  - 'persoană în picioare: ton deschis al pielii'
+  - ridicat
+  - stat în picioare
+  - ton deschis al pielii
+🧍🏼:
+  - a sta în picioare
+  - persoană în picioare
+  - 'persoană în picioare: ton semi‑deschis al pielii'
+  - ridicat
+  - stat în picioare
+  - ton semi‑deschis al pielii
+🧍🏽:
+  - a sta în picioare
+  - persoană în picioare
+  - 'persoană în picioare: ton mediu al pielii'
+  - ridicat
+  - stat în picioare
+  - ton mediu al pielii
+🧍🏾:
+  - a sta în picioare
+  - persoană în picioare
+  - 'persoană în picioare: ton semi‑închis al pielii'
+  - ridicat
+  - stat în picioare
+  - ton semi‑închis al pielii
+🧍🏿:
+  - a sta în picioare
+  - persoană în picioare
+  - 'persoană în picioare: ton închis al pielii'
+  - ridicat
+  - stat în picioare
+  - ton închis al pielii
+🧍‍♂:
+  - bărbat
+  - bărbat în picioare
+  - ridicat
+  - stând în picioare
+  - în picioare
+🧍🏻‍♂:
+  - bărbat
+  - bărbat în picioare
+  - 'bărbat în picioare: ton deschis al pielii'
+  - ridicat
+  - stând în picioare
+  - ton deschis al pielii
+  - în picioare
+🧍🏼‍♂:
+  - bărbat
+  - bărbat în picioare
+  - 'bărbat în picioare: ton semi‑deschis al pielii'
+  - ridicat
+  - stând în picioare
+  - ton semi‑deschis al pielii
+  - în picioare
+🧍🏽‍♂:
+  - bărbat
+  - bărbat în picioare
+  - 'bărbat în picioare: ton mediu al pielii'
+  - ridicat
+  - stând în picioare
+  - ton mediu al pielii
+  - în picioare
+🧍🏾‍♂:
+  - bărbat
+  - bărbat în picioare
+  - 'bărbat în picioare: ton semi‑închis al pielii'
+  - ridicat
+  - stând în picioare
+  - ton semi‑închis al pielii
+  - în picioare
+🧍🏿‍♂:
+  - bărbat
+  - bărbat în picioare
+  - 'bărbat în picioare: ton închis al pielii'
+  - ridicat
+  - stând în picioare
+  - ton închis al pielii
+  - în picioare
+🧍‍♀:
+  - femeie
+  - femeie în picioare
+  - ridicată
+  - stând în picioare
+  - în picioare
+🧍🏻‍♀:
+  - femeie
+  - femeie în picioare
+  - 'femeie în picioare: ton deschis al pielii'
+  - ridicată
+  - stând în picioare
+  - ton deschis al pielii
+  - în picioare
+🧍🏼‍♀:
+  - femeie
+  - femeie în picioare
+  - 'femeie în picioare: ton semi‑deschis al pielii'
+  - ridicată
+  - stând în picioare
+  - ton semi‑deschis al pielii
+  - în picioare
+🧍🏽‍♀:
+  - femeie
+  - femeie în picioare
+  - 'femeie în picioare: ton mediu al pielii'
+  - ridicată
+  - stând în picioare
+  - ton mediu al pielii
+  - în picioare
+🧍🏾‍♀:
+  - femeie
+  - femeie în picioare
+  - 'femeie în picioare: ton semi‑închis al pielii'
+  - ridicată
+  - stând în picioare
+  - ton semi‑închis al pielii
+  - în picioare
+🧍🏿‍♀:
+  - femeie
+  - femeie în picioare
+  - 'femeie în picioare: ton închis al pielii'
+  - ridicată
+  - stând în picioare
+  - ton închis al pielii
+  - în picioare
+🧎:
+  - a îngenunchea
+  - genunchi
+  - persoană în genunchi
+  - îngenunchere
+🧎🏻:
+  - a îngenunchea
+  - genunchi
+  - persoană în genunchi
+  - 'persoană în genunchi: ton deschis al pielii'
+  - ton deschis al pielii
+  - îngenunchere
+🧎🏼:
+  - a îngenunchea
+  - genunchi
+  - persoană în genunchi
+  - 'persoană în genunchi: ton semi‑deschis al pielii'
+  - ton semi‑deschis al pielii
+  - îngenunchere
+🧎🏽:
+  - a îngenunchea
+  - genunchi
+  - persoană în genunchi
+  - 'persoană în genunchi: ton mediu al pielii'
+  - ton mediu al pielii
+  - îngenunchere
+🧎🏾:
+  - a îngenunchea
+  - genunchi
+  - persoană în genunchi
+  - 'persoană în genunchi: ton semi‑închis al pielii'
+  - ton semi‑închis al pielii
+  - îngenunchere
+🧎🏿:
+  - a îngenunchea
+  - genunchi
+  - persoană în genunchi
+  - 'persoană în genunchi: ton închis al pielii'
+  - ton închis al pielii
+  - îngenunchere
+🧎‍♂:
+  - bărbat
+  - bărbat în genunchi
+  - în genunchi
+  - îngenuncheat
+  - îngenunchind
+🧎🏻‍♂:
+  - bărbat
+  - bărbat în genunchi
+  - 'bărbat în genunchi: ton deschis al pielii'
+  - ton deschis al pielii
+  - în genunchi
+  - îngenuncheat
+  - îngenunchind
+🧎🏼‍♂:
+  - bărbat
+  - bărbat în genunchi
+  - 'bărbat în genunchi: ton semi‑deschis al pielii'
+  - ton semi‑deschis al pielii
+  - în genunchi
+  - îngenuncheat
+  - îngenunchind
+🧎🏽‍♂:
+  - bărbat
+  - bărbat în genunchi
+  - 'bărbat în genunchi: ton mediu al pielii'
+  - ton mediu al pielii
+  - în genunchi
+  - îngenuncheat
+  - îngenunchind
+🧎🏾‍♂:
+  - bărbat
+  - bărbat în genunchi
+  - 'bărbat în genunchi: ton semi‑închis al pielii'
+  - ton semi‑închis al pielii
+  - în genunchi
+  - îngenuncheat
+  - îngenunchind
+🧎🏿‍♂:
+  - bărbat
+  - bărbat în genunchi
+  - 'bărbat în genunchi: ton închis al pielii'
+  - ton închis al pielii
+  - în genunchi
+  - îngenuncheat
+  - îngenunchind
+🧎‍♀:
+  - femeie
+  - femeie în genunchi
+  - în genunchi
+  - îngenuncheată
+  - îngenunchind
+🧎🏻‍♀:
+  - femeie
+  - femeie în genunchi
+  - 'femeie în genunchi: ton deschis al pielii'
+  - ton deschis al pielii
+  - în genunchi
+  - îngenuncheată
+  - îngenunchind
+🧎🏼‍♀:
+  - femeie
+  - femeie în genunchi
+  - 'femeie în genunchi: ton semi‑deschis al pielii'
+  - ton semi‑deschis al pielii
+  - în genunchi
+  - îngenuncheată
+  - îngenunchind
+🧎🏽‍♀:
+  - femeie
+  - femeie în genunchi
+  - 'femeie în genunchi: ton mediu al pielii'
+  - ton mediu al pielii
+  - în genunchi
+  - îngenuncheată
+  - îngenunchind
+🧎🏾‍♀:
+  - femeie
+  - femeie în genunchi
+  - 'femeie în genunchi: ton semi‑închis al pielii'
+  - ton semi‑închis al pielii
+  - în genunchi
+  - îngenuncheată
+  - îngenunchind
+🧎🏿‍♀:
+  - femeie
+  - femeie în genunchi
+  - 'femeie în genunchi: ton închis al pielii'
+  - ton închis al pielii
+  - în genunchi
+  - îngenuncheată
+  - îngenunchind
+👨‍🦯:
+  - accesibilitate
+  - bărbat
+  - bărbat cu baston pentru nevăzători
+  - nevăzător
+  - orb
+👨🏻‍🦯:
+  - accesibilitate
+  - bărbat
+  - bărbat cu baston pentru nevăzători
+  - 'bărbat cu baston pentru nevăzători: ton deschis al pielii'
+  - nevăzător
+  - orb
+  - ton deschis al pielii
+👨🏼‍🦯:
+  - accesibilitate
+  - bărbat
+  - bărbat cu baston pentru nevăzători
+  - 'bărbat cu baston pentru nevăzători: ton semi‑deschis al pielii'
+  - nevăzător
+  - orb
+  - ton semi‑deschis al pielii
+👨🏽‍🦯:
+  - accesibilitate
+  - bărbat
+  - bărbat cu baston pentru nevăzători
+  - 'bărbat cu baston pentru nevăzători: ton mediu al pielii'
+  - nevăzător
+  - orb
+  - ton mediu al pielii
+👨🏾‍🦯:
+  - accesibilitate
+  - bărbat
+  - bărbat cu baston pentru nevăzători
+  - 'bărbat cu baston pentru nevăzători: ton semi‑închis al pielii'
+  - nevăzător
+  - orb
+  - ton semi‑închis al pielii
+👨🏿‍🦯:
+  - accesibilitate
+  - bărbat
+  - bărbat cu baston pentru nevăzători
+  - 'bărbat cu baston pentru nevăzători: ton închis al pielii'
+  - nevăzător
+  - orb
+  - ton închis al pielii
+👩‍🦯:
+  - accesibilitate
+  - femeie
+  - femeie cu baston pentru nevăzători
+  - nevăzătoare
+  - oarbă
+👩🏻‍🦯:
+  - accesibilitate
+  - femeie
+  - femeie cu baston pentru nevăzători
+  - 'femeie cu baston pentru nevăzători: ton deschis al pielii'
+  - nevăzătoare
+  - oarbă
+  - ton deschis al pielii
+👩🏼‍🦯:
+  - accesibilitate
+  - femeie
+  - femeie cu baston pentru nevăzători
+  - 'femeie cu baston pentru nevăzători: ton semi‑deschis al pielii'
+  - nevăzătoare
+  - oarbă
+  - ton semi‑deschis al pielii
+👩🏽‍🦯:
+  - accesibilitate
+  - femeie
+  - femeie cu baston pentru nevăzători
+  - 'femeie cu baston pentru nevăzători: ton mediu al pielii'
+  - nevăzătoare
+  - oarbă
+  - ton mediu al pielii
+👩🏾‍🦯:
+  - accesibilitate
+  - femeie
+  - femeie cu baston pentru nevăzători
+  - 'femeie cu baston pentru nevăzători: ton semi‑închis al pielii'
+  - nevăzătoare
+  - oarbă
+  - ton semi‑închis al pielii
+👩🏿‍🦯:
+  - accesibilitate
+  - femeie
+  - femeie cu baston pentru nevăzători
+  - 'femeie cu baston pentru nevăzători: ton închis al pielii'
+  - nevăzătoare
+  - oarbă
+  - ton închis al pielii
+👨‍🦼:
+  - accesibilitate
+  - bărbat
+  - bărbat în scaun cu rotile motorizat
+  - scaun cu rotile
+👨🏻‍🦼:
+  - accesibilitate
+  - bărbat
+  - bărbat în scaun cu rotile motorizat
+  - 'bărbat în scaun cu rotile motorizat: ton deschis al pielii'
+  - scaun cu rotile
+  - ton deschis al pielii
+👨🏼‍🦼:
+  - accesibilitate
+  - bărbat
+  - bărbat în scaun cu rotile motorizat
+  - 'bărbat în scaun cu rotile motorizat: ton semi‑deschis al pielii'
+  - scaun cu rotile
+  - ton semi‑deschis al pielii
+👨🏽‍🦼:
+  - accesibilitate
+  - bărbat
+  - bărbat în scaun cu rotile motorizat
+  - 'bărbat în scaun cu rotile motorizat: ton mediu al pielii'
+  - scaun cu rotile
+  - ton mediu al pielii
+👨🏾‍🦼:
+  - accesibilitate
+  - bărbat
+  - bărbat în scaun cu rotile motorizat
+  - 'bărbat în scaun cu rotile motorizat: ton semi‑închis al pielii'
+  - scaun cu rotile
+  - ton semi‑închis al pielii
+👨🏿‍🦼:
+  - accesibilitate
+  - bărbat
+  - bărbat în scaun cu rotile motorizat
+  - 'bărbat în scaun cu rotile motorizat: ton închis al pielii'
+  - scaun cu rotile
+  - ton închis al pielii
+👩‍🦼:
+  - accesibilitate
+  - femeie
+  - femeie în scaun cu rotile motorizat
+  - scaun cu rotile
+👩🏻‍🦼:
+  - accesibilitate
+  - femeie
+  - femeie în scaun cu rotile motorizat
+  - 'femeie în scaun cu rotile motorizat: ton deschis al pielii'
+  - scaun cu rotile
+  - ton deschis al pielii
+👩🏼‍🦼:
+  - accesibilitate
+  - femeie
+  - femeie în scaun cu rotile motorizat
+  - 'femeie în scaun cu rotile motorizat: ton semi‑deschis al pielii'
+  - scaun cu rotile
+  - ton semi‑deschis al pielii
+👩🏽‍🦼:
+  - accesibilitate
+  - femeie
+  - femeie în scaun cu rotile motorizat
+  - 'femeie în scaun cu rotile motorizat: ton mediu al pielii'
+  - scaun cu rotile
+  - ton mediu al pielii
+👩🏾‍🦼:
+  - accesibilitate
+  - femeie
+  - femeie în scaun cu rotile motorizat
+  - 'femeie în scaun cu rotile motorizat: ton semi‑închis al pielii'
+  - scaun cu rotile
+  - ton semi‑închis al pielii
+👩🏿‍🦼:
+  - accesibilitate
+  - femeie
+  - femeie în scaun cu rotile motorizat
+  - 'femeie în scaun cu rotile motorizat: ton închis al pielii'
+  - scaun cu rotile
+  - ton închis al pielii
+👨‍🦽:
+  - accesibilitate
+  - bărbat
+  - bărbat în scaun cu rotile manual
+  - scaun cu rotile
+👨🏻‍🦽:
+  - accesibilitate
+  - bărbat
+  - bărbat în scaun cu rotile manual
+  - 'bărbat în scaun cu rotile manual: ton deschis al pielii'
+  - scaun cu rotile
+  - ton deschis al pielii
+👨🏼‍🦽:
+  - accesibilitate
+  - bărbat
+  - bărbat în scaun cu rotile manual
+  - 'bărbat în scaun cu rotile manual: ton semi‑deschis al pielii'
+  - scaun cu rotile
+  - ton semi‑deschis al pielii
+👨🏽‍🦽:
+  - accesibilitate
+  - bărbat
+  - bărbat în scaun cu rotile manual
+  - 'bărbat în scaun cu rotile manual: ton mediu al pielii'
+  - scaun cu rotile
+  - ton mediu al pielii
+👨🏾‍🦽:
+  - accesibilitate
+  - bărbat
+  - bărbat în scaun cu rotile manual
+  - 'bărbat în scaun cu rotile manual: ton semi‑închis al pielii'
+  - scaun cu rotile
+  - ton semi‑închis al pielii
+👨🏿‍🦽:
+  - accesibilitate
+  - bărbat
+  - bărbat în scaun cu rotile manual
+  - 'bărbat în scaun cu rotile manual: ton închis al pielii'
+  - scaun cu rotile
+  - ton închis al pielii
+👩‍🦽:
+  - accesibilitate
+  - femeie
+  - femeie în scaun cu rotile manual
+  - scaun cu rotile
+👩🏻‍🦽:
+  - accesibilitate
+  - femeie
+  - femeie în scaun cu rotile manual
+  - 'femeie în scaun cu rotile manual: ton deschis al pielii'
+  - scaun cu rotile
+  - ton deschis al pielii
+👩🏼‍🦽:
+  - accesibilitate
+  - femeie
+  - femeie în scaun cu rotile manual
+  - 'femeie în scaun cu rotile manual: ton semi‑deschis al pielii'
+  - scaun cu rotile
+  - ton semi‑deschis al pielii
+👩🏽‍🦽:
+  - accesibilitate
+  - femeie
+  - femeie în scaun cu rotile manual
+  - 'femeie în scaun cu rotile manual: ton mediu al pielii'
+  - scaun cu rotile
+  - ton mediu al pielii
+👩🏾‍🦽:
+  - accesibilitate
+  - femeie
+  - femeie în scaun cu rotile manual
+  - 'femeie în scaun cu rotile manual: ton semi‑închis al pielii'
+  - scaun cu rotile
+  - ton semi‑închis al pielii
+👩🏿‍🦽:
+  - accesibilitate
+  - femeie
+  - femeie în scaun cu rotile manual
+  - 'femeie în scaun cu rotile manual: ton închis al pielii'
+  - scaun cu rotile
+  - ton închis al pielii
 🏃:
   - alergare
   - alergător
@@ -10064,12 +10846,230 @@
   - 'persoană în pat: ton închis al pielii'
   - somn
   - ton închis al pielii
+🧑‍🤝‍🧑:
+  - persoane ținându-se de mână
+🧑🏻‍🤝‍🧑🏻:
+  - persoane ținându-se de mână
+  - 'persoane ținându-se de mână: ton deschis al pielii'
+  - ton deschis al pielii
+🧑🏼‍🤝‍🧑🏻:
+  - persoane ținându-se de mână
+  - 'persoane ținându-se de mână: ton semi‑deschis al pielii, ton deschis al pielii'
+  - ton deschis al pielii
+  - ton semi‑deschis al pielii
+🧑🏼‍🤝‍🧑🏼:
+  - persoane ținându-se de mână
+  - 'persoane ținându-se de mână: ton semi‑deschis al pielii'
+  - ton semi‑deschis al pielii
+🧑🏽‍🤝‍🧑🏻:
+  - persoane ținându-se de mână
+  - 'persoane ținându-se de mână: ton mediu al pielii, ton deschis al pielii'
+  - ton deschis al pielii
+  - ton mediu al pielii
+🧑🏽‍🤝‍🧑🏼:
+  - persoane ținându-se de mână
+  - 'persoane ținându-se de mână: ton mediu al pielii, ton semi‑deschis al pielii'
+  - ton mediu al pielii
+  - ton semi‑deschis al pielii
+🧑🏽‍🤝‍🧑🏽:
+  - persoane ținându-se de mână
+  - 'persoane ținându-se de mână: ton mediu al pielii'
+  - ton mediu al pielii
+🧑🏾‍🤝‍🧑🏻:
+  - persoane ținându-se de mână
+  - 'persoane ținându-se de mână: ton semi‑închis al pielii, ton deschis al pielii'
+  - ton deschis al pielii
+  - ton semi‑închis al pielii
+🧑🏾‍🤝‍🧑🏼:
+  - persoane ținându-se de mână
+  - 'persoane ținându-se de mână: ton semi‑închis al pielii, ton semi‑deschis al pielii'
+  - ton semi‑deschis al pielii
+  - ton semi‑închis al pielii
+🧑🏾‍🤝‍🧑🏽:
+  - persoane ținându-se de mână
+  - 'persoane ținându-se de mână: ton semi‑închis al pielii, ton mediu al pielii'
+  - ton mediu al pielii
+  - ton semi‑închis al pielii
+🧑🏾‍🤝‍🧑🏾:
+  - persoane ținându-se de mână
+  - 'persoane ținându-se de mână: ton semi‑închis al pielii'
+  - ton semi‑închis al pielii
+🧑🏿‍🤝‍🧑🏻:
+  - persoane ținându-se de mână
+  - 'persoane ținându-se de mână: ton închis al pielii, ton deschis al pielii'
+  - ton deschis al pielii
+  - ton închis al pielii
+🧑🏿‍🤝‍🧑🏼:
+  - persoane ținându-se de mână
+  - 'persoane ținându-se de mână: ton închis al pielii, ton semi‑deschis al pielii'
+  - ton semi‑deschis al pielii
+  - ton închis al pielii
+🧑🏿‍🤝‍🧑🏽:
+  - persoane ținându-se de mână
+  - 'persoane ținându-se de mână: ton închis al pielii, ton mediu al pielii'
+  - ton mediu al pielii
+  - ton închis al pielii
+🧑🏿‍🤝‍🧑🏾:
+  - persoane ținându-se de mână
+  - 'persoane ținându-se de mână: ton închis al pielii, ton semi‑închis al pielii'
+  - ton semi‑închis al pielii
+  - ton închis al pielii
+🧑🏿‍🤝‍🧑🏿:
+  - persoane ținându-se de mână
+  - 'persoane ținându-se de mână: ton închis al pielii'
+  - ton închis al pielii
 👭:
   - cuplu
-  - două femei ținându-se de mână
-  - femeie
+  - femei
+  - femei ținându-se de mână
   - mână
   - ține
+  - ținându-se de mână
+👭🏻:
+  - cuplu
+  - femei
+  - femei ținându-se de mână
+  - 'femei ținându-se de mână: ton deschis al pielii'
+  - mână
+  - ton deschis al pielii
+  - ține
+  - ținându-se de mână
+👩🏼‍🤝‍👩🏻:
+  - cuplu
+  - femei
+  - femei ținându-se de mână
+  - 'femei ținându-se de mână: ton semi‑deschis al pielii, ton deschis al pielii'
+  - mână
+  - ton deschis al pielii
+  - ton semi‑deschis al pielii
+  - ține
+  - ținându-se de mână
+👭🏼:
+  - cuplu
+  - femei
+  - femei ținându-se de mână
+  - 'femei ținându-se de mână: ton semi‑deschis al pielii'
+  - mână
+  - ton semi‑deschis al pielii
+  - ține
+  - ținându-se de mână
+👩🏽‍🤝‍👩🏻:
+  - cuplu
+  - femei
+  - femei ținându-se de mână
+  - 'femei ținându-se de mână: ton mediu al pielii, ton deschis al pielii'
+  - mână
+  - ton deschis al pielii
+  - ton mediu al pielii
+  - ține
+  - ținându-se de mână
+👩🏽‍🤝‍👩🏼:
+  - cuplu
+  - femei
+  - femei ținându-se de mână
+  - 'femei ținându-se de mână: ton mediu al pielii, ton semi‑deschis al pielii'
+  - mână
+  - ton mediu al pielii
+  - ton semi‑deschis al pielii
+  - ține
+  - ținându-se de mână
+👭🏽:
+  - cuplu
+  - femei
+  - femei ținându-se de mână
+  - 'femei ținându-se de mână: ton mediu al pielii'
+  - mână
+  - ton mediu al pielii
+  - ține
+  - ținându-se de mână
+👩🏾‍🤝‍👩🏻:
+  - cuplu
+  - femei
+  - femei ținându-se de mână
+  - 'femei ținându-se de mână: ton semi‑închis al pielii, ton deschis al pielii'
+  - mână
+  - ton deschis al pielii
+  - ton semi‑închis al pielii
+  - ține
+  - ținându-se de mână
+👩🏾‍🤝‍👩🏼:
+  - cuplu
+  - femei
+  - femei ținându-se de mână
+  - 'femei ținându-se de mână: ton semi‑închis al pielii, ton semi‑deschis al pielii'
+  - mână
+  - ton semi‑deschis al pielii
+  - ton semi‑închis al pielii
+  - ține
+  - ținându-se de mână
+👩🏾‍🤝‍👩🏽:
+  - cuplu
+  - femei
+  - femei ținându-se de mână
+  - 'femei ținându-se de mână: ton semi‑închis al pielii, ton mediu al pielii'
+  - mână
+  - ton mediu al pielii
+  - ton semi‑închis al pielii
+  - ține
+  - ținându-se de mână
+👭🏾:
+  - cuplu
+  - femei
+  - femei ținându-se de mână
+  - 'femei ținându-se de mână: ton semi‑închis al pielii'
+  - mână
+  - ton semi‑închis al pielii
+  - ține
+  - ținându-se de mână
+👩🏿‍🤝‍👩🏻:
+  - cuplu
+  - femei
+  - femei ținându-se de mână
+  - 'femei ținându-se de mână: ton închis al pielii, ton deschis al pielii'
+  - mână
+  - ton deschis al pielii
+  - ton închis al pielii
+  - ține
+  - ținându-se de mână
+👩🏿‍🤝‍👩🏼:
+  - cuplu
+  - femei
+  - femei ținându-se de mână
+  - 'femei ținându-se de mână: ton închis al pielii, ton semi‑deschis al pielii'
+  - mână
+  - ton semi‑deschis al pielii
+  - ton închis al pielii
+  - ține
+  - ținându-se de mână
+👩🏿‍🤝‍👩🏽:
+  - cuplu
+  - femei
+  - femei ținându-se de mână
+  - 'femei ținându-se de mână: ton închis al pielii, ton mediu al pielii'
+  - mână
+  - ton mediu al pielii
+  - ton închis al pielii
+  - ține
+  - ținându-se de mână
+👩🏿‍🤝‍👩🏾:
+  - cuplu
+  - femei
+  - femei ținându-se de mână
+  - 'femei ținându-se de mână: ton închis al pielii, ton semi‑închis al pielii'
+  - mână
+  - ton semi‑închis al pielii
+  - ton închis al pielii
+  - ține
+  - ținându-se de mână
+👭🏿:
+  - cuplu
+  - femei
+  - femei ținându-se de mână
+  - 'femei ținându-se de mână: ton închis al pielii'
+  - mână
+  - ton închis al pielii
+  - ține
+  - ținându-se de mână
 👫:
   - bărbat
   - bărbat și femeie ținându-se de mână
@@ -10077,11 +11077,442 @@
   - femeie
   - mână
   - ține
+  - ținându-se de mână
+👫🏻:
+  - bărbat
+  - bărbat și femeie ținându-se de mână
+  - 'bărbat și femeie ținându-se de mână: ton deschis al pielii'
+  - cuplu
+  - femeie
+  - mână
+  - ton deschis al pielii
+  - ține
+  - ținându-se de mână
+👩🏻‍🤝‍👨🏼:
+  - bărbat
+  - bărbat și femeie ținându-se de mână
+  - 'bărbat și femeie ținându-se de mână: ton deschis al pielii, ton semi‑deschis
+    al pielii'
+  - cuplu
+  - femeie
+  - mână
+  - ton deschis al pielii
+  - ton semi‑deschis al pielii
+  - ține
+  - ținându-se de mână
+👩🏻‍🤝‍👨🏽:
+  - bărbat
+  - bărbat și femeie ținându-se de mână
+  - 'bărbat și femeie ținându-se de mână: ton deschis al pielii, ton mediu al pielii'
+  - cuplu
+  - femeie
+  - mână
+  - ton deschis al pielii
+  - ton mediu al pielii
+  - ține
+  - ținându-se de mână
+👩🏻‍🤝‍👨🏾:
+  - bărbat
+  - bărbat și femeie ținându-se de mână
+  - 'bărbat și femeie ținându-se de mână: ton deschis al pielii, ton semi‑închis al
+    pielii'
+  - cuplu
+  - femeie
+  - mână
+  - ton deschis al pielii
+  - ton semi‑închis al pielii
+  - ține
+  - ținându-se de mână
+👩🏻‍🤝‍👨🏿:
+  - bărbat
+  - bărbat și femeie ținându-se de mână
+  - 'bărbat și femeie ținându-se de mână: ton deschis al pielii, ton închis al pielii'
+  - cuplu
+  - femeie
+  - mână
+  - ton deschis al pielii
+  - ton închis al pielii
+  - ține
+  - ținându-se de mână
+👩🏼‍🤝‍👨🏻:
+  - bărbat
+  - bărbat și femeie ținându-se de mână
+  - 'bărbat și femeie ținându-se de mână: ton semi‑deschis al pielii, ton deschis
+    al pielii'
+  - cuplu
+  - femeie
+  - mână
+  - ton deschis al pielii
+  - ton semi‑deschis al pielii
+  - ține
+  - ținându-se de mână
+👫🏼:
+  - bărbat
+  - bărbat și femeie ținându-se de mână
+  - 'bărbat și femeie ținându-se de mână: ton semi‑deschis al pielii'
+  - cuplu
+  - femeie
+  - mână
+  - ton semi‑deschis al pielii
+  - ține
+  - ținându-se de mână
+👩🏼‍🤝‍👨🏽:
+  - bărbat
+  - bărbat și femeie ținându-se de mână
+  - 'bărbat și femeie ținându-se de mână: ton semi‑deschis al pielii, ton mediu al
+    pielii'
+  - cuplu
+  - femeie
+  - mână
+  - ton mediu al pielii
+  - ton semi‑deschis al pielii
+  - ține
+  - ținându-se de mână
+👩🏼‍🤝‍👨🏾:
+  - bărbat
+  - bărbat și femeie ținându-se de mână
+  - 'bărbat și femeie ținându-se de mână: ton semi‑deschis al pielii, ton semi‑închis
+    al pielii'
+  - cuplu
+  - femeie
+  - mână
+  - ton semi‑deschis al pielii
+  - ton semi‑închis al pielii
+  - ține
+  - ținându-se de mână
+👩🏼‍🤝‍👨🏿:
+  - bărbat
+  - bărbat și femeie ținându-se de mână
+  - 'bărbat și femeie ținându-se de mână: ton semi‑deschis al pielii, ton închis al
+    pielii'
+  - cuplu
+  - femeie
+  - mână
+  - ton semi‑deschis al pielii
+  - ton închis al pielii
+  - ține
+  - ținându-se de mână
+👩🏽‍🤝‍👨🏻:
+  - bărbat
+  - bărbat și femeie ținându-se de mână
+  - 'bărbat și femeie ținându-se de mână: ton mediu al pielii, ton deschis al pielii'
+  - cuplu
+  - femeie
+  - mână
+  - ton deschis al pielii
+  - ton mediu al pielii
+  - ține
+  - ținându-se de mână
+👩🏽‍🤝‍👨🏼:
+  - bărbat
+  - bărbat și femeie ținându-se de mână
+  - 'bărbat și femeie ținându-se de mână: ton mediu al pielii, ton semi‑deschis al
+    pielii'
+  - cuplu
+  - femeie
+  - mână
+  - ton mediu al pielii
+  - ton semi‑deschis al pielii
+  - ține
+  - ținându-se de mână
+👫🏽:
+  - bărbat
+  - bărbat și femeie ținându-se de mână
+  - 'bărbat și femeie ținându-se de mână: ton mediu al pielii'
+  - cuplu
+  - femeie
+  - mână
+  - ton mediu al pielii
+  - ține
+  - ținându-se de mână
+👩🏽‍🤝‍👨🏾:
+  - bărbat
+  - bărbat și femeie ținându-se de mână
+  - 'bărbat și femeie ținându-se de mână: ton mediu al pielii, ton semi‑închis al
+    pielii'
+  - cuplu
+  - femeie
+  - mână
+  - ton mediu al pielii
+  - ton semi‑închis al pielii
+  - ține
+  - ținându-se de mână
+👩🏽‍🤝‍👨🏿:
+  - bărbat
+  - bărbat și femeie ținându-se de mână
+  - 'bărbat și femeie ținându-se de mână: ton mediu al pielii, ton închis al pielii'
+  - cuplu
+  - femeie
+  - mână
+  - ton mediu al pielii
+  - ton închis al pielii
+  - ține
+  - ținându-se de mână
+👩🏾‍🤝‍👨🏻:
+  - bărbat
+  - bărbat și femeie ținându-se de mână
+  - 'bărbat și femeie ținându-se de mână: ton semi‑închis al pielii, ton deschis al
+    pielii'
+  - cuplu
+  - femeie
+  - mână
+  - ton deschis al pielii
+  - ton semi‑închis al pielii
+  - ține
+  - ținându-se de mână
+👩🏾‍🤝‍👨🏼:
+  - bărbat
+  - bărbat și femeie ținându-se de mână
+  - 'bărbat și femeie ținându-se de mână: ton semi‑închis al pielii, ton semi‑deschis
+    al pielii'
+  - cuplu
+  - femeie
+  - mână
+  - ton semi‑deschis al pielii
+  - ton semi‑închis al pielii
+  - ține
+  - ținându-se de mână
+👩🏾‍🤝‍👨🏽:
+  - bărbat
+  - bărbat și femeie ținându-se de mână
+  - 'bărbat și femeie ținându-se de mână: ton semi‑închis al pielii, ton mediu al
+    pielii'
+  - cuplu
+  - femeie
+  - mână
+  - ton mediu al pielii
+  - ton semi‑închis al pielii
+  - ține
+  - ținându-se de mână
+👫🏾:
+  - bărbat
+  - bărbat și femeie ținându-se de mână
+  - 'bărbat și femeie ținându-se de mână: ton semi‑închis al pielii'
+  - cuplu
+  - femeie
+  - mână
+  - ton semi‑închis al pielii
+  - ține
+  - ținându-se de mână
+👩🏾‍🤝‍👨🏿:
+  - bărbat
+  - bărbat și femeie ținându-se de mână
+  - 'bărbat și femeie ținându-se de mână: ton semi‑închis al pielii, ton închis al
+    pielii'
+  - cuplu
+  - femeie
+  - mână
+  - ton semi‑închis al pielii
+  - ton închis al pielii
+  - ține
+  - ținându-se de mână
+👩🏿‍🤝‍👨🏻:
+  - bărbat
+  - bărbat și femeie ținându-se de mână
+  - 'bărbat și femeie ținându-se de mână: ton închis al pielii, ton deschis al pielii'
+  - cuplu
+  - femeie
+  - mână
+  - ton deschis al pielii
+  - ton închis al pielii
+  - ține
+  - ținându-se de mână
+👩🏿‍🤝‍👨🏼:
+  - bărbat
+  - bărbat și femeie ținându-se de mână
+  - 'bărbat și femeie ținându-se de mână: ton închis al pielii, ton semi‑deschis al
+    pielii'
+  - cuplu
+  - femeie
+  - mână
+  - ton semi‑deschis al pielii
+  - ton închis al pielii
+  - ține
+  - ținându-se de mână
+👩🏿‍🤝‍👨🏽:
+  - bărbat
+  - bărbat și femeie ținându-se de mână
+  - 'bărbat și femeie ținându-se de mână: ton închis al pielii, ton mediu al pielii'
+  - cuplu
+  - femeie
+  - mână
+  - ton mediu al pielii
+  - ton închis al pielii
+  - ține
+  - ținându-se de mână
+👩🏿‍🤝‍👨🏾:
+  - bărbat
+  - bărbat și femeie ținându-se de mână
+  - 'bărbat și femeie ținându-se de mână: ton închis al pielii, ton semi‑închis al
+    pielii'
+  - cuplu
+  - femeie
+  - mână
+  - ton semi‑închis al pielii
+  - ton închis al pielii
+  - ține
+  - ținându-se de mână
+👫🏿:
+  - bărbat
+  - bărbat și femeie ținându-se de mână
+  - 'bărbat și femeie ținându-se de mână: ton închis al pielii'
+  - cuplu
+  - femeie
+  - mână
+  - ton închis al pielii
+  - ține
+  - ținându-se de mână
 👬:
   - Gemeni
   - bărbat
+  - bărbați ținându-se de mână
   - cuplu
   - doi bărbați ținându-se de mână
+  - zodiac
+👬🏻:
+  - Gemeni
+  - bărbat
+  - bărbați ținându-se de mână
+  - 'bărbați ținându-se de mână: ton deschis al pielii'
+  - cuplu
+  - doi bărbați ținându-se de mână
+  - ton deschis al pielii
+  - zodiac
+👨🏼‍🤝‍👨🏻:
+  - Gemeni
+  - bărbat
+  - bărbați ținându-se de mână
+  - 'bărbați ținându-se de mână: ton semi‑deschis al pielii, ton deschis al pielii'
+  - cuplu
+  - doi bărbați ținându-se de mână
+  - ton deschis al pielii
+  - ton semi‑deschis al pielii
+  - zodiac
+👬🏼:
+  - Gemeni
+  - bărbat
+  - bărbați ținându-se de mână
+  - 'bărbați ținându-se de mână: ton semi‑deschis al pielii'
+  - cuplu
+  - doi bărbați ținându-se de mână
+  - ton semi‑deschis al pielii
+  - zodiac
+👨🏽‍🤝‍👨🏻:
+  - Gemeni
+  - bărbat
+  - bărbați ținându-se de mână
+  - 'bărbați ținându-se de mână: ton mediu al pielii, ton deschis al pielii'
+  - cuplu
+  - doi bărbați ținându-se de mână
+  - ton deschis al pielii
+  - ton mediu al pielii
+  - zodiac
+👨🏽‍🤝‍👨🏼:
+  - Gemeni
+  - bărbat
+  - bărbați ținându-se de mână
+  - 'bărbați ținându-se de mână: ton mediu al pielii, ton semi‑deschis al pielii'
+  - cuplu
+  - doi bărbați ținându-se de mână
+  - ton mediu al pielii
+  - ton semi‑deschis al pielii
+  - zodiac
+👬🏽:
+  - Gemeni
+  - bărbat
+  - bărbați ținându-se de mână
+  - 'bărbați ținându-se de mână: ton mediu al pielii'
+  - cuplu
+  - doi bărbați ținându-se de mână
+  - ton mediu al pielii
+  - zodiac
+👨🏾‍🤝‍👨🏻:
+  - Gemeni
+  - bărbat
+  - bărbați ținându-se de mână
+  - 'bărbați ținându-se de mână: ton semi‑închis al pielii, ton deschis al pielii'
+  - cuplu
+  - doi bărbați ținându-se de mână
+  - ton deschis al pielii
+  - ton semi‑închis al pielii
+  - zodiac
+👨🏾‍🤝‍👨🏼:
+  - Gemeni
+  - bărbat
+  - bărbați ținându-se de mână
+  - 'bărbați ținându-se de mână: ton semi‑închis al pielii, ton semi‑deschis al pielii'
+  - cuplu
+  - doi bărbați ținându-se de mână
+  - ton semi‑deschis al pielii
+  - ton semi‑închis al pielii
+  - zodiac
+👨🏾‍🤝‍👨🏽:
+  - Gemeni
+  - bărbat
+  - bărbați ținându-se de mână
+  - 'bărbați ținându-se de mână: ton semi‑închis al pielii, ton mediu al pielii'
+  - cuplu
+  - doi bărbați ținându-se de mână
+  - ton mediu al pielii
+  - ton semi‑închis al pielii
+  - zodiac
+👬🏾:
+  - Gemeni
+  - bărbat
+  - bărbați ținându-se de mână
+  - 'bărbați ținându-se de mână: ton semi‑închis al pielii'
+  - cuplu
+  - doi bărbați ținându-se de mână
+  - ton semi‑închis al pielii
+  - zodiac
+👨🏿‍🤝‍👨🏻:
+  - Gemeni
+  - bărbat
+  - bărbați ținându-se de mână
+  - 'bărbați ținându-se de mână: ton închis al pielii, ton deschis al pielii'
+  - cuplu
+  - doi bărbați ținându-se de mână
+  - ton deschis al pielii
+  - ton închis al pielii
+  - zodiac
+👨🏿‍🤝‍👨🏼:
+  - Gemeni
+  - bărbat
+  - bărbați ținându-se de mână
+  - 'bărbați ținându-se de mână: ton închis al pielii, ton semi‑deschis al pielii'
+  - cuplu
+  - doi bărbați ținându-se de mână
+  - ton semi‑deschis al pielii
+  - ton închis al pielii
+  - zodiac
+👨🏿‍🤝‍👨🏽:
+  - Gemeni
+  - bărbat
+  - bărbați ținându-se de mână
+  - 'bărbați ținându-se de mână: ton închis al pielii, ton mediu al pielii'
+  - cuplu
+  - doi bărbați ținându-se de mână
+  - ton mediu al pielii
+  - ton închis al pielii
+  - zodiac
+👨🏿‍🤝‍👨🏾:
+  - Gemeni
+  - bărbat
+  - bărbați ținându-se de mână
+  - 'bărbați ținându-se de mână: ton închis al pielii, ton semi‑închis al pielii'
+  - cuplu
+  - doi bărbați ținându-se de mână
+  - ton semi‑închis al pielii
+  - ton închis al pielii
+  - zodiac
+👬🏿:
+  - Gemeni
+  - bărbat
+  - bărbați ținându-se de mână
+  - 'bărbați ținându-se de mână: ton închis al pielii'
+  - cuplu
+  - doi bărbați ținându-se de mână
+  - ton închis al pielii
   - zodiac
 💏:
   - cuplu
@@ -10321,6 +11752,10 @@
 🦍:
   - animal sălbatic
   - gorilă
+🦧:
+  - primat
+  - primate
+  - urangutan
 🐶:
   - animal de companie
   - animal domestic
@@ -10331,19 +11766,27 @@
   - animal de companie
   - animal domestic
   - câine
+🦮:
+  - accesibilitate
+  - câine ghid
+  - ghid
+  - nevăzător
+  - orb
+🐕‍🦺:
+  - accesibilitate
+  - asistență
+  - câine
+  - câine de asistență
+  - servicii
 🐩:
   - câine
   - pudel
   - rasă
 🐺:
-  - animal sălbatic
   - față
-  - față de lup
   - lup
 🦊:
-  - animal sălbatic
   - față
-  - față de vulpe
   - vulpe
 🦝:
   - curios
@@ -10362,8 +11805,6 @@
   - pisică
 🦁:
   - față
-  - față de leu
-  - felină
   - leu
   - zodiac
 🐯:
@@ -10388,11 +11829,8 @@
   - cal de curse
   - echitație
 🦄:
-  - animal
-  - cap de unicorn
-  - corn
-  - fantezie
   - față
+  - unicorn
 🦓:
   - animal sălbatic
   - dungi
@@ -10484,9 +11922,7 @@
 🐹:
   - animal de companie
   - față
-  - față de hamster
   - hamster
-  - rozător
 🐰:
   - animal de companie
   - față
@@ -10509,16 +11945,25 @@
   - vampir
 🐻:
   - față
-  - față de urs
   - urs
 🐨:
   - koala
   - ursuleț
 🐼:
   - față
-  - față de panda
   - panda
-  - urs
+🦥:
+  - leneș
+  - lent
+  - trândav
+🦦:
+  - alunecos
+  - jucăuș
+  - vidră
+🦨:
+  - mirositor
+  - puți
+  - sconcs
 🦘:
   - Australia
   - cangur
@@ -10584,6 +12029,10 @@
   - de noapte
   - pasăre
   - înțelept
+🦩:
+  - flamboaiant
+  - flamingo
+  - tropical
 🦚:
   - mândrie
   - orgoliu
@@ -10926,6 +12375,14 @@
 🥦:
   - broccoli
   - conopidă
+🧄:
+  - aromă
+  - condiment
+  - usturoi
+🧅:
+  - aromă
+  - ceapă
+  - condiment
 🍄:
   - ciupercă
   - ciupercă otrăvitoare
@@ -10967,6 +12424,10 @@
   - clătită
   - crepe
   - mâncare
+🧇:
+  - fier de călcat
+  - gofră
+  - nehotărât
 🧀:
   - brânză
   - bucată de brânză
@@ -11032,6 +12493,10 @@
   - lipie umplută
   - mâncare
   - șaorma
+🧆:
+  - chifteluță
+  - falafel
+  - năut
 🥚:
   - mâncare
   - ou
@@ -11065,6 +12530,9 @@
   - pop-corn
   - popcorn
   - porumb
+🧈:
+  - lactate
+  - unt
 🧂:
   - condiment
   - sare
@@ -11167,6 +12635,10 @@
   - calmar
   - moluscă
   - mâncare
+🦪:
+  - perlă
+  - scufundare
+  - stridie
 🍦:
   - cornet
   - desert
@@ -11326,6 +12798,16 @@
   - pahar cu pai
   - sifon
   - suc
+🧃:
+  - cutie de băutură
+  - cutie de suc
+🧉:
+  - băutură
+  - mate
+🧊:
+  - aisberg
+  - cub de gheață
+  - rece
 🥢:
   - bețișoare de mâncat
   - bețișoare japoneze
@@ -11549,6 +13031,10 @@
   - moschee
   - musulman
   - religie
+🛕:
+  - hindus
+  - templu
+  - templu hindus
 🕍:
   - cult
   - evreiesc
@@ -11784,6 +13270,15 @@
   - motor
   - motoscuter
   - scuter
+🦽:
+  - accesibilitate
+  - scaun cu rotile manual
+🦼:
+  - accesibilitate
+  - scaun cu rotile motorizat
+🛺:
+  - autoricșă
+  - tuk tuk
 🚲️:
   - bicicletă
   - ciclism
@@ -11911,6 +13406,11 @@
   - sosire
   - sosire avion
   - sosiri
+🪂:
+  - deltaplanorism
+  - parasailing
+  - parașutism
+  - parașută
 💺:
   - loc în mijloc de transport
   - scaun
@@ -12238,6 +13738,10 @@
   - raze
   - soare
   - soare cu față
+🪐:
+  - planetă cu inele
+  - saturn
+  - saturnian
 ⭐️:
   - stea
 🌟:
@@ -12404,10 +13908,11 @@
   - explozibil
   - petardă
 ✨:
+  - '*'
   - luminițe
   - stea
   - steluțe
-  - strălucire
+  - steluță
 🎈:
   - balon
   - sărbătoare
@@ -12620,6 +14125,12 @@
   - pescuit
   - pește
   - undiță
+🤿:
+  - mască de scufundări
+  - scuba
+  - scufundare cu tub de respirat
+  - scufundări
+  - snorkeling
 🎽:
   - atletism
   - sport
@@ -12644,6 +14155,15 @@
   - fix la țintă
   - reușită
   - țintă
+🪀:
+  - fluctua
+  - jucărie
+  - yo-yo
+🪁:
+  - plana
+  - pluti
+  - zbura
+  - zmeu
 🎱:
   - biliard
   - bilă
@@ -12687,6 +14207,7 @@
   - joc de puzzle
   - mozaic
   - piesă
+  - piesă de puzzle
   - puzzle
 🧸:
   - jucărie
@@ -12784,6 +14305,11 @@
   - experiment
   - halat de laborator
   - om de știință
+🦺:
+  - siguranță
+  - urgență
+  - vestă
+  - vestă de siguranță
 👔:
   - cravată
   - îmbrăcăminte
@@ -12816,6 +14342,23 @@
   - chimono
   - kimono
   - îmbrăcăminte
+🥻:
+  - rochie
+  - sari
+  - îmbrăcăminte
+🩱:
+  - costum de baie
+  - costum de înot întreg
+🩲:
+  - chilot
+  - costum de baie
+  - lenjerie
+  - slip
+🩳:
+  - boxeri
+  - costum de baie
+  - lenjerie
+  - șort
 👙:
   - bikini
   - costum de baie
@@ -12880,6 +14423,10 @@
   - pantof
   - sanda de damă
   - încălțăminte
+🩰:
+  - balet
+  - dans
+  - pantofi de balet
 👢:
   - cizmă de damă
   - femeie
@@ -13039,6 +14586,10 @@
   - instrument
   - muzică
   - vioară
+🪕:
+  - banjo
+  - coarde
+  - muzică
 🥁:
   - bețe de tobă
   - muzică
@@ -13217,6 +14768,11 @@
   - hârtie
   - lumină
   - roșu
+🪔:
+  - diya
+  - lampă
+  - lampă diya
+  - ulei
 📔:
   - caiet
   - caiet cu copertă decorativă
@@ -13581,6 +15137,13 @@
 🔨:
   - ciocan
   - instrument
+🪓:
+  - despica
+  - lemn
+  - reteza
+  - secure
+  - topor
+  - toporișcă
 ⛏️:
   - instrument
   - minerit
@@ -13648,6 +15211,11 @@
   - instrument
   - justiție
   - zodiac
+🦯:
+  - accesibilitate
+  - baston pentru nevăzători
+  - nevăzător
+  - orb
 🔗:
   - conexiune
   - legătură
@@ -13715,12 +15283,25 @@
   - seringă
   - siringă
   - tratament
+🩸:
+  - donare de sânge
+  - medicină
+  - menstruație
+  - picătură de sânge
 💊:
   - doctor
   - medicament
   - pastilă
   - pilulă
   - tratament
+🩹:
+  - bandaj adeziv
+  - leucoplast
+🩺:
+  - doctor
+  - inimă
+  - medicină
+  - stetoscop
 🚪:
   - ușă
 🛏️:
@@ -13734,6 +15315,9 @@
   - hotel
   - lampă
   - lumină
+🪑:
+  - loc
+  - scaun
 🚽:
   - toaletă
 🚿:
@@ -13742,6 +15326,11 @@
 🛁:
   - baie
   - cadă
+🪒:
+  - ascuțit
+  - brici
+  - bărbierit
+  - ras
 🧴:
   - cremă
   - flacon de loțiune
@@ -14342,12 +15931,15 @@
   - începător
 ⭕️:
   - cerc
-  - cerc mare îngroșat
+  - cerc roșu gol
+  - mare
   - o
+  - roșu
 ✅:
-  - alb
   - bifă
-  - bifă albă îngroșată
+  - buton
+  - buton de bifă
+  - ✓
 ☑️:
   - bifă
   - casetă
@@ -14365,6 +15957,7 @@
   - anulare
   - semnul x
   - x
+  - ×
   - închidere
   - înmulțire
 ❎:
@@ -14372,20 +15965,25 @@
   - buton x
   - pătrat
   - x
+  - ×
 ➕:
+  - +
   - adunare
   - matematică
   - plus
-  - semn plus îngroșat
+  - semn plus
 ➖:
+  - '-'
   - matematică
   - minus
   - scădere
-  - semn minus îngroșat
+  - semn minus
+  - –
 ➗:
   - matematică
-  - semnul împărțirii îngroșat
+  - semnul împărțirii
   - împărțire
+  - ÷
 ➰:
   - buclă
   - buclă ondulată
@@ -14410,15 +16008,19 @@
   - stea
   - stea cu opt colțuri
 ❇️:
+  - '*'
   - lumină
   - strălucire
 ‼️:
-  - dublu
+  - '!'
   - exclamație
   - punctuație
   - semn
   - semn dublu de exclamare
 ⁉️:
+  - '!'
+  - '!?'
+  - '?'
   - exclamație
   - punctuație
   - semn de exclamare și întrebare
@@ -14441,6 +16043,7 @@
   - semn
   - semnul exclamării alb
 ❗️:
+  - '!'
   - exclamație
   - mirare
   - punctuație
@@ -14451,12 +16054,12 @@
   - liniuță ondulată
   - ondulat
 ©️:
-  - autor
+  - c
   - copyright
-  - drept
   - drepturi de autor
 ®️:
   - marcă înregistrată
+  - r
   - înregistrat
 ™️:
   - comercială
@@ -14685,11 +16288,31 @@
   - cerc roșu
   - geometric
   - roșu
+🟠:
+  - cerc
+  - cerc portocaliu
+  - portocaliu
+🟡:
+  - cerc
+  - cerc galben
+  - galben
+🟢:
+  - cerc
+  - cerc verde
+  - verde
 🔵:
   - albastru
   - cerc
   - cerc albastru
   - geometric
+🟣:
+  - cerc
+  - cerc violet
+  - violet
+🟤:
+  - cerc
+  - cerc maro
+  - maro
 ⚫️:
   - cerc
   - cerc negru
@@ -14700,6 +16323,34 @@
   - cerc
   - cerc alb
   - geometric
+🟥:
+  - pătrat
+  - pătrat roșu
+  - roșu
+🟧:
+  - portocaliu
+  - pătrat
+  - pătrat portocaliu
+🟨:
+  - galben
+  - pătrat
+  - pătrat galben
+🟩:
+  - pătrat
+  - pătrat verde
+  - verde
+🟦:
+  - albastru
+  - pătrat
+  - pătrat albastru
+🟪:
+  - pătrat
+  - pătrat violet
+  - violet
+🟫:
+  - maro
+  - pătrat
+  - pătrat maro
 ⬛️:
   - geometric
   - negru
@@ -15283,7 +16934,7 @@
   - 'steag: Mongolia'
 🇲🇴:
   - steag
-  - 'steag: R.A.S. Macao a Chinei'
+  - 'steag: R.A.S. Macao, China'
 🇲🇵:
   - steag
   - 'steag: Insulele Mariane de Nord'
@@ -15478,7 +17129,7 @@
   - 'steag: Siria'
 🇸🇿:
   - steag
-  - 'steag: Swaziland'
+  - 'steag: eSwatini'
 🇹🇦:
   - steag
   - 'steag: Tristan da Cunha'
@@ -15505,7 +17156,7 @@
   - 'steag: Tokelau'
 🇹🇱:
   - steag
-  - 'steag: Timorul de Est'
+  - 'steag: Timor-Leste'
 🇹🇲:
   - steag
   - 'steag: Turkmenistan'

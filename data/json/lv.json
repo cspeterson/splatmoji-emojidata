@@ -92,7 +92,7 @@
         "aizrāvies",
         "dievināt",
         "iemīlējies",
-        "smaidoša seja ar trijām sirsniņām"
+        "smaidoša seja ar sirsniņām"
     ],
     "😍": [
         "acs",
@@ -540,6 +540,12 @@
         "nogurusi seja",
         "seja"
     ],
+    "🥱": [
+        "garlaikots",
+        "nogurdināts",
+        "seja žāvājas",
+        "žāvas"
+    ],
     "😤": [
         "dusmas",
         "seja",
@@ -640,37 +646,36 @@
         "visums"
     ],
     "🤖": [
-        "briesmonis",
-        "galva",
-        "robota galva",
-        "robots"
+        "monstrs",
+        "robots",
+        "seja"
     ],
     "😺": [
         "atvērts",
         "galva",
         "kaķis",
         "mute",
+        "plati smaidošs kaķis",
         "smaidoša kaķa galva ar atvērtu muti",
         "smaids"
     ],
     "😸": [
-        "atvērts",
-        "galva",
+        "acis",
         "kaķis",
-        "mute",
-        "plati smaidoša kaķa galva ar smaidošām acīm",
+        "plati smaidošs kaķis ar smaidošām acīm",
+        "plats smaids",
+        "seja",
         "smaids"
     ],
     "😹": [
         "asaras",
-        "galva",
         "kaķa galva ar prieka asarām",
         "kaķis",
-        "prieks"
+        "prieks",
+        "seja"
     ],
     "😻": [
-        "acs",
-        "galva",
+        "acis",
         "kaķis",
         "mīlestība",
         "sirds",
@@ -678,42 +683,41 @@
         "smaids"
     ],
     "😼": [
-        "galva",
+        "ironisks",
         "kaķa galva ar viltīgu smaidu",
         "kaķis",
+        "seja",
         "smaids",
-        "viltīgs"
+        "sājš"
     ],
     "😽": [
-        "acs",
-        "aizvērts",
-        "galva",
-        "kaķa galva, kas sniedz skūpstu ar aizvērtām acīm",
+        "acis",
         "kaķis",
+        "kaķis sniedz skūpstu",
+        "seja",
         "skūpsts"
     ],
     "🙀": [
-        "Munks",
-        "galva",
+        "ak",
         "kaķis",
-        "kliedziens",
-        "nobijies",
+        "noraizējies",
         "noraizējusies kaķa galva",
-        "pārsteigts"
+        "pārsteigts",
+        "seja"
     ],
     "😿": [
         "asaras",
-        "galva",
         "kaķis",
         "raudoša kaķa galva",
         "raudāt",
+        "seja",
         "skumjš"
     ],
     "😾": [
-        "galva",
         "kaķis",
         "sabozies",
-        "sabozusies kaķa galva"
+        "sabozies kaķis",
+        "seja"
     ],
     "🙈": [
         "aizliegts",
@@ -846,11 +850,21 @@
         "violeta sirds",
         "violets"
     ],
+    "🤎": [
+        "brūna",
+        "brūna sirds",
+        "sirds"
+    ],
     "🖤": [
         "melna",
         "melna sirds",
         "sirds",
         "ļaunums"
+    ],
+    "🤍": [
+        "balta",
+        "balta sirds",
+        "sirds"
     ],
     "💯": [
         "100",
@@ -1213,6 +1227,40 @@
         "tumšs ādas tonis",
         "ķermenis"
     ],
+    "🤏": [
+        "nedaudz",
+        "roka rāda drusciņu"
+    ],
+    "🤏🏻": [
+        "gaišs ādas tonis",
+        "nedaudz",
+        "roka rāda drusciņu",
+        "roka rāda drusciņu: gaišs ādas tonis"
+    ],
+    "🤏🏼": [
+        "nedaudz",
+        "roka rāda drusciņu",
+        "roka rāda drusciņu: vidēji gaišs ādas tonis",
+        "vidēji gaišs ādas tonis"
+    ],
+    "🤏🏽": [
+        "nedaudz",
+        "roka rāda drusciņu",
+        "roka rāda drusciņu: vidējs ādas tonis",
+        "vidējs ādas tonis"
+    ],
+    "🤏🏾": [
+        "nedaudz",
+        "roka rāda drusciņu",
+        "roka rāda drusciņu: vidēji tumšs ādas tonis",
+        "vidēji tumšs ādas tonis"
+    ],
+    "🤏🏿": [
+        "nedaudz",
+        "roka rāda drusciņu",
+        "roka rāda drusciņu: tumšs ādas tonis",
+        "tumšs ādas tonis"
+    ],
     "✌️": [
         "roka",
         "uzvara",
@@ -1325,37 +1373,37 @@
     "🤟🏻": [
         "EMT",
         "gaišs ādas tonis",
-        "roka",
-        "žests mīlu",
-        "žests mīlu: gaišs ādas tonis"
+        "mīlas žests",
+        "mīlas žests: gaišs ādas tonis",
+        "roka"
     ],
     "🤟🏼": [
         "EMT",
+        "mīlas žests",
+        "mīlas žests: vidēji gaišs ādas tonis",
         "roka",
-        "vidēji gaišs ādas tonis",
-        "žests mīlu",
-        "žests mīlu: vidēji gaišs ādas tonis"
+        "vidēji gaišs ādas tonis"
     ],
     "🤟🏽": [
         "EMT",
+        "mīlas žests",
+        "mīlas žests: vidējs ādas tonis",
         "roka",
-        "vidējs ādas tonis",
-        "žests mīlu",
-        "žests mīlu: vidējs ādas tonis"
+        "vidējs ādas tonis"
     ],
     "🤟🏾": [
         "EMT",
+        "mīlas žests",
+        "mīlas žests: vidēji tumšs ādas tonis",
         "roka",
-        "vidēji tumšs ādas tonis",
-        "žests mīlu",
-        "žests mīlu: vidēji tumšs ādas tonis"
+        "vidēji tumšs ādas tonis"
     ],
     "🤟🏿": [
         "EMT",
+        "mīlas žests",
+        "mīlas žests: tumšs ādas tonis",
         "roka",
-        "tumšs ādas tonis",
-        "žests mīlu",
-        "žests mīlu: tumšs ādas tonis"
+        "tumšs ādas tonis"
     ],
     "🤘": [
         "Dio",
@@ -2578,6 +2626,16 @@
         "tumšs ādas tonis",
         "ķermenis"
     ],
+    "🦾": [
+        "mehāniska roka",
+        "pieejamība",
+        "protēzes"
+    ],
+    "🦿": [
+        "mehāniska kāja",
+        "pieejamība",
+        "protēzes"
+    ],
     "🦵": [
         "ekstremitāte",
         "kāja",
@@ -2685,6 +2743,46 @@
         "auss: tumšs ādas tonis",
         "tumšs ādas tonis",
         "ķermenis"
+    ],
+    "🦻": [
+        "apgrūtināta dzirde",
+        "auss ar dzirdes aparātu",
+        "pieejamība"
+    ],
+    "🦻🏻": [
+        "apgrūtināta dzirde",
+        "auss ar dzirdes aparātu",
+        "auss ar dzirdes aparātu: gaišs ādas tonis",
+        "gaišs ādas tonis",
+        "pieejamība"
+    ],
+    "🦻🏼": [
+        "apgrūtināta dzirde",
+        "auss ar dzirdes aparātu",
+        "auss ar dzirdes aparātu: vidēji gaišs ādas tonis",
+        "pieejamība",
+        "vidēji gaišs ādas tonis"
+    ],
+    "🦻🏽": [
+        "apgrūtināta dzirde",
+        "auss ar dzirdes aparātu",
+        "auss ar dzirdes aparātu: vidējs ādas tonis",
+        "pieejamība",
+        "vidējs ādas tonis"
+    ],
+    "🦻🏾": [
+        "apgrūtināta dzirde",
+        "auss ar dzirdes aparātu",
+        "auss ar dzirdes aparātu: vidēji tumšs ādas tonis",
+        "pieejamība",
+        "vidēji tumšs ādas tonis"
+    ],
+    "🦻🏿": [
+        "apgrūtināta dzirde",
+        "auss ar dzirdes aparātu",
+        "auss ar dzirdes aparātu: tumšs ādas tonis",
+        "pieejamība",
+        "tumšs ādas tonis"
     ],
     "👃": [
         "deguns",
@@ -2804,37 +2902,42 @@
         "jauns"
     ],
     "🧒🏻": [
+        "bezdzimuma",
         "bērns",
         "bērns: gaišs ādas tonis",
-        "dzimuma neitrāls",
+        "dzimumneitrāls",
         "gaišs ādas tonis",
         "jauns"
     ],
     "🧒🏼": [
+        "bezdzimuma",
         "bērns",
         "bērns: vidēji gaišs ādas tonis",
-        "dzimuma neitrāls",
+        "dzimumneitrāls",
         "jauns",
         "vidēji gaišs ādas tonis"
     ],
     "🧒🏽": [
+        "bezdzimuma",
         "bērns",
         "bērns: vidējs ādas tonis",
-        "dzimuma neitrāls",
+        "dzimumneitrāls",
         "jauns",
         "vidējs ādas tonis"
     ],
     "🧒🏾": [
+        "bezdzimuma",
         "bērns",
         "bērns: vidēji tumšs ādas tonis",
-        "dzimuma neitrāls",
+        "dzimumneitrāls",
         "jauns",
         "vidēji tumšs ādas tonis"
     ],
     "🧒🏿": [
+        "bezdzimuma",
         "bērns",
         "bērns: tumšs ādas tonis",
-        "dzimuma neitrāls",
+        "dzimumneitrāls",
         "jauns",
         "tumšs ādas tonis"
     ],
@@ -2930,31 +3033,36 @@
         "pieaugušais"
     ],
     "🧑🏻": [
-        "dzimuma neitrāls",
+        "bezdzimuma",
+        "dzimumneitrāls",
         "gaišs ādas tonis",
         "pieaugušais",
         "pieaugušais: gaišs ādas tonis"
     ],
     "🧑🏼": [
-        "dzimuma neitrāls",
+        "bezdzimuma",
+        "dzimumneitrāls",
         "pieaugušais",
         "pieaugušais: vidēji gaišs ādas tonis",
         "vidēji gaišs ādas tonis"
     ],
     "🧑🏽": [
-        "dzimuma neitrāls",
+        "bezdzimuma",
+        "dzimumneitrāls",
         "pieaugušais",
         "pieaugušais: vidējs ādas tonis",
         "vidējs ādas tonis"
     ],
     "🧑🏾": [
-        "dzimuma neitrāls",
+        "bezdzimuma",
+        "dzimumneitrāls",
         "pieaugušais",
         "pieaugušais: vidēji tumšs ādas tonis",
         "vidēji tumšs ādas tonis"
     ],
     "🧑🏿": [
-        "dzimuma neitrāls",
+        "bezdzimuma",
+        "dzimumneitrāls",
         "pieaugušais",
         "pieaugušais: tumšs ādas tonis",
         "tumšs ādas tonis"
@@ -3047,37 +3155,49 @@
     ],
     "🧔": [
         "bārda",
-        "bārdaina persona"
+        "bārdaina persona",
+        "persona",
+        "vīrietis"
     ],
     "🧔🏻": [
         "bārda",
         "bārdaina persona",
         "bārdaina persona: gaišs ādas tonis",
-        "gaišs ādas tonis"
+        "gaišs ādas tonis",
+        "persona",
+        "vīrietis"
     ],
     "🧔🏼": [
         "bārda",
         "bārdaina persona",
         "bārdaina persona: vidēji gaišs ādas tonis",
-        "vidēji gaišs ādas tonis"
+        "persona",
+        "vidēji gaišs ādas tonis",
+        "vīrietis"
     ],
     "🧔🏽": [
         "bārda",
         "bārdaina persona",
         "bārdaina persona: vidējs ādas tonis",
-        "vidējs ādas tonis"
+        "persona",
+        "vidējs ādas tonis",
+        "vīrietis"
     ],
     "🧔🏾": [
         "bārda",
         "bārdaina persona",
         "bārdaina persona: vidēji tumšs ādas tonis",
-        "vidēji tumšs ādas tonis"
+        "persona",
+        "vidēji tumšs ādas tonis",
+        "vīrietis"
     ],
     "🧔🏿": [
         "bārda",
         "bārdaina persona",
         "bārdaina persona: tumšs ādas tonis",
-        "tumšs ādas tonis"
+        "persona",
+        "tumšs ādas tonis",
+        "vīrietis"
     ],
     "👱‍♂": [
         "blondīns",
@@ -3378,30 +3498,40 @@
         "sieviete"
     ],
     "👱🏻‍♀": [
+        "blonda",
+        "blondi mati",
         "blondīne",
         "blondīne: gaišs ādas tonis",
         "gaišs ādas tonis",
         "sieviete"
     ],
     "👱🏼‍♀": [
+        "blonda",
+        "blondi mati",
         "blondīne",
         "blondīne: vidēji gaišs ādas tonis",
         "sieviete",
         "vidēji gaišs ādas tonis"
     ],
     "👱🏽‍♀": [
+        "blonda",
+        "blondi mati",
         "blondīne",
         "blondīne: vidējs ādas tonis",
         "sieviete",
         "vidējs ādas tonis"
     ],
     "👱🏾‍♀": [
+        "blonda",
+        "blondi mati",
         "blondīne",
         "blondīne: vidēji tumšs ādas tonis",
         "sieviete",
         "vidēji tumšs ādas tonis"
     ],
     "👱🏿‍♀": [
+        "blonda",
+        "blondi mati",
         "blondīne",
         "blondīne: tumšs ādas tonis",
         "sieviete",
@@ -3626,35 +3756,40 @@
         "vecāks pieaugušais"
     ],
     "🧓🏻": [
-        "dzimuma neitrāls",
+        "bezdzimuma",
+        "dzimumneitrāls",
         "gaišs ādas tonis",
         "vecs",
         "vecāks pieaugušais",
         "vecāks pieaugušais: gaišs ādas tonis"
     ],
     "🧓🏼": [
-        "dzimuma neitrāls",
+        "bezdzimuma",
+        "dzimumneitrāls",
         "vecs",
         "vecāks pieaugušais",
         "vecāks pieaugušais: vidēji gaišs ādas tonis",
         "vidēji gaišs ādas tonis"
     ],
     "🧓🏽": [
-        "dzimuma neitrāls",
+        "bezdzimuma",
+        "dzimumneitrāls",
         "vecs",
         "vecāks pieaugušais",
         "vecāks pieaugušais: vidējs ādas tonis",
         "vidējs ādas tonis"
     ],
     "🧓🏾": [
-        "dzimuma neitrāls",
+        "bezdzimuma",
+        "dzimumneitrāls",
         "vecs",
         "vecāks pieaugušais",
         "vecāks pieaugušais: vidēji tumšs ādas tonis",
         "vidēji tumšs ādas tonis"
     ],
     "🧓🏿": [
-        "dzimuma neitrāls",
+        "bezdzimuma",
+        "dzimumneitrāls",
         "tumšs ādas tonis",
         "vecs",
         "vecāks pieaugušais",
@@ -4351,40 +4486,45 @@
     "💁🏻": [
         "gaišs ādas tonis",
         "informācija",
-        "informācijas centra darbinieks",
-        "informācijas centra darbinieks: gaišs ādas tonis",
         "palīdzība",
+        "pastiept",
+        "persona ar pastieptu roku",
+        "persona ar pastieptu roku: gaišs ādas tonis",
         "roka"
     ],
     "💁🏼": [
         "informācija",
-        "informācijas centra darbinieks",
-        "informācijas centra darbinieks: vidēji gaišs ādas tonis",
         "palīdzība",
+        "pastiept",
+        "persona ar pastieptu roku",
+        "persona ar pastieptu roku: vidēji gaišs ādas tonis",
         "roka",
         "vidēji gaišs ādas tonis"
     ],
     "💁🏽": [
         "informācija",
-        "informācijas centra darbinieks",
-        "informācijas centra darbinieks: vidējs ādas tonis",
         "palīdzība",
+        "pastiept",
+        "persona ar pastieptu roku",
+        "persona ar pastieptu roku: vidējs ādas tonis",
         "roka",
         "vidējs ādas tonis"
     ],
     "💁🏾": [
         "informācija",
-        "informācijas centra darbinieks",
-        "informācijas centra darbinieks: vidēji tumšs ādas tonis",
         "palīdzība",
+        "pastiept",
+        "persona ar pastieptu roku",
+        "persona ar pastieptu roku: vidēji tumšs ādas tonis",
         "roka",
         "vidēji tumšs ādas tonis"
     ],
     "💁🏿": [
         "informācija",
-        "informācijas centra darbinieks",
-        "informācijas centra darbinieks: tumšs ādas tonis",
         "palīdzība",
+        "pastiept",
+        "persona ar pastieptu roku",
+        "persona ar pastieptu roku: tumšs ādas tonis",
         "roka",
         "tumšs ādas tonis"
     ],
@@ -4398,40 +4538,40 @@
         "bezkaunība",
         "gaišs ādas tonis",
         "vīrietis",
-        "vīrietis stiepj roku",
-        "vīrietis stiepj roku: gaišs ādas tonis",
+        "vīrietis ar pastieptu roku",
+        "vīrietis ar pastieptu roku: gaišs ādas tonis",
         "žests"
     ],
     "💁🏼‍♂": [
         "bezkaunība",
         "vidēji gaišs ādas tonis",
         "vīrietis",
-        "vīrietis stiepj roku",
-        "vīrietis stiepj roku: vidēji gaišs ādas tonis",
+        "vīrietis ar pastieptu roku",
+        "vīrietis ar pastieptu roku: vidēji gaišs ādas tonis",
         "žests"
     ],
     "💁🏽‍♂": [
         "bezkaunība",
         "vidējs ādas tonis",
         "vīrietis",
-        "vīrietis stiepj roku",
-        "vīrietis stiepj roku: vidējs ādas tonis",
+        "vīrietis ar pastieptu roku",
+        "vīrietis ar pastieptu roku: vidējs ādas tonis",
         "žests"
     ],
     "💁🏾‍♂": [
         "bezkaunība",
         "vidēji tumšs ādas tonis",
         "vīrietis",
-        "vīrietis stiepj roku",
-        "vīrietis stiepj roku: vidēji tumšs ādas tonis",
+        "vīrietis ar pastieptu roku",
+        "vīrietis ar pastieptu roku: vidēji tumšs ādas tonis",
         "žests"
     ],
     "💁🏿‍♂": [
         "bezkaunība",
         "tumšs ādas tonis",
         "vīrietis",
-        "vīrietis stiepj roku",
-        "vīrietis stiepj roku: tumšs ādas tonis",
+        "vīrietis ar pastieptu roku",
+        "vīrietis ar pastieptu roku: tumšs ādas tonis",
         "žests"
     ],
     "💁‍♀": [
@@ -4444,39 +4584,39 @@
         "bezkaunība",
         "gaišs ādas tonis",
         "sieviete",
-        "sieviete stiepj roku",
-        "sieviete stiepj roku: gaišs ādas tonis",
+        "sieviete ar pastieptu roku",
+        "sieviete ar pastieptu roku: gaišs ādas tonis",
         "žests"
     ],
     "💁🏼‍♀": [
         "bezkaunība",
         "sieviete",
-        "sieviete stiepj roku",
-        "sieviete stiepj roku: vidēji gaišs ādas tonis",
+        "sieviete ar pastieptu roku",
+        "sieviete ar pastieptu roku: vidēji gaišs ādas tonis",
         "vidēji gaišs ādas tonis",
         "žests"
     ],
     "💁🏽‍♀": [
         "bezkaunība",
         "sieviete",
-        "sieviete stiepj roku",
-        "sieviete stiepj roku: vidējs ādas tonis",
+        "sieviete ar pastieptu roku",
+        "sieviete ar pastieptu roku: vidējs ādas tonis",
         "vidējs ādas tonis",
         "žests"
     ],
     "💁🏾‍♀": [
         "bezkaunība",
         "sieviete",
-        "sieviete stiepj roku",
-        "sieviete stiepj roku: vidēji tumšs ādas tonis",
+        "sieviete ar pastieptu roku",
+        "sieviete ar pastieptu roku: vidēji tumšs ādas tonis",
         "vidēji tumšs ādas tonis",
         "žests"
     ],
     "💁🏿‍♀": [
         "bezkaunība",
         "sieviete",
-        "sieviete stiepj roku",
-        "sieviete stiepj roku: tumšs ādas tonis",
+        "sieviete ar pastieptu roku",
+        "sieviete ar pastieptu roku: tumšs ādas tonis",
         "tumšs ādas tonis",
         "žests"
     ],
@@ -4623,6 +4763,128 @@
         "sieviete ar paceltu roku: tumšs ādas tonis",
         "tumšs ādas tonis",
         "žests"
+    ],
+    "🧏": [
+        "auss",
+        "dzirde",
+        "nedzirdīga persona",
+        "nedzirdīgs",
+        "pieejamība"
+    ],
+    "🧏🏻": [
+        "auss",
+        "dzirde",
+        "gaišs ādas tonis",
+        "nedzirdīga persona",
+        "nedzirdīga persona: gaišs ādas tonis",
+        "nedzirdīgs",
+        "pieejamība"
+    ],
+    "🧏🏼": [
+        "auss",
+        "dzirde",
+        "nedzirdīga persona",
+        "nedzirdīga persona: vidēji gaišs ādas tonis",
+        "nedzirdīgs",
+        "pieejamība",
+        "vidēji gaišs ādas tonis"
+    ],
+    "🧏🏽": [
+        "auss",
+        "dzirde",
+        "nedzirdīga persona",
+        "nedzirdīga persona: vidējs ādas tonis",
+        "nedzirdīgs",
+        "pieejamība",
+        "vidējs ādas tonis"
+    ],
+    "🧏🏾": [
+        "auss",
+        "dzirde",
+        "nedzirdīga persona",
+        "nedzirdīga persona: vidēji tumšs ādas tonis",
+        "nedzirdīgs",
+        "pieejamība",
+        "vidēji tumšs ādas tonis"
+    ],
+    "🧏🏿": [
+        "auss",
+        "dzirde",
+        "nedzirdīga persona",
+        "nedzirdīga persona: tumšs ādas tonis",
+        "nedzirdīgs",
+        "pieejamība",
+        "tumšs ādas tonis"
+    ],
+    "🧏‍♂": [
+        "nedzirdīgs",
+        "nedzirdīgs vīrietis",
+        "vīrietis"
+    ],
+    "🧏🏻‍♂": [
+        "gaišs ādas tonis",
+        "nedzirdīgs",
+        "nedzirdīgs vīrietis: gaišs ādas tonis",
+        "vīrietis"
+    ],
+    "🧏🏼‍♂": [
+        "nedzirdīgs",
+        "nedzirdīgs vīrietis: vidēji gaišs ādas tonis",
+        "vidēji gaišs ādas tonis",
+        "vīrietis"
+    ],
+    "🧏🏽‍♂": [
+        "nedzirdīgs",
+        "nedzirdīgs vīrietis: vidējs ādas tonis",
+        "vidējs ādas tonis",
+        "vīrietis"
+    ],
+    "🧏🏾‍♂": [
+        "nedzirdīgs",
+        "nedzirdīgs vīrietis: vidēji tumšs ādas tonis",
+        "vidēji tumšs ādas tonis",
+        "vīrietis"
+    ],
+    "🧏🏿‍♂": [
+        "nedzirdīgs",
+        "nedzirdīgs vīrietis: tumšs ādas tonis",
+        "tumšs ādas tonis",
+        "vīrietis"
+    ],
+    "🧏‍♀": [
+        "nedzirdīga",
+        "nedzirdīga sieviete",
+        "sieviete"
+    ],
+    "🧏🏻‍♀": [
+        "gaišs ādas tonis",
+        "nedzirdīga",
+        "nedzirdīga sieviete: gaišs ādas tonis",
+        "sieviete"
+    ],
+    "🧏🏼‍♀": [
+        "nedzirdīga",
+        "nedzirdīga sieviete: vidēji gaišs ādas tonis",
+        "sieviete",
+        "vidēji gaišs ādas tonis"
+    ],
+    "🧏🏽‍♀": [
+        "nedzirdīga",
+        "nedzirdīga sieviete: vidējs ādas tonis",
+        "sieviete",
+        "vidējs ādas tonis"
+    ],
+    "🧏🏾‍♀": [
+        "nedzirdīga",
+        "nedzirdīga sieviete: vidēji tumšs ādas tonis",
+        "sieviete",
+        "vidēji tumšs ādas tonis"
+    ],
+    "🧏🏿‍♀": [
+        "nedzirdīga",
+        "nedzirdīga sieviete: tumšs ādas tonis",
+        "sieviete",
+        "tumšs ādas tonis"
     ],
     "🙇": [
         "atvainošanās",
@@ -5093,45 +5355,50 @@
         "dakteris",
         "gaišs ādas tonis",
         "terapeits",
+        "veselības aprūpes speciālists",
+        "veselības aprūpes speciālists: gaišs ādas tonis",
         "vīrietis",
-        "ārsts",
-        "ārsts: gaišs ādas tonis"
+        "ārsts"
     ],
     "👨🏼‍⚕": [
         "brālītis",
         "dakteris",
         "terapeits",
+        "veselības aprūpes speciālists",
+        "veselības aprūpes speciālists: vidēji gaišs ādas tonis",
         "vidēji gaišs ādas tonis",
         "vīrietis",
-        "ārsts",
-        "ārsts: vidēji gaišs ādas tonis"
+        "ārsts"
     ],
     "👨🏽‍⚕": [
         "brālītis",
         "dakteris",
         "terapeits",
+        "veselības aprūpes speciālists",
+        "veselības aprūpes speciālists: vidējs ādas tonis",
         "vidējs ādas tonis",
         "vīrietis",
-        "ārsts",
-        "ārsts: vidējs ādas tonis"
+        "ārsts"
     ],
     "👨🏾‍⚕": [
         "brālītis",
         "dakteris",
         "terapeits",
+        "veselības aprūpes speciālists",
+        "veselības aprūpes speciālists: vidēji tumšs ādas tonis",
         "vidēji tumšs ādas tonis",
         "vīrietis",
-        "ārsts",
-        "ārsts: vidēji tumšs ādas tonis"
+        "ārsts"
     ],
     "👨🏿‍⚕": [
         "brālītis",
         "dakteris",
         "terapeits",
         "tumšs ādas tonis",
+        "veselības aprūpes speciālists",
+        "veselības aprūpes speciālists: tumšs ādas tonis",
         "vīrietis",
-        "ārsts",
-        "ārsts: tumšs ādas tonis"
+        "ārsts"
     ],
     "👩‍⚕": [
         "daktere",
@@ -5147,35 +5414,39 @@
         "medmāsa",
         "sieviete",
         "terapeite",
-        "ārste",
-        "ārste: gaišs ādas tonis"
+        "veselības aprūpes speciāliste",
+        "veselības aprūpes speciāliste: gaišs ādas tonis",
+        "ārste"
     ],
     "👩🏼‍⚕": [
         "daktere",
         "medmāsa",
         "sieviete",
         "terapeite",
+        "veselības aprūpes speciāliste",
+        "veselības aprūpes speciāliste: vidēji gaišs ādas tonis",
         "vidēji gaišs ādas tonis",
-        "ārste",
-        "ārste: vidēji gaišs ādas tonis"
+        "ārste"
     ],
     "👩🏽‍⚕": [
         "daktere",
         "medmāsa",
         "sieviete",
         "terapeite",
+        "veselības aprūpes speciāliste",
+        "veselības aprūpes speciāliste: vidējs ādas tonis",
         "vidējs ādas tonis",
-        "ārste",
-        "ārste: vidējs ādas tonis"
+        "ārste"
     ],
     "👩🏾‍⚕": [
         "daktere",
         "medmāsa",
         "sieviete",
         "terapeite",
+        "veselības aprūpes speciāliste",
+        "veselības aprūpes speciāliste: vidēji tumšs ādas tonis",
         "vidēji tumšs ādas tonis",
-        "ārste",
-        "ārste: vidēji tumšs ādas tonis"
+        "ārste"
     ],
     "👩🏿‍⚕": [
         "daktere",
@@ -5183,8 +5454,9 @@
         "sieviete",
         "terapeite",
         "tumšs ādas tonis",
-        "ārste",
-        "ārste: tumšs ādas tonis"
+        "veselības aprūpes speciāliste",
+        "veselības aprūpes speciāliste: tumšs ādas tonis",
+        "ārste"
     ],
     "👨‍🎓": [
         "absolvents",
@@ -5710,42 +5982,47 @@
         "vīrietis"
     ],
     "👨🏻‍🏭": [
+        "fabrikas strādnieks",
+        "fabrikas strādnieks: gaišs ādas tonis",
         "gaišs ādas tonis",
         "ražošana",
         "rūpnīca",
         "strādnieks",
-        "strādnieks: gaišs ādas tonis",
         "vīrietis"
     ],
     "👨🏼‍🏭": [
+        "fabrikas strādnieks",
+        "fabrikas strādnieks: vidēji gaišs ādas tonis",
         "ražošana",
         "rūpnīca",
         "strādnieks",
-        "strādnieks: vidēji gaišs ādas tonis",
         "vidēji gaišs ādas tonis",
         "vīrietis"
     ],
     "👨🏽‍🏭": [
+        "fabrikas strādnieks",
+        "fabrikas strādnieks: vidējs ādas tonis",
         "ražošana",
         "rūpnīca",
         "strādnieks",
-        "strādnieks: vidējs ādas tonis",
         "vidējs ādas tonis",
         "vīrietis"
     ],
     "👨🏾‍🏭": [
+        "fabrikas strādnieks",
+        "fabrikas strādnieks: vidēji tumšs ādas tonis",
         "ražošana",
         "rūpnīca",
         "strādnieks",
-        "strādnieks: vidēji tumšs ādas tonis",
         "vidēji tumšs ādas tonis",
         "vīrietis"
     ],
     "👨🏿‍🏭": [
+        "fabrikas strādnieks",
+        "fabrikas strādnieks: tumšs ādas tonis",
         "ražošana",
         "rūpnīca",
         "strādnieks",
-        "strādnieks: tumšs ādas tonis",
         "tumšs ādas tonis",
         "vīrietis"
     ],
@@ -5757,43 +6034,48 @@
         "strādniece"
     ],
     "👩🏻‍🏭": [
+        "fabrikas strādniece",
+        "fabrikas strādniece: gaišs ādas tonis",
         "gaišs ādas tonis",
         "ražošana",
         "rūpnīca",
         "sieviete",
-        "strādniece",
-        "strādniece: gaišs ādas tonis"
+        "strādniece"
     ],
     "👩🏼‍🏭": [
+        "fabrikas strādniece",
+        "fabrikas strādniece: vidēji gaišs ādas tonis",
         "ražošana",
         "rūpnīca",
         "sieviete",
         "strādniece",
-        "strādniece: vidēji gaišs ādas tonis",
         "vidēji gaišs ādas tonis"
     ],
     "👩🏽‍🏭": [
+        "fabrikas strādniece",
+        "fabrikas strādniece: vidējs ādas tonis",
         "ražošana",
         "rūpnīca",
         "sieviete",
         "strādniece",
-        "strādniece: vidējs ādas tonis",
         "vidējs ādas tonis"
     ],
     "👩🏾‍🏭": [
+        "fabrikas strādniece",
+        "fabrikas strādniece: vidēji tumšs ādas tonis",
         "ražošana",
         "rūpnīca",
         "sieviete",
         "strādniece",
-        "strādniece: vidēji tumšs ādas tonis",
         "vidēji tumšs ādas tonis"
     ],
     "👩🏿‍🏭": [
+        "fabrikas strādniece",
+        "fabrikas strādniece: tumšs ādas tonis",
         "ražošana",
         "rūpnīca",
         "sieviete",
         "strādniece",
-        "strādniece: tumšs ādas tonis",
         "tumšs ādas tonis"
     ],
     "👨‍💼": [
@@ -6599,33 +6881,38 @@
     ],
     "👮🏻": [
         "gaišs ādas tonis",
+        "policija",
         "policists",
         "policists: gaišs ādas tonis",
-        "seja"
+        "virsnieks"
     ],
     "👮🏼": [
+        "policija",
         "policists",
         "policists: vidēji gaišs ādas tonis",
-        "seja",
-        "vidēji gaišs ādas tonis"
+        "vidēji gaišs ādas tonis",
+        "virsnieks"
     ],
     "👮🏽": [
+        "policija",
         "policists",
         "policists: vidējs ādas tonis",
-        "seja",
-        "vidējs ādas tonis"
+        "vidējs ādas tonis",
+        "virsnieks"
     ],
     "👮🏾": [
+        "policija",
         "policists",
         "policists: vidēji tumšs ādas tonis",
-        "seja",
-        "vidēji tumšs ādas tonis"
+        "vidēji tumšs ādas tonis",
+        "virsnieks"
     ],
     "👮🏿": [
+        "policija",
         "policists",
         "policists: tumšs ādas tonis",
-        "seja",
-        "tumšs ādas tonis"
+        "tumšs ādas tonis",
+        "virsnieks"
     ],
     "👮‍♂": [
         "policija",
@@ -6774,43 +7061,48 @@
     ],
     "🕵🏻‍♂": [
         "detektīvs",
+        "detektīvs (vīrietis)",
+        "detektīvs (vīrietis): gaišs ādas tonis",
         "gaišs ādas tonis",
         "spiegs",
         "vīrietis",
-        "vīrietis izmeklē",
-        "vīrietis izmeklē: gaišs ādas tonis"
+        "vīrietis izmeklē"
     ],
     "🕵🏼‍♂": [
         "detektīvs",
+        "detektīvs (vīrietis)",
+        "detektīvs (vīrietis): vidēji gaišs ādas tonis",
         "spiegs",
         "vidēji gaišs ādas tonis",
         "vīrietis",
-        "vīrietis izmeklē",
-        "vīrietis izmeklē: vidēji gaišs ādas tonis"
+        "vīrietis izmeklē"
     ],
     "🕵🏽‍♂": [
         "detektīvs",
+        "detektīvs (vīrietis)",
+        "detektīvs (vīrietis): vidējs ādas tonis",
         "spiegs",
         "vidējs ādas tonis",
         "vīrietis",
-        "vīrietis izmeklē",
-        "vīrietis izmeklē: vidējs ādas tonis"
+        "vīrietis izmeklē"
     ],
     "🕵🏾‍♂": [
         "detektīvs",
+        "detektīvs (vīrietis)",
+        "detektīvs (vīrietis): vidēji tumšs ādas tonis",
         "spiegs",
         "vidēji tumšs ādas tonis",
         "vīrietis",
-        "vīrietis izmeklē",
-        "vīrietis izmeklē: vidēji tumšs ādas tonis"
+        "vīrietis izmeklē"
     ],
     "🕵🏿‍♂": [
         "detektīvs",
+        "detektīvs (vīrietis)",
+        "detektīvs (vīrietis): tumšs ādas tonis",
         "spiegs",
         "tumšs ādas tonis",
         "vīrietis",
-        "vīrietis izmeklē",
-        "vīrietis izmeklē: tumšs ādas tonis"
+        "vīrietis izmeklē"
     ],
     "🕵‍♀": [
         "detektīve",
@@ -7013,36 +7305,41 @@
         "vīrietis"
     ],
     "👷🏻‍♂": [
+        "būvstrādnieks",
+        "būvstrādnieks: gaišs ādas tonis",
+        "celtnieks",
         "gaišs ādas tonis",
-        "inženieris",
-        "inženieris: gaišs ādas tonis",
         "strādnieks",
         "vīrietis"
     ],
     "👷🏼‍♂": [
-        "inženieris",
-        "inženieris: vidēji gaišs ādas tonis",
+        "būvstrādnieks",
+        "būvstrādnieks: vidēji gaišs ādas tonis",
+        "celtnieks",
         "strādnieks",
         "vidēji gaišs ādas tonis",
         "vīrietis"
     ],
     "👷🏽‍♂": [
-        "inženieris",
-        "inženieris: vidējs ādas tonis",
+        "būvstrādnieks",
+        "būvstrādnieks: vidējs ādas tonis",
+        "celtnieks",
         "strādnieks",
         "vidējs ādas tonis",
         "vīrietis"
     ],
     "👷🏾‍♂": [
-        "inženieris",
-        "inženieris: vidēji tumšs ādas tonis",
+        "būvstrādnieks",
+        "būvstrādnieks: vidēji tumšs ādas tonis",
+        "celtnieks",
         "strādnieks",
         "vidēji tumšs ādas tonis",
         "vīrietis"
     ],
     "👷🏿‍♂": [
-        "inženieris",
-        "inženieris: tumšs ādas tonis",
+        "būvstrādnieks",
+        "būvstrādnieks: tumšs ādas tonis",
+        "celtnieks",
         "strādnieks",
         "tumšs ādas tonis",
         "vīrietis"
@@ -7054,36 +7351,41 @@
         "strādniece"
     ],
     "👷🏻‍♀": [
+        "būvstrādniece",
+        "būvstrādniece: gaišs ādas tonis",
+        "celtniece",
         "gaišs ādas tonis",
-        "inženiere",
-        "inženiere: gaišs ādas tonis",
         "sieviete",
         "strādniece"
     ],
     "👷🏼‍♀": [
-        "inženiere",
-        "inženiere: vidēji gaišs ādas tonis",
+        "būvstrādniece",
+        "būvstrādniece: vidēji gaišs ādas tonis",
+        "celtniece",
         "sieviete",
         "strādniece",
         "vidēji gaišs ādas tonis"
     ],
     "👷🏽‍♀": [
-        "inženiere",
-        "inženiere: vidējs ādas tonis",
+        "būvstrādniece",
+        "būvstrādniece: vidējs ādas tonis",
+        "celtniece",
         "sieviete",
         "strādniece",
         "vidējs ādas tonis"
     ],
     "👷🏾‍♀": [
-        "inženiere",
-        "inženiere: vidēji tumšs ādas tonis",
+        "būvstrādniece",
+        "būvstrādniece: vidēji tumšs ādas tonis",
+        "celtniece",
         "sieviete",
         "strādniece",
         "vidēji tumšs ādas tonis"
     ],
     "👷🏿‍♀": [
-        "inženiere",
-        "inženiere: tumšs ādas tonis",
+        "būvstrādniece",
+        "būvstrādniece: tumšs ādas tonis",
+        "celtniece",
         "sieviete",
         "strādniece",
         "tumšs ādas tonis"
@@ -7122,38 +7424,38 @@
         "princese"
     ],
     "👸🏻": [
+        "fantāzija",
         "gaišs ādas tonis",
         "pasaka",
         "princese",
-        "princese: gaišs ādas tonis",
-        "seja"
+        "princese: gaišs ādas tonis"
     ],
     "👸🏼": [
+        "fantāzija",
         "pasaka",
         "princese",
         "princese: vidēji gaišs ādas tonis",
-        "seja",
         "vidēji gaišs ādas tonis"
     ],
     "👸🏽": [
+        "fantāzija",
         "pasaka",
         "princese",
         "princese: vidējs ādas tonis",
-        "seja",
         "vidējs ādas tonis"
     ],
     "👸🏾": [
+        "fantāzija",
         "pasaka",
         "princese",
         "princese: vidēji tumšs ādas tonis",
-        "seja",
         "vidēji tumšs ādas tonis"
     ],
     "👸🏿": [
+        "fantāzija",
         "pasaka",
         "princese",
         "princese: tumšs ādas tonis",
-        "seja",
         "tumšs ādas tonis"
     ],
     "👳": [
@@ -8185,35 +8487,40 @@
         "Oberons",
         "Paks",
         "gaišs ādas tonis",
-        "pasaku burvis",
-        "pasaku burvis: gaišs ādas tonis"
+        "laumiņš",
+        "laumiņš: gaišs ādas tonis",
+        "pasaku burvis"
     ],
     "🧚🏼‍♂": [
         "Oberons",
         "Paks",
+        "laumiņš",
+        "laumiņš: vidēji gaišs ādas tonis",
         "pasaku burvis",
-        "pasaku burvis: vidēji gaišs ādas tonis",
         "vidēji gaišs ādas tonis"
     ],
     "🧚🏽‍♂": [
         "Oberons",
         "Paks",
+        "laumiņš",
+        "laumiņš: vidējs ādas tonis",
         "pasaku burvis",
-        "pasaku burvis: vidējs ādas tonis",
         "vidējs ādas tonis"
     ],
     "🧚🏾‍♂": [
         "Oberons",
         "Paks",
+        "laumiņš",
+        "laumiņš: vidēji tumšs ādas tonis",
         "pasaku burvis",
-        "pasaku burvis: vidēji tumšs ādas tonis",
         "vidēji tumšs ādas tonis"
     ],
     "🧚🏿‍♂": [
         "Oberons",
         "Paks",
+        "laumiņš",
+        "laumiņš: tumšs ādas tonis",
         "pasaku burvis",
-        "pasaku burvis: tumšs ādas tonis",
         "tumšs ādas tonis"
     ],
     "🧚‍♀": [
@@ -8337,32 +8644,32 @@
     "🧛🏻‍♀": [
         "gaišs ādas tonis",
         "nemirstīgs",
-        "sieviete vampīrs",
-        "sieviete vampīrs: gaišs ādas tonis"
+        "vampīre",
+        "vampīre: gaišs ādas tonis"
     ],
     "🧛🏼‍♀": [
         "nemirstīgs",
-        "sieviete vampīrs",
-        "sieviete vampīrs: vidēji gaišs ādas tonis",
+        "vampīre",
+        "vampīre: vidēji gaišs ādas tonis",
         "vidēji gaišs ādas tonis"
     ],
     "🧛🏽‍♀": [
         "nemirstīgs",
-        "sieviete vampīrs",
-        "sieviete vampīrs: vidējs ādas tonis",
+        "vampīre",
+        "vampīre: vidējs ādas tonis",
         "vidējs ādas tonis"
     ],
     "🧛🏾‍♀": [
         "nemirstīgs",
-        "sieviete vampīrs",
-        "sieviete vampīrs: vidēji tumšs ādas tonis",
+        "vampīre",
+        "vampīre: vidēji tumšs ādas tonis",
         "vidēji tumšs ādas tonis"
     ],
     "🧛🏿‍♀": [
         "nemirstīgs",
-        "sieviete vampīrs",
-        "sieviete vampīrs: tumšs ādas tonis",
-        "tumšs ādas tonis"
+        "tumšs ādas tonis",
+        "vampīre",
+        "vampīre: tumšs ādas tonis"
     ],
     "🧜": [
         "cilvēks nāra",
@@ -8371,38 +8678,43 @@
         "nārveidīgs"
     ],
     "🧜🏻": [
+        "cilvēks nāra",
+        "cilvēks nāra: gaišs ādas tonis",
         "gaišs ādas tonis",
         "nāra",
         "nāris",
-        "nārveidīgs",
-        "nārveidīgs: gaišs ādas tonis"
+        "nārveidīgs"
     ],
     "🧜🏼": [
+        "cilvēks nāra",
+        "cilvēks nāra: vidēji gaišs ādas tonis",
         "nāra",
         "nāris",
         "nārveidīgs",
-        "nārveidīgs: vidēji gaišs ādas tonis",
         "vidēji gaišs ādas tonis"
     ],
     "🧜🏽": [
+        "cilvēks nāra",
+        "cilvēks nāra: vidējs ādas tonis",
         "nāra",
         "nāris",
         "nārveidīgs",
-        "nārveidīgs: vidējs ādas tonis",
         "vidējs ādas tonis"
     ],
     "🧜🏾": [
+        "cilvēks nāra",
+        "cilvēks nāra: vidēji tumšs ādas tonis",
         "nāra",
         "nāris",
         "nārveidīgs",
-        "nārveidīgs: vidēji tumšs ādas tonis",
         "vidēji tumšs ādas tonis"
     ],
     "🧜🏿": [
+        "cilvēks nāra",
+        "cilvēks nāra: tumšs ādas tonis",
         "nāra",
         "nāris",
         "nārveidīgs",
-        "nārveidīgs: tumšs ādas tonis",
         "tumšs ādas tonis"
     ],
     "🧜‍♂": [
@@ -8546,33 +8858,33 @@
         "maģiska"
     ],
     "🧝🏻‍♀": [
-        "elfu sieviete",
-        "elfu sieviete: gaišs ādas tonis",
+        "elfa",
+        "elfa: gaišs ādas tonis",
         "gaišs ādas tonis",
-        "maģisks"
+        "maģiska"
     ],
     "🧝🏼‍♀": [
-        "elfu sieviete",
-        "elfu sieviete: vidēji gaišs ādas tonis",
-        "maģisks",
+        "elfa",
+        "elfa: vidēji gaišs ādas tonis",
+        "maģiska",
         "vidēji gaišs ādas tonis"
     ],
     "🧝🏽‍♀": [
-        "elfu sieviete",
-        "elfu sieviete: vidējs ādas tonis",
-        "maģisks",
+        "elfa",
+        "elfa: vidējs ādas tonis",
+        "maģiska",
         "vidējs ādas tonis"
     ],
     "🧝🏾‍♀": [
-        "elfu sieviete",
-        "elfu sieviete: vidēji tumšs ādas tonis",
-        "maģisks",
+        "elfa",
+        "elfa: vidēji tumšs ādas tonis",
+        "maģiska",
         "vidēji tumšs ādas tonis"
     ],
     "🧝🏿‍♀": [
-        "elfu sieviete",
-        "elfu sieviete: tumšs ādas tonis",
-        "maģisks",
+        "elfa",
+        "elfa: tumšs ādas tonis",
+        "maģiska",
         "tumšs ādas tonis"
     ],
     "🧞": [
@@ -9015,6 +9327,522 @@
         "sieviete",
         "sieviete pastaigājas",
         "sieviete pastaigājas: tumšs ādas tonis",
+        "tumšs ādas tonis"
+    ],
+    "🧍": [
+        "stāvoša persona",
+        "stāvēt",
+        "stāvēšana"
+    ],
+    "🧍🏻": [
+        "gaišs ādas tonis",
+        "stāvoša persona",
+        "stāvoša persona: gaišs ādas tonis",
+        "stāvēt",
+        "stāvēšana"
+    ],
+    "🧍🏼": [
+        "stāvoša persona",
+        "stāvoša persona: vidēji gaišs ādas tonis",
+        "stāvēt",
+        "stāvēšana",
+        "vidēji gaišs ādas tonis"
+    ],
+    "🧍🏽": [
+        "stāvoša persona",
+        "stāvoša persona: vidējs ādas tonis",
+        "stāvēt",
+        "stāvēšana",
+        "vidējs ādas tonis"
+    ],
+    "🧍🏾": [
+        "stāvoša persona",
+        "stāvoša persona: vidēji tumšs ādas tonis",
+        "stāvēt",
+        "stāvēšana",
+        "vidēji tumšs ādas tonis"
+    ],
+    "🧍🏿": [
+        "stāvoša persona",
+        "stāvoša persona: tumšs ādas tonis",
+        "stāvēt",
+        "stāvēšana",
+        "tumšs ādas tonis"
+    ],
+    "🧍‍♂": [
+        "stāvošs vīrietis",
+        "stāvēšana",
+        "vīrietis"
+    ],
+    "🧍🏻‍♂": [
+        "gaišs ādas tonis",
+        "stāvošs vīrietis",
+        "stāvošs vīrietis: gaišs ādas tonis",
+        "stāvēšana",
+        "vīrietis"
+    ],
+    "🧍🏼‍♂": [
+        "stāvošs vīrietis",
+        "stāvošs vīrietis: vidēji gaišs ādas tonis",
+        "stāvēšana",
+        "vidēji gaišs ādas tonis",
+        "vīrietis"
+    ],
+    "🧍🏽‍♂": [
+        "stāvošs vīrietis",
+        "stāvošs vīrietis: vidējs ādas tonis",
+        "stāvēšana",
+        "vidējs ādas tonis",
+        "vīrietis"
+    ],
+    "🧍🏾‍♂": [
+        "stāvošs vīrietis",
+        "stāvošs vīrietis: vidēji tumšs ādas tonis",
+        "stāvēšana",
+        "vidēji tumšs ādas tonis",
+        "vīrietis"
+    ],
+    "🧍🏿‍♂": [
+        "stāvošs vīrietis",
+        "stāvošs vīrietis: tumšs ādas tonis",
+        "stāvēšana",
+        "tumšs ādas tonis",
+        "vīrietis"
+    ],
+    "🧍‍♀": [
+        "sieviete",
+        "stāvoša sieviete",
+        "stāvēšana"
+    ],
+    "🧍🏻‍♀": [
+        "gaišs ādas tonis",
+        "sieviete",
+        "stāvoša sieviete",
+        "stāvoša sieviete: gaišs ādas tonis",
+        "stāvēšana"
+    ],
+    "🧍🏼‍♀": [
+        "sieviete",
+        "stāvoša sieviete",
+        "stāvoša sieviete: vidēji gaišs ādas tonis",
+        "stāvēšana",
+        "vidēji gaišs ādas tonis"
+    ],
+    "🧍🏽‍♀": [
+        "sieviete",
+        "stāvoša sieviete",
+        "stāvoša sieviete: vidējs ādas tonis",
+        "stāvēšana",
+        "vidējs ādas tonis"
+    ],
+    "🧍🏾‍♀": [
+        "sieviete",
+        "stāvoša sieviete",
+        "stāvoša sieviete: vidēji tumšs ādas tonis",
+        "stāvēšana",
+        "vidēji tumšs ādas tonis"
+    ],
+    "🧍🏿‍♀": [
+        "sieviete",
+        "stāvoša sieviete",
+        "stāvoša sieviete: tumšs ādas tonis",
+        "stāvēšana",
+        "tumšs ādas tonis"
+    ],
+    "🧎": [
+        "celis",
+        "persona uz ceļiem",
+        "uz ceļiem"
+    ],
+    "🧎🏻": [
+        "celis",
+        "gaišs ādas tonis",
+        "persona uz ceļiem",
+        "persona uz ceļiem: gaišs ādas tonis",
+        "uz ceļiem"
+    ],
+    "🧎🏼": [
+        "celis",
+        "persona uz ceļiem",
+        "persona uz ceļiem: vidēji gaišs ādas tonis",
+        "uz ceļiem",
+        "vidēji gaišs ādas tonis"
+    ],
+    "🧎🏽": [
+        "celis",
+        "persona uz ceļiem",
+        "persona uz ceļiem: vidējs ādas tonis",
+        "uz ceļiem",
+        "vidējs ādas tonis"
+    ],
+    "🧎🏾": [
+        "celis",
+        "persona uz ceļiem",
+        "persona uz ceļiem: vidēji tumšs ādas tonis",
+        "uz ceļiem",
+        "vidēji tumšs ādas tonis"
+    ],
+    "🧎🏿": [
+        "celis",
+        "persona uz ceļiem",
+        "persona uz ceļiem: tumšs ādas tonis",
+        "tumšs ādas tonis",
+        "uz ceļiem"
+    ],
+    "🧎‍♂": [
+        "uz ceļiem",
+        "vīrietis",
+        "vīrietis uz ceļiem"
+    ],
+    "🧎🏻‍♂": [
+        "gaišs ādas tonis",
+        "uz ceļiem",
+        "vīrietis",
+        "vīrietis uz ceļiem",
+        "vīrietis uz ceļiem: gaišs ādas tonis"
+    ],
+    "🧎🏼‍♂": [
+        "uz ceļiem",
+        "vidēji gaišs ādas tonis",
+        "vīrietis",
+        "vīrietis uz ceļiem",
+        "vīrietis uz ceļiem: vidēji gaišs ādas tonis"
+    ],
+    "🧎🏽‍♂": [
+        "uz ceļiem",
+        "vidējs ādas tonis",
+        "vīrietis",
+        "vīrietis uz ceļiem",
+        "vīrietis uz ceļiem: vidējs ādas tonis"
+    ],
+    "🧎🏾‍♂": [
+        "uz ceļiem",
+        "vidēji tumšs ādas tonis",
+        "vīrietis",
+        "vīrietis uz ceļiem",
+        "vīrietis uz ceļiem: vidēji tumšs ādas tonis"
+    ],
+    "🧎🏿‍♂": [
+        "tumšs ādas tonis",
+        "uz ceļiem",
+        "vīrietis",
+        "vīrietis uz ceļiem",
+        "vīrietis uz ceļiem: tumšs ādas tonis"
+    ],
+    "🧎‍♀": [
+        "sieviete",
+        "sieviete uz ceļiem",
+        "uz ceļiem"
+    ],
+    "🧎🏻‍♀": [
+        "gaišs ādas tonis",
+        "sieviete",
+        "sieviete uz ceļiem",
+        "sieviete uz ceļiem: gaišs ādas tonis",
+        "uz ceļiem"
+    ],
+    "🧎🏼‍♀": [
+        "sieviete",
+        "sieviete uz ceļiem",
+        "sieviete uz ceļiem: vidēji gaišs ādas tonis",
+        "uz ceļiem",
+        "vidēji gaišs ādas tonis"
+    ],
+    "🧎🏽‍♀": [
+        "sieviete",
+        "sieviete uz ceļiem",
+        "sieviete uz ceļiem: vidējs ādas tonis",
+        "uz ceļiem",
+        "vidējs ādas tonis"
+    ],
+    "🧎🏾‍♀": [
+        "sieviete",
+        "sieviete uz ceļiem",
+        "sieviete uz ceļiem: vidēji tumšs ādas tonis",
+        "uz ceļiem",
+        "vidēji tumšs ādas tonis"
+    ],
+    "🧎🏿‍♀": [
+        "sieviete",
+        "sieviete uz ceļiem",
+        "sieviete uz ceļiem: tumšs ādas tonis",
+        "tumšs ādas tonis",
+        "uz ceļiem"
+    ],
+    "👨‍🦯": [
+        "akls",
+        "cilvēks",
+        "pieejamība",
+        "vīrietis ar balto atbalsta spieķi"
+    ],
+    "👨🏻‍🦯": [
+        "akls",
+        "cilvēks",
+        "gaišs ādas tonis",
+        "pieejamība",
+        "vīrietis ar balto atbalsta spieķi",
+        "vīrietis ar balto atbalsta spieķi: gaišs ādas tonis"
+    ],
+    "👨🏼‍🦯": [
+        "akls",
+        "cilvēks",
+        "pieejamība",
+        "vidēji gaišs ādas tonis",
+        "vīrietis ar balto atbalsta spieķi",
+        "vīrietis ar balto atbalsta spieķi: vidēji gaišs ādas tonis"
+    ],
+    "👨🏽‍🦯": [
+        "akls",
+        "cilvēks",
+        "pieejamība",
+        "vidējs ādas tonis",
+        "vīrietis ar balto atbalsta spieķi",
+        "vīrietis ar balto atbalsta spieķi: vidējs ādas tonis"
+    ],
+    "👨🏾‍🦯": [
+        "akls",
+        "cilvēks",
+        "pieejamība",
+        "vidēji tumšs ādas tonis",
+        "vīrietis ar balto atbalsta spieķi",
+        "vīrietis ar balto atbalsta spieķi: vidēji tumšs ādas tonis"
+    ],
+    "👨🏿‍🦯": [
+        "akls",
+        "cilvēks",
+        "pieejamība",
+        "tumšs ādas tonis",
+        "vīrietis ar balto atbalsta spieķi",
+        "vīrietis ar balto atbalsta spieķi: tumšs ādas tonis"
+    ],
+    "👩‍🦯": [
+        "akls",
+        "pieejamība",
+        "sieviete",
+        "sieviete ar balto atbalsta spieķi"
+    ],
+    "👩🏻‍🦯": [
+        "akls",
+        "gaišs ādas tonis",
+        "pieejamība",
+        "sieviete",
+        "sieviete ar balto atbalsta spieķi",
+        "sieviete ar balto atbalsta spieķi: gaišs ādas tonis"
+    ],
+    "👩🏼‍🦯": [
+        "akls",
+        "pieejamība",
+        "sieviete",
+        "sieviete ar balto atbalsta spieķi",
+        "sieviete ar balto atbalsta spieķi: vidēji gaišs ādas tonis",
+        "vidēji gaišs ādas tonis"
+    ],
+    "👩🏽‍🦯": [
+        "akls",
+        "pieejamība",
+        "sieviete",
+        "sieviete ar balto atbalsta spieķi",
+        "sieviete ar balto atbalsta spieķi: vidējs ādas tonis",
+        "vidējs ādas tonis"
+    ],
+    "👩🏾‍🦯": [
+        "akls",
+        "pieejamība",
+        "sieviete",
+        "sieviete ar balto atbalsta spieķi",
+        "sieviete ar balto atbalsta spieķi: vidēji tumšs ādas tonis",
+        "vidēji tumšs ādas tonis"
+    ],
+    "👩🏿‍🦯": [
+        "akls",
+        "pieejamība",
+        "sieviete",
+        "sieviete ar balto atbalsta spieķi",
+        "sieviete ar balto atbalsta spieķi: tumšs ādas tonis",
+        "tumšs ādas tonis"
+    ],
+    "👨‍🦼": [
+        "cilvēks",
+        "pieejamība",
+        "ratiņkrēsls",
+        "vīrietis motorizētā ratiņkrēslā"
+    ],
+    "👨🏻‍🦼": [
+        "cilvēks",
+        "gaišs ādas tonis",
+        "pieejamība",
+        "ratiņkrēsls",
+        "vīrietis motorizētā ratiņkrēslā",
+        "vīrietis motorizētā ratiņkrēslā: gaišs ādas tonis"
+    ],
+    "👨🏼‍🦼": [
+        "cilvēks",
+        "pieejamība",
+        "ratiņkrēsls",
+        "vidēji gaišs ādas tonis",
+        "vīrietis motorizētā ratiņkrēslā",
+        "vīrietis motorizētā ratiņkrēslā: vidēji gaišs ādas tonis"
+    ],
+    "👨🏽‍🦼": [
+        "cilvēks",
+        "pieejamība",
+        "ratiņkrēsls",
+        "vidējs ādas tonis",
+        "vīrietis motorizētā ratiņkrēslā",
+        "vīrietis motorizētā ratiņkrēslā: vidējs ādas tonis"
+    ],
+    "👨🏾‍🦼": [
+        "cilvēks",
+        "pieejamība",
+        "ratiņkrēsls",
+        "vidēji tumšs ādas tonis",
+        "vīrietis motorizētā ratiņkrēslā",
+        "vīrietis motorizētā ratiņkrēslā: vidēji tumšs ādas tonis"
+    ],
+    "👨🏿‍🦼": [
+        "cilvēks",
+        "pieejamība",
+        "ratiņkrēsls",
+        "tumšs ādas tonis",
+        "vīrietis motorizētā ratiņkrēslā",
+        "vīrietis motorizētā ratiņkrēslā: tumšs ādas tonis"
+    ],
+    "👩‍🦼": [
+        "pieejamība",
+        "ratiņkrēsls",
+        "sieviete",
+        "sieviete motorizētā ratiņkrēslā"
+    ],
+    "👩🏻‍🦼": [
+        "gaišs ādas tonis",
+        "pieejamība",
+        "ratiņkrēsls",
+        "sieviete",
+        "sieviete motorizētā ratiņkrēslā",
+        "sieviete motorizētā ratiņkrēslā: gaišs ādas tonis"
+    ],
+    "👩🏼‍🦼": [
+        "pieejamība",
+        "ratiņkrēsls",
+        "sieviete",
+        "sieviete motorizētā ratiņkrēslā",
+        "sieviete motorizētā ratiņkrēslā: vidēji gaišs ādas tonis",
+        "vidēji gaišs ādas tonis"
+    ],
+    "👩🏽‍🦼": [
+        "pieejamība",
+        "ratiņkrēsls",
+        "sieviete",
+        "sieviete motorizētā ratiņkrēslā",
+        "sieviete motorizētā ratiņkrēslā: vidējs ādas tonis",
+        "vidējs ādas tonis"
+    ],
+    "👩🏾‍🦼": [
+        "pieejamība",
+        "ratiņkrēsls",
+        "sieviete",
+        "sieviete motorizētā ratiņkrēslā",
+        "sieviete motorizētā ratiņkrēslā: vidēji tumšs ādas tonis",
+        "vidēji tumšs ādas tonis"
+    ],
+    "👩🏿‍🦼": [
+        "pieejamība",
+        "ratiņkrēsls",
+        "sieviete",
+        "sieviete motorizētā ratiņkrēslā",
+        "sieviete motorizētā ratiņkrēslā: tumšs ādas tonis",
+        "tumšs ādas tonis"
+    ],
+    "👨‍🦽": [
+        "pieejamība",
+        "ratiņkrēsls",
+        "vīretis manuālā ratiņkrēslā",
+        "vīrietis"
+    ],
+    "👨🏻‍🦽": [
+        "gaišs ādas tonis",
+        "pieejamība",
+        "ratiņkrēsls",
+        "vīretis manuālā ratiņkrēslā",
+        "vīretis manuālā ratiņkrēslā: gaišs ādas tonis",
+        "vīrietis"
+    ],
+    "👨🏼‍🦽": [
+        "pieejamība",
+        "ratiņkrēsls",
+        "vidēji gaišs ādas tonis",
+        "vīretis manuālā ratiņkrēslā",
+        "vīretis manuālā ratiņkrēslā: vidēji gaišs ādas tonis",
+        "vīrietis"
+    ],
+    "👨🏽‍🦽": [
+        "pieejamība",
+        "ratiņkrēsls",
+        "vidējs ādas tonis",
+        "vīretis manuālā ratiņkrēslā",
+        "vīretis manuālā ratiņkrēslā: vidējs ādas tonis",
+        "vīrietis"
+    ],
+    "👨🏾‍🦽": [
+        "pieejamība",
+        "ratiņkrēsls",
+        "vidēji tumšs ādas tonis",
+        "vīretis manuālā ratiņkrēslā",
+        "vīretis manuālā ratiņkrēslā: vidēji tumšs ādas tonis",
+        "vīrietis"
+    ],
+    "👨🏿‍🦽": [
+        "pieejamība",
+        "ratiņkrēsls",
+        "tumšs ādas tonis",
+        "vīretis manuālā ratiņkrēslā",
+        "vīretis manuālā ratiņkrēslā: tumšs ādas tonis",
+        "vīrietis"
+    ],
+    "👩‍🦽": [
+        "pieejamība",
+        "ratiņkrēsls",
+        "sieviete",
+        "sieviete manuālā ratiņkrēslā"
+    ],
+    "👩🏻‍🦽": [
+        "gaišs ādas tonis",
+        "pieejamība",
+        "ratiņkrēsls",
+        "sieviete",
+        "sieviete manuālā ratiņkrēslā",
+        "sieviete manuālā ratiņkrēslā: gaišs ādas tonis"
+    ],
+    "👩🏼‍🦽": [
+        "pieejamība",
+        "ratiņkrēsls",
+        "sieviete",
+        "sieviete manuālā ratiņkrēslā",
+        "sieviete manuālā ratiņkrēslā: vidēji gaišs ādas tonis",
+        "vidēji gaišs ādas tonis"
+    ],
+    "👩🏽‍🦽": [
+        "pieejamība",
+        "ratiņkrēsls",
+        "sieviete",
+        "sieviete manuālā ratiņkrēslā",
+        "sieviete manuālā ratiņkrēslā: vidējs ādas tonis",
+        "vidējs ādas tonis"
+    ],
+    "👩🏾‍🦽": [
+        "pieejamība",
+        "ratiņkrēsls",
+        "sieviete",
+        "sieviete manuālā ratiņkrēslā",
+        "sieviete manuālā ratiņkrēslā: vidēji tumšs ādas tonis",
+        "vidēji tumšs ādas tonis"
+    ],
+    "👩🏿‍🦽": [
+        "pieejamība",
+        "ratiņkrēsls",
+        "sieviete",
+        "sieviete manuālā ratiņkrēslā",
+        "sieviete manuālā ratiņkrēslā: tumšs ādas tonis",
         "tumšs ādas tonis"
     ],
     "🏃": [
@@ -10318,43 +11146,43 @@
         "svari"
     ],
     "🏋🏻": [
-        "celts",
         "cilvēks ar svaru stieni",
         "cilvēks ar svaru stieni: gaišs ādas tonis",
+        "cēlājs",
         "gaišs ādas tonis",
         "sportists",
-        "svars"
+        "svari"
     ],
     "🏋🏼": [
-        "celts",
         "cilvēks ar svaru stieni",
         "cilvēks ar svaru stieni: vidēji gaišs ādas tonis",
+        "cēlājs",
         "sportists",
-        "svars",
+        "svari",
         "vidēji gaišs ādas tonis"
     ],
     "🏋🏽": [
-        "celts",
         "cilvēks ar svaru stieni",
         "cilvēks ar svaru stieni: vidējs ādas tonis",
+        "cēlājs",
         "sportists",
-        "svars",
+        "svari",
         "vidējs ādas tonis"
     ],
     "🏋🏾": [
-        "celts",
         "cilvēks ar svaru stieni",
         "cilvēks ar svaru stieni: vidēji tumšs ādas tonis",
+        "cēlājs",
         "sportists",
-        "svars",
+        "svari",
         "vidēji tumšs ādas tonis"
     ],
     "🏋🏿": [
-        "celts",
         "cilvēks ar svaru stieni",
         "cilvēks ar svaru stieni: tumšs ādas tonis",
+        "cēlājs",
         "sportists",
-        "svars",
+        "svari",
         "tumšs ādas tonis"
     ],
     "🏋‍♂": [
@@ -11467,7 +12295,8 @@
     ],
     "🛀🏻": [
         "cilvēks mazgājas",
-        "cilvēks mazgājas: gaišs ādas tonis",
+        "cilvēks vannā",
+        "cilvēks vannā: gaišs ādas tonis",
         "gaišs ādas tonis",
         "mazgāties",
         "vanna",
@@ -11475,7 +12304,8 @@
     ],
     "🛀🏼": [
         "cilvēks mazgājas",
-        "cilvēks mazgājas: vidēji gaišs ādas tonis",
+        "cilvēks vannā",
+        "cilvēks vannā: vidēji gaišs ādas tonis",
         "mazgāties",
         "vanna",
         "vidēji gaišs ādas tonis",
@@ -11483,7 +12313,8 @@
     ],
     "🛀🏽": [
         "cilvēks mazgājas",
-        "cilvēks mazgājas: vidējs ādas tonis",
+        "cilvēks vannā",
+        "cilvēks vannā: vidējs ādas tonis",
         "mazgāties",
         "vanna",
         "vidējs ādas tonis",
@@ -11491,7 +12322,8 @@
     ],
     "🛀🏾": [
         "cilvēks mazgājas",
-        "cilvēks mazgājas: vidēji tumšs ādas tonis",
+        "cilvēks vannā",
+        "cilvēks vannā: vidēji tumšs ādas tonis",
         "mazgāties",
         "vanna",
         "vidēji tumšs ādas tonis",
@@ -11499,7 +12331,8 @@
     ],
     "🛀🏿": [
         "cilvēks mazgājas",
-        "cilvēks mazgājas: tumšs ādas tonis",
+        "cilvēks vannā",
+        "cilvēks vannā: tumšs ādas tonis",
         "mazgāties",
         "tumšs ādas tonis",
         "vanna",
@@ -11551,12 +12384,245 @@
         "gulēt",
         "tumšs ādas tonis"
     ],
+    "🧑‍🤝‍🧑": [
+        "cilvēki sadevušies rokās"
+    ],
+    "🧑🏻‍🤝‍🧑🏻": [
+        "cilvēki sadevušies rokās",
+        "cilvēki sadevušies rokās: gaišs ādas tonis",
+        "gaišs ādas tonis"
+    ],
+    "🧑🏼‍🤝‍🧑🏻": [
+        "cilvēki sadevušies rokās",
+        "cilvēki sadevušies rokās: vidēji gaišs ādas tonis un gaišs ādas tonis",
+        "gaišs ādas tonis",
+        "vidēji gaišs ādas tonis"
+    ],
+    "🧑🏼‍🤝‍🧑🏼": [
+        "cilvēki sadevušies rokās",
+        "cilvēki sadevušies rokās: vidēji gaišs ādas tonis",
+        "vidēji gaišs ādas tonis"
+    ],
+    "🧑🏽‍🤝‍🧑🏻": [
+        "cilvēki sadevušies rokās",
+        "cilvēki sadevušies rokās: vidējs ādas tonis un gaišs ādas tonis",
+        "gaišs ādas tonis",
+        "vidējs ādas tonis"
+    ],
+    "🧑🏽‍🤝‍🧑🏼": [
+        "cilvēki sadevušies rokās",
+        "cilvēki sadevušies rokās: vidējs ādas tonis un vidēji gaišs ādas tonis",
+        "vidēji gaišs ādas tonis",
+        "vidējs ādas tonis"
+    ],
+    "🧑🏽‍🤝‍🧑🏽": [
+        "cilvēki sadevušies rokās",
+        "cilvēki sadevušies rokās: vidējs ādas tonis",
+        "vidējs ādas tonis"
+    ],
+    "🧑🏾‍🤝‍🧑🏻": [
+        "cilvēki sadevušies rokās",
+        "cilvēki sadevušies rokās: vidēji tumšs ādas tonis un gaišs ādas tonis",
+        "gaišs ādas tonis",
+        "vidēji tumšs ādas tonis"
+    ],
+    "🧑🏾‍🤝‍🧑🏼": [
+        "cilvēki sadevušies rokās",
+        "cilvēki sadevušies rokās: vidēji tumšs ādas tonis un vidēji gaišs ādas tonis",
+        "vidēji gaišs ādas tonis",
+        "vidēji tumšs ādas tonis"
+    ],
+    "🧑🏾‍🤝‍🧑🏽": [
+        "cilvēki sadevušies rokās",
+        "cilvēki sadevušies rokās: vidēji tumšs ādas tonis un vidējs ādas tonis",
+        "vidēji tumšs ādas tonis",
+        "vidējs ādas tonis"
+    ],
+    "🧑🏾‍🤝‍🧑🏾": [
+        "cilvēki sadevušies rokās",
+        "cilvēki sadevušies rokās: vidēji tumšs ādas tonis",
+        "vidēji tumšs ādas tonis"
+    ],
+    "🧑🏿‍🤝‍🧑🏻": [
+        "cilvēki sadevušies rokās",
+        "cilvēki sadevušies rokās: tumšs ādas tonis un gaišs ādas tonis",
+        "gaišs ādas tonis",
+        "tumšs ādas tonis"
+    ],
+    "🧑🏿‍🤝‍🧑🏼": [
+        "cilvēki sadevušies rokās",
+        "cilvēki sadevušies rokās: tumšs ādas tonis un vidēji gaišs ādas tonis",
+        "tumšs ādas tonis",
+        "vidēji gaišs ādas tonis"
+    ],
+    "🧑🏿‍🤝‍🧑🏽": [
+        "cilvēki sadevušies rokās",
+        "cilvēki sadevušies rokās: tumšs ādas tonis un vidējs ādas tonis",
+        "tumšs ādas tonis",
+        "vidējs ādas tonis"
+    ],
+    "🧑🏿‍🤝‍🧑🏾": [
+        "cilvēki sadevušies rokās",
+        "cilvēki sadevušies rokās: tumšs ādas tonis un vidēji tumšs ādas tonis",
+        "tumšs ādas tonis",
+        "vidēji tumšs ādas tonis"
+    ],
+    "🧑🏿‍🤝‍🧑🏿": [
+        "cilvēki sadevušies rokās",
+        "cilvēki sadevušies rokās: tumšs ādas tonis",
+        "tumšs ādas tonis"
+    ],
     "👭": [
         "divas sievietes sadevušās rokās",
         "pāris",
         "rokas",
         "sadot",
         "sieviete"
+    ],
+    "👭🏻": [
+        "divas sievietes sadevušās rokās",
+        "divas sievietes sadevušās rokās: gaišs ādas tonis",
+        "gaišs ādas tonis",
+        "pāris",
+        "rokas",
+        "sadot",
+        "sieviete"
+    ],
+    "👩🏼‍🤝‍👩🏻": [
+        "divas sievietes sadevušās rokās",
+        "divas sievietes sadevušās rokās: vidēji gaišs ādas tonis un gaišs ādas tonis",
+        "gaišs ādas tonis",
+        "pāris",
+        "rokas",
+        "sadot",
+        "sieviete",
+        "vidēji gaišs ādas tonis"
+    ],
+    "👭🏼": [
+        "divas sievietes sadevušās rokās",
+        "divas sievietes sadevušās rokās: vidēji gaišs ādas tonis",
+        "pāris",
+        "rokas",
+        "sadot",
+        "sieviete",
+        "vidēji gaišs ādas tonis"
+    ],
+    "👩🏽‍🤝‍👩🏻": [
+        "divas sievietes sadevušās rokās",
+        "divas sievietes sadevušās rokās: vidējs ādas tonis un gaišs ādas tonis",
+        "gaišs ādas tonis",
+        "pāris",
+        "rokas",
+        "sadot",
+        "sieviete",
+        "vidējs ādas tonis"
+    ],
+    "👩🏽‍🤝‍👩🏼": [
+        "divas sievietes sadevušās rokās",
+        "divas sievietes sadevušās rokās: vidējs ādas tonis un vidēji gaišs ādas tonis",
+        "pāris",
+        "rokas",
+        "sadot",
+        "sieviete",
+        "vidēji gaišs ādas tonis",
+        "vidējs ādas tonis"
+    ],
+    "👭🏽": [
+        "divas sievietes sadevušās rokās",
+        "divas sievietes sadevušās rokās: vidējs ādas tonis",
+        "pāris",
+        "rokas",
+        "sadot",
+        "sieviete",
+        "vidējs ādas tonis"
+    ],
+    "👩🏾‍🤝‍👩🏻": [
+        "divas sievietes sadevušās rokās",
+        "divas sievietes sadevušās rokās: vidēji tumšs ādas tonis un gaišs ādas tonis",
+        "gaišs ādas tonis",
+        "pāris",
+        "rokas",
+        "sadot",
+        "sieviete",
+        "vidēji tumšs ādas tonis"
+    ],
+    "👩🏾‍🤝‍👩🏼": [
+        "divas sievietes sadevušās rokās",
+        "divas sievietes sadevušās rokās: vidēji tumšs ādas tonis un vidēji gaišs ādas tonis",
+        "pāris",
+        "rokas",
+        "sadot",
+        "sieviete",
+        "vidēji gaišs ādas tonis",
+        "vidēji tumšs ādas tonis"
+    ],
+    "👩🏾‍🤝‍👩🏽": [
+        "divas sievietes sadevušās rokās",
+        "divas sievietes sadevušās rokās: vidēji tumšs ādas tonis un vidējs ādas tonis",
+        "pāris",
+        "rokas",
+        "sadot",
+        "sieviete",
+        "vidēji tumšs ādas tonis",
+        "vidējs ādas tonis"
+    ],
+    "👭🏾": [
+        "divas sievietes sadevušās rokās",
+        "divas sievietes sadevušās rokās: vidēji tumšs ādas tonis",
+        "pāris",
+        "rokas",
+        "sadot",
+        "sieviete",
+        "vidēji tumšs ādas tonis"
+    ],
+    "👩🏿‍🤝‍👩🏻": [
+        "divas sievietes sadevušās rokās",
+        "divas sievietes sadevušās rokās: tumšs ādas tonis un gaišs ādas tonis",
+        "gaišs ādas tonis",
+        "pāris",
+        "rokas",
+        "sadot",
+        "sieviete",
+        "tumšs ādas tonis"
+    ],
+    "👩🏿‍🤝‍👩🏼": [
+        "divas sievietes sadevušās rokās",
+        "divas sievietes sadevušās rokās: tumšs ādas tonis un vidēji gaišs ādas tonis",
+        "pāris",
+        "rokas",
+        "sadot",
+        "sieviete",
+        "tumšs ādas tonis",
+        "vidēji gaišs ādas tonis"
+    ],
+    "👩🏿‍🤝‍👩🏽": [
+        "divas sievietes sadevušās rokās",
+        "divas sievietes sadevušās rokās: tumšs ādas tonis un vidējs ādas tonis",
+        "pāris",
+        "rokas",
+        "sadot",
+        "sieviete",
+        "tumšs ādas tonis",
+        "vidējs ādas tonis"
+    ],
+    "👩🏿‍🤝‍👩🏾": [
+        "divas sievietes sadevušās rokās",
+        "divas sievietes sadevušās rokās: tumšs ādas tonis un vidēji tumšs ādas tonis",
+        "pāris",
+        "rokas",
+        "sadot",
+        "sieviete",
+        "tumšs ādas tonis",
+        "vidēji tumšs ādas tonis"
+    ],
+    "👭🏿": [
+        "divas sievietes sadevušās rokās",
+        "divas sievietes sadevušās rokās: tumšs ādas tonis",
+        "pāris",
+        "rokas",
+        "sadot",
+        "sieviete",
+        "tumšs ādas tonis"
     ],
     "👫": [
         "pāris",
@@ -11566,6 +12632,276 @@
         "vīrietis",
         "vīrietis un sieviete sadevušies rokās"
     ],
+    "👫🏻": [
+        "gaišs ādas tonis",
+        "pāris",
+        "rokas",
+        "sadot",
+        "sieviete",
+        "vīrietis",
+        "vīrietis un sieviete sadevušies rokās",
+        "vīrietis un sieviete sadevušies rokās: gaišs ādas tonis"
+    ],
+    "👩🏻‍🤝‍👨🏼": [
+        "gaišs ādas tonis",
+        "pāris",
+        "rokas",
+        "sadot",
+        "sieviete",
+        "vidēji gaišs ādas tonis",
+        "vīrietis",
+        "vīrietis un sieviete sadevušies rokās",
+        "vīrietis un sieviete sadevušies rokās: gaišs ādas tonis un vidēji gaišs ādas tonis"
+    ],
+    "👩🏻‍🤝‍👨🏽": [
+        "gaišs ādas tonis",
+        "pāris",
+        "rokas",
+        "sadot",
+        "sieviete",
+        "vidējs ādas tonis",
+        "vīrietis",
+        "vīrietis un sieviete sadevušies rokās",
+        "vīrietis un sieviete sadevušies rokās: gaišs ādas tonis un vidējs ādas tonis"
+    ],
+    "👩🏻‍🤝‍👨🏾": [
+        "gaišs ādas tonis",
+        "pāris",
+        "rokas",
+        "sadot",
+        "sieviete",
+        "vidēji tumšs ādas tonis",
+        "vīrietis",
+        "vīrietis un sieviete sadevušies rokās",
+        "vīrietis un sieviete sadevušies rokās: gaišs ādas tonis un vidēji tumšs ādas tonis"
+    ],
+    "👩🏻‍🤝‍👨🏿": [
+        "gaišs ādas tonis",
+        "pāris",
+        "rokas",
+        "sadot",
+        "sieviete",
+        "tumšs ādas tonis",
+        "vīrietis",
+        "vīrietis un sieviete sadevušies rokās",
+        "vīrietis un sieviete sadevušies rokās: gaišs ādas tonis un tumšs ādas tonis"
+    ],
+    "👩🏼‍🤝‍👨🏻": [
+        "gaišs ādas tonis",
+        "pāris",
+        "rokas",
+        "sadot",
+        "sieviete",
+        "vidēji gaišs ādas tonis",
+        "vīrietis",
+        "vīrietis un sieviete sadevušies rokās",
+        "vīrietis un sieviete sadevušies rokās: vidēji gaišs ādas tonis un gaišs ādas tonis"
+    ],
+    "👫🏼": [
+        "pāris",
+        "rokas",
+        "sadot",
+        "sieviete",
+        "vidēji gaišs ādas tonis",
+        "vīrietis",
+        "vīrietis un sieviete sadevušies rokās",
+        "vīrietis un sieviete sadevušies rokās: vidēji gaišs ādas tonis"
+    ],
+    "👩🏼‍🤝‍👨🏽": [
+        "pāris",
+        "rokas",
+        "sadot",
+        "sieviete",
+        "vidēji gaišs ādas tonis",
+        "vidējs ādas tonis",
+        "vīrietis",
+        "vīrietis un sieviete sadevušies rokās",
+        "vīrietis un sieviete sadevušies rokās: vidēji gaišs ādas tonis un vidējs ādas tonis"
+    ],
+    "👩🏼‍🤝‍👨🏾": [
+        "pāris",
+        "rokas",
+        "sadot",
+        "sieviete",
+        "vidēji gaišs ādas tonis",
+        "vidēji tumšs ādas tonis",
+        "vīrietis",
+        "vīrietis un sieviete sadevušies rokās",
+        "vīrietis un sieviete sadevušies rokās: vidēji gaišs ādas tonis un vidēji tumšs ādas tonis"
+    ],
+    "👩🏼‍🤝‍👨🏿": [
+        "pāris",
+        "rokas",
+        "sadot",
+        "sieviete",
+        "tumšs ādas tonis",
+        "vidēji gaišs ādas tonis",
+        "vīrietis",
+        "vīrietis un sieviete sadevušies rokās",
+        "vīrietis un sieviete sadevušies rokās: vidēji gaišs ādas tonis un tumšs ādas tonis"
+    ],
+    "👩🏽‍🤝‍👨🏻": [
+        "gaišs ādas tonis",
+        "pāris",
+        "rokas",
+        "sadot",
+        "sieviete",
+        "vidējs ādas tonis",
+        "vīrietis",
+        "vīrietis un sieviete sadevušies rokās",
+        "vīrietis un sieviete sadevušies rokās: vidējs ādas tonis un gaišs ādas tonis"
+    ],
+    "👩🏽‍🤝‍👨🏼": [
+        "pāris",
+        "rokas",
+        "sadot",
+        "sieviete",
+        "vidēji gaišs ādas tonis",
+        "vidējs ādas tonis",
+        "vīrietis",
+        "vīrietis un sieviete sadevušies rokās",
+        "vīrietis un sieviete sadevušies rokās: vidējs ādas tonis un vidēji gaišs ādas tonis"
+    ],
+    "👫🏽": [
+        "pāris",
+        "rokas",
+        "sadot",
+        "sieviete",
+        "vidējs ādas tonis",
+        "vīrietis",
+        "vīrietis un sieviete sadevušies rokās",
+        "vīrietis un sieviete sadevušies rokās: vidējs ādas tonis"
+    ],
+    "👩🏽‍🤝‍👨🏾": [
+        "pāris",
+        "rokas",
+        "sadot",
+        "sieviete",
+        "vidēji tumšs ādas tonis",
+        "vidējs ādas tonis",
+        "vīrietis",
+        "vīrietis un sieviete sadevušies rokās",
+        "vīrietis un sieviete sadevušies rokās: vidējs ādas tonis un vidēji tumšs ādas tonis"
+    ],
+    "👩🏽‍🤝‍👨🏿": [
+        "pāris",
+        "rokas",
+        "sadot",
+        "sieviete",
+        "tumšs ādas tonis",
+        "vidējs ādas tonis",
+        "vīrietis",
+        "vīrietis un sieviete sadevušies rokās",
+        "vīrietis un sieviete sadevušies rokās: vidējs ādas tonis un tumšs ādas tonis"
+    ],
+    "👩🏾‍🤝‍👨🏻": [
+        "gaišs ādas tonis",
+        "pāris",
+        "rokas",
+        "sadot",
+        "sieviete",
+        "vidēji tumšs ādas tonis",
+        "vīrietis",
+        "vīrietis un sieviete sadevušies rokās",
+        "vīrietis un sieviete sadevušies rokās: vidēji tumšs ādas tonis un gaišs ādas tonis"
+    ],
+    "👩🏾‍🤝‍👨🏼": [
+        "pāris",
+        "rokas",
+        "sadot",
+        "sieviete",
+        "vidēji gaišs ādas tonis",
+        "vidēji tumšs ādas tonis",
+        "vīrietis",
+        "vīrietis un sieviete sadevušies rokās",
+        "vīrietis un sieviete sadevušies rokās: vidēji tumšs ādas tonis un vidēji gaišs ādas tonis"
+    ],
+    "👩🏾‍🤝‍👨🏽": [
+        "pāris",
+        "rokas",
+        "sadot",
+        "sieviete",
+        "vidēji tumšs ādas tonis",
+        "vidējs ādas tonis",
+        "vīrietis",
+        "vīrietis un sieviete sadevušies rokās",
+        "vīrietis un sieviete sadevušies rokās: vidēji tumšs ādas tonis un vidējs ādas tonis"
+    ],
+    "👫🏾": [
+        "pāris",
+        "rokas",
+        "sadot",
+        "sieviete",
+        "vidēji tumšs ādas tonis",
+        "vīrietis",
+        "vīrietis un sieviete sadevušies rokās",
+        "vīrietis un sieviete sadevušies rokās: vidēji tumšs ādas tonis"
+    ],
+    "👩🏾‍🤝‍👨🏿": [
+        "pāris",
+        "rokas",
+        "sadot",
+        "sieviete",
+        "tumšs ādas tonis",
+        "vidēji tumšs ādas tonis",
+        "vīrietis",
+        "vīrietis un sieviete sadevušies rokās",
+        "vīrietis un sieviete sadevušies rokās: vidēji tumšs ādas tonis un tumšs ādas tonis"
+    ],
+    "👩🏿‍🤝‍👨🏻": [
+        "gaišs ādas tonis",
+        "pāris",
+        "rokas",
+        "sadot",
+        "sieviete",
+        "tumšs ādas tonis",
+        "vīrietis",
+        "vīrietis un sieviete sadevušies rokās",
+        "vīrietis un sieviete sadevušies rokās: tumšs ādas tonis un gaišs ādas tonis"
+    ],
+    "👩🏿‍🤝‍👨🏼": [
+        "pāris",
+        "rokas",
+        "sadot",
+        "sieviete",
+        "tumšs ādas tonis",
+        "vidēji gaišs ādas tonis",
+        "vīrietis",
+        "vīrietis un sieviete sadevušies rokās",
+        "vīrietis un sieviete sadevušies rokās: tumšs ādas tonis un vidēji gaišs ādas tonis"
+    ],
+    "👩🏿‍🤝‍👨🏽": [
+        "pāris",
+        "rokas",
+        "sadot",
+        "sieviete",
+        "tumšs ādas tonis",
+        "vidējs ādas tonis",
+        "vīrietis",
+        "vīrietis un sieviete sadevušies rokās",
+        "vīrietis un sieviete sadevušies rokās: tumšs ādas tonis un vidējs ādas tonis"
+    ],
+    "👩🏿‍🤝‍👨🏾": [
+        "pāris",
+        "rokas",
+        "sadot",
+        "sieviete",
+        "tumšs ādas tonis",
+        "vidēji tumšs ādas tonis",
+        "vīrietis",
+        "vīrietis un sieviete sadevušies rokās",
+        "vīrietis un sieviete sadevušies rokās: tumšs ādas tonis un vidēji tumšs ādas tonis"
+    ],
+    "👫🏿": [
+        "pāris",
+        "rokas",
+        "sadot",
+        "sieviete",
+        "tumšs ādas tonis",
+        "vīrietis",
+        "vīrietis un sieviete sadevušies rokās",
+        "vīrietis un sieviete sadevušies rokās: tumšs ādas tonis"
+    ],
     "👬": [
         "divi vīrieši sadevušies rokās",
         "dvīņi",
@@ -11573,6 +12909,196 @@
         "rokas",
         "sadot",
         "sieviete",
+        "vīrietis",
+        "zodiaks"
+    ],
+    "👬🏻": [
+        "divi vīrieši sadevušies rokās",
+        "divi vīrieši sadevušies rokās: gaišs ādas tonis",
+        "dvīņi",
+        "gaišs ādas tonis",
+        "pāris",
+        "rokas",
+        "sadot",
+        "sieviete",
+        "vīrietis",
+        "zodiaks"
+    ],
+    "👨🏼‍🤝‍👨🏻": [
+        "divi vīrieši sadevušies rokās",
+        "divi vīrieši sadevušies rokās: vidēji gaišs ādas tonis un gaišs ādas tonis",
+        "dvīņi",
+        "gaišs ādas tonis",
+        "pāris",
+        "rokas",
+        "sadot",
+        "sieviete",
+        "vidēji gaišs ādas tonis",
+        "vīrietis",
+        "zodiaks"
+    ],
+    "👬🏼": [
+        "divi vīrieši sadevušies rokās",
+        "divi vīrieši sadevušies rokās: vidēji gaišs ādas tonis",
+        "dvīņi",
+        "pāris",
+        "rokas",
+        "sadot",
+        "sieviete",
+        "vidēji gaišs ādas tonis",
+        "vīrietis",
+        "zodiaks"
+    ],
+    "👨🏽‍🤝‍👨🏻": [
+        "divi vīrieši sadevušies rokās",
+        "divi vīrieši sadevušies rokās: vidējs ādas tonis un gaišs ādas tonis",
+        "dvīņi",
+        "gaišs ādas tonis",
+        "pāris",
+        "rokas",
+        "sadot",
+        "sieviete",
+        "vidējs ādas tonis",
+        "vīrietis",
+        "zodiaks"
+    ],
+    "👨🏽‍🤝‍👨🏼": [
+        "divi vīrieši sadevušies rokās",
+        "divi vīrieši sadevušies rokās: vidējs ādas tonis un vidēji gaišs ādas tonis",
+        "dvīņi",
+        "pāris",
+        "rokas",
+        "sadot",
+        "sieviete",
+        "vidēji gaišs ādas tonis",
+        "vidējs ādas tonis",
+        "vīrietis",
+        "zodiaks"
+    ],
+    "👬🏽": [
+        "divi vīrieši sadevušies rokās",
+        "divi vīrieši sadevušies rokās: vidējs ādas tonis",
+        "dvīņi",
+        "pāris",
+        "rokas",
+        "sadot",
+        "sieviete",
+        "vidējs ādas tonis",
+        "vīrietis",
+        "zodiaks"
+    ],
+    "👨🏾‍🤝‍👨🏻": [
+        "divi vīrieši sadevušies rokās",
+        "divi vīrieši sadevušies rokās: vidēji tumšs ādas tonis un gaišs ādas tonis",
+        "dvīņi",
+        "gaišs ādas tonis",
+        "pāris",
+        "rokas",
+        "sadot",
+        "sieviete",
+        "vidēji tumšs ādas tonis",
+        "vīrietis",
+        "zodiaks"
+    ],
+    "👨🏾‍🤝‍👨🏼": [
+        "divi vīrieši sadevušies rokās",
+        "divi vīrieši sadevušies rokās: vidēji tumšs ādas tonis un vidēji gaišs ādas tonis",
+        "dvīņi",
+        "pāris",
+        "rokas",
+        "sadot",
+        "sieviete",
+        "vidēji gaišs ādas tonis",
+        "vidēji tumšs ādas tonis",
+        "vīrietis",
+        "zodiaks"
+    ],
+    "👨🏾‍🤝‍👨🏽": [
+        "divi vīrieši sadevušies rokās",
+        "divi vīrieši sadevušies rokās: vidēji tumšs ādas tonis un vidējs ādas tonis",
+        "dvīņi",
+        "pāris",
+        "rokas",
+        "sadot",
+        "sieviete",
+        "vidēji tumšs ādas tonis",
+        "vidējs ādas tonis",
+        "vīrietis",
+        "zodiaks"
+    ],
+    "👬🏾": [
+        "divi vīrieši sadevušies rokās",
+        "divi vīrieši sadevušies rokās: vidēji tumšs ādas tonis",
+        "dvīņi",
+        "pāris",
+        "rokas",
+        "sadot",
+        "sieviete",
+        "vidēji tumšs ādas tonis",
+        "vīrietis",
+        "zodiaks"
+    ],
+    "👨🏿‍🤝‍👨🏻": [
+        "divi vīrieši sadevušies rokās",
+        "divi vīrieši sadevušies rokās: tumšs ādas tonis un gaišs ādas tonis",
+        "dvīņi",
+        "gaišs ādas tonis",
+        "pāris",
+        "rokas",
+        "sadot",
+        "sieviete",
+        "tumšs ādas tonis",
+        "vīrietis",
+        "zodiaks"
+    ],
+    "👨🏿‍🤝‍👨🏼": [
+        "divi vīrieši sadevušies rokās",
+        "divi vīrieši sadevušies rokās: tumšs ādas tonis un vidēji gaišs ādas tonis",
+        "dvīņi",
+        "pāris",
+        "rokas",
+        "sadot",
+        "sieviete",
+        "tumšs ādas tonis",
+        "vidēji gaišs ādas tonis",
+        "vīrietis",
+        "zodiaks"
+    ],
+    "👨🏿‍🤝‍👨🏽": [
+        "divi vīrieši sadevušies rokās",
+        "divi vīrieši sadevušies rokās: tumšs ādas tonis un vidējs ādas tonis",
+        "dvīņi",
+        "pāris",
+        "rokas",
+        "sadot",
+        "sieviete",
+        "tumšs ādas tonis",
+        "vidējs ādas tonis",
+        "vīrietis",
+        "zodiaks"
+    ],
+    "👨🏿‍🤝‍👨🏾": [
+        "divi vīrieši sadevušies rokās",
+        "divi vīrieši sadevušies rokās: tumšs ādas tonis un vidēji tumšs ādas tonis",
+        "dvīņi",
+        "pāris",
+        "rokas",
+        "sadot",
+        "sieviete",
+        "tumšs ādas tonis",
+        "vidēji tumšs ādas tonis",
+        "vīrietis",
+        "zodiaks"
+    ],
+    "👬🏿": [
+        "divi vīrieši sadevušies rokās",
+        "divi vīrieši sadevušies rokās: tumšs ādas tonis",
+        "dvīņi",
+        "pāris",
+        "rokas",
+        "sadot",
+        "sieviete",
+        "tumšs ādas tonis",
         "vīrietis",
         "zodiaks"
     ],
@@ -11957,6 +13483,10 @@
         "dzīvnieks",
         "gorilla"
     ],
+    "🦧": [
+        "orangutans",
+        "pērtiķis"
+    ],
     "🐶": [
         "galva",
         "mājdzīvnieks",
@@ -11965,6 +13495,19 @@
     ],
     "🐕️": [
         "mājdzīvnieks",
+        "suns"
+    ],
+    "🦮": [
+        "akls",
+        "pavadonis",
+        "pieejamība",
+        "suns pavadonis"
+    ],
+    "🐕‍🦺": [
+        "atbalsts",
+        "dienesta suns",
+        "dienests",
+        "pieejamība",
         "suns"
     ],
     "🐩": [
@@ -11978,9 +13521,8 @@
         "vilks"
     ],
     "🦊": [
-        "dzīvnieks",
-        "lapsa",
-        "lapsas galva"
+        "galva",
+        "lapsa"
     ],
     "🦝": [
         "jenots",
@@ -11998,9 +13540,10 @@
         "mājdzīvnieks"
     ],
     "🦁": [
+        "Lauva",
         "galva",
         "lauva",
-        "lauvas galva"
+        "zodiaks"
     ],
     "🐯": [
         "galva",
@@ -12025,8 +13568,7 @@
     ],
     "🦄": [
         "galva",
-        "vienradzis",
-        "vienradža galva"
+        "vienradzis"
     ],
     "🦓": [
         "svītra",
@@ -12136,8 +13678,7 @@
     "🐹": [
         "galva",
         "kāmis",
-        "kāmja galva",
-        "mājdzīvnieks"
+        "mīļdzīvnieks"
     ],
     "🐰": [
         "galva",
@@ -12163,8 +13704,7 @@
     ],
     "🐻": [
         "galva",
-        "lācis",
-        "lāča galva"
+        "lācis"
     ],
     "🐨": [
         "koala",
@@ -12174,6 +13714,20 @@
         "galva",
         "panda",
         "pandas galva"
+    ],
+    "🦥": [
+        "lēns",
+        "slinks",
+        "sliņķis"
+    ],
+    "🦦": [
+        "rotaļāties",
+        "spēlēties",
+        "ūdrs"
+    ],
+    "🦨": [
+        "skunkss",
+        "smaka"
     ],
     "🦘": [
         "Austrālija",
@@ -12255,6 +13809,11 @@
         "pūce",
         "vieds"
     ],
+    "🦩": [
+        "flamingo",
+        "spilgts",
+        "tropisks"
+    ],
     "🦚": [
         "iedomīgs",
         "putns",
@@ -12270,8 +13829,7 @@
     ],
     "🐸": [
         "galva",
-        "varde",
-        "vardes galva"
+        "varde"
     ],
     "🐊": [
         "aligators",
@@ -12657,6 +14215,14 @@
         "brokoļi",
         "dārza kāposts"
     ],
+    "🧄": [
+        "garšviela",
+        "ķiploks"
+    ],
+    "🧅": [
+        "garšviela",
+        "sīpols"
+    ],
     "🍄": [
         "augs",
         "sēne"
@@ -12701,6 +14267,11 @@
         "pankūka",
         "pankūkas",
         "ēdiens"
+    ],
+    "🧇": [
+        "gludeklis",
+        "savienojošs",
+        "vafele"
     ],
     "🧀": [
         "siera šķēle",
@@ -12767,6 +14338,10 @@
         "pildīts lavašs",
         "ēdiens"
     ],
+    "🧆": [
+        "aunazirņi / frikadele",
+        "felāfels"
+    ],
     "🥚": [
         "ola",
         "ēdiens"
@@ -12804,6 +14379,10 @@
     "🍿": [
         "kukurūza",
         "popkorns"
+    ],
+    "🧈": [
+        "piena produkti",
+        "sviests"
     ],
     "🧂": [
         "garšviela",
@@ -12922,6 +14501,11 @@
         "kalmārs",
         "molusks",
         "ēdiens"
+    ],
+    "🦪": [
+        "austere",
+        "niršana",
+        "pērle"
     ],
     "🍦": [
         "deserts",
@@ -13109,6 +14693,19 @@
         "gāzēts",
         "limonāda",
         "sula"
+    ],
+    "🧃": [
+        "dzēriena kārba",
+        "sulas kārba"
+    ],
+    "🧉": [
+        "dzēriens",
+        "mate"
+    ],
+    "🧊": [
+        "aisbergs",
+        "auksts",
+        "ledus gabaliņš"
     ],
     "🥢": [
         "haši",
@@ -13382,6 +14979,11 @@
         "māja",
         "reliģija",
         "ēka"
+    ],
+    "🛕": [
+        "hinduistu",
+        "hinduistu templis",
+        "templis"
     ],
     "🕍": [
         "ebreji",
@@ -13673,6 +15275,18 @@
     "🛵": [
         "motorollers"
     ],
+    "🦽": [
+        "manuāli darbināms ratiņkrēsls",
+        "pieejamība"
+    ],
+    "🦼": [
+        "ar motoru darbināms ratiņkrēsls",
+        "pieejamība"
+    ],
+    "🛺": [
+        "autorikša",
+        "tuktuks"
+    ],
     "🚲️": [
         "ritenis",
         "transports",
@@ -13808,6 +15422,12 @@
         "lidmašīnas nosēšanās",
         "nosēsties",
         "transports"
+    ],
+    "🪂": [
+        "izpletnis",
+        "lidošana",
+        "lidošana ar paraplānu",
+        "paraplāns"
     ],
     "💺": [
         "krēsls",
@@ -14167,6 +15787,11 @@
         "saule",
         "saules seja",
         "seja"
+    ],
+    "🪐": [
+        "gredzenota planēta",
+        "mīnijs",
+        "saturns"
     ],
     "⭐️": [
         "dzeltena zvaigzne",
@@ -14639,6 +16264,12 @@
         "makšķere",
         "zivs"
     ],
+    "🤿": [
+        "elpošanas aparāts",
+        "niršana",
+        "niršanas maska",
+        "snorkelēšana"
+    ],
     "🎽": [
         "krekls",
         "skriet",
@@ -14661,6 +16292,16 @@
         "mērķis",
         "šautriņa",
         "šautriņa mērķī"
+    ],
+    "🪀": [
+        "jojo",
+        "rotaļlieta",
+        "svārstīgs"
+    ],
+    "🪁": [
+        "gaisa pūķis",
+        "lidot",
+        "pacelties"
     ],
     "🎱": [
         "8",
@@ -14708,6 +16349,7 @@
         "gabaliņš",
         "līme",
         "puzle",
+        "puzles gabaliņš",
         "savienošana"
     ],
     "🧸": [
@@ -14808,6 +16450,12 @@
         "zinātnieks",
         "ārsts"
     ],
+    "🦺": [
+        "drošība",
+        "drošības veste",
+        "veste",
+        "ārkārtas"
+    ],
     "👔": [
         "apģērbs",
         "drēbes",
@@ -14847,6 +16495,28 @@
     "👘": [
         "apģērbs",
         "kimono"
+    ],
+    "🥻": [
+        "apģērbs",
+        "kleita",
+        "sari"
+    ],
+    "🩱": [
+        "kopējais peldkostīms",
+        "peldkostīms"
+    ],
+    "🩲": [
+        "apakšveļa",
+        "peldbikses",
+        "peldkostīms",
+        "peldēšanās tērps",
+        "viengabala"
+    ],
+    "🩳": [
+        "apakšveļa",
+        "bikses",
+        "peldkostīms",
+        "šorti"
     ],
     "👙": [
         "apģērbs",
@@ -14920,6 +16590,11 @@
         "sandale",
         "sieviešu",
         "sieviešu sandale"
+    ],
+    "🩰": [
+        "baleta kurpes",
+        "balets",
+        "deja"
     ],
     "👢": [
         "apavi",
@@ -15097,6 +16772,11 @@
         "mūzika",
         "vijole"
     ],
+    "🪕": [
+        "bandžo",
+        "mūzika",
+        "stīgu"
+    ],
     "🥁": [
         "bungas",
         "bungu vālītes",
@@ -15270,6 +16950,11 @@
         "papīrs",
         "sarkana papīra laterna",
         "sarkans"
+    ],
+    "🪔": [
+        "eļļa",
+        "eļļas lampa",
+        "lampa"
     ],
     "📔": [
         "bloknots",
@@ -15669,6 +17354,12 @@
         "darbarīks",
         "āmurs"
     ],
+    "🪓": [
+        "cirvis",
+        "koks",
+        "skaida",
+        "skaldīt"
+    ],
     "⛏️": [
         "cirst",
         "cirtnis"
@@ -15737,6 +17428,11 @@
         "svars",
         "taisnīgums",
         "zodiaks"
+    ],
+    "🦯": [
+        "akls",
+        "baltais atbalsta spieķis",
+        "pieejamība"
     ],
     "🔗": [
         "ķēde",
@@ -15808,11 +17504,26 @@
         "ārsts",
         "šļirce"
     ],
+    "🩸": [
+        "asins pile",
+        "asins ziedošana",
+        "medicīna",
+        "menstruācija"
+    ],
     "💊": [
         "medicīna",
         "slims",
         "zāles",
         "zāļu kapsula",
+        "ārsts"
+    ],
+    "🩹": [
+        "plāksteris"
+    ],
+    "🩺": [
+        "medicīna",
+        "sirds",
+        "stetoskops",
         "ārsts"
     ],
     "🚪": [
@@ -15830,6 +17541,11 @@
         "dīvāns un lampa",
         "lampa"
     ],
+    "🪑": [
+        "krēsls",
+        "sēdeklis",
+        "sēdēt"
+    ],
     "🚽": [
         "pods",
         "tualete",
@@ -15842,6 +17558,11 @@
     "🛁": [
         "vanna",
         "ūdens"
+    ],
+    "🪒": [
+        "ass",
+        "bārdas nazis",
+        "skūt"
     ],
     "🧴": [
         "losjona pudele",
@@ -16500,9 +18221,11 @@
     ],
     "⭕️": [
         "aplis",
+        "liels",
         "liels aplis",
         "o",
-        "riņķis"
+        "riņķis",
+        "sarkans"
     ],
     "✅": [
         "atzīme",
@@ -16582,12 +18305,13 @@
         "zvaigznīte"
     ],
     "✴️": [
+        "astoņstaru zvaigzne",
         "zvaigzne",
         "četrstaru zvaigzne"
     ],
     "❇️": [
-        "dekoratīva zvaigznīte",
-        "zvaigznīte"
+        "*",
+        "dzirkstis"
     ],
     "‼️": [
         "divas izsaukuma zīmes",
@@ -16878,10 +18602,35 @@
         "sarkans aplis",
         "ģeometrija"
     ],
+    "🟠": [
+        "aplis",
+        "oranžs",
+        "oranžs aplis"
+    ],
+    "🟡": [
+        "aplis",
+        "dzeltens",
+        "dzeltens aplis"
+    ],
+    "🟢": [
+        "aplis",
+        "zaļš",
+        "zaļš aplis"
+    ],
     "🔵": [
         "aplis",
         "zils aplis",
         "ģeometrija"
+    ],
+    "🟣": [
+        "aplis",
+        "violets",
+        "violets aplis"
+    ],
+    "🟤": [
+        "aplis",
+        "brūns",
+        "brūns aplis"
     ],
     "⚫️": [
         "aplis",
@@ -16892,6 +18641,41 @@
         "aplis",
         "balts aplis",
         "ģeometrija"
+    ],
+    "🟥": [
+        "kvadrāts",
+        "sarkans",
+        "sarkans kvadrāts"
+    ],
+    "🟧": [
+        "kvadrāts",
+        "oranžs",
+        "oranžs kvadrāts"
+    ],
+    "🟨": [
+        "dzeltens",
+        "dzeltens kvadrāts",
+        "kvadrāts"
+    ],
+    "🟩": [
+        "kvadrāts",
+        "zaļš",
+        "zaļš kvadrāts"
+    ],
+    "🟦": [
+        "kvadrāts",
+        "zils",
+        "zils kvadrāts"
+    ],
+    "🟪": [
+        "kvadrāts",
+        "violets",
+        "violets kvadrāts"
+    ],
+    "🟫": [
+        "brūns",
+        "brūns kvadrāts",
+        "kvadrāts"
     ],
     "⬛️": [
         "kvadrāts",
@@ -17347,7 +19131,7 @@
     ],
     "🇬🇧": [
         "karogs",
-        "karogs: Lielbritānija"
+        "karogs: Apvienotā Karaliste"
     ],
     "🇬🇩": [
         "karogs",
@@ -17619,7 +19403,7 @@
     ],
     "🇲🇰": [
         "karogs",
-        "karogs: Maķedonija"
+        "karogs: Ziemeļmaķedonija"
     ],
     "🇲🇱": [
         "karogs",

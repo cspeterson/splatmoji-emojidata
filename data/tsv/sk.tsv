@@ -83,6 +83,7 @@
 😓	deprimovaná, pot, skľúčená, skľúčená tvár s potom, tvár
 😩	tvár, unavená, ustatá, ustatá tvár
 😫	tvár, unavená, unavená tvár, únava
+🥱	unavený, unudený, znudený, zívajúca tvár, zívať
 😤	triumf, tvár, tvár s parou z nosa, víťazná
 😡	hnev, nahnevaná, nazlostená, podráždená tvár, trucujúca, tvár, zlosť
 😠	hnev, nahnevaná, nahnevaná tvár, nazlostená, tvár, zlosť
@@ -99,15 +100,15 @@
 👽️	mimozemšťan, tvár, ufón, vesmír
 👾	mimozemská príšera, mimozemšťan, netvor, obluda, vesmír, votrelec
 🤖	netvor, robot, tvár
-😺	mačka, otvorené, tvár, úsmev, ústa, škeriaca sa mačacia tvár
-😸	mačka, oko, tvár, úsmev, úškrn, úškľabok, škeriaca sa mačacia tvár s prižmúrenými očami
+😺	mačka, otvorené, tvár, úsmev, ústa, škeriaca sa mačka
+😸	mačka, oko, tvár, úsmev, úškrn, úškľabok, škeriaca sa mačka s prižmúrenými očami
 😹	mačka, mačka plače od smiechu, slza, smiech, tvár
-😻	láska, mačka, oko, smejúca sa mačacia tvár so srdiečkami, srdce, tvár, úsmev
-😼	ironická, mačacia tvár s úškľabkom, mačka, tvár, uštipačná, úsmev
-😽	bozk, bozkávajúca mačacia tvár, mačka, oko, tvár
-🙀	mačka, prekvapená, tvár, ustatá, vyčerpaná mačacia tvár
-😿	mačka, plač, plačúca mačacia tvár, slza, smutná, tvár
-😾	mačka, podráždená mačacia tvár, trucujúca, tvár
+😻	láska, mačka, oko, smejúca sa mačka so srdiečkami, srdce, tvár, úsmev
+😼	ironická, mačka, mačka s úškľabkom, tvár, uštipačná, úsmev
+😽	bozk, bozkávajúca mačka, mačka, oko, tvár
+🙀	mačka, prekvapená, tvár, ustatá, vyčerpaná mačka
+😿	mačka, plač, plačúca mačka, slza, smutná, tvár
+😾	mačka, podráždená, podráždená mačka, trucujúca, tvár
 🙈	gesto, nevidím, nevidím zlo, opica, tvár, zakázané, zlo, zlé
 🙉	gesto, nepočujem, nepočujem zlo, opica, tvár, zakázané, zlo, zlé
 🙊	gesto, nehovorím, nehovorím zlo, opica, tvár, zakázané, zlo, zlé
@@ -121,7 +122,7 @@
 💞	krúžiace, krúžiace srdcia, srdce
 💕	dve srdcia, láska, srdce
 💟	ozdoba v tvare srdca, srdce
-❣️	interpunkcia, srdce, výkričník, výkričník v tvare srdca, znak
+❣️	interpunkcia, srdce, výkričník, výkričník v tvare srdca, znak, zvolanie
 💔	srdce, zlomené, zlomené srdce, zlomiť
 ❤️	srdce, červené srdce
 🧡	oranžové, oranžové srdce, srdce
@@ -129,7 +130,9 @@
 💚	srdce, zelené, zelené srdce
 💙	modré, modré srdce, srdce
 💜	fialové, fialové srdce, srdce
+🤎	hnedé, hnedé srdce, srdce
 🖤	podlosť, srdce, zlo, čierne, čierne srdce
+🤍	biele, biele srdce, srdce
 💯	100, plný počet, sto, sto bodov
 💢	hnev, komiks, symbol hnevu, zlosť
 💥	buch, bum, komiks, zrážka
@@ -180,6 +183,12 @@
 👌🏽	ok, ruka, stredný tón pleti, výborne, výborne: stredný tón pleti
 👌🏾	ok, ruka, stredne tmavý tón pleti, výborne, výborne: stredne tmavý tón pleti
 👌🏿	ok, ruka, tmavý tón pleti, výborne, výborne: tmavý tón pleti
+🤏	malé množstvo, málo, trocha, troška
+🤏🏻	malé množstvo, málo, málo: svetlý tón pleti, svetlý tón pleti, trocha, troška
+🤏🏼	malé množstvo, málo, málo: stredne svetlý tón pleti, stredne svetlý tón pleti, trocha, troška
+🤏🏽	malé množstvo, málo, málo: stredný tón pleti, stredný tón pleti, trocha, troška
+🤏🏾	malé množstvo, málo, málo: stredne tmavý tón pleti, stredne tmavý tón pleti, trocha, troška
+🤏🏿	malé množstvo, málo, málo: tmavý tón pleti, tmavý tón pleti, trocha, troška
 ✌️	ruka, v, víťazstvo
 ✌🏻	ruka, svetlý tón pleti, v, víťazstvo, víťazstvo: svetlý tón pleti
 ✌🏼	ruka, stredne svetlý tón pleti, v, víťazstvo, víťazstvo: stredne svetlý tón pleti
@@ -337,6 +346,8 @@
 💪🏽	biceps, napnuté, napnutý biceps, napnutý biceps: stredný tón pleti, stredný tón pleti, sval, telo
 💪🏾	biceps, napnuté, napnutý biceps, napnutý biceps: stredne tmavý tón pleti, stredne tmavý tón pleti, sval, telo
 💪🏿	biceps, napnuté, napnutý biceps, napnutý biceps: tmavý tón pleti, sval, telo, tmavý tón pleti
+🦾	handicap, hendikep, invalidné, mechanická paža, pomôcka, postihnutie, protéza, uľahčenie
+🦿	handicap, hendikep, invalidné, mechanická noha, pomôcka, postihnutie, protéza, uľahčenie
 🦵	kopať, kopnúť, noha
 🦵🏻	kopať, kopnúť, noha, noha: svetlý tón pleti, svetlý tón pleti
 🦵🏼	kopať, kopnúť, noha, noha: stredne svetlý tón pleti, stredne svetlý tón pleti
@@ -355,6 +366,12 @@
 👂🏽	stredný tón pleti, telo, ucho, ucho: stredný tón pleti
 👂🏾	stredne tmavý tón pleti, telo, ucho, ucho: stredne tmavý tón pleti
 👂🏿	telo, tmavý tón pleti, ucho, ucho: tmavý tón pleti
+🦻	handicap, hendikep, načúvadlo, nedoslýchavosť, pomôcka, postihnutie, ucho s načúvadlom, uľahčenie
+🦻🏻	handicap, hendikep, načúvadlo, nedoslýchavosť, pomôcka, postihnutie, svetlý tón pleti, ucho s načúvadlom, ucho s načúvadlom: svetlý tón pleti, uľahčenie
+🦻🏼	handicap, hendikep, načúvadlo, nedoslýchavosť, pomôcka, postihnutie, stredne svetlý tón pleti, ucho s načúvadlom, ucho s načúvadlom: stredne svetlý tón pleti, uľahčenie
+🦻🏽	handicap, hendikep, načúvadlo, nedoslýchavosť, pomôcka, postihnutie, stredný tón pleti, ucho s načúvadlom, ucho s načúvadlom: stredný tón pleti, uľahčenie
+🦻🏾	handicap, hendikep, načúvadlo, nedoslýchavosť, pomôcka, postihnutie, stredne tmavý tón pleti, ucho s načúvadlom, ucho s načúvadlom: stredne tmavý tón pleti, uľahčenie
+🦻🏿	handicap, hendikep, načúvadlo, nedoslýchavosť, pomôcka, postihnutie, tmavý tón pleti, ucho s načúvadlom, ucho s načúvadlom: tmavý tón pleti, uľahčenie
 👃	nos, telo
 👃🏻	nos, nos: svetlý tón pleti, svetlý tón pleti, telo
 👃🏼	nos, nos: stredne svetlý tón pleti, stredne svetlý tón pleti, telo
@@ -410,12 +427,12 @@
 👨🏽	muž, muž: stredný tón pleti, stredný tón pleti
 👨🏾	muž, muž: stredne tmavý tón pleti, stredne tmavý tón pleti
 👨🏿	muž, muž: tmavý tón pleti, tmavý tón pleti
-🧔	brada, bradáč, fúzy
-🧔🏻	brada, bradáč, bradáč: svetlý tón pleti, fúzy, svetlý tón pleti
-🧔🏼	brada, bradáč, bradáč: stredne svetlý tón pleti, fúzy, stredne svetlý tón pleti
-🧔🏽	brada, bradáč, bradáč: stredný tón pleti, fúzy, stredný tón pleti
-🧔🏾	brada, bradáč, bradáč: stredne tmavý tón pleti, fúzy, stredne tmavý tón pleti
-🧔🏿	brada, bradáč, bradáč: tmavý tón pleti, fúzy, tmavý tón pleti
+🧔	brada, bradáč, fúzatý, fúzy
+🧔🏻	brada, bradáč, bradáč: svetlý tón pleti, fúzatý, fúzy, svetlý tón pleti
+🧔🏼	brada, bradáč, bradáč: stredne svetlý tón pleti, fúzatý, fúzy, stredne svetlý tón pleti
+🧔🏽	brada, bradáč, bradáč: stredný tón pleti, fúzatý, fúzy, stredný tón pleti
+🧔🏾	brada, bradáč, bradáč: stredne tmavý tón pleti, fúzatý, fúzy, stredne tmavý tón pleti
+🧔🏿	brada, bradáč, bradáč: tmavý tón pleti, fúzatý, fúzy, tmavý tón pleti
 👱‍♂	blond, blondín, muž, svetlovlasý
 👱🏻‍♂	blond, blondín, blondín: svetlý tón pleti, muž, svetlovlasý, svetlý tón pleti
 👱🏼‍♂	blond, blondín, blondín: stredne svetlý tón pleti, muž, stredne svetlý tón pleti, svetlovlasý
@@ -608,6 +625,24 @@
 🙋🏽‍♀	ruka, stredný tón pleti, zdvihnutá, žena, žena so zdvihnutou rukou, žena so zdvihnutou rukou: stredný tón pleti
 🙋🏾‍♀	ruka, stredne tmavý tón pleti, zdvihnutá, žena, žena so zdvihnutou rukou, žena so zdvihnutou rukou: stredne tmavý tón pleti
 🙋🏿‍♀	ruka, tmavý tón pleti, zdvihnutá, žena, žena so zdvihnutou rukou, žena so zdvihnutou rukou: tmavý tón pleti
+🧏	handicap, hendikep, hluchota, nedoslýchavosť, nepočujúci človek, postihnutie, sluch, ucho
+🧏🏻	handicap, hendikep, hluchota, nedoslýchavosť, nepočujúci človek, nepočujúci človek: svetlý tón pleti, postihnutie, sluch, svetlý tón pleti, ucho
+🧏🏼	handicap, hendikep, hluchota, nedoslýchavosť, nepočujúci človek, nepočujúci človek: stredne svetlý tón pleti, postihnutie, sluch, stredne svetlý tón pleti, ucho
+🧏🏽	handicap, hendikep, hluchota, nedoslýchavosť, nepočujúci človek, nepočujúci človek: stredný tón pleti, postihnutie, sluch, stredný tón pleti, ucho
+🧏🏾	handicap, hendikep, hluchota, nedoslýchavosť, nepočujúci človek, nepočujúci človek: stredne tmavý tón pleti, postihnutie, sluch, stredne tmavý tón pleti, ucho
+🧏🏿	handicap, hendikep, hluchota, nedoslýchavosť, nepočujúci človek, nepočujúci človek: tmavý tón pleti, postihnutie, sluch, tmavý tón pleti, ucho
+🧏‍♂	hluchota, hluchý, muž, nedoslýchavosť, nedoslýchavý, nepočujúci, nepočujúci muž
+🧏🏻‍♂	hluchota, hluchý, muž, nedoslýchavosť, nedoslýchavý, nepočujúci, nepočujúci muž: svetlý tón pleti, svetlý tón pleti
+🧏🏼‍♂	hluchota, hluchý, muž, nedoslýchavosť, nedoslýchavý, nepočujúci, nepočujúci muž: stredne svetlý tón pleti, stredne svetlý tón pleti
+🧏🏽‍♂	hluchota, hluchý, muž, nedoslýchavosť, nedoslýchavý, nepočujúci, nepočujúci muž: stredný tón pleti, stredný tón pleti
+🧏🏾‍♂	hluchota, hluchý, muž, nedoslýchavosť, nedoslýchavý, nepočujúci, nepočujúci muž: stredne tmavý tón pleti, stredne tmavý tón pleti
+🧏🏿‍♂	hluchota, hluchý, muž, nedoslýchavosť, nedoslýchavý, nepočujúci, nepočujúci muž: tmavý tón pleti, tmavý tón pleti
+🧏‍♀	hluchota, hluchá, nedoslýchavosť, nedoslýchavá, nepočujúca, nepočujúca žena, žena
+🧏🏻‍♀	hluchota, hluchá, nedoslýchavosť, nedoslýchavá, nepočujúca, nepočujúca žena: svetlý tón pleti, svetlý tón pleti, žena
+🧏🏼‍♀	hluchota, hluchá, nedoslýchavosť, nedoslýchavá, nepočujúca, nepočujúca žena: stredne svetlý tón pleti, stredne svetlý tón pleti, žena
+🧏🏽‍♀	hluchota, hluchá, nedoslýchavosť, nedoslýchavá, nepočujúca, nepočujúca žena: stredný tón pleti, stredný tón pleti, žena
+🧏🏾‍♀	hluchota, hluchá, nedoslýchavosť, nedoslýchavá, nepočujúca, nepočujúca žena: stredne tmavý tón pleti, stredne tmavý tón pleti, žena
+🧏🏿‍♀	hluchota, hluchá, nedoslýchavosť, nedoslýchavá, nepočujúca, nepočujúca žena: tmavý tón pleti, tmavý tón pleti, žena
 🙇	gesto, klaňajúci sa človek, poklona, prepáčte, ľutujem
 🙇🏻	gesto, klaňajúci sa človek, klaňajúci sa človek: svetlý tón pleti, poklona, prepáčte, svetlý tón pleti, ľutujem
 🙇🏼	gesto, klaňajúci sa človek, klaňajúci sa človek: stredne svetlý tón pleti, poklona, prepáčte, stredne svetlý tón pleti, ľutujem
@@ -1196,6 +1231,78 @@
 🚶🏽‍♀	chodiť, chodkyňa, chodkyňa: stredný tón pleti, chôdza, kráčať, pešo, stredný tón pleti, žena
 🚶🏾‍♀	chodiť, chodkyňa, chodkyňa: stredne tmavý tón pleti, chôdza, kráčať, pešo, stredne tmavý tón pleti, žena
 🚶🏿‍♀	chodiť, chodkyňa, chodkyňa: tmavý tón pleti, chôdza, kráčať, pešo, tmavý tón pleti, žena
+🧍	postoj, stojaci človek, státie, stáť
+🧍🏻	postoj, stojaci človek, stojaci človek: svetlý tón pleti, státie, stáť, svetlý tón pleti
+🧍🏼	postoj, stojaci človek, stojaci človek: stredne svetlý tón pleti, stredne svetlý tón pleti, státie, stáť
+🧍🏽	postoj, stojaci človek, stojaci človek: stredný tón pleti, stredný tón pleti, státie, stáť
+🧍🏾	postoj, stojaci človek, stojaci človek: stredne tmavý tón pleti, stredne tmavý tón pleti, státie, stáť
+🧍🏿	postoj, stojaci človek, stojaci človek: tmavý tón pleti, státie, stáť, tmavý tón pleti
+🧍‍♂	muž, postoj, stojaci, stojaci muž, státie
+🧍🏻‍♂	muž, postoj, stojaci, stojaci muž: svetlý tón pleti, státie, svetlý tón pleti
+🧍🏼‍♂	muž, postoj, stojaci, stojaci muž: stredne svetlý tón pleti, stredne svetlý tón pleti, státie
+🧍🏽‍♂	muž, postoj, stojaci, stojaci muž: stredný tón pleti, stredný tón pleti, státie
+🧍🏾‍♂	muž, postoj, stojaci, stojaci muž: stredne tmavý tón pleti, stredne tmavý tón pleti, státie
+🧍🏿‍♂	muž, postoj, stojaci, stojaci muž: tmavý tón pleti, státie, tmavý tón pleti
+🧍‍♀	postoj, stojaca, stojaca žena, státie, žena
+🧍🏻‍♀	postoj, stojaca, stojaca žena: svetlý tón pleti, státie, svetlý tón pleti, žena
+🧍🏼‍♀	postoj, stojaca, stojaca žena: stredne svetlý tón pleti, stredne svetlý tón pleti, státie, žena
+🧍🏽‍♀	postoj, stojaca, stojaca žena: stredný tón pleti, stredný tón pleti, státie, žena
+🧍🏾‍♀	postoj, stojaca, stojaca žena: stredne tmavý tón pleti, stredne tmavý tón pleti, státie, žena
+🧍🏿‍♀	postoj, stojaca, stojaca žena: tmavý tón pleti, státie, tmavý tón pleti, žena
+🧎	kľak, kľačanie, kľačať, kľačiaci človek, pokľak
+🧎🏻	kľak, kľačanie, kľačať, kľačiaci človek, kľačiaci človek: svetlý tón pleti, pokľak, svetlý tón pleti
+🧎🏼	kľak, kľačanie, kľačať, kľačiaci človek, kľačiaci človek: stredne svetlý tón pleti, pokľak, stredne svetlý tón pleti
+🧎🏽	kľak, kľačanie, kľačať, kľačiaci človek, kľačiaci človek: stredný tón pleti, pokľak, stredný tón pleti
+🧎🏾	kľak, kľačanie, kľačať, kľačiaci človek, kľačiaci človek: stredne tmavý tón pleti, pokľak, stredne tmavý tón pleti
+🧎🏿	kľak, kľačanie, kľačať, kľačiaci človek, kľačiaci človek: tmavý tón pleti, pokľak, tmavý tón pleti
+🧎‍♂	kľak, kľačať, kľačiaci, kľačiaci muž, muž, pokľak
+🧎🏻‍♂	kľak, kľačať, kľačiaci, kľačiaci muž: svetlý tón pleti, muž, pokľak, svetlý tón pleti
+🧎🏼‍♂	kľak, kľačať, kľačiaci, kľačiaci muž: stredne svetlý tón pleti, muž, pokľak, stredne svetlý tón pleti
+🧎🏽‍♂	kľak, kľačať, kľačiaci, kľačiaci muž: stredný tón pleti, muž, pokľak, stredný tón pleti
+🧎🏾‍♂	kľak, kľačať, kľačiaci, kľačiaci muž: stredne tmavý tón pleti, muž, pokľak, stredne tmavý tón pleti
+🧎🏿‍♂	kľak, kľačať, kľačiaci, kľačiaci muž: tmavý tón pleti, muž, pokľak, tmavý tón pleti
+🧎‍♀	kľak, kľačať, kľačiaca, kľačiaca žena, pokľak, žena
+🧎🏻‍♀	kľak, kľačať, kľačiaca, kľačiaca žena: svetlý tón pleti, pokľak, svetlý tón pleti, žena
+🧎🏼‍♀	kľak, kľačať, kľačiaca, kľačiaca žena: stredne svetlý tón pleti, pokľak, stredne svetlý tón pleti, žena
+🧎🏽‍♀	kľak, kľačať, kľačiaca, kľačiaca žena: stredný tón pleti, pokľak, stredný tón pleti, žena
+🧎🏾‍♀	kľak, kľačať, kľačiaca, kľačiaca žena: stredne tmavý tón pleti, pokľak, stredne tmavý tón pleti, žena
+🧎🏿‍♀	kľak, kľačať, kľačiaca, kľačiaca žena: tmavý tón pleti, pokľak, tmavý tón pleti, žena
+👨‍🦯	handicap, hendikep, muž, muž so slepeckou palicou, pomôcka, postihnutie, slepý, uľahčenie
+👨🏻‍🦯	handicap, hendikep, muž, muž so slepeckou palicou, muž so slepeckou palicou: svetlý tón pleti, pomôcka, postihnutie, slepý, svetlý tón pleti, uľahčenie
+👨🏼‍🦯	handicap, hendikep, muž, muž so slepeckou palicou, muž so slepeckou palicou: stredne svetlý tón pleti, pomôcka, postihnutie, slepý, stredne svetlý tón pleti, uľahčenie
+👨🏽‍🦯	handicap, hendikep, muž, muž so slepeckou palicou, muž so slepeckou palicou: stredný tón pleti, pomôcka, postihnutie, slepý, stredný tón pleti, uľahčenie
+👨🏾‍🦯	handicap, hendikep, muž, muž so slepeckou palicou, muž so slepeckou palicou: stredne tmavý tón pleti, pomôcka, postihnutie, slepý, stredne tmavý tón pleti, uľahčenie
+👨🏿‍🦯	handicap, hendikep, muž, muž so slepeckou palicou, muž so slepeckou palicou: tmavý tón pleti, pomôcka, postihnutie, slepý, tmavý tón pleti, uľahčenie
+👩‍🦯	handicap, hendikep, pomôcka, postihnutie, slepá, uľahčenie, žena, žena so slepeckou palicou
+👩🏻‍🦯	handicap, hendikep, pomôcka, postihnutie, slepá, svetlý tón pleti, uľahčenie, žena, žena so slepeckou palicou, žena so slepeckou palicou: svetlý tón pleti
+👩🏼‍🦯	handicap, hendikep, pomôcka, postihnutie, slepá, stredne svetlý tón pleti, uľahčenie, žena, žena so slepeckou palicou, žena so slepeckou palicou: stredne svetlý tón pleti
+👩🏽‍🦯	handicap, hendikep, pomôcka, postihnutie, slepá, stredný tón pleti, uľahčenie, žena, žena so slepeckou palicou, žena so slepeckou palicou: stredný tón pleti
+👩🏾‍🦯	handicap, hendikep, pomôcka, postihnutie, slepá, stredne tmavý tón pleti, uľahčenie, žena, žena so slepeckou palicou, žena so slepeckou palicou: stredne tmavý tón pleti
+👩🏿‍🦯	handicap, hendikep, pomôcka, postihnutie, slepá, tmavý tón pleti, uľahčenie, žena, žena so slepeckou palicou, žena so slepeckou palicou: tmavý tón pleti
+👨‍🦼	handicap, hendikep, invalidný, muž, muž na elektrickom invalidnom vozíku, pomôcka, postihnutie, vozík
+👨🏻‍🦼	handicap, hendikep, invalidný, muž, muž na elektrickom invalidnom vozíku, muž na elektrickom invalidnom vozíku: svetlý tón pleti, pomôcka, postihnutie, svetlý tón pleti, vozík
+👨🏼‍🦼	handicap, hendikep, invalidný, muž, muž na elektrickom invalidnom vozíku, muž na elektrickom invalidnom vozíku: stredne svetlý tón pleti, pomôcka, postihnutie, stredne svetlý tón pleti, vozík
+👨🏽‍🦼	handicap, hendikep, invalidný, muž, muž na elektrickom invalidnom vozíku, muž na elektrickom invalidnom vozíku: stredný tón pleti, pomôcka, postihnutie, stredný tón pleti, vozík
+👨🏾‍🦼	handicap, hendikep, invalidný, muž, muž na elektrickom invalidnom vozíku, muž na elektrickom invalidnom vozíku: stredne tmavý tón pleti, pomôcka, postihnutie, stredne tmavý tón pleti, vozík
+👨🏿‍🦼	handicap, hendikep, invalidný, muž, muž na elektrickom invalidnom vozíku, muž na elektrickom invalidnom vozíku: tmavý tón pleti, pomôcka, postihnutie, tmavý tón pleti, vozík
+👩‍🦼	handicap, hendikep, invalidný, pomôcka, postihnutie, vozík, žena, žena na elektrickom invalidnom vozíku
+👩🏻‍🦼	handicap, hendikep, invalidný, pomôcka, postihnutie, svetlý tón pleti, vozík, žena, žena na elektrickom invalidnom vozíku, žena na elektrickom invalidnom vozíku: svetlý tón pleti
+👩🏼‍🦼	handicap, hendikep, invalidný, pomôcka, postihnutie, stredne svetlý tón pleti, vozík, žena, žena na elektrickom invalidnom vozíku, žena na elektrickom invalidnom vozíku: stredne svetlý tón pleti
+👩🏽‍🦼	handicap, hendikep, invalidný, pomôcka, postihnutie, stredný tón pleti, vozík, žena, žena na elektrickom invalidnom vozíku, žena na elektrickom invalidnom vozíku: stredný tón pleti
+👩🏾‍🦼	handicap, hendikep, invalidný, pomôcka, postihnutie, stredne tmavý tón pleti, vozík, žena, žena na elektrickom invalidnom vozíku, žena na elektrickom invalidnom vozíku: stredne tmavý tón pleti
+👩🏿‍🦼	handicap, hendikep, invalidný, pomôcka, postihnutie, tmavý tón pleti, vozík, žena, žena na elektrickom invalidnom vozíku, žena na elektrickom invalidnom vozíku: tmavý tón pleti
+👨‍🦽	handicap, hendikep, invalidný, muž, muž na mechanickom invalidnom vozíku, pomôcka, postihnutie, vozík
+👨🏻‍🦽	handicap, hendikep, invalidný, muž, muž na mechanickom invalidnom vozíku, muž na mechanickom invalidnom vozíku: svetlý tón pleti, pomôcka, postihnutie, svetlý tón pleti, vozík
+👨🏼‍🦽	handicap, hendikep, invalidný, muž, muž na mechanickom invalidnom vozíku, muž na mechanickom invalidnom vozíku: stredne svetlý tón pleti, pomôcka, postihnutie, stredne svetlý tón pleti, vozík
+👨🏽‍🦽	handicap, hendikep, invalidný, muž, muž na mechanickom invalidnom vozíku, muž na mechanickom invalidnom vozíku: stredný tón pleti, pomôcka, postihnutie, stredný tón pleti, vozík
+👨🏾‍🦽	handicap, hendikep, invalidný, muž, muž na mechanickom invalidnom vozíku, muž na mechanickom invalidnom vozíku: stredne tmavý tón pleti, pomôcka, postihnutie, stredne tmavý tón pleti, vozík
+👨🏿‍🦽	handicap, hendikep, invalidný, muž, muž na mechanickom invalidnom vozíku, muž na mechanickom invalidnom vozíku: tmavý tón pleti, pomôcka, postihnutie, tmavý tón pleti, vozík
+👩‍🦽	handicap, hendikep, invalidný, pomôcka, postihnutie, vozík, žena, žena na mechanickom invalidnom vozíku
+👩🏻‍🦽	handicap, hendikep, invalidný, pomôcka, postihnutie, svetlý tón pleti, vozík, žena, žena na mechanickom invalidnom vozíku, žena na mechanickom invalidnom vozíku: svetlý tón pleti
+👩🏼‍🦽	handicap, hendikep, invalidný, pomôcka, postihnutie, stredne svetlý tón pleti, vozík, žena, žena na mechanickom invalidnom vozíku, žena na mechanickom invalidnom vozíku: stredne svetlý tón pleti
+👩🏽‍🦽	handicap, hendikep, invalidný, pomôcka, postihnutie, stredný tón pleti, vozík, žena, žena na mechanickom invalidnom vozíku, žena na mechanickom invalidnom vozíku: stredný tón pleti
+👩🏾‍🦽	handicap, hendikep, invalidný, pomôcka, postihnutie, stredne tmavý tón pleti, vozík, žena, žena na mechanickom invalidnom vozíku, žena na mechanickom invalidnom vozíku: stredne tmavý tón pleti
+👩🏿‍🦽	handicap, hendikep, invalidný, pomôcka, postihnutie, tmavý tón pleti, vozík, žena, žena na mechanickom invalidnom vozíku, žena na mechanickom invalidnom vozíku: tmavý tón pleti
 🏃	beh, bežiaci človek, maratón, preteky
 🏃🏻	beh, bežiaci človek, bežiaci človek: svetlý tón pleti, maratón, preteky, svetlý tón pleti
 🏃🏼	beh, bežiaci človek, bežiaci človek: stredne svetlý tón pleti, maratón, preteky, stredne svetlý tón pleti
@@ -1534,9 +1641,80 @@
 🛌🏽	hotel, spánok, stredný tón pleti, človek v posteli, človek v posteli: stredný tón pleti
 🛌🏾	hotel, spánok, stredne tmavý tón pleti, človek v posteli, človek v posteli: stredne tmavý tón pleti
 🛌🏿	hotel, spánok, tmavý tón pleti, človek v posteli, človek v posteli: tmavý tón pleti
-👭	držať, dve ženy držiace sa za ruky, pár, ruka, žena
-👫	držať, muž, muž a žena držiaci sa za ruky, pár, ruka, žena
-👬	blíženci, držať, dvaja muži držiaci sa za ruky, dvojičky, muž, pár, ruka
+🧑‍🤝‍🧑	držať, pár, ruka, človek, ľudia držiaci sa za ruky
+🧑🏻‍🤝‍🧑🏻	držať, pár, ruka, svetlý tón pleti, človek, ľudia držiaci sa za ruky, ľudia držiaci sa za ruky: svetlý tón pleti
+🧑🏼‍🤝‍🧑🏻	držať, pár, ruka, stredne svetlý tón pleti, svetlý tón pleti, človek, ľudia držiaci sa za ruky, ľudia držiaci sa za ruky: stredne svetlý tón pleti, svetlý tón pleti
+🧑🏼‍🤝‍🧑🏼	držať, pár, ruka, stredne svetlý tón pleti, človek, ľudia držiaci sa za ruky, ľudia držiaci sa za ruky: stredne svetlý tón pleti
+🧑🏽‍🤝‍🧑🏻	držať, pár, ruka, stredný tón pleti, svetlý tón pleti, človek, ľudia držiaci sa za ruky, ľudia držiaci sa za ruky: stredný tón pleti, svetlý tón pleti
+🧑🏽‍🤝‍🧑🏼	držať, pár, ruka, stredne svetlý tón pleti, stredný tón pleti, človek, ľudia držiaci sa za ruky, ľudia držiaci sa za ruky: stredný tón pleti, stredne svetlý tón pleti
+🧑🏽‍🤝‍🧑🏽	držať, pár, ruka, stredný tón pleti, človek, ľudia držiaci sa za ruky, ľudia držiaci sa za ruky: stredný tón pleti
+🧑🏾‍🤝‍🧑🏻	držať, pár, ruka, stredne tmavý tón pleti, svetlý tón pleti, človek, ľudia držiaci sa za ruky, ľudia držiaci sa za ruky: stredne tmavý tón pleti, svetlý tón pleti
+🧑🏾‍🤝‍🧑🏼	držať, pár, ruka, stredne svetlý tón pleti, stredne tmavý tón pleti, človek, ľudia držiaci sa za ruky, ľudia držiaci sa za ruky: stredne tmavý tón pleti, stredne svetlý tón pleti
+🧑🏾‍🤝‍🧑🏽	držať, pár, ruka, stredne tmavý tón pleti, stredný tón pleti, človek, ľudia držiaci sa za ruky, ľudia držiaci sa za ruky: stredne tmavý tón pleti, stredný tón pleti
+🧑🏾‍🤝‍🧑🏾	držať, pár, ruka, stredne tmavý tón pleti, človek, ľudia držiaci sa za ruky, ľudia držiaci sa za ruky: stredne tmavý tón pleti
+🧑🏿‍🤝‍🧑🏻	držať, pár, ruka, svetlý tón pleti, tmavý tón pleti, človek, ľudia držiaci sa za ruky, ľudia držiaci sa za ruky: tmavý tón pleti, svetlý tón pleti
+🧑🏿‍🤝‍🧑🏼	držať, pár, ruka, stredne svetlý tón pleti, tmavý tón pleti, človek, ľudia držiaci sa za ruky, ľudia držiaci sa za ruky: tmavý tón pleti, stredne svetlý tón pleti
+🧑🏿‍🤝‍🧑🏽	držať, pár, ruka, stredný tón pleti, tmavý tón pleti, človek, ľudia držiaci sa za ruky, ľudia držiaci sa za ruky: tmavý tón pleti, stredný tón pleti
+🧑🏿‍🤝‍🧑🏾	držať, pár, ruka, stredne tmavý tón pleti, tmavý tón pleti, človek, ľudia držiaci sa za ruky, ľudia držiaci sa za ruky: tmavý tón pleti, stredne tmavý tón pleti
+🧑🏿‍🤝‍🧑🏿	držať, pár, ruka, tmavý tón pleti, človek, ľudia držiaci sa za ruky, ľudia držiaci sa za ruky: tmavý tón pleti
+👭	držať, pár, ruka, žena, ženy držiace sa za ruky
+👭🏻	držať, pár, ruka, svetlý tón pleti, žena, ženy držiace sa za ruky, ženy držiace sa za ruky: svetlý tón pleti
+👩🏼‍🤝‍👩🏻	držať, pár, ruka, stredne svetlý tón pleti, svetlý tón pleti, žena, ženy držiace sa za ruky, ženy držiace sa za ruky: stredne svetlý tón pleti, svetlý tón pleti
+👭🏼	držať, pár, ruka, stredne svetlý tón pleti, žena, ženy držiace sa za ruky, ženy držiace sa za ruky: stredne svetlý tón pleti
+👩🏽‍🤝‍👩🏻	držať, pár, ruka, stredný tón pleti, svetlý tón pleti, žena, ženy držiace sa za ruky, ženy držiace sa za ruky: stredný tón pleti, svetlý tón pleti
+👩🏽‍🤝‍👩🏼	držať, pár, ruka, stredne svetlý tón pleti, stredný tón pleti, žena, ženy držiace sa za ruky, ženy držiace sa za ruky: stredný tón pleti, stredne svetlý tón pleti
+👭🏽	držať, pár, ruka, stredný tón pleti, žena, ženy držiace sa za ruky, ženy držiace sa za ruky: stredný tón pleti
+👩🏾‍🤝‍👩🏻	držať, pár, ruka, stredne tmavý tón pleti, svetlý tón pleti, žena, ženy držiace sa za ruky, ženy držiace sa za ruky: stredne tmavý tón pleti, svetlý tón pleti
+👩🏾‍🤝‍👩🏼	držať, pár, ruka, stredne svetlý tón pleti, stredne tmavý tón pleti, žena, ženy držiace sa za ruky, ženy držiace sa za ruky: stredne tmavý tón pleti, stredne svetlý tón pleti
+👩🏾‍🤝‍👩🏽	držať, pár, ruka, stredne tmavý tón pleti, stredný tón pleti, žena, ženy držiace sa za ruky, ženy držiace sa za ruky: stredne tmavý tón pleti, stredný tón pleti
+👭🏾	držať, pár, ruka, stredne tmavý tón pleti, žena, ženy držiace sa za ruky, ženy držiace sa za ruky: stredne tmavý tón pleti
+👩🏿‍🤝‍👩🏻	držať, pár, ruka, svetlý tón pleti, tmavý tón pleti, žena, ženy držiace sa za ruky, ženy držiace sa za ruky: tmavý tón pleti, svetlý tón pleti
+👩🏿‍🤝‍👩🏼	držať, pár, ruka, stredne svetlý tón pleti, tmavý tón pleti, žena, ženy držiace sa za ruky, ženy držiace sa za ruky: tmavý tón pleti, stredne svetlý tón pleti
+👩🏿‍🤝‍👩🏽	držať, pár, ruka, stredný tón pleti, tmavý tón pleti, žena, ženy držiace sa za ruky, ženy držiace sa za ruky: tmavý tón pleti, stredný tón pleti
+👩🏿‍🤝‍👩🏾	držať, pár, ruka, stredne tmavý tón pleti, tmavý tón pleti, žena, ženy držiace sa za ruky, ženy držiace sa za ruky: tmavý tón pleti, stredne tmavý tón pleti
+👭🏿	držať, pár, ruka, tmavý tón pleti, žena, ženy držiace sa za ruky, ženy držiace sa za ruky: tmavý tón pleti
+👫	držať, muž, pár, ruka, žena, žena a muž držiaci sa za ruky
+👫🏻	držať, muž, pár, ruka, svetlý tón pleti, žena, žena a muž držiaci sa za ruky, žena a muž držiaci sa za ruky: svetlý tón pleti
+👩🏻‍🤝‍👨🏼	držať, muž, pár, ruka, stredne svetlý tón pleti, svetlý tón pleti, žena, žena a muž držiaci sa za ruky, žena a muž držiaci sa za ruky: svetlý tón pleti, stredne svetlý tón pleti
+👩🏻‍🤝‍👨🏽	držať, muž, pár, ruka, stredný tón pleti, svetlý tón pleti, žena, žena a muž držiaci sa za ruky, žena a muž držiaci sa za ruky: svetlý tón pleti, stredný tón pleti
+👩🏻‍🤝‍👨🏾	držať, muž, pár, ruka, stredne tmavý tón pleti, svetlý tón pleti, žena, žena a muž držiaci sa za ruky, žena a muž držiaci sa za ruky: svetlý tón pleti, stredne tmavý tón pleti
+👩🏻‍🤝‍👨🏿	držať, muž, pár, ruka, svetlý tón pleti, tmavý tón pleti, žena, žena a muž držiaci sa za ruky, žena a muž držiaci sa za ruky: svetlý tón pleti, tmavý tón pleti
+👩🏼‍🤝‍👨🏻	držať, muž, pár, ruka, stredne svetlý tón pleti, svetlý tón pleti, žena, žena a muž držiaci sa za ruky, žena a muž držiaci sa za ruky: stredne svetlý tón pleti, svetlý tón pleti
+👫🏼	držať, muž, pár, ruka, stredne svetlý tón pleti, žena, žena a muž držiaci sa za ruky, žena a muž držiaci sa za ruky: stredne svetlý tón pleti
+👩🏼‍🤝‍👨🏽	držať, muž, pár, ruka, stredne svetlý tón pleti, stredný tón pleti, žena, žena a muž držiaci sa za ruky, žena a muž držiaci sa za ruky: stredne svetlý tón pleti, stredný tón pleti
+👩🏼‍🤝‍👨🏾	držať, muž, pár, ruka, stredne svetlý tón pleti, stredne tmavý tón pleti, žena, žena a muž držiaci sa za ruky, žena a muž držiaci sa za ruky: stredne svetlý tón pleti, stredne tmavý tón pleti
+👩🏼‍🤝‍👨🏿	držať, muž, pár, ruka, stredne svetlý tón pleti, tmavý tón pleti, žena, žena a muž držiaci sa za ruky, žena a muž držiaci sa za ruky: stredne svetlý tón pleti, tmavý tón pleti
+👩🏽‍🤝‍👨🏻	držať, muž, pár, ruka, stredný tón pleti, svetlý tón pleti, žena, žena a muž držiaci sa za ruky, žena a muž držiaci sa za ruky: stredný tón pleti, svetlý tón pleti
+👩🏽‍🤝‍👨🏼	držať, muž, pár, ruka, stredne svetlý tón pleti, stredný tón pleti, žena, žena a muž držiaci sa za ruky, žena a muž držiaci sa za ruky: stredný tón pleti, stredne svetlý tón pleti
+👫🏽	držať, muž, pár, ruka, stredný tón pleti, žena, žena a muž držiaci sa za ruky, žena a muž držiaci sa za ruky: stredný tón pleti
+👩🏽‍🤝‍👨🏾	držať, muž, pár, ruka, stredne tmavý tón pleti, stredný tón pleti, žena, žena a muž držiaci sa za ruky, žena a muž držiaci sa za ruky: stredný tón pleti, stredne tmavý tón pleti
+👩🏽‍🤝‍👨🏿	držať, muž, pár, ruka, stredný tón pleti, tmavý tón pleti, žena, žena a muž držiaci sa za ruky, žena a muž držiaci sa za ruky: stredný tón pleti, tmavý tón pleti
+👩🏾‍🤝‍👨🏻	držať, muž, pár, ruka, stredne tmavý tón pleti, svetlý tón pleti, žena, žena a muž držiaci sa za ruky, žena a muž držiaci sa za ruky: stredne tmavý tón pleti, svetlý tón pleti
+👩🏾‍🤝‍👨🏼	držať, muž, pár, ruka, stredne svetlý tón pleti, stredne tmavý tón pleti, žena, žena a muž držiaci sa za ruky, žena a muž držiaci sa za ruky: stredne tmavý tón pleti, stredne svetlý tón pleti
+👩🏾‍🤝‍👨🏽	držať, muž, pár, ruka, stredne tmavý tón pleti, stredný tón pleti, žena, žena a muž držiaci sa za ruky, žena a muž držiaci sa za ruky: stredne tmavý tón pleti, stredný tón pleti
+👫🏾	držať, muž, pár, ruka, stredne tmavý tón pleti, žena, žena a muž držiaci sa za ruky, žena a muž držiaci sa za ruky: stredne tmavý tón pleti
+👩🏾‍🤝‍👨🏿	držať, muž, pár, ruka, stredne tmavý tón pleti, tmavý tón pleti, žena, žena a muž držiaci sa za ruky, žena a muž držiaci sa za ruky: stredne tmavý tón pleti, tmavý tón pleti
+👩🏿‍🤝‍👨🏻	držať, muž, pár, ruka, svetlý tón pleti, tmavý tón pleti, žena, žena a muž držiaci sa za ruky, žena a muž držiaci sa za ruky: tmavý tón pleti, svetlý tón pleti
+👩🏿‍🤝‍👨🏼	držať, muž, pár, ruka, stredne svetlý tón pleti, tmavý tón pleti, žena, žena a muž držiaci sa za ruky, žena a muž držiaci sa za ruky: tmavý tón pleti, stredne svetlý tón pleti
+👩🏿‍🤝‍👨🏽	držať, muž, pár, ruka, stredný tón pleti, tmavý tón pleti, žena, žena a muž držiaci sa za ruky, žena a muž držiaci sa za ruky: tmavý tón pleti, stredný tón pleti
+👩🏿‍🤝‍👨🏾	držať, muž, pár, ruka, stredne tmavý tón pleti, tmavý tón pleti, žena, žena a muž držiaci sa za ruky, žena a muž držiaci sa za ruky: tmavý tón pleti, stredne tmavý tón pleti
+👫🏿	držať, muž, pár, ruka, tmavý tón pleti, žena, žena a muž držiaci sa za ruky, žena a muž držiaci sa za ruky: tmavý tón pleti
+👬	blíženci, držať, dvojičky, muž, muži držiaci sa za ruky, pár, ruka
+👬🏻	blíženci, držať, dvojičky, muž, muži držiaci sa za ruky, muži držiaci sa za ruky: svetlý tón pleti, pár, ruka, svetlý tón pleti
+👨🏼‍🤝‍👨🏻	blíženci, držať, dvojičky, muž, muži držiaci sa za ruky, muži držiaci sa za ruky: stredne svetlý tón pleti, svetlý tón pleti, pár, ruka, stredne svetlý tón pleti, svetlý tón pleti
+👬🏼	blíženci, držať, dvojičky, muž, muži držiaci sa za ruky, muži držiaci sa za ruky: stredne svetlý tón pleti, pár, ruka, stredne svetlý tón pleti
+👨🏽‍🤝‍👨🏻	blíženci, držať, dvojičky, muž, muži držiaci sa za ruky, muži držiaci sa za ruky: stredný tón pleti, svetlý tón pleti, pár, ruka, stredný tón pleti, svetlý tón pleti
+👨🏽‍🤝‍👨🏼	blíženci, držať, dvojičky, muž, muži držiaci sa za ruky, muži držiaci sa za ruky: stredný tón pleti, stredne svetlý tón pleti, pár, ruka, stredne svetlý tón pleti, stredný tón pleti
+👬🏽	blíženci, držať, dvojičky, muž, muži držiaci sa za ruky, muži držiaci sa za ruky: stredný tón pleti, pár, ruka, stredný tón pleti
+👨🏾‍🤝‍👨🏻	blíženci, držať, dvojičky, muž, muži držiaci sa za ruky, muži držiaci sa za ruky: stredne tmavý tón pleti, svetlý tón pleti, pár, ruka, stredne tmavý tón pleti, svetlý tón pleti
+👨🏾‍🤝‍👨🏼	blíženci, držať, dvojičky, muž, muži držiaci sa za ruky, muži držiaci sa za ruky: stredne tmavý tón pleti, stredne svetlý tón pleti, pár, ruka, stredne svetlý tón pleti, stredne tmavý tón pleti
+👨🏾‍🤝‍👨🏽	blíženci, držať, dvojičky, muž, muži držiaci sa za ruky, muži držiaci sa za ruky: stredne tmavý tón pleti, stredný tón pleti, pár, ruka, stredne tmavý tón pleti, stredný tón pleti
+👬🏾	blíženci, držať, dvojičky, muž, muži držiaci sa za ruky, muži držiaci sa za ruky: stredne tmavý tón pleti, pár, ruka, stredne tmavý tón pleti
+👨🏿‍🤝‍👨🏻	blíženci, držať, dvojičky, muž, muži držiaci sa za ruky, muži držiaci sa za ruky: tmavý tón pleti, svetlý tón pleti, pár, ruka, svetlý tón pleti, tmavý tón pleti
+👨🏿‍🤝‍👨🏼	blíženci, držať, dvojičky, muž, muži držiaci sa za ruky, muži držiaci sa za ruky: tmavý tón pleti, stredne svetlý tón pleti, pár, ruka, stredne svetlý tón pleti, tmavý tón pleti
+👨🏿‍🤝‍👨🏽	blíženci, držať, dvojičky, muž, muži držiaci sa za ruky, muži držiaci sa za ruky: tmavý tón pleti, stredný tón pleti, pár, ruka, stredný tón pleti, tmavý tón pleti
+👨🏿‍🤝‍👨🏾	blíženci, držať, dvojičky, muž, muži držiaci sa za ruky, muži držiaci sa za ruky: tmavý tón pleti, stredne tmavý tón pleti, pár, ruka, stredne tmavý tón pleti, tmavý tón pleti
+👬🏿	blíženci, držať, dvojičky, muž, muži držiaci sa za ruky, muži držiaci sa za ruky: tmavý tón pleti, pár, ruka, tmavý tón pleti
 💏	bozk, pár, romanca
 👩‍❤‍💋‍👨	bozk, bozk: žena, muž, muž, pár, romanca, žena
 👨‍❤‍💋‍👨	bozk, bozk: muž, muž, muž, pár, romanca
@@ -1582,21 +1760,24 @@
 🐵	hlava, hlava opice, opica, tvár
 🐒	opica
 🦍	gorila, opica
+🦧	orangutan, ľudoop, ľudoopica
 🐶	hlava, hlava psa, pes, zviera
 🐕️	pes, zviera
+🦮	asistencia, slepecký pes, sprievodca, vodiaci pes, zrakové postihnutie
+🐕‍🦺	asistencia, pes, pomoc, služba, služobný pes
 🐩	pes, pudel
-🐺	hlava, hlava vlka, vlk
-🦊	hlava, hlava líšky, líška
+🐺	hlava, vlk
+🦊	hlava, líška
 🦝	huncút, medviedik čistotný, prefíkaný, ľstivý, šibal
 🐱	hlava, hlava mačky, mačka, zviera
 🐈️	mačka, zviera
-🦁	hlava, hlava leva, lev
+🦁	hlava, lev
 🐯	hlava, hlava tigra, tiger
 🐅	tiger
 🐆	leopard
 🐴	hlava, hlava koňa, kôň
 🐎	dostihy, kôň
-🦄	hlava, hlava jednorožca, jednorožec
+🦄	hlava, jednorožec
 🦓	pruhy, zebra
 🦌	jeleň
 🐮	hlava, hlava kravy, krava
@@ -1620,15 +1801,18 @@
 🐭	hlava, hlava myši, myš
 🐁	myš
 🐀	krysa, potkan
-🐹	hlava, hlava škrečka, zviera, škrečok
+🐹	hlava, zviera, škrečok
 🐰	hlava, hlava zajaca, ušiak, zajac
 🐇	zajac, zajačik, zviera
 🐿️	veverica, čipmank
 🦔	jež, ježko, pichľavý
 🦇	netopier, upír
-🐻	hlava, hlava medveďa, medveď
+🐻	hlava, medveď
 🐨	koala, medveď
-🐼	hlava, hlava pandy, panda
+🐼	hlava, panda
+🦥	lenivosť, lenivý, leňoch, pomalý
+🦦	hravé, lovec rýb, loví ryby, rybolov, vydra
+🦨	skunk, smrad, smradľavý
 🦘	Austrália, kengura, skok, skákať, vačkovec
 🦡	jazvec, mediar, samotár
 🐾	labka, labky, nohy, odtlačok
@@ -1645,9 +1829,10 @@
 🦆	kačica, kačka, vták
 🦢	labuť, vták, škaredé káčatko
 🦉	múdrosť, sova, vták
+🦩	nápadný, okázalý, plameniak, tropický
 🦚	nadutý, nafúkaný, pyšný, páv
 🦜	papagáj, pirát, rozprávať, vták
-🐸	hlava, hlava žaby, žaba
+🐸	hlava, žaba
 🐊	krokodíl
 🐢	korytnačka
 🦎	jašterica, plaz
@@ -1725,6 +1910,8 @@
 🥒	jedlo, kyslá, nakladaná, uhorka, zaváraná, zelenina
 🥬	kapusta, kel, listová zelenina, šalát
 🥦	brokolica, kapusta
+🧄	cesnak, dochutenie, korenie, ochutenie, zelenina
+🧅	cibuľa, dochutenie, korenie, ochutenie, zelenina
 🍄	hríb, huba
 🥜	arašid, arašidy, jedlo, orech, zelenina
 🌰	gaštan, rastlina
@@ -1734,6 +1921,7 @@
 🥨	praclík, skrútené, slané
 🥯	bagel, pekáreň, pečivo
 🥞	jedlo, lievance, lievanec, palacinka
+🧇	forma, mriežka, múčnik, sendvičovač, vaflovač, vafľa, vafľovač
 🧀	kus syra, syr
 🍖	kosť, mäso, mäso s kosťou
 🍗	hydina, kosť, kuracie stehno, mäso
@@ -1747,6 +1935,7 @@
 🌮	jedlo, mexické, taco
 🌯	burrito, jedlo, mexické
 🥙	falafel, gyros, jedlo, kebab, plnené
+🧆	bôby, cícer, falafel, fašírka, gule, guličky
 🥚	jedlo, vajce
 🍳	panvica, vajce, varenie
 🥘	jedlo, panvica, panvica s jedlom
@@ -1754,6 +1943,7 @@
 🥣	kaša, misa s lyžicou, puding, raňajky
 🥗	jedlo, zelený, šalát
 🍿	popcorn, pukance
+🧈	maslo, mliekarenské, mliekareň, mliečne
 🧂	ochutiť, soľ, soľnička
 🥫	konzerva, plechovka
 🍱	krabička na jedlo, škatuľka
@@ -1777,6 +1967,7 @@
 🦞	dary mora, homár, klepetá
 🦐	jedlo, kreveta, mäkkýš
 🦑	jedlo, kalmár, mäkkýš
+🦪	perla, potápanie, ustrica
 🍦	dezert, krém, sladkosť, točená zmrzlina, zmrzlina, čapovaná
 🍧	dezert, dreň, mrazená dreň, sladkosť, zmrzlina
 🍨	dezert, krém, sladkosť, zmrzlina
@@ -1805,6 +1996,9 @@
 🥂	nápoj, oslavovať, pohár, prípitok, štrngajúce poháriky, štrngať
 🥃	alkohol, pohár, pohár na whisky, pohárik, whisky
 🥤	džús, limonáda, pohár so slamkou
+🧃	džús v krabičke, krabicový džús, nápoj v krabičke, nápojová krabička, pitie v krabičke
+🧉	maté, nápoj, pitie
+🧊	chlad, kocka ľadu, studený, ľad, ľadovec, ľadová kocka
 🥢	jedlo, paličky
 🍽️	nôž, tanier, varenie, vidlička, vidlička, nôž a tanier
 🍴	nôž, varenie, vidlička, vidlička a nôž
@@ -1853,6 +2047,7 @@
 🗽	sloboda, socha, socha slobody
 ⛪️	budova, kostol, kresťan, kríž, náboženstvo
 🕌	budova, islam, mešita, moslim, náboženstvo
+🛕	chrám, hinduista, hinduistický chrám, hinduizmus, svätyňa
 🕍	budova, chrám, náboženstvo, synagóga, žid
 ⛩️	náboženstvo, svätyňa, šintoistická svätyňa, šintó
 🕋	islam, kába, moslim, náboženstvo
@@ -1903,6 +2098,9 @@
 🏎️	auto, preteky, pretekárske auto
 🏍️	motocykel, motorka, preteky
 🛵	motorka, skúter
+🦽	handicap, hendikep, invalidita, invalidný, mechanický invalidný vozík, pomôcka, postihnutie, uľahčenie
+🦼	elektrický invalidný vozík, handicap, hendikep, invalidita, invalidný, pomôcka, postihnutie, uľahčenie
+🛺	autorikša, motorikša, tuk‑tuk
 🚲️	bicykel, dopravný prostriedok
 🛴	kolobežka
 🛹	doska, skejt, skejtbord
@@ -1928,6 +2126,7 @@
 🛩️	dopravný prostriedok, lietadlo, malé lietadlo
 🛫	dopravný prostriedok, lietadlo, odlet, odlet lietadla, odlety, registrácia
 🛬	dopravný prostriedok, lietadlo, pristávajúce, prílet, prílet lietadla, prílety
+🪂	padák, paragliding, parašutizmus, plachtenie, zoskok s padákom, závesné lietanie
 💺	kreslo, sedadlo, stolička
 🚁	dopravný prostriedok, helikoptéra, vrtuľník
 🚟	dopravný prostriedok, lanovka, závesná, železnica
@@ -1985,6 +2184,7 @@
 ☀️	jas, lúče, počasie, slnečno, slnko, vesmír
 🌝	jas, mesiac, počasie, spln, spln s tvárou, tvár, vesmír
 🌞	jas, počasie, slnko, slnko s tvárou, tvár, vesmír
+🪐	planéta s prstencom, saturn
 ⭐️	biela stredná hviezda, hviezda
 🌟	hviezda, jas, trblietať, záblesk, žiariaca hviezda, žiariť
 🌠	hviezda, padajúca, padajúca hviezda, vesmír
@@ -2020,7 +2220,7 @@
 🎆	ohňostroj, oslava
 🎇	iskra, ohňostroj, oslava, prskavka
 🧨	dynamit, ohňostroj, petarda, výbušnina
-✨	hviezda, iskra, iskry
+✨	*, hviezda, iskra, iskry
 🎈	balónik, oslava
 🎉	konfety, oslava, párty, salónka
 🎊	guľa, konfetová guľa, konfety, oslava
@@ -2064,11 +2264,14 @@
 ⛳️	golf, jamka, zástava v jamke
 ⛸️	korčuľa, ľad
 🎣	ryba, udica
+🤿	okuliare, potápanie, potápačská maska, potápačské okuliare, šnorchel, šnorchlovanie
 🎽	beh, bežecké tričko, tričko, šerpa
 🎿	lyže, sneh
 🛷	sane, sánky
 🥌	curling, curlingový kameň, kameň
 🎯	cieľ, hra, oko, presný stred, presný zásah, stred, zásah, šípka
+🪀	cievka, hračka, jo-jo, jojo, kolísanie
+🪁	let, lietanie, papierový šarkan, púšťanie, stúpanie, vzlietnutie
 🎱	8, biliard, biliardová guľa č. 8, guľa č. 8, hra, osem
 🔮	fantasy, krištáľ, krištáľová guľa, rozprávka, veštenie
 🧿	amulet, korálka, modré oko, nazar, prívesok, talizman
@@ -2095,6 +2298,7 @@
 🕶️	oko, okuliare, slnečné okuliare, tmavé
 🥽	ochrana očí, ochranné okuliare, plávanie, zváranie
 🥼	doktor, laboratórny plášť, pokus, vedec
+🦺	bezpečnostná vesta, bezpečnosť, núdza, reflexná, vesta, výstražná
 👔	kravata, oblečenie
 👕	košeľa, oblečenie, tričko
 👖	gate, nohavice, oblečenie, rifle
@@ -2104,6 +2308,10 @@
 🧦	pančucha, ponožky
 👗	oblečenie, šaty
 👘	kimono, oblečenie
+🥻	oblečenie, odev, sárí, šaty
+🩱	dámske plavky, jednodielne plavky
+🩲	bielizeň, jednodielne, plavky, slipy, spodky
+🩳	jednodielne, kraťasy, krátke nohavice, plavky, spodky, trenírky, šortky
 👙	bikini, oblečenie, plávanie, plávať
 👚	dámske oblečenie, oblečenie, žena
 👛	koruna, oblečenie, peňaženka
@@ -2117,6 +2325,7 @@
 🥿	balerína, balerínka, cvička, papučka
 👠	oblečenie, podpätok, topánka, topánka na podpätku, žena
 👡	dámsky sandál, oblečenie, sandál, topánka, žena
+🩰	balet, baletné špice, tanec
 👢	dámska čižma, oblečenie, obuv, čižma, žena
 👑	koruna, kráľ, kráľovná, oblečenie
 👒	dámsky klobúk, klobúk, oblečenie, žena
@@ -2151,6 +2360,7 @@
 🎹	hudba, klavír, klávesy, nástroj
 🎺	hudba, nástroj, trúbka
 🎻	hudba, husle, nástroj
+🪕	banjo, bendžo, hudba, nástroj, strunový
 🥁	bubenícke, bubon, hudba, paličky
 📱	mobil, mobilný, telefón
 📲	hovor, mobil, mobil so šípkou, mobilný, prijímať, telefón, šípka
@@ -2186,6 +2396,7 @@
 💡	elektrické, komiks, nápad, svetlo, žiarovka
 🔦	baterka, elektrické, nástroj, svetlo, svietidlo
 🏮	bar, japonský, lampión, svetlo, červené, červený lampión
+🪔	dija, indická, lampa, olej
 📔	kniha, obal, zdobený, zápisník, zápisník so zdobeným obalom
 📕	kniha, zatvorená, zatvorená kniha
 📖	kniha, otvorená, otvorená kniha
@@ -2264,6 +2475,7 @@
 🔑	heslo, kľúč, zámka
 🗝️	kľúč, staré, starý kľúč, vodidlo, zámka
 🔨	kladivo, nástroj
+🪓	drevo, rúbanie, rúbať, sekanie, sekať, sekera, štiepanie, štiepať
 ⛏️	dolovanie, krompáč, nástroj
 ⚒️	kladivo, kladivo a krompáč, krompáč, nástroj
 🛠️	francúzsky kľúč, kladivo, kladivo a kľúč, nástroj
@@ -2277,6 +2489,7 @@
 ⚙️	nástroj, ozubené koliesko
 🗜️	nástroj, zverák
 ⚖️	hmotnosť, miskové váhy, nástroj, rovnováha, spravodlivosť, váhy, váženie, zverokruh
+🦯	handicap, hendikep, nevidiaci, pomôcka, postihnutie, slepec, slepecká palica, slepý
 🔗	odkaz, prepojenie, spojenie, spojovací článok
 ⛓️	reťaz, reťaze
 🧰	debna, kufrík na náradie, náradie, nástroje
@@ -2289,13 +2502,18 @@
 🔭	nástroj, teleskop, ďalekohľad
 📡	anténa, satelit, satelitná anténa, tanier
 💉	choroba, doktor, ihla, injekcia, medicína, nástroj
+🩸	darcovstvo, darovanie, krv, kvapka krvi, lekárstvo, medicína, menštruácia
 💊	choroba, doktor, medicína, tabletka
+🩹	leukoplast, náplasť, obväz
+🩺	doktor, lekár, lekárstvo, medicína, srdce, stetoskop
 🚪	dvere
 🛏️	hotel, posteľ, spánok
 🛋️	gauč, gauč a lampa, hotel, lampa
+🪑	sedadlo, sedenie, sedieť, stolička
 🚽	toaleta, záchod
 🚿	sprcha, voda
 🛁	vaňa
+🪒	britva, holenie, holiace, holiť, oholiť, ostrý
 🧴	hydratačný krém, slnečný krém, vodička, šampón
 🧷	pankáč, pankáčka, spínací špendlík
 🧹	metla, striga, upratovať, zametať
@@ -2414,28 +2632,28 @@
 🔱	emblém, emblém trojzubca, kotva, loď, nástroj, trojzubec
 📛	meno, menovka
 🔰	japonská, japonský symbol pre začiatočníka, list, nástroj, páska, začiatočník, zelená, žltá
-⭕️	kruh, o, veľký hrubý kruh
-✅	biely znak začiarknutia, začiarknuť, znak
-☑️	políčko, začiarkavacie, začiarkavacie políčko
+⭕️	kruh, prázdny červený kruh, veľký, červený
+✅	začiarkavacie políčko, začiarknutie, začiarknuť, ✓
+☑️	začiarknutie, začiarknuté, začiarknuté políčko, začiarknuť, ✓
 ✔️	začiarknuť, znak, znak začiarknutia
-✖️	násobenie, násobiť, x, znak násobenia, zrušiť
-❌	krížik, násobenie, násobiť, x, znak, zrušiť
-❎	tlačidlo s krížikom, znak, štvorec
-➕	matematika, plus, znak sčítania
-➖	matematika, mínus, znak odčítania
-➗	delenie, matematika, znak delenia
+✖️	násobenie, násobiť, x, znak násobenia, zrušiť, ×
+❌	krížik, násobenie, násobiť, x, znak, zrušiť, ×
+❎	tlačidlo s krížikom, x, znak, ×, štvorec
+➕	+, matematika, plus, znak, znak sčítania
+➖	-, matematika, mínus, znak, znak odčítania, −
+➗	delenie, matematika, znak, znak delenia, ÷
 ➰	slučka
 ➿	dvojitá, dvojitá slučka, slučka
 〽️	part, znak, znak začiatku partu
-✳️	hviezdička, osemcípa hviezdička
-✴️	hviezda, osemcípa hviezda
-❇️	iskra, trblietanie
-‼️	dvojitý výkričník, interpunkcia, výkričník, znak
+✳️	*, hviezdička, osemcípa, osemcípa hviezdička
+✴️	*, hviezda, osemcípa, osemcípa hviezda
+❇️	*, iskra, trblietanie
+‼️	!, !!, dvojitý výkričník, interpunkcia, výkričník, znak, zvolanie
 ⁉️	interpunkcia, otázka, výkričník, výkričník s otáznikom, znak
-❓️	interpunkcia, otázka, otáznik, znak
+❓️	?, interpunkcia, otázka, otáznik, znak
 ❔	biely otáznik, interpunkcia, obrys, otázka, znak
 ❕	biely výkričník, interpunkcia, obrys, výkričník, znak
-❗️	interpunkcia, výkričník, znak
+❗️	!, interpunkcia, výkričník, znak, zvolanie
 〰️	interpunkcia, vlnovka, vlnovkovitá, vlnovková pomlčka
 ©️	autorské právo, copyright
 ®️	registrovaná známka, registrované
@@ -2493,9 +2711,21 @@
 🈺	japonský ideograf Otvorené, japončina
 🈵	japonský ideograf Žiadne voľné miesta, japončina
 🔴	geometria, kruh, červený, červený kruh
+🟠	koliesko, kruh, krúžok, oranžová, oranžový kruh
+🟡	koliesko, kruh, krúžok, žltá, žltý kruh
+🟢	koliesko, kruh, krúžok, zelená, zelený kruh
 🔵	geometria, kruh, modrý, modrý kruh
+🟣	fialová, fialový kruh, koliesko, kruh, krúžok
+🟤	hnedá, hnedý kruh, koliesko, kruh, krúžok
 ⚫️	geometria, kruh, čierny kruh
 ⚪️	biely kruh, geometria, kruh
+🟥	červená, červený štvorec, štvorec, štvorček
+🟧	oranžová, oranžový štvorec, štvorec, štvorček
+🟨	štvorec, štvorček, žltá, žltý štvorec
+🟩	zelená, zelený štvorec, štvorec, štvorček
+🟦	modrá, modrý štvorec, štvorec, štvorček
+🟪	fialová, fialový štvorec, štvorec, štvorček
+🟫	hnedá, hnedý štvorec, štvorec, štvorček
 ⬛️	geometria, veľký čierny štvorec, štvorec
 ⬜️	geometria, veľký biely štvorec, štvorec
 ◼️	geometria, stredný čierny štvorec, štvorec
@@ -2670,7 +2900,7 @@
 🇲🇫	zástava, zástava: Svätý Martin (fr.)
 🇲🇬	zástava, zástava: Madagaskar
 🇲🇭	zástava, zástava: Marshallove ostrovy
-🇲🇰	zástava, zástava: Macedónsko
+🇲🇰	zástava, zástava: Severné Macedónsko
 🇲🇱	zástava, zástava: Mali
 🇲🇲	zástava, zástava: Mjanmarsko
 🇲🇳	zástava, zástava: Mongolsko

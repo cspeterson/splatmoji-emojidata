@@ -504,6 +504,11 @@
 😫:
   - mukha
   - pagod na mukha
+🥱:
+  - humihikab
+  - mukhang humihikab
+  - nababagot
+  - pagod
 😤:
   - mukha
   - mukha na umuusok ang ilong
@@ -640,25 +645,22 @@
   - mata
   - mukha
   - nakangiti
-  - nakatawa
-  - ngiti
   - pusa
   - pusang nakatawa kasama ang mga mata
 😹:
-  - iyak
+  - luha
   - masaya
   - mukha
   - naiiyak
   - pusa
   - pusang naiiyak sa kakatawa
-  - tawa
   - tumatawa
 😻:
   - mata
   - mukha
   - nakangiti
-  - ngiti
   - pag-ibig
+  - pagmamahal
   - pusa
   - pusang nakangiti nang may hugis-pusong mga mata
   - puso
@@ -675,11 +677,9 @@
   - pusa
   - pusang humahalik nang nakapikit
 🙀:
-  - gulat
   - mukha
   - nabigla
   - nagulat
-  - natatakot
   - pagod
   - pusa
   - pusang pagod na pagod
@@ -820,12 +820,20 @@
   - purple
   - purple na puso
   - puso
+🤎:
+  - kayumanggi
+  - kayumangging puso
+  - puso
 🖤:
   - itim
   - itim na puso
   - masama
   - puso
   - sama
+🤍:
+  - puso
+  - puti
+  - puting puso
 💯:
   - '100'
   - buo
@@ -1153,6 +1161,34 @@
   - 'kamay na nagpapahiwatig ng ok: dark na kulay ng balat'
   - ok
   - pera
+🤏:
+  - kamay na kumukurot
+  - maliit na halaga
+🤏🏻:
+  - kamay na kumukurot
+  - 'kamay na kumukurot: light na kulay ng balat'
+  - light na kulay ng balat
+  - maliit na halaga
+🤏🏼:
+  - kamay na kumukurot
+  - 'kamay na kumukurot: katamtamang light na kulay ng balat'
+  - katamtamang light na kulay ng balat
+  - maliit na halaga
+🤏🏽:
+  - kamay na kumukurot
+  - 'kamay na kumukurot: katamtamang kulay ng balat'
+  - katamtamang kulay ng balat
+  - maliit na halaga
+🤏🏾:
+  - kamay na kumukurot
+  - 'kamay na kumukurot: katamtamang dark na kulay ng balat'
+  - katamtamang dark na kulay ng balat
+  - maliit na halaga
+🤏🏿:
+  - dark na kulay ng balat
+  - kamay na kumukurot
+  - 'kamay na kumukurot: dark na kulay ng balat'
+  - maliit na halaga
 ✌️:
   - daliri
   - kamay
@@ -2318,6 +2354,14 @@
   - naka-flex
   - pinalaking biceps
   - 'pinalaking biceps: dark na kulay ng balat'
+🦾:
+  - mekanikal na braso
+  - pagiging naa-access
+  - prosthetic
+🦿:
+  - mekanikal na binti
+  - pagiging naa-access
+  - prosthetic
 🦵:
   - biyas
   - hita
@@ -2420,6 +2464,40 @@
   - tainga
   - 'tainga: dark na kulay ng balat'
   - tenga
+🦻:
+  - hirap makarinig
+  - pagiging naa-access
+  - tainga na may hearing aid
+🦻🏻:
+  - hirap makarinig
+  - light na kulay ng balat
+  - pagiging naa-access
+  - tainga na may hearing aid
+  - 'tainga na may hearing aid: light na kulay ng balat'
+🦻🏼:
+  - hirap makarinig
+  - katamtamang light na kulay ng balat
+  - pagiging naa-access
+  - tainga na may hearing aid
+  - 'tainga na may hearing aid: katamtamang light na kulay ng balat'
+🦻🏽:
+  - hirap makarinig
+  - katamtamang kulay ng balat
+  - pagiging naa-access
+  - tainga na may hearing aid
+  - 'tainga na may hearing aid: katamtamang kulay ng balat'
+🦻🏾:
+  - hirap makarinig
+  - katamtamang dark na kulay ng balat
+  - pagiging naa-access
+  - tainga na may hearing aid
+  - 'tainga na may hearing aid: katamtamang dark na kulay ng balat'
+🦻🏿:
+  - dark na kulay ng balat
+  - hirap makarinig
+  - pagiging naa-access
+  - tainga na may hearing aid
+  - 'tainga na may hearing aid: dark na kulay ng balat'
 👃:
   - ilong
   - katawan
@@ -2733,32 +2811,37 @@
   - tao
   - taong may balbas
 🧔🏻:
-  - beard
+  - balbas
+  - 'lalaki: balbas'
   - light na kulay ng balat
   - tao
   - taong may balbas
   - 'taong may balbas: light na kulay ng balat'
 🧔🏼:
-  - beard
+  - balbas
   - katamtamang light na kulay ng balat
+  - 'lalaki: balbas'
   - tao
   - taong may balbas
   - 'taong may balbas: katamtamang light na kulay ng balat'
 🧔🏽:
-  - beard
+  - balbas
   - katamtamang kulay ng balat
+  - 'lalaki: balbas'
   - tao
   - taong may balbas
   - 'taong may balbas: katamtamang kulay ng balat'
 🧔🏾:
-  - beard
+  - balbas
   - katamtamang dark na kulay ng balat
+  - 'lalaki: balbas'
   - tao
   - taong may balbas
   - 'taong may balbas: katamtamang dark na kulay ng balat'
 🧔🏿:
-  - beard
+  - balbas
   - dark na kulay ng balat
+  - 'lalaki: balbas'
   - tao
   - taong may balbas
   - 'taong may balbas: dark na kulay ng balat'
@@ -2965,32 +3048,42 @@
   - blonde
 👱🏻‍♀:
   - babae
-  - babaeng blonde
-  - 'babaeng blonde: light na kulay ng balat'
+  - 'babae: blond na buhok'
+  - 'babae: light na kulay ng balat, blond na buhok'
+  - babaeng blond ang buhok
+  - blond na buhok
   - blonde
   - light na kulay ng balat
 👱🏼‍♀:
   - babae
-  - babaeng blonde
-  - 'babaeng blonde: katamtamang light na kulay ng balat'
+  - 'babae: blond na buhok'
+  - 'babae: katamtamang light na kulay ng balat, blond na buhok'
+  - babaeng blond ang buhok
+  - blond na buhok
   - blonde
   - katamtamang light na kulay ng balat
 👱🏽‍♀:
   - babae
-  - babaeng blonde
-  - 'babaeng blonde: katamtamang kulay ng balat'
+  - 'babae: blond na buhok'
+  - 'babae: katamtamang kulay ng balat, blond na buhok'
+  - babaeng blond ang buhok
+  - blond na buhok
   - blonde
   - katamtamang kulay ng balat
 👱🏾‍♀:
   - babae
-  - babaeng blonde
-  - 'babaeng blonde: katamtamang dark na kulay ng balat'
+  - 'babae: blond na buhok'
+  - 'babae: katamtamang dark na kulay ng balat, blond na buhok'
+  - babaeng blond ang buhok
+  - blond na buhok
   - blonde
   - katamtamang dark na kulay ng balat
 👱🏿‍♀:
   - babae
-  - babaeng blonde
-  - 'babaeng blonde: dark na kulay ng balat'
+  - 'babae: blond na buhok'
+  - 'babae: dark na kulay ng balat, blond na buhok'
+  - babaeng blond ang buhok
+  - blond na buhok
   - blonde
   - dark na kulay ng balat
 👩‍🦰:
@@ -3120,45 +3213,40 @@
   - kasarian-neutral
   - light na kulay ng balat
   - magulang
-  - mas matanda
-  - 'mas matanda: light na kulay ng balat'
   - mas matandang tao
+  - 'mas matandang tao: light na kulay ng balat'
   - matanda
 🧓🏼:
   - hindi tinukoy na kasarian
   - kasarian-neutral
   - katamtamang light na kulay ng balat
   - magulang
-  - mas matanda
-  - 'mas matanda: katamtamang light na kulay ng balat'
   - mas matandang tao
+  - 'mas matandang tao: katamtamang light na kulay ng balat'
   - matanda
 🧓🏽:
   - hindi tinukoy na kasarian
   - kasarian-neutral
   - katamtamang kulay ng balat
   - magulang
-  - mas matanda
-  - 'mas matanda: katamtamang kulay ng balat'
   - mas matandang tao
+  - 'mas matandang tao: katamtamang kulay ng balat'
   - matanda
 🧓🏾:
   - hindi tinukoy na kasarian
   - kasarian-neutral
   - katamtamang dark na kulay ng balat
   - magulang
-  - mas matanda
-  - 'mas matanda: katamtamang dark na kulay ng balat'
   - mas matandang tao
+  - 'mas matandang tao: katamtamang dark na kulay ng balat'
   - matanda
 🧓🏿:
   - dark na kulay ng balat
   - hindi tinukoy na kasarian
   - kasarian-neutral
   - magulang
-  - mas matanda
-  - 'mas matanda: dark na kulay ng balat'
   - mas matandang tao
+  - 'mas matandang tao: dark na kulay ng balat'
   - matanda
 👴:
   - lalaki
@@ -3791,35 +3879,40 @@
   - kamay
   - light na kulay ng balat
   - tao sa information desk
-  - 'tao sa information desk: light na kulay ng balat'
+  - taong nakatikwas ang kamay
+  - 'taong nakatikwas ang kamay: light na kulay ng balat'
   - tulong
 💁🏼:
   - impormasyon
   - kamay
   - katamtamang light na kulay ng balat
   - tao sa information desk
-  - 'tao sa information desk: katamtamang light na kulay ng balat'
+  - taong nakatikwas ang kamay
+  - 'taong nakatikwas ang kamay: katamtamang light na kulay ng balat'
   - tulong
 💁🏽:
   - impormasyon
   - kamay
   - katamtamang kulay ng balat
   - tao sa information desk
-  - 'tao sa information desk: katamtamang kulay ng balat'
+  - taong nakatikwas ang kamay
+  - 'taong nakatikwas ang kamay: katamtamang kulay ng balat'
   - tulong
 💁🏾:
   - impormasyon
   - kamay
   - katamtamang dark na kulay ng balat
   - tao sa information desk
-  - 'tao sa information desk: katamtamang dark na kulay ng balat'
+  - taong nakatikwas ang kamay
+  - 'taong nakatikwas ang kamay: katamtamang dark na kulay ng balat'
   - tulong
 💁🏿:
   - dark na kulay ng balat
   - impormasyon
   - kamay
   - tao sa information desk
-  - 'tao sa information desk: dark na kulay ng balat'
+  - taong nakatikwas ang kamay
+  - 'taong nakatikwas ang kamay: dark na kulay ng balat'
   - tulong
 💁‍♂:
   - lalaki
@@ -4015,6 +4108,120 @@
   - 'babaeng nakataas ang kamay: dark na kulay ng balat'
   - dark na kulay ng balat
   - nakataas ang kamay
+🧏:
+  - bingi
+  - pagiging naa-access
+  - pandinig
+  - tainga
+  - taong bingi
+🧏🏻:
+  - bingi
+  - light na kulay ng balat
+  - pagiging naa-access
+  - pandinig
+  - tainga
+  - taong bingi
+  - 'taong bingi: light na kulay ng balat'
+🧏🏼:
+  - bingi
+  - katamtamang light na kulay ng balat
+  - pagiging naa-access
+  - pandinig
+  - tainga
+  - taong bingi
+  - 'taong bingi: katamtamang light na kulay ng balat'
+🧏🏽:
+  - bingi
+  - katamtamang kulay ng balat
+  - pagiging naa-access
+  - pandinig
+  - tainga
+  - taong bingi
+  - 'taong bingi: katamtamang kulay ng balat'
+🧏🏾:
+  - bingi
+  - katamtamang dark na kulay ng balat
+  - pagiging naa-access
+  - pandinig
+  - tainga
+  - taong bingi
+  - 'taong bingi: katamtamang dark na kulay ng balat'
+🧏🏿:
+  - bingi
+  - dark na kulay ng balat
+  - pagiging naa-access
+  - pandinig
+  - tainga
+  - taong bingi
+  - 'taong bingi: dark na kulay ng balat'
+🧏‍♂:
+  - bingi
+  - lalaki
+  - lalaking bingi
+🧏🏻‍♂:
+  - bingi
+  - lalaki
+  - lalaking bingi
+  - 'lalaking bingi: light na kulay ng balat'
+  - light na kulay ng balat
+🧏🏼‍♂:
+  - bingi
+  - katamtamang light na kulay ng balat
+  - lalaki
+  - lalaking bingi
+  - 'lalaking bingi: katamtamang light na kulay ng balat'
+🧏🏽‍♂:
+  - bingi
+  - katamtamang kulay ng balat
+  - lalaki
+  - lalaking bingi
+  - 'lalaking bingi: katamtamang kulay ng balat'
+🧏🏾‍♂:
+  - bingi
+  - katamtamang dark na kulay ng balat
+  - lalaki
+  - lalaking bingi
+  - 'lalaking bingi: katamtamang dark na kulay ng balat'
+🧏🏿‍♂:
+  - bingi
+  - dark na kulay ng balat
+  - lalaki
+  - lalaking bingi
+  - 'lalaking bingi: dark na kulay ng balat'
+🧏‍♀:
+  - babae
+  - babaeng bingi
+  - bingi
+🧏🏻‍♀:
+  - babae
+  - babaeng bingi
+  - 'babaeng bingi: light na kulay ng balat'
+  - bingi
+  - light na kulay ng balat
+🧏🏼‍♀:
+  - babae
+  - babaeng bingi
+  - 'babaeng bingi: katamtamang light na kulay ng balat'
+  - bingi
+  - katamtamang light na kulay ng balat
+🧏🏽‍♀:
+  - babae
+  - babaeng bingi
+  - 'babaeng bingi: katamtamang kulay ng balat'
+  - bingi
+  - katamtamang kulay ng balat
+🧏🏾‍♀:
+  - babae
+  - babaeng bingi
+  - 'babaeng bingi: katamtamang dark na kulay ng balat'
+  - bingi
+  - katamtamang dark na kulay ng balat
+🧏🏿‍♀:
+  - babae
+  - babaeng bingi
+  - 'babaeng bingi: dark na kulay ng balat'
+  - bingi
+  - dark na kulay ng balat
 🙇:
   - gesture
   - humihiling
@@ -5206,37 +5413,42 @@
   - kaopisina
   - opisina
 👩🏻‍💼:
+  - babaeng empleyado sa opisina
+  - 'babaeng empleyado sa opisina: light na kulay ng balat'
   - empleyada sa opisina
-  - 'empleyada sa opisina: light na kulay ng balat'
   - empleyeda
   - kaopisina
   - light na kulay ng balat
   - opisina
 👩🏼‍💼:
+  - babaeng empleyado sa opisina
+  - 'babaeng empleyado sa opisina: katamtamang light na kulay ng balat'
   - empleyada sa opisina
-  - 'empleyada sa opisina: katamtamang light na kulay ng balat'
   - empleyeda
   - kaopisina
   - katamtamang light na kulay ng balat
   - opisina
 👩🏽‍💼:
+  - babaeng empleyado sa opisina
+  - 'babaeng empleyado sa opisina: katamtamang kulay ng balat'
   - empleyada sa opisina
-  - 'empleyada sa opisina: katamtamang kulay ng balat'
   - empleyeda
   - kaopisina
   - katamtamang kulay ng balat
   - opisina
 👩🏾‍💼:
+  - babaeng empleyado sa opisina
+  - 'babaeng empleyado sa opisina: katamtamang dark na kulay ng balat'
   - empleyada sa opisina
-  - 'empleyada sa opisina: katamtamang dark na kulay ng balat'
   - empleyeda
   - kaopisina
   - katamtamang dark na kulay ng balat
   - opisina
 👩🏿‍💼:
+  - babaeng empleyado sa opisina
+  - 'babaeng empleyado sa opisina: dark na kulay ng balat'
   - dark na kulay ng balat
   - empleyada sa opisina
-  - 'empleyada sa opisina: dark na kulay ng balat'
   - empleyeda
   - kaopisina
   - opisina
@@ -6783,38 +6995,43 @@
   - nanay
   - pasko
 🤶🏻:
+  - Mrs Claus
+  - 'Mrs Claus: light na kulay ng balat'
   - Mrs. Claus
   - light na kulay ng balat
   - mother christmas
-  - 'mother christmas: light na kulay ng balat'
   - nanay
   - pasko
 🤶🏼:
+  - Mrs Claus
+  - 'Mrs Claus: katamtamang light na kulay ng balat'
   - Mrs. Claus
   - katamtamang light na kulay ng balat
   - mother christmas
-  - 'mother christmas: katamtamang light na kulay ng balat'
   - nanay
   - pasko
 🤶🏽:
+  - Mrs Claus
+  - 'Mrs Claus: katamtamang kulay ng balat'
   - Mrs. Claus
   - katamtamang kulay ng balat
   - mother christmas
-  - 'mother christmas: katamtamang kulay ng balat'
   - nanay
   - pasko
 🤶🏾:
+  - Mrs Claus
+  - 'Mrs Claus: katamtamang dark na kulay ng balat'
   - Mrs. Claus
   - katamtamang dark na kulay ng balat
   - mother christmas
-  - 'mother christmas: katamtamang dark na kulay ng balat'
   - nanay
   - pasko
 🤶🏿:
+  - Mrs Claus
+  - 'Mrs Claus: dark na kulay ng balat'
   - Mrs. Claus
   - dark na kulay ng balat
   - mother christmas
-  - 'mother christmas: dark na kulay ng balat'
   - nanay
   - pasko
 🦸:
@@ -7972,6 +8189,450 @@
   - 'babaeng naglalakad: dark na kulay ng balat'
   - dark na kulay ng balat
   - lakad
+🧍:
+  - nakatayo
+  - nakatayong tao
+  - tumayo
+🧍🏻:
+  - light na kulay ng balat
+  - nakatayo
+  - nakatayong tao
+  - 'nakatayong tao: light na kulay ng balat'
+  - tumayo
+🧍🏼:
+  - katamtamang light na kulay ng balat
+  - nakatayo
+  - nakatayong tao
+  - 'nakatayong tao: katamtamang light na kulay ng balat'
+  - tumayo
+🧍🏽:
+  - katamtamang kulay ng balat
+  - nakatayo
+  - nakatayong tao
+  - 'nakatayong tao: katamtamang kulay ng balat'
+  - tumayo
+🧍🏾:
+  - katamtamang dark na kulay ng balat
+  - nakatayo
+  - nakatayong tao
+  - 'nakatayong tao: katamtamang dark na kulay ng balat'
+  - tumayo
+🧍🏿:
+  - dark na kulay ng balat
+  - nakatayo
+  - nakatayong tao
+  - 'nakatayong tao: dark na kulay ng balat'
+  - tumayo
+🧍‍♂:
+  - lalaki
+  - lalaking nakatayo
+  - nakatayo
+🧍🏻‍♂:
+  - lalaki
+  - lalaking nakatayo
+  - 'lalaking nakatayo: light na kulay ng balat'
+  - light na kulay ng balat
+  - nakatayo
+🧍🏼‍♂:
+  - katamtamang light na kulay ng balat
+  - lalaki
+  - lalaking nakatayo
+  - 'lalaking nakatayo: katamtamang light na kulay ng balat'
+  - nakatayo
+🧍🏽‍♂:
+  - katamtamang kulay ng balat
+  - lalaki
+  - lalaking nakatayo
+  - 'lalaking nakatayo: katamtamang kulay ng balat'
+  - nakatayo
+🧍🏾‍♂:
+  - katamtamang dark na kulay ng balat
+  - lalaki
+  - lalaking nakatayo
+  - 'lalaking nakatayo: katamtamang dark na kulay ng balat'
+  - nakatayo
+🧍🏿‍♂:
+  - dark na kulay ng balat
+  - lalaki
+  - lalaking nakatayo
+  - 'lalaking nakatayo: dark na kulay ng balat'
+  - nakatayo
+🧍‍♀:
+  - babae
+  - babaeng nakatayo
+  - nakatayo
+🧍🏻‍♀:
+  - babae
+  - babaeng nakatayo
+  - 'babaeng nakatayo: light na kulay ng balat'
+  - light na kulay ng balat
+  - nakatayo
+🧍🏼‍♀:
+  - babae
+  - babaeng nakatayo
+  - 'babaeng nakatayo: katamtamang light na kulay ng balat'
+  - katamtamang light na kulay ng balat
+  - nakatayo
+🧍🏽‍♀:
+  - babae
+  - babaeng nakatayo
+  - 'babaeng nakatayo: katamtamang kulay ng balat'
+  - katamtamang kulay ng balat
+  - nakatayo
+🧍🏾‍♀:
+  - babae
+  - babaeng nakatayo
+  - 'babaeng nakatayo: katamtamang dark na kulay ng balat'
+  - katamtamang dark na kulay ng balat
+  - nakatayo
+🧍🏿‍♀:
+  - babae
+  - babaeng nakatayo
+  - 'babaeng nakatayo: dark na kulay ng balat'
+  - dark na kulay ng balat
+  - nakatayo
+🧎:
+  - lumuhod
+  - nakaluhod
+  - taong nakaluhod
+🧎🏻:
+  - light na kulay ng balat
+  - lumuhod
+  - nakaluhod
+  - taong nakaluhod
+  - 'taong nakaluhod: light na kulay ng balat'
+🧎🏼:
+  - katamtamang light na kulay ng balat
+  - lumuhod
+  - nakaluhod
+  - taong nakaluhod
+  - 'taong nakaluhod: katamtamang light na kulay ng balat'
+🧎🏽:
+  - katamtamang kulay ng balat
+  - lumuhod
+  - nakaluhod
+  - taong nakaluhod
+  - 'taong nakaluhod: katamtamang kulay ng balat'
+🧎🏾:
+  - katamtamang dark na kulay ng balat
+  - lumuhod
+  - nakaluhod
+  - taong nakaluhod
+  - 'taong nakaluhod: katamtamang dark na kulay ng balat'
+🧎🏿:
+  - dark na kulay ng balat
+  - lumuhod
+  - nakaluhod
+  - taong nakaluhod
+  - 'taong nakaluhod: dark na kulay ng balat'
+🧎‍♂:
+  - lalaki
+  - lalaking nakaluhod
+  - nakaluhod
+🧎🏻‍♂:
+  - lalaki
+  - lalaking nakaluhod
+  - 'lalaking nakaluhod: light na kulay ng balat'
+  - light na kulay ng balat
+  - nakaluhod
+🧎🏼‍♂:
+  - katamtamang light na kulay ng balat
+  - lalaki
+  - lalaking nakaluhod
+  - 'lalaking nakaluhod: katamtamang light na kulay ng balat'
+  - nakaluhod
+🧎🏽‍♂:
+  - katamtamang kulay ng balat
+  - lalaki
+  - lalaking nakaluhod
+  - 'lalaking nakaluhod: katamtamang kulay ng balat'
+  - nakaluhod
+🧎🏾‍♂:
+  - katamtamang dark na kulay ng balat
+  - lalaki
+  - lalaking nakaluhod
+  - 'lalaking nakaluhod: katamtamang dark na kulay ng balat'
+  - nakaluhod
+🧎🏿‍♂:
+  - dark na kulay ng balat
+  - lalaki
+  - lalaking nakaluhod
+  - 'lalaking nakaluhod: dark na kulay ng balat'
+  - nakaluhod
+🧎‍♀:
+  - babae
+  - babaeng nakaluhod
+  - nakaluhod
+🧎🏻‍♀:
+  - babae
+  - babaeng nakaluhod
+  - 'babaeng nakaluhod: light na kulay ng balat'
+  - light na kulay ng balat
+  - nakaluhod
+🧎🏼‍♀:
+  - babae
+  - babaeng nakaluhod
+  - 'babaeng nakaluhod: katamtamang light na kulay ng balat'
+  - katamtamang light na kulay ng balat
+  - nakaluhod
+🧎🏽‍♀:
+  - babae
+  - babaeng nakaluhod
+  - 'babaeng nakaluhod: katamtamang kulay ng balat'
+  - katamtamang kulay ng balat
+  - nakaluhod
+🧎🏾‍♀:
+  - babae
+  - babaeng nakaluhod
+  - 'babaeng nakaluhod: katamtamang dark na kulay ng balat'
+  - katamtamang dark na kulay ng balat
+  - nakaluhod
+🧎🏿‍♀:
+  - babae
+  - babaeng nakaluhod
+  - 'babaeng nakaluhod: dark na kulay ng balat'
+  - dark na kulay ng balat
+  - nakaluhod
+👨‍🦯:
+  - bulag
+  - lalaki
+  - lalaking may baston
+  - pagiging naa-access
+👨🏻‍🦯:
+  - bulag
+  - lalaki
+  - lalaking may baston
+  - 'lalaking may baston: light na kulay ng balat'
+  - light na kulay ng balat
+  - pagiging naa-access
+👨🏼‍🦯:
+  - bulag
+  - katamtamang light na kulay ng balat
+  - lalaki
+  - lalaking may baston
+  - 'lalaking may baston: katamtamang light na kulay ng balat'
+  - pagiging naa-access
+👨🏽‍🦯:
+  - bulag
+  - katamtamang kulay ng balat
+  - lalaki
+  - lalaking may baston
+  - 'lalaking may baston: katamtamang kulay ng balat'
+  - pagiging naa-access
+👨🏾‍🦯:
+  - bulag
+  - katamtamang dark na kulay ng balat
+  - lalaki
+  - lalaking may baston
+  - 'lalaking may baston: katamtamang dark na kulay ng balat'
+  - pagiging naa-access
+👨🏿‍🦯:
+  - bulag
+  - dark na kulay ng balat
+  - lalaki
+  - lalaking may baston
+  - 'lalaking may baston: dark na kulay ng balat'
+  - pagiging naa-access
+👩‍🦯:
+  - babae
+  - babaeng may baston
+  - bulag
+  - pagiging naa-access
+👩🏻‍🦯:
+  - babae
+  - babaeng may baston
+  - 'babaeng may baston: light na kulay ng balat'
+  - bulag
+  - light na kulay ng balat
+  - pagiging naa-access
+👩🏼‍🦯:
+  - babae
+  - babaeng may baston
+  - 'babaeng may baston: katamtamang light na kulay ng balat'
+  - bulag
+  - katamtamang light na kulay ng balat
+  - pagiging naa-access
+👩🏽‍🦯:
+  - babae
+  - babaeng may baston
+  - 'babaeng may baston: katamtamang kulay ng balat'
+  - bulag
+  - katamtamang kulay ng balat
+  - pagiging naa-access
+👩🏾‍🦯:
+  - babae
+  - babaeng may baston
+  - 'babaeng may baston: katamtamang dark na kulay ng balat'
+  - bulag
+  - katamtamang dark na kulay ng balat
+  - pagiging naa-access
+👩🏿‍🦯:
+  - babae
+  - babaeng may baston
+  - 'babaeng may baston: dark na kulay ng balat'
+  - bulag
+  - dark na kulay ng balat
+  - pagiging naa-access
+👨‍🦼:
+  - lalaki
+  - lalaki sa de-kuryenteng wheelchair
+  - pagiging naa-access
+  - wheelchair
+👨🏻‍🦼:
+  - lalaki
+  - lalaki sa de-kuryenteng wheelchair
+  - 'lalaki sa de-kuryenteng wheelchair: light na kulay ng balat'
+  - light na kulay ng balat
+  - pagiging naa-access
+  - wheelchair
+👨🏼‍🦼:
+  - katamtamang light na kulay ng balat
+  - lalaki
+  - lalaki sa de-kuryenteng wheelchair
+  - 'lalaki sa de-kuryenteng wheelchair: katamtamang light na kulay ng balat'
+  - pagiging naa-access
+  - wheelchair
+👨🏽‍🦼:
+  - katamtamang kulay ng balat
+  - lalaki
+  - lalaki sa de-kuryenteng wheelchair
+  - 'lalaki sa de-kuryenteng wheelchair: katamtamang kulay ng balat'
+  - pagiging naa-access
+  - wheelchair
+👨🏾‍🦼:
+  - katamtamang dark na kulay ng balat
+  - lalaki
+  - lalaki sa de-kuryenteng wheelchair
+  - 'lalaki sa de-kuryenteng wheelchair: katamtamang dark na kulay ng balat'
+  - pagiging naa-access
+  - wheelchair
+👨🏿‍🦼:
+  - dark na kulay ng balat
+  - lalaki
+  - lalaki sa de-kuryenteng wheelchair
+  - 'lalaki sa de-kuryenteng wheelchair: dark na kulay ng balat'
+  - pagiging naa-access
+  - wheelchair
+👩‍🦼:
+  - babae
+  - babae sa de-kuryenteng wheelchair
+  - pagiging naa-access
+  - wheelchair
+👩🏻‍🦼:
+  - babae
+  - babae sa de-kuryenteng wheelchair
+  - 'babae sa de-kuryenteng wheelchair: light na kulay ng balat'
+  - light na kulay ng balat
+  - pagiging naa-access
+  - wheelchair
+👩🏼‍🦼:
+  - babae
+  - babae sa de-kuryenteng wheelchair
+  - 'babae sa de-kuryenteng wheelchair: katamtamang light na kulay ng balat'
+  - katamtamang light na kulay ng balat
+  - pagiging naa-access
+  - wheelchair
+👩🏽‍🦼:
+  - babae
+  - babae sa de-kuryenteng wheelchair
+  - 'babae sa de-kuryenteng wheelchair: katamtamang kulay ng balat'
+  - katamtamang kulay ng balat
+  - pagiging naa-access
+  - wheelchair
+👩🏾‍🦼:
+  - babae
+  - babae sa de-kuryenteng wheelchair
+  - 'babae sa de-kuryenteng wheelchair: katamtamang dark na kulay ng balat'
+  - katamtamang dark na kulay ng balat
+  - pagiging naa-access
+  - wheelchair
+👩🏿‍🦼:
+  - babae
+  - babae sa de-kuryenteng wheelchair
+  - 'babae sa de-kuryenteng wheelchair: dark na kulay ng balat'
+  - dark na kulay ng balat
+  - pagiging naa-access
+  - wheelchair
+👨‍🦽:
+  - lalaki
+  - lalaki sa manu-manong wheelchair
+  - pagiging naa-access
+  - wheelchair
+👨🏻‍🦽:
+  - lalaki
+  - lalaki sa manu-manong wheelchair
+  - 'lalaki sa manu-manong wheelchair: light na kulay ng balat'
+  - light na kulay ng balat
+  - pagiging naa-access
+  - wheelchair
+👨🏼‍🦽:
+  - katamtamang light na kulay ng balat
+  - lalaki
+  - lalaki sa manu-manong wheelchair
+  - 'lalaki sa manu-manong wheelchair: katamtamang light na kulay ng balat'
+  - pagiging naa-access
+  - wheelchair
+👨🏽‍🦽:
+  - katamtamang kulay ng balat
+  - lalaki
+  - lalaki sa manu-manong wheelchair
+  - 'lalaki sa manu-manong wheelchair: katamtamang kulay ng balat'
+  - pagiging naa-access
+  - wheelchair
+👨🏾‍🦽:
+  - katamtamang dark na kulay ng balat
+  - lalaki
+  - lalaki sa manu-manong wheelchair
+  - 'lalaki sa manu-manong wheelchair: katamtamang dark na kulay ng balat'
+  - pagiging naa-access
+  - wheelchair
+👨🏿‍🦽:
+  - dark na kulay ng balat
+  - lalaki
+  - lalaki sa manu-manong wheelchair
+  - 'lalaki sa manu-manong wheelchair: dark na kulay ng balat'
+  - pagiging naa-access
+  - wheelchair
+👩‍🦽:
+  - babae
+  - babae sa manu-manong wheelchair
+  - pagiging naa-access
+  - wheelchair
+👩🏻‍🦽:
+  - babae
+  - babae sa manu-manong wheelchair
+  - 'babae sa manu-manong wheelchair: light na kulay ng balat'
+  - light na kulay ng balat
+  - pagiging naa-access
+  - wheelchair
+👩🏼‍🦽:
+  - babae
+  - babae sa manu-manong wheelchair
+  - 'babae sa manu-manong wheelchair: katamtamang light na kulay ng balat'
+  - katamtamang light na kulay ng balat
+  - pagiging naa-access
+  - wheelchair
+👩🏽‍🦽:
+  - babae
+  - babae sa manu-manong wheelchair
+  - 'babae sa manu-manong wheelchair: katamtamang kulay ng balat'
+  - katamtamang kulay ng balat
+  - pagiging naa-access
+  - wheelchair
+👩🏾‍🦽:
+  - babae
+  - babae sa manu-manong wheelchair
+  - 'babae sa manu-manong wheelchair: katamtamang dark na kulay ng balat'
+  - katamtamang dark na kulay ng balat
+  - pagiging naa-access
+  - wheelchair
+👩🏿‍🦽:
+  - babae
+  - babae sa manu-manong wheelchair
+  - 'babae sa manu-manong wheelchair: dark na kulay ng balat'
+  - dark na kulay ng balat
+  - pagiging naa-access
+  - wheelchair
 🏃:
   - marathon
   - takbo
@@ -10240,21 +10901,359 @@
   - natutulog
   - taong nakahiga
   - 'taong nakahiga: dark na kulay ng balat'
-👭:
-  - babae
-  - dalawang babaeng magkahawak-kamay
-  - gemini
+🧑‍🤝‍🧑:
+  - hawak
   - hawak-kamay
   - holding hands
   - kamay
-  - kambal
-  - lgbt
-  - magkahawak-kamay
   - magkapareha
-  - magkasintahan
-  - pda
-  - public display of affection
-  - zodiac
+  - magkaparehang magkahawak-kamay
+  - mga taong magkahawak-kamay
+  - tao
+🧑🏻‍🤝‍🧑🏻:
+  - hawak
+  - hawak-kamay
+  - holding hands
+  - kamay
+  - light na kulay ng balat
+  - magkapareha
+  - magkaparehang magkahawak-kamay
+  - mga taong magkahawak-kamay
+  - 'mga taong magkahawak-kamay: light na kulay ng balat'
+  - tao
+🧑🏼‍🤝‍🧑🏻:
+  - hawak
+  - hawak-kamay
+  - holding hands
+  - kamay
+  - katamtamang light na kulay ng balat
+  - light na kulay ng balat
+  - magkapareha
+  - magkaparehang magkahawak-kamay
+  - mga taong magkahawak-kamay
+  - 'mga taong magkahawak-kamay: katamtamang light na kulay ng balat, light na kulay
+    ng balat'
+  - tao
+🧑🏼‍🤝‍🧑🏼:
+  - hawak
+  - hawak-kamay
+  - holding hands
+  - kamay
+  - katamtamang light na kulay ng balat
+  - magkapareha
+  - magkaparehang magkahawak-kamay
+  - mga taong magkahawak-kamay
+  - 'mga taong magkahawak-kamay: katamtamang light na kulay ng balat'
+  - tao
+🧑🏽‍🤝‍🧑🏻:
+  - hawak
+  - hawak-kamay
+  - holding hands
+  - kamay
+  - katamtamang kulay ng balat
+  - light na kulay ng balat
+  - magkapareha
+  - magkaparehang magkahawak-kamay
+  - mga taong magkahawak-kamay
+  - 'mga taong magkahawak-kamay: katamtamang kulay ng balat, light na kulay ng balat'
+  - tao
+🧑🏽‍🤝‍🧑🏼:
+  - hawak
+  - hawak-kamay
+  - holding hands
+  - kamay
+  - katamtamang kulay ng balat
+  - katamtamang light na kulay ng balat
+  - magkapareha
+  - magkaparehang magkahawak-kamay
+  - mga taong magkahawak-kamay
+  - 'mga taong magkahawak-kamay: katamtamang kulay ng balat, katamtamang light na
+    kulay ng balat'
+  - tao
+🧑🏽‍🤝‍🧑🏽:
+  - hawak
+  - hawak-kamay
+  - holding hands
+  - kamay
+  - katamtamang kulay ng balat
+  - magkapareha
+  - magkaparehang magkahawak-kamay
+  - mga taong magkahawak-kamay
+  - 'mga taong magkahawak-kamay: katamtamang kulay ng balat'
+  - tao
+🧑🏾‍🤝‍🧑🏻:
+  - hawak
+  - hawak-kamay
+  - holding hands
+  - kamay
+  - katamtamang dark na kulay ng balat
+  - light na kulay ng balat
+  - magkapareha
+  - magkaparehang magkahawak-kamay
+  - mga taong magkahawak-kamay
+  - 'mga taong magkahawak-kamay: katamtamang dark na kulay ng balat, light na kulay
+    ng balat'
+  - tao
+🧑🏾‍🤝‍🧑🏼:
+  - hawak
+  - hawak-kamay
+  - holding hands
+  - kamay
+  - katamtamang dark na kulay ng balat
+  - katamtamang light na kulay ng balat
+  - magkapareha
+  - magkaparehang magkahawak-kamay
+  - mga taong magkahawak-kamay
+  - 'mga taong magkahawak-kamay: katamtamang dark na kulay ng balat, katamtamang light
+    na kulay ng balat'
+  - tao
+🧑🏾‍🤝‍🧑🏽:
+  - hawak
+  - hawak-kamay
+  - holding hands
+  - kamay
+  - katamtamang dark na kulay ng balat
+  - katamtamang kulay ng balat
+  - magkapareha
+  - magkaparehang magkahawak-kamay
+  - mga taong magkahawak-kamay
+  - 'mga taong magkahawak-kamay: katamtamang dark na kulay ng balat, katamtamang kulay
+    ng balat'
+  - tao
+🧑🏾‍🤝‍🧑🏾:
+  - hawak
+  - hawak-kamay
+  - holding hands
+  - kamay
+  - katamtamang dark na kulay ng balat
+  - magkapareha
+  - magkaparehang magkahawak-kamay
+  - mga taong magkahawak-kamay
+  - 'mga taong magkahawak-kamay: katamtamang dark na kulay ng balat'
+  - tao
+🧑🏿‍🤝‍🧑🏻:
+  - dark na kulay ng balat
+  - hawak
+  - hawak-kamay
+  - holding hands
+  - kamay
+  - light na kulay ng balat
+  - magkapareha
+  - magkaparehang magkahawak-kamay
+  - mga taong magkahawak-kamay
+  - 'mga taong magkahawak-kamay: dark na kulay ng balat, light na kulay ng balat'
+  - tao
+🧑🏿‍🤝‍🧑🏼:
+  - dark na kulay ng balat
+  - hawak
+  - hawak-kamay
+  - holding hands
+  - kamay
+  - katamtamang light na kulay ng balat
+  - magkapareha
+  - magkaparehang magkahawak-kamay
+  - mga taong magkahawak-kamay
+  - 'mga taong magkahawak-kamay: dark na kulay ng balat, katamtamang light na kulay
+    ng balat'
+  - tao
+🧑🏿‍🤝‍🧑🏽:
+  - dark na kulay ng balat
+  - hawak
+  - hawak-kamay
+  - holding hands
+  - kamay
+  - katamtamang kulay ng balat
+  - magkapareha
+  - magkaparehang magkahawak-kamay
+  - mga taong magkahawak-kamay
+  - 'mga taong magkahawak-kamay: dark na kulay ng balat, katamtamang kulay ng balat'
+  - tao
+🧑🏿‍🤝‍🧑🏾:
+  - dark na kulay ng balat
+  - hawak
+  - hawak-kamay
+  - holding hands
+  - kamay
+  - katamtamang dark na kulay ng balat
+  - magkapareha
+  - magkaparehang magkahawak-kamay
+  - mga taong magkahawak-kamay
+  - 'mga taong magkahawak-kamay: dark na kulay ng balat, katamtamang dark na kulay
+    ng balat'
+  - tao
+🧑🏿‍🤝‍🧑🏿:
+  - dark na kulay ng balat
+  - hawak
+  - hawak-kamay
+  - holding hands
+  - kamay
+  - magkapareha
+  - magkaparehang magkahawak-kamay
+  - mga taong magkahawak-kamay
+  - 'mga taong magkahawak-kamay: dark na kulay ng balat'
+  - tao
+👭:
+  - babae
+  - dalawang babaeng magkahawak-kamay
+  - hawak-kamay
+  - holding hands
+  - kamay
+  - magkapareha
+👭🏻:
+  - babae
+  - dalawang babaeng magkahawak-kamay
+  - 'dalawang babaeng magkahawak-kamay: light na kulay ng balat'
+  - hawak-kamay
+  - holding hands
+  - kamay
+  - light na kulay ng balat
+  - magkapareha
+👩🏼‍🤝‍👩🏻:
+  - babae
+  - dalawang babaeng magkahawak-kamay
+  - 'dalawang babaeng magkahawak-kamay: katamtamang light na kulay ng balat, light
+    na kulay ng balat'
+  - hawak-kamay
+  - holding hands
+  - kamay
+  - katamtamang light na kulay ng balat
+  - light na kulay ng balat
+  - magkapareha
+👭🏼:
+  - babae
+  - dalawang babaeng magkahawak-kamay
+  - 'dalawang babaeng magkahawak-kamay: katamtamang light na kulay ng balat'
+  - hawak-kamay
+  - holding hands
+  - kamay
+  - katamtamang light na kulay ng balat
+  - magkapareha
+👩🏽‍🤝‍👩🏻:
+  - babae
+  - dalawang babaeng magkahawak-kamay
+  - 'dalawang babaeng magkahawak-kamay: katamtamang kulay ng balat, light na kulay
+    ng balat'
+  - hawak-kamay
+  - holding hands
+  - kamay
+  - katamtamang kulay ng balat
+  - light na kulay ng balat
+  - magkapareha
+👩🏽‍🤝‍👩🏼:
+  - babae
+  - dalawang babaeng magkahawak-kamay
+  - 'dalawang babaeng magkahawak-kamay: katamtamang kulay ng balat, katamtamang light
+    na kulay ng balat'
+  - hawak-kamay
+  - holding hands
+  - kamay
+  - katamtamang kulay ng balat
+  - katamtamang light na kulay ng balat
+  - magkapareha
+👭🏽:
+  - babae
+  - dalawang babaeng magkahawak-kamay
+  - 'dalawang babaeng magkahawak-kamay: katamtamang kulay ng balat'
+  - hawak-kamay
+  - holding hands
+  - kamay
+  - katamtamang kulay ng balat
+  - magkapareha
+👩🏾‍🤝‍👩🏻:
+  - babae
+  - dalawang babaeng magkahawak-kamay
+  - 'dalawang babaeng magkahawak-kamay: katamtamang dark na kulay ng balat, light
+    na kulay ng balat'
+  - hawak-kamay
+  - holding hands
+  - kamay
+  - katamtamang dark na kulay ng balat
+  - light na kulay ng balat
+  - magkapareha
+👩🏾‍🤝‍👩🏼:
+  - babae
+  - dalawang babaeng magkahawak-kamay
+  - 'dalawang babaeng magkahawak-kamay: katamtamang dark na kulay ng balat, katamtamang
+    light na kulay ng balat'
+  - hawak-kamay
+  - holding hands
+  - kamay
+  - katamtamang dark na kulay ng balat
+  - katamtamang light na kulay ng balat
+  - magkapareha
+👩🏾‍🤝‍👩🏽:
+  - babae
+  - dalawang babaeng magkahawak-kamay
+  - 'dalawang babaeng magkahawak-kamay: katamtamang dark na kulay ng balat, katamtamang
+    kulay ng balat'
+  - hawak-kamay
+  - holding hands
+  - kamay
+  - katamtamang dark na kulay ng balat
+  - katamtamang kulay ng balat
+  - magkapareha
+👭🏾:
+  - babae
+  - dalawang babaeng magkahawak-kamay
+  - 'dalawang babaeng magkahawak-kamay: katamtamang dark na kulay ng balat'
+  - hawak-kamay
+  - holding hands
+  - kamay
+  - katamtamang dark na kulay ng balat
+  - magkapareha
+👩🏿‍🤝‍👩🏻:
+  - babae
+  - dalawang babaeng magkahawak-kamay
+  - 'dalawang babaeng magkahawak-kamay: dark na kulay ng balat, light na kulay ng
+    balat'
+  - dark na kulay ng balat
+  - hawak-kamay
+  - holding hands
+  - kamay
+  - light na kulay ng balat
+  - magkapareha
+👩🏿‍🤝‍👩🏼:
+  - babae
+  - dalawang babaeng magkahawak-kamay
+  - 'dalawang babaeng magkahawak-kamay: dark na kulay ng balat, katamtamang light
+    na kulay ng balat'
+  - dark na kulay ng balat
+  - hawak-kamay
+  - holding hands
+  - kamay
+  - katamtamang light na kulay ng balat
+  - magkapareha
+👩🏿‍🤝‍👩🏽:
+  - babae
+  - dalawang babaeng magkahawak-kamay
+  - 'dalawang babaeng magkahawak-kamay: dark na kulay ng balat, katamtamang kulay
+    ng balat'
+  - dark na kulay ng balat
+  - hawak-kamay
+  - holding hands
+  - kamay
+  - katamtamang kulay ng balat
+  - magkapareha
+👩🏿‍🤝‍👩🏾:
+  - babae
+  - dalawang babaeng magkahawak-kamay
+  - 'dalawang babaeng magkahawak-kamay: dark na kulay ng balat, katamtamang dark na
+    kulay ng balat'
+  - dark na kulay ng balat
+  - hawak-kamay
+  - holding hands
+  - kamay
+  - katamtamang dark na kulay ng balat
+  - magkapareha
+👭🏿:
+  - babae
+  - dalawang babaeng magkahawak-kamay
+  - 'dalawang babaeng magkahawak-kamay: dark na kulay ng balat'
+  - dark na kulay ng balat
+  - hawak-kamay
+  - holding hands
+  - kamay
+  - magkapareha
 👫:
   - babae
   - hawak-kamay
@@ -10262,25 +11261,490 @@
   - kamay
   - lalaki
   - lalaki at babaeng magkahawak-kamay
-  - magkahawak-kamay
   - magkapareha
-  - magkasintahan
-  - pda
-  - public display of affection
-👬:
-  - dalawang lalaking magkahawak-kamay
-  - gemini
+👫🏻:
+  - babae
   - hawak-kamay
   - holding hands
   - kamay
+  - lalaki
+  - lalaki at babaeng magkahawak-kamay
+  - 'lalaki at babaeng magkahawak-kamay: light na kulay ng balat'
+  - light na kulay ng balat
+  - magkapareha
+👩🏻‍🤝‍👨🏼:
+  - babae
+  - hawak-kamay
+  - holding hands
+  - kamay
+  - katamtamang light na kulay ng balat
+  - lalaki
+  - lalaki at babaeng magkahawak-kamay
+  - 'lalaki at babaeng magkahawak-kamay: light na kulay ng balat, katamtamang light
+    na kulay ng balat'
+  - light na kulay ng balat
+  - magkapareha
+👩🏻‍🤝‍👨🏽:
+  - babae
+  - hawak-kamay
+  - holding hands
+  - kamay
+  - katamtamang kulay ng balat
+  - lalaki
+  - lalaki at babaeng magkahawak-kamay
+  - 'lalaki at babaeng magkahawak-kamay: light na kulay ng balat, katamtamang kulay
+    ng balat'
+  - light na kulay ng balat
+  - magkapareha
+👩🏻‍🤝‍👨🏾:
+  - babae
+  - hawak-kamay
+  - holding hands
+  - kamay
+  - katamtamang dark na kulay ng balat
+  - lalaki
+  - lalaki at babaeng magkahawak-kamay
+  - 'lalaki at babaeng magkahawak-kamay: light na kulay ng balat, katamtamang dark
+    na kulay ng balat'
+  - light na kulay ng balat
+  - magkapareha
+👩🏻‍🤝‍👨🏿:
+  - babae
+  - dark na kulay ng balat
+  - hawak-kamay
+  - holding hands
+  - kamay
+  - lalaki
+  - lalaki at babaeng magkahawak-kamay
+  - 'lalaki at babaeng magkahawak-kamay: light na kulay ng balat, dark na kulay ng
+    balat'
+  - light na kulay ng balat
+  - magkapareha
+👩🏼‍🤝‍👨🏻:
+  - babae
+  - hawak-kamay
+  - holding hands
+  - kamay
+  - katamtamang light na kulay ng balat
+  - lalaki
+  - lalaki at babaeng magkahawak-kamay
+  - 'lalaki at babaeng magkahawak-kamay: katamtamang light na kulay ng balat, light
+    na kulay ng balat'
+  - light na kulay ng balat
+  - magkapareha
+👫🏼:
+  - babae
+  - hawak-kamay
+  - holding hands
+  - kamay
+  - katamtamang light na kulay ng balat
+  - lalaki
+  - lalaki at babaeng magkahawak-kamay
+  - 'lalaki at babaeng magkahawak-kamay: katamtamang light na kulay ng balat'
+  - magkapareha
+👩🏼‍🤝‍👨🏽:
+  - babae
+  - hawak-kamay
+  - holding hands
+  - kamay
+  - katamtamang kulay ng balat
+  - katamtamang light na kulay ng balat
+  - lalaki
+  - lalaki at babaeng magkahawak-kamay
+  - 'lalaki at babaeng magkahawak-kamay: katamtamang light na kulay ng balat, katamtamang
+    kulay ng balat'
+  - magkapareha
+👩🏼‍🤝‍👨🏾:
+  - babae
+  - hawak-kamay
+  - holding hands
+  - kamay
+  - katamtamang dark na kulay ng balat
+  - katamtamang light na kulay ng balat
+  - lalaki
+  - lalaki at babaeng magkahawak-kamay
+  - 'lalaki at babaeng magkahawak-kamay: katamtamang light na kulay ng balat, katamtamang
+    dark na kulay ng balat'
+  - magkapareha
+👩🏼‍🤝‍👨🏿:
+  - babae
+  - dark na kulay ng balat
+  - hawak-kamay
+  - holding hands
+  - kamay
+  - katamtamang light na kulay ng balat
+  - lalaki
+  - lalaki at babaeng magkahawak-kamay
+  - 'lalaki at babaeng magkahawak-kamay: katamtamang light na kulay ng balat, dark
+    na kulay ng balat'
+  - magkapareha
+👩🏽‍🤝‍👨🏻:
+  - babae
+  - hawak-kamay
+  - holding hands
+  - kamay
+  - katamtamang kulay ng balat
+  - lalaki
+  - lalaki at babaeng magkahawak-kamay
+  - 'lalaki at babaeng magkahawak-kamay: katamtamang kulay ng balat, light na kulay
+    ng balat'
+  - light na kulay ng balat
+  - magkapareha
+👩🏽‍🤝‍👨🏼:
+  - babae
+  - hawak-kamay
+  - holding hands
+  - kamay
+  - katamtamang kulay ng balat
+  - katamtamang light na kulay ng balat
+  - lalaki
+  - lalaki at babaeng magkahawak-kamay
+  - 'lalaki at babaeng magkahawak-kamay: katamtamang kulay ng balat, katamtamang light
+    na kulay ng balat'
+  - magkapareha
+👫🏽:
+  - babae
+  - hawak-kamay
+  - holding hands
+  - kamay
+  - katamtamang kulay ng balat
+  - lalaki
+  - lalaki at babaeng magkahawak-kamay
+  - 'lalaki at babaeng magkahawak-kamay: katamtamang kulay ng balat'
+  - magkapareha
+👩🏽‍🤝‍👨🏾:
+  - babae
+  - hawak-kamay
+  - holding hands
+  - kamay
+  - katamtamang dark na kulay ng balat
+  - katamtamang kulay ng balat
+  - lalaki
+  - lalaki at babaeng magkahawak-kamay
+  - 'lalaki at babaeng magkahawak-kamay: katamtamang kulay ng balat, katamtamang dark
+    na kulay ng balat'
+  - magkapareha
+👩🏽‍🤝‍👨🏿:
+  - babae
+  - dark na kulay ng balat
+  - hawak-kamay
+  - holding hands
+  - kamay
+  - katamtamang kulay ng balat
+  - lalaki
+  - lalaki at babaeng magkahawak-kamay
+  - 'lalaki at babaeng magkahawak-kamay: katamtamang kulay ng balat, dark na kulay
+    ng balat'
+  - magkapareha
+👩🏾‍🤝‍👨🏻:
+  - babae
+  - hawak-kamay
+  - holding hands
+  - kamay
+  - katamtamang dark na kulay ng balat
+  - lalaki
+  - lalaki at babaeng magkahawak-kamay
+  - 'lalaki at babaeng magkahawak-kamay: katamtamang dark na kulay ng balat, light
+    na kulay ng balat'
+  - light na kulay ng balat
+  - magkapareha
+👩🏾‍🤝‍👨🏼:
+  - babae
+  - hawak-kamay
+  - holding hands
+  - kamay
+  - katamtamang dark na kulay ng balat
+  - katamtamang light na kulay ng balat
+  - lalaki
+  - lalaki at babaeng magkahawak-kamay
+  - 'lalaki at babaeng magkahawak-kamay: katamtamang dark na kulay ng balat, katamtamang
+    light na kulay ng balat'
+  - magkapareha
+👩🏾‍🤝‍👨🏽:
+  - babae
+  - hawak-kamay
+  - holding hands
+  - kamay
+  - katamtamang dark na kulay ng balat
+  - katamtamang kulay ng balat
+  - lalaki
+  - lalaki at babaeng magkahawak-kamay
+  - 'lalaki at babaeng magkahawak-kamay: katamtamang dark na kulay ng balat, katamtamang
+    kulay ng balat'
+  - magkapareha
+👫🏾:
+  - babae
+  - hawak-kamay
+  - holding hands
+  - kamay
+  - katamtamang dark na kulay ng balat
+  - lalaki
+  - lalaki at babaeng magkahawak-kamay
+  - 'lalaki at babaeng magkahawak-kamay: katamtamang dark na kulay ng balat'
+  - magkapareha
+👩🏾‍🤝‍👨🏿:
+  - babae
+  - dark na kulay ng balat
+  - hawak-kamay
+  - holding hands
+  - kamay
+  - katamtamang dark na kulay ng balat
+  - lalaki
+  - lalaki at babaeng magkahawak-kamay
+  - 'lalaki at babaeng magkahawak-kamay: katamtamang dark na kulay ng balat, dark
+    na kulay ng balat'
+  - magkapareha
+👩🏿‍🤝‍👨🏻:
+  - babae
+  - dark na kulay ng balat
+  - hawak-kamay
+  - holding hands
+  - kamay
+  - lalaki
+  - lalaki at babaeng magkahawak-kamay
+  - 'lalaki at babaeng magkahawak-kamay: dark na kulay ng balat, light na kulay ng
+    balat'
+  - light na kulay ng balat
+  - magkapareha
+👩🏿‍🤝‍👨🏼:
+  - babae
+  - dark na kulay ng balat
+  - hawak-kamay
+  - holding hands
+  - kamay
+  - katamtamang light na kulay ng balat
+  - lalaki
+  - lalaki at babaeng magkahawak-kamay
+  - 'lalaki at babaeng magkahawak-kamay: dark na kulay ng balat, katamtamang light
+    na kulay ng balat'
+  - magkapareha
+👩🏿‍🤝‍👨🏽:
+  - babae
+  - dark na kulay ng balat
+  - hawak-kamay
+  - holding hands
+  - kamay
+  - katamtamang kulay ng balat
+  - lalaki
+  - lalaki at babaeng magkahawak-kamay
+  - 'lalaki at babaeng magkahawak-kamay: dark na kulay ng balat, katamtamang kulay
+    ng balat'
+  - magkapareha
+👩🏿‍🤝‍👨🏾:
+  - babae
+  - dark na kulay ng balat
+  - hawak-kamay
+  - holding hands
+  - kamay
+  - katamtamang dark na kulay ng balat
+  - lalaki
+  - lalaki at babaeng magkahawak-kamay
+  - 'lalaki at babaeng magkahawak-kamay: dark na kulay ng balat, katamtamang dark
+    na kulay ng balat'
+  - magkapareha
+👫🏿:
+  - babae
+  - dark na kulay ng balat
+  - hawak-kamay
+  - holding hands
+  - kamay
+  - lalaki
+  - lalaki at babaeng magkahawak-kamay
+  - 'lalaki at babaeng magkahawak-kamay: dark na kulay ng balat'
+  - magkapareha
+👬:
+  - Gemini
+  - dalawang lalaking magkahawak-kamay
+  - hawak-kamay
   - kambal
   - lalaki
-  - lgbt
-  - magkahawak-kamay
   - magkapareha
-  - magkasintahan
-  - pda
-  - public display of affection
+  - mga lalaki
+  - zodiac
+👬🏻:
+  - Gemini
+  - dalawang lalaking magkahawak-kamay
+  - 'dalawang lalaking magkahawak-kamay: light na kulay ng balat'
+  - hawak-kamay
+  - kambal
+  - lalaki
+  - light na kulay ng balat
+  - magkapareha
+  - mga lalaki
+  - zodiac
+👨🏼‍🤝‍👨🏻:
+  - Gemini
+  - dalawang lalaking magkahawak-kamay
+  - 'dalawang lalaking magkahawak-kamay: katamtamang light na kulay ng balat, light
+    na kulay ng balat'
+  - hawak-kamay
+  - kambal
+  - katamtamang light na kulay ng balat
+  - lalaki
+  - light na kulay ng balat
+  - magkapareha
+  - mga lalaki
+  - zodiac
+👬🏼:
+  - Gemini
+  - dalawang lalaking magkahawak-kamay
+  - 'dalawang lalaking magkahawak-kamay: katamtamang light na kulay ng balat'
+  - hawak-kamay
+  - kambal
+  - katamtamang light na kulay ng balat
+  - lalaki
+  - magkapareha
+  - mga lalaki
+  - zodiac
+👨🏽‍🤝‍👨🏻:
+  - Gemini
+  - dalawang lalaking magkahawak-kamay
+  - 'dalawang lalaking magkahawak-kamay: katamtamang kulay ng balat, light na kulay
+    ng balat'
+  - hawak-kamay
+  - kambal
+  - katamtamang kulay ng balat
+  - lalaki
+  - light na kulay ng balat
+  - magkapareha
+  - mga lalaki
+  - zodiac
+👨🏽‍🤝‍👨🏼:
+  - Gemini
+  - dalawang lalaking magkahawak-kamay
+  - 'dalawang lalaking magkahawak-kamay: katamtamang kulay ng balat, katamtamang light
+    na kulay ng balat'
+  - hawak-kamay
+  - kambal
+  - katamtamang kulay ng balat
+  - katamtamang light na kulay ng balat
+  - lalaki
+  - magkapareha
+  - mga lalaki
+  - zodiac
+👬🏽:
+  - Gemini
+  - dalawang lalaking magkahawak-kamay
+  - 'dalawang lalaking magkahawak-kamay: katamtamang kulay ng balat'
+  - hawak-kamay
+  - kambal
+  - katamtamang kulay ng balat
+  - lalaki
+  - magkapareha
+  - mga lalaki
+  - zodiac
+👨🏾‍🤝‍👨🏻:
+  - Gemini
+  - dalawang lalaking magkahawak-kamay
+  - 'dalawang lalaking magkahawak-kamay: katamtamang dark na kulay ng balat, light
+    na kulay ng balat'
+  - hawak-kamay
+  - kambal
+  - katamtamang dark na kulay ng balat
+  - lalaki
+  - light na kulay ng balat
+  - magkapareha
+  - mga lalaki
+  - zodiac
+👨🏾‍🤝‍👨🏼:
+  - Gemini
+  - dalawang lalaking magkahawak-kamay
+  - 'dalawang lalaking magkahawak-kamay: katamtamang dark na kulay ng balat, katamtamang
+    light na kulay ng balat'
+  - hawak-kamay
+  - kambal
+  - katamtamang dark na kulay ng balat
+  - katamtamang light na kulay ng balat
+  - lalaki
+  - magkapareha
+  - mga lalaki
+  - zodiac
+👨🏾‍🤝‍👨🏽:
+  - Gemini
+  - dalawang lalaking magkahawak-kamay
+  - 'dalawang lalaking magkahawak-kamay: katamtamang dark na kulay ng balat, katamtamang
+    kulay ng balat'
+  - hawak-kamay
+  - kambal
+  - katamtamang dark na kulay ng balat
+  - katamtamang kulay ng balat
+  - lalaki
+  - magkapareha
+  - mga lalaki
+  - zodiac
+👬🏾:
+  - Gemini
+  - dalawang lalaking magkahawak-kamay
+  - 'dalawang lalaking magkahawak-kamay: katamtamang dark na kulay ng balat'
+  - hawak-kamay
+  - kambal
+  - katamtamang dark na kulay ng balat
+  - lalaki
+  - magkapareha
+  - mga lalaki
+  - zodiac
+👨🏿‍🤝‍👨🏻:
+  - Gemini
+  - dalawang lalaking magkahawak-kamay
+  - 'dalawang lalaking magkahawak-kamay: dark na kulay ng balat, light na kulay ng
+    balat'
+  - dark na kulay ng balat
+  - hawak-kamay
+  - kambal
+  - lalaki
+  - light na kulay ng balat
+  - magkapareha
+  - mga lalaki
+  - zodiac
+👨🏿‍🤝‍👨🏼:
+  - Gemini
+  - dalawang lalaking magkahawak-kamay
+  - 'dalawang lalaking magkahawak-kamay: dark na kulay ng balat, katamtamang light
+    na kulay ng balat'
+  - dark na kulay ng balat
+  - hawak-kamay
+  - kambal
+  - katamtamang light na kulay ng balat
+  - lalaki
+  - magkapareha
+  - mga lalaki
+  - zodiac
+👨🏿‍🤝‍👨🏽:
+  - Gemini
+  - dalawang lalaking magkahawak-kamay
+  - 'dalawang lalaking magkahawak-kamay: dark na kulay ng balat, katamtamang kulay
+    ng balat'
+  - dark na kulay ng balat
+  - hawak-kamay
+  - kambal
+  - katamtamang kulay ng balat
+  - lalaki
+  - magkapareha
+  - mga lalaki
+  - zodiac
+👨🏿‍🤝‍👨🏾:
+  - Gemini
+  - dalawang lalaking magkahawak-kamay
+  - 'dalawang lalaking magkahawak-kamay: dark na kulay ng balat, katamtamang dark
+    na kulay ng balat'
+  - dark na kulay ng balat
+  - hawak-kamay
+  - kambal
+  - katamtamang dark na kulay ng balat
+  - lalaki
+  - magkapareha
+  - mga lalaki
+  - zodiac
+👬🏿:
+  - Gemini
+  - dalawang lalaking magkahawak-kamay
+  - 'dalawang lalaking magkahawak-kamay: dark na kulay ng balat'
+  - dark na kulay ng balat
+  - hawak-kamay
+  - kambal
+  - lalaki
+  - magkapareha
+  - mga lalaki
   - zodiac
 💏:
   - couple
@@ -10637,6 +12101,9 @@
 🦍:
   - gorilya
   - hayop
+🦧:
+  - orangutan
+  - tsonggo
 🐶:
   - alaga
   - aso
@@ -10649,6 +12116,17 @@
   - aso
   - hayop
   - pet
+🦮:
+  - bulag
+  - gabay
+  - gabay na aso
+  - pagiging naa-access
+🐕‍🦺:
+  - aso
+  - asong panserbisyo
+  - pagiging naa-access
+  - serbisyo
+  - tulong
 🐩:
   - alaga
   - aso
@@ -10855,6 +12333,17 @@
   - hayop
   - mukha
   - panda
+🦥:
+  - Sloth
+  - mabagal
+  - tamad
+🦦:
+  - mapaglaro
+  - otter
+  - pangingisda
+🦨:
+  - mabaho
+  - skunk
 🦘:
   - Australia
   - hayop
@@ -10930,6 +12419,10 @@
   - ibon
   - kuwago
   - matalino
+🦩:
+  - flamingo
+  - magarbo
+  - tropikal
 🦚:
   - ibon
   - makulay
@@ -11317,6 +12810,12 @@
 🥦:
   - broccoli
   - wild cabbage
+🧄:
+  - bawang
+  - pampalasa
+🧅:
+  - pampalasa
+  - sibuyas
 🍄:
   - halaman
   - kabute
@@ -11359,6 +12858,11 @@
   - pagkain
   - pancake
   - pancakes
+🧇:
+  - hindi makapagdesisyon
+  - hindi makapagpasya
+  - iron
+  - waffle
 🧀:
   - dairy
   - keso
@@ -11424,6 +12928,10 @@
   - kebab
   - pagkain
   - stuffed flatbread
+🧆:
+  - chickpea
+  - falafel
+  - meatball
 🥚:
   - itlog
   - pagkain
@@ -11459,6 +12967,10 @@
   - chichirya
   - pagkain
   - popcorn
+🧈:
+  - dairy
+  - mantikilya
+  - produktong gawa sa gatas
 🧂:
   - asin
   - condiment
@@ -11580,6 +13092,10 @@
   - pagkain
   - pugita
   - pusit
+🦪:
+  - pagsisid
+  - perlas
+  - talaba
 🍦:
   - dessert
   - ice cream
@@ -11767,6 +13283,19 @@
   - baso na may straw
   - juice
   - soda
+🧃:
+  - inumin
+  - juice
+  - kahin ng juice
+  - kahon ng inumin
+🧉:
+  - inumin
+  - mate
+🧊:
+  - ice cube
+  - iceberg
+  - malamig
+  - yelo
 🥢:
   - chopsticks
   - hashi
@@ -12015,6 +13544,11 @@
   - muslim
   - relihiyon
   - sambahan
+🛕:
+  - hindu
+  - hindu temple
+  - sambahan
+  - templo
 🕍:
   - hudyo
   - jew
@@ -12275,6 +13809,15 @@
   - motor
   - motor scooter
   - scooter
+🦽:
+  - manu-manong wheelchair
+  - pagiging naa-access
+🦼:
+  - de-kuryenteng wheelchair
+  - pagiging naa-access
+🛺:
+  - auto rickshaw
+  - tuk tuk
 🚲️:
   - bicycle
   - bike
@@ -12398,6 +13941,12 @@
   - pagdating ng eroplano
   - paglapag
   - sasakyang panghimpapawid
+🪂:
+  - hang-glide
+  - pag-skydive
+  - paglipad sa ere
+  - parachute
+  - parasail
 💺:
   - silya
   - upuan
@@ -12715,6 +14264,10 @@
   - maliwanag
   - mukha
   - sinag
+🪐:
+  - planetang may singsing
+  - saturn
+  - saturnine
 ⭐️:
   - bituin
   - puti
@@ -13130,6 +14683,11 @@
   - pamingwit
   - pangingisda
   - pole
+🤿:
+  - diving
+  - diving mask
+  - scuba
+  - snorkeling
 🎽:
   - pantakbo
   - running shirt
@@ -13152,6 +14710,15 @@
   - bullseye
   - dart
   - target
+🪀:
+  - laruan
+  - pabalik-balik
+  - pataas-pababa
+  - yoyo
+🪁:
+  - lumipad
+  - pumailanlang
+  - saranggola
 🎱:
   - '8'
   - billiard
@@ -13287,6 +14854,10 @@
   - eksperimento
   - kapa sa lab
   - scientist
+🦺:
+  - kaligtasan
+  - life vest
+  - pang-emergency
 👔:
   - damit
   - kausotan
@@ -13330,6 +14901,29 @@
   - kasuotan
   - kimono
   - tradisyonal
+🥻:
+  - bestida
+  - damit
+  - sari
+🩱:
+  - bathing suit
+  - one-piece na swimsuit
+  - panligo
+🩲:
+  - bathing suit
+  - damit panloob
+  - mga brief
+  - one-piece
+  - panligo
+  - swimsuit
+  - underwear
+🩳:
+  - bathing suit
+  - damit panloob
+  - panligo
+  - pantalon
+  - shorts
+  - underwear
 👙:
   - bikini
   - damit
@@ -13400,6 +14994,10 @@
   - sandals
   - sandalyas
   - sapatos
+🩰:
+  - ballet
+  - sapatos pang-ballet
+  - sayaw
 👢:
   - boots
   - kasuotan
@@ -13577,6 +15175,10 @@
   - biyulin
   - instrumento
   - musika
+🪕:
+  - banjo
+  - musika
+  - stringed
 🥁:
   - drum
   - drumsticks
@@ -13747,6 +15349,11 @@
   - pula
   - pulang papel na lantern
   - pulang paper lantern
+🪔:
+  - diya
+  - lampara
+  - lamparang diya
+  - langis
 📔:
   - libro
   - may disenyo
@@ -14154,6 +15761,13 @@
 🔨:
   - kagamitan
   - martilyo
+🪓:
+  - biyakin
+  - kahoy
+  - maliit na palakol
+  - palakol
+  - pamputol
+  - pansibak
 ⛏️:
   - kagamitan
   - pagmimina
@@ -14220,6 +15834,10 @@
   - libra
   - timbangan
   - zodiac
+🦯:
+  - baston
+  - bulag
+  - pagiging naa-access
 🔗:
   - kadena
   - kawing
@@ -14281,11 +15899,24 @@
   - karayom
   - sakit
   - shot
+🩸:
+  - donasyon ng dugo
+  - gamot
+  - patak ng dugo
+  - regla
 💊:
   - doktor
   - gamot
   - pill
   - sakit
+🩹:
+  - adhesive na bandaid
+  - bandaid
+🩺:
+  - doktor
+  - medisina
+  - puso
+  - stethoscope
 🚪:
   - pinto
   - pintuan
@@ -14298,6 +15929,10 @@
   - ilaw
   - sofa
   - sofa at ilaw
+  - upuan
+🪑:
+  - silya
+  - umupo
   - upuan
 🚽:
   - banyo
@@ -14312,6 +15947,10 @@
   - bathtub
   - ligo
   - tubig
+🪒:
+  - matalas
+  - pang-ahit
+  - razor
 🧴:
   - bote ng losyon
   - losyon
@@ -15095,13 +16734,13 @@
   - marka
   - padamdam
 ⁉️:
+  - '!'
+  - '!?'
+  - '?'
   - bantas
   - interrobang
   - marka
   - padamdam
-  - pananda
-  - pananong
-  - tanda
   - tandang padamdam at pananong
   - tanong
 ❓️:
@@ -15113,13 +16752,11 @@
   - tandang pananong
   - tanong
 ❔:
+  - '?'
   - bantas
   - marka
-  - pananda
-  - pananong
-  - puti
+  - naka-outline
   - puting tandang pananong
-  - tanda
   - tanong
 ❕:
   - bantas
@@ -15432,11 +17069,31 @@
   - hugis
   - pula
   - pulang bilog
+🟠:
+  - bilog
+  - orange
+  - orange na bilog
+🟡:
+  - bilog
+  - dilaw
+  - dilaw na bilog
+🟢:
+  - berde
+  - berdeng bilog
+  - bilog
 🔵:
   - asul
   - asul na bilog
   - bilog
   - hugis
+🟣:
+  - bilog
+  - lila
+  - lilang bilog
+🟤:
+  - bilog
+  - brown
+  - brown na bilog
 ⚫️:
   - bilog
   - hugis
@@ -15447,6 +17104,34 @@
   - hugis
   - puti
   - puting bilog
+🟥:
+  - parisukat
+  - pula
+  - pulang parisukat
+🟧:
+  - orange
+  - orange na parisukat
+  - parisukat
+🟨:
+  - dilaw
+  - dilaw na parisukat
+  - parisukat
+🟩:
+  - berde
+  - berdeng parisukat
+  - parisukat
+🟦:
+  - asul
+  - asul na parisukat
+  - parisukat
+🟪:
+  - lila
+  - lilang parisukat
+  - parisukat
+🟫:
+  - brown
+  - brown na parisukat
+  - parisukat
 ⬛️:
   - hugis
   - itim

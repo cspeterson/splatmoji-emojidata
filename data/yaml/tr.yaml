@@ -77,7 +77,10 @@
   - ışık halkası
 🥰:
   - 3 kalpli gülümseyen yüz
-  - hayranlık, çarpılma, aşık olma
+  - aşık olma
+  - hayranlık
+  - kalpli gülümseyen yüz
+  - çarpılma
 😍:
   - aşk
   - değer verme
@@ -432,6 +435,11 @@
 😫:
   - yorgun yüz
   - yüz
+🥱:
+  - esneme
+  - esneyen yüz
+  - sıkılmış
+  - yorgun
 😤:
   - ben kazandım
   - ben kazandım yüzü
@@ -519,70 +527,66 @@
 🤖:
   - canavar
   - robot
-  - robot yüzü
   - yüz
 😺:
   - açık
   - ağız
-  - gülümseyen kedi yüzü
-  - gülümseyen ve ağzı açık kedi yüzü
+  - gülümseme
   - kedi
-  - kedi yüzü
+  - sırıtan
+  - sırıtan kedi
   - yüz
 😸:
+  - göz
+  - gülen gözlerle sırıtan kedi
+  - gülümseme
   - kedi
-  - kedi yüzü
-  - sırıtan kedi yüzü
-  - sırıtan ve gözleri gülümseyen kedi yüzü
   - sırıtma
   - yüz
 😹:
+  - göz yaşı
   - kedi
-  - kedi yüzü
-  - sevinç gözyaşları döken kedi yüzü
-  - sevinç gözyaşları olan kedi yüzü
+  - sevinç
+  - sevinç gözyaşları döken kedi
   - yüz
 😻:
   - aşk
-  - aşık
-  - gözler
-  - gülümseyen ve kalp şeklinde gözleri olan kedi yüzü
+  - gülümseme
   - kalp
-  - kalp gözlü gülümseyen kedi yüzü
+  - kalp gözlü gülümseyen kedi
   - kedi
-  - kedi yüzü
+  - sevgi
   - yüz
 😼:
+  - ironik
   - iğneleyici
   - iğneleyici gülümseme
   - iğneleyici kedi yüzü
   - kedi
-  - kedi yüzü
   - yüz
 😽:
-  - gözler
-  - kapalı
-  - kapalı gözle öpen kedi yüzü
+  - göz
   - kedi
   - yüz
-  - öpen
+  - öpen kedi
   - öpücük
 🙀:
-  - aman tanrım
+  - bezgin
   - kedi
-  - sahiden şaşırmış
+  - korkuyla bağıran kedi
   - yüz
-  - şaşkın kedi yüzü
+  - şaşkın
 😿:
   - ağlama
-  - ağlayan kedi yüzü
+  - ağlayan kedi
+  - göz yaşı
   - kedi
-  - kedi yüzü
   - yüz
+  - üzgün
 😾:
   - kedi
-  - kedi yüzü
-  - somurtan kedi yüzü
+  - somurtan
+  - somurtan kedi
   - somurtma
   - yüz
 🙈:
@@ -691,12 +695,20 @@
   - kalp
   - mor
   - mor kalp
+🤎:
+  - kahverengi
+  - kahverengi kalp
+  - kalp
 🖤:
   - fena
   - kalp
   - kötü
   - siyah
   - siyah kalp
+🤍:
+  - beyaz
+  - beyaz kalp
+  - kalp
 💯:
   - '100'
   - 100 puan
@@ -1010,6 +1022,40 @@
   - koyu cilt tonu
   - tamam işareti
   - 'tamam işareti: koyu cilt tonu'
+🤏:
+  - azıcık
+  - bir tutam
+  - kıstırma hareketi yapan el
+🤏🏻:
+  - azıcık
+  - açık cilt tonu
+  - bir tutam
+  - kıstırma hareketi yapan el
+  - 'kıstırma hareketi yapan el: açık cilt tonu'
+🤏🏼:
+  - azıcık
+  - bir tutam
+  - kıstırma hareketi yapan el
+  - 'kıstırma hareketi yapan el: orta açık cilt tonu'
+  - orta açık cilt tonu
+🤏🏽:
+  - azıcık
+  - bir tutam
+  - kıstırma hareketi yapan el
+  - 'kıstırma hareketi yapan el: orta cilt tonu'
+  - orta cilt tonu
+🤏🏾:
+  - azıcık
+  - bir tutam
+  - kıstırma hareketi yapan el
+  - 'kıstırma hareketi yapan el: orta koyu cilt tonu'
+  - orta koyu cilt tonu
+🤏🏿:
+  - azıcık
+  - bir tutam
+  - koyu cilt tonu
+  - kıstırma hareketi yapan el
+  - 'kıstırma hareketi yapan el: koyu cilt tonu'
 ✌️:
   - oleey
   - zafer
@@ -1851,21 +1897,26 @@
   - iki avuç açık
 🤲🏻:
   - açık cilt tonu
+  - dua eden eller
   - iki avuç açık
   - 'iki avuç açık: açık cilt tonu'
 🤲🏼:
+  - dua eden eller
   - iki avuç açık
   - 'iki avuç açık: orta açık cilt tonu'
   - orta açık cilt tonu
 🤲🏽:
+  - dua eden eller
   - iki avuç açık
   - 'iki avuç açık: orta cilt tonu'
   - orta cilt tonu
 🤲🏾:
+  - dua eden eller
   - iki avuç açık
   - 'iki avuç açık: orta koyu cilt tonu'
   - orta koyu cilt tonu
 🤲🏿:
+  - dua eden eller
   - iki avuç açık
   - 'iki avuç açık: koyu cilt tonu'
   - koyu cilt tonu
@@ -2093,6 +2144,14 @@
   - pazı
   - 'pazı: koyu cilt tonu'
   - çizgi roman
+🦾:
+  - erişilebilirlik
+  - mekanik kol
+  - protez
+🦿:
+  - erişilebilirlik
+  - mekanik bacak
+  - protez
 🦵:
   - bacak
   - tekme
@@ -2177,6 +2236,40 @@
   - koyu cilt tonu
   - kulak
   - 'kulak: koyu cilt tonu'
+🦻:
+  - erişilebilirlik
+  - işitme cihazı olan kulak
+  - işitme güçlüğü
+🦻🏻:
+  - açık cilt tonu
+  - erişilebilirlik
+  - işitme cihazı olan kulak
+  - 'işitme cihazı olan kulak: açık cilt tonu'
+  - işitme güçlüğü
+🦻🏼:
+  - erişilebilirlik
+  - işitme cihazı olan kulak
+  - 'işitme cihazı olan kulak: orta açık cilt tonu'
+  - işitme güçlüğü
+  - orta açık cilt tonu
+🦻🏽:
+  - erişilebilirlik
+  - işitme cihazı olan kulak
+  - 'işitme cihazı olan kulak: orta cilt tonu'
+  - işitme güçlüğü
+  - orta cilt tonu
+🦻🏾:
+  - erişilebilirlik
+  - işitme cihazı olan kulak
+  - 'işitme cihazı olan kulak: orta koyu cilt tonu'
+  - işitme güçlüğü
+  - orta koyu cilt tonu
+🦻🏿:
+  - erişilebilirlik
+  - işitme cihazı olan kulak
+  - 'işitme cihazı olan kulak: koyu cilt tonu'
+  - işitme güçlüğü
+  - koyu cilt tonu
 👃:
   - burun
   - gövde
@@ -2382,39 +2475,45 @@
   - yetişkin
   - 'yetişkin: koyu cilt tonu'
 👱:
-  - kişiler
+  - sarı saçlı kişi
   - sarışın
   - sarışın kişi
+  - saç
 👱🏻:
   - açık cilt tonu
-  - kişiler
+  - sarı saçlı kişi
   - sarışın
   - sarışın kişi
   - 'sarışın kişi: açık cilt tonu'
+  - saç
 👱🏼:
-  - kişiler
   - orta açık cilt tonu
+  - sarı saçlı kişi
   - sarışın
   - sarışın kişi
   - 'sarışın kişi: orta açık cilt tonu'
+  - saç
 👱🏽:
-  - kişiler
   - orta cilt tonu
+  - sarı saçlı kişi
   - sarışın
   - sarışın kişi
   - 'sarışın kişi: orta cilt tonu'
+  - saç
 👱🏾:
-  - kişiler
   - orta koyu cilt tonu
+  - sarı saçlı kişi
   - sarışın
   - sarışın kişi
   - 'sarışın kişi: orta koyu cilt tonu'
+  - saç
 👱🏿:
-  - kişiler
   - koyu cilt tonu
+  - sarı saçlı kişi
   - sarışın
   - sarışın kişi
   - 'sarışın kişi: koyu cilt tonu'
+  - saç
 👨:
   - erkek
   - kişiler
@@ -3805,6 +3904,126 @@
   - hareket
   - kadın
   - koyu cilt tonu
+🧏:
+  - erişilebilirlik
+  - işitme
+  - işitme engelli
+  - işitme engelli kişi
+  - kulak
+🧏🏻:
+  - açık cilt tonu
+  - erişilebilirlik
+  - işitme
+  - işitme engelli
+  - işitme engelli kişi
+  - 'işitme engelli kişi: açık cilt tonu'
+  - kulak
+🧏🏼:
+  - erişilebilirlik
+  - işitme
+  - işitme engelli
+  - işitme engelli kişi
+  - 'işitme engelli kişi: orta açık cilt tonu'
+  - kulak
+  - orta açık cilt tonu
+🧏🏽:
+  - erişilebilirlik
+  - işitme
+  - işitme engelli
+  - işitme engelli kişi
+  - 'işitme engelli kişi: orta cilt tonu'
+  - kulak
+  - orta cilt tonu
+🧏🏾:
+  - erişilebilirlik
+  - işitme
+  - işitme engelli
+  - işitme engelli kişi
+  - 'işitme engelli kişi: orta koyu cilt tonu'
+  - kulak
+  - orta koyu cilt tonu
+🧏🏿:
+  - erişilebilirlik
+  - işitme
+  - işitme engelli
+  - işitme engelli kişi
+  - 'işitme engelli kişi: koyu cilt tonu'
+  - koyu cilt tonu
+  - kulak
+🧏‍♂:
+  - adam
+  - erkek
+  - işitme engelli
+  - işitme engelli erkek
+🧏🏻‍♂:
+  - adam
+  - açık cilt tonu
+  - erkek
+  - işitme engelli
+  - işitme engelli erkek
+  - 'işitme engelli erkek: açık cilt tonu'
+🧏🏼‍♂:
+  - adam
+  - erkek
+  - işitme engelli
+  - işitme engelli erkek
+  - 'işitme engelli erkek: orta açık cilt tonu'
+  - orta açık cilt tonu
+🧏🏽‍♂:
+  - adam
+  - erkek
+  - işitme engelli
+  - işitme engelli erkek
+  - 'işitme engelli erkek: orta cilt tonu'
+  - orta cilt tonu
+🧏🏾‍♂:
+  - adam
+  - erkek
+  - işitme engelli
+  - işitme engelli erkek
+  - 'işitme engelli erkek: orta koyu cilt tonu'
+  - orta koyu cilt tonu
+🧏🏿‍♂:
+  - adam
+  - erkek
+  - işitme engelli
+  - işitme engelli erkek
+  - 'işitme engelli erkek: koyu cilt tonu'
+  - koyu cilt tonu
+🧏‍♀:
+  - işitme engelli
+  - işitme engelli kadın
+  - kadın
+🧏🏻‍♀:
+  - açık cilt tonu
+  - işitme engelli
+  - işitme engelli kadın
+  - 'işitme engelli kadın: açık cilt tonu'
+  - kadın
+🧏🏼‍♀:
+  - işitme engelli
+  - işitme engelli kadın
+  - 'işitme engelli kadın: orta açık cilt tonu'
+  - kadın
+  - orta açık cilt tonu
+🧏🏽‍♀:
+  - işitme engelli
+  - işitme engelli kadın
+  - 'işitme engelli kadın: orta cilt tonu'
+  - kadın
+  - orta cilt tonu
+🧏🏾‍♀:
+  - işitme engelli
+  - işitme engelli kadın
+  - 'işitme engelli kadın: orta koyu cilt tonu'
+  - kadın
+  - orta koyu cilt tonu
+🧏🏿‍♀:
+  - işitme engelli
+  - işitme engelli kadın
+  - 'işitme engelli kadın: koyu cilt tonu'
+  - kadın
+  - koyu cilt tonu
 🙇:
   - başını öne eğme
   - eğilme
@@ -4585,6 +4804,7 @@
   - erkek hakim
   - 'erkek hakim: açık cilt tonu'
   - terazi
+  - yargıç
 👨🏼‍⚖:
   - adalet
   - adam
@@ -4593,6 +4813,7 @@
   - 'erkek hakim: orta açık cilt tonu'
   - orta açık cilt tonu
   - terazi
+  - yargıç
 👨🏽‍⚖:
   - adalet
   - adam
@@ -4601,6 +4822,7 @@
   - 'erkek hakim: orta cilt tonu'
   - orta cilt tonu
   - terazi
+  - yargıç
 👨🏾‍⚖:
   - adalet
   - adam
@@ -4609,6 +4831,7 @@
   - 'erkek hakim: orta koyu cilt tonu'
   - orta koyu cilt tonu
   - terazi
+  - yargıç
 👨🏿‍⚖:
   - adalet
   - adam
@@ -4617,6 +4840,7 @@
   - 'erkek hakim: koyu cilt tonu'
   - koyu cilt tonu
   - terazi
+  - yargıç
 👩‍⚖:
   - adalet
   - bayan
@@ -8074,6 +8298,462 @@
   - yürüme
   - yürüyen kadın
   - 'yürüyen kadın: koyu cilt tonu'
+🧍:
+  - ayakta duran
+  - ayakta duran kişi
+  - ayakta durma
+🧍🏻:
+  - ayakta duran
+  - ayakta duran kişi
+  - 'ayakta duran kişi: açık cilt tonu'
+  - ayakta durma
+  - açık cilt tonu
+🧍🏼:
+  - ayakta duran
+  - ayakta duran kişi
+  - 'ayakta duran kişi: orta açık cilt tonu'
+  - ayakta durma
+  - orta açık cilt tonu
+🧍🏽:
+  - ayakta duran
+  - ayakta duran kişi
+  - 'ayakta duran kişi: orta cilt tonu'
+  - ayakta durma
+  - orta cilt tonu
+🧍🏾:
+  - ayakta duran
+  - ayakta duran kişi
+  - 'ayakta duran kişi: orta koyu cilt tonu'
+  - ayakta durma
+  - orta koyu cilt tonu
+🧍🏿:
+  - ayakta duran
+  - ayakta duran kişi
+  - 'ayakta duran kişi: koyu cilt tonu'
+  - ayakta durma
+  - koyu cilt tonu
+🧍‍♂:
+  - adam
+  - ayakta duran
+  - ayakta duran erkek
+  - erkek
+🧍🏻‍♂:
+  - adam
+  - ayakta duran
+  - ayakta duran erkek
+  - 'ayakta duran erkek: açık cilt tonu'
+  - açık cilt tonu
+  - erkek
+🧍🏼‍♂:
+  - adam
+  - ayakta duran
+  - ayakta duran erkek
+  - 'ayakta duran erkek: orta açık cilt tonu'
+  - erkek
+  - orta açık cilt tonu
+🧍🏽‍♂:
+  - adam
+  - ayakta duran
+  - ayakta duran erkek
+  - 'ayakta duran erkek: orta cilt tonu'
+  - erkek
+  - orta cilt tonu
+🧍🏾‍♂:
+  - adam
+  - ayakta duran
+  - ayakta duran erkek
+  - 'ayakta duran erkek: orta koyu cilt tonu'
+  - erkek
+  - orta koyu cilt tonu
+🧍🏿‍♂:
+  - adam
+  - ayakta duran
+  - ayakta duran erkek
+  - 'ayakta duran erkek: koyu cilt tonu'
+  - erkek
+  - koyu cilt tonu
+🧍‍♀:
+  - ayakta duran
+  - ayakta duran kadın
+  - kadın
+🧍🏻‍♀:
+  - ayakta duran
+  - ayakta duran kadın
+  - 'ayakta duran kadın: açık cilt tonu'
+  - açık cilt tonu
+  - kadın
+🧍🏼‍♀:
+  - ayakta duran
+  - ayakta duran kadın
+  - 'ayakta duran kadın: orta açık cilt tonu'
+  - kadın
+  - orta açık cilt tonu
+🧍🏽‍♀:
+  - ayakta duran
+  - ayakta duran kadın
+  - 'ayakta duran kadın: orta cilt tonu'
+  - kadın
+  - orta cilt tonu
+🧍🏾‍♀:
+  - ayakta duran
+  - ayakta duran kadın
+  - 'ayakta duran kadın: orta koyu cilt tonu'
+  - kadın
+  - orta koyu cilt tonu
+🧍🏿‍♀:
+  - ayakta duran
+  - ayakta duran kadın
+  - 'ayakta duran kadın: koyu cilt tonu'
+  - kadın
+  - koyu cilt tonu
+🧎:
+  - diz çöken
+  - diz çöken kişi
+  - diz çökme
+🧎🏻:
+  - açık cilt tonu
+  - diz çöken
+  - diz çöken kişi
+  - 'diz çöken kişi: açık cilt tonu'
+  - diz çökme
+🧎🏼:
+  - diz çöken
+  - diz çöken kişi
+  - 'diz çöken kişi: orta açık cilt tonu'
+  - diz çökme
+  - orta açık cilt tonu
+🧎🏽:
+  - diz çöken
+  - diz çöken kişi
+  - 'diz çöken kişi: orta cilt tonu'
+  - diz çökme
+  - orta cilt tonu
+🧎🏾:
+  - diz çöken
+  - diz çöken kişi
+  - 'diz çöken kişi: orta koyu cilt tonu'
+  - diz çökme
+  - orta koyu cilt tonu
+🧎🏿:
+  - diz çöken
+  - diz çöken kişi
+  - 'diz çöken kişi: koyu cilt tonu'
+  - diz çökme
+  - koyu cilt tonu
+🧎‍♂:
+  - adam
+  - diz çöken
+  - diz çöken erkek
+  - erkek
+🧎🏻‍♂:
+  - adam
+  - açık cilt tonu
+  - diz çöken
+  - diz çöken erkek
+  - 'diz çöken erkek: açık cilt tonu'
+  - erkek
+🧎🏼‍♂:
+  - adam
+  - diz çöken
+  - diz çöken erkek
+  - 'diz çöken erkek: orta açık cilt tonu'
+  - erkek
+  - orta açık cilt tonu
+🧎🏽‍♂:
+  - adam
+  - diz çöken
+  - diz çöken erkek
+  - 'diz çöken erkek: orta cilt tonu'
+  - erkek
+  - orta cilt tonu
+🧎🏾‍♂:
+  - adam
+  - diz çöken
+  - diz çöken erkek
+  - 'diz çöken erkek: orta koyu cilt tonu'
+  - erkek
+  - orta koyu cilt tonu
+🧎🏿‍♂:
+  - adam
+  - diz çöken
+  - diz çöken erkek
+  - 'diz çöken erkek: koyu cilt tonu'
+  - erkek
+  - koyu cilt tonu
+🧎‍♀:
+  - diz çöken
+  - diz çöken kadın
+  - kadın
+🧎🏻‍♀:
+  - açık cilt tonu
+  - diz çöken
+  - diz çöken kadın
+  - 'diz çöken kadın: açık cilt tonu'
+  - kadın
+🧎🏼‍♀:
+  - diz çöken
+  - diz çöken kadın
+  - 'diz çöken kadın: orta açık cilt tonu'
+  - kadın
+  - orta açık cilt tonu
+🧎🏽‍♀:
+  - diz çöken
+  - diz çöken kadın
+  - 'diz çöken kadın: orta cilt tonu'
+  - kadın
+  - orta cilt tonu
+🧎🏾‍♀:
+  - diz çöken
+  - diz çöken kadın
+  - 'diz çöken kadın: orta koyu cilt tonu'
+  - kadın
+  - orta koyu cilt tonu
+🧎🏿‍♀:
+  - diz çöken
+  - diz çöken kadın
+  - 'diz çöken kadın: koyu cilt tonu'
+  - kadın
+  - koyu cilt tonu
+👨‍🦯:
+  - erişilebilirlik
+  - erkek
+  - görme engelli
+  - görme engelli bastonlu erkek
+👨🏻‍🦯:
+  - açık cilt tonu
+  - erişilebilirlik
+  - erkek
+  - görme engelli
+  - görme engelli bastonlu erkek
+  - 'görme engelli bastonlu erkek: açık cilt tonu'
+👨🏼‍🦯:
+  - erişilebilirlik
+  - erkek
+  - görme engelli
+  - görme engelli bastonlu erkek
+  - 'görme engelli bastonlu erkek: orta açık cilt tonu'
+  - orta açık cilt tonu
+👨🏽‍🦯:
+  - erişilebilirlik
+  - erkek
+  - görme engelli
+  - görme engelli bastonlu erkek
+  - 'görme engelli bastonlu erkek: orta cilt tonu'
+  - orta cilt tonu
+👨🏾‍🦯:
+  - erişilebilirlik
+  - erkek
+  - görme engelli
+  - görme engelli bastonlu erkek
+  - 'görme engelli bastonlu erkek: orta koyu cilt tonu'
+  - orta koyu cilt tonu
+👨🏿‍🦯:
+  - erişilebilirlik
+  - erkek
+  - görme engelli
+  - görme engelli bastonlu erkek
+  - 'görme engelli bastonlu erkek: koyu cilt tonu'
+  - koyu cilt tonu
+👩‍🦯:
+  - erişilebilirlik
+  - görme engelli
+  - görme engelli bastonlu kadın
+  - kadın
+👩🏻‍🦯:
+  - açık cilt tonu
+  - erişilebilirlik
+  - görme engelli
+  - görme engelli bastonlu kadın
+  - 'görme engelli bastonlu kadın: açık cilt tonu'
+  - kadın
+👩🏼‍🦯:
+  - erişilebilirlik
+  - görme engelli
+  - görme engelli bastonlu kadın
+  - 'görme engelli bastonlu kadın: orta açık cilt tonu'
+  - kadın
+  - orta açık cilt tonu
+👩🏽‍🦯:
+  - erişilebilirlik
+  - görme engelli
+  - görme engelli bastonlu kadın
+  - 'görme engelli bastonlu kadın: orta cilt tonu'
+  - kadın
+  - orta cilt tonu
+👩🏾‍🦯:
+  - erişilebilirlik
+  - görme engelli
+  - görme engelli bastonlu kadın
+  - 'görme engelli bastonlu kadın: orta koyu cilt tonu'
+  - kadın
+  - orta koyu cilt tonu
+👩🏿‍🦯:
+  - erişilebilirlik
+  - görme engelli
+  - görme engelli bastonlu kadın
+  - 'görme engelli bastonlu kadın: koyu cilt tonu'
+  - kadın
+  - koyu cilt tonu
+👨‍🦼:
+  - elektrikli tekerlekli sandalyede erkek
+  - erişilebilirlik
+  - erkek
+  - tekerlekli sandalye
+👨🏻‍🦼:
+  - açık cilt tonu
+  - elektrikli tekerlekli sandalyede erkek
+  - 'elektrikli tekerlekli sandalyede erkek: açık cilt tonu'
+  - erişilebilirlik
+  - erkek
+  - tekerlekli sandalye
+👨🏼‍🦼:
+  - elektrikli tekerlekli sandalyede erkek
+  - 'elektrikli tekerlekli sandalyede erkek: orta açık cilt tonu'
+  - erişilebilirlik
+  - erkek
+  - orta açık cilt tonu
+  - tekerlekli sandalye
+👨🏽‍🦼:
+  - elektrikli tekerlekli sandalyede erkek
+  - 'elektrikli tekerlekli sandalyede erkek: orta cilt tonu'
+  - erişilebilirlik
+  - erkek
+  - orta cilt tonu
+  - tekerlekli sandalye
+👨🏾‍🦼:
+  - elektrikli tekerlekli sandalyede erkek
+  - 'elektrikli tekerlekli sandalyede erkek: orta koyu cilt tonu'
+  - erişilebilirlik
+  - erkek
+  - orta koyu cilt tonu
+  - tekerlekli sandalye
+👨🏿‍🦼:
+  - elektrikli tekerlekli sandalyede erkek
+  - 'elektrikli tekerlekli sandalyede erkek: koyu cilt tonu'
+  - erişilebilirlik
+  - erkek
+  - koyu cilt tonu
+  - tekerlekli sandalye
+👩‍🦼:
+  - elektrikli tekerlekli sandalyede kadın
+  - erişilebilirlik
+  - kadın
+  - tekerlekli sandalye
+👩🏻‍🦼:
+  - açık cilt tonu
+  - elektrikli tekerlekli sandalyede kadın
+  - 'elektrikli tekerlekli sandalyede kadın: açık cilt tonu'
+  - erişilebilirlik
+  - kadın
+  - tekerlekli sandalye
+👩🏼‍🦼:
+  - elektrikli tekerlekli sandalyede kadın
+  - 'elektrikli tekerlekli sandalyede kadın: orta açık cilt tonu'
+  - erişilebilirlik
+  - kadın
+  - orta açık cilt tonu
+  - tekerlekli sandalye
+👩🏽‍🦼:
+  - elektrikli tekerlekli sandalyede kadın
+  - 'elektrikli tekerlekli sandalyede kadın: orta cilt tonu'
+  - erişilebilirlik
+  - kadın
+  - orta cilt tonu
+  - tekerlekli sandalye
+👩🏾‍🦼:
+  - elektrikli tekerlekli sandalyede kadın
+  - 'elektrikli tekerlekli sandalyede kadın: orta koyu cilt tonu'
+  - erişilebilirlik
+  - kadın
+  - orta koyu cilt tonu
+  - tekerlekli sandalye
+👩🏿‍🦼:
+  - elektrikli tekerlekli sandalyede kadın
+  - 'elektrikli tekerlekli sandalyede kadın: koyu cilt tonu'
+  - erişilebilirlik
+  - kadın
+  - koyu cilt tonu
+  - tekerlekli sandalye
+👨‍🦽:
+  - erişilebilirlik
+  - erkek
+  - tekerlekli sandalye
+  - tekerlekli sandalyede erkek
+👨🏻‍🦽:
+  - açık cilt tonu
+  - erişilebilirlik
+  - erkek
+  - tekerlekli sandalye
+  - tekerlekli sandalyede erkek
+  - 'tekerlekli sandalyede erkek: açık cilt tonu'
+👨🏼‍🦽:
+  - erişilebilirlik
+  - erkek
+  - orta açık cilt tonu
+  - tekerlekli sandalye
+  - tekerlekli sandalyede erkek
+  - 'tekerlekli sandalyede erkek: orta açık cilt tonu'
+👨🏽‍🦽:
+  - erişilebilirlik
+  - erkek
+  - orta cilt tonu
+  - tekerlekli sandalye
+  - tekerlekli sandalyede erkek
+  - 'tekerlekli sandalyede erkek: orta cilt tonu'
+👨🏾‍🦽:
+  - erişilebilirlik
+  - erkek
+  - orta koyu cilt tonu
+  - tekerlekli sandalye
+  - tekerlekli sandalyede erkek
+  - 'tekerlekli sandalyede erkek: orta koyu cilt tonu'
+👨🏿‍🦽:
+  - erişilebilirlik
+  - erkek
+  - koyu cilt tonu
+  - tekerlekli sandalye
+  - tekerlekli sandalyede erkek
+  - 'tekerlekli sandalyede erkek: koyu cilt tonu'
+👩‍🦽:
+  - erişilebilirlik
+  - kadın
+  - tekerlekli sandalye
+  - tekerlekli sandalyede kadın
+👩🏻‍🦽:
+  - açık cilt tonu
+  - erişilebilirlik
+  - kadın
+  - tekerlekli sandalye
+  - tekerlekli sandalyede kadın
+  - 'tekerlekli sandalyede kadın: açık cilt tonu'
+👩🏼‍🦽:
+  - erişilebilirlik
+  - kadın
+  - orta açık cilt tonu
+  - tekerlekli sandalye
+  - tekerlekli sandalyede kadın
+  - 'tekerlekli sandalyede kadın: orta açık cilt tonu'
+👩🏽‍🦽:
+  - erişilebilirlik
+  - kadın
+  - orta cilt tonu
+  - tekerlekli sandalye
+  - tekerlekli sandalyede kadın
+  - 'tekerlekli sandalyede kadın: orta cilt tonu'
+👩🏾‍🦽:
+  - erişilebilirlik
+  - kadın
+  - orta koyu cilt tonu
+  - tekerlekli sandalye
+  - tekerlekli sandalyede kadın
+  - 'tekerlekli sandalyede kadın: orta koyu cilt tonu'
+👩🏿‍🦽:
+  - erişilebilirlik
+  - kadın
+  - koyu cilt tonu
+  - tekerlekli sandalye
+  - tekerlekli sandalyede kadın
+  - 'tekerlekli sandalyede kadın: koyu cilt tonu'
 🏃:
   - koşan kişi
   - koşu
@@ -10363,24 +11043,687 @@
   - uyuma
   - yatakta yatan kişi
   - 'yatakta yatan kişi: koyu cilt tonu'
+🧑‍🤝‍🧑:
+  - el
+  - el ele
+  - el ele tutuşan insanlar
+  - kişi
+  - tutmak
+  - tutuşan eller
+  - çift
+🧑🏻‍🤝‍🧑🏻:
+  - açık cilt tonu
+  - el
+  - el ele
+  - el ele tutuşan insanlar
+  - 'el ele tutuşan insanlar: açık cilt tonu'
+  - kişi
+  - tutmak
+  - tutuşan eller
+  - çift
+🧑🏼‍🤝‍🧑🏻:
+  - açık cilt tonu
+  - el
+  - el ele
+  - el ele tutuşan insanlar
+  - 'el ele tutuşan insanlar: orta açık cilt tonu açık cilt tonu'
+  - kişi
+  - orta açık cilt tonu
+  - tutmak
+  - tutuşan eller
+  - çift
+🧑🏼‍🤝‍🧑🏼:
+  - el
+  - el ele
+  - el ele tutuşan insanlar
+  - 'el ele tutuşan insanlar: orta açık cilt tonu'
+  - kişi
+  - orta açık cilt tonu
+  - tutmak
+  - tutuşan eller
+  - çift
+🧑🏽‍🤝‍🧑🏻:
+  - açık cilt tonu
+  - el
+  - el ele
+  - el ele tutuşan insanlar
+  - 'el ele tutuşan insanlar: orta cilt tonu açık cilt tonu'
+  - kişi
+  - orta cilt tonu
+  - tutmak
+  - tutuşan eller
+  - çift
+🧑🏽‍🤝‍🧑🏼:
+  - el
+  - el ele
+  - el ele tutuşan insanlar
+  - 'el ele tutuşan insanlar: orta cilt tonu orta açık cilt tonu'
+  - kişi
+  - orta açık cilt tonu
+  - orta cilt tonu
+  - tutmak
+  - tutuşan eller
+  - çift
+🧑🏽‍🤝‍🧑🏽:
+  - el
+  - el ele
+  - el ele tutuşan insanlar
+  - 'el ele tutuşan insanlar: orta cilt tonu'
+  - kişi
+  - orta cilt tonu
+  - tutmak
+  - tutuşan eller
+  - çift
+🧑🏾‍🤝‍🧑🏻:
+  - açık cilt tonu
+  - el
+  - el ele
+  - el ele tutuşan insanlar
+  - 'el ele tutuşan insanlar: orta koyu cilt tonu açık cilt tonu'
+  - kişi
+  - orta koyu cilt tonu
+  - tutmak
+  - tutuşan eller
+  - çift
+🧑🏾‍🤝‍🧑🏼:
+  - el
+  - el ele
+  - el ele tutuşan insanlar
+  - 'el ele tutuşan insanlar: orta koyu cilt tonu orta açık cilt tonu'
+  - kişi
+  - orta açık cilt tonu
+  - orta koyu cilt tonu
+  - tutmak
+  - tutuşan eller
+  - çift
+🧑🏾‍🤝‍🧑🏽:
+  - el
+  - el ele
+  - el ele tutuşan insanlar
+  - 'el ele tutuşan insanlar: orta koyu cilt tonu orta cilt tonu'
+  - kişi
+  - orta cilt tonu
+  - orta koyu cilt tonu
+  - tutmak
+  - tutuşan eller
+  - çift
+🧑🏾‍🤝‍🧑🏾:
+  - el
+  - el ele
+  - el ele tutuşan insanlar
+  - 'el ele tutuşan insanlar: orta koyu cilt tonu'
+  - kişi
+  - orta koyu cilt tonu
+  - tutmak
+  - tutuşan eller
+  - çift
+🧑🏿‍🤝‍🧑🏻:
+  - açık cilt tonu
+  - el
+  - el ele
+  - el ele tutuşan insanlar
+  - 'el ele tutuşan insanlar: koyu cilt tonu açık cilt tonu'
+  - kişi
+  - koyu cilt tonu
+  - tutmak
+  - tutuşan eller
+  - çift
+🧑🏿‍🤝‍🧑🏼:
+  - el
+  - el ele
+  - el ele tutuşan insanlar
+  - 'el ele tutuşan insanlar: koyu cilt tonu orta açık cilt tonu'
+  - kişi
+  - koyu cilt tonu
+  - orta açık cilt tonu
+  - tutmak
+  - tutuşan eller
+  - çift
+🧑🏿‍🤝‍🧑🏽:
+  - el
+  - el ele
+  - el ele tutuşan insanlar
+  - 'el ele tutuşan insanlar: koyu cilt tonu orta cilt tonu'
+  - kişi
+  - koyu cilt tonu
+  - orta cilt tonu
+  - tutmak
+  - tutuşan eller
+  - çift
+🧑🏿‍🤝‍🧑🏾:
+  - el
+  - el ele
+  - el ele tutuşan insanlar
+  - 'el ele tutuşan insanlar: koyu cilt tonu orta koyu cilt tonu'
+  - kişi
+  - koyu cilt tonu
+  - orta koyu cilt tonu
+  - tutmak
+  - tutuşan eller
+  - çift
+🧑🏿‍🤝‍🧑🏿:
+  - el
+  - el ele
+  - el ele tutuşan insanlar
+  - 'el ele tutuşan insanlar: koyu cilt tonu'
+  - kişi
+  - koyu cilt tonu
+  - tutmak
+  - tutuşan eller
+  - çift
 👭:
+  - el
   - el ele tutuşan
-  - el ele tutuşan iki kadın
-  - kadın
-  - kişiler
+  - el ele tutuşan kadınlar
+  - kadınlar
+  - çift
+👭🏻:
+  - açık cilt tonu
+  - el
+  - el ele tutuşan
+  - el ele tutuşan kadınlar
+  - 'el ele tutuşan kadınlar: açık cilt tonu'
+  - kadınlar
+  - çift
+👩🏼‍🤝‍👩🏻:
+  - açık cilt tonu
+  - el
+  - el ele tutuşan
+  - el ele tutuşan kadınlar
+  - 'el ele tutuşan kadınlar: orta açık cilt tonu açık cilt tonu'
+  - kadınlar
+  - orta açık cilt tonu
+  - çift
+👭🏼:
+  - el
+  - el ele tutuşan
+  - el ele tutuşan kadınlar
+  - 'el ele tutuşan kadınlar: orta açık cilt tonu'
+  - kadınlar
+  - orta açık cilt tonu
+  - çift
+👩🏽‍🤝‍👩🏻:
+  - açık cilt tonu
+  - el
+  - el ele tutuşan
+  - el ele tutuşan kadınlar
+  - 'el ele tutuşan kadınlar: orta cilt tonu açık cilt tonu'
+  - kadınlar
+  - orta cilt tonu
+  - çift
+👩🏽‍🤝‍👩🏼:
+  - el
+  - el ele tutuşan
+  - el ele tutuşan kadınlar
+  - 'el ele tutuşan kadınlar: orta cilt tonu orta açık cilt tonu'
+  - kadınlar
+  - orta açık cilt tonu
+  - orta cilt tonu
+  - çift
+👭🏽:
+  - el
+  - el ele tutuşan
+  - el ele tutuşan kadınlar
+  - 'el ele tutuşan kadınlar: orta cilt tonu'
+  - kadınlar
+  - orta cilt tonu
+  - çift
+👩🏾‍🤝‍👩🏻:
+  - açık cilt tonu
+  - el
+  - el ele tutuşan
+  - el ele tutuşan kadınlar
+  - 'el ele tutuşan kadınlar: orta koyu cilt tonu açık cilt tonu'
+  - kadınlar
+  - orta koyu cilt tonu
+  - çift
+👩🏾‍🤝‍👩🏼:
+  - el
+  - el ele tutuşan
+  - el ele tutuşan kadınlar
+  - 'el ele tutuşan kadınlar: orta koyu cilt tonu orta açık cilt tonu'
+  - kadınlar
+  - orta açık cilt tonu
+  - orta koyu cilt tonu
+  - çift
+👩🏾‍🤝‍👩🏽:
+  - el
+  - el ele tutuşan
+  - el ele tutuşan kadınlar
+  - 'el ele tutuşan kadınlar: orta koyu cilt tonu orta cilt tonu'
+  - kadınlar
+  - orta cilt tonu
+  - orta koyu cilt tonu
+  - çift
+👭🏾:
+  - el
+  - el ele tutuşan
+  - el ele tutuşan kadınlar
+  - 'el ele tutuşan kadınlar: orta koyu cilt tonu'
+  - kadınlar
+  - orta koyu cilt tonu
+  - çift
+👩🏿‍🤝‍👩🏻:
+  - açık cilt tonu
+  - el
+  - el ele tutuşan
+  - el ele tutuşan kadınlar
+  - 'el ele tutuşan kadınlar: koyu cilt tonu açık cilt tonu'
+  - kadınlar
+  - koyu cilt tonu
+  - çift
+👩🏿‍🤝‍👩🏼:
+  - el
+  - el ele tutuşan
+  - el ele tutuşan kadınlar
+  - 'el ele tutuşan kadınlar: koyu cilt tonu orta açık cilt tonu'
+  - kadınlar
+  - koyu cilt tonu
+  - orta açık cilt tonu
+  - çift
+👩🏿‍🤝‍👩🏽:
+  - el
+  - el ele tutuşan
+  - el ele tutuşan kadınlar
+  - 'el ele tutuşan kadınlar: koyu cilt tonu orta cilt tonu'
+  - kadınlar
+  - koyu cilt tonu
+  - orta cilt tonu
+  - çift
+👩🏿‍🤝‍👩🏾:
+  - el
+  - el ele tutuşan
+  - el ele tutuşan kadınlar
+  - 'el ele tutuşan kadınlar: koyu cilt tonu orta koyu cilt tonu'
+  - kadınlar
+  - koyu cilt tonu
+  - orta koyu cilt tonu
+  - çift
+👭🏿:
+  - el
+  - el ele tutuşan
+  - el ele tutuşan kadınlar
+  - 'el ele tutuşan kadınlar: koyu cilt tonu'
+  - kadınlar
+  - koyu cilt tonu
   - çift
 👫:
   - el ele tutuşan
   - el ele tutuşan erkek ve kadın
   - erkek
   - kadın
-  - kişiler
+  - çift
+👫🏻:
+  - açık cilt tonu
+  - el ele tutuşan
+  - el ele tutuşan erkek ve kadın
+  - 'el ele tutuşan erkek ve kadın: açık cilt tonu'
+  - erkek
+  - kadın
+  - çift
+👩🏻‍🤝‍👨🏼:
+  - açık cilt tonu
+  - el ele tutuşan
+  - el ele tutuşan erkek ve kadın
+  - 'el ele tutuşan erkek ve kadın: açık cilt tonu orta açık cilt tonu'
+  - erkek
+  - kadın
+  - orta açık cilt tonu
+  - çift
+👩🏻‍🤝‍👨🏽:
+  - açık cilt tonu
+  - el ele tutuşan
+  - el ele tutuşan erkek ve kadın
+  - 'el ele tutuşan erkek ve kadın: açık cilt tonu orta cilt tonu'
+  - erkek
+  - kadın
+  - orta cilt tonu
+  - çift
+👩🏻‍🤝‍👨🏾:
+  - açık cilt tonu
+  - el ele tutuşan
+  - el ele tutuşan erkek ve kadın
+  - 'el ele tutuşan erkek ve kadın: açık cilt tonu orta koyu cilt tonu'
+  - erkek
+  - kadın
+  - orta koyu cilt tonu
+  - çift
+👩🏻‍🤝‍👨🏿:
+  - açık cilt tonu
+  - el ele tutuşan
+  - el ele tutuşan erkek ve kadın
+  - 'el ele tutuşan erkek ve kadın: açık cilt tonu koyu cilt tonu'
+  - erkek
+  - kadın
+  - koyu cilt tonu
+  - çift
+👩🏼‍🤝‍👨🏻:
+  - açık cilt tonu
+  - el ele tutuşan
+  - el ele tutuşan erkek ve kadın
+  - 'el ele tutuşan erkek ve kadın: orta açık cilt tonu açık cilt tonu'
+  - erkek
+  - kadın
+  - orta açık cilt tonu
+  - çift
+👫🏼:
+  - el ele tutuşan
+  - el ele tutuşan erkek ve kadın
+  - 'el ele tutuşan erkek ve kadın: orta açık cilt tonu'
+  - erkek
+  - kadın
+  - orta açık cilt tonu
+  - çift
+👩🏼‍🤝‍👨🏽:
+  - el ele tutuşan
+  - el ele tutuşan erkek ve kadın
+  - 'el ele tutuşan erkek ve kadın: orta açık cilt tonu orta cilt tonu'
+  - erkek
+  - kadın
+  - orta açık cilt tonu
+  - orta cilt tonu
+  - çift
+👩🏼‍🤝‍👨🏾:
+  - el ele tutuşan
+  - el ele tutuşan erkek ve kadın
+  - 'el ele tutuşan erkek ve kadın: orta açık cilt tonu orta koyu cilt tonu'
+  - erkek
+  - kadın
+  - orta açık cilt tonu
+  - orta koyu cilt tonu
+  - çift
+👩🏼‍🤝‍👨🏿:
+  - el ele tutuşan
+  - el ele tutuşan erkek ve kadın
+  - 'el ele tutuşan erkek ve kadın: orta açık cilt tonu koyu cilt tonu'
+  - erkek
+  - kadın
+  - koyu cilt tonu
+  - orta açık cilt tonu
+  - çift
+👩🏽‍🤝‍👨🏻:
+  - açık cilt tonu
+  - el ele tutuşan
+  - el ele tutuşan erkek ve kadın
+  - 'el ele tutuşan erkek ve kadın: orta cilt tonu açık cilt tonu'
+  - erkek
+  - kadın
+  - orta cilt tonu
+  - çift
+👩🏽‍🤝‍👨🏼:
+  - el ele tutuşan
+  - el ele tutuşan erkek ve kadın
+  - 'el ele tutuşan erkek ve kadın: orta cilt tonu orta açık cilt tonu'
+  - erkek
+  - kadın
+  - orta açık cilt tonu
+  - orta cilt tonu
+  - çift
+👫🏽:
+  - el ele tutuşan
+  - el ele tutuşan erkek ve kadın
+  - 'el ele tutuşan erkek ve kadın: orta cilt tonu'
+  - erkek
+  - kadın
+  - orta cilt tonu
+  - çift
+👩🏽‍🤝‍👨🏾:
+  - el ele tutuşan
+  - el ele tutuşan erkek ve kadın
+  - 'el ele tutuşan erkek ve kadın: orta cilt tonu orta koyu cilt tonu'
+  - erkek
+  - kadın
+  - orta cilt tonu
+  - orta koyu cilt tonu
+  - çift
+👩🏽‍🤝‍👨🏿:
+  - el ele tutuşan
+  - el ele tutuşan erkek ve kadın
+  - 'el ele tutuşan erkek ve kadın: orta cilt tonu koyu cilt tonu'
+  - erkek
+  - kadın
+  - koyu cilt tonu
+  - orta cilt tonu
+  - çift
+👩🏾‍🤝‍👨🏻:
+  - açık cilt tonu
+  - el ele tutuşan
+  - el ele tutuşan erkek ve kadın
+  - 'el ele tutuşan erkek ve kadın: orta koyu cilt tonu açık cilt tonu'
+  - erkek
+  - kadın
+  - orta koyu cilt tonu
+  - çift
+👩🏾‍🤝‍👨🏼:
+  - el ele tutuşan
+  - el ele tutuşan erkek ve kadın
+  - 'el ele tutuşan erkek ve kadın: orta koyu cilt tonu orta açık cilt tonu'
+  - erkek
+  - kadın
+  - orta açık cilt tonu
+  - orta koyu cilt tonu
+  - çift
+👩🏾‍🤝‍👨🏽:
+  - el ele tutuşan
+  - el ele tutuşan erkek ve kadın
+  - 'el ele tutuşan erkek ve kadın: orta koyu cilt tonu orta cilt tonu'
+  - erkek
+  - kadın
+  - orta cilt tonu
+  - orta koyu cilt tonu
+  - çift
+👫🏾:
+  - el ele tutuşan
+  - el ele tutuşan erkek ve kadın
+  - 'el ele tutuşan erkek ve kadın: orta koyu cilt tonu'
+  - erkek
+  - kadın
+  - orta koyu cilt tonu
+  - çift
+👩🏾‍🤝‍👨🏿:
+  - el ele tutuşan
+  - el ele tutuşan erkek ve kadın
+  - 'el ele tutuşan erkek ve kadın: orta koyu cilt tonu koyu cilt tonu'
+  - erkek
+  - kadın
+  - koyu cilt tonu
+  - orta koyu cilt tonu
+  - çift
+👩🏿‍🤝‍👨🏻:
+  - açık cilt tonu
+  - el ele tutuşan
+  - el ele tutuşan erkek ve kadın
+  - 'el ele tutuşan erkek ve kadın: koyu cilt tonu açık cilt tonu'
+  - erkek
+  - kadın
+  - koyu cilt tonu
+  - çift
+👩🏿‍🤝‍👨🏼:
+  - el ele tutuşan
+  - el ele tutuşan erkek ve kadın
+  - 'el ele tutuşan erkek ve kadın: koyu cilt tonu orta açık cilt tonu'
+  - erkek
+  - kadın
+  - koyu cilt tonu
+  - orta açık cilt tonu
+  - çift
+👩🏿‍🤝‍👨🏽:
+  - el ele tutuşan
+  - el ele tutuşan erkek ve kadın
+  - 'el ele tutuşan erkek ve kadın: koyu cilt tonu orta cilt tonu'
+  - erkek
+  - kadın
+  - koyu cilt tonu
+  - orta cilt tonu
+  - çift
+👩🏿‍🤝‍👨🏾:
+  - el ele tutuşan
+  - el ele tutuşan erkek ve kadın
+  - 'el ele tutuşan erkek ve kadın: koyu cilt tonu orta koyu cilt tonu'
+  - erkek
+  - kadın
+  - koyu cilt tonu
+  - orta koyu cilt tonu
+  - çift
+👫🏿:
+  - el ele tutuşan
+  - el ele tutuşan erkek ve kadın
+  - 'el ele tutuşan erkek ve kadın: koyu cilt tonu'
+  - erkek
+  - kadın
+  - koyu cilt tonu
   - çift
 👬:
   - el ele tutuşan
+  - el ele tutuşan erkekler
   - el ele tutuşan iki erkek
   - erkek
   - kişiler
+  - çift
+👬🏻:
+  - açık cilt tonu
+  - el ele tutuşan
+  - el ele tutuşan erkekler
+  - 'el ele tutuşan erkekler: açık cilt tonu'
+  - el ele tutuşan iki erkek
+  - erkek
+  - kişiler
+  - çift
+👨🏼‍🤝‍👨🏻:
+  - açık cilt tonu
+  - el ele tutuşan
+  - el ele tutuşan erkekler
+  - 'el ele tutuşan erkekler: orta açık cilt tonu açık cilt tonu'
+  - el ele tutuşan iki erkek
+  - erkek
+  - kişiler
+  - orta açık cilt tonu
+  - çift
+👬🏼:
+  - el ele tutuşan
+  - el ele tutuşan erkekler
+  - 'el ele tutuşan erkekler: orta açık cilt tonu'
+  - el ele tutuşan iki erkek
+  - erkek
+  - kişiler
+  - orta açık cilt tonu
+  - çift
+👨🏽‍🤝‍👨🏻:
+  - açık cilt tonu
+  - el ele tutuşan
+  - el ele tutuşan erkekler
+  - 'el ele tutuşan erkekler: orta cilt tonu açık cilt tonu'
+  - el ele tutuşan iki erkek
+  - erkek
+  - kişiler
+  - orta cilt tonu
+  - çift
+👨🏽‍🤝‍👨🏼:
+  - el ele tutuşan
+  - el ele tutuşan erkekler
+  - 'el ele tutuşan erkekler: orta cilt tonu orta açık cilt tonu'
+  - el ele tutuşan iki erkek
+  - erkek
+  - kişiler
+  - orta açık cilt tonu
+  - orta cilt tonu
+  - çift
+👬🏽:
+  - el ele tutuşan
+  - el ele tutuşan erkekler
+  - 'el ele tutuşan erkekler: orta cilt tonu'
+  - el ele tutuşan iki erkek
+  - erkek
+  - kişiler
+  - orta cilt tonu
+  - çift
+👨🏾‍🤝‍👨🏻:
+  - açık cilt tonu
+  - el ele tutuşan
+  - el ele tutuşan erkekler
+  - 'el ele tutuşan erkekler: orta koyu cilt tonu açık cilt tonu'
+  - el ele tutuşan iki erkek
+  - erkek
+  - kişiler
+  - orta koyu cilt tonu
+  - çift
+👨🏾‍🤝‍👨🏼:
+  - el ele tutuşan
+  - el ele tutuşan erkekler
+  - 'el ele tutuşan erkekler: orta koyu cilt tonu orta açık cilt tonu'
+  - el ele tutuşan iki erkek
+  - erkek
+  - kişiler
+  - orta açık cilt tonu
+  - orta koyu cilt tonu
+  - çift
+👨🏾‍🤝‍👨🏽:
+  - el ele tutuşan
+  - el ele tutuşan erkekler
+  - 'el ele tutuşan erkekler: orta koyu cilt tonu orta cilt tonu'
+  - el ele tutuşan iki erkek
+  - erkek
+  - kişiler
+  - orta cilt tonu
+  - orta koyu cilt tonu
+  - çift
+👬🏾:
+  - el ele tutuşan
+  - el ele tutuşan erkekler
+  - 'el ele tutuşan erkekler: orta koyu cilt tonu'
+  - el ele tutuşan iki erkek
+  - erkek
+  - kişiler
+  - orta koyu cilt tonu
+  - çift
+👨🏿‍🤝‍👨🏻:
+  - açık cilt tonu
+  - el ele tutuşan
+  - el ele tutuşan erkekler
+  - 'el ele tutuşan erkekler: koyu cilt tonu açık cilt tonu'
+  - el ele tutuşan iki erkek
+  - erkek
+  - kişiler
+  - koyu cilt tonu
+  - çift
+👨🏿‍🤝‍👨🏼:
+  - el ele tutuşan
+  - el ele tutuşan erkekler
+  - 'el ele tutuşan erkekler: koyu cilt tonu orta açık cilt tonu'
+  - el ele tutuşan iki erkek
+  - erkek
+  - kişiler
+  - koyu cilt tonu
+  - orta açık cilt tonu
+  - çift
+👨🏿‍🤝‍👨🏽:
+  - el ele tutuşan
+  - el ele tutuşan erkekler
+  - 'el ele tutuşan erkekler: koyu cilt tonu orta cilt tonu'
+  - el ele tutuşan iki erkek
+  - erkek
+  - kişiler
+  - koyu cilt tonu
+  - orta cilt tonu
+  - çift
+👨🏿‍🤝‍👨🏾:
+  - el ele tutuşan
+  - el ele tutuşan erkekler
+  - 'el ele tutuşan erkekler: koyu cilt tonu orta koyu cilt tonu'
+  - el ele tutuşan iki erkek
+  - erkek
+  - kişiler
+  - koyu cilt tonu
+  - orta koyu cilt tonu
+  - çift
+👬🏿:
+  - el ele tutuşan
+  - el ele tutuşan erkekler
+  - 'el ele tutuşan erkekler: koyu cilt tonu'
+  - el ele tutuşan iki erkek
+  - erkek
+  - kişiler
+  - koyu cilt tonu
   - çift
 💏:
   - kişiler
@@ -10448,7 +11791,6 @@
   - anne
   - baba
   - erkek
-  - erkek çocuk
   - kadın
   - kişiler
   - çocuk
@@ -10468,7 +11810,6 @@
   - anne
   - baba
   - erkek
-  - erkek çocuk
   - kadın
   - kişiler
   - kız çocuk
@@ -10479,7 +11820,6 @@
   - anne
   - baba
   - erkek
-  - erkek çocuk
   - kadın
   - kişiler
   - çocuk
@@ -10499,7 +11839,6 @@
   - anne
   - baba
   - erkek
-  - erkek çocuk
   - kişiler
   - çocuk
 👨‍👨‍👧:
@@ -10517,7 +11856,6 @@
   - anne
   - baba
   - erkek
-  - erkek çocuk
   - kişiler
   - kız çocuk
   - çocuk
@@ -10527,7 +11865,6 @@
   - anne
   - baba
   - erkek
-  - erkek çocuk
   - kişiler
   - çocuk
 👨‍👨‍👧‍👧:
@@ -10591,7 +11928,6 @@
   - anne
   - baba
   - erkek
-  - erkek çocuk
   - kişiler
   - çocuk
 👨‍👦‍👦:
@@ -10600,7 +11936,6 @@
   - anne
   - baba
   - erkek
-  - erkek çocuk
   - kişiler
   - çocuk
 👨‍👧:
@@ -10618,7 +11953,6 @@
   - anne
   - baba
   - erkek
-  - erkek çocuk
   - kişiler
   - kız çocuk
   - çocuk
@@ -10732,6 +12066,9 @@
 🦍:
   - goril
   - hayvan
+🦧:
+  - maymun
+  - orangutan
 🐶:
   - hayvan
   - köpek
@@ -10741,19 +12078,26 @@
   - hayvan
   - köpek
   - süs köpeği
+🦮:
+  - erişilebilirlik
+  - görme engelli
+  - rehber
+  - rehber köpek
+🐕‍🦺:
+  - erişilebilirlik
+  - köpek
+  - rehberlik
+  - yardım
+  - yardımcı köpek
 🐩:
   - hayvan
   - kaniş
   - köpek
 🐺:
-  - hayvan
   - kurt
-  - kurt yüzü
   - yüz
 🦊:
-  - hayvan
   - tilki
-  - tilki yüzü
   - yüz
 🦝:
   - meraklı
@@ -10790,8 +12134,7 @@
   - yarış
   - yarış atı
 🦄:
-  - tek boynuz
-  - tek boynuzlu at yüzü
+  - tek boynuzlu at
   - unicorn
   - yüz
 🦓:
@@ -10886,7 +12229,6 @@
   - sıçan
 🐹:
   - hamster
-  - hamster yüzü
   - hayvan
   - yüz
 🐰:
@@ -10908,18 +12250,25 @@
   - yarasa
 🐻:
   - ayı
-  - ayı yüzü
-  - hayvan
   - yüz
 🐨:
   - hayvan
   - koala
   - koala ayısı
 🐼:
-  - hayvan
   - panda
-  - panda yüzü
   - yüz
+🦥:
+  - tembel
+  - tembel hayvan
+  - yavaş
+🦦:
+  - balık avlayan
+  - oyuncu
+  - su samuru
+🦨:
+  - kokan
+  - kokarca
 🦘:
   - Avustralya
   - kanguru
@@ -10989,6 +12338,10 @@
   - baykuş
   - bilge
   - kuş
+🦩:
+  - flamingo
+  - gösterişli
+  - tropikal
 🦚:
   - dişi tavus kuşu
   - gururlu
@@ -11001,9 +12354,7 @@
   - kuş
   - papağan
 🐸:
-  - hayvan
   - kurbağa
-  - kurbağa yüzü
   - yüz
 🐊:
   - hayvan
@@ -11307,6 +12658,12 @@
 🥦:
   - brokoli
   - yabani lahana
+🧄:
+  - baharat
+  - sarımsak
+🧅:
+  - baharat
+  - soğan
 🍄:
   - bitki
   - mantar
@@ -11347,6 +12704,10 @@
   - krep
   - pankek
   - yiyecek
+🧇:
+  - hamur
+  - vafıl
+  - waffle
 🧀:
   - peynir
   - peynir dilimi
@@ -11401,6 +12762,10 @@
   - pide
   - sarma
   - yiyecek
+🧆:
+  - falafel
+  - köfte
+  - nohut
 🥚:
   - yiyecek
   - yumurta
@@ -11432,6 +12797,9 @@
 🍿:
   - mısır
   - patlamış mısır
+🧈:
+  - süt ürünü
+  - tereyağı
 🧂:
   - tuz
   - tuzluk
@@ -11537,6 +12905,10 @@
   - mürekkep balığı
   - yiyecek
   - yumuşakçalar sınıfı
+🦪:
+  - dalma
+  - inci
+  - istiridye
 🍦:
   - dondurma
   - krema
@@ -11682,6 +13054,16 @@
   - viski
 🥤:
   - pipetli bardak
+🧃:
+  - içecek kutusu
+  - kutu meyve suyu
+🧉:
+  - içecek
+  - mate çayı
+🧊:
+  - aysberg
+  - buz küpü
+  - soğuk
 🥢:
   - chopsticks
   - yemek çubukları
@@ -11886,6 +13268,10 @@
   - cami
   - din
   - İslam
+🛕:
+  - Hindu tapınağı
+  - hindu
+  - tapınak
 🕍:
   - Yahudi
   - din
@@ -12113,6 +13499,15 @@
   - motor
   - motorlu skuter
   - skuter
+🦽:
+  - erişilebilirlik
+  - tekerlekli sandalye
+🦼:
+  - elektrikli tekerlekli sandalye
+  - erişilebilirlik
+🛺:
+  - elektrikli çekçek
+  - tuk tuk
 🚲️:
   - bisiklet
   - taşıt
@@ -12224,6 +13619,11 @@
   - taşıt
   - uçak
   - varış
+🪂:
+  - delta kanat
+  - deniz paraşütü
+  - paraşüt
+  - paraşütle atlama
 💺:
   - koltuk
   - sandalye
@@ -12486,6 +13886,9 @@
   - güneş
   - güneş yüz
   - yüz
+🪐:
+  - halkalı gezegen
+  - satürn
 ⭐️:
   - beyaz orta yıldız
   - yıldız
@@ -12651,10 +14054,11 @@
   - maytap
   - patlayıcı
 ✨:
-  - parıldayan yıldızlar
+  - '*'
+  - parıltı
   - parıltılar
   - pırıltı
-  - yıldızlar
+  - yıldız
 🎈:
   - balon
   - kutlama
@@ -12867,6 +14271,11 @@
   - kamış
   - kamış olta ve balık
   - olta
+🤿:
+  - aletli dalış
+  - dalgıç maskesi
+  - dalış
+  - şnorkelle dalış
 🎽:
   - koşu
   - koşu tişörtü
@@ -12892,6 +14301,14 @@
   - isabet
   - oyun
   - tam isabet
+🪀:
+  - inip çıkma
+  - oyuncak
+  - yoyo
+🪁:
+  - süzülme
+  - uçma
+  - uçurtma
 🎱:
   - bilardo
   - oyun
@@ -13028,6 +14445,11 @@
   - deney
   - doktor
   - laboratuvar önlüğü
+🦺:
+  - acil durum
+  - güvenlik
+  - güvenlik yeleği
+  - yelek
 👔:
   - giyim
   - kravat
@@ -13059,6 +14481,23 @@
   - elbise
   - giyim
   - kimono
+🥻:
+  - elbise
+  - giysi
+  - sari
+🩱:
+  - mayo
+  - tek parça mayo
+🩲:
+  - alt
+  - mayo
+  - slip
+  - slip mayo
+  - tek parça
+🩳:
+  - alt
+  - mayo
+  - şort
 👙:
   - bikini
   - deniz giysisi
@@ -13119,6 +14558,10 @@
   - kadın
   - kadın sandaleti
   - sandalet
+🩰:
+  - bale
+  - bale ayakkabıları
+  - dans
 👢:
   - bot
   - giyim
@@ -13274,6 +14717,10 @@
   - keman
   - müzik
   - müzik aleti
+🪕:
+  - banjo
+  - müzik
+  - yaylı
 🥁:
   - davul
   - müzik
@@ -13419,6 +14866,11 @@
   - kırmızı
   - kırmızı kağıt fener
   - restoran
+🪔:
+  - diya
+  - diya lamba
+  - lamba
+  - yağ
 📔:
   - dekorasyonlu not defteri
   - kapak
@@ -13756,6 +15208,12 @@
 🔨:
   - araç
   - çekiç
+🪓:
+  - ağaç
+  - balta
+  - kesme
+  - kısa balta
+  - yarma
 ⛏️:
   - alet
   - kazma
@@ -13821,6 +15279,10 @@
   - denge
   - terazi
   - ölçek
+🦯:
+  - erişilebilirlik
+  - görme engelli
+  - görme engelli bastonu
 🔗:
   - bağlantı işareti
   - bağlantılar
@@ -13881,10 +15343,22 @@
   - ilaç
   - iğne
   - şırınga
+🩸:
+  - ilaç
+  - kan bağışı
+  - kan damlası
+  - âdet
 💊:
   - doktor
   - hap
   - ilaç
+🩹:
+  - yapışkanlı bandaj
+🩺:
+  - doktor
+  - kalp
+  - stetoskop
+  - tıp
 🚪:
   - kapı
 🛏️:
@@ -13896,6 +15370,10 @@
   - kanepe ve lamba
   - lamba
   - otel
+🪑:
+  - iskemle
+  - oturma
+  - sandalye
 🚽:
   - WC
   - klozet
@@ -13906,6 +15384,10 @@
 🛁:
   - banyo
   - banyo küveti
+🪒:
+  - keskin
+  - tıraş
+  - ustura
 🧴:
   - güneş kremi
   - losyon
@@ -14467,49 +15949,68 @@
   - yeşil ve sarı
   - yeşil ve sarı yaprak
 ⭕️:
+  - kalın kırmızı çember
   - kalın çember
   - o
   - çember
 ✅:
-  - beyaz kalın onay işareti
-  - kalın onay işareti
+  - düğme
+  - işaret
   - onay
+  - onay işareti düğmesi
+  - ✓
 ☑️:
+  - kutu
   - kutulu
-  - kutulu onay işareti
   - onay
+  - seçili onay işareti
+  - seçilmiş onay kutusu
+  - ✓
 ✔️:
   - işaret
-  - kalın onay işareti
   - onay
+  - onay işareti
+  - ✓
 ✖️:
   - iptal
-  - kalın çarpı işareti
+  - işaret
   - x
+  - ×
   - çarpma
-  - çarpı
+  - çarpım
+  - çarpım işareti
 ❌:
   - iptal
   - işaret
   - x
+  - ×
   - çarpma
   - çarpı
   - çarpı işareti
 ❎:
-  - X kare içinde
+  - kare
+  - x
+  - ×
   - çarpı işareti düğmesi
 ➕:
+  - +
+  - artı
+  - artı işareti
   - işaret
-  - kalın artı işareti
-  - koyu renk artı işareti
+  - matematik
 ➖:
+  - '-'
+  - eksi
+  - eksi işareti
   - işaret
-  - kalın eksi işareti
-  - koyu renk eksi işareti
+  - matematik
+  - −
 ➗:
+  - bölü
+  - bölü işareti
   - işaret
-  - kalın bölü işareti
-  - koyu renk bölü işareti
+  - matematik
+  - ÷
 ➰:
   - döngü
   - dönüş
@@ -14524,41 +16025,53 @@
   - parça
   - parça değiştirme işareti
 ✳️:
+  - '*'
+  - asterisk
   - sekiz uçlu yıldız
   - yıldız
 ✴️:
+  - '*'
   - sekiz noktalı yıldız
   - yıldız
 ❇️:
+  - '*'
   - parlama
 ‼️:
+  - '!'
+  - '!!'
   - işaret
   - noktalama
   - çift ünlem
   - ünlem
 ⁉️:
+  - '!'
+  - '!?'
+  - '?'
   - işaret
   - noktalama
   - soru
   - ünlem
   - ünlemli soru işareti
 ❓️:
+  - '?'
   - işaret
   - noktalama
   - soru
   - soru işareti
 ❔:
+  - '?'
   - beyaz soru işareti
   - işaret
   - noktalama
   - soru
 ❕:
+  - '!'
   - beyaz ünlem işareti
   - işaret
   - noktalama
   - ünlem
 ❗️:
-  - işaret
+  - '!'
   - noktalama
   - ünlem
   - ünlem işareti
@@ -14568,11 +16081,14 @@
   - uzun ses işareti
   - çizgi
 ©️:
+  - c
   - telif hakkı
   - telif hakkı işareti
 ®️:
+  - r
   - tescil işareti
   - tescilli
+  - tescilli işareti
 ™️:
   - işaret
   - ticari marka
@@ -14796,11 +16312,31 @@
   - kırmızı
   - kırmızı daire
   - çember
+🟠:
+  - daire
+  - turuncu
+  - turuncu daire
+🟡:
+  - daire
+  - sarı
+  - sarı daire
+🟢:
+  - daire
+  - yeşil
+  - yeşil daire
 🔵:
   - büyük mavi çember
   - mavi
   - mavi daire
   - çember
+🟣:
+  - daire
+  - mor
+  - mor daire
+🟤:
+  - daire
+  - kahverengi
+  - kahverengi daire
 ⚫️:
   - daire
   - geometri
@@ -14809,6 +16345,34 @@
   - beyaz daire
   - daire
   - geometri
+🟥:
+  - kare
+  - kırmızı
+  - kırmızı kare
+🟧:
+  - kare
+  - turuncu
+  - turuncu kare
+🟨:
+  - kare
+  - sarı
+  - sarı kare
+🟩:
+  - kare
+  - yeşil
+  - yeşil kare
+🟦:
+  - kare
+  - mavi
+  - mavi kare
+🟪:
+  - kare
+  - mor
+  - mor kare
+🟫:
+  - kahverengi
+  - kahverengi kare
+  - kare
 ⬛️:
   - büyük siyah kare
   - geometri
@@ -15118,7 +16682,7 @@
   - 'bayrak: Cezayir'
 🇪🇦:
   - bayrak
-  - 'bayrak: Septe ve Melilla'
+  - 'bayrak: Ceuta ve Melilla'
 🇪🇨:
   - bayrak
   - 'bayrak: Ekvador'
@@ -15370,7 +16934,7 @@
   - 'bayrak: Marshall Adaları'
 🇲🇰:
   - bayrak
-  - 'bayrak: Makedonya'
+  - 'bayrak: Kuzey Makedonya'
 🇲🇱:
   - bayrak
   - 'bayrak: Mali'
@@ -15577,7 +17141,7 @@
   - 'bayrak: Suriye'
 🇸🇿:
   - bayrak
-  - 'bayrak: Svaziland'
+  - 'bayrak: Esvatini'
 🇹🇦:
   - bayrak
   - 'bayrak: Tristan da Cunha'

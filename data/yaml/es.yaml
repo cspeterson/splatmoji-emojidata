@@ -72,7 +72,9 @@
   - ángel
 🥰:
   - adorar
-  - cara sonriendo con 3 corazones
+  - amor
+  - cara sonriendo con corazones
+  - corazones
   - enamorada
   - enamorado
 😍:
@@ -451,6 +453,13 @@
   - cansado
   - cara
   - cara cansada
+🥱:
+  - aburrido
+  - bostezo
+  - cansado
+  - cara de bostezo
+  - dormido
+  - sueño
 😤:
   - cabreo
   - cara
@@ -541,61 +550,65 @@
   - ovni
 🤖:
   - cara
-  - cara de robot
   - monstruo
   - robot
 😺:
-  - abierta
   - cara
-  - cara de gato sonriendo
-  - gato
+  - feliz
+  - gato alegre
+  - gato feliz
+  - gato sonriendo
   - sonrisa
 😸:
   - cara
-  - cara de gato sonriendo con ojos sonrientes
   - gato
+  - gato sonriendo con ojos sonrientes
+  - ojos
+  - sonriente
   - sonrisa
 😹:
   - cara
-  - cara de gato llorando de risa
   - gato
+  - gato llorando de risa
   - lágrima
   - risa
 😻:
   - cara
-  - cara de gato sonriendo y ojos de corazón
   - corazón
+  - enamorado
   - gato
-  - sonrisa
+  - gato sonriendo con ojos de corazón
 😼:
   - cara
-  - cara de gato con sonrisa irónica
   - gato
+  - gato haciendo una mueca
   - irónico
   - sonrisa
 😽:
   - beso
   - cara
-  - cara de gato besando
+  - cariñoso
   - gato
-  - ojo
+  - gato besando
 🙀:
   - cara
-  - cara de gato asustado
   - gato
+  - gato asustado
+  - preocupación
   - pánico
   - sorpresa
 😿:
   - cara
-  - cara de gato llorando
   - gato
+  - gato llorando
   - lágrima
+  - pena
   - triste
 😾:
   - cara
-  - cara de gato enfadado
   - enfadado
   - gato
+  - gato enfadado
 🙈:
   - cara
   - mal
@@ -708,10 +721,20 @@
   - corazón morado
   - emoción
   - morado
+🤎:
+  - corazón
+  - corazón marrón
+  - emoción
+  - marrón
 🖤:
   - corazón
   - corazón negro
   - negro
+🤍:
+  - blanco
+  - corazón
+  - corazón blanco
+  - emoción
 💯:
   - '100'
   - cien puntos
@@ -1014,6 +1037,46 @@
   - ok
   - señal de aprobación con la mano
   - 'señal de aprobación con la mano: tono de piel oscuro'
+  - tono de piel oscuro
+🤏:
+  - mano pellizcando
+  - pellizco
+  - poco
+  - poquito
+🤏🏻:
+  - mano pellizcando
+  - 'mano pellizcando: tono de piel claro'
+  - pellizco
+  - poco
+  - poquito
+  - tono de piel claro
+🤏🏼:
+  - mano pellizcando
+  - 'mano pellizcando: tono de piel claro medio'
+  - pellizco
+  - poco
+  - poquito
+  - tono de piel claro medio
+🤏🏽:
+  - mano pellizcando
+  - 'mano pellizcando: tono de piel medio'
+  - pellizco
+  - poco
+  - poquito
+  - tono de piel medio
+🤏🏾:
+  - mano pellizcando
+  - 'mano pellizcando: tono de piel oscuro medio'
+  - pellizco
+  - poco
+  - poquito
+  - tono de piel oscuro medio
+🤏🏿:
+  - mano pellizcando
+  - 'mano pellizcando: tono de piel oscuro'
+  - pellizco
+  - poco
+  - poquito
   - tono de piel oscuro
 ✌️:
   - mano
@@ -2128,6 +2191,16 @@
   - fuerte
   - músculo
   - tono de piel oscuro
+🦾:
+  - accesibilidad
+  - brazo mecánico
+  - ortopedia
+  - prótesis
+🦿:
+  - accesibilidad
+  - ortopedia
+  - pierna mecánica
+  - prótesis
 🦵:
   - extremidad
   - patada
@@ -2223,6 +2296,52 @@
   - cuerpo
   - oreja
   - 'oreja: tono de piel oscuro'
+  - tono de piel oscuro
+🦻:
+  - accesibilidad
+  - audífono
+  - oreja con audífono
+  - prótesis auditiva
+  - sordo
+🦻🏻:
+  - accesibilidad
+  - audífono
+  - oreja con audífono
+  - 'oreja con audífono: tono de piel claro'
+  - prótesis auditiva
+  - sordo
+  - tono de piel claro
+🦻🏼:
+  - accesibilidad
+  - audífono
+  - oreja con audífono
+  - 'oreja con audífono: tono de piel claro medio'
+  - prótesis auditiva
+  - sordo
+  - tono de piel claro medio
+🦻🏽:
+  - accesibilidad
+  - audífono
+  - oreja con audífono
+  - 'oreja con audífono: tono de piel medio'
+  - prótesis auditiva
+  - sordo
+  - tono de piel medio
+🦻🏾:
+  - accesibilidad
+  - audífono
+  - oreja con audífono
+  - 'oreja con audífono: tono de piel oscuro medio'
+  - prótesis auditiva
+  - sordo
+  - tono de piel oscuro medio
+🦻🏿:
+  - accesibilidad
+  - audífono
+  - oreja con audífono
+  - 'oreja con audífono: tono de piel oscuro'
+  - prótesis auditiva
+  - sordo
   - tono de piel oscuro
 👃:
   - cuerpo
@@ -2453,37 +2572,49 @@
   - tono de piel oscuro
 👱:
   - persona adulta rubia
-  - personas
+  - rubia
+  - rubias
   - rubio
+  - rubios
 👱🏻:
   - persona adulta rubia
   - 'persona adulta rubia: tono de piel claro'
-  - personas
+  - rubia
+  - rubias
   - rubio
+  - rubios
   - tono de piel claro
 👱🏼:
   - persona adulta rubia
   - 'persona adulta rubia: tono de piel claro medio'
-  - personas
+  - rubia
+  - rubias
   - rubio
+  - rubios
   - tono de piel claro medio
 👱🏽:
   - persona adulta rubia
   - 'persona adulta rubia: tono de piel medio'
-  - personas
+  - rubia
+  - rubias
   - rubio
+  - rubios
   - tono de piel medio
 👱🏾:
   - persona adulta rubia
   - 'persona adulta rubia: tono de piel oscuro medio'
-  - personas
+  - rubia
+  - rubias
   - rubio
+  - rubios
   - tono de piel oscuro medio
 👱🏿:
   - persona adulta rubia
   - 'persona adulta rubia: tono de piel oscuro'
-  - personas
+  - rubia
+  - rubias
   - rubio
+  - rubios
   - tono de piel oscuro
 👨:
   - adulto
@@ -2514,32 +2645,50 @@
   - 'hombre: tono de piel oscuro'
   - tono de piel oscuro
 🧔:
-  - barba
-  - persona con barba
+  - barbas
+  - barbudo
+  - hombre
+  - hombre con barba
+  - persona
 🧔🏻:
-  - barba
-  - persona con barba
-  - 'persona con barba: tono de piel claro'
+  - barbas
+  - barbudo
+  - hombre
+  - hombre con barba
+  - 'hombre con barba: tono de piel claro'
+  - persona
   - tono de piel claro
 🧔🏼:
-  - barba
-  - persona con barba
-  - 'persona con barba: tono de piel claro medio'
+  - barbas
+  - barbudo
+  - hombre
+  - hombre con barba
+  - 'hombre con barba: tono de piel claro medio'
+  - persona
   - tono de piel claro medio
 🧔🏽:
-  - barba
-  - persona con barba
-  - 'persona con barba: tono de piel medio'
+  - barbas
+  - barbudo
+  - hombre
+  - hombre con barba
+  - 'hombre con barba: tono de piel medio'
+  - persona
   - tono de piel medio
 🧔🏾:
-  - barba
-  - persona con barba
-  - 'persona con barba: tono de piel oscuro medio'
+  - barbas
+  - barbudo
+  - hombre
+  - hombre con barba
+  - 'hombre con barba: tono de piel oscuro medio'
+  - persona
   - tono de piel oscuro medio
 🧔🏿:
-  - barba
-  - persona con barba
-  - 'persona con barba: tono de piel oscuro'
+  - barbas
+  - barbudo
+  - hombre
+  - hombre con barba
+  - 'hombre con barba: tono de piel oscuro'
+  - persona
   - tono de piel oscuro
 👱‍♂:
   - hombre
@@ -2683,38 +2832,38 @@
   - tono de piel oscuro
 👨‍🦲:
   - adulto
-  - calvo
   - hombre
-  - 'hombre: calvo'
+  - 'hombre: sin pelo'
+  - sin pelo
 👨🏻‍🦲:
   - adulto
-  - calvo
   - hombre
-  - 'hombre: tono de piel claro y calvo'
+  - 'hombre: tono de piel claro y sin pelo'
+  - sin pelo
   - tono de piel claro
 👨🏼‍🦲:
   - adulto
-  - calvo
   - hombre
-  - 'hombre: tono de piel claro medio y calvo'
+  - 'hombre: tono de piel claro medio y sin pelo'
+  - sin pelo
   - tono de piel claro medio
 👨🏽‍🦲:
   - adulto
-  - calvo
   - hombre
-  - 'hombre: tono de piel medio y calvo'
+  - 'hombre: tono de piel medio y sin pelo'
+  - sin pelo
   - tono de piel medio
 👨🏾‍🦲:
   - adulto
-  - calvo
   - hombre
-  - 'hombre: tono de piel oscuro medio y calvo'
+  - 'hombre: tono de piel oscuro medio y sin pelo'
+  - sin pelo
   - tono de piel oscuro medio
 👨🏿‍🦲:
   - adulto
-  - calvo
   - hombre
-  - 'hombre: tono de piel oscuro y calvo'
+  - 'hombre: tono de piel oscuro y sin pelo'
+  - sin pelo
   - tono de piel oscuro
 👩:
   - adulta
@@ -2886,38 +3035,38 @@
   - tono de piel oscuro
 👩‍🦲:
   - adulta
-  - calvo
   - mujer
-  - 'mujer: calvo'
+  - 'mujer: sin pelo'
+  - sin pelo
 👩🏻‍🦲:
   - adulta
-  - calvo
   - mujer
-  - 'mujer: tono de piel claro y calvo'
+  - 'mujer: tono de piel claro y sin pelo'
+  - sin pelo
   - tono de piel claro
 👩🏼‍🦲:
   - adulta
-  - calvo
   - mujer
-  - 'mujer: tono de piel claro medio y calvo'
+  - 'mujer: tono de piel claro medio y sin pelo'
+  - sin pelo
   - tono de piel claro medio
 👩🏽‍🦲:
   - adulta
-  - calvo
   - mujer
-  - 'mujer: tono de piel medio y calvo'
+  - 'mujer: tono de piel medio y sin pelo'
+  - sin pelo
   - tono de piel medio
 👩🏾‍🦲:
   - adulta
-  - calvo
   - mujer
-  - 'mujer: tono de piel oscuro medio y calvo'
+  - 'mujer: tono de piel oscuro medio y sin pelo'
+  - sin pelo
   - tono de piel oscuro medio
 👩🏿‍🦲:
   - adulta
-  - calvo
   - mujer
-  - 'mujer: tono de piel oscuro y calvo'
+  - 'mujer: tono de piel oscuro y sin pelo'
+  - sin pelo
   - tono de piel oscuro
 🧓:
   - género
@@ -3842,6 +3991,128 @@
   - mujer
   - mujer con la mano levantada
   - 'mujer con la mano levantada: tono de piel oscuro'
+  - tono de piel oscuro
+🧏:
+  - accesibilidad
+  - escuchar
+  - oído
+  - oír
+  - persona sorda
+  - sordera
+🧏🏻:
+  - accesibilidad
+  - escuchar
+  - oído
+  - oír
+  - persona sorda
+  - 'persona sorda: tono de piel claro'
+  - sordera
+  - tono de piel claro
+🧏🏼:
+  - accesibilidad
+  - escuchar
+  - oído
+  - oír
+  - persona sorda
+  - 'persona sorda: tono de piel claro medio'
+  - sordera
+  - tono de piel claro medio
+🧏🏽:
+  - accesibilidad
+  - escuchar
+  - oído
+  - oír
+  - persona sorda
+  - 'persona sorda: tono de piel medio'
+  - sordera
+  - tono de piel medio
+🧏🏾:
+  - accesibilidad
+  - escuchar
+  - oído
+  - oír
+  - persona sorda
+  - 'persona sorda: tono de piel oscuro medio'
+  - sordera
+  - tono de piel oscuro medio
+🧏🏿:
+  - accesibilidad
+  - escuchar
+  - oído
+  - oír
+  - persona sorda
+  - 'persona sorda: tono de piel oscuro'
+  - sordera
+  - tono de piel oscuro
+🧏‍♂:
+  - hombre
+  - hombre sordo
+  - sordera
+  - sordo
+🧏🏻‍♂:
+  - hombre
+  - 'hombre sordo: tono de piel claro'
+  - sordera
+  - sordo
+  - tono de piel claro
+🧏🏼‍♂:
+  - hombre
+  - 'hombre sordo: tono de piel claro medio'
+  - sordera
+  - sordo
+  - tono de piel claro medio
+🧏🏽‍♂:
+  - hombre
+  - 'hombre sordo: tono de piel medio'
+  - sordera
+  - sordo
+  - tono de piel medio
+🧏🏾‍♂:
+  - hombre
+  - 'hombre sordo: tono de piel oscuro medio'
+  - sordera
+  - sordo
+  - tono de piel oscuro medio
+🧏🏿‍♂:
+  - hombre
+  - 'hombre sordo: tono de piel oscuro'
+  - sordera
+  - sordo
+  - tono de piel oscuro
+🧏‍♀:
+  - mujer
+  - mujer sorda
+  - sorda
+  - sordera
+🧏🏻‍♀:
+  - mujer
+  - 'mujer sorda: tono de piel claro'
+  - sorda
+  - sordera
+  - tono de piel claro
+🧏🏼‍♀:
+  - mujer
+  - 'mujer sorda: tono de piel claro medio'
+  - sorda
+  - sordera
+  - tono de piel claro medio
+🧏🏽‍♀:
+  - mujer
+  - 'mujer sorda: tono de piel medio'
+  - sorda
+  - sordera
+  - tono de piel medio
+🧏🏾‍♀:
+  - mujer
+  - 'mujer sorda: tono de piel oscuro medio'
+  - sorda
+  - sordera
+  - tono de piel oscuro medio
+🧏🏿‍♀:
+  - mujer
+  - 'mujer sorda: tono de piel oscuro'
+  - sorda
+  - sordera
   - tono de piel oscuro
 🙇:
   - disculpa
@@ -6567,35 +6838,40 @@
   - amamantar
   - bebé
   - dar pecho
-  - 'dar pecho: tono de piel claro'
+  - lactancia materna
+  - 'lactancia materna: tono de piel claro'
   - pecho
   - tono de piel claro
 🤱🏼:
   - amamantar
   - bebé
   - dar pecho
-  - 'dar pecho: tono de piel claro medio'
+  - lactancia materna
+  - 'lactancia materna: tono de piel claro medio'
   - pecho
   - tono de piel claro medio
 🤱🏽:
   - amamantar
   - bebé
   - dar pecho
-  - 'dar pecho: tono de piel medio'
+  - lactancia materna
+  - 'lactancia materna: tono de piel medio'
   - pecho
   - tono de piel medio
 🤱🏾:
   - amamantar
   - bebé
   - dar pecho
-  - 'dar pecho: tono de piel oscuro medio'
+  - lactancia materna
+  - 'lactancia materna: tono de piel oscuro medio'
   - pecho
   - tono de piel oscuro medio
 🤱🏿:
   - amamantar
   - bebé
   - dar pecho
-  - 'dar pecho: tono de piel oscuro'
+  - lactancia materna
+  - 'lactancia materna: tono de piel oscuro'
   - pecho
   - tono de piel oscuro
 👼:
@@ -6748,40 +7024,45 @@
   - bueno
   - heroína
   - héroe
+  - personaje de superhéroe
+  - 'personaje de superhéroe: tono de piel claro'
   - superhéroe
-  - 'superhéroe: tono de piel claro'
   - superpoder
   - tono de piel claro
 🦸🏼:
   - bueno
   - heroína
   - héroe
+  - personaje de superhéroe
+  - 'personaje de superhéroe: tono de piel claro medio'
   - superhéroe
-  - 'superhéroe: tono de piel claro medio'
   - superpoder
   - tono de piel claro medio
 🦸🏽:
   - bueno
   - heroína
   - héroe
+  - personaje de superhéroe
+  - 'personaje de superhéroe: tono de piel medio'
   - superhéroe
-  - 'superhéroe: tono de piel medio'
   - superpoder
   - tono de piel medio
 🦸🏾:
   - bueno
   - heroína
   - héroe
+  - personaje de superhéroe
+  - 'personaje de superhéroe: tono de piel oscuro medio'
   - superhéroe
-  - 'superhéroe: tono de piel oscuro medio'
   - superpoder
   - tono de piel oscuro medio
 🦸🏿:
   - bueno
   - heroína
   - héroe
+  - personaje de superhéroe
+  - 'personaje de superhéroe: tono de piel oscuro'
   - superhéroe
-  - 'superhéroe: tono de piel oscuro'
   - superpoder
   - tono de piel oscuro
 🦸‍♂:
@@ -6793,41 +7074,41 @@
 🦸🏻‍♂:
   - bueno
   - hombre
-  - 'hombre superhéroe: tono de piel claro'
   - héroe
   - superhéroe
+  - 'superhéroe: tono de piel claro'
   - superpoder
   - tono de piel claro
 🦸🏼‍♂:
   - bueno
   - hombre
-  - 'hombre superhéroe: tono de piel claro medio'
   - héroe
   - superhéroe
+  - 'superhéroe: tono de piel claro medio'
   - superpoder
   - tono de piel claro medio
 🦸🏽‍♂:
   - bueno
   - hombre
-  - 'hombre superhéroe: tono de piel medio'
   - héroe
   - superhéroe
+  - 'superhéroe: tono de piel medio'
   - superpoder
   - tono de piel medio
 🦸🏾‍♂:
   - bueno
   - hombre
-  - 'hombre superhéroe: tono de piel oscuro medio'
   - héroe
   - superhéroe
+  - 'superhéroe: tono de piel oscuro medio'
   - superpoder
   - tono de piel oscuro medio
 🦸🏿‍♂:
   - bueno
   - hombre
-  - 'hombre superhéroe: tono de piel oscuro'
   - héroe
   - superhéroe
+  - 'superhéroe: tono de piel oscuro'
   - superpoder
   - tono de piel oscuro
 🦸‍♀:
@@ -6841,7 +7122,8 @@
   - heroína
   - héroe
   - mujer
-  - 'mujer superhéroe: tono de piel claro'
+  - superheroína
+  - 'superheroína: tono de piel claro'
   - superhéroe
   - superpoder
   - tono de piel claro
@@ -6849,7 +7131,8 @@
   - heroína
   - héroe
   - mujer
-  - 'mujer superhéroe: tono de piel claro medio'
+  - superheroína
+  - 'superheroína: tono de piel claro medio'
   - superhéroe
   - superpoder
   - tono de piel claro medio
@@ -6857,7 +7140,8 @@
   - heroína
   - héroe
   - mujer
-  - 'mujer superhéroe: tono de piel medio'
+  - superheroína
+  - 'superheroína: tono de piel medio'
   - superhéroe
   - superpoder
   - tono de piel medio
@@ -6865,7 +7149,8 @@
   - heroína
   - héroe
   - mujer
-  - 'mujer superhéroe: tono de piel oscuro medio'
+  - superheroína
+  - 'superheroína: tono de piel oscuro medio'
   - superhéroe
   - superpoder
   - tono de piel oscuro medio
@@ -6873,7 +7158,8 @@
   - heroína
   - héroe
   - mujer
-  - 'mujer superhéroe: tono de piel oscuro'
+  - superheroína
+  - 'superheroína: tono de piel oscuro'
   - superhéroe
   - superpoder
   - tono de piel oscuro
@@ -6888,45 +7174,45 @@
   - criminal
   - malo
   - malvado
+  - personaje de supervillano
+  - 'personaje de supervillano: tono de piel claro'
   - superpoder
-  - supervillano
-  - 'supervillano: tono de piel claro'
   - tono de piel claro
   - villano
 🦹🏼:
   - criminal
   - malo
   - malvado
+  - personaje de supervillano
+  - 'personaje de supervillano: tono de piel claro medio'
   - superpoder
-  - supervillano
-  - 'supervillano: tono de piel claro medio'
   - tono de piel claro medio
   - villano
 🦹🏽:
   - criminal
   - malo
   - malvado
+  - personaje de supervillano
+  - 'personaje de supervillano: tono de piel medio'
   - superpoder
-  - supervillano
-  - 'supervillano: tono de piel medio'
   - tono de piel medio
   - villano
 🦹🏾:
   - criminal
   - malo
   - malvado
+  - personaje de supervillano
+  - 'personaje de supervillano: tono de piel oscuro medio'
   - superpoder
-  - supervillano
-  - 'supervillano: tono de piel oscuro medio'
   - tono de piel oscuro medio
   - villano
 🦹🏿:
   - criminal
   - malo
   - malvado
+  - personaje de supervillano
+  - 'personaje de supervillano: tono de piel oscuro'
   - superpoder
-  - supervillano
-  - 'supervillano: tono de piel oscuro'
   - tono de piel oscuro
   - villano
 🦹‍♂:
@@ -6939,46 +7225,46 @@
 🦹🏻‍♂:
   - criminal
   - hombre
-  - hombre supervillano
-  - 'hombre supervillano: tono de piel claro'
   - malvado
   - superpoder
+  - supervillano
+  - 'supervillano: tono de piel claro'
   - tono de piel claro
   - villano
 🦹🏼‍♂:
   - criminal
   - hombre
-  - hombre supervillano
-  - 'hombre supervillano: tono de piel claro medio'
   - malvado
   - superpoder
+  - supervillano
+  - 'supervillano: tono de piel claro medio'
   - tono de piel claro medio
   - villano
 🦹🏽‍♂:
   - criminal
   - hombre
-  - hombre supervillano
-  - 'hombre supervillano: tono de piel medio'
   - malvado
   - superpoder
+  - supervillano
+  - 'supervillano: tono de piel medio'
   - tono de piel medio
   - villano
 🦹🏾‍♂:
   - criminal
   - hombre
-  - hombre supervillano
-  - 'hombre supervillano: tono de piel oscuro medio'
   - malvado
   - superpoder
+  - supervillano
+  - 'supervillano: tono de piel oscuro medio'
   - tono de piel oscuro medio
   - villano
 🦹🏿‍♂:
   - criminal
   - hombre
-  - hombre supervillano
-  - 'hombre supervillano: tono de piel oscuro'
   - malvado
   - superpoder
+  - supervillano
+  - 'supervillano: tono de piel oscuro'
   - tono de piel oscuro
   - villano
 🦹‍♀:
@@ -6992,45 +7278,45 @@
   - criminal
   - malvada
   - mujer
-  - mujer supervillana
-  - 'mujer supervillana: tono de piel claro'
   - superpoder
+  - supervillana
+  - 'supervillana: tono de piel claro'
   - tono de piel claro
   - villana
 🦹🏼‍♀:
   - criminal
   - malvada
   - mujer
-  - mujer supervillana
-  - 'mujer supervillana: tono de piel claro medio'
   - superpoder
+  - supervillana
+  - 'supervillana: tono de piel claro medio'
   - tono de piel claro medio
   - villana
 🦹🏽‍♀:
   - criminal
   - malvada
   - mujer
-  - mujer supervillana
-  - 'mujer supervillana: tono de piel medio'
   - superpoder
+  - supervillana
+  - 'supervillana: tono de piel medio'
   - tono de piel medio
   - villana
 🦹🏾‍♀:
   - criminal
   - malvada
   - mujer
-  - mujer supervillana
-  - 'mujer supervillana: tono de piel oscuro medio'
   - superpoder
+  - supervillana
+  - 'supervillana: tono de piel oscuro medio'
   - tono de piel oscuro medio
   - villana
 🦹🏿‍♀:
   - criminal
   - malvada
   - mujer
-  - mujer supervillana
-  - 'mujer supervillana: tono de piel oscuro'
   - superpoder
+  - supervillana
+  - 'supervillana: tono de piel oscuro'
   - tono de piel oscuro
   - villana
 🧙:
@@ -8002,6 +8288,546 @@
   - mujer caminando
   - 'mujer caminando: tono de piel oscuro'
   - tono de piel oscuro
+🧍:
+  - de pie
+  - levantada
+  - levantado
+  - levantarse
+  - persona de pie
+🧍🏻:
+  - de pie
+  - levantada
+  - levantado
+  - levantarse
+  - persona de pie
+  - 'persona de pie: tono de piel claro'
+  - tono de piel claro
+🧍🏼:
+  - de pie
+  - levantada
+  - levantado
+  - levantarse
+  - persona de pie
+  - 'persona de pie: tono de piel claro medio'
+  - tono de piel claro medio
+🧍🏽:
+  - de pie
+  - levantada
+  - levantado
+  - levantarse
+  - persona de pie
+  - 'persona de pie: tono de piel medio'
+  - tono de piel medio
+🧍🏾:
+  - de pie
+  - levantada
+  - levantado
+  - levantarse
+  - persona de pie
+  - 'persona de pie: tono de piel oscuro medio'
+  - tono de piel oscuro medio
+🧍🏿:
+  - de pie
+  - levantada
+  - levantado
+  - levantarse
+  - persona de pie
+  - 'persona de pie: tono de piel oscuro'
+  - tono de piel oscuro
+🧍‍♂:
+  - de pie
+  - hombre
+  - hombre de pie
+  - levantado
+  - levantarse
+🧍🏻‍♂:
+  - de pie
+  - hombre
+  - hombre de pie
+  - 'hombre de pie: tono de piel claro'
+  - levantado
+  - levantarse
+  - tono de piel claro
+🧍🏼‍♂:
+  - de pie
+  - hombre
+  - hombre de pie
+  - 'hombre de pie: tono de piel claro medio'
+  - levantado
+  - levantarse
+  - tono de piel claro medio
+🧍🏽‍♂:
+  - de pie
+  - hombre
+  - hombre de pie
+  - 'hombre de pie: tono de piel medio'
+  - levantado
+  - levantarse
+  - tono de piel medio
+🧍🏾‍♂:
+  - de pie
+  - hombre
+  - hombre de pie
+  - 'hombre de pie: tono de piel oscuro medio'
+  - levantado
+  - levantarse
+  - tono de piel oscuro medio
+🧍🏿‍♂:
+  - de pie
+  - hombre
+  - hombre de pie
+  - 'hombre de pie: tono de piel oscuro'
+  - levantado
+  - levantarse
+  - tono de piel oscuro
+🧍‍♀:
+  - de pie
+  - levantada
+  - levantarse
+  - mujer
+  - mujer de pie
+🧍🏻‍♀:
+  - de pie
+  - levantada
+  - levantarse
+  - mujer
+  - mujer de pie
+  - 'mujer de pie: tono de piel claro'
+  - tono de piel claro
+🧍🏼‍♀:
+  - de pie
+  - levantada
+  - levantarse
+  - mujer
+  - mujer de pie
+  - 'mujer de pie: tono de piel claro medio'
+  - tono de piel claro medio
+🧍🏽‍♀:
+  - de pie
+  - levantada
+  - levantarse
+  - mujer
+  - mujer de pie
+  - 'mujer de pie: tono de piel medio'
+  - tono de piel medio
+🧍🏾‍♀:
+  - de pie
+  - levantada
+  - levantarse
+  - mujer
+  - mujer de pie
+  - 'mujer de pie: tono de piel oscuro medio'
+  - tono de piel oscuro medio
+🧍🏿‍♀:
+  - de pie
+  - levantada
+  - levantarse
+  - mujer
+  - mujer de pie
+  - 'mujer de pie: tono de piel oscuro'
+  - tono de piel oscuro
+🧎:
+  - arrodillada
+  - arrodillado
+  - arrodillarse
+  - de rodillas
+  - persona de rodillas
+🧎🏻:
+  - arrodillada
+  - arrodillado
+  - arrodillarse
+  - de rodillas
+  - persona de rodillas
+  - 'persona de rodillas: tono de piel claro'
+  - tono de piel claro
+🧎🏼:
+  - arrodillada
+  - arrodillado
+  - arrodillarse
+  - de rodillas
+  - persona de rodillas
+  - 'persona de rodillas: tono de piel claro medio'
+  - tono de piel claro medio
+🧎🏽:
+  - arrodillada
+  - arrodillado
+  - arrodillarse
+  - de rodillas
+  - persona de rodillas
+  - 'persona de rodillas: tono de piel medio'
+  - tono de piel medio
+🧎🏾:
+  - arrodillada
+  - arrodillado
+  - arrodillarse
+  - de rodillas
+  - persona de rodillas
+  - 'persona de rodillas: tono de piel oscuro medio'
+  - tono de piel oscuro medio
+🧎🏿:
+  - arrodillada
+  - arrodillado
+  - arrodillarse
+  - de rodillas
+  - persona de rodillas
+  - 'persona de rodillas: tono de piel oscuro'
+  - tono de piel oscuro
+🧎‍♂:
+  - arrodillado
+  - arrodillarse
+  - de rodillas
+  - hombre
+  - hombre de rodillas
+🧎🏻‍♂:
+  - arrodillado
+  - arrodillarse
+  - de rodillas
+  - hombre
+  - hombre de rodillas
+  - 'hombre de rodillas: tono de piel claro'
+  - tono de piel claro
+🧎🏼‍♂:
+  - arrodillado
+  - arrodillarse
+  - de rodillas
+  - hombre
+  - hombre de rodillas
+  - 'hombre de rodillas: tono de piel claro medio'
+  - tono de piel claro medio
+🧎🏽‍♂:
+  - arrodillado
+  - arrodillarse
+  - de rodillas
+  - hombre
+  - hombre de rodillas
+  - 'hombre de rodillas: tono de piel medio'
+  - tono de piel medio
+🧎🏾‍♂:
+  - arrodillado
+  - arrodillarse
+  - de rodillas
+  - hombre
+  - hombre de rodillas
+  - 'hombre de rodillas: tono de piel oscuro medio'
+  - tono de piel oscuro medio
+🧎🏿‍♂:
+  - arrodillado
+  - arrodillarse
+  - de rodillas
+  - hombre
+  - hombre de rodillas
+  - 'hombre de rodillas: tono de piel oscuro'
+  - tono de piel oscuro
+🧎‍♀:
+  - arrodillada
+  - arrodillarse
+  - de rodillas
+  - mujer
+  - mujer de rodillas
+🧎🏻‍♀:
+  - arrodillada
+  - arrodillarse
+  - de rodillas
+  - mujer
+  - mujer de rodillas
+  - 'mujer de rodillas: tono de piel claro'
+  - tono de piel claro
+🧎🏼‍♀:
+  - arrodillada
+  - arrodillarse
+  - de rodillas
+  - mujer
+  - mujer de rodillas
+  - 'mujer de rodillas: tono de piel claro medio'
+  - tono de piel claro medio
+🧎🏽‍♀:
+  - arrodillada
+  - arrodillarse
+  - de rodillas
+  - mujer
+  - mujer de rodillas
+  - 'mujer de rodillas: tono de piel medio'
+  - tono de piel medio
+🧎🏾‍♀:
+  - arrodillada
+  - arrodillarse
+  - de rodillas
+  - mujer
+  - mujer de rodillas
+  - 'mujer de rodillas: tono de piel oscuro medio'
+  - tono de piel oscuro medio
+🧎🏿‍♀:
+  - arrodillada
+  - arrodillarse
+  - de rodillas
+  - mujer
+  - mujer de rodillas
+  - 'mujer de rodillas: tono de piel oscuro'
+  - tono de piel oscuro
+👨‍🦯:
+  - accesibilidad
+  - bastón
+  - ciego
+  - hombre
+  - hombre con bastón
+  - invidente
+👨🏻‍🦯:
+  - accesibilidad
+  - bastón
+  - ciego
+  - hombre
+  - hombre con bastón
+  - 'hombre con bastón: tono de piel claro'
+  - invidente
+  - tono de piel claro
+👨🏼‍🦯:
+  - accesibilidad
+  - bastón
+  - ciego
+  - hombre
+  - hombre con bastón
+  - 'hombre con bastón: tono de piel claro medio'
+  - invidente
+  - tono de piel claro medio
+👨🏽‍🦯:
+  - accesibilidad
+  - bastón
+  - ciego
+  - hombre
+  - hombre con bastón
+  - 'hombre con bastón: tono de piel medio'
+  - invidente
+  - tono de piel medio
+👨🏾‍🦯:
+  - accesibilidad
+  - bastón
+  - ciego
+  - hombre
+  - hombre con bastón
+  - 'hombre con bastón: tono de piel oscuro medio'
+  - invidente
+  - tono de piel oscuro medio
+👨🏿‍🦯:
+  - accesibilidad
+  - bastón
+  - ciego
+  - hombre
+  - hombre con bastón
+  - 'hombre con bastón: tono de piel oscuro'
+  - invidente
+  - tono de piel oscuro
+👩‍🦯:
+  - accesibilidad
+  - bastón
+  - ciega
+  - invidente
+  - mujer
+  - mujer con bastón
+👩🏻‍🦯:
+  - accesibilidad
+  - bastón
+  - ciega
+  - invidente
+  - mujer
+  - mujer con bastón
+  - 'mujer con bastón: tono de piel claro'
+  - tono de piel claro
+👩🏼‍🦯:
+  - accesibilidad
+  - bastón
+  - ciega
+  - invidente
+  - mujer
+  - mujer con bastón
+  - 'mujer con bastón: tono de piel claro medio'
+  - tono de piel claro medio
+👩🏽‍🦯:
+  - accesibilidad
+  - bastón
+  - ciega
+  - invidente
+  - mujer
+  - mujer con bastón
+  - 'mujer con bastón: tono de piel medio'
+  - tono de piel medio
+👩🏾‍🦯:
+  - accesibilidad
+  - bastón
+  - ciega
+  - invidente
+  - mujer
+  - mujer con bastón
+  - 'mujer con bastón: tono de piel oscuro medio'
+  - tono de piel oscuro medio
+👩🏿‍🦯:
+  - accesibilidad
+  - bastón
+  - ciega
+  - invidente
+  - mujer
+  - mujer con bastón
+  - 'mujer con bastón: tono de piel oscuro'
+  - tono de piel oscuro
+👨‍🦼:
+  - accesibilidad
+  - hombre
+  - hombre en silla de ruedas eléctrica
+  - silla de ruedas
+👨🏻‍🦼:
+  - accesibilidad
+  - hombre
+  - hombre en silla de ruedas eléctrica
+  - 'hombre en silla de ruedas eléctrica: tono de piel claro'
+  - silla de ruedas
+  - tono de piel claro
+👨🏼‍🦼:
+  - accesibilidad
+  - hombre
+  - hombre en silla de ruedas eléctrica
+  - 'hombre en silla de ruedas eléctrica: tono de piel claro medio'
+  - silla de ruedas
+  - tono de piel claro medio
+👨🏽‍🦼:
+  - accesibilidad
+  - hombre
+  - hombre en silla de ruedas eléctrica
+  - 'hombre en silla de ruedas eléctrica: tono de piel medio'
+  - silla de ruedas
+  - tono de piel medio
+👨🏾‍🦼:
+  - accesibilidad
+  - hombre
+  - hombre en silla de ruedas eléctrica
+  - 'hombre en silla de ruedas eléctrica: tono de piel oscuro medio'
+  - silla de ruedas
+  - tono de piel oscuro medio
+👨🏿‍🦼:
+  - accesibilidad
+  - hombre
+  - hombre en silla de ruedas eléctrica
+  - 'hombre en silla de ruedas eléctrica: tono de piel oscuro'
+  - silla de ruedas
+  - tono de piel oscuro
+👩‍🦼:
+  - accesibilidad
+  - mujer
+  - mujer en silla de ruedas eléctrica
+  - silla de ruedas
+👩🏻‍🦼:
+  - accesibilidad
+  - mujer
+  - mujer en silla de ruedas eléctrica
+  - 'mujer en silla de ruedas eléctrica: tono de piel claro'
+  - silla de ruedas
+  - tono de piel claro
+👩🏼‍🦼:
+  - accesibilidad
+  - mujer
+  - mujer en silla de ruedas eléctrica
+  - 'mujer en silla de ruedas eléctrica: tono de piel claro medio'
+  - silla de ruedas
+  - tono de piel claro medio
+👩🏽‍🦼:
+  - accesibilidad
+  - mujer
+  - mujer en silla de ruedas eléctrica
+  - 'mujer en silla de ruedas eléctrica: tono de piel medio'
+  - silla de ruedas
+  - tono de piel medio
+👩🏾‍🦼:
+  - accesibilidad
+  - mujer
+  - mujer en silla de ruedas eléctrica
+  - 'mujer en silla de ruedas eléctrica: tono de piel oscuro medio'
+  - silla de ruedas
+  - tono de piel oscuro medio
+👩🏿‍🦼:
+  - accesibilidad
+  - mujer
+  - mujer en silla de ruedas eléctrica
+  - 'mujer en silla de ruedas eléctrica: tono de piel oscuro'
+  - silla de ruedas
+  - tono de piel oscuro
+👨‍🦽:
+  - accesibilidad
+  - hombre
+  - hombre en silla de ruedas manual
+  - silla de ruedas
+👨🏻‍🦽:
+  - accesibilidad
+  - hombre
+  - hombre en silla de ruedas manual
+  - 'hombre en silla de ruedas manual: tono de piel claro'
+  - silla de ruedas
+  - tono de piel claro
+👨🏼‍🦽:
+  - accesibilidad
+  - hombre
+  - hombre en silla de ruedas manual
+  - 'hombre en silla de ruedas manual: tono de piel claro medio'
+  - silla de ruedas
+  - tono de piel claro medio
+👨🏽‍🦽:
+  - accesibilidad
+  - hombre
+  - hombre en silla de ruedas manual
+  - 'hombre en silla de ruedas manual: tono de piel medio'
+  - silla de ruedas
+  - tono de piel medio
+👨🏾‍🦽:
+  - accesibilidad
+  - hombre
+  - hombre en silla de ruedas manual
+  - 'hombre en silla de ruedas manual: tono de piel oscuro medio'
+  - silla de ruedas
+  - tono de piel oscuro medio
+👨🏿‍🦽:
+  - accesibilidad
+  - hombre
+  - hombre en silla de ruedas manual
+  - 'hombre en silla de ruedas manual: tono de piel oscuro'
+  - silla de ruedas
+  - tono de piel oscuro
+👩‍🦽:
+  - accesibilidad
+  - mujer
+  - mujer en silla de ruedas manual
+  - silla de ruedas
+👩🏻‍🦽:
+  - accesibilidad
+  - mujer
+  - mujer en silla de ruedas manual
+  - 'mujer en silla de ruedas manual: tono de piel claro'
+  - silla de ruedas
+  - tono de piel claro
+👩🏼‍🦽:
+  - accesibilidad
+  - mujer
+  - mujer en silla de ruedas manual
+  - 'mujer en silla de ruedas manual: tono de piel claro medio'
+  - silla de ruedas
+  - tono de piel claro medio
+👩🏽‍🦽:
+  - accesibilidad
+  - mujer
+  - mujer en silla de ruedas manual
+  - 'mujer en silla de ruedas manual: tono de piel medio'
+  - silla de ruedas
+  - tono de piel medio
+👩🏾‍🦽:
+  - accesibilidad
+  - mujer
+  - mujer en silla de ruedas manual
+  - 'mujer en silla de ruedas manual: tono de piel oscuro medio'
+  - silla de ruedas
+  - tono de piel oscuro medio
+👩🏿‍🦽:
+  - accesibilidad
+  - mujer
+  - mujer en silla de ruedas manual
+  - 'mujer en silla de ruedas manual: tono de piel oscuro'
+  - silla de ruedas
+  - tono de piel oscuro
 🏃:
   - carrera
   - deporte
@@ -8341,28 +9167,33 @@
 🧖🏻‍♀:
   - mujer en una sauna
   - 'mujer en una sauna: tono de piel claro'
-  - persona en sauna
+  - sauna
   - tono de piel claro
+  - vapor
 🧖🏼‍♀:
   - mujer en una sauna
   - 'mujer en una sauna: tono de piel claro medio'
-  - persona en sauna
+  - sauna
   - tono de piel claro medio
+  - vapor
 🧖🏽‍♀:
   - mujer en una sauna
   - 'mujer en una sauna: tono de piel medio'
-  - persona en sauna
+  - sauna
   - tono de piel medio
+  - vapor
 🧖🏾‍♀:
   - mujer en una sauna
   - 'mujer en una sauna: tono de piel oscuro medio'
-  - persona en sauna
+  - sauna
   - tono de piel oscuro medio
+  - vapor
 🧖🏿‍♀:
   - mujer en una sauna
   - 'mujer en una sauna: tono de piel oscuro'
-  - persona en sauna
+  - sauna
   - tono de piel oscuro
+  - vapor
 🧗:
   - alpinista
   - escalador
@@ -8437,31 +9268,31 @@
   - mujer escalando
 🧗🏻‍♀:
   - alpinista
-  - escalador
+  - escaladora
   - mujer escalando
   - 'mujer escalando: tono de piel claro'
   - tono de piel claro
 🧗🏼‍♀:
   - alpinista
-  - escalador
+  - escaladora
   - mujer escalando
   - 'mujer escalando: tono de piel claro medio'
   - tono de piel claro medio
 🧗🏽‍♀:
   - alpinista
-  - escalador
+  - escaladora
   - mujer escalando
   - 'mujer escalando: tono de piel medio'
   - tono de piel medio
 🧗🏾‍♀:
   - alpinista
-  - escalador
+  - escaladora
   - mujer escalando
   - 'mujer escalando: tono de piel oscuro medio'
   - tono de piel oscuro medio
 🧗🏿‍♀:
   - alpinista
-  - escalador
+  - escaladora
   - mujer escalando
   - 'mujer escalando: tono de piel oscuro'
   - tono de piel oscuro
@@ -8760,6 +9591,7 @@
   - mujer haciendo surf
   - 'mujer haciendo surf: tono de piel claro'
   - surf
+  - surfera
   - surfista
   - tono de piel claro
 🏄🏼‍♀:
@@ -8767,6 +9599,7 @@
   - mujer haciendo surf
   - 'mujer haciendo surf: tono de piel claro medio'
   - surf
+  - surfera
   - surfista
   - tono de piel claro medio
 🏄🏽‍♀:
@@ -8774,6 +9607,7 @@
   - mujer haciendo surf
   - 'mujer haciendo surf: tono de piel medio'
   - surf
+  - surfera
   - surfista
   - tono de piel medio
 🏄🏾‍♀:
@@ -8781,6 +9615,7 @@
   - mujer haciendo surf
   - 'mujer haciendo surf: tono de piel oscuro medio'
   - surf
+  - surfera
   - surfista
   - tono de piel oscuro medio
 🏄🏿‍♀:
@@ -8788,6 +9623,7 @@
   - mujer haciendo surf
   - 'mujer haciendo surf: tono de piel oscuro'
   - surf
+  - surfera
   - surfista
   - tono de piel oscuro
 🚣:
@@ -9309,31 +10145,36 @@
   - bicicleta
   - ciclismo
   - ciclista
-  - 'ciclista: tono de piel claro'
+  - persona en bicicleta
+  - 'persona en bicicleta: tono de piel claro'
   - tono de piel claro
 🚴🏼:
   - bicicleta
   - ciclismo
   - ciclista
-  - 'ciclista: tono de piel claro medio'
+  - persona en bicicleta
+  - 'persona en bicicleta: tono de piel claro medio'
   - tono de piel claro medio
 🚴🏽:
   - bicicleta
   - ciclismo
   - ciclista
-  - 'ciclista: tono de piel medio'
+  - persona en bicicleta
+  - 'persona en bicicleta: tono de piel medio'
   - tono de piel medio
 🚴🏾:
   - bicicleta
   - ciclismo
   - ciclista
-  - 'ciclista: tono de piel oscuro medio'
+  - persona en bicicleta
+  - 'persona en bicicleta: tono de piel oscuro medio'
   - tono de piel oscuro medio
 🚴🏿:
   - bicicleta
   - ciclismo
   - ciclista
-  - 'ciclista: tono de piel oscuro'
+  - persona en bicicleta
+  - 'persona en bicicleta: tono de piel oscuro'
   - tono de piel oscuro
 🚴‍♂:
   - bicicleta
@@ -9434,6 +10275,7 @@
   - mountain bike
   - persona en bicicleta de montaña
 🚵🏻:
+  - bicicleta
   - ciclista
   - montaña
   - mountain bike
@@ -9441,6 +10283,7 @@
   - 'persona en bicicleta de montaña: tono de piel claro'
   - tono de piel claro
 🚵🏼:
+  - bicicleta
   - ciclista
   - montaña
   - mountain bike
@@ -9448,6 +10291,7 @@
   - 'persona en bicicleta de montaña: tono de piel claro medio'
   - tono de piel claro medio
 🚵🏽:
+  - bicicleta
   - ciclista
   - montaña
   - mountain bike
@@ -9455,6 +10299,7 @@
   - 'persona en bicicleta de montaña: tono de piel medio'
   - tono de piel medio
 🚵🏾:
+  - bicicleta
   - ciclista
   - montaña
   - mountain bike
@@ -9462,6 +10307,7 @@
   - 'persona en bicicleta de montaña: tono de piel oscuro medio'
   - tono de piel oscuro medio
 🚵🏿:
+  - bicicleta
   - ciclista
   - montaña
   - mountain bike
@@ -10312,24 +11158,603 @@
   - persona en la cama
   - 'persona en la cama: tono de piel oscuro'
   - tono de piel oscuro
+🧑‍🤝‍🧑:
+  - dos personas dándose la mano
+🧑🏻‍🤝‍🧑🏻:
+  - dos personas dándose la mano
+  - 'dos personas dándose la mano: tono de piel claro'
+  - tono de piel claro
+🧑🏼‍🤝‍🧑🏻:
+  - dos personas dándose la mano
+  - 'dos personas dándose la mano: tono de piel claro medio y tono de piel claro'
+  - tono de piel claro
+  - tono de piel claro medio
+🧑🏼‍🤝‍🧑🏼:
+  - dos personas dándose la mano
+  - 'dos personas dándose la mano: tono de piel claro medio'
+  - tono de piel claro medio
+🧑🏽‍🤝‍🧑🏻:
+  - dos personas dándose la mano
+  - 'dos personas dándose la mano: tono de piel medio y tono de piel claro'
+  - tono de piel claro
+  - tono de piel medio
+🧑🏽‍🤝‍🧑🏼:
+  - dos personas dándose la mano
+  - 'dos personas dándose la mano: tono de piel medio y tono de piel claro medio'
+  - tono de piel claro medio
+  - tono de piel medio
+🧑🏽‍🤝‍🧑🏽:
+  - dos personas dándose la mano
+  - 'dos personas dándose la mano: tono de piel medio'
+  - tono de piel medio
+🧑🏾‍🤝‍🧑🏻:
+  - dos personas dándose la mano
+  - 'dos personas dándose la mano: tono de piel oscuro medio y tono de piel claro'
+  - tono de piel claro
+  - tono de piel oscuro medio
+🧑🏾‍🤝‍🧑🏼:
+  - dos personas dándose la mano
+  - 'dos personas dándose la mano: tono de piel oscuro medio y tono de piel claro
+    medio'
+  - tono de piel claro medio
+  - tono de piel oscuro medio
+🧑🏾‍🤝‍🧑🏽:
+  - dos personas dándose la mano
+  - 'dos personas dándose la mano: tono de piel oscuro medio y tono de piel medio'
+  - tono de piel medio
+  - tono de piel oscuro medio
+🧑🏾‍🤝‍🧑🏾:
+  - dos personas dándose la mano
+  - 'dos personas dándose la mano: tono de piel oscuro medio'
+  - tono de piel oscuro medio
+🧑🏿‍🤝‍🧑🏻:
+  - dos personas dándose la mano
+  - 'dos personas dándose la mano: tono de piel oscuro y tono de piel claro'
+  - tono de piel claro
+  - tono de piel oscuro
+🧑🏿‍🤝‍🧑🏼:
+  - dos personas dándose la mano
+  - 'dos personas dándose la mano: tono de piel oscuro y tono de piel claro medio'
+  - tono de piel claro medio
+  - tono de piel oscuro
+🧑🏿‍🤝‍🧑🏽:
+  - dos personas dándose la mano
+  - 'dos personas dándose la mano: tono de piel oscuro y tono de piel medio'
+  - tono de piel medio
+  - tono de piel oscuro
+🧑🏿‍🤝‍🧑🏾:
+  - dos personas dándose la mano
+  - 'dos personas dándose la mano: tono de piel oscuro y tono de piel oscuro medio'
+  - tono de piel oscuro
+  - tono de piel oscuro medio
+🧑🏿‍🤝‍🧑🏿:
+  - dos personas dándose la mano
+  - 'dos personas dándose la mano: tono de piel oscuro'
+  - tono de piel oscuro
 👭:
-  - dos mujeres de la mano
   - lesbianas
-  - mano
-  - mujer
+  - mujeres
+  - mujeres de la mano
+  - novias
   - pareja
+👭🏻:
+  - lesbianas
+  - mujeres
+  - mujeres de la mano
+  - 'mujeres de la mano: tono de piel claro'
+  - novias
+  - pareja
+  - tono de piel claro
+👩🏼‍🤝‍👩🏻:
+  - lesbianas
+  - mujeres
+  - mujeres de la mano
+  - 'mujeres de la mano: tono de piel claro medio y tono de piel claro'
+  - novias
+  - pareja
+  - tono de piel claro
+  - tono de piel claro medio
+👭🏼:
+  - lesbianas
+  - mujeres
+  - mujeres de la mano
+  - 'mujeres de la mano: tono de piel claro medio'
+  - novias
+  - pareja
+  - tono de piel claro medio
+👩🏽‍🤝‍👩🏻:
+  - lesbianas
+  - mujeres
+  - mujeres de la mano
+  - 'mujeres de la mano: tono de piel medio y tono de piel claro'
+  - novias
+  - pareja
+  - tono de piel claro
+  - tono de piel medio
+👩🏽‍🤝‍👩🏼:
+  - lesbianas
+  - mujeres
+  - mujeres de la mano
+  - 'mujeres de la mano: tono de piel medio y tono de piel claro medio'
+  - novias
+  - pareja
+  - tono de piel claro medio
+  - tono de piel medio
+👭🏽:
+  - lesbianas
+  - mujeres
+  - mujeres de la mano
+  - 'mujeres de la mano: tono de piel medio'
+  - novias
+  - pareja
+  - tono de piel medio
+👩🏾‍🤝‍👩🏻:
+  - lesbianas
+  - mujeres
+  - mujeres de la mano
+  - 'mujeres de la mano: tono de piel oscuro medio y tono de piel claro'
+  - novias
+  - pareja
+  - tono de piel claro
+  - tono de piel oscuro medio
+👩🏾‍🤝‍👩🏼:
+  - lesbianas
+  - mujeres
+  - mujeres de la mano
+  - 'mujeres de la mano: tono de piel oscuro medio y tono de piel claro medio'
+  - novias
+  - pareja
+  - tono de piel claro medio
+  - tono de piel oscuro medio
+👩🏾‍🤝‍👩🏽:
+  - lesbianas
+  - mujeres
+  - mujeres de la mano
+  - 'mujeres de la mano: tono de piel oscuro medio y tono de piel medio'
+  - novias
+  - pareja
+  - tono de piel medio
+  - tono de piel oscuro medio
+👭🏾:
+  - lesbianas
+  - mujeres
+  - mujeres de la mano
+  - 'mujeres de la mano: tono de piel oscuro medio'
+  - novias
+  - pareja
+  - tono de piel oscuro medio
+👩🏿‍🤝‍👩🏻:
+  - lesbianas
+  - mujeres
+  - mujeres de la mano
+  - 'mujeres de la mano: tono de piel oscuro y tono de piel claro'
+  - novias
+  - pareja
+  - tono de piel claro
+  - tono de piel oscuro
+👩🏿‍🤝‍👩🏼:
+  - lesbianas
+  - mujeres
+  - mujeres de la mano
+  - 'mujeres de la mano: tono de piel oscuro y tono de piel claro medio'
+  - novias
+  - pareja
+  - tono de piel claro medio
+  - tono de piel oscuro
+👩🏿‍🤝‍👩🏽:
+  - lesbianas
+  - mujeres
+  - mujeres de la mano
+  - 'mujeres de la mano: tono de piel oscuro y tono de piel medio'
+  - novias
+  - pareja
+  - tono de piel medio
+  - tono de piel oscuro
+👩🏿‍🤝‍👩🏾:
+  - lesbianas
+  - mujeres
+  - mujeres de la mano
+  - 'mujeres de la mano: tono de piel oscuro y tono de piel oscuro medio'
+  - novias
+  - pareja
+  - tono de piel oscuro
+  - tono de piel oscuro medio
+👭🏿:
+  - lesbianas
+  - mujeres
+  - mujeres de la mano
+  - 'mujeres de la mano: tono de piel oscuro'
+  - novias
+  - pareja
+  - tono de piel oscuro
 👫:
   - hombre
   - hombre y mujer de la mano
-  - mano
   - mujer
+  - mujer y hombre de la mano
+  - novios
   - pareja
-👬:
-  - dos hombres de la mano
-  - gays
+👫🏻:
   - hombre
-  - mano
+  - hombre y mujer de la mano
+  - mujer
+  - mujer y hombre de la mano
+  - 'mujer y hombre de la mano: tono de piel claro'
+  - novios
   - pareja
+  - tono de piel claro
+👩🏻‍🤝‍👨🏼:
+  - hombre
+  - hombre y mujer de la mano
+  - mujer
+  - mujer y hombre de la mano
+  - 'mujer y hombre de la mano: tono de piel claro y tono de piel claro medio'
+  - novios
+  - pareja
+  - tono de piel claro
+  - tono de piel claro medio
+👩🏻‍🤝‍👨🏽:
+  - hombre
+  - hombre y mujer de la mano
+  - mujer
+  - mujer y hombre de la mano
+  - 'mujer y hombre de la mano: tono de piel claro y tono de piel medio'
+  - novios
+  - pareja
+  - tono de piel claro
+  - tono de piel medio
+👩🏻‍🤝‍👨🏾:
+  - hombre
+  - hombre y mujer de la mano
+  - mujer
+  - mujer y hombre de la mano
+  - 'mujer y hombre de la mano: tono de piel claro y tono de piel oscuro medio'
+  - novios
+  - pareja
+  - tono de piel claro
+  - tono de piel oscuro medio
+👩🏻‍🤝‍👨🏿:
+  - hombre
+  - hombre y mujer de la mano
+  - mujer
+  - mujer y hombre de la mano
+  - 'mujer y hombre de la mano: tono de piel claro y tono de piel oscuro'
+  - novios
+  - pareja
+  - tono de piel claro
+  - tono de piel oscuro
+👩🏼‍🤝‍👨🏻:
+  - hombre
+  - hombre y mujer de la mano
+  - mujer
+  - mujer y hombre de la mano
+  - 'mujer y hombre de la mano: tono de piel claro medio y tono de piel claro'
+  - novios
+  - pareja
+  - tono de piel claro
+  - tono de piel claro medio
+👫🏼:
+  - hombre
+  - hombre y mujer de la mano
+  - mujer
+  - mujer y hombre de la mano
+  - 'mujer y hombre de la mano: tono de piel claro medio'
+  - novios
+  - pareja
+  - tono de piel claro medio
+👩🏼‍🤝‍👨🏽:
+  - hombre
+  - hombre y mujer de la mano
+  - mujer
+  - mujer y hombre de la mano
+  - 'mujer y hombre de la mano: tono de piel claro medio y tono de piel medio'
+  - novios
+  - pareja
+  - tono de piel claro medio
+  - tono de piel medio
+👩🏼‍🤝‍👨🏾:
+  - hombre
+  - hombre y mujer de la mano
+  - mujer
+  - mujer y hombre de la mano
+  - 'mujer y hombre de la mano: tono de piel claro medio y tono de piel oscuro medio'
+  - novios
+  - pareja
+  - tono de piel claro medio
+  - tono de piel oscuro medio
+👩🏼‍🤝‍👨🏿:
+  - hombre
+  - hombre y mujer de la mano
+  - mujer
+  - mujer y hombre de la mano
+  - 'mujer y hombre de la mano: tono de piel claro medio y tono de piel oscuro'
+  - novios
+  - pareja
+  - tono de piel claro medio
+  - tono de piel oscuro
+👩🏽‍🤝‍👨🏻:
+  - hombre
+  - hombre y mujer de la mano
+  - mujer
+  - mujer y hombre de la mano
+  - 'mujer y hombre de la mano: tono de piel medio y tono de piel claro'
+  - novios
+  - pareja
+  - tono de piel claro
+  - tono de piel medio
+👩🏽‍🤝‍👨🏼:
+  - hombre
+  - hombre y mujer de la mano
+  - mujer
+  - mujer y hombre de la mano
+  - 'mujer y hombre de la mano: tono de piel medio y tono de piel claro medio'
+  - novios
+  - pareja
+  - tono de piel claro medio
+  - tono de piel medio
+👫🏽:
+  - hombre
+  - hombre y mujer de la mano
+  - mujer
+  - mujer y hombre de la mano
+  - 'mujer y hombre de la mano: tono de piel medio'
+  - novios
+  - pareja
+  - tono de piel medio
+👩🏽‍🤝‍👨🏾:
+  - hombre
+  - hombre y mujer de la mano
+  - mujer
+  - mujer y hombre de la mano
+  - 'mujer y hombre de la mano: tono de piel medio y tono de piel oscuro medio'
+  - novios
+  - pareja
+  - tono de piel medio
+  - tono de piel oscuro medio
+👩🏽‍🤝‍👨🏿:
+  - hombre
+  - hombre y mujer de la mano
+  - mujer
+  - mujer y hombre de la mano
+  - 'mujer y hombre de la mano: tono de piel medio y tono de piel oscuro'
+  - novios
+  - pareja
+  - tono de piel medio
+  - tono de piel oscuro
+👩🏾‍🤝‍👨🏻:
+  - hombre
+  - hombre y mujer de la mano
+  - mujer
+  - mujer y hombre de la mano
+  - 'mujer y hombre de la mano: tono de piel oscuro medio y tono de piel claro'
+  - novios
+  - pareja
+  - tono de piel claro
+  - tono de piel oscuro medio
+👩🏾‍🤝‍👨🏼:
+  - hombre
+  - hombre y mujer de la mano
+  - mujer
+  - mujer y hombre de la mano
+  - 'mujer y hombre de la mano: tono de piel oscuro medio y tono de piel claro medio'
+  - novios
+  - pareja
+  - tono de piel claro medio
+  - tono de piel oscuro medio
+👩🏾‍🤝‍👨🏽:
+  - hombre
+  - hombre y mujer de la mano
+  - mujer
+  - mujer y hombre de la mano
+  - 'mujer y hombre de la mano: tono de piel oscuro medio y tono de piel medio'
+  - novios
+  - pareja
+  - tono de piel medio
+  - tono de piel oscuro medio
+👫🏾:
+  - hombre
+  - hombre y mujer de la mano
+  - mujer
+  - mujer y hombre de la mano
+  - 'mujer y hombre de la mano: tono de piel oscuro medio'
+  - novios
+  - pareja
+  - tono de piel oscuro medio
+👩🏾‍🤝‍👨🏿:
+  - hombre
+  - hombre y mujer de la mano
+  - mujer
+  - mujer y hombre de la mano
+  - 'mujer y hombre de la mano: tono de piel oscuro medio y tono de piel oscuro'
+  - novios
+  - pareja
+  - tono de piel oscuro
+  - tono de piel oscuro medio
+👩🏿‍🤝‍👨🏻:
+  - hombre
+  - hombre y mujer de la mano
+  - mujer
+  - mujer y hombre de la mano
+  - 'mujer y hombre de la mano: tono de piel oscuro y tono de piel claro'
+  - novios
+  - pareja
+  - tono de piel claro
+  - tono de piel oscuro
+👩🏿‍🤝‍👨🏼:
+  - hombre
+  - hombre y mujer de la mano
+  - mujer
+  - mujer y hombre de la mano
+  - 'mujer y hombre de la mano: tono de piel oscuro y tono de piel claro medio'
+  - novios
+  - pareja
+  - tono de piel claro medio
+  - tono de piel oscuro
+👩🏿‍🤝‍👨🏽:
+  - hombre
+  - hombre y mujer de la mano
+  - mujer
+  - mujer y hombre de la mano
+  - 'mujer y hombre de la mano: tono de piel oscuro y tono de piel medio'
+  - novios
+  - pareja
+  - tono de piel medio
+  - tono de piel oscuro
+👩🏿‍🤝‍👨🏾:
+  - hombre
+  - hombre y mujer de la mano
+  - mujer
+  - mujer y hombre de la mano
+  - 'mujer y hombre de la mano: tono de piel oscuro y tono de piel oscuro medio'
+  - novios
+  - pareja
+  - tono de piel oscuro
+  - tono de piel oscuro medio
+👫🏿:
+  - hombre
+  - hombre y mujer de la mano
+  - mujer
+  - mujer y hombre de la mano
+  - 'mujer y hombre de la mano: tono de piel oscuro'
+  - novios
+  - pareja
+  - tono de piel oscuro
+👬:
+  - gays
+  - hombres
+  - hombres de la mano
+  - novios
+  - pareja
+👬🏻:
+  - gays
+  - hombres
+  - hombres de la mano
+  - 'hombres de la mano: tono de piel claro'
+  - novios
+  - pareja
+  - tono de piel claro
+👨🏼‍🤝‍👨🏻:
+  - gays
+  - hombres
+  - hombres de la mano
+  - 'hombres de la mano: tono de piel claro medio y tono de piel claro'
+  - novios
+  - pareja
+  - tono de piel claro
+  - tono de piel claro medio
+👬🏼:
+  - gays
+  - hombres
+  - hombres de la mano
+  - 'hombres de la mano: tono de piel claro medio'
+  - novios
+  - pareja
+  - tono de piel claro medio
+👨🏽‍🤝‍👨🏻:
+  - gays
+  - hombres
+  - hombres de la mano
+  - 'hombres de la mano: tono de piel medio y tono de piel claro'
+  - novios
+  - pareja
+  - tono de piel claro
+  - tono de piel medio
+👨🏽‍🤝‍👨🏼:
+  - gays
+  - hombres
+  - hombres de la mano
+  - 'hombres de la mano: tono de piel medio y tono de piel claro medio'
+  - novios
+  - pareja
+  - tono de piel claro medio
+  - tono de piel medio
+👬🏽:
+  - gays
+  - hombres
+  - hombres de la mano
+  - 'hombres de la mano: tono de piel medio'
+  - novios
+  - pareja
+  - tono de piel medio
+👨🏾‍🤝‍👨🏻:
+  - gays
+  - hombres
+  - hombres de la mano
+  - 'hombres de la mano: tono de piel oscuro medio y tono de piel claro'
+  - novios
+  - pareja
+  - tono de piel claro
+  - tono de piel oscuro medio
+👨🏾‍🤝‍👨🏼:
+  - gays
+  - hombres
+  - hombres de la mano
+  - 'hombres de la mano: tono de piel oscuro medio y tono de piel claro medio'
+  - novios
+  - pareja
+  - tono de piel claro medio
+  - tono de piel oscuro medio
+👨🏾‍🤝‍👨🏽:
+  - gays
+  - hombres
+  - hombres de la mano
+  - 'hombres de la mano: tono de piel oscuro medio y tono de piel medio'
+  - novios
+  - pareja
+  - tono de piel medio
+  - tono de piel oscuro medio
+👬🏾:
+  - gays
+  - hombres
+  - hombres de la mano
+  - 'hombres de la mano: tono de piel oscuro medio'
+  - novios
+  - pareja
+  - tono de piel oscuro medio
+👨🏿‍🤝‍👨🏻:
+  - gays
+  - hombres
+  - hombres de la mano
+  - 'hombres de la mano: tono de piel oscuro y tono de piel claro'
+  - novios
+  - pareja
+  - tono de piel claro
+  - tono de piel oscuro
+👨🏿‍🤝‍👨🏼:
+  - gays
+  - hombres
+  - hombres de la mano
+  - 'hombres de la mano: tono de piel oscuro y tono de piel claro medio'
+  - novios
+  - pareja
+  - tono de piel claro medio
+  - tono de piel oscuro
+👨🏿‍🤝‍👨🏽:
+  - gays
+  - hombres
+  - hombres de la mano
+  - 'hombres de la mano: tono de piel oscuro y tono de piel medio'
+  - novios
+  - pareja
+  - tono de piel medio
+  - tono de piel oscuro
+👨🏿‍🤝‍👨🏾:
+  - gays
+  - hombres
+  - hombres de la mano
+  - 'hombres de la mano: tono de piel oscuro y tono de piel oscuro medio'
+  - novios
+  - pareja
+  - tono de piel oscuro
+  - tono de piel oscuro medio
+👬🏿:
+  - gays
+  - hombres
+  - hombres de la mano
+  - 'hombres de la mano: tono de piel oscuro'
+  - novios
+  - pareja
+  - tono de piel oscuro
 💏:
   - beso
   - personas
@@ -10365,25 +11790,28 @@
   - corazón
   - hombre
   - hombre y mujer enamorados
-  - 'hombre y mujer enamorados: mujer y hombre'
   - mujer
   - pareja
+  - pareja enamorada
+  - 'pareja enamorada: mujer y hombre'
   - personas
 👨‍❤‍👨:
   - amor
   - corazón
   - hombre
   - hombre y mujer enamorados
-  - 'hombre y mujer enamorados: hombre y hombre'
   - pareja
+  - pareja enamorada
+  - 'pareja enamorada: hombre y hombre'
   - personas
 👩‍❤‍👩:
   - amor
   - corazón
   - hombre y mujer enamorados
-  - 'hombre y mujer enamorados: mujer y mujer'
   - mujer
   - pareja
+  - pareja enamorada
+  - 'pareja enamorada: mujer y mujer'
   - personas
 👪️:
   - familia
@@ -10671,6 +12099,11 @@
   - animal
   - cara
   - gorila
+🦧:
+  - mono
+  - orangután
+  - primate
+  - simio
 🐶:
   - animal
   - cara
@@ -10681,18 +12114,30 @@
   - perrete
   - perrito
   - perro
+🦮:
+  - accesibilidad
+  - ciego
+  - guía
+  - invidente
+  - lazarillo
+  - perro guía
+🐕‍🦺:
+  - accesibilidad
+  - apoyo
+  - asistencia
+  - perro
+  - perro de servicio
+  - servicio
 🐩:
   - caniche
   - perrito
   - perro
 🐺:
   - cara
-  - cara de lobo
   - lobo
 🦊:
   - animal
   - cara
-  - cara de zorro
   - zorro
 🦝:
   - astuto
@@ -10710,7 +12155,6 @@
   - minino
 🦁:
   - cara
-  - cara de león
   - leo
   - león
   - zodiaco
@@ -10736,7 +12180,6 @@
   - ecuestre
 🦄:
   - cara
-  - cara de unicornio
   - unicornio
 🦓:
   - cebra
@@ -10842,7 +12285,6 @@
 🐹:
   - animal
   - cara
-  - cara de hámster
   - hámster
   - mascota
 🐰:
@@ -10868,7 +12310,6 @@
 🐻:
   - animal
   - cara
-  - cara de oso
   - oso
 🐨:
   - bambú
@@ -10876,9 +12317,25 @@
 🐼:
   - animal
   - cara
-  - cara de oso panda
   - oso panda
   - panda
+🦥:
+  - gandul
+  - lento
+  - perezoso
+  - vago
+🦦:
+  - bromista
+  - juguetón
+  - nutria
+  - pesca
+🦨:
+  - apestar
+  - hedor
+  - mal olor
+  - mofeta
+  - peste
+  - tufo
 🦘:
   - australia
   - canguro
@@ -10954,6 +12411,11 @@
   - búho
   - lechuza
   - pájaro
+🦩:
+  - extravangante
+  - flamenco
+  - ostentoso
+  - tropical
 🦚:
   - ave
   - orgulloso
@@ -10969,7 +12431,6 @@
 🐸:
   - animal
   - cara
-  - cara de rana
   - rana
 🐊:
   - caimán
@@ -11314,6 +12775,14 @@
   - brócoli
   - col
   - repollo
+🧄:
+  - ajo
+  - condimento
+  - vampiro
+🧅:
+  - cebolla
+  - condimento
+  - llorar
 🍄:
   - champiñón
   - hongo
@@ -11362,6 +12831,9 @@
   - postre
   - tortita
   - tortitas
+🧇:
+  - gofre
+  - waffle
 🧀:
   - cuña
   - cuña de queso
@@ -11426,6 +12898,10 @@
   - kebab
   - pan de pita
   - pan relleno
+🧆:
+  - albóndiga
+  - falafel
+  - trufa
 🥚:
   - comida
   - huevo
@@ -11455,6 +12931,10 @@
 🍿:
   - maíz
   - palomitas
+🧈:
+  - lácteo
+  - mantequilla
+  - margarina
 🧂:
   - condimento
   - sal
@@ -11569,6 +13049,10 @@
   - calamar
   - comida
   - molusco
+🦪:
+  - buceo
+  - ostra
+  - perla
 🍦:
   - cucurucho
   - cucurucho de helado
@@ -11730,6 +13214,20 @@
   - refresco
   - vaso con pajita
   - zumo
+🧃:
+  - brick
+  - cartón
+  - envase
+  - tetrabrik
+  - zumo
+🧉:
+  - bebida
+  - infusión
+  - mate
+🧊:
+  - cubito de hielo
+  - frío
+  - iceberg
 🥢:
   - cubiertos
   - hashi
@@ -11960,6 +13458,10 @@
   - islam
   - mezquita
   - religión
+🛕:
+  - hindú
+  - templo
+  - templo hindú
 🕍:
   - judaísmo
   - religión
@@ -12204,6 +13706,16 @@
   - escúter
   - moto
   - scooter
+🦽:
+  - accesibilidad
+  - silla de ruedas manual
+🦼:
+  - accesibilidad
+  - silla de ruedas eléctrica
+🛺:
+  - mototaxi
+  - rickshaw
+  - tuk tuk
 🚲️:
   - bici
   - bicicleta
@@ -12318,6 +13830,12 @@
   - avión aterrizando
   - llegada
   - vehículo
+🪂:
+  - ala delta
+  - paracaidismo
+  - paracaídas
+  - paravela
+  - volar
 💺:
   - asiento
   - asiento de transporte
@@ -12582,6 +14100,10 @@
   - cara
   - sol
   - sol con cara
+🪐:
+  - planeta con anillos
+  - saturnino
+  - saturno
 ⭐️:
   - estrella
   - estrella blanca mediana
@@ -12700,6 +14222,7 @@
 ☄️:
   - cometa
   - espacio
+  - meteorito
 🔥:
   - fuego
   - llama
@@ -12739,6 +14262,7 @@
   - fuegos artificiales
   - petardo
 ✨:
+  - '*'
   - bengala
   - chispas
   - estrellas
@@ -12960,6 +14484,13 @@
   - esparcimiento
   - pesca
   - pez
+🤿:
+  - bucear
+  - buzo
+  - esnórquel
+  - máscara
+  - máscara de buceo
+  - tubo
 🎽:
   - banda
   - camiseta con banda
@@ -12982,6 +14513,18 @@
   - diana
   - en el blanco
   - juego
+🪀:
+  - dieta
+  - efecto
+  - fluctuar
+  - juguete
+  - yoyó
+🪁:
+  - cometa
+  - juguete
+  - planear
+  - viento
+  - volar
 🎱:
   - '8'
   - billar
@@ -13122,6 +14665,11 @@
   - doctor
   - experimento
   - médico
+🦺:
+  - chaleco
+  - chaleco de seguridad
+  - emergencia
+  - seguridad
 👔:
   - accesorio
   - corbata
@@ -13155,6 +14703,28 @@
   - japonés
   - kimono
   - ropa
+🥻:
+  - prenda
+  - ropa
+  - sari
+  - vestido
+🩱:
+  - bañador
+  - traje de baño de una pieza
+🩲:
+  - bañador
+  - bragas
+  - braguitas
+  - calzoncillos
+  - ropa interior
+  - slip
+🩳:
+  - bañador
+  - bermudas
+  - calzoncillos
+  - pantalones cortos
+  - ropa interior
+  - shorts
 👙:
   - baño
   - bikini
@@ -13225,6 +14795,12 @@
   - ropa
   - sandalia
   - sandalia de mujer
+🩰:
+  - bailar
+  - ballet
+  - balé
+  - danza
+  - zapatillas de ballet
 👢:
   - bota
   - bota de mujer
@@ -13389,6 +14965,12 @@
   - instrumento musical
   - música
   - violín
+🪕:
+  - banjo
+  - banyo
+  - cuerda
+  - instrumento
+  - música
 🥁:
   - baquetas
   - música
@@ -13536,6 +15118,11 @@
   - lámpara japonesa
   - lámpara roja
   - restaurante
+🪔:
+  - aceite
+  - diya
+  - lámpara
+  - lámpara de aceite
 📔:
   - cuaderno
   - cuaderno con tapa decorativa
@@ -13894,6 +15481,13 @@
 🔨:
   - herramienta
   - martillo
+🪓:
+  - cortar
+  - dividir
+  - hacha
+  - hachuela
+  - madera
+  - talar
 ⛏️:
   - herramienta
   - mina
@@ -13953,6 +15547,13 @@
   - libra
   - peso
   - zodiaco
+🦯:
+  - accesibilidad
+  - bastón
+  - ceguera
+  - ciega
+  - ciego
+  - invidente
 🔗:
   - eslabón
 ⛓️:
@@ -14012,12 +15613,30 @@
   - jeringuilla
   - medicina
   - médico
+🩸:
+  - donación de sangre
+  - donar sangre
+  - gota de sangre
+  - herida
+  - medicina
+  - sangre
 💊:
   - comprimido
   - medicina
   - médico
   - pastilla
   - píldora
+🩹:
+  - apósito
+  - tirita
+🩺:
+  - corazón
+  - doctor
+  - estetoscopio
+  - fonendoscopio
+  - latido
+  - medicina
+  - médico
 🚪:
   - puerta
 🛏️:
@@ -14029,6 +15648,10 @@
   - lámpara
   - sofá
   - sofá y lámpara
+🪑:
+  - asiento
+  - sentarse
+  - silla
 🚽:
   - baño
   - inodoro
@@ -14041,6 +15664,13 @@
 🛁:
   - bañera
   - baño
+🪒:
+  - afeitado
+  - afeitar
+  - afilado
+  - barbero
+  - cuchilla de afeitar
+  - navaja
 🧴:
   - bote de crema
   - champú
@@ -14664,56 +16294,72 @@
   - símbolo japonés para principiante
   - verde
 ⭕️:
+  - aro
   - círculo
-  - círculo rojo
+  - círculo rojo hueco
   - o
   - rojo
 ✅:
+  - botón
+  - botón de marca de verificación
   - marca
-  - marca de verificación blanca
   - selección
   - verificación
+  - ✓
 ☑️:
+  - casilla
+  - casilla con marca de verificación
   - marca
-  - recuadro
   - selección
   - verificación
-  - verificación en un recuadro
+  - ✓
 ✔️:
   - marca
-  - marca de verificación negra
+  - marca de verificación
   - selección
   - verificación
+  - ✓
 ✖️:
-  - X de multiplicación
   - cancelar
   - marca
-  - selección
-  - verificación
+  - multiplicación
+  - prohibido
+  - signo de multiplicación
+  - x
+  - ×
 ❌:
   - cancelar
   - cruz
   - marca de cruz
   - marca de tachado
   - tachar
-❎:
-  - cuadrado
-  - marca
-  - marca de cruz en un cuadrado
-  - selección
   - x
+  - ×
+❎:
+  - botón con marca de cruz
+  - casilla
+  - cruz
+  - marca
+  - x
+  - ×
 ➕:
+  - +
   - más
   - signo
   - signo más
+  - suma
 ➖:
+  - '-'
   - menos
+  - resta
   - signo
   - signo menos
+  - −
 ➗:
   - división
   - signo
   - signo de división
+  - ÷
 ➰:
   - bucle
   - giro
@@ -14727,51 +16373,65 @@
   - marca
   - marca de alternancia
 ✳️:
+  - '*'
   - asterisco
   - asterisco de ocho puntas
 ✴️:
+  - '*'
   - estrella
   - estrella de ocho puntas
 ❇️:
+  - '*'
   - chispa
 ‼️:
+  - '!!'
   - exclamación
   - exclamación doble
   - puntuación
+  - sorpresa
 ⁉️:
+  - '!'
+  - '!?'
+  - '?'
   - exclamación
   - exclamación e interrogación
   - interrogación
   - pregunta
   - puntuación
 ❓️:
+  - '?'
   - interrogación
-  - interrogación roja
   - pregunta
   - puntuación
+  - signo de interrogación
 ❔:
+  - '?'
   - interrogación
   - interrogación blanca
   - pregunta
   - puntuación
 ❕:
+  - '!'
   - exclamación
   - exclamación blanca
   - puntuación
 ❗️:
+  - '!'
   - exclamación
-  - exclamación roja
   - puntuación
+  - signo de exclamación
 〰️:
   - guion
   - guion ondulado
   - marca de sonido largo
   - ondulado
 ©️:
+  - c
   - copyright
-  - símbolo de copyright
+  - símbolo
 ®️:
   - marca registrada
+  - r
   - símbolo de marca registrada
 ™️:
   - marca comercial
@@ -15026,11 +16686,33 @@
   - círculo rojo grande
   - geometría
   - rojo
+🟠:
+  - círculo
+  - círculo naranja
+  - naranja
+🟡:
+  - amarillo
+  - círculo
+  - círculo amarillo
+🟢:
+  - círculo
+  - círculo verde
+  - verde
 🔵:
   - azul
   - círculo
   - círculo azul grande
   - geometría
+🟣:
+  - círculo
+  - círculo morado
+  - lila
+  - morado
+  - púrpura
+🟤:
+  - círculo
+  - círculo marrón
+  - marrón
 ⚫️:
   - círculo
   - círculo negro
@@ -15039,6 +16721,36 @@
   - círculo
   - círculo blanco
   - geometría
+🟥:
+  - cuadrado
+  - cuadrado rojo
+  - rojo
+🟧:
+  - cuadrado
+  - cuadrado naranja
+  - naranja
+🟨:
+  - amarillo
+  - cuadrado
+  - cuadrado amarillo
+🟩:
+  - cuadrado
+  - cuadrado verde
+  - verde
+🟦:
+  - azul
+  - cuadrado
+  - cuadrado azul
+🟪:
+  - cuadrado
+  - cuadrado morado
+  - lila
+  - morado
+  - púrpura
+🟫:
+  - cuadrado
+  - cuadrado marrón
+  - marrón
 ⬛️:
   - cuadrado
   - cuadrado negro grande
@@ -15294,7 +17006,7 @@
   - 'Bandera: República Centroafricana'
 🇨🇬:
   - Bandera
-  - 'Bandera: República del Congo'
+  - 'Bandera: Congo'
 🇨🇭:
   - Bandera
   - 'Bandera: Suiza'
@@ -15822,7 +17534,7 @@
   - 'Bandera: Siria'
 🇸🇿:
   - Bandera
-  - 'Bandera: Suazilandia'
+  - 'Bandera: Esuatini'
 🇹🇦:
   - Bandera
   - 'Bandera: Tristán de Acuña'

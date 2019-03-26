@@ -90,10 +90,10 @@
         "ýüz"
     ],
     "🥰": [
-        "3 ýürekli ýylgyrýan ýüz",
         "gowy görmek",
         "halamak",
-        "söýmek"
+        "söýmek",
+        "üç ýürekli ýylgyrýan ýüz"
     ],
     "😍": [
         "göz",
@@ -538,6 +538,12 @@
         "ýadaw ýüz",
         "ýüz"
     ],
+    "🥱": [
+        "içi gysan",
+        "palla",
+        "pallaýan ýüz",
+        "ýadaw"
+    ],
     "😤": [
         "burnundan bug çykýan ýüz",
         "ýeňen",
@@ -663,6 +669,7 @@
         "agyz",
         "açyk",
         "pişik",
+        "syrtarýan",
         "syrtarýan pişik ýüzi",
         "ýylgyrmak",
         "ýüz"
@@ -676,17 +683,18 @@
         "ýüz"
     ],
     "😹": [
-        "begenç",
         "begenç gözýaşly pişik ýüz",
         "gözýaş",
         "pişik",
-        "ýüz"
+        "ýüz",
+        "şatlyk"
     ],
     "😻": [
         "göz",
         "pişik",
         "söýgi",
-        "ýylgyrmak",
+        "ýylgyr",
+        "ýürek",
         "ýürek gözli ýylgyrýan pişik ýüz",
         "ýüz"
     ],
@@ -701,7 +709,7 @@
     "😽": [
         "göz",
         "pişik",
-        "posa",
+        "öp",
         "öpýän pişik ýüz",
         "ýüz"
     ],
@@ -714,7 +722,7 @@
         "ýüz"
     ],
     "😿": [
-        "aglamak",
+        "agla",
         "aglaýan pişik ýüz",
         "gamgyn",
         "gözýaş",
@@ -808,6 +816,7 @@
         "belgi",
         "dyngy",
         "goýy ýürekli ýüzlenme",
+        "ýürekli ýüzlenme",
         "ýüzlenme"
     ],
     "💔": [
@@ -839,11 +848,21 @@
         "mawy",
         "mawy ýürek"
     ],
+    "🤎": [
+        "goňur",
+        "goňur ýürek",
+        "ýürek"
+    ],
     "🖤": [
         "betniýetli",
         "erbet",
         "gara",
         "gara ýürek"
+    ],
+    "🤍": [
+        "ak",
+        "ak ýürek",
+        "ýürek"
     ],
     "💯": [
         "100",
@@ -1178,6 +1197,40 @@
         "el",
         "goýy deri reňki"
     ],
+    "🤏": [
+        "az mukdar",
+        "çümmükleýän el"
+    ],
+    "🤏🏻": [
+        "az mukdar",
+        "açyk deri reňki",
+        "çümmükleýän el",
+        "çümmükleýän el: açyk deri reňki"
+    ],
+    "🤏🏼": [
+        "az mukdar",
+        "orta açyk deri reňki",
+        "çümmükleýän el",
+        "çümmükleýän el: orta açyk deri reňki"
+    ],
+    "🤏🏽": [
+        "az mukdar",
+        "orta deri reňki",
+        "çümmükleýän el",
+        "çümmükleýän el: orta deri reňki"
+    ],
+    "🤏🏾": [
+        "az mukdar",
+        "orta goýy deri reňki",
+        "çümmükleýän el",
+        "çümmükleýän el: orta goýy deri reňki"
+    ],
+    "🤏🏿": [
+        "az mukdar",
+        "goýy deri reňki",
+        "çümmükleýän el",
+        "çümmükleýän el: goýy deri reňki"
+    ],
     "✌️": [
         "el",
         "v",
@@ -1189,40 +1242,40 @@
         "el",
         "v",
         "ýeňiş",
-        "ýeňiş alamadyny görkezýän el",
-        "ýeňiş alamadyny görkezýän el: açyk deri reňki"
+        "ýeňiş alamatyny görkezýän el",
+        "ýeňiş alamatyny görkezýän el: açyk deri reňki"
     ],
     "✌🏼": [
         "el",
         "orta açyk deri reňki",
         "v",
         "ýeňiş",
-        "ýeňiş alamadyny görkezýän el",
-        "ýeňiş alamadyny görkezýän el: orta açyk deri reňki"
+        "ýeňiş alamatyny görkezýän el",
+        "ýeňiş alamatyny görkezýän el: orta açyk deri reňki"
     ],
     "✌🏽": [
         "el",
         "orta deri reňki",
         "v",
         "ýeňiş",
-        "ýeňiş alamadyny görkezýän el",
-        "ýeňiş alamadyny görkezýän el: orta deri reňki"
+        "ýeňiş alamatyny görkezýän el",
+        "ýeňiş alamatyny görkezýän el: orta deri reňki"
     ],
     "✌🏾": [
         "el",
         "orta goýy deri reňki",
         "v",
         "ýeňiş",
-        "ýeňiş alamadyny görkezýän el",
-        "ýeňiş alamadyny görkezýän el: orta goýy deri reňki"
+        "ýeňiş alamatyny görkezýän el",
+        "ýeňiş alamatyny görkezýän el: orta goýy deri reňki"
     ],
     "✌🏿": [
         "el",
         "goýy deri reňki",
         "v",
         "ýeňiş",
-        "ýeňiş alamadyny görkezýän el",
-        "ýeňiş alamadyny görkezýän el: goýy deri reňki"
+        "ýeňiş alamatyny görkezýän el",
+        "ýeňiş alamatyny görkezýän el: goýy deri reňki"
     ],
     "🤞": [
         "atanak",
@@ -2473,16 +2526,101 @@
         "goýy deri reňki",
         "gülkünç"
     ],
+    "🦾": [
+        "elýeterlilik",
+        "mehaniki gol",
+        "protez"
+    ],
+    "🦿": [
+        "elýeterlilik",
+        "mehaniki aýak",
+        "protez"
+    ],
     "🦵": [
         "agza",
         "aýak",
         "aýak2",
         "depmek"
     ],
+    "🦵🏻": [
+        "agza",
+        "açyk deri reňki",
+        "aýak",
+        "aýak2",
+        "aýak2: açyk deri reňki",
+        "depmek"
+    ],
+    "🦵🏼": [
+        "agza",
+        "aýak",
+        "aýak2",
+        "aýak2: orta açyk deri reňki",
+        "depmek",
+        "orta açyk deri reňki"
+    ],
+    "🦵🏽": [
+        "agza",
+        "aýak",
+        "aýak2",
+        "aýak2: orta deri reňki",
+        "depmek",
+        "orta deri reňki"
+    ],
+    "🦵🏾": [
+        "agza",
+        "aýak",
+        "aýak2",
+        "aýak2: orta goýy deri reňki",
+        "depmek",
+        "orta goýy deri reňki"
+    ],
+    "🦵🏿": [
+        "agza",
+        "aýak",
+        "aýak2",
+        "aýak2: goýy deri reňki",
+        "depmek",
+        "goýy deri reňki"
+    ],
     "🦶": [
         "aýak",
         "basmak",
         "depmek"
+    ],
+    "🦶🏻": [
+        "açyk deri reňki",
+        "aýak",
+        "aýak: açyk deri reňki",
+        "basmak",
+        "depmek"
+    ],
+    "🦶🏼": [
+        "aýak",
+        "aýak: orta açyk deri reňki",
+        "basmak",
+        "depmek",
+        "orta açyk deri reňki"
+    ],
+    "🦶🏽": [
+        "aýak",
+        "aýak: orta deri reňki",
+        "basmak",
+        "depmek",
+        "orta deri reňki"
+    ],
+    "🦶🏾": [
+        "aýak",
+        "aýak: orta goýy deri reňki",
+        "basmak",
+        "depmek",
+        "orta goýy deri reňki"
+    ],
+    "🦶🏿": [
+        "aýak",
+        "aýak: goýy deri reňki",
+        "basmak",
+        "depmek",
+        "goýy deri reňki"
     ],
     "👂️": [
         "gulak",
@@ -2517,6 +2655,46 @@
         "gulak",
         "gulak: goýy deri reňki",
         "göwre"
+    ],
+    "🦻": [
+        "elýeterlilik",
+        "eşidiş enjamly gulak",
+        "gulagy agyr"
+    ],
+    "🦻🏻": [
+        "açyk deri reňki",
+        "elýeterlilik",
+        "eşidiş enjamly gulak",
+        "eşidiş enjamly gulak: açyk deri reňki",
+        "gulagy agyr"
+    ],
+    "🦻🏼": [
+        "elýeterlilik",
+        "eşidiş enjamly gulak",
+        "eşidiş enjamly gulak: orta açyk deri reňki",
+        "gulagy agyr",
+        "orta açyk deri reňki"
+    ],
+    "🦻🏽": [
+        "elýeterlilik",
+        "eşidiş enjamly gulak",
+        "eşidiş enjamly gulak: orta deri reňki",
+        "gulagy agyr",
+        "orta deri reňki"
+    ],
+    "🦻🏾": [
+        "elýeterlilik",
+        "eşidiş enjamly gulak",
+        "eşidiş enjamly gulak: orta goýy deri reňki",
+        "gulagy agyr",
+        "orta goýy deri reňki"
+    ],
+    "🦻🏿": [
+        "elýeterlilik",
+        "eşidiş enjamly gulak",
+        "eşidiş enjamly gulak: goýy deri reňki",
+        "goýy deri reňki",
+        "gulagy agyr"
     ],
     "👃": [
         "burun",
@@ -2623,27 +2801,31 @@
     ],
     "🧒🏻": [
         "açyk deri reňki",
-        "jynsyýeti belli bolmaýan",
+        "jynsyýeti görkezilmedik",
+        "jynsyýeti tapawut etmeýän",
         "çaga",
         "çaga: açyk deri reňki",
         "ýaş"
     ],
     "🧒🏼": [
-        "jynsyýeti belli bolmaýan",
+        "jynsyýeti görkezilmedik",
+        "jynsyýeti tapawut etmeýän",
         "orta açyk deri reňki",
         "çaga",
         "çaga: orta açyk deri reňki",
         "ýaş"
     ],
     "🧒🏽": [
-        "jynsyýeti belli bolmaýan",
+        "jynsyýeti görkezilmedik",
+        "jynsyýeti tapawut etmeýän",
         "orta deri reňki",
         "çaga",
         "çaga: orta deri reňki",
         "ýaş"
     ],
     "🧒🏾": [
-        "jynsyýeti belli bolmaýan",
+        "jynsyýeti görkezilmedik",
+        "jynsyýeti tapawut etmeýän",
         "orta goýy deri reňki",
         "çaga",
         "çaga: orta goýy deri reňki",
@@ -2651,7 +2833,8 @@
     ],
     "🧒🏿": [
         "goýy deri reňki",
-        "jynsyýeti belli bolmaýan",
+        "jynsyýeti görkezilmedik",
+        "jynsyýeti tapawut etmeýän",
         "çaga",
         "çaga: goýy deri reňki",
         "ýaş"
@@ -2743,69 +2926,84 @@
         "uly ýaşly"
     ],
     "🧑🏻": [
+        "adam",
         "açyk deri reňki",
-        "jynsyýeti belli bolmaýan",
+        "jynsyýeti görkezilmedik",
+        "jynsyýeti tapawut etmeýän",
         "uly ýaşly",
         "uly ýaşly: açyk deri reňki"
     ],
     "🧑🏼": [
-        "jynsyýeti belli bolmaýan",
+        "adam",
+        "jynsyýeti görkezilmedik",
+        "jynsyýeti tapawut etmeýän",
         "orta açyk deri reňki",
         "uly ýaşly",
         "uly ýaşly: orta açyk deri reňki"
     ],
     "🧑🏽": [
-        "jynsyýeti belli bolmaýan",
+        "adam",
+        "jynsyýeti görkezilmedik",
+        "jynsyýeti tapawut etmeýän",
         "orta deri reňki",
         "uly ýaşly",
         "uly ýaşly: orta deri reňki"
     ],
     "🧑🏾": [
-        "jynsyýeti belli bolmaýan",
+        "adam",
+        "jynsyýeti görkezilmedik",
+        "jynsyýeti tapawut etmeýän",
         "orta goýy deri reňki",
         "uly ýaşly",
         "uly ýaşly: orta goýy deri reňki"
     ],
     "🧑🏿": [
+        "adam",
         "goýy deri reňki",
-        "jynsyýeti belli bolmaýan",
+        "jynsyýeti görkezilmedik",
+        "jynsyýeti tapawut etmeýän",
         "uly ýaşly",
         "uly ýaşly: goýy deri reňki"
     ],
     "👱": [
-        "adam: sary saç",
         "sary saçly",
-        "sary saçly adam"
+        "sary saçly adam",
+        "saç"
     ],
     "👱🏻": [
         "açyk deri reňki",
         "sary saçly",
         "sary saçly adam",
-        "sary saçly adam: açyk deri reňki"
+        "sary saçly adam: açyk deri reňki",
+        "saç"
     ],
     "👱🏼": [
         "orta açyk deri reňki",
         "sary saçly",
         "sary saçly adam",
-        "sary saçly adam: orta açyk deri reňki"
+        "sary saçly adam: orta açyk deri reňki",
+        "saç"
     ],
     "👱🏽": [
         "orta deri reňki",
         "sary saçly",
         "sary saçly adam",
-        "sary saçly adam: orta deri reňki"
+        "sary saçly adam: orta deri reňki",
+        "saç"
     ],
     "👱🏾": [
         "orta goýy deri reňki",
         "sary saçly",
         "sary saçly adam",
-        "sary saçly adam: orta goýy deri reňki"
+        "sary saçly adam: orta goýy deri reňki",
+        "saç"
     ],
     "👱🏿": [
         "goýy deri reňki",
         "sary saçly",
         "sary saçly adam",
-        "sary saçly adam: goýy deri reňki"
+        "sary saçly adam: goýy deri reňki",
+        "saç"
     ],
     "👨": [
         "erkek",
@@ -2815,104 +3013,328 @@
     "👨🏻": [
         "açyk deri reňki",
         "erkek",
-        "erkek: açyk deri reňki"
+        "erkek adam",
+        "erkek: açyk deri reňki",
+        "uly ýaşly"
     ],
     "👨🏼": [
         "erkek",
+        "erkek adam",
         "erkek: orta açyk deri reňki",
-        "orta açyk deri reňki"
+        "orta açyk deri reňki",
+        "uly ýaşly"
     ],
     "👨🏽": [
         "erkek",
+        "erkek adam",
         "erkek: orta deri reňki",
-        "orta deri reňki"
+        "orta deri reňki",
+        "uly ýaşly"
     ],
     "👨🏾": [
         "erkek",
+        "erkek adam",
         "erkek: orta goýy deri reňki",
-        "orta goýy deri reňki"
+        "orta goýy deri reňki",
+        "uly ýaşly"
     ],
     "👨🏿": [
         "erkek",
+        "erkek adam",
         "erkek: goýy deri reňki",
-        "goýy deri reňki"
+        "goýy deri reňki",
+        "uly ýaşly"
     ],
     "🧔": [
+        "adam",
         "adam: sakal",
-        "erkek adam: sakal",
-        "sakal",
-        "şahs"
+        "erkek adam",
+        "sakal"
     ],
     "🧔🏻": [
+        "adam",
+        "adam: açyk deri reňki, sakal",
+        "adam: sakal",
         "açyk deri reňki",
-        "sakal",
-        "sakally şahys",
-        "sakally şahys: açyk deri reňki"
+        "erkek adam",
+        "sakal"
     ],
     "🧔🏼": [
+        "adam",
+        "adam: orta açyk deri reňki, sakal",
+        "adam: sakal",
+        "erkek adam",
         "orta açyk deri reňki",
-        "sakal",
-        "sakally şahys",
-        "sakally şahys: orta açyk deri reňki"
+        "sakal"
     ],
     "🧔🏽": [
+        "adam",
+        "adam: orta deri reňki, sakal",
+        "adam: sakal",
+        "erkek adam",
         "orta deri reňki",
-        "sakal",
-        "sakally şahys",
-        "sakally şahys: orta deri reňki"
+        "sakal"
     ],
     "🧔🏾": [
+        "adam",
+        "adam: orta goýy deri reňki, sakal",
+        "adam: sakal",
+        "erkek adam",
         "orta goýy deri reňki",
-        "sakal",
-        "sakally şahys",
-        "sakally şahys: orta goýy deri reňki"
+        "sakal"
     ],
     "🧔🏿": [
+        "adam",
+        "adam: goýy deri reňki, sakal",
+        "adam: sakal",
+        "erkek adam",
         "goýy deri reňki",
-        "sakal",
-        "sakally şahys",
-        "sakally şahys: goýy deri reňki"
+        "sakal"
     ],
     "👱‍♂": [
         "erkek adam",
         "erkek adam: sary saç",
         "sary saçly",
-        "sary saçly adam"
+        "sary saçly erkek adam",
+        "saç"
     ],
     "👱🏻‍♂": [
         "açyk deri reňki",
-        "erkek",
+        "erkek adam",
+        "erkek adam: açyk deri reňki, sary saç",
+        "erkek adam: sary saç",
+        "sary saç",
         "sary saçly",
-        "sary saçly erkek",
-        "sary saçly erkek: açyk deri reňki"
+        "sary saçly erkek adam",
+        "saç"
     ],
     "👱🏼‍♂": [
-        "erkek",
+        "erkek adam",
+        "erkek adam: orta açyk deri reňki, sary saç",
+        "erkek adam: sary saç",
         "orta açyk deri reňki",
+        "sary saç",
         "sary saçly",
-        "sary saçly erkek",
-        "sary saçly erkek: orta açyk deri reňki"
+        "sary saçly erkek adam",
+        "saç"
     ],
     "👱🏽‍♂": [
-        "erkek",
+        "erkek adam",
+        "erkek adam: orta deri reňki, sary saç",
+        "erkek adam: sary saç",
         "orta deri reňki",
+        "sary saç",
         "sary saçly",
-        "sary saçly erkek",
-        "sary saçly erkek: orta deri reňki"
+        "sary saçly erkek adam",
+        "saç"
     ],
     "👱🏾‍♂": [
-        "erkek",
+        "erkek adam",
+        "erkek adam: orta goýy deri reňki, sary saç",
+        "erkek adam: sary saç",
         "orta goýy deri reňki",
+        "sary saç",
         "sary saçly",
-        "sary saçly erkek",
-        "sary saçly erkek: orta goýy deri reňki"
+        "sary saçly erkek adam",
+        "saç"
     ],
     "👱🏿‍♂": [
-        "erkek",
+        "erkek adam",
+        "erkek adam: goýy deri reňki, sary saç",
+        "erkek adam: sary saç",
         "goýy deri reňki",
+        "sary saç",
         "sary saçly",
-        "sary saçly erkek",
-        "sary saçly erkek: goýy deri reňki"
+        "sary saçly erkek adam",
+        "saç"
+    ],
+    "👨‍🦰": [
+        "erkek",
+        "erkek adam",
+        "erkek: gyzyl saç",
+        "gyzyl saç",
+        "uly ýaşly"
+    ],
+    "👨🏻‍🦰": [
+        "açyk deri reňki",
+        "erkek",
+        "erkek adam",
+        "erkek: açyk deri reňki, gyzyl saç",
+        "gyzyl saç",
+        "uly ýaşly"
+    ],
+    "👨🏼‍🦰": [
+        "erkek",
+        "erkek adam",
+        "erkek: orta açyk deri reňki, gyzyl saç",
+        "gyzyl saç",
+        "orta açyk deri reňki",
+        "uly ýaşly"
+    ],
+    "👨🏽‍🦰": [
+        "erkek",
+        "erkek adam",
+        "erkek: orta deri reňki, gyzyl saç",
+        "gyzyl saç",
+        "orta deri reňki",
+        "uly ýaşly"
+    ],
+    "👨🏾‍🦰": [
+        "erkek",
+        "erkek adam",
+        "erkek: orta goýy deri reňki, gyzyl saç",
+        "gyzyl saç",
+        "orta goýy deri reňki",
+        "uly ýaşly"
+    ],
+    "👨🏿‍🦰": [
+        "erkek",
+        "erkek adam",
+        "erkek: goýy deri reňki, gyzyl saç",
+        "goýy deri reňki",
+        "gyzyl saç",
+        "uly ýaşly"
+    ],
+    "👨‍🦱": [
+        "buýra saç",
+        "erkek",
+        "erkek adam",
+        "erkek: buýra saç",
+        "uly ýaşly"
+    ],
+    "👨🏻‍🦱": [
+        "açyk deri reňki",
+        "buýra saç",
+        "erkek",
+        "erkek adam",
+        "erkek: açyk deri reňki, buýra saç",
+        "uly ýaşly"
+    ],
+    "👨🏼‍🦱": [
+        "buýra saç",
+        "erkek",
+        "erkek adam",
+        "erkek: orta açyk deri reňki, buýra saç",
+        "orta açyk deri reňki",
+        "uly ýaşly"
+    ],
+    "👨🏽‍🦱": [
+        "buýra saç",
+        "erkek",
+        "erkek adam",
+        "erkek: orta deri reňki, buýra saç",
+        "orta deri reňki",
+        "uly ýaşly"
+    ],
+    "👨🏾‍🦱": [
+        "buýra saç",
+        "erkek",
+        "erkek adam",
+        "erkek: orta goýy deri reňki, buýra saç",
+        "orta goýy deri reňki",
+        "uly ýaşly"
+    ],
+    "👨🏿‍🦱": [
+        "buýra saç",
+        "erkek",
+        "erkek adam",
+        "erkek: goýy deri reňki, buýra saç",
+        "goýy deri reňki",
+        "uly ýaşly"
+    ],
+    "👨‍🦳": [
+        "ak saç",
+        "erkek",
+        "erkek adam",
+        "erkek: ak saç",
+        "uly ýaşly"
+    ],
+    "👨🏻‍🦳": [
+        "ak saç",
+        "açyk deri reňki",
+        "erkek",
+        "erkek adam",
+        "erkek: açyk deri reňki, ak saç",
+        "uly ýaşly"
+    ],
+    "👨🏼‍🦳": [
+        "ak saç",
+        "erkek",
+        "erkek adam",
+        "erkek: orta açyk deri reňki, ak saç",
+        "orta açyk deri reňki",
+        "uly ýaşly"
+    ],
+    "👨🏽‍🦳": [
+        "ak saç",
+        "erkek",
+        "erkek adam",
+        "erkek: orta deri reňki, ak saç",
+        "orta deri reňki",
+        "uly ýaşly"
+    ],
+    "👨🏾‍🦳": [
+        "ak saç",
+        "erkek",
+        "erkek adam",
+        "erkek: orta goýy deri reňki, ak saç",
+        "orta goýy deri reňki",
+        "uly ýaşly"
+    ],
+    "👨🏿‍🦳": [
+        "ak saç",
+        "erkek",
+        "erkek adam",
+        "erkek: goýy deri reňki, ak saç",
+        "goýy deri reňki",
+        "uly ýaşly"
+    ],
+    "👨‍🦲": [
+        "erkek",
+        "erkek adam",
+        "erkek: kel",
+        "kel",
+        "uly ýaşly"
+    ],
+    "👨🏻‍🦲": [
+        "açyk deri reňki",
+        "erkek",
+        "erkek adam",
+        "erkek: açyk deri reňki, kel",
+        "kel",
+        "uly ýaşly"
+    ],
+    "👨🏼‍🦲": [
+        "erkek",
+        "erkek adam",
+        "erkek: orta açyk deri reňki, kel",
+        "kel",
+        "orta açyk deri reňki",
+        "uly ýaşly"
+    ],
+    "👨🏽‍🦲": [
+        "erkek",
+        "erkek adam",
+        "erkek: orta deri reňki, kel",
+        "kel",
+        "orta deri reňki",
+        "uly ýaşly"
+    ],
+    "👨🏾‍🦲": [
+        "erkek",
+        "erkek adam",
+        "erkek: orta goýy deri reňki, kel",
+        "kel",
+        "orta goýy deri reňki",
+        "uly ýaşly"
+    ],
+    "👨🏿‍🦲": [
+        "erkek",
+        "erkek adam",
+        "erkek: goýy deri reňki, kel",
+        "goýy deri reňki",
+        "kel",
+        "uly ýaşly"
     ],
     "👩": [
         "zenan"
@@ -2945,14 +3367,15 @@
     "👱‍♀": [
         "sary saçly",
         "sary saçly zenan",
-        "zenan",
-        "zenan: sary saç"
+        "saç",
+        "zenan"
     ],
     "👱🏻‍♀": [
         "açyk deri reňki",
         "sary saçly",
         "sary saçly zenan",
         "sary saçly zenan: açyk deri reňki",
+        "saç",
         "zenan"
     ],
     "👱🏼‍♀": [
@@ -2960,6 +3383,7 @@
         "sary saçly",
         "sary saçly zenan",
         "sary saçly zenan: orta açyk deri reňki",
+        "saç",
         "zenan"
     ],
     "👱🏽‍♀": [
@@ -2967,6 +3391,7 @@
         "sary saçly",
         "sary saçly zenan",
         "sary saçly zenan: orta deri reňki",
+        "saç",
         "zenan"
     ],
     "👱🏾‍♀": [
@@ -2974,6 +3399,7 @@
         "sary saçly",
         "sary saçly zenan",
         "sary saçly zenan: orta goýy deri reňki",
+        "saç",
         "zenan"
     ],
     "👱🏿‍♀": [
@@ -2981,7 +3407,148 @@
         "sary saçly",
         "sary saçly zenan",
         "sary saçly zenan: goýy deri reňki",
+        "saç",
         "zenan"
+    ],
+    "👩‍🦰": [
+        "gyzyl saç",
+        "zenan",
+        "zenan: gyzyl saç"
+    ],
+    "👩🏻‍🦰": [
+        "açyk deri reňki",
+        "gyzyl saç",
+        "zenan",
+        "zenan: açyk deri reňki, gyzyl saç"
+    ],
+    "👩🏼‍🦰": [
+        "gyzyl saç",
+        "orta açyk deri reňki",
+        "zenan",
+        "zenan: orta açyk deri reňki, gyzyl saç"
+    ],
+    "👩🏽‍🦰": [
+        "gyzyl saç",
+        "orta deri reňki",
+        "zenan",
+        "zenan: orta deri reňki, gyzyl saç"
+    ],
+    "👩🏾‍🦰": [
+        "gyzyl saç",
+        "orta goýy deri reňki",
+        "zenan",
+        "zenan: orta goýy deri reňki, gyzyl saç"
+    ],
+    "👩🏿‍🦰": [
+        "goýy deri reňki",
+        "gyzyl saç",
+        "zenan",
+        "zenan: goýy deri reňki, gyzyl saç"
+    ],
+    "👩‍🦱": [
+        "buýra saç",
+        "zenan",
+        "zenan: buýra saç"
+    ],
+    "👩🏻‍🦱": [
+        "açyk deri reňki",
+        "buýra saç",
+        "zenan",
+        "zenan: açyk deri reňki, buýra saç"
+    ],
+    "👩🏼‍🦱": [
+        "buýra saç",
+        "orta açyk deri reňki",
+        "zenan",
+        "zenan: orta açyk deri reňki, buýra saç"
+    ],
+    "👩🏽‍🦱": [
+        "buýra saç",
+        "orta deri reňki",
+        "zenan",
+        "zenan: orta deri reňki, buýra saç"
+    ],
+    "👩🏾‍🦱": [
+        "buýra saç",
+        "orta goýy deri reňki",
+        "zenan",
+        "zenan: orta goýy deri reňki, buýra saç"
+    ],
+    "👩🏿‍🦱": [
+        "buýra saç",
+        "goýy deri reňki",
+        "zenan",
+        "zenan: goýy deri reňki, buýra saç"
+    ],
+    "👩‍🦳": [
+        "ak saç",
+        "zenan",
+        "zenan: ak saç"
+    ],
+    "👩🏻‍🦳": [
+        "ak saç",
+        "açyk deri reňki",
+        "zenan",
+        "zenan: açyk deri reňki, ak saç"
+    ],
+    "👩🏼‍🦳": [
+        "ak saç",
+        "orta açyk deri reňki",
+        "zenan",
+        "zenan: orta açyk deri reňki, ak saç"
+    ],
+    "👩🏽‍🦳": [
+        "ak saç",
+        "orta deri reňki",
+        "zenan",
+        "zenan: orta deri reňki, ak saç"
+    ],
+    "👩🏾‍🦳": [
+        "ak saç",
+        "orta goýy deri reňki",
+        "zenan",
+        "zenan: orta goýy deri reňki, ak saç"
+    ],
+    "👩🏿‍🦳": [
+        "ak saç",
+        "goýy deri reňki",
+        "zenan",
+        "zenan: goýy deri reňki, ak saç"
+    ],
+    "👩‍🦲": [
+        "kel",
+        "zenan",
+        "zenan: kel"
+    ],
+    "👩🏻‍🦲": [
+        "açyk deri reňki",
+        "kel",
+        "zenan",
+        "zenan: açyk deri reňki, kel"
+    ],
+    "👩🏼‍🦲": [
+        "kel",
+        "orta açyk deri reňki",
+        "zenan",
+        "zenan: orta açyk deri reňki, kel"
+    ],
+    "👩🏽‍🦲": [
+        "kel",
+        "orta deri reňki",
+        "zenan",
+        "zenan: orta deri reňki, kel"
+    ],
+    "👩🏾‍🦲": [
+        "kel",
+        "orta goýy deri reňki",
+        "zenan",
+        "zenan: orta goýy deri reňki, kel"
+    ],
+    "👩🏿‍🦲": [
+        "goýy deri reňki",
+        "kel",
+        "zenan",
+        "zenan: goýy deri reňki, kel"
     ],
     "🧓": [
         "garry",
@@ -2995,36 +3562,51 @@
         "açyk deri reňki",
         "garry",
         "gartaşan",
+        "gartaşan adam",
         "gartaşan: açyk deri reňki",
-        "jynsyýeti belli bolmaýan"
+        "jynsyýeti görkezilmedik",
+        "jynsyýeti tapawut etmeýän",
+        "uly ýaşly"
     ],
     "🧓🏼": [
         "garry",
         "gartaşan",
+        "gartaşan adam",
         "gartaşan: orta açyk deri reňki",
-        "jynsyýeti belli bolmaýan",
-        "orta açyk deri reňki"
+        "jynsyýeti görkezilmedik",
+        "jynsyýeti tapawut etmeýän",
+        "orta açyk deri reňki",
+        "uly ýaşly"
     ],
     "🧓🏽": [
         "garry",
         "gartaşan",
+        "gartaşan adam",
         "gartaşan: orta deri reňki",
-        "jynsyýeti belli bolmaýan",
-        "orta deri reňki"
+        "jynsyýeti görkezilmedik",
+        "jynsyýeti tapawut etmeýän",
+        "orta deri reňki",
+        "uly ýaşly"
     ],
     "🧓🏾": [
         "garry",
         "gartaşan",
+        "gartaşan adam",
         "gartaşan: orta goýy deri reňki",
-        "jynsyýeti belli bolmaýan",
-        "orta goýy deri reňki"
+        "jynsyýeti görkezilmedik",
+        "jynsyýeti tapawut etmeýän",
+        "orta goýy deri reňki",
+        "uly ýaşly"
     ],
     "🧓🏿": [
         "garry",
         "gartaşan",
+        "gartaşan adam",
         "gartaşan: goýy deri reňki",
         "goýy deri reňki",
-        "jynsyýeti belli bolmaýan"
+        "jynsyýeti görkezilmedik",
+        "jynsyýeti tapawut etmeýän",
+        "uly ýaşly"
     ],
     "👴": [
         "adam",
@@ -3033,39 +3615,44 @@
         "uly ýaşly"
     ],
     "👴🏻": [
+        "adam",
         "açyk deri reňki",
-        "erkek",
         "garry",
         "goja",
-        "goja: açyk deri reňki"
+        "goja: açyk deri reňki",
+        "uly ýaşly"
     ],
     "👴🏼": [
-        "erkek",
+        "adam",
         "garry",
         "goja",
         "goja: orta açyk deri reňki",
-        "orta açyk deri reňki"
+        "orta açyk deri reňki",
+        "uly ýaşly"
     ],
     "👴🏽": [
-        "erkek",
+        "adam",
         "garry",
         "goja",
         "goja: orta deri reňki",
-        "orta deri reňki"
+        "orta deri reňki",
+        "uly ýaşly"
     ],
     "👴🏾": [
-        "erkek",
+        "adam",
         "garry",
         "goja",
         "goja: orta goýy deri reňki",
-        "orta goýy deri reňki"
+        "orta goýy deri reňki",
+        "uly ýaşly"
     ],
     "👴🏿": [
-        "erkek",
+        "adam",
         "garry",
         "goja",
         "goja: goýy deri reňki",
-        "goýy deri reňki"
+        "goýy deri reňki",
+        "uly ýaşly"
     ],
     "👵": [
         "aýal",
@@ -3077,36 +3664,36 @@
         "açyk deri reňki",
         "aýal",
         "garry",
-        "kempir",
-        "kempir: açyk deri reňki"
+        "garry aýal: açyk deri reňki",
+        "uly ýaşly"
     ],
     "👵🏼": [
         "aýal",
         "garry",
-        "kempir",
-        "kempir: orta açyk deri reňki",
-        "orta açyk deri reňki"
+        "garry aýal: orta açyk deri reňki",
+        "orta açyk deri reňki",
+        "uly ýaşly"
     ],
     "👵🏽": [
         "aýal",
         "garry",
-        "kempir",
-        "kempir: orta deri reňki",
-        "orta deri reňki"
+        "garry aýal: orta deri reňki",
+        "orta deri reňki",
+        "uly ýaşly"
     ],
     "👵🏾": [
         "aýal",
         "garry",
-        "kempir",
-        "kempir: orta goýy deri reňki",
-        "orta goýy deri reňki"
+        "garry aýal: orta goýy deri reňki",
+        "orta goýy deri reňki",
+        "uly ýaşly"
     ],
     "👵🏿": [
         "aýal",
         "garry",
+        "garry aýal: goýy deri reňki",
         "goýy deri reňki",
-        "kempir",
-        "kempir: goýy deri reňki"
+        "uly ýaşly"
     ],
     "🙍": [
         "çytyk adam"
@@ -3986,6 +4573,128 @@
         "zenan",
         "üm"
     ],
+    "🧏": [
+        "elýeterlilik",
+        "eşit",
+        "gulak",
+        "ker",
+        "ker adam"
+    ],
+    "🧏🏻": [
+        "açyk deri reňki",
+        "elýeterlilik",
+        "eşit",
+        "gulak",
+        "ker",
+        "ker adam",
+        "ker adam: açyk deri reňki"
+    ],
+    "🧏🏼": [
+        "elýeterlilik",
+        "eşit",
+        "gulak",
+        "ker",
+        "ker adam",
+        "ker adam: orta açyk deri reňki",
+        "orta açyk deri reňki"
+    ],
+    "🧏🏽": [
+        "elýeterlilik",
+        "eşit",
+        "gulak",
+        "ker",
+        "ker adam",
+        "ker adam: orta deri reňki",
+        "orta deri reňki"
+    ],
+    "🧏🏾": [
+        "elýeterlilik",
+        "eşit",
+        "gulak",
+        "ker",
+        "ker adam",
+        "ker adam: orta goýy deri reňki",
+        "orta goýy deri reňki"
+    ],
+    "🧏🏿": [
+        "elýeterlilik",
+        "eşit",
+        "goýy deri reňki",
+        "gulak",
+        "ker",
+        "ker adam",
+        "ker adam: goýy deri reňki"
+    ],
+    "🧏‍♂": [
+        "erkek",
+        "ker",
+        "ker erkek"
+    ],
+    "🧏🏻‍♂": [
+        "açyk deri reňki",
+        "erkek",
+        "ker",
+        "ker erkek: açyk deri reňki"
+    ],
+    "🧏🏼‍♂": [
+        "erkek",
+        "ker",
+        "ker erkek: orta açyk deri reňki",
+        "orta açyk deri reňki"
+    ],
+    "🧏🏽‍♂": [
+        "erkek",
+        "ker",
+        "ker erkek: orta deri reňki",
+        "orta deri reňki"
+    ],
+    "🧏🏾‍♂": [
+        "erkek",
+        "ker",
+        "ker erkek: orta goýy deri reňki",
+        "orta goýy deri reňki"
+    ],
+    "🧏🏿‍♂": [
+        "erkek",
+        "goýy deri reňki",
+        "ker",
+        "ker erkek: goýy deri reňki"
+    ],
+    "🧏‍♀": [
+        "ker",
+        "ker zenan",
+        "zenan"
+    ],
+    "🧏🏻‍♀": [
+        "açyk deri reňki",
+        "ker",
+        "ker zenan: açyk deri reňki",
+        "zenan"
+    ],
+    "🧏🏼‍♀": [
+        "ker",
+        "ker zenan: orta açyk deri reňki",
+        "orta açyk deri reňki",
+        "zenan"
+    ],
+    "🧏🏽‍♀": [
+        "ker",
+        "ker zenan: orta deri reňki",
+        "orta deri reňki",
+        "zenan"
+    ],
+    "🧏🏾‍♀": [
+        "ker",
+        "ker zenan: orta goýy deri reňki",
+        "orta goýy deri reňki",
+        "zenan"
+    ],
+    "🧏🏿‍♀": [
+        "goýy deri reňki",
+        "ker",
+        "ker zenan: goýy deri reňki",
+        "zenan"
+    ],
     "🙇": [
         "bagyşlaň",
         "tagzym",
@@ -4505,7 +5214,7 @@
         "erkek saglygy goraýyş işgäri: açyk deri reňki",
         "lukman",
         "saglygy goraýyş",
-        "terapist",
+        "terapewt",
         "şepagat dogany"
     ],
     "👨🏼‍⚕": [
@@ -4515,7 +5224,7 @@
         "lukman",
         "orta açyk deri reňki",
         "saglygy goraýyş",
-        "terapist",
+        "terapewt",
         "şepagat dogany"
     ],
     "👨🏽‍⚕": [
@@ -4525,7 +5234,7 @@
         "lukman",
         "orta deri reňki",
         "saglygy goraýyş",
-        "terapist",
+        "terapewt",
         "şepagat dogany"
     ],
     "👨🏾‍⚕": [
@@ -4535,7 +5244,7 @@
         "lukman",
         "orta goýy deri reňki",
         "saglygy goraýyş",
-        "terapist",
+        "terapewt",
         "şepagat dogany"
     ],
     "👨🏿‍⚕": [
@@ -4545,7 +5254,7 @@
         "goýy deri reňki",
         "lukman",
         "saglygy goraýyş",
-        "terapist",
+        "terapewt",
         "şepagat dogany"
     ],
     "👩‍⚕": [
@@ -4560,7 +5269,7 @@
         "açyk deri reňki",
         "lukman",
         "saglygy goraýyş",
-        "terapist",
+        "terapewt",
         "zenan",
         "zenan saglygy goraýyş işgäri",
         "zenan saglygy goraýyş işgäri: açyk deri reňki",
@@ -4570,7 +5279,7 @@
         "lukman",
         "orta açyk deri reňki",
         "saglygy goraýyş",
-        "terapist",
+        "terapewt",
         "zenan",
         "zenan saglygy goraýyş işgäri",
         "zenan saglygy goraýyş işgäri: orta açyk deri reňki",
@@ -4580,7 +5289,7 @@
         "lukman",
         "orta deri reňki",
         "saglygy goraýyş",
-        "terapist",
+        "terapewt",
         "zenan",
         "zenan saglygy goraýyş işgäri",
         "zenan saglygy goraýyş işgäri: orta deri reňki",
@@ -4590,7 +5299,7 @@
         "lukman",
         "orta goýy deri reňki",
         "saglygy goraýyş",
-        "terapist",
+        "terapewt",
         "zenan",
         "zenan saglygy goraýyş işgäri",
         "zenan saglygy goraýyş işgäri: orta goýy deri reňki",
@@ -4600,7 +5309,7 @@
         "goýy deri reňki",
         "lukman",
         "saglygy goraýyş",
-        "terapist",
+        "terapewt",
         "zenan",
         "zenan saglygy goraýyş işgäri",
         "zenan saglygy goraýyş işgäri: goýy deri reňki",
@@ -6116,36 +6825,36 @@
     ],
     "👮🏻": [
         "açyk deri reňki",
-        "ment",
         "milisioner",
+        "ofiser",
         "polisiýa işgäri",
         "polisiýa işgäri: açyk deri reňki"
     ],
     "👮🏼": [
-        "ment",
         "milisioner",
+        "ofiser",
         "orta açyk deri reňki",
         "polisiýa işgäri",
         "polisiýa işgäri: orta açyk deri reňki"
     ],
     "👮🏽": [
-        "ment",
         "milisioner",
+        "ofiser",
         "orta deri reňki",
         "polisiýa işgäri",
         "polisiýa işgäri: orta deri reňki"
     ],
     "👮🏾": [
-        "ment",
         "milisioner",
+        "ofiser",
         "orta goýy deri reňki",
         "polisiýa işgäri",
         "polisiýa işgäri: orta goýy deri reňki"
     ],
     "👮🏿": [
         "goýy deri reňki",
-        "ment",
         "milisioner",
+        "ofiser",
         "polisiýa işgäri",
         "polisiýa işgäri: goýy deri reňki"
     ],
@@ -6160,7 +6869,6 @@
         "erkek",
         "erkek polisiýa işgäri",
         "erkek polisiýa işgäri: açyk deri reňki",
-        "ment",
         "milisioner",
         "polisiýa işgäri"
     ],
@@ -6168,7 +6876,6 @@
         "erkek",
         "erkek polisiýa işgäri",
         "erkek polisiýa işgäri: orta açyk deri reňki",
-        "ment",
         "milisioner",
         "orta açyk deri reňki",
         "polisiýa işgäri"
@@ -6177,7 +6884,6 @@
         "erkek",
         "erkek polisiýa işgäri",
         "erkek polisiýa işgäri: orta deri reňki",
-        "ment",
         "milisioner",
         "orta deri reňki",
         "polisiýa işgäri"
@@ -6186,7 +6892,6 @@
         "erkek",
         "erkek polisiýa işgäri",
         "erkek polisiýa işgäri: orta goýy deri reňki",
-        "ment",
         "milisioner",
         "orta goýy deri reňki",
         "polisiýa işgäri"
@@ -6196,7 +6901,6 @@
         "erkek polisiýa işgäri",
         "erkek polisiýa işgäri: goýy deri reňki",
         "goýy deri reňki",
-        "ment",
         "milisioner",
         "polisiýa işgäri"
     ],
@@ -6208,7 +6912,6 @@
     ],
     "👮🏻‍♀": [
         "açyk deri reňki",
-        "ment",
         "milisioner",
         "polisiýa işgäri",
         "zenan",
@@ -6216,7 +6919,6 @@
         "zenan polisiýa işgäri: açyk deri reňki"
     ],
     "👮🏼‍♀": [
-        "ment",
         "milisioner",
         "orta açyk deri reňki",
         "polisiýa işgäri",
@@ -6225,7 +6927,6 @@
         "zenan polisiýa işgäri: orta açyk deri reňki"
     ],
     "👮🏽‍♀": [
-        "ment",
         "milisioner",
         "orta deri reňki",
         "polisiýa işgäri",
@@ -6234,7 +6935,6 @@
         "zenan polisiýa işgäri: orta deri reňki"
     ],
     "👮🏾‍♀": [
-        "ment",
         "milisioner",
         "orta goýy deri reňki",
         "polisiýa işgäri",
@@ -6244,7 +6944,6 @@
     ],
     "👮🏿‍♀": [
         "goýy deri reňki",
-        "ment",
         "milisioner",
         "polisiýa işgäri",
         "zenan",
@@ -6956,41 +7655,41 @@
     "👰🏻": [
         "açyk deri reňki",
         "gelin",
-        "nikap",
-        "nikaply gelin",
-        "nikaply gelin: açyk deri reňki",
+        "nykap",
+        "nykaply gelin",
+        "nykaply gelin: açyk deri reňki",
         "toý"
     ],
     "👰🏼": [
         "gelin",
-        "nikap",
-        "nikaply gelin",
-        "nikaply gelin: orta açyk deri reňki",
+        "nykap",
+        "nykaply gelin",
+        "nykaply gelin: orta açyk deri reňki",
         "orta açyk deri reňki",
         "toý"
     ],
     "👰🏽": [
         "gelin",
-        "nikap",
-        "nikaply gelin",
-        "nikaply gelin: orta deri reňki",
+        "nykap",
+        "nykaply gelin",
+        "nykaply gelin: orta deri reňki",
         "orta deri reňki",
         "toý"
     ],
     "👰🏾": [
         "gelin",
-        "nikap",
-        "nikaply gelin",
-        "nikaply gelin: orta goýy deri reňki",
+        "nykap",
+        "nykaply gelin",
+        "nykaply gelin: orta goýy deri reňki",
         "orta goýy deri reňki",
         "toý"
     ],
     "👰🏿": [
         "gelin",
         "goýy deri reňki",
-        "nikap",
-        "nikaply gelin",
-        "nikaply gelin: goýy deri reňki",
+        "nykap",
+        "nykaply gelin",
+        "nykaply gelin: goýy deri reňki",
         "toý"
     ],
     "🤰": [
@@ -7188,8 +7887,8 @@
         "klaus"
     ],
     "🤶🏻": [
-        "Garpamyk",
-        "Garpamyk: açyk deri reňki",
+        "Aýaz mama",
+        "Aýaz mama: açyk deri reňki",
         "Hanym",
         "Roždestwo",
         "açyk deri reňki",
@@ -7198,8 +7897,8 @@
         "klaus"
     ],
     "🤶🏼": [
-        "Garpamyk",
-        "Garpamyk: orta açyk deri reňki",
+        "Aýaz mama",
+        "Aýaz mama: orta açyk deri reňki",
         "Hanym",
         "Roždestwo",
         "baýramçylyk",
@@ -7208,8 +7907,8 @@
         "orta açyk deri reňki"
     ],
     "🤶🏽": [
-        "Garpamyk",
-        "Garpamyk: orta deri reňki",
+        "Aýaz mama",
+        "Aýaz mama: orta deri reňki",
         "Hanym",
         "Roždestwo",
         "baýramçylyk",
@@ -7218,8 +7917,8 @@
         "orta deri reňki"
     ],
     "🤶🏾": [
-        "Garpamyk",
-        "Garpamyk: orta goýy deri reňki",
+        "Aýaz mama",
+        "Aýaz mama: orta goýy deri reňki",
         "Hanym",
         "Roždestwo",
         "baýramçylyk",
@@ -7228,8 +7927,8 @@
         "orta goýy deri reňki"
     ],
     "🤶🏿": [
-        "Garpamyk",
-        "Garpamyk: goýy deri reňki",
+        "Aýaz mama",
+        "Aýaz mama: goýy deri reňki",
         "Hanym",
         "Roždestwo",
         "baýramçylyk",
@@ -7243,11 +7942,96 @@
         "supergahryman",
         "supergüýç"
     ],
+    "🦸🏻": [
+        "açyk deri reňki",
+        "gahryman",
+        "gowy",
+        "supergahryman",
+        "supergahryman: açyk deri reňki",
+        "supergüýç"
+    ],
+    "🦸🏼": [
+        "gahryman",
+        "gowy",
+        "orta açyk deri reňki",
+        "supergahryman",
+        "supergahryman: orta açyk deri reňki",
+        "supergüýç"
+    ],
+    "🦸🏽": [
+        "gahryman",
+        "gowy",
+        "orta deri reňki",
+        "supergahryman",
+        "supergahryman: orta deri reňki",
+        "supergüýç"
+    ],
+    "🦸🏾": [
+        "gahryman",
+        "gowy",
+        "orta goýy deri reňki",
+        "supergahryman",
+        "supergahryman: orta goýy deri reňki",
+        "supergüýç"
+    ],
+    "🦸🏿": [
+        "gahryman",
+        "gowy",
+        "goýy deri reňki",
+        "supergahryman",
+        "supergahryman: goýy deri reňki",
+        "supergüýç"
+    ],
     "🦸‍♂": [
         "erkek adam",
         "erkek supergahryman",
         "gahryman",
         "gowy",
+        "supergüýç"
+    ],
+    "🦸🏻‍♂": [
+        "açyk deri reňki",
+        "erkek adam",
+        "erkek supergahryman",
+        "erkek supergahryman: açyk deri reňki",
+        "gahryman",
+        "gowy",
+        "supergüýç"
+    ],
+    "🦸🏼‍♂": [
+        "erkek adam",
+        "erkek supergahryman",
+        "erkek supergahryman: orta açyk deri reňki",
+        "gahryman",
+        "gowy",
+        "orta açyk deri reňki",
+        "supergüýç"
+    ],
+    "🦸🏽‍♂": [
+        "erkek adam",
+        "erkek supergahryman",
+        "erkek supergahryman: orta deri reňki",
+        "gahryman",
+        "gowy",
+        "orta deri reňki",
+        "supergüýç"
+    ],
+    "🦸🏾‍♂": [
+        "erkek adam",
+        "erkek supergahryman",
+        "erkek supergahryman: orta goýy deri reňki",
+        "gahryman",
+        "gowy",
+        "orta goýy deri reňki",
+        "supergüýç"
+    ],
+    "🦸🏿‍♂": [
+        "erkek adam",
+        "erkek supergahryman",
+        "erkek supergahryman: goýy deri reňki",
+        "gahryman",
+        "gowy",
+        "goýy deri reňki",
         "supergüýç"
     ],
     "🦸‍♀": [
@@ -7257,11 +8041,101 @@
         "zenan",
         "zenan supergahryman"
     ],
+    "🦸🏻‍♀": [
+        "açyk deri reňki",
+        "gahryman",
+        "gowy",
+        "supergüýç",
+        "zenan",
+        "zenan supergahryman",
+        "zenan supergahryman: açyk deri reňki"
+    ],
+    "🦸🏼‍♀": [
+        "gahryman",
+        "gowy",
+        "orta açyk deri reňki",
+        "supergüýç",
+        "zenan",
+        "zenan supergahryman",
+        "zenan supergahryman: orta açyk deri reňki"
+    ],
+    "🦸🏽‍♀": [
+        "gahryman",
+        "gowy",
+        "orta deri reňki",
+        "supergüýç",
+        "zenan",
+        "zenan supergahryman",
+        "zenan supergahryman: orta deri reňki"
+    ],
+    "🦸🏾‍♀": [
+        "gahryman",
+        "gowy",
+        "orta goýy deri reňki",
+        "supergüýç",
+        "zenan",
+        "zenan supergahryman",
+        "zenan supergahryman: orta goýy deri reňki"
+    ],
+    "🦸🏿‍♀": [
+        "gahryman",
+        "gowy",
+        "goýy deri reňki",
+        "supergüýç",
+        "zenan",
+        "zenan supergahryman",
+        "zenan supergahryman: goýy deri reňki"
+    ],
     "🦹": [
         "betpäl",
         "erbet",
         "jenaýatçy",
         "superbetpäl",
+        "supergüýç"
+    ],
+    "🦹🏻": [
+        "açyk deri reňki",
+        "betpäl",
+        "erbet",
+        "jenaýatçy",
+        "superbetpäl",
+        "superbetpäl: açyk deri reňki",
+        "supergüýç"
+    ],
+    "🦹🏼": [
+        "betpäl",
+        "erbet",
+        "jenaýatçy",
+        "orta açyk deri reňki",
+        "superbetpäl",
+        "superbetpäl: orta açyk deri reňki",
+        "supergüýç"
+    ],
+    "🦹🏽": [
+        "betpäl",
+        "erbet",
+        "jenaýatçy",
+        "orta deri reňki",
+        "superbetpäl",
+        "superbetpäl: orta deri reňki",
+        "supergüýç"
+    ],
+    "🦹🏾": [
+        "betpäl",
+        "erbet",
+        "jenaýatçy",
+        "orta goýy deri reňki",
+        "superbetpäl",
+        "superbetpäl: orta goýy deri reňki",
+        "supergüýç"
+    ],
+    "🦹🏿": [
+        "betpäl",
+        "erbet",
+        "goýy deri reňki",
+        "jenaýatçy",
+        "superbetpäl",
+        "superbetpäl: goýy deri reňki",
         "supergüýç"
     ],
     "🦹‍♂": [
@@ -7272,6 +8146,56 @@
         "jenaýatçy",
         "supergüýç"
     ],
+    "🦹🏻‍♂": [
+        "açyk deri reňki",
+        "betpäl",
+        "erbet",
+        "erkek adam",
+        "erkek superbetpäl",
+        "erkek superbetpäl: açyk deri reňki",
+        "jenaýatçy",
+        "supergüýç"
+    ],
+    "🦹🏼‍♂": [
+        "betpäl",
+        "erbet",
+        "erkek adam",
+        "erkek superbetpäl",
+        "erkek superbetpäl: orta açyk deri reňki",
+        "jenaýatçy",
+        "orta açyk deri reňki",
+        "supergüýç"
+    ],
+    "🦹🏽‍♂": [
+        "betpäl",
+        "erbet",
+        "erkek adam",
+        "erkek superbetpäl",
+        "erkek superbetpäl: orta deri reňki",
+        "jenaýatçy",
+        "orta deri reňki",
+        "supergüýç"
+    ],
+    "🦹🏾‍♂": [
+        "betpäl",
+        "erbet",
+        "erkek adam",
+        "erkek superbetpäl",
+        "erkek superbetpäl: orta goýy deri reňki",
+        "jenaýatçy",
+        "orta goýy deri reňki",
+        "supergüýç"
+    ],
+    "🦹🏿‍♂": [
+        "betpäl",
+        "erbet",
+        "erkek adam",
+        "erkek superbetpäl",
+        "erkek superbetpäl: goýy deri reňki",
+        "goýy deri reňki",
+        "jenaýatçy",
+        "supergüýç"
+    ],
     "🦹‍♀": [
         "betpäl",
         "erbet",
@@ -7279,6 +8203,56 @@
         "supergüýç",
         "zenan",
         "zenan superbetpäl"
+    ],
+    "🦹🏻‍♀": [
+        "açyk deri reňki",
+        "betpäl",
+        "erbet",
+        "jenaýatçy",
+        "supergüýç",
+        "zenan",
+        "zenan superbetpäl",
+        "zenan superbetpäl: açyk deri reňki"
+    ],
+    "🦹🏼‍♀": [
+        "betpäl",
+        "erbet",
+        "jenaýatçy",
+        "orta açyk deri reňki",
+        "supergüýç",
+        "zenan",
+        "zenan superbetpäl",
+        "zenan superbetpäl: orta açyk deri reňki"
+    ],
+    "🦹🏽‍♀": [
+        "betpäl",
+        "erbet",
+        "jenaýatçy",
+        "orta deri reňki",
+        "supergüýç",
+        "zenan",
+        "zenan superbetpäl",
+        "zenan superbetpäl: orta deri reňki"
+    ],
+    "🦹🏾‍♀": [
+        "betpäl",
+        "erbet",
+        "jenaýatçy",
+        "orta goýy deri reňki",
+        "supergüýç",
+        "zenan",
+        "zenan superbetpäl",
+        "zenan superbetpäl: orta goýy deri reňki"
+    ],
+    "🦹🏿‍♀": [
+        "betpäl",
+        "erbet",
+        "goýy deri reňki",
+        "jenaýatçy",
+        "supergüýç",
+        "zenan",
+        "zenan superbetpäl",
+        "zenan superbetpäl: goýy deri reňki"
     ],
     "🧙": [
         "dogagöý",
@@ -8291,6 +9265,522 @@
         "ýörap barýan zenan: goýy deri reňki",
         "ýöremek"
     ],
+    "🧍": [
+        "dik dur",
+        "dik duran adam",
+        "dik durmak"
+    ],
+    "🧍🏻": [
+        "açyk deri reňki",
+        "dik dur",
+        "dik duran adam",
+        "dik duran adam: açyk deri reňki",
+        "dik durmak"
+    ],
+    "🧍🏼": [
+        "dik dur",
+        "dik duran adam",
+        "dik duran adam: orta açyk deri reňki",
+        "dik durmak",
+        "orta açyk deri reňki"
+    ],
+    "🧍🏽": [
+        "dik dur",
+        "dik duran adam",
+        "dik duran adam: orta deri reňki",
+        "dik durmak",
+        "orta deri reňki"
+    ],
+    "🧍🏾": [
+        "dik dur",
+        "dik duran adam",
+        "dik duran adam: orta goýy deri reňki",
+        "dik durmak",
+        "orta goýy deri reňki"
+    ],
+    "🧍🏿": [
+        "dik dur",
+        "dik duran adam",
+        "dik duran adam: goýy deri reňki",
+        "dik durmak",
+        "goýy deri reňki"
+    ],
+    "🧍‍♂": [
+        "dik duran erkek",
+        "dik durmak",
+        "erkek"
+    ],
+    "🧍🏻‍♂": [
+        "açyk deri reňki",
+        "dik duran erkek",
+        "dik duran erkek: açyk deri reňki",
+        "dik durmak",
+        "erkek"
+    ],
+    "🧍🏼‍♂": [
+        "dik duran erkek",
+        "dik duran erkek: orta açyk deri reňki",
+        "dik durmak",
+        "erkek",
+        "orta açyk deri reňki"
+    ],
+    "🧍🏽‍♂": [
+        "dik duran erkek",
+        "dik duran erkek: orta deri reňki",
+        "dik durmak",
+        "erkek",
+        "orta deri reňki"
+    ],
+    "🧍🏾‍♂": [
+        "dik duran erkek",
+        "dik duran erkek: orta goýy deri reňki",
+        "dik durmak",
+        "erkek",
+        "orta goýy deri reňki"
+    ],
+    "🧍🏿‍♂": [
+        "dik duran erkek",
+        "dik duran erkek: goýy deri reňki",
+        "dik durmak",
+        "erkek",
+        "goýy deri reňki"
+    ],
+    "🧍‍♀": [
+        "dik duran",
+        "dik duran zenan",
+        "zenan"
+    ],
+    "🧍🏻‍♀": [
+        "açyk deri reňki",
+        "dik duran",
+        "dik duran zenan",
+        "dik duran zenan: açyk deri reňki",
+        "zenan"
+    ],
+    "🧍🏼‍♀": [
+        "dik duran",
+        "dik duran zenan",
+        "dik duran zenan: orta açyk deri reňki",
+        "orta açyk deri reňki",
+        "zenan"
+    ],
+    "🧍🏽‍♀": [
+        "dik duran",
+        "dik duran zenan",
+        "dik duran zenan: orta deri reňki",
+        "orta deri reňki",
+        "zenan"
+    ],
+    "🧍🏾‍♀": [
+        "dik duran",
+        "dik duran zenan",
+        "dik duran zenan: orta goýy deri reňki",
+        "orta goýy deri reňki",
+        "zenan"
+    ],
+    "🧍🏿‍♀": [
+        "dik duran",
+        "dik duran zenan",
+        "dik duran zenan: goýy deri reňki",
+        "goýy deri reňki",
+        "zenan"
+    ],
+    "🧎": [
+        "dyza çök",
+        "dyza çöken",
+        "dyza çöken adam"
+    ],
+    "🧎🏻": [
+        "açyk deri reňki",
+        "dyza çök",
+        "dyza çöken",
+        "dyza çöken adam",
+        "dyza çöken adam: açyk deri reňki"
+    ],
+    "🧎🏼": [
+        "dyza çök",
+        "dyza çöken",
+        "dyza çöken adam",
+        "dyza çöken adam: orta açyk deri reňki",
+        "orta açyk deri reňki"
+    ],
+    "🧎🏽": [
+        "dyza çök",
+        "dyza çöken",
+        "dyza çöken adam",
+        "dyza çöken adam: orta deri reňki",
+        "orta deri reňki"
+    ],
+    "🧎🏾": [
+        "dyza çök",
+        "dyza çöken",
+        "dyza çöken adam",
+        "dyza çöken adam: orta goýy deri reňki",
+        "orta goýy deri reňki"
+    ],
+    "🧎🏿": [
+        "dyza çök",
+        "dyza çöken",
+        "dyza çöken adam",
+        "dyza çöken adam: goýy deri reňki",
+        "goýy deri reňki"
+    ],
+    "🧎‍♂": [
+        "dyza çöken",
+        "dyza çöken erkek",
+        "erkek"
+    ],
+    "🧎🏻‍♂": [
+        "açyk deri reňki",
+        "dyza çöken",
+        "dyza çöken erkek",
+        "dyza çöken erkek: açyk deri reňki",
+        "erkek"
+    ],
+    "🧎🏼‍♂": [
+        "dyza çöken",
+        "dyza çöken erkek",
+        "dyza çöken erkek: orta açyk deri reňki",
+        "erkek",
+        "orta açyk deri reňki"
+    ],
+    "🧎🏽‍♂": [
+        "dyza çöken",
+        "dyza çöken erkek",
+        "dyza çöken erkek: orta deri reňki",
+        "erkek",
+        "orta deri reňki"
+    ],
+    "🧎🏾‍♂": [
+        "dyza çöken",
+        "dyza çöken erkek",
+        "dyza çöken erkek: orta goýy deri reňki",
+        "erkek",
+        "orta goýy deri reňki"
+    ],
+    "🧎🏿‍♂": [
+        "dyza çöken",
+        "dyza çöken erkek",
+        "dyza çöken erkek: goýy deri reňki",
+        "erkek",
+        "goýy deri reňki"
+    ],
+    "🧎‍♀": [
+        "dyza çöken",
+        "dyza çöken zenan",
+        "zenan"
+    ],
+    "🧎🏻‍♀": [
+        "açyk deri reňki",
+        "dyza çöken",
+        "dyza çöken zenan",
+        "dyza çöken zenan: açyk deri reňki",
+        "zenan"
+    ],
+    "🧎🏼‍♀": [
+        "dyza çöken",
+        "dyza çöken zenan",
+        "dyza çöken zenan: orta açyk deri reňki",
+        "orta açyk deri reňki",
+        "zenan"
+    ],
+    "🧎🏽‍♀": [
+        "dyza çöken",
+        "dyza çöken zenan",
+        "dyza çöken zenan: orta deri reňki",
+        "orta deri reňki",
+        "zenan"
+    ],
+    "🧎🏾‍♀": [
+        "dyza çöken",
+        "dyza çöken zenan",
+        "dyza çöken zenan: orta goýy deri reňki",
+        "orta goýy deri reňki",
+        "zenan"
+    ],
+    "🧎🏿‍♀": [
+        "dyza çöken",
+        "dyza çöken zenan",
+        "dyza çöken zenan: goýy deri reňki",
+        "goýy deri reňki",
+        "zenan"
+    ],
+    "👨‍🦯": [
+        "elýeterlilik",
+        "erkek",
+        "kör",
+        "kör hasaly erkek"
+    ],
+    "👨🏻‍🦯": [
+        "açyk deri reňki",
+        "elýeterlilik",
+        "erkek",
+        "kör",
+        "kör hasaly erkek",
+        "kör hasaly erkek: açyk deri reňki"
+    ],
+    "👨🏼‍🦯": [
+        "elýeterlilik",
+        "erkek",
+        "kör",
+        "kör hasaly erkek",
+        "kör hasaly erkek: orta açyk deri reňki",
+        "orta açyk deri reňki"
+    ],
+    "👨🏽‍🦯": [
+        "elýeterlilik",
+        "erkek",
+        "kör",
+        "kör hasaly erkek",
+        "kör hasaly erkek: orta deri reňki",
+        "orta deri reňki"
+    ],
+    "👨🏾‍🦯": [
+        "elýeterlilik",
+        "erkek",
+        "kör",
+        "kör hasaly erkek",
+        "kör hasaly erkek: orta goýy deri reňki",
+        "orta goýy deri reňki"
+    ],
+    "👨🏿‍🦯": [
+        "elýeterlilik",
+        "erkek",
+        "goýy deri reňki",
+        "kör",
+        "kör hasaly erkek",
+        "kör hasaly erkek: goýy deri reňki"
+    ],
+    "👩‍🦯": [
+        "elýeterlilik",
+        "kör",
+        "kör hasaly zenan",
+        "zenan"
+    ],
+    "👩🏻‍🦯": [
+        "açyk deri reňki",
+        "elýeterlilik",
+        "kör",
+        "kör hasaly zenan",
+        "kör hasaly zenan: açyk deri reňki",
+        "zenan"
+    ],
+    "👩🏼‍🦯": [
+        "elýeterlilik",
+        "kör",
+        "kör hasaly zenan",
+        "kör hasaly zenan: orta açyk deri reňki",
+        "orta açyk deri reňki",
+        "zenan"
+    ],
+    "👩🏽‍🦯": [
+        "elýeterlilik",
+        "kör",
+        "kör hasaly zenan",
+        "kör hasaly zenan: orta deri reňki",
+        "orta deri reňki",
+        "zenan"
+    ],
+    "👩🏾‍🦯": [
+        "elýeterlilik",
+        "kör",
+        "kör hasaly zenan",
+        "kör hasaly zenan: orta goýy deri reňki",
+        "orta goýy deri reňki",
+        "zenan"
+    ],
+    "👩🏿‍🦯": [
+        "elýeterlilik",
+        "goýy deri reňki",
+        "kör",
+        "kör hasaly zenan",
+        "kör hasaly zenan: goýy deri reňki",
+        "zenan"
+    ],
+    "👨‍🦼": [
+        "elýeterlilik",
+        "erkek",
+        "maýyp arabasy",
+        "motorly maýyp arabasynda erkek"
+    ],
+    "👨🏻‍🦼": [
+        "açyk deri reňki",
+        "elýeterlilik",
+        "erkek",
+        "maýyp arabasy",
+        "motorly maýyp arabasynda erkek",
+        "motorly maýyp arabasynda erkek: açyk deri reňki"
+    ],
+    "👨🏼‍🦼": [
+        "elýeterlilik",
+        "erkek",
+        "maýyp arabasy",
+        "motorly maýyp arabasynda erkek",
+        "motorly maýyp arabasynda erkek: orta açyk deri reňki",
+        "orta açyk deri reňki"
+    ],
+    "👨🏽‍🦼": [
+        "elýeterlilik",
+        "erkek",
+        "maýyp arabasy",
+        "motorly maýyp arabasynda erkek",
+        "motorly maýyp arabasynda erkek: orta deri reňki",
+        "orta deri reňki"
+    ],
+    "👨🏾‍🦼": [
+        "elýeterlilik",
+        "erkek",
+        "maýyp arabasy",
+        "motorly maýyp arabasynda erkek",
+        "motorly maýyp arabasynda erkek: orta goýy deri reňki",
+        "orta goýy deri reňki"
+    ],
+    "👨🏿‍🦼": [
+        "elýeterlilik",
+        "erkek",
+        "goýy deri reňki",
+        "maýyp arabasy",
+        "motorly maýyp arabasynda erkek",
+        "motorly maýyp arabasynda erkek: goýy deri reňki"
+    ],
+    "👩‍🦼": [
+        "elýeterlilik",
+        "maýyp arabasy",
+        "motorly maýyp arabasynda zenan",
+        "zenan"
+    ],
+    "👩🏻‍🦼": [
+        "açyk deri reňki",
+        "elýeterlilik",
+        "maýyp arabasy",
+        "motorly maýyp arabasynda zenan",
+        "motorly maýyp arabasynda zenan: açyk deri reňki",
+        "zenan"
+    ],
+    "👩🏼‍🦼": [
+        "elýeterlilik",
+        "maýyp arabasy",
+        "motorly maýyp arabasynda zenan",
+        "motorly maýyp arabasynda zenan: orta açyk deri reňki",
+        "orta açyk deri reňki",
+        "zenan"
+    ],
+    "👩🏽‍🦼": [
+        "elýeterlilik",
+        "maýyp arabasy",
+        "motorly maýyp arabasynda zenan",
+        "motorly maýyp arabasynda zenan: orta deri reňki",
+        "orta deri reňki",
+        "zenan"
+    ],
+    "👩🏾‍🦼": [
+        "elýeterlilik",
+        "maýyp arabasy",
+        "motorly maýyp arabasynda zenan",
+        "motorly maýyp arabasynda zenan: orta goýy deri reňki",
+        "orta goýy deri reňki",
+        "zenan"
+    ],
+    "👩🏿‍🦼": [
+        "elýeterlilik",
+        "goýy deri reňki",
+        "maýyp arabasy",
+        "motorly maýyp arabasynda zenan",
+        "motorly maýyp arabasynda zenan: goýy deri reňki",
+        "zenan"
+    ],
+    "👨‍🦽": [
+        "el maýyp arabasynda erkek",
+        "elýeterlilik",
+        "erkek",
+        "maýyp arabasy"
+    ],
+    "👨🏻‍🦽": [
+        "açyk deri reňki",
+        "el maýyp arabasynda erkek",
+        "el maýyp arabasynda erkek: açyk deri reňki",
+        "elýeterlilik",
+        "erkek",
+        "maýyp arabasy"
+    ],
+    "👨🏼‍🦽": [
+        "el maýyp arabasynda erkek",
+        "el maýyp arabasynda erkek: orta açyk deri reňki",
+        "elýeterlilik",
+        "erkek",
+        "maýyp arabasy",
+        "orta açyk deri reňki"
+    ],
+    "👨🏽‍🦽": [
+        "el maýyp arabasynda erkek",
+        "el maýyp arabasynda erkek: orta deri reňki",
+        "elýeterlilik",
+        "erkek",
+        "maýyp arabasy",
+        "orta deri reňki"
+    ],
+    "👨🏾‍🦽": [
+        "el maýyp arabasynda erkek",
+        "el maýyp arabasynda erkek: orta goýy deri reňki",
+        "elýeterlilik",
+        "erkek",
+        "maýyp arabasy",
+        "orta goýy deri reňki"
+    ],
+    "👨🏿‍🦽": [
+        "el maýyp arabasynda erkek",
+        "el maýyp arabasynda erkek: goýy deri reňki",
+        "elýeterlilik",
+        "erkek",
+        "goýy deri reňki",
+        "maýyp arabasy"
+    ],
+    "👩‍🦽": [
+        "el maýyp arabasynda zenan",
+        "elýeterlilik",
+        "maýyp arabasy",
+        "zenan"
+    ],
+    "👩🏻‍🦽": [
+        "açyk deri reňki",
+        "el maýyp arabasynda zenan",
+        "el maýyp arabasynda zenan: açyk deri reňki",
+        "elýeterlilik",
+        "maýyp arabasy",
+        "zenan"
+    ],
+    "👩🏼‍🦽": [
+        "el maýyp arabasynda zenan",
+        "el maýyp arabasynda zenan: orta açyk deri reňki",
+        "elýeterlilik",
+        "maýyp arabasy",
+        "orta açyk deri reňki",
+        "zenan"
+    ],
+    "👩🏽‍🦽": [
+        "el maýyp arabasynda zenan",
+        "el maýyp arabasynda zenan: orta deri reňki",
+        "elýeterlilik",
+        "maýyp arabasy",
+        "orta deri reňki",
+        "zenan"
+    ],
+    "👩🏾‍🦽": [
+        "el maýyp arabasynda zenan",
+        "el maýyp arabasynda zenan: orta goýy deri reňki",
+        "elýeterlilik",
+        "maýyp arabasy",
+        "orta goýy deri reňki",
+        "zenan"
+    ],
+    "👩🏿‍🦽": [
+        "el maýyp arabasynda zenan",
+        "el maýyp arabasynda zenan: goýy deri reňki",
+        "elýeterlilik",
+        "goýy deri reňki",
+        "maýyp arabasy",
+        "zenan"
+    ],
     "🏃": [
         "marafon",
         "ylgap barýan adam",
@@ -9038,33 +10528,33 @@
     ],
     "🏄🏻": [
         "açyk deri reňki",
-        "serfing",
         "sörf edýän adam",
-        "sörf edýän adam: açyk deri reňki"
+        "sörf edýän adam: açyk deri reňki",
+        "sörfing"
     ],
     "🏄🏼": [
         "orta açyk deri reňki",
-        "serfing",
         "sörf edýän adam",
-        "sörf edýän adam: orta açyk deri reňki"
+        "sörf edýän adam: orta açyk deri reňki",
+        "sörfing"
     ],
     "🏄🏽": [
         "orta deri reňki",
-        "serfing",
         "sörf edýän adam",
-        "sörf edýän adam: orta deri reňki"
+        "sörf edýän adam: orta deri reňki",
+        "sörfing"
     ],
     "🏄🏾": [
         "orta goýy deri reňki",
-        "serfing",
         "sörf edýän adam",
-        "sörf edýän adam: orta goýy deri reňki"
+        "sörf edýän adam: orta goýy deri reňki",
+        "sörfing"
     ],
     "🏄🏿": [
         "goýy deri reňki",
-        "serfing",
         "sörf edýän adam",
-        "sörf edýän adam: goýy deri reňki"
+        "sörf edýän adam: goýy deri reňki",
+        "sörfing"
     ],
     "🏄‍♂": [
         "erkek",
@@ -9074,37 +10564,37 @@
     "🏄🏻‍♂": [
         "açyk deri reňki",
         "erkek",
-        "serfing",
         "sörf edýän erkek",
-        "sörf edýän erkek: açyk deri reňki"
+        "sörf edýän erkek: açyk deri reňki",
+        "sörfing"
     ],
     "🏄🏼‍♂": [
         "erkek",
         "orta açyk deri reňki",
-        "serfing",
         "sörf edýän erkek",
-        "sörf edýän erkek: orta açyk deri reňki"
+        "sörf edýän erkek: orta açyk deri reňki",
+        "sörfing"
     ],
     "🏄🏽‍♂": [
         "erkek",
         "orta deri reňki",
-        "serfing",
         "sörf edýän erkek",
-        "sörf edýän erkek: orta deri reňki"
+        "sörf edýän erkek: orta deri reňki",
+        "sörfing"
     ],
     "🏄🏾‍♂": [
         "erkek",
         "orta goýy deri reňki",
-        "serfing",
         "sörf edýän erkek",
-        "sörf edýän erkek: orta goýy deri reňki"
+        "sörf edýän erkek: orta goýy deri reňki",
+        "sörfing"
     ],
     "🏄🏿‍♂": [
         "erkek",
         "goýy deri reňki",
-        "serfing",
         "sörf edýän erkek",
-        "sörf edýän erkek: goýy deri reňki"
+        "sörf edýän erkek: goýy deri reňki",
+        "sörfing"
     ],
     "🏄‍♀": [
         "serfing",
@@ -10693,29 +12183,828 @@
         "ýatalgada ýatan adam",
         "ýatalgada ýatan adam: goýy deri reňki"
     ],
+    "🧑‍🤝‍🧑": [
+        "adam",
+        "el",
+        "el tutuşmak",
+        "el tutuşýan adamlar",
+        "jübüt",
+        "tutmak"
+    ],
+    "🧑🏻‍🤝‍🧑🏻": [
+        "adam",
+        "açyk deri reňki",
+        "el",
+        "el tutuşmak",
+        "el tutuşýan adamlar",
+        "el tutuşýan adamlar: açyk deri reňki",
+        "jübüt",
+        "tutmak"
+    ],
+    "🧑🏼‍🤝‍🧑🏻": [
+        "adam",
+        "açyk deri reňki",
+        "el",
+        "el tutuşmak",
+        "el tutuşýan adamlar",
+        "el tutuşýan adamlar: orta açyk deri reňki, açyk deri reňki",
+        "jübüt",
+        "orta açyk deri reňki",
+        "tutmak"
+    ],
+    "🧑🏼‍🤝‍🧑🏼": [
+        "adam",
+        "el",
+        "el tutuşmak",
+        "el tutuşýan adamlar",
+        "el tutuşýan adamlar: orta açyk deri reňki",
+        "jübüt",
+        "orta açyk deri reňki",
+        "tutmak"
+    ],
+    "🧑🏽‍🤝‍🧑🏻": [
+        "adam",
+        "açyk deri reňki",
+        "el",
+        "el tutuşmak",
+        "el tutuşýan adamlar",
+        "el tutuşýan adamlar: orta deri reňki, açyk deri reňki",
+        "jübüt",
+        "orta deri reňki",
+        "tutmak"
+    ],
+    "🧑🏽‍🤝‍🧑🏼": [
+        "adam",
+        "el",
+        "el tutuşmak",
+        "el tutuşýan adamlar",
+        "el tutuşýan adamlar: orta deri reňki, orta açyk deri reňki",
+        "jübüt",
+        "orta açyk deri reňki",
+        "orta deri reňki",
+        "tutmak"
+    ],
+    "🧑🏽‍🤝‍🧑🏽": [
+        "adam",
+        "el",
+        "el tutuşmak",
+        "el tutuşýan adamlar",
+        "el tutuşýan adamlar: orta deri reňki",
+        "jübüt",
+        "orta deri reňki",
+        "tutmak"
+    ],
+    "🧑🏾‍🤝‍🧑🏻": [
+        "adam",
+        "açyk deri reňki",
+        "el",
+        "el tutuşmak",
+        "el tutuşýan adamlar",
+        "el tutuşýan adamlar: orta goýy deri reňki, açyk deri reňki",
+        "jübüt",
+        "orta goýy deri reňki",
+        "tutmak"
+    ],
+    "🧑🏾‍🤝‍🧑🏼": [
+        "adam",
+        "el",
+        "el tutuşmak",
+        "el tutuşýan adamlar",
+        "el tutuşýan adamlar: orta goýy deri reňki, orta açyk deri reňki",
+        "jübüt",
+        "orta açyk deri reňki",
+        "orta goýy deri reňki",
+        "tutmak"
+    ],
+    "🧑🏾‍🤝‍🧑🏽": [
+        "adam",
+        "el",
+        "el tutuşmak",
+        "el tutuşýan adamlar",
+        "el tutuşýan adamlar: orta goýy deri reňki, orta deri reňki",
+        "jübüt",
+        "orta deri reňki",
+        "orta goýy deri reňki",
+        "tutmak"
+    ],
+    "🧑🏾‍🤝‍🧑🏾": [
+        "adam",
+        "el",
+        "el tutuşmak",
+        "el tutuşýan adamlar",
+        "el tutuşýan adamlar: orta goýy deri reňki",
+        "jübüt",
+        "orta goýy deri reňki",
+        "tutmak"
+    ],
+    "🧑🏿‍🤝‍🧑🏻": [
+        "adam",
+        "açyk deri reňki",
+        "el",
+        "el tutuşmak",
+        "el tutuşýan adamlar",
+        "el tutuşýan adamlar: goýy deri reňki, açyk deri reňki",
+        "goýy deri reňki",
+        "jübüt",
+        "tutmak"
+    ],
+    "🧑🏿‍🤝‍🧑🏼": [
+        "adam",
+        "el",
+        "el tutuşmak",
+        "el tutuşýan adamlar",
+        "el tutuşýan adamlar: goýy deri reňki, orta açyk deri reňki",
+        "goýy deri reňki",
+        "jübüt",
+        "orta açyk deri reňki",
+        "tutmak"
+    ],
+    "🧑🏿‍🤝‍🧑🏽": [
+        "adam",
+        "el",
+        "el tutuşmak",
+        "el tutuşýan adamlar",
+        "el tutuşýan adamlar: goýy deri reňki, orta deri reňki",
+        "goýy deri reňki",
+        "jübüt",
+        "orta deri reňki",
+        "tutmak"
+    ],
+    "🧑🏿‍🤝‍🧑🏾": [
+        "adam",
+        "el",
+        "el tutuşmak",
+        "el tutuşýan adamlar",
+        "el tutuşýan adamlar: goýy deri reňki, orta goýy deri reňki",
+        "goýy deri reňki",
+        "jübüt",
+        "orta goýy deri reňki",
+        "tutmak"
+    ],
+    "🧑🏿‍🤝‍🧑🏿": [
+        "adam",
+        "el",
+        "el tutuşmak",
+        "el tutuşýan adamlar",
+        "el tutuşýan adamlar: goýy deri reňki",
+        "goýy deri reňki",
+        "jübüt",
+        "tutmak"
+    ],
     "👭": [
         "el",
         "el tutuşan iki aýal",
+        "el tutuşmak",
         "jübüt",
-        "tutmak",
-        "zenan"
+        "zenanlar"
+    ],
+    "👭🏻": [
+        "açyk deri reňki",
+        "el",
+        "el tutuşan iki aýal",
+        "el tutuşan iki aýal: açyk deri reňki",
+        "el tutuşmak",
+        "jübüt",
+        "zenanlar"
+    ],
+    "👩🏼‍🤝‍👩🏻": [
+        "açyk deri reňki",
+        "el",
+        "el tutuşan iki aýal",
+        "el tutuşan iki aýal: orta açyk deri reňki, açyk deri reňki",
+        "el tutuşmak",
+        "jübüt",
+        "orta açyk deri reňki",
+        "zenanlar"
+    ],
+    "👭🏼": [
+        "el",
+        "el tutuşan iki aýal",
+        "el tutuşan iki aýal: orta açyk deri reňki",
+        "el tutuşmak",
+        "jübüt",
+        "orta açyk deri reňki",
+        "zenanlar"
+    ],
+    "👩🏽‍🤝‍👩🏻": [
+        "açyk deri reňki",
+        "el",
+        "el tutuşan iki aýal",
+        "el tutuşan iki aýal: orta deri reňki, açyk deri reňki",
+        "el tutuşmak",
+        "jübüt",
+        "orta deri reňki",
+        "zenanlar"
+    ],
+    "👩🏽‍🤝‍👩🏼": [
+        "el",
+        "el tutuşan iki aýal",
+        "el tutuşan iki aýal: orta deri reňki, orta açyk deri reňki",
+        "el tutuşmak",
+        "jübüt",
+        "orta açyk deri reňki",
+        "orta deri reňki",
+        "zenanlar"
+    ],
+    "👭🏽": [
+        "el",
+        "el tutuşan iki aýal",
+        "el tutuşan iki aýal: orta deri reňki",
+        "el tutuşmak",
+        "jübüt",
+        "orta deri reňki",
+        "zenanlar"
+    ],
+    "👩🏾‍🤝‍👩🏻": [
+        "açyk deri reňki",
+        "el",
+        "el tutuşan iki aýal",
+        "el tutuşan iki aýal: orta goýy deri reňki, açyk deri reňki",
+        "el tutuşmak",
+        "jübüt",
+        "orta goýy deri reňki",
+        "zenanlar"
+    ],
+    "👩🏾‍🤝‍👩🏼": [
+        "el",
+        "el tutuşan iki aýal",
+        "el tutuşan iki aýal: orta goýy deri reňki, orta açyk deri reňki",
+        "el tutuşmak",
+        "jübüt",
+        "orta açyk deri reňki",
+        "orta goýy deri reňki",
+        "zenanlar"
+    ],
+    "👩🏾‍🤝‍👩🏽": [
+        "el",
+        "el tutuşan iki aýal",
+        "el tutuşan iki aýal: orta goýy deri reňki, orta deri reňki",
+        "el tutuşmak",
+        "jübüt",
+        "orta deri reňki",
+        "orta goýy deri reňki",
+        "zenanlar"
+    ],
+    "👭🏾": [
+        "el",
+        "el tutuşan iki aýal",
+        "el tutuşan iki aýal: orta goýy deri reňki",
+        "el tutuşmak",
+        "jübüt",
+        "orta goýy deri reňki",
+        "zenanlar"
+    ],
+    "👩🏿‍🤝‍👩🏻": [
+        "açyk deri reňki",
+        "el",
+        "el tutuşan iki aýal",
+        "el tutuşan iki aýal: goýy deri reňki, açyk deri reňki",
+        "el tutuşmak",
+        "goýy deri reňki",
+        "jübüt",
+        "zenanlar"
+    ],
+    "👩🏿‍🤝‍👩🏼": [
+        "el",
+        "el tutuşan iki aýal",
+        "el tutuşan iki aýal: goýy deri reňki, orta açyk deri reňki",
+        "el tutuşmak",
+        "goýy deri reňki",
+        "jübüt",
+        "orta açyk deri reňki",
+        "zenanlar"
+    ],
+    "👩🏿‍🤝‍👩🏽": [
+        "el",
+        "el tutuşan iki aýal",
+        "el tutuşan iki aýal: goýy deri reňki, orta deri reňki",
+        "el tutuşmak",
+        "goýy deri reňki",
+        "jübüt",
+        "orta deri reňki",
+        "zenanlar"
+    ],
+    "👩🏿‍🤝‍👩🏾": [
+        "el",
+        "el tutuşan iki aýal",
+        "el tutuşan iki aýal: goýy deri reňki, orta goýy deri reňki",
+        "el tutuşmak",
+        "goýy deri reňki",
+        "jübüt",
+        "orta goýy deri reňki",
+        "zenanlar"
+    ],
+    "👭🏿": [
+        "el",
+        "el tutuşan iki aýal",
+        "el tutuşan iki aýal: goýy deri reňki",
+        "el tutuşmak",
+        "goýy deri reňki",
+        "jübüt",
+        "zenanlar"
     ],
     "👫": [
         "el",
         "el tutuşan erkek bilen aýal",
-        "erkek",
+        "el tutuşmak",
+        "erkek adam",
         "jübüt",
-        "tutmak",
+        "tut",
+        "zenan"
+    ],
+    "👫🏻": [
+        "açyk deri reňki",
+        "el",
+        "el tutuşan erkek bilen aýal",
+        "el tutuşan erkek bilen aýal: açyk deri reňki",
+        "el tutuşmak",
+        "erkek adam",
+        "jübüt",
+        "tut",
+        "zenan"
+    ],
+    "👩🏻‍🤝‍👨🏼": [
+        "açyk deri reňki",
+        "el",
+        "el tutuşan erkek bilen aýal",
+        "el tutuşan erkek bilen aýal: açyk deri reňki, orta açyk deri reňki",
+        "el tutuşmak",
+        "erkek adam",
+        "jübüt",
+        "orta açyk deri reňki",
+        "tut",
+        "zenan"
+    ],
+    "👩🏻‍🤝‍👨🏽": [
+        "açyk deri reňki",
+        "el",
+        "el tutuşan erkek bilen aýal",
+        "el tutuşan erkek bilen aýal: açyk deri reňki, orta deri reňki",
+        "el tutuşmak",
+        "erkek adam",
+        "jübüt",
+        "orta deri reňki",
+        "tut",
+        "zenan"
+    ],
+    "👩🏻‍🤝‍👨🏾": [
+        "açyk deri reňki",
+        "el",
+        "el tutuşan erkek bilen aýal",
+        "el tutuşan erkek bilen aýal: açyk deri reňki, orta goýy deri reňki",
+        "el tutuşmak",
+        "erkek adam",
+        "jübüt",
+        "orta goýy deri reňki",
+        "tut",
+        "zenan"
+    ],
+    "👩🏻‍🤝‍👨🏿": [
+        "açyk deri reňki",
+        "el",
+        "el tutuşan erkek bilen aýal",
+        "el tutuşan erkek bilen aýal: açyk deri reňki, goýy deri reňki",
+        "el tutuşmak",
+        "erkek adam",
+        "goýy deri reňki",
+        "jübüt",
+        "tut",
+        "zenan"
+    ],
+    "👩🏼‍🤝‍👨🏻": [
+        "açyk deri reňki",
+        "el",
+        "el tutuşan erkek bilen aýal",
+        "el tutuşan erkek bilen aýal: orta açyk deri reňki, açyk deri reňki",
+        "el tutuşmak",
+        "erkek adam",
+        "jübüt",
+        "orta açyk deri reňki",
+        "tut",
+        "zenan"
+    ],
+    "👫🏼": [
+        "el",
+        "el tutuşan erkek bilen aýal",
+        "el tutuşan erkek bilen aýal: orta açyk deri reňki",
+        "el tutuşmak",
+        "erkek adam",
+        "jübüt",
+        "orta açyk deri reňki",
+        "tut",
+        "zenan"
+    ],
+    "👩🏼‍🤝‍👨🏽": [
+        "el",
+        "el tutuşan erkek bilen aýal",
+        "el tutuşan erkek bilen aýal: orta açyk deri reňki, orta deri reňki",
+        "el tutuşmak",
+        "erkek adam",
+        "jübüt",
+        "orta açyk deri reňki",
+        "orta deri reňki",
+        "tut",
+        "zenan"
+    ],
+    "👩🏼‍🤝‍👨🏾": [
+        "el",
+        "el tutuşan erkek bilen aýal",
+        "el tutuşan erkek bilen aýal: orta açyk deri reňki, orta goýy deri reňki",
+        "el tutuşmak",
+        "erkek adam",
+        "jübüt",
+        "orta açyk deri reňki",
+        "orta goýy deri reňki",
+        "tut",
+        "zenan"
+    ],
+    "👩🏼‍🤝‍👨🏿": [
+        "el",
+        "el tutuşan erkek bilen aýal",
+        "el tutuşan erkek bilen aýal: orta açyk deri reňki, goýy deri reňki",
+        "el tutuşmak",
+        "erkek adam",
+        "goýy deri reňki",
+        "jübüt",
+        "orta açyk deri reňki",
+        "tut",
+        "zenan"
+    ],
+    "👩🏽‍🤝‍👨🏻": [
+        "açyk deri reňki",
+        "el",
+        "el tutuşan erkek bilen aýal",
+        "el tutuşan erkek bilen aýal: orta deri reňki, açyk deri reňki",
+        "el tutuşmak",
+        "erkek adam",
+        "jübüt",
+        "orta deri reňki",
+        "tut",
+        "zenan"
+    ],
+    "👩🏽‍🤝‍👨🏼": [
+        "el",
+        "el tutuşan erkek bilen aýal",
+        "el tutuşan erkek bilen aýal: orta deri reňki, orta açyk deri reňki",
+        "el tutuşmak",
+        "erkek adam",
+        "jübüt",
+        "orta açyk deri reňki",
+        "orta deri reňki",
+        "tut",
+        "zenan"
+    ],
+    "👫🏽": [
+        "el",
+        "el tutuşan erkek bilen aýal",
+        "el tutuşan erkek bilen aýal: orta deri reňki",
+        "el tutuşmak",
+        "erkek adam",
+        "jübüt",
+        "orta deri reňki",
+        "tut",
+        "zenan"
+    ],
+    "👩🏽‍🤝‍👨🏾": [
+        "el",
+        "el tutuşan erkek bilen aýal",
+        "el tutuşan erkek bilen aýal: orta deri reňki, orta goýy deri reňki",
+        "el tutuşmak",
+        "erkek adam",
+        "jübüt",
+        "orta deri reňki",
+        "orta goýy deri reňki",
+        "tut",
+        "zenan"
+    ],
+    "👩🏽‍🤝‍👨🏿": [
+        "el",
+        "el tutuşan erkek bilen aýal",
+        "el tutuşan erkek bilen aýal: orta deri reňki, goýy deri reňki",
+        "el tutuşmak",
+        "erkek adam",
+        "goýy deri reňki",
+        "jübüt",
+        "orta deri reňki",
+        "tut",
+        "zenan"
+    ],
+    "👩🏾‍🤝‍👨🏻": [
+        "açyk deri reňki",
+        "el",
+        "el tutuşan erkek bilen aýal",
+        "el tutuşan erkek bilen aýal: orta goýy deri reňki, açyk deri reňki",
+        "el tutuşmak",
+        "erkek adam",
+        "jübüt",
+        "orta goýy deri reňki",
+        "tut",
+        "zenan"
+    ],
+    "👩🏾‍🤝‍👨🏼": [
+        "el",
+        "el tutuşan erkek bilen aýal",
+        "el tutuşan erkek bilen aýal: orta goýy deri reňki, orta açyk deri reňki",
+        "el tutuşmak",
+        "erkek adam",
+        "jübüt",
+        "orta açyk deri reňki",
+        "orta goýy deri reňki",
+        "tut",
+        "zenan"
+    ],
+    "👩🏾‍🤝‍👨🏽": [
+        "el",
+        "el tutuşan erkek bilen aýal",
+        "el tutuşan erkek bilen aýal: orta goýy deri reňki, orta deri reňki",
+        "el tutuşmak",
+        "erkek adam",
+        "jübüt",
+        "orta deri reňki",
+        "orta goýy deri reňki",
+        "tut",
+        "zenan"
+    ],
+    "👫🏾": [
+        "el",
+        "el tutuşan erkek bilen aýal",
+        "el tutuşan erkek bilen aýal: orta goýy deri reňki",
+        "el tutuşmak",
+        "erkek adam",
+        "jübüt",
+        "orta goýy deri reňki",
+        "tut",
+        "zenan"
+    ],
+    "👩🏾‍🤝‍👨🏿": [
+        "el",
+        "el tutuşan erkek bilen aýal",
+        "el tutuşan erkek bilen aýal: orta goýy deri reňki, goýy deri reňki",
+        "el tutuşmak",
+        "erkek adam",
+        "goýy deri reňki",
+        "jübüt",
+        "orta goýy deri reňki",
+        "tut",
+        "zenan"
+    ],
+    "👩🏿‍🤝‍👨🏻": [
+        "açyk deri reňki",
+        "el",
+        "el tutuşan erkek bilen aýal",
+        "el tutuşan erkek bilen aýal: goýy deri reňki, açyk deri reňki",
+        "el tutuşmak",
+        "erkek adam",
+        "goýy deri reňki",
+        "jübüt",
+        "tut",
+        "zenan"
+    ],
+    "👩🏿‍🤝‍👨🏼": [
+        "el",
+        "el tutuşan erkek bilen aýal",
+        "el tutuşan erkek bilen aýal: goýy deri reňki, orta açyk deri reňki",
+        "el tutuşmak",
+        "erkek adam",
+        "goýy deri reňki",
+        "jübüt",
+        "orta açyk deri reňki",
+        "tut",
+        "zenan"
+    ],
+    "👩🏿‍🤝‍👨🏽": [
+        "el",
+        "el tutuşan erkek bilen aýal",
+        "el tutuşan erkek bilen aýal: goýy deri reňki, orta deri reňki",
+        "el tutuşmak",
+        "erkek adam",
+        "goýy deri reňki",
+        "jübüt",
+        "orta deri reňki",
+        "tut",
+        "zenan"
+    ],
+    "👩🏿‍🤝‍👨🏾": [
+        "el",
+        "el tutuşan erkek bilen aýal",
+        "el tutuşan erkek bilen aýal: goýy deri reňki, orta goýy deri reňki",
+        "el tutuşmak",
+        "erkek adam",
+        "goýy deri reňki",
+        "jübüt",
+        "orta goýy deri reňki",
+        "tut",
+        "zenan"
+    ],
+    "👫🏿": [
+        "el",
+        "el tutuşan erkek bilen aýal",
+        "el tutuşan erkek bilen aýal: goýy deri reňki",
+        "el tutuşmak",
+        "erkek adam",
+        "goýy deri reňki",
+        "jübüt",
+        "tut",
         "zenan"
     ],
     "👬": [
-        "Ekizler",
-        "ekiz",
-        "el",
+        "Ekizekler",
+        "ekizler",
         "el tutuşan iki erkek",
-        "erkek",
+        "el tutuşmak",
+        "erkek adam",
+        "erkek adamlar",
         "jübüt",
-        "tutmak",
+        "täleýnama"
+    ],
+    "👬🏻": [
+        "Ekizekler",
+        "açyk deri reňki",
+        "ekizler",
+        "el tutuşan iki erkek",
+        "el tutuşan iki erkek: açyk deri reňki",
+        "el tutuşmak",
+        "erkek adam",
+        "erkek adamlar",
+        "jübüt",
+        "täleýnama"
+    ],
+    "👨🏼‍🤝‍👨🏻": [
+        "Ekizekler",
+        "açyk deri reňki",
+        "ekizler",
+        "el tutuşan iki erkek",
+        "el tutuşan iki erkek: orta açyk deri reňki, açyk deri reňki",
+        "el tutuşmak",
+        "erkek adam",
+        "erkek adamlar",
+        "jübüt",
+        "orta açyk deri reňki",
+        "täleýnama"
+    ],
+    "👬🏼": [
+        "Ekizekler",
+        "ekizler",
+        "el tutuşan iki erkek",
+        "el tutuşan iki erkek: orta açyk deri reňki",
+        "el tutuşmak",
+        "erkek adam",
+        "erkek adamlar",
+        "jübüt",
+        "orta açyk deri reňki",
+        "täleýnama"
+    ],
+    "👨🏽‍🤝‍👨🏻": [
+        "Ekizekler",
+        "açyk deri reňki",
+        "ekizler",
+        "el tutuşan iki erkek",
+        "el tutuşan iki erkek: orta deri reňki, açyk deri reňki",
+        "el tutuşmak",
+        "erkek adam",
+        "erkek adamlar",
+        "jübüt",
+        "orta deri reňki",
+        "täleýnama"
+    ],
+    "👨🏽‍🤝‍👨🏼": [
+        "Ekizekler",
+        "ekizler",
+        "el tutuşan iki erkek",
+        "el tutuşan iki erkek: orta deri reňki, orta açyk deri reňki",
+        "el tutuşmak",
+        "erkek adam",
+        "erkek adamlar",
+        "jübüt",
+        "orta açyk deri reňki",
+        "orta deri reňki",
+        "täleýnama"
+    ],
+    "👬🏽": [
+        "Ekizekler",
+        "ekizler",
+        "el tutuşan iki erkek",
+        "el tutuşan iki erkek: orta deri reňki",
+        "el tutuşmak",
+        "erkek adam",
+        "erkek adamlar",
+        "jübüt",
+        "orta deri reňki",
+        "täleýnama"
+    ],
+    "👨🏾‍🤝‍👨🏻": [
+        "Ekizekler",
+        "açyk deri reňki",
+        "ekizler",
+        "el tutuşan iki erkek",
+        "el tutuşan iki erkek: orta goýy deri reňki, açyk deri reňki",
+        "el tutuşmak",
+        "erkek adam",
+        "erkek adamlar",
+        "jübüt",
+        "orta goýy deri reňki",
+        "täleýnama"
+    ],
+    "👨🏾‍🤝‍👨🏼": [
+        "Ekizekler",
+        "ekizler",
+        "el tutuşan iki erkek",
+        "el tutuşan iki erkek: orta goýy deri reňki, orta açyk deri reňki",
+        "el tutuşmak",
+        "erkek adam",
+        "erkek adamlar",
+        "jübüt",
+        "orta açyk deri reňki",
+        "orta goýy deri reňki",
+        "täleýnama"
+    ],
+    "👨🏾‍🤝‍👨🏽": [
+        "Ekizekler",
+        "ekizler",
+        "el tutuşan iki erkek",
+        "el tutuşan iki erkek: orta goýy deri reňki, orta deri reňki",
+        "el tutuşmak",
+        "erkek adam",
+        "erkek adamlar",
+        "jübüt",
+        "orta deri reňki",
+        "orta goýy deri reňki",
+        "täleýnama"
+    ],
+    "👬🏾": [
+        "Ekizekler",
+        "ekizler",
+        "el tutuşan iki erkek",
+        "el tutuşan iki erkek: orta goýy deri reňki",
+        "el tutuşmak",
+        "erkek adam",
+        "erkek adamlar",
+        "jübüt",
+        "orta goýy deri reňki",
+        "täleýnama"
+    ],
+    "👨🏿‍🤝‍👨🏻": [
+        "Ekizekler",
+        "açyk deri reňki",
+        "ekizler",
+        "el tutuşan iki erkek",
+        "el tutuşan iki erkek: goýy deri reňki, açyk deri reňki",
+        "el tutuşmak",
+        "erkek adam",
+        "erkek adamlar",
+        "goýy deri reňki",
+        "jübüt",
+        "täleýnama"
+    ],
+    "👨🏿‍🤝‍👨🏼": [
+        "Ekizekler",
+        "ekizler",
+        "el tutuşan iki erkek",
+        "el tutuşan iki erkek: goýy deri reňki, orta açyk deri reňki",
+        "el tutuşmak",
+        "erkek adam",
+        "erkek adamlar",
+        "goýy deri reňki",
+        "jübüt",
+        "orta açyk deri reňki",
+        "täleýnama"
+    ],
+    "👨🏿‍🤝‍👨🏽": [
+        "Ekizekler",
+        "ekizler",
+        "el tutuşan iki erkek",
+        "el tutuşan iki erkek: goýy deri reňki, orta deri reňki",
+        "el tutuşmak",
+        "erkek adam",
+        "erkek adamlar",
+        "goýy deri reňki",
+        "jübüt",
+        "orta deri reňki",
+        "täleýnama"
+    ],
+    "👨🏿‍🤝‍👨🏾": [
+        "Ekizekler",
+        "ekizler",
+        "el tutuşan iki erkek",
+        "el tutuşan iki erkek: goýy deri reňki, orta goýy deri reňki",
+        "el tutuşmak",
+        "erkek adam",
+        "erkek adamlar",
+        "goýy deri reňki",
+        "jübüt",
+        "orta goýy deri reňki",
+        "täleýnama"
+    ],
+    "👬🏿": [
+        "Ekizekler",
+        "ekizler",
+        "el tutuşan iki erkek",
+        "el tutuşan iki erkek: goýy deri reňki",
+        "el tutuşmak",
+        "erkek adam",
+        "erkek adamlar",
+        "goýy deri reňki",
+        "jübüt",
         "täleýnama"
     ],
     "💏": [
@@ -10991,6 +13280,10 @@
     "🦍": [
         "gorilla"
     ],
+    "🦧": [
+        "maýmyn",
+        "orangutang"
+    ],
     "🐶": [
         "it",
         "it ýüz",
@@ -11000,6 +13293,19 @@
     "🐕️": [
         "it",
         "öý haýwany"
+    ],
+    "🦮": [
+        "elýeterlilik",
+        "kör",
+        "ýolbelet",
+        "ýoldaş it"
+    ],
+    "🐕‍🦺": [
+        "elýeterlilik",
+        "gulluk iti",
+        "hyzmat",
+        "it",
+        "kömek"
     ],
     "🐩": [
         "it",
@@ -11208,6 +13514,20 @@
         "panda ýüz",
         "ýüz"
     ],
+    "🦥": [
+        "haýal",
+        "leniwes",
+        "ýalta"
+    ],
+    "🦦": [
+        "balyk tutmak",
+        "gunduz",
+        "oýunçy"
+    ],
+    "🦨": [
+        "porsy ys",
+        "skuns"
+    ],
     "🦘": [
         "Awstraliýa",
         "bökmek",
@@ -11289,6 +13609,11 @@
         "akyldar",
         "baýguş",
         "guş"
+    ],
+    "🦩": [
+        "gyzylinjik",
+        "owadan",
+        "tropik"
     ],
     "🦚": [
         "buýsançly",
@@ -11675,6 +14000,14 @@
         "brokkoli",
         "ýabany kelem"
     ],
+    "🧄": [
+        "sarymsak",
+        "tagam bermek"
+    ],
+    "🧅": [
+        "sogan",
+        "tagam bermek"
+    ],
     "🍄": [
         "kömelek",
         "ýylankömelek"
@@ -11721,6 +14054,11 @@
         "gyzgyn gutap",
         "iýmit",
         "krep"
+    ],
+    "🧇": [
+        "demir",
+        "wafli",
+        "ýaýdanjaň"
     ],
     "🧀": [
         "peýnir",
@@ -11791,6 +14129,11 @@
         "lawaş",
         "petir"
     ],
+    "🧆": [
+        "falafel",
+        "frikadelka",
+        "nohut"
+    ],
     "🥚": [
         "iýmit",
         "ýumurtga"
@@ -11828,6 +14171,10 @@
     ],
     "🍿": [
         "patrak"
+    ],
+    "🧈": [
+        "mesge",
+        "süýt önümleri"
     ],
     "🧂": [
         "duz",
@@ -11955,6 +14302,11 @@
         "iýmit",
         "kalmar",
         "mollýuska"
+    ],
+    "🦪": [
+        "merjen",
+        "ustrisa",
+        "çümmek"
     ],
     "🍦": [
         "buz",
@@ -12148,6 +14500,19 @@
         "mineral suw",
         "turbajykly stakan",
         "şire"
+    ],
+    "🧃": [
+        "içgi gutusy",
+        "şire gutusy"
+    ],
+    "🧉": [
+        "dost",
+        "içmek"
+    ],
+    "🧊": [
+        "aýsberg",
+        "buz kuby",
+        "sowuk"
     ],
     "🥢": [
         "haşi",
@@ -12391,6 +14756,11 @@
         "metjit",
         "musulman",
         "yslam"
+    ],
+    "🛕": [
+        "indus",
+        "indus ybadathanasy",
+        "ybadathana"
     ],
     "🕍": [
         "din",
@@ -12657,6 +15027,18 @@
         "motor",
         "skuter"
     ],
+    "🦽": [
+        "el maýyp arabasy",
+        "elýeterlilik"
+    ],
+    "🦼": [
+        "elýeterlilik",
+        "motorly maýyp arabasy"
+    ],
+    "🛺": [
+        "awtorikşa",
+        "tuktuk"
+    ],
     "🚲️": [
         "tigir",
         "welosiped"
@@ -12791,9 +15173,16 @@
         "uçar",
         "uçaryň gelmegi"
     ],
+    "🪂": [
+        "asmanda ýüz",
+        "deltaplan",
+        "paraşýut",
+        "suwüsti paraşýut"
+    ],
     "💺": [
         "kreslo",
-        "oturgyç"
+        "oturgyç",
+        "ýer"
     ],
     "🚁": [
         "dikuçar",
@@ -13179,6 +15568,11 @@
         "ýüz",
         "ýüzli güneş"
     ],
+    "🪐": [
+        "gamly",
+        "halkaly planeta",
+        "saturn"
+    ],
     "⭐️": [
         "ak ortaça ýyldyz",
         "ýyldyz"
@@ -13375,6 +15769,7 @@
         "salýut"
     ],
     "✨": [
+        "*",
         "uçgun",
         "uçgunlar",
         "ýyldyz"
@@ -13630,6 +16025,12 @@
         "çeňňek",
         "çeňňek taýagy"
     ],
+    "🤿": [
+        "skuba",
+        "suwasty ýüzmek",
+        "çümmek",
+        "çümüş maskasy"
+    ],
     "🎽": [
         "guşak",
         "köýnek",
@@ -13659,6 +16060,16 @@
         "oýun",
         "urgy",
         "öküz"
+    ],
+    "🪀": [
+        "oýunjak",
+        "üýtge",
+        "ýo-ýo"
+    ],
+    "🪁": [
+        "asmana göterilmek",
+        "batberek",
+        "uçmak"
     ],
     "🎱": [
         "8",
@@ -13708,9 +16119,10 @@
     "🧩": [
         "biri-birine birleşýän",
         "bölek",
-        "kelledöwer",
+        "düzülýän tapmaça",
         "maslahat",
-        "tapmaça"
+        "tapmaça",
+        "tapmaça bölegi"
     ],
     "🧸": [
         "doldurylan",
@@ -13826,6 +16238,12 @@
         "lukman",
         "tejribe"
     ],
+    "🦺": [
+        "adatdan daşary ýagdaý",
+        "gursakça",
+        "halas ediş gursakçasy",
+        "howpsuzlyk"
+    ],
     "👔": [
         "boýunbagy",
         "egin-eşik"
@@ -13865,6 +16283,28 @@
     "👘": [
         "egin-eşik",
         "kimono"
+    ],
+    "🥻": [
+        "geýim",
+        "köýnek",
+        "sari"
+    ],
+    "🩱": [
+        "bitewi kupalnik",
+        "suwa düşülýän geýim"
+    ],
+    "🩲": [
+        "bitewi",
+        "gysga türsük",
+        "içki geýim",
+        "suwa düşülýän geýim",
+        "ýüzülýän geýim"
+    ],
+    "🩳": [
+        "içki geýim",
+        "jalbar",
+        "suwa düşülýän geýimler",
+        "şorty"
     ],
     "👙": [
         "bikini",
@@ -13944,6 +16384,11 @@
         "köwüş",
         "zenan",
         "şypbyk"
+    ],
+    "🩰": [
+        "balet",
+        "balet köwşi",
+        "tans"
     ],
     "👢": [
         "aýal ädigi",
@@ -14132,6 +16577,11 @@
         "aýdym-saz",
         "instrument",
         "skripka"
+    ],
+    "🪕": [
+        "banjo",
+        "kirişli",
+        "saz"
     ],
     "🥁": [
         "aýdym-saz",
@@ -14329,6 +16779,12 @@
         "gyzyl hytaý fonarjygy",
         "taýak",
         "yşyk"
+    ],
+    "🪔": [
+        "diýa",
+        "diýa çyrasy",
+        "çyra",
+        "ýag"
     ],
     "📔": [
         "bezelen",
@@ -14795,6 +17251,13 @@
         "gural",
         "çekiç"
     ],
+    "🪓": [
+        "böl",
+        "kiçi palta",
+        "palta",
+        "tagta",
+        "çap"
+    ],
     "⛏️": [
         "gazyp alyş",
         "gural",
@@ -14876,6 +17339,11 @@
         "täleýnama",
         "ölçeg terezisi"
     ],
+    "🦯": [
+        "elýeterlilik",
+        "kör",
+        "kör hasasy"
+    ],
     "🔗": [
         "bag"
     ],
@@ -14948,11 +17416,27 @@
         "sanjym",
         "şpris"
     ],
+    "🩸": [
+        "gan damjasy",
+        "gan tabşyrmak",
+        "lukmançylyk",
+        "menstruasiýa"
+    ],
     "💊": [
         "gerdejik",
         "hassa",
         "lukman",
         "lukmançylyk"
+    ],
+    "🩹": [
+        "sarag",
+        "ýelmeşiji plastyr"
+    ],
+    "🩺": [
+        "lukman",
+        "lukmançylyk",
+        "stetoskop",
+        "ýürek"
     ],
     "🚪": [
         "gapy"
@@ -14968,6 +17452,11 @@
         "myhmanhana",
         "çyra"
     ],
+    "🪑": [
+        "otur",
+        "oturgyç",
+        "oturylýan ýer"
+    ],
     "🚽": [
         "hajathana"
     ],
@@ -14978,6 +17467,11 @@
     "🛁": [
         "duş",
         "wanna"
+    ],
+    "🪒": [
+        "päki",
+        "sakal syr",
+        "ýiti"
     ],
     "🧴": [
         "günden goraýjy",
@@ -15692,60 +18186,78 @@
     ],
     "⭕️": [
         "goýy uly halka",
+        "gyzyl",
         "halka",
-        "o"
+        "o",
+        "uly"
     ],
     "✅": [
         "ak goýy uly bellijek",
         "barlag",
-        "bellijek"
+        "bellik",
+        "düwme",
+        "✓"
     ],
     "☑️": [
         "barlag",
+        "barlag bellikli barlag gutusy",
         "barlag bellikli býulleten gutusy",
-        "býulleten",
-        "guty"
+        "guty",
+        "✓"
     ],
     "✔️": [
         "barlag",
-        "bellijek",
-        "goýy uly bellijek"
+        "bellik",
+        "goýy uly bellijek",
+        "✓"
     ],
     "✖️": [
-        "bellijek",
+        "alamat",
         "bes et",
         "goýy köpeltmek belgisi x",
         "köpelt",
         "köpeltmek",
-        "x"
+        "x",
+        "×"
     ],
     "❌": [
+        "alamat",
         "atanak",
-        "bellijek",
+        "atanak alamaty",
         "bes et",
         "köpelt",
         "köpeltmek",
-        "x"
+        "x",
+        "×"
     ],
     "❎": [
         "atanak düwmesi",
-        "bellijek",
-        "inedördül"
+        "bellik",
+        "inedördül",
+        "x",
+        "×"
     ],
     "➕": [
+        "+",
+        "belgi",
         "goýy goşmak belgisi",
         "goşmak",
         "matematika"
     ],
     "➖": [
+        "-",
+        "alamat",
         "aýyrmak",
         "goýy aýyrmak belgisi",
-        "matematika"
+        "matematika",
+        "−"
     ],
     "➗": [
+        "alamat",
         "bölmek",
         "goýy bölmek belgisi",
-        "matematika"
+        "matematika",
+        "÷"
     ],
     "➰": [
         "buýra",
@@ -15764,11 +18276,14 @@
         "bölek çalşyk belgisi"
     ],
     "✳️": [
+        "*",
         "bellijek",
-        "ýyldyzjyk"
+        "sekiz uçly ýyldyz",
+        "ýyldyz"
     ],
     "✴️": [
         "sekiz tikenli ýyldyzjyk",
+        "sekiz uçly ýyldyz",
         "ýyldyz"
     ],
     "❇️": [
@@ -15777,25 +18292,28 @@
     "‼️": [
         "belgi",
         "bum-bum",
-        "dyngy",
         "goşa ýüzlenme belgisi",
         "ýüzlenme"
     ],
     "⁉️": [
+        "!",
+        "!?",
+        "?",
         "belgi",
         "dyngy",
         "sorag",
-        "soragly ýüzlenme",
         "ýüzlenme",
         "ýüzlenme sorag belgisi"
     ],
     "❓️": [
+        "?",
         "belgi",
         "dyngy",
         "sorag",
         "sorag belgisi"
     ],
     "❔": [
+        "?",
         "ak sorag belgisi",
         "belgi",
         "dyngy",
@@ -15810,6 +18328,7 @@
         "ýüzlenme"
     ],
     "❗️": [
+        "!",
         "belgi",
         "dyngy",
         "ýüzlenme",
@@ -16121,11 +18640,36 @@
         "gyzyl halka",
         "halka"
     ],
+    "🟠": [
+        "narynç",
+        "narynç tegelek",
+        "tegelek"
+    ],
+    "🟡": [
+        "sary",
+        "sary tegelek",
+        "tegelek"
+    ],
+    "🟢": [
+        "tegelek",
+        "ýaşyl",
+        "ýaşyl tegelek"
+    ],
     "🔵": [
         "geometrik",
         "gök",
         "gök halka",
         "halka"
+    ],
+    "🟣": [
+        "melewşe",
+        "melewşe tegelek",
+        "tegelek"
+    ],
+    "🟤": [
+        "goňur",
+        "goňur tegelek",
+        "tegelek"
     ],
     "⚫️": [
         "gara halka",
@@ -16136,6 +18680,41 @@
         "ak halka",
         "geometrik",
         "halka"
+    ],
+    "🟥": [
+        "gyzyl",
+        "gyzyl inedördül",
+        "inedördül"
+    ],
+    "🟧": [
+        "inedördül",
+        "narynç",
+        "narynç inedördül"
+    ],
+    "🟨": [
+        "inedördül",
+        "sary",
+        "sary inedördül"
+    ],
+    "🟩": [
+        "inedördül",
+        "ýaşyl",
+        "ýaşyl inedördül"
+    ],
+    "🟦": [
+        "gök",
+        "gök inedördül",
+        "inedördül"
+    ],
+    "🟪": [
+        "inedördül",
+        "melewşe",
+        "melewşe inedördül"
+    ],
+    "🟫": [
+        "goňur",
+        "goňur inedördül",
+        "inedördül"
     ],
     "⬛️": [
         "gara uly inedördül",
@@ -16347,7 +18926,7 @@
     ],
     "🇧🇧": [
         "baýdak",
-        "baýdak: Barbadow"
+        "baýdak: Barbados"
     ],
     "🇧🇩": [
         "baýdak",
@@ -16395,7 +18974,7 @@
     ],
     "🇧🇶": [
         "baýdak",
-        "baýdak: Karib Niderlandy"
+        "baýdak: Karib Niderlandlary"
     ],
     "🇧🇷": [
         "baýdak",
@@ -16439,7 +19018,7 @@
     ],
     "🇨🇫": [
         "baýdak",
-        "baýdak: Orta Afrika Respublikasy"
+        "baýdak: Merkezi Afrika Respublikasy"
     ],
     "🇨🇬": [
         "baýdak",
@@ -16571,7 +19150,7 @@
     ],
     "🇫🇮": [
         "baýdak",
-        "baýdak: Finlandiýa"
+        "baýdak: Finlýandiýa"
     ],
     "🇫🇯": [
         "baýdak",
@@ -16719,7 +19298,7 @@
     ],
     "🇮🇴": [
         "baýdak",
-        "baýdak: Britaniýanyň Hint okeanyndaky territoriýalary"
+        "baýdak: Britaniýanyň Hindi okeanyndaky territoriýalary"
     ],
     "🇮🇶": [
         "baýdak",
@@ -16771,7 +19350,7 @@
     ],
     "🇰🇲": [
         "baýdak",
-        "baýdak: Komor Adalary"
+        "baýdak: Komor adalary"
     ],
     "🇰🇳": [
         "baýdak",
@@ -16959,7 +19538,7 @@
     ],
     "🇳🇱": [
         "baýdak",
-        "baýdak: Niderlandiýa"
+        "baýdak: Niderlandlar"
     ],
     "🇳🇴": [
         "baýdak",
@@ -17075,7 +19654,7 @@
     ],
     "🇸🇨": [
         "baýdak",
-        "baýdak: Seýşel Adalary"
+        "baýdak: Seýşel adalary"
     ],
     "🇸🇩": [
         "baýdak",
@@ -17304,6 +19883,18 @@
     "🇿🇼": [
         "baýdak",
         "baýdak: Zimbabwe"
+    ],
+    "🏴󠁧󠁢󠁥󠁮󠁧󠁿": [
+        "baýdak",
+        "baýdak: Angliýa"
+    ],
+    "🏴󠁧󠁢󠁳󠁣󠁴󠁿": [
+        "baýdak",
+        "baýdak: Şotlandiýa"
+    ],
+    "🏴󠁧󠁢󠁷󠁬󠁳󠁿": [
+        "baýdak",
+        "baýdak: Uels"
     ],
     "🏻": [
         "açyk deri reňki",

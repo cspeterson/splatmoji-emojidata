@@ -559,6 +559,13 @@
         "unavená tvár",
         "únava"
     ],
+    "🥱": [
+        "unavený",
+        "unudený",
+        "znudený",
+        "zívajúca tvár",
+        "zívať"
+    ],
     "😤": [
         "triumf",
         "tvár",
@@ -671,7 +678,7 @@
         "tvár",
         "úsmev",
         "ústa",
-        "škeriaca sa mačacia tvár"
+        "škeriaca sa mačka"
     ],
     "😸": [
         "mačka",
@@ -680,7 +687,7 @@
         "úsmev",
         "úškrn",
         "úškľabok",
-        "škeriaca sa mačacia tvár s prižmúrenými očami"
+        "škeriaca sa mačka s prižmúrenými očami"
     ],
     "😹": [
         "mačka",
@@ -693,22 +700,22 @@
         "láska",
         "mačka",
         "oko",
-        "smejúca sa mačacia tvár so srdiečkami",
+        "smejúca sa mačka so srdiečkami",
         "srdce",
         "tvár",
         "úsmev"
     ],
     "😼": [
         "ironická",
-        "mačacia tvár s úškľabkom",
         "mačka",
+        "mačka s úškľabkom",
         "tvár",
         "uštipačná",
         "úsmev"
     ],
     "😽": [
         "bozk",
-        "bozkávajúca mačacia tvár",
+        "bozkávajúca mačka",
         "mačka",
         "oko",
         "tvár"
@@ -718,19 +725,20 @@
         "prekvapená",
         "tvár",
         "ustatá",
-        "vyčerpaná mačacia tvár"
+        "vyčerpaná mačka"
     ],
     "😿": [
         "mačka",
         "plač",
-        "plačúca mačacia tvár",
+        "plačúca mačka",
         "slza",
         "smutná",
         "tvár"
     ],
     "😾": [
         "mačka",
-        "podráždená mačacia tvár",
+        "podráždená",
+        "podráždená mačka",
         "trucujúca",
         "tvár"
     ],
@@ -830,7 +838,8 @@
         "srdce",
         "výkričník",
         "výkričník v tvare srdca",
-        "znak"
+        "znak",
+        "zvolanie"
     ],
     "💔": [
         "srdce",
@@ -867,12 +876,22 @@
         "fialové srdce",
         "srdce"
     ],
+    "🤎": [
+        "hnedé",
+        "hnedé srdce",
+        "srdce"
+    ],
     "🖤": [
         "podlosť",
         "srdce",
         "zlo",
         "čierne",
         "čierne srdce"
+    ],
+    "🤍": [
+        "biele",
+        "biele srdce",
+        "srdce"
     ],
     "💯": [
         "100",
@@ -1214,6 +1233,52 @@
         "tmavý tón pleti",
         "výborne",
         "výborne: tmavý tón pleti"
+    ],
+    "🤏": [
+        "malé množstvo",
+        "málo",
+        "trocha",
+        "troška"
+    ],
+    "🤏🏻": [
+        "malé množstvo",
+        "málo",
+        "málo: svetlý tón pleti",
+        "svetlý tón pleti",
+        "trocha",
+        "troška"
+    ],
+    "🤏🏼": [
+        "malé množstvo",
+        "málo",
+        "málo: stredne svetlý tón pleti",
+        "stredne svetlý tón pleti",
+        "trocha",
+        "troška"
+    ],
+    "🤏🏽": [
+        "malé množstvo",
+        "málo",
+        "málo: stredný tón pleti",
+        "stredný tón pleti",
+        "trocha",
+        "troška"
+    ],
+    "🤏🏾": [
+        "malé množstvo",
+        "málo",
+        "málo: stredne tmavý tón pleti",
+        "stredne tmavý tón pleti",
+        "trocha",
+        "troška"
+    ],
+    "🤏🏿": [
+        "malé množstvo",
+        "málo",
+        "málo: tmavý tón pleti",
+        "tmavý tón pleti",
+        "trocha",
+        "troška"
     ],
     "✌️": [
         "ruka",
@@ -2482,6 +2547,26 @@
         "telo",
         "tmavý tón pleti"
     ],
+    "🦾": [
+        "handicap",
+        "hendikep",
+        "invalidné",
+        "mechanická paža",
+        "pomôcka",
+        "postihnutie",
+        "protéza",
+        "uľahčenie"
+    ],
+    "🦿": [
+        "handicap",
+        "hendikep",
+        "invalidné",
+        "mechanická noha",
+        "pomôcka",
+        "postihnutie",
+        "protéza",
+        "uľahčenie"
+    ],
     "🦵": [
         "kopať",
         "kopnúť",
@@ -2595,6 +2680,76 @@
         "tmavý tón pleti",
         "ucho",
         "ucho: tmavý tón pleti"
+    ],
+    "🦻": [
+        "handicap",
+        "hendikep",
+        "načúvadlo",
+        "nedoslýchavosť",
+        "pomôcka",
+        "postihnutie",
+        "ucho s načúvadlom",
+        "uľahčenie"
+    ],
+    "🦻🏻": [
+        "handicap",
+        "hendikep",
+        "načúvadlo",
+        "nedoslýchavosť",
+        "pomôcka",
+        "postihnutie",
+        "svetlý tón pleti",
+        "ucho s načúvadlom",
+        "ucho s načúvadlom: svetlý tón pleti",
+        "uľahčenie"
+    ],
+    "🦻🏼": [
+        "handicap",
+        "hendikep",
+        "načúvadlo",
+        "nedoslýchavosť",
+        "pomôcka",
+        "postihnutie",
+        "stredne svetlý tón pleti",
+        "ucho s načúvadlom",
+        "ucho s načúvadlom: stredne svetlý tón pleti",
+        "uľahčenie"
+    ],
+    "🦻🏽": [
+        "handicap",
+        "hendikep",
+        "načúvadlo",
+        "nedoslýchavosť",
+        "pomôcka",
+        "postihnutie",
+        "stredný tón pleti",
+        "ucho s načúvadlom",
+        "ucho s načúvadlom: stredný tón pleti",
+        "uľahčenie"
+    ],
+    "🦻🏾": [
+        "handicap",
+        "hendikep",
+        "načúvadlo",
+        "nedoslýchavosť",
+        "pomôcka",
+        "postihnutie",
+        "stredne tmavý tón pleti",
+        "ucho s načúvadlom",
+        "ucho s načúvadlom: stredne tmavý tón pleti",
+        "uľahčenie"
+    ],
+    "🦻🏿": [
+        "handicap",
+        "hendikep",
+        "načúvadlo",
+        "nedoslýchavosť",
+        "pomôcka",
+        "postihnutie",
+        "tmavý tón pleti",
+        "ucho s načúvadlom",
+        "ucho s načúvadlom: tmavý tón pleti",
+        "uľahčenie"
     ],
     "👃": [
         "nos",
@@ -2895,12 +3050,14 @@
     "🧔": [
         "brada",
         "bradáč",
+        "fúzatý",
         "fúzy"
     ],
     "🧔🏻": [
         "brada",
         "bradáč",
         "bradáč: svetlý tón pleti",
+        "fúzatý",
         "fúzy",
         "svetlý tón pleti"
     ],
@@ -2908,6 +3065,7 @@
         "brada",
         "bradáč",
         "bradáč: stredne svetlý tón pleti",
+        "fúzatý",
         "fúzy",
         "stredne svetlý tón pleti"
     ],
@@ -2915,6 +3073,7 @@
         "brada",
         "bradáč",
         "bradáč: stredný tón pleti",
+        "fúzatý",
         "fúzy",
         "stredný tón pleti"
     ],
@@ -2922,6 +3081,7 @@
         "brada",
         "bradáč",
         "bradáč: stredne tmavý tón pleti",
+        "fúzatý",
         "fúzy",
         "stredne tmavý tón pleti"
     ],
@@ -2929,6 +3089,7 @@
         "brada",
         "bradáč",
         "bradáč: tmavý tón pleti",
+        "fúzatý",
         "fúzy",
         "tmavý tón pleti"
     ],
@@ -4305,6 +4466,194 @@
         "žena",
         "žena so zdvihnutou rukou",
         "žena so zdvihnutou rukou: tmavý tón pleti"
+    ],
+    "🧏": [
+        "handicap",
+        "hendikep",
+        "hluchota",
+        "nedoslýchavosť",
+        "nepočujúci človek",
+        "postihnutie",
+        "sluch",
+        "ucho"
+    ],
+    "🧏🏻": [
+        "handicap",
+        "hendikep",
+        "hluchota",
+        "nedoslýchavosť",
+        "nepočujúci človek",
+        "nepočujúci človek: svetlý tón pleti",
+        "postihnutie",
+        "sluch",
+        "svetlý tón pleti",
+        "ucho"
+    ],
+    "🧏🏼": [
+        "handicap",
+        "hendikep",
+        "hluchota",
+        "nedoslýchavosť",
+        "nepočujúci človek",
+        "nepočujúci človek: stredne svetlý tón pleti",
+        "postihnutie",
+        "sluch",
+        "stredne svetlý tón pleti",
+        "ucho"
+    ],
+    "🧏🏽": [
+        "handicap",
+        "hendikep",
+        "hluchota",
+        "nedoslýchavosť",
+        "nepočujúci človek",
+        "nepočujúci človek: stredný tón pleti",
+        "postihnutie",
+        "sluch",
+        "stredný tón pleti",
+        "ucho"
+    ],
+    "🧏🏾": [
+        "handicap",
+        "hendikep",
+        "hluchota",
+        "nedoslýchavosť",
+        "nepočujúci človek",
+        "nepočujúci človek: stredne tmavý tón pleti",
+        "postihnutie",
+        "sluch",
+        "stredne tmavý tón pleti",
+        "ucho"
+    ],
+    "🧏🏿": [
+        "handicap",
+        "hendikep",
+        "hluchota",
+        "nedoslýchavosť",
+        "nepočujúci človek",
+        "nepočujúci človek: tmavý tón pleti",
+        "postihnutie",
+        "sluch",
+        "tmavý tón pleti",
+        "ucho"
+    ],
+    "🧏‍♂": [
+        "hluchota",
+        "hluchý",
+        "muž",
+        "nedoslýchavosť",
+        "nedoslýchavý",
+        "nepočujúci",
+        "nepočujúci muž"
+    ],
+    "🧏🏻‍♂": [
+        "hluchota",
+        "hluchý",
+        "muž",
+        "nedoslýchavosť",
+        "nedoslýchavý",
+        "nepočujúci",
+        "nepočujúci muž: svetlý tón pleti",
+        "svetlý tón pleti"
+    ],
+    "🧏🏼‍♂": [
+        "hluchota",
+        "hluchý",
+        "muž",
+        "nedoslýchavosť",
+        "nedoslýchavý",
+        "nepočujúci",
+        "nepočujúci muž: stredne svetlý tón pleti",
+        "stredne svetlý tón pleti"
+    ],
+    "🧏🏽‍♂": [
+        "hluchota",
+        "hluchý",
+        "muž",
+        "nedoslýchavosť",
+        "nedoslýchavý",
+        "nepočujúci",
+        "nepočujúci muž: stredný tón pleti",
+        "stredný tón pleti"
+    ],
+    "🧏🏾‍♂": [
+        "hluchota",
+        "hluchý",
+        "muž",
+        "nedoslýchavosť",
+        "nedoslýchavý",
+        "nepočujúci",
+        "nepočujúci muž: stredne tmavý tón pleti",
+        "stredne tmavý tón pleti"
+    ],
+    "🧏🏿‍♂": [
+        "hluchota",
+        "hluchý",
+        "muž",
+        "nedoslýchavosť",
+        "nedoslýchavý",
+        "nepočujúci",
+        "nepočujúci muž: tmavý tón pleti",
+        "tmavý tón pleti"
+    ],
+    "🧏‍♀": [
+        "hluchota",
+        "hluchá",
+        "nedoslýchavosť",
+        "nedoslýchavá",
+        "nepočujúca",
+        "nepočujúca žena",
+        "žena"
+    ],
+    "🧏🏻‍♀": [
+        "hluchota",
+        "hluchá",
+        "nedoslýchavosť",
+        "nedoslýchavá",
+        "nepočujúca",
+        "nepočujúca žena: svetlý tón pleti",
+        "svetlý tón pleti",
+        "žena"
+    ],
+    "🧏🏼‍♀": [
+        "hluchota",
+        "hluchá",
+        "nedoslýchavosť",
+        "nedoslýchavá",
+        "nepočujúca",
+        "nepočujúca žena: stredne svetlý tón pleti",
+        "stredne svetlý tón pleti",
+        "žena"
+    ],
+    "🧏🏽‍♀": [
+        "hluchota",
+        "hluchá",
+        "nedoslýchavosť",
+        "nedoslýchavá",
+        "nepočujúca",
+        "nepočujúca žena: stredný tón pleti",
+        "stredný tón pleti",
+        "žena"
+    ],
+    "🧏🏾‍♀": [
+        "hluchota",
+        "hluchá",
+        "nedoslýchavosť",
+        "nedoslýchavá",
+        "nepočujúca",
+        "nepočujúca žena: stredne tmavý tón pleti",
+        "stredne tmavý tón pleti",
+        "žena"
+    ],
+    "🧏🏿‍♀": [
+        "hluchota",
+        "hluchá",
+        "nedoslýchavosť",
+        "nedoslýchavá",
+        "nepočujúca",
+        "nepočujúca žena: tmavý tón pleti",
+        "tmavý tón pleti",
+        "žena"
     ],
     "🙇": [
         "gesto",
@@ -8800,6 +9149,724 @@
         "tmavý tón pleti",
         "žena"
     ],
+    "🧍": [
+        "postoj",
+        "stojaci človek",
+        "státie",
+        "stáť"
+    ],
+    "🧍🏻": [
+        "postoj",
+        "stojaci človek",
+        "stojaci človek: svetlý tón pleti",
+        "státie",
+        "stáť",
+        "svetlý tón pleti"
+    ],
+    "🧍🏼": [
+        "postoj",
+        "stojaci človek",
+        "stojaci človek: stredne svetlý tón pleti",
+        "stredne svetlý tón pleti",
+        "státie",
+        "stáť"
+    ],
+    "🧍🏽": [
+        "postoj",
+        "stojaci človek",
+        "stojaci človek: stredný tón pleti",
+        "stredný tón pleti",
+        "státie",
+        "stáť"
+    ],
+    "🧍🏾": [
+        "postoj",
+        "stojaci človek",
+        "stojaci človek: stredne tmavý tón pleti",
+        "stredne tmavý tón pleti",
+        "státie",
+        "stáť"
+    ],
+    "🧍🏿": [
+        "postoj",
+        "stojaci človek",
+        "stojaci človek: tmavý tón pleti",
+        "státie",
+        "stáť",
+        "tmavý tón pleti"
+    ],
+    "🧍‍♂": [
+        "muž",
+        "postoj",
+        "stojaci",
+        "stojaci muž",
+        "státie"
+    ],
+    "🧍🏻‍♂": [
+        "muž",
+        "postoj",
+        "stojaci",
+        "stojaci muž: svetlý tón pleti",
+        "státie",
+        "svetlý tón pleti"
+    ],
+    "🧍🏼‍♂": [
+        "muž",
+        "postoj",
+        "stojaci",
+        "stojaci muž: stredne svetlý tón pleti",
+        "stredne svetlý tón pleti",
+        "státie"
+    ],
+    "🧍🏽‍♂": [
+        "muž",
+        "postoj",
+        "stojaci",
+        "stojaci muž: stredný tón pleti",
+        "stredný tón pleti",
+        "státie"
+    ],
+    "🧍🏾‍♂": [
+        "muž",
+        "postoj",
+        "stojaci",
+        "stojaci muž: stredne tmavý tón pleti",
+        "stredne tmavý tón pleti",
+        "státie"
+    ],
+    "🧍🏿‍♂": [
+        "muž",
+        "postoj",
+        "stojaci",
+        "stojaci muž: tmavý tón pleti",
+        "státie",
+        "tmavý tón pleti"
+    ],
+    "🧍‍♀": [
+        "postoj",
+        "stojaca",
+        "stojaca žena",
+        "státie",
+        "žena"
+    ],
+    "🧍🏻‍♀": [
+        "postoj",
+        "stojaca",
+        "stojaca žena: svetlý tón pleti",
+        "státie",
+        "svetlý tón pleti",
+        "žena"
+    ],
+    "🧍🏼‍♀": [
+        "postoj",
+        "stojaca",
+        "stojaca žena: stredne svetlý tón pleti",
+        "stredne svetlý tón pleti",
+        "státie",
+        "žena"
+    ],
+    "🧍🏽‍♀": [
+        "postoj",
+        "stojaca",
+        "stojaca žena: stredný tón pleti",
+        "stredný tón pleti",
+        "státie",
+        "žena"
+    ],
+    "🧍🏾‍♀": [
+        "postoj",
+        "stojaca",
+        "stojaca žena: stredne tmavý tón pleti",
+        "stredne tmavý tón pleti",
+        "státie",
+        "žena"
+    ],
+    "🧍🏿‍♀": [
+        "postoj",
+        "stojaca",
+        "stojaca žena: tmavý tón pleti",
+        "státie",
+        "tmavý tón pleti",
+        "žena"
+    ],
+    "🧎": [
+        "kľak",
+        "kľačanie",
+        "kľačať",
+        "kľačiaci človek",
+        "pokľak"
+    ],
+    "🧎🏻": [
+        "kľak",
+        "kľačanie",
+        "kľačať",
+        "kľačiaci človek",
+        "kľačiaci človek: svetlý tón pleti",
+        "pokľak",
+        "svetlý tón pleti"
+    ],
+    "🧎🏼": [
+        "kľak",
+        "kľačanie",
+        "kľačať",
+        "kľačiaci človek",
+        "kľačiaci človek: stredne svetlý tón pleti",
+        "pokľak",
+        "stredne svetlý tón pleti"
+    ],
+    "🧎🏽": [
+        "kľak",
+        "kľačanie",
+        "kľačať",
+        "kľačiaci človek",
+        "kľačiaci človek: stredný tón pleti",
+        "pokľak",
+        "stredný tón pleti"
+    ],
+    "🧎🏾": [
+        "kľak",
+        "kľačanie",
+        "kľačať",
+        "kľačiaci človek",
+        "kľačiaci človek: stredne tmavý tón pleti",
+        "pokľak",
+        "stredne tmavý tón pleti"
+    ],
+    "🧎🏿": [
+        "kľak",
+        "kľačanie",
+        "kľačať",
+        "kľačiaci človek",
+        "kľačiaci človek: tmavý tón pleti",
+        "pokľak",
+        "tmavý tón pleti"
+    ],
+    "🧎‍♂": [
+        "kľak",
+        "kľačať",
+        "kľačiaci",
+        "kľačiaci muž",
+        "muž",
+        "pokľak"
+    ],
+    "🧎🏻‍♂": [
+        "kľak",
+        "kľačať",
+        "kľačiaci",
+        "kľačiaci muž: svetlý tón pleti",
+        "muž",
+        "pokľak",
+        "svetlý tón pleti"
+    ],
+    "🧎🏼‍♂": [
+        "kľak",
+        "kľačať",
+        "kľačiaci",
+        "kľačiaci muž: stredne svetlý tón pleti",
+        "muž",
+        "pokľak",
+        "stredne svetlý tón pleti"
+    ],
+    "🧎🏽‍♂": [
+        "kľak",
+        "kľačať",
+        "kľačiaci",
+        "kľačiaci muž: stredný tón pleti",
+        "muž",
+        "pokľak",
+        "stredný tón pleti"
+    ],
+    "🧎🏾‍♂": [
+        "kľak",
+        "kľačať",
+        "kľačiaci",
+        "kľačiaci muž: stredne tmavý tón pleti",
+        "muž",
+        "pokľak",
+        "stredne tmavý tón pleti"
+    ],
+    "🧎🏿‍♂": [
+        "kľak",
+        "kľačať",
+        "kľačiaci",
+        "kľačiaci muž: tmavý tón pleti",
+        "muž",
+        "pokľak",
+        "tmavý tón pleti"
+    ],
+    "🧎‍♀": [
+        "kľak",
+        "kľačať",
+        "kľačiaca",
+        "kľačiaca žena",
+        "pokľak",
+        "žena"
+    ],
+    "🧎🏻‍♀": [
+        "kľak",
+        "kľačať",
+        "kľačiaca",
+        "kľačiaca žena: svetlý tón pleti",
+        "pokľak",
+        "svetlý tón pleti",
+        "žena"
+    ],
+    "🧎🏼‍♀": [
+        "kľak",
+        "kľačať",
+        "kľačiaca",
+        "kľačiaca žena: stredne svetlý tón pleti",
+        "pokľak",
+        "stredne svetlý tón pleti",
+        "žena"
+    ],
+    "🧎🏽‍♀": [
+        "kľak",
+        "kľačať",
+        "kľačiaca",
+        "kľačiaca žena: stredný tón pleti",
+        "pokľak",
+        "stredný tón pleti",
+        "žena"
+    ],
+    "🧎🏾‍♀": [
+        "kľak",
+        "kľačať",
+        "kľačiaca",
+        "kľačiaca žena: stredne tmavý tón pleti",
+        "pokľak",
+        "stredne tmavý tón pleti",
+        "žena"
+    ],
+    "🧎🏿‍♀": [
+        "kľak",
+        "kľačať",
+        "kľačiaca",
+        "kľačiaca žena: tmavý tón pleti",
+        "pokľak",
+        "tmavý tón pleti",
+        "žena"
+    ],
+    "👨‍🦯": [
+        "handicap",
+        "hendikep",
+        "muž",
+        "muž so slepeckou palicou",
+        "pomôcka",
+        "postihnutie",
+        "slepý",
+        "uľahčenie"
+    ],
+    "👨🏻‍🦯": [
+        "handicap",
+        "hendikep",
+        "muž",
+        "muž so slepeckou palicou",
+        "muž so slepeckou palicou: svetlý tón pleti",
+        "pomôcka",
+        "postihnutie",
+        "slepý",
+        "svetlý tón pleti",
+        "uľahčenie"
+    ],
+    "👨🏼‍🦯": [
+        "handicap",
+        "hendikep",
+        "muž",
+        "muž so slepeckou palicou",
+        "muž so slepeckou palicou: stredne svetlý tón pleti",
+        "pomôcka",
+        "postihnutie",
+        "slepý",
+        "stredne svetlý tón pleti",
+        "uľahčenie"
+    ],
+    "👨🏽‍🦯": [
+        "handicap",
+        "hendikep",
+        "muž",
+        "muž so slepeckou palicou",
+        "muž so slepeckou palicou: stredný tón pleti",
+        "pomôcka",
+        "postihnutie",
+        "slepý",
+        "stredný tón pleti",
+        "uľahčenie"
+    ],
+    "👨🏾‍🦯": [
+        "handicap",
+        "hendikep",
+        "muž",
+        "muž so slepeckou palicou",
+        "muž so slepeckou palicou: stredne tmavý tón pleti",
+        "pomôcka",
+        "postihnutie",
+        "slepý",
+        "stredne tmavý tón pleti",
+        "uľahčenie"
+    ],
+    "👨🏿‍🦯": [
+        "handicap",
+        "hendikep",
+        "muž",
+        "muž so slepeckou palicou",
+        "muž so slepeckou palicou: tmavý tón pleti",
+        "pomôcka",
+        "postihnutie",
+        "slepý",
+        "tmavý tón pleti",
+        "uľahčenie"
+    ],
+    "👩‍🦯": [
+        "handicap",
+        "hendikep",
+        "pomôcka",
+        "postihnutie",
+        "slepá",
+        "uľahčenie",
+        "žena",
+        "žena so slepeckou palicou"
+    ],
+    "👩🏻‍🦯": [
+        "handicap",
+        "hendikep",
+        "pomôcka",
+        "postihnutie",
+        "slepá",
+        "svetlý tón pleti",
+        "uľahčenie",
+        "žena",
+        "žena so slepeckou palicou",
+        "žena so slepeckou palicou: svetlý tón pleti"
+    ],
+    "👩🏼‍🦯": [
+        "handicap",
+        "hendikep",
+        "pomôcka",
+        "postihnutie",
+        "slepá",
+        "stredne svetlý tón pleti",
+        "uľahčenie",
+        "žena",
+        "žena so slepeckou palicou",
+        "žena so slepeckou palicou: stredne svetlý tón pleti"
+    ],
+    "👩🏽‍🦯": [
+        "handicap",
+        "hendikep",
+        "pomôcka",
+        "postihnutie",
+        "slepá",
+        "stredný tón pleti",
+        "uľahčenie",
+        "žena",
+        "žena so slepeckou palicou",
+        "žena so slepeckou palicou: stredný tón pleti"
+    ],
+    "👩🏾‍🦯": [
+        "handicap",
+        "hendikep",
+        "pomôcka",
+        "postihnutie",
+        "slepá",
+        "stredne tmavý tón pleti",
+        "uľahčenie",
+        "žena",
+        "žena so slepeckou palicou",
+        "žena so slepeckou palicou: stredne tmavý tón pleti"
+    ],
+    "👩🏿‍🦯": [
+        "handicap",
+        "hendikep",
+        "pomôcka",
+        "postihnutie",
+        "slepá",
+        "tmavý tón pleti",
+        "uľahčenie",
+        "žena",
+        "žena so slepeckou palicou",
+        "žena so slepeckou palicou: tmavý tón pleti"
+    ],
+    "👨‍🦼": [
+        "handicap",
+        "hendikep",
+        "invalidný",
+        "muž",
+        "muž na elektrickom invalidnom vozíku",
+        "pomôcka",
+        "postihnutie",
+        "vozík"
+    ],
+    "👨🏻‍🦼": [
+        "handicap",
+        "hendikep",
+        "invalidný",
+        "muž",
+        "muž na elektrickom invalidnom vozíku",
+        "muž na elektrickom invalidnom vozíku: svetlý tón pleti",
+        "pomôcka",
+        "postihnutie",
+        "svetlý tón pleti",
+        "vozík"
+    ],
+    "👨🏼‍🦼": [
+        "handicap",
+        "hendikep",
+        "invalidný",
+        "muž",
+        "muž na elektrickom invalidnom vozíku",
+        "muž na elektrickom invalidnom vozíku: stredne svetlý tón pleti",
+        "pomôcka",
+        "postihnutie",
+        "stredne svetlý tón pleti",
+        "vozík"
+    ],
+    "👨🏽‍🦼": [
+        "handicap",
+        "hendikep",
+        "invalidný",
+        "muž",
+        "muž na elektrickom invalidnom vozíku",
+        "muž na elektrickom invalidnom vozíku: stredný tón pleti",
+        "pomôcka",
+        "postihnutie",
+        "stredný tón pleti",
+        "vozík"
+    ],
+    "👨🏾‍🦼": [
+        "handicap",
+        "hendikep",
+        "invalidný",
+        "muž",
+        "muž na elektrickom invalidnom vozíku",
+        "muž na elektrickom invalidnom vozíku: stredne tmavý tón pleti",
+        "pomôcka",
+        "postihnutie",
+        "stredne tmavý tón pleti",
+        "vozík"
+    ],
+    "👨🏿‍🦼": [
+        "handicap",
+        "hendikep",
+        "invalidný",
+        "muž",
+        "muž na elektrickom invalidnom vozíku",
+        "muž na elektrickom invalidnom vozíku: tmavý tón pleti",
+        "pomôcka",
+        "postihnutie",
+        "tmavý tón pleti",
+        "vozík"
+    ],
+    "👩‍🦼": [
+        "handicap",
+        "hendikep",
+        "invalidný",
+        "pomôcka",
+        "postihnutie",
+        "vozík",
+        "žena",
+        "žena na elektrickom invalidnom vozíku"
+    ],
+    "👩🏻‍🦼": [
+        "handicap",
+        "hendikep",
+        "invalidný",
+        "pomôcka",
+        "postihnutie",
+        "svetlý tón pleti",
+        "vozík",
+        "žena",
+        "žena na elektrickom invalidnom vozíku",
+        "žena na elektrickom invalidnom vozíku: svetlý tón pleti"
+    ],
+    "👩🏼‍🦼": [
+        "handicap",
+        "hendikep",
+        "invalidný",
+        "pomôcka",
+        "postihnutie",
+        "stredne svetlý tón pleti",
+        "vozík",
+        "žena",
+        "žena na elektrickom invalidnom vozíku",
+        "žena na elektrickom invalidnom vozíku: stredne svetlý tón pleti"
+    ],
+    "👩🏽‍🦼": [
+        "handicap",
+        "hendikep",
+        "invalidný",
+        "pomôcka",
+        "postihnutie",
+        "stredný tón pleti",
+        "vozík",
+        "žena",
+        "žena na elektrickom invalidnom vozíku",
+        "žena na elektrickom invalidnom vozíku: stredný tón pleti"
+    ],
+    "👩🏾‍🦼": [
+        "handicap",
+        "hendikep",
+        "invalidný",
+        "pomôcka",
+        "postihnutie",
+        "stredne tmavý tón pleti",
+        "vozík",
+        "žena",
+        "žena na elektrickom invalidnom vozíku",
+        "žena na elektrickom invalidnom vozíku: stredne tmavý tón pleti"
+    ],
+    "👩🏿‍🦼": [
+        "handicap",
+        "hendikep",
+        "invalidný",
+        "pomôcka",
+        "postihnutie",
+        "tmavý tón pleti",
+        "vozík",
+        "žena",
+        "žena na elektrickom invalidnom vozíku",
+        "žena na elektrickom invalidnom vozíku: tmavý tón pleti"
+    ],
+    "👨‍🦽": [
+        "handicap",
+        "hendikep",
+        "invalidný",
+        "muž",
+        "muž na mechanickom invalidnom vozíku",
+        "pomôcka",
+        "postihnutie",
+        "vozík"
+    ],
+    "👨🏻‍🦽": [
+        "handicap",
+        "hendikep",
+        "invalidný",
+        "muž",
+        "muž na mechanickom invalidnom vozíku",
+        "muž na mechanickom invalidnom vozíku: svetlý tón pleti",
+        "pomôcka",
+        "postihnutie",
+        "svetlý tón pleti",
+        "vozík"
+    ],
+    "👨🏼‍🦽": [
+        "handicap",
+        "hendikep",
+        "invalidný",
+        "muž",
+        "muž na mechanickom invalidnom vozíku",
+        "muž na mechanickom invalidnom vozíku: stredne svetlý tón pleti",
+        "pomôcka",
+        "postihnutie",
+        "stredne svetlý tón pleti",
+        "vozík"
+    ],
+    "👨🏽‍🦽": [
+        "handicap",
+        "hendikep",
+        "invalidný",
+        "muž",
+        "muž na mechanickom invalidnom vozíku",
+        "muž na mechanickom invalidnom vozíku: stredný tón pleti",
+        "pomôcka",
+        "postihnutie",
+        "stredný tón pleti",
+        "vozík"
+    ],
+    "👨🏾‍🦽": [
+        "handicap",
+        "hendikep",
+        "invalidný",
+        "muž",
+        "muž na mechanickom invalidnom vozíku",
+        "muž na mechanickom invalidnom vozíku: stredne tmavý tón pleti",
+        "pomôcka",
+        "postihnutie",
+        "stredne tmavý tón pleti",
+        "vozík"
+    ],
+    "👨🏿‍🦽": [
+        "handicap",
+        "hendikep",
+        "invalidný",
+        "muž",
+        "muž na mechanickom invalidnom vozíku",
+        "muž na mechanickom invalidnom vozíku: tmavý tón pleti",
+        "pomôcka",
+        "postihnutie",
+        "tmavý tón pleti",
+        "vozík"
+    ],
+    "👩‍🦽": [
+        "handicap",
+        "hendikep",
+        "invalidný",
+        "pomôcka",
+        "postihnutie",
+        "vozík",
+        "žena",
+        "žena na mechanickom invalidnom vozíku"
+    ],
+    "👩🏻‍🦽": [
+        "handicap",
+        "hendikep",
+        "invalidný",
+        "pomôcka",
+        "postihnutie",
+        "svetlý tón pleti",
+        "vozík",
+        "žena",
+        "žena na mechanickom invalidnom vozíku",
+        "žena na mechanickom invalidnom vozíku: svetlý tón pleti"
+    ],
+    "👩🏼‍🦽": [
+        "handicap",
+        "hendikep",
+        "invalidný",
+        "pomôcka",
+        "postihnutie",
+        "stredne svetlý tón pleti",
+        "vozík",
+        "žena",
+        "žena na mechanickom invalidnom vozíku",
+        "žena na mechanickom invalidnom vozíku: stredne svetlý tón pleti"
+    ],
+    "👩🏽‍🦽": [
+        "handicap",
+        "hendikep",
+        "invalidný",
+        "pomôcka",
+        "postihnutie",
+        "stredný tón pleti",
+        "vozík",
+        "žena",
+        "žena na mechanickom invalidnom vozíku",
+        "žena na mechanickom invalidnom vozíku: stredný tón pleti"
+    ],
+    "👩🏾‍🦽": [
+        "handicap",
+        "hendikep",
+        "invalidný",
+        "pomôcka",
+        "postihnutie",
+        "stredne tmavý tón pleti",
+        "vozík",
+        "žena",
+        "žena na mechanickom invalidnom vozíku",
+        "žena na mechanickom invalidnom vozíku: stredne tmavý tón pleti"
+    ],
+    "👩🏿‍🦽": [
+        "handicap",
+        "hendikep",
+        "invalidný",
+        "pomôcka",
+        "postihnutie",
+        "tmavý tón pleti",
+        "vozík",
+        "žena",
+        "žena na mechanickom invalidnom vozíku",
+        "žena na mechanickom invalidnom vozíku: tmavý tón pleti"
+    ],
     "🏃": [
         "beh",
         "bežiaci človek",
@@ -11268,29 +12335,771 @@
         "človek v posteli",
         "človek v posteli: tmavý tón pleti"
     ],
-    "👭": [
+    "🧑‍🤝‍🧑": [
         "držať",
-        "dve ženy držiace sa za ruky",
         "pár",
         "ruka",
-        "žena"
+        "človek",
+        "ľudia držiaci sa za ruky"
+    ],
+    "🧑🏻‍🤝‍🧑🏻": [
+        "držať",
+        "pár",
+        "ruka",
+        "svetlý tón pleti",
+        "človek",
+        "ľudia držiaci sa za ruky",
+        "ľudia držiaci sa za ruky: svetlý tón pleti"
+    ],
+    "🧑🏼‍🤝‍🧑🏻": [
+        "držať",
+        "pár",
+        "ruka",
+        "stredne svetlý tón pleti",
+        "svetlý tón pleti",
+        "človek",
+        "ľudia držiaci sa za ruky",
+        "ľudia držiaci sa za ruky: stredne svetlý tón pleti, svetlý tón pleti"
+    ],
+    "🧑🏼‍🤝‍🧑🏼": [
+        "držať",
+        "pár",
+        "ruka",
+        "stredne svetlý tón pleti",
+        "človek",
+        "ľudia držiaci sa za ruky",
+        "ľudia držiaci sa za ruky: stredne svetlý tón pleti"
+    ],
+    "🧑🏽‍🤝‍🧑🏻": [
+        "držať",
+        "pár",
+        "ruka",
+        "stredný tón pleti",
+        "svetlý tón pleti",
+        "človek",
+        "ľudia držiaci sa za ruky",
+        "ľudia držiaci sa za ruky: stredný tón pleti, svetlý tón pleti"
+    ],
+    "🧑🏽‍🤝‍🧑🏼": [
+        "držať",
+        "pár",
+        "ruka",
+        "stredne svetlý tón pleti",
+        "stredný tón pleti",
+        "človek",
+        "ľudia držiaci sa za ruky",
+        "ľudia držiaci sa za ruky: stredný tón pleti, stredne svetlý tón pleti"
+    ],
+    "🧑🏽‍🤝‍🧑🏽": [
+        "držať",
+        "pár",
+        "ruka",
+        "stredný tón pleti",
+        "človek",
+        "ľudia držiaci sa za ruky",
+        "ľudia držiaci sa za ruky: stredný tón pleti"
+    ],
+    "🧑🏾‍🤝‍🧑🏻": [
+        "držať",
+        "pár",
+        "ruka",
+        "stredne tmavý tón pleti",
+        "svetlý tón pleti",
+        "človek",
+        "ľudia držiaci sa za ruky",
+        "ľudia držiaci sa za ruky: stredne tmavý tón pleti, svetlý tón pleti"
+    ],
+    "🧑🏾‍🤝‍🧑🏼": [
+        "držať",
+        "pár",
+        "ruka",
+        "stredne svetlý tón pleti",
+        "stredne tmavý tón pleti",
+        "človek",
+        "ľudia držiaci sa za ruky",
+        "ľudia držiaci sa za ruky: stredne tmavý tón pleti, stredne svetlý tón pleti"
+    ],
+    "🧑🏾‍🤝‍🧑🏽": [
+        "držať",
+        "pár",
+        "ruka",
+        "stredne tmavý tón pleti",
+        "stredný tón pleti",
+        "človek",
+        "ľudia držiaci sa za ruky",
+        "ľudia držiaci sa za ruky: stredne tmavý tón pleti, stredný tón pleti"
+    ],
+    "🧑🏾‍🤝‍🧑🏾": [
+        "držať",
+        "pár",
+        "ruka",
+        "stredne tmavý tón pleti",
+        "človek",
+        "ľudia držiaci sa za ruky",
+        "ľudia držiaci sa za ruky: stredne tmavý tón pleti"
+    ],
+    "🧑🏿‍🤝‍🧑🏻": [
+        "držať",
+        "pár",
+        "ruka",
+        "svetlý tón pleti",
+        "tmavý tón pleti",
+        "človek",
+        "ľudia držiaci sa za ruky",
+        "ľudia držiaci sa za ruky: tmavý tón pleti, svetlý tón pleti"
+    ],
+    "🧑🏿‍🤝‍🧑🏼": [
+        "držať",
+        "pár",
+        "ruka",
+        "stredne svetlý tón pleti",
+        "tmavý tón pleti",
+        "človek",
+        "ľudia držiaci sa za ruky",
+        "ľudia držiaci sa za ruky: tmavý tón pleti, stredne svetlý tón pleti"
+    ],
+    "🧑🏿‍🤝‍🧑🏽": [
+        "držať",
+        "pár",
+        "ruka",
+        "stredný tón pleti",
+        "tmavý tón pleti",
+        "človek",
+        "ľudia držiaci sa za ruky",
+        "ľudia držiaci sa za ruky: tmavý tón pleti, stredný tón pleti"
+    ],
+    "🧑🏿‍🤝‍🧑🏾": [
+        "držať",
+        "pár",
+        "ruka",
+        "stredne tmavý tón pleti",
+        "tmavý tón pleti",
+        "človek",
+        "ľudia držiaci sa za ruky",
+        "ľudia držiaci sa za ruky: tmavý tón pleti, stredne tmavý tón pleti"
+    ],
+    "🧑🏿‍🤝‍🧑🏿": [
+        "držať",
+        "pár",
+        "ruka",
+        "tmavý tón pleti",
+        "človek",
+        "ľudia držiaci sa za ruky",
+        "ľudia držiaci sa za ruky: tmavý tón pleti"
+    ],
+    "👭": [
+        "držať",
+        "pár",
+        "ruka",
+        "žena",
+        "ženy držiace sa za ruky"
+    ],
+    "👭🏻": [
+        "držať",
+        "pár",
+        "ruka",
+        "svetlý tón pleti",
+        "žena",
+        "ženy držiace sa za ruky",
+        "ženy držiace sa za ruky: svetlý tón pleti"
+    ],
+    "👩🏼‍🤝‍👩🏻": [
+        "držať",
+        "pár",
+        "ruka",
+        "stredne svetlý tón pleti",
+        "svetlý tón pleti",
+        "žena",
+        "ženy držiace sa za ruky",
+        "ženy držiace sa za ruky: stredne svetlý tón pleti, svetlý tón pleti"
+    ],
+    "👭🏼": [
+        "držať",
+        "pár",
+        "ruka",
+        "stredne svetlý tón pleti",
+        "žena",
+        "ženy držiace sa za ruky",
+        "ženy držiace sa za ruky: stredne svetlý tón pleti"
+    ],
+    "👩🏽‍🤝‍👩🏻": [
+        "držať",
+        "pár",
+        "ruka",
+        "stredný tón pleti",
+        "svetlý tón pleti",
+        "žena",
+        "ženy držiace sa za ruky",
+        "ženy držiace sa za ruky: stredný tón pleti, svetlý tón pleti"
+    ],
+    "👩🏽‍🤝‍👩🏼": [
+        "držať",
+        "pár",
+        "ruka",
+        "stredne svetlý tón pleti",
+        "stredný tón pleti",
+        "žena",
+        "ženy držiace sa za ruky",
+        "ženy držiace sa za ruky: stredný tón pleti, stredne svetlý tón pleti"
+    ],
+    "👭🏽": [
+        "držať",
+        "pár",
+        "ruka",
+        "stredný tón pleti",
+        "žena",
+        "ženy držiace sa za ruky",
+        "ženy držiace sa za ruky: stredný tón pleti"
+    ],
+    "👩🏾‍🤝‍👩🏻": [
+        "držať",
+        "pár",
+        "ruka",
+        "stredne tmavý tón pleti",
+        "svetlý tón pleti",
+        "žena",
+        "ženy držiace sa za ruky",
+        "ženy držiace sa za ruky: stredne tmavý tón pleti, svetlý tón pleti"
+    ],
+    "👩🏾‍🤝‍👩🏼": [
+        "držať",
+        "pár",
+        "ruka",
+        "stredne svetlý tón pleti",
+        "stredne tmavý tón pleti",
+        "žena",
+        "ženy držiace sa za ruky",
+        "ženy držiace sa za ruky: stredne tmavý tón pleti, stredne svetlý tón pleti"
+    ],
+    "👩🏾‍🤝‍👩🏽": [
+        "držať",
+        "pár",
+        "ruka",
+        "stredne tmavý tón pleti",
+        "stredný tón pleti",
+        "žena",
+        "ženy držiace sa za ruky",
+        "ženy držiace sa za ruky: stredne tmavý tón pleti, stredný tón pleti"
+    ],
+    "👭🏾": [
+        "držať",
+        "pár",
+        "ruka",
+        "stredne tmavý tón pleti",
+        "žena",
+        "ženy držiace sa za ruky",
+        "ženy držiace sa za ruky: stredne tmavý tón pleti"
+    ],
+    "👩🏿‍🤝‍👩🏻": [
+        "držať",
+        "pár",
+        "ruka",
+        "svetlý tón pleti",
+        "tmavý tón pleti",
+        "žena",
+        "ženy držiace sa za ruky",
+        "ženy držiace sa za ruky: tmavý tón pleti, svetlý tón pleti"
+    ],
+    "👩🏿‍🤝‍👩🏼": [
+        "držať",
+        "pár",
+        "ruka",
+        "stredne svetlý tón pleti",
+        "tmavý tón pleti",
+        "žena",
+        "ženy držiace sa za ruky",
+        "ženy držiace sa za ruky: tmavý tón pleti, stredne svetlý tón pleti"
+    ],
+    "👩🏿‍🤝‍👩🏽": [
+        "držať",
+        "pár",
+        "ruka",
+        "stredný tón pleti",
+        "tmavý tón pleti",
+        "žena",
+        "ženy držiace sa za ruky",
+        "ženy držiace sa za ruky: tmavý tón pleti, stredný tón pleti"
+    ],
+    "👩🏿‍🤝‍👩🏾": [
+        "držať",
+        "pár",
+        "ruka",
+        "stredne tmavý tón pleti",
+        "tmavý tón pleti",
+        "žena",
+        "ženy držiace sa za ruky",
+        "ženy držiace sa za ruky: tmavý tón pleti, stredne tmavý tón pleti"
+    ],
+    "👭🏿": [
+        "držať",
+        "pár",
+        "ruka",
+        "tmavý tón pleti",
+        "žena",
+        "ženy držiace sa za ruky",
+        "ženy držiace sa za ruky: tmavý tón pleti"
     ],
     "👫": [
         "držať",
         "muž",
-        "muž a žena držiaci sa za ruky",
         "pár",
         "ruka",
-        "žena"
+        "žena",
+        "žena a muž držiaci sa za ruky"
+    ],
+    "👫🏻": [
+        "držať",
+        "muž",
+        "pár",
+        "ruka",
+        "svetlý tón pleti",
+        "žena",
+        "žena a muž držiaci sa za ruky",
+        "žena a muž držiaci sa za ruky: svetlý tón pleti"
+    ],
+    "👩🏻‍🤝‍👨🏼": [
+        "držať",
+        "muž",
+        "pár",
+        "ruka",
+        "stredne svetlý tón pleti",
+        "svetlý tón pleti",
+        "žena",
+        "žena a muž držiaci sa za ruky",
+        "žena a muž držiaci sa za ruky: svetlý tón pleti, stredne svetlý tón pleti"
+    ],
+    "👩🏻‍🤝‍👨🏽": [
+        "držať",
+        "muž",
+        "pár",
+        "ruka",
+        "stredný tón pleti",
+        "svetlý tón pleti",
+        "žena",
+        "žena a muž držiaci sa za ruky",
+        "žena a muž držiaci sa za ruky: svetlý tón pleti, stredný tón pleti"
+    ],
+    "👩🏻‍🤝‍👨🏾": [
+        "držať",
+        "muž",
+        "pár",
+        "ruka",
+        "stredne tmavý tón pleti",
+        "svetlý tón pleti",
+        "žena",
+        "žena a muž držiaci sa za ruky",
+        "žena a muž držiaci sa za ruky: svetlý tón pleti, stredne tmavý tón pleti"
+    ],
+    "👩🏻‍🤝‍👨🏿": [
+        "držať",
+        "muž",
+        "pár",
+        "ruka",
+        "svetlý tón pleti",
+        "tmavý tón pleti",
+        "žena",
+        "žena a muž držiaci sa za ruky",
+        "žena a muž držiaci sa za ruky: svetlý tón pleti, tmavý tón pleti"
+    ],
+    "👩🏼‍🤝‍👨🏻": [
+        "držať",
+        "muž",
+        "pár",
+        "ruka",
+        "stredne svetlý tón pleti",
+        "svetlý tón pleti",
+        "žena",
+        "žena a muž držiaci sa za ruky",
+        "žena a muž držiaci sa za ruky: stredne svetlý tón pleti, svetlý tón pleti"
+    ],
+    "👫🏼": [
+        "držať",
+        "muž",
+        "pár",
+        "ruka",
+        "stredne svetlý tón pleti",
+        "žena",
+        "žena a muž držiaci sa za ruky",
+        "žena a muž držiaci sa za ruky: stredne svetlý tón pleti"
+    ],
+    "👩🏼‍🤝‍👨🏽": [
+        "držať",
+        "muž",
+        "pár",
+        "ruka",
+        "stredne svetlý tón pleti",
+        "stredný tón pleti",
+        "žena",
+        "žena a muž držiaci sa za ruky",
+        "žena a muž držiaci sa za ruky: stredne svetlý tón pleti, stredný tón pleti"
+    ],
+    "👩🏼‍🤝‍👨🏾": [
+        "držať",
+        "muž",
+        "pár",
+        "ruka",
+        "stredne svetlý tón pleti",
+        "stredne tmavý tón pleti",
+        "žena",
+        "žena a muž držiaci sa za ruky",
+        "žena a muž držiaci sa za ruky: stredne svetlý tón pleti, stredne tmavý tón pleti"
+    ],
+    "👩🏼‍🤝‍👨🏿": [
+        "držať",
+        "muž",
+        "pár",
+        "ruka",
+        "stredne svetlý tón pleti",
+        "tmavý tón pleti",
+        "žena",
+        "žena a muž držiaci sa za ruky",
+        "žena a muž držiaci sa za ruky: stredne svetlý tón pleti, tmavý tón pleti"
+    ],
+    "👩🏽‍🤝‍👨🏻": [
+        "držať",
+        "muž",
+        "pár",
+        "ruka",
+        "stredný tón pleti",
+        "svetlý tón pleti",
+        "žena",
+        "žena a muž držiaci sa za ruky",
+        "žena a muž držiaci sa za ruky: stredný tón pleti, svetlý tón pleti"
+    ],
+    "👩🏽‍🤝‍👨🏼": [
+        "držať",
+        "muž",
+        "pár",
+        "ruka",
+        "stredne svetlý tón pleti",
+        "stredný tón pleti",
+        "žena",
+        "žena a muž držiaci sa za ruky",
+        "žena a muž držiaci sa za ruky: stredný tón pleti, stredne svetlý tón pleti"
+    ],
+    "👫🏽": [
+        "držať",
+        "muž",
+        "pár",
+        "ruka",
+        "stredný tón pleti",
+        "žena",
+        "žena a muž držiaci sa za ruky",
+        "žena a muž držiaci sa za ruky: stredný tón pleti"
+    ],
+    "👩🏽‍🤝‍👨🏾": [
+        "držať",
+        "muž",
+        "pár",
+        "ruka",
+        "stredne tmavý tón pleti",
+        "stredný tón pleti",
+        "žena",
+        "žena a muž držiaci sa za ruky",
+        "žena a muž držiaci sa za ruky: stredný tón pleti, stredne tmavý tón pleti"
+    ],
+    "👩🏽‍🤝‍👨🏿": [
+        "držať",
+        "muž",
+        "pár",
+        "ruka",
+        "stredný tón pleti",
+        "tmavý tón pleti",
+        "žena",
+        "žena a muž držiaci sa za ruky",
+        "žena a muž držiaci sa za ruky: stredný tón pleti, tmavý tón pleti"
+    ],
+    "👩🏾‍🤝‍👨🏻": [
+        "držať",
+        "muž",
+        "pár",
+        "ruka",
+        "stredne tmavý tón pleti",
+        "svetlý tón pleti",
+        "žena",
+        "žena a muž držiaci sa za ruky",
+        "žena a muž držiaci sa za ruky: stredne tmavý tón pleti, svetlý tón pleti"
+    ],
+    "👩🏾‍🤝‍👨🏼": [
+        "držať",
+        "muž",
+        "pár",
+        "ruka",
+        "stredne svetlý tón pleti",
+        "stredne tmavý tón pleti",
+        "žena",
+        "žena a muž držiaci sa za ruky",
+        "žena a muž držiaci sa za ruky: stredne tmavý tón pleti, stredne svetlý tón pleti"
+    ],
+    "👩🏾‍🤝‍👨🏽": [
+        "držať",
+        "muž",
+        "pár",
+        "ruka",
+        "stredne tmavý tón pleti",
+        "stredný tón pleti",
+        "žena",
+        "žena a muž držiaci sa za ruky",
+        "žena a muž držiaci sa za ruky: stredne tmavý tón pleti, stredný tón pleti"
+    ],
+    "👫🏾": [
+        "držať",
+        "muž",
+        "pár",
+        "ruka",
+        "stredne tmavý tón pleti",
+        "žena",
+        "žena a muž držiaci sa za ruky",
+        "žena a muž držiaci sa za ruky: stredne tmavý tón pleti"
+    ],
+    "👩🏾‍🤝‍👨🏿": [
+        "držať",
+        "muž",
+        "pár",
+        "ruka",
+        "stredne tmavý tón pleti",
+        "tmavý tón pleti",
+        "žena",
+        "žena a muž držiaci sa za ruky",
+        "žena a muž držiaci sa za ruky: stredne tmavý tón pleti, tmavý tón pleti"
+    ],
+    "👩🏿‍🤝‍👨🏻": [
+        "držať",
+        "muž",
+        "pár",
+        "ruka",
+        "svetlý tón pleti",
+        "tmavý tón pleti",
+        "žena",
+        "žena a muž držiaci sa za ruky",
+        "žena a muž držiaci sa za ruky: tmavý tón pleti, svetlý tón pleti"
+    ],
+    "👩🏿‍🤝‍👨🏼": [
+        "držať",
+        "muž",
+        "pár",
+        "ruka",
+        "stredne svetlý tón pleti",
+        "tmavý tón pleti",
+        "žena",
+        "žena a muž držiaci sa za ruky",
+        "žena a muž držiaci sa za ruky: tmavý tón pleti, stredne svetlý tón pleti"
+    ],
+    "👩🏿‍🤝‍👨🏽": [
+        "držať",
+        "muž",
+        "pár",
+        "ruka",
+        "stredný tón pleti",
+        "tmavý tón pleti",
+        "žena",
+        "žena a muž držiaci sa za ruky",
+        "žena a muž držiaci sa za ruky: tmavý tón pleti, stredný tón pleti"
+    ],
+    "👩🏿‍🤝‍👨🏾": [
+        "držať",
+        "muž",
+        "pár",
+        "ruka",
+        "stredne tmavý tón pleti",
+        "tmavý tón pleti",
+        "žena",
+        "žena a muž držiaci sa za ruky",
+        "žena a muž držiaci sa za ruky: tmavý tón pleti, stredne tmavý tón pleti"
+    ],
+    "👫🏿": [
+        "držať",
+        "muž",
+        "pár",
+        "ruka",
+        "tmavý tón pleti",
+        "žena",
+        "žena a muž držiaci sa za ruky",
+        "žena a muž držiaci sa za ruky: tmavý tón pleti"
     ],
     "👬": [
         "blíženci",
         "držať",
-        "dvaja muži držiaci sa za ruky",
         "dvojičky",
         "muž",
+        "muži držiaci sa za ruky",
         "pár",
         "ruka"
+    ],
+    "👬🏻": [
+        "blíženci",
+        "držať",
+        "dvojičky",
+        "muž",
+        "muži držiaci sa za ruky",
+        "muži držiaci sa za ruky: svetlý tón pleti",
+        "pár",
+        "ruka",
+        "svetlý tón pleti"
+    ],
+    "👨🏼‍🤝‍👨🏻": [
+        "blíženci",
+        "držať",
+        "dvojičky",
+        "muž",
+        "muži držiaci sa za ruky",
+        "muži držiaci sa za ruky: stredne svetlý tón pleti, svetlý tón pleti",
+        "pár",
+        "ruka",
+        "stredne svetlý tón pleti",
+        "svetlý tón pleti"
+    ],
+    "👬🏼": [
+        "blíženci",
+        "držať",
+        "dvojičky",
+        "muž",
+        "muži držiaci sa za ruky",
+        "muži držiaci sa za ruky: stredne svetlý tón pleti",
+        "pár",
+        "ruka",
+        "stredne svetlý tón pleti"
+    ],
+    "👨🏽‍🤝‍👨🏻": [
+        "blíženci",
+        "držať",
+        "dvojičky",
+        "muž",
+        "muži držiaci sa za ruky",
+        "muži držiaci sa za ruky: stredný tón pleti, svetlý tón pleti",
+        "pár",
+        "ruka",
+        "stredný tón pleti",
+        "svetlý tón pleti"
+    ],
+    "👨🏽‍🤝‍👨🏼": [
+        "blíženci",
+        "držať",
+        "dvojičky",
+        "muž",
+        "muži držiaci sa za ruky",
+        "muži držiaci sa za ruky: stredný tón pleti, stredne svetlý tón pleti",
+        "pár",
+        "ruka",
+        "stredne svetlý tón pleti",
+        "stredný tón pleti"
+    ],
+    "👬🏽": [
+        "blíženci",
+        "držať",
+        "dvojičky",
+        "muž",
+        "muži držiaci sa za ruky",
+        "muži držiaci sa za ruky: stredný tón pleti",
+        "pár",
+        "ruka",
+        "stredný tón pleti"
+    ],
+    "👨🏾‍🤝‍👨🏻": [
+        "blíženci",
+        "držať",
+        "dvojičky",
+        "muž",
+        "muži držiaci sa za ruky",
+        "muži držiaci sa za ruky: stredne tmavý tón pleti, svetlý tón pleti",
+        "pár",
+        "ruka",
+        "stredne tmavý tón pleti",
+        "svetlý tón pleti"
+    ],
+    "👨🏾‍🤝‍👨🏼": [
+        "blíženci",
+        "držať",
+        "dvojičky",
+        "muž",
+        "muži držiaci sa za ruky",
+        "muži držiaci sa za ruky: stredne tmavý tón pleti, stredne svetlý tón pleti",
+        "pár",
+        "ruka",
+        "stredne svetlý tón pleti",
+        "stredne tmavý tón pleti"
+    ],
+    "👨🏾‍🤝‍👨🏽": [
+        "blíženci",
+        "držať",
+        "dvojičky",
+        "muž",
+        "muži držiaci sa za ruky",
+        "muži držiaci sa za ruky: stredne tmavý tón pleti, stredný tón pleti",
+        "pár",
+        "ruka",
+        "stredne tmavý tón pleti",
+        "stredný tón pleti"
+    ],
+    "👬🏾": [
+        "blíženci",
+        "držať",
+        "dvojičky",
+        "muž",
+        "muži držiaci sa za ruky",
+        "muži držiaci sa za ruky: stredne tmavý tón pleti",
+        "pár",
+        "ruka",
+        "stredne tmavý tón pleti"
+    ],
+    "👨🏿‍🤝‍👨🏻": [
+        "blíženci",
+        "držať",
+        "dvojičky",
+        "muž",
+        "muži držiaci sa za ruky",
+        "muži držiaci sa za ruky: tmavý tón pleti, svetlý tón pleti",
+        "pár",
+        "ruka",
+        "svetlý tón pleti",
+        "tmavý tón pleti"
+    ],
+    "👨🏿‍🤝‍👨🏼": [
+        "blíženci",
+        "držať",
+        "dvojičky",
+        "muž",
+        "muži držiaci sa za ruky",
+        "muži držiaci sa za ruky: tmavý tón pleti, stredne svetlý tón pleti",
+        "pár",
+        "ruka",
+        "stredne svetlý tón pleti",
+        "tmavý tón pleti"
+    ],
+    "👨🏿‍🤝‍👨🏽": [
+        "blíženci",
+        "držať",
+        "dvojičky",
+        "muž",
+        "muži držiaci sa za ruky",
+        "muži držiaci sa za ruky: tmavý tón pleti, stredný tón pleti",
+        "pár",
+        "ruka",
+        "stredný tón pleti",
+        "tmavý tón pleti"
+    ],
+    "👨🏿‍🤝‍👨🏾": [
+        "blíženci",
+        "držať",
+        "dvojičky",
+        "muž",
+        "muži držiaci sa za ruky",
+        "muži držiaci sa za ruky: tmavý tón pleti, stredne tmavý tón pleti",
+        "pár",
+        "ruka",
+        "stredne tmavý tón pleti",
+        "tmavý tón pleti"
+    ],
+    "👬🏿": [
+        "blíženci",
+        "držať",
+        "dvojičky",
+        "muž",
+        "muži držiaci sa za ruky",
+        "muži držiaci sa za ruky: tmavý tón pleti",
+        "pár",
+        "ruka",
+        "tmavý tón pleti"
     ],
     "💏": [
         "bozk",
@@ -11655,6 +13464,11 @@
         "gorila",
         "opica"
     ],
+    "🦧": [
+        "orangutan",
+        "ľudoop",
+        "ľudoopica"
+    ],
     "🐶": [
         "hlava",
         "hlava psa",
@@ -11665,18 +13479,30 @@
         "pes",
         "zviera"
     ],
+    "🦮": [
+        "asistencia",
+        "slepecký pes",
+        "sprievodca",
+        "vodiaci pes",
+        "zrakové postihnutie"
+    ],
+    "🐕‍🦺": [
+        "asistencia",
+        "pes",
+        "pomoc",
+        "služba",
+        "služobný pes"
+    ],
     "🐩": [
         "pes",
         "pudel"
     ],
     "🐺": [
         "hlava",
-        "hlava vlka",
         "vlk"
     ],
     "🦊": [
         "hlava",
-        "hlava líšky",
         "líška"
     ],
     "🦝": [
@@ -11698,7 +13524,6 @@
     ],
     "🦁": [
         "hlava",
-        "hlava leva",
         "lev"
     ],
     "🐯": [
@@ -11723,7 +13548,6 @@
     ],
     "🦄": [
         "hlava",
-        "hlava jednorožca",
         "jednorožec"
     ],
     "🦓": [
@@ -11823,7 +13647,6 @@
     ],
     "🐹": [
         "hlava",
-        "hlava škrečka",
         "zviera",
         "škrečok"
     ],
@@ -11853,7 +13676,6 @@
     ],
     "🐻": [
         "hlava",
-        "hlava medveďa",
         "medveď"
     ],
     "🐨": [
@@ -11862,8 +13684,25 @@
     ],
     "🐼": [
         "hlava",
-        "hlava pandy",
         "panda"
+    ],
+    "🦥": [
+        "lenivosť",
+        "lenivý",
+        "leňoch",
+        "pomalý"
+    ],
+    "🦦": [
+        "hravé",
+        "lovec rýb",
+        "loví ryby",
+        "rybolov",
+        "vydra"
+    ],
+    "🦨": [
+        "skunk",
+        "smrad",
+        "smradľavý"
     ],
     "🦘": [
         "Austrália",
@@ -11938,6 +13777,12 @@
         "sova",
         "vták"
     ],
+    "🦩": [
+        "nápadný",
+        "okázalý",
+        "plameniak",
+        "tropický"
+    ],
     "🦚": [
         "nadutý",
         "nafúkaný",
@@ -11952,7 +13797,6 @@
     ],
     "🐸": [
         "hlava",
-        "hlava žaby",
         "žaba"
     ],
     "🐊": [
@@ -12348,6 +14192,20 @@
         "brokolica",
         "kapusta"
     ],
+    "🧄": [
+        "cesnak",
+        "dochutenie",
+        "korenie",
+        "ochutenie",
+        "zelenina"
+    ],
+    "🧅": [
+        "cibuľa",
+        "dochutenie",
+        "korenie",
+        "ochutenie",
+        "zelenina"
+    ],
     "🍄": [
         "hríb",
         "huba"
@@ -12395,6 +14253,15 @@
         "lievance",
         "lievanec",
         "palacinka"
+    ],
+    "🧇": [
+        "forma",
+        "mriežka",
+        "múčnik",
+        "sendvičovač",
+        "vaflovač",
+        "vafľa",
+        "vafľovač"
     ],
     "🧀": [
         "kus syra",
@@ -12460,6 +14327,14 @@
         "kebab",
         "plnené"
     ],
+    "🧆": [
+        "bôby",
+        "cícer",
+        "falafel",
+        "fašírka",
+        "gule",
+        "guličky"
+    ],
     "🥚": [
         "jedlo",
         "vajce"
@@ -12494,6 +14369,12 @@
     "🍿": [
         "popcorn",
         "pukance"
+    ],
+    "🧈": [
+        "maslo",
+        "mliekarenské",
+        "mliekareň",
+        "mliečne"
     ],
     "🧂": [
         "ochutiť",
@@ -12610,6 +14491,11 @@
         "jedlo",
         "kalmár",
         "mäkkýš"
+    ],
+    "🦪": [
+        "perla",
+        "potápanie",
+        "ustrica"
     ],
     "🍦": [
         "dezert",
@@ -12798,6 +14684,26 @@
         "džús",
         "limonáda",
         "pohár so slamkou"
+    ],
+    "🧃": [
+        "džús v krabičke",
+        "krabicový džús",
+        "nápoj v krabičke",
+        "nápojová krabička",
+        "pitie v krabičke"
+    ],
+    "🧉": [
+        "maté",
+        "nápoj",
+        "pitie"
+    ],
+    "🧊": [
+        "chlad",
+        "kocka ľadu",
+        "studený",
+        "ľad",
+        "ľadovec",
+        "ľadová kocka"
     ],
     "🥢": [
         "jedlo",
@@ -13071,6 +14977,13 @@
         "mešita",
         "moslim",
         "náboženstvo"
+    ],
+    "🛕": [
+        "chrám",
+        "hinduista",
+        "hinduistický chrám",
+        "hinduizmus",
+        "svätyňa"
     ],
     "🕍": [
         "budova",
@@ -13365,6 +15278,31 @@
         "motorka",
         "skúter"
     ],
+    "🦽": [
+        "handicap",
+        "hendikep",
+        "invalidita",
+        "invalidný",
+        "mechanický invalidný vozík",
+        "pomôcka",
+        "postihnutie",
+        "uľahčenie"
+    ],
+    "🦼": [
+        "elektrický invalidný vozík",
+        "handicap",
+        "hendikep",
+        "invalidita",
+        "invalidný",
+        "pomôcka",
+        "postihnutie",
+        "uľahčenie"
+    ],
+    "🛺": [
+        "autorikša",
+        "motorikša",
+        "tuk‑tuk"
+    ],
     "🚲️": [
         "bicykel",
         "dopravný prostriedok"
@@ -13504,6 +15442,14 @@
         "prílet",
         "prílet lietadla",
         "prílety"
+    ],
+    "🪂": [
+        "padák",
+        "paragliding",
+        "parašutizmus",
+        "plachtenie",
+        "zoskok s padákom",
+        "závesné lietanie"
     ],
     "💺": [
         "kreslo",
@@ -13929,6 +15875,10 @@
         "tvár",
         "vesmír"
     ],
+    "🪐": [
+        "planéta s prstencom",
+        "saturn"
+    ],
     "⭐️": [
         "biela stredná hviezda",
         "hviezda"
@@ -14142,6 +16092,7 @@
         "výbušnina"
     ],
     "✨": [
+        "*",
         "hviezda",
         "iskra",
         "iskry"
@@ -14400,6 +16351,14 @@
         "ryba",
         "udica"
     ],
+    "🤿": [
+        "okuliare",
+        "potápanie",
+        "potápačská maska",
+        "potápačské okuliare",
+        "šnorchel",
+        "šnorchlovanie"
+    ],
     "🎽": [
         "beh",
         "bežecké tričko",
@@ -14428,6 +16387,21 @@
         "stred",
         "zásah",
         "šípka"
+    ],
+    "🪀": [
+        "cievka",
+        "hračka",
+        "jo-jo",
+        "jojo",
+        "kolísanie"
+    ],
+    "🪁": [
+        "let",
+        "lietanie",
+        "papierový šarkan",
+        "púšťanie",
+        "stúpanie",
+        "vzlietnutie"
     ],
     "🎱": [
         "8",
@@ -14596,6 +16570,14 @@
         "pokus",
         "vedec"
     ],
+    "🦺": [
+        "bezpečnostná vesta",
+        "bezpečnosť",
+        "núdza",
+        "reflexná",
+        "vesta",
+        "výstražná"
+    ],
     "👔": [
         "kravata",
         "oblečenie"
@@ -14634,6 +16616,32 @@
     "👘": [
         "kimono",
         "oblečenie"
+    ],
+    "🥻": [
+        "oblečenie",
+        "odev",
+        "sárí",
+        "šaty"
+    ],
+    "🩱": [
+        "dámske plavky",
+        "jednodielne plavky"
+    ],
+    "🩲": [
+        "bielizeň",
+        "jednodielne",
+        "plavky",
+        "slipy",
+        "spodky"
+    ],
+    "🩳": [
+        "jednodielne",
+        "kraťasy",
+        "krátke nohavice",
+        "plavky",
+        "spodky",
+        "trenírky",
+        "šortky"
     ],
     "👙": [
         "bikini",
@@ -14712,6 +16720,11 @@
         "sandál",
         "topánka",
         "žena"
+    ],
+    "🩰": [
+        "balet",
+        "baletné špice",
+        "tanec"
     ],
     "👢": [
         "dámska čižma",
@@ -14894,6 +16907,13 @@
         "hudba",
         "husle",
         "nástroj"
+    ],
+    "🪕": [
+        "banjo",
+        "bendžo",
+        "hudba",
+        "nástroj",
+        "strunový"
     ],
     "🥁": [
         "bubenícke",
@@ -15087,6 +17107,12 @@
         "svetlo",
         "červené",
         "červený lampión"
+    ],
+    "🪔": [
+        "dija",
+        "indická",
+        "lampa",
+        "olej"
     ],
     "📔": [
         "kniha",
@@ -15541,6 +17567,16 @@
         "kladivo",
         "nástroj"
     ],
+    "🪓": [
+        "drevo",
+        "rúbanie",
+        "rúbať",
+        "sekanie",
+        "sekať",
+        "sekera",
+        "štiepanie",
+        "štiepať"
+    ],
     "⛏️": [
         "dolovanie",
         "krompáč",
@@ -15617,6 +17653,16 @@
         "váženie",
         "zverokruh"
     ],
+    "🦯": [
+        "handicap",
+        "hendikep",
+        "nevidiaci",
+        "pomôcka",
+        "postihnutie",
+        "slepec",
+        "slepecká palica",
+        "slepý"
+    ],
     "🔗": [
         "odkaz",
         "prepojenie",
@@ -15690,11 +17736,33 @@
         "medicína",
         "nástroj"
     ],
+    "🩸": [
+        "darcovstvo",
+        "darovanie",
+        "krv",
+        "kvapka krvi",
+        "lekárstvo",
+        "medicína",
+        "menštruácia"
+    ],
     "💊": [
         "choroba",
         "doktor",
         "medicína",
         "tabletka"
+    ],
+    "🩹": [
+        "leukoplast",
+        "náplasť",
+        "obväz"
+    ],
+    "🩺": [
+        "doktor",
+        "lekár",
+        "lekárstvo",
+        "medicína",
+        "srdce",
+        "stetoskop"
     ],
     "🚪": [
         "dvere"
@@ -15710,6 +17778,12 @@
         "hotel",
         "lampa"
     ],
+    "🪑": [
+        "sedadlo",
+        "sedenie",
+        "sedieť",
+        "stolička"
+    ],
     "🚽": [
         "toaleta",
         "záchod"
@@ -15720,6 +17794,14 @@
     ],
     "🛁": [
         "vaňa"
+    ],
+    "🪒": [
+        "britva",
+        "holenie",
+        "holiace",
+        "holiť",
+        "oholiť",
+        "ostrý"
     ],
     "🧴": [
         "hydratačný krém",
@@ -16400,18 +18482,22 @@
     ],
     "⭕️": [
         "kruh",
-        "o",
-        "veľký hrubý kruh"
+        "prázdny červený kruh",
+        "veľký",
+        "červený"
     ],
     "✅": [
-        "biely znak začiarknutia",
+        "začiarkavacie políčko",
+        "začiarknutie",
         "začiarknuť",
-        "znak"
+        "✓"
     ],
     "☑️": [
-        "políčko",
-        "začiarkavacie",
-        "začiarkavacie políčko"
+        "začiarknutie",
+        "začiarknuté",
+        "začiarknuté políčko",
+        "začiarknuť",
+        "✓"
     ],
     "✔️": [
         "začiarknuť",
@@ -16423,7 +18509,8 @@
         "násobiť",
         "x",
         "znak násobenia",
-        "zrušiť"
+        "zrušiť",
+        "×"
     ],
     "❌": [
         "krížik",
@@ -16431,27 +18518,37 @@
         "násobiť",
         "x",
         "znak",
-        "zrušiť"
+        "zrušiť",
+        "×"
     ],
     "❎": [
         "tlačidlo s krížikom",
+        "x",
         "znak",
+        "×",
         "štvorec"
     ],
     "➕": [
+        "+",
         "matematika",
         "plus",
+        "znak",
         "znak sčítania"
     ],
     "➖": [
+        "-",
         "matematika",
         "mínus",
-        "znak odčítania"
+        "znak",
+        "znak odčítania",
+        "−"
     ],
     "➗": [
         "delenie",
         "matematika",
-        "znak delenia"
+        "znak",
+        "znak delenia",
+        "÷"
     ],
     "➰": [
         "slučka"
@@ -16467,22 +18564,30 @@
         "znak začiatku partu"
     ],
     "✳️": [
+        "*",
         "hviezdička",
+        "osemcípa",
         "osemcípa hviezdička"
     ],
     "✴️": [
+        "*",
         "hviezda",
+        "osemcípa",
         "osemcípa hviezda"
     ],
     "❇️": [
+        "*",
         "iskra",
         "trblietanie"
     ],
     "‼️": [
+        "!",
+        "!!",
         "dvojitý výkričník",
         "interpunkcia",
         "výkričník",
-        "znak"
+        "znak",
+        "zvolanie"
     ],
     "⁉️": [
         "interpunkcia",
@@ -16492,6 +18597,7 @@
         "znak"
     ],
     "❓️": [
+        "?",
         "interpunkcia",
         "otázka",
         "otáznik",
@@ -16512,9 +18618,11 @@
         "znak"
     ],
     "❗️": [
+        "!",
         "interpunkcia",
         "výkričník",
-        "znak"
+        "znak",
+        "zvolanie"
     ],
     "〰️": [
         "interpunkcia",
@@ -16778,11 +18886,46 @@
         "červený",
         "červený kruh"
     ],
+    "🟠": [
+        "koliesko",
+        "kruh",
+        "krúžok",
+        "oranžová",
+        "oranžový kruh"
+    ],
+    "🟡": [
+        "koliesko",
+        "kruh",
+        "krúžok",
+        "žltá",
+        "žltý kruh"
+    ],
+    "🟢": [
+        "koliesko",
+        "kruh",
+        "krúžok",
+        "zelená",
+        "zelený kruh"
+    ],
     "🔵": [
         "geometria",
         "kruh",
         "modrý",
         "modrý kruh"
+    ],
+    "🟣": [
+        "fialová",
+        "fialový kruh",
+        "koliesko",
+        "kruh",
+        "krúžok"
+    ],
+    "🟤": [
+        "hnedá",
+        "hnedý kruh",
+        "koliesko",
+        "kruh",
+        "krúžok"
     ],
     "⚫️": [
         "geometria",
@@ -16793,6 +18936,48 @@
         "biely kruh",
         "geometria",
         "kruh"
+    ],
+    "🟥": [
+        "červená",
+        "červený štvorec",
+        "štvorec",
+        "štvorček"
+    ],
+    "🟧": [
+        "oranžová",
+        "oranžový štvorec",
+        "štvorec",
+        "štvorček"
+    ],
+    "🟨": [
+        "štvorec",
+        "štvorček",
+        "žltá",
+        "žltý štvorec"
+    ],
+    "🟩": [
+        "zelená",
+        "zelený štvorec",
+        "štvorec",
+        "štvorček"
+    ],
+    "🟦": [
+        "modrá",
+        "modrý štvorec",
+        "štvorec",
+        "štvorček"
+    ],
+    "🟪": [
+        "fialová",
+        "fialový štvorec",
+        "štvorec",
+        "štvorček"
+    ],
+    "🟫": [
+        "hnedá",
+        "hnedý štvorec",
+        "štvorec",
+        "štvorček"
     ],
     "⬛️": [
         "geometria",
@@ -17531,7 +19716,7 @@
     ],
     "🇲🇰": [
         "zástava",
-        "zástava: Macedónsko"
+        "zástava: Severné Macedónsko"
     ],
     "🇲🇱": [
         "zástava",

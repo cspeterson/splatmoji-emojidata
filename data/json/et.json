@@ -541,6 +541,13 @@
         "väsinud",
         "väsinud nägu"
     ],
+    "🥱": [
+        "haigutamine",
+        "haigutav nägu",
+        "haigutus",
+        "igav",
+        "väsinud"
+    ],
     "😤": [
         "aur",
         "nina",
@@ -676,7 +683,6 @@
         "roboti nägu"
     ],
     "😺": [
-        "avatud",
         "avatud suuga naeratav kass",
         "kass",
         "lahti",
@@ -686,7 +692,6 @@
     ],
     "😸": [
         "irve",
-        "irvitus",
         "kass",
         "lõbusate silmadega irvitav kass",
         "naeratus",
@@ -709,7 +714,6 @@
         "südamekujuliste silmadega naeratav kass"
     ],
     "😼": [
-        "iroonia",
         "irooniline",
         "kass",
         "naeratus",
@@ -873,11 +877,21 @@
         "lilla süda",
         "süda"
     ],
+    "🤎": [
+        "pruun",
+        "pruun süda",
+        "süda"
+    ],
     "🖤": [
         "kuri",
         "must",
         "must süda",
         "süda"
+    ],
+    "🤍": [
+        "süda",
+        "valge",
+        "valge süda"
     ],
     "💯": [
         "100",
@@ -1225,6 +1239,40 @@
         "keha",
         "käsi",
         "tume nahatoon"
+    ],
+    "🤏": [
+        "pöialt ja nimetissõrme lähestikku hoidev käsi",
+        "väike kogus"
+    ],
+    "🤏🏻": [
+        "hele nahatoon",
+        "pöialt ja nimetissõrme lähestikku hoidev käsi",
+        "pöialt ja nimetissõrme lähestikku hoidev käsi: hele nahatoon",
+        "väike kogus"
+    ],
+    "🤏🏼": [
+        "keskmiselt hele nahatoon",
+        "pöialt ja nimetissõrme lähestikku hoidev käsi",
+        "pöialt ja nimetissõrme lähestikku hoidev käsi: keskmiselt hele nahatoon",
+        "väike kogus"
+    ],
+    "🤏🏽": [
+        "keskmine nahatoon",
+        "pöialt ja nimetissõrme lähestikku hoidev käsi",
+        "pöialt ja nimetissõrme lähestikku hoidev käsi: keskmine nahatoon",
+        "väike kogus"
+    ],
+    "🤏🏾": [
+        "keskmiselt tume nahatoon",
+        "pöialt ja nimetissõrme lähestikku hoidev käsi",
+        "pöialt ja nimetissõrme lähestikku hoidev käsi: keskmiselt tume nahatoon",
+        "väike kogus"
+    ],
+    "🤏🏿": [
+        "pöialt ja nimetissõrme lähestikku hoidev käsi",
+        "pöialt ja nimetissõrme lähestikku hoidev käsi: tume nahatoon",
+        "tume nahatoon",
+        "väike kogus"
     ],
     "✌️": [
         "keha",
@@ -2514,6 +2562,16 @@
         "pingutatud biitseps: tume nahatoon",
         "tume nahatoon"
     ],
+    "🦾": [
+        "ligipääs",
+        "mehaaniline käsi",
+        "protees"
+    ],
+    "🦿": [
+        "ligipääs",
+        "mehaaniline jalg",
+        "protees"
+    ],
     "🦵": [
         "jalalöök",
         "jalg",
@@ -2626,6 +2684,46 @@
         "keha",
         "kõrv",
         "kõrv: tume nahatoon",
+        "tume nahatoon"
+    ],
+    "🦻": [
+        "juurdepääs",
+        "kuuldeaparaadiga kõrv",
+        "kuulmispuue"
+    ],
+    "🦻🏻": [
+        "hele nahatoon",
+        "juurdepääs",
+        "kuuldeaparaadiga kõrv",
+        "kuuldeaparaadiga kõrv: hele nahatoon",
+        "kuulmispuue"
+    ],
+    "🦻🏼": [
+        "juurdepääs",
+        "keskmiselt hele nahatoon",
+        "kuuldeaparaadiga kõrv",
+        "kuuldeaparaadiga kõrv: keskmiselt hele nahatoon",
+        "kuulmispuue"
+    ],
+    "🦻🏽": [
+        "juurdepääs",
+        "keskmine nahatoon",
+        "kuuldeaparaadiga kõrv",
+        "kuuldeaparaadiga kõrv: keskmine nahatoon",
+        "kuulmispuue"
+    ],
+    "🦻🏾": [
+        "juurdepääs",
+        "keskmiselt tume nahatoon",
+        "kuuldeaparaadiga kõrv",
+        "kuuldeaparaadiga kõrv: keskmiselt tume nahatoon",
+        "kuulmispuue"
+    ],
+    "🦻🏿": [
+        "juurdepääs",
+        "kuuldeaparaadiga kõrv",
+        "kuuldeaparaadiga kõrv: tume nahatoon",
+        "kuulmispuue",
         "tume nahatoon"
     ],
     "👃": [
@@ -4375,6 +4473,128 @@
         "tervitus",
         "tume nahatoon",
         "žest"
+    ],
+    "🧏": [
+        "juurdepääs",
+        "kurt",
+        "kurt inimene",
+        "kuulmine",
+        "kõrv"
+    ],
+    "🧏🏻": [
+        "hele nahatoon",
+        "juurdepääs",
+        "kurt",
+        "kurt inimene",
+        "kurt inimene: hele nahatoon",
+        "kuulmine",
+        "kõrv"
+    ],
+    "🧏🏼": [
+        "juurdepääs",
+        "keskmiselt hele nahatoon",
+        "kurt",
+        "kurt inimene",
+        "kurt inimene: keskmiselt hele nahatoon",
+        "kuulmine",
+        "kõrv"
+    ],
+    "🧏🏽": [
+        "juurdepääs",
+        "keskmine nahatoon",
+        "kurt",
+        "kurt inimene",
+        "kurt inimene: keskmine nahatoon",
+        "kuulmine",
+        "kõrv"
+    ],
+    "🧏🏾": [
+        "juurdepääs",
+        "keskmiselt tume nahatoon",
+        "kurt",
+        "kurt inimene",
+        "kurt inimene: keskmiselt tume nahatoon",
+        "kuulmine",
+        "kõrv"
+    ],
+    "🧏🏿": [
+        "juurdepääs",
+        "kurt",
+        "kurt inimene",
+        "kurt inimene: tume nahatoon",
+        "kuulmine",
+        "kõrv",
+        "tume nahatoon"
+    ],
+    "🧏‍♂": [
+        "kurt",
+        "kurt mees",
+        "mees"
+    ],
+    "🧏🏻‍♂": [
+        "hele nahatoon",
+        "kurt",
+        "kurt mees: hele nahatoon",
+        "mees"
+    ],
+    "🧏🏼‍♂": [
+        "keskmiselt hele nahatoon",
+        "kurt",
+        "kurt mees: keskmiselt hele nahatoon",
+        "mees"
+    ],
+    "🧏🏽‍♂": [
+        "keskmine nahatoon",
+        "kurt",
+        "kurt mees: keskmine nahatoon",
+        "mees"
+    ],
+    "🧏🏾‍♂": [
+        "keskmiselt tume nahatoon",
+        "kurt",
+        "kurt mees: keskmiselt tume nahatoon",
+        "mees"
+    ],
+    "🧏🏿‍♂": [
+        "kurt",
+        "kurt mees: tume nahatoon",
+        "mees",
+        "tume nahatoon"
+    ],
+    "🧏‍♀": [
+        "kurt",
+        "kurt naine",
+        "naine"
+    ],
+    "🧏🏻‍♀": [
+        "hele nahatoon",
+        "kurt",
+        "kurt naine: hele nahatoon",
+        "naine"
+    ],
+    "🧏🏼‍♀": [
+        "keskmiselt hele nahatoon",
+        "kurt",
+        "kurt naine: keskmiselt hele nahatoon",
+        "naine"
+    ],
+    "🧏🏽‍♀": [
+        "keskmine nahatoon",
+        "kurt",
+        "kurt naine: keskmine nahatoon",
+        "naine"
+    ],
+    "🧏🏾‍♀": [
+        "keskmiselt tume nahatoon",
+        "kurt",
+        "kurt naine: keskmiselt tume nahatoon",
+        "naine"
+    ],
+    "🧏🏿‍♀": [
+        "kurt",
+        "kurt naine: tume nahatoon",
+        "naine",
+        "tume nahatoon"
     ],
     "🙇": [
         "kummardav inimene",
@@ -8878,6 +9098,552 @@
         "naine",
         "tume nahatoon"
     ],
+    "🧍": [
+        "inimene",
+        "seisev",
+        "seisev inimene",
+        "seismine"
+    ],
+    "🧍🏻": [
+        "hele nahatoon",
+        "inimene",
+        "seisev",
+        "seisev inimene: hele nahatoon",
+        "seismine"
+    ],
+    "🧍🏼": [
+        "inimene",
+        "keskmiselt hele nahatoon",
+        "seisev",
+        "seisev inimene: keskmiselt hele nahatoon",
+        "seismine"
+    ],
+    "🧍🏽": [
+        "inimene",
+        "keskmine nahatoon",
+        "seisev",
+        "seisev inimene: keskmine nahatoon",
+        "seismine"
+    ],
+    "🧍🏾": [
+        "inimene",
+        "keskmiselt tume nahatoon",
+        "seisev",
+        "seisev inimene: keskmiselt tume nahatoon",
+        "seismine"
+    ],
+    "🧍🏿": [
+        "inimene",
+        "seisev",
+        "seisev inimene: tume nahatoon",
+        "seismine",
+        "tume nahatoon"
+    ],
+    "🧍‍♂": [
+        "mees",
+        "seisev",
+        "seisev mees",
+        "seismine"
+    ],
+    "🧍🏻‍♂": [
+        "hele nahatoon",
+        "mees",
+        "seisev",
+        "seisev mees: hele nahatoon",
+        "seismine"
+    ],
+    "🧍🏼‍♂": [
+        "keskmiselt hele nahatoon",
+        "mees",
+        "seisev",
+        "seisev mees: keskmiselt hele nahatoon",
+        "seismine"
+    ],
+    "🧍🏽‍♂": [
+        "keskmine nahatoon",
+        "mees",
+        "seisev",
+        "seisev mees: keskmine nahatoon",
+        "seismine"
+    ],
+    "🧍🏾‍♂": [
+        "keskmiselt tume nahatoon",
+        "mees",
+        "seisev",
+        "seisev mees: keskmiselt tume nahatoon",
+        "seismine"
+    ],
+    "🧍🏿‍♂": [
+        "mees",
+        "seisev",
+        "seisev mees: tume nahatoon",
+        "seismine",
+        "tume nahatoon"
+    ],
+    "🧍‍♀": [
+        "naine",
+        "seisev",
+        "seisev naine",
+        "seismine"
+    ],
+    "🧍🏻‍♀": [
+        "hele nahatoon",
+        "naine",
+        "seisev",
+        "seisev naine: hele nahatoon",
+        "seismine"
+    ],
+    "🧍🏼‍♀": [
+        "keskmiselt hele nahatoon",
+        "naine",
+        "seisev",
+        "seisev naine: keskmiselt hele nahatoon",
+        "seismine"
+    ],
+    "🧍🏽‍♀": [
+        "keskmine nahatoon",
+        "naine",
+        "seisev",
+        "seisev naine: keskmine nahatoon",
+        "seismine"
+    ],
+    "🧍🏾‍♀": [
+        "keskmiselt tume nahatoon",
+        "naine",
+        "seisev",
+        "seisev naine: keskmiselt tume nahatoon",
+        "seismine"
+    ],
+    "🧍🏿‍♀": [
+        "naine",
+        "seisev",
+        "seisev naine: tume nahatoon",
+        "seismine",
+        "tume nahatoon"
+    ],
+    "🧎": [
+        "inimene",
+        "põlvili",
+        "põlvitav",
+        "põlvitav inimene"
+    ],
+    "🧎🏻": [
+        "hele nahatoon",
+        "inimene",
+        "põlvili",
+        "põlvitav",
+        "põlvitav inimene: hele nahatoon"
+    ],
+    "🧎🏼": [
+        "inimene",
+        "keskmiselt hele nahatoon",
+        "põlvili",
+        "põlvitav",
+        "põlvitav inimene: keskmiselt hele nahatoon"
+    ],
+    "🧎🏽": [
+        "inimene",
+        "keskmine nahatoon",
+        "põlvili",
+        "põlvitav",
+        "põlvitav inimene: keskmine nahatoon"
+    ],
+    "🧎🏾": [
+        "inimene",
+        "keskmiselt tume nahatoon",
+        "põlvili",
+        "põlvitav",
+        "põlvitav inimene: keskmiselt tume nahatoon"
+    ],
+    "🧎🏿": [
+        "inimene",
+        "põlvili",
+        "põlvitav",
+        "põlvitav inimene: tume nahatoon",
+        "tume nahatoon"
+    ],
+    "🧎‍♂": [
+        "mees",
+        "põlvili",
+        "põlvitav",
+        "põlvitav mees"
+    ],
+    "🧎🏻‍♂": [
+        "hele nahatoon",
+        "mees",
+        "põlvili",
+        "põlvitav",
+        "põlvitav mees: hele nahatoon"
+    ],
+    "🧎🏼‍♂": [
+        "keskmiselt hele nahatoon",
+        "mees",
+        "põlvili",
+        "põlvitav",
+        "põlvitav mees: keskmiselt hele nahatoon"
+    ],
+    "🧎🏽‍♂": [
+        "keskmine nahatoon",
+        "mees",
+        "põlvili",
+        "põlvitav",
+        "põlvitav mees: keskmine nahatoon"
+    ],
+    "🧎🏾‍♂": [
+        "keskmiselt tume nahatoon",
+        "mees",
+        "põlvili",
+        "põlvitav",
+        "põlvitav mees: keskmiselt tume nahatoon"
+    ],
+    "🧎🏿‍♂": [
+        "mees",
+        "põlvili",
+        "põlvitav",
+        "põlvitav mees: tume nahatoon",
+        "tume nahatoon"
+    ],
+    "🧎‍♀": [
+        "naine",
+        "põlvili",
+        "põlvitav",
+        "põlvitav naine"
+    ],
+    "🧎🏻‍♀": [
+        "hele nahatoon",
+        "naine",
+        "põlvili",
+        "põlvitav",
+        "põlvitav naine: hele nahatoon"
+    ],
+    "🧎🏼‍♀": [
+        "keskmiselt hele nahatoon",
+        "naine",
+        "põlvili",
+        "põlvitav",
+        "põlvitav naine: keskmiselt hele nahatoon"
+    ],
+    "🧎🏽‍♀": [
+        "keskmine nahatoon",
+        "naine",
+        "põlvili",
+        "põlvitav",
+        "põlvitav naine: keskmine nahatoon"
+    ],
+    "🧎🏾‍♀": [
+        "keskmiselt tume nahatoon",
+        "naine",
+        "põlvili",
+        "põlvitav",
+        "põlvitav naine: keskmiselt tume nahatoon"
+    ],
+    "🧎🏿‍♀": [
+        "naine",
+        "põlvili",
+        "põlvitav",
+        "põlvitav naine: tume nahatoon",
+        "tume nahatoon"
+    ],
+    "👨‍🦯": [
+        "ligipääs",
+        "mees",
+        "pime",
+        "valge kepiga mees"
+    ],
+    "👨🏻‍🦯": [
+        "hele nahatoon",
+        "ligipääs",
+        "mees",
+        "pime",
+        "valge kepiga mees",
+        "valge kepiga mees: hele nahatoon"
+    ],
+    "👨🏼‍🦯": [
+        "keskmiselt hele nahatoon",
+        "ligipääs",
+        "mees",
+        "pime",
+        "valge kepiga mees",
+        "valge kepiga mees: keskmiselt hele nahatoon"
+    ],
+    "👨🏽‍🦯": [
+        "keskmine nahatoon",
+        "ligipääs",
+        "mees",
+        "pime",
+        "valge kepiga mees",
+        "valge kepiga mees: keskmine nahatoon"
+    ],
+    "👨🏾‍🦯": [
+        "keskmiselt tume nahatoon",
+        "ligipääs",
+        "mees",
+        "pime",
+        "valge kepiga mees",
+        "valge kepiga mees: keskmiselt tume nahatoon"
+    ],
+    "👨🏿‍🦯": [
+        "ligipääs",
+        "mees",
+        "pime",
+        "tume nahatoon",
+        "valge kepiga mees",
+        "valge kepiga mees: tume nahatoon"
+    ],
+    "👩‍🦯": [
+        "ligipääs",
+        "naine",
+        "pime",
+        "valge kepiga naine"
+    ],
+    "👩🏻‍🦯": [
+        "hele nahatoon",
+        "ligipääs",
+        "naine",
+        "pime",
+        "valge kepiga naine",
+        "valge kepiga naine: hele nahatoon"
+    ],
+    "👩🏼‍🦯": [
+        "keskmiselt hele nahatoon",
+        "ligipääs",
+        "naine",
+        "pime",
+        "valge kepiga naine",
+        "valge kepiga naine: keskmiselt hele nahatoon"
+    ],
+    "👩🏽‍🦯": [
+        "keskmine nahatoon",
+        "ligipääs",
+        "naine",
+        "pime",
+        "valge kepiga naine",
+        "valge kepiga naine: keskmine nahatoon"
+    ],
+    "👩🏾‍🦯": [
+        "keskmiselt tume nahatoon",
+        "ligipääs",
+        "naine",
+        "pime",
+        "valge kepiga naine",
+        "valge kepiga naine: keskmiselt tume nahatoon"
+    ],
+    "👩🏿‍🦯": [
+        "ligipääs",
+        "naine",
+        "pime",
+        "tume nahatoon",
+        "valge kepiga naine",
+        "valge kepiga naine: tume nahatoon"
+    ],
+    "👨‍🦼": [
+        "elektriratastool",
+        "elektriratastoolis olev mees",
+        "ligipääs",
+        "mees",
+        "ratastool"
+    ],
+    "👨🏻‍🦼": [
+        "elektriratastool",
+        "elektriratastoolis olev mees",
+        "elektriratastoolis olev mees: hele nahatoon",
+        "hele nahatoon",
+        "ligipääs",
+        "mees",
+        "ratastool"
+    ],
+    "👨🏼‍🦼": [
+        "elektriratastool",
+        "elektriratastoolis olev mees",
+        "elektriratastoolis olev mees: keskmiselt hele nahatoon",
+        "keskmiselt hele nahatoon",
+        "ligipääs",
+        "mees",
+        "ratastool"
+    ],
+    "👨🏽‍🦼": [
+        "elektriratastool",
+        "elektriratastoolis olev mees",
+        "elektriratastoolis olev mees: keskmine nahatoon",
+        "keskmine nahatoon",
+        "ligipääs",
+        "mees",
+        "ratastool"
+    ],
+    "👨🏾‍🦼": [
+        "elektriratastool",
+        "elektriratastoolis olev mees",
+        "elektriratastoolis olev mees: keskmiselt tume nahatoon",
+        "keskmiselt tume nahatoon",
+        "ligipääs",
+        "mees",
+        "ratastool"
+    ],
+    "👨🏿‍🦼": [
+        "elektriratastool",
+        "elektriratastoolis olev mees",
+        "elektriratastoolis olev mees: tume nahatoon",
+        "ligipääs",
+        "mees",
+        "ratastool",
+        "tume nahatoon"
+    ],
+    "👩‍🦼": [
+        "elektriratastool",
+        "elektriratastoolis olev naine",
+        "ligipääs",
+        "naine",
+        "ratastool"
+    ],
+    "👩🏻‍🦼": [
+        "elektriratastool",
+        "elektriratastoolis olev naine",
+        "elektriratastoolis olev naine: hele nahatoon",
+        "hele nahatoon",
+        "ligipääs",
+        "naine",
+        "ratastool"
+    ],
+    "👩🏼‍🦼": [
+        "elektriratastool",
+        "elektriratastoolis olev naine",
+        "elektriratastoolis olev naine: keskmiselt hele nahatoon",
+        "keskmiselt hele nahatoon",
+        "ligipääs",
+        "naine",
+        "ratastool"
+    ],
+    "👩🏽‍🦼": [
+        "elektriratastool",
+        "elektriratastoolis olev naine",
+        "elektriratastoolis olev naine: keskmine nahatoon",
+        "keskmine nahatoon",
+        "ligipääs",
+        "naine",
+        "ratastool"
+    ],
+    "👩🏾‍🦼": [
+        "elektriratastool",
+        "elektriratastoolis olev naine",
+        "elektriratastoolis olev naine: keskmiselt tume nahatoon",
+        "keskmiselt tume nahatoon",
+        "ligipääs",
+        "naine",
+        "ratastool"
+    ],
+    "👩🏿‍🦼": [
+        "elektriratastool",
+        "elektriratastoolis olev naine",
+        "elektriratastoolis olev naine: tume nahatoon",
+        "ligipääs",
+        "naine",
+        "ratastool",
+        "tume nahatoon"
+    ],
+    "👨‍🦽": [
+        "ligipääs",
+        "manuaalratastool",
+        "manuaalratastoolis olev mees",
+        "mees",
+        "ratastool"
+    ],
+    "👨🏻‍🦽": [
+        "hele nahatoon",
+        "ligipääs",
+        "manuaalratastool",
+        "manuaalratastoolis olev mees",
+        "manuaalratastoolis olev mees: hele nahatoon",
+        "mees",
+        "ratastool"
+    ],
+    "👨🏼‍🦽": [
+        "keskmiselt hele nahatoon",
+        "ligipääs",
+        "manuaalratastool",
+        "manuaalratastoolis olev mees",
+        "manuaalratastoolis olev mees: keskmiselt hele nahatoon",
+        "mees",
+        "ratastool"
+    ],
+    "👨🏽‍🦽": [
+        "keskmine nahatoon",
+        "ligipääs",
+        "manuaalratastool",
+        "manuaalratastoolis olev mees",
+        "manuaalratastoolis olev mees: keskmine nahatoon",
+        "mees",
+        "ratastool"
+    ],
+    "👨🏾‍🦽": [
+        "keskmiselt tume nahatoon",
+        "ligipääs",
+        "manuaalratastool",
+        "manuaalratastoolis olev mees",
+        "manuaalratastoolis olev mees: keskmiselt tume nahatoon",
+        "mees",
+        "ratastool"
+    ],
+    "👨🏿‍🦽": [
+        "ligipääs",
+        "manuaalratastool",
+        "manuaalratastoolis olev mees",
+        "manuaalratastoolis olev mees: tume nahatoon",
+        "mees",
+        "ratastool",
+        "tume nahatoon"
+    ],
+    "👩‍🦽": [
+        "juurdepääs",
+        "manuaalratastool",
+        "manuaalratastoolis olev naine",
+        "naine",
+        "ratastool"
+    ],
+    "👩🏻‍🦽": [
+        "hele nahatoon",
+        "juurdepääs",
+        "manuaalratastool",
+        "manuaalratastoolis olev naine",
+        "manuaalratastoolis olev naine: hele nahatoon",
+        "naine",
+        "ratastool"
+    ],
+    "👩🏼‍🦽": [
+        "juurdepääs",
+        "keskmiselt hele nahatoon",
+        "manuaalratastool",
+        "manuaalratastoolis olev naine",
+        "manuaalratastoolis olev naine: keskmiselt hele nahatoon",
+        "naine",
+        "ratastool"
+    ],
+    "👩🏽‍🦽": [
+        "juurdepääs",
+        "keskmine nahatoon",
+        "manuaalratastool",
+        "manuaalratastoolis olev naine",
+        "manuaalratastoolis olev naine: keskmine nahatoon",
+        "naine",
+        "ratastool"
+    ],
+    "👩🏾‍🦽": [
+        "juurdepääs",
+        "keskmiselt tume nahatoon",
+        "manuaalratastool",
+        "manuaalratastoolis olev naine",
+        "manuaalratastoolis olev naine: keskmiselt tume nahatoon",
+        "naine",
+        "ratastool"
+    ],
+    "👩🏿‍🦽": [
+        "juurdepääs",
+        "manuaalratastool",
+        "manuaalratastoolis olev naine",
+        "manuaalratastoolis olev naine: tume nahatoon",
+        "naine",
+        "ratastool",
+        "tume nahatoon"
+    ],
     "🏃": [
         "jooks",
         "jooksja",
@@ -11396,11 +12162,309 @@
         "tume nahatoon",
         "uni"
     ],
+    "🧑‍🤝‍🧑": [
+        "hoiavad käest",
+        "hoiavad käest kinni",
+        "inimene",
+        "inimesed hoiavad käest kinni",
+        "käed",
+        "paar"
+    ],
+    "🧑🏻‍🤝‍🧑🏻": [
+        "hele nahatoon",
+        "hoiavad käest",
+        "hoiavad käest kinni",
+        "inimene",
+        "inimesed hoiavad käest kinni",
+        "inimesed hoiavad käest kinni: hele nahatoon",
+        "käed",
+        "paar"
+    ],
+    "🧑🏼‍🤝‍🧑🏻": [
+        "hele nahatoon",
+        "hoiavad käest",
+        "hoiavad käest kinni",
+        "inimene",
+        "inimesed hoiavad käest kinni",
+        "inimesed hoiavad käest kinni: keskmiselt hele nahatoon, hele nahatoon",
+        "keskmiselt hele nahatoon",
+        "käed",
+        "paar"
+    ],
+    "🧑🏼‍🤝‍🧑🏼": [
+        "hoiavad käest",
+        "hoiavad käest kinni",
+        "inimene",
+        "inimesed hoiavad käest kinni",
+        "inimesed hoiavad käest kinni: keskmiselt hele nahatoon",
+        "keskmiselt hele nahatoon",
+        "käed",
+        "paar"
+    ],
+    "🧑🏽‍🤝‍🧑🏻": [
+        "hele nahatoon",
+        "hoiavad käest",
+        "hoiavad käest kinni",
+        "inimene",
+        "inimesed hoiavad käest kinni",
+        "inimesed hoiavad käest kinni: keskmine nahatoon, hele nahatoon",
+        "keskmine nahatoon",
+        "käed",
+        "paar"
+    ],
+    "🧑🏽‍🤝‍🧑🏼": [
+        "hoiavad käest",
+        "hoiavad käest kinni",
+        "inimene",
+        "inimesed hoiavad käest kinni",
+        "inimesed hoiavad käest kinni: keskmine nahatoon, keskmiselt hele nahatoon",
+        "keskmine nahatoon",
+        "keskmiselt hele nahatoon",
+        "käed",
+        "paar"
+    ],
+    "🧑🏽‍🤝‍🧑🏽": [
+        "hoiavad käest",
+        "hoiavad käest kinni",
+        "inimene",
+        "inimesed hoiavad käest kinni",
+        "inimesed hoiavad käest kinni: keskmine nahatoon",
+        "keskmine nahatoon",
+        "käed",
+        "paar"
+    ],
+    "🧑🏾‍🤝‍🧑🏻": [
+        "hele nahatoon",
+        "hoiavad käest",
+        "hoiavad käest kinni",
+        "inimene",
+        "inimesed hoiavad käest kinni",
+        "inimesed hoiavad käest kinni: keskmiselt tume nahatoon, hele nahatoon",
+        "keskmiselt tume nahatoon",
+        "käed",
+        "paar"
+    ],
+    "🧑🏾‍🤝‍🧑🏼": [
+        "hoiavad käest",
+        "hoiavad käest kinni",
+        "inimene",
+        "inimesed hoiavad käest kinni",
+        "inimesed hoiavad käest kinni: keskmiselt tume nahatoon, keskmiselt hele nahatoon",
+        "keskmiselt hele nahatoon",
+        "keskmiselt tume nahatoon",
+        "käed",
+        "paar"
+    ],
+    "🧑🏾‍🤝‍🧑🏽": [
+        "hoiavad käest",
+        "hoiavad käest kinni",
+        "inimene",
+        "inimesed hoiavad käest kinni",
+        "inimesed hoiavad käest kinni: keskmiselt tume nahatoon, keskmine nahatoon",
+        "keskmine nahatoon",
+        "keskmiselt tume nahatoon",
+        "käed",
+        "paar"
+    ],
+    "🧑🏾‍🤝‍🧑🏾": [
+        "hoiavad käest",
+        "hoiavad käest kinni",
+        "inimene",
+        "inimesed hoiavad käest kinni",
+        "inimesed hoiavad käest kinni: keskmiselt tume nahatoon",
+        "keskmiselt tume nahatoon",
+        "käed",
+        "paar"
+    ],
+    "🧑🏿‍🤝‍🧑🏻": [
+        "hele nahatoon",
+        "hoiavad käest",
+        "hoiavad käest kinni",
+        "inimene",
+        "inimesed hoiavad käest kinni",
+        "inimesed hoiavad käest kinni: tume nahatoon, hele nahatoon",
+        "käed",
+        "paar",
+        "tume nahatoon"
+    ],
+    "🧑🏿‍🤝‍🧑🏼": [
+        "hoiavad käest",
+        "hoiavad käest kinni",
+        "inimene",
+        "inimesed hoiavad käest kinni",
+        "inimesed hoiavad käest kinni: tume nahatoon, keskmiselt hele nahatoon",
+        "keskmiselt hele nahatoon",
+        "käed",
+        "paar",
+        "tume nahatoon"
+    ],
+    "🧑🏿‍🤝‍🧑🏽": [
+        "hoiavad käest",
+        "hoiavad käest kinni",
+        "inimene",
+        "inimesed hoiavad käest kinni",
+        "inimesed hoiavad käest kinni: tume nahatoon, keskmine nahatoon",
+        "keskmine nahatoon",
+        "käed",
+        "paar",
+        "tume nahatoon"
+    ],
+    "🧑🏿‍🤝‍🧑🏾": [
+        "hoiavad käest",
+        "hoiavad käest kinni",
+        "inimene",
+        "inimesed hoiavad käest kinni",
+        "inimesed hoiavad käest kinni: tume nahatoon, keskmiselt tume nahatoon",
+        "keskmiselt tume nahatoon",
+        "käed",
+        "paar",
+        "tume nahatoon"
+    ],
+    "🧑🏿‍🤝‍🧑🏿": [
+        "hoiavad käest",
+        "hoiavad käest kinni",
+        "inimene",
+        "inimesed hoiavad käest kinni",
+        "inimesed hoiavad käest kinni: tume nahatoon",
+        "käed",
+        "paar",
+        "tume nahatoon"
+    ],
     "👭": [
         "kaks naist hoiavad käest kinni",
         "käed",
         "naised",
         "paar"
+    ],
+    "👭🏻": [
+        "hele nahatoon",
+        "kaks naist hoiavad käest kinni",
+        "kaks naist hoiavad käest kinni: hele nahatoon",
+        "käed",
+        "naised",
+        "paar"
+    ],
+    "👩🏼‍🤝‍👩🏻": [
+        "hele nahatoon",
+        "kaks naist hoiavad käest kinni",
+        "kaks naist hoiavad käest kinni: keskmiselt hele nahatoon, hele nahatoon",
+        "keskmiselt hele nahatoon",
+        "käed",
+        "naised",
+        "paar"
+    ],
+    "👭🏼": [
+        "kaks naist hoiavad käest kinni",
+        "kaks naist hoiavad käest kinni: keskmiselt hele nahatoon",
+        "keskmiselt hele nahatoon",
+        "käed",
+        "naised",
+        "paar"
+    ],
+    "👩🏽‍🤝‍👩🏻": [
+        "hele nahatoon",
+        "kaks naist hoiavad käest kinni",
+        "kaks naist hoiavad käest kinni: keskmine nahatoon, hele nahatoon",
+        "keskmine nahatoon",
+        "käed",
+        "naised",
+        "paar"
+    ],
+    "👩🏽‍🤝‍👩🏼": [
+        "kaks naist hoiavad käest kinni",
+        "kaks naist hoiavad käest kinni: keskmine nahatoon, keskmiselt hele nahatoon",
+        "keskmine nahatoon",
+        "keskmiselt hele nahatoon",
+        "käed",
+        "naised",
+        "paar"
+    ],
+    "👭🏽": [
+        "kaks naist hoiavad käest kinni",
+        "kaks naist hoiavad käest kinni: keskmine nahatoon",
+        "keskmine nahatoon",
+        "käed",
+        "naised",
+        "paar"
+    ],
+    "👩🏾‍🤝‍👩🏻": [
+        "hele nahatoon",
+        "kaks naist hoiavad käest kinni",
+        "kaks naist hoiavad käest kinni: keskmiselt tume nahatoon, hele nahatoon",
+        "keskmiselt tume nahatoon",
+        "käed",
+        "naised",
+        "paar"
+    ],
+    "👩🏾‍🤝‍👩🏼": [
+        "kaks naist hoiavad käest kinni",
+        "kaks naist hoiavad käest kinni: keskmiselt tume nahatoon, keskmiselt hele nahatoon",
+        "keskmiselt hele nahatoon",
+        "keskmiselt tume nahatoon",
+        "käed",
+        "naised",
+        "paar"
+    ],
+    "👩🏾‍🤝‍👩🏽": [
+        "kaks naist hoiavad käest kinni",
+        "kaks naist hoiavad käest kinni: keskmiselt tume nahatoon, keskmine nahatoon",
+        "keskmine nahatoon",
+        "keskmiselt tume nahatoon",
+        "käed",
+        "naised",
+        "paar"
+    ],
+    "👭🏾": [
+        "kaks naist hoiavad käest kinni",
+        "kaks naist hoiavad käest kinni: keskmiselt tume nahatoon",
+        "keskmiselt tume nahatoon",
+        "käed",
+        "naised",
+        "paar"
+    ],
+    "👩🏿‍🤝‍👩🏻": [
+        "hele nahatoon",
+        "kaks naist hoiavad käest kinni",
+        "kaks naist hoiavad käest kinni: tume nahatoon, hele nahatoon",
+        "käed",
+        "naised",
+        "paar",
+        "tume nahatoon"
+    ],
+    "👩🏿‍🤝‍👩🏼": [
+        "kaks naist hoiavad käest kinni",
+        "kaks naist hoiavad käest kinni: tume nahatoon, keskmiselt hele nahatoon",
+        "keskmiselt hele nahatoon",
+        "käed",
+        "naised",
+        "paar",
+        "tume nahatoon"
+    ],
+    "👩🏿‍🤝‍👩🏽": [
+        "kaks naist hoiavad käest kinni",
+        "kaks naist hoiavad käest kinni: tume nahatoon, keskmine nahatoon",
+        "keskmine nahatoon",
+        "käed",
+        "naised",
+        "paar",
+        "tume nahatoon"
+    ],
+    "👩🏿‍🤝‍👩🏾": [
+        "kaks naist hoiavad käest kinni",
+        "kaks naist hoiavad käest kinni: tume nahatoon, keskmiselt tume nahatoon",
+        "keskmiselt tume nahatoon",
+        "käed",
+        "naised",
+        "paar",
+        "tume nahatoon"
+    ],
+    "👭🏿": [
+        "kaks naist hoiavad käest kinni",
+        "kaks naist hoiavad käest kinni: tume nahatoon",
+        "käed",
+        "naised",
+        "paar",
+        "tume nahatoon"
     ],
     "👫": [
         "käed",
@@ -11409,12 +12473,402 @@
         "naine",
         "paarike"
     ],
+    "👫🏻": [
+        "hele nahatoon",
+        "käed",
+        "mees",
+        "mees ja naine hoiavad käest kinni",
+        "mees ja naine hoiavad käest kinni: hele nahatoon",
+        "naine",
+        "paarike"
+    ],
+    "👩🏻‍🤝‍👨🏼": [
+        "hele nahatoon",
+        "keskmiselt hele nahatoon",
+        "käed",
+        "mees",
+        "mees ja naine hoiavad käest kinni",
+        "mees ja naine hoiavad käest kinni: hele nahatoon, keskmiselt hele nahatoon",
+        "naine",
+        "paarike"
+    ],
+    "👩🏻‍🤝‍👨🏽": [
+        "hele nahatoon",
+        "keskmine nahatoon",
+        "käed",
+        "mees",
+        "mees ja naine hoiavad käest kinni",
+        "mees ja naine hoiavad käest kinni: hele nahatoon, keskmine nahatoon",
+        "naine",
+        "paarike"
+    ],
+    "👩🏻‍🤝‍👨🏾": [
+        "hele nahatoon",
+        "keskmiselt tume nahatoon",
+        "käed",
+        "mees",
+        "mees ja naine hoiavad käest kinni",
+        "mees ja naine hoiavad käest kinni: hele nahatoon, keskmiselt tume nahatoon",
+        "naine",
+        "paarike"
+    ],
+    "👩🏻‍🤝‍👨🏿": [
+        "hele nahatoon",
+        "käed",
+        "mees",
+        "mees ja naine hoiavad käest kinni",
+        "mees ja naine hoiavad käest kinni: hele nahatoon, tume nahatoon",
+        "naine",
+        "paarike",
+        "tume nahatoon"
+    ],
+    "👩🏼‍🤝‍👨🏻": [
+        "hele nahatoon",
+        "keskmiselt hele nahatoon",
+        "käed",
+        "mees",
+        "mees ja naine hoiavad käest kinni",
+        "mees ja naine hoiavad käest kinni: keskmiselt hele nahatoon, hele nahatoon",
+        "naine",
+        "paarike"
+    ],
+    "👫🏼": [
+        "keskmiselt hele nahatoon",
+        "käed",
+        "mees",
+        "mees ja naine hoiavad käest kinni",
+        "mees ja naine hoiavad käest kinni: keskmiselt hele nahatoon",
+        "naine",
+        "paarike"
+    ],
+    "👩🏼‍🤝‍👨🏽": [
+        "keskmine nahatoon",
+        "keskmiselt hele nahatoon",
+        "käed",
+        "mees",
+        "mees ja naine hoiavad käest kinni",
+        "mees ja naine hoiavad käest kinni: keskmiselt hele nahatoon, keskmine nahatoon",
+        "naine",
+        "paarike"
+    ],
+    "👩🏼‍🤝‍👨🏾": [
+        "keskmiselt hele nahatoon",
+        "keskmiselt tume nahatoon",
+        "käed",
+        "mees",
+        "mees ja naine hoiavad käest kinni",
+        "mees ja naine hoiavad käest kinni: keskmiselt hele nahatoon, keskmiselt tume nahatoon",
+        "naine",
+        "paarike"
+    ],
+    "👩🏼‍🤝‍👨🏿": [
+        "keskmiselt hele nahatoon",
+        "käed",
+        "mees",
+        "mees ja naine hoiavad käest kinni",
+        "mees ja naine hoiavad käest kinni: keskmiselt hele nahatoon, tume nahatoon",
+        "naine",
+        "paarike",
+        "tume nahatoon"
+    ],
+    "👩🏽‍🤝‍👨🏻": [
+        "hele nahatoon",
+        "keskmine nahatoon",
+        "käed",
+        "mees",
+        "mees ja naine hoiavad käest kinni",
+        "mees ja naine hoiavad käest kinni: keskmine nahatoon, hele nahatoon",
+        "naine",
+        "paarike"
+    ],
+    "👩🏽‍🤝‍👨🏼": [
+        "keskmine nahatoon",
+        "keskmiselt hele nahatoon",
+        "käed",
+        "mees",
+        "mees ja naine hoiavad käest kinni",
+        "mees ja naine hoiavad käest kinni: keskmine nahatoon, keskmiselt hele nahatoon",
+        "naine",
+        "paarike"
+    ],
+    "👫🏽": [
+        "keskmine nahatoon",
+        "käed",
+        "mees",
+        "mees ja naine hoiavad käest kinni",
+        "mees ja naine hoiavad käest kinni: keskmine nahatoon",
+        "naine",
+        "paarike"
+    ],
+    "👩🏽‍🤝‍👨🏾": [
+        "keskmine nahatoon",
+        "keskmiselt tume nahatoon",
+        "käed",
+        "mees",
+        "mees ja naine hoiavad käest kinni",
+        "mees ja naine hoiavad käest kinni: keskmine nahatoon, keskmiselt tume nahatoon",
+        "naine",
+        "paarike"
+    ],
+    "👩🏽‍🤝‍👨🏿": [
+        "keskmine nahatoon",
+        "käed",
+        "mees",
+        "mees ja naine hoiavad käest kinni",
+        "mees ja naine hoiavad käest kinni: keskmine nahatoon, tume nahatoon",
+        "naine",
+        "paarike",
+        "tume nahatoon"
+    ],
+    "👩🏾‍🤝‍👨🏻": [
+        "hele nahatoon",
+        "keskmiselt tume nahatoon",
+        "käed",
+        "mees",
+        "mees ja naine hoiavad käest kinni",
+        "mees ja naine hoiavad käest kinni: keskmiselt tume nahatoon, hele nahatoon",
+        "naine",
+        "paarike"
+    ],
+    "👩🏾‍🤝‍👨🏼": [
+        "keskmiselt hele nahatoon",
+        "keskmiselt tume nahatoon",
+        "käed",
+        "mees",
+        "mees ja naine hoiavad käest kinni",
+        "mees ja naine hoiavad käest kinni: keskmiselt tume nahatoon, keskmiselt hele nahatoon",
+        "naine",
+        "paarike"
+    ],
+    "👩🏾‍🤝‍👨🏽": [
+        "keskmine nahatoon",
+        "keskmiselt tume nahatoon",
+        "käed",
+        "mees",
+        "mees ja naine hoiavad käest kinni",
+        "mees ja naine hoiavad käest kinni: keskmiselt tume nahatoon, keskmine nahatoon",
+        "naine",
+        "paarike"
+    ],
+    "👫🏾": [
+        "keskmiselt tume nahatoon",
+        "käed",
+        "mees",
+        "mees ja naine hoiavad käest kinni",
+        "mees ja naine hoiavad käest kinni: keskmiselt tume nahatoon",
+        "naine",
+        "paarike"
+    ],
+    "👩🏾‍🤝‍👨🏿": [
+        "keskmiselt tume nahatoon",
+        "käed",
+        "mees",
+        "mees ja naine hoiavad käest kinni",
+        "mees ja naine hoiavad käest kinni: keskmiselt tume nahatoon, tume nahatoon",
+        "naine",
+        "paarike",
+        "tume nahatoon"
+    ],
+    "👩🏿‍🤝‍👨🏻": [
+        "hele nahatoon",
+        "käed",
+        "mees",
+        "mees ja naine hoiavad käest kinni",
+        "mees ja naine hoiavad käest kinni: tume nahatoon, hele nahatoon",
+        "naine",
+        "paarike",
+        "tume nahatoon"
+    ],
+    "👩🏿‍🤝‍👨🏼": [
+        "keskmiselt hele nahatoon",
+        "käed",
+        "mees",
+        "mees ja naine hoiavad käest kinni",
+        "mees ja naine hoiavad käest kinni: tume nahatoon, keskmiselt hele nahatoon",
+        "naine",
+        "paarike",
+        "tume nahatoon"
+    ],
+    "👩🏿‍🤝‍👨🏽": [
+        "keskmine nahatoon",
+        "käed",
+        "mees",
+        "mees ja naine hoiavad käest kinni",
+        "mees ja naine hoiavad käest kinni: tume nahatoon, keskmine nahatoon",
+        "naine",
+        "paarike",
+        "tume nahatoon"
+    ],
+    "👩🏿‍🤝‍👨🏾": [
+        "keskmiselt tume nahatoon",
+        "käed",
+        "mees",
+        "mees ja naine hoiavad käest kinni",
+        "mees ja naine hoiavad käest kinni: tume nahatoon, keskmiselt tume nahatoon",
+        "naine",
+        "paarike",
+        "tume nahatoon"
+    ],
+    "👫🏿": [
+        "käed",
+        "mees",
+        "mees ja naine hoiavad käest kinni",
+        "mees ja naine hoiavad käest kinni: tume nahatoon",
+        "naine",
+        "paarike",
+        "tume nahatoon"
+    ],
     "👬": [
         "kaks meest hoiavad käest kinni",
         "kaksikud",
         "käed",
         "mehed",
         "paar"
+    ],
+    "👬🏻": [
+        "hele nahatoon",
+        "kaks meest hoiavad käest kinni",
+        "kaks meest hoiavad käest kinni: hele nahatoon",
+        "kaksikud",
+        "käed",
+        "mehed",
+        "paar"
+    ],
+    "👨🏼‍🤝‍👨🏻": [
+        "hele nahatoon",
+        "kaks meest hoiavad käest kinni",
+        "kaks meest hoiavad käest kinni: keskmiselt hele nahatoon, hele nahatoon",
+        "kaksikud",
+        "keskmiselt hele nahatoon",
+        "käed",
+        "mehed",
+        "paar"
+    ],
+    "👬🏼": [
+        "kaks meest hoiavad käest kinni",
+        "kaks meest hoiavad käest kinni: keskmiselt hele nahatoon",
+        "kaksikud",
+        "keskmiselt hele nahatoon",
+        "käed",
+        "mehed",
+        "paar"
+    ],
+    "👨🏽‍🤝‍👨🏻": [
+        "hele nahatoon",
+        "kaks meest hoiavad käest kinni",
+        "kaks meest hoiavad käest kinni: keskmine nahatoon, hele nahatoon",
+        "kaksikud",
+        "keskmine nahatoon",
+        "käed",
+        "mehed",
+        "paar"
+    ],
+    "👨🏽‍🤝‍👨🏼": [
+        "kaks meest hoiavad käest kinni",
+        "kaks meest hoiavad käest kinni: keskmine nahatoon, keskmiselt hele nahatoon",
+        "kaksikud",
+        "keskmine nahatoon",
+        "keskmiselt hele nahatoon",
+        "käed",
+        "mehed",
+        "paar"
+    ],
+    "👬🏽": [
+        "kaks meest hoiavad käest kinni",
+        "kaks meest hoiavad käest kinni: keskmine nahatoon",
+        "kaksikud",
+        "keskmine nahatoon",
+        "käed",
+        "mehed",
+        "paar"
+    ],
+    "👨🏾‍🤝‍👨🏻": [
+        "hele nahatoon",
+        "kaks meest hoiavad käest kinni",
+        "kaks meest hoiavad käest kinni: keskmiselt tume nahatoon, hele nahatoon",
+        "kaksikud",
+        "keskmiselt tume nahatoon",
+        "käed",
+        "mehed",
+        "paar"
+    ],
+    "👨🏾‍🤝‍👨🏼": [
+        "kaks meest hoiavad käest kinni",
+        "kaks meest hoiavad käest kinni: keskmiselt tume nahatoon, keskmiselt hele nahatoon",
+        "kaksikud",
+        "keskmiselt hele nahatoon",
+        "keskmiselt tume nahatoon",
+        "käed",
+        "mehed",
+        "paar"
+    ],
+    "👨🏾‍🤝‍👨🏽": [
+        "kaks meest hoiavad käest kinni",
+        "kaks meest hoiavad käest kinni: keskmiselt tume nahatoon, keskmine nahatoon",
+        "kaksikud",
+        "keskmine nahatoon",
+        "keskmiselt tume nahatoon",
+        "käed",
+        "mehed",
+        "paar"
+    ],
+    "👬🏾": [
+        "kaks meest hoiavad käest kinni",
+        "kaks meest hoiavad käest kinni: keskmiselt tume nahatoon",
+        "kaksikud",
+        "keskmiselt tume nahatoon",
+        "käed",
+        "mehed",
+        "paar"
+    ],
+    "👨🏿‍🤝‍👨🏻": [
+        "hele nahatoon",
+        "kaks meest hoiavad käest kinni",
+        "kaks meest hoiavad käest kinni: tume nahatoon, hele nahatoon",
+        "kaksikud",
+        "käed",
+        "mehed",
+        "paar",
+        "tume nahatoon"
+    ],
+    "👨🏿‍🤝‍👨🏼": [
+        "kaks meest hoiavad käest kinni",
+        "kaks meest hoiavad käest kinni: tume nahatoon, keskmiselt hele nahatoon",
+        "kaksikud",
+        "keskmiselt hele nahatoon",
+        "käed",
+        "mehed",
+        "paar",
+        "tume nahatoon"
+    ],
+    "👨🏿‍🤝‍👨🏽": [
+        "kaks meest hoiavad käest kinni",
+        "kaks meest hoiavad käest kinni: tume nahatoon, keskmine nahatoon",
+        "kaksikud",
+        "keskmine nahatoon",
+        "käed",
+        "mehed",
+        "paar",
+        "tume nahatoon"
+    ],
+    "👨🏿‍🤝‍👨🏾": [
+        "kaks meest hoiavad käest kinni",
+        "kaks meest hoiavad käest kinni: tume nahatoon, keskmiselt tume nahatoon",
+        "kaksikud",
+        "keskmiselt tume nahatoon",
+        "käed",
+        "mehed",
+        "paar",
+        "tume nahatoon"
+    ],
+    "👬🏿": [
+        "kaks meest hoiavad käest kinni",
+        "kaks meest hoiavad käest kinni: tume nahatoon",
+        "kaksikud",
+        "käed",
+        "mehed",
+        "paar",
+        "tume nahatoon"
     ],
     "💏": [
         "musi",
@@ -11771,6 +13225,10 @@
         "gorilla",
         "loom"
     ],
+    "🦧": [
+        "inimahv",
+        "orangutan"
+    ],
     "🐶": [
         "koer",
         "koera nägu",
@@ -11780,6 +13238,21 @@
     "🐕️": [
         "koer",
         "lemmikloom"
+    ],
+    "🦮": [
+        "abi",
+        "juht",
+        "juhtkoer",
+        "koer",
+        "pime",
+        "vaegnägija"
+    ],
+    "🐕‍🦺": [
+        "abi",
+        "koer",
+        "politsei",
+        "teenistus",
+        "teenistuskoer"
     ],
     "🐩": [
         "koer",
@@ -11991,6 +13464,22 @@
         "panda",
         "panda nägu"
     ],
+    "🦥": [
+        "aeglane",
+        "laisik",
+        "laisk",
+        "laiskloom"
+    ],
+    "🦦": [
+        "jõgi",
+        "kala",
+        "saarmas",
+        "udras"
+    ],
+    "🦨": [
+        "hais",
+        "skunk"
+    ],
     "🦘": [
         "Austraalia",
         "hüpe",
@@ -12059,6 +13548,11 @@
     "🦉": [
         "lind",
         "öökull"
+    ],
+    "🦩": [
+        "flamingo",
+        "lind",
+        "troopiline"
     ],
     "🦚": [
         "eneseimetlus",
@@ -12467,6 +13961,14 @@
         "brokoli",
         "metskapsas"
     ],
+    "🧄": [
+        "küüslauk",
+        "maitseaine"
+    ],
+    "🧅": [
+        "maitseaine",
+        "sibul"
+    ],
     "🍄": [
         "mürgiseen",
         "seen"
@@ -12512,6 +14014,11 @@
         "pannkoogid",
         "pannkook",
         "toit"
+    ],
+    "🧇": [
+        "kõhklev",
+        "vahvel",
+        "vahvliraud"
     ],
     "🧀": [
         "juust",
@@ -12580,6 +14087,11 @@
         "toit",
         "täidetud pita"
     ],
+    "🧆": [
+        "falafel",
+        "kikerhernes",
+        "lihapall"
+    ],
     "🥚": [
         "muna",
         "toit"
@@ -12615,6 +14127,10 @@
     "🍿": [
         "mais",
         "popkorn"
+    ],
+    "🧈": [
+        "piimatoode",
+        "või"
     ],
     "🧂": [
         "maitseaine",
@@ -12733,6 +14249,12 @@
         "kalmaar",
         "mollusk",
         "toit"
+    ],
+    "🦪": [
+        "auster",
+        "elus",
+        "karp",
+        "pärl"
     ],
     "🍦": [
         "jäätis",
@@ -12902,6 +14424,21 @@
         "kõrrega tops",
         "limonaad",
         "mahl"
+    ],
+    "🧃": [
+        "joogipakk",
+        "mahlapakk"
+    ],
+    "🧉": [
+        "jook",
+        "mate",
+        "tee"
+    ],
+    "🧊": [
+        "jää",
+        "jääkuubik",
+        "kuubik",
+        "külm"
     ],
     "🥢": [
         "hashi",
@@ -13156,6 +14693,12 @@
         "moslem",
         "mošee",
         "usk"
+    ],
+    "🛕": [
+        "hindu",
+        "hinduism",
+        "hinduistlik tempel",
+        "tempel"
     ],
     "🕍": [
         "judaism",
@@ -13437,6 +14980,20 @@
         "motoroller",
         "skuuter"
     ],
+    "🦽": [
+        "ligipääs",
+        "manuaalratastool",
+        "ratastool"
+    ],
+    "🦼": [
+        "elektriratastool",
+        "ligipääs",
+        "ratastool"
+    ],
+    "🛺": [
+        "autorikša",
+        "tuk-tuk"
+    ],
     "🚲️": [
         "jalgratas",
         "ratas",
@@ -13568,6 +15125,12 @@
         "maandumine",
         "maanduv lennuk",
         "sõiduk"
+    ],
+    "🪂": [
+        "langevari",
+        "langevarjuga hüppamine",
+        "langevarjuhüpe",
+        "langevarjur"
     ],
     "💺": [
         "iste",
@@ -13970,6 +15533,10 @@
         "nägu",
         "näoga päike",
         "päike"
+    ],
+    "🪐": [
+        "Saturn",
+        "rõngastega planeet"
     ],
     "⭐️": [
         "keskmine täht",
@@ -14421,6 +15988,12 @@
         "kala",
         "õng"
     ],
+    "🤿": [
+        "akvalang",
+        "snorgeldamine",
+        "sukeldumine",
+        "sukeldumismask"
+    ],
     "🎽": [
         "jooks",
         "jooksusärk",
@@ -14446,6 +16019,19 @@
         "sihtmärk",
         "tabamus",
         "täistabamus"
+    ],
+    "🪀": [
+        "edasi-tagasi",
+        "jojo",
+        "keerlemine",
+        "ketas",
+        "mänguasi"
+    ],
+    "🪁": [
+        "lennutamine",
+        "lohe",
+        "tuul",
+        "tuulelohe"
     ],
     "🎱": [
         "8",
@@ -14605,6 +16191,12 @@
         "laborikittel",
         "teadlane"
     ],
+    "🦺": [
+        "hädaolukord",
+        "ohutus",
+        "ohutusvest",
+        "vest"
+    ],
     "👔": [
         "lips",
         "riided"
@@ -14643,6 +16235,29 @@
     "👘": [
         "kimono",
         "riided"
+    ],
+    "🥻": [
+        "India",
+        "kleit",
+        "rõivas",
+        "sari"
+    ],
+    "🩱": [
+        "trikoo",
+        "ujumiskostüüm",
+        "ujumistrikoo"
+    ],
+    "🩲": [
+        "aluspesu",
+        "ujumiskostüüm",
+        "ujumispüksid",
+        "ujumisriie"
+    ],
+    "🩳": [
+        "aluspesu",
+        "lühikesed püksid",
+        "ujumisriie",
+        "šortsid"
     ],
     "👙": [
         "bikiinid",
@@ -14720,6 +16335,11 @@
         "naistesandaal",
         "riided",
         "sandaal"
+    ],
+    "🩰": [
+        "balletikingad",
+        "ballett",
+        "tants"
     ],
     "👢": [
         "king",
@@ -14907,6 +16527,11 @@
         "pill",
         "viiul"
     ],
+    "🪕": [
+        "bandžo",
+        "keelpill",
+        "muusika"
+    ],
     "🥁": [
         "muusika",
         "trumm",
@@ -15092,6 +16717,12 @@
         "punane",
         "punane paberlatern",
         "valgus"
+    ],
+    "🪔": [
+        "diya",
+        "diya-lamp",
+        "lamp",
+        "õli"
     ],
     "📔": [
         "dekoratiivse kaanega märkmik",
@@ -15506,6 +17137,12 @@
         "haamer",
         "tööriist"
     ],
+    "🪓": [
+        "kirves",
+        "lõhkumine",
+        "puud",
+        "raiumine"
+    ],
     "⛏️": [
         "kirka",
         "tööriist"
@@ -15573,6 +17210,12 @@
         "kaalukausid",
         "sodiaak",
         "tööriist"
+    ],
+    "🦯": [
+        "kohalejõudmine",
+        "ligipääs",
+        "pime",
+        "valge kepp"
     ],
     "🔗": [
         "lüli"
@@ -15643,11 +17286,28 @@
         "ravim",
         "süstal"
     ],
+    "🩸": [
+        "meditsiin",
+        "menstruatsioon",
+        "veredoonorlus",
+        "veretilk"
+    ],
     "💊": [
         "arst",
         "haige",
         "ravim",
         "tablett"
+    ],
+    "🩹": [
+        "meditsiin",
+        "plaaster"
+    ],
+    "🩺": [
+        "arst",
+        "kuuldetoru",
+        "meditsiin",
+        "stetoskoop",
+        "süda"
     ],
     "🚪": [
         "uks"
@@ -15663,6 +17323,11 @@
         "hotell",
         "lamp"
     ],
+    "🪑": [
+        "iste",
+        "istumine",
+        "tool"
+    ],
     "🚽": [
         "WC-pott",
         "tualett",
@@ -15674,6 +17339,12 @@
     ],
     "🛁": [
         "vann"
+    ],
+    "🪒": [
+        "habe",
+        "habemenuga",
+        "raseerimine",
+        "terav"
     ],
     "🧴": [
         "emulsioon",
@@ -16720,11 +18391,41 @@
         "punane ring",
         "ring"
     ],
+    "🟠": [
+        "kera",
+        "oranž",
+        "oranž ring",
+        "ring"
+    ],
+    "🟡": [
+        "kera",
+        "kollane",
+        "kollane ring",
+        "ring"
+    ],
+    "🟢": [
+        "kera",
+        "ring",
+        "roheline",
+        "roheline ring"
+    ],
     "🔵": [
         "geomeetria",
         "ring",
         "sinine",
         "sinine ring"
+    ],
+    "🟣": [
+        "kera",
+        "lilla",
+        "lilla ring",
+        "ring"
+    ],
+    "🟤": [
+        "kera",
+        "pruun",
+        "pruun ring",
+        "ring"
     ],
     "⚫️": [
         "geomeetria",
@@ -16735,6 +18436,48 @@
         "geomeetria",
         "ring",
         "valge ring"
+    ],
+    "🟥": [
+        "nelinurk",
+        "punane",
+        "punane ruut",
+        "ruut"
+    ],
+    "🟧": [
+        "nelinurk",
+        "oranž",
+        "oranž ruut",
+        "ruut"
+    ],
+    "🟨": [
+        "kollane",
+        "kollane ruut",
+        "nelinurk",
+        "ruut"
+    ],
+    "🟩": [
+        "nelinurk",
+        "roheline",
+        "roheline ruut",
+        "ruut"
+    ],
+    "🟦": [
+        "nelinurk",
+        "ruut",
+        "sinine",
+        "sinine ruut"
+    ],
+    "🟪": [
+        "lilla",
+        "lilla ruut",
+        "nelinurk",
+        "ruut"
+    ],
+    "🟫": [
+        "nelinurk",
+        "pruun",
+        "pruun ruut",
+        "ruut"
     ],
     "⬛️": [
         "geomeetria",
@@ -17480,7 +19223,7 @@
     ],
     "🇲🇰": [
         "lipp",
-        "lipp: Makedoonia"
+        "lipp: Põhja-Makedoonia"
     ],
     "🇲🇱": [
         "lipp",

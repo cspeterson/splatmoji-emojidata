@@ -528,6 +528,11 @@
   - muka
   - wajah
   - wajah kelelahan
+🥱:
+  - bosan
+  - lelah
+  - menguap
+  - wajah menguap
 😤:
   - menang
   - muka
@@ -822,12 +827,20 @@
   - hati
   - hati ungu
   - ungu
+🤎:
+  - cokelat
+  - hati
+  - hati cokelat
 🖤:
   - hati
   - hati hitam
   - hitam
   - jahat
   - kejam
+🤍:
+  - hati
+  - hati putih
+  - putih
 💯:
   - '100'
   - lengkap
@@ -1179,6 +1192,34 @@
   - 'oke: warna kulit gelap'
   - tangan
   - tubuh
+  - warna kulit gelap
+🤏:
+  - sejumlah kecil
+  - tangan menjepit
+🤏🏻:
+  - sejumlah kecil
+  - tangan menjepit
+  - 'tangan menjepit: warna kulit cerah'
+  - warna kulit cerah
+🤏🏼:
+  - sejumlah kecil
+  - tangan menjepit
+  - 'tangan menjepit: warna kulit cerah-sedang'
+  - warna kulit cerah-sedang
+🤏🏽:
+  - sejumlah kecil
+  - tangan menjepit
+  - 'tangan menjepit: warna kulit sedang'
+  - warna kulit sedang
+🤏🏾:
+  - sejumlah kecil
+  - tangan menjepit
+  - 'tangan menjepit: warna kulit gelap-sedang'
+  - warna kulit gelap-sedang
+🤏🏿:
+  - sejumlah kecil
+  - tangan menjepit
+  - 'tangan menjepit: warna kulit gelap'
   - warna kulit gelap
 ✌️:
   - badan
@@ -1613,44 +1654,34 @@
   - jari tengah
   - tangan
 🖕🏻:
-  - badan
   - jari
+  - jari tengah
   - 'jari tengah: warna kulit cerah'
   - tangan
-  - tengah
-  - tubuh
   - warna kulit cerah
 🖕🏼:
-  - badan
   - jari
+  - jari tengah
   - 'jari tengah: warna kulit cerah-sedang'
   - tangan
-  - tengah
-  - tubuh
   - warna kulit cerah-sedang
 🖕🏽:
-  - badan
   - jari
+  - jari tengah
   - 'jari tengah: warna kulit sedang'
   - tangan
-  - tengah
-  - tubuh
   - warna kulit sedang
 🖕🏾:
-  - badan
   - jari
+  - jari tengah
   - 'jari tengah: warna kulit gelap-sedang'
   - tangan
-  - tengah
-  - tubuh
   - warna kulit gelap-sedang
 🖕🏿:
-  - badan
   - jari
+  - jari tengah
   - 'jari tengah: warna kulit gelap'
   - tangan
-  - tengah
-  - tubuh
   - warna kulit gelap
 👇️:
   - badan
@@ -2532,6 +2563,14 @@
   - otot
   - tubuh
   - warna kulit gelap
+🦾:
+  - aksesibilitas
+  - lengan robot
+  - prostetik
+🦿:
+  - aksesibilitas
+  - prostetik
+  - tungkai robot
 🦵:
   - bagian tubuh
   - tendang
@@ -2634,6 +2673,52 @@
   - 'telinga: warna kulit gelap'
   - tubuh
   - warna kulit gelap
+🦻:
+  - aksesibilitas
+  - sulit mendengar
+  - telinga dengan alat bantu dengar
+  - tuli
+  - tunarungu
+🦻🏻:
+  - aksesibilitas
+  - sulit mendengar
+  - telinga dengan alat bantu dengar
+  - 'telinga dengan alat bantu dengar: warna kulit cerah'
+  - tuli
+  - tunarungu
+  - warna kulit cerah
+🦻🏼:
+  - aksesibilitas
+  - sulit mendengar
+  - telinga dengan alat bantu dengar
+  - 'telinga dengan alat bantu dengar: warna kulit cerah-sedang'
+  - tuli
+  - tunarungu
+  - warna kulit cerah-sedang
+🦻🏽:
+  - aksesibilitas
+  - sulit mendengar
+  - telinga dengan alat bantu dengar
+  - 'telinga dengan alat bantu dengar: warna kulit sedang'
+  - tuli
+  - tunarungu
+  - warna kulit sedang
+🦻🏾:
+  - aksesibilitas
+  - sulit mendengar
+  - telinga dengan alat bantu dengar
+  - 'telinga dengan alat bantu dengar: warna kulit gelap-sedang'
+  - tuli
+  - tunarungu
+  - warna kulit gelap-sedang
+🦻🏿:
+  - aksesibilitas
+  - sulit mendengar
+  - telinga dengan alat bantu dengar
+  - 'telinga dengan alat bantu dengar: warna kulit gelap'
+  - tuli
+  - tunarungu
+  - warna kulit gelap
 👃:
   - badan
   - hidung
@@ -2706,22 +2791,27 @@
 👶🏻:
   - bayi
   - 'bayi: warna kulit cerah'
+  - muda
   - warna kulit cerah
 👶🏼:
   - bayi
   - 'bayi: warna kulit cerah-sedang'
+  - muda
   - warna kulit cerah-sedang
 👶🏽:
   - bayi
   - 'bayi: warna kulit sedang'
+  - muda
   - warna kulit sedang
 👶🏾:
   - bayi
   - 'bayi: warna kulit gelap-sedang'
+  - muda
   - warna kulit gelap-sedang
 👶🏿:
   - bayi
   - 'bayi: warna kulit gelap'
+  - muda
   - warna kulit gelap
 🧒:
   - anak
@@ -2731,30 +2821,35 @@
 🧒🏻:
   - anak
   - 'anak: warna kulit cerah'
+  - gender tak tentu
   - muda
   - netral gender
   - warna kulit cerah
 🧒🏼:
   - anak
   - 'anak: warna kulit cerah-sedang'
+  - gender tak tentu
   - muda
   - netral gender
   - warna kulit cerah-sedang
 🧒🏽:
   - anak
   - 'anak: warna kulit sedang'
+  - gender tak tentu
   - muda
   - netral gender
   - warna kulit sedang
 🧒🏾:
   - anak
   - 'anak: warna kulit gelap-sedang'
+  - gender tak tentu
   - muda
   - netral gender
   - warna kulit gelap-sedang
 🧒🏿:
   - anak
   - 'anak: warna kulit gelap'
+  - gender tak tentu
   - muda
   - netral gender
   - warna kulit gelap
@@ -2762,34 +2857,29 @@
   - anak laki-laki
   - muda
 👦🏻:
-  - anak
   - anak laki-laki
   - 'anak laki-laki: warna kulit cerah'
-  - cowok
+  - muda
   - warna kulit cerah
 👦🏼:
-  - anak
   - anak laki-laki
   - 'anak laki-laki: warna kulit cerah-sedang'
-  - cowok
+  - muda
   - warna kulit cerah-sedang
 👦🏽:
-  - anak
   - anak laki-laki
   - 'anak laki-laki: warna kulit sedang'
-  - cowok
+  - muda
   - warna kulit sedang
 👦🏾:
-  - anak
   - anak laki-laki
   - 'anak laki-laki: warna kulit gelap-sedang'
-  - cowok
+  - muda
   - warna kulit gelap-sedang
 👦🏿:
-  - anak
   - anak laki-laki
   - 'anak laki-laki: warna kulit gelap'
-  - cowok
+  - muda
   - warna kulit gelap
 👧:
   - anak perempuan
@@ -2797,47 +2887,37 @@
   - virgo
   - zodiak
 👧🏻:
-  - anak
   - anak perempuan
   - 'anak perempuan: warna kulit cerah'
-  - cewek
-  - gadis
+  - muda
   - virgo
   - warna kulit cerah
   - zodiak
 👧🏼:
-  - anak
   - anak perempuan
   - 'anak perempuan: warna kulit cerah-sedang'
-  - cewek
-  - gadis
+  - muda
   - virgo
   - warna kulit cerah-sedang
   - zodiak
 👧🏽:
-  - anak
   - anak perempuan
   - 'anak perempuan: warna kulit sedang'
-  - cewek
-  - gadis
+  - muda
   - virgo
   - warna kulit sedang
   - zodiak
 👧🏾:
-  - anak
   - anak perempuan
   - 'anak perempuan: warna kulit gelap-sedang'
-  - cewek
-  - gadis
+  - muda
   - virgo
   - warna kulit gelap-sedang
   - zodiak
 👧🏿:
-  - anak
   - anak perempuan
   - 'anak perempuan: warna kulit gelap'
-  - cewek
-  - gadis
+  - muda
   - virgo
   - warna kulit gelap
   - zodiak
@@ -2849,27 +2929,37 @@
 🧑🏻:
   - dewasa
   - 'dewasa: warna kulit cerah'
+  - gender tak tentu
   - netral gender
+  - orang
   - warna kulit cerah
 🧑🏼:
   - dewasa
   - 'dewasa: warna kulit cerah-sedang'
+  - gender tak tentu
   - netral gender
+  - orang
   - warna kulit cerah-sedang
 🧑🏽:
   - dewasa
   - 'dewasa: warna kulit sedang'
+  - gender tak tentu
   - netral gender
+  - orang
   - warna kulit sedang
 🧑🏾:
   - dewasa
   - 'dewasa: warna kulit gelap-sedang'
+  - gender tak tentu
   - netral gender
+  - orang
   - warna kulit gelap-sedang
 🧑🏿:
   - dewasa
   - 'dewasa: warna kulit gelap'
+  - gender tak tentu
   - netral gender
+  - orang
   - warna kulit gelap
 👱:
   - orang berambut pirang
@@ -4298,6 +4388,146 @@
   - tangan
   - wanita mengangkat tangan
   - 'wanita mengangkat tangan: warna kulit gelap'
+  - warna kulit gelap
+🧏:
+  - aksesibilitas
+  - dengar
+  - kuping
+  - orang tuli
+  - telinga
+  - tuli
+  - tunarungu
+🧏🏻:
+  - aksesibilitas
+  - dengar
+  - kuping
+  - orang tuli
+  - 'orang tuli: warna kulit cerah'
+  - telinga
+  - tuli
+  - tunarungu
+  - warna kulit cerah
+🧏🏼:
+  - aksesibilitas
+  - dengar
+  - kuping
+  - orang tuli
+  - 'orang tuli: warna kulit cerah-sedang'
+  - telinga
+  - tuli
+  - tunarungu
+  - warna kulit cerah-sedang
+🧏🏽:
+  - aksesibilitas
+  - dengar
+  - kuping
+  - orang tuli
+  - 'orang tuli: warna kulit sedang'
+  - telinga
+  - tuli
+  - tunarungu
+  - warna kulit sedang
+🧏🏾:
+  - aksesibilitas
+  - dengar
+  - kuping
+  - orang tuli
+  - 'orang tuli: warna kulit gelap-sedang'
+  - telinga
+  - tuli
+  - tunarungu
+  - warna kulit gelap-sedang
+🧏🏿:
+  - aksesibilitas
+  - dengar
+  - kuping
+  - orang tuli
+  - 'orang tuli: warna kulit gelap'
+  - telinga
+  - tuli
+  - tunarungu
+  - warna kulit gelap
+🧏‍♂:
+  - lelaki
+  - pria
+  - pria tuli
+  - tuli
+  - tunarungu
+🧏🏻‍♂:
+  - lelaki
+  - pria
+  - 'pria tuli: warna kulit cerah'
+  - tuli
+  - tunarungu
+  - warna kulit cerah
+🧏🏼‍♂:
+  - lelaki
+  - pria
+  - 'pria tuli: warna kulit cerah-sedang'
+  - tuli
+  - tunarungu
+  - warna kulit cerah-sedang
+🧏🏽‍♂:
+  - lelaki
+  - pria
+  - 'pria tuli: warna kulit sedang'
+  - tuli
+  - tunarungu
+  - warna kulit sedang
+🧏🏾‍♂:
+  - lelaki
+  - pria
+  - 'pria tuli: warna kulit gelap-sedang'
+  - tuli
+  - tunarungu
+  - warna kulit gelap-sedang
+🧏🏿‍♂:
+  - lelaki
+  - pria
+  - 'pria tuli: warna kulit gelap'
+  - tuli
+  - tunarungu
+  - warna kulit gelap
+🧏‍♀:
+  - perempuan
+  - tuli
+  - tunarungu
+  - wanita
+  - wanita tuli
+🧏🏻‍♀:
+  - perempuan
+  - tuli
+  - tunarungu
+  - wanita
+  - 'wanita tuli: warna kulit cerah'
+  - warna kulit cerah
+🧏🏼‍♀:
+  - perempuan
+  - tuli
+  - tunarungu
+  - wanita
+  - 'wanita tuli: warna kulit cerah-sedang'
+  - warna kulit cerah-sedang
+🧏🏽‍♀:
+  - perempuan
+  - tuli
+  - tunarungu
+  - wanita
+  - 'wanita tuli: warna kulit sedang'
+  - warna kulit sedang
+🧏🏾‍♀:
+  - perempuan
+  - tuli
+  - tunarungu
+  - wanita
+  - 'wanita tuli: warna kulit gelap-sedang'
+  - warna kulit gelap-sedang
+🧏🏿‍♀:
+  - perempuan
+  - tuli
+  - tunarungu
+  - wanita
+  - 'wanita tuli: warna kulit gelap'
   - warna kulit gelap
 🙇:
   - bungkuk
@@ -8214,6 +8444,442 @@
   - wanita berjalan kaki
   - 'wanita berjalan kaki: warna kulit gelap'
   - warna kulit gelap
+🧍:
+  - berdiri
+  - diri
+  - orang berdiri
+🧍🏻:
+  - berdiri
+  - diri
+  - orang berdiri
+  - 'orang berdiri: warna kulit cerah'
+  - warna kulit cerah
+🧍🏼:
+  - berdiri
+  - diri
+  - orang berdiri
+  - 'orang berdiri: warna kulit cerah-sedang'
+  - warna kulit cerah-sedang
+🧍🏽:
+  - berdiri
+  - diri
+  - orang berdiri
+  - 'orang berdiri: warna kulit sedang'
+  - warna kulit sedang
+🧍🏾:
+  - berdiri
+  - diri
+  - orang berdiri
+  - 'orang berdiri: warna kulit gelap-sedang'
+  - warna kulit gelap-sedang
+🧍🏿:
+  - berdiri
+  - diri
+  - orang berdiri
+  - 'orang berdiri: warna kulit gelap'
+  - warna kulit gelap
+🧍‍♂:
+  - berdiri
+  - pria
+  - pria berdiri
+🧍🏻‍♂:
+  - berdiri
+  - pria
+  - 'pria berdiri: warna kulit cerah'
+  - warna kulit cerah
+🧍🏼‍♂:
+  - berdiri
+  - pria
+  - 'pria berdiri: warna kulit cerah-sedang'
+  - warna kulit cerah-sedang
+🧍🏽‍♂:
+  - berdiri
+  - pria
+  - 'pria berdiri: warna kulit sedang'
+  - warna kulit sedang
+🧍🏾‍♂:
+  - berdiri
+  - pria
+  - 'pria berdiri: warna kulit gelap-sedang'
+  - warna kulit gelap-sedang
+🧍🏿‍♂:
+  - berdiri
+  - pria
+  - 'pria berdiri: warna kulit gelap'
+  - warna kulit gelap
+🧍‍♀:
+  - berdiri
+  - wanita
+  - wanita berdiri
+🧍🏻‍♀:
+  - berdiri
+  - wanita
+  - 'wanita berdiri: warna kulit cerah'
+  - warna kulit cerah
+🧍🏼‍♀:
+  - berdiri
+  - wanita
+  - 'wanita berdiri: warna kulit cerah-sedang'
+  - warna kulit cerah-sedang
+🧍🏽‍♀:
+  - berdiri
+  - wanita
+  - 'wanita berdiri: warna kulit sedang'
+  - warna kulit sedang
+🧍🏾‍♀:
+  - berdiri
+  - wanita
+  - 'wanita berdiri: warna kulit gelap-sedang'
+  - warna kulit gelap-sedang
+🧍🏿‍♀:
+  - berdiri
+  - wanita
+  - 'wanita berdiri: warna kulit gelap'
+  - warna kulit gelap
+🧎:
+  - berlutut
+  - lutut
+  - orang berlutut
+🧎🏻:
+  - berlutut
+  - lutut
+  - orang berlutut
+  - 'orang berlutut: warna kulit cerah'
+  - warna kulit cerah
+🧎🏼:
+  - berlutut
+  - lutut
+  - orang berlutut
+  - 'orang berlutut: warna kulit cerah-sedang'
+  - warna kulit cerah-sedang
+🧎🏽:
+  - berlutut
+  - lutut
+  - orang berlutut
+  - 'orang berlutut: warna kulit sedang'
+  - warna kulit sedang
+🧎🏾:
+  - berlutut
+  - lutut
+  - orang berlutut
+  - 'orang berlutut: warna kulit gelap-sedang'
+  - warna kulit gelap-sedang
+🧎🏿:
+  - berlutut
+  - lutut
+  - orang berlutut
+  - 'orang berlutut: warna kulit gelap'
+  - warna kulit gelap
+🧎‍♂:
+  - berlutut
+  - pria
+  - pria berlutut
+🧎🏻‍♂:
+  - berlutut
+  - pria
+  - 'pria berlutut: warna kulit cerah'
+  - warna kulit cerah
+🧎🏼‍♂:
+  - berlutut
+  - pria
+  - 'pria berlutut: warna kulit cerah-sedang'
+  - warna kulit cerah-sedang
+🧎🏽‍♂:
+  - berlutut
+  - pria
+  - 'pria berlutut: warna kulit sedang'
+  - warna kulit sedang
+🧎🏾‍♂:
+  - berlutut
+  - pria
+  - 'pria berlutut: warna kulit gelap-sedang'
+  - warna kulit gelap-sedang
+🧎🏿‍♂:
+  - berlutut
+  - pria
+  - 'pria berlutut: warna kulit gelap'
+  - warna kulit gelap
+🧎‍♀:
+  - berlutut
+  - wanita
+  - wanita berlutut
+🧎🏻‍♀:
+  - berlutut
+  - wanita
+  - 'wanita berlutut: warna kulit cerah'
+  - warna kulit cerah
+🧎🏼‍♀:
+  - berlutut
+  - wanita
+  - 'wanita berlutut: warna kulit cerah-sedang'
+  - warna kulit cerah-sedang
+🧎🏽‍♀:
+  - berlutut
+  - wanita
+  - 'wanita berlutut: warna kulit sedang'
+  - warna kulit sedang
+🧎🏾‍♀:
+  - berlutut
+  - wanita
+  - 'wanita berlutut: warna kulit gelap-sedang'
+  - warna kulit gelap-sedang
+🧎🏿‍♀:
+  - berlutut
+  - wanita
+  - 'wanita berlutut: warna kulit gelap'
+  - warna kulit gelap
+👨‍🦯:
+  - aksesiblitas
+  - buta
+  - pria
+  - pria dengan tongkat
+  - tunanetra
+👨🏻‍🦯:
+  - aksesiblitas
+  - buta
+  - pria
+  - pria dengan tongkat
+  - 'pria dengan tongkat: warna kulit cerah'
+  - tunanetra
+  - warna kulit cerah
+👨🏼‍🦯:
+  - aksesiblitas
+  - buta
+  - pria
+  - pria dengan tongkat
+  - 'pria dengan tongkat: warna kulit cerah-sedang'
+  - tunanetra
+  - warna kulit cerah-sedang
+👨🏽‍🦯:
+  - aksesiblitas
+  - buta
+  - pria
+  - pria dengan tongkat
+  - 'pria dengan tongkat: warna kulit sedang'
+  - tunanetra
+  - warna kulit sedang
+👨🏾‍🦯:
+  - aksesiblitas
+  - buta
+  - pria
+  - pria dengan tongkat
+  - 'pria dengan tongkat: warna kulit gelap-sedang'
+  - tunanetra
+  - warna kulit gelap-sedang
+👨🏿‍🦯:
+  - aksesiblitas
+  - buta
+  - pria
+  - pria dengan tongkat
+  - 'pria dengan tongkat: warna kulit gelap'
+  - tunanetra
+  - warna kulit gelap
+👩‍🦯:
+  - aksesiblitas
+  - buta
+  - tunanetra
+  - wanita
+  - wanita dengan tongkat
+👩🏻‍🦯:
+  - aksesiblitas
+  - buta
+  - tunanetra
+  - wanita
+  - wanita dengan tongkat
+  - 'wanita dengan tongkat: warna kulit cerah'
+  - warna kulit cerah
+👩🏼‍🦯:
+  - aksesiblitas
+  - buta
+  - tunanetra
+  - wanita
+  - wanita dengan tongkat
+  - 'wanita dengan tongkat: warna kulit cerah-sedang'
+  - warna kulit cerah-sedang
+👩🏽‍🦯:
+  - aksesiblitas
+  - buta
+  - tunanetra
+  - wanita
+  - wanita dengan tongkat
+  - 'wanita dengan tongkat: warna kulit sedang'
+  - warna kulit sedang
+👩🏾‍🦯:
+  - aksesiblitas
+  - buta
+  - tunanetra
+  - wanita
+  - wanita dengan tongkat
+  - 'wanita dengan tongkat: warna kulit gelap-sedang'
+  - warna kulit gelap-sedang
+👩🏿‍🦯:
+  - aksesiblitas
+  - buta
+  - tunanetra
+  - wanita
+  - wanita dengan tongkat
+  - 'wanita dengan tongkat: warna kulit gelap'
+  - warna kulit gelap
+👨‍🦼:
+  - aksesibilitas
+  - kursi roda
+  - pria
+  - pria dengan kursi roda bermotor
+👨🏻‍🦼:
+  - aksesibilitas
+  - kursi roda
+  - pria
+  - pria dengan kursi roda bermotor
+  - 'pria dengan kursi roda bermotor: warna kulit cerah'
+  - warna kulit cerah
+👨🏼‍🦼:
+  - aksesibilitas
+  - kursi roda
+  - pria
+  - pria dengan kursi roda bermotor
+  - 'pria dengan kursi roda bermotor: warna kulit cerah-sedang'
+  - warna kulit cerah-sedang
+👨🏽‍🦼:
+  - aksesibilitas
+  - kursi roda
+  - pria
+  - pria dengan kursi roda bermotor
+  - 'pria dengan kursi roda bermotor: warna kulit sedang'
+  - warna kulit sedang
+👨🏾‍🦼:
+  - aksesibilitas
+  - kursi roda
+  - pria
+  - pria dengan kursi roda bermotor
+  - 'pria dengan kursi roda bermotor: warna kulit gelap-sedang'
+  - warna kulit gelap-sedang
+👨🏿‍🦼:
+  - aksesibilitas
+  - kursi roda
+  - pria
+  - pria dengan kursi roda bermotor
+  - 'pria dengan kursi roda bermotor: warna kulit gelap'
+  - warna kulit gelap
+👩‍🦼:
+  - aksesibilitas
+  - kursi roda
+  - wanita
+  - wanita dengan kursi roda bermotor
+👩🏻‍🦼:
+  - aksesibilitas
+  - kursi roda
+  - wanita
+  - wanita dengan kursi roda bermotor
+  - 'wanita dengan kursi roda bermotor: warna kulit cerah'
+  - warna kulit cerah
+👩🏼‍🦼:
+  - aksesibilitas
+  - kursi roda
+  - wanita
+  - wanita dengan kursi roda bermotor
+  - 'wanita dengan kursi roda bermotor: warna kulit cerah-sedang'
+  - warna kulit cerah-sedang
+👩🏽‍🦼:
+  - aksesibilitas
+  - kursi roda
+  - wanita
+  - wanita dengan kursi roda bermotor
+  - 'wanita dengan kursi roda bermotor: warna kulit sedang'
+  - warna kulit sedang
+👩🏾‍🦼:
+  - aksesibilitas
+  - kursi roda
+  - wanita
+  - wanita dengan kursi roda bermotor
+  - 'wanita dengan kursi roda bermotor: warna kulit gelap-sedang'
+  - warna kulit gelap-sedang
+👩🏿‍🦼:
+  - aksesibilitas
+  - kursi roda
+  - wanita
+  - wanita dengan kursi roda bermotor
+  - 'wanita dengan kursi roda bermotor: warna kulit gelap'
+  - warna kulit gelap
+👨‍🦽:
+  - aksesibilitas
+  - kursi roda
+  - pria
+  - pria dengan kursi roda
+👨🏻‍🦽:
+  - aksesibilitas
+  - kursi roda
+  - pria
+  - pria dengan kursi roda
+  - 'pria dengan kursi roda: warna kulit cerah'
+  - warna kulit cerah
+👨🏼‍🦽:
+  - aksesibilitas
+  - kursi roda
+  - pria
+  - pria dengan kursi roda
+  - 'pria dengan kursi roda: warna kulit cerah-sedang'
+  - warna kulit cerah-sedang
+👨🏽‍🦽:
+  - aksesibilitas
+  - kursi roda
+  - pria
+  - pria dengan kursi roda
+  - 'pria dengan kursi roda: warna kulit sedang'
+  - warna kulit sedang
+👨🏾‍🦽:
+  - aksesibilitas
+  - kursi roda
+  - pria
+  - pria dengan kursi roda
+  - 'pria dengan kursi roda: warna kulit gelap-sedang'
+  - warna kulit gelap-sedang
+👨🏿‍🦽:
+  - aksesibilitas
+  - kursi roda
+  - pria
+  - pria dengan kursi roda
+  - 'pria dengan kursi roda: warna kulit gelap'
+  - warna kulit gelap
+👩‍🦽:
+  - aksesibilitas
+  - kursi roda
+  - wanita
+  - wanita dengan kursi roda
+👩🏻‍🦽:
+  - aksesibilitas
+  - kursi roda
+  - wanita
+  - wanita dengan kursi roda
+  - 'wanita dengan kursi roda: warna kulit cerah'
+  - warna kulit cerah
+👩🏼‍🦽:
+  - aksesibilitas
+  - kursi roda
+  - wanita
+  - wanita dengan kursi roda
+  - 'wanita dengan kursi roda: warna kulit cerah-sedang'
+  - warna kulit cerah-sedang
+👩🏽‍🦽:
+  - aksesibilitas
+  - kursi roda
+  - wanita
+  - wanita dengan kursi roda
+  - 'wanita dengan kursi roda: warna kulit sedang'
+  - warna kulit sedang
+👩🏾‍🦽:
+  - aksesibilitas
+  - kursi roda
+  - wanita
+  - wanita dengan kursi roda
+  - 'wanita dengan kursi roda: warna kulit gelap-sedang'
+  - warna kulit gelap-sedang
+👩🏿‍🦽:
+  - aksesibilitas
+  - kursi roda
+  - wanita
+  - wanita dengan kursi roda
+  - 'wanita dengan kursi roda: warna kulit gelap'
+  - warna kulit gelap
 🏃:
   - lari
   - marathon
@@ -10313,6 +10979,78 @@
   - 'orang di tempat tidur: warna kulit gelap'
   - tidur
   - warna kulit gelap
+🧑‍🤝‍🧑:
+  - orang bergandengan
+🧑🏻‍🤝‍🧑🏻:
+  - orang bergandengan
+  - 'orang bergandengan: warna kulit cerah'
+  - warna kulit cerah
+🧑🏼‍🤝‍🧑🏻:
+  - orang bergandengan
+  - 'orang bergandengan: warna kulit cerah-sedang, warna kulit cerah'
+  - warna kulit cerah
+  - warna kulit cerah-sedang
+🧑🏼‍🤝‍🧑🏼:
+  - orang bergandengan
+  - 'orang bergandengan: warna kulit cerah-sedang'
+  - warna kulit cerah-sedang
+🧑🏽‍🤝‍🧑🏻:
+  - orang bergandengan
+  - 'orang bergandengan: warna kulit sedang, warna kulit cerah'
+  - warna kulit cerah
+  - warna kulit sedang
+🧑🏽‍🤝‍🧑🏼:
+  - orang bergandengan
+  - 'orang bergandengan: warna kulit sedang, warna kulit cerah-sedang'
+  - warna kulit cerah-sedang
+  - warna kulit sedang
+🧑🏽‍🤝‍🧑🏽:
+  - orang bergandengan
+  - 'orang bergandengan: warna kulit sedang'
+  - warna kulit sedang
+🧑🏾‍🤝‍🧑🏻:
+  - orang bergandengan
+  - 'orang bergandengan: warna kulit gelap-sedang, warna kulit cerah'
+  - warna kulit cerah
+  - warna kulit gelap-sedang
+🧑🏾‍🤝‍🧑🏼:
+  - orang bergandengan
+  - 'orang bergandengan: warna kulit gelap-sedang, warna kulit cerah-sedang'
+  - warna kulit cerah-sedang
+  - warna kulit gelap-sedang
+🧑🏾‍🤝‍🧑🏽:
+  - orang bergandengan
+  - 'orang bergandengan: warna kulit gelap-sedang, warna kulit sedang'
+  - warna kulit gelap-sedang
+  - warna kulit sedang
+🧑🏾‍🤝‍🧑🏾:
+  - orang bergandengan
+  - 'orang bergandengan: warna kulit gelap-sedang'
+  - warna kulit gelap-sedang
+🧑🏿‍🤝‍🧑🏻:
+  - orang bergandengan
+  - 'orang bergandengan: warna kulit gelap, warna kulit cerah'
+  - warna kulit cerah
+  - warna kulit gelap
+🧑🏿‍🤝‍🧑🏼:
+  - orang bergandengan
+  - 'orang bergandengan: warna kulit gelap, warna kulit cerah-sedang'
+  - warna kulit cerah-sedang
+  - warna kulit gelap
+🧑🏿‍🤝‍🧑🏽:
+  - orang bergandengan
+  - 'orang bergandengan: warna kulit gelap, warna kulit sedang'
+  - warna kulit gelap
+  - warna kulit sedang
+🧑🏿‍🤝‍🧑🏾:
+  - orang bergandengan
+  - 'orang bergandengan: warna kulit gelap, warna kulit gelap-sedang'
+  - warna kulit gelap
+  - warna kulit gelap-sedang
+🧑🏿‍🤝‍🧑🏿:
+  - orang bergandengan
+  - 'orang bergandengan: warna kulit gelap'
+  - warna kulit gelap
 👭:
   - cewek
   - dua wanita bergandengan
@@ -10321,6 +11059,166 @@
   - pegangan
   - tangan
   - wanita
+👭🏻:
+  - cewek
+  - dua wanita bergandengan
+  - 'dua wanita bergandengan: warna kulit cerah'
+  - gandeng
+  - pasangan
+  - pegangan
+  - tangan
+  - wanita
+  - warna kulit cerah
+👩🏼‍🤝‍👩🏻:
+  - cewek
+  - dua wanita bergandengan
+  - 'dua wanita bergandengan: warna kulit cerah-sedang, warna kulit cerah'
+  - gandeng
+  - pasangan
+  - pegangan
+  - tangan
+  - wanita
+  - warna kulit cerah
+  - warna kulit cerah-sedang
+👭🏼:
+  - cewek
+  - dua wanita bergandengan
+  - 'dua wanita bergandengan: warna kulit cerah-sedang'
+  - gandeng
+  - pasangan
+  - pegangan
+  - tangan
+  - wanita
+  - warna kulit cerah-sedang
+👩🏽‍🤝‍👩🏻:
+  - cewek
+  - dua wanita bergandengan
+  - 'dua wanita bergandengan: warna kulit sedang, warna kulit cerah'
+  - gandeng
+  - pasangan
+  - pegangan
+  - tangan
+  - wanita
+  - warna kulit cerah
+  - warna kulit sedang
+👩🏽‍🤝‍👩🏼:
+  - cewek
+  - dua wanita bergandengan
+  - 'dua wanita bergandengan: warna kulit sedang, warna kulit cerah-sedang'
+  - gandeng
+  - pasangan
+  - pegangan
+  - tangan
+  - wanita
+  - warna kulit cerah-sedang
+  - warna kulit sedang
+👭🏽:
+  - cewek
+  - dua wanita bergandengan
+  - 'dua wanita bergandengan: warna kulit sedang'
+  - gandeng
+  - pasangan
+  - pegangan
+  - tangan
+  - wanita
+  - warna kulit sedang
+👩🏾‍🤝‍👩🏻:
+  - cewek
+  - dua wanita bergandengan
+  - 'dua wanita bergandengan: warna kulit gelap-sedang, warna kulit cerah'
+  - gandeng
+  - pasangan
+  - pegangan
+  - tangan
+  - wanita
+  - warna kulit cerah
+  - warna kulit gelap-sedang
+👩🏾‍🤝‍👩🏼:
+  - cewek
+  - dua wanita bergandengan
+  - 'dua wanita bergandengan: warna kulit gelap-sedang, warna kulit cerah-sedang'
+  - gandeng
+  - pasangan
+  - pegangan
+  - tangan
+  - wanita
+  - warna kulit cerah-sedang
+  - warna kulit gelap-sedang
+👩🏾‍🤝‍👩🏽:
+  - cewek
+  - dua wanita bergandengan
+  - 'dua wanita bergandengan: warna kulit gelap-sedang, warna kulit sedang'
+  - gandeng
+  - pasangan
+  - pegangan
+  - tangan
+  - wanita
+  - warna kulit gelap-sedang
+  - warna kulit sedang
+👭🏾:
+  - cewek
+  - dua wanita bergandengan
+  - 'dua wanita bergandengan: warna kulit gelap-sedang'
+  - gandeng
+  - pasangan
+  - pegangan
+  - tangan
+  - wanita
+  - warna kulit gelap-sedang
+👩🏿‍🤝‍👩🏻:
+  - cewek
+  - dua wanita bergandengan
+  - 'dua wanita bergandengan: warna kulit gelap, warna kulit cerah'
+  - gandeng
+  - pasangan
+  - pegangan
+  - tangan
+  - wanita
+  - warna kulit cerah
+  - warna kulit gelap
+👩🏿‍🤝‍👩🏼:
+  - cewek
+  - dua wanita bergandengan
+  - 'dua wanita bergandengan: warna kulit gelap, warna kulit cerah-sedang'
+  - gandeng
+  - pasangan
+  - pegangan
+  - tangan
+  - wanita
+  - warna kulit cerah-sedang
+  - warna kulit gelap
+👩🏿‍🤝‍👩🏽:
+  - cewek
+  - dua wanita bergandengan
+  - 'dua wanita bergandengan: warna kulit gelap, warna kulit sedang'
+  - gandeng
+  - pasangan
+  - pegangan
+  - tangan
+  - wanita
+  - warna kulit gelap
+  - warna kulit sedang
+👩🏿‍🤝‍👩🏾:
+  - cewek
+  - dua wanita bergandengan
+  - 'dua wanita bergandengan: warna kulit gelap, warna kulit gelap-sedang'
+  - gandeng
+  - pasangan
+  - pegangan
+  - tangan
+  - wanita
+  - warna kulit gelap
+  - warna kulit gelap-sedang
+👭🏿:
+  - cewek
+  - dua wanita bergandengan
+  - 'dua wanita bergandengan: warna kulit gelap'
+  - gandeng
+  - pasangan
+  - pegangan
+  - tangan
+  - wanita
+  - warna kulit gelap
 👫:
   - pasangan
   - pegangan
@@ -10329,6 +11227,276 @@
   - pria dan wanita berpegangan tangan
   - tangan
   - wanita
+👫🏻:
+  - pasangan
+  - pegangan
+  - pria
+  - pria dan wanita bergandengan
+  - 'pria dan wanita bergandengan: warna kulit cerah'
+  - pria dan wanita berpegangan tangan
+  - tangan
+  - wanita
+  - warna kulit cerah
+👩🏻‍🤝‍👨🏼:
+  - pasangan
+  - pegangan
+  - pria
+  - pria dan wanita bergandengan
+  - 'pria dan wanita bergandengan: warna kulit cerah, warna kulit cerah-sedang'
+  - pria dan wanita berpegangan tangan
+  - tangan
+  - wanita
+  - warna kulit cerah
+  - warna kulit cerah-sedang
+👩🏻‍🤝‍👨🏽:
+  - pasangan
+  - pegangan
+  - pria
+  - pria dan wanita bergandengan
+  - 'pria dan wanita bergandengan: warna kulit cerah, warna kulit sedang'
+  - pria dan wanita berpegangan tangan
+  - tangan
+  - wanita
+  - warna kulit cerah
+  - warna kulit sedang
+👩🏻‍🤝‍👨🏾:
+  - pasangan
+  - pegangan
+  - pria
+  - pria dan wanita bergandengan
+  - 'pria dan wanita bergandengan: warna kulit cerah, warna kulit gelap-sedang'
+  - pria dan wanita berpegangan tangan
+  - tangan
+  - wanita
+  - warna kulit cerah
+  - warna kulit gelap-sedang
+👩🏻‍🤝‍👨🏿:
+  - pasangan
+  - pegangan
+  - pria
+  - pria dan wanita bergandengan
+  - 'pria dan wanita bergandengan: warna kulit cerah, warna kulit gelap'
+  - pria dan wanita berpegangan tangan
+  - tangan
+  - wanita
+  - warna kulit cerah
+  - warna kulit gelap
+👩🏼‍🤝‍👨🏻:
+  - pasangan
+  - pegangan
+  - pria
+  - pria dan wanita bergandengan
+  - 'pria dan wanita bergandengan: warna kulit cerah-sedang, warna kulit cerah'
+  - pria dan wanita berpegangan tangan
+  - tangan
+  - wanita
+  - warna kulit cerah
+  - warna kulit cerah-sedang
+👫🏼:
+  - pasangan
+  - pegangan
+  - pria
+  - pria dan wanita bergandengan
+  - 'pria dan wanita bergandengan: warna kulit cerah-sedang'
+  - pria dan wanita berpegangan tangan
+  - tangan
+  - wanita
+  - warna kulit cerah-sedang
+👩🏼‍🤝‍👨🏽:
+  - pasangan
+  - pegangan
+  - pria
+  - pria dan wanita bergandengan
+  - 'pria dan wanita bergandengan: warna kulit cerah-sedang, warna kulit sedang'
+  - pria dan wanita berpegangan tangan
+  - tangan
+  - wanita
+  - warna kulit cerah-sedang
+  - warna kulit sedang
+👩🏼‍🤝‍👨🏾:
+  - pasangan
+  - pegangan
+  - pria
+  - pria dan wanita bergandengan
+  - 'pria dan wanita bergandengan: warna kulit cerah-sedang, warna kulit gelap-sedang'
+  - pria dan wanita berpegangan tangan
+  - tangan
+  - wanita
+  - warna kulit cerah-sedang
+  - warna kulit gelap-sedang
+👩🏼‍🤝‍👨🏿:
+  - pasangan
+  - pegangan
+  - pria
+  - pria dan wanita bergandengan
+  - 'pria dan wanita bergandengan: warna kulit cerah-sedang, warna kulit gelap'
+  - pria dan wanita berpegangan tangan
+  - tangan
+  - wanita
+  - warna kulit cerah-sedang
+  - warna kulit gelap
+👩🏽‍🤝‍👨🏻:
+  - pasangan
+  - pegangan
+  - pria
+  - pria dan wanita bergandengan
+  - 'pria dan wanita bergandengan: warna kulit sedang, warna kulit cerah'
+  - pria dan wanita berpegangan tangan
+  - tangan
+  - wanita
+  - warna kulit cerah
+  - warna kulit sedang
+👩🏽‍🤝‍👨🏼:
+  - pasangan
+  - pegangan
+  - pria
+  - pria dan wanita bergandengan
+  - 'pria dan wanita bergandengan: warna kulit sedang, warna kulit cerah-sedang'
+  - pria dan wanita berpegangan tangan
+  - tangan
+  - wanita
+  - warna kulit cerah-sedang
+  - warna kulit sedang
+👫🏽:
+  - pasangan
+  - pegangan
+  - pria
+  - pria dan wanita bergandengan
+  - 'pria dan wanita bergandengan: warna kulit sedang'
+  - pria dan wanita berpegangan tangan
+  - tangan
+  - wanita
+  - warna kulit sedang
+👩🏽‍🤝‍👨🏾:
+  - pasangan
+  - pegangan
+  - pria
+  - pria dan wanita bergandengan
+  - 'pria dan wanita bergandengan: warna kulit sedang, warna kulit gelap-sedang'
+  - pria dan wanita berpegangan tangan
+  - tangan
+  - wanita
+  - warna kulit gelap-sedang
+  - warna kulit sedang
+👩🏽‍🤝‍👨🏿:
+  - pasangan
+  - pegangan
+  - pria
+  - pria dan wanita bergandengan
+  - 'pria dan wanita bergandengan: warna kulit sedang, warna kulit gelap'
+  - pria dan wanita berpegangan tangan
+  - tangan
+  - wanita
+  - warna kulit gelap
+  - warna kulit sedang
+👩🏾‍🤝‍👨🏻:
+  - pasangan
+  - pegangan
+  - pria
+  - pria dan wanita bergandengan
+  - 'pria dan wanita bergandengan: warna kulit gelap-sedang, warna kulit cerah'
+  - pria dan wanita berpegangan tangan
+  - tangan
+  - wanita
+  - warna kulit cerah
+  - warna kulit gelap-sedang
+👩🏾‍🤝‍👨🏼:
+  - pasangan
+  - pegangan
+  - pria
+  - pria dan wanita bergandengan
+  - 'pria dan wanita bergandengan: warna kulit gelap-sedang, warna kulit cerah-sedang'
+  - pria dan wanita berpegangan tangan
+  - tangan
+  - wanita
+  - warna kulit cerah-sedang
+  - warna kulit gelap-sedang
+👩🏾‍🤝‍👨🏽:
+  - pasangan
+  - pegangan
+  - pria
+  - pria dan wanita bergandengan
+  - 'pria dan wanita bergandengan: warna kulit gelap-sedang, warna kulit sedang'
+  - pria dan wanita berpegangan tangan
+  - tangan
+  - wanita
+  - warna kulit gelap-sedang
+  - warna kulit sedang
+👫🏾:
+  - pasangan
+  - pegangan
+  - pria
+  - pria dan wanita bergandengan
+  - 'pria dan wanita bergandengan: warna kulit gelap-sedang'
+  - pria dan wanita berpegangan tangan
+  - tangan
+  - wanita
+  - warna kulit gelap-sedang
+👩🏾‍🤝‍👨🏿:
+  - pasangan
+  - pegangan
+  - pria
+  - pria dan wanita bergandengan
+  - 'pria dan wanita bergandengan: warna kulit gelap-sedang, warna kulit gelap'
+  - pria dan wanita berpegangan tangan
+  - tangan
+  - wanita
+  - warna kulit gelap
+  - warna kulit gelap-sedang
+👩🏿‍🤝‍👨🏻:
+  - pasangan
+  - pegangan
+  - pria
+  - pria dan wanita bergandengan
+  - 'pria dan wanita bergandengan: warna kulit gelap, warna kulit cerah'
+  - pria dan wanita berpegangan tangan
+  - tangan
+  - wanita
+  - warna kulit cerah
+  - warna kulit gelap
+👩🏿‍🤝‍👨🏼:
+  - pasangan
+  - pegangan
+  - pria
+  - pria dan wanita bergandengan
+  - 'pria dan wanita bergandengan: warna kulit gelap, warna kulit cerah-sedang'
+  - pria dan wanita berpegangan tangan
+  - tangan
+  - wanita
+  - warna kulit cerah-sedang
+  - warna kulit gelap
+👩🏿‍🤝‍👨🏽:
+  - pasangan
+  - pegangan
+  - pria
+  - pria dan wanita bergandengan
+  - 'pria dan wanita bergandengan: warna kulit gelap, warna kulit sedang'
+  - pria dan wanita berpegangan tangan
+  - tangan
+  - wanita
+  - warna kulit gelap
+  - warna kulit sedang
+👩🏿‍🤝‍👨🏾:
+  - pasangan
+  - pegangan
+  - pria
+  - pria dan wanita bergandengan
+  - 'pria dan wanita bergandengan: warna kulit gelap, warna kulit gelap-sedang'
+  - pria dan wanita berpegangan tangan
+  - tangan
+  - wanita
+  - warna kulit gelap
+  - warna kulit gelap-sedang
+👫🏿:
+  - pasangan
+  - pegangan
+  - pria
+  - pria dan wanita bergandengan
+  - 'pria dan wanita bergandengan: warna kulit gelap'
+  - pria dan wanita berpegangan tangan
+  - tangan
+  - wanita
+  - warna kulit gelap
 👬:
   - cowok
   - dua pria bergandengan
@@ -10339,6 +11507,211 @@
   - pegangan
   - pria
   - tangan
+  - zodiak
+👬🏻:
+  - cowok
+  - dua pria bergandengan
+  - 'dua pria bergandengan: warna kulit cerah'
+  - gandeng
+  - gemini
+  - kembar
+  - pasangan
+  - pegangan
+  - pria
+  - tangan
+  - warna kulit cerah
+  - zodiak
+👨🏼‍🤝‍👨🏻:
+  - cowok
+  - dua pria bergandengan
+  - 'dua pria bergandengan: warna kulit cerah-sedang, warna kulit cerah'
+  - gandeng
+  - gemini
+  - kembar
+  - pasangan
+  - pegangan
+  - pria
+  - tangan
+  - warna kulit cerah
+  - warna kulit cerah-sedang
+  - zodiak
+👬🏼:
+  - cowok
+  - dua pria bergandengan
+  - 'dua pria bergandengan: warna kulit cerah-sedang'
+  - gandeng
+  - gemini
+  - kembar
+  - pasangan
+  - pegangan
+  - pria
+  - tangan
+  - warna kulit cerah-sedang
+  - zodiak
+👨🏽‍🤝‍👨🏻:
+  - cowok
+  - dua pria bergandengan
+  - 'dua pria bergandengan: warna kulit sedang, warna kulit cerah'
+  - gandeng
+  - gemini
+  - kembar
+  - pasangan
+  - pegangan
+  - pria
+  - tangan
+  - warna kulit cerah
+  - warna kulit sedang
+  - zodiak
+👨🏽‍🤝‍👨🏼:
+  - cowok
+  - dua pria bergandengan
+  - 'dua pria bergandengan: warna kulit sedang, warna kulit cerah-sedang'
+  - gandeng
+  - gemini
+  - kembar
+  - pasangan
+  - pegangan
+  - pria
+  - tangan
+  - warna kulit cerah-sedang
+  - warna kulit sedang
+  - zodiak
+👬🏽:
+  - cowok
+  - dua pria bergandengan
+  - 'dua pria bergandengan: warna kulit sedang'
+  - gandeng
+  - gemini
+  - kembar
+  - pasangan
+  - pegangan
+  - pria
+  - tangan
+  - warna kulit sedang
+  - zodiak
+👨🏾‍🤝‍👨🏻:
+  - cowok
+  - dua pria bergandengan
+  - 'dua pria bergandengan: warna kulit gelap-sedang, warna kulit cerah'
+  - gandeng
+  - gemini
+  - kembar
+  - pasangan
+  - pegangan
+  - pria
+  - tangan
+  - warna kulit cerah
+  - warna kulit gelap-sedang
+  - zodiak
+👨🏾‍🤝‍👨🏼:
+  - cowok
+  - dua pria bergandengan
+  - 'dua pria bergandengan: warna kulit gelap-sedang, warna kulit cerah-sedang'
+  - gandeng
+  - gemini
+  - kembar
+  - pasangan
+  - pegangan
+  - pria
+  - tangan
+  - warna kulit cerah-sedang
+  - warna kulit gelap-sedang
+  - zodiak
+👨🏾‍🤝‍👨🏽:
+  - cowok
+  - dua pria bergandengan
+  - 'dua pria bergandengan: warna kulit gelap-sedang, warna kulit sedang'
+  - gandeng
+  - gemini
+  - kembar
+  - pasangan
+  - pegangan
+  - pria
+  - tangan
+  - warna kulit gelap-sedang
+  - warna kulit sedang
+  - zodiak
+👬🏾:
+  - cowok
+  - dua pria bergandengan
+  - 'dua pria bergandengan: warna kulit gelap-sedang'
+  - gandeng
+  - gemini
+  - kembar
+  - pasangan
+  - pegangan
+  - pria
+  - tangan
+  - warna kulit gelap-sedang
+  - zodiak
+👨🏿‍🤝‍👨🏻:
+  - cowok
+  - dua pria bergandengan
+  - 'dua pria bergandengan: warna kulit gelap, warna kulit cerah'
+  - gandeng
+  - gemini
+  - kembar
+  - pasangan
+  - pegangan
+  - pria
+  - tangan
+  - warna kulit cerah
+  - warna kulit gelap
+  - zodiak
+👨🏿‍🤝‍👨🏼:
+  - cowok
+  - dua pria bergandengan
+  - 'dua pria bergandengan: warna kulit gelap, warna kulit cerah-sedang'
+  - gandeng
+  - gemini
+  - kembar
+  - pasangan
+  - pegangan
+  - pria
+  - tangan
+  - warna kulit cerah-sedang
+  - warna kulit gelap
+  - zodiak
+👨🏿‍🤝‍👨🏽:
+  - cowok
+  - dua pria bergandengan
+  - 'dua pria bergandengan: warna kulit gelap, warna kulit sedang'
+  - gandeng
+  - gemini
+  - kembar
+  - pasangan
+  - pegangan
+  - pria
+  - tangan
+  - warna kulit gelap
+  - warna kulit sedang
+  - zodiak
+👨🏿‍🤝‍👨🏾:
+  - cowok
+  - dua pria bergandengan
+  - 'dua pria bergandengan: warna kulit gelap, warna kulit gelap-sedang'
+  - gandeng
+  - gemini
+  - kembar
+  - pasangan
+  - pegangan
+  - pria
+  - tangan
+  - warna kulit gelap
+  - warna kulit gelap-sedang
+  - zodiak
+👬🏿:
+  - cowok
+  - dua pria bergandengan
+  - 'dua pria bergandengan: warna kulit gelap'
+  - gandeng
+  - gemini
+  - kembar
+  - pasangan
+  - pegangan
+  - pria
+  - tangan
+  - warna kulit gelap
   - zodiak
 💏:
   - berciuman
@@ -10741,6 +12114,9 @@
   - binatang
   - gorila
   - kingkong
+🦧:
+  - kera
+  - orangutan
 🐶:
   - anjing
   - hewan
@@ -10750,6 +12126,20 @@
 🐕️:
   - anjing
   - hewan
+🦮:
+  - aksesibilitas
+  - anjing pemandu
+  - buta
+  - panduan
+  - pemandu
+  - tunanetra
+🐕‍🦺:
+  - aksesibilitas
+  - anjing
+  - anjing pembimbing
+  - bantuan
+  - bimbingan
+  - pembimbing
 🐩:
   - anjing
   - pudel
@@ -10759,7 +12149,7 @@
   - wajah
   - wajah serigala
 🦊:
-  - binatang
+  - muka
   - rubah
   - wajah
 🦝:
@@ -10928,6 +12318,19 @@
   - panda
   - wajah
   - wajah panda
+🦥:
+  - kungkang
+  - lambat
+  - malas
+🦦:
+  - berang-berang
+  - ceria
+  - gembira
+  - menangkap ikan
+🦨:
+  - bau
+  - busuk
+  - sigung
 🦘:
   - Australia
   - Joey
@@ -10987,6 +12390,11 @@
   - bijaksana
   - burung
   - burung hantu
+🦩:
+  - flamboyan
+  - flamingo
+  - tropikal
+  - tropis
 🦚:
   - angkuh
   - burung
@@ -10999,10 +12407,9 @@
   - burung
   - nuri
 🐸:
-  - kodok
+  - katak
   - muka
   - wajah
-  - wajah kodok
 🐊:
   - buaya
 🐢:
@@ -11329,6 +12736,12 @@
 🥦:
   - brokoli
   - kubis
+🧄:
+  - bawang putih
+  - bumbu dapur
+🧅:
+  - bawang bombay
+  - bumbu dapur
 🍄:
   - jamur
   - tanaman
@@ -11365,6 +12778,10 @@
   - pancake
   - panekuk
   - serabi
+🧇:
+  - makanan
+  - wafel
+  - waffle
 🧀:
   - irisan keju
   - keju
@@ -11422,6 +12839,10 @@
   - makanan
   - roti isi
   - roti tawar isi
+🧆:
+  - bebola
+  - falafel
+  - kacang arab
 🥚:
   - makanan
   - telur
@@ -11454,6 +12875,9 @@
   - berondong
   - jagung
   - popcorn
+🧈:
+  - mentega
+  - produk susu
 🧂:
   - bumbu
   - garam
@@ -11559,6 +12983,10 @@
   - makanan
   - moluska
   - seafood
+🦪:
+  - menyelam
+  - mutiara
+  - tiram
 🍦:
   - es
   - es krim lembut
@@ -11728,6 +13156,16 @@
   - cangkir dengan sedotan
   - jus
   - soda
+🧃:
+  - kotak jus
+  - kotak minuman
+🧉:
+  - minuman
+  - teh mate
+🧊:
+  - dingin
+  - es batu
+  - gunung es
 🥢:
   - hashi
   - sumpit
@@ -11938,6 +13376,9 @@
   - islam
   - masjid
   - muslim
+🛕:
+  - hindu
+  - pura
 🕍:
   - agama
   - kuil
@@ -12190,6 +13631,15 @@
   - motor skuter
   - skuter
   - vespa
+🦽:
+  - aksesibilitas
+  - kursi roda manual
+🦼:
+  - aksesibilitas
+  - kursi roda bermotor
+🛺:
+  - bajaj
+  - tuk tuk
 🚲️:
   - kendaraan
   - sepeda
@@ -12312,6 +13762,11 @@
   - mendarat
   - pesawat
   - pesawat mendarat
+🪂:
+  - hang-glide
+  - parasail
+  - parasut
+  - terjun payung
 💺:
   - duduk
   - kursi
@@ -12675,6 +14130,9 @@
   - terang
   - wajah
   - wajah matahari
+🪐:
+  - planet bercincin
+  - saturnus
 ⭐️:
   - bintang
   - bintang medium putih
@@ -13065,6 +14523,13 @@
   - ikan
   - tongkat
   - tongkat pancing
+🤿:
+  - kacamata selam
+  - menyelam
+  - scuba
+  - selam
+  - snorkel
+  - snorkeling
 🎽:
   - kaos
   - kaos lari
@@ -13087,6 +14552,14 @@
   - papan sasaran
   - permainan
   - target
+🪀:
+  - mainan
+  - naik-turun
+  - yo-yo
+🪁:
+  - layang-layang
+  - melayang
+  - terbang
 🎱:
   - '8'
   - biliar 8 bola
@@ -13220,6 +14693,12 @@
   - ilmuwan
   - jas laboratorium
   - percobaan
+🦺:
+  - darurat
+  - keselamatan
+  - pengaman
+  - rompi
+  - rompi pengaman
 👔:
   - dasi
   - pakaian
@@ -13253,6 +14732,26 @@
 👘:
   - kimono
   - pakaian
+🥻:
+  - gaun
+  - pakaian
+  - sari
+  - terusan
+🩱:
+  - pakaian renang
+  - pakaian renang one-piece
+🩲:
+  - baju renang
+  - celana renang
+  - one-piece
+  - pakaian dalam
+  - pakaian renang
+🩳:
+  - baju renang
+  - celana
+  - celana pendek
+  - pakaian dalam
+  - pakaian renang
 👙:
   - bikini
   - pakaian
@@ -13317,6 +14816,12 @@
   - sandal wanita
   - sepatu
   - wanita
+🩰:
+  - balet
+  - menari
+  - sepatu balet
+  - tari
+  - tarian
 👢:
   - bot
   - pakaian
@@ -13469,6 +14974,10 @@
   - biola
   - instrumen
   - musik
+🪕:
+  - banjo
+  - musik
+  - senar
 🥁:
   - drum
   - musik
@@ -13620,6 +15129,12 @@
   - lampion merah
   - lentera
   - merah
+🪔:
+  - diya
+  - lampu
+  - lampu diya
+  - lentera
+  - minyak
 📔:
   - buku
   - buku catatan
@@ -13964,6 +15479,11 @@
 🔨:
   - alat
   - palu
+🪓:
+  - belah
+  - kapak
+  - kayu
+  - potong
 ⛏️:
   - alat
   - beliung
@@ -14024,6 +15544,11 @@
   - timbangan
   - timbangan gantung
   - zodiak
+🦯:
+  - aksesibilitas
+  - buta
+  - tongkat tunanetra
+  - tunanetra
 🔗:
   - tautan
 ⛓️:
@@ -14081,11 +15606,24 @@
   - obat
   - sakit
   - suntikan
+🩸:
+  - donor darah
+  - menstruasi
+  - obat
+  - tetesan darah
 💊:
   - dokter
   - obat
   - pil
   - sakit
+🩹:
+  - plester
+  - plester luka
+🩺:
+  - dokter
+  - jantung
+  - obat
+  - stetoskop
 🚪:
   - pintu
 🛏️:
@@ -14097,6 +15635,10 @@
   - lampu
   - sofa
   - sofa dan lampu
+🪑:
+  - bangku
+  - duduk
+  - kursi
 🚽:
   - toilet
 🚿:
@@ -14105,6 +15647,10 @@
 🛁:
   - bathtub
   - mandi
+🪒:
+  - cukur
+  - pisau cukur
+  - tajam
 🧴:
   - botol losion
   - losion
@@ -14696,8 +16242,7 @@
 ☑️:
   - centang
   - kotak
-  - kotak suara bercentang
-  - surat suara
+  - kotak bercentang
 ✔️:
   - centang
   - tanda
@@ -14751,6 +16296,7 @@
   - bintang
   - bintang berujung delapan
 ❇️:
+  - '*'
   - kilauan
 ‼️:
   - bangbang
@@ -15045,11 +16591,31 @@
   - lingkaran
   - lingkaran merah
   - merah
+🟠:
+  - lingkaran
+  - lingkaran oranye
+  - oranye
+🟡:
+  - kuning
+  - lingkaran
+  - lingkaran kuning
+🟢:
+  - hijau
+  - lingkaran
+  - lingkaran hijau
 🔵:
   - biru
   - geometri
   - lingkaran
   - lingkaran biru
+🟣:
+  - lingkaran
+  - lingkaran ungu
+  - ungu
+🟤:
+  - cokelat
+  - lingkaran
+  - lingkaran cokelat
 ⚫️:
   - geometri
   - lingkaran
@@ -15058,6 +16624,34 @@
   - geometri
   - lingkaran
   - lingkaran putih
+🟥:
+  - merah
+  - persegi
+  - persegi merah
+🟧:
+  - oranye
+  - persegi
+  - persegi oranye
+🟨:
+  - kuning
+  - persegi
+  - persegi kuning
+🟩:
+  - hijau
+  - persegi
+  - persegi hijau
+🟦:
+  - biru
+  - persegi
+  - persegi biru
+🟪:
+  - persegi
+  - persegi ungu
+  - ungu
+🟫:
+  - cokelat
+  - persegi
+  - persegi cokelat
 ⬛️:
   - geometri
   - persegi
@@ -15619,7 +17213,7 @@
   - 'bendera: Kepulauan Marshall'
 🇲🇰:
   - bendera
-  - 'bendera: Makedonia'
+  - 'bendera: Makedonia Utara'
 🇲🇱:
   - bendera
   - 'bendera: Mali'
@@ -15826,7 +17420,7 @@
   - 'bendera: Suriah'
 🇸🇿:
   - bendera
-  - 'bendera: Swaziland'
+  - 'bendera: eSwatini'
 🇹🇦:
   - bendera
   - 'bendera: Tristan da Cunha'

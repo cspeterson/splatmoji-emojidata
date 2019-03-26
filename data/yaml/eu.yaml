@@ -75,6 +75,7 @@
   - irribarre
   - irribarre egiten ari den aurpegia argi-koroarekin
 🥰:
+  - irri egiten ari den aurpegia, 3 bihotzekin
   - irribarre egiten ari den aurpegia, 3 bihotzekin
   - maiteminduta
   - oso gustuko
@@ -449,6 +450,11 @@
   - aurpegi
   - nekatu
   - nekatu-aurpegia
+🥱:
+  - aharrausi
+  - aharrausi egiten ari den aurpegia
+  - aspertuta
+  - nekatuta
 😤:
   - aurpegi
   - irabazi
@@ -562,6 +568,7 @@
 😺:
   - aho
   - ahoa irekita duen eta irribarre egiten ari den katu-aurpegia
+  - ahoa irekita duen katu-aurpegi irribarretsua
   - aurpegi
   - ireki
   - irribarre
@@ -585,6 +592,7 @@
   - bihotz-itxurako begiak dituen eta irribarre egiten ari den katu-aurpegia
   - irribarre
   - katu
+  - katu irribarretsua, bihotz-itxurako begiekin
   - maitasun
 😼:
   - aurpegi
@@ -597,6 +605,7 @@
   - aurpegi
   - begi
   - begiak itxita dituen eta musuka ari den katu-aurpegia
+  - begiak itxita musuka ari den katu-aurpegia
   - katu
   - musu
 🙀:
@@ -725,12 +734,20 @@
   - bihotz
   - bihotz morea
   - more
+🤎:
+  - bihotz
+  - bihotz marroia
+  - marroi
 🖤:
   - beltz
   - bihotz
   - bihotz beltza
   - zital
   - zorigaitz
+🤍:
+  - bihotz
+  - bihotz zuria
+  - zuri
 💯:
   - '100'
   - ehun
@@ -1049,6 +1066,34 @@
   - esku
   - gorputz
   - ok
+🤏:
+  - atximurka egiten ari den eskua
+  - pixkat bat
+🤏🏻:
+  - 1–2. mota
+  - atximurka egiten ari den eskua
+  - 'atximurka egiten ari den eskua: 1–2. mota'
+  - pixkat bat
+🤏🏼:
+  - 3. mota
+  - atximurka egiten ari den eskua
+  - 'atximurka egiten ari den eskua: 3. mota'
+  - pixkat bat
+🤏🏽:
+  - atximurka egiten ari den eskua
+  - 'atximurka egiten ari den eskua: bitarteko azal-tonua'
+  - bitarteko azal-tonua
+  - pixkat bat
+🤏🏾:
+  - 5. mota
+  - atximurka egiten ari den eskua
+  - 'atximurka egiten ari den eskua: 5. mota'
+  - pixkat bat
+🤏🏿:
+  - 6. mota
+  - atximurka egiten ari den eskua
+  - 'atximurka egiten ari den eskua: 6. mota'
+  - pixkat bat
 ✌️:
   - esku
   - garaipen
@@ -2185,6 +2230,14 @@
   - gihar
   - gorputz
   - komiki
+🦾:
+  - beso mekanikoa
+  - irisgarritasun
+  - prostetiko
+🦿:
+  - hanka mekanikoa
+  - irisgarritasun
+  - prostetiko
 🦵:
   - gorputz-adar
   - hanka
@@ -2281,6 +2334,40 @@
   - belarria
   - 'belarria: 6. mota'
   - gorputz
+🦻:
+  - audifonoa duen belarria
+  - gortasun
+  - irisgarritasun
+🦻🏻:
+  - 1–2. mota
+  - audifonoa duen belarria
+  - 'audifonoa duen belarria: 1–2. mota'
+  - gortasun
+  - irisgarritasun
+🦻🏼:
+  - 3. mota
+  - audifonoa duen belarria
+  - 'audifonoa duen belarria: 3. mota'
+  - gortasun
+  - irisgarritasun
+🦻🏽:
+  - audifonoa duen belarria
+  - 'audifonoa duen belarria: bitarteko azal-tonua'
+  - bitarteko azal-tonua
+  - gortasun
+  - irisgarritasun
+🦻🏾:
+  - 5. mota
+  - audifonoa duen belarria
+  - 'audifonoa duen belarria: 5. mota'
+  - gortasun
+  - irisgarritasun
+🦻🏿:
+  - 6. mota
+  - audifonoa duen belarria
+  - 'audifonoa duen belarria: 6. mota'
+  - gortasun
+  - irisgarritasun
 👃:
   - gorputz
   - sudurra
@@ -2488,30 +2575,36 @@
   - heldu
   - 'heldu: 6. mota'
 👱:
+  - ile
   - ilehori
   - pertsona ilehoria
 👱🏻:
   - 1–2. mota
+  - ile
   - ilehori
   - pertsona ilehoria
   - 'pertsona ilehoria: 1–2. mota'
 👱🏼:
   - 3. mota
+  - ile
   - ilehori
   - pertsona ilehoria
   - 'pertsona ilehoria: 3. mota'
 👱🏽:
   - bitarteko azal-tonua
+  - ile
   - ilehori
   - pertsona ilehoria
   - 'pertsona ilehoria: bitarteko azal-tonua'
 👱🏾:
   - 5. mota
+  - ile
   - ilehori
   - pertsona ilehoria
   - 'pertsona ilehoria: 5. mota'
 👱🏿:
   - 6. mota
+  - ile
   - ilehori
   - pertsona ilehoria
   - 'pertsona ilehoria: 6. mota'
@@ -4039,6 +4132,132 @@
   - eskua altxatzen ari den emakumea
   - 'eskua altxatzen ari den emakumea: 6. mota'
   - keinu
+🧏:
+  - belarri
+  - enzun
+  - gor
+  - gorra
+  - irisgarritasun
+🧏🏻:
+  - 1–2. mota
+  - belarri
+  - enzun
+  - gor
+  - gorra
+  - 'gorra: 1–2. mota'
+  - irisgarritasun
+🧏🏼:
+  - 3. mota
+  - belarri
+  - enzun
+  - gor
+  - gorra
+  - 'gorra: 3. mota'
+  - irisgarritasun
+🧏🏽:
+  - belarri
+  - bitarteko azal-tonua
+  - enzun
+  - gor
+  - gorra
+  - 'gorra: bitarteko azal-tonua'
+  - irisgarritasun
+🧏🏾:
+  - 5. mota
+  - belarri
+  - enzun
+  - gor
+  - gorra
+  - 'gorra: 5. mota'
+  - irisgarritasun
+🧏🏿:
+  - 6. mota
+  - belarri
+  - enzun
+  - gor
+  - gorra
+  - 'gorra: 6. mota'
+  - irisgarritasun
+🧏‍♂:
+  - gizon
+  - gizon gorra
+  - gizonezko
+  - gor
+🧏🏻‍♂:
+  - 1–2. mota
+  - gizon
+  - gizon gorra
+  - 'gizon gorra: 1–2. mota'
+  - gizonezko
+  - gor
+🧏🏼‍♂:
+  - 3. mota
+  - gizon
+  - gizon gorra
+  - 'gizon gorra: 3. mota'
+  - gizonezko
+  - gor
+🧏🏽‍♂:
+  - bitarteko azal-tonua
+  - gizon
+  - gizon gorra
+  - 'gizon gorra: bitarteko azal-tonua'
+  - gizonezko
+  - gor
+🧏🏾‍♂:
+  - 5. mota
+  - gizon
+  - gizon gorra
+  - 'gizon gorra: 5. mota'
+  - gizonezko
+  - gor
+🧏🏿‍♂:
+  - 6. mota
+  - gizon
+  - gizon gorra
+  - 'gizon gorra: 6. mota'
+  - gizonezko
+  - gor
+🧏‍♀:
+  - emakume
+  - emakume gorra
+  - emakumezko
+  - gor
+🧏🏻‍♀:
+  - 1–2. mota
+  - emakume
+  - emakume gorra
+  - 'emakume gorra: 1–2. mota'
+  - emakumezko
+  - gor
+🧏🏼‍♀:
+  - 3. mota
+  - emakume
+  - emakume gorra
+  - 'emakume gorra: 3. mota'
+  - emakumezko
+  - gor
+🧏🏽‍♀:
+  - bitarteko azal-tonua
+  - emakume
+  - emakume gorra
+  - 'emakume gorra: bitarteko azal-tonua'
+  - emakumezko
+  - gor
+🧏🏾‍♀:
+  - 5. mota
+  - emakume
+  - emakume gorra
+  - 'emakume gorra: 5. mota'
+  - emakumezko
+  - gor
+🧏🏿‍♀:
+  - 6. mota
+  - emakume
+  - emakume gorra
+  - 'emakume gorra: 6. mota'
+  - emakumezko
+  - gor
 🙇:
   - barkamen
   - barkatu
@@ -8402,6 +8621,510 @@
   - oinez
   - oinez ari den emakumea
   - 'oinez ari den emakumea: 6. mota'
+🧍:
+  - zutik
+  - zutik dagoen pertsona
+  - zutitu
+🧍🏻:
+  - 1–2. mota
+  - zutik
+  - zutik dagoen pertsona
+  - 'zutik dagoen pertsona: 1–2. mota'
+  - zutitu
+🧍🏼:
+  - 3. mota
+  - zutik
+  - zutik dagoen pertsona
+  - 'zutik dagoen pertsona: 3. mota'
+  - zutitu
+🧍🏽:
+  - bitarteko azal-tonua
+  - zutik
+  - zutik dagoen pertsona
+  - 'zutik dagoen pertsona: bitarteko azal-tonua'
+  - zutitu
+🧍🏾:
+  - 5. mota
+  - zutik
+  - zutik dagoen pertsona
+  - 'zutik dagoen pertsona: 5. mota'
+  - zutitu
+🧍🏿:
+  - 6. mota
+  - zutik
+  - zutik dagoen pertsona
+  - 'zutik dagoen pertsona: 6. mota'
+  - zutitu
+🧍‍♂:
+  - gizon
+  - gizonezko
+  - zutik
+  - zutik dagoen gizona
+🧍🏻‍♂:
+  - 1–2. mota
+  - gizon
+  - gizonezko
+  - zutik
+  - zutik dagoen gizona
+  - 'zutik dagoen gizona: 1–2. mota'
+🧍🏼‍♂:
+  - 3. mota
+  - gizon
+  - gizonezko
+  - zutik
+  - zutik dagoen gizona
+  - 'zutik dagoen gizona: 3. mota'
+🧍🏽‍♂:
+  - bitarteko azal-tonua
+  - gizon
+  - gizonezko
+  - zutik
+  - zutik dagoen gizona
+  - 'zutik dagoen gizona: bitarteko azal-tonua'
+🧍🏾‍♂:
+  - 5. mota
+  - gizon
+  - gizonezko
+  - zutik
+  - zutik dagoen gizona
+  - 'zutik dagoen gizona: 5. mota'
+🧍🏿‍♂:
+  - 6. mota
+  - gizon
+  - gizonezko
+  - zutik
+  - zutik dagoen gizona
+  - 'zutik dagoen gizona: 6. mota'
+🧍‍♀:
+  - emakume
+  - emakumezko
+  - zutik
+  - zutik dagoen emakumea
+🧍🏻‍♀:
+  - 1–2. mota
+  - emakume
+  - emakumezko
+  - zutik
+  - zutik dagoen emakumea
+  - 'zutik dagoen emakumea: 1–2. mota'
+🧍🏼‍♀:
+  - 3. mota
+  - emakume
+  - emakumezko
+  - zutik
+  - zutik dagoen emakumea
+  - 'zutik dagoen emakumea: 3. mota'
+🧍🏽‍♀:
+  - bitarteko azal-tonua
+  - emakume
+  - emakumezko
+  - zutik
+  - zutik dagoen emakumea
+  - 'zutik dagoen emakumea: bitarteko azal-tonua'
+🧍🏾‍♀:
+  - 5. mota
+  - emakume
+  - emakumezko
+  - zutik
+  - zutik dagoen emakumea
+  - 'zutik dagoen emakumea: 5. mota'
+🧍🏿‍♀:
+  - 6. mota
+  - emakume
+  - emakumezko
+  - zutik
+  - zutik dagoen emakumea
+  - 'zutik dagoen emakumea: 6. mota'
+🧎:
+  - belaunikatu
+  - belauniko
+  - belauniko dagoen pertsona
+🧎🏻:
+  - 1–2. mota
+  - belaunikatu
+  - belauniko
+  - belauniko dagoen pertsona
+  - 'belauniko dagoen pertsona: 1–2. mota'
+🧎🏼:
+  - 3. mota
+  - belaunikatu
+  - belauniko
+  - belauniko dagoen pertsona
+  - 'belauniko dagoen pertsona: 3. mota'
+🧎🏽:
+  - belaunikatu
+  - belauniko
+  - belauniko dagoen pertsona
+  - 'belauniko dagoen pertsona: bitarteko azal-tonua'
+  - bitarteko azal-tonua
+🧎🏾:
+  - 5. mota
+  - belaunikatu
+  - belauniko
+  - belauniko dagoen pertsona
+  - 'belauniko dagoen pertsona: 5. mota'
+🧎🏿:
+  - 6. mota
+  - belaunikatu
+  - belauniko
+  - belauniko dagoen pertsona
+  - 'belauniko dagoen pertsona: 6. mota'
+🧎‍♂:
+  - belauniko
+  - belauniko dagoen gizona
+  - gizon
+  - gizonezko
+🧎🏻‍♂:
+  - 1–2. mota
+  - belauniko
+  - belauniko dagoen gizona
+  - 'belauniko dagoen gizona: 1–2. mota'
+  - gizon
+  - gizonezko
+🧎🏼‍♂:
+  - 3. mota
+  - belauniko
+  - belauniko dagoen gizona
+  - 'belauniko dagoen gizona: 3. mota'
+  - gizon
+  - gizonezko
+🧎🏽‍♂:
+  - belauniko
+  - belauniko dagoen gizona
+  - 'belauniko dagoen gizona: bitarteko azal-tonua'
+  - bitarteko azal-tonua
+  - gizon
+  - gizonezko
+🧎🏾‍♂:
+  - 5. mota
+  - belauniko
+  - belauniko dagoen gizona
+  - 'belauniko dagoen gizona: 5. mota'
+  - gizon
+  - gizonezko
+🧎🏿‍♂:
+  - 6. mota
+  - belauniko
+  - belauniko dagoen gizona
+  - 'belauniko dagoen gizona: 6. mota'
+  - gizon
+  - gizonezko
+🧎‍♀:
+  - belauniko
+  - belauniko dagoen emakumea
+  - emakume
+  - emakumezko
+🧎🏻‍♀:
+  - 1–2. mota
+  - belauniko
+  - belauniko dagoen emakumea
+  - 'belauniko dagoen emakumea: 1–2. mota'
+  - emakume
+  - emakumezko
+🧎🏼‍♀:
+  - 3. mota
+  - belauniko
+  - belauniko dagoen emakumea
+  - 'belauniko dagoen emakumea: 3. mota'
+  - emakume
+  - emakumezko
+🧎🏽‍♀:
+  - belauniko
+  - belauniko dagoen emakumea
+  - 'belauniko dagoen emakumea: bitarteko azal-tonua'
+  - bitarteko azal-tonua
+  - emakume
+  - emakumezko
+🧎🏾‍♀:
+  - 5. mota
+  - belauniko
+  - belauniko dagoen emakumea
+  - 'belauniko dagoen emakumea: 5. mota'
+  - emakume
+  - emakumezko
+🧎🏿‍♀:
+  - 6. mota
+  - belauniko
+  - belauniko dagoen emakumea
+  - 'belauniko dagoen emakumea: 6. mota'
+  - emakume
+  - emakumezko
+👨‍🦯:
+  - gizon
+  - gizonezko
+  - irisgarritasun
+  - itsu
+  - itsu-makila daraman gizona
+👨🏻‍🦯:
+  - 1–2. mota
+  - gizon
+  - gizonezko
+  - irisgarritasun
+  - itsu
+  - itsu-makila daraman gizona
+  - 'itsu-makila daraman gizona: 1–2. mota'
+👨🏼‍🦯:
+  - 3. mota
+  - gizon
+  - gizonezko
+  - irisgarritasun
+  - itsu
+  - itsu-makila daraman gizona
+  - 'itsu-makila daraman gizona: 3. mota'
+👨🏽‍🦯:
+  - bitarteko azal-tonua
+  - gizon
+  - gizonezko
+  - irisgarritasun
+  - itsu
+  - itsu-makila daraman gizona
+  - 'itsu-makila daraman gizona: bitarteko azal-tonua'
+👨🏾‍🦯:
+  - 5. mota
+  - gizon
+  - gizonezko
+  - irisgarritasun
+  - itsu
+  - itsu-makila daraman gizona
+  - 'itsu-makila daraman gizona: 5. mota'
+👨🏿‍🦯:
+  - 6. mota
+  - gizon
+  - gizonezko
+  - irisgarritasun
+  - itsu
+  - itsu-makila daraman gizona
+  - 'itsu-makila daraman gizona: 6. mota'
+👩‍🦯:
+  - emakume
+  - emakumezko
+  - irisgarritasun
+  - itsu
+  - itsu-makila daraman emakumea
+👩🏻‍🦯:
+  - 1–2. mota
+  - emakume
+  - emakumezko
+  - irisgarritasun
+  - itsu
+  - itsu-makila daraman emakumea
+  - 'itsu-makila daraman emakumea: 1–2. mota'
+👩🏼‍🦯:
+  - 3. mota
+  - emakume
+  - emakumezko
+  - irisgarritasun
+  - itsu
+  - itsu-makila daraman emakumea
+  - 'itsu-makila daraman emakumea: 3. mota'
+👩🏽‍🦯:
+  - bitarteko azal-tonua
+  - emakume
+  - emakumezko
+  - irisgarritasun
+  - itsu
+  - itsu-makila daraman emakumea
+  - 'itsu-makila daraman emakumea: bitarteko azal-tonua'
+👩🏾‍🦯:
+  - 5. mota
+  - emakume
+  - emakumezko
+  - irisgarritasun
+  - itsu
+  - itsu-makila daraman emakumea
+  - 'itsu-makila daraman emakumea: 5. mota'
+👩🏿‍🦯:
+  - 6. mota
+  - emakume
+  - emakumezko
+  - irisgarritasun
+  - itsu
+  - itsu-makila daraman emakumea
+  - 'itsu-makila daraman emakumea: 6. mota'
+👨‍🦼:
+  - gizon
+  - gizonezko
+  - gurpil-aulki
+  - gurpil-aulki motordunean doan gizona
+  - irisgarritasun
+👨🏻‍🦼:
+  - 1–2. mota
+  - gizon
+  - gizonezko
+  - gurpil-aulki
+  - gurpil-aulki motordunean doan gizona
+  - 'gurpil-aulki motordunean doan gizona: 1–2. mota'
+  - irisgarritasun
+👨🏼‍🦼:
+  - 3. mota
+  - gizon
+  - gizonezko
+  - gurpil-aulki
+  - gurpil-aulki motordunean doan gizona
+  - 'gurpil-aulki motordunean doan gizona: 3. mota'
+  - irisgarritasun
+👨🏽‍🦼:
+  - bitarteko azal-tonua
+  - gizon
+  - gizonezko
+  - gurpil-aulki
+  - gurpil-aulki motordunean doan gizona
+  - 'gurpil-aulki motordunean doan gizona: bitarteko azal-tonua'
+  - irisgarritasun
+👨🏾‍🦼:
+  - 5. mota
+  - gizon
+  - gizonezko
+  - gurpil-aulki
+  - gurpil-aulki motordunean doan gizona
+  - 'gurpil-aulki motordunean doan gizona: 5. mota'
+  - irisgarritasun
+👨🏿‍🦼:
+  - 6. mota
+  - gizon
+  - gizonezko
+  - gurpil-aulki
+  - gurpil-aulki motordunean doan gizona
+  - 'gurpil-aulki motordunean doan gizona: 6. mota'
+  - irisgarritasun
+👩‍🦼:
+  - emakume
+  - emakumezko
+  - gurpil-aulki
+  - gurpil-aulki motordunean doan emakumea
+  - irisgarritasun
+👩🏻‍🦼:
+  - 1–2. mota
+  - emakume
+  - emakumezko
+  - gurpil-aulki
+  - gurpil-aulki motordunean doan emakumea
+  - 'gurpil-aulki motordunean doan emakumea: 1–2. mota'
+  - irisgarritasun
+👩🏼‍🦼:
+  - 3. mota
+  - emakume
+  - emakumezko
+  - gurpil-aulki
+  - gurpil-aulki motordunean doan emakumea
+  - 'gurpil-aulki motordunean doan emakumea: 3. mota'
+  - irisgarritasun
+👩🏽‍🦼:
+  - bitarteko azal-tonua
+  - emakume
+  - emakumezko
+  - gurpil-aulki
+  - gurpil-aulki motordunean doan emakumea
+  - 'gurpil-aulki motordunean doan emakumea: bitarteko azal-tonua'
+  - irisgarritasun
+👩🏾‍🦼:
+  - 5. mota
+  - emakume
+  - emakumezko
+  - gurpil-aulki
+  - gurpil-aulki motordunean doan emakumea
+  - 'gurpil-aulki motordunean doan emakumea: 5. mota'
+  - irisgarritasun
+👩🏿‍🦼:
+  - 6. mota
+  - emakume
+  - emakumezko
+  - gurpil-aulki
+  - gurpil-aulki motordunean doan emakumea
+  - 'gurpil-aulki motordunean doan emakumea: 6. mota'
+  - irisgarritasun
+👨‍🦽:
+  - eskuzko gurpil-aulkian doan gizona
+  - gizon
+  - gizonezko
+  - gurpil-aulki
+  - irisgarritasun
+👨🏻‍🦽:
+  - 1–2. mota
+  - eskuzko gurpil-aulkian doan gizona
+  - 'eskuzko gurpil-aulkian doan gizona: 1–2. mota'
+  - gizon
+  - gizonezko
+  - gurpil-aulki
+  - irisgarritasun
+👨🏼‍🦽:
+  - 3. mota
+  - eskuzko gurpil-aulkian doan gizona
+  - 'eskuzko gurpil-aulkian doan gizona: 3. mota'
+  - gizon
+  - gizonezko
+  - gurpil-aulki
+  - irisgarritasun
+👨🏽‍🦽:
+  - bitarteko azal-tonua
+  - eskuzko gurpil-aulkian doan gizona
+  - 'eskuzko gurpil-aulkian doan gizona: bitarteko azal-tonua'
+  - gizon
+  - gizonezko
+  - gurpil-aulki
+  - irisgarritasun
+👨🏾‍🦽:
+  - 5. mota
+  - eskuzko gurpil-aulkian doan gizona
+  - 'eskuzko gurpil-aulkian doan gizona: 5. mota'
+  - gizon
+  - gizonezko
+  - gurpil-aulki
+  - irisgarritasun
+👨🏿‍🦽:
+  - 6. mota
+  - eskuzko gurpil-aulkian doan gizona
+  - 'eskuzko gurpil-aulkian doan gizona: 6. mota'
+  - gizon
+  - gizonezko
+  - gurpil-aulki
+  - irisgarritasun
+👩‍🦽:
+  - emakume
+  - emakumezko
+  - eskuzko gurpil-aulkian doan emakumea
+  - gurpil-aulki
+  - irisgarritasun
+👩🏻‍🦽:
+  - 1–2. mota
+  - emakume
+  - emakumezko
+  - eskuzko gurpil-aulkian doan emakumea
+  - 'eskuzko gurpil-aulkian doan emakumea: 1–2. mota'
+  - gurpil-aulki
+  - irisgarritasun
+👩🏼‍🦽:
+  - 3. mota
+  - emakume
+  - emakumezko
+  - eskuzko gurpil-aulkian doan emakumea
+  - 'eskuzko gurpil-aulkian doan emakumea: 3. mota'
+  - gurpil-aulki
+  - irisgarritasun
+👩🏽‍🦽:
+  - bitarteko azal-tonua
+  - emakume
+  - emakumezko
+  - eskuzko gurpil-aulkian doan emakumea
+  - 'eskuzko gurpil-aulkian doan emakumea: bitarteko azal-tonua'
+  - gurpil-aulki
+  - irisgarritasun
+👩🏾‍🦽:
+  - 5. mota
+  - emakume
+  - emakumezko
+  - eskuzko gurpil-aulkian doan emakumea
+  - 'eskuzko gurpil-aulkian doan emakumea: 5. mota'
+  - gurpil-aulki
+  - irisgarritasun
+👩🏿‍🦽:
+  - 6. mota
+  - emakume
+  - emakumezko
+  - eskuzko gurpil-aulkian doan emakumea
+  - 'eskuzko gurpil-aulkian doan emakumea: 6. mota'
+  - gurpil-aulki
+  - irisgarritasun
 🏃:
   - korrika
   - korrika ari den pertsona
@@ -10627,25 +11350,737 @@
   - lo
   - pertsona bat ohean
   - 'pertsona bat ohean: 6. mota'
+🧑‍🤝‍🧑:
+  - bi pertsona elkarri eskua ematen
+  - bikote
+  - elkarri eskua ematen
+  - eman
+  - esku
+  - pertsona
+🧑🏻‍🤝‍🧑🏻:
+  - 1–2. mota
+  - bi pertsona elkarri eskua ematen
+  - 'bi pertsona elkarri eskua ematen: 1–2. mota'
+  - bikote
+  - elkarri eskua ematen
+  - eman
+  - esku
+  - pertsona
+🧑🏼‍🤝‍🧑🏻:
+  - 1–2. mota
+  - 3. mota
+  - bi pertsona elkarri eskua ematen
+  - 'bi pertsona elkarri eskua ematen: 3. mota eta 1–2. mota'
+  - bikote
+  - elkarri eskua ematen
+  - eman
+  - esku
+  - pertsona
+🧑🏼‍🤝‍🧑🏼:
+  - 3. mota
+  - bi pertsona elkarri eskua ematen
+  - 'bi pertsona elkarri eskua ematen: 3. mota'
+  - bikote
+  - elkarri eskua ematen
+  - eman
+  - esku
+  - pertsona
+🧑🏽‍🤝‍🧑🏻:
+  - 1–2. mota
+  - bi pertsona elkarri eskua ematen
+  - 'bi pertsona elkarri eskua ematen: bitarteko azal-tonua eta 1–2. mota'
+  - bikote
+  - bitarteko azal-tonua
+  - elkarri eskua ematen
+  - eman
+  - esku
+  - pertsona
+🧑🏽‍🤝‍🧑🏼:
+  - 3. mota
+  - bi pertsona elkarri eskua ematen
+  - 'bi pertsona elkarri eskua ematen: bitarteko azal-tonua eta 3. mota'
+  - bikote
+  - bitarteko azal-tonua
+  - elkarri eskua ematen
+  - eman
+  - esku
+  - pertsona
+🧑🏽‍🤝‍🧑🏽:
+  - bi pertsona elkarri eskua ematen
+  - 'bi pertsona elkarri eskua ematen: bitarteko azal-tonua'
+  - bikote
+  - bitarteko azal-tonua
+  - elkarri eskua ematen
+  - eman
+  - esku
+  - pertsona
+🧑🏾‍🤝‍🧑🏻:
+  - 1–2. mota
+  - 5. mota
+  - bi pertsona elkarri eskua ematen
+  - 'bi pertsona elkarri eskua ematen: 5. mota eta 1–2. mota'
+  - bikote
+  - elkarri eskua ematen
+  - eman
+  - esku
+  - pertsona
+🧑🏾‍🤝‍🧑🏼:
+  - 3. mota
+  - 5. mota
+  - bi pertsona elkarri eskua ematen
+  - 'bi pertsona elkarri eskua ematen: 5. mota eta 3. mota'
+  - bikote
+  - elkarri eskua ematen
+  - eman
+  - esku
+  - pertsona
+🧑🏾‍🤝‍🧑🏽:
+  - 5. mota
+  - bi pertsona elkarri eskua ematen
+  - 'bi pertsona elkarri eskua ematen: 5. mota eta bitarteko azal-tonua'
+  - bikote
+  - bitarteko azal-tonua
+  - elkarri eskua ematen
+  - eman
+  - esku
+  - pertsona
+🧑🏾‍🤝‍🧑🏾:
+  - 5. mota
+  - bi pertsona elkarri eskua ematen
+  - 'bi pertsona elkarri eskua ematen: 5. mota'
+  - bikote
+  - elkarri eskua ematen
+  - eman
+  - esku
+  - pertsona
+🧑🏿‍🤝‍🧑🏻:
+  - 1–2. mota
+  - 6. mota
+  - bi pertsona elkarri eskua ematen
+  - 'bi pertsona elkarri eskua ematen: 6. mota eta 1–2. mota'
+  - bikote
+  - elkarri eskua ematen
+  - eman
+  - esku
+  - pertsona
+🧑🏿‍🤝‍🧑🏼:
+  - 3. mota
+  - 6. mota
+  - bi pertsona elkarri eskua ematen
+  - 'bi pertsona elkarri eskua ematen: 6. mota eta 3. mota'
+  - bikote
+  - elkarri eskua ematen
+  - eman
+  - esku
+  - pertsona
+🧑🏿‍🤝‍🧑🏽:
+  - 6. mota
+  - bi pertsona elkarri eskua ematen
+  - 'bi pertsona elkarri eskua ematen: 6. mota eta bitarteko azal-tonua'
+  - bikote
+  - bitarteko azal-tonua
+  - elkarri eskua ematen
+  - eman
+  - esku
+  - pertsona
+🧑🏿‍🤝‍🧑🏾:
+  - 5. mota
+  - 6. mota
+  - bi pertsona elkarri eskua ematen
+  - 'bi pertsona elkarri eskua ematen: 6. mota eta 5. mota'
+  - bikote
+  - elkarri eskua ematen
+  - eman
+  - esku
+  - pertsona
+🧑🏿‍🤝‍🧑🏿:
+  - 6. mota
+  - bi pertsona elkarri eskua ematen
+  - 'bi pertsona elkarri eskua ematen: 6. mota'
+  - bikote
+  - elkarri eskua ematen
+  - eman
+  - esku
+  - pertsona
 👭:
-  - bi emakume batak bestearen eskuari eusten
+  - bi emakume elkarri eskua ematen
   - bikote
   - emakume
+  - eman
   - esku
-  - eutsi
+👭🏻:
+  - 1–2. mota
+  - bi emakume elkarri eskua ematen
+  - 'bi emakume elkarri eskua ematen: 1–2. mota'
+  - bikote
+  - emakume
+  - eman
+  - esku
+👩🏼‍🤝‍👩🏻:
+  - 1–2. mota
+  - 3. mota
+  - bi emakume elkarri eskua ematen
+  - 'bi emakume elkarri eskua ematen: 3. mota eta 1–2. mota'
+  - bikote
+  - emakume
+  - eman
+  - esku
+👭🏼:
+  - 3. mota
+  - bi emakume elkarri eskua ematen
+  - 'bi emakume elkarri eskua ematen: 3. mota'
+  - bikote
+  - emakume
+  - eman
+  - esku
+👩🏽‍🤝‍👩🏻:
+  - 1–2. mota
+  - bi emakume elkarri eskua ematen
+  - 'bi emakume elkarri eskua ematen: bitarteko azal-tonua eta 1–2. mota'
+  - bikote
+  - bitarteko azal-tonua
+  - emakume
+  - eman
+  - esku
+👩🏽‍🤝‍👩🏼:
+  - 3. mota
+  - bi emakume elkarri eskua ematen
+  - 'bi emakume elkarri eskua ematen: bitarteko azal-tonua eta 3. mota'
+  - bikote
+  - bitarteko azal-tonua
+  - emakume
+  - eman
+  - esku
+👭🏽:
+  - bi emakume elkarri eskua ematen
+  - 'bi emakume elkarri eskua ematen: bitarteko azal-tonua'
+  - bikote
+  - bitarteko azal-tonua
+  - emakume
+  - eman
+  - esku
+👩🏾‍🤝‍👩🏻:
+  - 1–2. mota
+  - 5. mota
+  - bi emakume elkarri eskua ematen
+  - 'bi emakume elkarri eskua ematen: 5. mota eta 1–2. mota'
+  - bikote
+  - emakume
+  - eman
+  - esku
+👩🏾‍🤝‍👩🏼:
+  - 3. mota
+  - 5. mota
+  - bi emakume elkarri eskua ematen
+  - 'bi emakume elkarri eskua ematen: 5. mota eta 3. mota'
+  - bikote
+  - emakume
+  - eman
+  - esku
+👩🏾‍🤝‍👩🏽:
+  - 5. mota
+  - bi emakume elkarri eskua ematen
+  - 'bi emakume elkarri eskua ematen: 5. mota eta bitarteko azal-tonua'
+  - bikote
+  - bitarteko azal-tonua
+  - emakume
+  - eman
+  - esku
+👭🏾:
+  - 5. mota
+  - bi emakume elkarri eskua ematen
+  - 'bi emakume elkarri eskua ematen: 5. mota'
+  - bikote
+  - emakume
+  - eman
+  - esku
+👩🏿‍🤝‍👩🏻:
+  - 1–2. mota
+  - 6. mota
+  - bi emakume elkarri eskua ematen
+  - 'bi emakume elkarri eskua ematen: 6. mota eta 1–2. mota'
+  - bikote
+  - emakume
+  - eman
+  - esku
+👩🏿‍🤝‍👩🏼:
+  - 3. mota
+  - 6. mota
+  - bi emakume elkarri eskua ematen
+  - 'bi emakume elkarri eskua ematen: 6. mota eta 3. mota'
+  - bikote
+  - emakume
+  - eman
+  - esku
+👩🏿‍🤝‍👩🏽:
+  - 6. mota
+  - bi emakume elkarri eskua ematen
+  - 'bi emakume elkarri eskua ematen: 6. mota eta bitarteko azal-tonua'
+  - bikote
+  - bitarteko azal-tonua
+  - emakume
+  - eman
+  - esku
+👩🏿‍🤝‍👩🏾:
+  - 5. mota
+  - 6. mota
+  - bi emakume elkarri eskua ematen
+  - 'bi emakume elkarri eskua ematen: 6. mota eta 5. mota'
+  - bikote
+  - emakume
+  - eman
+  - esku
+👭🏿:
+  - 6. mota
+  - bi emakume elkarri eskua ematen
+  - 'bi emakume elkarri eskua ematen: 6. mota'
+  - bikote
+  - emakume
+  - eman
+  - esku
 👫:
   - bikote
+  - elkarri eskua ematen
   - emakume
+  - eman
   - esku
-  - eutsi
   - gizon
-  - gizon-emakumeak batak bestearen eskuari eusten
+  - gizon-emakumeak elkarri eskua ematen
+👫🏻:
+  - 1–2. mota
+  - bikote
+  - elkarri eskua ematen
+  - emakume
+  - eman
+  - esku
+  - gizon
+  - gizon-emakumeak elkarri eskua ematen
+  - 'gizon-emakumeak elkarri eskua ematen: 1–2. mota'
+👩🏻‍🤝‍👨🏼:
+  - 1–2. mota
+  - 3. mota
+  - bikote
+  - elkarri eskua ematen
+  - emakume
+  - eman
+  - esku
+  - gizon
+  - gizon-emakumeak elkarri eskua ematen
+  - 'gizon-emakumeak elkarri eskua ematen: 1–2. mota eta 3. mota'
+👩🏻‍🤝‍👨🏽:
+  - 1–2. mota
+  - bikote
+  - bitarteko azal-tonua
+  - elkarri eskua ematen
+  - emakume
+  - eman
+  - esku
+  - gizon
+  - gizon-emakumeak elkarri eskua ematen
+  - 'gizon-emakumeak elkarri eskua ematen: 1–2. mota eta bitarteko azal-tonua'
+👩🏻‍🤝‍👨🏾:
+  - 1–2. mota
+  - 5. mota
+  - bikote
+  - elkarri eskua ematen
+  - emakume
+  - eman
+  - esku
+  - gizon
+  - gizon-emakumeak elkarri eskua ematen
+  - 'gizon-emakumeak elkarri eskua ematen: 1–2. mota eta 5. mota'
+👩🏻‍🤝‍👨🏿:
+  - 1–2. mota
+  - 6. mota
+  - bikote
+  - elkarri eskua ematen
+  - emakume
+  - eman
+  - esku
+  - gizon
+  - gizon-emakumeak elkarri eskua ematen
+  - 'gizon-emakumeak elkarri eskua ematen: 1–2. mota eta 6. mota'
+👩🏼‍🤝‍👨🏻:
+  - 1–2. mota
+  - 3. mota
+  - bikote
+  - elkarri eskua ematen
+  - emakume
+  - eman
+  - esku
+  - gizon
+  - gizon-emakumeak elkarri eskua ematen
+  - 'gizon-emakumeak elkarri eskua ematen: 3. mota eta 1–2. mota'
+👫🏼:
+  - 3. mota
+  - bikote
+  - elkarri eskua ematen
+  - emakume
+  - eman
+  - esku
+  - gizon
+  - gizon-emakumeak elkarri eskua ematen
+  - 'gizon-emakumeak elkarri eskua ematen: 3. mota'
+👩🏼‍🤝‍👨🏽:
+  - 3. mota
+  - bikote
+  - bitarteko azal-tonua
+  - elkarri eskua ematen
+  - emakume
+  - eman
+  - esku
+  - gizon
+  - gizon-emakumeak elkarri eskua ematen
+  - 'gizon-emakumeak elkarri eskua ematen: 3. mota eta bitarteko azal-tonua'
+👩🏼‍🤝‍👨🏾:
+  - 3. mota
+  - 5. mota
+  - bikote
+  - elkarri eskua ematen
+  - emakume
+  - eman
+  - esku
+  - gizon
+  - gizon-emakumeak elkarri eskua ematen
+  - 'gizon-emakumeak elkarri eskua ematen: 3. mota eta 5. mota'
+👩🏼‍🤝‍👨🏿:
+  - 3. mota
+  - 6. mota
+  - bikote
+  - elkarri eskua ematen
+  - emakume
+  - eman
+  - esku
+  - gizon
+  - gizon-emakumeak elkarri eskua ematen
+  - 'gizon-emakumeak elkarri eskua ematen: 3. mota eta 6. mota'
+👩🏽‍🤝‍👨🏻:
+  - 1–2. mota
+  - bikote
+  - bitarteko azal-tonua
+  - elkarri eskua ematen
+  - emakume
+  - eman
+  - esku
+  - gizon
+  - gizon-emakumeak elkarri eskua ematen
+  - 'gizon-emakumeak elkarri eskua ematen: bitarteko azal-tonua eta 1–2. mota'
+👩🏽‍🤝‍👨🏼:
+  - 3. mota
+  - bikote
+  - bitarteko azal-tonua
+  - elkarri eskua ematen
+  - emakume
+  - eman
+  - esku
+  - gizon
+  - gizon-emakumeak elkarri eskua ematen
+  - 'gizon-emakumeak elkarri eskua ematen: bitarteko azal-tonua eta 3. mota'
+👫🏽:
+  - bikote
+  - bitarteko azal-tonua
+  - elkarri eskua ematen
+  - emakume
+  - eman
+  - esku
+  - gizon
+  - gizon-emakumeak elkarri eskua ematen
+  - 'gizon-emakumeak elkarri eskua ematen: bitarteko azal-tonua'
+👩🏽‍🤝‍👨🏾:
+  - 5. mota
+  - bikote
+  - bitarteko azal-tonua
+  - elkarri eskua ematen
+  - emakume
+  - eman
+  - esku
+  - gizon
+  - gizon-emakumeak elkarri eskua ematen
+  - 'gizon-emakumeak elkarri eskua ematen: bitarteko azal-tonua eta 5. mota'
+👩🏽‍🤝‍👨🏿:
+  - 6. mota
+  - bikote
+  - bitarteko azal-tonua
+  - elkarri eskua ematen
+  - emakume
+  - eman
+  - esku
+  - gizon
+  - gizon-emakumeak elkarri eskua ematen
+  - 'gizon-emakumeak elkarri eskua ematen: bitarteko azal-tonua eta 6. mota'
+👩🏾‍🤝‍👨🏻:
+  - 1–2. mota
+  - 5. mota
+  - bikote
+  - elkarri eskua ematen
+  - emakume
+  - eman
+  - esku
+  - gizon
+  - gizon-emakumeak elkarri eskua ematen
+  - 'gizon-emakumeak elkarri eskua ematen: 5. mota eta 1–2. mota'
+👩🏾‍🤝‍👨🏼:
+  - 3. mota
+  - 5. mota
+  - bikote
+  - elkarri eskua ematen
+  - emakume
+  - eman
+  - esku
+  - gizon
+  - gizon-emakumeak elkarri eskua ematen
+  - 'gizon-emakumeak elkarri eskua ematen: 5. mota eta 3. mota'
+👩🏾‍🤝‍👨🏽:
+  - 5. mota
+  - bikote
+  - bitarteko azal-tonua
+  - elkarri eskua ematen
+  - emakume
+  - eman
+  - esku
+  - gizon
+  - gizon-emakumeak elkarri eskua ematen
+  - 'gizon-emakumeak elkarri eskua ematen: 5. mota eta bitarteko azal-tonua'
+👫🏾:
+  - 5. mota
+  - bikote
+  - elkarri eskua ematen
+  - emakume
+  - eman
+  - esku
+  - gizon
+  - gizon-emakumeak elkarri eskua ematen
+  - 'gizon-emakumeak elkarri eskua ematen: 5. mota'
+👩🏾‍🤝‍👨🏿:
+  - 5. mota
+  - 6. mota
+  - bikote
+  - elkarri eskua ematen
+  - emakume
+  - eman
+  - esku
+  - gizon
+  - gizon-emakumeak elkarri eskua ematen
+  - 'gizon-emakumeak elkarri eskua ematen: 5. mota eta 6. mota'
+👩🏿‍🤝‍👨🏻:
+  - 1–2. mota
+  - 6. mota
+  - bikote
+  - elkarri eskua ematen
+  - emakume
+  - eman
+  - esku
+  - gizon
+  - gizon-emakumeak elkarri eskua ematen
+  - 'gizon-emakumeak elkarri eskua ematen: 6. mota eta 1–2. mota'
+👩🏿‍🤝‍👨🏼:
+  - 3. mota
+  - 6. mota
+  - bikote
+  - elkarri eskua ematen
+  - emakume
+  - eman
+  - esku
+  - gizon
+  - gizon-emakumeak elkarri eskua ematen
+  - 'gizon-emakumeak elkarri eskua ematen: 6. mota eta 3. mota'
+👩🏿‍🤝‍👨🏽:
+  - 6. mota
+  - bikote
+  - bitarteko azal-tonua
+  - elkarri eskua ematen
+  - emakume
+  - eman
+  - esku
+  - gizon
+  - gizon-emakumeak elkarri eskua ematen
+  - 'gizon-emakumeak elkarri eskua ematen: 6. mota eta bitarteko azal-tonua'
+👩🏿‍🤝‍👨🏾:
+  - 5. mota
+  - 6. mota
+  - bikote
+  - elkarri eskua ematen
+  - emakume
+  - eman
+  - esku
+  - gizon
+  - gizon-emakumeak elkarri eskua ematen
+  - 'gizon-emakumeak elkarri eskua ematen: 6. mota eta 5. mota'
+👫🏿:
+  - 6. mota
+  - bikote
+  - elkarri eskua ematen
+  - emakume
+  - eman
+  - esku
+  - gizon
+  - gizon-emakumeak elkarri eskua ematen
+  - 'gizon-emakumeak elkarri eskua ematen: 6. mota'
 👬:
-  - bi gizon batak bestearen eskuari eusten
+  - bi gizon elkarri eskua ematen
   - biki
   - bikote
-  - esku
-  - eutsi
+  - elkarri eskua ematen
+  - gemini
+  - gizon
+  - zodiako
+👬🏻:
+  - 1–2. mota
+  - bi gizon elkarri eskua ematen
+  - 'bi gizon elkarri eskua ematen: 1–2. mota'
+  - biki
+  - bikote
+  - elkarri eskua ematen
+  - gemini
+  - gizon
+  - zodiako
+👨🏼‍🤝‍👨🏻:
+  - 1–2. mota
+  - 3. mota
+  - bi gizon elkarri eskua ematen
+  - 'bi gizon elkarri eskua ematen: 3. mota eta 1–2. mota'
+  - biki
+  - bikote
+  - elkarri eskua ematen
+  - gemini
+  - gizon
+  - zodiako
+👬🏼:
+  - 3. mota
+  - bi gizon elkarri eskua ematen
+  - 'bi gizon elkarri eskua ematen: 3. mota'
+  - biki
+  - bikote
+  - elkarri eskua ematen
+  - gemini
+  - gizon
+  - zodiako
+👨🏽‍🤝‍👨🏻:
+  - 1–2. mota
+  - bi gizon elkarri eskua ematen
+  - 'bi gizon elkarri eskua ematen: bitarteko azal-tonua eta 1–2. mota'
+  - biki
+  - bikote
+  - bitarteko azal-tonua
+  - elkarri eskua ematen
+  - gemini
+  - gizon
+  - zodiako
+👨🏽‍🤝‍👨🏼:
+  - 3. mota
+  - bi gizon elkarri eskua ematen
+  - 'bi gizon elkarri eskua ematen: bitarteko azal-tonua eta 3. mota'
+  - biki
+  - bikote
+  - bitarteko azal-tonua
+  - elkarri eskua ematen
+  - gemini
+  - gizon
+  - zodiako
+👬🏽:
+  - bi gizon elkarri eskua ematen
+  - 'bi gizon elkarri eskua ematen: bitarteko azal-tonua'
+  - biki
+  - bikote
+  - bitarteko azal-tonua
+  - elkarri eskua ematen
+  - gemini
+  - gizon
+  - zodiako
+👨🏾‍🤝‍👨🏻:
+  - 1–2. mota
+  - 5. mota
+  - bi gizon elkarri eskua ematen
+  - 'bi gizon elkarri eskua ematen: 5. mota eta 1–2. mota'
+  - biki
+  - bikote
+  - elkarri eskua ematen
+  - gemini
+  - gizon
+  - zodiako
+👨🏾‍🤝‍👨🏼:
+  - 3. mota
+  - 5. mota
+  - bi gizon elkarri eskua ematen
+  - 'bi gizon elkarri eskua ematen: 5. mota eta 3. mota'
+  - biki
+  - bikote
+  - elkarri eskua ematen
+  - gemini
+  - gizon
+  - zodiako
+👨🏾‍🤝‍👨🏽:
+  - 5. mota
+  - bi gizon elkarri eskua ematen
+  - 'bi gizon elkarri eskua ematen: 5. mota eta bitarteko azal-tonua'
+  - biki
+  - bikote
+  - bitarteko azal-tonua
+  - elkarri eskua ematen
+  - gemini
+  - gizon
+  - zodiako
+👬🏾:
+  - 5. mota
+  - bi gizon elkarri eskua ematen
+  - 'bi gizon elkarri eskua ematen: 5. mota'
+  - biki
+  - bikote
+  - elkarri eskua ematen
+  - gemini
+  - gizon
+  - zodiako
+👨🏿‍🤝‍👨🏻:
+  - 1–2. mota
+  - 6. mota
+  - bi gizon elkarri eskua ematen
+  - 'bi gizon elkarri eskua ematen: 6. mota eta 1–2. mota'
+  - biki
+  - bikote
+  - elkarri eskua ematen
+  - gemini
+  - gizon
+  - zodiako
+👨🏿‍🤝‍👨🏼:
+  - 3. mota
+  - 6. mota
+  - bi gizon elkarri eskua ematen
+  - 'bi gizon elkarri eskua ematen: 6. mota eta 3. mota'
+  - biki
+  - bikote
+  - elkarri eskua ematen
+  - gemini
+  - gizon
+  - zodiako
+👨🏿‍🤝‍👨🏽:
+  - 6. mota
+  - bi gizon elkarri eskua ematen
+  - 'bi gizon elkarri eskua ematen: 6. mota eta bitarteko azal-tonua'
+  - biki
+  - bikote
+  - bitarteko azal-tonua
+  - elkarri eskua ematen
+  - gemini
+  - gizon
+  - zodiako
+👨🏿‍🤝‍👨🏾:
+  - 5. mota
+  - 6. mota
+  - bi gizon elkarri eskua ematen
+  - 'bi gizon elkarri eskua ematen: 6. mota eta 5. mota'
+  - biki
+  - bikote
+  - elkarri eskua ematen
+  - gemini
+  - gizon
+  - zodiako
+👬🏿:
+  - 6. mota
+  - bi gizon elkarri eskua ematen
+  - 'bi gizon elkarri eskua ematen: 6. mota'
+  - biki
+  - bikote
+  - elkarri eskua ematen
   - gemini
   - gizon
   - zodiako
@@ -10961,6 +12396,9 @@
 🦍:
   - animalia
   - gorila
+🦧:
+  - orangutana
+  - tximino
 🐶:
   - aurpegi
   - maskota
@@ -10968,6 +12406,16 @@
   - txakur-aurpegia
 🐕️:
   - maskota
+  - txakur
+🦮:
+  - gida
+  - irisgarritasun
+  - itsu
+  - itsu-txakurra
+🐕‍🦺:
+  - irisgarritasun
+  - laguntza
+  - laguntza-txakurra
   - txakur
 🐩:
   - canichea
@@ -10977,10 +12425,9 @@
   - otso
   - otso-aurpegia
 🦊:
-  - animalia
   - aurpegi
   - azeri
-  - azeria
+  - azeri-aurpegia
 🦝:
   - kuxkuxero
   - maltzur
@@ -11147,6 +12594,17 @@
   - aurpegi
   - panda
   - panda-aurpegia
+🦥:
+  - alfer
+  - motel
+  - nagia
+🦦:
+  - arrantzatu
+  - igaraba
+  - jolasti
+🦨:
+  - kirats
+  - mofeta
 🦘:
   - Australia
   - jauzi
@@ -11212,6 +12670,10 @@
   - hontz
   - hontza
   - jakitun
+🦩:
+  - flamenkoa
+  - ikusgarri
+  - tropikal
 🦚:
   - arranditsu
   - harro
@@ -11352,6 +12814,7 @@
   - lore
   - lore zuria
 🏵️:
+  - kondekorazioa
   - landare
   - saria
 🌹:
@@ -11556,6 +13019,12 @@
 🥦:
   - aza basati
   - brokoli
+🧄:
+  - baratxuria
+  - ongailu
+🧅:
+  - gozagarri
+  - tipula
 🍄:
   - barrengorria
   - landare
@@ -11596,6 +13065,10 @@
   - opil bero
   - opil txiki
   - opil txikiak
+🧇:
+  - burdina
+  - gofrea
+  - zalantzati
 🧀:
   - gazta
   - gazta zatia
@@ -11652,6 +13125,10 @@
   - kebab
   - ogitarteko bete
   - ogitarteko betea
+🧆:
+  - falafela
+  - haragi-bola
+  - txitxirio
 🥚:
   - arrautza
   - janari
@@ -11684,6 +13161,9 @@
 🍿:
   - krispeta
   - krispetak
+🧈:
+  - esneki
+  - gurina
 🧂:
   - gatz
   - gatzontzi
@@ -11788,6 +13268,10 @@
   - janari
   - molusku
   - txibia
+🦪:
+  - ostra
+  - perla
+  - urpekaritza
 🍦:
   - esne
   - gozo
@@ -11948,6 +13432,16 @@
   - kopa eta lastotxoa
   - soda
   - zuku
+🧃:
+  - edari-tetrabrika
+  - zuku-tetrabrik
+🧉:
+  - edari
+  - matea
+🧊:
+  - hotz
+  - iceberg
+  - izotz zatia
 🥢:
   - hashi
   - zotzak
@@ -12164,6 +13658,10 @@
   - islam
   - meskita
   - musulman
+🛕:
+  - hindu
+  - tenplu
+  - tenplu hindua
 🕍:
   - erlijio
   - judu
@@ -12409,6 +13907,15 @@
   - moto
   - motoa
   - scooter
+🦽:
+  - eskuzko gurpil-aulkia
+  - irisgarritasun
+🦼:
+  - gurpil-aulki motorduna
+  - irisgarritasun
+🛺:
+  - rickshaw motorduna
+  - tuk tuk
 🚲️:
   - ibilgailu
   - ziklomotor
@@ -12525,6 +14032,11 @@
   - lur hartu
   - lur hartzen ari den hegazkina
   - lurreratu
+🪂:
+  - delta hegal
+  - parasail
+  - paraxut
+  - paraxuta
 💺:
   - aulki
   - eserlekua
@@ -12886,6 +14398,10 @@
   - eguzki
   - eguzkia aurpegiarekin
   - espazio
+🪐:
+  - Saturno
+  - goibel
+  - planeta eraztunduna
 ⭐️:
   - izar
   - izar zuri ertaina
@@ -13274,6 +14790,10 @@
   - arrain
   - arrantza egiteko kanabera
   - kanabera
+🤿:
+  - esnorkela
+  - urpekari-maskara
+  - urpekaritza
 🎽:
   - bizkarraldeko
   - dortsala
@@ -13295,6 +14815,14 @@
   - itu
   - itua
   - joko
+🪀:
+  - gora eta behera
+  - jostailu
+  - yoyoa
+🪁:
+  - haize-parpaila
+  - hegaldarazi
+  - hegaldatu
 🎱:
   - '8'
   - billar
@@ -13436,6 +14964,11 @@
   - laborategiko jantzia
   - mediku
   - zientzialari
+🦺:
+  - jaka
+  - larrialdi
+  - segurtasun
+  - segurtasun-jaka
 👔:
   - arropa
   - gorbata
@@ -13467,6 +15000,23 @@
 👘:
   - arropa
   - kimonoa
+🥻:
+  - arropa
+  - saria
+  - soineko
+🩱:
+  - bainujantzi
+  - bainujantzi osoa
+🩲:
+  - azpiko arropa
+  - bainujantzi
+  - galtzontzilloak
+  - osoa
+🩳:
+  - azpiko arropa
+  - bainujantzi
+  - galtzak
+  - galtzamotzak
 👙:
   - arropa
   - bikinia
@@ -13530,6 +15080,10 @@
   - emakumeentzako sandalia
   - oinetako
   - sandalia
+🩰:
+  - ballet
+  - balleteko oin-puntak
+  - dantza
 👢:
   - arropa
   - bota
@@ -13687,6 +15241,10 @@
   - biolina
   - musika
   - tresna
+🪕:
+  - banjoa
+  - hari-instrumentu
+  - musika
 🥁:
   - danbor
   - danborra
@@ -13851,6 +15409,11 @@
   - japonia
   - paper gorrizko faroltxoa
   - taberna
+🪔:
+  - diya
+  - diya lanpara
+  - lanpara
+  - olio
 📔:
   - apaindu
   - estalki
@@ -14232,6 +15795,11 @@
 🔨:
   - mailua
   - tresna
+🪓:
+  - aizkora
+  - aizkorakada
+  - arrakala
+  - zur
 ⛏️:
   - meatzaritza
   - pikotxa
@@ -14294,6 +15862,10 @@
   - pisu
   - tresna
   - zodiako
+🦯:
+  - irisgarritasun
+  - itsu
+  - makila
 🔗:
   - kate-maila
 ⛓️:
@@ -14352,11 +15924,24 @@
   - tresna
   - xiringa
   - ziztada
+🩸:
+  - hileroko
+  - medikuntza
+  - odol tanta
+  - odol-emate
 💊:
   - gaixo
   - medikuntza
   - pilula
   - sendagile
+🩹:
+  - lotura
+  - lotura itsaskorra
+🩺:
+  - bihotz
+  - estetoskopioa
+  - mediku
+  - medikuntza
 🚪:
   - ate
   - atea
@@ -14369,6 +15954,10 @@
   - lanpara
   - sofa
   - sofa eta lanpara
+🪑:
+  - aulki
+  - eserleku
+  - jarleku
 🚽:
   - bainugela
   - komuna
@@ -14378,6 +15967,10 @@
 🛁:
   - bainu
   - bainuontzia
+🪒:
+  - bizar-labana
+  - bizarra kendu
+  - zorrotz
 🧴:
   - eguzki-babes
   - hidratatzaile
@@ -14970,41 +16563,50 @@
   - komatxo
   - tresna
 ⭕️:
+  - gorri
+  - handi
   - o
   - zirkulu
-  - zirkulu lodi handia
+  - zirkulu gorri hutsa
 ✅:
+  - botoi
   - markatu
   - tilet
-  - tilet zuri lodia
+  - tiletaren botoia
+  - ✓
 ☑️:
   - koadro
-  - markatu
   - tilet
   - tileta duen koadroa
+  - ✓
 ✔️:
   - markatu
   - tilet
-  - tileta lodia
+  - tileta
+  - ✓
 ✖️:
-  - bider
+  - biderkatu
   - biderketa
-  - biderketa-ikur lodia
+  - biderketa-ikurra
+  - ikur
   - utzi
-  - utzi bertan behera
   - x
+  - ×
 ❌:
-  - bider
+  - biderkatu
   - biderketa
+  - gurutze
   - gurutze-ikurra
   - markatu
   - utzi
-  - utzi bertan behera
   - x
+  - ×
 ❎:
   - gurutze-ikurraren botoia
+  - ikur
   - karratu
-  - markatu
+  - x
+  - ×
 ➕:
   - matematika
   - plus
@@ -15076,6 +16678,7 @@
   - puntuazio
 ©️:
   - copyright
+  - copyrighta
 ®️:
   - erregistratu
   - marka
@@ -15283,11 +16886,31 @@
   - gorri
   - zirkulu
   - zirkulu gorria
+🟠:
+  - laranja
+  - zirkulu
+  - zirkulu laranja
+🟡:
+  - hori
+  - zirkulu
+  - zirkulu horia
+🟢:
+  - berde
+  - zirkulu
+  - zirkulu berdea
 🔵:
   - geometriko
   - urdin
   - zirkulu
   - zirkulu urdina
+🟣:
+  - more
+  - zirkulu
+  - zirkulu morea
+🟤:
+  - marroi
+  - zirkulu
+  - zirkulu marroia
 ⚫️:
   - geometriko
   - zirkulu
@@ -15296,6 +16919,34 @@
   - geometriko
   - zirkulu
   - zirkulu zuria
+🟥:
+  - gorri
+  - karratu
+  - karratu gorria
+🟧:
+  - karratu
+  - karratu laranja
+  - laranja
+🟨:
+  - hori
+  - karratu
+  - karratu horia
+🟩:
+  - berde
+  - karratu
+  - karratu berdea
+🟦:
+  - karratu
+  - karratu urdina
+  - urdin
+🟪:
+  - karratu
+  - karratu morea
+  - more
+🟫:
+  - karratu
+  - karratu marroia
+  - marroi
 ⬛️:
   - geometriko
   - karratu
@@ -15457,7 +17108,7 @@
   - 'bandera: Aruba'
 🇦🇽:
   - bandera
-  - 'bandera: Aland uharteak'
+  - 'bandera: Åland'
 🇦🇿:
   - bandera
   - 'bandera: Azerbaijan'
@@ -15529,7 +17180,7 @@
   - 'bandera: Kanada'
 🇨🇨:
   - bandera
-  - 'bandera: Cocos uharteak'
+  - 'bandera: Cocos (Keeling) uharteak'
 🇨🇩:
   - bandera
   - 'bandera: Kongoko Errepublika Demokratikoa'
@@ -15640,7 +17291,7 @@
   - 'bandera: Fiji'
 🇫🇰:
   - bandera
-  - 'bandera: Malvinak'
+  - 'bandera: Falklandak'
 🇫🇲:
   - bandera
   - 'bandera: Mikronesia'
@@ -15976,7 +17627,7 @@
   - 'bandera: Puerto Rico'
 🇵🇸:
   - bandera
-  - 'bandera: Palestinako Lurraldeak'
+  - 'bandera: Palestinar Lurralde Okupatuak'
 🇵🇹:
   - bandera
   - 'bandera: Portugal'

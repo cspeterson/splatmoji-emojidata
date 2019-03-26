@@ -447,6 +447,11 @@
   - yorğun
   - yorğun üz
   - üz
+🥱:
+  - bezmiş
+  - yorğun
+  - əsnəyən
+  - əsnəyən üz
 😤:
   - burnundan tüstü çıxan üz
   - qalib
@@ -708,11 +713,19 @@
   - bənövşəyi
   - bənövşəyi ürək
   - ürək
+🤎:
+  - qəhvəyi
+  - qəhvəyi ürək
+  - ürək
 🖤:
   - pis
   - qara
   - qara-ürək adam
   - xislət
+  - ürək
+🤍:
+  - ağ
+  - ağ ürək
   - ürək
 💯:
   - '100'
@@ -1044,6 +1057,34 @@
   - orqan
   - tünd dəri tonu
   - əl
+🤏:
+  - kiçik say
+  - sıxan əl
+🤏🏻:
+  - açıq dəri tonu
+  - kiçik say
+  - sıxan əl
+  - 'sıxan əl: açıq dəri tonu'
+🤏🏼:
+  - kiçik say
+  - orta-açıq dəri tonu
+  - sıxan əl
+  - 'sıxan əl: orta-açıq dəri tonu'
+🤏🏽:
+  - kiçik say
+  - orta dəri tonu
+  - sıxan əl
+  - 'sıxan əl: orta dəri tonu'
+🤏🏾:
+  - kiçik say
+  - orta-tünd dəri tonu
+  - sıxan əl
+  - 'sıxan əl: orta-tünd dəri tonu'
+🤏🏿:
+  - kiçik say
+  - sıxan əl
+  - 'sıxan əl: tünd dəri tonu'
+  - tünd dəri tonu
 ✌️:
   - orqan
   - qələbə
@@ -2245,6 +2286,12 @@
   - tünd dəri tonu
   - əymək
   - əzələ
+🦾:
+  - mexaniki əl
+  - protez
+🦿:
+  - mexaniki ayaq
+  - protez
 🦵:
   - qıç
   - təpik
@@ -2340,6 +2387,34 @@
   - bədən
   - qulaq
   - 'qulaq: tünd dəri tonu'
+  - tünd dəri tonu
+🦻:
+  - eşitmə cihazlı qulaq
+  - eşitmə problemi
+🦻🏻:
+  - açıq dəri tonu
+  - eşitmə cihazlı qulaq
+  - 'eşitmə cihazlı qulaq: açıq dəri tonu'
+  - eşitmə problemi
+🦻🏼:
+  - eşitmə cihazlı qulaq
+  - 'eşitmə cihazlı qulaq: orta-açıq dəri tonu'
+  - eşitmə problemi
+  - orta-açıq dəri tonu
+🦻🏽:
+  - eşitmə cihazlı qulaq
+  - 'eşitmə cihazlı qulaq: orta dəri tonu'
+  - eşitmə problemi
+  - orta dəri tonu
+🦻🏾:
+  - eşitmə cihazlı qulaq
+  - 'eşitmə cihazlı qulaq: orta-tünd dəri tonu'
+  - eşitmə problemi
+  - orta-tünd dəri tonu
+🦻🏿:
+  - eşitmə cihazlı qulaq
+  - 'eşitmə cihazlı qulaq: tünd dəri tonu'
+  - eşitmə problemi
   - tünd dəri tonu
 👃:
   - burun
@@ -3801,6 +3876,104 @@
   - əl qaldıran qadın
   - 'əl qaldıran qadın: tünd dəri tonu'
   - əl qaldırmaq
+🧏:
+  - eşitmə
+  - kar
+  - kar şəxs
+  - qulaq
+🧏🏻:
+  - açıq dəri tonu
+  - eşitmə
+  - kar
+  - kar şəxs
+  - 'kar şəxs: açıq dəri tonu'
+  - qulaq
+🧏🏼:
+  - eşitmə
+  - kar
+  - kar şəxs
+  - 'kar şəxs: orta-açıq dəri tonu'
+  - orta-açıq dəri tonu
+  - qulaq
+🧏🏽:
+  - eşitmə
+  - kar
+  - kar şəxs
+  - 'kar şəxs: orta dəri tonu'
+  - orta dəri tonu
+  - qulaq
+🧏🏾:
+  - eşitmə
+  - kar
+  - kar şəxs
+  - 'kar şəxs: orta-tünd dəri tonu'
+  - orta-tünd dəri tonu
+  - qulaq
+🧏🏿:
+  - eşitmə
+  - kar
+  - kar şəxs
+  - 'kar şəxs: tünd dəri tonu'
+  - qulaq
+  - tünd dəri tonu
+🧏‍♂:
+  - kar
+  - kar kişi
+  - kişi
+🧏🏻‍♂:
+  - açıq dəri tonu
+  - kar
+  - 'kar kişi: açıq dəri tonu'
+  - kişi
+🧏🏼‍♂:
+  - kar
+  - 'kar kişi: orta-açıq dəri tonu'
+  - kişi
+  - orta-açıq dəri tonu
+🧏🏽‍♂:
+  - kar
+  - 'kar kişi: orta dəri tonu'
+  - kişi
+  - orta dəri tonu
+🧏🏾‍♂:
+  - kar
+  - 'kar kişi: orta-tünd dəri tonu'
+  - kişi
+  - orta-tünd dəri tonu
+🧏🏿‍♂:
+  - kar
+  - 'kar kişi: tünd dəri tonu'
+  - kişi
+  - tünd dəri tonu
+🧏‍♀:
+  - kar
+  - kar qadın
+  - qadın
+🧏🏻‍♀:
+  - açıq dəri tonu
+  - kar
+  - 'kar qadın: açıq dəri tonu'
+  - qadın
+🧏🏼‍♀:
+  - kar
+  - 'kar qadın: orta-açıq dəri tonu'
+  - orta-açıq dəri tonu
+  - qadın
+🧏🏽‍♀:
+  - kar
+  - 'kar qadın: orta dəri tonu'
+  - orta dəri tonu
+  - qadın
+🧏🏾‍♀:
+  - kar
+  - 'kar qadın: orta-tünd dəri tonu'
+  - orta-tünd dəri tonu
+  - qadın
+🧏🏿‍♀:
+  - kar
+  - 'kar qadın: tünd dəri tonu'
+  - qadın
+  - tünd dəri tonu
 🙇:
   - jest
   - tənzim edən adam
@@ -7751,6 +7924,396 @@
   - qadın
   - tünd dəri tonu
   - yürüş
+🧍:
+  - duran adam
+  - durmaq
+🧍🏻:
+  - açıq dəri tonu
+  - duran adam
+  - 'duran adam: açıq dəri tonu'
+  - durmaq
+🧍🏼:
+  - duran adam
+  - 'duran adam: orta-açıq dəri tonu'
+  - durmaq
+  - orta-açıq dəri tonu
+🧍🏽:
+  - duran adam
+  - 'duran adam: orta dəri tonu'
+  - durmaq
+  - orta dəri tonu
+🧍🏾:
+  - duran adam
+  - 'duran adam: orta-tünd dəri tonu'
+  - durmaq
+  - orta-tünd dəri tonu
+🧍🏿:
+  - duran adam
+  - 'duran adam: tünd dəri tonu'
+  - durmaq
+  - tünd dəri tonu
+🧍‍♂:
+  - duran
+  - duran kişi
+  - kişi
+🧍🏻‍♂:
+  - açıq dəri tonu
+  - duran
+  - 'duran kişi: açıq dəri tonu'
+  - kişi
+🧍🏼‍♂:
+  - duran
+  - 'duran kişi: orta-açıq dəri tonu'
+  - kişi
+  - orta-açıq dəri tonu
+🧍🏽‍♂:
+  - duran
+  - 'duran kişi: orta dəri tonu'
+  - kişi
+  - orta dəri tonu
+🧍🏾‍♂:
+  - duran
+  - 'duran kişi: orta-tünd dəri tonu'
+  - kişi
+  - orta-tünd dəri tonu
+🧍🏿‍♂:
+  - duran
+  - 'duran kişi: tünd dəri tonu'
+  - kişi
+  - tünd dəri tonu
+🧍‍♀:
+  - duran
+  - duran qadın
+  - qadın
+🧍🏻‍♀:
+  - açıq dəri tonu
+  - duran
+  - 'duran qadın: açıq dəri tonu'
+  - qadın
+🧍🏼‍♀:
+  - duran
+  - 'duran qadın: orta-açıq dəri tonu'
+  - orta-açıq dəri tonu
+  - qadın
+🧍🏽‍♀:
+  - duran
+  - 'duran qadın: orta dəri tonu'
+  - orta dəri tonu
+  - qadın
+🧍🏾‍♀:
+  - duran
+  - 'duran qadın: orta-tünd dəri tonu'
+  - orta-tünd dəri tonu
+  - qadın
+🧍🏿‍♀:
+  - duran
+  - 'duran qadın: tünd dəri tonu'
+  - qadın
+  - tünd dəri tonu
+🧎:
+  - dizi üstündə
+  - dizi üstündə adam
+🧎🏻:
+  - açıq dəri tonu
+  - dizi üstündə
+  - dizi üstündə adam
+  - 'dizi üstündə adam: açıq dəri tonu'
+🧎🏼:
+  - dizi üstündə
+  - dizi üstündə adam
+  - 'dizi üstündə adam: orta-açıq dəri tonu'
+  - orta-açıq dəri tonu
+🧎🏽:
+  - dizi üstündə
+  - dizi üstündə adam
+  - 'dizi üstündə adam: orta dəri tonu'
+  - orta dəri tonu
+🧎🏾:
+  - dizi üstündə
+  - dizi üstündə adam
+  - 'dizi üstündə adam: orta-tünd dəri tonu'
+  - orta-tünd dəri tonu
+🧎🏿:
+  - dizi üstündə
+  - dizi üstündə adam
+  - 'dizi üstündə adam: tünd dəri tonu'
+  - tünd dəri tonu
+🧎‍♂:
+  - dizi üstündə
+  - dizi üstündə kişi
+  - kişi
+🧎🏻‍♂:
+  - açıq dəri tonu
+  - dizi üstündə
+  - dizi üstündə kişi
+  - 'dizi üstündə kişi: açıq dəri tonu'
+  - kişi
+🧎🏼‍♂:
+  - dizi üstündə
+  - dizi üstündə kişi
+  - 'dizi üstündə kişi: orta-açıq dəri tonu'
+  - kişi
+  - orta-açıq dəri tonu
+🧎🏽‍♂:
+  - dizi üstündə
+  - dizi üstündə kişi
+  - 'dizi üstündə kişi: orta dəri tonu'
+  - kişi
+  - orta dəri tonu
+🧎🏾‍♂:
+  - dizi üstündə
+  - dizi üstündə kişi
+  - 'dizi üstündə kişi: orta-tünd dəri tonu'
+  - kişi
+  - orta-tünd dəri tonu
+🧎🏿‍♂:
+  - dizi üstündə
+  - dizi üstündə kişi
+  - 'dizi üstündə kişi: tünd dəri tonu'
+  - kişi
+  - tünd dəri tonu
+🧎‍♀:
+  - dizi üstündə
+  - dizi üstündə qadın
+  - qadın
+🧎🏻‍♀:
+  - açıq dəri tonu
+  - dizi üstündə
+  - dizi üstündə qadın
+  - 'dizi üstündə qadın: açıq dəri tonu'
+  - qadın
+🧎🏼‍♀:
+  - dizi üstündə
+  - dizi üstündə qadın
+  - 'dizi üstündə qadın: orta-açıq dəri tonu'
+  - orta-açıq dəri tonu
+  - qadın
+🧎🏽‍♀:
+  - dizi üstündə
+  - dizi üstündə qadın
+  - 'dizi üstündə qadın: orta dəri tonu'
+  - orta dəri tonu
+  - qadın
+🧎🏾‍♀:
+  - dizi üstündə
+  - dizi üstündə qadın
+  - 'dizi üstündə qadın: orta-tünd dəri tonu'
+  - orta-tünd dəri tonu
+  - qadın
+🧎🏿‍♀:
+  - dizi üstündə
+  - dizi üstündə qadın
+  - 'dizi üstündə qadın: tünd dəri tonu'
+  - qadın
+  - tünd dəri tonu
+👨‍🦯:
+  - kişi
+  - kor
+  - zond ilə kişi
+👨🏻‍🦯:
+  - açıq dəri tonu
+  - kişi
+  - kor
+  - zond ilə kişi
+  - 'zond ilə kişi: açıq dəri tonu'
+👨🏼‍🦯:
+  - kişi
+  - kor
+  - orta-açıq dəri tonu
+  - zond ilə kişi
+  - 'zond ilə kişi: orta-açıq dəri tonu'
+👨🏽‍🦯:
+  - kişi
+  - kor
+  - orta dəri tonu
+  - zond ilə kişi
+  - 'zond ilə kişi: orta dəri tonu'
+👨🏾‍🦯:
+  - kişi
+  - kor
+  - orta-tünd dəri tonu
+  - zond ilə kişi
+  - 'zond ilə kişi: orta-tünd dəri tonu'
+👨🏿‍🦯:
+  - kişi
+  - kor
+  - tünd dəri tonu
+  - zond ilə kişi
+  - 'zond ilə kişi: tünd dəri tonu'
+👩‍🦯:
+  - kor
+  - qadın
+  - zond ilə qadın
+👩🏻‍🦯:
+  - açıq dəri tonu
+  - kor
+  - qadın
+  - zond ilə qadın
+  - 'zond ilə qadın: açıq dəri tonu'
+👩🏼‍🦯:
+  - kor
+  - orta-açıq dəri tonu
+  - qadın
+  - zond ilə qadın
+  - 'zond ilə qadın: orta-açıq dəri tonu'
+👩🏽‍🦯:
+  - kor
+  - orta dəri tonu
+  - qadın
+  - zond ilə qadın
+  - 'zond ilə qadın: orta dəri tonu'
+👩🏾‍🦯:
+  - kor
+  - orta-tünd dəri tonu
+  - qadın
+  - zond ilə qadın
+  - 'zond ilə qadın: orta-tünd dəri tonu'
+👩🏿‍🦯:
+  - kor
+  - qadın
+  - tünd dəri tonu
+  - zond ilə qadın
+  - 'zond ilə qadın: tünd dəri tonu'
+👨‍🦼:
+  - kişi
+  - motorlu
+  - motorlu oturacaqda kişi
+  - oturacaqda
+👨🏻‍🦼:
+  - açıq dəri tonu
+  - kişi
+  - motorlu
+  - 'motorlu oturacaqda kişi: açıq dəri tonu'
+  - oturacaqda
+👨🏼‍🦼:
+  - kişi
+  - motorlu
+  - 'motorlu oturacaqda kişi: orta-açıq dəri tonu'
+  - orta-açıq dəri tonu
+  - oturacaqda
+👨🏽‍🦼:
+  - kişi
+  - motorlu
+  - 'motorlu oturacaqda kişi: orta dəri tonu'
+  - orta dəri tonu
+  - oturacaqda
+👨🏾‍🦼:
+  - kişi
+  - motorlu
+  - 'motorlu oturacaqda kişi: orta-tünd dəri tonu'
+  - orta-tünd dəri tonu
+  - oturacaqda
+👨🏿‍🦼:
+  - kişi
+  - motorlu
+  - 'motorlu oturacaqda kişi: tünd dəri tonu'
+  - oturacaqda
+  - tünd dəri tonu
+👩‍🦼:
+  - motorlu
+  - motorlu oturacaqda qadın
+  - oturacaqda
+  - qadın
+👩🏻‍🦼:
+  - açıq dəri tonu
+  - motorlu
+  - 'motorlu oturacaqda qadın: açıq dəri tonu'
+  - oturacaqda
+  - qadın
+👩🏼‍🦼:
+  - motorlu
+  - 'motorlu oturacaqda qadın: orta-açıq dəri tonu'
+  - orta-açıq dəri tonu
+  - oturacaqda
+  - qadın
+👩🏽‍🦼:
+  - motorlu
+  - 'motorlu oturacaqda qadın: orta dəri tonu'
+  - orta dəri tonu
+  - oturacaqda
+  - qadın
+👩🏾‍🦼:
+  - motorlu
+  - 'motorlu oturacaqda qadın: orta-tünd dəri tonu'
+  - orta-tünd dəri tonu
+  - oturacaqda
+  - qadın
+👩🏿‍🦼:
+  - motorlu
+  - 'motorlu oturacaqda qadın: tünd dəri tonu'
+  - oturacaqda
+  - qadın
+  - tünd dəri tonu
+👨‍🦽:
+  - kişi
+  - manual
+  - manual oturacaqda kişi
+  - oturacaqda
+👨🏻‍🦽:
+  - açıq dəri tonu
+  - kişi
+  - manual
+  - 'manual oturacaqda kişi: açıq dəri tonu'
+  - oturacaqda
+👨🏼‍🦽:
+  - kişi
+  - manual
+  - 'manual oturacaqda kişi: orta-açıq dəri tonu'
+  - orta-açıq dəri tonu
+  - oturacaqda
+👨🏽‍🦽:
+  - kişi
+  - manual
+  - 'manual oturacaqda kişi: orta dəri tonu'
+  - orta dəri tonu
+  - oturacaqda
+👨🏾‍🦽:
+  - kişi
+  - manual
+  - 'manual oturacaqda kişi: orta-tünd dəri tonu'
+  - orta-tünd dəri tonu
+  - oturacaqda
+👨🏿‍🦽:
+  - kişi
+  - manual
+  - 'manual oturacaqda kişi: tünd dəri tonu'
+  - oturacaqda
+  - tünd dəri tonu
+👩‍🦽:
+  - manual
+  - manual oturacaqda qadın
+  - oturacaqda
+  - qadın
+👩🏻‍🦽:
+  - açıq dəri tonu
+  - manual
+  - 'manual oturacaqda qadın: açıq dəri tonu'
+  - oturacaqda
+  - qadın
+👩🏼‍🦽:
+  - manual
+  - 'manual oturacaqda qadın: orta-açıq dəri tonu'
+  - orta-açıq dəri tonu
+  - oturacaqda
+  - qadın
+👩🏽‍🦽:
+  - manual
+  - 'manual oturacaqda qadın: orta dəri tonu'
+  - orta dəri tonu
+  - oturacaqda
+  - qadın
+👩🏾‍🦽:
+  - manual
+  - 'manual oturacaqda qadın: orta-tünd dəri tonu'
+  - orta-tünd dəri tonu
+  - oturacaqda
+  - qadın
+👩🏿‍🦽:
+  - manual
+  - 'manual oturacaqda qadın: tünd dəri tonu'
+  - oturacaqda
+  - qadın
+  - tünd dəri tonu
 🏃:
   - atlet
   - marafon
@@ -9810,12 +10373,278 @@
   - yataqda uzanmış adam
   - 'yataqda uzanmış adam: tünd dəri tonu'
   - yatmaq
+🧑‍🤝‍🧑:
+  - cütlük
+  - tutmaq
+  - əl
+  - əl-ələ tutan adamlar
+  - əl-ələ tutmaq
+🧑🏻‍🤝‍🧑🏻:
+  - açıq dəri tonu
+  - cütlük
+  - tutmaq
+  - əl
+  - əl-ələ tutan adamlar
+  - 'əl-ələ tutan adamlar: açıq dəri tonu'
+  - əl-ələ tutmaq
+🧑🏼‍🤝‍🧑🏻:
+  - açıq dəri tonu
+  - cütlük
+  - orta-açıq dəri tonu
+  - tutmaq
+  - əl
+  - əl-ələ tutan adamlar
+  - 'əl-ələ tutan adamlar: orta-açıq dəri tonu, açıq dəri tonu'
+  - əl-ələ tutmaq
+🧑🏼‍🤝‍🧑🏼:
+  - cütlük
+  - orta-açıq dəri tonu
+  - tutmaq
+  - əl
+  - əl-ələ tutan adamlar
+  - 'əl-ələ tutan adamlar: orta-açıq dəri tonu'
+  - əl-ələ tutmaq
+🧑🏽‍🤝‍🧑🏻:
+  - açıq dəri tonu
+  - cütlük
+  - orta dəri tonu
+  - tutmaq
+  - əl
+  - əl-ələ tutan adamlar
+  - 'əl-ələ tutan adamlar: orta dəri tonu, açıq dəri tonu'
+  - əl-ələ tutmaq
+🧑🏽‍🤝‍🧑🏼:
+  - cütlük
+  - orta dəri tonu
+  - orta-açıq dəri tonu
+  - tutmaq
+  - əl
+  - əl-ələ tutan adamlar
+  - 'əl-ələ tutan adamlar: orta dəri tonu, orta-açıq dəri tonu'
+  - əl-ələ tutmaq
+🧑🏽‍🤝‍🧑🏽:
+  - cütlük
+  - orta dəri tonu
+  - tutmaq
+  - əl
+  - əl-ələ tutan adamlar
+  - 'əl-ələ tutan adamlar: orta dəri tonu'
+  - əl-ələ tutmaq
+🧑🏾‍🤝‍🧑🏻:
+  - açıq dəri tonu
+  - cütlük
+  - orta-tünd dəri tonu
+  - tutmaq
+  - əl
+  - əl-ələ tutan adamlar
+  - 'əl-ələ tutan adamlar: orta-tünd dəri tonu, açıq dəri tonu'
+  - əl-ələ tutmaq
+🧑🏾‍🤝‍🧑🏼:
+  - cütlük
+  - orta-açıq dəri tonu
+  - orta-tünd dəri tonu
+  - tutmaq
+  - əl
+  - əl-ələ tutan adamlar
+  - 'əl-ələ tutan adamlar: orta-tünd dəri tonu, orta-açıq dəri tonu'
+  - əl-ələ tutmaq
+🧑🏾‍🤝‍🧑🏽:
+  - cütlük
+  - orta dəri tonu
+  - orta-tünd dəri tonu
+  - tutmaq
+  - əl
+  - əl-ələ tutan adamlar
+  - 'əl-ələ tutan adamlar: orta-tünd dəri tonu, orta dəri tonu'
+  - əl-ələ tutmaq
+🧑🏾‍🤝‍🧑🏾:
+  - cütlük
+  - orta-tünd dəri tonu
+  - tutmaq
+  - əl
+  - əl-ələ tutan adamlar
+  - 'əl-ələ tutan adamlar: orta-tünd dəri tonu'
+  - əl-ələ tutmaq
+🧑🏿‍🤝‍🧑🏻:
+  - açıq dəri tonu
+  - cütlük
+  - tutmaq
+  - tünd dəri tonu
+  - əl
+  - əl-ələ tutan adamlar
+  - 'əl-ələ tutan adamlar: tünd dəri tonu, açıq dəri tonu'
+  - əl-ələ tutmaq
+🧑🏿‍🤝‍🧑🏼:
+  - cütlük
+  - orta-açıq dəri tonu
+  - tutmaq
+  - tünd dəri tonu
+  - əl
+  - əl-ələ tutan adamlar
+  - 'əl-ələ tutan adamlar: tünd dəri tonu, orta-açıq dəri tonu'
+  - əl-ələ tutmaq
+🧑🏿‍🤝‍🧑🏽:
+  - cütlük
+  - orta dəri tonu
+  - tutmaq
+  - tünd dəri tonu
+  - əl
+  - əl-ələ tutan adamlar
+  - 'əl-ələ tutan adamlar: tünd dəri tonu, orta dəri tonu'
+  - əl-ələ tutmaq
+🧑🏿‍🤝‍🧑🏾:
+  - cütlük
+  - orta-tünd dəri tonu
+  - tutmaq
+  - tünd dəri tonu
+  - əl
+  - əl-ələ tutan adamlar
+  - 'əl-ələ tutan adamlar: tünd dəri tonu, orta-tünd dəri tonu'
+  - əl-ələ tutmaq
+🧑🏿‍🤝‍🧑🏿:
+  - cütlük
+  - tutmaq
+  - tünd dəri tonu
+  - əl
+  - əl-ələ tutan adamlar
+  - 'əl-ələ tutan adamlar: tünd dəri tonu'
+  - əl-ələ tutmaq
 👭:
   - cütlük
   - qadın
   - tutmaq
   - əl
   - əl-ələ tutan iki qadın
+👭🏻:
+  - açıq dəri tonu
+  - cütlük
+  - qadın
+  - tutmaq
+  - əl
+  - əl-ələ tutan iki qadın
+  - 'əl-ələ tutan iki qadın: açıq dəri tonu'
+👩🏼‍🤝‍👩🏻:
+  - açıq dəri tonu
+  - cütlük
+  - orta-açıq dəri tonu
+  - qadın
+  - tutmaq
+  - əl
+  - əl-ələ tutan iki qadın
+  - 'əl-ələ tutan iki qadın: orta-açıq dəri tonu, açıq dəri tonu'
+👭🏼:
+  - cütlük
+  - orta-açıq dəri tonu
+  - qadın
+  - tutmaq
+  - əl
+  - əl-ələ tutan iki qadın
+  - 'əl-ələ tutan iki qadın: orta-açıq dəri tonu'
+👩🏽‍🤝‍👩🏻:
+  - açıq dəri tonu
+  - cütlük
+  - orta dəri tonu
+  - qadın
+  - tutmaq
+  - əl
+  - əl-ələ tutan iki qadın
+  - 'əl-ələ tutan iki qadın: orta dəri tonu, açıq dəri tonu'
+👩🏽‍🤝‍👩🏼:
+  - cütlük
+  - orta dəri tonu
+  - orta-açıq dəri tonu
+  - qadın
+  - tutmaq
+  - əl
+  - əl-ələ tutan iki qadın
+  - 'əl-ələ tutan iki qadın: orta dəri tonu, orta-açıq dəri tonu'
+👭🏽:
+  - cütlük
+  - orta dəri tonu
+  - qadın
+  - tutmaq
+  - əl
+  - əl-ələ tutan iki qadın
+  - 'əl-ələ tutan iki qadın: orta dəri tonu'
+👩🏾‍🤝‍👩🏻:
+  - açıq dəri tonu
+  - cütlük
+  - orta-tünd dəri tonu
+  - qadın
+  - tutmaq
+  - əl
+  - əl-ələ tutan iki qadın
+  - 'əl-ələ tutan iki qadın: orta-tünd dəri tonu, açıq dəri tonu'
+👩🏾‍🤝‍👩🏼:
+  - cütlük
+  - orta-açıq dəri tonu
+  - orta-tünd dəri tonu
+  - qadın
+  - tutmaq
+  - əl
+  - əl-ələ tutan iki qadın
+  - 'əl-ələ tutan iki qadın: orta-tünd dəri tonu, orta-açıq dəri tonu'
+👩🏾‍🤝‍👩🏽:
+  - cütlük
+  - orta dəri tonu
+  - orta-tünd dəri tonu
+  - qadın
+  - tutmaq
+  - əl
+  - əl-ələ tutan iki qadın
+  - 'əl-ələ tutan iki qadın: orta-tünd dəri tonu, orta dəri tonu'
+👭🏾:
+  - cütlük
+  - orta-tünd dəri tonu
+  - qadın
+  - tutmaq
+  - əl
+  - əl-ələ tutan iki qadın
+  - 'əl-ələ tutan iki qadın: orta-tünd dəri tonu'
+👩🏿‍🤝‍👩🏻:
+  - açıq dəri tonu
+  - cütlük
+  - qadın
+  - tutmaq
+  - tünd dəri tonu
+  - əl
+  - əl-ələ tutan iki qadın
+  - 'əl-ələ tutan iki qadın: tünd dəri tonu, açıq dəri tonu'
+👩🏿‍🤝‍👩🏼:
+  - cütlük
+  - orta-açıq dəri tonu
+  - qadın
+  - tutmaq
+  - tünd dəri tonu
+  - əl
+  - əl-ələ tutan iki qadın
+  - 'əl-ələ tutan iki qadın: tünd dəri tonu, orta-açıq dəri tonu'
+👩🏿‍🤝‍👩🏽:
+  - cütlük
+  - orta dəri tonu
+  - qadın
+  - tutmaq
+  - tünd dəri tonu
+  - əl
+  - əl-ələ tutan iki qadın
+  - 'əl-ələ tutan iki qadın: tünd dəri tonu, orta dəri tonu'
+👩🏿‍🤝‍👩🏾:
+  - cütlük
+  - orta-tünd dəri tonu
+  - qadın
+  - tutmaq
+  - tünd dəri tonu
+  - əl
+  - əl-ələ tutan iki qadın
+  - 'əl-ələ tutan iki qadın: tünd dəri tonu, orta-tünd dəri tonu'
+👭🏿:
+  - cütlük
+  - qadın
+  - tutmaq
+  - tünd dəri tonu
+  - əl
+  - əl-ələ tutan iki qadın
+  - 'əl-ələ tutan iki qadın: tünd dəri tonu'
 👫:
   - cütlük
   - kişi
@@ -9823,6 +10652,277 @@
   - tutmaq
   - əl
   - əl-ələ tutan kişi və qadın
+  - əl-ələ tutmaq
+👫🏻:
+  - açıq dəri tonu
+  - cütlük
+  - kişi
+  - qadın
+  - tutmaq
+  - əl
+  - əl-ələ tutan kişi və qadın
+  - 'əl-ələ tutan kişi və qadın: açıq dəri tonu'
+  - əl-ələ tutmaq
+👩🏻‍🤝‍👨🏼:
+  - açıq dəri tonu
+  - cütlük
+  - kişi
+  - orta-açıq dəri tonu
+  - qadın
+  - tutmaq
+  - əl
+  - əl-ələ tutan kişi və qadın
+  - 'əl-ələ tutan kişi və qadın: açıq dəri tonu, orta-açıq dəri tonu'
+  - əl-ələ tutmaq
+👩🏻‍🤝‍👨🏽:
+  - açıq dəri tonu
+  - cütlük
+  - kişi
+  - orta dəri tonu
+  - qadın
+  - tutmaq
+  - əl
+  - əl-ələ tutan kişi və qadın
+  - 'əl-ələ tutan kişi və qadın: açıq dəri tonu, orta dəri tonu'
+  - əl-ələ tutmaq
+👩🏻‍🤝‍👨🏾:
+  - açıq dəri tonu
+  - cütlük
+  - kişi
+  - orta-tünd dəri tonu
+  - qadın
+  - tutmaq
+  - əl
+  - əl-ələ tutan kişi və qadın
+  - 'əl-ələ tutan kişi və qadın: açıq dəri tonu, orta-tünd dəri tonu'
+  - əl-ələ tutmaq
+👩🏻‍🤝‍👨🏿:
+  - açıq dəri tonu
+  - cütlük
+  - kişi
+  - qadın
+  - tutmaq
+  - tünd dəri tonu
+  - əl
+  - əl-ələ tutan kişi və qadın
+  - 'əl-ələ tutan kişi və qadın: açıq dəri tonu, tünd dəri tonu'
+  - əl-ələ tutmaq
+👩🏼‍🤝‍👨🏻:
+  - açıq dəri tonu
+  - cütlük
+  - kişi
+  - orta-açıq dəri tonu
+  - qadın
+  - tutmaq
+  - əl
+  - əl-ələ tutan kişi və qadın
+  - 'əl-ələ tutan kişi və qadın: orta-açıq dəri tonu, açıq dəri tonu'
+  - əl-ələ tutmaq
+👫🏼:
+  - cütlük
+  - kişi
+  - orta-açıq dəri tonu
+  - qadın
+  - tutmaq
+  - əl
+  - əl-ələ tutan kişi və qadın
+  - 'əl-ələ tutan kişi və qadın: orta-açıq dəri tonu'
+  - əl-ələ tutmaq
+👩🏼‍🤝‍👨🏽:
+  - cütlük
+  - kişi
+  - orta dəri tonu
+  - orta-açıq dəri tonu
+  - qadın
+  - tutmaq
+  - əl
+  - əl-ələ tutan kişi və qadın
+  - 'əl-ələ tutan kişi və qadın: orta-açıq dəri tonu, orta dəri tonu'
+  - əl-ələ tutmaq
+👩🏼‍🤝‍👨🏾:
+  - cütlük
+  - kişi
+  - orta-açıq dəri tonu
+  - orta-tünd dəri tonu
+  - qadın
+  - tutmaq
+  - əl
+  - əl-ələ tutan kişi və qadın
+  - 'əl-ələ tutan kişi və qadın: orta-açıq dəri tonu, orta-tünd dəri tonu'
+  - əl-ələ tutmaq
+👩🏼‍🤝‍👨🏿:
+  - cütlük
+  - kişi
+  - orta-açıq dəri tonu
+  - qadın
+  - tutmaq
+  - tünd dəri tonu
+  - əl
+  - əl-ələ tutan kişi və qadın
+  - 'əl-ələ tutan kişi və qadın: orta-açıq dəri tonu, tünd dəri tonu'
+  - əl-ələ tutmaq
+👩🏽‍🤝‍👨🏻:
+  - açıq dəri tonu
+  - cütlük
+  - kişi
+  - orta dəri tonu
+  - qadın
+  - tutmaq
+  - əl
+  - əl-ələ tutan kişi və qadın
+  - 'əl-ələ tutan kişi və qadın: orta dəri tonu, açıq dəri tonu'
+  - əl-ələ tutmaq
+👩🏽‍🤝‍👨🏼:
+  - cütlük
+  - kişi
+  - orta dəri tonu
+  - orta-açıq dəri tonu
+  - qadın
+  - tutmaq
+  - əl
+  - əl-ələ tutan kişi və qadın
+  - 'əl-ələ tutan kişi və qadın: orta dəri tonu, orta-açıq dəri tonu'
+  - əl-ələ tutmaq
+👫🏽:
+  - cütlük
+  - kişi
+  - orta dəri tonu
+  - qadın
+  - tutmaq
+  - əl
+  - əl-ələ tutan kişi və qadın
+  - 'əl-ələ tutan kişi və qadın: orta dəri tonu'
+  - əl-ələ tutmaq
+👩🏽‍🤝‍👨🏾:
+  - cütlük
+  - kişi
+  - orta dəri tonu
+  - orta-tünd dəri tonu
+  - qadın
+  - tutmaq
+  - əl
+  - əl-ələ tutan kişi və qadın
+  - 'əl-ələ tutan kişi və qadın: orta dəri tonu, orta-tünd dəri tonu'
+  - əl-ələ tutmaq
+👩🏽‍🤝‍👨🏿:
+  - cütlük
+  - kişi
+  - orta dəri tonu
+  - qadın
+  - tutmaq
+  - tünd dəri tonu
+  - əl
+  - əl-ələ tutan kişi və qadın
+  - 'əl-ələ tutan kişi və qadın: orta dəri tonu, tünd dəri tonu'
+  - əl-ələ tutmaq
+👩🏾‍🤝‍👨🏻:
+  - açıq dəri tonu
+  - cütlük
+  - kişi
+  - orta-tünd dəri tonu
+  - qadın
+  - tutmaq
+  - əl
+  - əl-ələ tutan kişi və qadın
+  - 'əl-ələ tutan kişi və qadın: orta-tünd dəri tonu, açıq dəri tonu'
+  - əl-ələ tutmaq
+👩🏾‍🤝‍👨🏼:
+  - cütlük
+  - kişi
+  - orta-açıq dəri tonu
+  - orta-tünd dəri tonu
+  - qadın
+  - tutmaq
+  - əl
+  - əl-ələ tutan kişi və qadın
+  - 'əl-ələ tutan kişi və qadın: orta-tünd dəri tonu, orta-açıq dəri tonu'
+  - əl-ələ tutmaq
+👩🏾‍🤝‍👨🏽:
+  - cütlük
+  - kişi
+  - orta dəri tonu
+  - orta-tünd dəri tonu
+  - qadın
+  - tutmaq
+  - əl
+  - əl-ələ tutan kişi və qadın
+  - 'əl-ələ tutan kişi və qadın: orta-tünd dəri tonu, orta dəri tonu'
+  - əl-ələ tutmaq
+👫🏾:
+  - cütlük
+  - kişi
+  - orta-tünd dəri tonu
+  - qadın
+  - tutmaq
+  - əl
+  - əl-ələ tutan kişi və qadın
+  - 'əl-ələ tutan kişi və qadın: orta-tünd dəri tonu'
+  - əl-ələ tutmaq
+👩🏾‍🤝‍👨🏿:
+  - cütlük
+  - kişi
+  - orta-tünd dəri tonu
+  - qadın
+  - tutmaq
+  - tünd dəri tonu
+  - əl
+  - əl-ələ tutan kişi və qadın
+  - 'əl-ələ tutan kişi və qadın: orta-tünd dəri tonu, tünd dəri tonu'
+  - əl-ələ tutmaq
+👩🏿‍🤝‍👨🏻:
+  - açıq dəri tonu
+  - cütlük
+  - kişi
+  - qadın
+  - tutmaq
+  - tünd dəri tonu
+  - əl
+  - əl-ələ tutan kişi və qadın
+  - 'əl-ələ tutan kişi və qadın: tünd dəri tonu, açıq dəri tonu'
+  - əl-ələ tutmaq
+👩🏿‍🤝‍👨🏼:
+  - cütlük
+  - kişi
+  - orta-açıq dəri tonu
+  - qadın
+  - tutmaq
+  - tünd dəri tonu
+  - əl
+  - əl-ələ tutan kişi və qadın
+  - 'əl-ələ tutan kişi və qadın: tünd dəri tonu, orta-açıq dəri tonu'
+  - əl-ələ tutmaq
+👩🏿‍🤝‍👨🏽:
+  - cütlük
+  - kişi
+  - orta dəri tonu
+  - qadın
+  - tutmaq
+  - tünd dəri tonu
+  - əl
+  - əl-ələ tutan kişi və qadın
+  - 'əl-ələ tutan kişi və qadın: tünd dəri tonu, orta dəri tonu'
+  - əl-ələ tutmaq
+👩🏿‍🤝‍👨🏾:
+  - cütlük
+  - kişi
+  - orta-tünd dəri tonu
+  - qadın
+  - tutmaq
+  - tünd dəri tonu
+  - əl
+  - əl-ələ tutan kişi və qadın
+  - 'əl-ələ tutan kişi və qadın: tünd dəri tonu, orta-tünd dəri tonu'
+  - əl-ələ tutmaq
+👫🏿:
+  - cütlük
+  - kişi
+  - qadın
+  - tutmaq
+  - tünd dəri tonu
+  - əl
+  - əl-ələ tutan kişi və qadın
+  - 'əl-ələ tutan kişi və qadın: tünd dəri tonu'
+  - əl-ələ tutmaq
 👬:
   - cütlük
   - kişi
@@ -9830,7 +10930,183 @@
   - zodiak
   - əkizlər
   - əl
+  - əl-ələ tutan
   - əl-ələ tutan iki kişi
+👬🏻:
+  - açıq dəri tonu
+  - cütlük
+  - kişi
+  - tutmaq
+  - zodiak
+  - əkizlər
+  - əl
+  - əl-ələ tutan
+  - əl-ələ tutan iki kişi
+  - 'əl-ələ tutan iki kişi: açıq dəri tonu'
+👨🏼‍🤝‍👨🏻:
+  - açıq dəri tonu
+  - cütlük
+  - kişi
+  - orta-açıq dəri tonu
+  - tutmaq
+  - zodiak
+  - əkizlər
+  - əl
+  - əl-ələ tutan
+  - əl-ələ tutan iki kişi
+  - 'əl-ələ tutan iki kişi: orta-açıq dəri tonu, açıq dəri tonu'
+👬🏼:
+  - cütlük
+  - kişi
+  - orta-açıq dəri tonu
+  - tutmaq
+  - zodiak
+  - əkizlər
+  - əl
+  - əl-ələ tutan
+  - əl-ələ tutan iki kişi
+  - 'əl-ələ tutan iki kişi: orta-açıq dəri tonu'
+👨🏽‍🤝‍👨🏻:
+  - açıq dəri tonu
+  - cütlük
+  - kişi
+  - orta dəri tonu
+  - tutmaq
+  - zodiak
+  - əkizlər
+  - əl
+  - əl-ələ tutan
+  - əl-ələ tutan iki kişi
+  - 'əl-ələ tutan iki kişi: orta dəri tonu, açıq dəri tonu'
+👨🏽‍🤝‍👨🏼:
+  - cütlük
+  - kişi
+  - orta dəri tonu
+  - orta-açıq dəri tonu
+  - tutmaq
+  - zodiak
+  - əkizlər
+  - əl
+  - əl-ələ tutan
+  - əl-ələ tutan iki kişi
+  - 'əl-ələ tutan iki kişi: orta dəri tonu, orta-açıq dəri tonu'
+👬🏽:
+  - cütlük
+  - kişi
+  - orta dəri tonu
+  - tutmaq
+  - zodiak
+  - əkizlər
+  - əl
+  - əl-ələ tutan
+  - əl-ələ tutan iki kişi
+  - 'əl-ələ tutan iki kişi: orta dəri tonu'
+👨🏾‍🤝‍👨🏻:
+  - açıq dəri tonu
+  - cütlük
+  - kişi
+  - orta-tünd dəri tonu
+  - tutmaq
+  - zodiak
+  - əkizlər
+  - əl
+  - əl-ələ tutan
+  - əl-ələ tutan iki kişi
+  - 'əl-ələ tutan iki kişi: orta-tünd dəri tonu, açıq dəri tonu'
+👨🏾‍🤝‍👨🏼:
+  - cütlük
+  - kişi
+  - orta-açıq dəri tonu
+  - orta-tünd dəri tonu
+  - tutmaq
+  - zodiak
+  - əkizlər
+  - əl
+  - əl-ələ tutan
+  - əl-ələ tutan iki kişi
+  - 'əl-ələ tutan iki kişi: orta-tünd dəri tonu, orta-açıq dəri tonu'
+👨🏾‍🤝‍👨🏽:
+  - cütlük
+  - kişi
+  - orta dəri tonu
+  - orta-tünd dəri tonu
+  - tutmaq
+  - zodiak
+  - əkizlər
+  - əl
+  - əl-ələ tutan
+  - əl-ələ tutan iki kişi
+  - 'əl-ələ tutan iki kişi: orta-tünd dəri tonu, orta dəri tonu'
+👬🏾:
+  - cütlük
+  - kişi
+  - orta-tünd dəri tonu
+  - tutmaq
+  - zodiak
+  - əkizlər
+  - əl
+  - əl-ələ tutan
+  - əl-ələ tutan iki kişi
+  - 'əl-ələ tutan iki kişi: orta-tünd dəri tonu'
+👨🏿‍🤝‍👨🏻:
+  - açıq dəri tonu
+  - cütlük
+  - kişi
+  - tutmaq
+  - tünd dəri tonu
+  - zodiak
+  - əkizlər
+  - əl
+  - əl-ələ tutan
+  - əl-ələ tutan iki kişi
+  - 'əl-ələ tutan iki kişi: tünd dəri tonu, açıq dəri tonu'
+👨🏿‍🤝‍👨🏼:
+  - cütlük
+  - kişi
+  - orta-açıq dəri tonu
+  - tutmaq
+  - tünd dəri tonu
+  - zodiak
+  - əkizlər
+  - əl
+  - əl-ələ tutan
+  - əl-ələ tutan iki kişi
+  - 'əl-ələ tutan iki kişi: tünd dəri tonu, orta-açıq dəri tonu'
+👨🏿‍🤝‍👨🏽:
+  - cütlük
+  - kişi
+  - orta dəri tonu
+  - tutmaq
+  - tünd dəri tonu
+  - zodiak
+  - əkizlər
+  - əl
+  - əl-ələ tutan
+  - əl-ələ tutan iki kişi
+  - 'əl-ələ tutan iki kişi: tünd dəri tonu, orta dəri tonu'
+👨🏿‍🤝‍👨🏾:
+  - cütlük
+  - kişi
+  - orta-tünd dəri tonu
+  - tutmaq
+  - tünd dəri tonu
+  - zodiak
+  - əkizlər
+  - əl
+  - əl-ələ tutan
+  - əl-ələ tutan iki kişi
+  - 'əl-ələ tutan iki kişi: tünd dəri tonu, orta-tünd dəri tonu'
+👬🏿:
+  - cütlük
+  - kişi
+  - tutmaq
+  - tünd dəri tonu
+  - zodiak
+  - əkizlər
+  - əl
+  - əl-ələ tutan
+  - əl-ələ tutan iki kişi
+  - 'əl-ələ tutan iki kişi: tünd dəri tonu'
 💏:
   - cütlük
   - romantika
@@ -10147,6 +11423,9 @@
   - meymun
 🦍:
   - qorilla
+🦧:
+  - böyük meymun
+  - oranqutanq
 🐶:
   - ev heyvanı
   - it
@@ -10155,6 +11434,14 @@
 🐕️:
   - ev heyvanı
   - it
+🦮:
+  - bələdçi
+  - bələdçi it
+  - kor
+🐕‍🦺:
+  - it
+  - xidmətçi
+  - xidmətçi it
 🐩:
   - it
   - pudel
@@ -10166,7 +11453,6 @@
   - heyvan
   - sifət
   - tülkü
-  - tülkü sifət
 🦝:
   - hiyləgər
   - maraq içində olan
@@ -10317,6 +11603,16 @@
   - panda
   - panda üzü
   - üz
+🦥:
+  - tənbəl
+  - yavaş
+🦦:
+  - balıqtutma
+  - oynamağa həvəsli
+  - samur
+🦨:
+  - skunsk
+  - üfunət
 🦘:
   - Avstraliya
   - kenquru
@@ -10380,6 +11676,10 @@
   - bayquş
   - müdrik
   - quş
+🦩:
+  - flaminqo
+  - rəngli
+  - tropik
 🦚:
   - farmazon
   - quş
@@ -10693,6 +11993,12 @@
 🥦:
   - brokkoli
   - yabanı kələm
+🧄:
+  - dadlandırma
+  - sarımsaq
+🧅:
+  - dadlandırma
+  - soğan
 🍄:
   - göbələk
   - milçəkqıran
@@ -10726,6 +12032,10 @@
   - blin
   - kökə
   - yemək
+🧇:
+  - dəmir
+  - qərarsız
+  - vafli
 🧀:
   - pendir
 🍖:
@@ -10773,6 +12083,10 @@
   - bişirmək
   - qutab
   - yemək
+🧆:
+  - falafel
+  - küftə
+  - noxud
 🥚:
   - yemək
   - yumurta
@@ -10801,6 +12115,9 @@
   - yaşıl
 🍿:
   - popkorn
+🧈:
+  - kərə yağı
+  - süd məhsulu
 🧂:
   - duz
   - duzqabı
@@ -10903,6 +12220,10 @@
 🦑:
   - su canlısı
   - səkkiz ayaq
+🦪:
+  - mirvari
+  - stridiya
+  - suyagirmə
 🍦:
   - buz
   - desert
@@ -11062,6 +12383,16 @@
   - borucuqlu stəkan
   - soda
   - şirə
+🧃:
+  - içki qutusu
+  - şirə qutusu
+🧉:
+  - içki
+  - mate
+🧊:
+  - aysberq
+  - buz kubu
+  - soyuq
 🥢:
   - haşi
   - yemək çubuqları
@@ -11276,6 +12607,10 @@
   - islam
   - müsəlman
   - məscid
+🛕:
+  - hindu
+  - hindu məbədi
+  - məbədi
 🕍:
   - din
   - məbəd
@@ -11511,6 +12846,15 @@
   - motorlu skuter
   - motosikl
   - skuter
+🦽:
+  - manual təkərli kreslo
+  - əlverişlilik
+🦼:
+  - motorlu təkərli kreslo
+  - əlverişlilik
+🛺:
+  - avto-rikşa
+  - tuk-tuk
 🚲️:
   - nəqliyyat
   - velosiped
@@ -11620,6 +12964,10 @@
   - nəqliyyat
   - təyyarə
   - təyyarə enir
+🪂:
+  - parayelkən
+  - paraşüt
+  - səma dayvı
 💺:
   - oturacaq
   - stul
@@ -11970,6 +13318,9 @@
   - parlaq
   - üz
   - üzü olan günəş
+🪐:
+  - saturn
+  - üzüklü planet
 ⭐️:
   - ağ orta ulduz
   - ulduz
@@ -12360,6 +13711,10 @@
   - balıq
   - balıq tilovu
   - tilov
+🤿:
+  - akvalanq
+  - dalğıc
+  - dalğıc maskası
 🎽:
   - atlet köynəyi
   - köynək
@@ -12384,6 +13739,14 @@
   - ox
   - oyun
   - vur
+🪀:
+  - dalğalanma
+  - oyuncaq
+  - yo-yo
+🪁:
+  - havada üzmə
+  - uçuş
+  - çərpələng
 🎱:
   - '8'
   - bilyard
@@ -12527,6 +13890,11 @@
   - laboratoriya geyimi
   - qaynaq
   - təcrübə
+🦺:
+  - güvənlik
+  - güvənlik jaketi
+  - jaket
+  - təcililik
 👔:
   - geyim
   - qalstuk
@@ -12556,6 +13924,23 @@
 👘:
   - geyim
   - kimono
+🥻:
+  - geyim
+  - paltar
+  - sari
+🩱:
+  - bir hissəli üzgüçülük geyimi
+  - hamam geyimi
+🩲:
+  - alt paltar
+  - hamam geyimi
+  - trusik
+  - üzgüçülük geyimi
+🩳:
+  - alt paltar
+  - hamam geyimi
+  - şalvar
+  - şort
 👙:
   - bikini
   - geyim
@@ -12621,6 +14006,10 @@
   - qadın
   - qadın səndəli
   - səndəl
+🩰:
+  - balet
+  - balet ayaqqabıları
+  - rəqs
 👢:
   - ayaqqabı
   - geyim
@@ -12783,6 +14172,10 @@
   - alət
   - musiqi
   - skripka
+🪕:
+  - banco
+  - musiqi
+  - simli alət
 🥁:
   - davul
   - dəf
@@ -12943,6 +14336,10 @@
   - qırmızı
   - qırmızı kağız fənər
   - yapon
+🪔:
+  - lampa
+  - yağ
+  - yağ lampası
 📔:
   - bəzəkli cildli dəftər
   - bəzənmiş
@@ -13293,6 +14690,12 @@
 🔨:
   - alət
   - çəkic
+🪓:
+  - balta
+  - bölmək
+  - doğramaq
+  - kəsmək
+  - taxta
 ⛏️:
   - alət
   - külüng
@@ -13353,6 +14756,10 @@
   - tarazlıq tərəzisi
   - çəki
   - ədalət
+🦯:
+  - kor
+  - zond
+  - əlverişlilik
 🔗:
   - zəncir
 ⛓️:
@@ -13411,11 +14818,24 @@
   - tibb
   - çəkmək
   - şpris
+🩸:
+  - aybaşı
+  - qan damlası
+  - qan donoru
+  - tibb
 💊:
   - həb
   - həkim
   - naxoş
   - tibb
+🩹:
+  - bandaj
+  - yapışan bandaj
+🩺:
+  - doktor
+  - stetoskop
+  - tibb
+  - ürək
 🚪:
   - qapı
 🛏️:
@@ -13427,6 +14847,10 @@
   - divan və lampa
   - lampa
   - otel
+🪑:
+  - oturacaq
+  - oturmaq
+  - stul
 🚽:
   - tualet
 🚿:
@@ -13435,6 +14859,10 @@
 🛁:
   - hamam
   - vanna
+🪒:
+  - iti
+  - kəsici
+  - ülgüc
 🧴:
   - gün kremi
   - losyon
@@ -14301,11 +15729,31 @@
   - həndəsi
   - qırmızı
   - qırmızı dairə
+🟠:
+  - narıncı
+  - narıncı çevrə
+  - çevrə
+🟡:
+  - sarı
+  - sarı çevrə
+  - çevrə
+🟢:
+  - yaşıl
+  - yaşıl çevrə
+  - çevrə
 🔵:
   - dairə
   - həndəsi
   - mavi
   - mavi dairə
+🟣:
+  - bənövşəyi
+  - bənövşəyi çevrə
+  - çevrə
+🟤:
+  - qəhvəyi
+  - qəhvəyi çevrə
+  - çevrə
 ⚫️:
   - dairə
   - həndəsi
@@ -14314,6 +15762,34 @@
   - ağ dairə
   - dairə
   - həndəsi
+🟥:
+  - qırmızı
+  - qırmızı kvadrat
+  - çevrə
+🟧:
+  - kvadrat
+  - narıncı
+  - narıncı kvadrat
+🟨:
+  - kvadrat
+  - sarı
+  - sarı kvadrat
+🟩:
+  - kvadrat
+  - yaşıl
+  - yaşıl kvadrat
+🟦:
+  - göy
+  - göy kvadrat
+  - kvadrat
+🟪:
+  - bənövşəyi
+  - bənövşəyi kvadrat
+  - kvadrat
+🟫:
+  - kvadrat
+  - qəhvəyi
+  - qəhvəyi kvadrat
 ⬛️:
   - həndəsi
   - kvadrat
@@ -15083,7 +16559,7 @@
   - 'bayraq: Suriya'
 🇸🇿:
   - bayraq
-  - 'bayraq: Svazilend'
+  - 'bayraq: Esvatini'
 🇹🇦:
   - bayraq
   - 'bayraq: Tristan da Kunya'

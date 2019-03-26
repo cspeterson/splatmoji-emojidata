@@ -95,8 +95,7 @@
         "sevgi",
         "sevib qolgan",
         "yurakcha",
-        "yurakchalari bor jilmaygan yuz",
-        "yuz"
+        "yurakchalari bor jilmaygan yuz"
     ],
     "😍": [
         "ko‘z",
@@ -533,6 +532,12 @@
         "charchagan yuz",
         "yuz"
     ],
+    "🥱": [
+        "charchagan",
+        "esnayotgan",
+        "esnayotgan yuz",
+        "xorg‘in"
+    ],
     "😤": [
         "burnidan tutun chiqayotgan yuz",
         "g‘alaba",
@@ -655,72 +660,76 @@
         "yuz"
     ],
     "😺": [
+        "jilmayish",
         "mushuk",
         "ochiq",
-        "og‘iz",
+        "ogʻiz",
         "og‘zi ochiq holatda kulayotgan mushuk",
-        "tabassum",
+        "tirjayish",
         "yuz"
     ],
     "😸": [
-        "ko‘z",
-        "ko‘zlarini qisgan holda kulayotgan mushuk",
-        "kulimsirash",
+        "jilmayish",
+        "koʻz",
         "mushuk",
-        "tabassum",
+        "tirjaygan holda kulayotgan mushuk",
+        "tirjayish",
         "yuz"
     ],
     "😹": [
-        "ko‘z yoshi",
+        "huzur",
+        "koʻz yoshi",
+        "koʻzidan yosh chiqib kulayotgan mushuk",
         "mushuk",
-        "quvonch ko‘z yoshlari oqayotgan mushuk",
-        "xursand",
+        "quvonch",
+        "xursandchilik",
         "yuz"
     ],
     "😻": [
-        "ko‘z",
+        "jilmayish",
+        "koʻz",
         "ko‘zlari yurak shaklida kulib turgan mushuk",
         "mushuk",
         "sevgi",
-        "tabassum",
         "yurak",
         "yuz"
     ],
     "😼": [
-        "kinoyali",
+        "istehzo",
+        "jilmayish",
+        "lab burib jilmaygan mushuk",
+        "lab burish",
         "mushuk",
-        "tabassum",
-        "tirjayib turgan mushuk",
-        "tirjayish",
         "yuz"
     ],
     "😽": [
-        "ko‘z",
-        "ko‘zlari yopiq holda bo‘sa olayotgan mushuk",
+        "boʻsa",
+        "boʻsa olayotgan mushuk",
+        "koʻz",
         "mushuk",
-        "o‘pish",
         "yuz"
     ],
     "🙀": [
-        "charchagan",
+        "ajablanish",
         "charchagan mushuk",
-        "horg‘in",
+        "charchash",
         "mushuk",
-        "uhh",
+        "toliqish",
+        "voy",
         "yuz"
     ],
     "😿": [
-        "hafa",
-        "ko‘z yoshi",
+        "koʻz yoshi",
         "mushuk",
-        "yig‘lash",
-        "yig‘layotgan mushuk",
+        "xafalik",
+        "yigʻi",
+        "yigʻlayotgan mushuk",
         "yuz"
     ],
     "😾": [
-        "badjahl mushuk",
+        "dargʻazab mushuk",
+        "gʻazablanish",
         "mushuk",
-        "norozi",
         "yuz"
     ],
     "🙈": [
@@ -820,10 +829,10 @@
     ],
     "❣️": [
         "belgi",
-        "qalin yurak shaklidagi undov belgisi",
-        "tinish",
+        "tinish belgisi",
         "undov",
-        "yurak"
+        "yurak shaklidagi undov",
+        "yurak shaklidagi undov belgisi"
     ],
     "💔": [
         "singan",
@@ -858,9 +867,19 @@
         "binafsharang yurak",
         "yurak"
     ],
+    "🤎": [
+        "jigarrang",
+        "jigarrang yurak",
+        "yurak"
+    ],
     "🖤": [
         "ichi qora",
         "qora",
+        "yurak"
+    ],
+    "🤍": [
+        "oq",
+        "oq yurak",
         "yurak"
     ],
     "💯": [
@@ -1222,6 +1241,58 @@
         "qo‘lda qilingan ok",
         "qo‘lda qilingan ok: 6-teri turi",
         "tana"
+    ],
+    "🤏": [
+        "biroz",
+        "chimduvchi qoʻl",
+        "kam",
+        "kichik",
+        "ozgina"
+    ],
+    "🤏🏻": [
+        "1–2-teri turi",
+        "biroz",
+        "chimduvchi qoʻl",
+        "chimduvchi qoʻl: 1–2-teri turi",
+        "kam",
+        "kichik",
+        "ozgina"
+    ],
+    "🤏🏼": [
+        "3-teri turi",
+        "biroz",
+        "chimduvchi qoʻl",
+        "chimduvchi qoʻl: 3-teri turi",
+        "kam",
+        "kichik",
+        "ozgina"
+    ],
+    "🤏🏽": [
+        "4-teri turi",
+        "biroz",
+        "chimduvchi qoʻl",
+        "chimduvchi qoʻl: 4-teri turi",
+        "kam",
+        "kichik",
+        "ozgina"
+    ],
+    "🤏🏾": [
+        "5-teri turi",
+        "biroz",
+        "chimduvchi qoʻl",
+        "chimduvchi qoʻl: 5-teri turi",
+        "kam",
+        "kichik",
+        "ozgina"
+    ],
+    "🤏🏿": [
+        "6-teri turi",
+        "biroz",
+        "chimduvchi qoʻl",
+        "chimduvchi qoʻl: 6-teri turi",
+        "kam",
+        "kichik",
+        "ozgina"
     ],
     "✌️": [
         "g‘alaba",
@@ -2574,6 +2645,16 @@
         "muskullar",
         "tana"
     ],
+    "🦾": [
+        "mexanik qoʻl",
+        "nogironlik",
+        "protez"
+    ],
+    "🦿": [
+        "mexanik oyoq",
+        "nogironlik",
+        "protez"
+    ],
     "🦵": [
         "oyoq",
         "son",
@@ -2705,6 +2786,46 @@
         "quloq",
         "quloq: 6-teri turi",
         "tana"
+    ],
+    "🦻": [
+        "eshitish qobiliyati past",
+        "eshitish qurilmasi taqilgan quloq",
+        "nogironlik"
+    ],
+    "🦻🏻": [
+        "1–2-teri turi",
+        "eshitish qobiliyati past",
+        "eshitish qurilmasi taqilgan quloq",
+        "eshitish qurilmasi taqilgan quloq: 1–2-teri turi",
+        "nogironlik"
+    ],
+    "🦻🏼": [
+        "3-teri turi",
+        "eshitish qobiliyati past",
+        "eshitish qurilmasi taqilgan quloq",
+        "eshitish qurilmasi taqilgan quloq: 3-teri turi",
+        "nogironlik"
+    ],
+    "🦻🏽": [
+        "4-teri turi",
+        "eshitish qobiliyati past",
+        "eshitish qurilmasi taqilgan quloq",
+        "eshitish qurilmasi taqilgan quloq: 4-teri turi",
+        "nogironlik"
+    ],
+    "🦻🏾": [
+        "5-teri turi",
+        "eshitish qobiliyati past",
+        "eshitish qurilmasi taqilgan quloq",
+        "eshitish qurilmasi taqilgan quloq: 5-teri turi",
+        "nogironlik"
+    ],
+    "🦻🏿": [
+        "6-teri turi",
+        "eshitish qobiliyati past",
+        "eshitish qurilmasi taqilgan quloq",
+        "eshitish qurilmasi taqilgan quloq: 6-teri turi",
+        "nogironlik"
     ],
     "👃": [
         "burun",
@@ -2981,38 +3102,50 @@
         "voyaga yetgan: 6-teri turi"
     ],
     "👱": [
-        "sariq",
-        "sariq sochli odam"
+        "mallasoch",
+        "sariq sochli odam",
+        "shaxs: mallasoch",
+        "soch"
     ],
     "👱🏻": [
         "1–2-teri turi",
-        "sariq",
+        "mallasoch",
         "sariq sochli odam",
-        "sariq sochli odam: 1–2-teri turi"
+        "shaxs: 1–2-teri turi mallasoch",
+        "shaxs: mallasoch",
+        "soch"
     ],
     "👱🏼": [
         "3-teri turi",
-        "sariq",
+        "mallasoch",
         "sariq sochli odam",
-        "sariq sochli odam: 3-teri turi"
+        "shaxs: 3-teri turi mallasoch",
+        "shaxs: mallasoch",
+        "soch"
     ],
     "👱🏽": [
         "4-teri turi",
-        "sariq",
+        "mallasoch",
         "sariq sochli odam",
-        "sariq sochli odam: 4-teri turi"
+        "shaxs: 4-teri turi mallasoch",
+        "shaxs: mallasoch",
+        "soch"
     ],
     "👱🏾": [
         "5-teri turi",
-        "sariq",
+        "mallasoch",
         "sariq sochli odam",
-        "sariq sochli odam: 5-teri turi"
+        "shaxs: 5-teri turi mallasoch",
+        "shaxs: mallasoch",
+        "soch"
     ],
     "👱🏿": [
         "6-teri turi",
-        "sariq",
+        "mallasoch",
         "sariq sochli odam",
-        "sariq sochli odam: 6-teri turi"
+        "shaxs: 6-teri turi mallasoch",
+        "shaxs: mallasoch",
+        "soch"
     ],
     "👨": [
         "erkak",
@@ -3049,78 +3182,108 @@
         "kishi"
     ],
     "🧔": [
-        "soqolli odam"
+        "erkak",
+        "erkak: soqolli",
+        "shaxs",
+        "soqol",
+        "soqolli"
     ],
     "🧔🏻": [
         "1–2-teri turi",
-        "soqolli odam",
-        "soqolli odam: 1–2-teri turi"
+        "erkak",
+        "erkak: 1–2-teri turi soqolli",
+        "erkak: soqolli",
+        "shaxs",
+        "soqol",
+        "soqolli"
     ],
     "🧔🏼": [
         "3-teri turi",
-        "soqolli odam",
-        "soqolli odam: 3-teri turi"
+        "erkak",
+        "erkak: 3-teri turi soqolli",
+        "erkak: soqolli",
+        "shaxs",
+        "soqol",
+        "soqolli"
     ],
     "🧔🏽": [
         "4-teri turi",
-        "soqolli odam",
-        "soqolli odam: 4-teri turi"
+        "erkak",
+        "erkak: 4-teri turi soqolli",
+        "erkak: soqolli",
+        "shaxs",
+        "soqol",
+        "soqolli"
     ],
     "🧔🏾": [
         "5-teri turi",
-        "soqolli odam",
-        "soqolli odam: 5-teri turi"
+        "erkak",
+        "erkak: 5-teri turi soqolli",
+        "erkak: soqolli",
+        "shaxs",
+        "soqol",
+        "soqolli"
     ],
     "🧔🏿": [
         "6-teri turi",
-        "soqolli odam",
-        "soqolli odam: 6-teri turi"
+        "erkak",
+        "erkak: 6-teri turi soqolli",
+        "erkak: soqolli",
+        "shaxs",
+        "soqol",
+        "soqolli"
     ],
     "👱‍♂": [
         "erkak",
-        "oq-sariq",
-        "oq-sariq sochli erkak",
-        "sarg‘ish"
+        "erkak: mallasoch",
+        "mallasoch",
+        "sariq sochli erkak",
+        "soch"
     ],
     "👱🏻‍♂": [
         "1–2-teri turi",
         "erkak",
-        "oq-sariq",
-        "oq-sariq sochli erkak",
-        "oq-sariq sochli erkak: 1–2-teri turi",
-        "sarg‘ish"
+        "erkak: 1–2-teri turi mallasoch",
+        "erkak: mallasoch",
+        "mallasoch",
+        "sariq sochli erkak",
+        "soch"
     ],
     "👱🏼‍♂": [
         "3-teri turi",
         "erkak",
-        "oq-sariq",
-        "oq-sariq sochli erkak",
-        "oq-sariq sochli erkak: 3-teri turi",
-        "sarg‘ish"
+        "erkak: 3-teri turi mallasoch",
+        "erkak: mallasoch",
+        "mallasoch",
+        "sariq sochli erkak",
+        "soch"
     ],
     "👱🏽‍♂": [
         "4-teri turi",
         "erkak",
-        "oq-sariq",
-        "oq-sariq sochli erkak",
-        "oq-sariq sochli erkak: 4-teri turi",
-        "sarg‘ish"
+        "erkak: 4-teri turi mallasoch",
+        "erkak: mallasoch",
+        "mallasoch",
+        "sariq sochli erkak",
+        "soch"
     ],
     "👱🏾‍♂": [
         "5-teri turi",
         "erkak",
-        "oq-sariq",
-        "oq-sariq sochli erkak",
-        "oq-sariq sochli erkak: 5-teri turi",
-        "sarg‘ish"
+        "erkak: 5-teri turi mallasoch",
+        "erkak: mallasoch",
+        "mallasoch",
+        "sariq sochli erkak",
+        "soch"
     ],
     "👱🏿‍♂": [
         "6-teri turi",
         "erkak",
-        "oq-sariq",
-        "oq-sariq sochli erkak",
-        "oq-sariq sochli erkak: 6-teri turi",
-        "sarg‘ish"
+        "erkak: 6-teri turi mallasoch",
+        "erkak: mallasoch",
+        "mallasoch",
+        "sariq sochli erkak",
+        "soch"
     ],
     "👨‍🦰": [
         "erkak",
@@ -3322,49 +3485,49 @@
     ],
     "👱‍♀": [
         "ayol",
-        "oq-sariq",
-        "oq-sariq sochli ayol",
-        "sarg‘ish"
+        "ayol: mallasoch",
+        "mallasoch",
+        "soch"
     ],
     "👱🏻‍♀": [
         "1–2-teri turi",
         "ayol",
-        "oq-sariq",
-        "oq-sariq sochli ayol",
-        "oq-sariq sochli ayol: 1–2-teri turi",
-        "sarg‘ish"
+        "ayol: 1–2-teri turi mallasoch",
+        "ayol: mallasoch",
+        "mallasoch",
+        "soch"
     ],
     "👱🏼‍♀": [
         "3-teri turi",
         "ayol",
-        "oq-sariq",
-        "oq-sariq sochli ayol",
-        "oq-sariq sochli ayol: 3-teri turi",
-        "sarg‘ish"
+        "ayol: 3-teri turi mallasoch",
+        "ayol: mallasoch",
+        "mallasoch",
+        "soch"
     ],
     "👱🏽‍♀": [
         "4-teri turi",
         "ayol",
-        "oq-sariq",
-        "oq-sariq sochli ayol",
-        "oq-sariq sochli ayol: 4-teri turi",
-        "sarg‘ish"
+        "ayol: 4-teri turi mallasoch",
+        "ayol: mallasoch",
+        "mallasoch",
+        "soch"
     ],
     "👱🏾‍♀": [
         "5-teri turi",
         "ayol",
-        "oq-sariq",
-        "oq-sariq sochli ayol",
-        "oq-sariq sochli ayol: 5-teri turi",
-        "sarg‘ish"
+        "ayol: 5-teri turi mallasoch",
+        "ayol: mallasoch",
+        "mallasoch",
+        "soch"
     ],
     "👱🏿‍♀": [
         "6-teri turi",
         "ayol",
-        "oq-sariq",
-        "oq-sariq sochli ayol",
-        "oq-sariq sochli ayol: 6-teri turi",
-        "sarg‘ish"
+        "ayol: 6-teri turi mallasoch",
+        "ayol: mallasoch",
+        "mallasoch",
+        "soch"
     ],
     "👩‍🦰": [
         "ayol",
@@ -4509,6 +4672,128 @@
         "ayol qo‘l ko‘tarmoqda: 6-teri turi",
         "imo-ishora",
         "qo‘l ko‘tarish"
+    ],
+    "🧏": [
+        "eshitish",
+        "kar",
+        "kar odam",
+        "nogironlik",
+        "quloq"
+    ],
+    "🧏🏻": [
+        "1–2-teri turi",
+        "eshitish",
+        "kar",
+        "kar odam",
+        "kar odam: 1–2-teri turi",
+        "nogironlik",
+        "quloq"
+    ],
+    "🧏🏼": [
+        "3-teri turi",
+        "eshitish",
+        "kar",
+        "kar odam",
+        "kar odam: 3-teri turi",
+        "nogironlik",
+        "quloq"
+    ],
+    "🧏🏽": [
+        "4-teri turi",
+        "eshitish",
+        "kar",
+        "kar odam",
+        "kar odam: 4-teri turi",
+        "nogironlik",
+        "quloq"
+    ],
+    "🧏🏾": [
+        "5-teri turi",
+        "eshitish",
+        "kar",
+        "kar odam",
+        "kar odam: 5-teri turi",
+        "nogironlik",
+        "quloq"
+    ],
+    "🧏🏿": [
+        "6-teri turi",
+        "eshitish",
+        "kar",
+        "kar odam",
+        "kar odam: 6-teri turi",
+        "nogironlik",
+        "quloq"
+    ],
+    "🧏‍♂": [
+        "erkak",
+        "kar",
+        "kar erkak"
+    ],
+    "🧏🏻‍♂": [
+        "1–2-teri turi",
+        "erkak",
+        "kar",
+        "kar erkak: 1–2-teri turi"
+    ],
+    "🧏🏼‍♂": [
+        "3-teri turi",
+        "erkak",
+        "kar",
+        "kar erkak: 3-teri turi"
+    ],
+    "🧏🏽‍♂": [
+        "4-teri turi",
+        "erkak",
+        "kar",
+        "kar erkak: 4-teri turi"
+    ],
+    "🧏🏾‍♂": [
+        "5-teri turi",
+        "erkak",
+        "kar",
+        "kar erkak: 5-teri turi"
+    ],
+    "🧏🏿‍♂": [
+        "6-teri turi",
+        "erkak",
+        "kar",
+        "kar erkak: 6-teri turi"
+    ],
+    "🧏‍♀": [
+        "ayol",
+        "kar",
+        "kar ayol"
+    ],
+    "🧏🏻‍♀": [
+        "1–2-teri turi",
+        "ayol",
+        "kar",
+        "kar ayol: 1–2-teri turi"
+    ],
+    "🧏🏼‍♀": [
+        "3-teri turi",
+        "ayol",
+        "kar",
+        "kar ayol: 3-teri turi"
+    ],
+    "🧏🏽‍♀": [
+        "4-teri turi",
+        "ayol",
+        "kar",
+        "kar ayol: 4-teri turi"
+    ],
+    "🧏🏾‍♀": [
+        "5-teri turi",
+        "ayol",
+        "kar",
+        "kar ayol: 5-teri turi"
+    ],
+    "🧏🏿‍♀": [
+        "6-teri turi",
+        "ayol",
+        "kar",
+        "kar ayol: 6-teri turi"
     ],
     "🙇": [
         "imo-ishora",
@@ -9057,6 +9342,534 @@
         "yurayotgan ayol",
         "yurayotgan ayol: 6-teri turi"
     ],
+    "🧍": [
+        "tik turgan odam",
+        "tik turish",
+        "turish"
+    ],
+    "🧍🏻": [
+        "1–2-teri turi",
+        "tik turgan odam",
+        "tik turgan odam: 1–2-teri turi",
+        "tik turish",
+        "turish"
+    ],
+    "🧍🏼": [
+        "3-teri turi",
+        "tik turgan odam",
+        "tik turgan odam: 3-teri turi",
+        "tik turish",
+        "turish"
+    ],
+    "🧍🏽": [
+        "4-teri turi",
+        "tik turgan odam",
+        "tik turgan odam: 4-teri turi",
+        "tik turish",
+        "turish"
+    ],
+    "🧍🏾": [
+        "5-teri turi",
+        "tik turgan odam",
+        "tik turgan odam: 5-teri turi",
+        "tik turish",
+        "turish"
+    ],
+    "🧍🏿": [
+        "6-teri turi",
+        "tik turgan odam",
+        "tik turgan odam: 6-teri turi",
+        "tik turish",
+        "turish"
+    ],
+    "🧍‍♂": [
+        "erkak",
+        "tik turgan erkak",
+        "tik turish"
+    ],
+    "🧍🏻‍♂": [
+        "1–2-teri turi",
+        "erkak",
+        "tik turgan erkak",
+        "tik turgan erkak: 1–2-teri turi",
+        "tik turish"
+    ],
+    "🧍🏼‍♂": [
+        "3-teri turi",
+        "erkak",
+        "tik turgan erkak",
+        "tik turgan erkak: 3-teri turi",
+        "tik turish"
+    ],
+    "🧍🏽‍♂": [
+        "4-teri turi",
+        "erkak",
+        "tik turgan erkak",
+        "tik turgan erkak: 4-teri turi",
+        "tik turish"
+    ],
+    "🧍🏾‍♂": [
+        "5-teri turi",
+        "erkak",
+        "tik turgan erkak",
+        "tik turgan erkak: 5-teri turi",
+        "tik turish"
+    ],
+    "🧍🏿‍♂": [
+        "6-teri turi",
+        "erkak",
+        "tik turgan erkak",
+        "tik turgan erkak: 6-teri turi",
+        "tik turish"
+    ],
+    "🧍‍♀": [
+        "ayol",
+        "tik turgan ayol",
+        "tik turish"
+    ],
+    "🧍🏻‍♀": [
+        "1–2-teri turi",
+        "ayol",
+        "tik turgan ayol",
+        "tik turgan ayol: 1–2-teri turi",
+        "tik turish"
+    ],
+    "🧍🏼‍♀": [
+        "3-teri turi",
+        "ayol",
+        "tik turgan ayol",
+        "tik turgan ayol: 3-teri turi",
+        "tik turish"
+    ],
+    "🧍🏽‍♀": [
+        "4-teri turi",
+        "ayol",
+        "tik turgan ayol",
+        "tik turgan ayol: 4-teri turi",
+        "tik turish"
+    ],
+    "🧍🏾‍♀": [
+        "5-teri turi",
+        "ayol",
+        "tik turgan ayol",
+        "tik turgan ayol: 5-teri turi",
+        "tik turish"
+    ],
+    "🧍🏿‍♀": [
+        "6-teri turi",
+        "ayol",
+        "tik turgan ayol",
+        "tik turgan ayol: 6-teri turi",
+        "tik turish"
+    ],
+    "🧎": [
+        "tiz choʻkish",
+        "tiz choʻkkan odam",
+        "tizza"
+    ],
+    "🧎🏻": [
+        "1–2-teri turi",
+        "tiz choʻkish",
+        "tiz choʻkkan odam",
+        "tiz choʻkkan odam: 1–2-teri turi",
+        "tizza"
+    ],
+    "🧎🏼": [
+        "3-teri turi",
+        "tiz choʻkish",
+        "tiz choʻkkan odam",
+        "tiz choʻkkan odam: 3-teri turi",
+        "tizza"
+    ],
+    "🧎🏽": [
+        "4-teri turi",
+        "tiz choʻkish",
+        "tiz choʻkkan odam",
+        "tiz choʻkkan odam: 4-teri turi",
+        "tizza"
+    ],
+    "🧎🏾": [
+        "5-teri turi",
+        "tiz choʻkish",
+        "tiz choʻkkan odam",
+        "tiz choʻkkan odam: 5-teri turi",
+        "tizza"
+    ],
+    "🧎🏿": [
+        "6-teri turi",
+        "tiz choʻkish",
+        "tiz choʻkkan odam",
+        "tiz choʻkkan odam: 6-teri turi",
+        "tizza"
+    ],
+    "🧎‍♂": [
+        "erkak",
+        "tiz choʻkish",
+        "tiz choʻkkan erkak"
+    ],
+    "🧎🏻‍♂": [
+        "1–2-teri turi",
+        "erkak",
+        "tiz choʻkish",
+        "tiz choʻkkan erkak",
+        "tiz choʻkkan erkak: 1–2-teri turi"
+    ],
+    "🧎🏼‍♂": [
+        "3-teri turi",
+        "erkak",
+        "tiz choʻkish",
+        "tiz choʻkkan erkak",
+        "tiz choʻkkan erkak: 3-teri turi"
+    ],
+    "🧎🏽‍♂": [
+        "4-teri turi",
+        "erkak",
+        "tiz choʻkish",
+        "tiz choʻkkan erkak",
+        "tiz choʻkkan erkak: 4-teri turi"
+    ],
+    "🧎🏾‍♂": [
+        "5-teri turi",
+        "erkak",
+        "tiz choʻkish",
+        "tiz choʻkkan erkak",
+        "tiz choʻkkan erkak: 5-teri turi"
+    ],
+    "🧎🏿‍♂": [
+        "6-teri turi",
+        "erkak",
+        "tiz choʻkish",
+        "tiz choʻkkan erkak",
+        "tiz choʻkkan erkak: 6-teri turi"
+    ],
+    "🧎‍♀": [
+        "ayol",
+        "tiz choʻkish",
+        "tiz choʻkkan ayol"
+    ],
+    "🧎🏻‍♀": [
+        "1–2-teri turi",
+        "ayol",
+        "tiz choʻkish",
+        "tiz choʻkkan ayol",
+        "tiz choʻkkan ayol: 1–2-teri turi"
+    ],
+    "🧎🏼‍♀": [
+        "3-teri turi",
+        "ayol",
+        "tiz choʻkish",
+        "tiz choʻkkan ayol",
+        "tiz choʻkkan ayol: 3-teri turi"
+    ],
+    "🧎🏽‍♀": [
+        "4-teri turi",
+        "ayol",
+        "tiz choʻkish",
+        "tiz choʻkkan ayol",
+        "tiz choʻkkan ayol: 4-teri turi"
+    ],
+    "🧎🏾‍♀": [
+        "5-teri turi",
+        "ayol",
+        "tiz choʻkish",
+        "tiz choʻkkan ayol",
+        "tiz choʻkkan ayol: 5-teri turi"
+    ],
+    "🧎🏿‍♀": [
+        "6-teri turi",
+        "ayol",
+        "tiz choʻkish",
+        "tiz choʻkkan ayol",
+        "tiz choʻkkan ayol: 6-teri turi"
+    ],
+    "👨‍🦯": [
+        "hassali odam",
+        "koʻr",
+        "nogironlik",
+        "odam"
+    ],
+    "👨🏻‍🦯": [
+        "1–2-teri turi",
+        "hassali odam",
+        "hassali odam: 1–2-teri turi",
+        "koʻr",
+        "nogironlik",
+        "odam"
+    ],
+    "👨🏼‍🦯": [
+        "3-teri turi",
+        "hassali odam",
+        "hassali odam: 3-teri turi",
+        "koʻr",
+        "nogironlik",
+        "odam"
+    ],
+    "👨🏽‍🦯": [
+        "4-teri turi",
+        "hassali odam",
+        "hassali odam: 4-teri turi",
+        "koʻr",
+        "nogironlik",
+        "odam"
+    ],
+    "👨🏾‍🦯": [
+        "5-teri turi",
+        "hassali odam",
+        "hassali odam: 5-teri turi",
+        "koʻr",
+        "nogironlik",
+        "odam"
+    ],
+    "👨🏿‍🦯": [
+        "6-teri turi",
+        "hassali odam",
+        "hassali odam: 6-teri turi",
+        "koʻr",
+        "nogironlik",
+        "odam"
+    ],
+    "👩‍🦯": [
+        "ayol",
+        "hassali ayol",
+        "koʻr",
+        "nogironlik"
+    ],
+    "👩🏻‍🦯": [
+        "1–2-teri turi",
+        "ayol",
+        "hassali ayol",
+        "hassali ayol: 1–2-teri turi",
+        "koʻr",
+        "nogironlik"
+    ],
+    "👩🏼‍🦯": [
+        "3-teri turi",
+        "ayol",
+        "hassali ayol",
+        "hassali ayol: 3-teri turi",
+        "koʻr",
+        "nogironlik"
+    ],
+    "👩🏽‍🦯": [
+        "4-teri turi",
+        "ayol",
+        "hassali ayol",
+        "hassali ayol: 4-teri turi",
+        "koʻr",
+        "nogironlik"
+    ],
+    "👩🏾‍🦯": [
+        "5-teri turi",
+        "ayol",
+        "hassali ayol",
+        "hassali ayol: 5-teri turi",
+        "koʻr",
+        "nogironlik"
+    ],
+    "👩🏿‍🦯": [
+        "6-teri turi",
+        "ayol",
+        "hassali ayol",
+        "hassali ayol: 6-teri turi",
+        "koʻr",
+        "nogironlik"
+    ],
+    "👨‍🦼": [
+        "erkak",
+        "motorli nogironlik aravachasidagi erkak",
+        "nogironlik",
+        "nogironlik aravachasi"
+    ],
+    "👨🏻‍🦼": [
+        "1–2-teri turi",
+        "erkak",
+        "motorli nogironlik aravachasidagi erkak",
+        "motorli nogironlik aravachasidagi erkak: 1–2-teri turi",
+        "nogironlik",
+        "nogironlik aravachasi"
+    ],
+    "👨🏼‍🦼": [
+        "3-teri turi",
+        "erkak",
+        "motorli nogironlik aravachasidagi erkak",
+        "motorli nogironlik aravachasidagi erkak: 3-teri turi",
+        "nogironlik",
+        "nogironlik aravachasi"
+    ],
+    "👨🏽‍🦼": [
+        "4-teri turi",
+        "erkak",
+        "motorli nogironlik aravachasidagi erkak",
+        "motorli nogironlik aravachasidagi erkak: 4-teri turi",
+        "nogironlik",
+        "nogironlik aravachasi"
+    ],
+    "👨🏾‍🦼": [
+        "5-teri turi",
+        "erkak",
+        "motorli nogironlik aravachasidagi erkak",
+        "motorli nogironlik aravachasidagi erkak: 5-teri turi",
+        "nogironlik",
+        "nogironlik aravachasi"
+    ],
+    "👨🏿‍🦼": [
+        "6-teri turi",
+        "erkak",
+        "motorli nogironlik aravachasidagi erkak",
+        "motorli nogironlik aravachasidagi erkak: 6-teri turi",
+        "nogironlik",
+        "nogironlik aravachasi"
+    ],
+    "👩‍🦼": [
+        "ayol",
+        "motorli nogironlik aravachasidagi ayol",
+        "nogironlik",
+        "nogironlik aravachasi"
+    ],
+    "👩🏻‍🦼": [
+        "1–2-teri turi",
+        "ayol",
+        "motorli nogironlik aravachasidagi ayol",
+        "motorli nogironlik aravachasidagi ayol: 1–2-teri turi",
+        "nogironlik",
+        "nogironlik aravachasi"
+    ],
+    "👩🏼‍🦼": [
+        "3-teri turi",
+        "ayol",
+        "motorli nogironlik aravachasidagi ayol",
+        "motorli nogironlik aravachasidagi ayol: 3-teri turi",
+        "nogironlik",
+        "nogironlik aravachasi"
+    ],
+    "👩🏽‍🦼": [
+        "4-teri turi",
+        "ayol",
+        "motorli nogironlik aravachasidagi ayol",
+        "motorli nogironlik aravachasidagi ayol: 4-teri turi",
+        "nogironlik",
+        "nogironlik aravachasi"
+    ],
+    "👩🏾‍🦼": [
+        "5-teri turi",
+        "ayol",
+        "motorli nogironlik aravachasidagi ayol",
+        "motorli nogironlik aravachasidagi ayol: 5-teri turi",
+        "nogironlik",
+        "nogironlik aravachasi"
+    ],
+    "👩🏿‍🦼": [
+        "6-teri turi",
+        "ayol",
+        "motorli nogironlik aravachasidagi ayol",
+        "motorli nogironlik aravachasidagi ayol: 6-teri turi",
+        "nogironlik",
+        "nogironlik aravachasi"
+    ],
+    "👨‍🦽": [
+        "erkak",
+        "nogiron erkak",
+        "nogironlik",
+        "nogironlik aravachasi",
+        "nogironlik aravachasidagi erkak"
+    ],
+    "👨🏻‍🦽": [
+        "1–2-teri turi",
+        "erkak",
+        "nogiron erkak",
+        "nogironlik",
+        "nogironlik aravachasi",
+        "nogironlik aravachasidagi erkak",
+        "nogironlik aravachasidagi erkak: 1–2-teri turi"
+    ],
+    "👨🏼‍🦽": [
+        "3-teri turi",
+        "erkak",
+        "nogiron erkak",
+        "nogironlik",
+        "nogironlik aravachasi",
+        "nogironlik aravachasidagi erkak",
+        "nogironlik aravachasidagi erkak: 3-teri turi"
+    ],
+    "👨🏽‍🦽": [
+        "4-teri turi",
+        "erkak",
+        "nogiron erkak",
+        "nogironlik",
+        "nogironlik aravachasi",
+        "nogironlik aravachasidagi erkak",
+        "nogironlik aravachasidagi erkak: 4-teri turi"
+    ],
+    "👨🏾‍🦽": [
+        "5-teri turi",
+        "erkak",
+        "nogiron erkak",
+        "nogironlik",
+        "nogironlik aravachasi",
+        "nogironlik aravachasidagi erkak",
+        "nogironlik aravachasidagi erkak: 5-teri turi"
+    ],
+    "👨🏿‍🦽": [
+        "6-teri turi",
+        "erkak",
+        "nogiron erkak",
+        "nogironlik",
+        "nogironlik aravachasi",
+        "nogironlik aravachasidagi erkak",
+        "nogironlik aravachasidagi erkak: 6-teri turi"
+    ],
+    "👩‍🦽": [
+        "ayol",
+        "nogiron ayol",
+        "nogironlik",
+        "nogironlik aravachasi",
+        "nogironlik aravachasidagi ayol"
+    ],
+    "👩🏻‍🦽": [
+        "1–2-teri turi",
+        "ayol",
+        "nogiron ayol",
+        "nogironlik",
+        "nogironlik aravachasi",
+        "nogironlik aravachasidagi ayol",
+        "nogironlik aravachasidagi ayol: 1–2-teri turi"
+    ],
+    "👩🏼‍🦽": [
+        "3-teri turi",
+        "ayol",
+        "nogiron ayol",
+        "nogironlik",
+        "nogironlik aravachasi",
+        "nogironlik aravachasidagi ayol",
+        "nogironlik aravachasidagi ayol: 3-teri turi"
+    ],
+    "👩🏽‍🦽": [
+        "4-teri turi",
+        "ayol",
+        "nogiron ayol",
+        "nogironlik",
+        "nogironlik aravachasi",
+        "nogironlik aravachasidagi ayol",
+        "nogironlik aravachasidagi ayol: 4-teri turi"
+    ],
+    "👩🏾‍🦽": [
+        "5-teri turi",
+        "ayol",
+        "nogiron ayol",
+        "nogironlik",
+        "nogironlik aravachasi",
+        "nogironlik aravachasidagi ayol",
+        "nogironlik aravachasidagi ayol: 5-teri turi"
+    ],
+    "👩🏿‍🦽": [
+        "6-teri turi",
+        "ayol",
+        "nogiron ayol",
+        "nogironlik",
+        "nogironlik aravachasi",
+        "nogironlik aravachasidagi ayol",
+        "nogironlik aravachasidagi ayol: 6-teri turi"
+    ],
     "🏃": [
         "marafon",
         "yugurish",
@@ -11378,30 +12191,813 @@
         "uxlash",
         "uyqu"
     ],
+    "🧑‍🤝‍🧑": [
+        "juftlik",
+        "odam",
+        "qoʻl",
+        "qoʻl ushlashib turgan odamlar",
+        "ushlab"
+    ],
+    "🧑🏻‍🤝‍🧑🏻": [
+        "1–2-teri turi",
+        "juftlik",
+        "odam",
+        "qoʻl",
+        "qoʻl ushlashib turgan odamlar",
+        "qoʻl ushlashib turgan odamlar: 1–2-teri turi",
+        "ushlab"
+    ],
+    "🧑🏼‍🤝‍🧑🏻": [
+        "1–2-teri turi",
+        "3-teri turi",
+        "juftlik",
+        "odam",
+        "qoʻl",
+        "qoʻl ushlashib turgan odamlar",
+        "qoʻl ushlashib turgan odamlar: 3-teri turi 1–2-teri turi",
+        "ushlab"
+    ],
+    "🧑🏼‍🤝‍🧑🏼": [
+        "3-teri turi",
+        "juftlik",
+        "odam",
+        "qoʻl",
+        "qoʻl ushlashib turgan odamlar",
+        "qoʻl ushlashib turgan odamlar: 3-teri turi",
+        "ushlab"
+    ],
+    "🧑🏽‍🤝‍🧑🏻": [
+        "1–2-teri turi",
+        "4-teri turi",
+        "juftlik",
+        "odam",
+        "qoʻl",
+        "qoʻl ushlashib turgan odamlar",
+        "qoʻl ushlashib turgan odamlar: 4-teri turi 1–2-teri turi",
+        "ushlab"
+    ],
+    "🧑🏽‍🤝‍🧑🏼": [
+        "3-teri turi",
+        "4-teri turi",
+        "juftlik",
+        "odam",
+        "qoʻl",
+        "qoʻl ushlashib turgan odamlar",
+        "qoʻl ushlashib turgan odamlar: 4-teri turi 3-teri turi",
+        "ushlab"
+    ],
+    "🧑🏽‍🤝‍🧑🏽": [
+        "4-teri turi",
+        "juftlik",
+        "odam",
+        "qoʻl",
+        "qoʻl ushlashib turgan odamlar",
+        "qoʻl ushlashib turgan odamlar: 4-teri turi",
+        "ushlab"
+    ],
+    "🧑🏾‍🤝‍🧑🏻": [
+        "1–2-teri turi",
+        "5-teri turi",
+        "juftlik",
+        "odam",
+        "qoʻl",
+        "qoʻl ushlashib turgan odamlar",
+        "qoʻl ushlashib turgan odamlar: 5-teri turi 1–2-teri turi",
+        "ushlab"
+    ],
+    "🧑🏾‍🤝‍🧑🏼": [
+        "3-teri turi",
+        "5-teri turi",
+        "juftlik",
+        "odam",
+        "qoʻl",
+        "qoʻl ushlashib turgan odamlar",
+        "qoʻl ushlashib turgan odamlar: 5-teri turi 3-teri turi",
+        "ushlab"
+    ],
+    "🧑🏾‍🤝‍🧑🏽": [
+        "4-teri turi",
+        "5-teri turi",
+        "juftlik",
+        "odam",
+        "qoʻl",
+        "qoʻl ushlashib turgan odamlar",
+        "qoʻl ushlashib turgan odamlar: 5-teri turi 4-teri turi",
+        "ushlab"
+    ],
+    "🧑🏾‍🤝‍🧑🏾": [
+        "5-teri turi",
+        "juftlik",
+        "odam",
+        "qoʻl",
+        "qoʻl ushlashib turgan odamlar",
+        "qoʻl ushlashib turgan odamlar: 5-teri turi",
+        "ushlab"
+    ],
+    "🧑🏿‍🤝‍🧑🏻": [
+        "1–2-teri turi",
+        "6-teri turi",
+        "juftlik",
+        "odam",
+        "qoʻl",
+        "qoʻl ushlashib turgan odamlar",
+        "qoʻl ushlashib turgan odamlar: 6-teri turi 1–2-teri turi",
+        "ushlab"
+    ],
+    "🧑🏿‍🤝‍🧑🏼": [
+        "3-teri turi",
+        "6-teri turi",
+        "juftlik",
+        "odam",
+        "qoʻl",
+        "qoʻl ushlashib turgan odamlar",
+        "qoʻl ushlashib turgan odamlar: 6-teri turi 3-teri turi",
+        "ushlab"
+    ],
+    "🧑🏿‍🤝‍🧑🏽": [
+        "4-teri turi",
+        "6-teri turi",
+        "juftlik",
+        "odam",
+        "qoʻl",
+        "qoʻl ushlashib turgan odamlar",
+        "qoʻl ushlashib turgan odamlar: 6-teri turi 4-teri turi",
+        "ushlab"
+    ],
+    "🧑🏿‍🤝‍🧑🏾": [
+        "5-teri turi",
+        "6-teri turi",
+        "juftlik",
+        "odam",
+        "qoʻl",
+        "qoʻl ushlashib turgan odamlar",
+        "qoʻl ushlashib turgan odamlar: 6-teri turi 5-teri turi",
+        "ushlab"
+    ],
+    "🧑🏿‍🤝‍🧑🏿": [
+        "6-teri turi",
+        "juftlik",
+        "odam",
+        "qoʻl",
+        "qoʻl ushlashib turgan odamlar",
+        "qoʻl ushlashib turgan odamlar: 6-teri turi",
+        "ushlab"
+    ],
     "👭": [
         "ayol",
         "juftlik",
-        "qo‘l",
-        "qo‘l ushlashib turgan ikki ayol",
-        "ushlash"
+        "qoʻl",
+        "qoʻl ushlashgan ayollar",
+        "qoʻl ushlashish"
+    ],
+    "👭🏻": [
+        "1–2-teri turi",
+        "ayol",
+        "juftlik",
+        "qoʻl",
+        "qoʻl ushlashgan ayollar",
+        "qoʻl ushlashgan ayollar: 1–2-teri turi",
+        "qoʻl ushlashish"
+    ],
+    "👩🏼‍🤝‍👩🏻": [
+        "1–2-teri turi",
+        "3-teri turi",
+        "ayol",
+        "juftlik",
+        "qoʻl",
+        "qoʻl ushlashgan ayollar",
+        "qoʻl ushlashgan ayollar: 3-teri turi 1–2-teri turi",
+        "qoʻl ushlashish"
+    ],
+    "👭🏼": [
+        "3-teri turi",
+        "ayol",
+        "juftlik",
+        "qoʻl",
+        "qoʻl ushlashgan ayollar",
+        "qoʻl ushlashgan ayollar: 3-teri turi",
+        "qoʻl ushlashish"
+    ],
+    "👩🏽‍🤝‍👩🏻": [
+        "1–2-teri turi",
+        "4-teri turi",
+        "ayol",
+        "juftlik",
+        "qoʻl",
+        "qoʻl ushlashgan ayollar",
+        "qoʻl ushlashgan ayollar: 4-teri turi 1–2-teri turi",
+        "qoʻl ushlashish"
+    ],
+    "👩🏽‍🤝‍👩🏼": [
+        "3-teri turi",
+        "4-teri turi",
+        "ayol",
+        "juftlik",
+        "qoʻl",
+        "qoʻl ushlashgan ayollar",
+        "qoʻl ushlashgan ayollar: 4-teri turi 3-teri turi",
+        "qoʻl ushlashish"
+    ],
+    "👭🏽": [
+        "4-teri turi",
+        "ayol",
+        "juftlik",
+        "qoʻl",
+        "qoʻl ushlashgan ayollar",
+        "qoʻl ushlashgan ayollar: 4-teri turi",
+        "qoʻl ushlashish"
+    ],
+    "👩🏾‍🤝‍👩🏻": [
+        "1–2-teri turi",
+        "5-teri turi",
+        "ayol",
+        "juftlik",
+        "qoʻl",
+        "qoʻl ushlashgan ayollar",
+        "qoʻl ushlashgan ayollar: 5-teri turi 1–2-teri turi",
+        "qoʻl ushlashish"
+    ],
+    "👩🏾‍🤝‍👩🏼": [
+        "3-teri turi",
+        "5-teri turi",
+        "ayol",
+        "juftlik",
+        "qoʻl",
+        "qoʻl ushlashgan ayollar",
+        "qoʻl ushlashgan ayollar: 5-teri turi 3-teri turi",
+        "qoʻl ushlashish"
+    ],
+    "👩🏾‍🤝‍👩🏽": [
+        "4-teri turi",
+        "5-teri turi",
+        "ayol",
+        "juftlik",
+        "qoʻl",
+        "qoʻl ushlashgan ayollar",
+        "qoʻl ushlashgan ayollar: 5-teri turi 4-teri turi",
+        "qoʻl ushlashish"
+    ],
+    "👭🏾": [
+        "5-teri turi",
+        "ayol",
+        "juftlik",
+        "qoʻl",
+        "qoʻl ushlashgan ayollar",
+        "qoʻl ushlashgan ayollar: 5-teri turi",
+        "qoʻl ushlashish"
+    ],
+    "👩🏿‍🤝‍👩🏻": [
+        "1–2-teri turi",
+        "6-teri turi",
+        "ayol",
+        "juftlik",
+        "qoʻl",
+        "qoʻl ushlashgan ayollar",
+        "qoʻl ushlashgan ayollar: 6-teri turi 1–2-teri turi",
+        "qoʻl ushlashish"
+    ],
+    "👩🏿‍🤝‍👩🏼": [
+        "3-teri turi",
+        "6-teri turi",
+        "ayol",
+        "juftlik",
+        "qoʻl",
+        "qoʻl ushlashgan ayollar",
+        "qoʻl ushlashgan ayollar: 6-teri turi 3-teri turi",
+        "qoʻl ushlashish"
+    ],
+    "👩🏿‍🤝‍👩🏽": [
+        "4-teri turi",
+        "6-teri turi",
+        "ayol",
+        "juftlik",
+        "qoʻl",
+        "qoʻl ushlashgan ayollar",
+        "qoʻl ushlashgan ayollar: 6-teri turi 4-teri turi",
+        "qoʻl ushlashish"
+    ],
+    "👩🏿‍🤝‍👩🏾": [
+        "5-teri turi",
+        "6-teri turi",
+        "ayol",
+        "juftlik",
+        "qoʻl",
+        "qoʻl ushlashgan ayollar",
+        "qoʻl ushlashgan ayollar: 6-teri turi 5-teri turi",
+        "qoʻl ushlashish"
+    ],
+    "👭🏿": [
+        "6-teri turi",
+        "ayol",
+        "juftlik",
+        "qoʻl",
+        "qoʻl ushlashgan ayollar",
+        "qoʻl ushlashgan ayollar: 6-teri turi",
+        "qoʻl ushlashish"
     ],
     "👫": [
         "ayol",
         "erkak",
         "juftlik",
-        "qo‘l",
-        "qo‘l ushlashib turgan erkak va ayol",
+        "qoʻl",
+        "qoʻl ushlashgan ayol va erkak",
+        "qoʻl ushlashish",
+        "ushlash"
+    ],
+    "👫🏻": [
+        "1–2-teri turi",
+        "ayol",
+        "erkak",
+        "juftlik",
+        "qoʻl",
+        "qoʻl ushlashgan ayol va erkak",
+        "qoʻl ushlashgan ayol va erkak: 1–2-teri turi",
+        "qoʻl ushlashish",
+        "ushlash"
+    ],
+    "👩🏻‍🤝‍👨🏼": [
+        "1–2-teri turi",
+        "3-teri turi",
+        "ayol",
+        "erkak",
+        "juftlik",
+        "qoʻl",
+        "qoʻl ushlashgan ayol va erkak",
+        "qoʻl ushlashgan ayol va erkak: 1–2-teri turi 3-teri turi",
+        "qoʻl ushlashish",
+        "ushlash"
+    ],
+    "👩🏻‍🤝‍👨🏽": [
+        "1–2-teri turi",
+        "4-teri turi",
+        "ayol",
+        "erkak",
+        "juftlik",
+        "qoʻl",
+        "qoʻl ushlashgan ayol va erkak",
+        "qoʻl ushlashgan ayol va erkak: 1–2-teri turi 4-teri turi",
+        "qoʻl ushlashish",
+        "ushlash"
+    ],
+    "👩🏻‍🤝‍👨🏾": [
+        "1–2-teri turi",
+        "5-teri turi",
+        "ayol",
+        "erkak",
+        "juftlik",
+        "qoʻl",
+        "qoʻl ushlashgan ayol va erkak",
+        "qoʻl ushlashgan ayol va erkak: 1–2-teri turi 5-teri turi",
+        "qoʻl ushlashish",
+        "ushlash"
+    ],
+    "👩🏻‍🤝‍👨🏿": [
+        "1–2-teri turi",
+        "6-teri turi",
+        "ayol",
+        "erkak",
+        "juftlik",
+        "qoʻl",
+        "qoʻl ushlashgan ayol va erkak",
+        "qoʻl ushlashgan ayol va erkak: 1–2-teri turi 6-teri turi",
+        "qoʻl ushlashish",
+        "ushlash"
+    ],
+    "👩🏼‍🤝‍👨🏻": [
+        "1–2-teri turi",
+        "3-teri turi",
+        "ayol",
+        "erkak",
+        "juftlik",
+        "qoʻl",
+        "qoʻl ushlashgan ayol va erkak",
+        "qoʻl ushlashgan ayol va erkak: 3-teri turi 1–2-teri turi",
+        "qoʻl ushlashish",
+        "ushlash"
+    ],
+    "👫🏼": [
+        "3-teri turi",
+        "ayol",
+        "erkak",
+        "juftlik",
+        "qoʻl",
+        "qoʻl ushlashgan ayol va erkak",
+        "qoʻl ushlashgan ayol va erkak: 3-teri turi",
+        "qoʻl ushlashish",
+        "ushlash"
+    ],
+    "👩🏼‍🤝‍👨🏽": [
+        "3-teri turi",
+        "4-teri turi",
+        "ayol",
+        "erkak",
+        "juftlik",
+        "qoʻl",
+        "qoʻl ushlashgan ayol va erkak",
+        "qoʻl ushlashgan ayol va erkak: 3-teri turi 4-teri turi",
+        "qoʻl ushlashish",
+        "ushlash"
+    ],
+    "👩🏼‍🤝‍👨🏾": [
+        "3-teri turi",
+        "5-teri turi",
+        "ayol",
+        "erkak",
+        "juftlik",
+        "qoʻl",
+        "qoʻl ushlashgan ayol va erkak",
+        "qoʻl ushlashgan ayol va erkak: 3-teri turi 5-teri turi",
+        "qoʻl ushlashish",
+        "ushlash"
+    ],
+    "👩🏼‍🤝‍👨🏿": [
+        "3-teri turi",
+        "6-teri turi",
+        "ayol",
+        "erkak",
+        "juftlik",
+        "qoʻl",
+        "qoʻl ushlashgan ayol va erkak",
+        "qoʻl ushlashgan ayol va erkak: 3-teri turi 6-teri turi",
+        "qoʻl ushlashish",
+        "ushlash"
+    ],
+    "👩🏽‍🤝‍👨🏻": [
+        "1–2-teri turi",
+        "4-teri turi",
+        "ayol",
+        "erkak",
+        "juftlik",
+        "qoʻl",
+        "qoʻl ushlashgan ayol va erkak",
+        "qoʻl ushlashgan ayol va erkak: 4-teri turi 1–2-teri turi",
+        "qoʻl ushlashish",
+        "ushlash"
+    ],
+    "👩🏽‍🤝‍👨🏼": [
+        "3-teri turi",
+        "4-teri turi",
+        "ayol",
+        "erkak",
+        "juftlik",
+        "qoʻl",
+        "qoʻl ushlashgan ayol va erkak",
+        "qoʻl ushlashgan ayol va erkak: 4-teri turi 3-teri turi",
+        "qoʻl ushlashish",
+        "ushlash"
+    ],
+    "👫🏽": [
+        "4-teri turi",
+        "ayol",
+        "erkak",
+        "juftlik",
+        "qoʻl",
+        "qoʻl ushlashgan ayol va erkak",
+        "qoʻl ushlashgan ayol va erkak: 4-teri turi",
+        "qoʻl ushlashish",
+        "ushlash"
+    ],
+    "👩🏽‍🤝‍👨🏾": [
+        "4-teri turi",
+        "5-teri turi",
+        "ayol",
+        "erkak",
+        "juftlik",
+        "qoʻl",
+        "qoʻl ushlashgan ayol va erkak",
+        "qoʻl ushlashgan ayol va erkak: 4-teri turi 5-teri turi",
+        "qoʻl ushlashish",
+        "ushlash"
+    ],
+    "👩🏽‍🤝‍👨🏿": [
+        "4-teri turi",
+        "6-teri turi",
+        "ayol",
+        "erkak",
+        "juftlik",
+        "qoʻl",
+        "qoʻl ushlashgan ayol va erkak",
+        "qoʻl ushlashgan ayol va erkak: 4-teri turi 6-teri turi",
+        "qoʻl ushlashish",
+        "ushlash"
+    ],
+    "👩🏾‍🤝‍👨🏻": [
+        "1–2-teri turi",
+        "5-teri turi",
+        "ayol",
+        "erkak",
+        "juftlik",
+        "qoʻl",
+        "qoʻl ushlashgan ayol va erkak",
+        "qoʻl ushlashgan ayol va erkak: 5-teri turi 1–2-teri turi",
+        "qoʻl ushlashish",
+        "ushlash"
+    ],
+    "👩🏾‍🤝‍👨🏼": [
+        "3-teri turi",
+        "5-teri turi",
+        "ayol",
+        "erkak",
+        "juftlik",
+        "qoʻl",
+        "qoʻl ushlashgan ayol va erkak",
+        "qoʻl ushlashgan ayol va erkak: 5-teri turi 3-teri turi",
+        "qoʻl ushlashish",
+        "ushlash"
+    ],
+    "👩🏾‍🤝‍👨🏽": [
+        "4-teri turi",
+        "5-teri turi",
+        "ayol",
+        "erkak",
+        "juftlik",
+        "qoʻl",
+        "qoʻl ushlashgan ayol va erkak",
+        "qoʻl ushlashgan ayol va erkak: 5-teri turi 4-teri turi",
+        "qoʻl ushlashish",
+        "ushlash"
+    ],
+    "👫🏾": [
+        "5-teri turi",
+        "ayol",
+        "erkak",
+        "juftlik",
+        "qoʻl",
+        "qoʻl ushlashgan ayol va erkak",
+        "qoʻl ushlashgan ayol va erkak: 5-teri turi",
+        "qoʻl ushlashish",
+        "ushlash"
+    ],
+    "👩🏾‍🤝‍👨🏿": [
+        "5-teri turi",
+        "6-teri turi",
+        "ayol",
+        "erkak",
+        "juftlik",
+        "qoʻl",
+        "qoʻl ushlashgan ayol va erkak",
+        "qoʻl ushlashgan ayol va erkak: 5-teri turi 6-teri turi",
+        "qoʻl ushlashish",
+        "ushlash"
+    ],
+    "👩🏿‍🤝‍👨🏻": [
+        "1–2-teri turi",
+        "6-teri turi",
+        "ayol",
+        "erkak",
+        "juftlik",
+        "qoʻl",
+        "qoʻl ushlashgan ayol va erkak",
+        "qoʻl ushlashgan ayol va erkak: 6-teri turi 1–2-teri turi",
+        "qoʻl ushlashish",
+        "ushlash"
+    ],
+    "👩🏿‍🤝‍👨🏼": [
+        "3-teri turi",
+        "6-teri turi",
+        "ayol",
+        "erkak",
+        "juftlik",
+        "qoʻl",
+        "qoʻl ushlashgan ayol va erkak",
+        "qoʻl ushlashgan ayol va erkak: 6-teri turi 3-teri turi",
+        "qoʻl ushlashish",
+        "ushlash"
+    ],
+    "👩🏿‍🤝‍👨🏽": [
+        "4-teri turi",
+        "6-teri turi",
+        "ayol",
+        "erkak",
+        "juftlik",
+        "qoʻl",
+        "qoʻl ushlashgan ayol va erkak",
+        "qoʻl ushlashgan ayol va erkak: 6-teri turi 4-teri turi",
+        "qoʻl ushlashish",
+        "ushlash"
+    ],
+    "👩🏿‍🤝‍👨🏾": [
+        "5-teri turi",
+        "6-teri turi",
+        "ayol",
+        "erkak",
+        "juftlik",
+        "qoʻl",
+        "qoʻl ushlashgan ayol va erkak",
+        "qoʻl ushlashgan ayol va erkak: 6-teri turi 5-teri turi",
+        "qoʻl ushlashish",
+        "ushlash"
+    ],
+    "👫🏿": [
+        "6-teri turi",
+        "ayol",
+        "erkak",
+        "juftlik",
+        "qoʻl",
+        "qoʻl ushlashgan ayol va erkak",
+        "qoʻl ushlashgan ayol va erkak: 6-teri turi",
+        "qoʻl ushlashish",
         "ushlash"
     ],
     "👬": [
+        "Egizaklar",
         "burj",
-        "egizak",
         "egizaklar",
         "erkak",
+        "erkaklar",
         "juftlik",
-        "qo‘l",
-        "qo‘l ushlashib turgan ikki erkak",
-        "ushlash"
+        "qoʻl ushlashgan erkaklar",
+        "qoʻl ushlashish"
+    ],
+    "👬🏻": [
+        "1–2-teri turi",
+        "Egizaklar",
+        "burj",
+        "egizaklar",
+        "erkak",
+        "erkaklar",
+        "juftlik",
+        "qoʻl ushlashgan erkaklar",
+        "qoʻl ushlashgan erkaklar: 1–2-teri turi",
+        "qoʻl ushlashish"
+    ],
+    "👨🏼‍🤝‍👨🏻": [
+        "1–2-teri turi",
+        "3-teri turi",
+        "Egizaklar",
+        "burj",
+        "egizaklar",
+        "erkak",
+        "erkaklar",
+        "juftlik",
+        "qoʻl ushlashgan erkaklar",
+        "qoʻl ushlashgan erkaklar: 3-teri turi 1–2-teri turi",
+        "qoʻl ushlashish"
+    ],
+    "👬🏼": [
+        "3-teri turi",
+        "Egizaklar",
+        "burj",
+        "egizaklar",
+        "erkak",
+        "erkaklar",
+        "juftlik",
+        "qoʻl ushlashgan erkaklar",
+        "qoʻl ushlashgan erkaklar: 3-teri turi",
+        "qoʻl ushlashish"
+    ],
+    "👨🏽‍🤝‍👨🏻": [
+        "1–2-teri turi",
+        "4-teri turi",
+        "Egizaklar",
+        "burj",
+        "egizaklar",
+        "erkak",
+        "erkaklar",
+        "juftlik",
+        "qoʻl ushlashgan erkaklar",
+        "qoʻl ushlashgan erkaklar: 4-teri turi 1–2-teri turi",
+        "qoʻl ushlashish"
+    ],
+    "👨🏽‍🤝‍👨🏼": [
+        "3-teri turi",
+        "4-teri turi",
+        "Egizaklar",
+        "burj",
+        "egizaklar",
+        "erkak",
+        "erkaklar",
+        "juftlik",
+        "qoʻl ushlashgan erkaklar",
+        "qoʻl ushlashgan erkaklar: 4-teri turi 3-teri turi",
+        "qoʻl ushlashish"
+    ],
+    "👬🏽": [
+        "4-teri turi",
+        "Egizaklar",
+        "burj",
+        "egizaklar",
+        "erkak",
+        "erkaklar",
+        "juftlik",
+        "qoʻl ushlashgan erkaklar",
+        "qoʻl ushlashgan erkaklar: 4-teri turi",
+        "qoʻl ushlashish"
+    ],
+    "👨🏾‍🤝‍👨🏻": [
+        "1–2-teri turi",
+        "5-teri turi",
+        "Egizaklar",
+        "burj",
+        "egizaklar",
+        "erkak",
+        "erkaklar",
+        "juftlik",
+        "qoʻl ushlashgan erkaklar",
+        "qoʻl ushlashgan erkaklar: 5-teri turi 1–2-teri turi",
+        "qoʻl ushlashish"
+    ],
+    "👨🏾‍🤝‍👨🏼": [
+        "3-teri turi",
+        "5-teri turi",
+        "Egizaklar",
+        "burj",
+        "egizaklar",
+        "erkak",
+        "erkaklar",
+        "juftlik",
+        "qoʻl ushlashgan erkaklar",
+        "qoʻl ushlashgan erkaklar: 5-teri turi 3-teri turi",
+        "qoʻl ushlashish"
+    ],
+    "👨🏾‍🤝‍👨🏽": [
+        "4-teri turi",
+        "5-teri turi",
+        "Egizaklar",
+        "burj",
+        "egizaklar",
+        "erkak",
+        "erkaklar",
+        "juftlik",
+        "qoʻl ushlashgan erkaklar",
+        "qoʻl ushlashgan erkaklar: 5-teri turi 4-teri turi",
+        "qoʻl ushlashish"
+    ],
+    "👬🏾": [
+        "5-teri turi",
+        "Egizaklar",
+        "burj",
+        "egizaklar",
+        "erkak",
+        "erkaklar",
+        "juftlik",
+        "qoʻl ushlashgan erkaklar",
+        "qoʻl ushlashgan erkaklar: 5-teri turi",
+        "qoʻl ushlashish"
+    ],
+    "👨🏿‍🤝‍👨🏻": [
+        "1–2-teri turi",
+        "6-teri turi",
+        "Egizaklar",
+        "burj",
+        "egizaklar",
+        "erkak",
+        "erkaklar",
+        "juftlik",
+        "qoʻl ushlashgan erkaklar",
+        "qoʻl ushlashgan erkaklar: 6-teri turi 1–2-teri turi",
+        "qoʻl ushlashish"
+    ],
+    "👨🏿‍🤝‍👨🏼": [
+        "3-teri turi",
+        "6-teri turi",
+        "Egizaklar",
+        "burj",
+        "egizaklar",
+        "erkak",
+        "erkaklar",
+        "juftlik",
+        "qoʻl ushlashgan erkaklar",
+        "qoʻl ushlashgan erkaklar: 6-teri turi 3-teri turi",
+        "qoʻl ushlashish"
+    ],
+    "👨🏿‍🤝‍👨🏽": [
+        "4-teri turi",
+        "6-teri turi",
+        "Egizaklar",
+        "burj",
+        "egizaklar",
+        "erkak",
+        "erkaklar",
+        "juftlik",
+        "qoʻl ushlashgan erkaklar",
+        "qoʻl ushlashgan erkaklar: 6-teri turi 4-teri turi",
+        "qoʻl ushlashish"
+    ],
+    "👨🏿‍🤝‍👨🏾": [
+        "5-teri turi",
+        "6-teri turi",
+        "Egizaklar",
+        "burj",
+        "egizaklar",
+        "erkak",
+        "erkaklar",
+        "juftlik",
+        "qoʻl ushlashgan erkaklar",
+        "qoʻl ushlashgan erkaklar: 6-teri turi 5-teri turi",
+        "qoʻl ushlashish"
+    ],
+    "👬🏿": [
+        "6-teri turi",
+        "Egizaklar",
+        "burj",
+        "egizaklar",
+        "erkak",
+        "erkaklar",
+        "juftlik",
+        "qoʻl ushlashgan erkaklar",
+        "qoʻl ushlashgan erkaklar: 6-teri turi",
+        "qoʻl ushlashish"
     ],
     "💏": [
         "bo‘sa olish",
@@ -11772,6 +13368,10 @@
         "hayvon",
         "maymun"
     ],
+    "🦧": [
+        "maymun",
+        "orangutan"
+    ],
     "🐶": [
         "kuchuk",
         "kuchuk qiyofasi",
@@ -11782,20 +13382,33 @@
         "kuchuk",
         "uy hayvoni"
     ],
+    "🦮": [
+        "boshlovchi",
+        "boshlovchi it",
+        "gid",
+        "koʻr",
+        "maxsus imkoniyatlar"
+    ],
+    "🐕‍🦺": [
+        "it",
+        "nogiron",
+        "xizmat",
+        "xizmat iti",
+        "yordam"
+    ],
     "🐩": [
         "kuchuk",
         "pudel"
     ],
     "🐺": [
-        "bo‘ri",
-        "bo‘ri qiyofasi",
+        "boʻri",
+        "qiyofa",
         "yuz"
     ],
     "🦊": [
-        "ayyor",
-        "ayyor tulki",
-        "fayvon",
-        "tulki"
+        "qiyofa",
+        "tulki",
+        "yuz"
     ],
     "🦝": [
         "jonivor",
@@ -11814,9 +13427,9 @@
         "uy hayvoni"
     ],
     "🦁": [
+        "Sherxon",
         "burj",
         "sher",
-        "sher qiyofasi",
         "yuz"
     ],
     "🐯": [
@@ -11840,8 +13453,8 @@
         "ot poygasi"
     ],
     "🦄": [
-        "bir shoxli ot",
-        "bir shoxli ot qiyofasi",
+        "qiyofa",
+        "yakkashox",
         "yuz"
     ],
     "🦓": [
@@ -11949,8 +13562,8 @@
         "kalamush"
     ],
     "🐹": [
-        "og‘maxon",
-        "og‘maxon qiyofasi",
+        "oʻgmaxon",
+        "qiyofa",
         "uy hayvoni",
         "yuz"
     ],
@@ -11979,7 +13592,7 @@
     ],
     "🐻": [
         "ayiq",
-        "ayiq qiyofasi",
+        "qiyofa",
         "yuz"
     ],
     "🐨": [
@@ -11988,8 +13601,26 @@
     ],
     "🐼": [
         "panda",
-        "panda qiyofasi",
+        "qiyofa",
         "yuz"
+    ],
+    "🦥": [
+        "dangasa",
+        "sekin",
+        "yalqov"
+    ],
+    "🦦": [
+        "baliq ovi",
+        "hayvon",
+        "oʻyinqaroq",
+        "qunduz",
+        "suv"
+    ],
+    "🦨": [
+        "qoʻlansa",
+        "sassiq",
+        "sassiqvoy",
+        "skuns"
     ],
     "🦘": [
         "avstraliya",
@@ -12064,6 +13695,11 @@
         "boyqush",
         "donolik",
         "parranda"
+    ],
+    "🦩": [
+        "ajoyib",
+        "flamingo",
+        "tropik"
     ],
     "🦚": [
         "dum",
@@ -12479,6 +14115,16 @@
         "karam",
         "yovvoyi karam"
     ],
+    "🧄": [
+        "sarimsoq",
+        "ziravor"
+    ],
+    "🧅": [
+        "bosh",
+        "koʻz yoshi",
+        "piyoz",
+        "yigʻi"
+    ],
     "🍄": [
         "o‘simlik",
         "qo‘ziqorin"
@@ -12522,6 +14168,11 @@
     "🥞": [
         "blinchik",
         "taom"
+    ],
+    "🧇": [
+        "qattiq",
+        "vafli",
+        "yumshoq"
     ],
     "🧀": [
         "pishloq",
@@ -12588,6 +14239,12 @@
         "shaurma",
         "taom"
     ],
+    "🧆": [
+        "falafel",
+        "noʻxat",
+        "qiyma",
+        "yumaloq qiyma"
+    ],
     "🥚": [
         "taom",
         "tuxum"
@@ -12625,6 +14282,12 @@
     ],
     "🍿": [
         "popkorn"
+    ],
+    "🧈": [
+        "qaymoq",
+        "sariyogʻ",
+        "sut mahsulotlari",
+        "yogʻ"
     ],
     "🧂": [
         "dengiz tuzi",
@@ -12762,6 +14425,12 @@
         "kalmar",
         "mollyuska",
         "taom"
+    ],
+    "🦪": [
+        "chigʻanoq",
+        "dayving",
+        "marvarid",
+        "shoʻngʻish"
     ],
     "🍦": [
         "krem",
@@ -12956,6 +14625,19 @@
         "shartbar",
         "stakan bilan cho‘p",
         "suv"
+    ],
+    "🧃": [
+        "ichimlik qutisi",
+        "sharbat qutisi"
+    ],
+    "🧉": [
+        "ichimlik",
+        "mate"
+    ],
+    "🧊": [
+        "aysberg",
+        "muz",
+        "sovuq"
     ],
     "🥢": [
         "asboblar",
@@ -13217,6 +14899,12 @@
         "islom",
         "masjid",
         "muslim"
+    ],
+    "🛕": [
+        "hindu",
+        "hindu ibodatxonasi",
+        "ibodatxona",
+        "sigʻinish"
     ],
     "🕍": [
         "din",
@@ -13509,6 +15197,20 @@
     "🛵": [
         "moped"
     ],
+    "🦽": [
+        "aravacha",
+        "nogironlik",
+        "nogironlik aravachasi"
+    ],
+    "🦼": [
+        "motorli aravacha",
+        "motorli nogironlik aravachasi",
+        "nogironlik"
+    ],
+    "🛺": [
+        "avtoriksha",
+        "tuk tuk"
+    ],
     "🚲️": [
         "transport",
         "velosiped"
@@ -13644,6 +15346,13 @@
         "samolyot",
         "samolyot qo‘nishi",
         "transport"
+    ],
+    "🪂": [
+        "osilish",
+        "parashyut",
+        "parvoz",
+        "skaydayving",
+        "uchish"
     ],
     "💺": [
         "kreslo",
@@ -14068,6 +15777,11 @@
         "yorug‘ilik",
         "yuz"
     ],
+    "🪐": [
+        "halqali sayyora",
+        "qoʻrgʻoshin",
+        "saturn"
+    ],
     "⭐️": [
         "oq o‘rtacha yulduz",
         "yulduz"
@@ -14295,6 +16009,7 @@
         "portlatgich"
     ],
     "✨": [
+        "*",
         "uchqun",
         "uchqunlar",
         "yulduz"
@@ -14552,6 +16267,12 @@
         "baliq",
         "qarmoq"
     ],
+    "🤿": [
+        "dayving",
+        "shoʻngʻish",
+        "shoʻngʻish niqobi",
+        "suvosti"
+    ],
     "🎽": [
         "futbolka",
         "yugurish",
@@ -14578,6 +16299,16 @@
         "mo‘ljalni urish",
         "o‘yin",
         "taget"
+    ],
+    "🪀": [
+        "oʻyinchoq",
+        "pirildoq",
+        "yo-yo"
+    ],
+    "🪁": [
+        "aylanish",
+        "uchish",
+        "varrak"
     ],
     "🎱": [
         "8",
@@ -14627,13 +16358,11 @@
     ],
     "🧩": [
         "boshqotirma",
-        "bo‘lak",
+        "mantiq",
         "mozaika",
         "parcha",
         "pazl",
-        "pazl bo‘lagi",
-        "pazlning qismi",
-        "puzl",
+        "pazl qismi",
         "qism"
     ],
     "🧸": [
@@ -14763,6 +16492,13 @@
         "tajriba",
         "xalat"
     ],
+    "🦺": [
+        "favqulodda holat",
+        "kamzul",
+        "qutqarish",
+        "qutqaruv kamzuli",
+        "xavfsizlik"
+    ],
     "👔": [
         "bo‘yinbog‘",
         "kiyim"
@@ -14796,6 +16532,28 @@
     "👘": [
         "kimono",
         "kiyim"
+    ],
+    "🥻": [
+        "kiyim",
+        "koʻylak",
+        "sari"
+    ],
+    "🩱": [
+        "choʻmilish kiyimi",
+        "yaxlit choʻmilish kiyimi"
+    ],
+    "🩲": [
+        "chomilish trusigi",
+        "choʻmilish kiyimi",
+        "ich kiyim",
+        "trusik",
+        "yaxlit"
+    ],
+    "🩳": [
+        "choʻmilish kiyimi",
+        "ich kiyimi",
+        "ishton",
+        "kalta ishton"
     ],
     "👙": [
         "bikini",
@@ -14876,6 +16634,11 @@
         "kiyim",
         "shippak",
         "tufli"
+    ],
+    "🩰": [
+        "balet",
+        "balet poyafzali",
+        "raqs"
     ],
     "👢": [
         "ayol",
@@ -15079,6 +16842,12 @@
         "musiqa",
         "skripka"
     ],
+    "🪕": [
+        "banjo",
+        "musiqa",
+        "tor",
+        "torli musiqa asbobi"
+    ],
     "🥁": [
         "baraban",
         "musiqa",
@@ -15277,6 +17046,12 @@
         "qizil qog‘ozli lampa",
         "yapon",
         "yorug‘lik"
+    ],
+    "🪔": [
+        "chiroq",
+        "diya",
+        "moy",
+        "moychiroq"
     ],
     "📔": [
         "bezak",
@@ -15730,6 +17505,14 @@
         "asbob",
         "bolg‘a"
     ],
+    "🪓": [
+        "bolta",
+        "boltacha",
+        "chopish",
+        "oʻtin",
+        "yogʻoch",
+        "yorish"
+    ],
     "⛏️": [
         "asbob",
         "kon",
@@ -15802,6 +17585,11 @@
         "og‘irlik",
         "palla",
         "tarozi"
+    ],
+    "🦯": [
+        "hassa",
+        "koʻr",
+        "nogironlik"
     ],
     "🔗": [
         "havol",
@@ -15880,6 +17668,13 @@
         "tibbiyot",
         "ukol"
     ],
+    "🩸": [
+        "hayz",
+        "menstruatsiya",
+        "qon tomchisi",
+        "qon topshirish",
+        "tibbiyot"
+    ],
     "💊": [
         "bemor",
         "doktor",
@@ -15887,6 +17682,17 @@
         "kasal",
         "shifokor",
         "tibbiyot"
+    ],
+    "🩹": [
+        "bandaj",
+        "plastir"
+    ],
+    "🩺": [
+        "doktor",
+        "shifokor",
+        "stetoskop",
+        "tibbiyot",
+        "yurak"
     ],
     "🚪": [
         "eshik"
@@ -15904,6 +17710,11 @@
         "lampa",
         "mehmonxona"
     ],
+    "🪑": [
+        "kursi",
+        "oʻtirish",
+        "stul"
+    ],
     "🚽": [
         "hojatxona",
         "tualet"
@@ -15914,6 +17725,12 @@
     ],
     "🛁": [
         "vanna"
+    ],
+    "🪒": [
+        "oʻtkir",
+        "soqol olish",
+        "tigʻ",
+        "ustara"
     ],
     "🧴": [
         "balzam",
@@ -16600,58 +18417,80 @@
     ],
     "⭕️": [
         "aylana",
-        "juda katta aylana",
-        "o"
+        "chambarak",
+        "ichi boʻsh qizil doira",
+        "katta",
+        "o",
+        "qizil"
     ],
     "✅": [
         "belgi",
         "belgilash",
-        "belgilash uchun oq katta belgi"
+        "belgilash tugmasi belgisi",
+        "tugma",
+        "✓"
     ],
     "☑️": [
+        "belgilangan belgilash maydonchasi",
         "belgilash",
-        "ichi belgilangan belgilash katakchasi",
-        "katakcha"
+        "maydoncha",
+        "✓"
     ],
     "✔️": [
         "belgi",
         "belgilash",
-        "belgilash uchun to‘q belgi"
+        "belgilash belgisi",
+        "✓"
     ],
     "✖️": [
-        "bekor",
-        "ko‘paytirish",
-        "to‘q ko‘paytiruv belgisi",
-        "x"
+        "bekor qilish",
+        "belgi",
+        "koʻpaytirish",
+        "koʻpaytirish belgisi",
+        "koʻpaytiruv",
+        "x",
+        "×"
     ],
     "❌": [
-        "bekor",
+        "bekor qilish",
         "belgi",
-        "ko‘paytirish",
+        "koʻpaytirish",
+        "koʻpaytiruv",
+        "krest",
+        "krest belgisi",
         "x",
-        "xoch belgisi"
+        "×"
     ],
     "❎": [
         "belgi",
-        "kvadrat",
-        "xoch belgisi tugmasi"
+        "krest belgili tugma",
+        "toʻrtburchak",
+        "x",
+        "×"
     ],
     "➕": [
+        "+",
+        "belgi",
         "matematika",
-        "musbat",
+        "plus",
         "plyus",
-        "to‘q qo‘shuv belgisi"
+        "qoʻshish belgisi"
     ],
     "➖": [
+        "-",
+        "ayirish belgisi",
+        "belgi",
         "manfiy",
         "matematika",
         "minus",
-        "to‘q ayiruv belgisi"
+        "−"
     ],
     "➗": [
-        "bo‘lish",
+        "belgi",
+        "boʻlish",
+        "boʻlish belgisi",
         "matematika",
-        "to‘q bo‘luv belgisi"
+        "÷"
     ],
     "➰": [
         "davr",
@@ -16672,52 +18511,65 @@
         "qism"
     ],
     "✳️": [
-        "sakkiz kegayli yulduzcha",
+        "*",
+        "sakkiz qirrali yulduz",
+        "sakkiz qirrali yulduzcha",
         "yulduzcha"
     ],
     "✴️": [
-        "sakkiz qirrali yulduz",
+        "*",
+        "sakkiz burchakli yulduz",
         "yulduz"
     ],
     "❇️": [
+        "*",
         "uchqun"
     ],
     "‼️": [
+        "!",
+        "!!",
         "belgi",
-        "ikkita undov belgisi",
-        "tinish",
+        "juft undov belgisi",
+        "paq-puq",
         "undov"
     ],
     "⁉️": [
+        "!",
+        "!?",
+        "?",
         "belgi",
-        "so‘roq",
-        "tinish",
+        "savol",
+        "tinish belgisi",
         "undov",
-        "undov so‘roq belgisi"
+        "undov soʻroq belgisi"
     ],
     "❓️": [
+        "?",
         "belgi",
-        "so‘roq",
-        "so‘roq belgisi",
-        "tinish"
+        "savol",
+        "soʻroq belgisi",
+        "tinish belgisi"
     ],
     "❔": [
+        "?",
         "belgi",
-        "chizilgan",
-        "oq so‘roq belgisi",
-        "so‘roq",
-        "tinish"
+        "belgilangan",
+        "oq soʻroq belgisi",
+        "savol",
+        "tinish belgisi"
     ],
     "❕": [
+        "!",
         "belgi",
-        "chizilgan",
+        "belgilangan",
         "oq undov belgisi",
-        "tinish",
+        "tinish belgisi",
         "undov"
     ],
     "❗️": [
+        "!",
         "belgi",
-        "tinish",
+        "tinish belgisi",
         "undov",
         "undov belgisi"
     ],
@@ -16728,11 +18580,12 @@
         "to‘lqinli chiziq"
     ],
     "©️": [
+        "c",
         "mualliflik huquqi"
     ],
     "®️": [
-        "ro‘yxatdan o‘tgan",
-        "ro‘yxatga olingan"
+        "qayd qilingan",
+        "r"
     ],
     "™️": [
         "belgi",
@@ -16983,11 +18836,40 @@
         "qizil",
         "qizil doira"
     ],
+    "🟠": [
+        "doira",
+        "sabzirang doira",
+        "sariq"
+    ],
+    "🟡": [
+        "aylana",
+        "doira",
+        "sariq",
+        "sariq doira"
+    ],
+    "🟢": [
+        "aylana",
+        "doira",
+        "yashil",
+        "yashil doira"
+    ],
     "🔵": [
         "aylana",
         "geometriya",
         "ko‘k",
         "ko‘k doira"
+    ],
+    "🟣": [
+        "aylana",
+        "binafsharang",
+        "binafsharang doira",
+        "doira"
+    ],
+    "🟤": [
+        "aylana",
+        "doira",
+        "jigarrang",
+        "jigarrang doira"
     ],
     "⚫️": [
         "doira",
@@ -16998,6 +18880,48 @@
         "doira",
         "geometriya",
         "oq doira"
+    ],
+    "🟥": [
+        "aylana",
+        "doira",
+        "qizil",
+        "qizil kvadrat"
+    ],
+    "🟧": [
+        "apelsinrang",
+        "apelsinrang kvadrat",
+        "kvadrat",
+        "toʻrtburchak"
+    ],
+    "🟨": [
+        "kvadrat",
+        "sariq",
+        "sariq kvadrat",
+        "toʻrtburchak"
+    ],
+    "🟩": [
+        "kvadrat",
+        "toʻrtburchak",
+        "yashil",
+        "yashil kvadrat"
+    ],
+    "🟦": [
+        "koʻk",
+        "koʻk kvadrat",
+        "kvadrat",
+        "toʻrtburchak"
+    ],
+    "🟪": [
+        "binafsharang",
+        "binafsharang kvadrat",
+        "kvadrat",
+        "toʻrtburchak"
+    ],
+    "🟫": [
+        "jigarrang",
+        "jigarrang kvadrat",
+        "kvadrat",
+        "toʻrtburchak"
     ],
     "⬛️": [
         "geometrik",
@@ -18171,6 +20095,18 @@
     "🇿🇼": [
         "bayroq",
         "bayroq: Zimbabve"
+    ],
+    "🏴󠁧󠁢󠁥󠁮󠁧󠁿": [
+        "bayroq",
+        "bayroq: Angliya"
+    ],
+    "🏴󠁧󠁢󠁳󠁣󠁴󠁿": [
+        "bayroq",
+        "bayroq: Shotlandiya"
+    ],
+    "🏴󠁧󠁢󠁷󠁬󠁳󠁿": [
+        "bayroq",
+        "bayroq: Uels"
     ],
     "🏻": [
         "1–2-teri turi",

@@ -83,6 +83,7 @@
 😓	ansigt, ansigt med koldsved
 😩	udkørt, udmattet, udmattet ansigt
 😫	ansigt, træt ansigt
+🥱	gab, gabende ansigt, træt, uinteresseret
 😤	fnysende ansigt, hånligt ansigt, jeg vandt
 😡	rød, surt ansigt, vred, vredt ansigt
 😠	ansigt, vred, vredt ansigt
@@ -129,7 +130,9 @@
 💚	følelser, grøn, grønt hjerte, hjerte
 💙	blå, blåt hjerte, følelser, hjerte
 💜	følelser, hjerte, violet, violet hjerte
+🤎	brun, brunt hjerte, hjerte
 🖤	hjerte, ondskab, ondt, sort, sort hjerte
+🤍	hjerte, hvid, hvidt hjerte
 💯	100, 100 point, alle rigtige, hundrede, point
 💢	følelse, tegn for vrede, vrede
 💥	følelser, kollision, kollitionstegn
@@ -151,11 +154,11 @@
 👋🏾	hånd, medium til mørk teint, vinker, vinker: medium til mørk teint
 👋🏿	hånd, mørk teint, vinker, vinker: mørk teint
 🤚	bagside af hånd, hånd, håndryg, løftet hånd, løftet håndryg
-🤚🏻	baghånd, hånd, krop, lys teint, løftet, løftet baghånd: lys teint
-🤚🏼	baghånd, hånd, krop, løftet, løftet baghånd: medium til lys teint, medium til lys teint
-🤚🏽	baghånd, hånd, krop, løftet, løftet baghånd: medium teint, medium teint
-🤚🏾	baghånd, hånd, krop, løftet, løftet baghånd: medium til mørk teint, medium til mørk teint
-🤚🏿	baghånd, hånd, krop, løftet, løftet baghånd: mørk teint, mørk teint
+🤚🏻	bagside af hånd, hånd, håndryg, lys teint, løftet hånd, løftet håndryg, løftet håndryg: lys teint
+🤚🏼	bagside af hånd, hånd, håndryg, løftet hånd, løftet håndryg, løftet håndryg: medium til lys teint, medium til lys teint
+🤚🏽	bagside af hånd, hånd, håndryg, løftet hånd, løftet håndryg, løftet håndryg: medium teint, medium teint
+🤚🏾	bagside af hånd, hånd, håndryg, løftet hånd, løftet håndryg, løftet håndryg: medium til mørk teint, medium til mørk teint
+🤚🏿	bagside af hånd, hånd, håndryg, løftet hånd, løftet håndryg, løftet håndryg: mørk teint, mørk teint
 🖐️	finger, hånd, hånd med spredte fingre, krop, spredte
 🖐🏻	finger, hånd, hånd med spredte fingre, hånd med spredte fingre: lys teint, krop, lys teint, spredte
 🖐🏼	finger, hånd, hånd med spredte fingre, hånd med spredte fingre: medium til lys teint, krop, medium til lys teint, spredte
@@ -180,6 +183,12 @@
 👌🏽	OK-håndtegn, OK-tegn, medium teint, ok-tegn, ok-tegn: medium teint
 👌🏾	OK-håndtegn, OK-tegn, medium til mørk teint, ok-tegn, ok-tegn: medium til mørk teint
 👌🏿	OK-håndtegn, OK-tegn, mørk teint, ok-tegn, ok-tegn: mørk teint
+🤏	lidt, lidt vist med tommel- og pegefinger
+🤏🏻	lidt, lidt vist med tommel- og pegefinger, lidt vist med tommel- og pegefinger: lys teint, lys teint
+🤏🏼	lidt, lidt vist med tommel- og pegefinger, lidt vist med tommel- og pegefinger: medium til lys teint, medium til lys teint
+🤏🏽	lidt, lidt vist med tommel- og pegefinger, lidt vist med tommel- og pegefinger: medium teint, medium teint
+🤏🏾	lidt, lidt vist med tommel- og pegefinger, lidt vist med tommel- og pegefinger: medium til mørk teint, medium til mørk teint
+🤏🏿	lidt, lidt vist med tommel- og pegefinger, lidt vist med tommel- og pegefinger: mørk teint, mørk teint
 ✌️	V-tegn, v-tegn, yeah
 ✌🏻	V-tegn, lys teint, v-tegn, v-tegn: lys teint, yeah
 ✌🏼	V-tegn, medium til lys teint, v-tegn, v-tegn: medium til lys teint, yeah
@@ -247,23 +256,23 @@
 ☝🏾	finger, hånd, krop, medium til mørk teint, op, opadvendt, pege, pegefinger, rækker finger op, rækker finger op: medium til mørk teint
 ☝🏿	finger, hånd, krop, mørk teint, op, opadvendt, pege, pegefinger, rækker finger op, rækker finger op: mørk teint
 👍️	OK, håndtegn, ok, tommelfinger op
-👍🏻	håndtegn, lys teint, tommelfinger op, tommelfinger op: lys teint
-👍🏼	håndtegn, medium til lys teint, tommelfinger op, tommelfinger op: medium til lys teint
-👍🏽	håndtegn, medium teint, tommelfinger op, tommelfinger op: medium teint
-👍🏾	håndtegn, medium til mørk teint, tommelfinger op, tommelfinger op: medium til mørk teint
-👍🏿	håndtegn, mørk teint, tommelfinger op, tommelfinger op: mørk teint
+👍🏻	OK, håndtegn, lys teint, ok, tommelfinger op, tommelfinger op: lys teint
+👍🏼	OK, håndtegn, medium til lys teint, ok, tommelfinger op, tommelfinger op: medium til lys teint
+👍🏽	OK, håndtegn, medium teint, ok, tommelfinger op, tommelfinger op: medium teint
+👍🏾	OK, håndtegn, medium til mørk teint, ok, tommelfinger op, tommelfinger op: medium til mørk teint
+👍🏿	OK, håndtegn, mørk teint, ok, tommelfinger op, tommelfinger op: mørk teint
 👎️	håndtegn, nedstemt, tommelfinger ned
-👎🏻	håndtegn, lys teint, tommelfinger ned, tommelfinger ned: lys teint
-👎🏼	håndtegn, medium til lys teint, tommelfinger ned, tommelfinger ned: medium til lys teint
-👎🏽	håndtegn, medium teint, tommelfinger ned, tommelfinger ned: medium teint
-👎🏾	håndtegn, medium til mørk teint, tommelfinger ned, tommelfinger ned: medium til mørk teint
-👎🏿	håndtegn, mørk teint, tommelfinger ned, tommelfinger ned: mørk teint
+👎🏻	håndtegn, lys teint, nedstemt, tommelfinger ned, tommelfinger ned: lys teint
+👎🏼	håndtegn, medium til lys teint, nedstemt, tommelfinger ned, tommelfinger ned: medium til lys teint
+👎🏽	håndtegn, medium teint, nedstemt, tommelfinger ned, tommelfinger ned: medium teint
+👎🏾	håndtegn, medium til mørk teint, nedstemt, tommelfinger ned, tommelfinger ned: medium til mørk teint
+👎🏿	håndtegn, mørk teint, nedstemt, tommelfinger ned, tommelfinger ned: mørk teint
 ✊	hånd, knytnæve, knyttet, løftet knytnæve, slå
-✊🏻	hånd, knytnæve, knyttet, krop, lys teint, løftet knytnæve, løftet knytnæve: lys teint, slå
-✊🏼	hånd, knytnæve, knyttet, krop, løftet knytnæve, løftet knytnæve: medium til lys teint, medium til lys teint, slå
-✊🏽	hånd, knytnæve, knyttet, krop, løftet knytnæve, løftet knytnæve: medium teint, medium teint, slå
-✊🏾	hånd, knytnæve, knyttet, krop, løftet knytnæve, løftet knytnæve: medium til mørk teint, medium til mørk teint, slå
-✊🏿	hånd, knytnæve, knyttet, krop, løftet knytnæve, løftet knytnæve: mørk teint, mørk teint, slå
+✊🏻	hånd, knytnæve, knyttet, lys teint, løftet knytnæve, løftet knytnæve: lys teint, slå
+✊🏼	hånd, knytnæve, knyttet, løftet knytnæve, løftet knytnæve: medium til lys teint, medium til lys teint, slå
+✊🏽	hånd, knytnæve, knyttet, løftet knytnæve, løftet knytnæve: medium teint, medium teint, slå
+✊🏾	hånd, knytnæve, knyttet, løftet knytnæve, løftet knytnæve: medium til mørk teint, medium til mørk teint, slå
+✊🏿	hånd, knytnæve, knyttet, løftet knytnæve, løftet knytnæve: mørk teint, mørk teint, slå
 👊	hånd, knytnæve, knyttet hånd
 👊🏻	hånd, knytnæve, knytnæve: lys teint, knyttet hånd, lys teint
 👊🏼	hånd, knytnæve, knytnæve: medium til lys teint, knyttet hånd, medium til lys teint
@@ -271,29 +280,29 @@
 👊🏾	hånd, knytnæve, knytnæve: medium til mørk teint, knyttet hånd, medium til mørk teint
 👊🏿	hånd, knytnæve, knytnæve: mørk teint, knyttet hånd, mørk teint
 🤛	hånd, hånd knyttet mod venstre, knytnæve, knyttet hånd, venstre, venstrevendt, venstrevendt knytnæve
-🤛🏻	hånd, hånd knyttet mod venstre, knytnæve, knyttet hånd, krop, lys teint, venstre, venstrevendt, venstrevendt knytnæve: lys teint
-🤛🏼	hånd, hånd knyttet mod venstre, knytnæve, knyttet hånd, krop, medium til lys teint, venstre, venstrevendt, venstrevendt knytnæve: medium til lys teint
-🤛🏽	hånd, hånd knyttet mod venstre, knytnæve, knyttet hånd, krop, medium teint, venstre, venstrevendt, venstrevendt knytnæve: medium teint
-🤛🏾	hånd, hånd knyttet mod venstre, knytnæve, knyttet hånd, krop, medium til mørk teint, venstre, venstrevendt, venstrevendt knytnæve: medium til mørk teint
-🤛🏿	hånd, hånd knyttet mod venstre, knytnæve, knyttet hånd, krop, mørk teint, venstre, venstrevendt, venstrevendt knytnæve: mørk teint
+🤛🏻	hånd, hånd knyttet mod venstre, knytnæve, knyttet hånd, lys teint, venstre, venstrevendt, venstrevendt knytnæve: lys teint
+🤛🏼	hånd, hånd knyttet mod venstre, knytnæve, knyttet hånd, medium til lys teint, venstre, venstrevendt, venstrevendt knytnæve: medium til lys teint
+🤛🏽	hånd, hånd knyttet mod venstre, knytnæve, knyttet hånd, medium teint, venstre, venstrevendt, venstrevendt knytnæve: medium teint
+🤛🏾	hånd, hånd knyttet mod venstre, knytnæve, knyttet hånd, medium til mørk teint, venstre, venstrevendt, venstrevendt knytnæve: medium til mørk teint
+🤛🏿	hånd, hånd knyttet mod venstre, knytnæve, knyttet hånd, mørk teint, venstre, venstrevendt, venstrevendt knytnæve: mørk teint
 🤜	hånd, hånd knyttet mod højre, højre, højrevendt, højrevendt knytnæve, knytnæve, knyttet hånd
-🤜🏻	hånd, hånd knyttet mod højre, højre, højrevendt, højrevendt knytnæve: lys teint, knytnæve, knyttet hånd, krop, lys teint
-🤜🏼	hånd, hånd knyttet mod højre, højre, højrevendt, højrevendt knytnæve: medium til lys teint, knytnæve, knyttet hånd, krop, medium til lys teint
-🤜🏽	hånd, hånd knyttet mod højre, højre, højrevendt, højrevendt knytnæve: medium teint, knytnæve, knyttet hånd, krop, medium teint
-🤜🏾	hånd, hånd knyttet mod højre, højre, højrevendt, højrevendt knytnæve: medium til mørk teint, knytnæve, knyttet hånd, krop, medium til mørk teint
-🤜🏿	hånd, hånd knyttet mod højre, højre, højrevendt, højrevendt knytnæve: mørk teint, knytnæve, knyttet hånd, krop, mørk teint
+🤜🏻	hånd, hånd knyttet mod højre, højre, højrevendt, højrevendt knytnæve: lys teint, knytnæve, knyttet hånd, lys teint
+🤜🏼	hånd, hånd knyttet mod højre, højre, højrevendt, højrevendt knytnæve: medium til lys teint, knytnæve, knyttet hånd, medium til lys teint
+🤜🏽	hånd, hånd knyttet mod højre, højre, højrevendt, højrevendt knytnæve: medium teint, knytnæve, knyttet hånd, medium teint
+🤜🏾	hånd, hånd knyttet mod højre, højre, højrevendt, højrevendt knytnæve: medium til mørk teint, knytnæve, knyttet hånd, medium til mørk teint
+🤜🏿	hånd, hånd knyttet mod højre, højre, højrevendt, højrevendt knytnæve: mørk teint, knytnæve, knyttet hånd, mørk teint
 👏	applaus, bifald, klappende hænder, klapper, klapsalve
-👏🏻	håndtegn, klappende hænder, klappende hænder: lys teint, klapper, lys teint
-👏🏼	håndtegn, klappende hænder, klappende hænder: medium til lys teint, klapper, medium til lys teint
-👏🏽	håndtegn, klappende hænder, klappende hænder: medium teint, klapper, medium teint
-👏🏾	håndtegn, klappende hænder, klappende hænder: medium til mørk teint, klapper, medium til mørk teint
-👏🏿	håndtegn, klappende hænder, klappende hænder: mørk teint, klapper, mørk teint
+👏🏻	applaus, bifald, klappende hænder, klappende hænder: lys teint, klapper, klapsalve, lys teint
+👏🏼	applaus, bifald, klappende hænder, klappende hænder: medium til lys teint, klapper, klapsalve, medium til lys teint
+👏🏽	applaus, bifald, klappende hænder, klappende hænder: medium teint, klapper, klapsalve, medium teint
+👏🏾	applaus, bifald, klappende hænder, klappende hænder: medium til mørk teint, klapper, klapsalve, medium til mørk teint
+👏🏿	applaus, bifald, klappende hænder, klappende hænder: mørk teint, klapper, klapsalve, mørk teint
 🙌	begge hænder oppe, hurra, hænderne over hovedet, juhu, løftede hænder
-🙌🏻	begge hænder oppe, hurra, hurra: lys teint, lys teint
-🙌🏼	begge hænder oppe, hurra, hurra: medium til lys teint, medium til lys teint
-🙌🏽	begge hænder oppe, hurra, hurra: medium teint, medium teint
-🙌🏾	begge hænder oppe, hurra, hurra: medium til mørk teint, medium til mørk teint
-🙌🏿	begge hænder oppe, hurra, hurra: mørk teint, mørk teint
+🙌🏻	begge hænder oppe, hurra, hænderne over hovedet, juhu, lys teint, løftede hænder, løftede hænder: lys teint
+🙌🏼	begge hænder oppe, hurra, hænderne over hovedet, juhu, løftede hænder, løftede hænder: medium til lys teint, medium til lys teint
+🙌🏽	begge hænder oppe, hurra, hænderne over hovedet, juhu, løftede hænder, løftede hænder: medium teint, medium teint
+🙌🏾	begge hænder oppe, hurra, hænderne over hovedet, juhu, løftede hænder, løftede hænder: medium til mørk teint, medium til mørk teint
+🙌🏿	begge hænder oppe, hurra, hænderne over hovedet, juhu, løftede hænder, løftede hænder: mørk teint, mørk teint
 👐	håndtegn, åbne hænder, åbne hænder-tegn
 👐🏻	håndtegn, lys teint, åbne hænder, åbne hænder-tegn, åbne hænder: lys teint
 👐🏼	håndtegn, medium til lys teint, åbne hænder, åbne hænder-tegn, åbne hænder: medium til lys teint
@@ -308,17 +317,17 @@
 🤲🏿	bøn, håndflader samlet og løftet, håndflader samlet og løftet: mørk teint, mørk teint
 🤝	enighed, hilsen, hilser, hånd, håndtryk, hænder, krop, mødes
 🙏	bøn, foldede hænder, namaste, namasté
-🙏🏻	bøn, foldede hænder, foldede hænder: lys teint, lys teint
-🙏🏼	bøn, foldede hænder, foldede hænder: medium til lys teint, medium til lys teint
-🙏🏽	bøn, foldede hænder, foldede hænder: medium teint, medium teint
-🙏🏾	bøn, foldede hænder, foldede hænder: medium til mørk teint, medium til mørk teint
-🙏🏿	bøn, foldede hænder, foldede hænder: mørk teint, mørk teint
+🙏🏻	bøn, foldede hænder, foldede hænder: lys teint, lys teint, namaste, namasté
+🙏🏼	bøn, foldede hænder, foldede hænder: medium til lys teint, medium til lys teint, namaste, namasté
+🙏🏽	bøn, foldede hænder, foldede hænder: medium teint, medium teint, namaste, namasté
+🙏🏾	bøn, foldede hænder, foldede hænder: medium til mørk teint, medium til mørk teint, namaste, namasté
+🙏🏿	bøn, foldede hænder, foldede hænder: mørk teint, mørk teint, namaste, namasté
 ✍️	hånd, skrive, skrivende hånd
-✍🏻	hånd, krop, lys teint, skrive, skrivende hånd, skrivende hånd: lys teint
-✍🏼	hånd, krop, medium til lys teint, skrive, skrivende hånd, skrivende hånd: medium til lys teint
-✍🏽	hånd, krop, medium teint, skrive, skrivende hånd, skrivende hånd: medium teint
-✍🏾	hånd, krop, medium til mørk teint, skrive, skrivende hånd, skrivende hånd: medium til mørk teint
-✍🏿	hånd, krop, mørk teint, skrive, skrivende hånd, skrivende hånd: mørk teint
+✍🏻	hånd, lys teint, skrive, skrivende hånd, skrivende hånd: lys teint
+✍🏼	hånd, medium til lys teint, skrive, skrivende hånd, skrivende hånd: medium til lys teint
+✍🏽	hånd, medium teint, skrive, skrivende hånd, skrivende hånd: medium teint
+✍🏾	hånd, medium til mørk teint, skrive, skrivende hånd, skrivende hånd: medium til mørk teint
+✍🏿	hånd, mørk teint, skrive, skrivende hånd, skrivende hånd: mørk teint
 💅	kosmetik, manicure, negle, neglelak
 💅🏻	kosmetik, lys teint, manicure, negle, neglelak, neglelak: lys teint
 💅🏼	kosmetik, manicure, medium til lys teint, negle, neglelak, neglelak: medium til lys teint
@@ -337,6 +346,8 @@
 💪🏽	armmuskler, armmuskler: medium teint, medium teint, muskel, stærk
 💪🏾	armmuskler, armmuskler: medium til mørk teint, medium til mørk teint, muskel, stærk
 💪🏿	armmuskler, armmuskler: mørk teint, muskel, mørk teint, stærk
+🦾	handicap, mekanisk arm, protese
+🦿	handicap, mekanisk ben, protese
 🦵	ben, halte, humpe, sparke
 🦵🏻	ben, ben: lys teint, halte, humpe, lys teint, sparke
 🦵🏼	ben, ben: medium til lys teint, halte, humpe, medium til lys teint, sparke
@@ -355,6 +366,12 @@
 👂🏽	høre, krop, medium teint, øre, øre: medium teint
 👂🏾	høre, krop, medium til mørk teint, øre, øre: medium til mørk teint
 👂🏿	høre, krop, mørk teint, øre, øre: mørk teint
+🦻	øre med høreapparat
+🦻🏻	lys teint, øre med høreapparat, øre med høreapparat: lys teint
+🦻🏼	medium til lys teint, øre med høreapparat, øre med høreapparat: medium til lys teint
+🦻🏽	medium teint, øre med høreapparat, øre med høreapparat: medium teint
+🦻🏾	medium til mørk teint, øre med høreapparat, øre med høreapparat: medium til mørk teint
+🦻🏿	mørk teint, øre med høreapparat, øre med høreapparat: mørk teint
 👃	dufte, krop, lugte ansigt, næse
 👃🏻	dufte, krop, lugte ansigt, lys teint, næse, næse: lys teint
 👃🏼	dufte, krop, lugte ansigt, medium til lys teint, næse, næse: medium til lys teint
@@ -381,41 +398,41 @@
 🧒🏾	barn, barn: medium til mørk teint, medium til mørk teint, ungt menneske
 🧒🏿	barn, barn: mørk teint, mørk teint, ungt menneske
 👦	dreng, menneske, person, ung
-👦🏻	dreng, dreng: lys teint, lys teint, menneske, person
-👦🏼	dreng, dreng: medium til lys teint, medium til lys teint, menneske, person
-👦🏽	dreng, dreng: medium teint, medium teint, menneske, person
-👦🏾	dreng, dreng: medium til mørk teint, medium til mørk teint, menneske, person
-👦🏿	dreng, dreng: mørk teint, menneske, mørk teint, person
+👦🏻	dreng, dreng: lys teint, lys teint, menneske, person, ung
+👦🏼	dreng, dreng: medium til lys teint, medium til lys teint, menneske, person, ung
+👦🏽	dreng, dreng: medium teint, medium teint, menneske, person, ung
+👦🏾	dreng, dreng: medium til mørk teint, medium til mørk teint, menneske, person, ung
+👦🏿	dreng, dreng: mørk teint, menneske, mørk teint, person, ung
 👧	menneske, person, pige, ung
-👧🏻	lys teint, menneske, person, pige, pige: lys teint
-👧🏼	medium til lys teint, menneske, person, pige, pige: medium til lys teint
-👧🏽	medium teint, menneske, person, pige, pige: medium teint
-👧🏾	medium til mørk teint, menneske, person, pige, pige: medium til mørk teint
-👧🏿	menneske, mørk teint, person, pige, pige: mørk teint
+👧🏻	lys teint, menneske, person, pige, pige: lys teint, ung
+👧🏼	medium til lys teint, menneske, person, pige, pige: medium til lys teint, ung
+👧🏽	medium teint, menneske, person, pige, pige: medium teint, ung
+👧🏾	medium til mørk teint, menneske, person, pige, pige: medium til mørk teint, ung
+👧🏿	menneske, mørk teint, person, pige, pige: mørk teint, ung
 🧑	person, voksen
 🧑🏻	lys teint, person, voksen, voksen: lys teint
 🧑🏼	medium til lys teint, person, voksen, voksen: medium til lys teint
 🧑🏽	medium teint, person, voksen, voksen: medium teint
 🧑🏾	medium til mørk teint, person, voksen, voksen: medium til mørk teint
 🧑🏿	mørk teint, person, voksen, voksen: mørk teint
-👱	blond person, menneske
-👱🏻	blond person, blond person: lys teint, lys teint, menneske
-👱🏼	blond person, blond person: medium til lys teint, medium til lys teint, menneske
-👱🏽	blond person, blond person: medium teint, medium teint, menneske
-👱🏾	blond person, blond person: medium til mørk teint, medium til mørk teint, menneske
-👱🏿	blond person, blond person: mørk teint, menneske, mørk teint
+👱	blond, blond person, hår
+👱🏻	blond, blond person, blond person: lys teint, hår, lys teint
+👱🏼	blond, blond person, blond person: medium til lys teint, hår, medium til lys teint
+👱🏽	blond, blond person, blond person: medium teint, hår, medium teint
+👱🏾	blond, blond person, blond person: medium til mørk teint, hår, medium til mørk teint
+👱🏿	blond, blond person, blond person: mørk teint, hår, mørk teint
 👨	mand, menneske, person
 👨🏻	lys teint, mand, mand: lys teint, menneske, person
 👨🏼	mand, mand: medium til lys teint, medium til lys teint, menneske, person
 👨🏽	mand, mand: medium teint, medium teint, menneske, person
 👨🏾	mand, mand: medium til mørk teint, medium til mørk teint, menneske, person
 👨🏿	mand, mand: mørk teint, menneske, mørk teint, person
-🧔	fuldskæg, mand med skæg
-🧔🏻	fuldskæg, lys teint, mand med skæg, mand med skæg: lys teint
-🧔🏼	fuldskæg, mand med skæg, mand med skæg: medium til lys teint, medium til lys teint
-🧔🏽	fuldskæg, mand med skæg, mand med skæg: medium teint, medium teint
-🧔🏾	fuldskæg, mand med skæg, mand med skæg: medium til mørk teint, medium til mørk teint
-🧔🏿	fuldskæg, mand med skæg, mand med skæg: mørk teint, mørk teint
+🧔	fuldskæg, mand, mand med skæg, person, skæg
+🧔🏻	fuldskæg, lys teint, mand, mand med skæg, mand med skæg: lys teint, person, skæg
+🧔🏼	fuldskæg, mand, mand med skæg, mand med skæg: medium til lys teint, medium til lys teint, person, skæg
+🧔🏽	fuldskæg, mand, mand med skæg, mand med skæg: medium teint, medium teint, person, skæg
+🧔🏾	fuldskæg, mand, mand med skæg, mand med skæg: medium til mørk teint, medium til mørk teint, person, skæg
+🧔🏿	fuldskæg, mand, mand med skæg, mand med skæg: mørk teint, mørk teint, person, skæg
 👱‍♂	blond, blond mand, lyshåret, mand
 👱🏻‍♂	blond, blond mand: lys teint, lys teint, lyshåret, mand
 👱🏼‍♂	blond, blond mand: medium til lys teint, lyshåret, mand, medium til lys teint
@@ -501,23 +518,23 @@
 👵🏾	gammel kvinde, gammel kvinde: medium til mørk teint, kvinde, medium til mørk teint, menneske
 👵🏿	gammel kvinde, gammel kvinde: mørk teint, kvinde, menneske, mørk teint
 🙍	Utilfreds person, alvorlig mine, udtryk, utilfreds
-🙍🏻	lys teint, rynkede bryn, rynkede bryn: lys teint, udtryk, utilfreds
-🙍🏼	medium til lys teint, rynkede bryn, rynkede bryn: medium til lys teint, udtryk, utilfreds
-🙍🏽	medium teint, rynkede bryn, rynkede bryn: medium teint, udtryk, utilfreds
-🙍🏾	medium til mørk teint, rynkede bryn, rynkede bryn: medium til mørk teint, udtryk, utilfreds
-🙍🏿	mørk teint, rynkede bryn, rynkede bryn: mørk teint, udtryk, utilfreds
+🙍🏻	Utilfreds person, Utilfreds person: lys teint, alvorlig mine, lys teint, udtryk, utilfreds
+🙍🏼	Utilfreds person, Utilfreds person: medium til lys teint, alvorlig mine, medium til lys teint, udtryk, utilfreds
+🙍🏽	Utilfreds person, Utilfreds person: medium teint, alvorlig mine, medium teint, udtryk, utilfreds
+🙍🏾	Utilfreds person, Utilfreds person: medium til mørk teint, alvorlig mine, medium til mørk teint, udtryk, utilfreds
+🙍🏿	Utilfreds person, Utilfreds person: mørk teint, alvorlig mine, mørk teint, udtryk, utilfreds
 🙍‍♂	Utilfreds mand, mand, mand med alvorlig mine, panderynken, utilfreds
-🙍🏻‍♂	lys teint, mand, mand med rynkede bryn, mand med rynkede bryn: lys teint, rynke panden, rynkede bryn, rynket pande, utilfreds
-🙍🏼‍♂	mand, mand med rynkede bryn, mand med rynkede bryn: medium til lys teint, medium til lys teint, rynke panden, rynkede bryn, rynket pande, utilfreds
-🙍🏽‍♂	mand, mand med rynkede bryn, mand med rynkede bryn: medium teint, medium teint, rynke panden, rynkede bryn, rynket pande, utilfreds
-🙍🏾‍♂	mand, mand med rynkede bryn, mand med rynkede bryn: medium til mørk teint, medium til mørk teint, rynke panden, rynkede bryn, rynket pande, utilfreds
-🙍🏿‍♂	mand, mand med rynkede bryn, mand med rynkede bryn: mørk teint, mørk teint, rynke panden, rynkede bryn, rynket pande, utilfreds
+🙍🏻‍♂	Utilfreds mand, Utilfreds mand: lys teint, lys teint, mand, mand med alvorlig mine, panderynken, utilfreds
+🙍🏼‍♂	Utilfreds mand, Utilfreds mand: medium til lys teint, mand, mand med alvorlig mine, medium til lys teint, panderynken, utilfreds
+🙍🏽‍♂	Utilfreds mand, Utilfreds mand: medium teint, mand, mand med alvorlig mine, medium teint, panderynken, utilfreds
+🙍🏾‍♂	Utilfreds mand, Utilfreds mand: medium til mørk teint, mand, mand med alvorlig mine, medium til mørk teint, panderynken, utilfreds
+🙍🏿‍♂	Utilfreds mand, Utilfreds mand: mørk teint, mand, mand med alvorlig mine, mørk teint, panderynken, utilfreds
 🙍‍♀	Utilfreds kvinde, kvinde, kvinde med alvorlig mine, panderynken, utilfreds
-🙍🏻‍♀	kvinde, kvinde med rynkede bryn, kvinde med rynkede bryn: lys teint, lys teint, rynke panden, rynkede bryn, rynket pande, utilfreds
-🙍🏼‍♀	kvinde, kvinde med rynkede bryn, kvinde med rynkede bryn: medium til lys teint, medium til lys teint, rynke panden, rynkede bryn, rynket pande, utilfreds
-🙍🏽‍♀	kvinde, kvinde med rynkede bryn, kvinde med rynkede bryn: medium teint, medium teint, rynke panden, rynkede bryn, rynket pande, utilfreds
-🙍🏾‍♀	kvinde, kvinde med rynkede bryn, kvinde med rynkede bryn: medium til mørk teint, medium til mørk teint, rynke panden, rynkede bryn, rynket pande, utilfreds
-🙍🏿‍♀	kvinde, kvinde med rynkede bryn, kvinde med rynkede bryn: mørk teint, mørk teint, rynke panden, rynkede bryn, rynket pande, utilfreds
+🙍🏻‍♀	Utilfreds kvinde, Utilfreds kvinde: lys teint, kvinde, kvinde med alvorlig mine, lys teint, panderynken, utilfreds
+🙍🏼‍♀	Utilfreds kvinde, Utilfreds kvinde: medium til lys teint, kvinde, kvinde med alvorlig mine, medium til lys teint, panderynken, utilfreds
+🙍🏽‍♀	Utilfreds kvinde, Utilfreds kvinde: medium teint, kvinde, kvinde med alvorlig mine, medium teint, panderynken, utilfreds
+🙍🏾‍♀	Utilfreds kvinde, Utilfreds kvinde: medium til mørk teint, kvinde, kvinde med alvorlig mine, medium til mørk teint, panderynken, utilfreds
+🙍🏿‍♀	Utilfreds kvinde, Utilfreds kvinde: mørk teint, kvinde, kvinde med alvorlig mine, mørk teint, panderynken, utilfreds
 🙎	gestus, surmule, surmulende person
 🙎🏻	gestus, lys teint, surmule, surmulende person, surmulende person: lys teint
 🙎🏼	gestus, medium til lys teint, surmule, surmulende person, surmulende person: medium til lys teint
@@ -608,6 +625,24 @@
 🙋🏽‍♀	gestus, hej, hilsen, kvinde, kvinde med løftet hånd, kvinde med løftet hånd: medium teint, løftet hånd, medium teint
 🙋🏾‍♀	gestus, hej, hilsen, kvinde, kvinde med løftet hånd, kvinde med løftet hånd: medium til mørk teint, løftet hånd, medium til mørk teint
 🙋🏿‍♀	gestus, hej, hilsen, kvinde, kvinde med løftet hånd, kvinde med løftet hånd: mørk teint, løftet hånd, mørk teint
+🧏	døv person
+🧏🏻	døv person, døv person: lys teint, lys teint
+🧏🏼	døv person, døv person: medium til lys teint, medium til lys teint
+🧏🏽	døv person, døv person: medium teint, medium teint
+🧏🏾	døv person, døv person: medium til mørk teint, medium til mørk teint
+🧏🏿	døv person, døv person: mørk teint, mørk teint
+🧏‍♂	døv mand
+🧏🏻‍♂	døv mand, døv mand: lys teint, lys teint
+🧏🏼‍♂	døv mand, døv mand: medium til lys teint, medium til lys teint
+🧏🏽‍♂	døv mand, døv mand: medium teint, medium teint
+🧏🏾‍♂	døv mand, døv mand: medium til mørk teint, medium til mørk teint
+🧏🏿‍♂	døv mand, døv mand: mørk teint, mørk teint
+🧏‍♀	døv kvinde
+🧏🏻‍♀	døv kvinde, døv kvinde: lys teint, lys teint
+🧏🏼‍♀	døv kvinde, døv kvinde: medium til lys teint, medium til lys teint
+🧏🏽‍♀	døv kvinde, døv kvinde: medium teint, medium teint
+🧏🏾‍♀	døv kvinde, døv kvinde: medium til mørk teint, medium til mørk teint
+🧏🏿‍♀	døv kvinde, døv kvinde: mørk teint, mørk teint
 🙇	bukker, undskyld
 🙇🏻	bukker, bukker: lys teint, lys teint, undskyld
 🙇🏼	bukker, bukker: medium til lys teint, medium til lys teint, undskyld
@@ -1005,11 +1040,11 @@
 🎅🏾	jul, julemand, julemand: medium til mørk teint, medium til mørk teint, nisse
 🎅🏿	jul, julemand, julemand: mørk teint, mørk teint, nisse
 🤶	dame, fru julemand, jul, julekvinde, julemandens kone, kvinde
-🤶🏻	dame, fru julemand, jul, julekvinde, julemandens kone, julemandens kone: lys teint, julemandinde, kvinde, lys teint
-🤶🏼	dame, fru julemand, jul, julekvinde, julemandens kone, julemandens kone: medium til lys teint, julemandinde, kvinde, medium til lys teint
-🤶🏽	dame, fru julemand, jul, julekvinde, julemandens kone, julemandens kone: medium teint, julemandinde, kvinde, medium teint
-🤶🏾	dame, fru julemand, jul, julekvinde, julemandens kone, julemandens kone: medium til mørk teint, julemandinde, kvinde, medium til mørk teint
-🤶🏿	dame, fru julemand, jul, julekvinde, julemandens kone, julemandens kone: mørk teint, julemandinde, kvinde, mørk teint
+🤶🏻	dame, fru julemand, jul, julekvinde, julemandens kone, julemandens kone: lys teint, kvinde, lys teint
+🤶🏼	dame, fru julemand, jul, julekvinde, julemandens kone, julemandens kone: medium til lys teint, kvinde, medium til lys teint
+🤶🏽	dame, fru julemand, jul, julekvinde, julemandens kone, julemandens kone: medium teint, kvinde, medium teint
+🤶🏾	dame, fru julemand, jul, julekvinde, julemandens kone, julemandens kone: medium til mørk teint, kvinde, medium til mørk teint
+🤶🏿	dame, fru julemand, jul, julekvinde, julemandens kone, julemandens kone: mørk teint, kvinde, mørk teint
 🦸	god, helt, heltinde, superhelt, superkraft
 🦸🏻	god, helt, heltinde, lys teint, superhelt, superhelt: lys teint, superkraft
 🦸🏼	god, helt, heltinde, medium til lys teint, superhelt, superhelt: medium til lys teint, superkraft
@@ -1107,11 +1142,11 @@
 🧜🏾	hav, havfolk, havvæsen, havvæsen: medium til mørk teint, medium til mørk teint
 🧜🏿	hav, havfolk, havvæsen, havvæsen: mørk teint, mørk teint
 🧜‍♂	Triton, hav, havmand, mand
-🧜🏻‍♂	hav, havmand, havmand: lys teint, lys teint, mand
-🧜🏼‍♂	hav, havmand, havmand: medium til lys teint, mand, medium til lys teint
-🧜🏽‍♂	hav, havmand, havmand: medium teint, mand, medium teint
-🧜🏾‍♂	hav, havmand, havmand: medium til mørk teint, mand, medium til mørk teint
-🧜🏿‍♂	hav, havmand, havmand: mørk teint, mand, mørk teint
+🧜🏻‍♂	Triton, hav, havmand, havmand: lys teint, lys teint, mand
+🧜🏼‍♂	Triton, hav, havmand, havmand: medium til lys teint, mand, medium til lys teint
+🧜🏽‍♂	Triton, hav, havmand, havmand: medium teint, mand, medium teint
+🧜🏾‍♂	Triton, hav, havmand, havmand: medium til mørk teint, mand, medium til mørk teint
+🧜🏿‍♂	Triton, hav, havmand, havmand: mørk teint, mand, mørk teint
 🧜‍♀	hav, havfrue, kvinde
 🧜🏻‍♀	hav, havfrue, havfrue: lys teint, kvinde, lys teint
 🧜🏼‍♀	hav, havfrue, havfrue: medium til lys teint, kvinde, medium til lys teint
@@ -1196,6 +1231,78 @@
 🚶🏽‍♀	fodgænger, gang, gå, gåtur, hike, kvinde, kvinde går, kvinde går: medium teint, medium teint, vandre, vandretur, vandring
 🚶🏾‍♀	fodgænger, gang, gå, gåtur, hike, kvinde, kvinde går, kvinde går: medium til mørk teint, medium til mørk teint, vandre, vandretur, vandring
 🚶🏿‍♀	fodgænger, gang, gå, gåtur, hike, kvinde, kvinde går, kvinde går: mørk teint, mørk teint, vandre, vandretur, vandring
+🧍	stående person
+🧍🏻	lys teint, stående person, stående person: lys teint
+🧍🏼	medium til lys teint, stående person, stående person: medium til lys teint
+🧍🏽	medium teint, stående person, stående person: medium teint
+🧍🏾	medium til mørk teint, stående person, stående person: medium til mørk teint
+🧍🏿	mørk teint, stående person, stående person: mørk teint
+🧍‍♂	stående mand
+🧍🏻‍♂	lys teint, stående mand, stående mand: lys teint
+🧍🏼‍♂	medium til lys teint, stående mand, stående mand: medium til lys teint
+🧍🏽‍♂	medium teint, stående mand, stående mand: medium teint
+🧍🏾‍♂	medium til mørk teint, stående mand, stående mand: medium til mørk teint
+🧍🏿‍♂	mørk teint, stående mand, stående mand: mørk teint
+🧍‍♀	stående kvinde
+🧍🏻‍♀	lys teint, stående kvinde, stående kvinde: lys teint
+🧍🏼‍♀	medium til lys teint, stående kvinde, stående kvinde: medium til lys teint
+🧍🏽‍♀	medium teint, stående kvinde, stående kvinde: medium teint
+🧍🏾‍♀	medium til mørk teint, stående kvinde, stående kvinde: medium til mørk teint
+🧍🏿‍♀	mørk teint, stående kvinde, stående kvinde: mørk teint
+🧎	knælende, knælende person, på knæ
+🧎🏻	knælende, knælende person, knælende person: lys teint, lys teint, på knæ
+🧎🏼	knælende, knælende person, knælende person: medium til lys teint, medium til lys teint, på knæ
+🧎🏽	knælende, knælende person, knælende person: medium teint, medium teint, på knæ
+🧎🏾	knælende, knælende person, knælende person: medium til mørk teint, medium til mørk teint, på knæ
+🧎🏿	knælende, knælende person, knælende person: mørk teint, mørk teint, på knæ
+🧎‍♂	knælende mand, mand
+🧎🏻‍♂	knælende mand, knælende mand: lys teint, lys teint, mand
+🧎🏼‍♂	knælende mand, knælende mand: medium til lys teint, mand, medium til lys teint
+🧎🏽‍♂	knælende mand, knælende mand: medium teint, mand, medium teint
+🧎🏾‍♂	knælende mand, knælende mand: medium til mørk teint, mand, medium til mørk teint
+🧎🏿‍♂	knælende mand, knælende mand: mørk teint, mand, mørk teint
+🧎‍♀	knælende kvinde, kvinde
+🧎🏻‍♀	knælende kvinde, knælende kvinde: lys teint, kvinde, lys teint
+🧎🏼‍♀	knælende kvinde, knælende kvinde: medium til lys teint, kvinde, medium til lys teint
+🧎🏽‍♀	knælende kvinde, knælende kvinde: medium teint, kvinde, medium teint
+🧎🏾‍♀	knælende kvinde, knælende kvinde: medium til mørk teint, kvinde, medium til mørk teint
+🧎🏿‍♀	knælende kvinde, knælende kvinde: mørk teint, kvinde, mørk teint
+👨‍🦯	mand med blindestok
+👨🏻‍🦯	lys teint, mand med blindestok, mand med blindestok: lys teint
+👨🏼‍🦯	mand med blindestok, mand med blindestok: medium til lys teint, medium til lys teint
+👨🏽‍🦯	mand med blindestok, mand med blindestok: medium teint, medium teint
+👨🏾‍🦯	mand med blindestok, mand med blindestok: medium til mørk teint, medium til mørk teint
+👨🏿‍🦯	mand med blindestok, mand med blindestok: mørk teint, mørk teint
+👩‍🦯	kvinde med blindestok
+👩🏻‍🦯	kvinde med blindestok, kvinde med blindestok: lys teint, lys teint
+👩🏼‍🦯	kvinde med blindestok, kvinde med blindestok: medium til lys teint, medium til lys teint
+👩🏽‍🦯	kvinde med blindestok, kvinde med blindestok: medium teint, medium teint
+👩🏾‍🦯	kvinde med blindestok, kvinde med blindestok: medium til mørk teint, medium til mørk teint
+👩🏿‍🦯	kvinde med blindestok, kvinde med blindestok: mørk teint, mørk teint
+👨‍🦼	mand i elektrisk kørestol
+👨🏻‍🦼	lys teint, mand i elektrisk kørestol, mand i elektrisk kørestol: lys teint
+👨🏼‍🦼	mand i elektrisk kørestol, mand i elektrisk kørestol: medium til lys teint, medium til lys teint
+👨🏽‍🦼	mand i elektrisk kørestol, mand i elektrisk kørestol: medium teint, medium teint
+👨🏾‍🦼	mand i elektrisk kørestol, mand i elektrisk kørestol: medium til mørk teint, medium til mørk teint
+👨🏿‍🦼	mand i elektrisk kørestol, mand i elektrisk kørestol: mørk teint, mørk teint
+👩‍🦼	kvinde i elektrisk kørestol
+👩🏻‍🦼	kvinde i elektrisk kørestol, kvinde i elektrisk kørestol: lys teint, lys teint
+👩🏼‍🦼	kvinde i elektrisk kørestol, kvinde i elektrisk kørestol: medium til lys teint, medium til lys teint
+👩🏽‍🦼	kvinde i elektrisk kørestol, kvinde i elektrisk kørestol: medium teint, medium teint
+👩🏾‍🦼	kvinde i elektrisk kørestol, kvinde i elektrisk kørestol: medium til mørk teint, medium til mørk teint
+👩🏿‍🦼	kvinde i elektrisk kørestol, kvinde i elektrisk kørestol: mørk teint, mørk teint
+👨‍🦽	mand i manuel kørestol
+👨🏻‍🦽	lys teint, mand i manuel kørestol, mand i manuel kørestol: lys teint
+👨🏼‍🦽	mand i manuel kørestol, mand i manuel kørestol: medium til lys teint, medium til lys teint
+👨🏽‍🦽	mand i manuel kørestol, mand i manuel kørestol: medium teint, medium teint
+👨🏾‍🦽	mand i manuel kørestol, mand i manuel kørestol: medium til mørk teint, medium til mørk teint
+👨🏿‍🦽	mand i manuel kørestol, mand i manuel kørestol: mørk teint, mørk teint
+👩‍🦽	kvinde i manuel kørestol
+👩🏻‍🦽	kvinde i manuel kørestol, kvinde i manuel kørestol: lys teint, lys teint
+👩🏼‍🦽	kvinde i manuel kørestol, kvinde i manuel kørestol: medium til lys teint, medium til lys teint
+👩🏽‍🦽	kvinde i manuel kørestol, kvinde i manuel kørestol: medium teint, medium teint
+👩🏾‍🦽	kvinde i manuel kørestol, kvinde i manuel kørestol: medium til mørk teint, medium til mørk teint
+👩🏿‍🦽	kvinde i manuel kørestol, kvinde i manuel kørestol: mørk teint, mørk teint
 🏃	løber, løbetræning, maraton, sport
 🏃🏻	lys teint, løber, løber: lys teint, løbetræning, maraton, sport
 🏃🏼	løber, løber: medium til lys teint, løbetræning, maraton, medium til lys teint, sport
@@ -1236,23 +1343,23 @@
 👯‍♂	dans, fest, kaninører, mænd, mænd med kaninører
 👯‍♀	dans, fest, kaninører, kvinder, kvinder med kaninører
 🧖	dampbad, person i dampbad, sauna
-🧖🏻	dampbad, lys teint, person i damptåge, person i damptåge: lys teint, sauna
-🧖🏼	dampbad, medium til lys teint, person i damptåge, person i damptåge: medium til lys teint, sauna
-🧖🏽	dampbad, medium teint, person i damptåge, person i damptåge: medium teint, sauna
-🧖🏾	dampbad, medium til mørk teint, person i damptåge, person i damptåge: medium til mørk teint, sauna
-🧖🏿	dampbad, mørk teint, person i damptåge, person i damptåge: mørk teint, sauna
+🧖🏻	dampbad, lys teint, person i dampbad, person i dampbad: lys teint, sauna
+🧖🏼	dampbad, medium til lys teint, person i dampbad, person i dampbad: medium til lys teint, sauna
+🧖🏽	dampbad, medium teint, person i dampbad, person i dampbad: medium teint, sauna
+🧖🏾	dampbad, medium til mørk teint, person i dampbad, person i dampbad: medium til mørk teint, sauna
+🧖🏿	dampbad, mørk teint, person i dampbad, person i dampbad: mørk teint, sauna
 🧖‍♂	dampbad, mand, mand i dampbad, sauna
-🧖🏻‍♂	dampbad, lys teint, mand, mand i damptåge, mand i damptåge: lys teint, sauna
-🧖🏼‍♂	dampbad, mand, mand i damptåge, mand i damptåge: medium til lys teint, medium til lys teint, sauna
-🧖🏽‍♂	dampbad, mand, mand i damptåge, mand i damptåge: medium teint, medium teint, sauna
-🧖🏾‍♂	dampbad, mand, mand i damptåge, mand i damptåge: medium til mørk teint, medium til mørk teint, sauna
-🧖🏿‍♂	dampbad, mand, mand i damptåge, mand i damptåge: mørk teint, mørk teint, sauna
+🧖🏻‍♂	dampbad, lys teint, mand, mand i dampbad, mand i dampbad: lys teint, sauna
+🧖🏼‍♂	dampbad, mand, mand i dampbad, mand i dampbad: medium til lys teint, medium til lys teint, sauna
+🧖🏽‍♂	dampbad, mand, mand i dampbad, mand i dampbad: medium teint, medium teint, sauna
+🧖🏾‍♂	dampbad, mand, mand i dampbad, mand i dampbad: medium til mørk teint, medium til mørk teint, sauna
+🧖🏿‍♂	dampbad, mand, mand i dampbad, mand i dampbad: mørk teint, mørk teint, sauna
 🧖‍♀	dampbad, kvinde, kvinde i dampbad, sauna
-🧖🏻‍♀	dampbad, kvinde, kvinde i damptåge, kvinde i damptåge: lys teint, lys teint, sauna
-🧖🏼‍♀	dampbad, kvinde, kvinde i damptåge, kvinde i damptåge: medium til lys teint, medium til lys teint, sauna
-🧖🏽‍♀	dampbad, kvinde, kvinde i damptåge, kvinde i damptåge: medium teint, medium teint, sauna
-🧖🏾‍♀	dampbad, kvinde, kvinde i damptåge, kvinde i damptåge: medium til mørk teint, medium til mørk teint, sauna
-🧖🏿‍♀	dampbad, kvinde, kvinde i damptåge, kvinde i damptåge: mørk teint, mørk teint, sauna
+🧖🏻‍♀	dampbad, kvinde, kvinde i dampbad, kvinde i dampbad: lys teint, lys teint, sauna
+🧖🏼‍♀	dampbad, kvinde, kvinde i dampbad, kvinde i dampbad: medium til lys teint, medium til lys teint, sauna
+🧖🏽‍♀	dampbad, kvinde, kvinde i dampbad, kvinde i dampbad: medium teint, medium teint, sauna
+🧖🏾‍♀	dampbad, kvinde, kvinde i dampbad, kvinde i dampbad: medium til mørk teint, medium til mørk teint, sauna
+🧖🏿‍♀	dampbad, kvinde, kvinde i dampbad, kvinde i dampbad: mørk teint, mørk teint, sauna
 🧗	bjerg, bjergbestiger, klatring
 🧗🏻	bjerg, bjergbestiger, bjergbestiger: lys teint, klatring, lys teint
 🧗🏼	bjerg, bjergbestiger, bjergbestiger: medium til lys teint, klatring, medium til lys teint
@@ -1304,11 +1411,11 @@
 🏌🏾‍♀	golf, golfkølle, kvinde, kvindelig golfspiller, kvindelig golfspiller: medium til mørk teint, medium til mørk teint
 🏌🏿‍♀	golf, golfkølle, kvinde, kvindelig golfspiller, kvindelig golfspiller: mørk teint, mørk teint
 🏄️	sport, surfer, surfing
-🏄🏻	lys teint, sport, surfer, surfing, surfing: lys teint
-🏄🏼	medium til lys teint, sport, surfer, surfing, surfing: medium til lys teint
-🏄🏽	medium teint, sport, surfer, surfing, surfing: medium teint
-🏄🏾	medium til mørk teint, sport, surfer, surfing, surfing: medium til mørk teint
-🏄🏿	mørk teint, sport, surfer, surfing, surfing: mørk teint
+🏄🏻	lys teint, sport, surfer, surfer: lys teint, surfing
+🏄🏼	medium til lys teint, sport, surfer, surfer: medium til lys teint, surfing
+🏄🏽	medium teint, sport, surfer, surfer: medium teint, surfing
+🏄🏾	medium til mørk teint, sport, surfer, surfer: medium til mørk teint, surfing
+🏄🏿	mørk teint, sport, surfer, surfer: mørk teint, surfing
 🏄‍♂	mand, mandlig surfer, surfer, surfing
 🏄🏻‍♂	lys teint, mand, mandlig surfer, mandlig surfer: lys teint, surfer, surfing
 🏄🏼‍♂	mand, mandlig surfer, mandlig surfer: medium til lys teint, medium til lys teint, surfer, surfing
@@ -1322,11 +1429,11 @@
 🏄🏾‍♀	kvinde, kvindelig surfer, kvindelig surfer: medium til mørk teint, medium til mørk teint, surfer, surfing
 🏄🏿‍♀	kvinde, kvindelig surfer, kvindelig surfer: mørk teint, mørk teint, surfer, surfing
 🚣	båd, robåd, roer
-🚣🏻	båd, lys teint, robåd, robåd: lys teint
-🚣🏼	båd, medium til lys teint, robåd, robåd: medium til lys teint
-🚣🏽	båd, medium teint, robåd, robåd: medium teint
-🚣🏾	båd, medium til mørk teint, robåd, robåd: medium til mørk teint
-🚣🏿	båd, mørk teint, robåd, robåd: mørk teint
+🚣🏻	båd, lys teint, robåd, roer, roer: lys teint
+🚣🏼	båd, medium til lys teint, robåd, roer, roer: medium til lys teint
+🚣🏽	båd, medium teint, robåd, roer, roer: medium teint
+🚣🏾	båd, medium til mørk teint, robåd, roer, roer: medium til mørk teint
+🚣🏿	båd, mørk teint, robåd, roer, roer: mørk teint
 🚣‍♂	båd, mand, mand i robåd, roer, roning
 🚣🏻‍♂	båd, lys teint, mand, mand i robåd, mand i robåd: lys teint, roer, roning
 🚣🏼‍♂	båd, mand, mand i robåd, mand i robåd: medium til lys teint, medium til lys teint, roer, roning
@@ -1358,23 +1465,23 @@
 🏊🏾‍♀	kvinde, kvindelig svømmer, kvindelig svømmer: medium til mørk teint, medium til mørk teint, svømmepige, svømning
 🏊🏿‍♀	kvinde, kvindelig svømmer, kvindelig svømmer: mørk teint, mørk teint, svømmepige, svømning
 ⛹️	bold, drible, person, der dibler med en bold, person, der dribler med en bold
-⛹🏻	bold, lys teint, person med bold, person med bold: lys teint
-⛹🏼	bold, medium til lys teint, person med bold, person med bold: medium til lys teint
-⛹🏽	bold, medium teint, person med bold, person med bold: medium teint
-⛹🏾	bold, medium til mørk teint, person med bold, person med bold: medium til mørk teint
-⛹🏿	bold, mørk teint, person med bold, person med bold: mørk teint
+⛹🏻	bold, drible, lys teint, person, der dibler med en bold, person, der dribler med en bold, person, der dribler med en bold: lys teint
+⛹🏼	bold, drible, medium til lys teint, person, der dibler med en bold, person, der dribler med en bold, person, der dribler med en bold: medium til lys teint
+⛹🏽	bold, drible, medium teint, person, der dibler med en bold, person, der dribler med en bold, person, der dribler med en bold: medium teint
+⛹🏾	bold, drible, medium til mørk teint, person, der dibler med en bold, person, der dribler med en bold, person, der dribler med en bold: medium til mørk teint
+⛹🏿	bold, drible, mørk teint, person, der dibler med en bold, person, der dribler med en bold, person, der dribler med en bold: mørk teint
 ⛹‍♂	bold, boldspil, boldspiller, mand, mand, der dribler med en bold
-⛹🏻‍♂	bold, boldspil, boldspiller, lys teint, mand, mand med bold, mand med bold: lys teint
-⛹🏼‍♂	bold, boldspil, boldspiller, mand, mand med bold, mand med bold: medium til lys teint, medium til lys teint
-⛹🏽‍♂	bold, boldspil, boldspiller, mand, mand med bold, mand med bold: medium teint, medium teint
-⛹🏾‍♂	bold, boldspil, boldspiller, mand, mand med bold, mand med bold: medium til mørk teint, medium til mørk teint
-⛹🏿‍♂	bold, boldspil, boldspiller, mand, mand med bold, mand med bold: mørk teint, mørk teint
+⛹🏻‍♂	bold, boldspil, boldspiller, lys teint, mand, mand, der dribler med en bold, mand, der dribler med en bold: lys teint
+⛹🏼‍♂	bold, boldspil, boldspiller, mand, mand, der dribler med en bold, mand, der dribler med en bold: medium til lys teint, medium til lys teint
+⛹🏽‍♂	bold, boldspil, boldspiller, mand, mand, der dribler med en bold, mand, der dribler med en bold: medium teint, medium teint
+⛹🏾‍♂	bold, boldspil, boldspiller, mand, mand, der dribler med en bold, mand, der dribler med en bold: medium til mørk teint, medium til mørk teint
+⛹🏿‍♂	bold, boldspil, boldspiller, mand, mand, der dribler med en bold, mand, der dribler med en bold: mørk teint, mørk teint
 ⛹‍♀	bold, boldspil, boldspiller, kvinde, kvinde, der dribler med en bold
-⛹🏻‍♀	bold, boldspil, boldspiller, kvinde, kvinde med bold, kvinde med bold: lys teint, lys teint
-⛹🏼‍♀	bold, boldspil, boldspiller, kvinde, kvinde med bold, kvinde med bold: medium til lys teint, medium til lys teint
-⛹🏽‍♀	bold, boldspil, boldspiller, kvinde, kvinde med bold, kvinde med bold: medium teint, medium teint
-⛹🏾‍♀	bold, boldspil, boldspiller, kvinde, kvinde med bold, kvinde med bold: medium til mørk teint, medium til mørk teint
-⛹🏿‍♀	bold, boldspil, boldspiller, kvinde, kvinde med bold, kvinde med bold: mørk teint, mørk teint
+⛹🏻‍♀	bold, boldspil, boldspiller, kvinde, kvinde, der dribler med en bold, kvinde, der dribler med en bold: lys teint, lys teint
+⛹🏼‍♀	bold, boldspil, boldspiller, kvinde, kvinde, der dribler med en bold, kvinde, der dribler med en bold: medium til lys teint, medium til lys teint
+⛹🏽‍♀	bold, boldspil, boldspiller, kvinde, kvinde, der dribler med en bold, kvinde, der dribler med en bold: medium teint, medium teint
+⛹🏾‍♀	bold, boldspil, boldspiller, kvinde, kvinde, der dribler med en bold, kvinde, der dribler med en bold: medium til mørk teint, medium til mørk teint
+⛹🏿‍♀	bold, boldspil, boldspiller, kvinde, kvinde, der dribler med en bold, kvinde, der dribler med en bold: mørk teint, mørk teint
 🏋️	løfter, vægt, vægtløfter
 🏋🏻	lys teint, løfter, vægt, vægtløfter, vægtløfter: lys teint
 🏋🏼	løfter, medium til lys teint, vægt, vægtløfter, vægtløfter: medium til lys teint
@@ -1400,17 +1507,17 @@
 🚴🏾	cykel, cyklist, cyklist: medium til mørk teint, medium til mørk teint
 🚴🏿	cykel, cyklist, cyklist: mørk teint, mørk teint
 🚴‍♂	cykelrytter, cykle, cyklist, mand, mandlig cyklist
-🚴🏻‍♂	cykel, cykelrytter, cykle, lys teint, mand, mandlig cyklist, mandlig cyklist: lys teint
-🚴🏼‍♂	cykel, cykelrytter, cykle, mand, mandlig cyklist, mandlig cyklist: medium til lys teint, medium til lys teint
-🚴🏽‍♂	cykel, cykelrytter, cykle, mand, mandlig cyklist, mandlig cyklist: medium teint, medium teint
-🚴🏾‍♂	cykel, cykelrytter, cykle, mand, mandlig cyklist, mandlig cyklist: medium til mørk teint, medium til mørk teint
-🚴🏿‍♂	cykel, cykelrytter, cykle, mand, mandlig cyklist, mandlig cyklist: mørk teint, mørk teint
+🚴🏻‍♂	cykelrytter, cykle, cyklist, lys teint, mand, mandlig cyklist, mandlig cyklist: lys teint
+🚴🏼‍♂	cykelrytter, cykle, cyklist, mand, mandlig cyklist, mandlig cyklist: medium til lys teint, medium til lys teint
+🚴🏽‍♂	cykelrytter, cykle, cyklist, mand, mandlig cyklist, mandlig cyklist: medium teint, medium teint
+🚴🏾‍♂	cykelrytter, cykle, cyklist, mand, mandlig cyklist, mandlig cyklist: medium til mørk teint, medium til mørk teint
+🚴🏿‍♂	cykelrytter, cykle, cyklist, mand, mandlig cyklist, mandlig cyklist: mørk teint, mørk teint
 🚴‍♀	cykelrytter, cykle, cyklist, kvinde, kvindelig cyklist
-🚴🏻‍♀	cykel, cykelrytter, cykle, cyklist, kvinde, kvindelig cyklist, kvindelig cyklist: lys teint, lys teint
-🚴🏼‍♀	cykel, cykelrytter, cykle, cyklist, kvinde, kvindelig cyklist, kvindelig cyklist: medium til lys teint, medium til lys teint
-🚴🏽‍♀	cykel, cykelrytter, cykle, cyklist, kvinde, kvindelig cyklist, kvindelig cyklist: medium teint, medium teint
-🚴🏾‍♀	cykel, cykelrytter, cykle, cyklist, kvinde, kvindelig cyklist, kvindelig cyklist: medium til mørk teint, medium til mørk teint
-🚴🏿‍♀	cykel, cykelrytter, cykle, cyklist, kvinde, kvindelig cyklist, kvindelig cyklist: mørk teint, mørk teint
+🚴🏻‍♀	cykelrytter, cykle, cyklist, kvinde, kvindelig cyklist, kvindelig cyklist: lys teint, lys teint
+🚴🏼‍♀	cykelrytter, cykle, cyklist, kvinde, kvindelig cyklist, kvindelig cyklist: medium til lys teint, medium til lys teint
+🚴🏽‍♀	cykelrytter, cykle, cyklist, kvinde, kvindelig cyklist, kvindelig cyklist: medium teint, medium teint
+🚴🏾‍♀	cykelrytter, cykle, cyklist, kvinde, kvindelig cyklist, kvindelig cyklist: medium til mørk teint, medium til mørk teint
+🚴🏿‍♀	cykelrytter, cykle, cyklist, kvinde, kvindelig cyklist, kvindelig cyklist: mørk teint, mørk teint
 🚵	bjerg, cykel, cyklist, mountainbike, mountainbikerytter
 🚵🏻	bjerg, cykel, cyklist, lys teint, mountainbike, mountainbikerytter, mountainbikerytter: lys teint
 🚵🏼	bjerg, cykel, cyklist, medium til lys teint, mountainbike, mountainbikerytter, mountainbikerytter: medium til lys teint
@@ -1430,11 +1537,11 @@
 🚵🏾‍♀	cykelrytter, kvinde, kvinde på mountainbike, kvinde på mountainbike: medium til mørk teint, medium til mørk teint, mountainbike
 🚵🏿‍♀	cykelrytter, kvinde, kvinde på mountainbike, kvinde på mountainbike: mørk teint, mountainbike, mørk teint
 🤸	gymnastik, menneske, person, person slår vejrmølle, sport, vejrmølle
-🤸🏻	gymnastik, lys teint, menneske, person, sport, vejrmølle, vejrmølle: lys teint
-🤸🏼	gymnastik, medium til lys teint, menneske, person, sport, vejrmølle, vejrmølle: medium til lys teint
-🤸🏽	gymnastik, medium teint, menneske, person, sport, vejrmølle, vejrmølle: medium teint
-🤸🏾	gymnastik, medium til mørk teint, menneske, person, sport, vejrmølle, vejrmølle: medium til mørk teint
-🤸🏿	gymnastik, menneske, mørk teint, person, sport, vejrmølle, vejrmølle: mørk teint
+🤸🏻	gymnastik, lys teint, menneske, person, person slår vejrmølle, person slår vejrmølle: lys teint, sport, vejrmølle
+🤸🏼	gymnastik, medium til lys teint, menneske, person, person slår vejrmølle, person slår vejrmølle: medium til lys teint, sport, vejrmølle
+🤸🏽	gymnastik, medium teint, menneske, person, person slår vejrmølle, person slår vejrmølle: medium teint, sport, vejrmølle
+🤸🏾	gymnastik, medium til mørk teint, menneske, person, person slår vejrmølle, person slår vejrmølle: medium til mørk teint, sport, vejrmølle
+🤸🏿	gymnastik, menneske, mørk teint, person, person slår vejrmølle, person slår vejrmølle: mørk teint, sport, vejrmølle
 🤸‍♂	gymnastik, mand, mand slår vejrmøller, vejrmølle
 🤸🏻‍♂	gymnastik, lys teint, mand, mand slår vejrmøller, mand slår vejrmøller: lys teint, vejrmølle
 🤸🏼‍♂	gymnastik, mand, mand slår vejrmøller, mand slår vejrmøller: medium til lys teint, medium til lys teint, vejrmølle
@@ -1451,11 +1558,11 @@
 🤼‍♂	brydere, brydning, mandlige brydere, mænd, wrestling
 🤼‍♀	brydere, brydning, kvindelige brydere, kvinder, wrestling
 🤽	polo, sport, vand, vandpolo, vandpolospiller, vandsport
-🤽🏻	lys teint, polo, sport, vand, vandpolo, vandpolo: lys teint, vandsport
-🤽🏼	medium til lys teint, polo, sport, vand, vandpolo, vandpolo: medium til lys teint, vandsport
-🤽🏽	medium teint, polo, sport, vand, vandpolo, vandpolo: medium teint, vandsport
-🤽🏾	medium til mørk teint, polo, sport, vand, vandpolo, vandpolo: medium til mørk teint, vandsport
-🤽🏿	mørk teint, polo, sport, vand, vandpolo, vandpolo: mørk teint, vandsport
+🤽🏻	lys teint, polo, sport, vand, vandpolo, vandpolospiller, vandpolospiller: lys teint, vandsport
+🤽🏼	medium til lys teint, polo, sport, vand, vandpolo, vandpolospiller, vandpolospiller: medium til lys teint, vandsport
+🤽🏽	medium teint, polo, sport, vand, vandpolo, vandpolospiller, vandpolospiller: medium teint, vandsport
+🤽🏾	medium til mørk teint, polo, sport, vand, vandpolo, vandpolospiller, vandpolospiller: medium til mørk teint, vandsport
+🤽🏿	mørk teint, polo, sport, vand, vandpolo, vandpolospiller, vandpolospiller: mørk teint, vandsport
 🤽‍♂	mand, mandlig vandpolospiller, vandpolo
 🤽🏻‍♂	lys teint, mand, mandlig vandpolospiller, mandlig vandpolospiller: lys teint, vandpolo
 🤽🏼‍♂	mand, mandlig vandpolospiller, mandlig vandpolospiller: medium til lys teint, medium til lys teint, vandpolo
@@ -1469,11 +1576,11 @@
 🤽🏾‍♀	kvinde, kvindelig vandpolospiller, kvindelig vandpolospiller: medium til mørk teint, medium til mørk teint, vandpolo
 🤽🏿‍♀	kvinde, kvindelig vandpolospiller, kvindelig vandpolospiller: mørk teint, mørk teint, vandpolo
 🤾	bold, håndbold, håndboldspiller, sport
-🤾🏻	bold, håndbold, håndbold: lys teint, lys teint, person, sport
-🤾🏼	bold, håndbold, håndbold: medium til lys teint, medium til lys teint, person, sport
-🤾🏽	bold, håndbold, håndbold: medium teint, medium teint, person, sport
-🤾🏾	bold, håndbold, håndbold: medium til mørk teint, medium til mørk teint, person, sport
-🤾🏿	bold, håndbold, håndbold: mørk teint, mørk teint, person, sport
+🤾🏻	bold, håndbold, håndboldspiller, håndboldspiller: lys teint, lys teint, sport
+🤾🏼	bold, håndbold, håndboldspiller, håndboldspiller: medium til lys teint, medium til lys teint, sport
+🤾🏽	bold, håndbold, håndboldspiller, håndboldspiller: medium teint, medium teint, sport
+🤾🏾	bold, håndbold, håndboldspiller, håndboldspiller: medium til mørk teint, medium til mørk teint, sport
+🤾🏿	bold, håndbold, håndboldspiller, håndboldspiller: mørk teint, mørk teint, sport
 🤾‍♂	håndbold, håndboldspiller, mand, mandlig håndboldspiller
 🤾🏻‍♂	håndbold, håndboldspiller, lys teint, mand, mandlig håndboldspiller, mandlig håndboldspiller: lys teint
 🤾🏼‍♂	håndbold, håndboldspiller, mand, mandlig håndboldspiller, mandlig håndboldspiller: medium til lys teint, medium til lys teint
@@ -1487,11 +1594,11 @@
 🤾🏾‍♀	håndbold, håndboldspiller, kvinde, kvindelig håndboldspiller, kvindelig håndboldspiller: medium til mørk teint, medium til mørk teint
 🤾🏿‍♀	håndbold, håndboldspiller, kvinde, kvindelig håndboldspiller, kvindelig håndboldspiller: mørk teint, mørk teint
 🤹	balance, behændighed, dygtighed, jonglere, jonglerer, jonglør, multitaske, multitasking
-🤹🏻	Jonglør, Jonglør: lys teint, balance, behændighed, dygtighed, jonglere, jonglerer, jonglør, lys teint, multitaske, multitasking
-🤹🏼	Jonglør, Jonglør: medium til lys teint, balance, behændighed, dygtighed, jonglere, jonglerer, jonglør, medium til lys teint, multitaske, multitasking
-🤹🏽	Jonglør, Jonglør: medium teint, balance, behændighed, dygtighed, jonglere, jonglerer, jonglør, medium teint, multitaske, multitasking
-🤹🏾	Jonglør, Jonglør: medium til mørk teint, balance, behændighed, dygtighed, jonglere, jonglerer, jonglør, medium til mørk teint, multitaske, multitasking
-🤹🏿	Jonglør, Jonglør: mørk teint, balance, behændighed, dygtighed, jonglere, jonglerer, jonglør, multitaske, multitasking, mørk teint
+🤹🏻	balance, behændighed, dygtighed, jonglere, jonglerer, jonglør, jonglør: lys teint, lys teint, multitaske, multitasking
+🤹🏼	balance, behændighed, dygtighed, jonglere, jonglerer, jonglør, jonglør: medium til lys teint, medium til lys teint, multitaske, multitasking
+🤹🏽	balance, behændighed, dygtighed, jonglere, jonglerer, jonglør, jonglør: medium teint, medium teint, multitaske, multitasking
+🤹🏾	balance, behændighed, dygtighed, jonglere, jonglerer, jonglør, jonglør: medium til mørk teint, medium til mørk teint, multitaske, multitasking
+🤹🏿	balance, behændighed, dygtighed, jonglere, jonglerer, jonglør, jonglør: mørk teint, multitaske, multitasking, mørk teint
 🤹‍♂	bolde, jonglere, mand, mandlig jonglør, multitakse, multitasking
 🤹🏻‍♂	bolde, jonglere, lys teint, mand, mandlig jonglør, mandlig jonglør: lys teint, multitakse, multitasking
 🤹🏼‍♂	bolde, jonglere, mand, mandlig jonglør, mandlig jonglør: medium til lys teint, medium til lys teint, multitakse, multitasking
@@ -1523,20 +1630,91 @@
 🧘🏾‍♀	kvinde, kvinde i lotusstilling, kvinde i lotusstilling: medium til mørk teint, meditation, medium til mørk teint, yoga
 🧘🏿‍♀	kvinde, kvinde i lotusstilling, kvinde i lotusstilling: mørk teint, meditation, mørk teint, yoga
 🛀	bad, badekar, karbad
-🛀🏻	bad, bad: lys teint, badekar, lys teint
-🛀🏼	bad, bad: medium til lys teint, badekar, medium til lys teint
-🛀🏽	bad, bad: medium teint, badekar, medium teint
-🛀🏾	bad, bad: medium til mørk teint, badekar, medium til mørk teint
-🛀🏿	bad, bad: mørk teint, badekar, mørk teint
+🛀🏻	bad, bad: lys teint, badekar, karbad, lys teint
+🛀🏼	bad, bad: medium til lys teint, badekar, karbad, medium til lys teint
+🛀🏽	bad, bad: medium teint, badekar, karbad, medium teint
+🛀🏾	bad, bad: medium til mørk teint, badekar, karbad, medium til mørk teint
+🛀🏿	bad, bad: mørk teint, badekar, karbad, mørk teint
 🛌	hotel, person i seng, sove
 🛌🏻	hotel, lys teint, person i seng, person i seng: lys teint, sove
 🛌🏼	hotel, medium til lys teint, person i seng, person i seng: medium til lys teint, sove
 🛌🏽	hotel, medium teint, person i seng, person i seng: medium teint, sove
 🛌🏾	hotel, medium til mørk teint, person i seng, person i seng: medium til mørk teint, sove
 🛌🏿	hotel, mørk teint, person i seng, person i seng: mørk teint, sove
+🧑‍🤝‍🧑	mennesker, der holder hånd
+🧑🏻‍🤝‍🧑🏻	lys teint, mennesker, der holder hånd, mennesker, der holder hånd: lys teint
+🧑🏼‍🤝‍🧑🏻	lys teint, medium til lys teint, mennesker, der holder hånd, mennesker, der holder hånd: medium til lys teint og lys teint
+🧑🏼‍🤝‍🧑🏼	medium til lys teint, mennesker, der holder hånd, mennesker, der holder hånd: medium til lys teint
+🧑🏽‍🤝‍🧑🏻	lys teint, medium teint, mennesker, der holder hånd, mennesker, der holder hånd: medium teint og lys teint
+🧑🏽‍🤝‍🧑🏼	medium teint, medium til lys teint, mennesker, der holder hånd, mennesker, der holder hånd: medium teint og medium til lys teint
+🧑🏽‍🤝‍🧑🏽	medium teint, mennesker, der holder hånd, mennesker, der holder hånd: medium teint
+🧑🏾‍🤝‍🧑🏻	lys teint, medium til mørk teint, mennesker, der holder hånd, mennesker, der holder hånd: medium til mørk teint og lys teint
+🧑🏾‍🤝‍🧑🏼	medium til lys teint, medium til mørk teint, mennesker, der holder hånd, mennesker, der holder hånd: medium til mørk teint og medium til lys teint
+🧑🏾‍🤝‍🧑🏽	medium teint, medium til mørk teint, mennesker, der holder hånd, mennesker, der holder hånd: medium til mørk teint og medium teint
+🧑🏾‍🤝‍🧑🏾	medium til mørk teint, mennesker, der holder hånd, mennesker, der holder hånd: medium til mørk teint
+🧑🏿‍🤝‍🧑🏻	lys teint, mennesker, der holder hånd, mennesker, der holder hånd: mørk teint og lys teint, mørk teint
+🧑🏿‍🤝‍🧑🏼	medium til lys teint, mennesker, der holder hånd, mennesker, der holder hånd: mørk teint og medium til lys teint, mørk teint
+🧑🏿‍🤝‍🧑🏽	medium teint, mennesker, der holder hånd, mennesker, der holder hånd: mørk teint og medium teint, mørk teint
+🧑🏿‍🤝‍🧑🏾	medium til mørk teint, mennesker, der holder hånd, mennesker, der holder hånd: mørk teint og medium til mørk teint, mørk teint
+🧑🏿‍🤝‍🧑🏿	mennesker, der holder hånd, mennesker, der holder hånd: mørk teint, mørk teint
 👭	par, to kvinder hånd i hånd
+👭🏻	lys teint, par, to kvinder hånd i hånd, to kvinder hånd i hånd: lys teint
+👩🏼‍🤝‍👩🏻	lys teint, medium til lys teint, par, to kvinder hånd i hånd, to kvinder hånd i hånd: medium til lys teint og lys teint
+👭🏼	medium til lys teint, par, to kvinder hånd i hånd, to kvinder hånd i hånd: medium til lys teint
+👩🏽‍🤝‍👩🏻	lys teint, medium teint, par, to kvinder hånd i hånd, to kvinder hånd i hånd: medium teint og lys teint
+👩🏽‍🤝‍👩🏼	medium teint, medium til lys teint, par, to kvinder hånd i hånd, to kvinder hånd i hånd: medium teint og medium til lys teint
+👭🏽	medium teint, par, to kvinder hånd i hånd, to kvinder hånd i hånd: medium teint
+👩🏾‍🤝‍👩🏻	lys teint, medium til mørk teint, par, to kvinder hånd i hånd, to kvinder hånd i hånd: medium til mørk teint og lys teint
+👩🏾‍🤝‍👩🏼	medium til lys teint, medium til mørk teint, par, to kvinder hånd i hånd, to kvinder hånd i hånd: medium til mørk teint og medium til lys teint
+👩🏾‍🤝‍👩🏽	medium teint, medium til mørk teint, par, to kvinder hånd i hånd, to kvinder hånd i hånd: medium til mørk teint og medium teint
+👭🏾	medium til mørk teint, par, to kvinder hånd i hånd, to kvinder hånd i hånd: medium til mørk teint
+👩🏿‍🤝‍👩🏻	lys teint, mørk teint, par, to kvinder hånd i hånd, to kvinder hånd i hånd: mørk teint og lys teint
+👩🏿‍🤝‍👩🏼	medium til lys teint, mørk teint, par, to kvinder hånd i hånd, to kvinder hånd i hånd: mørk teint og medium til lys teint
+👩🏿‍🤝‍👩🏽	medium teint, mørk teint, par, to kvinder hånd i hånd, to kvinder hånd i hånd: mørk teint og medium teint
+👩🏿‍🤝‍👩🏾	medium til mørk teint, mørk teint, par, to kvinder hånd i hånd, to kvinder hånd i hånd: mørk teint og medium til mørk teint
+👭🏿	mørk teint, par, to kvinder hånd i hånd, to kvinder hånd i hånd: mørk teint
 👫	mand og kvinde hånd i hånd, par
-👬	par, to mænd hånd i hånd
+👫🏻	lys teint, mand og kvinde hånd i hånd, mand og kvinde hånd i hånd: lys teint, par
+👩🏻‍🤝‍👨🏼	lys teint, mand og kvinde hånd i hånd, mand og kvinde hånd i hånd: lys teint og medium til lys teint, medium til lys teint, par
+👩🏻‍🤝‍👨🏽	lys teint, mand og kvinde hånd i hånd, mand og kvinde hånd i hånd: lys teint og medium teint, medium teint, par
+👩🏻‍🤝‍👨🏾	lys teint, mand og kvinde hånd i hånd, mand og kvinde hånd i hånd: lys teint og medium til mørk teint, medium til mørk teint, par
+👩🏻‍🤝‍👨🏿	lys teint, mand og kvinde hånd i hånd, mand og kvinde hånd i hånd: lys teint og mørk teint, mørk teint, par
+👩🏼‍🤝‍👨🏻	lys teint, mand og kvinde hånd i hånd, mand og kvinde hånd i hånd: medium til lys teint og lys teint, medium til lys teint, par
+👫🏼	mand og kvinde hånd i hånd, mand og kvinde hånd i hånd: medium til lys teint, medium til lys teint, par
+👩🏼‍🤝‍👨🏽	mand og kvinde hånd i hånd, mand og kvinde hånd i hånd: medium til lys teint og medium teint, medium teint, medium til lys teint, par
+👩🏼‍🤝‍👨🏾	mand og kvinde hånd i hånd, mand og kvinde hånd i hånd: medium til lys teint og medium til mørk teint, medium til lys teint, medium til mørk teint, par
+👩🏼‍🤝‍👨🏿	mand og kvinde hånd i hånd, mand og kvinde hånd i hånd: medium til lys teint og mørk teint, medium til lys teint, mørk teint, par
+👩🏽‍🤝‍👨🏻	lys teint, mand og kvinde hånd i hånd, mand og kvinde hånd i hånd: medium teint og lys teint, medium teint, par
+👩🏽‍🤝‍👨🏼	mand og kvinde hånd i hånd, mand og kvinde hånd i hånd: medium teint og medium til lys teint, medium teint, medium til lys teint, par
+👫🏽	mand og kvinde hånd i hånd, mand og kvinde hånd i hånd: medium teint, medium teint, par
+👩🏽‍🤝‍👨🏾	mand og kvinde hånd i hånd, mand og kvinde hånd i hånd: medium teint og medium til mørk teint, medium teint, medium til mørk teint, par
+👩🏽‍🤝‍👨🏿	mand og kvinde hånd i hånd, mand og kvinde hånd i hånd: medium teint og mørk teint, medium teint, mørk teint, par
+👩🏾‍🤝‍👨🏻	lys teint, mand og kvinde hånd i hånd, mand og kvinde hånd i hånd: medium til mørk teint og lys teint, medium til mørk teint, par
+👩🏾‍🤝‍👨🏼	mand og kvinde hånd i hånd, mand og kvinde hånd i hånd: medium til mørk teint og medium til lys teint, medium til lys teint, medium til mørk teint, par
+👩🏾‍🤝‍👨🏽	mand og kvinde hånd i hånd, mand og kvinde hånd i hånd: medium til mørk teint og medium teint, medium teint, medium til mørk teint, par
+👫🏾	mand og kvinde hånd i hånd, mand og kvinde hånd i hånd: medium til mørk teint, medium til mørk teint, par
+👩🏾‍🤝‍👨🏿	mand og kvinde hånd i hånd, mand og kvinde hånd i hånd: medium til mørk teint og mørk teint, medium til mørk teint, mørk teint, par
+👩🏿‍🤝‍👨🏻	lys teint, mand og kvinde hånd i hånd, mand og kvinde hånd i hånd: mørk teint og lys teint, mørk teint, par
+👩🏿‍🤝‍👨🏼	mand og kvinde hånd i hånd, mand og kvinde hånd i hånd: mørk teint og medium til lys teint, medium til lys teint, mørk teint, par
+👩🏿‍🤝‍👨🏽	mand og kvinde hånd i hånd, mand og kvinde hånd i hånd: mørk teint og medium teint, medium teint, mørk teint, par
+👩🏿‍🤝‍👨🏾	mand og kvinde hånd i hånd, mand og kvinde hånd i hånd: mørk teint og medium til mørk teint, medium til mørk teint, mørk teint, par
+👫🏿	mand og kvinde hånd i hånd, mand og kvinde hånd i hånd: mørk teint, mørk teint, par
+👬	hånd i hånd, mand, mænd, par, stjernetegn, to mænd hånd i hånd, tvillingen, tvillinger
+👬🏻	hånd i hånd, lys teint, mand, mænd, par, stjernetegn, to mænd hånd i hånd, to mænd hånd i hånd: lys teint, tvillingen, tvillinger
+👨🏼‍🤝‍👨🏻	hånd i hånd, lys teint, mand, medium til lys teint, mænd, par, stjernetegn, to mænd hånd i hånd, to mænd hånd i hånd: medium til lys teint og lys teint, tvillingen, tvillinger
+👬🏼	hånd i hånd, mand, medium til lys teint, mænd, par, stjernetegn, to mænd hånd i hånd, to mænd hånd i hånd: medium til lys teint, tvillingen, tvillinger
+👨🏽‍🤝‍👨🏻	hånd i hånd, lys teint, mand, medium teint, mænd, par, stjernetegn, to mænd hånd i hånd, to mænd hånd i hånd: medium teint og lys teint, tvillingen, tvillinger
+👨🏽‍🤝‍👨🏼	hånd i hånd, mand, medium teint, medium til lys teint, mænd, par, stjernetegn, to mænd hånd i hånd, to mænd hånd i hånd: medium teint og medium til lys teint, tvillingen, tvillinger
+👬🏽	hånd i hånd, mand, medium teint, mænd, par, stjernetegn, to mænd hånd i hånd, to mænd hånd i hånd: medium teint, tvillingen, tvillinger
+👨🏾‍🤝‍👨🏻	hånd i hånd, lys teint, mand, medium til mørk teint, mænd, par, stjernetegn, to mænd hånd i hånd, to mænd hånd i hånd: medium til mørk teint og lys teint, tvillingen, tvillinger
+👨🏾‍🤝‍👨🏼	hånd i hånd, mand, medium til lys teint, medium til mørk teint, mænd, par, stjernetegn, to mænd hånd i hånd, to mænd hånd i hånd: medium til mørk teint og medium til lys teint, tvillingen, tvillinger
+👨🏾‍🤝‍👨🏽	hånd i hånd, mand, medium teint, medium til mørk teint, mænd, par, stjernetegn, to mænd hånd i hånd, to mænd hånd i hånd: medium til mørk teint og medium teint, tvillingen, tvillinger
+👬🏾	hånd i hånd, mand, medium til mørk teint, mænd, par, stjernetegn, to mænd hånd i hånd, to mænd hånd i hånd: medium til mørk teint, tvillingen, tvillinger
+👨🏿‍🤝‍👨🏻	hånd i hånd, lys teint, mand, mænd, mørk teint, par, stjernetegn, to mænd hånd i hånd, to mænd hånd i hånd: mørk teint og lys teint, tvillingen, tvillinger
+👨🏿‍🤝‍👨🏼	hånd i hånd, mand, medium til lys teint, mænd, mørk teint, par, stjernetegn, to mænd hånd i hånd, to mænd hånd i hånd: mørk teint og medium til lys teint, tvillingen, tvillinger
+👨🏿‍🤝‍👨🏽	hånd i hånd, mand, medium teint, mænd, mørk teint, par, stjernetegn, to mænd hånd i hånd, to mænd hånd i hånd: mørk teint og medium teint, tvillingen, tvillinger
+👨🏿‍🤝‍👨🏾	hånd i hånd, mand, medium til mørk teint, mænd, mørk teint, par, stjernetegn, to mænd hånd i hånd, to mænd hånd i hånd: mørk teint og medium til mørk teint, tvillingen, tvillinger
+👬🏿	hånd i hånd, mand, mænd, mørk teint, par, stjernetegn, to mænd hånd i hånd, to mænd hånd i hånd: mørk teint, tvillingen, tvillinger
 💏	kys, kærlighed, par med hjerte, romantik
 👩‍❤‍💋‍👨	kvinde, kys, kys: kvinde og mand, kærlighed, mand, par med hjerte, romantik
 👨‍❤‍💋‍👨	kys, kys: mand og mand, kærlighed, mand, par med hjerte, romantik
@@ -1582,11 +1760,14 @@
 🐵	abe, abehoved, dyr, hoved
 🐒	abe, dyr
 🦍	abe, dyr, gorilla, hoved
+🦧	abe, orangutang
 🐶	dyr, hoved, hund, hundehoved, kæledyr
 🐕️	dyr, hund, kæledyr
+🦮	adgang, blind, førerhund
+🐕‍🦺	adgang, førerhund, hjælp, hund, servicehund
 🐩	dyr, hund, puddel
-🐺	dyr, hoved, ulv, ulvehoved
-🦊	dyr, hoved, listig, ræv, rævehoved, snedig
+🐺	ulv, ulvehoved
+🦊	ræv, rævehoved
 🦝	nysgerrig, snu, vaskebjørn
 🐱	dyr, hoved, kat, kattehoved
 🐈️	dyr, kat, kæledyr
@@ -1620,15 +1801,18 @@
 🐭	dyr, hoved, mus, musehoved
 🐁	dyr, mus
 🐀	dyr, rotte
-🐹	dyr, hamster, hamsterhoved, hoved
+🐹	hamster, hamsterhoved, kæledyr
 🐰	dyr, hoved, kanin, kaninhoved
 🐇	dyr, kanin
 🐿️	egern, jordegern
 🦔	pigge, pindsvin
 🦇	dyr, flagermus, nat, vampyr
-🐻	bjørn, bjørnehoved, dyr, hoved
+🐻	bjørn, bjørnehoved
 🐨	dyr, koala
-🐼	dyr, hoved, panda, pandahoved
+🐼	panda, pandahoved
+🦥	doven, dovendyr, langsom
+🦦	fisker, legesyg, odder
+🦨	stank, stinkdyr
 🦘	Australien, hop, kænguru, pungdyr
 🦡	grævling, honninggrævling, plage
 🐾	dyr, poteaftryk, spor
@@ -1645,9 +1829,10 @@
 🦆	and, andrik, dyr, fugl, svømmefugl
 🦢	fugl, grim ælling, svane, svaneunge
 🦉	dyr, fugl, klog, klogskab, ugle, vis, visdom
+🦩	flamboyant, flamingo, tropisk
 🦚	fugl, prangende, påfugl, påfuglehøne, stolt
 🦜	fugl, papegøje, sørøver, tale
-🐸	dyr, frø, frøhoved, hoved
+🐸	frø, frøhoved
 🐊	dyr, krokodille
 🐢	dyr, skildpadde
 🦎	dyr, firben, krybdyr, reptil
@@ -1725,6 +1910,8 @@
 🥒	agurk, grøntsag, mad, pickle
 🥬	bladgrønt, grønkål, kål, pak choi, salat
 🥦	broccoli, kål
+🧄	hvidløg, smag
+🧅	give smag, løg
 🍄	plante, svamp
 🥜	jordnød, jordnødder, nød, nødder, peanut, peanuts, snack
 🌰	kastanje, plante
@@ -1734,6 +1921,7 @@
 🥨	kringle, saltkringle
 🥯	bagel, bagværk
 🥞	crêpe, mad, pandekage, pandekager
+🧇	jern, ubeslutsom, vaffel
 🧀	et stykke ost, ost
 🍖	kød, kødben
 🍗	kylling, kyllingelår
@@ -1747,6 +1935,7 @@
 🌮	mexicansk, taco
 🌯	burrito, mexicansk
 🥙	falafel, fladbrød, fyld, fyldt, fyldt pitabrød, gyros, kebab, mad, pandekage med fyld, pita
+🧆	falafel, kikært, kødbolle
 🥚	mad, æg
 🍳	madlavning, spejlæg, stegepande, stegepande med æg
 🥘	mad, paella, pande, pande med mad, pandestegt, steger
@@ -1754,6 +1943,7 @@
 🥣	havregrød, morgenmad, mysli, ske i skål
 🥗	grøn, grøn salat, mad, salat
 🍿	popcorn
+🧈	mejeriprodukt, smør
 🧂	krydderi, salt, saltbøsse
 🥫	dåse, dåsemad, konserves
 🍱	bento, bentoboks, boks
@@ -1777,6 +1967,7 @@
 🦞	bisque, hummer, kløer, skaldyr
 🦐	dyr, havdyr, mad, reje, skaldyr
 🦑	arme, blæk, blæksprutte, bløddyr, dyr, flerarmet, havdyr, mad, multitasking, sprutte
+🦪	dykke, perle, østers
 🍦	is, softice
 🍧	is, isdessert, slush ice, snow cone
 🍨	is, isdessert
@@ -1805,6 +1996,9 @@
 🥂	drikke, fejring, glas, skål, skåle
 🥃	fladbundet glas, shotglas, shots, spiritus, sprut, whisky
 🥤	bæger, bæger med sugerør, glas med sugerør, sugerør
+🧃	brik, juicebrik
+🧉	drik, mate
+🧊	isbjerg, isterning, kold
 🥢	asiatisk, spisepinde
 🍽️	gaffel, kniv, kniv og gaffel med tallerken, madlavning, tallerken
 🍴	bestik, gaffel, kniv, kniv og gaffel
@@ -1853,6 +2047,7 @@
 🗽	Frihedsgudinden, frihed, gudinde
 ⛪️	bygning, kirke, kors, kristen, religion
 🕌	islam, moské, muslim, religion
+🛕	hindu, hindutempel, tempel
 🕍	jøde, jødisk, religion, synagoge, tempel
 ⛩️	Shinto-helligdom, alter, religion, shinto
 🕋	Kabaen, islam, muslim, religion
@@ -1903,6 +2098,9 @@
 🏎️	bil, racerbil, racerløb
 🏍️	motorcykel, racerløb
 🛵	scooter, transportmiddel
+🦽	handikap, manuel kørestol
+🦼	elektrisk kørestol, handikap
+🛺	motor-rickshaw, tuk tuk
 🚲️	cykel, tohjulet
 🛴	løbehjul, transportmiddel
 🛹	bræt, skateboard
@@ -1928,6 +2126,7 @@
 🛩️	fly, lille fly, lille flyvemaskine
 🛫	afgang, afrejse, fartøj, fly, flyafgang, indtjekning
 🛬	ankomme, ankomst, fartøj, fly, flyankomst, landing
+🪂	faldskærm, hangglider, paraglider, skydiver
 💺	plads, stol, sæde
 🚁	fartøj, helikopter
 🚟	fartøj, hængende, luftbane, togbane
@@ -1985,6 +2184,7 @@
 ☀️	lys, sol, solskin, stråler, vejr
 🌝	fuldmåne, fuldmåne med ansigt, fuldmåneansigt, måne med ansigt, måneansigt
 🌞	ansigt, sol, sol med ansigt
+🪐	Saturn, planet med ringe
 ⭐️	stjerne
 🌟	blinkende stjerne, lysende stjerne, lyser, skinner, stjerneskin
 🌠	stjerne, stjerneskud
@@ -2064,11 +2264,14 @@
 ⛳️	golf, golfhul med flag
 ⛸️	is, skøjte
 🎣	fiskeri, fiskestang, fiskestang med fisk
+🤿	dykke, dykkermaske, maske, snorkel
 🎽	løbe, løbetrøje, løbetrøje med bånd
 🎿	ski, skisport
 🛷	kælk, slæde
 🥌	curlingsten, spil, sten
 🎯	plet, pletskud
+🪀	legetøj, yoyo
+🪁	flyve, legetøjsdrage, svæve
 🎱	billard, billardkugle, pool
 🔮	krystalkugle, spådom, spådomskunst
 🧿	det onde øje, lykkebringer, nazar, nazaramulet, perle, talisman
@@ -2076,7 +2279,7 @@
 🕹️	joystick, spil, videospil
 🎰	spil, spillemaskine
 🎲	terning, terningspil
-🧩	brik, puslespil, sammenhængende, spor
+🧩	brik, brik til puslespil, puslespil, sammenhængende, spor
 🧸	bamse, bjørn, legetøj, plys
 ♠️	kort, spar, spil
 ♥️	hjerter, kort, spil
@@ -2095,6 +2298,7 @@
 🕶️	briller, mørk, solbriller, øje
 🥽	sikkerhedsbriller, svejse, svømme, øjenbeskyttelse
 🥼	eksperiment, forsker, kittel, læge
+🦺	nødsituation, sikkerhed, sikkerhedsvest, vest
 👔	beklædning, slips
 👕	T-shirt, beklædning, bluse, trøje
 👖	beklædning, bukser, jeans
@@ -2104,6 +2308,10 @@
 🧦	beklædning, sokker, strømper
 👗	beklædning, kjole
 👘	beklædning, kimono, kåbe
+🥻	kjole, sari, tøj
+🩱	badedragt
+🩲	badebukser, badetøj, bikiniunderdel, undertøj
+🩳	badebukser, shorts, underbukser
 👙	badetøj, beklædning, bikini
 👚	beklædning, bluse
 👛	pengepung, pung
@@ -2117,6 +2325,7 @@
 🥿	ballerina, damesko, flad sko, slippers
 👠	høje hæle, højhælet sko, sko, stiletter
 👡	damesandal, sandaler
+🩰	ballet, balletsko, dans
 👢	damestøvle, støvler
 👑	diadem, dronning, konge, krone
 👒	beklædning, damehat, hat
@@ -2151,6 +2360,7 @@
 🎹	instrument, keyboard, klaver, musik, musikinstrument
 🎺	instrument, musik, musikinstrument, trompet
 🎻	instrument, musik, musikinstrument, strengeinstrument, violin
+🪕	banjo, musik, strengeinstrument
 🥁	musik, rytme, tromme, trommestikker
 📱	mobil, mobiltelefon
 📲	indgående opkald, lav et opkald, mobil med pil, modtag et opkald
@@ -2186,6 +2396,7 @@
 💡	elpære, ide, idé, lys ide
 🔦	lommelygte, lygte
 🏮	lanterne, papirlanterne, rød lygte
+🪔	diya, diya-lampe, lampe, olielampe
 📔	notesbog, notesbog med udsmykning
 📕	bog, lukket bog
 📖	bog, læse, åben bog
@@ -2264,6 +2475,7 @@
 🔑	adgangskode, nøgle, password
 🗝️	gammel, gammel nøgle, lås, nøgle
 🔨	hammer, værktøj
+🪓	kløve brænde, træ, økse
 ⛏️	hakke, mine, værktøj
 ⚒️	hakke, hammer, hammer og hakke, værktøj
 🛠️	hammer, hammer og skruenøgle, skruenøgle, svensknøgle, værktøj
@@ -2277,6 +2489,7 @@
 ⚙️	gear, tandhjul, værktøj
 🗜️	skruestik, skruetvinge, værktøj
 ⚖️	balance, jura, retfærdighed, stjernetegn, vægt, værktøj
+🦯	blind, blindestok, handicap
 🔗	link, link-tegn
 ⛓️	kæde, kæder
 🧰	håndværker, mekaniker, værktøj, værktøjskasse
@@ -2289,13 +2502,18 @@
 🔭	astronomi, redskab, teleskop, videnskab, værktøj
 📡	parabol, parabolantenne, satellit
 💉	indsprøjtning, injektion, læge, medicin, sprøjte
+🩸	bloddråbe
 💊	læge, medicin, pille
+🩹	plaster
+🩺	stetoskop
 🚪	dør, lukket dør
 🛏️	hotel, seng, sove
 🛋️	hotel, lampe, sofa, sofa og lampe
+🪑	stol
 🚽	toilet, wc
 🚿	bad, brusebad
 🛁	bad, badekar, karbad
+🪒	ragekniv
 🧴	bodylotion, fugtighedscreme, lotion, shampoo, solcreme
 🧷	ble, punk-rock, sikkerhedsnål
 🧹	feje, heks, kost, rengøring
@@ -2416,23 +2634,23 @@
 🔰	grønt og gult, japansk begyndersymbol
 ⭕️	cirkel, o, stor kraftig cirkel
 ✅	hvidt flueben, markering
-☑️	afkrydsning, afkrydsningsfelt med flueben, flueben, markere, stemme
-✔️	flueben, stort flueben
-✖️	annuller, gange, gangetegn, multiplicer, multiplikation, stort kryds, x
-❌	annuller, gange, kryds, multiplicer, multiplikation, mærke, x
+☑️	afkrydsningsfelt med flueben, felt, flueben, ✓
+✔️	flueben, markering, ✓
+✖️	annuller, gange, multiplikation, multiplikationstegn, tegn, x, ×
+❌	annuller, gange, kryds, markering, multiplikation, x, ×
 ❎	krydsknap, kvadrat, mærke, x
-➕	plus, plustegn
-➖	minus, minustegn
-➗	division, divisionstegn
+➕	+, matematik, plus, plustegn, tegn
+➖	-, matematik, minus, minustegn, tegn, −
+➗	division, divisionstegn, matematik, tegn, ÷
 ➰	krølle, loop, løkke
 ➿	dobbelt, dobbelt krølle, krølle, loop, løkke
 〽️	del, japansk, japansk kommatering, kommatering
-✳️	asterisk, ottetakket spids stjerne, stjerne
-✴️	ottetakket stjerne, stjerne
-❇️	funkle, funklen, glans, glitter, stråle
-‼️	dobbelt udråbstegn, tegnsætning, udråbstegn
+✳️	*, asterisk, ottetakket spids stjerne
+✴️	*, ottetakket stjerne, stjerne
+❇️	*, funkle
+‼️	!, !!, dobbelt udråbstegn, tegnsætning, udråbstegn
 ⁉️	spørgsmål, tegn, tegnsætning, udråbstegn, udråbstegn og spørgsmålstegn
-❓️	spørgsmål, spørgsmålstegn, tegn, tegnsætning
+❓️	?, spørgsmål, spørgsmålstegn, tegn, tegnsætning
 ❔	hvidt spørgsmålstegn, omrids, spørgsmål, tegn, tegnsætning
 ❕	hvidt udråbstegn, omrids, tegnsætning, udråb, udråbstegn
 ❗️	tegnsætning, udråbstegn
@@ -2493,9 +2711,21 @@
 🈺	japansk, kvadratisk ideogram for åben
 🈵	japansk, kvadratisk ideogram for optaget
 🔴	cirkel, geometrisk, rød, rød cirkel
+🟠	orange cirkel
+🟡	gul cirkel
+🟢	grøn cirkel
 🔵	blå, blå cirkel, cirkel, geometrisk
+🟣	lille cirkel
+🟤	brun cirkel
 ⚫️	cirkel, geometrisk, sort cirkel
 ⚪️	cirkel, geometrisk, hvid cirkel
+🟥	firkant, rød, rød firkant
+🟧	firkant, orange, orange firkant
+🟨	firkant, gul, gul firkant
+🟩	firkant, grøn, grøn firkant
+🟦	blå, blå firkant, firkant
+🟪	firkant, lilla, lilla firkant
+🟫	brun, brun firkant, firkant
 ⬛️	geometrisk, kvadrat, stort sort kvadrat
 ⬜️	geometrisk, kvadrat, stort hvidt kvadrat
 ◼️	geometrisk, kvadrat, mellemstort sort kvadrat
@@ -2739,11 +2969,11 @@
 🇸🇻	flag, flag: El Salvador
 🇸🇽	flag, flag: Sint Maarten
 🇸🇾	flag, flag: Syrien
-🇸🇿	flag, flag: Swaziland
+🇸🇿	flag, flag: Eswatini
 🇹🇦	flag, flag: Tristan da Cunha
 🇹🇨	flag, flag: Turks- og Caicosøerne
 🇹🇩	flag, flag: Tchad
-🇹🇫	flag, flag: De franske besiddelser i Det Sydlige Indiske Ocean
+🇹🇫	flag, flag: De Franske Besiddelser i Det Sydlige Indiske Ocean
 🇹🇬	flag, flag: Togo
 🇹🇭	flag, flag: Thailand
 🇹🇯	flag, flag: Tadsjikistan

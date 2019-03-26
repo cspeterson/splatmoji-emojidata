@@ -83,6 +83,7 @@
 😓	cara, cara amb suor freda, suor freda
 😩	cara, cara d’esgotament, esgotada, esgotament, esgotat
 😫	cansament, cara, cara de cansament
+🥱	avorriment, badall, cansament, cara que badalla
 😤	cara, cara que treu fum del nas, fum, nas, victòria
 😡	cara, cara enutjada, cara vermella, enutjada, enutjat
 😠	cara, cara enfadada, enfadada, enfadat
@@ -129,7 +130,9 @@
 💚	cor, cor verd
 💙	cor, cor blau
 💜	cor, cor lila
+🤎	cor, cor marró, marró
 🖤	cor, cor negre
+🤍	blanc, cor, cor blanc
 💯	100, 100 punts, cent punts, punts, puntuació
 💢	còmic, enfadat, enuig, malhumorat, símbol d’enuig
 💥	col·lisió, còmic, esclat
@@ -180,6 +183,12 @@
 👌🏽	acceptació, mà, mà d’acceptació, ok, pell morena, senyal d’aprovació, senyal d’aprovació amb la mà, senyal d’aprovació amb la mà: pell morena
 👌🏾	acceptació, mà, mà d’acceptació, ok, pell fosca, senyal d’aprovació, senyal d’aprovació amb la mà, senyal d’aprovació amb la mà: pell fosca
 👌🏿	acceptació, mà, mà d’acceptació, ok, pell molt fosca, senyal d’aprovació, senyal d’aprovació amb la mà, senyal d’aprovació amb la mà: pell molt fosca
+🤏	mà que pessiga, quantitat petita
+🤏🏻	mà que pessiga, mà que pessiga: pell molt clara, pell molt clara, quantitat petita
+🤏🏼	mà que pessiga, mà que pessiga: pell bastant clara, pell bastant clara, quantitat petita
+🤏🏽	mà que pessiga, mà que pessiga: pell morena, pell morena, quantitat petita
+🤏🏾	mà que pessiga, mà que pessiga: pell fosca, pell fosca, quantitat petita
+🤏🏿	mà que pessiga, mà que pessiga: pell molt fosca, pell molt fosca, quantitat petita
 ✌️	senyal, senyal de la victòria, victòria
 ✌🏻	pell molt clara, senyal, senyal de la victòria, senyal de la victòria: pell molt clara, victòria
 ✌🏼	pell bastant clara, senyal, senyal de la victòria, senyal de la victòria: pell bastant clara, victòria
@@ -337,6 +346,8 @@
 💪🏽	bíceps, bíceps tensat, bíceps tensat: pell morena, flexió de bíceps, forçut, múscul, pell morena
 💪🏾	bíceps, bíceps tensat, bíceps tensat: pell fosca, flexió de bíceps, forçut, múscul, pell fosca
 💪🏿	bíceps, bíceps tensat, bíceps tensat: pell molt fosca, flexió de bíceps, forçut, múscul, pell molt fosca
+🦾	accessibilitat, pròtesi, pròtesi de braç
+🦿	accessibilitat, pr`òtesi de cama, pròtesi
 🦵	cama, extremitat, puntada de peu
 🦵🏻	cama, cama: pell molt clara, extremitat, pell molt clara, puntada de peu
 🦵🏼	cama, cama: pell bastant clara, extremitat, pell bastant clara, puntada de peu
@@ -355,6 +366,12 @@
 👂🏽	cos, orella, orella: pell morena, pell morena
 👂🏾	cos, orella, orella: pell fosca, pell fosca
 👂🏿	cos, orella, orella: pell molt fosca, pell molt fosca
+🦻	accessibilitat, orella amb audiòfon, problema d’audició
+🦻🏻	accessibilitat, orella amb audiòfon, orella amb audiòfon: pell molt clara, pell molt clara, problema d’audició
+🦻🏼	accessibilitat, orella amb audiòfon, orella amb audiòfon: pell bastant clara, pell bastant clara, problema d’audició
+🦻🏽	accessibilitat, orella amb audiòfon, orella amb audiòfon: pell morena, pell morena, problema d’audició
+🦻🏾	accessibilitat, orella amb audiòfon, orella amb audiòfon: pell fosca, pell fosca, problema d’audició
+🦻🏿	accessibilitat, orella amb audiòfon, orella amb audiòfon: pell molt fosca, pell molt fosca, problema d’audició
 👃	cos, nas
 👃🏻	cos, nas, nas: pell molt clara, pell molt clara
 👃🏼	cos, nas, nas: pell bastant clara, pell bastant clara
@@ -608,6 +625,24 @@
 🙋🏽‍♀	dona, dona amb la mà aixecada, dona amb la mà aixecada: pell morena, femení, gest, mà, pell morena
 🙋🏾‍♀	dona, dona amb la mà aixecada, dona amb la mà aixecada: pell fosca, femení, gest, mà, pell fosca
 🙋🏿‍♀	dona, dona amb la mà aixecada, dona amb la mà aixecada: pell molt fosca, femení, gest, mà, pell molt fosca
+🧏	accessibilitat, oïda, persona sorda, sentir, sord
+🧏🏻	accessibilitat, oïda, pell molt clara, persona sorda, persona sorda: pell molt clara, sentir, sord
+🧏🏼	accessibilitat, oïda, pell bastant clara, persona sorda, persona sorda: pell bastant clara, sentir, sord
+🧏🏽	accessibilitat, oïda, pell morena, persona sorda, persona sorda: pell morena, sentir, sord
+🧏🏾	accessibilitat, oïda, pell fosca, persona sorda, persona sorda: pell fosca, sentir, sord
+🧏🏿	accessibilitat, oïda, pell molt fosca, persona sorda, persona sorda: pell molt fosca, sentir, sord
+🧏‍♂	home, home sord, sord
+🧏🏻‍♂	home, home sord: pell molt clara, pell molt clara, sord
+🧏🏼‍♂	home, home sord: pell bastant clara, pell bastant clara, sord
+🧏🏽‍♂	home, home sord: pell morena, pell morena, sord
+🧏🏾‍♂	home, home sord: pell fosca, pell fosca, sord
+🧏🏿‍♂	home, home sord: pell molt fosca, pell molt fosca, sord
+🧏‍♀	dona, dona sorda, sorda
+🧏🏻‍♀	dona, dona sorda: pell molt clara, pell molt clara, sorda
+🧏🏼‍♀	dona, dona sorda: pell bastant clara, pell bastant clara, sorda
+🧏🏽‍♀	dona, dona sorda: pell morena, pell morena, sorda
+🧏🏾‍♀	dona, dona sorda: pell fosca, pell fosca, sorda
+🧏🏿‍♀	dona, dona sorda: pell molt fosca, pell molt fosca, sorda
 🙇	disculpa, gest, persona capcota, reverència
 🙇🏻	disculpa, gest, pell molt clara, persona capcota, persona capcota: pell molt clara, reverència
 🙇🏼	disculpa, gest, pell bastant clara, persona capcota, persona capcota: pell bastant clara, reverència
@@ -1196,6 +1231,78 @@
 🚶🏽‍♀	caminada, dona, dona caminant, dona que camina, dona que camina: pell morena, femení, passejada, pell morena
 🚶🏾‍♀	caminada, dona, dona caminant, dona que camina, dona que camina: pell fosca, femení, passejada, pell fosca
 🚶🏿‍♀	caminada, dona, dona caminant, dona que camina, dona que camina: pell molt fosca, femení, passejada, pell molt fosca
+🧍	dempeus, dret, dreta, persona dreta
+🧍🏻	dempeus, dret, dreta, pell molt clara, persona dreta, persona dreta: pell molt clara
+🧍🏼	dempeus, dret, dreta, pell bastant clara, persona dreta, persona dreta: pell bastant clara
+🧍🏽	dempeus, dret, dreta, pell morena, persona dreta, persona dreta: pell morena
+🧍🏾	dempeus, dret, dreta, pell fosca, persona dreta, persona dreta: pell fosca
+🧍🏿	dempeus, dret, dreta, pell molt fosca, persona dreta, persona dreta: pell molt fosca
+🧍‍♂	dempeus, dret, home, home dret
+🧍🏻‍♂	dempeus, dret, home, home dret: pell molt clara, pell molt clara
+🧍🏼‍♂	dempeus, dret, home, home dret: pell bastant clara, pell bastant clara
+🧍🏽‍♂	dempeus, dret, home, home dret: pell morena, pell morena
+🧍🏾‍♂	dempeus, dret, home, home dret: pell fosca, pell fosca
+🧍🏿‍♂	dempeus, dret, home, home dret: pell molt fosca, pell molt fosca
+🧍‍♀	dempeus, dona, dona dreta, dreta
+🧍🏻‍♀	dempeus, dona, dona dreta: pell molt clara, dreta, pell molt clara
+🧍🏼‍♀	dempeus, dona, dona dreta: pell bastant clara, dreta, pell bastant clara
+🧍🏽‍♀	dempeus, dona, dona dreta: pell morena, dreta, pell morena
+🧍🏾‍♀	dempeus, dona, dona dreta: pell fosca, dreta, pell fosca
+🧍🏿‍♀	dempeus, dona, dona dreta: pell molt fosca, dreta, pell molt fosca
+🧎	agenollada, agenollat, de genolls, genoll, persona agenollada
+🧎🏻	agenollada, agenollat, de genolls, genoll, pell molt clara, persona agenollada, persona agenollada: pell molt clara
+🧎🏼	agenollada, agenollat, de genolls, genoll, pell bastant clara, persona agenollada, persona agenollada: pell bastant clara
+🧎🏽	agenollada, agenollat, de genolls, genoll, pell morena, persona agenollada, persona agenollada: pell morena
+🧎🏾	agenollada, agenollat, de genolls, genoll, pell fosca, persona agenollada, persona agenollada: pell fosca
+🧎🏿	agenollada, agenollat, de genolls, genoll, pell molt fosca, persona agenollada, persona agenollada: pell molt fosca
+🧎‍♂	agenollat, de genolls, home, home agenollat
+🧎🏻‍♂	agenollat, de genolls, home, home agenollat: pell molt clara, pell molt clara
+🧎🏼‍♂	agenollat, de genolls, home, home agenollat: pell bastant clara, pell bastant clara
+🧎🏽‍♂	agenollat, de genolls, home, home agenollat: pell morena, pell morena
+🧎🏾‍♂	agenollat, de genolls, home, home agenollat: pell fosca, pell fosca
+🧎🏿‍♂	agenollat, de genolls, home, home agenollat: pell molt fosca, pell molt fosca
+🧎‍♀	agenollada, de genolls, dona, dona agenollada
+🧎🏻‍♀	agenollada, de genolls, dona, dona agenollada: pell molt clara, pell molt clara
+🧎🏼‍♀	agenollada, de genolls, dona, dona agenollada: pell bastant clara, pell bastant clara
+🧎🏽‍♀	agenollada, de genolls, dona, dona agenollada: pell morena, pell morena
+🧎🏾‍♀	agenollada, de genolls, dona, dona agenollada: pell fosca, pell fosca
+🧎🏿‍♀	agenollada, de genolls, dona, dona agenollada: pell molt fosca, pell molt fosca
+👨‍🦯	accessibilitat, home, home amb un bastó per a invidents, invident
+👨🏻‍🦯	accessibilitat, home, home amb un bastó per a invidents, home amb un bastó per a invidents: pell molt clara, invident, pell molt clara
+👨🏼‍🦯	accessibilitat, home, home amb un bastó per a invidents, home amb un bastó per a invidents: pell bastant clara, invident, pell bastant clara
+👨🏽‍🦯	accessibilitat, home, home amb un bastó per a invidents, home amb un bastó per a invidents: pell morena, invident, pell morena
+👨🏾‍🦯	accessibilitat, home, home amb un bastó per a invidents, home amb un bastó per a invidents: pell fosca, invident, pell fosca
+👨🏿‍🦯	accessibilitat, home, home amb un bastó per a invidents, home amb un bastó per a invidents: pell molt fosca, invident, pell molt fosca
+👩‍🦯	accessibilitat, dona, dona amb un bastó per a invidents, invident
+👩🏻‍🦯	accessibilitat, dona, dona amb un bastó per a invidents, dona amb un bastó per a invidents: pell molt clara, invident, pell molt clara
+👩🏼‍🦯	accessibilitat, dona, dona amb un bastó per a invidents, dona amb un bastó per a invidents: pell bastant clara, invident, pell bastant clara
+👩🏽‍🦯	accessibilitat, dona, dona amb un bastó per a invidents, dona amb un bastó per a invidents: pell morena, invident, pell morena
+👩🏾‍🦯	accessibilitat, dona, dona amb un bastó per a invidents, dona amb un bastó per a invidents: pell fosca, invident, pell fosca
+👩🏿‍🦯	accessibilitat, dona, dona amb un bastó per a invidents, dona amb un bastó per a invidents: pell molt fosca, invident, pell molt fosca
+👨‍🦼	accessibilitat, cadira de rodes, home, home amb una cadira de rodes elèctrica
+👨🏻‍🦼	accessibilitat, cadira de rodes, home, home amb una cadira de rodes elèctrica, home amb una cadira de rodes elèctrica: pell molt clara, pell molt clara
+👨🏼‍🦼	accessibilitat, cadira de rodes, home, home amb una cadira de rodes elèctrica, home amb una cadira de rodes elèctrica: pell bastant clara, pell bastant clara
+👨🏽‍🦼	accessibilitat, cadira de rodes, home, home amb una cadira de rodes elèctrica, home amb una cadira de rodes elèctrica: pell morena, pell morena
+👨🏾‍🦼	accessibilitat, cadira de rodes, home, home amb una cadira de rodes elèctrica, home amb una cadira de rodes elèctrica: pell fosca, pell fosca
+👨🏿‍🦼	accessibilitat, cadira de rodes, home, home amb una cadira de rodes elèctrica, home amb una cadira de rodes elèctrica: pell molt fosca, pell molt fosca
+👩‍🦼	accessibilitat, cadira de rodes, dona, dona amb una cadira de rodes elèctrica
+👩🏻‍🦼	accessibilitat, cadira de rodes, dona, dona amb una cadira de rodes elèctrica, dona amb una cadira de rodes elèctrica: pell molt clara, pell molt clara
+👩🏼‍🦼	accessibilitat, cadira de rodes, dona, dona amb una cadira de rodes elèctrica, dona amb una cadira de rodes elèctrica: pell bastant clara, pell bastant clara
+👩🏽‍🦼	accessibilitat, cadira de rodes, dona, dona amb una cadira de rodes elèctrica, dona amb una cadira de rodes elèctrica: pell morena, pell morena
+👩🏾‍🦼	accessibilitat, cadira de rodes, dona, dona amb una cadira de rodes elèctrica, dona amb una cadira de rodes elèctrica: pell fosca, pell fosca
+👩🏿‍🦼	accessibilitat, cadira de rodes, dona, dona amb una cadira de rodes elèctrica, dona amb una cadira de rodes elèctrica: pell molt fosca, pell molt fosca
+👨‍🦽	accessibilitat, cadira de rodes, home, home amb una cadira de rodes manual
+👨🏻‍🦽	accessibilitat, cadira de rodes, home, home amb una cadira de rodes manual, home amb una cadira de rodes manual: pell molt clara, pell molt clara
+👨🏼‍🦽	accessibilitat, cadira de rodes, home, home amb una cadira de rodes manual, home amb una cadira de rodes manual: pell bastant clara, pell bastant clara
+👨🏽‍🦽	accessibilitat, cadira de rodes, home, home amb una cadira de rodes manual, home amb una cadira de rodes manual: pell morena, pell morena
+👨🏾‍🦽	accessibilitat, cadira de rodes, home, home amb una cadira de rodes manual, home amb una cadira de rodes manual: pell fosca, pell fosca
+👨🏿‍🦽	accessibilitat, cadira de rodes, home, home amb una cadira de rodes manual, home amb una cadira de rodes manual: pell molt fosca, pell molt fosca
+👩‍🦽	accessibilitat, cadira de rodes, dona, dona amb una cadira de rodes manual
+👩🏻‍🦽	accessibilitat, cadira de rodes, dona, dona amb una cadira de rodes manual, dona amb una cadira de rodes manual: pell molt clara, pell molt clara
+👩🏼‍🦽	accessibilitat, cadira de rodes, dona, dona amb una cadira de rodes manual, dona amb una cadira de rodes manual: pell bastant clara, pell bastant clara
+👩🏽‍🦽	accessibilitat, cadira de rodes, dona, dona amb una cadira de rodes manual, dona amb una cadira de rodes manual: pell morena, pell morena
+👩🏾‍🦽	accessibilitat, cadira de rodes, dona, dona amb una cadira de rodes manual, dona amb una cadira de rodes manual: pell fosca, pell fosca
+👩🏿‍🦽	accessibilitat, cadira de rodes, dona, dona amb una cadira de rodes manual, dona amb una cadira de rodes manual: pell molt fosca, pell molt fosca
 🏃	corredor, marató, persona corrent, persona que corre
 🏃🏻	corredor, marató, pell molt clara, persona corrent, persona que corre, persona que corre: pell molt clara
 🏃🏼	corredor, marató, pell bastant clara, persona corrent, persona que corre, persona que corre: pell bastant clara
@@ -1534,9 +1641,80 @@
 🛌🏽	dormir, hotel, llit, pell morena, persona, persona al llit, persona al llit: pell morena
 🛌🏾	dormir, hotel, llit, pell fosca, persona, persona al llit, persona al llit: pell fosca
 🛌🏿	dormir, hotel, llit, pell molt fosca, persona, persona al llit, persona al llit: pell molt fosca
+🧑‍🤝‍🧑	agafar, agafar-se de la mà, mans agafades, mà, parella, persona, persones que s’agafen de la mà
+🧑🏻‍🤝‍🧑🏻	agafar, agafar-se de la mà, mans agafades, mà, parella, pell molt clara, persona, persones que s’agafen de la mà, persones que s’agafen de la mà: pell molt clara
+🧑🏼‍🤝‍🧑🏻	agafar, agafar-se de la mà, mans agafades, mà, parella, pell bastant clara, pell molt clara, persona, persones que s’agafen de la mà, persones que s’agafen de la mà: pell bastant clara i pell molt clara
+🧑🏼‍🤝‍🧑🏼	agafar, agafar-se de la mà, mans agafades, mà, parella, pell bastant clara, persona, persones que s’agafen de la mà, persones que s’agafen de la mà: pell bastant clara
+🧑🏽‍🤝‍🧑🏻	agafar, agafar-se de la mà, mans agafades, mà, parella, pell molt clara, pell morena, persona, persones que s’agafen de la mà, persones que s’agafen de la mà: pell morena i pell molt clara
+🧑🏽‍🤝‍🧑🏼	agafar, agafar-se de la mà, mans agafades, mà, parella, pell bastant clara, pell morena, persona, persones que s’agafen de la mà, persones que s’agafen de la mà: pell morena i pell bastant clara
+🧑🏽‍🤝‍🧑🏽	agafar, agafar-se de la mà, mans agafades, mà, parella, pell morena, persona, persones que s’agafen de la mà, persones que s’agafen de la mà: pell morena
+🧑🏾‍🤝‍🧑🏻	agafar, agafar-se de la mà, mans agafades, mà, parella, pell fosca, pell molt clara, persona, persones que s’agafen de la mà, persones que s’agafen de la mà: pell fosca i pell molt clara
+🧑🏾‍🤝‍🧑🏼	agafar, agafar-se de la mà, mans agafades, mà, parella, pell bastant clara, pell fosca, persona, persones que s’agafen de la mà, persones que s’agafen de la mà: pell fosca i pell bastant clara
+🧑🏾‍🤝‍🧑🏽	agafar, agafar-se de la mà, mans agafades, mà, parella, pell fosca, pell morena, persona, persones que s’agafen de la mà, persones que s’agafen de la mà: pell fosca i pell morena
+🧑🏾‍🤝‍🧑🏾	agafar, agafar-se de la mà, mans agafades, mà, parella, pell fosca, persona, persones que s’agafen de la mà, persones que s’agafen de la mà: pell fosca
+🧑🏿‍🤝‍🧑🏻	agafar, agafar-se de la mà, mans agafades, mà, parella, pell molt clara, pell molt fosca, persona, persones que s’agafen de la mà, persones que s’agafen de la mà: pell molt fosca i pell molt clara
+🧑🏿‍🤝‍🧑🏼	agafar, agafar-se de la mà, mans agafades, mà, parella, pell bastant clara, pell molt fosca, persona, persones que s’agafen de la mà, persones que s’agafen de la mà: pell molt fosca i pell bastant clara
+🧑🏿‍🤝‍🧑🏽	agafar, agafar-se de la mà, mans agafades, mà, parella, pell molt fosca, pell morena, persona, persones que s’agafen de la mà, persones que s’agafen de la mà: pell molt fosca i pell morena
+🧑🏿‍🤝‍🧑🏾	agafar, agafar-se de la mà, mans agafades, mà, parella, pell fosca, pell molt fosca, persona, persones que s’agafen de la mà, persones que s’agafen de la mà: pell molt fosca i pell fosca
+🧑🏿‍🤝‍🧑🏿	agafar, agafar-se de la mà, mans agafades, mà, parella, pell molt fosca, persona, persones que s’agafen de la mà, persones que s’agafen de la mà: pell molt fosca
 👭	dones, dones que s’agafen de la mà, mans agafades
+👭🏻	dones, dones que s’agafen de la mà, dones que s’agafen de la mà: pell molt clara, mans agafades, pell molt clara
+👩🏼‍🤝‍👩🏻	dones, dones que s’agafen de la mà, dones que s’agafen de la mà: pell bastant clara i pell molt clara, mans agafades, pell bastant clara, pell molt clara
+👭🏼	dones, dones que s’agafen de la mà, dones que s’agafen de la mà: pell bastant clara, mans agafades, pell bastant clara
+👩🏽‍🤝‍👩🏻	dones, dones que s’agafen de la mà, dones que s’agafen de la mà: pell morena i pell molt clara, mans agafades, pell molt clara, pell morena
+👩🏽‍🤝‍👩🏼	dones, dones que s’agafen de la mà, dones que s’agafen de la mà: pell morena i pell bastant clara, mans agafades, pell bastant clara, pell morena
+👭🏽	dones, dones que s’agafen de la mà, dones que s’agafen de la mà: pell morena, mans agafades, pell morena
+👩🏾‍🤝‍👩🏻	dones, dones que s’agafen de la mà, dones que s’agafen de la mà: pell fosca i pell molt clara, mans agafades, pell fosca, pell molt clara
+👩🏾‍🤝‍👩🏼	dones, dones que s’agafen de la mà, dones que s’agafen de la mà: pell fosca i pell bastant clara, mans agafades, pell bastant clara, pell fosca
+👩🏾‍🤝‍👩🏽	dones, dones que s’agafen de la mà, dones que s’agafen de la mà: pell fosca i pell morena, mans agafades, pell fosca, pell morena
+👭🏾	dones, dones que s’agafen de la mà, dones que s’agafen de la mà: pell fosca, mans agafades, pell fosca
+👩🏿‍🤝‍👩🏻	dones, dones que s’agafen de la mà, dones que s’agafen de la mà: pell molt fosca i pell molt clara, mans agafades, pell molt clara, pell molt fosca
+👩🏿‍🤝‍👩🏼	dones, dones que s’agafen de la mà, dones que s’agafen de la mà: pell molt fosca i pell bastant clara, mans agafades, pell bastant clara, pell molt fosca
+👩🏿‍🤝‍👩🏽	dones, dones que s’agafen de la mà, dones que s’agafen de la mà: pell molt fosca i pell morena, mans agafades, pell molt fosca, pell morena
+👩🏿‍🤝‍👩🏾	dones, dones que s’agafen de la mà, dones que s’agafen de la mà: pell molt fosca i pell fosca, mans agafades, pell fosca, pell molt fosca
+👭🏿	dones, dones que s’agafen de la mà, dones que s’agafen de la mà: pell molt fosca, mans agafades, pell molt fosca
 👫	dona, home, home i dona que s’agafen de la mà, mans agafades
+👫🏻	dona, home, home i dona que s’agafen de la mà, home i dona que s’agafen de la mà: pell molt clara, mans agafades, pell molt clara
+👩🏻‍🤝‍👨🏼	dona, home, home i dona que s’agafen de la mà, home i dona que s’agafen de la mà: pell molt clara i pell bastant clara, mans agafades, pell bastant clara, pell molt clara
+👩🏻‍🤝‍👨🏽	dona, home, home i dona que s’agafen de la mà, home i dona que s’agafen de la mà: pell molt clara i pell morena, mans agafades, pell molt clara, pell morena
+👩🏻‍🤝‍👨🏾	dona, home, home i dona que s’agafen de la mà, home i dona que s’agafen de la mà: pell molt clara i pell fosca, mans agafades, pell fosca, pell molt clara
+👩🏻‍🤝‍👨🏿	dona, home, home i dona que s’agafen de la mà, home i dona que s’agafen de la mà: pell molt clara i pell molt fosca, mans agafades, pell molt clara, pell molt fosca
+👩🏼‍🤝‍👨🏻	dona, home, home i dona que s’agafen de la mà, home i dona que s’agafen de la mà: pell bastant clara i pell molt clara, mans agafades, pell bastant clara, pell molt clara
+👫🏼	dona, home, home i dona que s’agafen de la mà, home i dona que s’agafen de la mà: pell bastant clara, mans agafades, pell bastant clara
+👩🏼‍🤝‍👨🏽	dona, home, home i dona que s’agafen de la mà, home i dona que s’agafen de la mà: pell bastant clara i pell morena, mans agafades, pell bastant clara, pell morena
+👩🏼‍🤝‍👨🏾	dona, home, home i dona que s’agafen de la mà, home i dona que s’agafen de la mà: pell bastant clara i pell fosca, mans agafades, pell bastant clara, pell fosca
+👩🏼‍🤝‍👨🏿	dona, home, home i dona que s’agafen de la mà, home i dona que s’agafen de la mà: pell bastant clara i pell molt fosca, mans agafades, pell bastant clara, pell molt fosca
+👩🏽‍🤝‍👨🏻	dona, home, home i dona que s’agafen de la mà, home i dona que s’agafen de la mà: pell morena i pell molt clara, mans agafades, pell molt clara, pell morena
+👩🏽‍🤝‍👨🏼	dona, home, home i dona que s’agafen de la mà, home i dona que s’agafen de la mà: pell morena i pell bastant clara, mans agafades, pell bastant clara, pell morena
+👫🏽	dona, home, home i dona que s’agafen de la mà, home i dona que s’agafen de la mà: pell morena, mans agafades, pell morena
+👩🏽‍🤝‍👨🏾	dona, home, home i dona que s’agafen de la mà, home i dona que s’agafen de la mà: pell morena i pell fosca, mans agafades, pell fosca, pell morena
+👩🏽‍🤝‍👨🏿	dona, home, home i dona que s’agafen de la mà, home i dona que s’agafen de la mà: pell morena i pell molt fosca, mans agafades, pell molt fosca, pell morena
+👩🏾‍🤝‍👨🏻	dona, home, home i dona que s’agafen de la mà, home i dona que s’agafen de la mà: pell fosca i pell molt clara, mans agafades, pell fosca, pell molt clara
+👩🏾‍🤝‍👨🏼	dona, home, home i dona que s’agafen de la mà, home i dona que s’agafen de la mà: pell fosca i pell bastant clara, mans agafades, pell bastant clara, pell fosca
+👩🏾‍🤝‍👨🏽	dona, home, home i dona que s’agafen de la mà, home i dona que s’agafen de la mà: pell fosca i pell morena, mans agafades, pell fosca, pell morena
+👫🏾	dona, home, home i dona que s’agafen de la mà, home i dona que s’agafen de la mà: pell fosca, mans agafades, pell fosca
+👩🏾‍🤝‍👨🏿	dona, home, home i dona que s’agafen de la mà, home i dona que s’agafen de la mà: pell fosca i pell molt fosca, mans agafades, pell fosca, pell molt fosca
+👩🏿‍🤝‍👨🏻	dona, home, home i dona que s’agafen de la mà, home i dona que s’agafen de la mà: pell molt fosca i pell molt clara, mans agafades, pell molt clara, pell molt fosca
+👩🏿‍🤝‍👨🏼	dona, home, home i dona que s’agafen de la mà, home i dona que s’agafen de la mà: pell molt fosca i pell bastant clara, mans agafades, pell bastant clara, pell molt fosca
+👩🏿‍🤝‍👨🏽	dona, home, home i dona que s’agafen de la mà, home i dona que s’agafen de la mà: pell molt fosca i pell morena, mans agafades, pell molt fosca, pell morena
+👩🏿‍🤝‍👨🏾	dona, home, home i dona que s’agafen de la mà, home i dona que s’agafen de la mà: pell molt fosca i pell fosca, mans agafades, pell fosca, pell molt fosca
+👫🏿	dona, home, home i dona que s’agafen de la mà, home i dona que s’agafen de la mà: pell molt fosca, mans agafades, pell molt fosca
 👬	homes, homes que s’agafen de la mà, mans agafades
+👬🏻	homes, homes que s’agafen de la mà, homes que s’agafen de la mà: pell molt clara, mans agafades, pell molt clara
+👨🏼‍🤝‍👨🏻	homes, homes que s’agafen de la mà, homes que s’agafen de la mà: pell bastant clara i pell molt clara, mans agafades, pell bastant clara, pell molt clara
+👬🏼	homes, homes que s’agafen de la mà, homes que s’agafen de la mà: pell bastant clara, mans agafades, pell bastant clara
+👨🏽‍🤝‍👨🏻	homes, homes que s’agafen de la mà, homes que s’agafen de la mà: pell morena i pell molt clara, mans agafades, pell molt clara, pell morena
+👨🏽‍🤝‍👨🏼	homes, homes que s’agafen de la mà, homes que s’agafen de la mà: pell morena i pell bastant clara, mans agafades, pell bastant clara, pell morena
+👬🏽	homes, homes que s’agafen de la mà, homes que s’agafen de la mà: pell morena, mans agafades, pell morena
+👨🏾‍🤝‍👨🏻	homes, homes que s’agafen de la mà, homes que s’agafen de la mà: pell fosca i pell molt clara, mans agafades, pell fosca, pell molt clara
+👨🏾‍🤝‍👨🏼	homes, homes que s’agafen de la mà, homes que s’agafen de la mà: pell fosca i pell bastant clara, mans agafades, pell bastant clara, pell fosca
+👨🏾‍🤝‍👨🏽	homes, homes que s’agafen de la mà, homes que s’agafen de la mà: pell fosca i pell morena, mans agafades, pell fosca, pell morena
+👬🏾	homes, homes que s’agafen de la mà, homes que s’agafen de la mà: pell fosca, mans agafades, pell fosca
+👨🏿‍🤝‍👨🏻	homes, homes que s’agafen de la mà, homes que s’agafen de la mà: pell molt fosca i pell molt clara, mans agafades, pell molt clara, pell molt fosca
+👨🏿‍🤝‍👨🏼	homes, homes que s’agafen de la mà, homes que s’agafen de la mà: pell molt fosca i pell bastant clara, mans agafades, pell bastant clara, pell molt fosca
+👨🏿‍🤝‍👨🏽	homes, homes que s’agafen de la mà, homes que s’agafen de la mà: pell molt fosca i pell morena, mans agafades, pell molt fosca, pell morena
+👨🏿‍🤝‍👨🏾	homes, homes que s’agafen de la mà, homes que s’agafen de la mà: pell molt fosca i pell fosca, mans agafades, pell fosca, pell molt fosca
+👬🏿	homes, homes que s’agafen de la mà, homes que s’agafen de la mà: pell molt fosca, mans agafades, pell molt fosca
 💏	parella, petó
 👩‍❤‍💋‍👨	dona, home, parella, petó, petó: dona i home
 👨‍❤‍💋‍👨	home, parella, petó, petó: home i home
@@ -1582,8 +1760,11 @@
 🐵	cara, cara de mona, mona
 🐒	mico
 🦍	animal, goril·la, simi
+🦧	orangutan, simi
 🐶	cara, cara de gos, gos
 🐕️	gos, mascota
+🦮	accessibilitat, gos pigall, guia, invident
+🐕‍🦺	accessibilitat, assistència, gos, gos de servei, servei
 🐩	caniche, gos, púdel
 🐺	cara, cara de llop, llop
 🦊	animal, cara de guineu, guineu
@@ -1629,6 +1810,9 @@
 🐻	cara, cara d’os, os
 🐨	coala, os
 🐼	cara, cara de panda, panda
+🦥	lent, mandrós, peresós
+🦦	juganera, llúdria, pescadora
+🦨	mofeta, pudor
 🦘	Austràlia, cangur, marsupial, salt
 🦡	teixó, toixó
 🐾	animal, petjades, petjades d’animal, potes
@@ -1645,6 +1829,7 @@
 🦆	animal, au, ocell, ànec
 🦢	aneguet lleig, cigne, ocell
 🦉	animal, au, mussol, ocell
+🦩	cridaner, flamenc, tropical
 🦚	cua, ocell, orgull, ostentós, paó
 🦜	lloro, ocell, parlar, pirata
 🐸	cara, cara de granota, granota
@@ -1725,6 +1910,8 @@
 🥒	cogombre, cogombret, hortalissa, menjar
 🥬	bleda xinesa, col, enciam, fulla verda, kale
 🥦	bròcoli, bròquil, col
+🧄	all, aromatitzant
+🧅	aromatitzant, ceba
 🍄	bolet, planta
 🥜	cacauet, cacauets, fruit, llegum, menjar, sec
 🌰	castanya, planta
@@ -1734,6 +1921,7 @@
 🥨	brioixeria, brètzel, cargolat, menjar
 🥯	bagel, fleca, forn, panet
 🥞	americanes, crep, creps, creps americanes, menjar, pancake
+🧇	gofra, gofrera
 🧀	formatge, tall, tall de formatge
 🍖	carn, carn amb os, os
 🍗	cuixa, cuixa de pollastre, pollastre
@@ -1747,6 +1935,7 @@
 🌮	mexicà, taco
 🌯	burrito, mexicà, rotlle, tortilla
 🥙	durum, falàfel, farcit, kebab, pa
+🧆	cigró, falàfel, mandonguilla
 🥚	menjar, ou
 🍳	cuina, ou, ou ferrat
 🥘	arròs, menjar, paella, valenciana
@@ -1754,6 +1943,7 @@
 🥣	bol amb cullera, cereals, esmorzar
 🥗	amanida, bol, enciam, menjar, verd
 🍿	blat de moro, crispetes
+🧈	mantega, producte lacti
 🧂	condiment, sal, saler
 🥫	conserva, llauna, llauna de conserva, menjar
 🍱	bento, caixa, caixa de bento
@@ -1777,6 +1967,7 @@
 🦞	bisque, llagosta, marisc, pinces, sopa de marisc
 🦐	crustaci, gamba, llagostí, marisc, menjar
 🦑	animal, calamar, menjar, molusc
+🦪	busseig, ostra, perla
 🍦	gelat, gelat de màquina, màquina
 🍧	dolç, gel, granissat, picat, postres
 🍨	crema, dolç, gel, gelat, postres
@@ -1805,6 +1996,9 @@
 🥂	brindis, cava, copes, xampany, xin-xin
 🥃	beguda, copeta, got, got de licor, licor, whisky
 🥤	beguda, canya, got, got amb canya, refresc, suc
+🧃	bric, bric de suc
+🧉	beguda, mate
+🧊	fred, glaçó, iceberg
 🥢	bastonet, bastonets xinesos, oriental, xinès
 🍽️	forquilla, forquilla, ganivet i plat, ganivet, plat
 🍴	cobert, forquilla, forquilla i ganivet, ganivet
@@ -1853,6 +2047,7 @@
 🗽	estàtua, estàtua de la Llibertat, llibertat
 ⛪️	creu, cristià, edifici, església, religió
 🕌	islam, mesquita, musulmà, religió
+🛕	hinduisme, hindú, temple, temple hindú
 🕍	jueu, religió, sinagoga, temple
 ⛩️	religió, santuari, santuari xintoista, temple, xintoista
 🕋	Ka’ba, islam, musulmà, religió
@@ -1903,6 +2098,9 @@
 🏎️	carreres, cotxe, cotxe de curses, curses, fórmula 1
 🏍️	curses, moto, motocicleta
 🛵	escúter, moto, motocicleta, transport
+🦽	accessibilitat, cadira de rodes manual
+🦼	accessibilitat, cadira de rodes elèctrica
+🛺	bicitaxi, bicitaxi amb motor, rickshaw
 🚲️	bici, bicicleta, vehicle
 🛴	patinet, transport
 🛹	monopatí, patí
@@ -1928,6 +2126,7 @@
 🛩️	aeroplà, avioneta, avió, vehicle, vol
 🛫	avió, enlairament, enlairament d’avió, sortida, vehicle
 🛬	arribada, aterratge, aterratge d’avió, avió, vehicle
+🪂	ala delta, paracaigudes, paracaigudisme, paracaigudista, parapent
 💺	cadira, seient
 🚁	helicòpter, vehicle
 🚟	ferrocarril, ferrocarril de suspensió, suspensió, tramvia elevat, vehicle
@@ -1985,6 +2184,7 @@
 ☀️	assolellat, sol, solejat, temps
 🌝	cara, lluna, lluna plena amb cara, plena
 🌞	cara, sol, sol amb cara
+🪐	planeta amb anell, saturn, saturní
 ⭐️	estrella
 🌟	brillant, brillar, espurna, estrella, estrella brillant
 🌠	cel, espai, estel, estel fugaç, estrella, fugaç
@@ -2064,11 +2264,14 @@
 ⛳️	banderí, banderí al forat, forat
 ⛸️	gel, patinatge, patinatge sobre gel
 🎣	canya, canya de pescar, pescar
+🤿	busseig, immersió lleugera, submarinisme, ulleres de busseig
 🎽	córrer, samarreta, samarreta per córrer
 🎿	esquiar, esquís, neu
 🛷	lliscar, neu, trineu
 🥌	esport, gel, joc, pedra, pedra de cúrling
 🎯	dard, dards, diana, joc, punteria
+🪀	fluctuar, io-io, joguina
+🪁	enlairar-se, estel, volar
 🎱	8, billar, bola, bola de billar, bola negra de billar
 🔮	bola, bola de vidre, fantasia, fortuna, sort
 🧿	amulet, nazar, pedra del mal d’ull, talismà
@@ -2095,6 +2298,7 @@
 🕶️	fosques, sol, ull, ulleres, ulleres de sol
 🥽	natació, protecció, protecció dels ulls, protecció ocular, ulleres de piscina
 🥼	bata de laboratori, científic, doctor, experiment
+🦺	armilla, armilla salvavides, emergència, seguretat
 👔	corbata, roba
 👕	roba, samarreta
 👖	pantalons, pantaló, roba, texans
@@ -2104,6 +2308,10 @@
 🧦	mitja, mitjons
 👗	roba, vestit
 👘	japonès, quimono, roba, vestit
+🥻	roba, sari, vestit
+🩱	banyador, vestit de bany
+🩲	banyador, eslip, roba interior, una peça, vestit de bany
+🩳	banyador, pantalons curts, pantaló, roba interior, vestit de bany
 👙	biquini, nedar, roba
 👚	dona, roba, roba de dona
 👛	accessori, moneda, moneder, roba
@@ -2117,6 +2325,7 @@
 🥿	ballarina, calçat, sabata plana, sabatilla, xinel·la
 👠	calçat, sabata, sabata de taló, taló
 👡	calçat, dona, sandàlia, sandàlia de dona
+🩰	ballet, dansa, sabatilles de ballet
 👢	bota, bota de dona, calçat, dona
 👑	cap, complement, corona, rei, reina
 👒	accessori, barret, barret de dona, dona
@@ -2151,6 +2360,7 @@
 🎹	instrument, música, piano, teclat, teclat musical
 🎺	instrument, música, trompeta, vent
 🎻	corda, instrument, música, violí
+🪕	banjo, corda, música
 🥁	baquetes, música, tambor, timbal
 📱	mòbil, telèfon, telèfon mòbil
 📲	fletxa, mòbil, rebre, telèfon mòbil, telèfon mòbil amb fletxa
@@ -2186,6 +2396,7 @@
 💡	bombeta, còmic, electricitat, idea, llum
 🔦	eina, electricitat, llanterna, llum
 🏮	fanal, fanal de paper vermell, paper, vermell
+🪔	ble, llum, llum d’oli, llàntia, làmpada, oli
 📔	coberta decorativa, llibre, quadern, quadern amb coberta decorativa
 📕	llibre, llibre tancat, tancat
 📖	llibre, llibre obert, obert
@@ -2264,6 +2475,7 @@
 🔑	bloqueig, clau, contrasenya
 🗝️	antiga, clau, clau antiga, tancar
 🔨	eina, martell
+🪓	destral, llenya, tallar
 ⛏️	eina, mineria, pic
 ⚒️	eina, martell, martell i pic, pic
 🛠️	clau anglesa, eina, martell, martell i clau anglesa
@@ -2277,6 +2489,7 @@
 ⚙️	eina, engranatge
 🗜️	cargol de banc, compressió, eina, serjant
 ⚖️	Balança, aparell, balança (aparell), eina, justícia, pes
+🦯	accessibilitat, bastó per a invidents, invident
 🔗	enllaç, enllaçar
 ⛓️	cadena, cadenes
 🧰	caixa, caixa d’eines, eines, mecànic
@@ -2289,13 +2502,18 @@
 🔭	augment, ciència, eina, telescopi
 📡	antena, antena de satèl·lit, satèl·lit
 💉	agulla, injecció, malalt, medicina, metge, xeringa
+🩸	donació de sang, gota de sang, medicina, menstruació
 💊	malalt, medicina, metge, pastilla, píndola
+🩹	bena, tireta
+🩺	cor, doctor, estetoscopi, medicina
 🚪	porta
 🛏️	dormir, hotel, llit
 🛋️	hotel, làmpada, sofà, sofà i làmpada
+🪑	cadira, seient, seure
 🚽	inodor, lavabo, tassa, vàter
 🚿	aigua, dutxa
 🛁	bany, banyera
+🪒	afaitada, esmolada, navalla d’afaitar
 🧴	ampolla de crema, loció, protecció solar, suavitzant, xampú
 🧷	imperdible, punk, punk rock
 🧹	bruixa, escombra, escombrar, netejar
@@ -2415,7 +2633,7 @@
 📛	etiqueta, etiqueta identificadora, identificació
 🔰	japonès, principiant, símbol, símbol japonès de principiant
 ⭕️	cercle, cercle gran, cercle vermell
-✅	gran, marca, marca de verificació blanca gran, verda, verificació
+✅	gran, marca, marca de verificació blanca gran, verificació
 ☑️	casella, casella amb marca de verificació, marca, selecció, verificació
 ✔️	gran, marca, marca de verificació gran, verificació
 ✖️	gran, multiplicar, signe, signe de multiplicar gran, signe x
@@ -2493,9 +2711,21 @@
 🈺	botó japonès "negoci obert", ideograma, japonès, kanji, obert
 🈵	botó japonès "cap plaça lliure", ideograma, japonès, kanji, ple
 🔴	cercle, cercle vermell, geometria, vermell
+🟠	cercle, cercle taronja, taronja
+🟡	cercle, cercle groc, groc
+🟢	cercle, cercle verd, verd
 🔵	blau, cercle, cercle blau, geometria
+🟣	cercle, cercle lila, lila, morat, violeta
+🟤	cercle, cercle marró, marró
 ⚫️	cercle, cercle negre, geometria, negre
 ⚪️	blanc, cercle, cercle blanc, geometria
+🟥	quadrat, quadrat vermell, vermell
+🟧	quadrat, quadrat taronja, taronja
+🟨	groc, quadrat, quadrat groc
+🟩	quadrat, quadrat verd, verd
+🟦	blau, quadrat, quadrat blau
+🟪	lila, morat, quadrat, quadrat lila, violeta
+🟫	marró, quadrat, quadrat marró
 ⬛️	geometria, gran, negre, quadrat, quadrat gran negre
 ⬜️	blanc, geometria, gran, quadrat, quadrat gran blanc
 ◼️	geometria, mitjà, negre, quadrat, quadrat mitjà negre
@@ -2670,7 +2900,7 @@
 🇲🇫	bandera, bandera: Saint Martin
 🇲🇬	bandera, bandera: Madagascar
 🇲🇭	bandera, bandera: Illes Marshall
-🇲🇰	bandera, bandera: Macedònia
+🇲🇰	bandera, bandera: Macedònia del Nord
 🇲🇱	bandera, bandera: Mali
 🇲🇲	bandera, bandera: Myanmar (Birmània)
 🇲🇳	bandera, bandera: Mongòlia
@@ -2739,7 +2969,7 @@
 🇸🇻	bandera, bandera: El Salvador
 🇸🇽	bandera, bandera: Sint Maarten
 🇸🇾	bandera, bandera: Síria
-🇸🇿	bandera, bandera: Swazilàndia
+🇸🇿	bandera, bandera: eSwatini
 🇹🇦	bandera, bandera: Tristão da Cunha
 🇹🇨	bandera, bandera: Illes Turks i Caicos
 🇹🇩	bandera, bandera: Txad

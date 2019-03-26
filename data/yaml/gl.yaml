@@ -67,10 +67,10 @@
   - santo
 🥰:
   - amor
+  - cara con corazóns
   - cara riseira con corazóns
   - enc´ántame
   - namorada
-  - namorado
 😍:
   - amor
   - cara
@@ -454,6 +454,12 @@
   - canso
   - cara
   - cara de cansazo
+🥱:
+  - aburrimento
+  - bocexo
+  - canso
+  - cara bocexando
+  - sono
 😤:
   - botar fume
   - cabreo
@@ -535,21 +541,21 @@
   - cara de robot
   - robot
 😺:
-  - boca
   - cara
   - gato
   - gato moi riseiro
+  - riseiro
   - sorriso
 😸:
   - cara
   - gato
   - gato moi riseiro cos ollos alegres
-  - ollos
+  - ollos alegres
   - sorriso
 😹:
-  - alegría
   - bágoas
-  - cara
+  - chorar de risa
+  - escachar
   - gato
   - gato chorando de risa
 😻:
@@ -563,7 +569,7 @@
   - gato
   - gato con sorriso irónico
   - ironía
-  - sorriso
+  - sorriso irónico
 😽:
   - bico
   - cara
@@ -571,19 +577,17 @@
   - gato dando un bico
   - ollos
 🙀:
-  - cansazo
   - cara
-  - esgotamento
   - gato
   - gato con cara de esgotamento
+  - sorpresa
+  - susto
 😿:
   - bágoa
-  - cara
   - chorar
-  - gato
   - gato chorando
+  - triste
 😾:
-  - cara
   - gato
   - gato furioso
   - ira
@@ -692,12 +696,21 @@
   - corazón
   - corazón violeta
   - violeta
+🤎:
+  - castaño
+  - corazón
+  - corazón marrón
+  - marrón
 🖤:
   - corazón
   - corazón negro
   - maldade
   - malvado
   - negro
+🤍:
+  - branco
+  - corazón
+  - corazón branco
 💯:
   - '100'
   - 100 puntos
@@ -992,6 +1005,52 @@
   - ton de pel moi escuro
   - xesto de “OK”
   - 'xesto de “OK”: ton de pel moi escuro'
+🤏:
+  - chisco
+  - miga
+  - pouquichiño
+  - pouquiño
+  - xesto de "un chisco"
+🤏🏻:
+  - chisco
+  - miga
+  - pouquichiño
+  - pouquiño
+  - ton de pel moi claro
+  - xesto de "un chisco"
+  - 'xesto de "un chisco": ton de pel moi claro'
+🤏🏼:
+  - chisco
+  - miga
+  - pouquichiño
+  - pouquiño
+  - ton de pel claro
+  - xesto de "un chisco"
+  - 'xesto de "un chisco": ton de pel claro'
+🤏🏽:
+  - chisco
+  - miga
+  - pouquichiño
+  - pouquiño
+  - ton de pel medio
+  - xesto de "un chisco"
+  - 'xesto de "un chisco": ton de pel medio'
+🤏🏾:
+  - chisco
+  - miga
+  - pouquichiño
+  - pouquiño
+  - ton de pel escuro
+  - xesto de "un chisco"
+  - 'xesto de "un chisco": ton de pel escuro'
+🤏🏿:
+  - chisco
+  - miga
+  - pouquichiño
+  - pouquiño
+  - ton de pel moi escuro
+  - xesto de "un chisco"
+  - 'xesto de "un chisco": ton de pel moi escuro'
 ✌️:
   - man
   - triunfo
@@ -2075,6 +2134,16 @@
   - forza
   - músculo
   - ton de pel moi escuro
+🦾:
+  - brazo mecánico
+  - discapacidade
+  - prótese
+  - robot
+🦿:
+  - discapacidade
+  - perna mecánica
+  - prótese
+  - robot
 🦵:
   - corpo
   - extremidade
@@ -2183,6 +2252,52 @@
   - orella
   - 'orella: ton de pel moi escuro'
   - ton de pel moi escuro
+🦻:
+  - aparato auditivo
+  - discapacidade
+  - orella con audiófono
+  - xorda
+  - xordo
+🦻🏻:
+  - aparato auditivo
+  - discapacidade
+  - orella con audiófono
+  - 'orella con audiófono: ton de pel moi claro'
+  - ton de pel moi claro
+  - xorda
+  - xordo
+🦻🏼:
+  - aparato auditivo
+  - discapacidade
+  - orella con audiófono
+  - 'orella con audiófono: ton de pel claro'
+  - ton de pel claro
+  - xorda
+  - xordo
+🦻🏽:
+  - aparato auditivo
+  - discapacidade
+  - orella con audiófono
+  - 'orella con audiófono: ton de pel medio'
+  - ton de pel medio
+  - xorda
+  - xordo
+🦻🏾:
+  - aparato auditivo
+  - discapacidade
+  - orella con audiófono
+  - 'orella con audiófono: ton de pel escuro'
+  - ton de pel escuro
+  - xorda
+  - xordo
+🦻🏿:
+  - aparato auditivo
+  - discapacidade
+  - orella con audiófono
+  - 'orella con audiófono: ton de pel moi escuro'
+  - ton de pel moi escuro
+  - xorda
+  - xordo
 👃:
   - nariz
 👃🏻:
@@ -2401,35 +2516,41 @@
   - loiro
   - louro
   - persoa loira
+  - persoa loura
 👱🏻:
   - loiro
   - louro
   - persoa loira
-  - 'persoa loira: ton de pel moi claro'
+  - persoa loura
+  - 'persoa loura: ton de pel moi claro'
   - ton de pel moi claro
 👱🏼:
   - loiro
   - louro
   - persoa loira
-  - 'persoa loira: ton de pel claro'
+  - persoa loura
+  - 'persoa loura: ton de pel claro'
   - ton de pel claro
 👱🏽:
   - loiro
   - louro
   - persoa loira
-  - 'persoa loira: ton de pel medio'
+  - persoa loura
+  - 'persoa loura: ton de pel medio'
   - ton de pel medio
 👱🏾:
   - loiro
   - louro
   - persoa loira
-  - 'persoa loira: ton de pel escuro'
+  - persoa loura
+  - 'persoa loura: ton de pel escuro'
   - ton de pel escuro
 👱🏿:
   - loiro
   - louro
   - persoa loira
-  - 'persoa loira: ton de pel moi escuro'
+  - persoa loura
+  - 'persoa loura: ton de pel moi escuro'
   - ton de pel moi escuro
 👨:
   - adulto
@@ -2462,42 +2583,48 @@
 🧔:
   - barba
   - home
+  - home con barba
   - persoa
   - persoa con barba
 🧔🏻:
   - barba
   - home
+  - home con barba
+  - 'home con barba: ton de pel moi claro'
   - persoa
   - persoa con barba
-  - 'persoa con barba: ton de pel moi claro'
   - ton de pel moi claro
 🧔🏼:
   - barba
   - home
+  - home con barba
+  - 'home con barba: ton de pel claro'
   - persoa
   - persoa con barba
-  - 'persoa con barba: ton de pel claro'
   - ton de pel claro
 🧔🏽:
   - barba
   - home
+  - home con barba
+  - 'home con barba: ton de pel medio'
   - persoa
   - persoa con barba
-  - 'persoa con barba: ton de pel medio'
   - ton de pel medio
 🧔🏾:
   - barba
   - home
+  - home con barba
+  - 'home con barba: ton de pel escuro'
   - persoa
   - persoa con barba
-  - 'persoa con barba: ton de pel escuro'
   - ton de pel escuro
 🧔🏿:
   - barba
   - home
+  - home con barba
+  - 'home con barba: ton de pel moi escuro'
   - persoa
   - persoa con barba
-  - 'persoa con barba: ton de pel moi escuro'
   - ton de pel moi escuro
 👱‍♂:
   - home
@@ -3757,6 +3884,132 @@
   - 'muller levantando a man: ton de pel moi escuro'
   - ton de pel moi escuro
   - xesto
+🧏:
+  - discapacidade
+  - linguaxe de signos
+  - persoa xorda
+  - xorda
+  - xordo
+🧏🏻:
+  - discapacidade
+  - linguaxe de signos
+  - persoa xorda
+  - 'persoa xorda: ton de pel moi claro'
+  - ton de pel moi claro
+  - xorda
+  - xordo
+🧏🏼:
+  - discapacidade
+  - linguaxe de signos
+  - persoa xorda
+  - 'persoa xorda: ton de pel claro'
+  - ton de pel claro
+  - xorda
+  - xordo
+🧏🏽:
+  - discapacidade
+  - linguaxe de signos
+  - persoa xorda
+  - 'persoa xorda: ton de pel medio'
+  - ton de pel medio
+  - xorda
+  - xordo
+🧏🏾:
+  - discapacidade
+  - linguaxe de signos
+  - persoa xorda
+  - 'persoa xorda: ton de pel escuro'
+  - ton de pel escuro
+  - xorda
+  - xordo
+🧏🏿:
+  - discapacidade
+  - linguaxe de signos
+  - persoa xorda
+  - 'persoa xorda: ton de pel moi escuro'
+  - ton de pel moi escuro
+  - xorda
+  - xordo
+🧏‍♂:
+  - discapacidade
+  - home xordo
+  - linguaxe de signos
+  - xordo
+🧏🏻‍♂:
+  - discapacidade
+  - home xordo
+  - 'home xordo: ton de pel moi claro'
+  - linguaxe de signos
+  - ton de pel moi claro
+  - xordo
+🧏🏼‍♂:
+  - discapacidade
+  - home xordo
+  - 'home xordo: ton de pel claro'
+  - linguaxe de signos
+  - ton de pel claro
+  - xordo
+🧏🏽‍♂:
+  - discapacidade
+  - home xordo
+  - 'home xordo: ton de pel medio'
+  - linguaxe de signos
+  - ton de pel medio
+  - xordo
+🧏🏾‍♂:
+  - discapacidade
+  - home xordo
+  - 'home xordo: ton de pel escuro'
+  - linguaxe de signos
+  - ton de pel escuro
+  - xordo
+🧏🏿‍♂:
+  - discapacidade
+  - home xordo
+  - 'home xordo: ton de pel moi escuro'
+  - linguaxe de signos
+  - ton de pel moi escuro
+  - xordo
+🧏‍♀:
+  - discapacidade
+  - linguaxe de signos
+  - muller xorda
+  - xorda
+🧏🏻‍♀:
+  - discapacidade
+  - linguaxe de signos
+  - muller xorda
+  - 'muller xorda: ton de pel moi claro'
+  - ton de pel moi claro
+  - xorda
+🧏🏼‍♀:
+  - discapacidade
+  - linguaxe de signos
+  - muller xorda
+  - 'muller xorda: ton de pel claro'
+  - ton de pel claro
+  - xorda
+🧏🏽‍♀:
+  - discapacidade
+  - linguaxe de signos
+  - muller xorda
+  - 'muller xorda: ton de pel medio'
+  - ton de pel medio
+  - xorda
+🧏🏾‍♀:
+  - discapacidade
+  - linguaxe de signos
+  - muller xorda
+  - 'muller xorda: ton de pel escuro'
+  - ton de pel escuro
+  - xorda
+🧏🏿‍♀:
+  - discapacidade
+  - linguaxe de signos
+  - muller xorda
+  - 'muller xorda: ton de pel moi escuro'
+  - ton de pel moi escuro
+  - xorda
 🙇:
   - desculpas
   - reverencia
@@ -7592,6 +7845,528 @@
   - 'muller andando: ton de pel moi escuro'
   - pasear
   - ton de pel moi escuro
+🧍:
+  - de pé
+  - levantada
+  - levantado
+  - levantarse
+  - persoa de pé
+🧍🏻:
+  - de pé
+  - levantada
+  - levantado
+  - levantarse
+  - persoa de pé
+  - 'persoa de pé: ton de pel moi claro'
+  - ton de pel moi claro
+🧍🏼:
+  - de pé
+  - levantada
+  - levantado
+  - levantarse
+  - persoa de pé
+  - 'persoa de pé: ton de pel claro'
+  - ton de pel claro
+🧍🏽:
+  - de pé
+  - levantada
+  - levantado
+  - levantarse
+  - persoa de pé
+  - 'persoa de pé: ton de pel medio'
+  - ton de pel medio
+🧍🏾:
+  - de pé
+  - levantada
+  - levantado
+  - levantarse
+  - persoa de pé
+  - 'persoa de pé: ton de pel escuro'
+  - ton de pel escuro
+🧍🏿:
+  - de pé
+  - levantada
+  - levantado
+  - levantarse
+  - persoa de pé
+  - 'persoa de pé: ton de pel moi escuro'
+  - ton de pel moi escuro
+🧍‍♂:
+  - de pé
+  - home de pé
+  - levantado
+  - levantarse
+🧍🏻‍♂:
+  - de pé
+  - home de pé
+  - 'home de pé: ton de pel moi claro'
+  - levantado
+  - levantarse
+  - ton de pel moi claro
+🧍🏼‍♂:
+  - de pé
+  - home de pé
+  - 'home de pé: ton de pel claro'
+  - levantado
+  - levantarse
+  - ton de pel claro
+🧍🏽‍♂:
+  - de pé
+  - home de pé
+  - 'home de pé: ton de pel medio'
+  - levantado
+  - levantarse
+  - ton de pel medio
+🧍🏾‍♂:
+  - de pé
+  - home de pé
+  - 'home de pé: ton de pel escuro'
+  - levantado
+  - levantarse
+  - ton de pel escuro
+🧍🏿‍♂:
+  - de pé
+  - home de pé
+  - 'home de pé: ton de pel moi escuro'
+  - levantado
+  - levantarse
+  - ton de pel moi escuro
+🧍‍♀:
+  - de pé
+  - levantada
+  - levantarse
+  - muller de pé
+🧍🏻‍♀:
+  - de pé
+  - levantada
+  - levantarse
+  - muller de pé
+  - 'muller de pé: ton de pel moi claro'
+  - ton de pel moi claro
+🧍🏼‍♀:
+  - de pé
+  - levantada
+  - levantarse
+  - muller de pé
+  - 'muller de pé: ton de pel claro'
+  - ton de pel claro
+🧍🏽‍♀:
+  - de pé
+  - levantada
+  - levantarse
+  - muller de pé
+  - 'muller de pé: ton de pel medio'
+  - ton de pel medio
+🧍🏾‍♀:
+  - de pé
+  - levantada
+  - levantarse
+  - muller de pé
+  - 'muller de pé: ton de pel escuro'
+  - ton de pel escuro
+🧍🏿‍♀:
+  - de pé
+  - levantada
+  - levantarse
+  - muller de pé
+  - 'muller de pé: ton de pel moi escuro'
+  - ton de pel moi escuro
+🧎:
+  - axeonllada
+  - axeonllado
+  - axeonllar
+  - persoa axeonllada
+  - xeonllo
+🧎🏻:
+  - axeonllada
+  - axeonllado
+  - axeonllar
+  - persoa axeonllada
+  - 'persoa axeonllada: ton de pel moi claro'
+  - ton de pel moi claro
+  - xeonllo
+🧎🏼:
+  - axeonllada
+  - axeonllado
+  - axeonllar
+  - persoa axeonllada
+  - 'persoa axeonllada: ton de pel claro'
+  - ton de pel claro
+  - xeonllo
+🧎🏽:
+  - axeonllada
+  - axeonllado
+  - axeonllar
+  - persoa axeonllada
+  - 'persoa axeonllada: ton de pel medio'
+  - ton de pel medio
+  - xeonllo
+🧎🏾:
+  - axeonllada
+  - axeonllado
+  - axeonllar
+  - persoa axeonllada
+  - 'persoa axeonllada: ton de pel escuro'
+  - ton de pel escuro
+  - xeonllo
+🧎🏿:
+  - axeonllada
+  - axeonllado
+  - axeonllar
+  - persoa axeonllada
+  - 'persoa axeonllada: ton de pel moi escuro'
+  - ton de pel moi escuro
+  - xeonllo
+🧎‍♂:
+  - axeonllado
+  - axeonllar
+  - home axeonllado
+  - xeonllo
+🧎🏻‍♂:
+  - axeonllado
+  - axeonllar
+  - home axeonllado
+  - 'home axeonllado: ton de pel moi claro'
+  - ton de pel moi claro
+  - xeonllo
+🧎🏼‍♂:
+  - axeonllado
+  - axeonllar
+  - home axeonllado
+  - 'home axeonllado: ton de pel claro'
+  - ton de pel claro
+  - xeonllo
+🧎🏽‍♂:
+  - axeonllado
+  - axeonllar
+  - home axeonllado
+  - 'home axeonllado: ton de pel medio'
+  - ton de pel medio
+  - xeonllo
+🧎🏾‍♂:
+  - axeonllado
+  - axeonllar
+  - home axeonllado
+  - 'home axeonllado: ton de pel escuro'
+  - ton de pel escuro
+  - xeonllo
+🧎🏿‍♂:
+  - axeonllado
+  - axeonllar
+  - home axeonllado
+  - 'home axeonllado: ton de pel moi escuro'
+  - ton de pel moi escuro
+  - xeonllo
+🧎‍♀:
+  - axeonllada
+  - axeonllar
+  - muller axeonllada
+  - xeonllo
+🧎🏻‍♀:
+  - axeonllada
+  - axeonllar
+  - muller axeonllada
+  - 'muller axeonllada: ton de pel moi claro'
+  - ton de pel moi claro
+  - xeonllo
+🧎🏼‍♀:
+  - axeonllada
+  - axeonllar
+  - muller axeonllada
+  - 'muller axeonllada: ton de pel claro'
+  - ton de pel claro
+  - xeonllo
+🧎🏽‍♀:
+  - axeonllada
+  - axeonllar
+  - muller axeonllada
+  - 'muller axeonllada: ton de pel medio'
+  - ton de pel medio
+  - xeonllo
+🧎🏾‍♀:
+  - axeonllada
+  - axeonllar
+  - muller axeonllada
+  - 'muller axeonllada: ton de pel escuro'
+  - ton de pel escuro
+  - xeonllo
+🧎🏿‍♀:
+  - axeonllada
+  - axeonllar
+  - muller axeonllada
+  - 'muller axeonllada: ton de pel moi escuro'
+  - ton de pel moi escuro
+  - xeonllo
+👨‍🦯:
+  - cego
+  - discapacidade
+  - home
+  - home cun bastón guía
+  - invidente
+👨🏻‍🦯:
+  - cego
+  - discapacidade
+  - home
+  - home cun bastón guía
+  - 'home cun bastón guía: ton de pel moi claro'
+  - invidente
+  - ton de pel moi claro
+👨🏼‍🦯:
+  - cego
+  - discapacidade
+  - home
+  - home cun bastón guía
+  - 'home cun bastón guía: ton de pel claro'
+  - invidente
+  - ton de pel claro
+👨🏽‍🦯:
+  - cego
+  - discapacidade
+  - home
+  - home cun bastón guía
+  - 'home cun bastón guía: ton de pel medio'
+  - invidente
+  - ton de pel medio
+👨🏾‍🦯:
+  - cego
+  - discapacidade
+  - home
+  - home cun bastón guía
+  - 'home cun bastón guía: ton de pel escuro'
+  - invidente
+  - ton de pel escuro
+👨🏿‍🦯:
+  - cego
+  - discapacidade
+  - home
+  - home cun bastón guía
+  - 'home cun bastón guía: ton de pel moi escuro'
+  - invidente
+  - ton de pel moi escuro
+👩‍🦯:
+  - cega
+  - discapacidade
+  - invidente
+  - muller
+  - muller cun bastón guía
+👩🏻‍🦯:
+  - cega
+  - discapacidade
+  - invidente
+  - muller
+  - muller cun bastón guía
+  - 'muller cun bastón guía: ton de pel moi claro'
+  - ton de pel moi claro
+👩🏼‍🦯:
+  - cega
+  - discapacidade
+  - invidente
+  - muller
+  - muller cun bastón guía
+  - 'muller cun bastón guía: ton de pel claro'
+  - ton de pel claro
+👩🏽‍🦯:
+  - cega
+  - discapacidade
+  - invidente
+  - muller
+  - muller cun bastón guía
+  - 'muller cun bastón guía: ton de pel medio'
+  - ton de pel medio
+👩🏾‍🦯:
+  - cega
+  - discapacidade
+  - invidente
+  - muller
+  - muller cun bastón guía
+  - 'muller cun bastón guía: ton de pel escuro'
+  - ton de pel escuro
+👩🏿‍🦯:
+  - cega
+  - discapacidade
+  - invidente
+  - muller
+  - muller cun bastón guía
+  - 'muller cun bastón guía: ton de pel moi escuro'
+  - ton de pel moi escuro
+👨‍🦼:
+  - cadeira de rodas
+  - discapacidade
+  - eléctrica
+  - home
+  - home en cadeira de rodas motorizada
+👨🏻‍🦼:
+  - cadeira de rodas
+  - discapacidade
+  - eléctrica
+  - home
+  - home en cadeira de rodas motorizada
+  - 'home en cadeira de rodas motorizada: ton de pel moi claro'
+  - ton de pel moi claro
+👨🏼‍🦼:
+  - cadeira de rodas
+  - discapacidade
+  - eléctrica
+  - home
+  - home en cadeira de rodas motorizada
+  - 'home en cadeira de rodas motorizada: ton de pel claro'
+  - ton de pel claro
+👨🏽‍🦼:
+  - cadeira de rodas
+  - discapacidade
+  - eléctrica
+  - home
+  - home en cadeira de rodas motorizada
+  - 'home en cadeira de rodas motorizada: ton de pel medio'
+  - ton de pel medio
+👨🏾‍🦼:
+  - cadeira de rodas
+  - discapacidade
+  - eléctrica
+  - home
+  - home en cadeira de rodas motorizada
+  - 'home en cadeira de rodas motorizada: ton de pel escuro'
+  - ton de pel escuro
+👨🏿‍🦼:
+  - cadeira de rodas
+  - discapacidade
+  - eléctrica
+  - home
+  - home en cadeira de rodas motorizada
+  - 'home en cadeira de rodas motorizada: ton de pel moi escuro'
+  - ton de pel moi escuro
+👩‍🦼:
+  - cadeira de rodas
+  - discapacidade
+  - eléctrica
+  - muller
+  - muller en cadeira de rodas motorizada
+👩🏻‍🦼:
+  - cadeira de rodas
+  - discapacidade
+  - eléctrica
+  - muller
+  - muller en cadeira de rodas motorizada
+  - 'muller en cadeira de rodas motorizada: ton de pel moi claro'
+  - ton de pel moi claro
+👩🏼‍🦼:
+  - cadeira de rodas
+  - discapacidade
+  - eléctrica
+  - muller
+  - muller en cadeira de rodas motorizada
+  - 'muller en cadeira de rodas motorizada: ton de pel claro'
+  - ton de pel claro
+👩🏽‍🦼:
+  - cadeira de rodas
+  - discapacidade
+  - eléctrica
+  - muller
+  - muller en cadeira de rodas motorizada
+  - 'muller en cadeira de rodas motorizada: ton de pel medio'
+  - ton de pel medio
+👩🏾‍🦼:
+  - cadeira de rodas
+  - discapacidade
+  - eléctrica
+  - muller
+  - muller en cadeira de rodas motorizada
+  - 'muller en cadeira de rodas motorizada: ton de pel escuro'
+  - ton de pel escuro
+👩🏿‍🦼:
+  - cadeira de rodas
+  - discapacidade
+  - eléctrica
+  - muller
+  - muller en cadeira de rodas motorizada
+  - 'muller en cadeira de rodas motorizada: ton de pel moi escuro'
+  - ton de pel moi escuro
+👨‍🦽:
+  - cadeira de rodas
+  - discapacidade
+  - home
+  - home en cadeira de rodas
+👨🏻‍🦽:
+  - cadeira de rodas
+  - discapacidade
+  - home
+  - home en cadeira de rodas
+  - 'home en cadeira de rodas: ton de pel moi claro'
+  - ton de pel moi claro
+👨🏼‍🦽:
+  - cadeira de rodas
+  - discapacidade
+  - home
+  - home en cadeira de rodas
+  - 'home en cadeira de rodas: ton de pel claro'
+  - ton de pel claro
+👨🏽‍🦽:
+  - cadeira de rodas
+  - discapacidade
+  - home
+  - home en cadeira de rodas
+  - 'home en cadeira de rodas: ton de pel medio'
+  - ton de pel medio
+👨🏾‍🦽:
+  - cadeira de rodas
+  - discapacidade
+  - home
+  - home en cadeira de rodas
+  - 'home en cadeira de rodas: ton de pel escuro'
+  - ton de pel escuro
+👨🏿‍🦽:
+  - cadeira de rodas
+  - discapacidade
+  - home
+  - home en cadeira de rodas
+  - 'home en cadeira de rodas: ton de pel moi escuro'
+  - ton de pel moi escuro
+👩‍🦽:
+  - cadeira de rodas
+  - discapacidade
+  - eléctrica
+  - muller
+  - muller en cadeira de rodas
+👩🏻‍🦽:
+  - cadeira de rodas
+  - discapacidade
+  - eléctrica
+  - muller
+  - muller en cadeira de rodas
+  - 'muller en cadeira de rodas: ton de pel moi claro'
+  - ton de pel moi claro
+👩🏼‍🦽:
+  - cadeira de rodas
+  - discapacidade
+  - eléctrica
+  - muller
+  - muller en cadeira de rodas
+  - 'muller en cadeira de rodas: ton de pel claro'
+  - ton de pel claro
+👩🏽‍🦽:
+  - cadeira de rodas
+  - discapacidade
+  - eléctrica
+  - muller
+  - muller en cadeira de rodas
+  - 'muller en cadeira de rodas: ton de pel medio'
+  - ton de pel medio
+👩🏾‍🦽:
+  - cadeira de rodas
+  - discapacidade
+  - eléctrica
+  - muller
+  - muller en cadeira de rodas
+  - 'muller en cadeira de rodas: ton de pel escuro'
+  - ton de pel escuro
+👩🏿‍🦽:
+  - cadeira de rodas
+  - discapacidade
+  - eléctrica
+  - muller
+  - muller en cadeira de rodas
+  - 'muller en cadeira de rodas: ton de pel moi escuro'
+  - ton de pel moi escuro
 🏃:
   - correr
   - maratón
@@ -9733,22 +10508,623 @@
   - persoa durmindo
   - 'persoa durmindo: ton de pel moi escuro'
   - ton de pel moi escuro
+🧑‍🤝‍🧑:
+  - acordo
+  - dar a man
+  - mans
+  - parella
+  - persoas dándose a man
+🧑🏻‍🤝‍🧑🏻:
+  - acordo
+  - dar a man
+  - mans
+  - parella
+  - persoas dándose a man
+  - 'persoas dándose a man: ton de pel moi claro'
+  - ton de pel moi claro
+🧑🏼‍🤝‍🧑🏻:
+  - acordo
+  - dar a man
+  - mans
+  - parella
+  - persoas dándose a man
+  - 'persoas dándose a man: ton de pel claro, ton de pel moi claro'
+  - ton de pel claro
+  - ton de pel moi claro
+🧑🏼‍🤝‍🧑🏼:
+  - acordo
+  - dar a man
+  - mans
+  - parella
+  - persoas dándose a man
+  - 'persoas dándose a man: ton de pel claro'
+  - ton de pel claro
+🧑🏽‍🤝‍🧑🏻:
+  - acordo
+  - dar a man
+  - mans
+  - parella
+  - persoas dándose a man
+  - 'persoas dándose a man: ton de pel medio, ton de pel moi claro'
+  - ton de pel medio
+  - ton de pel moi claro
+🧑🏽‍🤝‍🧑🏼:
+  - acordo
+  - dar a man
+  - mans
+  - parella
+  - persoas dándose a man
+  - 'persoas dándose a man: ton de pel medio, ton de pel claro'
+  - ton de pel claro
+  - ton de pel medio
+🧑🏽‍🤝‍🧑🏽:
+  - acordo
+  - dar a man
+  - mans
+  - parella
+  - persoas dándose a man
+  - 'persoas dándose a man: ton de pel medio'
+  - ton de pel medio
+🧑🏾‍🤝‍🧑🏻:
+  - acordo
+  - dar a man
+  - mans
+  - parella
+  - persoas dándose a man
+  - 'persoas dándose a man: ton de pel escuro, ton de pel moi claro'
+  - ton de pel escuro
+  - ton de pel moi claro
+🧑🏾‍🤝‍🧑🏼:
+  - acordo
+  - dar a man
+  - mans
+  - parella
+  - persoas dándose a man
+  - 'persoas dándose a man: ton de pel escuro, ton de pel claro'
+  - ton de pel claro
+  - ton de pel escuro
+🧑🏾‍🤝‍🧑🏽:
+  - acordo
+  - dar a man
+  - mans
+  - parella
+  - persoas dándose a man
+  - 'persoas dándose a man: ton de pel escuro, ton de pel medio'
+  - ton de pel escuro
+  - ton de pel medio
+🧑🏾‍🤝‍🧑🏾:
+  - acordo
+  - dar a man
+  - mans
+  - parella
+  - persoas dándose a man
+  - 'persoas dándose a man: ton de pel escuro'
+  - ton de pel escuro
+🧑🏿‍🤝‍🧑🏻:
+  - acordo
+  - dar a man
+  - mans
+  - parella
+  - persoas dándose a man
+  - 'persoas dándose a man: ton de pel moi escuro, ton de pel moi claro'
+  - ton de pel moi claro
+  - ton de pel moi escuro
+🧑🏿‍🤝‍🧑🏼:
+  - acordo
+  - dar a man
+  - mans
+  - parella
+  - persoas dándose a man
+  - 'persoas dándose a man: ton de pel moi escuro, ton de pel claro'
+  - ton de pel claro
+  - ton de pel moi escuro
+🧑🏿‍🤝‍🧑🏽:
+  - acordo
+  - dar a man
+  - mans
+  - parella
+  - persoas dándose a man
+  - 'persoas dándose a man: ton de pel moi escuro, ton de pel medio'
+  - ton de pel medio
+  - ton de pel moi escuro
+🧑🏿‍🤝‍🧑🏾:
+  - acordo
+  - dar a man
+  - mans
+  - parella
+  - persoas dándose a man
+  - 'persoas dándose a man: ton de pel moi escuro, ton de pel escuro'
+  - ton de pel escuro
+  - ton de pel moi escuro
+🧑🏿‍🤝‍🧑🏿:
+  - acordo
+  - dar a man
+  - mans
+  - parella
+  - persoas dándose a man
+  - 'persoas dándose a man: ton de pel moi escuro'
+  - ton de pel moi escuro
 👭:
   - dúas mulleres collidas da man
   - man
   - mulleres
   - parella
+👭🏻:
+  - dúas mulleres collidas da man
+  - 'dúas mulleres collidas da man: ton de pel moi claro'
+  - man
+  - mulleres
+  - parella
+  - ton de pel moi claro
+👩🏼‍🤝‍👩🏻:
+  - dúas mulleres collidas da man
+  - 'dúas mulleres collidas da man: ton de pel claro, ton de pel moi claro'
+  - man
+  - mulleres
+  - parella
+  - ton de pel claro
+  - ton de pel moi claro
+👭🏼:
+  - dúas mulleres collidas da man
+  - 'dúas mulleres collidas da man: ton de pel claro'
+  - man
+  - mulleres
+  - parella
+  - ton de pel claro
+👩🏽‍🤝‍👩🏻:
+  - dúas mulleres collidas da man
+  - 'dúas mulleres collidas da man: ton de pel medio, ton de pel moi claro'
+  - man
+  - mulleres
+  - parella
+  - ton de pel medio
+  - ton de pel moi claro
+👩🏽‍🤝‍👩🏼:
+  - dúas mulleres collidas da man
+  - 'dúas mulleres collidas da man: ton de pel medio, ton de pel claro'
+  - man
+  - mulleres
+  - parella
+  - ton de pel claro
+  - ton de pel medio
+👭🏽:
+  - dúas mulleres collidas da man
+  - 'dúas mulleres collidas da man: ton de pel medio'
+  - man
+  - mulleres
+  - parella
+  - ton de pel medio
+👩🏾‍🤝‍👩🏻:
+  - dúas mulleres collidas da man
+  - 'dúas mulleres collidas da man: ton de pel escuro, ton de pel moi claro'
+  - man
+  - mulleres
+  - parella
+  - ton de pel escuro
+  - ton de pel moi claro
+👩🏾‍🤝‍👩🏼:
+  - dúas mulleres collidas da man
+  - 'dúas mulleres collidas da man: ton de pel escuro, ton de pel claro'
+  - man
+  - mulleres
+  - parella
+  - ton de pel claro
+  - ton de pel escuro
+👩🏾‍🤝‍👩🏽:
+  - dúas mulleres collidas da man
+  - 'dúas mulleres collidas da man: ton de pel escuro, ton de pel medio'
+  - man
+  - mulleres
+  - parella
+  - ton de pel escuro
+  - ton de pel medio
+👭🏾:
+  - dúas mulleres collidas da man
+  - 'dúas mulleres collidas da man: ton de pel escuro'
+  - man
+  - mulleres
+  - parella
+  - ton de pel escuro
+👩🏿‍🤝‍👩🏻:
+  - dúas mulleres collidas da man
+  - 'dúas mulleres collidas da man: ton de pel moi escuro, ton de pel moi claro'
+  - man
+  - mulleres
+  - parella
+  - ton de pel moi claro
+  - ton de pel moi escuro
+👩🏿‍🤝‍👩🏼:
+  - dúas mulleres collidas da man
+  - 'dúas mulleres collidas da man: ton de pel moi escuro, ton de pel claro'
+  - man
+  - mulleres
+  - parella
+  - ton de pel claro
+  - ton de pel moi escuro
+👩🏿‍🤝‍👩🏽:
+  - dúas mulleres collidas da man
+  - 'dúas mulleres collidas da man: ton de pel moi escuro, ton de pel medio'
+  - man
+  - mulleres
+  - parella
+  - ton de pel medio
+  - ton de pel moi escuro
+👩🏿‍🤝‍👩🏾:
+  - dúas mulleres collidas da man
+  - 'dúas mulleres collidas da man: ton de pel moi escuro, ton de pel escuro'
+  - man
+  - mulleres
+  - parella
+  - ton de pel escuro
+  - ton de pel moi escuro
+👭🏿:
+  - dúas mulleres collidas da man
+  - 'dúas mulleres collidas da man: ton de pel moi escuro'
+  - man
+  - mulleres
+  - parella
+  - ton de pel moi escuro
 👫:
   - home
   - home e muller collidos da man
   - man
   - muller
   - parella
+👫🏻:
+  - home
+  - home e muller collidos da man
+  - 'home e muller collidos da man: ton de pel moi claro'
+  - man
+  - muller
+  - parella
+  - ton de pel moi claro
+👩🏻‍🤝‍👨🏼:
+  - home
+  - home e muller collidos da man
+  - 'home e muller collidos da man: ton de pel moi claro, ton de pel claro'
+  - man
+  - muller
+  - parella
+  - ton de pel claro
+  - ton de pel moi claro
+👩🏻‍🤝‍👨🏽:
+  - home
+  - home e muller collidos da man
+  - 'home e muller collidos da man: ton de pel moi claro, ton de pel medio'
+  - man
+  - muller
+  - parella
+  - ton de pel medio
+  - ton de pel moi claro
+👩🏻‍🤝‍👨🏾:
+  - home
+  - home e muller collidos da man
+  - 'home e muller collidos da man: ton de pel moi claro, ton de pel escuro'
+  - man
+  - muller
+  - parella
+  - ton de pel escuro
+  - ton de pel moi claro
+👩🏻‍🤝‍👨🏿:
+  - home
+  - home e muller collidos da man
+  - 'home e muller collidos da man: ton de pel moi claro, ton de pel moi escuro'
+  - man
+  - muller
+  - parella
+  - ton de pel moi claro
+  - ton de pel moi escuro
+👩🏼‍🤝‍👨🏻:
+  - home
+  - home e muller collidos da man
+  - 'home e muller collidos da man: ton de pel claro, ton de pel moi claro'
+  - man
+  - muller
+  - parella
+  - ton de pel claro
+  - ton de pel moi claro
+👫🏼:
+  - home
+  - home e muller collidos da man
+  - 'home e muller collidos da man: ton de pel claro'
+  - man
+  - muller
+  - parella
+  - ton de pel claro
+👩🏼‍🤝‍👨🏽:
+  - home
+  - home e muller collidos da man
+  - 'home e muller collidos da man: ton de pel claro, ton de pel medio'
+  - man
+  - muller
+  - parella
+  - ton de pel claro
+  - ton de pel medio
+👩🏼‍🤝‍👨🏾:
+  - home
+  - home e muller collidos da man
+  - 'home e muller collidos da man: ton de pel claro, ton de pel escuro'
+  - man
+  - muller
+  - parella
+  - ton de pel claro
+  - ton de pel escuro
+👩🏼‍🤝‍👨🏿:
+  - home
+  - home e muller collidos da man
+  - 'home e muller collidos da man: ton de pel claro, ton de pel moi escuro'
+  - man
+  - muller
+  - parella
+  - ton de pel claro
+  - ton de pel moi escuro
+👩🏽‍🤝‍👨🏻:
+  - home
+  - home e muller collidos da man
+  - 'home e muller collidos da man: ton de pel medio, ton de pel moi claro'
+  - man
+  - muller
+  - parella
+  - ton de pel medio
+  - ton de pel moi claro
+👩🏽‍🤝‍👨🏼:
+  - home
+  - home e muller collidos da man
+  - 'home e muller collidos da man: ton de pel medio, ton de pel claro'
+  - man
+  - muller
+  - parella
+  - ton de pel claro
+  - ton de pel medio
+👫🏽:
+  - home
+  - home e muller collidos da man
+  - 'home e muller collidos da man: ton de pel medio'
+  - man
+  - muller
+  - parella
+  - ton de pel medio
+👩🏽‍🤝‍👨🏾:
+  - home
+  - home e muller collidos da man
+  - 'home e muller collidos da man: ton de pel medio, ton de pel escuro'
+  - man
+  - muller
+  - parella
+  - ton de pel escuro
+  - ton de pel medio
+👩🏽‍🤝‍👨🏿:
+  - home
+  - home e muller collidos da man
+  - 'home e muller collidos da man: ton de pel medio, ton de pel moi escuro'
+  - man
+  - muller
+  - parella
+  - ton de pel medio
+  - ton de pel moi escuro
+👩🏾‍🤝‍👨🏻:
+  - home
+  - home e muller collidos da man
+  - 'home e muller collidos da man: ton de pel escuro, ton de pel moi claro'
+  - man
+  - muller
+  - parella
+  - ton de pel escuro
+  - ton de pel moi claro
+👩🏾‍🤝‍👨🏼:
+  - home
+  - home e muller collidos da man
+  - 'home e muller collidos da man: ton de pel escuro, ton de pel claro'
+  - man
+  - muller
+  - parella
+  - ton de pel claro
+  - ton de pel escuro
+👩🏾‍🤝‍👨🏽:
+  - home
+  - home e muller collidos da man
+  - 'home e muller collidos da man: ton de pel escuro, ton de pel medio'
+  - man
+  - muller
+  - parella
+  - ton de pel escuro
+  - ton de pel medio
+👫🏾:
+  - home
+  - home e muller collidos da man
+  - 'home e muller collidos da man: ton de pel escuro'
+  - man
+  - muller
+  - parella
+  - ton de pel escuro
+👩🏾‍🤝‍👨🏿:
+  - home
+  - home e muller collidos da man
+  - 'home e muller collidos da man: ton de pel escuro, ton de pel moi escuro'
+  - man
+  - muller
+  - parella
+  - ton de pel escuro
+  - ton de pel moi escuro
+👩🏿‍🤝‍👨🏻:
+  - home
+  - home e muller collidos da man
+  - 'home e muller collidos da man: ton de pel moi escuro, ton de pel moi claro'
+  - man
+  - muller
+  - parella
+  - ton de pel moi claro
+  - ton de pel moi escuro
+👩🏿‍🤝‍👨🏼:
+  - home
+  - home e muller collidos da man
+  - 'home e muller collidos da man: ton de pel moi escuro, ton de pel claro'
+  - man
+  - muller
+  - parella
+  - ton de pel claro
+  - ton de pel moi escuro
+👩🏿‍🤝‍👨🏽:
+  - home
+  - home e muller collidos da man
+  - 'home e muller collidos da man: ton de pel moi escuro, ton de pel medio'
+  - man
+  - muller
+  - parella
+  - ton de pel medio
+  - ton de pel moi escuro
+👩🏿‍🤝‍👨🏾:
+  - home
+  - home e muller collidos da man
+  - 'home e muller collidos da man: ton de pel moi escuro, ton de pel escuro'
+  - man
+  - muller
+  - parella
+  - ton de pel escuro
+  - ton de pel moi escuro
+👫🏿:
+  - home
+  - home e muller collidos da man
+  - 'home e muller collidos da man: ton de pel moi escuro'
+  - man
+  - muller
+  - parella
+  - ton de pel moi escuro
 👬:
   - Xémini
   - dous homes collidos da man
   - homes
   - parella
+  - xemelgos
+👬🏻:
+  - Xémini
+  - dous homes collidos da man
+  - 'dous homes collidos da man: ton de pel moi claro'
+  - homes
+  - parella
+  - ton de pel moi claro
+  - xemelgos
+👨🏼‍🤝‍👨🏻:
+  - Xémini
+  - dous homes collidos da man
+  - 'dous homes collidos da man: ton de pel claro, ton de pel moi claro'
+  - homes
+  - parella
+  - ton de pel claro
+  - ton de pel moi claro
+  - xemelgos
+👬🏼:
+  - Xémini
+  - dous homes collidos da man
+  - 'dous homes collidos da man: ton de pel claro'
+  - homes
+  - parella
+  - ton de pel claro
+  - xemelgos
+👨🏽‍🤝‍👨🏻:
+  - Xémini
+  - dous homes collidos da man
+  - 'dous homes collidos da man: ton de pel medio, ton de pel moi claro'
+  - homes
+  - parella
+  - ton de pel medio
+  - ton de pel moi claro
+  - xemelgos
+👨🏽‍🤝‍👨🏼:
+  - Xémini
+  - dous homes collidos da man
+  - 'dous homes collidos da man: ton de pel medio, ton de pel claro'
+  - homes
+  - parella
+  - ton de pel claro
+  - ton de pel medio
+  - xemelgos
+👬🏽:
+  - Xémini
+  - dous homes collidos da man
+  - 'dous homes collidos da man: ton de pel medio'
+  - homes
+  - parella
+  - ton de pel medio
+  - xemelgos
+👨🏾‍🤝‍👨🏻:
+  - Xémini
+  - dous homes collidos da man
+  - 'dous homes collidos da man: ton de pel escuro, ton de pel moi claro'
+  - homes
+  - parella
+  - ton de pel escuro
+  - ton de pel moi claro
+  - xemelgos
+👨🏾‍🤝‍👨🏼:
+  - Xémini
+  - dous homes collidos da man
+  - 'dous homes collidos da man: ton de pel escuro, ton de pel claro'
+  - homes
+  - parella
+  - ton de pel claro
+  - ton de pel escuro
+  - xemelgos
+👨🏾‍🤝‍👨🏽:
+  - Xémini
+  - dous homes collidos da man
+  - 'dous homes collidos da man: ton de pel escuro, ton de pel medio'
+  - homes
+  - parella
+  - ton de pel escuro
+  - ton de pel medio
+  - xemelgos
+👬🏾:
+  - Xémini
+  - dous homes collidos da man
+  - 'dous homes collidos da man: ton de pel escuro'
+  - homes
+  - parella
+  - ton de pel escuro
+  - xemelgos
+👨🏿‍🤝‍👨🏻:
+  - Xémini
+  - dous homes collidos da man
+  - 'dous homes collidos da man: ton de pel moi escuro, ton de pel moi claro'
+  - homes
+  - parella
+  - ton de pel moi claro
+  - ton de pel moi escuro
+  - xemelgos
+👨🏿‍🤝‍👨🏼:
+  - Xémini
+  - dous homes collidos da man
+  - 'dous homes collidos da man: ton de pel moi escuro, ton de pel claro'
+  - homes
+  - parella
+  - ton de pel claro
+  - ton de pel moi escuro
+  - xemelgos
+👨🏿‍🤝‍👨🏽:
+  - Xémini
+  - dous homes collidos da man
+  - 'dous homes collidos da man: ton de pel moi escuro, ton de pel medio'
+  - homes
+  - parella
+  - ton de pel medio
+  - ton de pel moi escuro
+  - xemelgos
+👨🏿‍🤝‍👨🏾:
+  - Xémini
+  - dous homes collidos da man
+  - 'dous homes collidos da man: ton de pel moi escuro, ton de pel escuro'
+  - homes
+  - parella
+  - ton de pel escuro
+  - ton de pel moi escuro
+  - xemelgos
+👬🏿:
+  - Xémini
+  - dous homes collidos da man
+  - 'dous homes collidos da man: ton de pel moi escuro'
+  - homes
+  - parella
+  - ton de pel moi escuro
   - xemelgos
 💏:
   - bico
@@ -10052,6 +11428,10 @@
   - animal
   - gorila
   - simio
+🦧:
+  - mono
+  - orangután
+  - simio
 🐶:
   - can
   - cara
@@ -10060,6 +11440,19 @@
 🐕️:
   - can
   - mascota
+🦮:
+  - asistencia
+  - can
+  - can guía
+  - cega
+  - cego
+  - guía
+🐕‍🦺:
+  - asistencia
+  - can
+  - can de servizo
+  - discapacidade
+  - servizo
 🐩:
   - can
   - caniche
@@ -10072,7 +11465,7 @@
   - animal
   - arteiro
   - astuto
-  - cara de raposo
+  - golpe
   - raposo
 🦝:
   - galopín
@@ -10221,6 +11614,20 @@
   - cara de oso panda
   - oso panda
   - panda
+🦥:
+  - folgazán
+  - lento
+  - preguiceira
+  - preguiceiro
+🦦:
+  - londra
+  - lontra
+🦨:
+  - alcatreo
+  - cheirume
+  - fedorenta
+  - fedorento
+  - mofeta
 🦘:
   - Australia
   - canguro
@@ -10286,6 +11693,10 @@
   - moucho
   - paxaro
   - sabio
+🦩:
+  - ave
+  - flamengo
+  - rosa
 🦚:
   - ave
   - pavo
@@ -10578,6 +11989,7 @@
   - vexetal
 🌶️:
   - chile
+  - chile picante
   - picante
 🥒:
   - cogombro
@@ -10590,6 +12002,14 @@
   - verdura de folla
 🥦:
   - brócoli
+🧄:
+  - allo
+  - cheiro
+  - condimento
+🧅:
+  - cebola
+  - chorar
+  - condimento
 🍄:
   - champiñón
   - cogomelo
@@ -10628,6 +12048,9 @@
   - comida
   - pancakes
   - tortas
+🧇:
+  - doce
+  - gofre
 🧀:
   - queixo
 🍖:
@@ -10677,6 +12100,10 @@
   - comida
   - falafel
   - kebab
+🧆:
+  - albóndegas
+  - faláfel
+  - garavanzo
 🥚:
   - comida
   - ovo
@@ -10708,6 +12135,10 @@
   - flocos
   - flocos de millo
   - millo
+🧈:
+  - almorzo
+  - manteiga
+  - margarina
 🧂:
   - condimento
   - sal
@@ -10820,6 +12251,11 @@
   - choco
   - lura
   - molusco
+🦪:
+  - marisco
+  - molusco
+  - ostra
+  - perla
 🍦:
   - cremoso
   - doce
@@ -10957,6 +12393,21 @@
   - vaso
   - vaso con palla
   - zume
+🧃:
+  - brik
+  - brik de zume
+  - cartón
+  - tetra brik
+🧉:
+  - A Arxentina
+  - bebida
+  - infusión
+  - mate
+🧊:
+  - cubo de xeo
+  - frío
+  - pedra de xeo
+  - xeo
 🥢:
   - chinesa
   - comida
@@ -11191,6 +12642,12 @@
   - mesquita
   - musulmán
   - relixión
+🛕:
+  - hinduísmo
+  - hindú
+  - relixión
+  - templo
+  - templo hindú
 🕍:
   - edificio
   - relixión
@@ -11396,6 +12853,21 @@
   - moto
   - motocicleta
   - motociclismo
+🦽:
+  - cadeira de rodas
+  - discapacidade
+  - manual
+🦼:
+  - cadeira de rodas
+  - cadeira de rodas motorizada
+  - discapacidade
+  - eléctrica
+  - motorizada
+🛺:
+  - mototaxi
+  - rickshaw
+  - triciclo motorizado
+  - tuk-tuk
 🚲️:
   - bici
   - bicicleta
@@ -11503,6 +12975,11 @@
   - avión
   - avión aterrando
   - chegada
+🪂:
+  - paracaidismo
+  - paracaidista
+  - paracaídas
+  - parapente
 💺:
   - asento
 🚁:
@@ -11793,6 +13270,11 @@
   - cara
   - sol
   - sol con cara
+🪐:
+  - Saturno
+  - planeta
+  - planeta con aneis
+  - sistema solar
 ⭐️:
   - estrela
 🌟:
@@ -11962,7 +13444,9 @@
   - foguete
   - petardo
 ✨:
+  - brillar
   - chispas
+  - escintilar
   - estrelas
 🎈:
   - aniversario
@@ -12176,6 +13660,10 @@
   - cana de pescar
   - peixe
   - pescar
+🤿:
+  - mergullo
+  - máscara de mergullo
+  - submarinismo
 🎽:
   - camiseta
   - camiseta de correr
@@ -12197,6 +13685,13 @@
 🎯:
   - dardo
   - diana
+🪀:
+  - ioió
+  - xoguete
+🪁:
+  - papaventos
+  - voar
+  - xoguete
 🎱:
   - billar
   - bola
@@ -12336,6 +13831,12 @@
   - científico
   - médica
   - médico
+🦺:
+  - chaleco salvavidas
+  - emerxencia
+  - salvavidas
+  - seguranza
+  - seguridade
 👔:
   - gravata
 👕:
@@ -12359,6 +13860,24 @@
   - vestido
 👘:
   - quimono
+🥻:
+  - A India
+  - hindú
+  - roupa
+  - sari
+  - vestido
+🩱:
+  - traxe de baño
+🩲:
+  - bañarse
+  - calzón
+  - roupa interior
+  - traxe de baño
+🩳:
+  - calzón
+  - pantalón curto
+  - roupa interior
+  - traxe de baño
 👙:
   - bañarse
   - bikini
@@ -12416,6 +13935,10 @@
   - muller
   - sandalia
   - sandalia de muller
+🩰:
+  - bailarinas
+  - ballet
+  - zapatillas
 👢:
   - botas
   - botas de muller
@@ -12561,6 +14084,11 @@
 🎻:
   - instrumento
   - violín
+🪕:
+  - banxo
+  - de corda
+  - instrumento
+  - música
 🥁:
   - instrumento
   - música
@@ -12720,6 +14248,11 @@
   - luz
   - vermella
   - xaponesa
+🪔:
+  - diya
+  - hinduísmo
+  - lámpada de aceite
+  - zoroastrismo
 📔:
   - caderno
   - caderno de tapas decoradas
@@ -13087,6 +14620,12 @@
 🔨:
   - ferramenta
   - martelo
+🪓:
+  - cortar
+  - machada
+  - machado
+  - madeira
+  - talar
 ⛏️:
   - ferramenta
   - mina
@@ -13145,6 +14684,12 @@
   - peso
   - xustiza
   - zodíaco
+🦯:
+  - bastón guía
+  - cega
+  - cego
+  - cegueira
+  - discapacidade
 🔗:
   - cadea
   - elo
@@ -13206,6 +14751,12 @@
   - vacina
   - virus
   - xiringa
+🩸:
+  - doazón de sangue
+  - medicina
+  - menstruación
+  - pinga de sangue
+  - regra
 💊:
   - enfermidade
   - medicación
@@ -13213,6 +14764,16 @@
   - médico
   - pastilla
   - pílula
+🩹:
+  - apósito
+  - apósito adhesivo
+  - cura
+  - ferida
+🩺:
+  - corazón
+  - estetoscopio
+  - fonendoscopio
+  - medicina
 🚪:
   - porta
 🛏️:
@@ -13224,6 +14785,10 @@
   - lámpada
   - sofá
   - sofá e lámpada
+🪑:
+  - asento
+  - cadeira
+  - sentar
 🚽:
   - inodoro
   - retrete
@@ -13234,6 +14799,9 @@
 🛁:
   - bañeira
   - baño
+🪒:
+  - afeitar
+  - coitela
 🧴:
   - champú
   - crema solar
@@ -13868,13 +15436,12 @@
   - o
 ✅:
   - ben
+  - caixa coa marca de verificación
   - correcto
   - marca
-  - marca de verificación branca
   - verificación
 ☑️:
   - marca
-  - marcado
   - recadro
   - recadro con marca de verificación
   - verificación
@@ -13900,7 +15467,6 @@
   - X
   - botón “X”
   - cancelar
-  - marca
   - pechar
   - recadro
 ➕:
@@ -13936,37 +15502,44 @@
   - asterisco de oito raios
   - oito
 ✴️:
+  - '*'
   - '8'
   - estrela
   - estrela de oito puntas
-  - oito
 ❇️:
+  - '*'
   - chispa
 ‼️:
+  - '!!'
   - admiración
   - dobre
   - exclamación
   - signo de exclamación dobre
 ⁉️:
+  - '!?'
   - admiración
   - exclamación
   - interrogación
   - signo de exclamación e interrogación
 ❓️:
+  - '?'
   - interrogación
   - pregunta
   - signo de interrogación
 ❔:
-  - branco
+  - '?'
   - interrogación
   - pregunta
+  - signo de interrogación
   - signo de interrogación branco
 ❕:
+  - '!'
   - admiración
-  - branco
   - exclamación
+  - signo de exclamación
   - signo de exclamación branco
 ❗️:
+  - '!'
   - admiración
   - exclamación
   - signo de exclamación
@@ -13980,7 +15553,9 @@
   - autor
   - copyright
   - dereitos
+  - r
 ®️:
+  - '"R"'
   - marca
   - marca rexistrada “R”
   - rexistrada
@@ -13990,44 +15565,44 @@
   - marca rexistrada “TM”
   - rexistrada
 '#⃣':
-  - teclas
-  - 'teclas: #'
+  - tecla
+  - 'tecla: #'
 '*⃣':
-  - teclas
-  - 'teclas: *'
+  - tecla
+  - 'tecla: *'
 0⃣:
-  - teclas
-  - 'teclas: 0'
+  - tecla
+  - 'tecla: 0'
 1⃣:
-  - teclas
-  - 'teclas: 1'
+  - tecla
+  - 'tecla: 1'
 2⃣:
-  - teclas
-  - 'teclas: 2'
+  - tecla
+  - 'tecla: 2'
 3⃣:
-  - teclas
-  - 'teclas: 3'
+  - tecla
+  - 'tecla: 3'
 4⃣:
-  - teclas
-  - 'teclas: 4'
+  - tecla
+  - 'tecla: 4'
 5⃣:
-  - teclas
-  - 'teclas: 5'
+  - tecla
+  - 'tecla: 5'
 6⃣:
-  - teclas
-  - 'teclas: 6'
+  - tecla
+  - 'tecla: 6'
 7⃣:
-  - teclas
-  - 'teclas: 7'
+  - tecla
+  - 'tecla: 7'
 8⃣:
-  - teclas
-  - 'teclas: 8'
+  - tecla
+  - 'tecla: 8'
 9⃣:
-  - teclas
-  - 'teclas: 9'
+  - tecla
+  - 'tecla: 9'
 🔟:
-  - teclas
-  - 'teclas: 10'
+  - tecla
+  - 'tecla: 10'
 🔠:
   - ABCD
   - introducir
@@ -14237,10 +15812,31 @@
   - círculo
   - círculo vermello
   - vermello
+🟠:
+  - círculo
+  - círculo laranxa
+  - laranxa
+🟡:
+  - amarelo
+  - círculo
+  - círculo amarelo
+🟢:
+  - círculo
+  - círculo verde
+  - verde
 🔵:
   - azul
   - círculo
   - círculo azul
+🟣:
+  - círculo
+  - círculo violeta
+  - violeta
+🟤:
+  - castaño
+  - círculo
+  - círculo marrón
+  - marrón
 ⚫️:
   - círculo
   - círculo negro
@@ -14249,6 +15845,35 @@
   - branco
   - círculo
   - círculo branco
+🟥:
+  - cadrado
+  - cadrado vermello
+  - vermello
+🟧:
+  - cadrado
+  - cadrado laranxa
+  - laranxa
+🟨:
+  - amarelo
+  - cadrado
+  - cadrado amarelo
+🟩:
+  - cadrado
+  - cadrado verde
+  - verde
+🟦:
+  - azul
+  - cadrado
+  - cadrado azul
+🟪:
+  - cadrado
+  - cadrado violeta
+  - violeta
+🟫:
+  - cadrado
+  - cadrado marrón
+  - castaño
+  - marrón
 ⬛️:
   - cadrado
   - cadrado grande negro
@@ -14386,13 +16011,13 @@
   - 'bandeira: Andorra'
 🇦🇪:
   - bandeira
-  - 'bandeira: Emiratos Árabes Unidos'
+  - 'bandeira: Os Emiratos Árabes Unidos'
 🇦🇫:
   - bandeira
   - 'bandeira: Afganistán'
 🇦🇬:
   - bandeira
-  - 'bandeira: Antiga e Barbuda'
+  - 'bandeira: Antigua e Barbuda'
 🇦🇮:
   - bandeira
   - 'bandeira: Anguila'
@@ -14407,10 +16032,10 @@
   - 'bandeira: Angola'
 🇦🇶:
   - bandeira
-  - 'bandeira: Antártida'
+  - 'bandeira: A Antártida'
 🇦🇷:
   - bandeira
-  - 'bandeira: Arxentina'
+  - 'bandeira: A Arxentina'
 🇦🇸:
   - bandeira
   - 'bandeira: Samoa Americana'
@@ -14425,7 +16050,7 @@
   - 'bandeira: Aruba'
 🇦🇽:
   - bandeira
-  - 'bandeira: Illas Aland'
+  - 'bandeira: Illas Åland'
 🇦🇿:
   - bandeira
   - 'bandeira: Acerbaixán'
@@ -14455,13 +16080,13 @@
   - 'bandeira: Burundi'
 🇧🇯:
   - bandeira
-  - 'bandeira: Benin'
+  - 'bandeira: Benín'
 🇧🇱:
   - bandeira
-  - 'bandeira: Saint-Barthélemy'
+  - 'bandeira: Saint Barthélemy'
 🇧🇲:
   - bandeira
-  - 'bandeira: Bermudas'
+  - 'bandeira: Illas Bermudas'
 🇧🇳:
   - bandeira
   - 'bandeira: Brunei'
@@ -14473,7 +16098,7 @@
   - 'bandeira: Caribe Neerlandés'
 🇧🇷:
   - bandeira
-  - 'bandeira: Brasil'
+  - 'bandeira: O Brasil'
 🇧🇸:
   - bandeira
   - 'bandeira: Bahamas'
@@ -14488,13 +16113,13 @@
   - 'bandeira: Botswana'
 🇧🇾:
   - bandeira
-  - 'bandeira: Bielorrusia'
+  - 'bandeira: Belarús'
 🇧🇿:
   - bandeira
   - 'bandeira: Belize'
 🇨🇦:
   - bandeira
-  - 'bandeira: Canadá'
+  - 'bandeira: O Canadá'
 🇨🇨:
   - bandeira
   - 'bandeira: Illas Cocos (Keeling)'
@@ -14524,7 +16149,7 @@
   - 'bandeira: Camerún'
 🇨🇳:
   - bandeira
-  - 'bandeira: China'
+  - 'bandeira: A China'
 🇨🇴:
   - bandeira
   - 'bandeira: Colombia'
@@ -14545,7 +16170,7 @@
   - 'bandeira: Curaçao'
 🇨🇽:
   - bandeira
-  - 'bandeira: Illa de Nadal'
+  - 'bandeira: Illa Christmas'
 🇨🇾:
   - bandeira
   - 'bandeira: Chipre'
@@ -14587,7 +16212,7 @@
   - 'bandeira: Exipto'
 🇪🇭:
   - bandeira
-  - 'bandeira: Sáhara Occidental'
+  - 'bandeira: O Sáhara Occidental'
 🇪🇷:
   - bandeira
   - 'bandeira: Eritrea'
@@ -14605,7 +16230,7 @@
   - 'bandeira: Finlandia'
 🇫🇯:
   - bandeira
-  - 'bandeira: Fidxi'
+  - 'bandeira: Fixi'
 🇫🇰:
   - bandeira
   - 'bandeira: Illas Malvinas'
@@ -14623,7 +16248,7 @@
   - 'bandeira: Gabón'
 🇬🇧:
   - bandeira
-  - 'bandeira: Reino Unido'
+  - 'bandeira: O Reino Unido'
 🇬🇩:
   - bandeira
   - 'bandeira: Granada'
@@ -14671,7 +16296,7 @@
   - 'bandeira: Guam'
 🇬🇼:
   - bandeira
-  - 'bandeira: Guinea-Bissau'
+  - 'bandeira: A Guinea Bissau'
 🇬🇾:
   - bandeira
   - 'bandeira: Güiana'
@@ -14710,7 +16335,7 @@
   - 'bandeira: Illa de Man'
 🇮🇳:
   - bandeira
-  - 'bandeira: India'
+  - 'bandeira: A India'
 🇮🇴:
   - bandeira
   - 'bandeira: Territorio Británico do Océano Índico'
@@ -14737,7 +16362,7 @@
   - 'bandeira: Xordania'
 🇯🇵:
   - bandeira
-  - 'bandeira: Xapón'
+  - 'bandeira: O Xapón'
 🇰🇪:
   - bandeira
   - 'bandeira: Kenya'
@@ -14746,7 +16371,7 @@
   - 'bandeira: Kirguizistán'
 🇰🇭:
   - bandeira
-  - 'bandeira: Cambodja'
+  - 'bandeira: Camboxa'
 🇰🇮:
   - bandeira
   - 'bandeira: Kiribati'
@@ -14776,7 +16401,7 @@
   - 'bandeira: Laos'
 🇱🇧:
   - bandeira
-  - 'bandeira: Líbano'
+  - 'bandeira: O Líbano'
 🇱🇨:
   - bandeira
   - 'bandeira: Santa Lucía'
@@ -14791,7 +16416,7 @@
   - 'bandeira: Liberia'
 🇱🇸:
   - bandeira
-  - 'bandeira: Lesoto'
+  - 'bandeira: Lesotho'
 🇱🇹:
   - bandeira
   - 'bandeira: Lituania'
@@ -14818,7 +16443,7 @@
   - 'bandeira: Montenegro'
 🇲🇫:
   - bandeira
-  - 'bandeira: Saint-Martin'
+  - 'bandeira: Saint Martin'
 🇲🇬:
   - bandeira
   - 'bandeira: Madagascar'
@@ -14917,10 +16542,10 @@
   - 'bandeira: Panamá'
 🇵🇪:
   - bandeira
-  - 'bandeira: Perú'
+  - 'bandeira: O Perú'
 🇵🇫:
   - bandeira
-  - 'bandeira: Polinesia Francesa'
+  - 'bandeira: A Polinesia Francesa'
 🇵🇬:
   - bandeira
   - 'bandeira: Papúa-Nova Guinea'
@@ -14935,7 +16560,7 @@
   - 'bandeira: Polonia'
 🇵🇲:
   - bandeira
-  - 'bandeira: Saint-Pierre-et-Miquelon'
+  - 'bandeira: Saint Pierre et Miquelon'
 🇵🇳:
   - bandeira
   - 'bandeira: Illas Pitcairn'
@@ -14953,7 +16578,7 @@
   - 'bandeira: Palau'
 🇵🇾:
   - bandeira
-  - 'bandeira: Paraguai'
+  - 'bandeira: O Paraguai'
 🇶🇦:
   - bandeira
   - 'bandeira: Qatar'
@@ -14983,7 +16608,7 @@
   - 'bandeira: Seychelles'
 🇸🇩:
   - bandeira
-  - 'bandeira: Sudán'
+  - 'bandeira: O Sudán'
 🇸🇪:
   - bandeira
   - 'bandeira: Suecia'
@@ -15019,7 +16644,7 @@
   - 'bandeira: Suriname'
 🇸🇸:
   - bandeira
-  - 'bandeira: Sudán do Sur'
+  - 'bandeira: O Sudán do Sur'
 🇸🇹:
   - bandeira
   - 'bandeira: San Tomé e Príncipe'
@@ -15034,7 +16659,7 @@
   - 'bandeira: Siria'
 🇸🇿:
   - bandeira
-  - 'bandeira: Swazilandia'
+  - 'bandeira: Suazilandia'
 🇹🇦:
   - bandeira
   - 'bandeira: Tristán da Cunha'
@@ -15064,7 +16689,7 @@
   - 'bandeira: Timor Leste'
 🇹🇲:
   - bandeira
-  - 'bandeira: Turcomenistán'
+  - 'bandeira: Turkmenistán'
 🇹🇳:
   - bandeira
   - 'bandeira: Tunisia'
@@ -15094,16 +16719,16 @@
   - 'bandeira: Uganda'
 🇺🇲:
   - bandeira
-  - 'bandeira: Illas Ultramarinas dos EUA'
+  - 'bandeira: Illas Menores Distantes dos Estados Unidos'
 🇺🇳:
   - bandeira
   - 'bandeira: Nacións Unidas'
 🇺🇸:
   - bandeira
-  - 'bandeira: Estados Unidos de América'
+  - 'bandeira: Os Estados Unidos'
 🇺🇾:
   - bandeira
-  - 'bandeira: Uruguai'
+  - 'bandeira: O Uruguai'
 🇺🇿:
   - bandeira
   - 'bandeira: Uzbequistán'
@@ -15139,7 +16764,7 @@
   - 'bandeira: Kosovo'
 🇾🇪:
   - bandeira
-  - 'bandeira: Iemen'
+  - 'bandeira: O Iemen'
 🇾🇹:
   - bandeira
   - 'bandeira: Mayotte'
