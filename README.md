@@ -30,6 +30,8 @@ If you're just looking for the obvious English-language full emoji collections, 
 
 This repo includes all of the annotated emoji per available language.
 
+The emoji are sorted according to Unicode sorting rules.
+
 The same data is made available in json, tsv, and yaml.
 
 The files are named according to the the source CLDR data files using standard language and locale identifiers, e.g. `en_GB` is "British English," `de_CH` is "Swiss Standard German," etc.
@@ -92,6 +94,12 @@ YAML:
 ```
 
 --------------------------------
+
+## New emoji from unicode
+
+There is some delay after a Unicode release before the annotations and translations are released in a new version of CLDR. During this period you should see a branch like `release-nn-beta` for testing the upcoming release.
+
+Expect this branch to make it to master soon after a CLDR official release.
 
 # Versioning
 
