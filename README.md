@@ -157,7 +157,7 @@ The Unicode Consortium has kind of already done the contributing by making the C
 
 This repository was created and is maintained by [Christopher Peterson] for use in [Splatmoji].
 
-Also, if you're here you're probably a nerd of some variety and should definitely also check out the awesome podcast [Decipher SciFi] 🤓
+Also, if you're here you're probably a nerd of some variety and should definitely also check out the awesome podcasts [Decipher SciFi] and [Decipher History]! 🤓
 
 # Licenses
 
@@ -167,6 +167,7 @@ The rest of the code and data in this repository are distributed under the [Apac
 
 [CLDR]: http://cldr.unicode.org/index/downloads
 [Christopher Peterson]: https://chrispeterson.info
-[Decipher SciFi]: https://decipherscifi.com
+[Decipher History]: https://deciphermedia.tv/decipherhistory
+[Decipher SciFi]: https://deciphermedia.tv/decipherscifi
 [Semver 2.0.0]: https://semver.org/
 [Splatmoji]: https://github.com/cspeterson/splatmoji
