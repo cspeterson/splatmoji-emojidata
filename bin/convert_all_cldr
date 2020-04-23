@@ -59,7 +59,7 @@ unzip -d "${extract_dir}" "${cldr_filepath}"
 if ! [ -s "${sequences}" ]; then
   # Else go get the latest from Unicode
   sequences="${temp_dir}/emoji-variation-sequences.txt"
-  wget --output-document "${sequences}" 'https://www.unicode.org/Public/emoji/latest/emoji-variation-sequences.txt'
+  wget --output-document "${sequences}" 'https://www.unicode.org/Public/UCD/latest/ucd/emoji/emoji-variation-sequences.txt'
 fi
 
 # Get/use ordering/grouping data
