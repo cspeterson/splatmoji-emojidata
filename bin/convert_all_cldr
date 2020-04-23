@@ -48,7 +48,7 @@ mkdir -p "${temp_dir}"
 extract_dir="${temp_dir}/core"
 
 # Get/use cldr zip
-if ! [ -f "${cldr_filepath}" ]; then
+if ! unzip -t "${cldr_filepath}" 2>/dev/null; then
   # Else go get the latest CLDR zip and use that
   cldr_filepath="${temp_dir}/core.zip"
   wget --output-document "${cldr_filepath}" 'http://unicode.org/Public/cldr/latest/core.zip'
@@ -56,14 +56,14 @@ fi
 unzip -d "${extract_dir}" "${cldr_filepath}"
 
 # Get/use presentation sequences
-if ! [ -f "${sequences}" ]; then
+if ! [ -s "${sequences}" ]; then
   # Else go get the latest from Unicode
   sequences="${temp_dir}/emoji-variation-sequences.txt"
   wget --output-document "${sequences}" 'https://www.unicode.org/Public/emoji/latest/emoji-variation-sequences.txt'
 fi
 
 # Get/use ordering/grouping data
-if ! [ -f "${ordering}" ]; then
+if ! [ -s "${ordering}" ]; then
   # Else go get the latest from Unicode
   ordering="${temp_dir}/emoji-ordering-rules.txt"
   wget --output-document "${ordering}" 'https://unicode.org/emoji/charts/emoji-ordering-rules.txt'
