@@ -90,7 +90,7 @@
     "🥰": [
         "ljubezen",
         "oboževanje",
-        "smejoči obraz s 3 srčki",
+        "smejoči obraz s srčki",
         "zaljubljenost"
     ],
     "😍": [
@@ -135,6 +135,15 @@
         "obraz s smejočimi očmi, ki poljublja",
         "oči",
         "poljub"
+    ],
+    "🥲": [
+        "ganjenost",
+        "hvaležnost",
+        "nasmeh",
+        "olajšanje",
+        "ponos",
+        "smejoči obraz s solzo",
+        "solza"
     ],
     "😋": [
         "nasmeh",
@@ -360,6 +369,14 @@
         "praznujoči obraz",
         "zabava"
     ],
+    "🥸": [
+        "inkognito",
+        "maska",
+        "nos",
+        "obraz",
+        "očala",
+        "preobleka"
+    ],
     "😎": [
         "frajersko",
         "nasmeh",
@@ -528,6 +545,12 @@
         "utrujen obraz",
         "utrujeno"
     ],
+    "🥱": [
+        "dolgčas",
+        "utrujen",
+        "zehajoč obraz",
+        "zehanje"
+    ],
     "😤": [
         "obraz",
         "obraz s paro skozi nos",
@@ -628,11 +651,9 @@
     "👽️": [
         "bitje",
         "fantazija",
-        "nezemeljan",
+        "nezemljan",
         "nlp",
         "obraz",
-        "pošast",
-        "pravljica",
         "vesolje",
         "vesoljec"
     ],
@@ -649,7 +670,6 @@
     ],
     "🤖": [
         "obraz",
-        "obraz robota",
         "pošast",
         "robot"
     ],
@@ -657,21 +677,23 @@
         "mačka",
         "nasmeh",
         "obraz",
-        "odprto",
-        "režeči mačji obraz",
+        "odprta",
+        "režeča se mačka",
+        "smeh",
         "usta"
     ],
     "😸": [
         "mačka",
         "nasmeh",
         "obraz",
-        "oči",
+        "oko",
         "režanje",
-        "režeči mačji obraz s smejočimi očmi"
+        "režeča se mačka s smejočimi očmi"
     ],
     "😹": [
         "mačji obraz s solzami sreče",
         "mačka",
+        "mačka s solzami sreče",
         "obraz",
         "solze",
         "veselje"
@@ -682,6 +704,7 @@
         "nasmeh",
         "obraz",
         "oči",
+        "smejoča se mačka z očmi v obliki srčka",
         "smejoči mačji obraz z očmi v obliki srčka",
         "srce"
     ],
@@ -689,6 +712,7 @@
         "ironično",
         "mačji obraz s prifrknjenim nasmeškom",
         "mačka",
+        "mačka s prifrknjenim nasmeškom",
         "nasmeh",
         "obraz",
         "porogljivo"
@@ -696,6 +720,7 @@
     "😽": [
         "mačji obraz z zaprtimi očmi, ki poljublja",
         "mačka",
+        "mačka poljublja z zaprtimi očmi",
         "obraz",
         "oči",
         "poljub"
@@ -704,10 +729,12 @@
         "mačka",
         "naveličano",
         "obraz",
-        "presenečen mačji obraz",
+        "odprta usta",
+        "presenečena mačka",
         "presenečeno"
     ],
     "😿": [
+        "jokajoča mačka",
         "jokajoči mačji obraz",
         "jokanje",
         "mačka",
@@ -719,6 +746,7 @@
         "kujanje",
         "mačji obraz, ki kuha mulo",
         "mačka",
+        "mačka kuha mulo",
         "obraz"
     ],
     "🙈": [
@@ -855,6 +883,11 @@
         "vijolično",
         "vijolično srce"
     ],
+    "🤎": [
+        "rjavo",
+        "rjavo srce",
+        "srce"
+    ],
     "🖤": [
         "hudobno",
         "podlo",
@@ -862,6 +895,11 @@
         "zlobno",
         "črno",
         "črno srce"
+    ],
+    "🤍": [
+        "belo",
+        "belo srce",
+        "srce"
     ],
     "💯": [
         "100",
@@ -1240,6 +1278,104 @@
         "temen ten kože",
         "v redu"
     ],
+    "🤌": [
+        "izpraševanje",
+        "kretnja z roko",
+        "prsti",
+        "prsti, stisnjeni skupaj",
+        "sarkastično",
+        "stisnjen"
+    ],
+    "🤌🏻": [
+        "izpraševanje",
+        "kretnja z roko",
+        "prsti",
+        "prsti, stisnjeni skupaj",
+        "prsti, stisnjeni skupaj: svetel ten kože",
+        "sarkastično",
+        "stisnjen",
+        "svetel ten kože"
+    ],
+    "🤌🏼": [
+        "izpraševanje",
+        "kretnja z roko",
+        "prsti",
+        "prsti, stisnjeni skupaj",
+        "prsti, stisnjeni skupaj: srednje svetel ten kože",
+        "sarkastično",
+        "srednje svetel ten kože",
+        "stisnjen"
+    ],
+    "🤌🏽": [
+        "izpraševanje",
+        "kretnja z roko",
+        "prsti",
+        "prsti, stisnjeni skupaj",
+        "prsti, stisnjeni skupaj: srednji ten kože",
+        "sarkastično",
+        "srednji ten kože",
+        "stisnjen"
+    ],
+    "🤌🏾": [
+        "izpraševanje",
+        "kretnja z roko",
+        "prsti",
+        "prsti, stisnjeni skupaj",
+        "prsti, stisnjeni skupaj: srednje temen ten kože",
+        "sarkastično",
+        "srednje temen ten kože",
+        "stisnjen"
+    ],
+    "🤌🏿": [
+        "izpraševanje",
+        "kretnja z roko",
+        "prsti",
+        "prsti, stisnjeni skupaj",
+        "prsti, stisnjeni skupaj: temen ten kože",
+        "sarkastično",
+        "stisnjen",
+        "temen ten kože"
+    ],
+    "🤏": [
+        "majhna količina",
+        "malo",
+        "roka s ščepcem"
+    ],
+    "🤏🏻": [
+        "majhna količina",
+        "malo",
+        "roka s ščepcem",
+        "roka s ščepcem: svetel ten kože",
+        "svetel ten kože"
+    ],
+    "🤏🏼": [
+        "majhna količina",
+        "malo",
+        "roka s ščepcem",
+        "roka s ščepcem: srednje svetel ten kože",
+        "srednje svetel ten kože"
+    ],
+    "🤏🏽": [
+        "majhna količina",
+        "malo",
+        "roka s ščepcem",
+        "roka s ščepcem: srednji ten kože",
+        "srednji ten kože"
+    ],
+    "🤏🏾": [
+        "majhna količina",
+        "malo",
+        "roka s ščepcem",
+        "roka s ščepcem: srednje temen ten kože",
+        "srednje temen ten kože"
+    ],
+    "🤏🏿": [
+        "majhna količina",
+        "malo",
+        "roka s ščepcem",
+        "roka s ščepcem: temen ten kože",
+        "temen ten kože"
+    ],
     "✌️": [
         "dlan",
         "dlan s prstoma, ki kažeta znak za zmago",
@@ -1339,29 +1475,41 @@
         "temen ten kože"
     ],
     "🤟": [
+        "RTM",
+        "roka",
         "znak za ljubim te"
     ],
     "🤟🏻": [
+        "RTM",
+        "roka",
         "svetel ten kože",
         "znak za ljubim te",
         "znak za ljubim te: svetel ten kože"
     ],
     "🤟🏼": [
+        "RTM",
+        "roka",
         "srednje svetel ten kože",
         "znak za ljubim te",
         "znak za ljubim te: srednje svetel ten kože"
     ],
     "🤟🏽": [
+        "RTM",
+        "roka",
         "srednji ten kože",
         "znak za ljubim te",
         "znak za ljubim te: srednji ten kože"
     ],
     "🤟🏾": [
+        "RTM",
+        "roka",
         "srednje temen ten kože",
         "znak za ljubim te",
         "znak za ljubim te: srednje temen ten kože"
     ],
     "🤟🏿": [
+        "RTM",
+        "roka",
         "temen ten kože",
         "znak za ljubim te",
         "znak za ljubim te: temen ten kože"
@@ -2307,31 +2455,37 @@
         "temen ten kože"
     ],
     "🤲": [
-        "dvignjeni odprti dlani"
+        "dvignjeni odprti dlani",
+        "molitev"
     ],
     "🤲🏻": [
         "dvignjeni odprti dlani",
         "dvignjeni odprti dlani: svetel ten kože",
+        "molitev",
         "svetel ten kože"
     ],
     "🤲🏼": [
         "dvignjeni odprti dlani",
         "dvignjeni odprti dlani: srednje svetel ten kože",
+        "molitev",
         "srednje svetel ten kože"
     ],
     "🤲🏽": [
         "dvignjeni odprti dlani",
         "dvignjeni odprti dlani: srednji ten kože",
+        "molitev",
         "srednji ten kože"
     ],
     "🤲🏾": [
         "dvignjeni odprti dlani",
         "dvignjeni odprti dlani: srednje temen ten kože",
+        "molitev",
         "srednje temen ten kože"
     ],
     "🤲🏿": [
         "dvignjeni odprti dlani",
         "dvignjeni odprti dlani: temen ten kože",
+        "molitev",
         "temen ten kože"
     ],
     "🤝": [
@@ -2636,6 +2790,18 @@
         "telo",
         "temen ten kože"
     ],
+    "🦾": [
+        "invalid",
+        "mehanska roka",
+        "proteza",
+        "umetni ud"
+    ],
+    "🦿": [
+        "invalid",
+        "mehanska noga",
+        "proteza",
+        "umetni ud"
+    ],
     "🦵": [
         "brca",
         "noga",
@@ -2750,6 +2916,46 @@
         "uho",
         "uho: temen ten kože"
     ],
+    "🦻": [
+        "naglušni",
+        "okvara sluha",
+        "uho s slušnim aparatom"
+    ],
+    "🦻🏻": [
+        "naglušni",
+        "okvara sluha",
+        "svetel ten kože",
+        "uho s slušnim aparatom",
+        "uho s slušnim aparatom: svetel ten kože"
+    ],
+    "🦻🏼": [
+        "naglušni",
+        "okvara sluha",
+        "srednje svetel ten kože",
+        "uho s slušnim aparatom",
+        "uho s slušnim aparatom: srednje svetel ten kože"
+    ],
+    "🦻🏽": [
+        "naglušni",
+        "okvara sluha",
+        "srednji ten kože",
+        "uho s slušnim aparatom",
+        "uho s slušnim aparatom: srednji ten kože"
+    ],
+    "🦻🏾": [
+        "naglušni",
+        "okvara sluha",
+        "srednje temen ten kože",
+        "uho s slušnim aparatom",
+        "uho s slušnim aparatom: srednje temen ten kože"
+    ],
+    "🦻🏿": [
+        "naglušni",
+        "okvara sluha",
+        "temen ten kože",
+        "uho s slušnim aparatom",
+        "uho s slušnim aparatom: temen ten kože"
+    ],
     "👃": [
         "nos",
         "telo"
@@ -2785,7 +2991,24 @@
         "temen ten kože"
     ],
     "🧠": [
+        "inteligenca",
         "možgani"
+    ],
+    "🫀": [
+        "kardiologija",
+        "organ",
+        "osrčje",
+        "srčni utrip",
+        "utrip",
+        "človeško srce"
+    ],
+    "🫁": [
+        "dih",
+        "dihanje",
+        "izdih",
+        "organ",
+        "pljuča",
+        "vdih"
     ],
     "🦷": [
         "zob",
@@ -2972,37 +3195,189 @@
         "temen ten kože"
     ],
     "👱": [
-        "svetlolasa oseba",
-        "svetlolaso"
+        "lasje",
+        "oseba: svetli lasje",
+        "svetli lasje",
+        "svetlolasa oseba"
     ],
     "👱🏻": [
+        "lasje",
+        "oseba: svetel ten kože in svetli lasje",
+        "oseba: svetli lasje",
         "svetel ten kože",
-        "svetlolasa oseba",
-        "svetlolasa oseba: svetel ten kože",
-        "svetlolaso"
+        "svetli lasje",
+        "svetlolasa oseba"
     ],
     "👱🏼": [
+        "lasje",
+        "oseba: srednje svetel ten kože in svetli lasje",
+        "oseba: svetli lasje",
         "srednje svetel ten kože",
-        "svetlolasa oseba",
-        "svetlolasa oseba: srednje svetel ten kože",
-        "svetlolaso"
+        "svetli lasje",
+        "svetlolasa oseba"
     ],
     "👱🏽": [
+        "lasje",
+        "oseba: srednji ten kože in svetli lasje",
+        "oseba: svetli lasje",
         "srednji ten kože",
-        "svetlolasa oseba",
-        "svetlolasa oseba: srednji ten kože",
-        "svetlolaso"
+        "svetli lasje",
+        "svetlolasa oseba"
     ],
     "👱🏾": [
+        "lasje",
+        "oseba: srednje temen ten kože in svetli lasje",
+        "oseba: svetli lasje",
         "srednje temen ten kože",
-        "svetlolasa oseba",
-        "svetlolasa oseba: srednje temen ten kože",
-        "svetlolaso"
+        "svetli lasje",
+        "svetlolasa oseba"
     ],
     "👱🏿": [
+        "lasje",
+        "oseba: svetli lasje",
+        "oseba: temen ten kože in svetli lasje",
+        "svetli lasje",
         "svetlolasa oseba",
-        "svetlolasa oseba: temen ten kože",
-        "svetlolaso",
+        "temen ten kože"
+    ],
+    "🧑‍🦰": [
+        "odrasla oseba",
+        "odrasla oseba: rdeči lasje",
+        "rdeči lasje"
+    ],
+    "🧑🏻‍🦰": [
+        "odrasla oseba",
+        "odrasla oseba: svetel ten kože in rdeči lasje",
+        "rdeči lasje",
+        "svetel ten kože"
+    ],
+    "🧑🏼‍🦰": [
+        "odrasla oseba",
+        "odrasla oseba: srednje svetel ten kože in rdeči lasje",
+        "rdeči lasje",
+        "srednje svetel ten kože"
+    ],
+    "🧑🏽‍🦰": [
+        "odrasla oseba",
+        "odrasla oseba: srednji ten kože in rdeči lasje",
+        "rdeči lasje",
+        "srednji ten kože"
+    ],
+    "🧑🏾‍🦰": [
+        "odrasla oseba",
+        "odrasla oseba: srednje temen ten kože in rdeči lasje",
+        "rdeči lasje",
+        "srednje temen ten kože"
+    ],
+    "🧑🏿‍🦰": [
+        "odrasla oseba",
+        "odrasla oseba: temen ten kože in rdeči lasje",
+        "rdeči lasje",
+        "temen ten kože"
+    ],
+    "🧑‍🦱": [
+        "kodrasti lasje",
+        "odrasla oseba",
+        "odrasla oseba: kodrasti lasje"
+    ],
+    "🧑🏻‍🦱": [
+        "kodrasti lasje",
+        "odrasla oseba",
+        "odrasla oseba: svetel ten kože in kodrasti lasje",
+        "svetel ten kože"
+    ],
+    "🧑🏼‍🦱": [
+        "kodrasti lasje",
+        "odrasla oseba",
+        "odrasla oseba: srednje svetel ten kože in kodrasti lasje",
+        "srednje svetel ten kože"
+    ],
+    "🧑🏽‍🦱": [
+        "kodrasti lasje",
+        "odrasla oseba",
+        "odrasla oseba: srednji ten kože in kodrasti lasje",
+        "srednji ten kože"
+    ],
+    "🧑🏾‍🦱": [
+        "kodrasti lasje",
+        "odrasla oseba",
+        "odrasla oseba: srednje temen ten kože in kodrasti lasje",
+        "srednje temen ten kože"
+    ],
+    "🧑🏿‍🦱": [
+        "kodrasti lasje",
+        "odrasla oseba",
+        "odrasla oseba: temen ten kože in kodrasti lasje",
+        "temen ten kože"
+    ],
+    "🧑‍🦳": [
+        "odrasla oseba",
+        "odrasla oseba: sivi lasje",
+        "sivi lasje"
+    ],
+    "🧑🏻‍🦳": [
+        "odrasla oseba",
+        "odrasla oseba: svetel ten kože in sivi lasje",
+        "sivi lasje",
+        "svetel ten kože"
+    ],
+    "🧑🏼‍🦳": [
+        "odrasla oseba",
+        "odrasla oseba: srednje svetel ten kože in sivi lasje",
+        "sivi lasje",
+        "srednje svetel ten kože"
+    ],
+    "🧑🏽‍🦳": [
+        "odrasla oseba",
+        "odrasla oseba: srednji ten kože in sivi lasje",
+        "sivi lasje",
+        "srednji ten kože"
+    ],
+    "🧑🏾‍🦳": [
+        "odrasla oseba",
+        "odrasla oseba: srednje temen ten kože in sivi lasje",
+        "sivi lasje",
+        "srednje temen ten kože"
+    ],
+    "🧑🏿‍🦳": [
+        "odrasla oseba",
+        "odrasla oseba: temen ten kože in sivi lasje",
+        "sivi lasje",
+        "temen ten kože"
+    ],
+    "🧑‍🦲": [
+        "odrasla oseba",
+        "odrasla oseba: plešast",
+        "plešast"
+    ],
+    "🧑🏻‍🦲": [
+        "odrasla oseba",
+        "odrasla oseba: svetel ten kože in plešast",
+        "plešast",
+        "svetel ten kože"
+    ],
+    "🧑🏼‍🦲": [
+        "odrasla oseba",
+        "odrasla oseba: srednje svetel ten kože in plešast",
+        "plešast",
+        "srednje svetel ten kože"
+    ],
+    "🧑🏽‍🦲": [
+        "odrasla oseba",
+        "odrasla oseba: srednji ten kože in plešast",
+        "plešast",
+        "srednji ten kože"
+    ],
+    "🧑🏾‍🦲": [
+        "odrasla oseba",
+        "odrasla oseba: srednje temen ten kože in plešast",
+        "plešast",
+        "srednje temen ten kože"
+    ],
+    "🧑🏿‍🦲": [
+        "odrasla oseba",
+        "odrasla oseba: temen ten kože in plešast",
+        "plešast",
         "temen ten kože"
     ],
     "👨": [
@@ -3040,71 +3415,101 @@
         "temen ten kože"
     ],
     "🧔": [
-        "bradat moški"
+        "brada",
+        "moški",
+        "moški: brada",
+        "oseba"
     ],
     "🧔🏻": [
-        "bradat moški",
-        "bradat moški: svetel ten kože",
+        "brada",
+        "moški",
+        "moški: brada",
+        "moški: svetel ten kože in brada",
+        "oseba",
         "svetel ten kože"
     ],
     "🧔🏼": [
-        "bradat moški",
-        "bradat moški: srednje svetel ten kože",
+        "brada",
+        "moški",
+        "moški: brada",
+        "moški: srednje svetel ten kože in brada",
+        "oseba",
         "srednje svetel ten kože"
     ],
     "🧔🏽": [
-        "bradat moški",
-        "bradat moški: srednji ten kože",
+        "brada",
+        "moški",
+        "moški: brada",
+        "moški: srednji ten kože in brada",
+        "oseba",
         "srednji ten kože"
     ],
     "🧔🏾": [
-        "bradat moški",
-        "bradat moški: srednje temen ten kože",
+        "brada",
+        "moški",
+        "moški: brada",
+        "moški: srednje temen ten kože in brada",
+        "oseba",
         "srednje temen ten kože"
     ],
     "🧔🏿": [
-        "bradat moški",
-        "bradat moški: temen ten kože",
+        "brada",
+        "moški",
+        "moški: brada",
+        "moški: temen ten kože in brada",
+        "oseba",
         "temen ten kože"
     ],
     "👱‍♂": [
         "blondinec",
         "fant",
-        "moški"
+        "lasje",
+        "moški",
+        "moški: blondinec"
     ],
     "👱🏻‍♂": [
         "blondinec",
-        "blondinec: svetel ten kože",
         "fant",
+        "lasje",
         "moški",
+        "moški: blondinec",
+        "moški: svetel ten kože in blondinec",
         "svetel ten kože"
     ],
     "👱🏼‍♂": [
         "blondinec",
-        "blondinec: srednje svetel ten kože",
         "fant",
+        "lasje",
         "moški",
+        "moški: blondinec",
+        "moški: srednje svetel ten kože in blondinec",
         "srednje svetel ten kože"
     ],
     "👱🏽‍♂": [
         "blondinec",
-        "blondinec: srednji ten kože",
         "fant",
+        "lasje",
         "moški",
+        "moški: blondinec",
+        "moški: srednji ten kože in blondinec",
         "srednji ten kože"
     ],
     "👱🏾‍♂": [
         "blondinec",
-        "blondinec: srednje temen ten kože",
         "fant",
+        "lasje",
         "moški",
+        "moški: blondinec",
+        "moški: srednje temen ten kože in blondinec",
         "srednje temen ten kože"
     ],
     "👱🏿‍♂": [
         "blondinec",
-        "blondinec: temen ten kože",
         "fant",
+        "lasje",
         "moški",
+        "moški: blondinec",
+        "moški: temen ten kože in blondinec",
         "temen ten kože"
     ],
     "👨‍🦰": [
@@ -3308,42 +3713,54 @@
     "👱‍♀": [
         "blondinka",
         "dekle",
-        "ženska"
+        "lasje",
+        "ženska",
+        "ženska: blondinka"
     ],
     "👱🏻‍♀": [
         "blondinka",
-        "blondinka: svetel ten kože",
         "dekle",
+        "lasje",
         "svetel ten kože",
-        "ženska"
+        "ženska",
+        "ženska: blondinka",
+        "ženska: svetel ten kože in blondinka"
     ],
     "👱🏼‍♀": [
         "blondinka",
-        "blondinka: srednje svetel ten kože",
         "dekle",
+        "lasje",
         "srednje svetel ten kože",
-        "ženska"
+        "ženska",
+        "ženska: blondinka",
+        "ženska: srednje svetel ten kože in blondinka"
     ],
     "👱🏽‍♀": [
         "blondinka",
-        "blondinka: srednji ten kože",
         "dekle",
+        "lasje",
         "srednji ten kože",
-        "ženska"
+        "ženska",
+        "ženska: blondinka",
+        "ženska: srednji ten kože in blondinka"
     ],
     "👱🏾‍♀": [
         "blondinka",
-        "blondinka: srednje temen ten kože",
         "dekle",
+        "lasje",
         "srednje temen ten kože",
-        "ženska"
+        "ženska",
+        "ženska: blondinka",
+        "ženska: srednje temen ten kože in blondinka"
     ],
     "👱🏿‍♀": [
         "blondinka",
-        "blondinka: temen ten kože",
         "dekle",
+        "lasje",
         "temen ten kože",
-        "ženska"
+        "ženska",
+        "ženska: blondinka",
+        "ženska: temen ten kože in blondinka"
     ],
     "👩‍🦰": [
         "dekle",
@@ -4655,6 +5072,128 @@
         "ženska, ki dviguje roko",
         "ženska, ki dviguje roko: temen ten kože"
     ],
+    "🧏": [
+        "gluh",
+        "gluha oseba",
+        "invalid",
+        "sluh",
+        "uho"
+    ],
+    "🧏🏻": [
+        "gluh",
+        "gluha oseba",
+        "gluha oseba: svetel ten kože",
+        "invalid",
+        "sluh",
+        "svetel ten kože",
+        "uho"
+    ],
+    "🧏🏼": [
+        "gluh",
+        "gluha oseba",
+        "gluha oseba: srednje svetel ten kože",
+        "invalid",
+        "sluh",
+        "srednje svetel ten kože",
+        "uho"
+    ],
+    "🧏🏽": [
+        "gluh",
+        "gluha oseba",
+        "gluha oseba: srednji ten kože",
+        "invalid",
+        "sluh",
+        "srednji ten kože",
+        "uho"
+    ],
+    "🧏🏾": [
+        "gluh",
+        "gluha oseba",
+        "gluha oseba: srednje temen ten kože",
+        "invalid",
+        "sluh",
+        "srednje temen ten kože",
+        "uho"
+    ],
+    "🧏🏿": [
+        "gluh",
+        "gluha oseba",
+        "gluha oseba: temen ten kože",
+        "invalid",
+        "sluh",
+        "temen ten kože",
+        "uho"
+    ],
+    "🧏‍♂": [
+        "gluh",
+        "gluh moški",
+        "moški"
+    ],
+    "🧏🏻‍♂": [
+        "gluh",
+        "gluh moški: svetel ten kože",
+        "moški",
+        "svetel ten kože"
+    ],
+    "🧏🏼‍♂": [
+        "gluh",
+        "gluh moški: srednje svetel ten kože",
+        "moški",
+        "srednje svetel ten kože"
+    ],
+    "🧏🏽‍♂": [
+        "gluh",
+        "gluh moški: srednji ten kože",
+        "moški",
+        "srednji ten kože"
+    ],
+    "🧏🏾‍♂": [
+        "gluh",
+        "gluh moški: srednje temen ten kože",
+        "moški",
+        "srednje temen ten kože"
+    ],
+    "🧏🏿‍♂": [
+        "gluh",
+        "gluh moški: temen ten kože",
+        "moški",
+        "temen ten kože"
+    ],
+    "🧏‍♀": [
+        "gluha",
+        "gluha ženska",
+        "ženska"
+    ],
+    "🧏🏻‍♀": [
+        "gluha",
+        "gluha ženska: svetel ten kože",
+        "svetel ten kože",
+        "ženska"
+    ],
+    "🧏🏼‍♀": [
+        "gluha",
+        "gluha ženska: srednje svetel ten kože",
+        "srednje svetel ten kože",
+        "ženska"
+    ],
+    "🧏🏽‍♀": [
+        "gluha",
+        "gluha ženska: srednji ten kože",
+        "srednji ten kože",
+        "ženska"
+    ],
+    "🧏🏾‍♀": [
+        "gluha",
+        "gluha ženska: srednje temen ten kože",
+        "srednje temen ten kože",
+        "ženska"
+    ],
+    "🧏🏿‍♀": [
+        "gluha",
+        "gluha ženska: temen ten kože",
+        "temen ten kože",
+        "ženska"
+    ],
     "🙇": [
         "gesta",
         "opravičilo",
@@ -5219,6 +5758,58 @@
         "ženska, ki skomiga z rameni",
         "ženska, ki skomiga z rameni: temen ten kože"
     ],
+    "🧑‍⚕": [
+        "medicinska sestra",
+        "terapevt",
+        "zdravnik",
+        "zdravstveni delavci",
+        "zdravstvo"
+    ],
+    "🧑🏻‍⚕": [
+        "medicinska sestra",
+        "svetel ten kože",
+        "terapevt",
+        "zdravnik",
+        "zdravstveni delavci",
+        "zdravstveni delavci: svetel ten kože",
+        "zdravstvo"
+    ],
+    "🧑🏼‍⚕": [
+        "medicinska sestra",
+        "srednje svetel ten kože",
+        "terapevt",
+        "zdravnik",
+        "zdravstveni delavci",
+        "zdravstveni delavci: srednje svetel ten kože",
+        "zdravstvo"
+    ],
+    "🧑🏽‍⚕": [
+        "medicinska sestra",
+        "srednji ten kože",
+        "terapevt",
+        "zdravnik",
+        "zdravstveni delavci",
+        "zdravstveni delavci: srednji ten kože",
+        "zdravstvo"
+    ],
+    "🧑🏾‍⚕": [
+        "medicinska sestra",
+        "srednje temen ten kože",
+        "terapevt",
+        "zdravnik",
+        "zdravstveni delavci",
+        "zdravstveni delavci: srednje temen ten kože",
+        "zdravstvo"
+    ],
+    "🧑🏿‍⚕": [
+        "medicinska sestra",
+        "temen ten kože",
+        "terapevt",
+        "zdravnik",
+        "zdravstveni delavci",
+        "zdravstveni delavci: temen ten kože",
+        "zdravstvo"
+    ],
     "👨‍⚕": [
         "fant",
         "medicinski tehnik",
@@ -5347,6 +5938,46 @@
         "zdravstvo",
         "ženska"
     ],
+    "🧑‍🎓": [
+        "diplomant",
+        "diplomantka",
+        "študent"
+    ],
+    "🧑🏻‍🎓": [
+        "diplomant",
+        "diplomant: svetel ten kože",
+        "diplomantka",
+        "svetel ten kože",
+        "študent"
+    ],
+    "🧑🏼‍🎓": [
+        "diplomant",
+        "diplomant: srednje svetel ten kože",
+        "diplomantka",
+        "srednje svetel ten kože",
+        "študent"
+    ],
+    "🧑🏽‍🎓": [
+        "diplomant",
+        "diplomant: srednji ten kože",
+        "diplomantka",
+        "srednji ten kože",
+        "študent"
+    ],
+    "🧑🏾‍🎓": [
+        "diplomant",
+        "diplomant: srednje temen ten kože",
+        "diplomantka",
+        "srednje temen ten kože",
+        "študent"
+    ],
+    "🧑🏿‍🎓": [
+        "diplomant",
+        "diplomant: temen ten kože",
+        "diplomantka",
+        "temen ten kože",
+        "študent"
+    ],
     "👨‍🎓": [
         "diplomant",
         "fant",
@@ -5451,6 +6082,46 @@
         "študentka: temen ten kože",
         "ženska"
     ],
+    "🧑‍🏫": [
+        "inštruktor",
+        "profesor",
+        "učitelj"
+    ],
+    "🧑🏻‍🏫": [
+        "inštruktor",
+        "profesor",
+        "profesor: svetel ten kože",
+        "svetel ten kože",
+        "učitelj"
+    ],
+    "🧑🏼‍🏫": [
+        "inštruktor",
+        "profesor",
+        "profesor: srednje svetel ten kože",
+        "srednje svetel ten kože",
+        "učitelj"
+    ],
+    "🧑🏽‍🏫": [
+        "inštruktor",
+        "profesor",
+        "profesor: srednji ten kože",
+        "srednji ten kože",
+        "učitelj"
+    ],
+    "🧑🏾‍🏫": [
+        "inštruktor",
+        "profesor",
+        "profesor: srednje temen ten kože",
+        "srednje temen ten kože",
+        "učitelj"
+    ],
+    "🧑🏿‍🏫": [
+        "inštruktor",
+        "profesor",
+        "profesor: temen ten kože",
+        "temen ten kože",
+        "učitelj"
+    ],
     "👨‍🏫": [
         "fant",
         "inštruktor",
@@ -5554,6 +6225,46 @@
         "učiteljica",
         "učiteljica: temen ten kože",
         "ženska"
+    ],
+    "🧑‍⚖": [
+        "sodnik",
+        "tehtnica",
+        "varuh zakona"
+    ],
+    "🧑🏻‍⚖": [
+        "sodnik",
+        "svetel ten kože",
+        "tehtnica",
+        "varuh zakona",
+        "varuh zakona: svetel ten kože"
+    ],
+    "🧑🏼‍⚖": [
+        "sodnik",
+        "srednje svetel ten kože",
+        "tehtnica",
+        "varuh zakona",
+        "varuh zakona: srednje svetel ten kože"
+    ],
+    "🧑🏽‍⚖": [
+        "sodnik",
+        "srednji ten kože",
+        "tehtnica",
+        "varuh zakona",
+        "varuh zakona: srednji ten kože"
+    ],
+    "🧑🏾‍⚖": [
+        "sodnik",
+        "srednje temen ten kože",
+        "tehtnica",
+        "varuh zakona",
+        "varuh zakona: srednje temen ten kože"
+    ],
+    "🧑🏿‍⚖": [
+        "sodnik",
+        "tehtnica",
+        "temen ten kože",
+        "varuh zakona",
+        "varuh zakona: temen ten kože"
     ],
     "👨‍⚖": [
         "fant",
@@ -5664,6 +6375,46 @@
         "tehtnica",
         "temen ten kože",
         "ženska"
+    ],
+    "🧑‍🌾": [
+        "kmet",
+        "vrtnar",
+        "živinorejec"
+    ],
+    "🧑🏻‍🌾": [
+        "kmet",
+        "kmet: svetel ten kože",
+        "svetel ten kože",
+        "vrtnar",
+        "živinorejec"
+    ],
+    "🧑🏼‍🌾": [
+        "kmet",
+        "kmet: srednje svetel ten kože",
+        "srednje svetel ten kože",
+        "vrtnar",
+        "živinorejec"
+    ],
+    "🧑🏽‍🌾": [
+        "kmet",
+        "kmet: srednji ten kože",
+        "srednji ten kože",
+        "vrtnar",
+        "živinorejec"
+    ],
+    "🧑🏾‍🌾": [
+        "kmet",
+        "kmet: srednje temen ten kože",
+        "srednje temen ten kože",
+        "vrtnar",
+        "živinorejec"
+    ],
+    "🧑🏿‍🌾": [
+        "kmet",
+        "kmet: temen ten kože",
+        "temen ten kože",
+        "vrtnar",
+        "živinorejec"
     ],
     "👨‍🌾": [
         "fant",
@@ -5787,6 +6538,40 @@
         "ženska",
         "živinorejka"
     ],
+    "🧑‍🍳": [
+        "kuhar",
+        "kuharski mojster"
+    ],
+    "🧑🏻‍🍳": [
+        "kuhar",
+        "kuharski mojster",
+        "kuharski mojster: svetel ten kože",
+        "svetel ten kože"
+    ],
+    "🧑🏼‍🍳": [
+        "kuhar",
+        "kuharski mojster",
+        "kuharski mojster: srednje svetel ten kože",
+        "srednje svetel ten kože"
+    ],
+    "🧑🏽‍🍳": [
+        "kuhar",
+        "kuharski mojster",
+        "kuharski mojster: srednji ten kože",
+        "srednji ten kože"
+    ],
+    "🧑🏾‍🍳": [
+        "kuhar",
+        "kuharski mojster",
+        "kuharski mojster: srednje temen ten kože",
+        "srednje temen ten kože"
+    ],
+    "🧑🏿‍🍳": [
+        "kuhar",
+        "kuharski mojster",
+        "kuharski mojster: temen ten kože",
+        "temen ten kože"
+    ],
     "👨‍🍳": [
         "chef",
         "fant",
@@ -5890,6 +6675,58 @@
         "temen ten kože",
         "šefinja kuhinje",
         "ženska"
+    ],
+    "🧑‍🔧": [
+        "električar",
+        "mehanik",
+        "serviser",
+        "trgovec",
+        "vodovodar"
+    ],
+    "🧑🏻‍🔧": [
+        "električar",
+        "mehanik",
+        "serviser",
+        "serviser: svetel ten kože",
+        "svetel ten kože",
+        "trgovec",
+        "vodovodar"
+    ],
+    "🧑🏼‍🔧": [
+        "električar",
+        "mehanik",
+        "serviser",
+        "serviser: srednje svetel ten kože",
+        "srednje svetel ten kože",
+        "trgovec",
+        "vodovodar"
+    ],
+    "🧑🏽‍🔧": [
+        "električar",
+        "mehanik",
+        "serviser",
+        "serviser: srednji ten kože",
+        "srednji ten kože",
+        "trgovec",
+        "vodovodar"
+    ],
+    "🧑🏾‍🔧": [
+        "električar",
+        "mehanik",
+        "serviser",
+        "serviser: srednje temen ten kože",
+        "srednje temen ten kože",
+        "trgovec",
+        "vodovodar"
+    ],
+    "🧑🏿‍🔧": [
+        "električar",
+        "mehanik",
+        "serviser",
+        "serviser: temen ten kože",
+        "temen ten kože",
+        "trgovec",
+        "vodovodar"
     ],
     "👨‍🔧": [
         "avtomehanik",
@@ -6043,6 +6880,58 @@
         "vodovodarka",
         "ženska"
     ],
+    "🧑‍🏭": [
+        "delavec",
+        "industrijski",
+        "tekoči trak",
+        "tovarna",
+        "tovarniški delavec"
+    ],
+    "🧑🏻‍🏭": [
+        "delavec",
+        "industrijski",
+        "svetel ten kože",
+        "tekoči trak",
+        "tovarna",
+        "tovarniški delavec",
+        "tovarniški delavec: svetel ten kože"
+    ],
+    "🧑🏼‍🏭": [
+        "delavec",
+        "industrijski",
+        "srednje svetel ten kože",
+        "tekoči trak",
+        "tovarna",
+        "tovarniški delavec",
+        "tovarniški delavec: srednje svetel ten kože"
+    ],
+    "🧑🏽‍🏭": [
+        "delavec",
+        "industrijski",
+        "srednji ten kože",
+        "tekoči trak",
+        "tovarna",
+        "tovarniški delavec",
+        "tovarniški delavec: srednji ten kože"
+    ],
+    "🧑🏾‍🏭": [
+        "delavec",
+        "industrijski",
+        "srednje temen ten kože",
+        "tekoči trak",
+        "tovarna",
+        "tovarniški delavec",
+        "tovarniški delavec: srednje temen ten kože"
+    ],
+    "🧑🏿‍🏭": [
+        "delavec",
+        "industrijski",
+        "tekoči trak",
+        "temen ten kože",
+        "tovarna",
+        "tovarniški delavec",
+        "tovarniški delavec: temen ten kože"
+    ],
     "👨‍🏭": [
         "delavec",
         "delavec v tovarni",
@@ -6194,6 +7083,58 @@
         "tovarna",
         "tovarnarka",
         "ženska"
+    ],
+    "🧑‍💼": [
+        "arhitekt",
+        "delavec v pisarni",
+        "direktor",
+        "pisarniški delavec",
+        "podjetje"
+    ],
+    "🧑🏻‍💼": [
+        "arhitekt",
+        "delavec v pisarni",
+        "delavec v pisarni: svetel ten kože",
+        "direktor",
+        "pisarniški delavec",
+        "podjetje",
+        "svetel ten kože"
+    ],
+    "🧑🏼‍💼": [
+        "arhitekt",
+        "delavec v pisarni",
+        "delavec v pisarni: srednje svetel ten kože",
+        "direktor",
+        "pisarniški delavec",
+        "podjetje",
+        "srednje svetel ten kože"
+    ],
+    "🧑🏽‍💼": [
+        "arhitekt",
+        "delavec v pisarni",
+        "delavec v pisarni: srednji ten kože",
+        "direktor",
+        "pisarniški delavec",
+        "podjetje",
+        "srednji ten kože"
+    ],
+    "🧑🏾‍💼": [
+        "arhitekt",
+        "delavec v pisarni",
+        "delavec v pisarni: srednje temen ten kože",
+        "direktor",
+        "pisarniški delavec",
+        "podjetje",
+        "srednje temen ten kože"
+    ],
+    "🧑🏿‍💼": [
+        "arhitekt",
+        "delavec v pisarni",
+        "delavec v pisarni: temen ten kože",
+        "direktor",
+        "pisarniški delavec",
+        "podjetje",
+        "temen ten kože"
     ],
     "👨‍💼": [
         "arhitekt",
@@ -6347,6 +7288,70 @@
         "temen ten kože",
         "ženska"
     ],
+    "🧑‍🔬": [
+        "biolog",
+        "fizik",
+        "inženir",
+        "kemik",
+        "matematik",
+        "raziskovalec",
+        "znanstvenik"
+    ],
+    "🧑🏻‍🔬": [
+        "biolog",
+        "fizik",
+        "inženir",
+        "kemik",
+        "matematik",
+        "raziskovalec",
+        "raziskovalec: svetel ten kože",
+        "svetel ten kože",
+        "znanstvenik"
+    ],
+    "🧑🏼‍🔬": [
+        "biolog",
+        "fizik",
+        "inženir",
+        "kemik",
+        "matematik",
+        "raziskovalec",
+        "raziskovalec: srednje svetel ten kože",
+        "srednje svetel ten kože",
+        "znanstvenik"
+    ],
+    "🧑🏽‍🔬": [
+        "biolog",
+        "fizik",
+        "inženir",
+        "kemik",
+        "matematik",
+        "raziskovalec",
+        "raziskovalec: srednji ten kože",
+        "srednji ten kože",
+        "znanstvenik"
+    ],
+    "🧑🏾‍🔬": [
+        "biolog",
+        "fizik",
+        "inženir",
+        "kemik",
+        "matematik",
+        "raziskovalec",
+        "raziskovalec: srednje temen ten kože",
+        "srednje temen ten kože",
+        "znanstvenik"
+    ],
+    "🧑🏿‍🔬": [
+        "biolog",
+        "fizik",
+        "inženir",
+        "kemik",
+        "matematik",
+        "raziskovalec",
+        "raziskovalec: temen ten kože",
+        "temen ten kože",
+        "znanstvenik"
+    ],
     "👨‍🔬": [
         "biolog",
         "fant",
@@ -6486,6 +7491,76 @@
         "znanstvenica",
         "znanstvenica: temen ten kože",
         "ženska"
+    ],
+    "🧑‍💻": [
+        "izumitelj",
+        "programer",
+        "programska oprema",
+        "razvijalec",
+        "računalnik",
+        "strokovnjak za tehnologijo",
+        "tehnolog",
+        "tehnologija"
+    ],
+    "🧑🏻‍💻": [
+        "izumitelj",
+        "programer",
+        "programska oprema",
+        "razvijalec",
+        "računalnik",
+        "strokovnjak za tehnologijo",
+        "strokovnjak za tehnologijo: svetel ten kože",
+        "svetel ten kože",
+        "tehnolog",
+        "tehnologija"
+    ],
+    "🧑🏼‍💻": [
+        "izumitelj",
+        "programer",
+        "programska oprema",
+        "razvijalec",
+        "računalnik",
+        "srednje svetel ten kože",
+        "strokovnjak za tehnologijo",
+        "strokovnjak za tehnologijo: srednje svetel ten kože",
+        "tehnolog",
+        "tehnologija"
+    ],
+    "🧑🏽‍💻": [
+        "izumitelj",
+        "programer",
+        "programska oprema",
+        "razvijalec",
+        "računalnik",
+        "srednji ten kože",
+        "strokovnjak za tehnologijo",
+        "strokovnjak za tehnologijo: srednji ten kože",
+        "tehnolog",
+        "tehnologija"
+    ],
+    "🧑🏾‍💻": [
+        "izumitelj",
+        "programer",
+        "programska oprema",
+        "razvijalec",
+        "računalnik",
+        "srednje temen ten kože",
+        "strokovnjak za tehnologijo",
+        "strokovnjak za tehnologijo: srednje temen ten kože",
+        "tehnolog",
+        "tehnologija"
+    ],
+    "🧑🏿‍💻": [
+        "izumitelj",
+        "programer",
+        "programska oprema",
+        "razvijalec",
+        "računalnik",
+        "strokovnjak za tehnologijo",
+        "strokovnjak za tehnologijo: temen ten kože",
+        "tehnolog",
+        "tehnologija",
+        "temen ten kože"
     ],
     "👨‍💻": [
         "fant",
@@ -6639,6 +7714,70 @@
         "temen ten kože",
         "ženska"
     ],
+    "🧑‍🎤": [
+        "igralec",
+        "izvajalec",
+        "komik",
+        "pevec",
+        "roker",
+        "zabavljač",
+        "zvezdnik"
+    ],
+    "🧑🏻‍🎤": [
+        "igralec",
+        "izvajalec",
+        "izvajalec: svetel ten kože",
+        "komik",
+        "pevec",
+        "roker",
+        "svetel ten kože",
+        "zabavljač",
+        "zvezdnik"
+    ],
+    "🧑🏼‍🎤": [
+        "igralec",
+        "izvajalec",
+        "izvajalec: srednje svetel ten kože",
+        "komik",
+        "pevec",
+        "roker",
+        "srednje svetel ten kože",
+        "zabavljač",
+        "zvezdnik"
+    ],
+    "🧑🏽‍🎤": [
+        "igralec",
+        "izvajalec",
+        "izvajalec: srednji ten kože",
+        "komik",
+        "pevec",
+        "roker",
+        "srednji ten kože",
+        "zabavljač",
+        "zvezdnik"
+    ],
+    "🧑🏾‍🎤": [
+        "igralec",
+        "izvajalec",
+        "izvajalec: srednje temen ten kože",
+        "komik",
+        "pevec",
+        "roker",
+        "srednje temen ten kože",
+        "zabavljač",
+        "zvezdnik"
+    ],
+    "🧑🏿‍🎤": [
+        "igralec",
+        "izvajalec",
+        "izvajalec: temen ten kože",
+        "komik",
+        "pevec",
+        "roker",
+        "temen ten kože",
+        "zabavljač",
+        "zvezdnik"
+    ],
     "👨‍🎤": [
         "fant",
         "igralec",
@@ -6773,6 +7912,46 @@
         "zvezdnica",
         "ženska"
     ],
+    "🧑‍🎨": [
+        "paleta",
+        "slikar",
+        "umetnik"
+    ],
+    "🧑🏻‍🎨": [
+        "paleta",
+        "slikar",
+        "slikar: svetel ten kože",
+        "svetel ten kože",
+        "umetnik"
+    ],
+    "🧑🏼‍🎨": [
+        "paleta",
+        "slikar",
+        "slikar: srednje svetel ten kože",
+        "srednje svetel ten kože",
+        "umetnik"
+    ],
+    "🧑🏽‍🎨": [
+        "paleta",
+        "slikar",
+        "slikar: srednji ten kože",
+        "srednji ten kože",
+        "umetnik"
+    ],
+    "🧑🏾‍🎨": [
+        "paleta",
+        "slikar",
+        "slikar: srednje temen ten kože",
+        "srednje temen ten kože",
+        "umetnik"
+    ],
+    "🧑🏿‍🎨": [
+        "paleta",
+        "slikar",
+        "slikar: temen ten kože",
+        "temen ten kože",
+        "umetnik"
+    ],
     "👨‍🎨": [
         "fant",
         "moški",
@@ -6889,6 +8068,46 @@
         "umetnost",
         "ženska"
     ],
+    "🧑‍✈": [
+        "letalo",
+        "pilot",
+        "pilot letala"
+    ],
+    "🧑🏻‍✈": [
+        "letalo",
+        "pilot",
+        "pilot letala",
+        "pilot letala: svetel ten kože",
+        "svetel ten kože"
+    ],
+    "🧑🏼‍✈": [
+        "letalo",
+        "pilot",
+        "pilot letala",
+        "pilot letala: srednje svetel ten kože",
+        "srednje svetel ten kože"
+    ],
+    "🧑🏽‍✈": [
+        "letalo",
+        "pilot",
+        "pilot letala",
+        "pilot letala: srednji ten kože",
+        "srednji ten kože"
+    ],
+    "🧑🏾‍✈": [
+        "letalo",
+        "pilot",
+        "pilot letala",
+        "pilot letala: srednje temen ten kože",
+        "srednje temen ten kože"
+    ],
+    "🧑🏿‍✈": [
+        "letalo",
+        "pilot",
+        "pilot letala",
+        "pilot letala: temen ten kože",
+        "temen ten kože"
+    ],
     "👨‍✈": [
         "fant",
         "letalo",
@@ -6993,6 +8212,46 @@
         "temen ten kože",
         "ženska"
     ],
+    "🧑‍🚀": [
+        "astronavt",
+        "kozmonavt",
+        "raketa"
+    ],
+    "🧑🏻‍🚀": [
+        "astronavt",
+        "kozmonavt",
+        "kozmonavt: svetel ten kože",
+        "raketa",
+        "svetel ten kože"
+    ],
+    "🧑🏼‍🚀": [
+        "astronavt",
+        "kozmonavt",
+        "kozmonavt: srednje svetel ten kože",
+        "raketa",
+        "srednje svetel ten kože"
+    ],
+    "🧑🏽‍🚀": [
+        "astronavt",
+        "kozmonavt",
+        "kozmonavt: srednji ten kože",
+        "raketa",
+        "srednji ten kože"
+    ],
+    "🧑🏾‍🚀": [
+        "astronavt",
+        "kozmonavt",
+        "kozmonavt: srednje temen ten kože",
+        "raketa",
+        "srednje temen ten kože"
+    ],
+    "🧑🏿‍🚀": [
+        "astronavt",
+        "kozmonavt",
+        "kozmonavt: temen ten kože",
+        "raketa",
+        "temen ten kože"
+    ],
     "👨‍🚀": [
         "astronavt",
         "fant",
@@ -7096,6 +8355,46 @@
         "temen ten kože",
         "vesolje",
         "ženska"
+    ],
+    "🧑‍🚒": [
+        "gasilec",
+        "gasilni avto",
+        "poklicni gasilec"
+    ],
+    "🧑🏻‍🚒": [
+        "gasilec",
+        "gasilni avto",
+        "poklicni gasilec",
+        "poklicni gasilec: svetel ten kože",
+        "svetel ten kože"
+    ],
+    "🧑🏼‍🚒": [
+        "gasilec",
+        "gasilni avto",
+        "poklicni gasilec",
+        "poklicni gasilec: srednje svetel ten kože",
+        "srednje svetel ten kože"
+    ],
+    "🧑🏽‍🚒": [
+        "gasilec",
+        "gasilni avto",
+        "poklicni gasilec",
+        "poklicni gasilec: srednji ten kože",
+        "srednji ten kože"
+    ],
+    "🧑🏾‍🚒": [
+        "gasilec",
+        "gasilni avto",
+        "poklicni gasilec",
+        "poklicni gasilec: srednje temen ten kože",
+        "srednje temen ten kože"
+    ],
+    "🧑🏿‍🚒": [
+        "gasilec",
+        "gasilni avto",
+        "poklicni gasilec",
+        "poklicni gasilec: temen ten kože",
+        "temen ten kože"
     ],
     "👨‍🚒": [
         "fant",
@@ -7609,6 +8908,12 @@
         "varnostnica: temen ten kože",
         "ženska"
     ],
+    "🥷": [
+        "bojevnik",
+        "nindža",
+        "prikrivanje",
+        "skrivanje"
+    ],
     "👷": [
         "delavec",
         "gradbenik",
@@ -8018,124 +9323,308 @@
         "čepica"
     ],
     "🧕": [
+        "hidžab",
+        "mantilja",
+        "naglavna ruta",
         "ženska z naglavno ruto"
     ],
     "🧕🏻": [
+        "hidžab",
+        "mantilja",
+        "naglavna ruta",
         "svetel ten kože",
         "ženska z naglavno ruto",
         "ženska z naglavno ruto: svetel ten kože"
     ],
     "🧕🏼": [
+        "hidžab",
+        "mantilja",
+        "naglavna ruta",
         "srednje svetel ten kože",
         "ženska z naglavno ruto",
         "ženska z naglavno ruto: srednje svetel ten kože"
     ],
     "🧕🏽": [
+        "hidžab",
+        "mantilja",
+        "naglavna ruta",
         "srednji ten kože",
         "ženska z naglavno ruto",
         "ženska z naglavno ruto: srednji ten kože"
     ],
     "🧕🏾": [
+        "hidžab",
+        "mantilja",
+        "naglavna ruta",
         "srednje temen ten kože",
         "ženska z naglavno ruto",
         "ženska z naglavno ruto: srednje temen ten kože"
     ],
     "🧕🏿": [
+        "hidžab",
+        "mantilja",
+        "naglavna ruta",
         "temen ten kože",
         "ženska z naglavno ruto",
         "ženska z naglavno ruto: temen ten kože"
     ],
     "🤵": [
-        "moški",
-        "moški v smokingu",
+        "oseba",
+        "oseba v smokingu",
         "smoking",
         "ženin"
     ],
     "🤵🏻": [
-        "moški",
-        "moški v smokingu",
-        "moški v smokingu: svetel ten kože",
+        "oseba",
+        "oseba v smokingu",
+        "oseba v smokingu: svetel ten kože",
         "smoking",
         "svetel ten kože",
         "ženin"
     ],
     "🤵🏼": [
-        "moški",
-        "moški v smokingu",
-        "moški v smokingu: srednje svetel ten kože",
+        "oseba",
+        "oseba v smokingu",
+        "oseba v smokingu: srednje svetel ten kože",
         "smoking",
         "srednje svetel ten kože",
         "ženin"
     ],
     "🤵🏽": [
-        "moški",
-        "moški v smokingu",
-        "moški v smokingu: srednji ten kože",
+        "oseba",
+        "oseba v smokingu",
+        "oseba v smokingu: srednji ten kože",
         "smoking",
         "srednji ten kože",
         "ženin"
     ],
     "🤵🏾": [
-        "moški",
-        "moški v smokingu",
-        "moški v smokingu: srednje temen ten kože",
+        "oseba",
+        "oseba v smokingu",
+        "oseba v smokingu: srednje temen ten kože",
         "smoking",
         "srednje temen ten kože",
         "ženin"
     ],
     "🤵🏿": [
-        "moški",
-        "moški v smokingu",
-        "moški v smokingu: temen ten kože",
+        "oseba",
+        "oseba v smokingu",
+        "oseba v smokingu: temen ten kože",
         "smoking",
         "temen ten kože",
         "ženin"
     ],
+    "🤵‍♂": [
+        "moški",
+        "moški v smokingu",
+        "smoking"
+    ],
+    "🤵🏻‍♂": [
+        "moški",
+        "moški v smokingu",
+        "moški v smokingu: svetel ten kože",
+        "smoking",
+        "svetel ten kože"
+    ],
+    "🤵🏼‍♂": [
+        "moški",
+        "moški v smokingu",
+        "moški v smokingu: srednje svetel ten kože",
+        "smoking",
+        "srednje svetel ten kože"
+    ],
+    "🤵🏽‍♂": [
+        "moški",
+        "moški v smokingu",
+        "moški v smokingu: srednji ten kože",
+        "smoking",
+        "srednji ten kože"
+    ],
+    "🤵🏾‍♂": [
+        "moški",
+        "moški v smokingu",
+        "moški v smokingu: srednje temen ten kože",
+        "smoking",
+        "srednje temen ten kože"
+    ],
+    "🤵🏿‍♂": [
+        "moški",
+        "moški v smokingu",
+        "moški v smokingu: temen ten kože",
+        "smoking",
+        "temen ten kože"
+    ],
+    "🤵‍♀": [
+        "smoking",
+        "ženska",
+        "ženska v smokingu"
+    ],
+    "🤵🏻‍♀": [
+        "smoking",
+        "svetel ten kože",
+        "ženska",
+        "ženska v smokingu",
+        "ženska v smokingu: svetel ten kože"
+    ],
+    "🤵🏼‍♀": [
+        "smoking",
+        "srednje svetel ten kože",
+        "ženska",
+        "ženska v smokingu",
+        "ženska v smokingu: srednje svetel ten kože"
+    ],
+    "🤵🏽‍♀": [
+        "smoking",
+        "srednji ten kože",
+        "ženska",
+        "ženska v smokingu",
+        "ženska v smokingu: srednji ten kože"
+    ],
+    "🤵🏾‍♀": [
+        "smoking",
+        "srednje temen ten kože",
+        "ženska",
+        "ženska v smokingu",
+        "ženska v smokingu: srednje temen ten kože"
+    ],
+    "🤵🏿‍♀": [
+        "smoking",
+        "temen ten kože",
+        "ženska",
+        "ženska v smokingu",
+        "ženska v smokingu: temen ten kože"
+    ],
     "👰": [
         "nevesta",
-        "nevesta s pajčolanom",
+        "oseba",
+        "oseba s pajčolanom",
         "pajčolan",
         "poroka"
     ],
     "👰🏻": [
         "nevesta",
-        "nevesta s pajčolanom",
-        "nevesta s pajčolanom: svetel ten kože",
+        "oseba",
+        "oseba s pajčolanom",
+        "oseba s pajčolanom: svetel ten kože",
         "pajčolan",
         "poroka",
         "svetel ten kože"
     ],
     "👰🏼": [
         "nevesta",
-        "nevesta s pajčolanom",
-        "nevesta s pajčolanom: srednje svetel ten kože",
+        "oseba",
+        "oseba s pajčolanom",
+        "oseba s pajčolanom: srednje svetel ten kože",
         "pajčolan",
         "poroka",
         "srednje svetel ten kože"
     ],
     "👰🏽": [
         "nevesta",
-        "nevesta s pajčolanom",
-        "nevesta s pajčolanom: srednji ten kože",
+        "oseba",
+        "oseba s pajčolanom",
+        "oseba s pajčolanom: srednji ten kože",
         "pajčolan",
         "poroka",
         "srednji ten kože"
     ],
     "👰🏾": [
         "nevesta",
-        "nevesta s pajčolanom",
-        "nevesta s pajčolanom: srednje temen ten kože",
+        "oseba",
+        "oseba s pajčolanom",
+        "oseba s pajčolanom: srednje temen ten kože",
         "pajčolan",
         "poroka",
         "srednje temen ten kože"
     ],
     "👰🏿": [
         "nevesta",
-        "nevesta s pajčolanom",
-        "nevesta s pajčolanom: temen ten kože",
+        "oseba",
+        "oseba s pajčolanom",
+        "oseba s pajčolanom: temen ten kože",
         "pajčolan",
         "poroka",
         "temen ten kože"
+    ],
+    "👰‍♂": [
+        "moški",
+        "moški s pajčolanom",
+        "pajčolan"
+    ],
+    "👰🏻‍♂": [
+        "moški",
+        "moški s pajčolanom",
+        "moški s pajčolanom: svetel ten kože",
+        "pajčolan",
+        "svetel ten kože"
+    ],
+    "👰🏼‍♂": [
+        "moški",
+        "moški s pajčolanom",
+        "moški s pajčolanom: srednje svetel ten kože",
+        "pajčolan",
+        "srednje svetel ten kože"
+    ],
+    "👰🏽‍♂": [
+        "moški",
+        "moški s pajčolanom",
+        "moški s pajčolanom: srednji ten kože",
+        "pajčolan",
+        "srednji ten kože"
+    ],
+    "👰🏾‍♂": [
+        "moški",
+        "moški s pajčolanom",
+        "moški s pajčolanom: srednje temen ten kože",
+        "pajčolan",
+        "srednje temen ten kože"
+    ],
+    "👰🏿‍♂": [
+        "moški",
+        "moški s pajčolanom",
+        "moški s pajčolanom: temen ten kože",
+        "pajčolan",
+        "temen ten kože"
+    ],
+    "👰‍♀": [
+        "pajčolan",
+        "ženska",
+        "ženska s pajčolanom"
+    ],
+    "👰🏻‍♀": [
+        "pajčolan",
+        "svetel ten kože",
+        "ženska",
+        "ženska s pajčolanom",
+        "ženska s pajčolanom: svetel ten kože"
+    ],
+    "👰🏼‍♀": [
+        "pajčolan",
+        "srednje svetel ten kože",
+        "ženska",
+        "ženska s pajčolanom",
+        "ženska s pajčolanom: srednje svetel ten kože"
+    ],
+    "👰🏽‍♀": [
+        "pajčolan",
+        "srednji ten kože",
+        "ženska",
+        "ženska s pajčolanom",
+        "ženska s pajčolanom: srednji ten kože"
+    ],
+    "👰🏾‍♀": [
+        "pajčolan",
+        "srednje temen ten kože",
+        "ženska",
+        "ženska s pajčolanom",
+        "ženska s pajčolanom: srednje temen ten kože"
+    ],
+    "👰🏿‍♀": [
+        "pajčolan",
+        "temen ten kože",
+        "ženska",
+        "ženska s pajčolanom",
+        "ženska s pajčolanom: temen ten kože"
     ],
     "🤰": [
         "nosečnica",
@@ -8172,31 +9661,200 @@
         "ženska"
     ],
     "🤱": [
-        "dojenje"
+        "dojenje",
+        "dojenček",
+        "prsi"
     ],
     "🤱🏻": [
         "dojenje",
         "dojenje: svetel ten kože",
+        "dojenček",
+        "prsi",
         "svetel ten kože"
     ],
     "🤱🏼": [
         "dojenje",
         "dojenje: srednje svetel ten kože",
+        "dojenček",
+        "prsi",
         "srednje svetel ten kože"
     ],
     "🤱🏽": [
         "dojenje",
         "dojenje: srednji ten kože",
+        "dojenček",
+        "prsi",
         "srednji ten kože"
     ],
     "🤱🏾": [
         "dojenje",
         "dojenje: srednje temen ten kože",
+        "dojenček",
+        "prsi",
         "srednje temen ten kože"
     ],
     "🤱🏿": [
         "dojenje",
         "dojenje: temen ten kože",
+        "dojenček",
+        "prsi",
+        "temen ten kože"
+    ],
+    "👩‍🍼": [
+        "dojenje",
+        "dojenček",
+        "hranjenje",
+        "ženska",
+        "ženska, ki doji dojenčka"
+    ],
+    "👩🏻‍🍼": [
+        "dojenje",
+        "dojenček",
+        "hranjenje",
+        "svetel ten kože",
+        "ženska",
+        "ženska, ki doji dojenčka",
+        "ženska, ki doji dojenčka: svetel ten kože"
+    ],
+    "👩🏼‍🍼": [
+        "dojenje",
+        "dojenček",
+        "hranjenje",
+        "srednje svetel ten kože",
+        "ženska",
+        "ženska, ki doji dojenčka",
+        "ženska, ki doji dojenčka: srednje svetel ten kože"
+    ],
+    "👩🏽‍🍼": [
+        "dojenje",
+        "dojenček",
+        "hranjenje",
+        "srednji ten kože",
+        "ženska",
+        "ženska, ki doji dojenčka",
+        "ženska, ki doji dojenčka: srednji ten kože"
+    ],
+    "👩🏾‍🍼": [
+        "dojenje",
+        "dojenček",
+        "hranjenje",
+        "srednje temen ten kože",
+        "ženska",
+        "ženska, ki doji dojenčka",
+        "ženska, ki doji dojenčka: srednje temen ten kože"
+    ],
+    "👩🏿‍🍼": [
+        "dojenje",
+        "dojenček",
+        "hranjenje",
+        "temen ten kože",
+        "ženska",
+        "ženska, ki doji dojenčka",
+        "ženska, ki doji dojenčka: temen ten kože"
+    ],
+    "👨‍🍼": [
+        "dojenje",
+        "dojenček",
+        "hranjenje",
+        "moški",
+        "moški, ki hrani dojenčka"
+    ],
+    "👨🏻‍🍼": [
+        "dojenje",
+        "dojenček",
+        "hranjenje",
+        "moški",
+        "moški, ki hrani dojenčka",
+        "moški, ki hrani dojenčka: svetel ten kože",
+        "svetel ten kože"
+    ],
+    "👨🏼‍🍼": [
+        "dojenje",
+        "dojenček",
+        "hranjenje",
+        "moški",
+        "moški, ki hrani dojenčka",
+        "moški, ki hrani dojenčka: srednje svetel ten kože",
+        "srednje svetel ten kože"
+    ],
+    "👨🏽‍🍼": [
+        "dojenje",
+        "dojenček",
+        "hranjenje",
+        "moški",
+        "moški, ki hrani dojenčka",
+        "moški, ki hrani dojenčka: srednji ten kože",
+        "srednji ten kože"
+    ],
+    "👨🏾‍🍼": [
+        "dojenje",
+        "dojenček",
+        "hranjenje",
+        "moški",
+        "moški, ki hrani dojenčka",
+        "moški, ki hrani dojenčka: srednje temen ten kože",
+        "srednje temen ten kože"
+    ],
+    "👨🏿‍🍼": [
+        "dojenje",
+        "dojenček",
+        "hranjenje",
+        "moški",
+        "moški, ki hrani dojenčka",
+        "moški, ki hrani dojenčka: temen ten kože",
+        "temen ten kože"
+    ],
+    "🧑‍🍼": [
+        "dojenje",
+        "dojenček",
+        "hranjenje",
+        "oseba",
+        "oseba, ki hrani dojenčka",
+        "oseba, ki hrani doječnka"
+    ],
+    "🧑🏻‍🍼": [
+        "dojenje",
+        "dojenček",
+        "hranjenje",
+        "oseba",
+        "oseba, ki hrani dojenčka: svetel ten kože",
+        "oseba, ki hrani doječnka",
+        "svetel ten kože"
+    ],
+    "🧑🏼‍🍼": [
+        "dojenje",
+        "dojenček",
+        "hranjenje",
+        "oseba",
+        "oseba, ki hrani dojenčka: srednje svetel ten kože",
+        "oseba, ki hrani doječnka",
+        "srednje svetel ten kože"
+    ],
+    "🧑🏽‍🍼": [
+        "dojenje",
+        "dojenček",
+        "hranjenje",
+        "oseba",
+        "oseba, ki hrani dojenčka: srednji ten kože",
+        "oseba, ki hrani doječnka",
+        "srednji ten kože"
+    ],
+    "🧑🏾‍🍼": [
+        "dojenje",
+        "dojenček",
+        "hranjenje",
+        "oseba",
+        "oseba, ki hrani dojenčka: srednje temen ten kože",
+        "oseba, ki hrani doječnka",
+        "srednje temen ten kože"
+    ],
+    "🧑🏿‍🍼": [
+        "dojenje",
+        "dojenček",
+        "hranjenje",
+        "oseba",
+        "oseba, ki hrani dojenčka: temen ten kože",
+        "oseba, ki hrani doječnka",
         "temen ten kože"
     ],
     "👼": [
@@ -8361,6 +10019,40 @@
         "gospa Božiček: temen ten kože",
         "temen ten kože"
     ],
+    "🧑‍🎄": [
+        "božiček, božič",
+        "mx božiček"
+    ],
+    "🧑🏻‍🎄": [
+        "božiček, božič",
+        "mx božiček",
+        "mx božiček: svetel ten kože",
+        "svetel ten kože"
+    ],
+    "🧑🏼‍🎄": [
+        "božiček, božič",
+        "mx božiček",
+        "mx božiček: srednje svetel ten kože",
+        "srednje svetel ten kože"
+    ],
+    "🧑🏽‍🎄": [
+        "božiček, božič",
+        "mx božiček",
+        "mx božiček: srednji ten kože",
+        "srednji ten kože"
+    ],
+    "🧑🏾‍🎄": [
+        "božiček, božič",
+        "mx božiček",
+        "mx božiček: srednje temen ten kože",
+        "srednje temen ten kože"
+    ],
+    "🧑🏿‍🎄": [
+        "božiček, božič",
+        "mx božiček",
+        "mx božiček: temen ten kože",
+        "temen ten kože"
+    ],
     "🦸": [
         "dober",
         "junak",
@@ -8373,9 +10065,9 @@
         "junak",
         "junakinja",
         "super moč",
-        "svetel ten kože",
-        "ženska superjunakinja",
-        "ženska superjunakinja: svetel ten kože"
+        "superjunak/superjunakinja",
+        "superjunak/superjunakinja: svetel ten kože",
+        "svetel ten kože"
     ],
     "🦸🏼": [
         "dober",
@@ -8383,8 +10075,8 @@
         "junakinja",
         "srednje svetel ten kože",
         "super moč",
-        "ženska superjunakinja",
-        "ženska superjunakinja: srednje svetel ten kože"
+        "superjunak/superjunakinja",
+        "superjunak/superjunakinja: srednje svetel ten kože"
     ],
     "🦸🏽": [
         "dober",
@@ -8392,8 +10084,8 @@
         "junakinja",
         "srednji ten kože",
         "super moč",
-        "ženska superjunakinja",
-        "ženska superjunakinja: srednji ten kože"
+        "superjunak/superjunakinja",
+        "superjunak/superjunakinja: srednji ten kože"
     ],
     "🦸🏾": [
         "dober",
@@ -8401,17 +10093,17 @@
         "junakinja",
         "srednje temen ten kože",
         "super moč",
-        "ženska superjunakinja",
-        "ženska superjunakinja: srednje temen ten kože"
+        "superjunak/superjunakinja",
+        "superjunak/superjunakinja: srednje temen ten kože"
     ],
     "🦸🏿": [
         "dober",
         "junak",
         "junakinja",
         "super moč",
-        "temen ten kože",
-        "ženska superjunakinja",
-        "ženska superjunakinja: temen ten kože"
+        "superjunak/superjunakinja",
+        "superjunak/superjunakinja: temen ten kože",
+        "temen ten kože"
     ],
     "🦸‍♂": [
         "dober",
@@ -8686,86 +10378,116 @@
         "ženska"
     ],
     "🧙": [
-        "oseba, ki čara"
+        "oseba, ki čara",
+        "čarovnica",
+        "čarovnik"
     ],
     "🧙🏻": [
         "oseba, ki čara",
         "oseba, ki čara: svetel ten kože",
-        "svetel ten kože"
+        "svetel ten kože",
+        "čarovnica",
+        "čarovnik"
     ],
     "🧙🏼": [
         "oseba, ki čara",
         "oseba, ki čara: srednje svetel ten kože",
-        "srednje svetel ten kože"
+        "srednje svetel ten kože",
+        "čarovnica",
+        "čarovnik"
     ],
     "🧙🏽": [
         "oseba, ki čara",
         "oseba, ki čara: srednji ten kože",
-        "srednji ten kože"
+        "srednji ten kože",
+        "čarovnica",
+        "čarovnik"
     ],
     "🧙🏾": [
         "oseba, ki čara",
         "oseba, ki čara: srednje temen ten kože",
-        "srednje temen ten kože"
+        "srednje temen ten kože",
+        "čarovnica",
+        "čarovnik"
     ],
     "🧙🏿": [
         "oseba, ki čara",
         "oseba, ki čara: temen ten kože",
-        "temen ten kože"
+        "temen ten kože",
+        "čarovnica",
+        "čarovnik"
     ],
     "🧙‍♂": [
+        "mag",
+        "čarodej",
         "čarovnik"
     ],
     "🧙🏻‍♂": [
+        "mag",
         "svetel ten kože",
+        "čarodej",
         "čarovnik",
         "čarovnik: svetel ten kože"
     ],
     "🧙🏼‍♂": [
+        "mag",
         "srednje svetel ten kože",
+        "čarodej",
         "čarovnik",
         "čarovnik: srednje svetel ten kože"
     ],
     "🧙🏽‍♂": [
+        "mag",
         "srednji ten kože",
+        "čarodej",
         "čarovnik",
         "čarovnik: srednji ten kože"
     ],
     "🧙🏾‍♂": [
+        "mag",
         "srednje temen ten kože",
+        "čarodej",
         "čarovnik",
         "čarovnik: srednje temen ten kože"
     ],
     "🧙🏿‍♂": [
+        "mag",
         "temen ten kože",
+        "čarodej",
         "čarovnik",
         "čarovnik: temen ten kože"
     ],
     "🧙‍♀": [
+        "čarodejka",
         "čarovnica"
     ],
     "🧙🏻‍♀": [
         "svetel ten kože",
+        "čarodejka",
         "čarovnica",
         "čarovnica: svetel ten kože"
     ],
     "🧙🏼‍♀": [
         "srednje svetel ten kože",
+        "čarodejka",
         "čarovnica",
         "čarovnica: srednje svetel ten kože"
     ],
     "🧙🏽‍♀": [
         "srednji ten kože",
+        "čarodejka",
         "čarovnica",
         "čarovnica: srednji ten kože"
     ],
     "🧙🏾‍♀": [
         "srednje temen ten kože",
+        "čarodejka",
         "čarovnica",
         "čarovnica: srednje temen ten kože"
     ],
     "🧙🏿‍♀": [
         "temen ten kože",
+        "čarodejka",
         "čarovnica",
         "čarovnica: temen ten kože"
     ],
@@ -8854,85 +10576,127 @@
         "vila: temen ten kože"
     ],
     "🧛": [
+        "Drakula",
+        "nesmrtnost",
+        "vampir",
         "vampirji"
     ],
     "🧛🏻": [
+        "Drakula",
+        "nesmrtnost",
         "svetel ten kože",
+        "vampir",
         "vampirji",
         "vampirji: svetel ten kože"
     ],
     "🧛🏼": [
+        "Drakula",
+        "nesmrtnost",
         "srednje svetel ten kože",
+        "vampir",
         "vampirji",
         "vampirji: srednje svetel ten kože"
     ],
     "🧛🏽": [
+        "Drakula",
+        "nesmrtnost",
         "srednji ten kože",
+        "vampir",
         "vampirji",
         "vampirji: srednji ten kože"
     ],
     "🧛🏾": [
+        "Drakula",
+        "nesmrtnost",
         "srednje temen ten kože",
+        "vampir",
         "vampirji",
         "vampirji: srednje temen ten kože"
     ],
     "🧛🏿": [
+        "Drakula",
+        "nesmrtnost",
         "temen ten kože",
+        "vampir",
         "vampirji",
         "vampirji: temen ten kože"
     ],
     "🧛‍♂": [
+        "Drakula",
+        "moški vampir",
+        "nesmrtnost",
         "vampir"
     ],
     "🧛🏻‍♂": [
+        "Drakula",
+        "moški vampir",
+        "nesmrtnost",
         "svetel ten kože",
         "vampir",
         "vampir: svetel ten kože"
     ],
     "🧛🏼‍♂": [
+        "Drakula",
+        "moški vampir",
+        "nesmrtnost",
         "srednje svetel ten kože",
         "vampir",
         "vampir: srednje svetel ten kože"
     ],
     "🧛🏽‍♂": [
+        "Drakula",
+        "moški vampir",
+        "nesmrtnost",
         "srednji ten kože",
         "vampir",
         "vampir: srednji ten kože"
     ],
     "🧛🏾‍♂": [
+        "Drakula",
+        "moški vampir",
+        "nesmrtnost",
         "srednje temen ten kože",
         "vampir",
         "vampir: srednje temen ten kože"
     ],
     "🧛🏿‍♂": [
+        "Drakula",
+        "moški vampir",
+        "nesmrtnost",
         "temen ten kože",
         "vampir",
         "vampir: temen ten kože"
     ],
     "🧛‍♀": [
+        "nesmrtnost",
         "vampirka"
     ],
     "🧛🏻‍♀": [
+        "nesmrtnost",
         "svetel ten kože",
         "vampirka",
         "vampirka: svetel ten kože"
     ],
     "🧛🏼‍♀": [
+        "nesmrtnost",
         "srednje svetel ten kože",
         "vampirka",
         "vampirka: srednje svetel ten kože"
     ],
     "🧛🏽‍♀": [
+        "nesmrtnost",
         "srednji ten kože",
         "vampirka",
         "vampirka: srednji ten kože"
     ],
     "🧛🏾‍♀": [
+        "nesmrtnost",
         "srednje temen ten kože",
         "vampirka",
         "vampirka: srednje temen ten kože"
     ],
     "🧛🏿‍♀": [
+        "nesmrtnost",
         "temen ten kože",
         "vampirka",
         "vampirka: temen ten kože"
@@ -9046,86 +10810,116 @@
         "temen ten kože"
     ],
     "🧝": [
+        "vilin",
+        "čarovnija",
         "škrati"
     ],
     "🧝🏻": [
         "svetel ten kože",
+        "vilin",
+        "čarovnija",
         "škrati",
         "škrati: svetel ten kože"
     ],
     "🧝🏼": [
         "srednje svetel ten kože",
+        "vilin",
+        "čarovnija",
         "škrati",
         "škrati: srednje svetel ten kože"
     ],
     "🧝🏽": [
         "srednji ten kože",
+        "vilin",
+        "čarovnija",
         "škrati",
         "škrati: srednji ten kože"
     ],
     "🧝🏾": [
         "srednje temen ten kože",
+        "vilin",
+        "čarovnija",
         "škrati",
         "škrati: srednje temen ten kože"
     ],
     "🧝🏿": [
         "temen ten kože",
+        "vilin",
+        "čarovnija",
         "škrati",
         "škrati: temen ten kože"
     ],
     "🧝‍♂": [
+        "vilin",
+        "čarovnija",
         "škrat"
     ],
     "🧝🏻‍♂": [
         "svetel ten kože",
+        "vilin",
+        "čarovnija",
         "škrat",
         "škrat: svetel ten kože"
     ],
     "🧝🏼‍♂": [
         "srednje svetel ten kože",
+        "vilin",
+        "čarovnija",
         "škrat",
         "škrat: srednje svetel ten kože"
     ],
     "🧝🏽‍♂": [
         "srednji ten kože",
+        "vilin",
+        "čarovnija",
         "škrat",
         "škrat: srednji ten kože"
     ],
     "🧝🏾‍♂": [
         "srednje temen ten kože",
+        "vilin",
+        "čarovnija",
         "škrat",
         "škrat: srednje temen ten kože"
     ],
     "🧝🏿‍♂": [
         "temen ten kože",
+        "vilin",
+        "čarovnija",
         "škrat",
         "škrat: temen ten kože"
     ],
     "🧝‍♀": [
+        "vilinka",
         "škratovka"
     ],
     "🧝🏻‍♀": [
         "svetel ten kože",
+        "vilinka",
         "škratovka",
         "škratovka: svetel ten kože"
     ],
     "🧝🏼‍♀": [
         "srednje svetel ten kože",
+        "vilinka",
         "škratovka",
         "škratovka: srednje svetel ten kože"
     ],
     "🧝🏽‍♀": [
         "srednji ten kože",
+        "vilinka",
         "škratovka",
         "škratovka: srednji ten kože"
     ],
     "🧝🏾‍♀": [
         "srednje temen ten kože",
+        "vilinka",
         "škratovka",
         "škratovka: srednje temen ten kože"
     ],
     "🧝🏿‍♀": [
         "temen ten kože",
+        "vilinka",
         "škratovka",
         "škratovka: temen ten kože"
     ],
@@ -9639,6 +11433,636 @@
         "ženska, ki hodi",
         "ženska, ki hodi: temen ten kože"
     ],
+    "🧍": [
+        "pokonci",
+        "stati",
+        "stoječa oseba"
+    ],
+    "🧍🏻": [
+        "pokonci",
+        "stati",
+        "stoječa oseba",
+        "stoječa oseba: svetel ten kože",
+        "svetel ten kože"
+    ],
+    "🧍🏼": [
+        "pokonci",
+        "srednje svetel ten kože",
+        "stati",
+        "stoječa oseba",
+        "stoječa oseba: srednje svetel ten kože"
+    ],
+    "🧍🏽": [
+        "pokonci",
+        "srednji ten kože",
+        "stati",
+        "stoječa oseba",
+        "stoječa oseba: srednji ten kože"
+    ],
+    "🧍🏾": [
+        "pokonci",
+        "srednje temen ten kože",
+        "stati",
+        "stoječa oseba",
+        "stoječa oseba: srednje temen ten kože"
+    ],
+    "🧍🏿": [
+        "pokonci",
+        "stati",
+        "stoječa oseba",
+        "stoječa oseba: temen ten kože",
+        "temen ten kože"
+    ],
+    "🧍‍♂": [
+        "moški",
+        "stoječ moški",
+        "stoji"
+    ],
+    "🧍🏻‍♂": [
+        "moški",
+        "stoječ moški",
+        "stoječ moški: svetel ten kože",
+        "stoji",
+        "svetel ten kože"
+    ],
+    "🧍🏼‍♂": [
+        "moški",
+        "srednje svetel ten kože",
+        "stoječ moški",
+        "stoječ moški: srednje svetel ten kože",
+        "stoji"
+    ],
+    "🧍🏽‍♂": [
+        "moški",
+        "srednji ten kože",
+        "stoječ moški",
+        "stoječ moški: srednji ten kože",
+        "stoji"
+    ],
+    "🧍🏾‍♂": [
+        "moški",
+        "srednje temen ten kože",
+        "stoječ moški",
+        "stoječ moški: srednje temen ten kože",
+        "stoji"
+    ],
+    "🧍🏿‍♂": [
+        "moški",
+        "stoječ moški",
+        "stoječ moški: temen ten kože",
+        "stoji",
+        "temen ten kože"
+    ],
+    "🧍‍♀": [
+        "stoječa ženska",
+        "stoji",
+        "ženska"
+    ],
+    "🧍🏻‍♀": [
+        "stoječa ženska",
+        "stoječa ženska: svetel ten kože",
+        "stoji",
+        "svetel ten kože",
+        "ženska"
+    ],
+    "🧍🏼‍♀": [
+        "srednje svetel ten kože",
+        "stoječa ženska",
+        "stoječa ženska: srednje svetel ten kože",
+        "stoji",
+        "ženska"
+    ],
+    "🧍🏽‍♀": [
+        "srednji ten kože",
+        "stoječa ženska",
+        "stoječa ženska: srednji ten kože",
+        "stoji",
+        "ženska"
+    ],
+    "🧍🏾‍♀": [
+        "srednje temen ten kože",
+        "stoječa ženska",
+        "stoječa ženska: srednje temen ten kože",
+        "stoji",
+        "ženska"
+    ],
+    "🧍🏿‍♀": [
+        "stoječa ženska",
+        "stoječa ženska: temen ten kože",
+        "stoji",
+        "temen ten kože",
+        "ženska"
+    ],
+    "🧎": [
+        "klečanje",
+        "klečeča oseba"
+    ],
+    "🧎🏻": [
+        "klečanje",
+        "klečeča oseba",
+        "klečeča oseba: svetel ten kože",
+        "svetel ten kože"
+    ],
+    "🧎🏼": [
+        "klečanje",
+        "klečeča oseba",
+        "klečeča oseba: srednje svetel ten kože",
+        "srednje svetel ten kože"
+    ],
+    "🧎🏽": [
+        "klečanje",
+        "klečeča oseba",
+        "klečeča oseba: srednji ten kože",
+        "srednji ten kože"
+    ],
+    "🧎🏾": [
+        "klečanje",
+        "klečeča oseba",
+        "klečeča oseba: srednje temen ten kože",
+        "srednje temen ten kože"
+    ],
+    "🧎🏿": [
+        "klečanje",
+        "klečeča oseba",
+        "klečeča oseba: temen ten kože",
+        "temen ten kože"
+    ],
+    "🧎‍♂": [
+        "klečanje",
+        "klečeč moški",
+        "moški"
+    ],
+    "🧎🏻‍♂": [
+        "klečanje",
+        "klečeč moški",
+        "klečeč moški: svetel ten kože",
+        "moški",
+        "svetel ten kože"
+    ],
+    "🧎🏼‍♂": [
+        "klečanje",
+        "klečeč moški",
+        "klečeč moški: srednje svetel ten kože",
+        "moški",
+        "srednje svetel ten kože"
+    ],
+    "🧎🏽‍♂": [
+        "klečanje",
+        "klečeč moški",
+        "klečeč moški: srednji ten kože",
+        "moški",
+        "srednji ten kože"
+    ],
+    "🧎🏾‍♂": [
+        "klečanje",
+        "klečeč moški",
+        "klečeč moški: srednje temen ten kože",
+        "moški",
+        "srednje temen ten kože"
+    ],
+    "🧎🏿‍♂": [
+        "klečanje",
+        "klečeč moški",
+        "klečeč moški: temen ten kože",
+        "moški",
+        "temen ten kože"
+    ],
+    "🧎‍♀": [
+        "klečanje",
+        "klečeča ženska",
+        "ženska"
+    ],
+    "🧎🏻‍♀": [
+        "klečanje",
+        "klečeča ženska",
+        "klečeča ženska: svetel ten kože",
+        "svetel ten kože",
+        "ženska"
+    ],
+    "🧎🏼‍♀": [
+        "klečanje",
+        "klečeča ženska",
+        "klečeča ženska: srednje svetel ten kože",
+        "srednje svetel ten kože",
+        "ženska"
+    ],
+    "🧎🏽‍♀": [
+        "klečanje",
+        "klečeča ženska",
+        "klečeča ženska: srednji ten kože",
+        "srednji ten kože",
+        "ženska"
+    ],
+    "🧎🏾‍♀": [
+        "klečanje",
+        "klečeča ženska",
+        "klečeča ženska: srednje temen ten kože",
+        "srednje temen ten kože",
+        "ženska"
+    ],
+    "🧎🏿‍♀": [
+        "klečanje",
+        "klečeča ženska",
+        "klečeča ženska: temen ten kože",
+        "temen ten kože",
+        "ženska"
+    ],
+    "🧑‍🦯": [
+        "invalid",
+        "oseba s palico za slepe",
+        "slep"
+    ],
+    "🧑🏻‍🦯": [
+        "invalid",
+        "oseba s palico za slepe",
+        "oseba s palico za slepe: svetel ten kože",
+        "slep",
+        "svetel ten kože"
+    ],
+    "🧑🏼‍🦯": [
+        "invalid",
+        "oseba s palico za slepe",
+        "oseba s palico za slepe: srednje svetel ten kože",
+        "slep",
+        "srednje svetel ten kože"
+    ],
+    "🧑🏽‍🦯": [
+        "invalid",
+        "oseba s palico za slepe",
+        "oseba s palico za slepe: srednji ten kože",
+        "slep",
+        "srednji ten kože"
+    ],
+    "🧑🏾‍🦯": [
+        "invalid",
+        "oseba s palico za slepe",
+        "oseba s palico za slepe: srednje temen ten kože",
+        "slep",
+        "srednje temen ten kože"
+    ],
+    "🧑🏿‍🦯": [
+        "invalid",
+        "oseba s palico za slepe",
+        "oseba s palico za slepe: temen ten kože",
+        "slep",
+        "temen ten kože"
+    ],
+    "👨‍🦯": [
+        "invalid",
+        "moški",
+        "moški s palico za slepe",
+        "slep"
+    ],
+    "👨🏻‍🦯": [
+        "invalid",
+        "moški",
+        "moški s palico za slepe",
+        "moški s palico za slepe: svetel ten kože",
+        "slep",
+        "svetel ten kože"
+    ],
+    "👨🏼‍🦯": [
+        "invalid",
+        "moški",
+        "moški s palico za slepe",
+        "moški s palico za slepe: srednje svetel ten kože",
+        "slep",
+        "srednje svetel ten kože"
+    ],
+    "👨🏽‍🦯": [
+        "invalid",
+        "moški",
+        "moški s palico za slepe",
+        "moški s palico za slepe: srednji ten kože",
+        "slep",
+        "srednji ten kože"
+    ],
+    "👨🏾‍🦯": [
+        "invalid",
+        "moški",
+        "moški s palico za slepe",
+        "moški s palico za slepe: srednje temen ten kože",
+        "slep",
+        "srednje temen ten kože"
+    ],
+    "👨🏿‍🦯": [
+        "invalid",
+        "moški",
+        "moški s palico za slepe",
+        "moški s palico za slepe: temen ten kože",
+        "slep",
+        "temen ten kože"
+    ],
+    "👩‍🦯": [
+        "invalid",
+        "slepa",
+        "ženska",
+        "ženska s palico za slepe"
+    ],
+    "👩🏻‍🦯": [
+        "invalid",
+        "slepa",
+        "svetel ten kože",
+        "ženska",
+        "ženska s palico za slepe",
+        "ženska s palico za slepe: svetel ten kože"
+    ],
+    "👩🏼‍🦯": [
+        "invalid",
+        "slepa",
+        "srednje svetel ten kože",
+        "ženska",
+        "ženska s palico za slepe",
+        "ženska s palico za slepe: srednje svetel ten kože"
+    ],
+    "👩🏽‍🦯": [
+        "invalid",
+        "slepa",
+        "srednji ten kože",
+        "ženska",
+        "ženska s palico za slepe",
+        "ženska s palico za slepe: srednji ten kože"
+    ],
+    "👩🏾‍🦯": [
+        "invalid",
+        "slepa",
+        "srednje temen ten kože",
+        "ženska",
+        "ženska s palico za slepe",
+        "ženska s palico za slepe: srednje temen ten kože"
+    ],
+    "👩🏿‍🦯": [
+        "invalid",
+        "slepa",
+        "temen ten kože",
+        "ženska",
+        "ženska s palico za slepe",
+        "ženska s palico za slepe: temen ten kože"
+    ],
+    "🧑‍🦼": [
+        "invalid",
+        "oseba na motoriziranem invalidskem vozičku",
+        "voziček"
+    ],
+    "🧑🏻‍🦼": [
+        "invalid",
+        "oseba na motoriziranem invalidskem vozičku",
+        "oseba na motoriziranem invalidskem vozičku: svetel ten kože",
+        "svetel ten kože",
+        "voziček"
+    ],
+    "🧑🏼‍🦼": [
+        "invalid",
+        "oseba na motoriziranem invalidskem vozičku",
+        "oseba na motoriziranem invalidskem vozičku: srednje svetel ten kože",
+        "srednje svetel ten kože",
+        "voziček"
+    ],
+    "🧑🏽‍🦼": [
+        "invalid",
+        "oseba na motoriziranem invalidskem vozičku",
+        "oseba na motoriziranem invalidskem vozičku: srednji ten kože",
+        "srednji ten kože",
+        "voziček"
+    ],
+    "🧑🏾‍🦼": [
+        "invalid",
+        "oseba na motoriziranem invalidskem vozičku",
+        "oseba na motoriziranem invalidskem vozičku: srednje temen ten kože",
+        "srednje temen ten kože",
+        "voziček"
+    ],
+    "🧑🏿‍🦼": [
+        "invalid",
+        "oseba na motoriziranem invalidskem vozičku",
+        "oseba na motoriziranem invalidskem vozičku: temen ten kože",
+        "temen ten kože",
+        "voziček"
+    ],
+    "👨‍🦼": [
+        "invalid",
+        "moški",
+        "moški na motoriziranem invalidskem vozičku",
+        "voziček"
+    ],
+    "👨🏻‍🦼": [
+        "invalid",
+        "moški",
+        "moški na motoriziranem invalidskem vozičku",
+        "moški na motoriziranem invalidskem vozičku: svetel ten kože",
+        "svetel ten kože",
+        "voziček"
+    ],
+    "👨🏼‍🦼": [
+        "invalid",
+        "moški",
+        "moški na motoriziranem invalidskem vozičku",
+        "moški na motoriziranem invalidskem vozičku: srednje svetel ten kože",
+        "srednje svetel ten kože",
+        "voziček"
+    ],
+    "👨🏽‍🦼": [
+        "invalid",
+        "moški",
+        "moški na motoriziranem invalidskem vozičku",
+        "moški na motoriziranem invalidskem vozičku: srednji ten kože",
+        "srednji ten kože",
+        "voziček"
+    ],
+    "👨🏾‍🦼": [
+        "invalid",
+        "moški",
+        "moški na motoriziranem invalidskem vozičku",
+        "moški na motoriziranem invalidskem vozičku: srednje temen ten kože",
+        "srednje temen ten kože",
+        "voziček"
+    ],
+    "👨🏿‍🦼": [
+        "invalid",
+        "moški",
+        "moški na motoriziranem invalidskem vozičku",
+        "moški na motoriziranem invalidskem vozičku: temen ten kože",
+        "temen ten kože",
+        "voziček"
+    ],
+    "👩‍🦼": [
+        "invalid",
+        "voziček",
+        "ženska",
+        "ženska na motoriziranem invalidskem vozičku"
+    ],
+    "👩🏻‍🦼": [
+        "invalid",
+        "svetel ten kože",
+        "voziček",
+        "ženska",
+        "ženska na motoriziranem invalidskem vozičku",
+        "ženska na motoriziranem invalidskem vozičku: svetel ten kože"
+    ],
+    "👩🏼‍🦼": [
+        "invalid",
+        "srednje svetel ten kože",
+        "voziček",
+        "ženska",
+        "ženska na motoriziranem invalidskem vozičku",
+        "ženska na motoriziranem invalidskem vozičku: srednje svetel ten kože"
+    ],
+    "👩🏽‍🦼": [
+        "invalid",
+        "srednji ten kože",
+        "voziček",
+        "ženska",
+        "ženska na motoriziranem invalidskem vozičku",
+        "ženska na motoriziranem invalidskem vozičku: srednji ten kože"
+    ],
+    "👩🏾‍🦼": [
+        "invalid",
+        "srednje temen ten kože",
+        "voziček",
+        "ženska",
+        "ženska na motoriziranem invalidskem vozičku",
+        "ženska na motoriziranem invalidskem vozičku: srednje temen ten kože"
+    ],
+    "👩🏿‍🦼": [
+        "invalid",
+        "temen ten kože",
+        "voziček",
+        "ženska",
+        "ženska na motoriziranem invalidskem vozičku",
+        "ženska na motoriziranem invalidskem vozičku: temen ten kože"
+    ],
+    "🧑‍🦽": [
+        "invalid",
+        "oseba na ročnem invalidskem vozičku",
+        "voziček"
+    ],
+    "🧑🏻‍🦽": [
+        "invalid",
+        "oseba na ročnem invalidskem vozičku",
+        "oseba na ročnem invalidskem vozičku: svetel ten kože",
+        "svetel ten kože",
+        "voziček"
+    ],
+    "🧑🏼‍🦽": [
+        "invalid",
+        "oseba na ročnem invalidskem vozičku",
+        "oseba na ročnem invalidskem vozičku: srednje svetel ten kože",
+        "srednje svetel ten kože",
+        "voziček"
+    ],
+    "🧑🏽‍🦽": [
+        "invalid",
+        "oseba na ročnem invalidskem vozičku",
+        "oseba na ročnem invalidskem vozičku: srednji ten kože",
+        "srednji ten kože",
+        "voziček"
+    ],
+    "🧑🏾‍🦽": [
+        "invalid",
+        "oseba na ročnem invalidskem vozičku",
+        "oseba na ročnem invalidskem vozičku: srednje temen ten kože",
+        "srednje temen ten kože",
+        "voziček"
+    ],
+    "🧑🏿‍🦽": [
+        "invalid",
+        "oseba na ročnem invalidskem vozičku",
+        "oseba na ročnem invalidskem vozičku: temen ten kože",
+        "temen ten kože",
+        "voziček"
+    ],
+    "👨‍🦽": [
+        "invalid",
+        "moški",
+        "moški na ročnem invalidskem vozičku",
+        "voziček"
+    ],
+    "👨🏻‍🦽": [
+        "invalid",
+        "moški",
+        "moški na ročnem invalidskem vozičku",
+        "moški na ročnem invalidskem vozičku: svetel ten kože",
+        "svetel ten kože",
+        "voziček"
+    ],
+    "👨🏼‍🦽": [
+        "invalid",
+        "moški",
+        "moški na ročnem invalidskem vozičku",
+        "moški na ročnem invalidskem vozičku: srednje svetel ten kože",
+        "srednje svetel ten kože",
+        "voziček"
+    ],
+    "👨🏽‍🦽": [
+        "invalid",
+        "moški",
+        "moški na ročnem invalidskem vozičku",
+        "moški na ročnem invalidskem vozičku: srednji ten kože",
+        "srednji ten kože",
+        "voziček"
+    ],
+    "👨🏾‍🦽": [
+        "invalid",
+        "moški",
+        "moški na ročnem invalidskem vozičku",
+        "moški na ročnem invalidskem vozičku: srednje temen ten kože",
+        "srednje temen ten kože",
+        "voziček"
+    ],
+    "👨🏿‍🦽": [
+        "invalid",
+        "moški",
+        "moški na ročnem invalidskem vozičku",
+        "moški na ročnem invalidskem vozičku: temen ten kože",
+        "temen ten kože",
+        "voziček"
+    ],
+    "👩‍🦽": [
+        "invalid",
+        "voziček",
+        "ženska",
+        "ženska na ročnem invalidskem vozičku"
+    ],
+    "👩🏻‍🦽": [
+        "invalid",
+        "svetel ten kože",
+        "voziček",
+        "ženska",
+        "ženska na ročnem invalidskem vozičku",
+        "ženska na ročnem invalidskem vozičku: svetel ten kože"
+    ],
+    "👩🏼‍🦽": [
+        "invalid",
+        "srednje svetel ten kože",
+        "voziček",
+        "ženska",
+        "ženska na ročnem invalidskem vozičku",
+        "ženska na ročnem invalidskem vozičku: srednje svetel ten kože"
+    ],
+    "👩🏽‍🦽": [
+        "invalid",
+        "srednji ten kože",
+        "voziček",
+        "ženska",
+        "ženska na ročnem invalidskem vozičku",
+        "ženska na ročnem invalidskem vozičku: srednji ten kože"
+    ],
+    "👩🏾‍🦽": [
+        "invalid",
+        "srednje temen ten kože",
+        "voziček",
+        "ženska",
+        "ženska na ročnem invalidskem vozičku",
+        "ženska na ročnem invalidskem vozičku: srednje temen ten kože"
+    ],
+    "👩🏿‍🦽": [
+        "invalid",
+        "temen ten kože",
+        "voziček",
+        "ženska",
+        "ženska na ročnem invalidskem vozičku",
+        "ženska na ročnem invalidskem vozičku: temen ten kože"
+    ],
     "🏃": [
         "maraton",
         "tek",
@@ -9965,7 +12389,7 @@
         "fantje",
         "moška zabava",
         "moški",
-        "plesalka",
+        "plesalec",
         "zabava",
         "žur"
     ],
@@ -9978,172 +12402,232 @@
         "žur"
     ],
     "🧖": [
-        "oseba v parni savni"
+        "oseba v parni savni",
+        "parna savna",
+        "savna"
     ],
     "🧖🏻": [
         "oseba v parni savni",
         "oseba v parni savni: svetel ten kože",
+        "parna savna",
+        "savna",
         "svetel ten kože"
     ],
     "🧖🏼": [
         "oseba v parni savni",
         "oseba v parni savni: srednje svetel ten kože",
+        "parna savna",
+        "savna",
         "srednje svetel ten kože"
     ],
     "🧖🏽": [
         "oseba v parni savni",
         "oseba v parni savni: srednji ten kože",
+        "parna savna",
+        "savna",
         "srednji ten kože"
     ],
     "🧖🏾": [
         "oseba v parni savni",
         "oseba v parni savni: srednje temen ten kože",
+        "parna savna",
+        "savna",
         "srednje temen ten kože"
     ],
     "🧖🏿": [
         "oseba v parni savni",
         "oseba v parni savni: temen ten kože",
+        "parna savna",
+        "savna",
         "temen ten kože"
     ],
     "🧖‍♂": [
-        "moški v parni savni"
+        "moški v parni savni",
+        "parna savna",
+        "savna"
     ],
     "🧖🏻‍♂": [
         "moški v parni savni",
         "moški v parni savni: svetel ten kože",
+        "parna savna",
+        "savna",
         "svetel ten kože"
     ],
     "🧖🏼‍♂": [
         "moški v parni savni",
         "moški v parni savni: srednje svetel ten kože",
+        "parna savna",
+        "savna",
         "srednje svetel ten kože"
     ],
     "🧖🏽‍♂": [
         "moški v parni savni",
         "moški v parni savni: srednji ten kože",
+        "parna savna",
+        "savna",
         "srednji ten kože"
     ],
     "🧖🏾‍♂": [
         "moški v parni savni",
         "moški v parni savni: srednje temen ten kože",
+        "parna savna",
+        "savna",
         "srednje temen ten kože"
     ],
     "🧖🏿‍♂": [
         "moški v parni savni",
         "moški v parni savni: temen ten kože",
+        "parna savna",
+        "savna",
         "temen ten kože"
     ],
     "🧖‍♀": [
+        "parna savna",
+        "savna",
         "ženska v parni savni"
     ],
     "🧖🏻‍♀": [
+        "parna savna",
+        "savna",
         "svetel ten kože",
         "ženska v parni savni",
         "ženska v parni savni: svetel ten kože"
     ],
     "🧖🏼‍♀": [
+        "parna savna",
+        "savna",
         "srednje svetel ten kože",
         "ženska v parni savni",
         "ženska v parni savni: srednje svetel ten kože"
     ],
     "🧖🏽‍♀": [
+        "parna savna",
+        "savna",
         "srednji ten kože",
         "ženska v parni savni",
         "ženska v parni savni: srednji ten kože"
     ],
     "🧖🏾‍♀": [
+        "parna savna",
+        "savna",
         "srednje temen ten kože",
         "ženska v parni savni",
         "ženska v parni savni: srednje temen ten kože"
     ],
     "🧖🏿‍♀": [
+        "parna savna",
+        "savna",
         "temen ten kože",
         "ženska v parni savni",
         "ženska v parni savni: temen ten kože"
     ],
     "🧗": [
-        "oseba, ki pleza"
+        "oseba, ki pleza",
+        "plezalec"
     ],
     "🧗🏻": [
         "oseba, ki pleza",
         "oseba, ki pleza: svetel ten kože",
+        "plezalec",
         "svetel ten kože"
     ],
     "🧗🏼": [
         "oseba, ki pleza",
         "oseba, ki pleza: srednje svetel ten kože",
+        "plezalec",
         "srednje svetel ten kože"
     ],
     "🧗🏽": [
         "oseba, ki pleza",
         "oseba, ki pleza: srednji ten kože",
+        "plezalec",
         "srednji ten kože"
     ],
     "🧗🏾": [
         "oseba, ki pleza",
         "oseba, ki pleza: srednje temen ten kože",
+        "plezalec",
         "srednje temen ten kože"
     ],
     "🧗🏿": [
         "oseba, ki pleza",
         "oseba, ki pleza: temen ten kože",
+        "plezalec",
         "temen ten kože"
     ],
     "🧗‍♂": [
+        "moški, ki pleza",
         "plezalec"
     ],
     "🧗🏻‍♂": [
+        "moški, ki pleza",
         "plezalec",
         "plezalec: svetel ten kože",
         "svetel ten kože"
     ],
     "🧗🏼‍♂": [
+        "moški, ki pleza",
         "plezalec",
         "plezalec: srednje svetel ten kože",
         "srednje svetel ten kože"
     ],
     "🧗🏽‍♂": [
+        "moški, ki pleza",
         "plezalec",
         "plezalec: srednji ten kože",
         "srednji ten kože"
     ],
     "🧗🏾‍♂": [
+        "moški, ki pleza",
         "plezalec",
         "plezalec: srednje temen ten kože",
         "srednje temen ten kože"
     ],
     "🧗🏿‍♂": [
+        "moški, ki pleza",
         "plezalec",
         "plezalec: temen ten kože",
         "temen ten kože"
     ],
     "🧗‍♀": [
-        "plezalka"
+        "plezalec",
+        "plezalka",
+        "ženska, ki pleza"
     ],
     "🧗🏻‍♀": [
+        "plezalec",
         "plezalka",
         "plezalka: svetel ten kože",
-        "svetel ten kože"
+        "svetel ten kože",
+        "ženska, ki pleza"
     ],
     "🧗🏼‍♀": [
+        "plezalec",
         "plezalka",
         "plezalka: srednje svetel ten kože",
-        "srednje svetel ten kože"
+        "srednje svetel ten kože",
+        "ženska, ki pleza"
     ],
     "🧗🏽‍♀": [
+        "plezalec",
         "plezalka",
         "plezalka: srednji ten kože",
-        "srednji ten kože"
+        "srednji ten kože",
+        "ženska, ki pleza"
     ],
     "🧗🏾‍♀": [
+        "plezalec",
         "plezalka",
         "plezalka: srednje temen ten kože",
-        "srednje temen ten kože"
+        "srednje temen ten kože",
+        "ženska, ki pleza"
     ],
     "🧗🏿‍♀": [
+        "plezalec",
         "plezalka",
         "plezalka: temen ten kože",
-        "temen ten kože"
+        "temen ten kože",
+        "ženska, ki pleza"
     ],
     "🤺": [
         "meč",
@@ -11041,34 +13525,46 @@
         "ženska"
     ],
     "🚴": [
+        "kolesar",
+        "kolesarjenje",
         "kolo",
         "oseba na kolesu"
     ],
     "🚴🏻": [
+        "kolesar",
+        "kolesarjenje",
         "kolo",
         "oseba na kolesu",
         "oseba na kolesu: svetel ten kože",
         "svetel ten kože"
     ],
     "🚴🏼": [
+        "kolesar",
+        "kolesarjenje",
         "kolo",
         "oseba na kolesu",
         "oseba na kolesu: srednje svetel ten kože",
         "srednje svetel ten kože"
     ],
     "🚴🏽": [
+        "kolesar",
+        "kolesarjenje",
         "kolo",
         "oseba na kolesu",
         "oseba na kolesu: srednji ten kože",
         "srednji ten kože"
     ],
     "🚴🏾": [
+        "kolesar",
+        "kolesarjenje",
         "kolo",
         "oseba na kolesu",
         "oseba na kolesu: srednje temen ten kože",
         "srednje temen ten kože"
     ],
     "🚴🏿": [
+        "kolesar",
+        "kolesarjenje",
         "kolo",
         "oseba na kolesu",
         "oseba na kolesu: temen ten kože",
@@ -12010,85 +14506,121 @@
         "žongliranje"
     ],
     "🧘": [
+        "joga",
+        "meditacija",
         "oseba v lotusovem položaju"
     ],
     "🧘🏻": [
+        "joga",
+        "meditacija",
         "oseba v lotusovem položaju",
         "oseba v lotusovem položaju: svetel ten kože",
         "svetel ten kože"
     ],
     "🧘🏼": [
+        "joga",
+        "meditacija",
         "oseba v lotusovem položaju",
         "oseba v lotusovem položaju: srednje svetel ten kože",
         "srednje svetel ten kože"
     ],
     "🧘🏽": [
+        "joga",
+        "meditacija",
         "oseba v lotusovem položaju",
         "oseba v lotusovem položaju: srednji ten kože",
         "srednji ten kože"
     ],
     "🧘🏾": [
+        "joga",
+        "meditacija",
         "oseba v lotusovem položaju",
         "oseba v lotusovem položaju: srednje temen ten kože",
         "srednje temen ten kože"
     ],
     "🧘🏿": [
+        "joga",
+        "meditacija",
         "oseba v lotusovem položaju",
         "oseba v lotusovem položaju: temen ten kože",
         "temen ten kože"
     ],
     "🧘‍♂": [
+        "joga",
+        "meditacija",
         "moški v lotusovem položaju"
     ],
     "🧘🏻‍♂": [
+        "joga",
+        "meditacija",
         "moški v lotusovem položaju",
         "moški v lotusovem položaju: svetel ten kože",
         "svetel ten kože"
     ],
     "🧘🏼‍♂": [
+        "joga",
+        "meditacija",
         "moški v lotusovem položaju",
         "moški v lotusovem položaju: srednje svetel ten kože",
         "srednje svetel ten kože"
     ],
     "🧘🏽‍♂": [
+        "joga",
+        "meditacija",
         "moški v lotusovem položaju",
         "moški v lotusovem položaju: srednji ten kože",
         "srednji ten kože"
     ],
     "🧘🏾‍♂": [
+        "joga",
+        "meditacija",
         "moški v lotusovem položaju",
         "moški v lotusovem položaju: srednje temen ten kože",
         "srednje temen ten kože"
     ],
     "🧘🏿‍♂": [
+        "joga",
+        "meditacija",
         "moški v lotusovem položaju",
         "moški v lotusovem položaju: temen ten kože",
         "temen ten kože"
     ],
     "🧘‍♀": [
+        "joga",
+        "meditacija",
         "ženska v lotusovem položaju"
     ],
     "🧘🏻‍♀": [
+        "joga",
+        "meditacija",
         "svetel ten kože",
         "ženska v lotusovem položaju",
         "ženska v lotusovem položaju: svetel ten kože"
     ],
     "🧘🏼‍♀": [
+        "joga",
+        "meditacija",
         "srednje svetel ten kože",
         "ženska v lotusovem položaju",
         "ženska v lotusovem položaju: srednje svetel ten kože"
     ],
     "🧘🏽‍♀": [
+        "joga",
+        "meditacija",
         "srednji ten kože",
         "ženska v lotusovem položaju",
         "ženska v lotusovem položaju: srednji ten kože"
     ],
     "🧘🏾‍♀": [
+        "joga",
+        "meditacija",
         "srednje temen ten kože",
         "ženska v lotusovem položaju",
         "ženska v lotusovem položaju: srednje temen ten kože"
     ],
     "🧘🏿‍♀": [
+        "joga",
+        "meditacija",
         "temen ten kože",
         "ženska v lotusovem položaju",
         "ženska v lotusovem položaju: temen ten kože"
@@ -12173,27 +14705,1038 @@
         "spanje",
         "temen ten kože"
     ],
+    "🧑‍🤝‍🧑": [
+        "držati",
+        "oseba",
+        "osebi se držita za roke",
+        "par",
+        "roka"
+    ],
+    "🧑🏻‍🤝‍🧑🏻": [
+        "držati",
+        "oseba",
+        "osebi se držita za roke",
+        "osebi se držita za roke: svetel ten kože",
+        "par",
+        "roka",
+        "svetel ten kože"
+    ],
+    "🧑🏻‍🤝‍🧑🏼": [
+        "držati",
+        "oseba",
+        "osebi se držita za roke",
+        "osebi se držita za roke: svetel ten kože in srednje svetel ten kože",
+        "par",
+        "roka",
+        "srednje svetel ten kože",
+        "svetel ten kože"
+    ],
+    "🧑🏻‍🤝‍🧑🏽": [
+        "držati",
+        "oseba",
+        "osebi se držita za roke",
+        "osebi se držita za roke: svetel ten kože in srednji ten kože",
+        "par",
+        "roka",
+        "srednji ten kože",
+        "svetel ten kože"
+    ],
+    "🧑🏻‍🤝‍🧑🏾": [
+        "držati",
+        "oseba",
+        "osebi se držita za roke",
+        "osebi se držita za roke: svetel ten kože in srednje temen ten kože",
+        "par",
+        "roka",
+        "srednje temen ten kože",
+        "svetel ten kože"
+    ],
+    "🧑🏻‍🤝‍🧑🏿": [
+        "držati",
+        "oseba",
+        "osebi se držita za roke",
+        "osebi se držita za roke: svetel ten kože in temen ten kože",
+        "par",
+        "roka",
+        "svetel ten kože",
+        "temen ten kože"
+    ],
+    "🧑🏼‍🤝‍🧑🏻": [
+        "držati",
+        "oseba",
+        "osebi se držita za roke",
+        "osebi se držita za roke: srednje svetel ten kože in svetel ten kože",
+        "par",
+        "roka",
+        "srednje svetel ten kože",
+        "svetel ten kože"
+    ],
+    "🧑🏼‍🤝‍🧑🏼": [
+        "držati",
+        "oseba",
+        "osebi se držita za roke",
+        "osebi se držita za roke: srednje svetel ten kože",
+        "par",
+        "roka",
+        "srednje svetel ten kože"
+    ],
+    "🧑🏼‍🤝‍🧑🏽": [
+        "držati",
+        "oseba",
+        "osebi se držita za roke",
+        "osebi se držita za roke: srednje svetel ten kože in srednji ten kože",
+        "par",
+        "roka",
+        "srednje svetel ten kože",
+        "srednji ten kože"
+    ],
+    "🧑🏼‍🤝‍🧑🏾": [
+        "držati",
+        "oseba",
+        "osebi se držita za roke",
+        "osebi se držita za roke: srednje svetel ten kože in srednje temen ten kože",
+        "par",
+        "roka",
+        "srednje svetel ten kože",
+        "srednje temen ten kože"
+    ],
+    "🧑🏼‍🤝‍🧑🏿": [
+        "držati",
+        "oseba",
+        "osebi se držita za roke",
+        "osebi se držita za roke: srednje svetel ten kože in temen ten kože",
+        "par",
+        "roka",
+        "srednje svetel ten kože",
+        "temen ten kože"
+    ],
+    "🧑🏽‍🤝‍🧑🏻": [
+        "držati",
+        "oseba",
+        "osebi se držita za roke",
+        "osebi se držita za roke: srednji ten kože in svetel ten kože",
+        "par",
+        "roka",
+        "srednji ten kože",
+        "svetel ten kože"
+    ],
+    "🧑🏽‍🤝‍🧑🏼": [
+        "držati",
+        "oseba",
+        "osebi se držita za roke",
+        "osebi se držita za roke: srednji ten kože in srednje svetel ten kože",
+        "par",
+        "roka",
+        "srednje svetel ten kože",
+        "srednji ten kože"
+    ],
+    "🧑🏽‍🤝‍🧑🏽": [
+        "držati",
+        "oseba",
+        "osebi se držita za roke",
+        "osebi se držita za roke: srednji ten kože",
+        "par",
+        "roka",
+        "srednji ten kože"
+    ],
+    "🧑🏽‍🤝‍🧑🏾": [
+        "držati",
+        "oseba",
+        "osebi se držita za roke",
+        "osebi se držita za roke: srednji ten kože in srednje temen ten kože",
+        "par",
+        "roka",
+        "srednje temen ten kože",
+        "srednji ten kože"
+    ],
+    "🧑🏽‍🤝‍🧑🏿": [
+        "držati",
+        "oseba",
+        "osebi se držita za roke",
+        "osebi se držita za roke: srednji ten kože in temen ten kože",
+        "par",
+        "roka",
+        "srednji ten kože",
+        "temen ten kože"
+    ],
+    "🧑🏾‍🤝‍🧑🏻": [
+        "držati",
+        "oseba",
+        "osebi se držita za roke",
+        "osebi se držita za roke: srednje temen ten kože in svetel ten kože",
+        "par",
+        "roka",
+        "srednje temen ten kože",
+        "svetel ten kože"
+    ],
+    "🧑🏾‍🤝‍🧑🏼": [
+        "držati",
+        "oseba",
+        "osebi se držita za roke",
+        "osebi se držita za roke: srednje temen ten kože in srednje svetel ten kože",
+        "par",
+        "roka",
+        "srednje svetel ten kože",
+        "srednje temen ten kože"
+    ],
+    "🧑🏾‍🤝‍🧑🏽": [
+        "držati",
+        "oseba",
+        "osebi se držita za roke",
+        "osebi se držita za roke: srednje temen ten kože in srednji ten kože",
+        "par",
+        "roka",
+        "srednje temen ten kože",
+        "srednji ten kože"
+    ],
+    "🧑🏾‍🤝‍🧑🏾": [
+        "držati",
+        "oseba",
+        "osebi se držita za roke",
+        "osebi se držita za roke: srednje temen ten kože",
+        "par",
+        "roka",
+        "srednje temen ten kože"
+    ],
+    "🧑🏾‍🤝‍🧑🏿": [
+        "držati",
+        "oseba",
+        "osebi se držita za roke",
+        "osebi se držita za roke: srednje temen ten kože in temen ten kože",
+        "par",
+        "roka",
+        "srednje temen ten kože",
+        "temen ten kože"
+    ],
+    "🧑🏿‍🤝‍🧑🏻": [
+        "držati",
+        "oseba",
+        "osebi se držita za roke",
+        "osebi se držita za roke: temen ten kože in svetel ten kože",
+        "par",
+        "roka",
+        "svetel ten kože",
+        "temen ten kože"
+    ],
+    "🧑🏿‍🤝‍🧑🏼": [
+        "držati",
+        "oseba",
+        "osebi se držita za roke",
+        "osebi se držita za roke: temen ten kože in srednje svetel ten kože",
+        "par",
+        "roka",
+        "srednje svetel ten kože",
+        "temen ten kože"
+    ],
+    "🧑🏿‍🤝‍🧑🏽": [
+        "držati",
+        "oseba",
+        "osebi se držita za roke",
+        "osebi se držita za roke: temen ten kože in srednji ten kože",
+        "par",
+        "roka",
+        "srednji ten kože",
+        "temen ten kože"
+    ],
+    "🧑🏿‍🤝‍🧑🏾": [
+        "držati",
+        "oseba",
+        "osebi se držita za roke",
+        "osebi se držita za roke: temen ten kože in srednje temen ten kože",
+        "par",
+        "roka",
+        "srednje temen ten kože",
+        "temen ten kože"
+    ],
+    "🧑🏿‍🤝‍🧑🏿": [
+        "držati",
+        "oseba",
+        "osebi se držita za roke",
+        "osebi se držita za roke: temen ten kože",
+        "par",
+        "roka",
+        "temen ten kože"
+    ],
     "👭": [
         "držati",
         "par",
         "roka",
         "ženska",
-        "ženski, ki se držita za roke"
+        "ženski se držita za roke"
+    ],
+    "👭🏻": [
+        "držati",
+        "par",
+        "roka",
+        "svetel ten kože",
+        "ženska",
+        "ženski se držita za roke",
+        "ženski se držita za roke: svetel ten kože"
+    ],
+    "👩🏻‍🤝‍👩🏼": [
+        "držati",
+        "par",
+        "roka",
+        "srednje svetel ten kože",
+        "svetel ten kože",
+        "ženska",
+        "ženski se držita za roke",
+        "ženski se držita za roke: svetel ten kože in srednje svetel ten kože"
+    ],
+    "👩🏻‍🤝‍👩🏽": [
+        "držati",
+        "par",
+        "roka",
+        "srednji ten kože",
+        "svetel ten kože",
+        "ženska",
+        "ženski se držita za roke",
+        "ženski se držita za roke: svetel ten kože in srednji ten kože"
+    ],
+    "👩🏻‍🤝‍👩🏾": [
+        "držati",
+        "par",
+        "roka",
+        "srednje temen ten kože",
+        "svetel ten kože",
+        "ženska",
+        "ženski se držita za roke",
+        "ženski se držita za roke: svetel ten kože in srednje temen ten kože"
+    ],
+    "👩🏻‍🤝‍👩🏿": [
+        "držati",
+        "par",
+        "roka",
+        "svetel ten kože",
+        "temen ten kože",
+        "ženska",
+        "ženski se držita za roke",
+        "ženski se držita za roke: svetel ten kože in temen ten kože"
+    ],
+    "👩🏼‍🤝‍👩🏻": [
+        "držati",
+        "par",
+        "roka",
+        "srednje svetel ten kože",
+        "svetel ten kože",
+        "ženska",
+        "ženski se držita za roke",
+        "ženski se držita za roke: srednje svetel ten kože in svetel ten kože"
+    ],
+    "👭🏼": [
+        "držati",
+        "par",
+        "roka",
+        "srednje svetel ten kože",
+        "ženska",
+        "ženski se držita za roke",
+        "ženski se držita za roke: srednje svetel ten kože"
+    ],
+    "👩🏼‍🤝‍👩🏽": [
+        "držati",
+        "par",
+        "roka",
+        "srednje svetel ten kože",
+        "srednji ten kože",
+        "ženska",
+        "ženski se držita za roke",
+        "ženski se držita za roke: srednje svetel ten kože in srednji ten kože"
+    ],
+    "👩🏼‍🤝‍👩🏾": [
+        "držati",
+        "par",
+        "roka",
+        "srednje svetel ten kože",
+        "srednje temen ten kože",
+        "ženska",
+        "ženski se držita za roke",
+        "ženski se držita za roke: srednje svetel ten kože in srednje temen ten kože"
+    ],
+    "👩🏼‍🤝‍👩🏿": [
+        "držati",
+        "par",
+        "roka",
+        "srednje svetel ten kože",
+        "temen ten kože",
+        "ženska",
+        "ženski se držita za roke",
+        "ženski se držita za roke: srednje svetel ten kože in temen ten kože"
+    ],
+    "👩🏽‍🤝‍👩🏻": [
+        "držati",
+        "par",
+        "roka",
+        "srednji ten kože",
+        "svetel ten kože",
+        "ženska",
+        "ženski se držita za roke",
+        "ženski se držita za roke: srednji ten kože in svetel ten kože"
+    ],
+    "👩🏽‍🤝‍👩🏼": [
+        "držati",
+        "par",
+        "roka",
+        "srednje svetel ten kože",
+        "srednji ten kože",
+        "ženska",
+        "ženski se držita za roke",
+        "ženski se držita za roke: srednji ten kože in srednje svetel ten kože"
+    ],
+    "👭🏽": [
+        "držati",
+        "par",
+        "roka",
+        "srednji ten kože",
+        "ženska",
+        "ženski se držita za roke",
+        "ženski se držita za roke: srednji ten kože"
+    ],
+    "👩🏽‍🤝‍👩🏾": [
+        "držati",
+        "par",
+        "roka",
+        "srednje temen ten kože",
+        "srednji ten kože",
+        "ženska",
+        "ženski se držita za roke",
+        "ženski se držita za roke: srednji ten kože in srednje temen ten kože"
+    ],
+    "👩🏽‍🤝‍👩🏿": [
+        "držati",
+        "par",
+        "roka",
+        "srednji ten kože",
+        "temen ten kože",
+        "ženska",
+        "ženski se držita za roke",
+        "ženski se držita za roke: srednji ten kože in temen ten kože"
+    ],
+    "👩🏾‍🤝‍👩🏻": [
+        "držati",
+        "par",
+        "roka",
+        "srednje temen ten kože",
+        "svetel ten kože",
+        "ženska",
+        "ženski se držita za roke",
+        "ženski se držita za roke: srednje temen ten kože in svetel ten kože"
+    ],
+    "👩🏾‍🤝‍👩🏼": [
+        "držati",
+        "par",
+        "roka",
+        "srednje svetel ten kože",
+        "srednje temen ten kože",
+        "ženska",
+        "ženski se držita za roke",
+        "ženski se držita za roke: srednje temen ten kože in srednje svetel ten kože"
+    ],
+    "👩🏾‍🤝‍👩🏽": [
+        "držati",
+        "par",
+        "roka",
+        "srednje temen ten kože",
+        "srednji ten kože",
+        "ženska",
+        "ženski se držita za roke",
+        "ženski se držita za roke: srednje temen ten kože in srednji ten kože"
+    ],
+    "👭🏾": [
+        "držati",
+        "par",
+        "roka",
+        "srednje temen ten kože",
+        "ženska",
+        "ženski se držita za roke",
+        "ženski se držita za roke: srednje temen ten kože"
+    ],
+    "👩🏾‍🤝‍👩🏿": [
+        "držati",
+        "par",
+        "roka",
+        "srednje temen ten kože",
+        "temen ten kože",
+        "ženska",
+        "ženski se držita za roke",
+        "ženski se držita za roke: srednje temen ten kože in temen ten kože"
+    ],
+    "👩🏿‍🤝‍👩🏻": [
+        "držati",
+        "par",
+        "roka",
+        "svetel ten kože",
+        "temen ten kože",
+        "ženska",
+        "ženski se držita za roke",
+        "ženski se držita za roke: temen ten kože in svetel ten kože"
+    ],
+    "👩🏿‍🤝‍👩🏼": [
+        "držati",
+        "par",
+        "roka",
+        "srednje svetel ten kože",
+        "temen ten kože",
+        "ženska",
+        "ženski se držita za roke",
+        "ženski se držita za roke: temen ten kože in srednje svetel ten kože"
+    ],
+    "👩🏿‍🤝‍👩🏽": [
+        "držati",
+        "par",
+        "roka",
+        "srednji ten kože",
+        "temen ten kože",
+        "ženska",
+        "ženski se držita za roke",
+        "ženski se držita za roke: temen ten kože in srednji ten kože"
+    ],
+    "👩🏿‍🤝‍👩🏾": [
+        "držati",
+        "par",
+        "roka",
+        "srednje temen ten kože",
+        "temen ten kože",
+        "ženska",
+        "ženski se držita za roke",
+        "ženski se držita za roke: temen ten kože in srednje temen ten kože"
+    ],
+    "👭🏿": [
+        "držati",
+        "par",
+        "roka",
+        "temen ten kože",
+        "ženska",
+        "ženski se držita za roke",
+        "ženski se držita za roke: temen ten kože"
     ],
     "👫": [
         "držati",
         "moški",
-        "moški in ženska, ki se držita za roke",
+        "moški in ženska se držita za roke",
         "par",
         "roka",
         "ženska"
     ],
-    "👬": [
-        "dvojčka",
-        "moška, ki se držita za roke",
+    "👫🏻": [
+        "držati",
         "moški",
+        "moški in ženska se držita za roke",
+        "moški in ženska se držita za roke: svetel ten kože",
         "par",
         "roka",
+        "svetel ten kože",
+        "ženska"
+    ],
+    "👩🏻‍🤝‍👨🏼": [
+        "držati",
+        "moški",
+        "moški in ženska se držita za roke",
+        "moški in ženska se držita za roke: svetel ten kože in srednje svetel ten kože",
+        "par",
+        "roka",
+        "srednje svetel ten kože",
+        "svetel ten kože",
+        "ženska"
+    ],
+    "👩🏻‍🤝‍👨🏽": [
+        "držati",
+        "moški",
+        "moški in ženska se držita za roke",
+        "moški in ženska se držita za roke: svetel ten kože in srednji ten kože",
+        "par",
+        "roka",
+        "srednji ten kože",
+        "svetel ten kože",
+        "ženska"
+    ],
+    "👩🏻‍🤝‍👨🏾": [
+        "držati",
+        "moški",
+        "moški in ženska se držita za roke",
+        "moški in ženska se držita za roke: svetel ten kože in srednje temen ten kože",
+        "par",
+        "roka",
+        "srednje temen ten kože",
+        "svetel ten kože",
+        "ženska"
+    ],
+    "👩🏻‍🤝‍👨🏿": [
+        "držati",
+        "moški",
+        "moški in ženska se držita za roke",
+        "moški in ženska se držita za roke: svetel ten kože in temen ten kože",
+        "par",
+        "roka",
+        "svetel ten kože",
+        "temen ten kože",
+        "ženska"
+    ],
+    "👩🏼‍🤝‍👨🏻": [
+        "držati",
+        "moški",
+        "moški in ženska se držita za roke",
+        "moški in ženska se držita za roke: srednje svetel ten kože in svetel ten kože",
+        "par",
+        "roka",
+        "srednje svetel ten kože",
+        "svetel ten kože",
+        "ženska"
+    ],
+    "👫🏼": [
+        "držati",
+        "moški",
+        "moški in ženska se držita za roke",
+        "moški in ženska se držita za roke: srednje svetel ten kože",
+        "par",
+        "roka",
+        "srednje svetel ten kože",
+        "ženska"
+    ],
+    "👩🏼‍🤝‍👨🏽": [
+        "držati",
+        "moški",
+        "moški in ženska se držita za roke",
+        "moški in ženska se držita za roke: srednje svetel ten kože in srednji ten kože",
+        "par",
+        "roka",
+        "srednje svetel ten kože",
+        "srednji ten kože",
+        "ženska"
+    ],
+    "👩🏼‍🤝‍👨🏾": [
+        "držati",
+        "moški",
+        "moški in ženska se držita za roke",
+        "moški in ženska se držita za roke: srednje svetel ten kože in srednje temen ten kože",
+        "par",
+        "roka",
+        "srednje svetel ten kože",
+        "srednje temen ten kože",
+        "ženska"
+    ],
+    "👩🏼‍🤝‍👨🏿": [
+        "držati",
+        "moški",
+        "moški in ženska se držita za roke",
+        "moški in ženska se držita za roke: srednje svetel ten kože in temen ten kože",
+        "par",
+        "roka",
+        "srednje svetel ten kože",
+        "temen ten kože",
+        "ženska"
+    ],
+    "👩🏽‍🤝‍👨🏻": [
+        "držati",
+        "moški",
+        "moški in ženska se držita za roke",
+        "moški in ženska se držita za roke: srednji ten kože in svetel ten kože",
+        "par",
+        "roka",
+        "srednji ten kože",
+        "svetel ten kože",
+        "ženska"
+    ],
+    "👩🏽‍🤝‍👨🏼": [
+        "držati",
+        "moški",
+        "moški in ženska se držita za roke",
+        "moški in ženska se držita za roke: srednji ten kože in srednje svetel ten kože",
+        "par",
+        "roka",
+        "srednje svetel ten kože",
+        "srednji ten kože",
+        "ženska"
+    ],
+    "👫🏽": [
+        "držati",
+        "moški",
+        "moški in ženska se držita za roke",
+        "moški in ženska se držita za roke: srednji ten kože",
+        "par",
+        "roka",
+        "srednji ten kože",
+        "ženska"
+    ],
+    "👩🏽‍🤝‍👨🏾": [
+        "držati",
+        "moški",
+        "moški in ženska se držita za roke",
+        "moški in ženska se držita za roke: srednji ten kože in srednje temen ten kože",
+        "par",
+        "roka",
+        "srednje temen ten kože",
+        "srednji ten kože",
+        "ženska"
+    ],
+    "👩🏽‍🤝‍👨🏿": [
+        "držati",
+        "moški",
+        "moški in ženska se držita za roke",
+        "moški in ženska se držita za roke: srednji ten kože in temen ten kože",
+        "par",
+        "roka",
+        "srednji ten kože",
+        "temen ten kože",
+        "ženska"
+    ],
+    "👩🏾‍🤝‍👨🏻": [
+        "držati",
+        "moški",
+        "moški in ženska se držita za roke",
+        "moški in ženska se držita za roke: srednje temen ten kože in svetel ten kože",
+        "par",
+        "roka",
+        "srednje temen ten kože",
+        "svetel ten kože",
+        "ženska"
+    ],
+    "👩🏾‍🤝‍👨🏼": [
+        "držati",
+        "moški",
+        "moški in ženska se držita za roke",
+        "moški in ženska se držita za roke: srednje temen ten kože in srednje svetel ten kože",
+        "par",
+        "roka",
+        "srednje svetel ten kože",
+        "srednje temen ten kože",
+        "ženska"
+    ],
+    "👩🏾‍🤝‍👨🏽": [
+        "držati",
+        "moški",
+        "moški in ženska se držita za roke",
+        "moški in ženska se držita za roke: srednje temen ten kože in srednji ten kože",
+        "par",
+        "roka",
+        "srednje temen ten kože",
+        "srednji ten kože",
+        "ženska"
+    ],
+    "👫🏾": [
+        "držati",
+        "moški",
+        "moški in ženska se držita za roke",
+        "moški in ženska se držita za roke: srednje temen ten kože",
+        "par",
+        "roka",
+        "srednje temen ten kože",
+        "ženska"
+    ],
+    "👩🏾‍🤝‍👨🏿": [
+        "držati",
+        "moški",
+        "moški in ženska se držita za roke",
+        "moški in ženska se držita za roke: srednje temen ten kože in temen ten kože",
+        "par",
+        "roka",
+        "srednje temen ten kože",
+        "temen ten kože",
+        "ženska"
+    ],
+    "👩🏿‍🤝‍👨🏻": [
+        "držati",
+        "moški",
+        "moški in ženska se držita za roke",
+        "moški in ženska se držita za roke: temen ten kože in svetel ten kože",
+        "par",
+        "roka",
+        "svetel ten kože",
+        "temen ten kože",
+        "ženska"
+    ],
+    "👩🏿‍🤝‍👨🏼": [
+        "držati",
+        "moški",
+        "moški in ženska se držita za roke",
+        "moški in ženska se držita za roke: temen ten kože in srednje svetel ten kože",
+        "par",
+        "roka",
+        "srednje svetel ten kože",
+        "temen ten kože",
+        "ženska"
+    ],
+    "👩🏿‍🤝‍👨🏽": [
+        "držati",
+        "moški",
+        "moški in ženska se držita za roke",
+        "moški in ženska se držita za roke: temen ten kože in srednji ten kože",
+        "par",
+        "roka",
+        "srednji ten kože",
+        "temen ten kože",
+        "ženska"
+    ],
+    "👩🏿‍🤝‍👨🏾": [
+        "držati",
+        "moški",
+        "moški in ženska se držita za roke",
+        "moški in ženska se držita za roke: temen ten kože in srednje temen ten kože",
+        "par",
+        "roka",
+        "srednje temen ten kože",
+        "temen ten kože",
+        "ženska"
+    ],
+    "👫🏿": [
+        "držati",
+        "moški",
+        "moški in ženska se držita za roke",
+        "moški in ženska se držita za roke: temen ten kože",
+        "par",
+        "roka",
+        "temen ten kože",
+        "ženska"
+    ],
+    "👬": [
+        "dvojčka",
+        "moška se držita za roke",
+        "moški",
+        "par",
+        "zodiak"
+    ],
+    "👬🏻": [
+        "dvojčka",
+        "moška se držita za roke",
+        "moška se držita za roke: svetel ten kože",
+        "moški",
+        "par",
+        "svetel ten kože",
+        "zodiak"
+    ],
+    "👨🏻‍🤝‍👨🏼": [
+        "dvojčka",
+        "moška se držita za roke",
+        "moška se držita za roke: svetel ten kože in srednje svetel ten kože",
+        "moški",
+        "par",
+        "srednje svetel ten kože",
+        "svetel ten kože",
+        "zodiak"
+    ],
+    "👨🏻‍🤝‍👨🏽": [
+        "dvojčka",
+        "moška se držita za roke",
+        "moška se držita za roke: svetel ten kože in srednji ten kože",
+        "moški",
+        "par",
+        "srednji ten kože",
+        "svetel ten kože",
+        "zodiak"
+    ],
+    "👨🏻‍🤝‍👨🏾": [
+        "dvojčka",
+        "moška se držita za roke",
+        "moška se držita za roke: svetel ten kože in srednje temen ten kože",
+        "moški",
+        "par",
+        "srednje temen ten kože",
+        "svetel ten kože",
+        "zodiak"
+    ],
+    "👨🏻‍🤝‍👨🏿": [
+        "dvojčka",
+        "moška se držita za roke",
+        "moška se držita za roke: svetel ten kože in temen ten kože",
+        "moški",
+        "par",
+        "svetel ten kože",
+        "temen ten kože",
+        "zodiak"
+    ],
+    "👨🏼‍🤝‍👨🏻": [
+        "dvojčka",
+        "moška se držita za roke",
+        "moška se držita za roke: srednje svetel ten kože in svetel ten kože",
+        "moški",
+        "par",
+        "srednje svetel ten kože",
+        "svetel ten kože",
+        "zodiak"
+    ],
+    "👬🏼": [
+        "dvojčka",
+        "moška se držita za roke",
+        "moška se držita za roke: srednje svetel ten kože",
+        "moški",
+        "par",
+        "srednje svetel ten kože",
+        "zodiak"
+    ],
+    "👨🏼‍🤝‍👨🏽": [
+        "dvojčka",
+        "moška se držita za roke",
+        "moška se držita za roke: srednje svetel ten kože in srednji ten kože",
+        "moški",
+        "par",
+        "srednje svetel ten kože",
+        "srednji ten kože",
+        "zodiak"
+    ],
+    "👨🏼‍🤝‍👨🏾": [
+        "dvojčka",
+        "moška se držita za roke",
+        "moška se držita za roke: srednje svetel ten kože in srednje temen ten kože",
+        "moški",
+        "par",
+        "srednje svetel ten kože",
+        "srednje temen ten kože",
+        "zodiak"
+    ],
+    "👨🏼‍🤝‍👨🏿": [
+        "dvojčka",
+        "moška se držita za roke",
+        "moška se držita za roke: srednje svetel ten kože in temen ten kože",
+        "moški",
+        "par",
+        "srednje svetel ten kože",
+        "temen ten kože",
+        "zodiak"
+    ],
+    "👨🏽‍🤝‍👨🏻": [
+        "dvojčka",
+        "moška se držita za roke",
+        "moška se držita za roke: srednji ten kože in svetel ten kože",
+        "moški",
+        "par",
+        "srednji ten kože",
+        "svetel ten kože",
+        "zodiak"
+    ],
+    "👨🏽‍🤝‍👨🏼": [
+        "dvojčka",
+        "moška se držita za roke",
+        "moška se držita za roke: srednji ten kože in srednje svetel ten kože",
+        "moški",
+        "par",
+        "srednje svetel ten kože",
+        "srednji ten kože",
+        "zodiak"
+    ],
+    "👬🏽": [
+        "dvojčka",
+        "moška se držita za roke",
+        "moška se držita za roke: srednji ten kože",
+        "moški",
+        "par",
+        "srednji ten kože",
+        "zodiak"
+    ],
+    "👨🏽‍🤝‍👨🏾": [
+        "dvojčka",
+        "moška se držita za roke",
+        "moška se držita za roke: srednji ten kože in srednje temen ten kože",
+        "moški",
+        "par",
+        "srednje temen ten kože",
+        "srednji ten kože",
+        "zodiak"
+    ],
+    "👨🏽‍🤝‍👨🏿": [
+        "dvojčka",
+        "moška se držita za roke",
+        "moška se držita za roke: srednji ten kože in temen ten kože",
+        "moški",
+        "par",
+        "srednji ten kože",
+        "temen ten kože",
+        "zodiak"
+    ],
+    "👨🏾‍🤝‍👨🏻": [
+        "dvojčka",
+        "moška se držita za roke",
+        "moška se držita za roke: srednje temen ten kože in svetel ten kože",
+        "moški",
+        "par",
+        "srednje temen ten kože",
+        "svetel ten kože",
+        "zodiak"
+    ],
+    "👨🏾‍🤝‍👨🏼": [
+        "dvojčka",
+        "moška se držita za roke",
+        "moška se držita za roke: srednje temen ten kože in srednje svetel ten kože",
+        "moški",
+        "par",
+        "srednje svetel ten kože",
+        "srednje temen ten kože",
+        "zodiak"
+    ],
+    "👨🏾‍🤝‍👨🏽": [
+        "dvojčka",
+        "moška se držita za roke",
+        "moška se držita za roke: srednje temen ten kože in srednji ten kože",
+        "moški",
+        "par",
+        "srednje temen ten kože",
+        "srednji ten kože",
+        "zodiak"
+    ],
+    "👬🏾": [
+        "dvojčka",
+        "moška se držita za roke",
+        "moška se držita za roke: srednje temen ten kože",
+        "moški",
+        "par",
+        "srednje temen ten kože",
+        "zodiak"
+    ],
+    "👨🏾‍🤝‍👨🏿": [
+        "dvojčka",
+        "moška se držita za roke",
+        "moška se držita za roke: srednje temen ten kože in temen ten kože",
+        "moški",
+        "par",
+        "srednje temen ten kože",
+        "temen ten kože",
+        "zodiak"
+    ],
+    "👨🏿‍🤝‍👨🏻": [
+        "dvojčka",
+        "moška se držita za roke",
+        "moška se držita za roke: temen ten kože in svetel ten kože",
+        "moški",
+        "par",
+        "svetel ten kože",
+        "temen ten kože",
+        "zodiak"
+    ],
+    "👨🏿‍🤝‍👨🏼": [
+        "dvojčka",
+        "moška se držita za roke",
+        "moška se držita za roke: temen ten kože in srednje svetel ten kože",
+        "moški",
+        "par",
+        "srednje svetel ten kože",
+        "temen ten kože",
+        "zodiak"
+    ],
+    "👨🏿‍🤝‍👨🏽": [
+        "dvojčka",
+        "moška se držita za roke",
+        "moška se držita za roke: temen ten kože in srednji ten kože",
+        "moški",
+        "par",
+        "srednji ten kože",
+        "temen ten kože",
+        "zodiak"
+    ],
+    "👨🏿‍🤝‍👨🏾": [
+        "dvojčka",
+        "moška se držita za roke",
+        "moška se držita za roke: temen ten kože in srednje temen ten kože",
+        "moški",
+        "par",
+        "srednje temen ten kože",
+        "temen ten kože",
+        "zodiak"
+    ],
+    "👬🏿": [
+        "dvojčka",
+        "moška se držita za roke",
+        "moška se držita za roke: temen ten kože",
+        "moški",
+        "par",
+        "temen ten kože",
         "zodiak"
     ],
     "💏": [
@@ -12517,6 +16060,13 @@
         "silhueta",
         "silhueti doprsja"
     ],
+    "🫂": [
+        "hvala",
+        "nasvidenje",
+        "objem",
+        "osebi, ki se objemata",
+        "živijo"
+    ],
     "👣": [
         "oblačila",
         "odtis",
@@ -12560,6 +16110,10 @@
         "gorila",
         "žival"
     ],
+    "🦧": [
+        "opica",
+        "orangutan"
+    ],
     "🐶": [
         "domači ljubljenček",
         "obraz",
@@ -12570,19 +16124,29 @@
         "domači ljubljenček",
         "pes"
     ],
+    "🦮": [
+        "pes vodnik",
+        "slepi",
+        "vodnik"
+    ],
+    "🐕‍🦺": [
+        "policijski",
+        "pomoč",
+        "reševalni",
+        "službeni pes",
+        "vojaški"
+    ],
     "🐩": [
         "pes",
         "pudelj"
     ],
     "🐺": [
         "obraz",
-        "volk",
-        "volčji obraz"
+        "volk"
     ],
     "🦊": [
         "lisica",
-        "lisičji obraz",
-        "žival"
+        "obraz"
     ],
     "🦝": [
         "radoveden",
@@ -12599,9 +16163,14 @@
         "domači ljubljenček",
         "mačka"
     ],
+    "🐈‍⬛": [
+        "mačka",
+        "smola",
+        "črna",
+        "črna mačka"
+    ],
     "🦁": [
         "lev",
-        "levji obraz",
         "obraz",
         "zodiak"
     ],
@@ -12628,8 +16197,7 @@
     ],
     "🦄": [
         "obraz",
-        "samorog",
-        "samorogov obraz"
+        "samorog"
     ],
     "🦓": [
         "zebra"
@@ -12637,6 +16205,12 @@
     "🦌": [
         "jelen",
         "žival"
+    ],
+    "🦬": [
+        "bivol",
+        "bizon",
+        "zober",
+        "čreda"
     ],
     "🐮": [
         "krava",
@@ -12714,6 +16288,13 @@
     "🐘": [
         "slon"
     ],
+    "🦣": [
+        "izumrtje",
+        "mamut",
+        "okel",
+        "velik",
+        "volnatost"
+    ],
     "🦏": [
         "nosorog",
         "žival"
@@ -12737,7 +16318,6 @@
     "🐹": [
         "domači ljubljenček",
         "hrček",
-        "hrčkov obraz",
         "obraz"
     ],
     "🐰": [
@@ -12756,6 +16336,10 @@
         "progasta veverica",
         "veverica"
     ],
+    "🦫": [
+        "bober",
+        "jez"
+    ],
     "🦔": [
         "jež"
     ],
@@ -12765,8 +16349,13 @@
     ],
     "🐻": [
         "medved",
-        "medvedov obraz",
         "obraz"
+    ],
+    "🐻‍❄": [
+        "beli",
+        "medved",
+        "polarni",
+        "severni medved"
     ],
     "🐨": [
         "koala",
@@ -12774,8 +16363,22 @@
     ],
     "🐼": [
         "obraz",
-        "panda",
-        "pandin obraz"
+        "panda"
+    ],
+    "🦥": [
+        "len",
+        "lenivec",
+        "počasen",
+        "zaspan"
+    ],
+    "🦦": [
+        "igriva",
+        "lovi ribe",
+        "vidra"
+    ],
+    "🦨": [
+        "skunk",
+        "smrdi"
     ],
     "🦘": [
         "Avstralija",
@@ -12855,6 +16458,25 @@
         "ptica",
         "sova"
     ],
+    "🦤": [
+        "Mavricij",
+        "dodo",
+        "izumrtje",
+        "velik"
+    ],
+    "🪶": [
+        "lahek",
+        "letenje",
+        "perje",
+        "pero",
+        "ptica"
+    ],
+    "🦩": [
+        "flamingo",
+        "nastopaški",
+        "tropski",
+        "vpadljiv"
+    ],
     "🦚": [
         "bahava",
         "pav",
@@ -12870,8 +16492,7 @@
     ],
     "🐸": [
         "obraz",
-        "žaba",
-        "žabji obraz"
+        "žaba"
     ],
     "🐊": [
         "krokodil"
@@ -12921,6 +16542,10 @@
         "delfin",
         "fliper"
     ],
+    "🦭": [
+        "morski lev",
+        "tjulenj"
+    ],
     "🐟️": [
         "riba",
         "ribi",
@@ -12967,6 +16592,11 @@
         "čebela",
         "žuželka"
     ],
+    "🪲": [
+        "hrošč",
+        "insekt",
+        "žuželka"
+    ],
     "🐞": [
         "hrošč",
         "pikapolonica",
@@ -12974,6 +16604,10 @@
     ],
     "🦗": [
         "muren"
+    ],
+    "🪳": [
+        "ščurek",
+        "žuželka"
     ],
     "🕷️": [
         "pajek",
@@ -12995,6 +16629,21 @@
         "malarija",
         "mrzlica",
         "virus"
+    ],
+    "🪰": [
+        "bolezen",
+        "domača muha",
+        "gnitje",
+        "ličinka",
+        "muha",
+        "muha cece",
+        "obad"
+    ],
+    "🪱": [
+        "deževnik",
+        "kolobarnik",
+        "zajedavec",
+        "črv"
     ],
     "🦠": [
         "ameba",
@@ -13058,6 +16707,15 @@
         "mlado",
         "rastlina",
         "sadika"
+    ],
+    "🪴": [
+        "dolgčas",
+        "gojenje",
+        "hiša",
+        "lončnica",
+        "neuporabno",
+        "rasti",
+        "rastlina"
     ],
     "🌲": [
         "drevo",
@@ -13202,6 +16860,13 @@
         "rastina",
         "sadje"
     ],
+    "🫐": [
+        "borovnica",
+        "borovnice",
+        "jagoda",
+        "modra",
+        "črnica"
+    ],
     "🥝": [
         "hrana",
         "kivi",
@@ -13211,6 +16876,10 @@
         "paradižnik",
         "rastlina",
         "zelenjava"
+    ],
+    "🫒": [
+        "hrana",
+        "oliva"
     ],
     "🥥": [
         "kokos"
@@ -13246,6 +16915,12 @@
         "paprika",
         "pekoče"
     ],
+    "🫑": [
+        "babura",
+        "capsicum",
+        "paprika",
+        "zelenjava"
+    ],
     "🥒": [
         "hrana",
         "kumara",
@@ -13260,6 +16935,17 @@
     ],
     "🥦": [
         "brokoli"
+    ],
+    "🧄": [
+        "aromatično",
+        "dišavnica",
+        "začimba",
+        "česen"
+    ],
+    "🧅": [
+        "aromatično",
+        "solzenje",
+        "čebula"
     ],
     "🍄": [
         "goba",
@@ -13292,6 +16978,13 @@
         "hrana",
         "kruh"
     ],
+    "🫓": [
+        "arepa",
+        "indijski kruh",
+        "lavaš",
+        "naan",
+        "pita"
+    ],
     "🥨": [
         "presta"
     ],
@@ -13303,6 +16996,11 @@
     "🥞": [
         "hrana",
         "palačinke"
+    ],
+    "🧇": [
+        "oblat",
+        "pecivo",
+        "vafelj"
     ],
     "🧀": [
         "kos sira",
@@ -13356,12 +17054,22 @@
         "burito",
         "mehiški prigrizek"
     ],
+    "🫔": [
+        "mehiška",
+        "tamale",
+        "zavitek"
+    ],
     "🥙": [
         "falafel",
         "gyros",
         "hrana",
         "kebab",
         "nadev"
+    ],
+    "🧆": [
+        "falafel",
+        "kroglica",
+        "čičerika"
     ],
     "🥚": [
         "hrana",
@@ -13386,6 +17094,14 @@
         "skodelica",
         "skodelica hrane"
     ],
+    "🫕": [
+        "fondi",
+        "lonček",
+        "sir",
+        "stopljena",
+        "čokolada",
+        "švicarski"
+    ],
     "🥣": [
         "skodelica z žlico"
     ],
@@ -13398,6 +17114,11 @@
     "🍿": [
         "kokice",
         "pokovka"
+    ],
+    "🧈": [
+        "maslo",
+        "mlečni izdelek",
+        "mlečno"
     ],
     "🧂": [
         "sol",
@@ -13523,6 +17244,12 @@
         "ligenj",
         "mehkužec"
     ],
+    "🦪": [
+        "biser",
+        "ostriga",
+        "potapljanje",
+        "školjka"
+    ],
     "🍦": [
         "krema",
         "led",
@@ -13634,6 +17361,12 @@
         "vroče",
         "čaj"
     ],
+    "🫖": [
+        "pijača",
+        "vrč",
+        "čaj",
+        "čajnik"
+    ],
     "🍵": [
         "napitek",
         "piti",
@@ -13709,6 +17442,28 @@
     ],
     "🥤": [
         "kozarec s slamico"
+    ],
+    "🧋": [
+        "biser",
+        "mleko",
+        "pena",
+        "čaj",
+        "čaj s kroglicami"
+    ],
+    "🧃": [
+        "tetrapak s pijačo",
+        "tetrapak s sokom"
+    ],
+    "🧉": [
+        "mate čaj",
+        "napitek",
+        "pijača"
+    ],
+    "🧊": [
+        "hladno",
+        "ledena kocka",
+        "ledeno",
+        "ohladitev"
     ],
     "🥢": [
         "jedilne paličice"
@@ -13855,6 +17610,25 @@
         "opeke",
         "zid"
     ],
+    "🪨": [
+        "kamen",
+        "pečina",
+        "skala",
+        "težek",
+        "trd"
+    ],
+    "🪵": [
+        "bruna",
+        "debla",
+        "klada",
+        "les"
+    ],
+    "🛖": [
+        "hiša",
+        "jurta",
+        "koča",
+        "okrogla hiša"
+    ],
     "🏘️": [
         "hiša",
         "hiše",
@@ -13971,6 +17745,11 @@
         "mošeja",
         "muslimansko",
         "vera"
+    ],
+    "🛕": [
+        "hindu",
+        "hindujski tempelj",
+        "tempelj"
     ],
     "🕍": [
         "jud",
@@ -14237,6 +18016,11 @@
         "prostočasno",
         "vozilo"
     ],
+    "🛻": [
+        "pick-up",
+        "pickup",
+        "poltovornjak"
+    ],
     "🚚": [
         "dostavno",
         "dostavno vozilo",
@@ -14267,6 +18051,18 @@
         "motor",
         "skuter"
     ],
+    "🦽": [
+        "invalid",
+        "ročni invalidski voziček"
+    ],
+    "🦼": [
+        "invalid",
+        "motoriziran invalidski voziček"
+    ],
+    "🛺": [
+        "rikša z motorjem",
+        "tuk tuk"
+    ],
     "🚲️": [
         "kolo",
         "vozilo"
@@ -14278,6 +18074,11 @@
     "🛹": [
         "deska",
         "rolka"
+    ],
+    "🛼": [
+        "kotalka",
+        "kotalke",
+        "roler"
     ],
     "🚏": [
         "avtobus",
@@ -14402,6 +18203,13 @@
         "prihodi",
         "pristanek",
         "vozilo"
+    ],
+    "🪂": [
+        "jadralni zmaj",
+        "jadralno padalo",
+        "padalo",
+        "parasailing",
+        "skok s padalom"
     ],
     "💺": [
         "sedež",
@@ -14823,6 +18631,11 @@
         "vesolje",
         "vreme"
     ],
+    "🪐": [
+        "planet z obročem",
+        "saturn",
+        "saturnov obroč"
+    ],
     "⭐️": [
         "bela srednja zvezda",
         "zvezda"
@@ -15043,6 +18856,7 @@
         "petarda"
     ],
     "✨": [
+        "*",
         "iskrenje",
         "iskrice",
         "zvezda"
@@ -15300,6 +19114,12 @@
         "riba",
         "ribiška palica"
     ],
+    "🤿": [
+        "na dah",
+        "potapljanje",
+        "potapljaška maska",
+        "snorkljanje"
+    ],
     "🎽": [
         "lenta",
         "majica",
@@ -15324,6 +19144,17 @@
         "zadetek",
         "zadetek v polno"
     ],
+    "🪀": [
+        "igrača",
+        "jojo",
+        "nihanje",
+        "proč sem"
+    ],
+    "🪁": [
+        "jadrati",
+        "leteti",
+        "zmaj (igrača)"
+    ],
     "🎱": [
         "8",
         "biljard",
@@ -15339,6 +19170,12 @@
         "orodje",
         "pravljica",
         "prerokba"
+    ],
+    "🪄": [
+        "čarobna palica",
+        "čarovnica",
+        "čarovnija",
+        "čarovnik"
     ],
     "🧿": [
         "amulet",
@@ -15370,6 +19207,7 @@
     ],
     "🧩": [
         "delček",
+        "delček sestavljanke",
         "namig",
         "prileganje",
         "sestavljanka"
@@ -15380,6 +19218,17 @@
         "medvedek",
         "plišasta",
         "polnjena"
+    ],
+    "🪅": [
+        "pinjata",
+        "praznovanje",
+        "zabava"
+    ],
+    "🪆": [
+        "babuška",
+        "gnezdenje",
+        "lutka",
+        "rusija"
     ],
     "♠️": [
         "barva",
@@ -15462,11 +19311,27 @@
         "šivanje",
         "šivanka"
     ],
+    "🪡": [
+        "igla",
+        "krojenje",
+        "spoji",
+        "vezenje",
+        "šivanje",
+        "šivanka",
+        "šivi"
+    ],
     "🧶": [
         "klobčič",
         "kvačkanje",
         "pletenje",
         "preja"
+    ],
+    "🪢": [
+        "sukanec",
+        "vozel",
+        "vrv",
+        "vrvica",
+        "zanka"
     ],
     "👓️": [
         "oblačila",
@@ -15490,6 +19355,12 @@
         "laboratorijska halja",
         "zdravnik",
         "znanstvenik"
+    ],
+    "🦺": [
+        "jopič",
+        "reševalni",
+        "v sili",
+        "varnostni jopič"
     ],
     "👔": [
         "kravata",
@@ -15525,6 +19396,30 @@
     "👘": [
         "kimono",
         "oblačila"
+    ],
+    "🥻": [
+        "oblačilo",
+        "obleka",
+        "ogrinjalo",
+        "sari"
+    ],
+    "🩱": [
+        "enodelne kopalke",
+        "kopalna obleka",
+        "ženske kopalke"
+    ],
+    "🩲": [
+        "enodelno",
+        "kopalke",
+        "kopalno oblačilo",
+        "spodnje hlače",
+        "spodnje perilo"
+    ],
+    "🩳": [
+        "kopalke",
+        "kopalne hlače",
+        "kratke hlače",
+        "spodnje perilo"
     ],
     "👙": [
         "bikini",
@@ -15562,6 +19457,13 @@
         "torba",
         "šola",
         "šolski nahrbtnik"
+    ],
+    "🩴": [
+        "japonke",
+        "obuvalo za plažo",
+        "sandali",
+        "sandali za plažo",
+        "zōri"
     ],
     "👞": [
         "moški",
@@ -15603,6 +19505,11 @@
         "ženska",
         "ženski sandali"
     ],
+    "🩰": [
+        "balet",
+        "baletni čeveljci",
+        "ples"
+    ],
     "👢": [
         "oblačila",
         "čevelj",
@@ -15637,6 +19544,14 @@
     ],
     "🧢": [
         "kapa s ščitom"
+    ],
+    "🪖": [
+        "armija",
+        "bojevnik",
+        "vojak",
+        "vojaška čelada",
+        "vojska",
+        "čelada"
     ],
     "⛑️": [
         "križ",
@@ -15769,6 +19684,11 @@
         "instrument",
         "saksofon"
     ],
+    "🪗": [
+        "harmonika",
+        "kromatična harmonika",
+        "meh"
+    ],
     "🎸": [
         "glasba",
         "glasbilo",
@@ -15790,10 +19710,23 @@
         "glasbilo",
         "violina"
     ],
+    "🪕": [
+        "bendžo",
+        "brenkalo",
+        "glasba",
+        "glasbilo",
+        "strune"
+    ],
     "🥁": [
         "boben",
         "glasba",
         "tolkalo"
+    ],
+    "🪘": [
+        "boben",
+        "kongo",
+        "ritem",
+        "visok boben"
     ],
     "📱": [
         "mobilni telefon",
@@ -15981,6 +19914,13 @@
         "rdeče",
         "rdeči lampijon"
     ],
+    "🪔": [
+        "dyja",
+        "lučka",
+        "olje",
+        "oljna lučka",
+        "svetilka"
+    ],
     "📔": [
         "knjiga",
         "okrašeno",
@@ -16071,6 +20011,14 @@
         "vreča",
         "vreča denarja"
     ],
+    "🪙": [
+        "denar",
+        "kovanec",
+        "kovina",
+        "srebro",
+        "zaklad",
+        "zlato"
+    ],
     "💴": [
         "apoen",
         "banka",
@@ -16145,19 +20093,6 @@
         "trend",
         "trg",
         "valuta"
-    ],
-    "💱": [
-        "banka",
-        "denar",
-        "menjava",
-        "menjava valut",
-        "valuta"
-    ],
-    "💲": [
-        "denar",
-        "dolar",
-        "valuta",
-        "znak za dolar"
     ],
     "✉️": [
         "e-pošta",
@@ -16431,6 +20366,13 @@
         "kladivo",
         "orodje"
     ],
+    "🪓": [
+        "cepljenje",
+        "drva",
+        "les",
+        "sekanje",
+        "sekira"
+    ],
     "⛏️": [
         "kramp",
         "orodje",
@@ -16465,6 +20407,12 @@
         "pištola",
         "revolver"
     ],
+    "🪃": [
+        "avstralija",
+        "bumerang",
+        "udarec nazaj",
+        "vračanje"
+    ],
     "🏹": [
         "lok",
         "lok in puščica",
@@ -16479,9 +20427,21 @@
         "orožje",
         "ščit"
     ],
+    "🪚": [
+        "lisičja žaga",
+        "mizar",
+        "orodje",
+        "žaga",
+        "žagati"
+    ],
     "🔧": [
         "ključ za matice",
         "orodje"
+    ],
+    "🪛": [
+        "izvijač",
+        "orodje",
+        "vijak"
     ],
     "🔩": [
         "matica",
@@ -16506,12 +20466,25 @@
         "teža",
         "zodiak"
     ],
+    "🦯": [
+        "invalid",
+        "palica za slepe",
+        "slepota"
+    ],
     "🔗": [
         "člen"
     ],
     "⛓️": [
         "veriga",
         "verige"
+    ],
+    "🪝": [
+        "kavelj",
+        "kljuka",
+        "krivuljnik",
+        "prednost",
+        "zanka",
+        "zaponka"
     ],
     "🧰": [
         "mehanik",
@@ -16524,6 +20497,12 @@
         "magnetno",
         "podkev",
         "privlačnost"
+    ],
+    "🪜": [
+        "klin",
+        "lestev",
+        "plezanje",
+        "prečka"
     ],
     "⚗️": [
         "destilator",
@@ -16576,14 +20555,53 @@
         "orodje",
         "zdravnik"
     ],
+    "🩸": [
+        "kaplja krvi",
+        "krvodajalstvo",
+        "medicina",
+        "menstruacija",
+        "zdravstvo"
+    ],
     "💊": [
         "bolno",
         "tableta",
         "zdravilo",
         "zdravnik"
     ],
+    "🩹": [
+        "hanzaplast",
+        "rana",
+        "samolepilni obliž"
+    ],
+    "🩺": [
+        "medicina",
+        "pljuča",
+        "prsni koš",
+        "srce",
+        "stetoskop",
+        "zdravnik"
+    ],
     "🚪": [
         "vrata"
+    ],
+    "🛗": [
+        "dostopnost",
+        "dvigalo",
+        "elevator",
+        "lift"
+    ],
+    "🪞": [
+        "odsev",
+        "ogledalo",
+        "zrcalo"
+    ],
+    "🪟": [
+        "odprtina",
+        "okno",
+        "okvir",
+        "pogled",
+        "prosojno",
+        "svež zrak"
     ],
     "🛏️": [
         "hotel",
@@ -16596,9 +20614,21 @@
         "kavč in svetilka",
         "svetilka"
     ],
+    "🪑": [
+        "sedeti",
+        "sedež",
+        "stol"
+    ],
     "🚽": [
         "stranišče",
         "straniščna školjka"
+    ],
+    "🪠": [
+        "odmaševalnik",
+        "sesalna skodela",
+        "sesanje",
+        "stranišče",
+        "vodoinštalater"
     ],
     "🚿": [
         "tuš",
@@ -16607,6 +20637,17 @@
     "🛁": [
         "banja",
         "kad"
+    ],
+    "🪤": [
+        "mišolovka",
+        "past za miši",
+        "vaba"
+    ],
+    "🪒": [
+        "britev",
+        "britje",
+        "britvica",
+        "ostro"
     ],
     "🧴": [
         "krema za sončenje",
@@ -16637,6 +20678,12 @@
         "toaletni papir",
         "zvitek papirja"
     ],
+    "🪣": [
+        "sod",
+        "vedro",
+        "čeber",
+        "škaf"
+    ],
     "🧼": [
         "kopanje",
         "kos",
@@ -16644,6 +20691,15 @@
         "pena",
         "posodica za milo",
         "čiščenje"
+    ],
+    "🪥": [
+        "higiena",
+        "kopalnica",
+        "zobje",
+        "zobna",
+        "zobna ščetka",
+        "čisto",
+        "ščetka"
     ],
     "🧽": [
         "porozno",
@@ -16672,6 +20728,13 @@
         "krsta",
         "smrt"
     ],
+    "🪦": [
+        "grob",
+        "grobovi",
+        "nagrobnik",
+        "pokopališče",
+        "spomenik"
+    ],
     "⚱️": [
         "pogreb",
         "smrt",
@@ -16681,6 +20744,13 @@
         "kip",
         "moai",
         "obraz"
+    ],
+    "🪧": [
+        "demonstracija",
+        "kol",
+        "plakat",
+        "protest",
+        "znak"
     ],
     "🏧": [
         "avtomat",
@@ -16924,12 +20994,14 @@
     ],
     "🔃": [
         "navpični puščici, ki se ukrivljata v smeri urinega kazalca",
+        "navpični puščici, ki se ukrivljata v smeri urnega kazalca",
         "puščica",
         "smer urinega kazalca",
         "vnovično nalaganje"
     ],
     "🔄": [
         "gumb s puščicama, ki se ukrivljata v obratni smeri urinega kazalca",
+        "gumb s puščicama, ki se ukrivljata v obratni smeri urnega kazalca",
         "nasprotna smer urinega kazalca",
         "nazaj",
         "puščica"
@@ -17052,7 +21124,8 @@
     ],
     "♌️": [
         "lev",
-        "zodiak"
+        "zodiak",
+        "zodiak: lev"
     ],
     "♍️": [
         "deva",
@@ -17257,6 +21330,114 @@
         "moški",
         "znak za moški spol"
     ],
+    "⚧️": [
+        "simbol za transseksualnost",
+        "transseksualnost"
+    ],
+    "✖️": [
+        "množenje",
+        "množi",
+        "množiti",
+        "prekliči",
+        "x",
+        "znak",
+        "znak za množenje",
+        "×"
+    ],
+    "➕": [
+        "+",
+        "matematika",
+        "plus",
+        "znak"
+    ],
+    "➖": [
+        "-",
+        "matematika",
+        "minus",
+        "znak",
+        "−"
+    ],
+    "➗": [
+        "deli",
+        "deljenje",
+        "matematika",
+        "znak",
+        "znak za deljenje",
+        "÷"
+    ],
+    "♾️": [
+        "neomejeno",
+        "neskončnost",
+        "univerzalno",
+        "večno"
+    ],
+    "‼️": [
+        "!",
+        "!!",
+        "dva klicaja",
+        "dvojni klicaj",
+        "klicaj",
+        "ločilo",
+        "znak"
+    ],
+    "⁉️": [
+        "!",
+        "!?",
+        "?",
+        "klicaj",
+        "klicaj in vprašaj",
+        "klicaj-vprašaj",
+        "ločilo",
+        "vprašaj",
+        "znak"
+    ],
+    "❓️": [
+        "?",
+        "ločilo",
+        "vprašaj",
+        "znak"
+    ],
+    "❔": [
+        "?",
+        "bel vprašaj",
+        "ločilo",
+        "obrobljeno",
+        "oznaka",
+        "vprašaj",
+        "vprašanje"
+    ],
+    "❕": [
+        "!",
+        "bel klicaj",
+        "klicaj",
+        "obrobljeno",
+        "znak"
+    ],
+    "❗️": [
+        "!",
+        "klicaj",
+        "ločilo",
+        "znak"
+    ],
+    "〰️": [
+        "ločilo",
+        "pomišljaj",
+        "valovit pomišljaj",
+        "valovito"
+    ],
+    "💱": [
+        "banka",
+        "denar",
+        "menjava",
+        "menjava valut",
+        "valuta"
+    ],
+    "💲": [
+        "denar",
+        "dolar",
+        "valuta",
+        "znak za dolar"
+    ],
     "⚕️": [
         "eskulapova palica",
         "medicina",
@@ -17264,12 +21445,6 @@
         "simbol zdravstva",
         "zdravnik",
         "zdravstvo"
-    ],
-    "♾️": [
-        "neomejeno",
-        "neskončnost",
-        "univerzalno",
-        "večno"
     ],
     "♻️": [
         "reciklirati",
@@ -17305,57 +21480,44 @@
     "⭕️": [
         "krog",
         "o",
-        "velik krog"
+        "rdeč",
+        "velik",
+        "velik prazen krog"
     ],
     "✅": [
-        "bela kljukica",
+        "gumb",
+        "gumb s kljukico",
         "kljukica",
-        "znak"
+        "potrditev",
+        "✓"
     ],
     "☑️": [
-        "glasovnica",
         "kljukica",
-        "škatla",
-        "škatla za glasovanje s kljukico"
+        "polje",
+        "potrditveno polje s kjukico",
+        "potrditveno polje s kljukico",
+        "✓"
     ],
     "✔️": [
         "kljukica",
-        "znak"
-    ],
-    "✖️": [
-        "množenje",
-        "množiti",
-        "preklic",
-        "x",
-        "znak x za množenje"
+        "znak",
+        "✓"
     ],
     "❌": [
         "križec",
         "množenje",
         "množiti",
+        "oznaka",
         "preklic",
         "x",
-        "znak"
+        "×"
     ],
     "❎": [
         "gumb s križcem",
-        "kvadratno",
-        "znak"
-    ],
-    "➕": [
-        "matematika",
-        "plus",
-        "znak za plus"
-    ],
-    "➖": [
-        "matematika",
-        "minus",
-        "znak za minus"
-    ],
-    "➗": [
-        "deljenje",
-        "matematika",
-        "znak za deljenje"
+        "kvadrat",
+        "oznaka",
+        "x",
+        "×"
     ],
     "➰": [
         "pentlja",
@@ -17376,66 +21538,26 @@
         "znak za part"
     ],
     "✳️": [
+        "*",
         "zvezdica",
         "zvezdica z osmimi špicami"
     ],
     "✴️": [
+        "*",
         "osemkraka zvezda",
         "zvezda"
     ],
     "❇️": [
+        "*",
         "iskra"
     ],
-    "‼️": [
-        "dva klicaja",
-        "dvojni klicaj",
-        "klicaj",
-        "ločilo",
-        "znak"
-    ],
-    "⁉️": [
-        "klicaj",
-        "klicaj in vprašaj",
-        "ločilo",
-        "vprašanje",
-        "znak"
-    ],
-    "❓️": [
-        "ločilo",
-        "vprašaj",
-        "vprašanje",
-        "znak"
-    ],
-    "❔": [
-        "bel vprašaj",
-        "ločilo",
-        "obrobljeno",
-        "vprašanje",
-        "znak"
-    ],
-    "❕": [
-        "bel klicaj",
-        "klicaj",
-        "ločilo",
-        "obrobljeno",
-        "znak"
-    ],
-    "❗️": [
-        "klicaj",
-        "ločilo",
-        "znak"
-    ],
-    "〰️": [
-        "ločilo",
-        "pomišljaj",
-        "valovit pomišljaj",
-        "valovito"
-    ],
     "©️": [
-        "avtorske pravice"
+        "avtorske pravice",
+        "c"
     ],
     "®️": [
-        "registriran"
+        "r",
+        "registrirano"
     ],
     "™️": [
         "TM",
@@ -17621,6 +21743,7 @@
     ],
     "🈷": [
         "ideogram",
+        "japonski znak za \"mesečni znesek\"",
         "japonski znak za \"mesečni znesek\" v kvadratu",
         "japonsko",
         "mesečni znesek",
@@ -17733,11 +21856,36 @@
         "rdeč krog",
         "rdeče"
     ],
+    "🟠": [
+        "krog",
+        "oranžen",
+        "oranžen krog"
+    ],
+    "🟡": [
+        "krog",
+        "rumen",
+        "rumen krog"
+    ],
+    "🟢": [
+        "krog",
+        "zelen",
+        "zelen krog"
+    ],
     "🔵": [
         "geometrično",
         "krog",
         "moder krog",
         "modro"
+    ],
+    "🟣": [
+        "krog",
+        "škrlaten",
+        "škrlaten krog"
+    ],
+    "🟤": [
+        "krog",
+        "rjav",
+        "rjav krog"
     ],
     "⚫️": [
         "geometrično",
@@ -17748,6 +21896,41 @@
         "bel krog",
         "geometrično",
         "krog"
+    ],
+    "🟥": [
+        "kvadrat",
+        "rdeč",
+        "rdeč kvadrat"
+    ],
+    "🟧": [
+        "kvadrat",
+        "oranžen",
+        "oranžen kvadrat"
+    ],
+    "🟨": [
+        "kvadrat",
+        "rumen",
+        "rumen kvadrat"
+    ],
+    "🟩": [
+        "kvadrat",
+        "zelen",
+        "zelen kvadrat"
+    ],
+    "🟦": [
+        "kvadrat",
+        "moder",
+        "moder kvadrat"
+    ],
+    "🟪": [
+        "kvadrat",
+        "škrlaten",
+        "škrlaten kvadrat"
+    ],
+    "🟫": [
+        "kvadrat",
+        "rjav",
+        "rjav kvadrat"
     ],
     "⬛️": [
         "geometrično",
@@ -17878,6 +22061,14 @@
     "🏳‍🌈": [
         "mavrica",
         "mavrična zastava",
+        "zastava"
+    ],
+    "🏳‍⚧": [
+        "bela",
+        "rožnata",
+        "svetlo modra",
+        "transspolna zastava",
+        "transspolnost",
         "zastava"
     ],
     "🏴‍☠": [
@@ -18485,7 +22676,7 @@
     ],
     "🇲🇰": [
         "zastava",
-        "zastava: Makedonija"
+        "zastava: Severna Makedonija"
     ],
     "🇲🇱": [
         "zastava",
@@ -18761,7 +22952,7 @@
     ],
     "🇸🇿": [
         "zastava",
-        "zastava: Svazi"
+        "zastava: Esvatini"
     ],
     "🇹🇦": [
         "zastava",

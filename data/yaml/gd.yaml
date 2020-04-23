@@ -80,13 +80,14 @@
   - riomball
 🥰:
   - ann an gaol
-  - aodann le fiamh-ghàire is 3 cridheachan
+  - aodann le fiamh-ghàire is cridheachan
   - gaol
   - sùil mhòr ort
   - trom-ghràdh
 😍:
   - aodann
   - aodann le gàire agus sùilean an cumadh cridhe
+  - aodann le gàire ⁊ sùilean an cumadh cridhe
   - fiamh-ghàire
   - gaol
   - sùil
@@ -122,6 +123,15 @@
   - fiamh-ghàire
   - pòg
   - sùil
+🥲:
+  - aodann le fiamh-ghàire is deur
+  - deur
+  - deòir
+  - faochadh
+  - fiamh-ghàire beag
+  - moiteil
+  - pròiseil
+  - taingeil
 😋:
   - aodann
   - aodann ag ithe biadh blasta
@@ -135,6 +145,7 @@
   - teanga
 😜:
   - aodann
+  - aodann le theanga a-mach ⁊ sùil bheag
   - aodann le theanga ga cur a-mach ⁊ sùil bheag
   - fealla-dhà
   - priobadh
@@ -148,6 +159,7 @@
   - sùil
 😝:
   - aodann
+  - aodann le theanga a-mach ⁊ sùilean dùinte
   - aodann le theanga ga cur a-mach ⁊ sùilean dùinte
   - blas
   - sùil
@@ -336,6 +348,13 @@
   - cèilidh
   - dùdag
   - pàrtaidh
+🥸:
+  - aodann
+  - aodann le riochd air
+  - incognito
+  - riochd
+  - speuclairean
+  - sròn
 😎:
   - aodann
   - aodann toilichte le speuclairean-grèine
@@ -477,6 +496,18 @@
   - aodann
   - aodann sgìth
   - sgìth
+🥱:
+  - aodann a’ mèananaich
+  - dòrainneach
+  - fadal
+  - mèalanaich
+  - mèanan
+  - mèananaich
+  - mèaran
+  - mèaranaich
+  - ràsanach
+  - sgìth
+  - sàraichte
 😤:
   - aodann
   - aodann le toit às a chuinneanan
@@ -578,69 +609,75 @@
   - uilebheist neo-thalmhaidh
 🤖:
   - aodann
-  - aodann robotair
   - robotair
   - uilebheist
 😺:
   - aodann
-  - aodann cait le gàire
   - beul
   - cat
+  - cat le gàire
   - fiamh-ghàire
   - fosgailte
+  - gàire
 😸:
   - aodann
-  - aodann cait le gàire agus sùilean toilichte
   - cat
+  - cat le gàire agus sùilean toilichte
   - fiamh-ghàire
   - gàire
   - sùil
+  - toilichte
 😹:
   - aodann
-  - aodann cait le deòir shona
   - cat
+  - cat le deòir shona
   - deur
+  - deòir
   - sona
 😻:
   - aodann
-  - aodann cait le gàire agus sùilean an cumadh cridhe
   - cat
+  - cat le gàire agus sùilean an cumadh cridhe
+  - cridhe
   - fiamh-ghàire
   - gaol
-  - gaolcat
+  - gàire
   - sùil
+  - sùilean
 😼:
   - aodann
-  - aodann cait le gàire cham
   - cam
   - cat
+  - cat le gàire cham
   - fiamh-ghàire
   - ìoranta
 😽:
   - aodann
-  - aodann cait a’ pògadh
   - cat
+  - cat a’ pògadh
   - pòg
+  - pògadh
   - sùil
 🙀:
   - aodann
-  - aodann cait air chlaoidh
   - cat
+  - cat air chlaoidh
   - claoidh
   - iongnadh
-  - pòg
+  - sgìth
   - ò
 😿:
-  - aodann cait a’ caoineadh
   - brònach
   - caoineadh
   - cat
+  - cat a’ caoineadh
   - deur
+  - deòir
 😾:
   - aodann
-  - aodann cait busach
   - busach
   - cat
+  - cat busach
 🙈:
   - aodann
   - diùltadh
@@ -721,9 +758,11 @@
   - cridhe
   - sgeadas cridhe
 ❣️:
+  - '!'
   - clisg-phuing
-  - clisg-phuing cridhe throm
+  - clisg-phuing cridhe
   - comharra
+  - cridhe
   - puingeachadh
 💔:
   - briseadh
@@ -747,10 +786,18 @@
 💜:
   - cridhe purpaidh
   - purpaidh
+🤎:
+  - cridhe
+  - cridhe donn
+  - donn
 🖤:
   - cridhe dubh
   - dubh
   - olc
+🤍:
+  - cridhe
+  - cridhe geal
+  - geal
 💯:
   - '100'
   - ceud
@@ -1062,6 +1109,116 @@
   - làmh
   - samhla làimhe OK
   - 'samhla làimhe OK: tòna doilleir a’ chraicinn'
+  - tòna doilleir a’ chraicinn
+🤌:
+  - beumach
+  - beur
+  - ceist
+  - corrag
+  - cruadhagan
+  - crudhagan
+  - gluasad làimhe
+  - meur
+  - meòir
+  - tearrachdail
+🤌🏻:
+  - beumach
+  - beur
+  - ceist
+  - corrag
+  - cruadhagan
+  - crudhagan
+  - 'crudhagan: tòna soilleir a’ chraicinn'
+  - gluasad làimhe
+  - meur
+  - meòir
+  - tearrachdail
+  - tòna soilleir a’ chraicinn
+🤌🏼:
+  - beumach
+  - beur
+  - ceist
+  - corrag
+  - cruadhagan
+  - crudhagan
+  - 'crudhagan: tòna meadhanach soilleir a’ chraicinn'
+  - gluasad làimhe
+  - meur
+  - meòir
+  - tearrachdail
+  - tòna meadhanach soilleir a’ chraicinn
+🤌🏽:
+  - beumach
+  - beur
+  - ceist
+  - corrag
+  - cruadhagan
+  - crudhagan
+  - 'crudhagan: tòna meadhanach a’ chraicinn'
+  - gluasad làimhe
+  - meur
+  - meòir
+  - tearrachdail
+  - tòna meadhanach a’ chraicinn
+🤌🏾:
+  - beumach
+  - beur
+  - ceist
+  - corrag
+  - cruadhagan
+  - crudhagan
+  - 'crudhagan: tòna meadhanach doilleir a’ chraicinn'
+  - gluasad làimhe
+  - meur
+  - meòir
+  - tearrachdail
+  - tòna meadhanach doilleir a’ chraicinn
+🤌🏿:
+  - beumach
+  - beur
+  - ceist
+  - corrag
+  - cruadhagan
+  - crudhagan
+  - 'crudhagan: tòna doilleir a’ chraicinn'
+  - gluasad làimhe
+  - meur
+  - meòir
+  - tearrachdail
+  - tòna doilleir a’ chraicinn
+🤏:
+  - beagan
+  - làmh le sradag
+  - sradag
+🤏🏻:
+  - beagan
+  - làmh le sradag
+  - 'làmh le sradag: tòna soilleir a’ chraicinn'
+  - sradag
+  - tòna soilleir a’ chraicinn
+🤏🏼:
+  - beagan
+  - làmh le sradag
+  - 'làmh le sradag: tòna meadhanach soilleir a’ chraicinn'
+  - sradag
+  - tòna meadhanach soilleir a’ chraicinn
+🤏🏽:
+  - beagan
+  - làmh le sradag
+  - 'làmh le sradag: tòna meadhanach a’ chraicinn'
+  - sradag
+  - tòna meadhanach a’ chraicinn
+🤏🏾:
+  - beagan
+  - làmh le sradag
+  - 'làmh le sradag: tòna meadhanach doilleir a’ chraicinn'
+  - sradag
+  - tòna meadhanach doilleir a’ chraicinn
+🤏🏿:
+  - beagan
+  - làmh le sradag
+  - 'làmh le sradag: tòna doilleir a’ chraicinn'
+  - sradag
   - tòna doilleir a’ chraicinn
 ✌️:
   - buaidh
@@ -2303,6 +2460,14 @@
   - 'giorrachadh fèithean dà-cheannach: tòna doilleir a’ chraicinn'
   - lùth
   - tòna doilleir a’ chraicinn
+🦾:
+  - ath-bhall-bodhaig
+  - gàirdean meacanaigeach
+  - so-ruigsinneachd
+🦿:
+  - ath-bhall-bodhaig
+  - cas mheacanaigeach
+  - so-ruigsinneachd
 🦵:
   - breab
   - breabadh
@@ -2405,6 +2570,70 @@
   - cluas
   - 'cluas: tòna doilleir a’ chraicinn'
   - tòna doilleir a’ chraicinn
+🦻:
+  - bodhar
+  - claisneachd
+  - claisteachan
+  - cluas le claisteachan
+  - inneal-claisneachd
+  - inneal-cluinntinn
+  - so-ruigsinneachd
+  - èisteachd bheag
+🦻🏻:
+  - bodhar
+  - claisneachd
+  - claisteachan
+  - cluas le claisteachan
+  - 'cluas le claisteachan: tòna soilleir a’ chraicinn'
+  - inneal-claisneachd
+  - inneal-cluinntinn
+  - so-ruigsinneachd
+  - tòna soilleir a’ chraicinn
+  - èisteachd bheag
+🦻🏼:
+  - bodhar
+  - claisneachd
+  - claisteachan
+  - cluas le claisteachan
+  - 'cluas le claisteachan: tòna meadhanach soilleir a’ chraicinn'
+  - inneal-claisneachd
+  - inneal-cluinntinn
+  - so-ruigsinneachd
+  - tòna meadhanach soilleir a’ chraicinn
+  - èisteachd bheag
+🦻🏽:
+  - bodhar
+  - claisneachd
+  - claisteachan
+  - cluas le claisteachan
+  - 'cluas le claisteachan: tòna meadhanach a’ chraicinn'
+  - inneal-claisneachd
+  - inneal-cluinntinn
+  - so-ruigsinneachd
+  - tòna meadhanach a’ chraicinn
+  - èisteachd bheag
+🦻🏾:
+  - bodhar
+  - claisneachd
+  - claisteachan
+  - cluas le claisteachan
+  - 'cluas le claisteachan: tòna meadhanach doilleir a’ chraicinn'
+  - inneal-claisneachd
+  - inneal-cluinntinn
+  - so-ruigsinneachd
+  - tòna meadhanach doilleir a’ chraicinn
+  - èisteachd bheag
+🦻🏿:
+  - bodhar
+  - claisneachd
+  - claisteachan
+  - cluas le claisteachan
+  - 'cluas le claisteachan: tòna doilleir a’ chraicinn'
+  - inneal-claisneachd
+  - inneal-cluinntinn
+  - so-ruigsinneachd
+  - tòna doilleir a’ chraicinn
+  - èisteachd bheag
 👃:
   - bodhaig
   - sròn
@@ -2437,6 +2666,21 @@
   - eanchainn
   - glic
   - tapaidh
+🫀:
+  - buille cridhe
+  - buille-chuisle
+  - cridhe
+  - cuisle
+  - meadhan
+  - organ
+  - plosgadh cridhe
+🫁:
+  - anail
+  - analachadh
+  - analachd
+  - organ
+  - sgaman
+  - sgamhan
 🦷:
   - fiacaill
   - fiaclair
@@ -2660,6 +2904,146 @@
   - neach le falt bàn
   - 'neach le falt bàn: tòna doilleir a’ chraicinn'
   - tòna doilleir a’ chraicinn
+🧑‍🦰:
+  - falt ruadh
+  - gun ghnè
+  - inbheach
+  - 'inbheach: falt ruadh'
+🧑🏻‍🦰:
+  - falt ruadh
+  - gun ghnè
+  - inbheach
+  - 'inbheach: tòna soilleir a’ chraicinn ’s falt ruadh'
+  - tòna soilleir a’ chraicinn
+🧑🏼‍🦰:
+  - falt ruadh
+  - gun ghnè
+  - inbheach
+  - 'inbheach: tòna meadhanach soilleir a’ chraicinn ’s falt ruadh'
+  - tòna meadhanach soilleir a’ chraicinn
+🧑🏽‍🦰:
+  - falt ruadh
+  - gun ghnè
+  - inbheach
+  - 'inbheach: tòna meadhanach a’ chraicinn ’s falt ruadh'
+  - tòna meadhanach a’ chraicinn
+🧑🏾‍🦰:
+  - falt ruadh
+  - gun ghnè
+  - inbheach
+  - 'inbheach: tòna meadhanach doilleir a’ chraicinn ’s falt ruadh'
+  - tòna meadhanach doilleir a’ chraicinn
+🧑🏿‍🦰:
+  - falt ruadh
+  - gun ghnè
+  - inbheach
+  - 'inbheach: tòna doilleir a’ chraicinn ’s falt ruadh'
+  - tòna doilleir a’ chraicinn
+🧑‍🦱:
+  - falt dualach
+  - gun ghnè
+  - inbheach
+  - 'inbheach: falt dualach'
+🧑🏻‍🦱:
+  - falt dualach
+  - gun ghnè
+  - inbheach
+  - 'inbheach: tòna soilleir a’ chraicinn ’s falt dualach'
+  - tòna soilleir a’ chraicinn
+🧑🏼‍🦱:
+  - falt dualach
+  - gun ghnè
+  - inbheach
+  - 'inbheach: tòna meadhanach soilleir a’ chraicinn ’s falt dualach'
+  - tòna meadhanach soilleir a’ chraicinn
+🧑🏽‍🦱:
+  - falt dualach
+  - gun ghnè
+  - inbheach
+  - 'inbheach: tòna meadhanach a’ chraicinn ’s falt dualach'
+  - tòna meadhanach a’ chraicinn
+🧑🏾‍🦱:
+  - falt dualach
+  - gun ghnè
+  - inbheach
+  - 'inbheach: tòna meadhanach doilleir a’ chraicinn ’s falt dualach'
+  - tòna meadhanach doilleir a’ chraicinn
+🧑🏿‍🦱:
+  - falt dualach
+  - gun ghnè
+  - inbheach
+  - 'inbheach: tòna doilleir a’ chraicinn ’s falt dualach'
+  - tòna doilleir a’ chraicinn
+🧑‍🦳:
+  - falt bàn
+  - gun ghnè
+  - inbheach
+  - 'inbheach: falt bàn'
+🧑🏻‍🦳:
+  - falt bàn
+  - gun ghnè
+  - inbheach
+  - 'inbheach: tòna soilleir a’ chraicinn ’s falt bàn'
+  - tòna soilleir a’ chraicinn
+🧑🏼‍🦳:
+  - falt bàn
+  - gun ghnè
+  - inbheach
+  - 'inbheach: tòna meadhanach soilleir a’ chraicinn ’s falt bàn'
+  - tòna meadhanach soilleir a’ chraicinn
+🧑🏽‍🦳:
+  - falt bàn
+  - gun ghnè
+  - inbheach
+  - 'inbheach: tòna meadhanach a’ chraicinn ’s falt bàn'
+  - tòna meadhanach a’ chraicinn
+🧑🏾‍🦳:
+  - falt bàn
+  - gun ghnè
+  - inbheach
+  - 'inbheach: tòna meadhanach doilleir a’ chraicinn ’s falt bàn'
+  - tòna meadhanach doilleir a’ chraicinn
+🧑🏿‍🦳:
+  - falt bàn
+  - gun ghnè
+  - inbheach
+  - 'inbheach: tòna doilleir a’ chraicinn ’s falt bàn'
+  - tòna doilleir a’ chraicinn
+🧑‍🦲:
+  - gun ghnè
+  - inbheach
+  - 'inbheach: maoilean'
+  - maoilean
+🧑🏻‍🦲:
+  - gun ghnè
+  - inbheach
+  - 'inbheach: tòna soilleir a’ chraicinn ’s maoilean'
+  - maoilean
+  - tòna soilleir a’ chraicinn
+🧑🏼‍🦲:
+  - gun ghnè
+  - inbheach
+  - 'inbheach: tòna meadhanach soilleir a’ chraicinn ’s maoilean'
+  - maoilean
+  - tòna meadhanach soilleir a’ chraicinn
+🧑🏽‍🦲:
+  - gun ghnè
+  - inbheach
+  - 'inbheach: tòna meadhanach a’ chraicinn ’s maoilean'
+  - maoilean
+  - tòna meadhanach a’ chraicinn
+🧑🏾‍🦲:
+  - gun ghnè
+  - inbheach
+  - 'inbheach: tòna meadhanach doilleir a’ chraicinn ’s maoilean'
+  - maoilean
+  - tòna meadhanach doilleir a’ chraicinn
+🧑🏿‍🦲:
+  - gun ghnè
+  - inbheach
+  - 'inbheach: tòna doilleir a’ chraicinn ’s maoilean'
+  - maoilean
+  - tòna doilleir a’ chraicinn
 👨:
   - duine
   - fear
@@ -2695,32 +3079,32 @@
   - fireannach
   - tòna doilleir a’ chraicinn
 🧔:
+  - duine le feusag
   - feusag
-  - neach le feusag
 🧔🏻:
+  - duine le feusag
+  - 'duine le feusag: tòna soilleir a’ chraicinn'
   - feusag
-  - neach le feusag
-  - 'neach le feusag: tòna soilleir a’ chraicinn'
   - tòna soilleir a’ chraicinn
 🧔🏼:
+  - duine le feusag
+  - 'duine le feusag: tòna meadhanach soilleir a’ chraicinn'
   - feusag
-  - neach le feusag
-  - 'neach le feusag: tòna meadhanach soilleir a’ chraicinn'
   - tòna meadhanach soilleir a’ chraicinn
 🧔🏽:
+  - duine le feusag
+  - 'duine le feusag: tòna meadhanach a’ chraicinn'
   - feusag
-  - neach le feusag
-  - 'neach le feusag: tòna meadhanach a’ chraicinn'
   - tòna meadhanach a’ chraicinn
 🧔🏾:
+  - duine le feusag
+  - 'duine le feusag: tòna meadhanach doilleir a’ chraicinn'
   - feusag
-  - neach le feusag
-  - 'neach le feusag: tòna meadhanach doilleir a’ chraicinn'
   - tòna meadhanach doilleir a’ chraicinn
 🧔🏿:
+  - duine le feusag
+  - 'duine le feusag: tòna doilleir a’ chraicinn'
   - feusag
-  - neach le feusag
-  - 'neach le feusag: tòna doilleir a’ chraicinn'
   - tòna doilleir a’ chraicinn
 👱‍♂:
   - bàn
@@ -4040,72 +4424,76 @@
   - sìnte
   - taic
   - tè
+  - tè le làmh sìnte a-mach, bas air uachdar
   - uachdar
 💁🏻‍♀:
   - bas
   - boireannach
   - boireannach le làmh sìnte a-mach, bas air uachdar
-  - 'boireannach le làmh sìnte a-mach, bas air uachdar: tòna soilleir a’ chraicinn'
   - cobhair
   - fiosrachadh
   - làmh
   - sìnte
   - taic
   - tè
+  - tè le làmh sìnte a-mach, bas air uachdar
+  - 'tè le làmh sìnte a-mach, bas air uachdar: tòna soilleir a’ chraicinn'
   - tòna soilleir a’ chraicinn
   - uachdar
 💁🏼‍♀:
   - bas
   - boireannach
   - boireannach le làmh sìnte a-mach, bas air uachdar
-  - 'boireannach le làmh sìnte a-mach, bas air uachdar: tòna meadhanach soilleir a’
-    chraicinn'
   - cobhair
   - fiosrachadh
   - làmh
   - sìnte
   - taic
   - tè
+  - tè le làmh sìnte a-mach, bas air uachdar
+  - 'tè le làmh sìnte a-mach, bas air uachdar: tòna meadhanach soilleir a’ chraicinn'
   - tòna meadhanach soilleir a’ chraicinn
   - uachdar
 💁🏽‍♀:
   - bas
   - boireannach
   - boireannach le làmh sìnte a-mach, bas air uachdar
-  - 'boireannach le làmh sìnte a-mach, bas air uachdar: tòna meadhanach a’ chraicinn'
   - cobhair
   - fiosrachadh
   - làmh
   - sìnte
   - taic
   - tè
+  - tè le làmh sìnte a-mach, bas air uachdar
+  - 'tè le làmh sìnte a-mach, bas air uachdar: tòna meadhanach a’ chraicinn'
   - tòna meadhanach a’ chraicinn
   - uachdar
 💁🏾‍♀:
   - bas
   - boireannach
   - boireannach le làmh sìnte a-mach, bas air uachdar
-  - 'boireannach le làmh sìnte a-mach, bas air uachdar: tòna meadhanach doilleir a’
-    chraicinn'
   - cobhair
   - fiosrachadh
   - làmh
   - sìnte
   - taic
   - tè
+  - tè le làmh sìnte a-mach, bas air uachdar
+  - 'tè le làmh sìnte a-mach, bas air uachdar: tòna meadhanach doilleir a’ chraicinn'
   - tòna meadhanach doilleir a’ chraicinn
   - uachdar
 💁🏿‍♀:
   - bas
   - boireannach
   - boireannach le làmh sìnte a-mach, bas air uachdar
-  - 'boireannach le làmh sìnte a-mach, bas air uachdar: tòna doilleir a’ chraicinn'
   - cobhair
   - fiosrachadh
   - làmh
   - sìnte
   - taic
   - tè
+  - tè le làmh sìnte a-mach, bas air uachdar
+  - 'tè le làmh sìnte a-mach, bas air uachdar: tòna doilleir a’ chraicinn'
   - tòna doilleir a’ chraicinn
   - uachdar
 🙋:
@@ -4293,6 +4681,122 @@
   - togail
   - toiliche
   - tè
+  - tòna doilleir a’ chraicinn
+🧏:
+  - bodhar
+  - cluas
+  - cluinntinn
+  - neach bodhar
+  - so-ruigsinneachd
+  - èisteachd
+🧏🏻:
+  - bodhar
+  - cluas
+  - cluinntinn
+  - neach bodhar
+  - 'neach bodhar: tòna soilleir a’ chraicinn'
+  - so-ruigsinneachd
+  - tòna soilleir a’ chraicinn
+  - èisteachd
+🧏🏼:
+  - bodhar
+  - cluas
+  - cluinntinn
+  - neach bodhar
+  - 'neach bodhar: tòna meadhanach soilleir a’ chraicinn'
+  - so-ruigsinneachd
+  - tòna meadhanach soilleir a’ chraicinn
+  - èisteachd
+🧏🏽:
+  - bodhar
+  - cluas
+  - cluinntinn
+  - neach bodhar
+  - 'neach bodhar: tòna meadhanach a’ chraicinn'
+  - so-ruigsinneachd
+  - tòna meadhanach a’ chraicinn
+  - èisteachd
+🧏🏾:
+  - bodhar
+  - cluas
+  - cluinntinn
+  - neach bodhar
+  - 'neach bodhar: tòna meadhanach doilleir a’ chraicinn'
+  - so-ruigsinneachd
+  - tòna meadhanach doilleir a’ chraicinn
+  - èisteachd
+🧏🏿:
+  - bodhar
+  - cluas
+  - cluinntinn
+  - neach bodhar
+  - 'neach bodhar: tòna doilleir a’ chraicinn'
+  - so-ruigsinneachd
+  - tòna doilleir a’ chraicinn
+  - èisteachd
+🧏‍♂:
+  - bodhar
+  - duine
+  - duine bodhar
+  - fireannach
+🧏🏻‍♂:
+  - bodhar
+  - duine
+  - 'duine bodhar: tòna soilleir a’ chraicinn'
+  - fireannach
+  - tòna soilleir a’ chraicinn
+🧏🏼‍♂:
+  - bodhar
+  - duine
+  - 'duine bodhar: tòna meadhanach soilleir a’ chraicinn'
+  - fireannach
+  - tòna meadhanach soilleir a’ chraicinn
+🧏🏽‍♂:
+  - bodhar
+  - duine
+  - 'duine bodhar: tòna meadhanach a’ chraicinn'
+  - fireannach
+  - tòna meadhanach a’ chraicinn
+🧏🏾‍♂:
+  - bodhar
+  - duine
+  - 'duine bodhar: tòna meadhanach doilleir a’ chraicinn'
+  - fireannach
+  - tòna meadhanach doilleir a’ chraicinn
+🧏🏿‍♂:
+  - bodhar
+  - duine
+  - 'duine bodhar: tòna doilleir a’ chraicinn'
+  - fireannach
+  - tòna doilleir a’ chraicinn
+🧏‍♀:
+  - bodhar
+  - boireannach
+  - boireannach bodhar
+🧏🏻‍♀:
+  - bodhar
+  - boireannach
+  - 'boireannach bodhar: tòna soilleir a’ chraicinn'
+  - tòna soilleir a’ chraicinn
+🧏🏼‍♀:
+  - bodhar
+  - boireannach
+  - 'boireannach bodhar: tòna meadhanach soilleir a’ chraicinn'
+  - tòna meadhanach soilleir a’ chraicinn
+🧏🏽‍♀:
+  - bodhar
+  - boireannach
+  - 'boireannach bodhar: tòna meadhanach a’ chraicinn'
+  - tòna meadhanach a’ chraicinn
+🧏🏾‍♀:
+  - bodhar
+  - boireannach
+  - 'boireannach bodhar: tòna meadhanach doilleir a’ chraicinn'
+  - tòna meadhanach doilleir a’ chraicinn
+🧏🏿‍♀:
+  - bodhar
+  - boireannach
+  - 'boireannach bodhar: tòna doilleir a’ chraicinn'
   - tòna doilleir a’ chraicinn
 🙇:
   - cromadh
@@ -4810,6 +5314,70 @@
   - teagamh
   - tè
   - tòna doilleir a’ chraicinn
+🧑‍⚕:
+  - altram
+  - banaltram
+  - cùram-slàinte
+  - dotair
+  - leasaiche
+  - lighiche
+  - nurs
+  - obraiche-slàinte
+🧑🏻‍⚕:
+  - altram
+  - banaltram
+  - cùram-slàinte
+  - dotair
+  - leasaiche
+  - lighiche
+  - nurs
+  - obraiche-slàinte
+  - 'obraiche-slàinte: tòna soilleir a’ chraicinn'
+  - tòna soilleir a’ chraicinn
+🧑🏼‍⚕:
+  - altram
+  - banaltram
+  - cùram-slàinte
+  - dotair
+  - leasaiche
+  - lighiche
+  - nurs
+  - obraiche-slàinte
+  - 'obraiche-slàinte: tòna meadhanach soilleir a’ chraicinn'
+  - tòna meadhanach soilleir a’ chraicinn
+🧑🏽‍⚕:
+  - altram
+  - banaltram
+  - cùram-slàinte
+  - dotair
+  - leasaiche
+  - lighiche
+  - nurs
+  - obraiche-slàinte
+  - 'obraiche-slàinte: tòna meadhanach a’ chraicinn'
+  - tòna meadhanach a’ chraicinn
+🧑🏾‍⚕:
+  - altram
+  - banaltram
+  - cùram-slàinte
+  - dotair
+  - leasaiche
+  - lighiche
+  - nurs
+  - obraiche-slàinte
+  - 'obraiche-slàinte: tòna meadhanach doilleir a’ chraicinn'
+  - tòna meadhanach doilleir a’ chraicinn
+🧑🏿‍⚕:
+  - altram
+  - banaltram
+  - cùram-slàinte
+  - dotair
+  - leasaiche
+  - lighiche
+  - nurs
+  - obraiche-slàinte
+  - 'obraiche-slàinte: tòna doilleir a’ chraicinn'
+  - tòna doilleir a’ chraicinn
 👨‍⚕:
   - cùram-slàinte
   - dotair
@@ -4956,6 +5524,34 @@
   - 'obraiche-slàinte boireann: tòna doilleir a’ chraicinn'
   - tè
   - tòna doilleir a’ chraicinn
+🧑‍🎓:
+  - ceumnachadh
+  - oileanach
+🧑🏻‍🎓:
+  - ceumnachadh
+  - oileanach
+  - 'oileanach: tòna soilleir a’ chraicinn'
+  - tòna soilleir a’ chraicinn
+🧑🏼‍🎓:
+  - ceumnachadh
+  - oileanach
+  - 'oileanach: tòna meadhanach soilleir a’ chraicinn'
+  - tòna meadhanach soilleir a’ chraicinn
+🧑🏽‍🎓:
+  - ceumnachadh
+  - oileanach
+  - 'oileanach: tòna meadhanach a’ chraicinn'
+  - tòna meadhanach a’ chraicinn
+🧑🏾‍🎓:
+  - ceumnachadh
+  - oileanach
+  - 'oileanach: tòna meadhanach doilleir a’ chraicinn'
+  - tòna meadhanach doilleir a’ chraicinn
+🧑🏿‍🎓:
+  - ceumnachadh
+  - oileanach
+  - 'oileanach: tòna doilleir a’ chraicinn'
+  - tòna doilleir a’ chraicinn
 👨‍🎓:
   - ceumnaiche
   - duine
@@ -5053,6 +5649,46 @@
   - ceumnaiche
   - oileanach
   - tè
+  - tòna doilleir a’ chraicinn
+🧑‍🏫:
+  - neach-teagaisg
+  - oide
+  - ollamh
+  - tidsear
+🧑🏻‍🏫:
+  - neach-teagaisg
+  - oide
+  - ollamh
+  - tidsear
+  - 'tidsear: tòna soilleir a’ chraicinn'
+  - tòna soilleir a’ chraicinn
+🧑🏼‍🏫:
+  - neach-teagaisg
+  - oide
+  - ollamh
+  - tidsear
+  - 'tidsear: tòna meadhanach soilleir a’ chraicinn'
+  - tòna meadhanach soilleir a’ chraicinn
+🧑🏽‍🏫:
+  - neach-teagaisg
+  - oide
+  - ollamh
+  - tidsear
+  - 'tidsear: tòna meadhanach a’ chraicinn'
+  - tòna meadhanach a’ chraicinn
+🧑🏾‍🏫:
+  - neach-teagaisg
+  - oide
+  - ollamh
+  - tidsear
+  - 'tidsear: tòna meadhanach doilleir a’ chraicinn'
+  - tòna meadhanach doilleir a’ chraicinn
+🧑🏿‍🏫:
+  - neach-teagaisg
+  - oide
+  - ollamh
+  - tidsear
+  - 'tidsear: tòna doilleir a’ chraicinn'
   - tòna doilleir a’ chraicinn
 👨‍🏫:
   - duine
@@ -5176,6 +5812,34 @@
   - tè
   - tòna doilleir a’ chraicinn
   - àrd-ollamh
+🧑‍⚖:
+  - britheamh
+  - meidh
+🧑🏻‍⚖:
+  - britheamh
+  - 'britheamh: tòna soilleir a’ chraicinn'
+  - meidh
+  - tòna soilleir a’ chraicinn
+🧑🏼‍⚖:
+  - britheamh
+  - 'britheamh: tòna meadhanach soilleir a’ chraicinn'
+  - meidh
+  - tòna meadhanach soilleir a’ chraicinn
+🧑🏽‍⚖:
+  - britheamh
+  - 'britheamh: tòna meadhanach a’ chraicinn'
+  - meidh
+  - tòna meadhanach a’ chraicinn
+🧑🏾‍⚖:
+  - britheamh
+  - 'britheamh: tòna meadhanach doilleir a’ chraicinn'
+  - meidh
+  - tòna meadhanach doilleir a’ chraicinn
+🧑🏿‍⚖:
+  - britheamh
+  - 'britheamh: tòna doilleir a’ chraicinn'
+  - meidh
+  - tòna doilleir a’ chraicinn
 👨‍⚖:
   - britheamh
   - britheamh fireann
@@ -5273,6 +5937,52 @@
   - 'britheamh boireann: tòna doilleir a’ chraicinn'
   - meidh
   - tè
+  - tòna doilleir a’ chraicinn
+🧑‍🌾:
+  - croitear
+  - cruitear
+  - gàirnealair
+  - rainsear
+  - tuathanach
+🧑🏻‍🌾:
+  - croitear
+  - cruitear
+  - gàirnealair
+  - rainsear
+  - tuathanach
+  - 'tuathanach: tòna soilleir a’ chraicinn'
+  - tòna soilleir a’ chraicinn
+🧑🏼‍🌾:
+  - croitear
+  - cruitear
+  - gàirnealair
+  - rainsear
+  - tuathanach
+  - 'tuathanach: tòna meadhanach soilleir a’ chraicinn'
+  - tòna meadhanach soilleir a’ chraicinn
+🧑🏽‍🌾:
+  - croitear
+  - cruitear
+  - gàirnealair
+  - rainsear
+  - tuathanach
+  - 'tuathanach: tòna meadhanach a’ chraicinn'
+  - tòna meadhanach a’ chraicinn
+🧑🏾‍🌾:
+  - croitear
+  - cruitear
+  - gàirnealair
+  - rainsear
+  - tuathanach
+  - 'tuathanach: tòna meadhanach doilleir a’ chraicinn'
+  - tòna meadhanach doilleir a’ chraicinn
+🧑🏿‍🌾:
+  - croitear
+  - cruitear
+  - gàirnealair
+  - rainsear
+  - tuathanach
+  - 'tuathanach: tòna doilleir a’ chraicinn'
   - tòna doilleir a’ chraicinn
 👨‍🌾:
   - croitear
@@ -5396,6 +6106,28 @@
   - 'tuathanaiche boireann: tòna doilleir a’ chraicinn'
   - tè
   - tòna doilleir a’ chraicinn
+🧑‍🍳:
+  - còcaire
+🧑🏻‍🍳:
+  - còcaire
+  - 'còcaire: tòna soilleir a’ chraicinn'
+  - tòna soilleir a’ chraicinn
+🧑🏼‍🍳:
+  - còcaire
+  - 'còcaire: tòna meadhanach soilleir a’ chraicinn'
+  - tòna meadhanach soilleir a’ chraicinn
+🧑🏽‍🍳:
+  - còcaire
+  - 'còcaire: tòna meadhanach a’ chraicinn'
+  - tòna meadhanach a’ chraicinn
+🧑🏾‍🍳:
+  - còcaire
+  - 'còcaire: tòna meadhanach doilleir a’ chraicinn'
+  - tòna meadhanach doilleir a’ chraicinn
+🧑🏿‍🍳:
+  - còcaire
+  - 'còcaire: tòna doilleir a’ chraicinn'
+  - tòna doilleir a’ chraicinn
 👨‍🍳:
   - còcaire
   - còcaire fireann
@@ -5481,6 +6213,46 @@
   - boireannach
   - còcaire
   - tè
+  - tòna doilleir a’ chraicinn
+🧑‍🔧:
+  - ceàrd
+  - dealanair
+  - meacanaig
+  - plumair
+🧑🏻‍🔧:
+  - ceàrd
+  - dealanair
+  - meacanaig
+  - 'meacanaig: tòna soilleir a’ chraicinn'
+  - plumair
+  - tòna soilleir a’ chraicinn
+🧑🏼‍🔧:
+  - ceàrd
+  - dealanair
+  - meacanaig
+  - 'meacanaig: tòna meadhanach soilleir a’ chraicinn'
+  - plumair
+  - tòna meadhanach soilleir a’ chraicinn
+🧑🏽‍🔧:
+  - ceàrd
+  - dealanair
+  - meacanaig
+  - 'meacanaig: tòna meadhanach a’ chraicinn'
+  - plumair
+  - tòna meadhanach a’ chraicinn
+🧑🏾‍🔧:
+  - ceàrd
+  - dealanair
+  - meacanaig
+  - 'meacanaig: tòna meadhanach doilleir a’ chraicinn'
+  - plumair
+  - tòna meadhanach doilleir a’ chraicinn
+🧑🏿‍🔧:
+  - ceàrd
+  - dealanair
+  - meacanaig
+  - 'meacanaig: tòna doilleir a’ chraicinn'
+  - plumair
   - tòna doilleir a’ chraicinn
 👨‍🔧:
   - dealanair
@@ -5603,6 +6375,53 @@
   - neach-ciùird
   - plumair
   - tè
+  - tòna doilleir a’ chraicinn
+🧑‍🏭:
+  - factaraidh
+  - gnìomhachas
+  - neach-obrach
+  - neach-obrach factaraidh
+  - obraiche
+  - tional
+🧑🏻‍🏭:
+  - factaraidh
+  - gnìomhachas
+  - neach-obrach
+  - 'neach-obrach factaraidh: tòna soilleir a’ chraicinn'
+  - obraiche
+  - tional
+  - tòna soilleir a’ chraicinn
+🧑🏼‍🏭:
+  - factaraidh
+  - gnìomhachas
+  - neach-obrach
+  - 'neach-obrach factaraidh: tòna meadhanach soilleir a’ chraicinn'
+  - obraiche
+  - tional
+  - tòna meadhanach soilleir a’ chraicinn
+🧑🏽‍🏭:
+  - factaraidh
+  - gnìomhachas
+  - neach-obrach
+  - 'neach-obrach factaraidh: tòna meadhanach a’ chraicinn'
+  - obraiche
+  - tional
+  - tòna meadhanach a’ chraicinn
+🧑🏾‍🏭:
+  - factaraidh
+  - gnìomhachas
+  - neach-obrach
+  - 'neach-obrach factaraidh: tòna meadhanach doilleir a’ chraicinn'
+  - obraiche
+  - tional
+  - tòna meadhanach doilleir a’ chraicinn
+🧑🏿‍🏭:
+  - factaraidh
+  - gnìomhachas
+  - neach-obrach
+  - 'neach-obrach factaraidh: tòna doilleir a’ chraicinn'
+  - obraiche
+  - tional
   - tòna doilleir a’ chraicinn
 👨‍🏭:
   - duine
@@ -5738,6 +6557,64 @@
   - tionaladh
   - tè
   - tòna doilleir a’ chraicinn
+🧑‍💼:
+  - ailtire
+  - gnothachas
+  - gnìomhachas
+  - manaidsear
+  - neach-obrach oifise
+  - oifis
+  - stiùiriche
+🧑🏻‍💼:
+  - ailtire
+  - gnothachas
+  - gnìomhachas
+  - manaidsear
+  - neach-obrach oifise
+  - 'neach-obrach oifise: tòna soilleir a’ chraicinn'
+  - oifis
+  - stiùiriche
+  - tòna soilleir a’ chraicinn
+🧑🏼‍💼:
+  - ailtire
+  - gnothachas
+  - gnìomhachas
+  - manaidsear
+  - neach-obrach oifise
+  - 'neach-obrach oifise: tòna meadhanach soilleir a’ chraicinn'
+  - oifis
+  - stiùiriche
+  - tòna meadhanach soilleir a’ chraicinn
+🧑🏽‍💼:
+  - ailtire
+  - gnothachas
+  - gnìomhachas
+  - manaidsear
+  - neach-obrach oifise
+  - 'neach-obrach oifise: tòna meadhanach a’ chraicinn'
+  - oifis
+  - stiùiriche
+  - tòna meadhanach a’ chraicinn
+🧑🏾‍💼:
+  - ailtire
+  - gnothachas
+  - gnìomhachas
+  - manaidsear
+  - neach-obrach oifise
+  - 'neach-obrach oifise: tòna meadhanach doilleir a’ chraicinn'
+  - oifis
+  - stiùiriche
+  - tòna meadhanach doilleir a’ chraicinn
+🧑🏿‍💼:
+  - ailtire
+  - gnothachas
+  - gnìomhachas
+  - manaidsear
+  - neach-obrach oifise
+  - 'neach-obrach oifise: tòna doilleir a’ chraicinn'
+  - oifis
+  - stiùiriche
+  - tòna doilleir a’ chraicinn
 👨‍💼:
   - ailtire
   - duine
@@ -5859,6 +6736,94 @@
   - 'obraiche-oifis boireann: tòna doilleir a’ chraicinn'
   - oifis
   - tè
+  - tòna doilleir a’ chraicinn
+🧑‍🔬:
+  - bith-eòlas
+  - ceimigeachd
+  - einnseinear
+  - eòlaiche
+  - eòlas-nàdair
+  - fiosaigs
+  - fiosraigeachd
+  - innleadair
+  - neach
+  - neach-saidheans
+  - saidheans
+  - saidheantair
+🧑🏻‍🔬:
+  - bith-eòlas
+  - ceimigeachd
+  - einnseinear
+  - eòlaiche
+  - eòlas-nàdair
+  - fiosaigs
+  - fiosraigeachd
+  - innleadair
+  - neach
+  - neach-saidheans
+  - 'neach-saidheans: tòna soilleir a’ chraicinn'
+  - saidheans
+  - saidheantair
+  - tòna soilleir a’ chraicinn
+🧑🏼‍🔬:
+  - bith-eòlas
+  - ceimigeachd
+  - einnseinear
+  - eòlaiche
+  - eòlas-nàdair
+  - fiosaigs
+  - fiosraigeachd
+  - innleadair
+  - neach
+  - neach-saidheans
+  - 'neach-saidheans: tòna meadhanach soilleir a’ chraicinn'
+  - saidheans
+  - saidheantair
+  - tòna meadhanach soilleir a’ chraicinn
+🧑🏽‍🔬:
+  - bith-eòlas
+  - ceimigeachd
+  - einnseinear
+  - eòlaiche
+  - eòlas-nàdair
+  - fiosaigs
+  - fiosraigeachd
+  - innleadair
+  - neach
+  - neach-saidheans
+  - 'neach-saidheans: tòna meadhanach a’ chraicinn'
+  - saidheans
+  - saidheantair
+  - tòna meadhanach a’ chraicinn
+🧑🏾‍🔬:
+  - bith-eòlas
+  - ceimigeachd
+  - einnseinear
+  - eòlaiche
+  - eòlas-nàdair
+  - fiosaigs
+  - fiosraigeachd
+  - innleadair
+  - neach
+  - neach-saidheans
+  - 'neach-saidheans: tòna meadhanach doilleir a’ chraicinn'
+  - saidheans
+  - saidheantair
+  - tòna meadhanach doilleir a’ chraicinn
+🧑🏿‍🔬:
+  - bith-eòlas
+  - ceimigeachd
+  - einnseinear
+  - eòlaiche
+  - eòlas-nàdair
+  - fiosaigs
+  - fiosraigeachd
+  - innleadair
+  - neach
+  - neach-saidheans
+  - 'neach-saidheans: tòna doilleir a’ chraicinn'
+  - saidheans
+  - saidheantair
   - tòna doilleir a’ chraicinn
 👨‍🔬:
   - bith-eòlaiche
@@ -6018,6 +6983,64 @@
   - 'neach-saidheans boireann: tòna doilleir a’ chraicinn'
   - tè
   - tòna doilleir a’ chraicinn
+🧑‍💻:
+  - bathar-bog
+  - còdachadh
+  - leasachadhtionnsgnadh
+  - prògramachadh
+  - prògramair
+  - teicneolaiche
+  - teicniche
+🧑🏻‍💻:
+  - bathar-bog
+  - còdachadh
+  - leasachadhtionnsgnadh
+  - prògramachadh
+  - prògramair
+  - teicneolaiche
+  - 'teicneolaiche: tòna soilleir a’ chraicinn'
+  - teicniche
+  - tòna soilleir a’ chraicinn
+🧑🏼‍💻:
+  - bathar-bog
+  - còdachadh
+  - leasachadhtionnsgnadh
+  - prògramachadh
+  - prògramair
+  - teicneolaiche
+  - 'teicneolaiche: tòna meadhanach soilleir a’ chraicinn'
+  - teicniche
+  - tòna meadhanach soilleir a’ chraicinn
+🧑🏽‍💻:
+  - bathar-bog
+  - còdachadh
+  - leasachadhtionnsgnadh
+  - prògramachadh
+  - prògramair
+  - teicneolaiche
+  - 'teicneolaiche: tòna meadhanach a’ chraicinn'
+  - teicniche
+  - tòna meadhanach a’ chraicinn
+🧑🏾‍💻:
+  - bathar-bog
+  - còdachadh
+  - leasachadhtionnsgnadh
+  - prògramachadh
+  - prògramair
+  - teicneolaiche
+  - 'teicneolaiche: tòna meadhanach doilleir a’ chraicinn'
+  - teicniche
+  - tòna meadhanach doilleir a’ chraicinn
+🧑🏿‍💻:
+  - bathar-bog
+  - còdachadh
+  - leasachadhtionnsgnadh
+  - prògramachadh
+  - prògramair
+  - teicneolaiche
+  - 'teicneolaiche: tòna doilleir a’ chraicinn'
+  - teicniche
+  - tòna doilleir a’ chraicinn
 👨‍💻:
   - bathar-bog
   - còdair
@@ -6164,6 +7187,52 @@
   - 'teicneolaiche boireann: tòna doilleir a’ chraicinn'
   - tè
   - tòna doilleir a’ chraicinn
+🧑‍🎤:
+  - actair
+  - cleasaiche
+  - rionnag
+  - ròc
+  - seinneadair
+🧑🏻‍🎤:
+  - actair
+  - cleasaiche
+  - rionnag
+  - ròc
+  - seinneadair
+  - 'seinneadair: tòna soilleir a’ chraicinn'
+  - tòna soilleir a’ chraicinn
+🧑🏼‍🎤:
+  - actair
+  - cleasaiche
+  - rionnag
+  - ròc
+  - seinneadair
+  - 'seinneadair: tòna meadhanach soilleir a’ chraicinn'
+  - tòna meadhanach soilleir a’ chraicinn
+🧑🏽‍🎤:
+  - actair
+  - cleasaiche
+  - rionnag
+  - ròc
+  - seinneadair
+  - 'seinneadair: tòna meadhanach a’ chraicinn'
+  - tòna meadhanach a’ chraicinn
+🧑🏾‍🎤:
+  - actair
+  - cleasaiche
+  - rionnag
+  - ròc
+  - seinneadair
+  - 'seinneadair: tòna meadhanach doilleir a’ chraicinn'
+  - tòna meadhanach doilleir a’ chraicinn
+🧑🏿‍🎤:
+  - actair
+  - cleasaiche
+  - rionnag
+  - ròc
+  - seinneadair
+  - 'seinneadair: tòna doilleir a’ chraicinn'
+  - tòna doilleir a’ chraicinn
 👨‍🎤:
   - actair
   - cleasaiche
@@ -6298,6 +7367,40 @@
   - seinneadair
   - tè
   - tòna doilleir a’ chraicinn
+🧑‍🎨:
+  - ealan
+  - neach-ealain
+  - paileat
+🧑🏻‍🎨:
+  - ealan
+  - neach-ealain
+  - 'neach-ealain: tòna soilleir a’ chraicinn'
+  - paileat
+  - tòna soilleir a’ chraicinn
+🧑🏼‍🎨:
+  - ealan
+  - neach-ealain
+  - 'neach-ealain: tòna meadhanach soilleir a’ chraicinn'
+  - paileat
+  - tòna meadhanach soilleir a’ chraicinn
+🧑🏽‍🎨:
+  - ealan
+  - neach-ealain
+  - 'neach-ealain: tòna meadhanach a’ chraicinn'
+  - paileat
+  - tòna meadhanach a’ chraicinn
+🧑🏾‍🎨:
+  - ealan
+  - neach-ealain
+  - 'neach-ealain: tòna meadhanach doilleir a’ chraicinn'
+  - paileat
+  - tòna meadhanach doilleir a’ chraicinn
+🧑🏿‍🎨:
+  - ealan
+  - neach-ealain
+  - 'neach-ealain: tòna doilleir a’ chraicinn'
+  - paileat
+  - tòna doilleir a’ chraicinn
 👨‍🎨:
   - duine
   - ealan
@@ -6407,6 +7510,40 @@
   - 'neach-ealain boireann: tòna doilleir a’ chraicinn'
   - pailead
   - tè
+  - tòna doilleir a’ chraicinn
+🧑‍✈:
+  - itealan
+  - paidhleat
+  - plèana
+🧑🏻‍✈:
+  - itealan
+  - paidhleat
+  - 'paidhleat: tòna soilleir a’ chraicinn'
+  - plèana
+  - tòna soilleir a’ chraicinn
+🧑🏼‍✈:
+  - itealan
+  - paidhleat
+  - 'paidhleat: tòna meadhanach soilleir a’ chraicinn'
+  - plèana
+  - tòna meadhanach soilleir a’ chraicinn
+🧑🏽‍✈:
+  - itealan
+  - paidhleat
+  - 'paidhleat: tòna meadhanach a’ chraicinn'
+  - plèana
+  - tòna meadhanach a’ chraicinn
+🧑🏾‍✈:
+  - itealan
+  - paidhleat
+  - 'paidhleat: tòna meadhanach doilleir a’ chraicinn'
+  - plèana
+  - tòna meadhanach doilleir a’ chraicinn
+🧑🏿‍✈:
+  - itealan
+  - paidhleat
+  - 'paidhleat: tòna doilleir a’ chraicinn'
+  - plèana
   - tòna doilleir a’ chraicinn
 👨‍✈:
   - duine
@@ -6518,6 +7655,40 @@
   - plèana
   - tè
   - tòna doilleir a’ chraicinn
+🧑‍🚀:
+  - rocaid
+  - speuradair
+  - speurair
+🧑🏻‍🚀:
+  - rocaid
+  - speuradair
+  - 'speuradair: tòna soilleir a’ chraicinn'
+  - speurair
+  - tòna soilleir a’ chraicinn
+🧑🏼‍🚀:
+  - rocaid
+  - speuradair
+  - 'speuradair: tòna meadhanach soilleir a’ chraicinn'
+  - speurair
+  - tòna meadhanach soilleir a’ chraicinn
+🧑🏽‍🚀:
+  - rocaid
+  - speuradair
+  - 'speuradair: tòna meadhanach a’ chraicinn'
+  - speurair
+  - tòna meadhanach a’ chraicinn
+🧑🏾‍🚀:
+  - rocaid
+  - speuradair
+  - 'speuradair: tòna meadhanach doilleir a’ chraicinn'
+  - speurair
+  - tòna meadhanach doilleir a’ chraicinn
+🧑🏿‍🚀:
+  - rocaid
+  - speuradair
+  - 'speuradair: tòna doilleir a’ chraicinn'
+  - speurair
+  - tòna doilleir a’ chraicinn
 👨‍🚀:
   - duine
   - fear
@@ -6615,6 +7786,34 @@
   - rocaid
   - speuradair
   - tè
+  - tòna doilleir a’ chraicinn
+🧑‍🚒:
+  - einnsean-smàlaidh
+  - smàladair
+🧑🏻‍🚒:
+  - einnsean-smàlaidh
+  - smàladair
+  - 'smàladair: tòna soilleir a’ chraicinn'
+  - tòna soilleir a’ chraicinn
+🧑🏼‍🚒:
+  - einnsean-smàlaidh
+  - smàladair
+  - 'smàladair: tòna meadhanach soilleir a’ chraicinn'
+  - tòna meadhanach soilleir a’ chraicinn
+🧑🏽‍🚒:
+  - einnsean-smàlaidh
+  - smàladair
+  - 'smàladair: tòna meadhanach a’ chraicinn'
+  - tòna meadhanach a’ chraicinn
+🧑🏾‍🚒:
+  - einnsean-smàlaidh
+  - smàladair
+  - 'smàladair: tòna meadhanach doilleir a’ chraicinn'
+  - tòna meadhanach doilleir a’ chraicinn
+🧑🏿‍🚒:
+  - einnsean-smàlaidh
+  - smàladair
+  - 'smàladair: tòna doilleir a’ chraicinn'
   - tòna doilleir a’ chraicinn
 👨‍🚒:
   - carbad-smàlaidh
@@ -7128,6 +8327,11 @@
   - geàrd
   - tè
   - tòna doilleir a’ chraicinn
+🥷:
+  - falaichte
+  - fàillidh
+  - gaisgeach
+  - ninja
 👷:
   - ad
   - neach-togail
@@ -7571,12 +8775,52 @@
   - tè
   - tòna doilleir a’ chraicinn
 🤵:
+  - fear-bainnse
+  - neach
+  - neach ann an tuxedo
+  - tuxedo
+🤵🏻:
+  - fear-bainnse
+  - neach
+  - neach ann an tuxedo
+  - 'neach ann an tuxedo: tòna soilleir a’ chraicinn'
+  - tuxedo
+  - tòna soilleir a’ chraicinn
+🤵🏼:
+  - fear-bainnse
+  - neach
+  - neach ann an tuxedo
+  - 'neach ann an tuxedo: tòna meadhanach soilleir a’ chraicinn'
+  - tuxedo
+  - tòna meadhanach soilleir a’ chraicinn
+🤵🏽:
+  - fear-bainnse
+  - neach
+  - neach ann an tuxedo
+  - 'neach ann an tuxedo: tòna meadhanach a’ chraicinn'
+  - tuxedo
+  - tòna meadhanach a’ chraicinn
+🤵🏾:
+  - fear-bainnse
+  - neach
+  - neach ann an tuxedo
+  - 'neach ann an tuxedo: tòna meadhanach doilleir a’ chraicinn'
+  - tuxedo
+  - tòna meadhanach doilleir a’ chraicinn
+🤵🏿:
+  - fear-bainnse
+  - neach
+  - neach ann an tuxedo
+  - 'neach ann an tuxedo: tòna doilleir a’ chraicinn'
+  - tuxedo
+  - tòna doilleir a’ chraicinn
+🤵‍♂:
   - duine
   - duine ann an tuxedo
   - fear-bainnse
   - fireannach
   - tuxedo
-🤵🏻:
+🤵🏻‍♂:
   - duine
   - duine ann an tuxedo
   - 'duine ann an tuxedo: tòna soilleir a’ chraicinn'
@@ -7584,7 +8828,7 @@
   - fireannach
   - tuxedo
   - tòna soilleir a’ chraicinn
-🤵🏼:
+🤵🏼‍♂:
   - duine
   - duine ann an tuxedo
   - 'duine ann an tuxedo: tòna meadhanach soilleir a’ chraicinn'
@@ -7592,7 +8836,7 @@
   - fireannach
   - tuxedo
   - tòna meadhanach soilleir a’ chraicinn
-🤵🏽:
+🤵🏽‍♂:
   - duine
   - duine ann an tuxedo
   - 'duine ann an tuxedo: tòna meadhanach a’ chraicinn'
@@ -7600,7 +8844,7 @@
   - fireannach
   - tuxedo
   - tòna meadhanach a’ chraicinn
-🤵🏾:
+🤵🏾‍♂:
   - duine
   - duine ann an tuxedo
   - 'duine ann an tuxedo: tòna meadhanach doilleir a’ chraicinn'
@@ -7608,7 +8852,7 @@
   - fireannach
   - tuxedo
   - tòna meadhanach doilleir a’ chraicinn
-🤵🏿:
+🤵🏿‍♂:
   - duine
   - duine ann an tuxedo
   - 'duine ann an tuxedo: tòna doilleir a’ chraicinn'
@@ -7616,55 +8860,175 @@
   - fireannach
   - tuxedo
   - tòna doilleir a’ chraicinn
+🤵‍♀:
+  - boireannach
+  - boireannach ann an tuxedo
+  - tuxedo
+🤵🏻‍♀:
+  - boireannach
+  - boireannach ann an tuxedo
+  - 'boireannach ann an tuxedo: tòna soilleir a’ chraicinn'
+  - tuxedo
+  - tòna soilleir a’ chraicinn
+🤵🏼‍♀:
+  - boireannach
+  - boireannach ann an tuxedo
+  - 'boireannach ann an tuxedo: tòna meadhanach soilleir a’ chraicinn'
+  - tuxedo
+  - tòna meadhanach soilleir a’ chraicinn
+🤵🏽‍♀:
+  - boireannach
+  - boireannach ann an tuxedo
+  - 'boireannach ann an tuxedo: tòna meadhanach a’ chraicinn'
+  - tuxedo
+  - tòna meadhanach a’ chraicinn
+🤵🏾‍♀:
+  - boireannach
+  - boireannach ann an tuxedo
+  - 'boireannach ann an tuxedo: tòna meadhanach doilleir a’ chraicinn'
+  - tuxedo
+  - tòna meadhanach doilleir a’ chraicinn
+🤵🏿‍♀:
+  - boireannach
+  - boireannach ann an tuxedo
+  - 'boireannach ann an tuxedo: tòna doilleir a’ chraicinn'
+  - tuxedo
+  - tòna doilleir a’ chraicinn
 👰:
   - banais
   - bean na bainnse
-  - bean na bainnse le brat-gnùise
-  - boireannach
   - brat-gnùise
-  - tè
+  - neach le brat-gnùise
 👰🏻:
   - banais
   - bean na bainnse
-  - bean na bainnse le brat-gnùise
-  - 'bean na bainnse le brat-gnùise: tòna soilleir a’ chraicinn'
-  - boireannach
   - brat-gnùise
-  - tè
+  - neach le brat-gnùise
+  - 'neach le brat-gnùise: tòna soilleir a’ chraicinn'
   - tòna soilleir a’ chraicinn
 👰🏼:
   - banais
   - bean na bainnse
-  - bean na bainnse le brat-gnùise
-  - 'bean na bainnse le brat-gnùise: tòna meadhanach soilleir a’ chraicinn'
-  - boireannach
   - brat-gnùise
-  - tè
+  - neach le brat-gnùise
+  - 'neach le brat-gnùise: tòna meadhanach soilleir a’ chraicinn'
   - tòna meadhanach soilleir a’ chraicinn
 👰🏽:
   - banais
   - bean na bainnse
-  - bean na bainnse le brat-gnùise
-  - 'bean na bainnse le brat-gnùise: tòna meadhanach a’ chraicinn'
-  - boireannach
   - brat-gnùise
-  - tè
+  - neach le brat-gnùise
+  - 'neach le brat-gnùise: tòna meadhanach a’ chraicinn'
   - tòna meadhanach a’ chraicinn
 👰🏾:
   - banais
   - bean na bainnse
-  - bean na bainnse le brat-gnùise
-  - 'bean na bainnse le brat-gnùise: tòna meadhanach doilleir a’ chraicinn'
-  - boireannach
   - brat-gnùise
-  - tè
+  - neach le brat-gnùise
+  - 'neach le brat-gnùise: tòna meadhanach doilleir a’ chraicinn'
   - tòna meadhanach doilleir a’ chraicinn
 👰🏿:
   - banais
   - bean na bainnse
-  - bean na bainnse le brat-gnùise
-  - 'bean na bainnse le brat-gnùise: tòna doilleir a’ chraicinn'
+  - brat-gnùise
+  - neach le brat-gnùise
+  - 'neach le brat-gnùise: tòna doilleir a’ chraicinn'
+  - tòna doilleir a’ chraicinn
+👰‍♂:
+  - brat-gnùise
+  - duine
+  - duine le brat-gnùise
+  - fear
+  - fireannach
+  - fireannach le brat-gnùise
+👰🏻‍♂:
+  - brat-gnùise
+  - duine
+  - duine le brat-gnùise
+  - 'duine le brat-gnùise: tòna soilleir a’ chraicinn'
+  - fear
+  - fireannach
+  - fireannach le brat-gnùise
+  - tòna soilleir a’ chraicinn
+👰🏼‍♂:
+  - brat-gnùise
+  - duine
+  - duine le brat-gnùise
+  - 'duine le brat-gnùise: tòna meadhanach soilleir a’ chraicinn'
+  - fear
+  - fireannach
+  - fireannach le brat-gnùise
+  - tòna meadhanach soilleir a’ chraicinn
+👰🏽‍♂:
+  - brat-gnùise
+  - duine
+  - duine le brat-gnùise
+  - 'duine le brat-gnùise: tòna meadhanach a’ chraicinn'
+  - fear
+  - fireannach
+  - fireannach le brat-gnùise
+  - tòna meadhanach a’ chraicinn
+👰🏾‍♂:
+  - brat-gnùise
+  - duine
+  - duine le brat-gnùise
+  - 'duine le brat-gnùise: tòna meadhanach doilleir a’ chraicinn'
+  - fear
+  - fireannach
+  - fireannach le brat-gnùise
+  - tòna meadhanach doilleir a’ chraicinn
+👰🏿‍♂:
+  - brat-gnùise
+  - duine
+  - duine le brat-gnùise
+  - 'duine le brat-gnùise: tòna doilleir a’ chraicinn'
+  - fear
+  - fireannach
+  - fireannach le brat-gnùise
+  - tòna doilleir a’ chraicinn
+👰‍♀:
+  - bean
   - boireannach
+  - boireannach le brat-gnùise
+  - brat-gnùise
+  - tè
+👰🏻‍♀:
+  - bean
+  - boireannach
+  - boireannach le brat-gnùise
+  - 'boireannach le brat-gnùise: tòna soilleir a’ chraicinn'
+  - brat-gnùise
+  - tè
+  - tòna soilleir a’ chraicinn
+👰🏼‍♀:
+  - bean
+  - boireannach
+  - boireannach le brat-gnùise
+  - 'boireannach le brat-gnùise: tòna meadhanach soilleir a’ chraicinn'
+  - brat-gnùise
+  - tè
+  - tòna meadhanach soilleir a’ chraicinn
+👰🏽‍♀:
+  - bean
+  - boireannach
+  - boireannach le brat-gnùise
+  - 'boireannach le brat-gnùise: tòna meadhanach a’ chraicinn'
+  - brat-gnùise
+  - tè
+  - tòna meadhanach a’ chraicinn
+👰🏾‍♀:
+  - bean
+  - boireannach
+  - boireannach le brat-gnùise
+  - 'boireannach le brat-gnùise: tòna meadhanach doilleir a’ chraicinn'
+  - brat-gnùise
+  - tè
+  - tòna meadhanach doilleir a’ chraicinn
+👰🏿‍♀:
+  - bean
+  - boireannach
+  - boireannach le brat-gnùise
+  - 'boireannach le brat-gnùise: tòna doilleir a’ chraicinn'
   - brat-gnùise
   - tè
   - tòna doilleir a’ chraicinn
@@ -7766,6 +9130,162 @@
   - naoidhean
   - toirt cìoch
   - 'toirt cìoch: tòna doilleir a’ chraicinn'
+  - tòna doilleir a’ chraicinn
+👩‍🍼:
+  - altram
+  - boireannach
+  - boireannach ag altram naoidhein
+  - leanabh
+  - naoidhean
+  - tè
+👩🏻‍🍼:
+  - altram
+  - boireannach
+  - boireannach ag altram naoidhein
+  - 'boireannach ag altram naoidhein: tòna soilleir a’ chraicinn'
+  - leanabh
+  - naoidhean
+  - tè
+  - tòna soilleir a’ chraicinn
+👩🏼‍🍼:
+  - altram
+  - boireannach
+  - boireannach ag altram naoidhein
+  - 'boireannach ag altram naoidhein: tòna meadhanach soilleir a’ chraicinn'
+  - leanabh
+  - naoidhean
+  - tè
+  - tòna meadhanach soilleir a’ chraicinn
+👩🏽‍🍼:
+  - altram
+  - boireannach
+  - boireannach ag altram naoidhein
+  - 'boireannach ag altram naoidhein: tòna meadhanach a’ chraicinn'
+  - leanabh
+  - naoidhean
+  - tè
+  - tòna meadhanach a’ chraicinn
+👩🏾‍🍼:
+  - altram
+  - boireannach
+  - boireannach ag altram naoidhein
+  - 'boireannach ag altram naoidhein: tòna meadhanach doilleir a’ chraicinn'
+  - leanabh
+  - naoidhean
+  - tè
+  - tòna meadhanach doilleir a’ chraicinn
+👩🏿‍🍼:
+  - altram
+  - boireannach
+  - boireannach ag altram naoidhein
+  - 'boireannach ag altram naoidhein: tòna doilleir a’ chraicinn'
+  - leanabh
+  - naoidhean
+  - tè
+  - tòna doilleir a’ chraicinn
+👨‍🍼:
+  - altram
+  - duine
+  - duine ag altram naoidhein
+  - fear
+  - fireannach
+  - leanabh
+  - naoidhean
+👨🏻‍🍼:
+  - altram
+  - duine
+  - duine ag altram naoidhein
+  - 'duine ag altram naoidhein: tòna soilleir a’ chraicinn'
+  - fear
+  - fireannach
+  - leanabh
+  - naoidhean
+  - tòna soilleir a’ chraicinn
+👨🏼‍🍼:
+  - altram
+  - duine
+  - duine ag altram naoidhein
+  - 'duine ag altram naoidhein: tòna meadhanach soilleir a’ chraicinn'
+  - fear
+  - fireannach
+  - leanabh
+  - naoidhean
+  - tòna meadhanach soilleir a’ chraicinn
+👨🏽‍🍼:
+  - altram
+  - duine
+  - duine ag altram naoidhein
+  - 'duine ag altram naoidhein: tòna meadhanach a’ chraicinn'
+  - fear
+  - fireannach
+  - leanabh
+  - naoidhean
+  - tòna meadhanach a’ chraicinn
+👨🏾‍🍼:
+  - altram
+  - duine
+  - duine ag altram naoidhein
+  - 'duine ag altram naoidhein: tòna meadhanach doilleir a’ chraicinn'
+  - fear
+  - fireannach
+  - leanabh
+  - naoidhean
+  - tòna meadhanach doilleir a’ chraicinn
+👨🏿‍🍼:
+  - altram
+  - duine
+  - duine ag altram naoidhein
+  - 'duine ag altram naoidhein: tòna doilleir a’ chraicinn'
+  - fear
+  - fireannach
+  - leanabh
+  - naoidhean
+  - tòna doilleir a’ chraicinn
+🧑‍🍼:
+  - altram
+  - leanabh
+  - naoidhean
+  - neach
+  - neach ag altram naoidhein
+🧑🏻‍🍼:
+  - altram
+  - leanabh
+  - naoidhean
+  - neach
+  - neach ag altram naoidhein
+  - 'neach ag altram naoidhein: tòna soilleir a’ chraicinn'
+  - tòna soilleir a’ chraicinn
+🧑🏼‍🍼:
+  - altram
+  - leanabh
+  - naoidhean
+  - neach
+  - neach ag altram naoidhein
+  - 'neach ag altram naoidhein: tòna meadhanach soilleir a’ chraicinn'
+  - tòna meadhanach soilleir a’ chraicinn
+🧑🏽‍🍼:
+  - altram
+  - leanabh
+  - naoidhean
+  - neach
+  - neach ag altram naoidhein
+  - 'neach ag altram naoidhein: tòna meadhanach a’ chraicinn'
+  - tòna meadhanach a’ chraicinn
+🧑🏾‍🍼:
+  - altram
+  - leanabh
+  - naoidhean
+  - neach
+  - neach ag altram naoidhein
+  - 'neach ag altram naoidhein: tòna meadhanach doilleir a’ chraicinn'
+  - tòna meadhanach doilleir a’ chraicinn
+🧑🏿‍🍼:
+  - altram
+  - leanabh
+  - naoidhean
+  - neach
+  - neach ag altram naoidhein
+  - 'neach ag altram naoidhein: tòna doilleir a’ chraicinn'
   - tòna doilleir a’ chraicinn
 👼:
   - aingeal
@@ -7922,6 +9442,46 @@
   - comharrachadh
   - màthair
   - nollaig
+  - tòna doilleir a’ chraicinn
+🧑‍🎄:
+  - Neach na Nollaig
+  - bean Bodach na Nollaig
+  - bodach na Nollaig
+  - neach
+🧑🏻‍🎄:
+  - Neach na Nollaig
+  - 'Neach na Nollaig: tòna soilleir a’ chraicinn'
+  - bean Bodach na Nollaig
+  - bodach na Nollaig
+  - neach
+  - tòna soilleir a’ chraicinn
+🧑🏼‍🎄:
+  - Neach na Nollaig
+  - 'Neach na Nollaig: tòna meadhanach soilleir a’ chraicinn'
+  - bean Bodach na Nollaig
+  - bodach na Nollaig
+  - neach
+  - tòna meadhanach soilleir a’ chraicinn
+🧑🏽‍🎄:
+  - Neach na Nollaig
+  - 'Neach na Nollaig: tòna meadhanach a’ chraicinn'
+  - bean Bodach na Nollaig
+  - bodach na Nollaig
+  - neach
+  - tòna meadhanach a’ chraicinn
+🧑🏾‍🎄:
+  - Neach na Nollaig
+  - 'Neach na Nollaig: tòna meadhanach doilleir a’ chraicinn'
+  - bean Bodach na Nollaig
+  - bodach na Nollaig
+  - neach
+  - tòna meadhanach doilleir a’ chraicinn
+🧑🏿‍🎄:
+  - Neach na Nollaig
+  - 'Neach na Nollaig: tòna doilleir a’ chraicinn'
+  - bean Bodach na Nollaig
+  - bodach na Nollaig
+  - neach
   - tòna doilleir a’ chraicinn
 🦸:
   - cumhachd
@@ -9260,6 +10820,636 @@
   - coiseachd
   - coisich
   - tè
+  - tòna doilleir a’ chraicinn
+🧍:
+  - neach ’na sheasamh
+  - seas
+  - seasamh
+🧍🏻:
+  - neach ’na sheasamh
+  - 'neach ’na sheasamh: tòna soilleir a’ chraicinn'
+  - seas
+  - seasamh
+  - tòna soilleir a’ chraicinn
+🧍🏼:
+  - neach ’na sheasamh
+  - 'neach ’na sheasamh: tòna meadhanach soilleir a’ chraicinn'
+  - seas
+  - seasamh
+  - tòna meadhanach soilleir a’ chraicinn
+🧍🏽:
+  - neach ’na sheasamh
+  - 'neach ’na sheasamh: tòna meadhanach a’ chraicinn'
+  - seas
+  - seasamh
+  - tòna meadhanach a’ chraicinn
+🧍🏾:
+  - neach ’na sheasamh
+  - 'neach ’na sheasamh: tòna meadhanach doilleir a’ chraicinn'
+  - seas
+  - seasamh
+  - tòna meadhanach doilleir a’ chraicinn
+🧍🏿:
+  - neach ’na sheasamh
+  - 'neach ’na sheasamh: tòna doilleir a’ chraicinn'
+  - seas
+  - seasamh
+  - tòna doilleir a’ chraicinn
+🧍‍♂:
+  - duine
+  - duine ’na sheasamh
+  - fireannach
+  - seas
+  - seasamh
+🧍🏻‍♂:
+  - duine
+  - duine ’na sheasamh
+  - 'duine ’na sheasamh: tòna soilleir a’ chraicinn'
+  - fireannach
+  - seas
+  - seasamh
+  - tòna soilleir a’ chraicinn
+🧍🏼‍♂:
+  - duine
+  - duine ’na sheasamh
+  - 'duine ’na sheasamh: tòna meadhanach soilleir a’ chraicinn'
+  - fireannach
+  - seas
+  - seasamh
+  - tòna meadhanach soilleir a’ chraicinn
+🧍🏽‍♂:
+  - duine
+  - duine ’na sheasamh
+  - 'duine ’na sheasamh: tòna meadhanach a’ chraicinn'
+  - fireannach
+  - seas
+  - seasamh
+  - tòna meadhanach a’ chraicinn
+🧍🏾‍♂:
+  - duine
+  - duine ’na sheasamh
+  - 'duine ’na sheasamh: tòna meadhanach doilleir a’ chraicinn'
+  - fireannach
+  - seas
+  - seasamh
+  - tòna meadhanach doilleir a’ chraicinn
+🧍🏿‍♂:
+  - duine
+  - duine ’na sheasamh
+  - 'duine ’na sheasamh: tòna doilleir a’ chraicinn'
+  - fireannach
+  - seas
+  - seasamh
+  - tòna doilleir a’ chraicinn
+🧍‍♀:
+  - boireannach
+  - boireannach ’na sheasamh
+  - seas
+  - seasamh
+🧍🏻‍♀:
+  - boireannach
+  - boireannach ’na sheasamh
+  - 'boireannach ’na sheasamh: tòna soilleir a’ chraicinn'
+  - seas
+  - seasamh
+  - tòna soilleir a’ chraicinn
+🧍🏼‍♀:
+  - boireannach
+  - boireannach ’na sheasamh
+  - 'boireannach ’na sheasamh: tòna meadhanach soilleir a’ chraicinn'
+  - seas
+  - seasamh
+  - tòna meadhanach soilleir a’ chraicinn
+🧍🏽‍♀:
+  - boireannach
+  - boireannach ’na sheasamh
+  - 'boireannach ’na sheasamh: tòna meadhanach a’ chraicinn'
+  - seas
+  - seasamh
+  - tòna meadhanach a’ chraicinn
+🧍🏾‍♀:
+  - boireannach
+  - boireannach ’na sheasamh
+  - 'boireannach ’na sheasamh: tòna meadhanach doilleir a’ chraicinn'
+  - seas
+  - seasamh
+  - tòna meadhanach doilleir a’ chraicinn
+🧍🏿‍♀:
+  - boireannach
+  - boireannach ’na sheasamh
+  - 'boireannach ’na sheasamh: tòna doilleir a’ chraicinn'
+  - seas
+  - seasamh
+  - tòna doilleir a’ chraicinn
+🧎:
+  - glùin
+  - glùinean
+  - neach air a ghlùinean
+🧎🏻:
+  - glùin
+  - glùinean
+  - neach air a ghlùinean
+  - 'neach air a ghlùinean: tòna soilleir a’ chraicinn'
+  - tòna soilleir a’ chraicinn
+🧎🏼:
+  - glùin
+  - glùinean
+  - neach air a ghlùinean
+  - 'neach air a ghlùinean: tòna meadhanach soilleir a’ chraicinn'
+  - tòna meadhanach soilleir a’ chraicinn
+🧎🏽:
+  - glùin
+  - glùinean
+  - neach air a ghlùinean
+  - 'neach air a ghlùinean: tòna meadhanach a’ chraicinn'
+  - tòna meadhanach a’ chraicinn
+🧎🏾:
+  - glùin
+  - glùinean
+  - neach air a ghlùinean
+  - 'neach air a ghlùinean: tòna meadhanach doilleir a’ chraicinn'
+  - tòna meadhanach doilleir a’ chraicinn
+🧎🏿:
+  - glùin
+  - glùinean
+  - neach air a ghlùinean
+  - 'neach air a ghlùinean: tòna doilleir a’ chraicinn'
+  - tòna doilleir a’ chraicinn
+🧎‍♂:
+  - duine
+  - duine air a ghlùinean
+  - fireannach
+  - glùin
+  - glùinean
+🧎🏻‍♂:
+  - duine
+  - duine air a ghlùinean
+  - 'duine air a ghlùinean: tòna soilleir a’ chraicinn'
+  - fireannach
+  - glùin
+  - glùinean
+  - tòna soilleir a’ chraicinn
+🧎🏼‍♂:
+  - duine
+  - duine air a ghlùinean
+  - 'duine air a ghlùinean: tòna meadhanach soilleir a’ chraicinn'
+  - fireannach
+  - glùin
+  - glùinean
+  - tòna meadhanach soilleir a’ chraicinn
+🧎🏽‍♂:
+  - duine
+  - duine air a ghlùinean
+  - 'duine air a ghlùinean: tòna meadhanach a’ chraicinn'
+  - fireannach
+  - glùin
+  - glùinean
+  - tòna meadhanach a’ chraicinn
+🧎🏾‍♂:
+  - duine
+  - duine air a ghlùinean
+  - 'duine air a ghlùinean: tòna meadhanach doilleir a’ chraicinn'
+  - fireannach
+  - glùin
+  - glùinean
+  - tòna meadhanach doilleir a’ chraicinn
+🧎🏿‍♂:
+  - duine
+  - duine air a ghlùinean
+  - 'duine air a ghlùinean: tòna doilleir a’ chraicinn'
+  - fireannach
+  - glùin
+  - glùinean
+  - tòna doilleir a’ chraicinn
+🧎‍♀:
+  - boireanach air a ghlùinean
+  - boireannach
+  - glùin
+  - glùinean
+🧎🏻‍♀:
+  - boireanach air a ghlùinean
+  - 'boireanach air a ghlùinean: tòna soilleir a’ chraicinn'
+  - boireannach
+  - glùin
+  - glùinean
+  - tòna soilleir a’ chraicinn
+🧎🏼‍♀:
+  - boireanach air a ghlùinean
+  - 'boireanach air a ghlùinean: tòna meadhanach soilleir a’ chraicinn'
+  - boireannach
+  - glùin
+  - glùinean
+  - tòna meadhanach soilleir a’ chraicinn
+🧎🏽‍♀:
+  - boireanach air a ghlùinean
+  - 'boireanach air a ghlùinean: tòna meadhanach a’ chraicinn'
+  - boireannach
+  - glùin
+  - glùinean
+  - tòna meadhanach a’ chraicinn
+🧎🏾‍♀:
+  - boireanach air a ghlùinean
+  - 'boireanach air a ghlùinean: tòna meadhanach doilleir a’ chraicinn'
+  - boireannach
+  - glùin
+  - glùinean
+  - tòna meadhanach doilleir a’ chraicinn
+🧎🏿‍♀:
+  - boireanach air a ghlùinean
+  - 'boireanach air a ghlùinean: tòna doilleir a’ chraicinn'
+  - boireannach
+  - glùin
+  - glùinean
+  - tòna doilleir a’ chraicinn
+🧑‍🦯:
+  - dall
+  - doille
+  - neach dall le batachan
+  - so-ruigsinneachd
+🧑🏻‍🦯:
+  - dall
+  - doille
+  - neach dall le batachan
+  - 'neach dall le batachan: tòna soilleir a’ chraicinn'
+  - so-ruigsinneachd
+  - tòna soilleir a’ chraicinn
+🧑🏼‍🦯:
+  - dall
+  - doille
+  - neach dall le batachan
+  - 'neach dall le batachan: tòna meadhanach soilleir a’ chraicinn'
+  - so-ruigsinneachd
+  - tòna meadhanach soilleir a’ chraicinn
+🧑🏽‍🦯:
+  - dall
+  - doille
+  - neach dall le batachan
+  - 'neach dall le batachan: tòna meadhanach a’ chraicinn'
+  - so-ruigsinneachd
+  - tòna meadhanach a’ chraicinn
+🧑🏾‍🦯:
+  - dall
+  - doille
+  - neach dall le batachan
+  - 'neach dall le batachan: tòna meadhanach doilleir a’ chraicinn'
+  - so-ruigsinneachd
+  - tòna meadhanach doilleir a’ chraicinn
+🧑🏿‍🦯:
+  - dall
+  - doille
+  - neach dall le batachan
+  - 'neach dall le batachan: tòna doilleir a’ chraicinn'
+  - so-ruigsinneachd
+  - tòna doilleir a’ chraicinn
+👨‍🦯:
+  - dall
+  - doille
+  - duine
+  - duine dall le batachan
+  - fireannach
+  - so-ruigsinneachd
+👨🏻‍🦯:
+  - dall
+  - doille
+  - duine
+  - duine dall le batachan
+  - 'duine dall le batachan: tòna soilleir a’ chraicinn'
+  - fireannach
+  - so-ruigsinneachd
+  - tòna soilleir a’ chraicinn
+👨🏼‍🦯:
+  - dall
+  - doille
+  - duine
+  - duine dall le batachan
+  - 'duine dall le batachan: tòna meadhanach soilleir a’ chraicinn'
+  - fireannach
+  - so-ruigsinneachd
+  - tòna meadhanach soilleir a’ chraicinn
+👨🏽‍🦯:
+  - dall
+  - doille
+  - duine
+  - duine dall le batachan
+  - 'duine dall le batachan: tòna meadhanach a’ chraicinn'
+  - fireannach
+  - so-ruigsinneachd
+  - tòna meadhanach a’ chraicinn
+👨🏾‍🦯:
+  - dall
+  - doille
+  - duine
+  - duine dall le batachan
+  - 'duine dall le batachan: tòna meadhanach doilleir a’ chraicinn'
+  - fireannach
+  - so-ruigsinneachd
+  - tòna meadhanach doilleir a’ chraicinn
+👨🏿‍🦯:
+  - dall
+  - doille
+  - duine
+  - duine dall le batachan
+  - 'duine dall le batachan: tòna doilleir a’ chraicinn'
+  - fireannach
+  - so-ruigsinneachd
+  - tòna doilleir a’ chraicinn
+👩‍🦯:
+  - boireannach
+  - boireannach dall le batachan
+  - dall
+  - doille
+  - so-ruigsinneachd
+👩🏻‍🦯:
+  - boireannach
+  - boireannach dall le batachan
+  - 'boireannach dall le batachan: tòna soilleir a’ chraicinn'
+  - dall
+  - doille
+  - so-ruigsinneachd
+  - tòna soilleir a’ chraicinn
+👩🏼‍🦯:
+  - boireannach
+  - boireannach dall le batachan
+  - 'boireannach dall le batachan: tòna meadhanach soilleir a’ chraicinn'
+  - dall
+  - doille
+  - so-ruigsinneachd
+  - tòna meadhanach soilleir a’ chraicinn
+👩🏽‍🦯:
+  - boireannach
+  - boireannach dall le batachan
+  - 'boireannach dall le batachan: tòna meadhanach a’ chraicinn'
+  - dall
+  - doille
+  - so-ruigsinneachd
+  - tòna meadhanach a’ chraicinn
+👩🏾‍🦯:
+  - boireannach
+  - boireannach dall le batachan
+  - 'boireannach dall le batachan: tòna meadhanach doilleir a’ chraicinn'
+  - dall
+  - doille
+  - so-ruigsinneachd
+  - tòna meadhanach doilleir a’ chraicinn
+👩🏿‍🦯:
+  - boireannach
+  - boireannach dall le batachan
+  - 'boireannach dall le batachan: tòna doilleir a’ chraicinn'
+  - dall
+  - doille
+  - so-ruigsinneachd
+  - tòna doilleir a’ chraicinn
+🧑‍🦼:
+  - cathair-chuibhle
+  - neach ann an cathair-chuibhle le einnsein
+  - so-ruigsinneachd
+🧑🏻‍🦼:
+  - cathair-chuibhle
+  - neach ann an cathair-chuibhle le einnsein
+  - 'neach ann an cathair-chuibhle le einnsein: tòna soilleir a’ chraicinn'
+  - so-ruigsinneachd
+  - tòna soilleir a’ chraicinn
+🧑🏼‍🦼:
+  - cathair-chuibhle
+  - neach ann an cathair-chuibhle le einnsein
+  - 'neach ann an cathair-chuibhle le einnsein: tòna meadhanach soilleir a’ chraicinn'
+  - so-ruigsinneachd
+  - tòna meadhanach soilleir a’ chraicinn
+🧑🏽‍🦼:
+  - cathair-chuibhle
+  - neach ann an cathair-chuibhle le einnsein
+  - 'neach ann an cathair-chuibhle le einnsein: tòna meadhanach a’ chraicinn'
+  - so-ruigsinneachd
+  - tòna meadhanach a’ chraicinn
+🧑🏾‍🦼:
+  - cathair-chuibhle
+  - neach ann an cathair-chuibhle le einnsein
+  - 'neach ann an cathair-chuibhle le einnsein: tòna meadhanach doilleir a’ chraicinn'
+  - so-ruigsinneachd
+  - tòna meadhanach doilleir a’ chraicinn
+🧑🏿‍🦼:
+  - cathair-chuibhle
+  - neach ann an cathair-chuibhle le einnsein
+  - 'neach ann an cathair-chuibhle le einnsein: tòna doilleir a’ chraicinn'
+  - so-ruigsinneachd
+  - tòna doilleir a’ chraicinn
+👨‍🦼:
+  - cathair-chuibhle
+  - duine
+  - duine ann an cathair-chuibhle le einnsein
+  - fireannach
+  - so-ruigsinneachd
+👨🏻‍🦼:
+  - cathair-chuibhle
+  - duine
+  - duine ann an cathair-chuibhle le einnsein
+  - 'duine ann an cathair-chuibhle le einnsein: tòna soilleir a’ chraicinn'
+  - fireannach
+  - so-ruigsinneachd
+  - tòna soilleir a’ chraicinn
+👨🏼‍🦼:
+  - cathair-chuibhle
+  - duine
+  - duine ann an cathair-chuibhle le einnsein
+  - 'duine ann an cathair-chuibhle le einnsein: tòna meadhanach soilleir a’ chraicinn'
+  - fireannach
+  - so-ruigsinneachd
+  - tòna meadhanach soilleir a’ chraicinn
+👨🏽‍🦼:
+  - cathair-chuibhle
+  - duine
+  - duine ann an cathair-chuibhle le einnsein
+  - 'duine ann an cathair-chuibhle le einnsein: tòna meadhanach a’ chraicinn'
+  - fireannach
+  - so-ruigsinneachd
+  - tòna meadhanach a’ chraicinn
+👨🏾‍🦼:
+  - cathair-chuibhle
+  - duine
+  - duine ann an cathair-chuibhle le einnsein
+  - 'duine ann an cathair-chuibhle le einnsein: tòna meadhanach doilleir a’ chraicinn'
+  - fireannach
+  - so-ruigsinneachd
+  - tòna meadhanach doilleir a’ chraicinn
+👨🏿‍🦼:
+  - cathair-chuibhle
+  - duine
+  - duine ann an cathair-chuibhle le einnsein
+  - 'duine ann an cathair-chuibhle le einnsein: tòna doilleir a’ chraicinn'
+  - fireannach
+  - so-ruigsinneachd
+  - tòna doilleir a’ chraicinn
+👩‍🦼:
+  - boireannach
+  - boireannach ann an cathair-chuibhle le einnsein
+  - cathair-chuibhle
+  - so-ruigsinneachd
+  - tè ann an cathair-chuibhle le einnsein
+👩🏻‍🦼:
+  - boireannach
+  - boireannach ann an cathair-chuibhle le einnsein
+  - cathair-chuibhle
+  - so-ruigsinneachd
+  - tè ann an cathair-chuibhle le einnsein
+  - 'tè ann an cathair-chuibhle le einnsein: tòna soilleir a’ chraicinn'
+  - tòna soilleir a’ chraicinn
+👩🏼‍🦼:
+  - boireannach
+  - boireannach ann an cathair-chuibhle le einnsein
+  - cathair-chuibhle
+  - so-ruigsinneachd
+  - tè ann an cathair-chuibhle le einnsein
+  - 'tè ann an cathair-chuibhle le einnsein: tòna meadhanach soilleir a’ chraicinn'
+  - tòna meadhanach soilleir a’ chraicinn
+👩🏽‍🦼:
+  - boireannach
+  - boireannach ann an cathair-chuibhle le einnsein
+  - cathair-chuibhle
+  - so-ruigsinneachd
+  - tè ann an cathair-chuibhle le einnsein
+  - 'tè ann an cathair-chuibhle le einnsein: tòna meadhanach a’ chraicinn'
+  - tòna meadhanach a’ chraicinn
+👩🏾‍🦼:
+  - boireannach
+  - boireannach ann an cathair-chuibhle le einnsein
+  - cathair-chuibhle
+  - so-ruigsinneachd
+  - tè ann an cathair-chuibhle le einnsein
+  - 'tè ann an cathair-chuibhle le einnsein: tòna meadhanach doilleir a’ chraicinn'
+  - tòna meadhanach doilleir a’ chraicinn
+👩🏿‍🦼:
+  - boireannach
+  - boireannach ann an cathair-chuibhle le einnsein
+  - cathair-chuibhle
+  - so-ruigsinneachd
+  - tè ann an cathair-chuibhle le einnsein
+  - 'tè ann an cathair-chuibhle le einnsein: tòna doilleir a’ chraicinn'
+  - tòna doilleir a’ chraicinn
+🧑‍🦽:
+  - cathair-chuibhle
+  - neach ann an cathair-chuibhle a làimh
+  - so-ruigsinneachd
+🧑🏻‍🦽:
+  - cathair-chuibhle
+  - neach ann an cathair-chuibhle a làimh
+  - 'neach ann an cathair-chuibhle a làimh: tòna soilleir a’ chraicinn'
+  - so-ruigsinneachd
+  - tòna soilleir a’ chraicinn
+🧑🏼‍🦽:
+  - cathair-chuibhle
+  - neach ann an cathair-chuibhle a làimh
+  - 'neach ann an cathair-chuibhle a làimh: tòna meadhanach soilleir a’ chraicinn'
+  - so-ruigsinneachd
+  - tòna meadhanach soilleir a’ chraicinn
+🧑🏽‍🦽:
+  - cathair-chuibhle
+  - neach ann an cathair-chuibhle a làimh
+  - 'neach ann an cathair-chuibhle a làimh: tòna meadhanach a’ chraicinn'
+  - so-ruigsinneachd
+  - tòna meadhanach a’ chraicinn
+🧑🏾‍🦽:
+  - cathair-chuibhle
+  - neach ann an cathair-chuibhle a làimh
+  - 'neach ann an cathair-chuibhle a làimh: tòna meadhanach doilleir a’ chraicinn'
+  - so-ruigsinneachd
+  - tòna meadhanach doilleir a’ chraicinn
+🧑🏿‍🦽:
+  - cathair-chuibhle
+  - neach ann an cathair-chuibhle a làimh
+  - 'neach ann an cathair-chuibhle a làimh: tòna doilleir a’ chraicinn'
+  - so-ruigsinneachd
+  - tòna doilleir a’ chraicinn
+👨‍🦽:
+  - cathair-chuibhle
+  - duine
+  - duine ann an cathair-chuibhle a làimh
+  - fireannach
+  - so-ruigsinneachd
+👨🏻‍🦽:
+  - cathair-chuibhle
+  - duine
+  - duine ann an cathair-chuibhle a làimh
+  - 'duine ann an cathair-chuibhle a làimh: tòna soilleir a’ chraicinn'
+  - fireannach
+  - so-ruigsinneachd
+  - tòna soilleir a’ chraicinn
+👨🏼‍🦽:
+  - cathair-chuibhle
+  - duine
+  - duine ann an cathair-chuibhle a làimh
+  - 'duine ann an cathair-chuibhle a làimh: tòna meadhanach soilleir a’ chraicinn'
+  - fireannach
+  - so-ruigsinneachd
+  - tòna meadhanach soilleir a’ chraicinn
+👨🏽‍🦽:
+  - cathair-chuibhle
+  - duine
+  - duine ann an cathair-chuibhle a làimh
+  - 'duine ann an cathair-chuibhle a làimh: tòna meadhanach a’ chraicinn'
+  - fireannach
+  - so-ruigsinneachd
+  - tòna meadhanach a’ chraicinn
+👨🏾‍🦽:
+  - cathair-chuibhle
+  - duine
+  - duine ann an cathair-chuibhle a làimh
+  - 'duine ann an cathair-chuibhle a làimh: tòna meadhanach doilleir a’ chraicinn'
+  - fireannach
+  - so-ruigsinneachd
+  - tòna meadhanach doilleir a’ chraicinn
+👨🏿‍🦽:
+  - cathair-chuibhle
+  - duine
+  - duine ann an cathair-chuibhle a làimh
+  - 'duine ann an cathair-chuibhle a làimh: tòna doilleir a’ chraicinn'
+  - fireannach
+  - so-ruigsinneachd
+  - tòna doilleir a’ chraicinn
+👩‍🦽:
+  - boireannach
+  - boireannach ann an cathair-chuibhle a làimh
+  - cathair-chuibhle
+  - so-ruigsinneachd
+  - tè ann an cathair-chuibhle a làimh
+👩🏻‍🦽:
+  - boireannach
+  - boireannach ann an cathair-chuibhle a làimh
+  - cathair-chuibhle
+  - so-ruigsinneachd
+  - tè ann an cathair-chuibhle a làimh
+  - 'tè ann an cathair-chuibhle a làimh: tòna soilleir a’ chraicinn'
+  - tòna soilleir a’ chraicinn
+👩🏼‍🦽:
+  - boireannach
+  - boireannach ann an cathair-chuibhle a làimh
+  - cathair-chuibhle
+  - so-ruigsinneachd
+  - tè ann an cathair-chuibhle a làimh
+  - 'tè ann an cathair-chuibhle a làimh: tòna meadhanach soilleir a’ chraicinn'
+  - tòna meadhanach soilleir a’ chraicinn
+👩🏽‍🦽:
+  - boireannach
+  - boireannach ann an cathair-chuibhle a làimh
+  - cathair-chuibhle
+  - so-ruigsinneachd
+  - tè ann an cathair-chuibhle a làimh
+  - 'tè ann an cathair-chuibhle a làimh: tòna meadhanach a’ chraicinn'
+  - tòna meadhanach a’ chraicinn
+👩🏾‍🦽:
+  - boireannach
+  - boireannach ann an cathair-chuibhle a làimh
+  - cathair-chuibhle
+  - so-ruigsinneachd
+  - tè ann an cathair-chuibhle a làimh
+  - 'tè ann an cathair-chuibhle a làimh: tòna meadhanach doilleir a’ chraicinn'
+  - tòna meadhanach doilleir a’ chraicinn
+👩🏿‍🦽:
+  - boireannach
+  - boireannach ann an cathair-chuibhle a làimh
+  - cathair-chuibhle
+  - so-ruigsinneachd
+  - tè ann an cathair-chuibhle a làimh
+  - 'tè ann an cathair-chuibhle a làimh: tòna doilleir a’ chraicinn'
   - tòna doilleir a’ chraicinn
 🏃:
   - marathon
@@ -11758,32 +13948,1276 @@
   - 'neach san leabaidh: tòna doilleir a’ chraicinn'
   - taigh-òsta
   - tòna doilleir a’ chraicinn
+🧑‍🤝‍🧑:
+  - càraid
+  - daoine
+  - daoine a’ glacadh air làmh a chèile
+  - dithis
+  - làmh
+🧑🏻‍🤝‍🧑🏻:
+  - càraid
+  - daoine
+  - daoine a’ glacadh air làmh a chèile
+  - 'daoine a’ glacadh air làmh a chèile: tòna soilleir a’ chraicinn'
+  - dithis
+  - làmh
+  - tòna soilleir a’ chraicinn
+🧑🏻‍🤝‍🧑🏼:
+  - càraid
+  - daoine
+  - daoine a’ glacadh air làmh a chèile
+  - 'daoine a’ glacadh air làmh a chèile: tòna soilleir a’ chraicinn ’s tòna meadhanach
+    soilleir a’ chraicinn'
+  - dithis
+  - làmh
+  - tòna meadhanach soilleir a’ chraicinn
+  - tòna soilleir a’ chraicinn
+🧑🏻‍🤝‍🧑🏽:
+  - càraid
+  - daoine
+  - daoine a’ glacadh air làmh a chèile
+  - 'daoine a’ glacadh air làmh a chèile: tòna soilleir a’ chraicinn ’s tòna meadhanach
+    a’ chraicinn'
+  - dithis
+  - làmh
+  - tòna meadhanach a’ chraicinn
+  - tòna soilleir a’ chraicinn
+🧑🏻‍🤝‍🧑🏾:
+  - càraid
+  - daoine
+  - daoine a’ glacadh air làmh a chèile
+  - 'daoine a’ glacadh air làmh a chèile: tòna soilleir a’ chraicinn ’s tòna meadhanach
+    doilleir a’ chraicinn'
+  - dithis
+  - làmh
+  - tòna meadhanach doilleir a’ chraicinn
+  - tòna soilleir a’ chraicinn
+🧑🏻‍🤝‍🧑🏿:
+  - càraid
+  - daoine
+  - daoine a’ glacadh air làmh a chèile
+  - 'daoine a’ glacadh air làmh a chèile: tòna soilleir a’ chraicinn ’s tòna doilleir
+    a’ chraicinn'
+  - dithis
+  - làmh
+  - tòna doilleir a’ chraicinn
+  - tòna soilleir a’ chraicinn
+🧑🏼‍🤝‍🧑🏻:
+  - càraid
+  - daoine
+  - daoine a’ glacadh air làmh a chèile
+  - 'daoine a’ glacadh air làmh a chèile: tòna meadhanach soilleir a’ chraicinn ’s
+    tòna soilleir a’ chraicinn'
+  - dithis
+  - làmh
+  - tòna meadhanach soilleir a’ chraicinn
+  - tòna soilleir a’ chraicinn
+🧑🏼‍🤝‍🧑🏼:
+  - càraid
+  - daoine
+  - daoine a’ glacadh air làmh a chèile
+  - 'daoine a’ glacadh air làmh a chèile: tòna meadhanach soilleir a’ chraicinn'
+  - dithis
+  - làmh
+  - tòna meadhanach soilleir a’ chraicinn
+🧑🏼‍🤝‍🧑🏽:
+  - càraid
+  - daoine
+  - daoine a’ glacadh air làmh a chèile
+  - 'daoine a’ glacadh air làmh a chèile: tòna meadhanach soilleir a’ chraicinn ’s
+    tòna meadhanach a’ chraicinn'
+  - dithis
+  - làmh
+  - tòna meadhanach a’ chraicinn
+  - tòna meadhanach soilleir a’ chraicinn
+🧑🏼‍🤝‍🧑🏾:
+  - càraid
+  - daoine
+  - daoine a’ glacadh air làmh a chèile
+  - 'daoine a’ glacadh air làmh a chèile: tòna meadhanach soilleir a’ chraicinn ’s
+    tòna meadhanach doilleir a’ chraicinn'
+  - dithis
+  - làmh
+  - tòna meadhanach doilleir a’ chraicinn
+  - tòna meadhanach soilleir a’ chraicinn
+🧑🏼‍🤝‍🧑🏿:
+  - càraid
+  - daoine
+  - daoine a’ glacadh air làmh a chèile
+  - 'daoine a’ glacadh air làmh a chèile: tòna meadhanach soilleir a’ chraicinn ’s
+    tòna doilleir a’ chraicinn'
+  - dithis
+  - làmh
+  - tòna doilleir a’ chraicinn
+  - tòna meadhanach soilleir a’ chraicinn
+🧑🏽‍🤝‍🧑🏻:
+  - càraid
+  - daoine
+  - daoine a’ glacadh air làmh a chèile
+  - 'daoine a’ glacadh air làmh a chèile: tòna meadhanach a’ chraicinn ’s tòna soilleir
+    a’ chraicinn'
+  - dithis
+  - làmh
+  - tòna meadhanach a’ chraicinn
+  - tòna soilleir a’ chraicinn
+🧑🏽‍🤝‍🧑🏼:
+  - càraid
+  - daoine
+  - daoine a’ glacadh air làmh a chèile
+  - 'daoine a’ glacadh air làmh a chèile: tòna meadhanach a’ chraicinn ’s tòna meadhanach
+    soilleir a’ chraicinn'
+  - dithis
+  - làmh
+  - tòna meadhanach a’ chraicinn
+  - tòna meadhanach soilleir a’ chraicinn
+🧑🏽‍🤝‍🧑🏽:
+  - càraid
+  - daoine
+  - daoine a’ glacadh air làmh a chèile
+  - 'daoine a’ glacadh air làmh a chèile: tòna meadhanach a’ chraicinn'
+  - dithis
+  - làmh
+  - tòna meadhanach a’ chraicinn
+🧑🏽‍🤝‍🧑🏾:
+  - càraid
+  - daoine
+  - daoine a’ glacadh air làmh a chèile
+  - 'daoine a’ glacadh air làmh a chèile: tòna meadhanach a’ chraicinn ’s tòna meadhanach
+    doilleir a’ chraicinn'
+  - dithis
+  - làmh
+  - tòna meadhanach a’ chraicinn
+  - tòna meadhanach doilleir a’ chraicinn
+🧑🏽‍🤝‍🧑🏿:
+  - càraid
+  - daoine
+  - daoine a’ glacadh air làmh a chèile
+  - 'daoine a’ glacadh air làmh a chèile: tòna meadhanach a’ chraicinn ’s tòna doilleir
+    a’ chraicinn'
+  - dithis
+  - làmh
+  - tòna doilleir a’ chraicinn
+  - tòna meadhanach a’ chraicinn
+🧑🏾‍🤝‍🧑🏻:
+  - càraid
+  - daoine
+  - daoine a’ glacadh air làmh a chèile
+  - 'daoine a’ glacadh air làmh a chèile: tòna meadhanach doilleir a’ chraicinn ’s
+    tòna soilleir a’ chraicinn'
+  - dithis
+  - làmh
+  - tòna meadhanach doilleir a’ chraicinn
+  - tòna soilleir a’ chraicinn
+🧑🏾‍🤝‍🧑🏼:
+  - càraid
+  - daoine
+  - daoine a’ glacadh air làmh a chèile
+  - 'daoine a’ glacadh air làmh a chèile: tòna meadhanach doilleir a’ chraicinn ’s
+    tòna meadhanach soilleir a’ chraicinn'
+  - dithis
+  - làmh
+  - tòna meadhanach doilleir a’ chraicinn
+  - tòna meadhanach soilleir a’ chraicinn
+🧑🏾‍🤝‍🧑🏽:
+  - càraid
+  - daoine
+  - daoine a’ glacadh air làmh a chèile
+  - 'daoine a’ glacadh air làmh a chèile: tòna meadhanach doilleir a’ chraicinn ’s
+    tòna meadhanach a’ chraicinn'
+  - dithis
+  - làmh
+  - tòna meadhanach a’ chraicinn
+  - tòna meadhanach doilleir a’ chraicinn
+🧑🏾‍🤝‍🧑🏾:
+  - càraid
+  - daoine
+  - daoine a’ glacadh air làmh a chèile
+  - 'daoine a’ glacadh air làmh a chèile: tòna meadhanach doilleir a’ chraicinn'
+  - dithis
+  - làmh
+  - tòna meadhanach doilleir a’ chraicinn
+🧑🏾‍🤝‍🧑🏿:
+  - càraid
+  - daoine
+  - daoine a’ glacadh air làmh a chèile
+  - 'daoine a’ glacadh air làmh a chèile: tòna meadhanach doilleir a’ chraicinn ’s
+    tòna doilleir a’ chraicinn'
+  - dithis
+  - làmh
+  - tòna doilleir a’ chraicinn
+  - tòna meadhanach doilleir a’ chraicinn
+🧑🏿‍🤝‍🧑🏻:
+  - càraid
+  - daoine
+  - daoine a’ glacadh air làmh a chèile
+  - 'daoine a’ glacadh air làmh a chèile: tòna doilleir a’ chraicinn ’s tòna soilleir
+    a’ chraicinn'
+  - dithis
+  - làmh
+  - tòna doilleir a’ chraicinn
+  - tòna soilleir a’ chraicinn
+🧑🏿‍🤝‍🧑🏼:
+  - càraid
+  - daoine
+  - daoine a’ glacadh air làmh a chèile
+  - 'daoine a’ glacadh air làmh a chèile: tòna doilleir a’ chraicinn ’s tòna meadhanach
+    soilleir a’ chraicinn'
+  - dithis
+  - làmh
+  - tòna doilleir a’ chraicinn
+  - tòna meadhanach soilleir a’ chraicinn
+🧑🏿‍🤝‍🧑🏽:
+  - càraid
+  - daoine
+  - daoine a’ glacadh air làmh a chèile
+  - 'daoine a’ glacadh air làmh a chèile: tòna doilleir a’ chraicinn ’s tòna meadhanach
+    a’ chraicinn'
+  - dithis
+  - làmh
+  - tòna doilleir a’ chraicinn
+  - tòna meadhanach a’ chraicinn
+🧑🏿‍🤝‍🧑🏾:
+  - càraid
+  - daoine
+  - daoine a’ glacadh air làmh a chèile
+  - 'daoine a’ glacadh air làmh a chèile: tòna doilleir a’ chraicinn ’s tòna meadhanach
+    doilleir a’ chraicinn'
+  - dithis
+  - làmh
+  - tòna doilleir a’ chraicinn
+  - tòna meadhanach doilleir a’ chraicinn
+🧑🏿‍🤝‍🧑🏿:
+  - càraid
+  - daoine
+  - daoine a’ glacadh air làmh a chèile
+  - 'daoine a’ glacadh air làmh a chèile: tòna doilleir a’ chraicinn'
+  - dithis
+  - làmh
+  - tòna doilleir a’ chraicinn
 👭:
   - boireannach
+  - boireannaich a’ glacadh air làmh a chèile
   - càraid
-  - dithis bhoireannach a’ glacadh air làmh a chèile
+  - dithis
   - làmh
+👭🏻:
+  - boireannach
+  - boireannaich a’ glacadh air làmh a chèile
+  - 'boireannaich a’ glacadh air làmh a chèile: tòna soilleir a’ chraicinn'
+  - càraid
+  - dithis
+  - làmh
+  - tòna soilleir a’ chraicinn
+👩🏻‍🤝‍👩🏼:
+  - boireannach
+  - boireannaich a’ glacadh air làmh a chèile
+  - 'boireannaich a’ glacadh air làmh a chèile: tòna soilleir a’ chraicinn ’s tòna
+    meadhanach soilleir a’ chraicinn'
+  - càraid
+  - dithis
+  - làmh
+  - tòna meadhanach soilleir a’ chraicinn
+  - tòna soilleir a’ chraicinn
+👩🏻‍🤝‍👩🏽:
+  - boireannach
+  - boireannaich a’ glacadh air làmh a chèile
+  - 'boireannaich a’ glacadh air làmh a chèile: tòna soilleir a’ chraicinn ’s tòna
+    meadhanach a’ chraicinn'
+  - càraid
+  - dithis
+  - làmh
+  - tòna meadhanach a’ chraicinn
+  - tòna soilleir a’ chraicinn
+👩🏻‍🤝‍👩🏾:
+  - boireannach
+  - boireannaich a’ glacadh air làmh a chèile
+  - 'boireannaich a’ glacadh air làmh a chèile: tòna soilleir a’ chraicinn ’s tòna
+    meadhanach doilleir a’ chraicinn'
+  - càraid
+  - dithis
+  - làmh
+  - tòna meadhanach doilleir a’ chraicinn
+  - tòna soilleir a’ chraicinn
+👩🏻‍🤝‍👩🏿:
+  - boireannach
+  - boireannaich a’ glacadh air làmh a chèile
+  - 'boireannaich a’ glacadh air làmh a chèile: tòna soilleir a’ chraicinn ’s tòna
+    doilleir a’ chraicinn'
+  - càraid
+  - dithis
+  - làmh
+  - tòna doilleir a’ chraicinn
+  - tòna soilleir a’ chraicinn
+👩🏼‍🤝‍👩🏻:
+  - boireannach
+  - boireannaich a’ glacadh air làmh a chèile
+  - 'boireannaich a’ glacadh air làmh a chèile: tòna meadhanach soilleir a’ chraicinn
+    ’s tòna soilleir a’ chraicinn'
+  - càraid
+  - dithis
+  - làmh
+  - tòna meadhanach soilleir a’ chraicinn
+  - tòna soilleir a’ chraicinn
+👭🏼:
+  - boireannach
+  - boireannaich a’ glacadh air làmh a chèile
+  - 'boireannaich a’ glacadh air làmh a chèile: tòna meadhanach soilleir a’ chraicinn'
+  - càraid
+  - dithis
+  - làmh
+  - tòna meadhanach soilleir a’ chraicinn
+👩🏼‍🤝‍👩🏽:
+  - boireannach
+  - boireannaich a’ glacadh air làmh a chèile
+  - 'boireannaich a’ glacadh air làmh a chèile: tòna meadhanach soilleir a’ chraicinn
+    ’s tòna meadhanach a’ chraicinn'
+  - càraid
+  - dithis
+  - làmh
+  - tòna meadhanach a’ chraicinn
+  - tòna meadhanach soilleir a’ chraicinn
+👩🏼‍🤝‍👩🏾:
+  - boireannach
+  - boireannaich a’ glacadh air làmh a chèile
+  - 'boireannaich a’ glacadh air làmh a chèile: tòna meadhanach soilleir a’ chraicinn
+    ’s tòna meadhanach doilleir a’ chraicinn'
+  - càraid
+  - dithis
+  - làmh
+  - tòna meadhanach doilleir a’ chraicinn
+  - tòna meadhanach soilleir a’ chraicinn
+👩🏼‍🤝‍👩🏿:
+  - boireannach
+  - boireannaich a’ glacadh air làmh a chèile
+  - 'boireannaich a’ glacadh air làmh a chèile: tòna meadhanach soilleir a’ chraicinn
+    ’s tòna doilleir a’ chraicinn'
+  - càraid
+  - dithis
+  - làmh
+  - tòna doilleir a’ chraicinn
+  - tòna meadhanach soilleir a’ chraicinn
+👩🏽‍🤝‍👩🏻:
+  - boireannach
+  - boireannaich a’ glacadh air làmh a chèile
+  - 'boireannaich a’ glacadh air làmh a chèile: tòna meadhanach a’ chraicinn ’s tòna
+    soilleir a’ chraicinn'
+  - càraid
+  - dithis
+  - làmh
+  - tòna meadhanach a’ chraicinn
+  - tòna soilleir a’ chraicinn
+👩🏽‍🤝‍👩🏼:
+  - boireannach
+  - boireannaich a’ glacadh air làmh a chèile
+  - 'boireannaich a’ glacadh air làmh a chèile: tòna meadhanach a’ chraicinn ’s tòna
+    meadhanach soilleir a’ chraicinn'
+  - càraid
+  - dithis
+  - làmh
+  - tòna meadhanach a’ chraicinn
+  - tòna meadhanach soilleir a’ chraicinn
+👭🏽:
+  - boireannach
+  - boireannaich a’ glacadh air làmh a chèile
+  - 'boireannaich a’ glacadh air làmh a chèile: tòna meadhanach a’ chraicinn'
+  - càraid
+  - dithis
+  - làmh
+  - tòna meadhanach a’ chraicinn
+👩🏽‍🤝‍👩🏾:
+  - boireannach
+  - boireannaich a’ glacadh air làmh a chèile
+  - 'boireannaich a’ glacadh air làmh a chèile: tòna meadhanach a’ chraicinn ’s tòna
+    meadhanach doilleir a’ chraicinn'
+  - càraid
+  - dithis
+  - làmh
+  - tòna meadhanach a’ chraicinn
+  - tòna meadhanach doilleir a’ chraicinn
+👩🏽‍🤝‍👩🏿:
+  - boireannach
+  - boireannaich a’ glacadh air làmh a chèile
+  - 'boireannaich a’ glacadh air làmh a chèile: tòna meadhanach a’ chraicinn ’s tòna
+    doilleir a’ chraicinn'
+  - càraid
+  - dithis
+  - làmh
+  - tòna doilleir a’ chraicinn
+  - tòna meadhanach a’ chraicinn
+👩🏾‍🤝‍👩🏻:
+  - boireannach
+  - boireannaich a’ glacadh air làmh a chèile
+  - 'boireannaich a’ glacadh air làmh a chèile: tòna meadhanach doilleir a’ chraicinn
+    ’s tòna soilleir a’ chraicinn'
+  - càraid
+  - dithis
+  - làmh
+  - tòna meadhanach doilleir a’ chraicinn
+  - tòna soilleir a’ chraicinn
+👩🏾‍🤝‍👩🏼:
+  - boireannach
+  - boireannaich a’ glacadh air làmh a chèile
+  - 'boireannaich a’ glacadh air làmh a chèile: tòna meadhanach doilleir a’ chraicinn
+    ’s tòna meadhanach soilleir a’ chraicinn'
+  - càraid
+  - dithis
+  - làmh
+  - tòna meadhanach doilleir a’ chraicinn
+  - tòna meadhanach soilleir a’ chraicinn
+👩🏾‍🤝‍👩🏽:
+  - boireannach
+  - boireannaich a’ glacadh air làmh a chèile
+  - 'boireannaich a’ glacadh air làmh a chèile: tòna meadhanach doilleir a’ chraicinn
+    ’s tòna meadhanach a’ chraicinn'
+  - càraid
+  - dithis
+  - làmh
+  - tòna meadhanach a’ chraicinn
+  - tòna meadhanach doilleir a’ chraicinn
+👭🏾:
+  - boireannach
+  - boireannaich a’ glacadh air làmh a chèile
+  - 'boireannaich a’ glacadh air làmh a chèile: tòna meadhanach doilleir a’ chraicinn'
+  - càraid
+  - dithis
+  - làmh
+  - tòna meadhanach doilleir a’ chraicinn
+👩🏾‍🤝‍👩🏿:
+  - boireannach
+  - boireannaich a’ glacadh air làmh a chèile
+  - 'boireannaich a’ glacadh air làmh a chèile: tòna meadhanach doilleir a’ chraicinn
+    ’s tòna doilleir a’ chraicinn'
+  - càraid
+  - dithis
+  - làmh
+  - tòna doilleir a’ chraicinn
+  - tòna meadhanach doilleir a’ chraicinn
+👩🏿‍🤝‍👩🏻:
+  - boireannach
+  - boireannaich a’ glacadh air làmh a chèile
+  - 'boireannaich a’ glacadh air làmh a chèile: tòna doilleir a’ chraicinn ’s tòna
+    soilleir a’ chraicinn'
+  - càraid
+  - dithis
+  - làmh
+  - tòna doilleir a’ chraicinn
+  - tòna soilleir a’ chraicinn
+👩🏿‍🤝‍👩🏼:
+  - boireannach
+  - boireannaich a’ glacadh air làmh a chèile
+  - 'boireannaich a’ glacadh air làmh a chèile: tòna doilleir a’ chraicinn ’s tòna
+    meadhanach soilleir a’ chraicinn'
+  - càraid
+  - dithis
+  - làmh
+  - tòna doilleir a’ chraicinn
+  - tòna meadhanach soilleir a’ chraicinn
+👩🏿‍🤝‍👩🏽:
+  - boireannach
+  - boireannaich a’ glacadh air làmh a chèile
+  - 'boireannaich a’ glacadh air làmh a chèile: tòna doilleir a’ chraicinn ’s tòna
+    meadhanach a’ chraicinn'
+  - càraid
+  - dithis
+  - làmh
+  - tòna doilleir a’ chraicinn
+  - tòna meadhanach a’ chraicinn
+👩🏿‍🤝‍👩🏾:
+  - boireannach
+  - boireannaich a’ glacadh air làmh a chèile
+  - 'boireannaich a’ glacadh air làmh a chèile: tòna doilleir a’ chraicinn ’s tòna
+    meadhanach doilleir a’ chraicinn'
+  - càraid
+  - dithis
+  - làmh
+  - tòna doilleir a’ chraicinn
+  - tòna meadhanach doilleir a’ chraicinn
+👭🏿:
+  - boireannach
+  - boireannaich a’ glacadh air làmh a chèile
+  - 'boireannaich a’ glacadh air làmh a chèile: tòna doilleir a’ chraicinn'
+  - càraid
+  - dithis
+  - làmh
+  - tòna doilleir a’ chraicinn
 👫:
   - boireannach
+  - boireannach is fireannach a’ gabhail làmhan a chèile
   - càraid
   - duine
   - fireannach
-  - fireannach is boireannach a’ gabhail làmhan a chèile
+  - gabhail làmhan a chèile
   - làmh
-👬:
+  - tè is fear a’ gabhail làmhan a chèile
+👫🏻:
   - boireannach
+  - boireannach is fireannach a’ gabhail làmhan a chèile
+  - càraid
+  - duine
+  - fireannach
+  - gabhail làmhan a chèile
+  - làmh
+  - tè is fear a’ gabhail làmhan a chèile
+  - 'tè is fear a’ gabhail làmhan a chèile: tòna soilleir a’ chraicinn'
+  - tòna soilleir a’ chraicinn
+👩🏻‍🤝‍👨🏼:
+  - boireannach
+  - boireannach is fireannach a’ gabhail làmhan a chèile
+  - càraid
+  - duine
+  - fireannach
+  - gabhail làmhan a chèile
+  - làmh
+  - tè is fear a’ gabhail làmhan a chèile
+  - 'tè is fear a’ gabhail làmhan a chèile: tòna soilleir a’ chraicinn ’s tòna meadhanach
+    soilleir a’ chraicinn'
+  - tòna meadhanach soilleir a’ chraicinn
+  - tòna soilleir a’ chraicinn
+👩🏻‍🤝‍👨🏽:
+  - boireannach
+  - boireannach is fireannach a’ gabhail làmhan a chèile
+  - càraid
+  - duine
+  - fireannach
+  - gabhail làmhan a chèile
+  - làmh
+  - tè is fear a’ gabhail làmhan a chèile
+  - 'tè is fear a’ gabhail làmhan a chèile: tòna soilleir a’ chraicinn ’s tòna meadhanach
+    a’ chraicinn'
+  - tòna meadhanach a’ chraicinn
+  - tòna soilleir a’ chraicinn
+👩🏻‍🤝‍👨🏾:
+  - boireannach
+  - boireannach is fireannach a’ gabhail làmhan a chèile
+  - càraid
+  - duine
+  - fireannach
+  - gabhail làmhan a chèile
+  - làmh
+  - tè is fear a’ gabhail làmhan a chèile
+  - 'tè is fear a’ gabhail làmhan a chèile: tòna soilleir a’ chraicinn ’s tòna meadhanach
+    doilleir a’ chraicinn'
+  - tòna meadhanach doilleir a’ chraicinn
+  - tòna soilleir a’ chraicinn
+👩🏻‍🤝‍👨🏿:
+  - boireannach
+  - boireannach is fireannach a’ gabhail làmhan a chèile
+  - càraid
+  - duine
+  - fireannach
+  - gabhail làmhan a chèile
+  - làmh
+  - tè is fear a’ gabhail làmhan a chèile
+  - 'tè is fear a’ gabhail làmhan a chèile: tòna soilleir a’ chraicinn ’s tòna doilleir
+    a’ chraicinn'
+  - tòna doilleir a’ chraicinn
+  - tòna soilleir a’ chraicinn
+👩🏼‍🤝‍👨🏻:
+  - boireannach
+  - boireannach is fireannach a’ gabhail làmhan a chèile
+  - càraid
+  - duine
+  - fireannach
+  - gabhail làmhan a chèile
+  - làmh
+  - tè is fear a’ gabhail làmhan a chèile
+  - 'tè is fear a’ gabhail làmhan a chèile: tòna meadhanach soilleir a’ chraicinn
+    ’s tòna soilleir a’ chraicinn'
+  - tòna meadhanach soilleir a’ chraicinn
+  - tòna soilleir a’ chraicinn
+👫🏼:
+  - boireannach
+  - boireannach is fireannach a’ gabhail làmhan a chèile
+  - càraid
+  - duine
+  - fireannach
+  - gabhail làmhan a chèile
+  - làmh
+  - tè is fear a’ gabhail làmhan a chèile
+  - 'tè is fear a’ gabhail làmhan a chèile: tòna meadhanach soilleir a’ chraicinn'
+  - tòna meadhanach soilleir a’ chraicinn
+👩🏼‍🤝‍👨🏽:
+  - boireannach
+  - boireannach is fireannach a’ gabhail làmhan a chèile
+  - càraid
+  - duine
+  - fireannach
+  - gabhail làmhan a chèile
+  - làmh
+  - tè is fear a’ gabhail làmhan a chèile
+  - 'tè is fear a’ gabhail làmhan a chèile: tòna meadhanach soilleir a’ chraicinn
+    ’s tòna meadhanach a’ chraicinn'
+  - tòna meadhanach a’ chraicinn
+  - tòna meadhanach soilleir a’ chraicinn
+👩🏼‍🤝‍👨🏾:
+  - boireannach
+  - boireannach is fireannach a’ gabhail làmhan a chèile
+  - càraid
+  - duine
+  - fireannach
+  - gabhail làmhan a chèile
+  - làmh
+  - tè is fear a’ gabhail làmhan a chèile
+  - 'tè is fear a’ gabhail làmhan a chèile: tòna meadhanach soilleir a’ chraicinn
+    ’s tòna meadhanach doilleir a’ chraicinn'
+  - tòna meadhanach doilleir a’ chraicinn
+  - tòna meadhanach soilleir a’ chraicinn
+👩🏼‍🤝‍👨🏿:
+  - boireannach
+  - boireannach is fireannach a’ gabhail làmhan a chèile
+  - càraid
+  - duine
+  - fireannach
+  - gabhail làmhan a chèile
+  - làmh
+  - tè is fear a’ gabhail làmhan a chèile
+  - 'tè is fear a’ gabhail làmhan a chèile: tòna meadhanach soilleir a’ chraicinn
+    ’s tòna doilleir a’ chraicinn'
+  - tòna doilleir a’ chraicinn
+  - tòna meadhanach soilleir a’ chraicinn
+👩🏽‍🤝‍👨🏻:
+  - boireannach
+  - boireannach is fireannach a’ gabhail làmhan a chèile
+  - càraid
+  - duine
+  - fireannach
+  - gabhail làmhan a chèile
+  - làmh
+  - tè is fear a’ gabhail làmhan a chèile
+  - 'tè is fear a’ gabhail làmhan a chèile: tòna meadhanach a’ chraicinn ’s tòna soilleir
+    a’ chraicinn'
+  - tòna meadhanach a’ chraicinn
+  - tòna soilleir a’ chraicinn
+👩🏽‍🤝‍👨🏼:
+  - boireannach
+  - boireannach is fireannach a’ gabhail làmhan a chèile
+  - càraid
+  - duine
+  - fireannach
+  - gabhail làmhan a chèile
+  - làmh
+  - tè is fear a’ gabhail làmhan a chèile
+  - 'tè is fear a’ gabhail làmhan a chèile: tòna meadhanach a’ chraicinn ’s tòna meadhanach
+    soilleir a’ chraicinn'
+  - tòna meadhanach a’ chraicinn
+  - tòna meadhanach soilleir a’ chraicinn
+👫🏽:
+  - boireannach
+  - boireannach is fireannach a’ gabhail làmhan a chèile
+  - càraid
+  - duine
+  - fireannach
+  - gabhail làmhan a chèile
+  - làmh
+  - tè is fear a’ gabhail làmhan a chèile
+  - 'tè is fear a’ gabhail làmhan a chèile: tòna meadhanach a’ chraicinn'
+  - tòna meadhanach a’ chraicinn
+👩🏽‍🤝‍👨🏾:
+  - boireannach
+  - boireannach is fireannach a’ gabhail làmhan a chèile
+  - càraid
+  - duine
+  - fireannach
+  - gabhail làmhan a chèile
+  - làmh
+  - tè is fear a’ gabhail làmhan a chèile
+  - 'tè is fear a’ gabhail làmhan a chèile: tòna meadhanach a’ chraicinn ’s tòna meadhanach
+    doilleir a’ chraicinn'
+  - tòna meadhanach a’ chraicinn
+  - tòna meadhanach doilleir a’ chraicinn
+👩🏽‍🤝‍👨🏿:
+  - boireannach
+  - boireannach is fireannach a’ gabhail làmhan a chèile
+  - càraid
+  - duine
+  - fireannach
+  - gabhail làmhan a chèile
+  - làmh
+  - tè is fear a’ gabhail làmhan a chèile
+  - 'tè is fear a’ gabhail làmhan a chèile: tòna meadhanach a’ chraicinn ’s tòna doilleir
+    a’ chraicinn'
+  - tòna doilleir a’ chraicinn
+  - tòna meadhanach a’ chraicinn
+👩🏾‍🤝‍👨🏻:
+  - boireannach
+  - boireannach is fireannach a’ gabhail làmhan a chèile
+  - càraid
+  - duine
+  - fireannach
+  - gabhail làmhan a chèile
+  - làmh
+  - tè is fear a’ gabhail làmhan a chèile
+  - 'tè is fear a’ gabhail làmhan a chèile: tòna meadhanach doilleir a’ chraicinn
+    ’s tòna soilleir a’ chraicinn'
+  - tòna meadhanach doilleir a’ chraicinn
+  - tòna soilleir a’ chraicinn
+👩🏾‍🤝‍👨🏼:
+  - boireannach
+  - boireannach is fireannach a’ gabhail làmhan a chèile
+  - càraid
+  - duine
+  - fireannach
+  - gabhail làmhan a chèile
+  - làmh
+  - tè is fear a’ gabhail làmhan a chèile
+  - 'tè is fear a’ gabhail làmhan a chèile: tòna meadhanach doilleir a’ chraicinn
+    ’s tòna meadhanach soilleir a’ chraicinn'
+  - tòna meadhanach doilleir a’ chraicinn
+  - tòna meadhanach soilleir a’ chraicinn
+👩🏾‍🤝‍👨🏽:
+  - boireannach
+  - boireannach is fireannach a’ gabhail làmhan a chèile
+  - càraid
+  - duine
+  - fireannach
+  - gabhail làmhan a chèile
+  - làmh
+  - tè is fear a’ gabhail làmhan a chèile
+  - 'tè is fear a’ gabhail làmhan a chèile: tòna meadhanach doilleir a’ chraicinn
+    ’s tòna meadhanach a’ chraicinn'
+  - tòna meadhanach a’ chraicinn
+  - tòna meadhanach doilleir a’ chraicinn
+👫🏾:
+  - boireannach
+  - boireannach is fireannach a’ gabhail làmhan a chèile
+  - càraid
+  - duine
+  - fireannach
+  - gabhail làmhan a chèile
+  - làmh
+  - tè is fear a’ gabhail làmhan a chèile
+  - 'tè is fear a’ gabhail làmhan a chèile: tòna meadhanach doilleir a’ chraicinn'
+  - tòna meadhanach doilleir a’ chraicinn
+👩🏾‍🤝‍👨🏿:
+  - boireannach
+  - boireannach is fireannach a’ gabhail làmhan a chèile
+  - càraid
+  - duine
+  - fireannach
+  - gabhail làmhan a chèile
+  - làmh
+  - tè is fear a’ gabhail làmhan a chèile
+  - 'tè is fear a’ gabhail làmhan a chèile: tòna meadhanach doilleir a’ chraicinn
+    ’s tòna doilleir a’ chraicinn'
+  - tòna doilleir a’ chraicinn
+  - tòna meadhanach doilleir a’ chraicinn
+👩🏿‍🤝‍👨🏻:
+  - boireannach
+  - boireannach is fireannach a’ gabhail làmhan a chèile
+  - càraid
+  - duine
+  - fireannach
+  - gabhail làmhan a chèile
+  - làmh
+  - tè is fear a’ gabhail làmhan a chèile
+  - 'tè is fear a’ gabhail làmhan a chèile: tòna doilleir a’ chraicinn ’s tòna soilleir
+    a’ chraicinn'
+  - tòna doilleir a’ chraicinn
+  - tòna soilleir a’ chraicinn
+👩🏿‍🤝‍👨🏼:
+  - boireannach
+  - boireannach is fireannach a’ gabhail làmhan a chèile
+  - càraid
+  - duine
+  - fireannach
+  - gabhail làmhan a chèile
+  - làmh
+  - tè is fear a’ gabhail làmhan a chèile
+  - 'tè is fear a’ gabhail làmhan a chèile: tòna doilleir a’ chraicinn ’s tòna meadhanach
+    soilleir a’ chraicinn'
+  - tòna doilleir a’ chraicinn
+  - tòna meadhanach soilleir a’ chraicinn
+👩🏿‍🤝‍👨🏽:
+  - boireannach
+  - boireannach is fireannach a’ gabhail làmhan a chèile
+  - càraid
+  - duine
+  - fireannach
+  - gabhail làmhan a chèile
+  - làmh
+  - tè is fear a’ gabhail làmhan a chèile
+  - 'tè is fear a’ gabhail làmhan a chèile: tòna doilleir a’ chraicinn ’s tòna meadhanach
+    a’ chraicinn'
+  - tòna doilleir a’ chraicinn
+  - tòna meadhanach a’ chraicinn
+👩🏿‍🤝‍👨🏾:
+  - boireannach
+  - boireannach is fireannach a’ gabhail làmhan a chèile
+  - càraid
+  - duine
+  - fireannach
+  - gabhail làmhan a chèile
+  - làmh
+  - tè is fear a’ gabhail làmhan a chèile
+  - 'tè is fear a’ gabhail làmhan a chèile: tòna doilleir a’ chraicinn ’s tòna meadhanach
+    doilleir a’ chraicinn'
+  - tòna doilleir a’ chraicinn
+  - tòna meadhanach doilleir a’ chraicinn
+👫🏿:
+  - boireannach
+  - boireannach is fireannach a’ gabhail làmhan a chèile
+  - càraid
+  - duine
+  - fireannach
+  - gabhail làmhan a chèile
+  - làmh
+  - tè is fear a’ gabhail làmhan a chèile
+  - 'tè is fear a’ gabhail làmhan a chèile: tòna doilleir a’ chraicinn'
+  - tòna doilleir a’ chraicinn
+👬:
   - caigeann
   - càraid
   - dithis
-  - dithis fhireannach a’ glacadh air làmh a chèile
   - duine
   - fireannach
+  - fireannaich
+  - fireannaich a’ glacadh air làmh a chèile
   - gaolag
   - gemini
   - grian-chriosach
   - gràdhag
   - leth-aon
   - làmh
+👬🏻:
+  - caigeann
+  - càraid
+  - dithis
+  - duine
+  - fireannach
+  - fireannaich
+  - fireannaich a’ glacadh air làmh a chèile
+  - 'fireannaich a’ glacadh air làmh a chèile: tòna soilleir a’ chraicinn'
+  - gaolag
+  - gemini
+  - grian-chriosach
+  - gràdhag
+  - leth-aon
+  - làmh
+  - tòna soilleir a’ chraicinn
+👨🏻‍🤝‍👨🏼:
+  - caigeann
+  - càraid
+  - dithis
+  - duine
+  - fireannach
+  - fireannaich
+  - fireannaich a’ glacadh air làmh a chèile
+  - 'fireannaich a’ glacadh air làmh a chèile: tòna soilleir a’ chraicinn ’s tòna
+    meadhanach soilleir a’ chraicinn'
+  - gaolag
+  - gemini
+  - grian-chriosach
+  - gràdhag
+  - leth-aon
+  - làmh
+  - tòna meadhanach soilleir a’ chraicinn
+  - tòna soilleir a’ chraicinn
+👨🏻‍🤝‍👨🏽:
+  - caigeann
+  - càraid
+  - dithis
+  - duine
+  - fireannach
+  - fireannaich
+  - fireannaich a’ glacadh air làmh a chèile
+  - 'fireannaich a’ glacadh air làmh a chèile: tòna soilleir a’ chraicinn ’s tòna
+    meadhanach a’ chraicinn'
+  - gaolag
+  - gemini
+  - grian-chriosach
+  - gràdhag
+  - leth-aon
+  - làmh
+  - tòna meadhanach a’ chraicinn
+  - tòna soilleir a’ chraicinn
+👨🏻‍🤝‍👨🏾:
+  - caigeann
+  - càraid
+  - dithis
+  - duine
+  - fireannach
+  - fireannaich
+  - fireannaich a’ glacadh air làmh a chèile
+  - 'fireannaich a’ glacadh air làmh a chèile: tòna soilleir a’ chraicinn ’s tòna
+    meadhanach doilleir a’ chraicinn'
+  - gaolag
+  - gemini
+  - grian-chriosach
+  - gràdhag
+  - leth-aon
+  - làmh
+  - tòna meadhanach doilleir a’ chraicinn
+  - tòna soilleir a’ chraicinn
+👨🏻‍🤝‍👨🏿:
+  - caigeann
+  - càraid
+  - dithis
+  - duine
+  - fireannach
+  - fireannaich
+  - fireannaich a’ glacadh air làmh a chèile
+  - 'fireannaich a’ glacadh air làmh a chèile: tòna soilleir a’ chraicinn ’s tòna
+    doilleir a’ chraicinn'
+  - gaolag
+  - gemini
+  - grian-chriosach
+  - gràdhag
+  - leth-aon
+  - làmh
+  - tòna doilleir a’ chraicinn
+  - tòna soilleir a’ chraicinn
+👨🏼‍🤝‍👨🏻:
+  - caigeann
+  - càraid
+  - dithis
+  - duine
+  - fireannach
+  - fireannaich
+  - fireannaich a’ glacadh air làmh a chèile
+  - 'fireannaich a’ glacadh air làmh a chèile: tòna meadhanach soilleir a’ chraicinn
+    ’s tòna soilleir a’ chraicinn'
+  - gaolag
+  - gemini
+  - grian-chriosach
+  - gràdhag
+  - leth-aon
+  - làmh
+  - tòna meadhanach soilleir a’ chraicinn
+  - tòna soilleir a’ chraicinn
+👬🏼:
+  - caigeann
+  - càraid
+  - dithis
+  - duine
+  - fireannach
+  - fireannaich
+  - fireannaich a’ glacadh air làmh a chèile
+  - 'fireannaich a’ glacadh air làmh a chèile: tòna meadhanach soilleir a’ chraicinn'
+  - gaolag
+  - gemini
+  - grian-chriosach
+  - gràdhag
+  - leth-aon
+  - làmh
+  - tòna meadhanach soilleir a’ chraicinn
+👨🏼‍🤝‍👨🏽:
+  - caigeann
+  - càraid
+  - dithis
+  - duine
+  - fireannach
+  - fireannaich
+  - fireannaich a’ glacadh air làmh a chèile
+  - 'fireannaich a’ glacadh air làmh a chèile: tòna meadhanach soilleir a’ chraicinn
+    ’s tòna meadhanach a’ chraicinn'
+  - gaolag
+  - gemini
+  - grian-chriosach
+  - gràdhag
+  - leth-aon
+  - làmh
+  - tòna meadhanach a’ chraicinn
+  - tòna meadhanach soilleir a’ chraicinn
+👨🏼‍🤝‍👨🏾:
+  - caigeann
+  - càraid
+  - dithis
+  - duine
+  - fireannach
+  - fireannaich
+  - fireannaich a’ glacadh air làmh a chèile
+  - 'fireannaich a’ glacadh air làmh a chèile: tòna meadhanach soilleir a’ chraicinn
+    ’s tòna meadhanach doilleir a’ chraicinn'
+  - gaolag
+  - gemini
+  - grian-chriosach
+  - gràdhag
+  - leth-aon
+  - làmh
+  - tòna meadhanach doilleir a’ chraicinn
+  - tòna meadhanach soilleir a’ chraicinn
+👨🏼‍🤝‍👨🏿:
+  - caigeann
+  - càraid
+  - dithis
+  - duine
+  - fireannach
+  - fireannaich
+  - fireannaich a’ glacadh air làmh a chèile
+  - 'fireannaich a’ glacadh air làmh a chèile: tòna meadhanach soilleir a’ chraicinn
+    ’s tòna doilleir a’ chraicinn'
+  - gaolag
+  - gemini
+  - grian-chriosach
+  - gràdhag
+  - leth-aon
+  - làmh
+  - tòna doilleir a’ chraicinn
+  - tòna meadhanach soilleir a’ chraicinn
+👨🏽‍🤝‍👨🏻:
+  - caigeann
+  - càraid
+  - dithis
+  - duine
+  - fireannach
+  - fireannaich
+  - fireannaich a’ glacadh air làmh a chèile
+  - 'fireannaich a’ glacadh air làmh a chèile: tòna meadhanach a’ chraicinn ’s tòna
+    soilleir a’ chraicinn'
+  - gaolag
+  - gemini
+  - grian-chriosach
+  - gràdhag
+  - leth-aon
+  - làmh
+  - tòna meadhanach a’ chraicinn
+  - tòna soilleir a’ chraicinn
+👨🏽‍🤝‍👨🏼:
+  - caigeann
+  - càraid
+  - dithis
+  - duine
+  - fireannach
+  - fireannaich
+  - fireannaich a’ glacadh air làmh a chèile
+  - 'fireannaich a’ glacadh air làmh a chèile: tòna meadhanach a’ chraicinn ’s tòna
+    meadhanach soilleir a’ chraicinn'
+  - gaolag
+  - gemini
+  - grian-chriosach
+  - gràdhag
+  - leth-aon
+  - làmh
+  - tòna meadhanach a’ chraicinn
+  - tòna meadhanach soilleir a’ chraicinn
+👬🏽:
+  - caigeann
+  - càraid
+  - dithis
+  - duine
+  - fireannach
+  - fireannaich
+  - fireannaich a’ glacadh air làmh a chèile
+  - 'fireannaich a’ glacadh air làmh a chèile: tòna meadhanach a’ chraicinn'
+  - gaolag
+  - gemini
+  - grian-chriosach
+  - gràdhag
+  - leth-aon
+  - làmh
+  - tòna meadhanach a’ chraicinn
+👨🏽‍🤝‍👨🏾:
+  - caigeann
+  - càraid
+  - dithis
+  - duine
+  - fireannach
+  - fireannaich
+  - fireannaich a’ glacadh air làmh a chèile
+  - 'fireannaich a’ glacadh air làmh a chèile: tòna meadhanach a’ chraicinn ’s tòna
+    meadhanach doilleir a’ chraicinn'
+  - gaolag
+  - gemini
+  - grian-chriosach
+  - gràdhag
+  - leth-aon
+  - làmh
+  - tòna meadhanach a’ chraicinn
+  - tòna meadhanach doilleir a’ chraicinn
+👨🏽‍🤝‍👨🏿:
+  - caigeann
+  - càraid
+  - dithis
+  - duine
+  - fireannach
+  - fireannaich
+  - fireannaich a’ glacadh air làmh a chèile
+  - 'fireannaich a’ glacadh air làmh a chèile: tòna meadhanach a’ chraicinn ’s tòna
+    doilleir a’ chraicinn'
+  - gaolag
+  - gemini
+  - grian-chriosach
+  - gràdhag
+  - leth-aon
+  - làmh
+  - tòna doilleir a’ chraicinn
+  - tòna meadhanach a’ chraicinn
+👨🏾‍🤝‍👨🏻:
+  - caigeann
+  - càraid
+  - dithis
+  - duine
+  - fireannach
+  - fireannaich
+  - fireannaich a’ glacadh air làmh a chèile
+  - 'fireannaich a’ glacadh air làmh a chèile: tòna meadhanach doilleir a’ chraicinn
+    ’s tòna soilleir a’ chraicinn'
+  - gaolag
+  - gemini
+  - grian-chriosach
+  - gràdhag
+  - leth-aon
+  - làmh
+  - tòna meadhanach doilleir a’ chraicinn
+  - tòna soilleir a’ chraicinn
+👨🏾‍🤝‍👨🏼:
+  - caigeann
+  - càraid
+  - dithis
+  - duine
+  - fireannach
+  - fireannaich
+  - fireannaich a’ glacadh air làmh a chèile
+  - 'fireannaich a’ glacadh air làmh a chèile: tòna meadhanach doilleir a’ chraicinn
+    ’s tòna meadhanach soilleir a’ chraicinn'
+  - gaolag
+  - gemini
+  - grian-chriosach
+  - gràdhag
+  - leth-aon
+  - làmh
+  - tòna meadhanach doilleir a’ chraicinn
+  - tòna meadhanach soilleir a’ chraicinn
+👨🏾‍🤝‍👨🏽:
+  - caigeann
+  - càraid
+  - dithis
+  - duine
+  - fireannach
+  - fireannaich
+  - fireannaich a’ glacadh air làmh a chèile
+  - 'fireannaich a’ glacadh air làmh a chèile: tòna meadhanach doilleir a’ chraicinn
+    ’s tòna meadhanach a’ chraicinn'
+  - gaolag
+  - gemini
+  - grian-chriosach
+  - gràdhag
+  - leth-aon
+  - làmh
+  - tòna meadhanach a’ chraicinn
+  - tòna meadhanach doilleir a’ chraicinn
+👬🏾:
+  - caigeann
+  - càraid
+  - dithis
+  - duine
+  - fireannach
+  - fireannaich
+  - fireannaich a’ glacadh air làmh a chèile
+  - 'fireannaich a’ glacadh air làmh a chèile: tòna meadhanach doilleir a’ chraicinn'
+  - gaolag
+  - gemini
+  - grian-chriosach
+  - gràdhag
+  - leth-aon
+  - làmh
+  - tòna meadhanach doilleir a’ chraicinn
+👨🏾‍🤝‍👨🏿:
+  - caigeann
+  - càraid
+  - dithis
+  - duine
+  - fireannach
+  - fireannaich
+  - fireannaich a’ glacadh air làmh a chèile
+  - 'fireannaich a’ glacadh air làmh a chèile: tòna meadhanach doilleir a’ chraicinn
+    ’s tòna doilleir a’ chraicinn'
+  - gaolag
+  - gemini
+  - grian-chriosach
+  - gràdhag
+  - leth-aon
+  - làmh
+  - tòna doilleir a’ chraicinn
+  - tòna meadhanach doilleir a’ chraicinn
+👨🏿‍🤝‍👨🏻:
+  - caigeann
+  - càraid
+  - dithis
+  - duine
+  - fireannach
+  - fireannaich
+  - fireannaich a’ glacadh air làmh a chèile
+  - 'fireannaich a’ glacadh air làmh a chèile: tòna doilleir a’ chraicinn ’s tòna
+    soilleir a’ chraicinn'
+  - gaolag
+  - gemini
+  - grian-chriosach
+  - gràdhag
+  - leth-aon
+  - làmh
+  - tòna doilleir a’ chraicinn
+  - tòna soilleir a’ chraicinn
+👨🏿‍🤝‍👨🏼:
+  - caigeann
+  - càraid
+  - dithis
+  - duine
+  - fireannach
+  - fireannaich
+  - fireannaich a’ glacadh air làmh a chèile
+  - 'fireannaich a’ glacadh air làmh a chèile: tòna doilleir a’ chraicinn ’s tòna
+    meadhanach soilleir a’ chraicinn'
+  - gaolag
+  - gemini
+  - grian-chriosach
+  - gràdhag
+  - leth-aon
+  - làmh
+  - tòna doilleir a’ chraicinn
+  - tòna meadhanach soilleir a’ chraicinn
+👨🏿‍🤝‍👨🏽:
+  - caigeann
+  - càraid
+  - dithis
+  - duine
+  - fireannach
+  - fireannaich
+  - fireannaich a’ glacadh air làmh a chèile
+  - 'fireannaich a’ glacadh air làmh a chèile: tòna doilleir a’ chraicinn ’s tòna
+    meadhanach a’ chraicinn'
+  - gaolag
+  - gemini
+  - grian-chriosach
+  - gràdhag
+  - leth-aon
+  - làmh
+  - tòna doilleir a’ chraicinn
+  - tòna meadhanach a’ chraicinn
+👨🏿‍🤝‍👨🏾:
+  - caigeann
+  - càraid
+  - dithis
+  - duine
+  - fireannach
+  - fireannaich
+  - fireannaich a’ glacadh air làmh a chèile
+  - 'fireannaich a’ glacadh air làmh a chèile: tòna doilleir a’ chraicinn ’s tòna
+    meadhanach doilleir a’ chraicinn'
+  - gaolag
+  - gemini
+  - grian-chriosach
+  - gràdhag
+  - leth-aon
+  - làmh
+  - tòna doilleir a’ chraicinn
+  - tòna meadhanach doilleir a’ chraicinn
+👬🏿:
+  - caigeann
+  - càraid
+  - dithis
+  - duine
+  - fireannach
+  - fireannaich
+  - fireannaich a’ glacadh air làmh a chèile
+  - 'fireannaich a’ glacadh air làmh a chèile: tòna doilleir a’ chraicinn'
+  - gaolag
+  - gemini
+  - grian-chriosach
+  - gràdhag
+  - leth-aon
+  - làmh
+  - tòna doilleir a’ chraicinn
 💏:
   - càraid
   - pòg
@@ -11982,6 +15416,13 @@
   - sgàil-riochd
   - silhouette
   - silhouette de chuim
+🫂:
+  - caidir
+  - caidreabh
+  - dealachadh
+  - fàilte
+  - soraidh slàn
+  - taing
 👣:
   - aodach
   - lorg
@@ -12021,6 +15462,10 @@
 🦍:
   - goiriola
   - muncaidh
+🦧:
+  - apa
+  - muncaidh
+  - orangutan
 🐶:
   - aodainn coin
   - aodann
@@ -12029,16 +15474,31 @@
 🐕️:
   - cù
   - peata
+🦮:
+  - cù
+  - cù-iùil
+  - dall
+  - doille
+  - iùl
+  - so-ruigsinneachd
+  - stiùireadh
+  - treòir
+  - treòiriche
+  - treòrachadh
+🐕‍🦺:
+  - cù
+  - cù-taice
+  - seirbheis
+  - so-ruigsinneachd
+  - taic
 🐩:
   - cù
   - poodle
 🐺:
   - aodann
-  - aodann madaidh-allaidh
   - madadh-allaidh
 🦊:
   - aodann
-  - aodann madaidh-ruaidh
   - madadh-ruadh
   - sionnach
 🦝:
@@ -12056,9 +15516,15 @@
 🐈️:
   - cat
   - peata
+🐈‍⬛:
+  - cat
+  - cat dubh
+  - droch-fhortan
+  - dubh
+  - mì-shealbh
+  - mì-àgh
 🦁:
   - aodann
-  - aodann leòmhainn
   - grian-chriosach
   - leo
   - leòmhann
@@ -12081,7 +15547,6 @@
   - rèis
 🦄:
   - aodann
-  - aodann aon-adharcaich
   - aon-adharcach
 🦓:
   - stiall
@@ -12090,6 +15555,12 @@
   - sìobra
 🦌:
   - fiadh
+🦬:
+  - buabhall
+  - bufalair
+  - bìoson
+  - tarbh-allaidh
+  - treud
 🐮:
   - aodann
   - aodann bà
@@ -12167,6 +15638,15 @@
   - sioraf
 🐘:
   - ailbhean
+🦣:
+  - clòimheach
+  - clùmhach
+  - clùmhaidh
+  - dìtheachd
+  - mamot
+  - mòr
+  - tosg
+  - à bith
 🦏:
   - sròn-adharcach
 🦛:
@@ -12183,7 +15663,6 @@
   - radan
 🐹:
   - aodann
-  - aodann hamstair
   - hamstair
   - peata
 🐰:
@@ -12199,6 +15678,12 @@
 🐿️:
   - chipmunk
   - feòrag-stiallach
+🦫:
+  - beabhar
+  - beathadach
+  - bìobhair
+  - dama
+  - dobhar-chù
 🦔:
   - bior
   - biorach
@@ -12213,16 +15698,33 @@
   - ialtag-fhala
 🐻:
   - aodann
-  - aodann mathain
   - mathan
+🐻‍❄:
+  - Artach
+  - bàn
+  - mathan
+  - mathan-bàn
 🐨:
   - koala
   - mathan
 🐼:
   - aodann
-  - aodann panda
-  - mathan
   - panda
+🦥:
+  - leisg
+  - lunndaire-craoibhe
+  - mall
+  - slaodach
+🦦:
+  - cleasach
+  - dòbhran
+  - iasgach
+  - iasgaich
+🦨:
+  - boladh
+  - droch-bholadh
+  - tùd
+  - tùdair-stiallach
 🦘:
   - Astràilia
   - cangaru
@@ -12298,6 +15800,24 @@
   - cailleach-oidhche
   - eun
   - glic
+🦤:
+  - Mhoiriseas
+  - Moiriseas
+  - dìtheachd
+  - dòdo
+  - marbh
+  - mòr
+  - à bith
+🪶:
+  - aotrom
+  - eun
+  - ite
+  - itealadh
+  - sgiathadh
+🦩:
+  - flamingo
+  - spaideil
+  - tropaigeach
 🦚:
   - eucag
   - eun
@@ -12314,7 +15834,6 @@
   - spùinneadair
 🐸:
   - aodann
-  - aodann losgainn
   - losgann
 🐊:
   - crogall
@@ -12359,6 +15878,9 @@
 🐬:
   - leumadair
   - leumadair-mara
+🦭:
+  - leòmhann-mara
+  - ròn
 🐟️:
   - grian-chriosach
   - iasg
@@ -12414,6 +15936,12 @@
   - fiolan
   - meanbh-fhrìde
   - seillean
+🪲:
+  - biastag
+  - bèisteag
+  - daolag
+  - fiolan
+  - meanbh-fhrìde
 🐞:
   - biastag
   - bèisteag
@@ -12427,6 +15955,14 @@
   - greollan
   - leumadair-uaine
   - srannan
+🪳:
+  - biastag
+  - bèisteag
+  - càrnan-gallda
+  - daolag
+  - fiolan
+  - meanbh-fhrìde
+  - plàigh
 🕷️:
   - biastag
   - bèisteag
@@ -12450,6 +15986,24 @@
   - galar
   - mailèiria
   - mosgaid
+🪰:
+  - biastag
+  - cnuimheag
+  - cuileag
+  - galar
+  - grod
+  - grodadh
+  - plàigh
+🪱:
+  - biathag
+  - cnuimh
+  - cnuimh-talmhainn
+  - daolag
+  - dealt-dhaolag
+  - faoighiche
+  - frithlisg
+  - lobach
+  - parasait
 🦠:
   - amoeba
   - bacterium
@@ -12497,6 +16051,16 @@
 🌱:
   - sìolag
   - òg
+🪴:
+  - altram
+  - altramadh
+  - dòrainneach
+  - fàs
+  - gun fheum
+  - lus
+  - lus ann am poit
+  - ràsanach
+  - taigh
 🌲:
   - craobh
   - craobh sìor-uaine
@@ -12600,6 +16164,16 @@
   - meas
   - sùbh
   - sùbh-làir
+🫐:
+  - braoileag
+  - dearc
+  - dearc-choille
+  - dearc-ghorm
+  - dearcan-gorma
+  - fraochag
+  - fraochan
+  - gorm
+  - mòineag
 🥝:
   - biadh
   - kiwi
@@ -12609,6 +16183,9 @@
   - glasraich
   - meas
   - tomàto
+🫒:
+  - biadh
+  - dearc-ola
 🥥:
   - cnò-chòco
   - pailm
@@ -12637,6 +16214,10 @@
   - piobar
   - piobar-teth
   - teth
+🫑:
+  - glasraich
+  - piobar
+  - piobar-milis
 🥒:
   - biadh
   - cularan
@@ -12650,6 +16231,14 @@
 🥦:
   - brocail
   - càl
+🧄:
+  - blas
+  - blasachadh
+  - creamh
+🧅:
+  - blas
+  - blasachadh
+  - uinnean
 🍄:
   - balgan-buachair
   - balgan-buachrach
@@ -12678,6 +16267,12 @@
   - baguette
   - biadh
   - frangach
+🫓:
+  - aran-rèidh
+  - arepa
+  - lavash
+  - naan
+  - pita
 🥨:
   - pretzel
   - toinnte
@@ -12690,6 +16285,13 @@
   - breacagan
   - crêpe
   - foileag
+🧇:
+  - baoth-chòmhradh
+  - bleadraich
+  - iarrann
+  - neo-chinnteach
+  - riachdalach
+  - waffle
 🧀:
   - càise
   - staoig càise
@@ -12740,6 +16342,10 @@
   - burrito
   - meagsagach
   - wrap
+🫔:
+  - Meagsagach
+  - paisgte
+  - tamale
 🥙:
   - aran rèidh
   - aran rèidh lìonta
@@ -12748,6 +16354,11 @@
   - gyro
   - kebab
   - lìonta
+🧆:
+  - bàla-feòla
+  - cearc-pheasair
+  - cic-pheasair
+  - falafel
 🥚:
   - biadh
   - ugh
@@ -12767,6 +16378,15 @@
   - poit
   - poit le biadh
   - stiubha
+🫕:
+  - Eilbheiseach
+  - càise
+  - fondue
+  - leaghta
+  - leaghte
+  - poit
+  - seoclaid
+  - teòclaid
 🥣:
   - bobhla le spàin
   - bracaist
@@ -12778,6 +16398,14 @@
   - uaine
 🍿:
   - popcorn
+🧈:
+  - bainne
+  - bathar-bainne
+  - biadh-bainne
+  - bà
+  - bò
+  - ìm
+  - ùrachd na bà
 🧂:
   - abhlan
   - alltann
@@ -12897,6 +16525,11 @@
   - biadh
   - gibearnach
   - moileasg
+🦪:
+  - daibheadh
+  - daoibhigeadh
+  - eisir
+  - neamhnaid
 🍦:
   - bog
   - milis
@@ -12992,6 +16625,13 @@
   - teatha
   - teth
   - tì
+🫖:
+  - poit
+  - poit-teatha
+  - poit-tì
+  - teatha
+  - tì
+  - òl
 🍵:
   - cupa
   - cupa-tì gun chluas
@@ -13069,6 +16709,34 @@
   - cupa le stràbh
   - sòda
   - sùgh
+🧋:
+  - bainne
+  - builgean
+  - teatha
+  - tì
+  - tì builgein
+🧃:
+  - bogsa
+  - carton
+  - carton dighe
+  - deoch
+  - sùgh
+🧉:
+  - deoch
+  - mate
+  - teatha
+  - tì
+  - tì mate
+🧊:
+  - beinn-deighe
+  - beinn-eighe
+  - ciùb deighe
+  - cnoc-deighe
+  - cnoc-eighre
+  - deig
+  - eigh
+  - eigh-bheinn
+  - fuar
 🥢:
   - bioran-ithe
   - hashi
@@ -13111,6 +16779,7 @@
   - cruinne
   - globa
   - globa a’ sealltainn an Roinn-Eòrpa agus Afraga
+  - globa a’ sealltainn an Roinn-Eòrpa ’s Afraga
   - roinn-eòrpa
   - saoghal
   - talamh
@@ -13126,6 +16795,7 @@
   - cruinne
   - globa
   - globa a’ sealltainn Àisia agus Astràilia
+  - globa a’ sealltainn Àisia ’s Astràilia
   - saoghal
   - talamh
   - àisia
@@ -13199,6 +16869,24 @@
   - breige
   - breigichean
   - criadh
+🪨:
+  - clach
+  - creag
+  - cruaidh
+  - trom
+  - ulbhag
+  - ulpag
+🪵:
+  - fiod
+  - fiodh
+  - loga
+  - maide
+🛖:
+  - bothan
+  - cruinn
+  - taigh
+  - taigh-cruinn
+  - yurt
 🏘️:
   - taighean
 🏚️:
@@ -13290,6 +16978,10 @@
   - ioslam
   - mosg
   - muslamach
+🛕:
+  - Hionduthach
+  - teampall
+  - teampall Hionduthach
 🕍:
   - creideamh
   - iùdhach
@@ -13506,6 +17198,11 @@
   - cleasachail
   - sport utility vehicle
   - suv
+🛻:
+  - pick-up
+  - pickup
+  - truca
+  - truca pickup
 🚚:
   - làraidh
   - làraidh-lìbhrigidh
@@ -13531,6 +17228,17 @@
   - motair
   - sgùtair
   - sgùtair-motair
+🦽:
+  - cathair-chuibhle a làimh
+  - so-ruigsinneachd
+🦼:
+  - cathair-chuibhle le einnsein
+  - so-ruigsinneachd
+🛺:
+  - càr
+  - càr-rickshaw
+  - rickshaw
+  - tuk tuk
 🚲️:
   - baic
   - baidhg
@@ -13543,6 +17251,11 @@
 🛹:
   - bòrd
   - spèileabord
+🛼:
+  - bròg ròla-spèilidh
+  - bròg-spèilidh
+  - ròla
+  - spèileadh
 🚏:
   - bus
   - stad
@@ -13645,6 +17358,10 @@
   - plèana
   - ruigsinn
   - ruigsinn itealain
+🪂:
+  - daibheadh-speura
+  - daoibhigeadh-adhair
+  - paraisiut
 💺:
   - cathair
   - suidheachan
@@ -14068,6 +17785,13 @@
   - a’ ghrian le aodann oirre
   - grian
   - soilleir
+🪐:
+  - Rionnag nan Roth
+  - Sathairn
+  - gruamach
+  - planaid fhàinneach
+  - satarn
+  - saturn
 ⭐️:
   - reul
   - rionnag
@@ -14493,6 +18217,13 @@
   - iasg
   - slat
   - slat-iasgaich
+🤿:
+  - daibheadh
+  - daoibhigeadh
+  - mask-daoibhigidh
+  - scuba
+  - snorgal
+  - snorgaladh
 🎽:
   - bann
   - lèine
@@ -14519,6 +18250,20 @@
   - san teis-mheadhan
   - sgiathag
   - targaid
+🪀:
+  - atharrachadh
+  - atharraich
+  - dèideag
+  - luaisg
+  - luasgadh
+  - yo-yo
+🪁:
+  - itealach
+  - itealag
+  - itealaich
+  - sgait-adhair
+  - sgiathadh
+  - sgiathaich
 🎱:
   - '8'
   - ball
@@ -14538,6 +18283,12 @@
   - faoinsgeul
   - fortan
   - inneal
+🪄:
+  - bana-bhuidseach
+  - buidseach
+  - draoidh
+  - draoidheachd
+  - slatan-draoidheachd
 🧿:
   - droch-shùil
   - eòlas
@@ -14564,7 +18315,9 @@
   - dìsnean
   - geama
 🧩:
+  - aisneis
   - co-cheangailte
+  - faisneis
   - mìrean-measgaichte
   - pìos
   - tuairmse
@@ -14574,6 +18327,16 @@
   - dèideag
   - dèideag bhog
   - teadaidh
+🪅:
+  - comharrachadh
+  - cèilidh
+  - piñata
+  - pàrtaidh
+🪆:
+  - Ruiseanach
+  - am broinn a chèile
+  - doileag
+  - doileagan matryoshka
 ♠️:
   - cairt
   - dath speura
@@ -14642,6 +18405,12 @@
   - snìomh
   - snìomhan
   - spàl
+🪡:
+  - druine
+  - fuaigheal
+  - greus
+  - grèis
+  - snàthad
 🧶:
   - cearta
   - ceirle
@@ -14651,6 +18420,15 @@
   - figh
   - fighe
   - snàth
+🪢:
+  - fiar
+  - naisg
+  - nasgadh
+  - ròpa
+  - snaidhm
+  - snìomh
+  - suain
+  - toinn
 👓️:
   - aodach
   - speuclairean
@@ -14672,6 +18450,11 @@
   - dotair
   - ollamh
   - saidheans
+🦺:
+  - peiteag
+  - sàbhailteachd
+  - èideadh sàbhailteachd
+  - èiginn
 👔:
   - aodach
   - tàidh
@@ -14701,6 +18484,22 @@
 👘:
   - aodach
   - kimono
+🥻:
+  - aodach
+  - dreasa
+  - sari
+🩱:
+  - deise-shnàimh
+  - snàmh
+🩲:
+  - briogais-shnàimh
+  - deise-snàmh
+  - fo-aodach
+🩳:
+  - briogais-ghlùine
+  - briogais-shnàimh
+  - deise-snàmh
+  - fo-aodach
 👙:
   - aodach
   - bikini
@@ -14735,6 +18534,11 @@
   - baga-droma sgoile
   - màla
   - sgoil
+🩴:
+  - cuaran
+  - cuaran-èill
+  - iall
+  - zōri
 👞:
   - aodach
   - bròg
@@ -14773,6 +18577,11 @@
   - cuaran
   - cuaran boireannaich
   - sandal
+🩰:
+  - baileat
+  - ballet
+  - brògan ballet
+  - dannsa
 👢:
   - aodach
   - boireannach
@@ -14805,6 +18614,14 @@
   - ball-bheusa
   - bonaid bhileach
   - bonaid buill-bheusa
+🪖:
+  - arm
+  - clogaid
+  - clogaid airm
+  - cogadh
+  - feachd
+  - gaisgeach
+  - saighdear
 ⛑️:
   - ad
   - aodann
@@ -14840,14 +18657,17 @@
 🔈️:
   - fuaim
   - glaodhaire a’ cur a-mach fuaim ìseal
+  - glaodhaire ’s fhuaim ìseal
   - ìseal
 🔉:
   - fuaim
   - glaodhaire a’ cur a-mach fuaim mheadhanach
+  - glaodhaire ’s fhuaim mheadhanach
   - meadhanach
 🔊:
   - fuaim
   - glaodhaire a’ cur a-mach fuaim àrd
+  - glaodhaire ’s fhuaim àrd
   - àrd
 📢:
   - fuaim
@@ -14920,6 +18740,10 @@
   - inneal-ciùil
   - ionnsramaid
   - sacsafon
+🪗:
+  - bogsa
+  - bogsa-ciùil
+  - bucas
 🎸:
   - ceòl
   - giotàr
@@ -14944,10 +18768,21 @@
   - fìdheall
   - inneal-ciùil
   - ionnsramaid
+🪕:
+  - bainsio
+  - ceòl
+  - teud
+  - teudan
 🥁:
   - bioran
   - ceòl
   - druma
+🪘:
+  - buille
+  - conga
+  - druma
+  - druma fada
+  - ruitheam
 📱:
   - fòn
   - fòn-làimhe
@@ -15118,11 +18953,17 @@
   - lanntair
   - lanntair-pàipeir dearg
   - solas
+🪔:
+  - diya
+  - lampa
+  - lampa-eòlain
+  - ola
 📔:
   - còmhdachadh
   - leabhar
   - leabhar-nòtaichean
   - leabhar-nòtaichean le còmhdachadh sgeadaichte
+  - leabhar-nòtaichean sgeadaichte
   - sgeadaichte
 📕:
   - dùinte
@@ -15199,6 +19040,12 @@
   - mogan
   - mogan airgid
   - poca
+🪙:
+  - airgead
+  - bonn
+  - meatailt
+  - ulaidh
+  - òr
 💴:
   - airgead
   - airgeadra
@@ -15279,17 +19126,6 @@
   - treand
   - yen
   - èirich
-💱:
-  - airgead
-  - airgeadra
-  - banca
-  - iomlaid
-  - iomlaid airgid
-💲:
-  - airgead
-  - airgeadra
-  - dolar
-  - samhla dolair trom
 ✉️:
   - cèis-litreach
   - litir
@@ -15540,6 +19376,14 @@
   - acainn
   - inneal
   - òrd
+🪓:
+  - bris
+  - briseadh
+  - fiodh
+  - maide
+  - sgoilt
+  - sgoltadh
+  - tuagh
 ⛏️:
   - acainn
   - mèinnearachd
@@ -15574,6 +19418,13 @@
   - gunna
   - gunna-làimhe
   - inneal
+🪃:
+  - Astràilia
+  - ath-leum
+  - buaidh
+  - buil
+  - bùmarang
+  - tilleadh
 🏹:
   - acainn
   - arm
@@ -15590,11 +19441,25 @@
   - arm
   - armachd
   - sgiath
+🪚:
+  - acainn
+  - fiodh
+  - inneal
+  - saoirsinneachd
+  - saor
+  - saorsainneachd
+  - sàbh
+  - sàbh saorsainneachd
 🔧:
   - inneal
   - nupair
   - spanair
   - toinnear
+🪛:
+  - acainn
+  - inneal
+  - sgriubha
+  - sgriubhaire
 🔩:
   - acainn
   - bolta
@@ -15622,6 +19487,11 @@
   - libra
   - meidh
   - meidh co-chothromach
+🦯:
+  - batachan
+  - dall
+  - doille
+  - so-ruigsinneachd
 🔗:
   - bun-dùirn
   - ceangal
@@ -15630,6 +19500,13 @@
 ⛓️:
   - sèine
   - sèineachan
+🪝:
+  - cromag
+  - cròcag
+  - cròicean
+  - huca
+  - reic
+  - rib
 🧰:
   - acainn
   - bogsa
@@ -15641,6 +19518,16 @@
   - crudha-eich
   - magnaiteach
   - tarraing
+🪜:
+  - ceum
+  - dìreadh
+  - dìrich
+  - fàradh
+  - rang
+  - reang
+  - rong
+  - sreap
+  - àradh
 ⚗️:
   - acainn
   - ceimigeachd
@@ -15705,14 +19592,52 @@
   - stealladh
   - steallair
   - tinn
+🩸:
+  - boinne
+  - boinne fala
+  - fuil
+  - fuil mhìosail
+  - fuil-mìos
+  - leigheas
+  - tabhartas fala
 💊:
   - bochd
   - dotair
   - leigheas
   - pile
   - tinn
+🩹:
+  - bann-araid
+  - cuarag
+  - cuaran
+🩺:
+  - cridhe
+  - dotair
+  - leigheas
+  - lighiche
+  - steatasgop
+  - steiteasgop
 🚪:
   - doras
+🛗:
+  - so-ruigsinneachd
+  - tog
+  - togail
+  - àrdaichear
+🪞:
+  - ath-thilgeil
+  - faileas
+  - frith-thilgear
+  - sgàthan
+🪟:
+  - adhair ùr
+  - coimhead
+  - fosgladh
+  - frèam
+  - seall
+  - sealladh
+  - trìd-shoilleir
+  - uinneag
 🛏️:
   - cadal
   - leabaidh
@@ -15722,7 +19647,17 @@
   - langasaid
   - langasaid ’s lampa
   - taigh-òsta
+🪑:
+  - cathair
+  - suidhe
+  - suidheachan
+  - sèithear
 🚽:
+  - taigh-beag
+🪠:
+  - loinid
+  - plumair
+  - sùghadh
   - taigh-beag
 🚿:
   - bùrn
@@ -15733,6 +19668,19 @@
   - ballan-ionnlaid
   - ionnlad
   - ionnlaid
+🪤:
+  - biadh
+  - luch
+  - ribe
+  - strap
+  - strap lucha
+  - trap
+  - trap lucha
+🪒:
+  - bearradh
+  - beàrr
+  - ealtainn
+  - geur
 🧴:
   - bana-bhuidseach
   - botal lòisein
@@ -15762,12 +19710,24 @@
   - pàipear-tòin
   - rola pàipeir
   - tubhailt pàipeir
+🪣:
+  - bacaid
+  - ballan
+  - bucaid
+  - peile
 🧼:
   - glan
   - glanadh
   - gàd
   - nighe
   - siabann
+🪥:
+  - bruis
+  - bruis-fhiaclan
+  - fiacal
+  - fiaclan
+  - seòmar-ionnlaid
+  - slàinteachas
 🧽:
   - cìobail
   - glan
@@ -15797,6 +19757,14 @@
   - ciste-laighe
   - eug
   - siubhal
+🪦:
+  - clach
+  - clach-chinn
+  - clach-uaighe
+  - cladh
+  - leac
+  - leac-lighe
+  - uaigh
 ⚱️:
   - adhlacadh
   - bàs
@@ -15813,6 +19781,18 @@
   - mo‘ai
   - mo’ai
   - ìomhaigh
+🪧:
+  - fianais
+  - gearan
+  - gràcalas
+  - piceid
+  - piogaid
+  - sanas
+  - sluagh-fhianais
+  - tog fianais
+  - tog gearan
+  - togail fianais
+  - togail gearan
 🏧:
   - airgead
   - airgead-làimhe
@@ -16360,11 +20340,45 @@
 ♂️:
   - fireannach
   - samhla fireann
-⚕️:
-  - aesculapius
-  - bata
-  - leigheas
-  - samhla meadaigeach
+⚧️:
+  - samhla tar-ghnèitheach
+  - tar-ghnèitheach
+✖️:
+  - iomadachadh
+  - iomadaich
+  - samhla
+  - samhla iomadachaidh
+  - sguir dheth
+  - sgur dheth
+  - x
+  - x iomadachaidh throm
+  - ×
+➕:
+  - +
+  - cuir ris
+  - cur ris
+  - matamataig
+  - plus
+  - samhla
+  - samhla cuir-ris
+➖:
+  - '-'
+  - matamataig
+  - minus
+  - samhla
+  - samhla toirt air falbh
+  - thoir air falbh
+  - toirt air falbh
+  - –
+➗:
+  - /
+  - matamataig
+  - roinn
+  - roinn le
+  - roinneadh
+  - samhla
+  - samhla roinnidh
+  - ÷
 ♾️:
   - buan
   - daonnan
@@ -16372,6 +20386,70 @@
   - gun chrìoch
   - neo-chrìochnachd
   - uile-choicheann
+‼️:
+  - '!'
+  - '!!'
+  - clisg-phuing
+  - clisg-phuing dhùbailte
+  - comharra
+  - dùbailte
+  - puingeachadh
+⁉️:
+  - '!'
+  - '!?'
+  - '?'
+  - clisg-phuing
+  - clisg-phuing is comharra-ceiste
+  - comharra
+  - comharra-ceiste
+  - puingeachadh
+❓️:
+  - '?'
+  - comharra
+  - comharra-ceiste
+  - puingeachadh
+❔:
+  - '?'
+  - comharra
+  - comharra-ceiste
+  - comharra-ceiste geal
+  - oir-loidhne
+  - puingeachadh
+❕:
+  - '!'
+  - clisg-phuing
+  - clisg-phuing gheal
+  - comharra
+  - oir-loidhne
+  - puingeachadh
+❗️:
+  - '!'
+  - clisg-phuing
+  - comharra
+  - puingeachadh
+〰️:
+  - comharra
+  - dais
+  - loidhne
+  - loidhne lùbach
+  - lùbach
+  - puingeachadh
+💱:
+  - airgead
+  - airgeadra
+  - banca
+  - iomlaid
+  - iomlaid airgid
+💲:
+  - airgead
+  - airgeadra
+  - dolar
+  - samhla dolair trom
+⚕️:
+  - aesculapius
+  - bata
+  - leigheas
+  - samhla meadaigeach
 ♻️:
   - ath-chuairteachadh
   - ath-chuairtich
@@ -16404,30 +20482,23 @@
   - uaine
 ⭕️:
   - cearcall
-  - cearcall mòr trom
+  - cearcall dearg falamh
+  - dearg
+  - mòr
   - o
 ✅:
   - comharra
   - cromag
-  - cromag gheal throm
+  - putan
+  - putan cromaige
 ☑️:
-  - baileat
-  - bhòtadh
   - bogsa
-  - bogsa taghaidh le cromag
+  - bogsa-cromaige le cromag
   - cromag
-  - taghadh
 ✔️:
   - comharra
   - cromag
-  - cromag throm
-✖️:
-  - iomadachadh
-  - iomadaich
-  - sguir dheth
-  - sgur dheth
-  - x
-  - x iomadachaidh throm
+  - cromag dearbhaidh
 ❌:
   - comharra
   - iomadachadh
@@ -16436,27 +20507,13 @@
   - sguir dheth
   - sgur dheth
   - x
+  - ×
 ❎:
   - ceàrnag
   - comharra
   - samhla croise ann am putan
-➕:
-  - cuir ris
-  - cur ris
-  - matamataig
-  - plus
-  - samhla cur-ris trom
-➖:
-  - matamataig
-  - minus
-  - samhla toirt air falbh trom
-  - thoir air falbh
-  - toirt air falbh
-➗:
-  - matamataig
-  - roinn le
-  - roinneadh
-  - samhla roinnidh trom
+  - x
+  - ×
 ➰:
   - dualach
   - lùb
@@ -16472,56 +20529,26 @@
   - comharra airson atharrachadh phàirtean
   - pàirt
 ✳️:
+  - '*'
   - reultag
   - reultag le ochd rinnean
 ✴️:
+  - '*'
   - rionnag
   - rionnag le ochd rinnean
 ❇️:
+  - '*'
   - lainnir
-‼️:
-  - clisg-phuing
-  - clisg-phuing dhùbailte
-  - comharra
-  - dùbailte
-  - puingeachadh
-⁉️:
-  - clisg-phuing
-  - clisg-phuing is comharra-ceiste
-  - comharra
-  - comharra-ceiste
-  - puingeachadh
-❓️:
-  - comharra
-  - comharra-ceiste
-  - puingeachadh
-❔:
-  - comharra
-  - comharra-ceiste
-  - comharra-ceiste geal
-  - oir-loidhne
-  - puingeachadh
-❕:
-  - clisg-phuing
-  - clisg-phuing gheal
-  - comharra
-  - oir-loidhne
-  - puingeachadh
-❗️:
-  - clisg-phuing
-  - comharra
-  - puingeachadh
-〰️:
-  - comharra
-  - dais
-  - loidhne
-  - loidhne lùbach
-  - lùbach
-  - puingeachadh
 ©️:
+  - (c)
+  - c
   - còir-lethbhreac
+  - ©
 ®️:
+  - (r)
   - clàraichte
+  - r
+  - ®
 ™️:
   - comharra
   - comharra-malairt
@@ -16800,11 +20827,33 @@
   - cearcall dearg
   - dearg
   - geomatrach
+🟠:
+  - cearcall
+  - cearcall orainds
+  - orainds
+  - orains
+🟡:
+  - buidhe
+  - cearcall
+  - cearcall buidhe
+🟢:
+  - cearcall
+  - cearcall uaine
+  - uaine
 🔵:
   - cearcall
   - cearcall gorm
   - geomatrach
   - gorm
+🟣:
+  - cearcall
+  - cearcall purpaidh
+  - corca
+  - purpaidh
+🟤:
+  - cearcall
+  - cearcall donn
+  - donn
 ⚫️:
   - cearcall
   - cearcall dubh
@@ -16813,6 +20862,36 @@
   - cearcall
   - cearcall geal
   - geomatrach
+🟥:
+  - ceàrnach
+  - ceàrnach dearg
+  - dearg
+🟧:
+  - ceàrnach
+  - ceàrnach orainds
+  - orainds
+  - orains
+🟨:
+  - buidhe
+  - ceàrnach
+  - ceàrnach buidhe
+🟩:
+  - ceàrnach
+  - ceàrnach uaine
+  - uaine
+🟦:
+  - ceàrnach
+  - ceàrnach gorm
+  - gorm
+🟪:
+  - ceàrnach
+  - ceàrnach purpaidh
+  - corca
+  - purpaidh
+🟫:
+  - ceàrnach
+  - ceàrnach donn
+  - donn
 ⬛️:
   - ceàrnag
   - ceàrnag mhòr dhubh
@@ -16927,6 +21006,10 @@
 🏳‍🌈:
   - bogha-froise
   - bratach bogha-froise
+🏳‍⚧:
+  - bratach
+  - bratach ghorm, phinc is gheal
+  - tar-ghnèitheach
 🏴‍☠:
   - Jolly Roger
   - bratach spùinneadair
@@ -17383,7 +21466,7 @@
   - 'bratach: Eileanan Mharshall'
 🇲🇰:
   - bratach
-  - 'bratach: A’ Mhasadon'
+  - 'bratach: A’ Mhasadon a Tuath'
 🇲🇱:
   - bratach
   - 'bratach: Màili'
@@ -17500,7 +21583,7 @@
   - 'bratach: Porto Rìceo'
 🇵🇸:
   - bratach
-  - 'bratach: Na Ranntairean Palastaineach'
+  - 'bratach: Ùghdarras nam Palastaineach'
 🇵🇹:
   - bratach
   - 'bratach: A’ Phortagail'
@@ -17590,7 +21673,7 @@
   - 'bratach: Siridhea'
 🇸🇿:
   - bratach
-  - 'bratach: Dùthaich nan Suasaidh'
+  - 'bratach: eSwatini'
 🇹🇦:
   - bratach
   - 'bratach: Tristan da Cunha'
@@ -17708,6 +21791,15 @@
 🇿🇼:
   - bratach
   - 'bratach: An t-Sìombab'
+🏴󠁧󠁢󠁥󠁮󠁧󠁿:
+  - bratach
+  - 'bratach: Sasainn'
+🏴󠁧󠁢󠁳󠁣󠁴󠁿:
+  - bratach
+  - 'bratach: Alba'
+🏴󠁧󠁢󠁷󠁬󠁳󠁿:
+  - bratach
+  - 'bratach: A’ Chuimrigh'
 🏻:
   - seòrsa 1–2
   - tòna a’ chraicinn

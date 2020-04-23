@@ -82,7 +82,6 @@
   - sevib qolgan
   - yurakcha
   - yurakchalari bor jilmaygan yuz
-  - yuz
 😍:
   - ko‘z
   - sevgi
@@ -118,6 +117,15 @@
   - o‘pish
   - tabassum
   - yuz
+🥲:
+  - faxr
+  - jilmayish
+  - koʻz yoshi
+  - koʻz yoshi bilan jilmaygan yuz
+  - minnatdor
+  - taʼsirlangan
+  - taʼsirlanish
+  - tinchlanish
 😋:
   - mazali
   - mazali taomni tatib ko‘rgan til
@@ -305,6 +313,14 @@
   - tug‘ilgan kun
   - xursandchilik
   - ziyofatda
+🥸:
+  - burun
+  - koʻzoynak
+  - niqoblangan yuz
+  - niqoblash
+  - yashirin
+  - yashirincha
+  - yuz
 😎:
   - ko‘z
   - ko‘zoynak
@@ -447,6 +463,11 @@
   - charchagan
   - charchagan yuz
   - yuz
+🥱:
+  - charchagan
+  - esnayotgan
+  - esnayotgan yuz
+  - xorg‘in
 😤:
   - burnidan tutun chiqayotgan yuz
   - g‘alaba
@@ -553,64 +574,68 @@
   - robot qiyofa
   - yuz
 😺:
+  - jilmayish
   - mushuk
   - ochiq
-  - og‘iz
+  - ogʻiz
   - og‘zi ochiq holatda kulayotgan mushuk
-  - tabassum
+  - tirjayish
   - yuz
 😸:
-  - ko‘z
-  - ko‘zlarini qisgan holda kulayotgan mushuk
-  - kulimsirash
+  - jilmayish
+  - koʻz
   - mushuk
-  - tabassum
+  - tirjaygan holda kulayotgan mushuk
+  - tirjayish
   - yuz
 😹:
-  - ko‘z yoshi
+  - huzur
+  - koʻz yoshi
+  - koʻzidan yosh chiqib kulayotgan mushuk
   - mushuk
-  - quvonch ko‘z yoshlari oqayotgan mushuk
-  - xursand
+  - quvonch
+  - xursandchilik
   - yuz
 😻:
-  - ko‘z
+  - jilmayish
+  - koʻz
   - ko‘zlari yurak shaklida kulib turgan mushuk
   - mushuk
   - sevgi
-  - tabassum
   - yurak
   - yuz
 😼:
-  - kinoyali
+  - istehzo
+  - jilmayish
+  - lab burib jilmaygan mushuk
+  - lab burish
   - mushuk
-  - tabassum
-  - tirjayib turgan mushuk
-  - tirjayish
   - yuz
 😽:
-  - ko‘z
-  - ko‘zlari yopiq holda bo‘sa olayotgan mushuk
+  - boʻsa
+  - boʻsa olayotgan mushuk
+  - koʻz
   - mushuk
-  - o‘pish
   - yuz
 🙀:
-  - charchagan
+  - ajablanish
   - charchagan mushuk
-  - horg‘in
+  - charchash
   - mushuk
-  - uhh
+  - toliqish
+  - voy
   - yuz
 😿:
-  - hafa
-  - ko‘z yoshi
+  - koʻz yoshi
   - mushuk
-  - yig‘lash
-  - yig‘layotgan mushuk
+  - xafalik
+  - yigʻi
+  - yigʻlayotgan mushuk
   - yuz
 😾:
-  - badjahl mushuk
+  - dargʻazab mushuk
+  - gʻazablanish
   - mushuk
-  - norozi
   - yuz
 🙈:
   - ishora
@@ -696,10 +721,10 @@
   - yurak bezagi
 ❣️:
   - belgi
-  - qalin yurak shaklidagi undov belgisi
-  - tinish
+  - tinish belgisi
   - undov
-  - yurak
+  - yurak shaklidagi undov
+  - yurak shaklidagi undov belgisi
 💔:
   - singan
   - singan yurak
@@ -726,9 +751,17 @@
   - binafsharang
   - binafsharang yurak
   - yurak
+🤎:
+  - jigarrang
+  - jigarrang yurak
+  - yurak
 🖤:
   - ichi qora
   - qora
+  - yurak
+🤍:
+  - oq
+  - oq yurak
   - yurak
 💯:
   - '100'
@@ -800,45 +833,45 @@
   - uyqu
   - xurrak
 👋:
-  - qo‘l
+  - qoʻl
   - shapaloq
   - silkitish
-  - tana
+  - siltash
 👋🏻:
   - 1–2-teri turi
-  - qo‘l
+  - qoʻl
   - shapaloq
   - 'shapaloq: 1–2-teri turi'
   - silkitish
-  - tana
+  - siltash
 👋🏼:
   - 3-teri turi
-  - qo‘l
+  - qoʻl
   - shapaloq
   - 'shapaloq: 3-teri turi'
   - silkitish
-  - tana
+  - siltash
 👋🏽:
   - 4-teri turi
-  - qo‘l
+  - qoʻl
   - shapaloq
   - 'shapaloq: 4-teri turi'
   - silkitish
-  - tana
+  - siltash
 👋🏾:
   - 5-teri turi
-  - qo‘l
+  - qoʻl
   - shapaloq
   - 'shapaloq: 5-teri turi'
   - silkitish
-  - tana
+  - siltash
 👋🏿:
   - 6-teri turi
-  - qo‘l
+  - qoʻl
   - shapaloq
   - 'shapaloq: 6-teri turi'
   - silkitish
-  - tana
+  - siltash
 🤚:
   - kaft
   - ko‘tarilgan
@@ -871,6 +904,7 @@
 🖐️:
   - barmoq
   - barmoqlari yoyilgan holatda ko‘tarilgan qo‘l
+  - barmoqlari yoyilgan qoʻl
   - qo‘l
   - tana
   - yoyilgan
@@ -878,7 +912,8 @@
   - 1–2-teri turi
   - barmoq
   - barmoqlari yoyilgan holatda ko‘tarilgan qo‘l
-  - 'barmoqlari yoyilgan holatda ko‘tarilgan qo‘l: 1–2-teri turi'
+  - barmoqlari yoyilgan qoʻl
+  - 'barmoqlari yoyilgan qoʻl: 1–2-teri turi'
   - qo‘l
   - tana
   - yoyilgan
@@ -886,7 +921,8 @@
   - 3-teri turi
   - barmoq
   - barmoqlari yoyilgan holatda ko‘tarilgan qo‘l
-  - 'barmoqlari yoyilgan holatda ko‘tarilgan qo‘l: 3-teri turi'
+  - barmoqlari yoyilgan qoʻl
+  - 'barmoqlari yoyilgan qoʻl: 3-teri turi'
   - qo‘l
   - tana
   - yoyilgan
@@ -894,7 +930,8 @@
   - 4-teri turi
   - barmoq
   - barmoqlari yoyilgan holatda ko‘tarilgan qo‘l
-  - 'barmoqlari yoyilgan holatda ko‘tarilgan qo‘l: 4-teri turi'
+  - barmoqlari yoyilgan qoʻl
+  - 'barmoqlari yoyilgan qoʻl: 4-teri turi'
   - qo‘l
   - tana
   - yoyilgan
@@ -902,7 +939,8 @@
   - 5-teri turi
   - barmoq
   - barmoqlari yoyilgan holatda ko‘tarilgan qo‘l
-  - 'barmoqlari yoyilgan holatda ko‘tarilgan qo‘l: 5-teri turi'
+  - barmoqlari yoyilgan qoʻl
+  - 'barmoqlari yoyilgan qoʻl: 5-teri turi'
   - qo‘l
   - tana
   - yoyilgan
@@ -910,7 +948,8 @@
   - 6-teri turi
   - barmoq
   - barmoqlari yoyilgan holatda ko‘tarilgan qo‘l
-  - 'barmoqlari yoyilgan holatda ko‘tarilgan qo‘l: 6-teri turi'
+  - barmoqlari yoyilgan qoʻl
+  - 'barmoqlari yoyilgan qoʻl: 6-teri turi'
   - qo‘l
   - tana
   - yoyilgan
@@ -1001,88 +1040,181 @@
   - vulkan salyuti
   - 'vulkan salyuti: 6-teri turi'
 👌:
-  - ok
-  - qo‘l
+  - OK
+  - qoʻl
   - qo‘lda qilingan ok
-  - tana
+  - yaxshi
 👌🏻:
   - 1–2-teri turi
-  - ok
-  - qo‘l
+  - OK
+  - qoʻl
   - qo‘lda qilingan ok
   - 'qo‘lda qilingan ok: 1–2-teri turi'
-  - tana
+  - yaxshi
 👌🏼:
   - 3-teri turi
-  - ok
-  - qo‘l
+  - OK
+  - qoʻl
   - qo‘lda qilingan ok
   - 'qo‘lda qilingan ok: 3-teri turi'
-  - tana
+  - yaxshi
 👌🏽:
   - 4-teri turi
-  - ok
-  - qo‘l
+  - OK
+  - qoʻl
   - qo‘lda qilingan ok
   - 'qo‘lda qilingan ok: 4-teri turi'
-  - tana
+  - yaxshi
 👌🏾:
   - 5-teri turi
-  - ok
-  - qo‘l
+  - OK
+  - qoʻl
   - qo‘lda qilingan ok
   - 'qo‘lda qilingan ok: 5-teri turi'
-  - tana
+  - yaxshi
 👌🏿:
   - 6-teri turi
-  - ok
-  - qo‘l
+  - OK
+  - qoʻl
   - qo‘lda qilingan ok
   - 'qo‘lda qilingan ok: 6-teri turi'
-  - tana
+  - yaxshi
+🤌:
+  - barmoqlar
+  - chimdilgan
+  - chimdilgan barmoqlar
+  - istehzoli
+  - juftlangan
+  - qoʻl ishorasi
+  - soʻroq
+🤌🏻:
+  - 1–2-teri turi
+  - barmoqlar
+  - chimdilgan
+  - 'chimdilgan barmoqlar: 1–2-teri turi'
+  - istehzoli
+  - juftlangan
+  - qoʻl ishorasi
+  - soʻroq
+🤌🏼:
+  - 3-teri turi
+  - barmoqlar
+  - chimdilgan
+  - 'chimdilgan barmoqlar: 3-teri turi'
+  - istehzoli
+  - juftlangan
+  - qoʻl ishorasi
+  - soʻroq
+🤌🏽:
+  - 4-teri turi
+  - barmoqlar
+  - chimdilgan
+  - 'chimdilgan barmoqlar: 4-teri turi'
+  - istehzoli
+  - juftlangan
+  - qoʻl ishorasi
+  - soʻroq
+🤌🏾:
+  - 5-teri turi
+  - barmoqlar
+  - chimdilgan
+  - 'chimdilgan barmoqlar: 5-teri turi'
+  - istehzoli
+  - juftlangan
+  - qoʻl ishorasi
+  - soʻroq
+🤌🏿:
+  - 6-teri turi
+  - barmoqlar
+  - chimdilgan
+  - 'chimdilgan barmoqlar: 6-teri turi'
+  - istehzoli
+  - juftlangan
+  - qoʻl ishorasi
+  - soʻroq
+🤏:
+  - biroz
+  - chimduvchi qoʻl
+  - kam
+  - kichik
+  - ozgina
+🤏🏻:
+  - 1–2-teri turi
+  - biroz
+  - chimduvchi qoʻl
+  - 'chimduvchi qoʻl: 1–2-teri turi'
+  - kam
+  - kichik
+  - ozgina
+🤏🏼:
+  - 3-teri turi
+  - biroz
+  - chimduvchi qoʻl
+  - 'chimduvchi qoʻl: 3-teri turi'
+  - kam
+  - kichik
+  - ozgina
+🤏🏽:
+  - 4-teri turi
+  - biroz
+  - chimduvchi qoʻl
+  - 'chimduvchi qoʻl: 4-teri turi'
+  - kam
+  - kichik
+  - ozgina
+🤏🏾:
+  - 5-teri turi
+  - biroz
+  - chimduvchi qoʻl
+  - 'chimduvchi qoʻl: 5-teri turi'
+  - kam
+  - kichik
+  - ozgina
+🤏🏿:
+  - 6-teri turi
+  - biroz
+  - chimduvchi qoʻl
+  - 'chimduvchi qoʻl: 6-teri turi'
+  - kam
+  - kichik
+  - ozgina
 ✌️:
-  - g‘alaba
-  - qo‘l
-  - tana
+  - gʻalaba
+  - qoʻl
   - v
   - v harfini ko‘rsatib turgan qo‘l
 ✌🏻:
   - 1–2-teri turi
-  - g‘alaba
-  - qo‘l
-  - tana
+  - gʻalaba
+  - qoʻl
   - v
   - v harfini ko‘rsatib turgan qo‘l
   - 'v harfini ko‘rsatib turgan qo‘l: 1–2-teri turi'
 ✌🏼:
   - 3-teri turi
-  - g‘alaba
-  - qo‘l
-  - tana
+  - gʻalaba
+  - qoʻl
   - v
   - v harfini ko‘rsatib turgan qo‘l
   - 'v harfini ko‘rsatib turgan qo‘l: 3-teri turi'
 ✌🏽:
   - 4-teri turi
-  - g‘alaba
-  - qo‘l
-  - tana
+  - gʻalaba
+  - qoʻl
   - v
   - v harfini ko‘rsatib turgan qo‘l
   - 'v harfini ko‘rsatib turgan qo‘l: 4-teri turi'
 ✌🏾:
   - 5-teri turi
-  - g‘alaba
-  - qo‘l
-  - tana
+  - gʻalaba
+  - qoʻl
   - v
   - v harfini ko‘rsatib turgan qo‘l
   - 'v harfini ko‘rsatib turgan qo‘l: 5-teri turi'
 ✌🏿:
   - 6-teri turi
-  - g‘alaba
-  - qo‘l
-  - tana
+  - gʻalaba
+  - qoʻl
   - v
   - v harfini ko‘rsatib turgan qo‘l
   - 'v harfini ko‘rsatib turgan qo‘l: 6-teri turi'
@@ -1334,68 +1466,62 @@
   - yo‘naltirish
 👆️:
   - barmoq
-  - ko‘rsatkich
+  - koʻrsatish
   - ko‘rsatkich barmog‘i orqa tomoni bilan tepaga qarab turgan qo‘l
-  - qo‘l
-  - qo‘l orqa tomoni
-  - tana
+  - qoʻl
+  - qoʻl orqasi
+  - qoʻl orqasi va tepaga qaratilgan koʻrsatkich barmoq
   - tepaga
-  - yo‘naltirish
 👆🏻:
   - 1–2-teri turi
   - barmoq
-  - ko‘rsatkich
+  - koʻrsatish
   - ko‘rsatkich barmog‘i orqa tomoni bilan tepaga qarab turgan qo‘l
   - 'ko‘rsatkich barmog‘i orqa tomoni bilan tepaga qarab turgan qo‘l: 1–2-teri turi'
-  - qo‘l
-  - qo‘l orqa tomoni
-  - tana
+  - qoʻl
+  - qoʻl orqasi
+  - qoʻl orqasi va tepaga qaratilgan koʻrsatkich barmoq
   - tepaga
-  - yo‘naltirish
 👆🏼:
   - 3-teri turi
   - barmoq
-  - ko‘rsatkich
+  - koʻrsatish
   - ko‘rsatkich barmog‘i orqa tomoni bilan tepaga qarab turgan qo‘l
   - 'ko‘rsatkich barmog‘i orqa tomoni bilan tepaga qarab turgan qo‘l: 3-teri turi'
-  - qo‘l
-  - qo‘l orqa tomoni
-  - tana
+  - qoʻl
+  - qoʻl orqasi
+  - qoʻl orqasi va tepaga qaratilgan koʻrsatkich barmoq
   - tepaga
-  - yo‘naltirish
 👆🏽:
   - 4-teri turi
   - barmoq
-  - ko‘rsatkich
+  - koʻrsatish
   - ko‘rsatkich barmog‘i orqa tomoni bilan tepaga qarab turgan qo‘l
   - 'ko‘rsatkich barmog‘i orqa tomoni bilan tepaga qarab turgan qo‘l: 4-teri turi'
-  - qo‘l
-  - qo‘l orqa tomoni
-  - tana
+  - qoʻl
+  - qoʻl orqasi
+  - qoʻl orqasi va tepaga qaratilgan koʻrsatkich barmoq
   - tepaga
-  - yo‘naltirish
 👆🏾:
   - 5-teri turi
   - barmoq
-  - ko‘rsatkich
+  - koʻrsatish
   - ko‘rsatkich barmog‘i orqa tomoni bilan tepaga qarab turgan qo‘l
   - 'ko‘rsatkich barmog‘i orqa tomoni bilan tepaga qarab turgan qo‘l: 5-teri turi'
-  - qo‘l
-  - qo‘l orqa tomoni
-  - tana
+  - qoʻl
+  - qoʻl orqasi
+  - qoʻl orqasi va tepaga qaratilgan koʻrsatkich barmoq
   - tepaga
-  - yo‘naltirish
 👆🏿:
   - 6-teri turi
   - barmoq
-  - ko‘rsatkich
+  - koʻrsatish
   - ko‘rsatkich barmog‘i orqa tomoni bilan tepaga qarab turgan qo‘l
   - 'ko‘rsatkich barmog‘i orqa tomoni bilan tepaga qarab turgan qo‘l: 6-teri turi'
-  - qo‘l
-  - qo‘l orqa tomoni
-  - tana
+  - qoʻl
+  - qoʻl orqasi
+  - qoʻl orqasi va tepaga qaratilgan koʻrsatkich barmoq
   - tepaga
-  - yo‘naltirish
 🖕:
   - barmoq
   - o‘rta barmoq
@@ -1438,68 +1564,62 @@
   - tana
 👇️:
   - barmoq
-  - ko‘rsatkich
+  - koʻrsatish
   - ko‘rsatkich barmog‘i orqa tomoni bilan pastga qarab turgan qo‘l
   - pastga
-  - qo‘l
-  - qo‘l orqa tomoni
-  - tana
-  - yo‘naltirish
+  - qoʻl
+  - qoʻl orqasi
+  - qoʻl orqasi va pastga qaratilgan koʻrsatkich barmoq
 👇🏻:
   - 1–2-teri turi
   - barmoq
-  - ko‘rsatkich
+  - koʻrsatish
   - ko‘rsatkich barmog‘i orqa tomoni bilan pastga qarab turgan qo‘l
   - 'ko‘rsatkich barmog‘i orqa tomoni bilan pastga qarab turgan qo‘l: 1–2-teri turi'
   - pastga
-  - qo‘l
-  - qo‘l orqa tomoni
-  - tana
-  - yo‘naltirish
+  - qoʻl
+  - qoʻl orqasi
+  - qoʻl orqasi va pastga qaratilgan koʻrsatkich barmoq
 👇🏼:
   - 3-teri turi
   - barmoq
-  - ko‘rsatkich
+  - koʻrsatish
   - ko‘rsatkich barmog‘i orqa tomoni bilan pastga qarab turgan qo‘l
   - 'ko‘rsatkich barmog‘i orqa tomoni bilan pastga qarab turgan qo‘l: 3-teri turi'
   - pastga
-  - qo‘l
-  - qo‘l orqa tomoni
-  - tana
-  - yo‘naltirish
+  - qoʻl
+  - qoʻl orqasi
+  - qoʻl orqasi va pastga qaratilgan koʻrsatkich barmoq
 👇🏽:
   - 4-teri turi
   - barmoq
-  - ko‘rsatkich
+  - koʻrsatish
   - ko‘rsatkich barmog‘i orqa tomoni bilan pastga qarab turgan qo‘l
   - 'ko‘rsatkich barmog‘i orqa tomoni bilan pastga qarab turgan qo‘l: 4-teri turi'
   - pastga
-  - qo‘l
-  - qo‘l orqa tomoni
-  - tana
-  - yo‘naltirish
+  - qoʻl
+  - qoʻl orqasi
+  - qoʻl orqasi va pastga qaratilgan koʻrsatkich barmoq
 👇🏾:
   - 5-teri turi
   - barmoq
-  - ko‘rsatkich
+  - koʻrsatish
   - ko‘rsatkich barmog‘i orqa tomoni bilan pastga qarab turgan qo‘l
   - 'ko‘rsatkich barmog‘i orqa tomoni bilan pastga qarab turgan qo‘l: 5-teri turi'
   - pastga
-  - qo‘l
-  - qo‘l orqa tomoni
-  - tana
-  - yo‘naltirish
+  - qoʻl
+  - qoʻl orqasi
+  - qoʻl orqasi va pastga qaratilgan koʻrsatkich barmoq
 👇🏿:
   - 6-teri turi
   - barmoq
-  - ko‘rsatkich
+  - koʻrsatish
   - ko‘rsatkich barmog‘i orqa tomoni bilan pastga qarab turgan qo‘l
   - 'ko‘rsatkich barmog‘i orqa tomoni bilan pastga qarab turgan qo‘l: 6-teri turi'
   - pastga
-  - qo‘l
-  - qo‘l orqa tomoni
-  - tana
-  - yo‘naltirish
+  - qoʻl
+  - qoʻl orqasi
+  - qoʻl orqasi va pastga qaratilgan koʻrsatkich barmoq
 ☝️:
   - barmoq
   - ko‘rsatkich
@@ -1977,79 +2097,61 @@
 🙏:
   - ibodat
   - iltimos
-  - imo-ishora
-  - qovushgan
+  - juftlangan qoʻllar
+  - minnatdorlik
   - qovushtirilgan qo‘llar
-  - qo‘l
-  - rahmat
-  - so‘rash
-  - tana
-  - ta’zim
+  - qoʻl
+  - soʻrash
 🙏🏻:
   - 1–2-teri turi
   - ibodat
   - iltimos
-  - imo-ishora
-  - qovushgan
+  - juftlangan qoʻllar
+  - minnatdorlik
   - qovushtirilgan qo‘llar
   - 'qovushtirilgan qo‘llar: 1–2-teri turi'
-  - qo‘l
-  - rahmat
-  - so‘rash
-  - tana
-  - ta’zim
+  - qoʻl
+  - soʻrash
 🙏🏼:
   - 3-teri turi
   - ibodat
   - iltimos
-  - imo-ishora
-  - qovushgan
+  - juftlangan qoʻllar
+  - minnatdorlik
   - qovushtirilgan qo‘llar
   - 'qovushtirilgan qo‘llar: 3-teri turi'
-  - qo‘l
-  - rahmat
-  - so‘rash
-  - tana
-  - ta’zim
+  - qoʻl
+  - soʻrash
 🙏🏽:
   - 4-teri turi
   - ibodat
   - iltimos
-  - imo-ishora
-  - qovushgan
+  - juftlangan qoʻllar
+  - minnatdorlik
   - qovushtirilgan qo‘llar
   - 'qovushtirilgan qo‘llar: 4-teri turi'
-  - qo‘l
-  - rahmat
-  - so‘rash
-  - tana
-  - ta’zim
+  - qoʻl
+  - soʻrash
 🙏🏾:
   - 5-teri turi
   - ibodat
   - iltimos
-  - imo-ishora
-  - qovushgan
+  - juftlangan qoʻllar
+  - minnatdorlik
   - qovushtirilgan qo‘llar
   - 'qovushtirilgan qo‘llar: 5-teri turi'
-  - qo‘l
-  - rahmat
-  - so‘rash
-  - tana
-  - ta’zim
+  - qoʻl
+  - soʻrash
 🙏🏿:
   - 6-teri turi
   - ibodat
   - iltimos
-  - imo-ishora
-  - qovushgan
+  - juftlangan qoʻllar
+  - minnatdorlik
   - qovushtirilgan qo‘llar
   - 'qovushtirilgan qo‘llar: 6-teri turi'
-  - qo‘l
-  - rahmat
-  - so‘rash
-  - tana
-  - ta’zim
+  - qoʻl
+  - soʻrash
 ✍️:
   - qo‘l
   - tana
@@ -2149,38 +2251,38 @@
   - tirnoq uchun lok
   - 'tirnoq uchun lok: 6-teri turi'
 🤳:
+  - kamera
   - selfi
-  - surat
   - telefon
 🤳🏻:
   - 1–2-teri turi
+  - kamera
   - selfi
   - 'selfi: 1–2-teri turi'
-  - surat
   - telefon
 🤳🏼:
   - 3-teri turi
+  - kamera
   - selfi
   - 'selfi: 3-teri turi'
-  - surat
   - telefon
 🤳🏽:
   - 4-teri turi
+  - kamera
   - selfi
   - 'selfi: 4-teri turi'
-  - surat
   - telefon
 🤳🏾:
   - 5-teri turi
+  - kamera
   - selfi
   - 'selfi: 5-teri turi'
-  - surat
   - telefon
 🤳🏿:
   - 6-teri turi
+  - kamera
   - selfi
   - 'selfi: 6-teri turi'
-  - surat
   - telefon
 💪:
   - baquvvat muskullar
@@ -2234,6 +2336,14 @@
   - muskul
   - muskullar
   - tana
+🦾:
+  - mexanik qoʻl
+  - nogironlik
+  - protez
+🦿:
+  - mexanik oyoq
+  - nogironlik
+  - protez
 🦵:
   - oyoq
   - son
@@ -2348,6 +2458,40 @@
   - quloq
   - 'quloq: 6-teri turi'
   - tana
+🦻:
+  - eshitish qobiliyati past
+  - eshitish qurilmasi taqilgan quloq
+  - nogironlik
+🦻🏻:
+  - 1–2-teri turi
+  - eshitish qobiliyati past
+  - eshitish qurilmasi taqilgan quloq
+  - 'eshitish qurilmasi taqilgan quloq: 1–2-teri turi'
+  - nogironlik
+🦻🏼:
+  - 3-teri turi
+  - eshitish qobiliyati past
+  - eshitish qurilmasi taqilgan quloq
+  - 'eshitish qurilmasi taqilgan quloq: 3-teri turi'
+  - nogironlik
+🦻🏽:
+  - 4-teri turi
+  - eshitish qobiliyati past
+  - eshitish qurilmasi taqilgan quloq
+  - 'eshitish qurilmasi taqilgan quloq: 4-teri turi'
+  - nogironlik
+🦻🏾:
+  - 5-teri turi
+  - eshitish qobiliyati past
+  - eshitish qurilmasi taqilgan quloq
+  - 'eshitish qurilmasi taqilgan quloq: 5-teri turi'
+  - nogironlik
+🦻🏿:
+  - 6-teri turi
+  - eshitish qobiliyati past
+  - eshitish qurilmasi taqilgan quloq
+  - 'eshitish qurilmasi taqilgan quloq: 6-teri turi'
+  - nogironlik
 👃:
   - burun
   - tana
@@ -2378,6 +2522,21 @@
   - tana
 🧠:
   - miya
+🫀:
+  - aʼzo
+  - markaz
+  - puls
+  - tomir urishi
+  - yurak
+  - yurak urishi
+🫁:
+  - aʼzo
+  - ingalatsiya
+  - nafas
+  - nafas chiqarish
+  - nafas olish
+  - organ
+  - oʻpka
 🦷:
   - dantist
   - stomatolog
@@ -2427,44 +2586,44 @@
   - 'chaqaloq: 6-teri turi'
 🧒:
   - bola
-  - bolakay
-  - farzand
+  - jinsi noaniq
   - neytral jins
+  - yosh bola
 🧒🏻:
   - 1–2-teri turi
   - bola
   - 'bola: 1–2-teri turi'
-  - bolakay
-  - farzand
+  - jinsi noaniq
   - neytral jins
+  - yosh bola
 🧒🏼:
   - 3-teri turi
   - bola
   - 'bola: 3-teri turi'
-  - bolakay
-  - farzand
+  - jinsi noaniq
   - neytral jins
+  - yosh bola
 🧒🏽:
   - 4-teri turi
   - bola
   - 'bola: 4-teri turi'
-  - bolakay
-  - farzand
+  - jinsi noaniq
   - neytral jins
+  - yosh bola
 🧒🏾:
   - 5-teri turi
   - bola
   - 'bola: 5-teri turi'
-  - bolakay
-  - farzand
+  - jinsi noaniq
   - neytral jins
+  - yosh bola
 🧒🏿:
   - 6-teri turi
   - bola
   - 'bola: 6-teri turi'
-  - bolakay
-  - farzand
+  - jinsi noaniq
   - neytral jins
+  - yosh bola
 👦:
   - bola
   - erkak
@@ -2546,512 +2705,786 @@
   - 'qiz bola: 6-teri turi'
   - sunbula
 🧑:
+  - jinsi noaniq
   - katta
   - neytral jins
+  - shaxs
   - voyaga yetgan
 🧑🏻:
   - 1–2-teri turi
+  - jinsi noaniq
   - katta
   - neytral jins
+  - shaxs
   - voyaga yetgan
   - 'voyaga yetgan: 1–2-teri turi'
 🧑🏼:
   - 3-teri turi
+  - jinsi noaniq
   - katta
   - neytral jins
+  - shaxs
   - voyaga yetgan
   - 'voyaga yetgan: 3-teri turi'
 🧑🏽:
   - 4-teri turi
+  - jinsi noaniq
   - katta
   - neytral jins
+  - shaxs
   - voyaga yetgan
   - 'voyaga yetgan: 4-teri turi'
 🧑🏾:
   - 5-teri turi
+  - jinsi noaniq
   - katta
   - neytral jins
+  - shaxs
   - voyaga yetgan
   - 'voyaga yetgan: 5-teri turi'
 🧑🏿:
   - 6-teri turi
+  - jinsi noaniq
   - katta
   - neytral jins
+  - shaxs
   - voyaga yetgan
   - 'voyaga yetgan: 6-teri turi'
 👱:
-  - sariq
+  - mallasoch
   - sariq sochli odam
+  - 'shaxs: mallasoch'
+  - soch
 👱🏻:
   - 1–2-teri turi
-  - sariq
+  - mallasoch
   - sariq sochli odam
-  - 'sariq sochli odam: 1–2-teri turi'
+  - 'shaxs: 1–2-teri turi mallasoch'
+  - 'shaxs: mallasoch'
+  - soch
 👱🏼:
   - 3-teri turi
-  - sariq
+  - mallasoch
   - sariq sochli odam
-  - 'sariq sochli odam: 3-teri turi'
+  - 'shaxs: 3-teri turi mallasoch'
+  - 'shaxs: mallasoch'
+  - soch
 👱🏽:
   - 4-teri turi
-  - sariq
+  - mallasoch
   - sariq sochli odam
-  - 'sariq sochli odam: 4-teri turi'
+  - 'shaxs: 4-teri turi mallasoch'
+  - 'shaxs: mallasoch'
+  - soch
 👱🏾:
   - 5-teri turi
-  - sariq
+  - mallasoch
   - sariq sochli odam
-  - 'sariq sochli odam: 5-teri turi'
+  - 'shaxs: 5-teri turi mallasoch'
+  - 'shaxs: mallasoch'
+  - soch
 👱🏿:
   - 6-teri turi
-  - sariq
+  - mallasoch
   - sariq sochli odam
-  - 'sariq sochli odam: 6-teri turi'
+  - 'shaxs: 6-teri turi mallasoch'
+  - 'shaxs: mallasoch'
+  - soch
+🧑‍🦰:
+  - jinsi noaniq
+  - katta
+  - malla soch
+  - neytral jins
+  - shaxs
+  - voyaga yetgan
+  - 'voyaga yetgan: malla soch'
+🧑🏻‍🦰:
+  - 1–2-teri turi
+  - jinsi noaniq
+  - katta
+  - malla soch
+  - neytral jins
+  - shaxs
+  - voyaga yetgan
+  - 'voyaga yetgan: 1–2-teri turi malla soch'
+🧑🏼‍🦰:
+  - 3-teri turi
+  - jinsi noaniq
+  - katta
+  - malla soch
+  - neytral jins
+  - shaxs
+  - voyaga yetgan
+  - 'voyaga yetgan: 3-teri turi malla soch'
+🧑🏽‍🦰:
+  - 4-teri turi
+  - jinsi noaniq
+  - katta
+  - malla soch
+  - neytral jins
+  - shaxs
+  - voyaga yetgan
+  - 'voyaga yetgan: 4-teri turi malla soch'
+🧑🏾‍🦰:
+  - 5-teri turi
+  - jinsi noaniq
+  - katta
+  - malla soch
+  - neytral jins
+  - shaxs
+  - voyaga yetgan
+  - 'voyaga yetgan: 5-teri turi malla soch'
+🧑🏿‍🦰:
+  - 6-teri turi
+  - jinsi noaniq
+  - katta
+  - malla soch
+  - neytral jins
+  - shaxs
+  - voyaga yetgan
+  - 'voyaga yetgan: 6-teri turi malla soch'
+🧑‍🦱:
+  - jingalak soch
+  - jinsi noaniq
+  - katta
+  - neytral jins
+  - shaxs
+  - voyaga yetgan
+  - 'voyaga yetgan: jingalak soch'
+🧑🏻‍🦱:
+  - 1–2-teri turi
+  - jingalak soch
+  - jinsi noaniq
+  - katta
+  - neytral jins
+  - shaxs
+  - voyaga yetgan
+  - 'voyaga yetgan: 1–2-teri turi jingalak soch'
+🧑🏼‍🦱:
+  - 3-teri turi
+  - jingalak soch
+  - jinsi noaniq
+  - katta
+  - neytral jins
+  - shaxs
+  - voyaga yetgan
+  - 'voyaga yetgan: 3-teri turi jingalak soch'
+🧑🏽‍🦱:
+  - 4-teri turi
+  - jingalak soch
+  - jinsi noaniq
+  - katta
+  - neytral jins
+  - shaxs
+  - voyaga yetgan
+  - 'voyaga yetgan: 4-teri turi jingalak soch'
+🧑🏾‍🦱:
+  - 5-teri turi
+  - jingalak soch
+  - jinsi noaniq
+  - katta
+  - neytral jins
+  - shaxs
+  - voyaga yetgan
+  - 'voyaga yetgan: 5-teri turi jingalak soch'
+🧑🏿‍🦱:
+  - 6-teri turi
+  - jingalak soch
+  - jinsi noaniq
+  - katta
+  - neytral jins
+  - shaxs
+  - voyaga yetgan
+  - 'voyaga yetgan: 6-teri turi jingalak soch'
+🧑‍🦳:
+  - jinsi noaniq
+  - katta
+  - neytral jins
+  - oqargan soch
+  - shaxs
+  - voyaga yetgan
+  - 'voyaga yetgan: oqargan soch'
+🧑🏻‍🦳:
+  - 1–2-teri turi
+  - jinsi noaniq
+  - katta
+  - neytral jins
+  - oqargan soch
+  - shaxs
+  - voyaga yetgan
+  - 'voyaga yetgan: 1–2-teri turi oqargan soch'
+🧑🏼‍🦳:
+  - 3-teri turi
+  - jinsi noaniq
+  - katta
+  - neytral jins
+  - oqargan soch
+  - shaxs
+  - voyaga yetgan
+  - 'voyaga yetgan: 3-teri turi oqargan soch'
+🧑🏽‍🦳:
+  - 4-teri turi
+  - jinsi noaniq
+  - katta
+  - neytral jins
+  - oqargan soch
+  - shaxs
+  - voyaga yetgan
+  - 'voyaga yetgan: 4-teri turi oqargan soch'
+🧑🏾‍🦳:
+  - 5-teri turi
+  - jinsi noaniq
+  - katta
+  - neytral jins
+  - oqargan soch
+  - shaxs
+  - voyaga yetgan
+  - 'voyaga yetgan: 5-teri turi oqargan soch'
+🧑🏿‍🦳:
+  - 6-teri turi
+  - jinsi noaniq
+  - katta
+  - neytral jins
+  - oqargan soch
+  - shaxs
+  - voyaga yetgan
+  - 'voyaga yetgan: 6-teri turi oqargan soch'
+🧑‍🦲:
+  - jinsi noaniq
+  - kal
+  - katta
+  - neytral jins
+  - shaxs
+  - voyaga yetgan
+  - 'voyaga yetgan: kal'
+🧑🏻‍🦲:
+  - 1–2-teri turi
+  - jinsi noaniq
+  - kal
+  - katta
+  - neytral jins
+  - shaxs
+  - voyaga yetgan
+  - 'voyaga yetgan: 1–2-teri turi kal'
+🧑🏼‍🦲:
+  - 3-teri turi
+  - jinsi noaniq
+  - kal
+  - katta
+  - neytral jins
+  - shaxs
+  - voyaga yetgan
+  - 'voyaga yetgan: 3-teri turi kal'
+🧑🏽‍🦲:
+  - 4-teri turi
+  - jinsi noaniq
+  - kal
+  - katta
+  - neytral jins
+  - shaxs
+  - voyaga yetgan
+  - 'voyaga yetgan: 4-teri turi kal'
+🧑🏾‍🦲:
+  - 5-teri turi
+  - jinsi noaniq
+  - kal
+  - katta
+  - neytral jins
+  - shaxs
+  - voyaga yetgan
+  - 'voyaga yetgan: 5-teri turi kal'
+🧑🏿‍🦲:
+  - 6-teri turi
+  - jinsi noaniq
+  - kal
+  - katta
+  - neytral jins
+  - shaxs
+  - voyaga yetgan
+  - 'voyaga yetgan: 6-teri turi kal'
 👨:
   - erkak
-  - kishi
+  - katta yoshli
 👨🏻:
   - 1–2-teri turi
   - erkak
   - 'erkak: 1–2-teri turi'
-  - kishi
+  - katta yoshli
 👨🏼:
   - 3-teri turi
   - erkak
   - 'erkak: 3-teri turi'
-  - kishi
+  - katta yoshli
 👨🏽:
   - 4-teri turi
   - erkak
   - 'erkak: 4-teri turi'
-  - kishi
+  - katta yoshli
 👨🏾:
   - 5-teri turi
   - erkak
   - 'erkak: 5-teri turi'
-  - kishi
+  - katta yoshli
 👨🏿:
   - 6-teri turi
   - erkak
   - 'erkak: 6-teri turi'
-  - kishi
+  - katta yoshli
 🧔:
-  - soqolli odam
+  - erkak
+  - 'erkak: soqol'
+  - 'erkak: soqolli'
+  - shaxs
+  - soqol
+  - soqolli
 🧔🏻:
   - 1–2-teri turi
-  - soqolli odam
-  - 'soqolli odam: 1–2-teri turi'
+  - erkak
+  - 'erkak: 1–2-teri turi soqolli'
+  - 'erkak: soqol'
+  - 'erkak: soqolli'
+  - shaxs
+  - soqol
+  - soqolli
 🧔🏼:
   - 3-teri turi
-  - soqolli odam
-  - 'soqolli odam: 3-teri turi'
+  - erkak
+  - 'erkak: 3-teri turi soqolli'
+  - 'erkak: soqol'
+  - 'erkak: soqolli'
+  - shaxs
+  - soqol
+  - soqolli
 🧔🏽:
   - 4-teri turi
-  - soqolli odam
-  - 'soqolli odam: 4-teri turi'
+  - erkak
+  - 'erkak: 4-teri turi soqolli'
+  - 'erkak: soqol'
+  - 'erkak: soqolli'
+  - shaxs
+  - soqol
+  - soqolli
 🧔🏾:
   - 5-teri turi
-  - soqolli odam
-  - 'soqolli odam: 5-teri turi'
+  - erkak
+  - 'erkak: 5-teri turi soqolli'
+  - 'erkak: soqol'
+  - 'erkak: soqolli'
+  - shaxs
+  - soqol
+  - soqolli
 🧔🏿:
   - 6-teri turi
-  - soqolli odam
-  - 'soqolli odam: 6-teri turi'
+  - erkak
+  - 'erkak: 6-teri turi soqolli'
+  - 'erkak: soqol'
+  - 'erkak: soqolli'
+  - shaxs
+  - soqol
+  - soqolli
 👱‍♂:
   - erkak
-  - oq-sariq
-  - oq-sariq sochli erkak
-  - sarg‘ish
+  - 'erkak: mallasoch'
+  - mallasoch
+  - sariq sochli erkak
+  - soch
 👱🏻‍♂:
   - 1–2-teri turi
   - erkak
-  - oq-sariq
-  - oq-sariq sochli erkak
-  - 'oq-sariq sochli erkak: 1–2-teri turi'
-  - sarg‘ish
+  - 'erkak: 1–2-teri turi mallasoch'
+  - 'erkak: mallasoch'
+  - mallasoch
+  - sariq sochli erkak
+  - soch
 👱🏼‍♂:
   - 3-teri turi
   - erkak
-  - oq-sariq
-  - oq-sariq sochli erkak
-  - 'oq-sariq sochli erkak: 3-teri turi'
-  - sarg‘ish
+  - 'erkak: 3-teri turi mallasoch'
+  - 'erkak: mallasoch'
+  - mallasoch
+  - sariq sochli erkak
+  - soch
 👱🏽‍♂:
   - 4-teri turi
   - erkak
-  - oq-sariq
-  - oq-sariq sochli erkak
-  - 'oq-sariq sochli erkak: 4-teri turi'
-  - sarg‘ish
+  - 'erkak: 4-teri turi mallasoch'
+  - 'erkak: mallasoch'
+  - mallasoch
+  - sariq sochli erkak
+  - soch
 👱🏾‍♂:
   - 5-teri turi
   - erkak
-  - oq-sariq
-  - oq-sariq sochli erkak
-  - 'oq-sariq sochli erkak: 5-teri turi'
-  - sarg‘ish
+  - 'erkak: 5-teri turi mallasoch'
+  - 'erkak: mallasoch'
+  - mallasoch
+  - sariq sochli erkak
+  - soch
 👱🏿‍♂:
   - 6-teri turi
   - erkak
-  - oq-sariq
-  - oq-sariq sochli erkak
-  - 'oq-sariq sochli erkak: 6-teri turi'
-  - sarg‘ish
+  - 'erkak: 6-teri turi mallasoch'
+  - 'erkak: mallasoch'
+  - mallasoch
+  - sariq sochli erkak
+  - soch
 👨‍🦰:
   - erkak
   - 'erkak: malla soch'
-  - kishi
+  - katta yoshli
   - malla soch
 👨🏻‍🦰:
   - 1–2-teri turi
   - erkak
   - 'erkak: 1–2-teri turi malla soch'
-  - kishi
+  - katta yoshli
   - malla soch
 👨🏼‍🦰:
   - 3-teri turi
   - erkak
   - 'erkak: 3-teri turi malla soch'
-  - kishi
+  - katta yoshli
   - malla soch
 👨🏽‍🦰:
   - 4-teri turi
   - erkak
   - 'erkak: 4-teri turi malla soch'
-  - kishi
+  - katta yoshli
   - malla soch
 👨🏾‍🦰:
   - 5-teri turi
   - erkak
   - 'erkak: 5-teri turi malla soch'
-  - kishi
+  - katta yoshli
   - malla soch
 👨🏿‍🦰:
   - 6-teri turi
   - erkak
   - 'erkak: 6-teri turi malla soch'
-  - kishi
+  - katta yoshli
   - malla soch
 👨‍🦱:
   - erkak
   - 'erkak: jingalak soch'
   - jingalak soch
-  - kishi
+  - katta yoshli
 👨🏻‍🦱:
   - 1–2-teri turi
   - erkak
   - 'erkak: 1–2-teri turi jingalak soch'
   - jingalak soch
-  - kishi
+  - katta yoshli
 👨🏼‍🦱:
   - 3-teri turi
   - erkak
   - 'erkak: 3-teri turi jingalak soch'
   - jingalak soch
-  - kishi
+  - katta yoshli
 👨🏽‍🦱:
   - 4-teri turi
   - erkak
   - 'erkak: 4-teri turi jingalak soch'
   - jingalak soch
-  - kishi
+  - katta yoshli
 👨🏾‍🦱:
   - 5-teri turi
   - erkak
   - 'erkak: 5-teri turi jingalak soch'
   - jingalak soch
-  - kishi
+  - katta yoshli
 👨🏿‍🦱:
   - 6-teri turi
   - erkak
   - 'erkak: 6-teri turi jingalak soch'
   - jingalak soch
-  - kishi
+  - katta yoshli
 👨‍🦳:
   - erkak
   - 'erkak: oqargan soch'
-  - kishi
+  - katta yoshli
   - oqargan soch
 👨🏻‍🦳:
   - 1–2-teri turi
   - erkak
   - 'erkak: 1–2-teri turi oqargan soch'
-  - kishi
+  - katta yoshli
   - oqargan soch
 👨🏼‍🦳:
   - 3-teri turi
   - erkak
   - 'erkak: 3-teri turi oqargan soch'
-  - kishi
+  - katta yoshli
   - oqargan soch
 👨🏽‍🦳:
   - 4-teri turi
   - erkak
   - 'erkak: 4-teri turi oqargan soch'
-  - kishi
+  - katta yoshli
   - oqargan soch
 👨🏾‍🦳:
   - 5-teri turi
   - erkak
   - 'erkak: 5-teri turi oqargan soch'
-  - kishi
+  - katta yoshli
   - oqargan soch
 👨🏿‍🦳:
   - 6-teri turi
   - erkak
   - 'erkak: 6-teri turi oqargan soch'
-  - kishi
+  - katta yoshli
   - oqargan soch
 👨‍🦲:
   - erkak
   - 'erkak: kal'
   - kal
-  - kishi
+  - katta yoshli
 👨🏻‍🦲:
   - 1–2-teri turi
   - erkak
   - 'erkak: 1–2-teri turi kal'
   - kal
-  - kishi
+  - katta yoshli
 👨🏼‍🦲:
   - 3-teri turi
   - erkak
   - 'erkak: 3-teri turi kal'
   - kal
-  - kishi
+  - katta yoshli
 👨🏽‍🦲:
   - 4-teri turi
   - erkak
   - 'erkak: 4-teri turi kal'
   - kal
-  - kishi
+  - katta yoshli
 👨🏾‍🦲:
   - 5-teri turi
   - erkak
   - 'erkak: 5-teri turi kal'
   - kal
-  - kishi
+  - katta yoshli
 👨🏿‍🦲:
   - 6-teri turi
   - erkak
   - 'erkak: 6-teri turi kal'
   - kal
-  - kishi
+  - katta yoshli
 👩:
   - ayol
-  - xotin
+  - katta yoshli
 👩🏻:
   - 1–2-teri turi
   - ayol
   - 'ayol: 1–2-teri turi'
-  - xotin
+  - katta yoshli
 👩🏼:
   - 3-teri turi
   - ayol
   - 'ayol: 3-teri turi'
-  - xotin
+  - katta yoshli
 👩🏽:
   - 4-teri turi
   - ayol
   - 'ayol: 4-teri turi'
-  - xotin
+  - katta yoshli
 👩🏾:
   - 5-teri turi
   - ayol
   - 'ayol: 5-teri turi'
-  - xotin
+  - katta yoshli
 👩🏿:
   - 6-teri turi
   - ayol
   - 'ayol: 6-teri turi'
-  - xotin
+  - katta yoshli
 👱‍♀:
   - ayol
-  - oq-sariq
-  - oq-sariq sochli ayol
-  - sarg‘ish
+  - 'ayol: mallasoch'
+  - mallasoch
+  - soch
 👱🏻‍♀:
   - 1–2-teri turi
   - ayol
-  - oq-sariq
-  - oq-sariq sochli ayol
-  - 'oq-sariq sochli ayol: 1–2-teri turi'
-  - sarg‘ish
+  - 'ayol: 1–2-teri turi mallasoch'
+  - 'ayol: mallasoch'
+  - mallasoch
+  - soch
 👱🏼‍♀:
   - 3-teri turi
   - ayol
-  - oq-sariq
-  - oq-sariq sochli ayol
-  - 'oq-sariq sochli ayol: 3-teri turi'
-  - sarg‘ish
+  - 'ayol: 3-teri turi mallasoch'
+  - 'ayol: mallasoch'
+  - mallasoch
+  - soch
 👱🏽‍♀:
   - 4-teri turi
   - ayol
-  - oq-sariq
-  - oq-sariq sochli ayol
-  - 'oq-sariq sochli ayol: 4-teri turi'
-  - sarg‘ish
+  - 'ayol: 4-teri turi mallasoch'
+  - 'ayol: mallasoch'
+  - mallasoch
+  - soch
 👱🏾‍♀:
   - 5-teri turi
   - ayol
-  - oq-sariq
-  - oq-sariq sochli ayol
-  - 'oq-sariq sochli ayol: 5-teri turi'
-  - sarg‘ish
+  - 'ayol: 5-teri turi mallasoch'
+  - 'ayol: mallasoch'
+  - mallasoch
+  - soch
 👱🏿‍♀:
   - 6-teri turi
   - ayol
-  - oq-sariq
-  - oq-sariq sochli ayol
-  - 'oq-sariq sochli ayol: 6-teri turi'
-  - sarg‘ish
+  - 'ayol: 6-teri turi mallasoch'
+  - 'ayol: mallasoch'
+  - mallasoch
+  - soch
 👩‍🦰:
   - ayol
   - 'ayol: malla soch'
+  - katta yoshli
   - malla soch
-  - xotin
 👩🏻‍🦰:
   - 1–2-teri turi
   - ayol
   - 'ayol: 1–2-teri turi malla soch'
+  - katta yoshli
   - malla soch
-  - xotin
 👩🏼‍🦰:
   - 3-teri turi
   - ayol
   - 'ayol: 3-teri turi malla soch'
+  - katta yoshli
   - malla soch
-  - xotin
 👩🏽‍🦰:
   - 4-teri turi
   - ayol
   - 'ayol: 4-teri turi malla soch'
+  - katta yoshli
   - malla soch
-  - xotin
 👩🏾‍🦰:
   - 5-teri turi
   - ayol
   - 'ayol: 5-teri turi malla soch'
+  - katta yoshli
   - malla soch
-  - xotin
 👩🏿‍🦰:
   - 6-teri turi
   - ayol
   - 'ayol: 6-teri turi malla soch'
+  - katta yoshli
   - malla soch
-  - xotin
 👩‍🦱:
   - ayol
   - 'ayol: jingalak soch'
   - jingalak soch
-  - xotin
+  - katta yoshli
 👩🏻‍🦱:
   - 1–2-teri turi
   - ayol
   - 'ayol: 1–2-teri turi jingalak soch'
   - jingalak soch
-  - xotin
+  - katta yoshli
 👩🏼‍🦱:
   - 3-teri turi
   - ayol
   - 'ayol: 3-teri turi jingalak soch'
   - jingalak soch
-  - xotin
+  - katta yoshli
 👩🏽‍🦱:
   - 4-teri turi
   - ayol
   - 'ayol: 4-teri turi jingalak soch'
   - jingalak soch
-  - xotin
+  - katta yoshli
 👩🏾‍🦱:
   - 5-teri turi
   - ayol
   - 'ayol: 5-teri turi jingalak soch'
   - jingalak soch
-  - xotin
+  - katta yoshli
 👩🏿‍🦱:
   - 6-teri turi
   - ayol
   - 'ayol: 6-teri turi jingalak soch'
   - jingalak soch
-  - xotin
+  - katta yoshli
 👩‍🦳:
   - ayol
   - 'ayol: oqargan soch'
+  - katta yoshli
   - oqargan soch
-  - xotin
 👩🏻‍🦳:
   - 1–2-teri turi
   - ayol
   - 'ayol: 1–2-teri turi oqargan soch'
+  - katta yoshli
   - oqargan soch
-  - xotin
 👩🏼‍🦳:
   - 3-teri turi
   - ayol
   - 'ayol: 3-teri turi oqargan soch'
+  - katta yoshli
   - oqargan soch
-  - xotin
 👩🏽‍🦳:
   - 4-teri turi
   - ayol
   - 'ayol: 4-teri turi oqargan soch'
+  - katta yoshli
   - oqargan soch
-  - xotin
 👩🏾‍🦳:
   - 5-teri turi
   - ayol
   - 'ayol: 5-teri turi oqargan soch'
+  - katta yoshli
   - oqargan soch
-  - xotin
 👩🏿‍🦳:
   - 6-teri turi
   - ayol
   - 'ayol: 6-teri turi oqargan soch'
+  - katta yoshli
   - oqargan soch
-  - xotin
 👩‍🦲:
   - ayol
   - 'ayol: kal'
   - kal
-  - xotin
+  - katta yoshli
 👩🏻‍🦲:
   - 1–2-teri turi
   - ayol
   - 'ayol: 1–2-teri turi kal'
   - kal
-  - xotin
+  - katta yoshli
 👩🏼‍🦲:
   - 3-teri turi
   - ayol
   - 'ayol: 3-teri turi kal'
   - kal
-  - xotin
+  - katta yoshli
 👩🏽‍🦲:
   - 4-teri turi
   - ayol
   - 'ayol: 4-teri turi kal'
   - kal
-  - xotin
+  - katta yoshli
 👩🏾‍🦲:
   - 5-teri turi
   - ayol
   - 'ayol: 5-teri turi kal'
   - kal
-  - xotin
+  - katta yoshli
 👩🏿‍🦲:
   - 6-teri turi
   - ayol
   - 'ayol: 6-teri turi kal'
   - kal
-  - xotin
+  - katta yoshli
 🧓:
+  - jinsi noaniq
   - keksa
   - neytral jins
   - qari odam
   - qariya
 🧓🏻:
   - 1–2-teri turi
+  - jinsi noaniq
   - keksa
   - neytral jins
   - qari odam
@@ -3059,6 +3492,7 @@
   - qariya
 🧓🏼:
   - 3-teri turi
+  - jinsi noaniq
   - keksa
   - neytral jins
   - qari odam
@@ -3066,6 +3500,7 @@
   - qariya
 🧓🏽:
   - 4-teri turi
+  - jinsi noaniq
   - keksa
   - neytral jins
   - qari odam
@@ -3073,6 +3508,7 @@
   - qariya
 🧓🏾:
   - 5-teri turi
+  - jinsi noaniq
   - keksa
   - neytral jins
   - qari odam
@@ -3080,6 +3516,7 @@
   - qariya
 🧓🏿:
   - 6-teri turi
+  - jinsi noaniq
   - keksa
   - neytral jins
   - qari odam
@@ -3087,72 +3524,84 @@
   - qariya
 👴:
   - chol
-  - erkak kishi
-  - qari
+  - erkak
+  - katta yoshli
+  - qariya
 👴🏻:
   - 1–2-teri turi
   - chol
   - 'chol: 1–2-teri turi'
-  - erkak kishi
-  - qari
+  - erkak
+  - katta yoshli
+  - qariya
 👴🏼:
   - 3-teri turi
   - chol
   - 'chol: 3-teri turi'
-  - erkak kishi
-  - qari
+  - erkak
+  - katta yoshli
+  - qariya
 👴🏽:
   - 4-teri turi
   - chol
   - 'chol: 4-teri turi'
-  - erkak kishi
-  - qari
+  - erkak
+  - katta yoshli
+  - qariya
 👴🏾:
   - 5-teri turi
   - chol
   - 'chol: 5-teri turi'
-  - erkak kishi
-  - qari
+  - erkak
+  - katta yoshli
+  - qariya
 👴🏿:
   - 6-teri turi
   - chol
   - 'chol: 6-teri turi'
-  - erkak kishi
-  - qari
+  - erkak
+  - katta yoshli
+  - qariya
 👵:
   - ayol
   - kampir
-  - qari
+  - katta yoshli
+  - qariya
 👵🏻:
   - 1–2-teri turi
   - ayol
   - kampir
   - 'kampir: 1–2-teri turi'
-  - qari
+  - katta yoshli
+  - qariya
 👵🏼:
   - 3-teri turi
   - ayol
   - kampir
   - 'kampir: 3-teri turi'
-  - qari
+  - katta yoshli
+  - qariya
 👵🏽:
   - 4-teri turi
   - ayol
   - kampir
   - 'kampir: 4-teri turi'
-  - qari
+  - katta yoshli
+  - qariya
 👵🏾:
   - 5-teri turi
   - ayol
   - kampir
   - 'kampir: 5-teri turi'
-  - qari
+  - katta yoshli
+  - qariya
 👵🏿:
   - 6-teri turi
   - ayol
   - kampir
   - 'kampir: 6-teri turi'
-  - qari
+  - katta yoshli
+  - qariya
 🙍:
   - imo-ishora
   - qovog‘ini solish
@@ -3189,83 +3638,83 @@
   - 'xo‘mraygan odam: 6-teri turi'
 🙍‍♂:
   - erkak
+  - xoʻmrayish
   - xo‘mraygan erkak
-  - xo‘mrayish
   - yuz ifodasi
 🙍🏻‍♂:
   - 1–2-teri turi
   - erkak
+  - xoʻmrayish
   - xo‘mraygan erkak
   - 'xo‘mraygan erkak: 1–2-teri turi'
-  - xo‘mrayish
   - yuz ifodasi
 🙍🏼‍♂:
   - 3-teri turi
   - erkak
+  - xoʻmrayish
   - xo‘mraygan erkak
   - 'xo‘mraygan erkak: 3-teri turi'
-  - xo‘mrayish
   - yuz ifodasi
 🙍🏽‍♂:
   - 4-teri turi
   - erkak
+  - xoʻmrayish
   - xo‘mraygan erkak
   - 'xo‘mraygan erkak: 4-teri turi'
-  - xo‘mrayish
   - yuz ifodasi
 🙍🏾‍♂:
   - 5-teri turi
   - erkak
+  - xoʻmrayish
   - xo‘mraygan erkak
   - 'xo‘mraygan erkak: 5-teri turi'
-  - xo‘mrayish
   - yuz ifodasi
 🙍🏿‍♂:
   - 6-teri turi
   - erkak
+  - xoʻmrayish
   - xo‘mraygan erkak
   - 'xo‘mraygan erkak: 6-teri turi'
-  - xo‘mrayish
   - yuz ifodasi
 🙍‍♀:
   - ayol
+  - xoʻmrayish
   - xo‘mraygan ayol
-  - xo‘mrayish
   - yuz ifodasi
 🙍🏻‍♀:
   - 1–2-teri turi
   - ayol
+  - xoʻmrayish
   - xo‘mraygan ayol
   - 'xo‘mraygan ayol: 1–2-teri turi'
-  - xo‘mrayish
   - yuz ifodasi
 🙍🏼‍♀:
   - 3-teri turi
   - ayol
+  - xoʻmrayish
   - xo‘mraygan ayol
   - 'xo‘mraygan ayol: 3-teri turi'
-  - xo‘mrayish
   - yuz ifodasi
 🙍🏽‍♀:
   - 4-teri turi
   - ayol
+  - xoʻmrayish
   - xo‘mraygan ayol
   - 'xo‘mraygan ayol: 4-teri turi'
-  - xo‘mrayish
   - yuz ifodasi
 🙍🏾‍♀:
   - 5-teri turi
   - ayol
+  - xoʻmrayish
   - xo‘mraygan ayol
   - 'xo‘mraygan ayol: 5-teri turi'
-  - xo‘mrayish
   - yuz ifodasi
 🙍🏿‍♀:
   - 6-teri turi
   - ayol
+  - xoʻmrayish
   - xo‘mraygan ayol
   - 'xo‘mraygan ayol: 6-teri turi'
-  - xo‘mrayish
   - yuz ifodasi
 🙎:
   - imo-ishora
@@ -3376,7 +3825,7 @@
   - man qilingan
   - qo‘l
   - taqiqlangan
-  - yo‘q
+  - yoʻq ishorasi
   - yo‘q ishorasi
 🙅🏻:
   - 1–2-teri turi
@@ -3384,7 +3833,7 @@
   - man qilingan
   - qo‘l
   - taqiqlangan
-  - yo‘q
+  - yoʻq ishorasi
   - yo‘q ishorasi
   - 'yo‘q ishorasi: 1–2-teri turi'
 🙅🏼:
@@ -3393,7 +3842,7 @@
   - man qilingan
   - qo‘l
   - taqiqlangan
-  - yo‘q
+  - yoʻq ishorasi
   - yo‘q ishorasi
   - 'yo‘q ishorasi: 3-teri turi'
 🙅🏽:
@@ -3402,7 +3851,7 @@
   - man qilingan
   - qo‘l
   - taqiqlangan
-  - yo‘q
+  - yoʻq ishorasi
   - yo‘q ishorasi
   - 'yo‘q ishorasi: 4-teri turi'
 🙅🏾:
@@ -3411,7 +3860,7 @@
   - man qilingan
   - qo‘l
   - taqiqlangan
-  - yo‘q
+  - yoʻq ishorasi
   - yo‘q ishorasi
   - 'yo‘q ishorasi: 5-teri turi'
 🙅🏿:
@@ -3420,101 +3869,113 @@
   - man qilingan
   - qo‘l
   - taqiqlangan
-  - yo‘q
+  - yoʻq ishorasi
   - yo‘q ishorasi
   - 'yo‘q ishorasi: 6-teri turi'
 🙅‍♂:
+  - erkak yoʻq demoqda
   - erkak yo‘q demoqda
   - imo-ishora
+  - man qilingan
   - qo‘l
   - taqiqlangan
-  - yo‘q
 🙅🏻‍♂:
   - 1–2-teri turi
+  - erkak yoʻq demoqda
   - erkak yo‘q demoqda
   - 'erkak yo‘q demoqda: 1–2-teri turi'
   - imo-ishora
+  - man qilingan
   - qo‘l
   - taqiqlangan
-  - yo‘q
 🙅🏼‍♂:
   - 3-teri turi
+  - erkak yoʻq demoqda
   - erkak yo‘q demoqda
   - 'erkak yo‘q demoqda: 3-teri turi'
   - imo-ishora
+  - man qilingan
   - qo‘l
   - taqiqlangan
-  - yo‘q
 🙅🏽‍♂:
   - 4-teri turi
+  - erkak yoʻq demoqda
   - erkak yo‘q demoqda
   - 'erkak yo‘q demoqda: 4-teri turi'
   - imo-ishora
+  - man qilingan
   - qo‘l
   - taqiqlangan
-  - yo‘q
 🙅🏾‍♂:
   - 5-teri turi
+  - erkak yoʻq demoqda
   - erkak yo‘q demoqda
   - 'erkak yo‘q demoqda: 5-teri turi'
   - imo-ishora
+  - man qilingan
   - qo‘l
   - taqiqlangan
-  - yo‘q
 🙅🏿‍♂:
   - 6-teri turi
+  - erkak yoʻq demoqda
   - erkak yo‘q demoqda
   - 'erkak yo‘q demoqda: 6-teri turi'
   - imo-ishora
+  - man qilingan
   - qo‘l
   - taqiqlangan
-  - yo‘q
 🙅‍♀:
+  - ayol yoʻq demoqda
   - ayol yo‘q demoqda
   - imo-ishora
+  - man qilingan
   - qo‘l
   - taqiqlangan
-  - yo‘q
 🙅🏻‍♀:
   - 1–2-teri turi
+  - ayol yoʻq demoqda
   - ayol yo‘q demoqda
   - 'ayol yo‘q demoqda: 1–2-teri turi'
   - imo-ishora
+  - man qilingan
   - qo‘l
   - taqiqlangan
-  - yo‘q
 🙅🏼‍♀:
   - 3-teri turi
+  - ayol yoʻq demoqda
   - ayol yo‘q demoqda
   - 'ayol yo‘q demoqda: 3-teri turi'
   - imo-ishora
+  - man qilingan
   - qo‘l
   - taqiqlangan
-  - yo‘q
 🙅🏽‍♀:
   - 4-teri turi
+  - ayol yoʻq demoqda
   - ayol yo‘q demoqda
   - 'ayol yo‘q demoqda: 4-teri turi'
   - imo-ishora
+  - man qilingan
   - qo‘l
   - taqiqlangan
-  - yo‘q
 🙅🏾‍♀:
   - 5-teri turi
+  - ayol yoʻq demoqda
   - ayol yo‘q demoqda
   - 'ayol yo‘q demoqda: 5-teri turi'
   - imo-ishora
+  - man qilingan
   - qo‘l
   - taqiqlangan
-  - yo‘q
 🙅🏿‍♀:
   - 6-teri turi
+  - ayol yoʻq demoqda
   - ayol yo‘q demoqda
   - 'ayol yo‘q demoqda: 6-teri turi'
   - imo-ishora
+  - man qilingan
   - qo‘l
   - taqiqlangan
-  - yo‘q
 🙆:
   - imo-ishora
   - ok
@@ -3899,6 +4360,110 @@
   - 'ayol qo‘l ko‘tarmoqda: 6-teri turi'
   - imo-ishora
   - qo‘l ko‘tarish
+🧏:
+  - eshitish
+  - kar
+  - kar odam
+  - nogironlik
+  - quloq
+🧏🏻:
+  - 1–2-teri turi
+  - eshitish
+  - kar
+  - kar odam
+  - 'kar odam: 1–2-teri turi'
+  - nogironlik
+  - quloq
+🧏🏼:
+  - 3-teri turi
+  - eshitish
+  - kar
+  - kar odam
+  - 'kar odam: 3-teri turi'
+  - nogironlik
+  - quloq
+🧏🏽:
+  - 4-teri turi
+  - eshitish
+  - kar
+  - kar odam
+  - 'kar odam: 4-teri turi'
+  - nogironlik
+  - quloq
+🧏🏾:
+  - 5-teri turi
+  - eshitish
+  - kar
+  - kar odam
+  - 'kar odam: 5-teri turi'
+  - nogironlik
+  - quloq
+🧏🏿:
+  - 6-teri turi
+  - eshitish
+  - kar
+  - kar odam
+  - 'kar odam: 6-teri turi'
+  - nogironlik
+  - quloq
+🧏‍♂:
+  - erkak
+  - kar
+  - kar erkak
+🧏🏻‍♂:
+  - 1–2-teri turi
+  - erkak
+  - kar
+  - 'kar erkak: 1–2-teri turi'
+🧏🏼‍♂:
+  - 3-teri turi
+  - erkak
+  - kar
+  - 'kar erkak: 3-teri turi'
+🧏🏽‍♂:
+  - 4-teri turi
+  - erkak
+  - kar
+  - 'kar erkak: 4-teri turi'
+🧏🏾‍♂:
+  - 5-teri turi
+  - erkak
+  - kar
+  - 'kar erkak: 5-teri turi'
+🧏🏿‍♂:
+  - 6-teri turi
+  - erkak
+  - kar
+  - 'kar erkak: 6-teri turi'
+🧏‍♀:
+  - ayol
+  - kar
+  - kar ayol
+🧏🏻‍♀:
+  - 1–2-teri turi
+  - ayol
+  - kar
+  - 'kar ayol: 1–2-teri turi'
+🧏🏼‍♀:
+  - 3-teri turi
+  - ayol
+  - kar
+  - 'kar ayol: 3-teri turi'
+🧏🏽‍♀:
+  - 4-teri turi
+  - ayol
+  - kar
+  - 'kar ayol: 4-teri turi'
+🧏🏾‍♀:
+  - 5-teri turi
+  - ayol
+  - kar
+  - 'kar ayol: 5-teri turi'
+🧏🏿‍♀:
+  - 6-teri turi
+  - ayol
+  - kar
+  - 'kar ayol: 6-teri turi'
 🙇:
   - imo-ishora
   - kechirim so‘rash
@@ -3948,82 +4513,106 @@
 🙇‍♂:
   - erkak
   - erkak ta’zim qilmoqda
+  - iltifot
   - imo-ishora
+  - taʼzim
   - uzr
 🙇🏻‍♂:
   - 1–2-teri turi
   - erkak
   - erkak ta’zim qilmoqda
   - 'erkak ta’zim qilmoqda: 1–2-teri turi'
+  - iltifot
   - imo-ishora
+  - taʼzim
   - uzr
 🙇🏼‍♂:
   - 3-teri turi
   - erkak
   - erkak ta’zim qilmoqda
   - 'erkak ta’zim qilmoqda: 3-teri turi'
+  - iltifot
   - imo-ishora
+  - taʼzim
   - uzr
 🙇🏽‍♂:
   - 4-teri turi
   - erkak
   - erkak ta’zim qilmoqda
   - 'erkak ta’zim qilmoqda: 4-teri turi'
+  - iltifot
   - imo-ishora
+  - taʼzim
   - uzr
 🙇🏾‍♂:
   - 5-teri turi
   - erkak
   - erkak ta’zim qilmoqda
   - 'erkak ta’zim qilmoqda: 5-teri turi'
+  - iltifot
   - imo-ishora
+  - taʼzim
   - uzr
 🙇🏿‍♂:
   - 6-teri turi
   - erkak
   - erkak ta’zim qilmoqda
   - 'erkak ta’zim qilmoqda: 6-teri turi'
+  - iltifot
   - imo-ishora
+  - taʼzim
   - uzr
 🙇‍♀:
   - ayol
   - ayol ta’zim qilmoqda
+  - iltifot
   - imo-ishora
+  - taʼzim
   - uzr
 🙇🏻‍♀:
   - 1–2-teri turi
   - ayol
   - ayol ta’zim qilmoqda
   - 'ayol ta’zim qilmoqda: 1–2-teri turi'
+  - iltifot
   - imo-ishora
+  - taʼzim
   - uzr
 🙇🏼‍♀:
   - 3-teri turi
   - ayol
   - ayol ta’zim qilmoqda
   - 'ayol ta’zim qilmoqda: 3-teri turi'
+  - iltifot
   - imo-ishora
+  - taʼzim
   - uzr
 🙇🏽‍♀:
   - 4-teri turi
   - ayol
   - ayol ta’zim qilmoqda
   - 'ayol ta’zim qilmoqda: 4-teri turi'
+  - iltifot
   - imo-ishora
+  - taʼzim
   - uzr
 🙇🏾‍♀:
   - 5-teri turi
   - ayol
   - ayol ta’zim qilmoqda
   - 'ayol ta’zim qilmoqda: 5-teri turi'
+  - iltifot
   - imo-ishora
+  - taʼzim
   - uzr
 🙇🏿‍♀:
   - 6-teri turi
   - ayol
   - ayol ta’zim qilmoqda
   - 'ayol ta’zim qilmoqda: 6-teri turi'
+  - iltifot
   - imo-ishora
+  - taʼzim
   - uzr
 🤦:
   - boshqa gapim yo‘q
@@ -4301,6 +4890,52 @@
   - 'ayol yelka qismoqda: 6-teri turi'
   - shubha
   - yelka qisish
+🧑‍⚕:
+  - doktor
+  - hamshira
+  - shifokor
+  - sogʻliqni saqlash
+  - tibbiyot xodimi
+🧑🏻‍⚕:
+  - 1–2-teri turi
+  - doktor
+  - hamshira
+  - shifokor
+  - sogʻliqni saqlash
+  - tibbiyot xodimi
+  - 'tibbiyot xodimi: 1–2-teri turi'
+🧑🏼‍⚕:
+  - 3-teri turi
+  - doktor
+  - hamshira
+  - shifokor
+  - sogʻliqni saqlash
+  - tibbiyot xodimi
+  - 'tibbiyot xodimi: 3-teri turi'
+🧑🏽‍⚕:
+  - 4-teri turi
+  - doktor
+  - hamshira
+  - shifokor
+  - sogʻliqni saqlash
+  - tibbiyot xodimi
+  - 'tibbiyot xodimi: 4-teri turi'
+🧑🏾‍⚕:
+  - 5-teri turi
+  - doktor
+  - hamshira
+  - shifokor
+  - sogʻliqni saqlash
+  - tibbiyot xodimi
+  - 'tibbiyot xodimi: 5-teri turi'
+🧑🏿‍⚕:
+  - 6-teri turi
+  - doktor
+  - hamshira
+  - shifokor
+  - sogʻliqni saqlash
+  - tibbiyot xodimi
+  - 'tibbiyot xodimi: 6-teri turi'
 👨‍⚕:
   - doktor
   - erkak shifokor
@@ -4393,6 +5028,40 @@
   - doktor
   - hamshira
   - sog‘liqni saqlash
+🧑‍🎓:
+  - bitirish
+  - oʻqishni bitirish
+  - talaba
+🧑🏻‍🎓:
+  - 1–2-teri turi
+  - bitirish
+  - oʻqishni bitirish
+  - talaba
+  - 'talaba: 1–2-teri turi'
+🧑🏼‍🎓:
+  - 3-teri turi
+  - bitirish
+  - oʻqishni bitirish
+  - talaba
+  - 'talaba: 3-teri turi'
+🧑🏽‍🎓:
+  - 4-teri turi
+  - bitirish
+  - oʻqishni bitirish
+  - talaba
+  - 'talaba: 4-teri turi'
+🧑🏾‍🎓:
+  - 5-teri turi
+  - bitirish
+  - oʻqishni bitirish
+  - talaba
+  - 'talaba: 5-teri turi'
+🧑🏿‍🎓:
+  - 6-teri turi
+  - bitirish
+  - oʻqishni bitirish
+  - talaba
+  - 'talaba: 6-teri turi'
 👨‍🎓:
   - bitiruvchi
   - erkak
@@ -4469,6 +5138,40 @@
   - 'ayol talaba: 6-teri turi'
   - bitiruvchi
   - talaba
+🧑‍🏫:
+  - instruktor
+  - oʻqituvchi
+  - professor
+🧑🏻‍🏫:
+  - 1–2-teri turi
+  - instruktor
+  - oʻqituvchi
+  - 'oʻqituvchi: 1–2-teri turi'
+  - professor
+🧑🏼‍🏫:
+  - 3-teri turi
+  - instruktor
+  - oʻqituvchi
+  - 'oʻqituvchi: 3-teri turi'
+  - professor
+🧑🏽‍🏫:
+  - 4-teri turi
+  - instruktor
+  - oʻqituvchi
+  - 'oʻqituvchi: 4-teri turi'
+  - professor
+🧑🏾‍🏫:
+  - 5-teri turi
+  - instruktor
+  - oʻqituvchi
+  - 'oʻqituvchi: 5-teri turi'
+  - professor
+🧑🏿‍🏫:
+  - 6-teri turi
+  - instruktor
+  - oʻqituvchi
+  - 'oʻqituvchi: 6-teri turi'
+  - professor
 👨‍🏫:
   - erkak
   - erkak o‘qituvchi
@@ -4539,6 +5242,34 @@
   - 'ayol o‘qituvchi: 6-teri turi'
   - o‘qituvchi
   - professor
+🧑‍⚖:
+  - sudya
+  - tarozi
+🧑🏻‍⚖:
+  - 1–2-teri turi
+  - sudya
+  - 'sudya: 1–2-teri turi'
+  - tarozi
+🧑🏼‍⚖:
+  - 3-teri turi
+  - sudya
+  - 'sudya: 3-teri turi'
+  - tarozi
+🧑🏽‍⚖:
+  - 4-teri turi
+  - sudya
+  - 'sudya: 4-teri turi'
+  - tarozi
+🧑🏾‍⚖:
+  - 5-teri turi
+  - sudya
+  - 'sudya: 5-teri turi'
+  - tarozi
+🧑🏿‍⚖:
+  - 6-teri turi
+  - sudya
+  - 'sudya: 6-teri turi'
+  - tarozi
 👨‍⚖:
   - adliya
   - erkak
@@ -4626,6 +5357,40 @@
   - sudya
   - tarozi
   - xotin
+🧑‍🌾:
+  - bogʻbon
+  - dehqon
+  - fermer
+🧑🏻‍🌾:
+  - 1–2-teri turi
+  - bogʻbon
+  - dehqon
+  - fermer
+  - 'fermer: 1–2-teri turi'
+🧑🏼‍🌾:
+  - 3-teri turi
+  - bogʻbon
+  - dehqon
+  - fermer
+  - 'fermer: 3-teri turi'
+🧑🏽‍🌾:
+  - 4-teri turi
+  - bogʻbon
+  - dehqon
+  - fermer
+  - 'fermer: 4-teri turi'
+🧑🏾‍🌾:
+  - 5-teri turi
+  - bogʻbon
+  - dehqon
+  - fermer
+  - 'fermer: 5-teri turi'
+🧑🏿‍🌾:
+  - 6-teri turi
+  - bogʻbon
+  - dehqon
+  - fermer
+  - 'fermer: 6-teri turi'
 👨‍🌾:
   - bog‘bon
   - erkak
@@ -4708,6 +5473,34 @@
   - bog‘bon
   - fermer
   - rancho egasi
+🧑‍🍳:
+  - bosh oshpaz
+  - oshpaz
+🧑🏻‍🍳:
+  - 1–2-teri turi
+  - bosh oshpaz
+  - oshpaz
+  - 'oshpaz: 1–2-teri turi'
+🧑🏼‍🍳:
+  - 3-teri turi
+  - bosh oshpaz
+  - oshpaz
+  - 'oshpaz: 3-teri turi'
+🧑🏽‍🍳:
+  - 4-teri turi
+  - bosh oshpaz
+  - oshpaz
+  - 'oshpaz: 4-teri turi'
+🧑🏾‍🍳:
+  - 5-teri turi
+  - bosh oshpaz
+  - oshpaz
+  - 'oshpaz: 5-teri turi'
+🧑🏿‍🍳:
+  - 6-teri turi
+  - bosh oshpaz
+  - oshpaz
+  - 'oshpaz: 6-teri turi'
 👨‍🍳:
   - bosh oshpaz
   - erkak
@@ -4790,190 +5583,347 @@
   - bosh oshpaz
   - oshpaz
   - xotin
-👨‍🔧:
+🧑‍🔧:
+  - chilangar
   - elektrik
-  - erkak mexanik
   - mexanik
   - santexnik
   - sotuvchi
+🧑🏻‍🔧:
+  - 1–2-teri turi
+  - chilangar
+  - elektrik
+  - mexanik
+  - 'mexanik: 1–2-teri turi'
+  - santexnik
+  - sotuvchi
+🧑🏼‍🔧:
+  - 3-teri turi
+  - chilangar
+  - elektrik
+  - mexanik
+  - 'mexanik: 3-teri turi'
+  - santexnik
+  - sotuvchi
+🧑🏽‍🔧:
+  - 4-teri turi
+  - chilangar
+  - elektrik
+  - mexanik
+  - 'mexanik: 4-teri turi'
+  - santexnik
+  - sotuvchi
+🧑🏾‍🔧:
+  - 5-teri turi
+  - chilangar
+  - elektrik
+  - mexanik
+  - 'mexanik: 5-teri turi'
+  - santexnik
+  - sotuvchi
+🧑🏿‍🔧:
+  - 6-teri turi
+  - chilangar
+  - elektrik
+  - mexanik
+  - 'mexanik: 6-teri turi'
+  - santexnik
+  - sotuvchi
+👨‍🔧:
+  - elektrik
+  - erkak mexanik
+  - hunarmand
+  - mexanik
+  - santexnik
 👨🏻‍🔧:
   - 1–2-teri turi
   - elektrik
   - erkak mexanik
   - 'erkak mexanik: 1–2-teri turi'
+  - hunarmand
   - mexanik
   - santexnik
-  - sotuvchi
 👨🏼‍🔧:
   - 3-teri turi
   - elektrik
   - erkak mexanik
   - 'erkak mexanik: 3-teri turi'
+  - hunarmand
   - mexanik
   - santexnik
-  - sotuvchi
 👨🏽‍🔧:
   - 4-teri turi
   - elektrik
   - erkak mexanik
   - 'erkak mexanik: 4-teri turi'
+  - hunarmand
   - mexanik
   - santexnik
-  - sotuvchi
 👨🏾‍🔧:
   - 5-teri turi
   - elektrik
   - erkak mexanik
   - 'erkak mexanik: 5-teri turi'
+  - hunarmand
   - mexanik
   - santexnik
-  - sotuvchi
 👨🏿‍🔧:
   - 6-teri turi
   - elektrik
   - erkak mexanik
   - 'erkak mexanik: 6-teri turi'
+  - hunarmand
   - mexanik
   - santexnik
-  - sotuvchi
 👩‍🔧:
+  - ayol
   - ayol mexanik
   - elektrik
+  - hunarmand
   - mexanik
   - santexnik
-  - sotuvchi
 👩🏻‍🔧:
   - 1–2-teri turi
-  - ayol mexanik
+  - ayol
   - 'ayol mexanik: 1–2-teri turi'
   - elektrik
+  - hunarmand
   - mexanik
   - santexnik
-  - sotuvchi
 👩🏼‍🔧:
   - 3-teri turi
-  - ayol mexanik
+  - ayol
   - 'ayol mexanik: 3-teri turi'
   - elektrik
+  - hunarmand
   - mexanik
   - santexnik
-  - sotuvchi
 👩🏽‍🔧:
   - 4-teri turi
-  - ayol mexanik
+  - ayol
   - 'ayol mexanik: 4-teri turi'
   - elektrik
+  - hunarmand
   - mexanik
   - santexnik
-  - sotuvchi
 👩🏾‍🔧:
   - 5-teri turi
-  - ayol mexanik
+  - ayol
   - 'ayol mexanik: 5-teri turi'
   - elektrik
+  - hunarmand
   - mexanik
   - santexnik
-  - sotuvchi
 👩🏿‍🔧:
   - 6-teri turi
-  - ayol mexanik
+  - ayol
   - 'ayol mexanik: 6-teri turi'
   - elektrik
+  - hunarmand
   - mexanik
   - santexnik
-  - sotuvchi
+🧑‍🏭:
+  - ishchi
+  - montaj
+  - sanoat
+  - yigʻish
+  - zavod
+  - zavod ishchisi
+🧑🏻‍🏭:
+  - 1–2-teri turi
+  - ishchi
+  - montaj
+  - sanoat
+  - yigʻish
+  - zavod
+  - zavod ishchisi
+  - 'zavod ishchisi: 1–2-teri turi'
+🧑🏼‍🏭:
+  - 3-teri turi
+  - ishchi
+  - montaj
+  - sanoat
+  - yigʻish
+  - zavod
+  - zavod ishchisi
+  - 'zavod ishchisi: 3-teri turi'
+🧑🏽‍🏭:
+  - 4-teri turi
+  - ishchi
+  - montaj
+  - sanoat
+  - yigʻish
+  - zavod
+  - zavod ishchisi
+  - 'zavod ishchisi: 4-teri turi'
+🧑🏾‍🏭:
+  - 5-teri turi
+  - ishchi
+  - montaj
+  - sanoat
+  - yigʻish
+  - zavod
+  - zavod ishchisi
+  - 'zavod ishchisi: 5-teri turi'
+🧑🏿‍🏭:
+  - 6-teri turi
+  - ishchi
+  - montaj
+  - sanoat
+  - yigʻish
+  - zavod
+  - zavod ishchisi
+  - 'zavod ishchisi: 6-teri turi'
 👨‍🏭:
+  - erkak
   - erkak zavod ishchisi
   - ishchi
   - sanoat
-  - yig‘uv
+  - yigʻuv
   - zavod
 👨🏻‍🏭:
   - 1–2-teri turi
+  - erkak
   - erkak zavod ishchisi
   - 'erkak zavod ishchisi: 1–2-teri turi'
   - ishchi
   - sanoat
-  - yig‘uv
+  - yigʻuv
   - zavod
 👨🏼‍🏭:
   - 3-teri turi
+  - erkak
   - erkak zavod ishchisi
   - 'erkak zavod ishchisi: 3-teri turi'
   - ishchi
   - sanoat
-  - yig‘uv
+  - yigʻuv
   - zavod
 👨🏽‍🏭:
   - 4-teri turi
+  - erkak
   - erkak zavod ishchisi
   - 'erkak zavod ishchisi: 4-teri turi'
   - ishchi
   - sanoat
-  - yig‘uv
+  - yigʻuv
   - zavod
 👨🏾‍🏭:
   - 5-teri turi
+  - erkak
   - erkak zavod ishchisi
   - 'erkak zavod ishchisi: 5-teri turi'
   - ishchi
   - sanoat
-  - yig‘uv
+  - yigʻuv
   - zavod
 👨🏿‍🏭:
   - 6-teri turi
+  - erkak
   - erkak zavod ishchisi
   - 'erkak zavod ishchisi: 6-teri turi'
   - ishchi
   - sanoat
-  - yig‘uv
+  - yigʻuv
   - zavod
 👩‍🏭:
+  - ayol
   - ayol zavod ishchisi
   - ishchi
   - sanoat
-  - yig‘uv
+  - yigʻuv
   - zavod
 👩🏻‍🏭:
   - 1–2-teri turi
+  - ayol
   - ayol zavod ishchisi
   - 'ayol zavod ishchisi: 1–2-teri turi'
   - ishchi
   - sanoat
-  - yig‘uv
+  - yigʻuv
   - zavod
 👩🏼‍🏭:
   - 3-teri turi
+  - ayol
   - ayol zavod ishchisi
   - 'ayol zavod ishchisi: 3-teri turi'
   - ishchi
   - sanoat
-  - yig‘uv
+  - yigʻuv
   - zavod
 👩🏽‍🏭:
   - 4-teri turi
+  - ayol
   - ayol zavod ishchisi
   - 'ayol zavod ishchisi: 4-teri turi'
   - ishchi
   - sanoat
-  - yig‘uv
+  - yigʻuv
   - zavod
 👩🏾‍🏭:
   - 5-teri turi
+  - ayol
   - ayol zavod ishchisi
   - 'ayol zavod ishchisi: 5-teri turi'
   - ishchi
   - sanoat
-  - yig‘uv
+  - yigʻuv
   - zavod
 👩🏿‍🏭:
   - 6-teri turi
+  - ayol
   - ayol zavod ishchisi
   - 'ayol zavod ishchisi: 6-teri turi'
   - ishchi
   - sanoat
-  - yig‘uv
+  - yigʻuv
   - zavod
+🧑‍💼:
+  - arxitektor
+  - biznes
+  - menejer
+  - ofis ishchisi
+  - ofis xodimi
+🧑🏻‍💼:
+  - 1–2-teri turi
+  - arxitektor
+  - biznes
+  - menejer
+  - ofis ishchisi
+  - ofis xodimi
+  - 'ofis xodimi: 1–2-teri turi'
+🧑🏼‍💼:
+  - 3-teri turi
+  - arxitektor
+  - biznes
+  - menejer
+  - ofis ishchisi
+  - ofis xodimi
+  - 'ofis xodimi: 3-teri turi'
+🧑🏽‍💼:
+  - 4-teri turi
+  - arxitektor
+  - biznes
+  - menejer
+  - ofis ishchisi
+  - ofis xodimi
+  - 'ofis xodimi: 4-teri turi'
+🧑🏾‍💼:
+  - 5-teri turi
+  - arxitektor
+  - biznes
+  - menejer
+  - ofis ishchisi
+  - ofis xodimi
+  - 'ofis xodimi: 5-teri turi'
+🧑🏿‍💼:
+  - 6-teri turi
+  - arxitektor
+  - biznes
+  - menejer
+  - ofis ishchisi
+  - ofis xodimi
+  - 'ofis xodimi: 6-teri turi'
 👨‍💼:
   - arxitektor
   - biznes
@@ -5066,362 +6016,615 @@
   - biznes
   - menejer
   - ofis
+🧑‍🔬:
+  - biolog
+  - fizik
+  - injener
+  - muhandis
+  - olim
+  - ximik
+🧑🏻‍🔬:
+  - 1–2-teri turi
+  - biolog
+  - fizik
+  - injener
+  - muhandis
+  - olim
+  - 'olim: 1–2-teri turi'
+  - ximik
+🧑🏼‍🔬:
+  - 3-teri turi
+  - biolog
+  - fizik
+  - injener
+  - muhandis
+  - olim
+  - 'olim: 3-teri turi'
+  - ximik
+🧑🏽‍🔬:
+  - 4-teri turi
+  - biolog
+  - fizik
+  - injener
+  - muhandis
+  - olim
+  - 'olim: 4-teri turi'
+  - ximik
+🧑🏾‍🔬:
+  - 5-teri turi
+  - biolog
+  - fizik
+  - injener
+  - muhandis
+  - olim
+  - 'olim: 5-teri turi'
+  - ximik
+🧑🏿‍🔬:
+  - 6-teri turi
+  - biolog
+  - fizik
+  - injener
+  - muhandis
+  - olim
+  - 'olim: 6-teri turi'
+  - ximik
 👨‍🔬:
   - biolog
+  - erkak
   - erkak olim
   - kimyogar
-  - matematik
   - muhandis
+  - olim
 👨🏻‍🔬:
   - 1–2-teri turi
   - biolog
-  - erkak olim
+  - erkak
   - 'erkak olim: 1–2-teri turi'
   - kimyogar
-  - matematik
   - muhandis
+  - olim
 👨🏼‍🔬:
   - 3-teri turi
   - biolog
-  - erkak olim
+  - erkak
   - 'erkak olim: 3-teri turi'
   - kimyogar
-  - matematik
   - muhandis
+  - olim
 👨🏽‍🔬:
   - 4-teri turi
   - biolog
-  - erkak olim
+  - erkak
   - 'erkak olim: 4-teri turi'
   - kimyogar
-  - matematik
   - muhandis
+  - olim
 👨🏾‍🔬:
   - 5-teri turi
   - biolog
-  - erkak olim
+  - erkak
   - 'erkak olim: 5-teri turi'
   - kimyogar
-  - matematik
   - muhandis
+  - olim
 👨🏿‍🔬:
   - 6-teri turi
   - biolog
-  - erkak olim
+  - erkak
   - 'erkak olim: 6-teri turi'
   - kimyogar
-  - matematik
   - muhandis
+  - olim
 👩‍🔬:
+  - ayol
   - ayol olim
   - biolog
   - kimyogar
-  - matematik
   - muhandis
+  - olima
 👩🏻‍🔬:
   - 1–2-teri turi
+  - ayol
   - ayol olim
   - 'ayol olim: 1–2-teri turi'
   - biolog
   - kimyogar
-  - matematik
   - muhandis
+  - olima
 👩🏼‍🔬:
   - 3-teri turi
+  - ayol
   - ayol olim
   - 'ayol olim: 3-teri turi'
   - biolog
   - kimyogar
-  - matematik
   - muhandis
+  - olima
 👩🏽‍🔬:
   - 4-teri turi
+  - ayol
   - ayol olim
   - 'ayol olim: 4-teri turi'
   - biolog
   - kimyogar
-  - matematik
   - muhandis
+  - olima
 👩🏾‍🔬:
   - 5-teri turi
+  - ayol
   - ayol olim
   - 'ayol olim: 5-teri turi'
   - biolog
   - kimyogar
-  - matematik
   - muhandis
+  - olima
 👩🏿‍🔬:
   - 6-teri turi
+  - ayol
   - ayol olim
   - 'ayol olim: 6-teri turi'
   - biolog
   - kimyogar
-  - matematik
   - muhandis
+  - olima
+🧑‍💻:
+  - dastur
+  - dasturchi
+  - ishlab chiquvchi
+  - ixtirochi
+  - koder
+  - texnolog
+🧑🏻‍💻:
+  - 1–2-teri turi
+  - dastur
+  - dasturchi
+  - ishlab chiquvchi
+  - ixtirochi
+  - koder
+  - texnolog
+  - 'texnolog: 1–2-teri turi'
+🧑🏼‍💻:
+  - 3-teri turi
+  - dastur
+  - dasturchi
+  - ishlab chiquvchi
+  - ixtirochi
+  - koder
+  - texnolog
+  - 'texnolog: 3-teri turi'
+🧑🏽‍💻:
+  - 4-teri turi
+  - dastur
+  - dasturchi
+  - ishlab chiquvchi
+  - ixtirochi
+  - koder
+  - texnolog
+  - 'texnolog: 4-teri turi'
+🧑🏾‍💻:
+  - 5-teri turi
+  - dastur
+  - dasturchi
+  - ishlab chiquvchi
+  - ixtirochi
+  - koder
+  - texnolog
+  - 'texnolog: 5-teri turi'
+🧑🏿‍💻:
+  - 6-teri turi
+  - dastur
+  - dasturchi
+  - ishlab chiquvchi
+  - ixtirochi
+  - koder
+  - texnolog
+  - 'texnolog: 6-teri turi'
 👨‍💻:
+  - dastur
+  - dasturchi
+  - erkak
   - erkak texnolog
   - ishlab chiquvchi
   - ixtirochi
-  - kodchi
+  - texnolog
 👨🏻‍💻:
   - 1–2-teri turi
-  - erkak texnolog
+  - dastur
+  - dasturchi
+  - erkak
   - 'erkak texnolog: 1–2-teri turi'
   - ishlab chiquvchi
   - ixtirochi
-  - kodchi
+  - texnolog
 👨🏼‍💻:
   - 3-teri turi
-  - erkak texnolog
+  - dastur
+  - dasturchi
+  - erkak
   - 'erkak texnolog: 3-teri turi'
   - ishlab chiquvchi
   - ixtirochi
-  - kodchi
+  - texnolog
 👨🏽‍💻:
   - 4-teri turi
-  - erkak texnolog
+  - dastur
+  - dasturchi
+  - erkak
   - 'erkak texnolog: 4-teri turi'
   - ishlab chiquvchi
   - ixtirochi
-  - kodchi
+  - texnolog
 👨🏾‍💻:
   - 5-teri turi
-  - erkak texnolog
+  - dastur
+  - dasturchi
+  - erkak
   - 'erkak texnolog: 5-teri turi'
   - ishlab chiquvchi
   - ixtirochi
-  - kodchi
+  - texnolog
 👨🏿‍💻:
   - 6-teri turi
-  - erkak texnolog
+  - dastur
+  - dasturchi
+  - erkak
   - 'erkak texnolog: 6-teri turi'
   - ishlab chiquvchi
   - ixtirochi
-  - kodchi
+  - texnolog
 👩‍💻:
+  - ayol
   - ayol texnolog
+  - dastur
+  - dasturchi
   - ishlab chiquvchi
   - ixtirochi
-  - kodchi
+  - texnolog
 👩🏻‍💻:
   - 1–2-teri turi
-  - ayol texnolog
+  - ayol
   - 'ayol texnolog: 1–2-teri turi'
+  - dastur
+  - dasturchi
   - ishlab chiquvchi
   - ixtirochi
-  - kodchi
+  - texnolog
 👩🏼‍💻:
   - 3-teri turi
-  - ayol texnolog
+  - ayol
   - 'ayol texnolog: 3-teri turi'
+  - dastur
+  - dasturchi
   - ishlab chiquvchi
   - ixtirochi
-  - kodchi
+  - texnolog
 👩🏽‍💻:
   - 4-teri turi
-  - ayol texnolog
+  - ayol
   - 'ayol texnolog: 4-teri turi'
+  - dastur
+  - dasturchi
   - ishlab chiquvchi
   - ixtirochi
-  - kodchi
+  - texnolog
 👩🏾‍💻:
   - 5-teri turi
-  - ayol texnolog
+  - ayol
   - 'ayol texnolog: 5-teri turi'
+  - dastur
+  - dasturchi
   - ishlab chiquvchi
   - ixtirochi
-  - kodchi
+  - texnolog
 👩🏿‍💻:
   - 6-teri turi
-  - ayol texnolog
+  - ayol
   - 'ayol texnolog: 6-teri turi'
+  - dastur
+  - dasturchi
   - ishlab chiquvchi
   - ixtirochi
-  - kodchi
+  - texnolog
+🧑‍🎤:
+  - aktyor
+  - artist
+  - qoʻshiqchi
+  - rok
+  - sanʼatkor
+  - yulduz
+🧑🏻‍🎤:
+  - 1–2-teri turi
+  - aktyor
+  - artist
+  - qoʻshiqchi
+  - 'qoʻshiqchi: 1–2-teri turi'
+  - rok
+  - sanʼatkor
+  - yulduz
+🧑🏼‍🎤:
+  - 3-teri turi
+  - aktyor
+  - artist
+  - qoʻshiqchi
+  - 'qoʻshiqchi: 3-teri turi'
+  - rok
+  - sanʼatkor
+  - yulduz
+🧑🏽‍🎤:
+  - 4-teri turi
+  - aktyor
+  - artist
+  - qoʻshiqchi
+  - 'qoʻshiqchi: 4-teri turi'
+  - rok
+  - sanʼatkor
+  - yulduz
+🧑🏾‍🎤:
+  - 5-teri turi
+  - aktyor
+  - artist
+  - qoʻshiqchi
+  - 'qoʻshiqchi: 5-teri turi'
+  - rok
+  - sanʼatkor
+  - yulduz
+🧑🏿‍🎤:
+  - 6-teri turi
+  - aktyor
+  - artist
+  - qoʻshiqchi
+  - 'qoʻshiqchi: 6-teri turi'
+  - rok
+  - sanʼatkor
+  - yulduz
 👨‍🎤:
-  - aktor
+  - aktyor
+  - erkak
   - erkak qo‘shiqchi
   - estrada artisti
-  - qo‘shiqchi
+  - qoʻshiqchi
   - rok
+  - yulduz
 👨🏻‍🎤:
   - 1–2-teri turi
-  - aktor
+  - aktyor
+  - erkak
   - erkak qo‘shiqchi
   - 'erkak qo‘shiqchi: 1–2-teri turi'
   - estrada artisti
-  - qo‘shiqchi
+  - qoʻshiqchi
   - rok
+  - yulduz
 👨🏼‍🎤:
   - 3-teri turi
-  - aktor
+  - aktyor
+  - erkak
   - erkak qo‘shiqchi
   - 'erkak qo‘shiqchi: 3-teri turi'
   - estrada artisti
-  - qo‘shiqchi
+  - qoʻshiqchi
   - rok
+  - yulduz
 👨🏽‍🎤:
   - 4-teri turi
-  - aktor
+  - aktyor
+  - erkak
   - erkak qo‘shiqchi
   - 'erkak qo‘shiqchi: 4-teri turi'
   - estrada artisti
-  - qo‘shiqchi
+  - qoʻshiqchi
   - rok
+  - yulduz
 👨🏾‍🎤:
   - 5-teri turi
-  - aktor
+  - aktyor
+  - erkak
   - erkak qo‘shiqchi
   - 'erkak qo‘shiqchi: 5-teri turi'
   - estrada artisti
-  - qo‘shiqchi
+  - qoʻshiqchi
   - rok
+  - yulduz
 👨🏿‍🎤:
   - 6-teri turi
-  - aktor
+  - aktyor
+  - erkak
   - erkak qo‘shiqchi
   - 'erkak qo‘shiqchi: 6-teri turi'
   - estrada artisti
-  - qo‘shiqchi
+  - qoʻshiqchi
   - rok
+  - yulduz
 👩‍🎤:
-  - aktor
+  - aktyor
+  - ayol
   - ayol qo‘shiqchi
   - estrada artisti
-  - qo‘shiqchi
+  - qoʻshiqchi
   - rok
+  - yulduz
 👩🏻‍🎤:
   - 1–2-teri turi
-  - aktor
+  - aktyor
+  - ayol
   - ayol qo‘shiqchi
   - 'ayol qo‘shiqchi: 1–2-teri turi'
   - estrada artisti
-  - qo‘shiqchi
+  - qoʻshiqchi
   - rok
+  - yulduz
 👩🏼‍🎤:
   - 3-teri turi
-  - aktor
+  - aktyor
+  - ayol
   - ayol qo‘shiqchi
   - 'ayol qo‘shiqchi: 3-teri turi'
   - estrada artisti
-  - qo‘shiqchi
+  - qoʻshiqchi
   - rok
+  - yulduz
 👩🏽‍🎤:
   - 4-teri turi
-  - aktor
+  - aktyor
+  - ayol
   - ayol qo‘shiqchi
   - 'ayol qo‘shiqchi: 4-teri turi'
   - estrada artisti
-  - qo‘shiqchi
+  - qoʻshiqchi
   - rok
+  - yulduz
 👩🏾‍🎤:
   - 5-teri turi
-  - aktor
+  - aktyor
+  - ayol
   - ayol qo‘shiqchi
   - 'ayol qo‘shiqchi: 5-teri turi'
   - estrada artisti
-  - qo‘shiqchi
+  - qoʻshiqchi
   - rok
+  - yulduz
 👩🏿‍🎤:
   - 6-teri turi
-  - aktor
+  - aktyor
+  - ayol
   - ayol qo‘shiqchi
   - 'ayol qo‘shiqchi: 6-teri turi'
   - estrada artisti
-  - qo‘shiqchi
+  - qoʻshiqchi
   - rok
+  - yulduz
+🧑‍🎨:
+  - musavvir
+  - palitra
+  - rassom
+🧑🏻‍🎨:
+  - 1–2-teri turi
+  - musavvir
+  - palitra
+  - rassom
+  - 'rassom: 1–2-teri turi'
+🧑🏼‍🎨:
+  - 3-teri turi
+  - musavvir
+  - palitra
+  - rassom
+  - 'rassom: 3-teri turi'
+🧑🏽‍🎨:
+  - 4-teri turi
+  - musavvir
+  - palitra
+  - rassom
+  - 'rassom: 4-teri turi'
+🧑🏾‍🎨:
+  - 5-teri turi
+  - musavvir
+  - palitra
+  - rassom
+  - 'rassom: 5-teri turi'
+🧑🏿‍🎨:
+  - 6-teri turi
+  - musavvir
+  - palitra
+  - rassom
+  - 'rassom: 6-teri turi'
 👨‍🎨:
-  - artist
   - erkak
   - erkak rassom
-  - kishi
   - palitra
+  - rassom
 👨🏻‍🎨:
   - 1–2-teri turi
-  - artist
   - erkak
-  - erkak rassom
   - 'erkak rassom: 1–2-teri turi'
-  - kishi
   - palitra
+  - rassom
 👨🏼‍🎨:
   - 3-teri turi
-  - artist
   - erkak
-  - erkak rassom
   - 'erkak rassom: 3-teri turi'
-  - kishi
   - palitra
+  - rassom
 👨🏽‍🎨:
   - 4-teri turi
-  - artist
   - erkak
-  - erkak rassom
   - 'erkak rassom: 4-teri turi'
-  - kishi
   - palitra
+  - rassom
 👨🏾‍🎨:
   - 5-teri turi
-  - artist
   - erkak
-  - erkak rassom
   - 'erkak rassom: 5-teri turi'
-  - kishi
   - palitra
+  - rassom
 👨🏿‍🎨:
   - 6-teri turi
-  - artist
   - erkak
-  - erkak rassom
   - 'erkak rassom: 6-teri turi'
-  - kishi
   - palitra
+  - rassom
 👩‍🎨:
-  - artist
   - ayol
   - ayol rassom
   - palitra
-  - xotin
+  - rassom
 👩🏻‍🎨:
   - 1–2-teri turi
-  - artist
   - ayol
-  - ayol rassom
   - 'ayol rassom: 1–2-teri turi'
   - palitra
-  - xotin
+  - rassom
 👩🏼‍🎨:
   - 3-teri turi
-  - artist
   - ayol
-  - ayol rassom
   - 'ayol rassom: 3-teri turi'
   - palitra
-  - xotin
+  - rassom
 👩🏽‍🎨:
   - 4-teri turi
-  - artist
   - ayol
-  - ayol rassom
   - 'ayol rassom: 4-teri turi'
   - palitra
-  - xotin
+  - rassom
 👩🏾‍🎨:
   - 5-teri turi
-  - artist
   - ayol
-  - ayol rassom
   - 'ayol rassom: 5-teri turi'
   - palitra
-  - xotin
+  - rassom
 👩🏿‍🎨:
   - 6-teri turi
-  - artist
   - ayol
-  - ayol rassom
   - 'ayol rassom: 6-teri turi'
   - palitra
-  - xotin
+  - rassom
+🧑‍✈:
+  - samolyot
+  - uchuvchi
+🧑🏻‍✈:
+  - 1–2-teri turi
+  - samolyot
+  - uchuvchi
+  - 'uchuvchi: 1–2-teri turi'
+🧑🏼‍✈:
+  - 3-teri turi
+  - samolyot
+  - uchuvchi
+  - 'uchuvchi: 3-teri turi'
+🧑🏽‍✈:
+  - 4-teri turi
+  - samolyot
+  - uchuvchi
+  - 'uchuvchi: 4-teri turi'
+🧑🏾‍✈:
+  - 5-teri turi
+  - samolyot
+  - uchuvchi
+  - 'uchuvchi: 5-teri turi'
+🧑🏿‍✈:
+  - 6-teri turi
+  - samolyot
+  - uchuvchi
+  - 'uchuvchi: 6-teri turi'
 👨‍✈:
   - erkak
   - erkak uchuvchi
@@ -5504,6 +6707,34 @@
   - samolyot
   - uchuvchi
   - xotin
+🧑‍🚀:
+  - astronavt
+  - raketa
+🧑🏻‍🚀:
+  - 1–2-teri turi
+  - astronavt
+  - 'astronavt: 1–2-teri turi'
+  - raketa
+🧑🏼‍🚀:
+  - 3-teri turi
+  - astronavt
+  - 'astronavt: 3-teri turi'
+  - raketa
+🧑🏽‍🚀:
+  - 4-teri turi
+  - astronavt
+  - 'astronavt: 4-teri turi'
+  - raketa
+🧑🏾‍🚀:
+  - 5-teri turi
+  - astronavt
+  - 'astronavt: 5-teri turi'
+  - raketa
+🧑🏿‍🚀:
+  - 6-teri turi
+  - astronavt
+  - 'astronavt: 6-teri turi'
+  - raketa
 👨‍🚀:
   - erkak
   - erkak kosmonavt
@@ -5586,126 +6817,154 @@
   - fazo
   - kosmonavt
   - raketa
+🧑‍🚒:
+  - oʻt oʻchirish mashinasi
+  - oʻt oʻchiruvchi
+🧑🏻‍🚒:
+  - 1–2-teri turi
+  - oʻt oʻchirish mashinasi
+  - oʻt oʻchiruvchi
+  - 'oʻt oʻchiruvchi: 1–2-teri turi'
+🧑🏼‍🚒:
+  - 3-teri turi
+  - oʻt oʻchirish mashinasi
+  - oʻt oʻchiruvchi
+  - 'oʻt oʻchiruvchi: 3-teri turi'
+🧑🏽‍🚒:
+  - 4-teri turi
+  - oʻt oʻchirish mashinasi
+  - oʻt oʻchiruvchi
+  - 'oʻt oʻchiruvchi: 4-teri turi'
+🧑🏾‍🚒:
+  - 5-teri turi
+  - oʻt oʻchirish mashinasi
+  - oʻt oʻchiruvchi
+  - 'oʻt oʻchiruvchi: 5-teri turi'
+🧑🏿‍🚒:
+  - 6-teri turi
+  - oʻt oʻchirish mashinasi
+  - oʻt oʻchiruvchi
+  - 'oʻt oʻchiruvchi: 6-teri turi'
 👨‍🚒:
   - erkak
   - erkak o‘t o‘chiruvchi
-  - o‘t o‘chirish mashinasi
-  - o‘t o‘chiruvchi
+  - oʻt oʻchirish mashinasi
+  - oʻt o‘chiruvchi
 👨🏻‍🚒:
   - 1–2-teri turi
   - erkak
   - erkak o‘t o‘chiruvchi
   - 'erkak o‘t o‘chiruvchi: 1–2-teri turi'
-  - o‘t o‘chirish mashinasi
-  - o‘t o‘chiruvchi
+  - oʻt oʻchirish mashinasi
+  - oʻt o‘chiruvchi
 👨🏼‍🚒:
   - 3-teri turi
   - erkak
   - erkak o‘t o‘chiruvchi
   - 'erkak o‘t o‘chiruvchi: 3-teri turi'
-  - o‘t o‘chirish mashinasi
-  - o‘t o‘chiruvchi
+  - oʻt oʻchirish mashinasi
+  - oʻt o‘chiruvchi
 👨🏽‍🚒:
   - 4-teri turi
   - erkak
   - erkak o‘t o‘chiruvchi
   - 'erkak o‘t o‘chiruvchi: 4-teri turi'
-  - o‘t o‘chirish mashinasi
-  - o‘t o‘chiruvchi
+  - oʻt oʻchirish mashinasi
+  - oʻt o‘chiruvchi
 👨🏾‍🚒:
   - 5-teri turi
   - erkak
   - erkak o‘t o‘chiruvchi
   - 'erkak o‘t o‘chiruvchi: 5-teri turi'
-  - o‘t o‘chirish mashinasi
-  - o‘t o‘chiruvchi
+  - oʻt oʻchirish mashinasi
+  - oʻt o‘chiruvchi
 👨🏿‍🚒:
   - 6-teri turi
   - erkak
   - erkak o‘t o‘chiruvchi
   - 'erkak o‘t o‘chiruvchi: 6-teri turi'
-  - o‘t o‘chirish mashinasi
-  - o‘t o‘chiruvchi
+  - oʻt oʻchirish mashinasi
+  - oʻt o‘chiruvchi
 👩‍🚒:
   - ayol
   - ayol o‘t o‘chiruvchi
-  - o‘t o‘chirish mashinasi
-  - o‘t o‘chiruvchi
+  - oʻt oʻchirish mashinasi
+  - oʻt o‘chiruvchi
 👩🏻‍🚒:
   - 1–2-teri turi
   - ayol
   - ayol o‘t o‘chiruvchi
   - 'ayol o‘t o‘chiruvchi: 1–2-teri turi'
-  - o‘t o‘chirish mashinasi
-  - o‘t o‘chiruvchi
+  - oʻt oʻchirish mashinasi
+  - oʻt o‘chiruvchi
 👩🏼‍🚒:
   - 3-teri turi
   - ayol
   - ayol o‘t o‘chiruvchi
   - 'ayol o‘t o‘chiruvchi: 3-teri turi'
-  - o‘t o‘chirish mashinasi
-  - o‘t o‘chiruvchi
+  - oʻt oʻchirish mashinasi
+  - oʻt o‘chiruvchi
 👩🏽‍🚒:
   - 4-teri turi
   - ayol
   - ayol o‘t o‘chiruvchi
   - 'ayol o‘t o‘chiruvchi: 4-teri turi'
-  - o‘t o‘chirish mashinasi
-  - o‘t o‘chiruvchi
+  - oʻt oʻchirish mashinasi
+  - oʻt o‘chiruvchi
 👩🏾‍🚒:
   - 5-teri turi
   - ayol
   - ayol o‘t o‘chiruvchi
   - 'ayol o‘t o‘chiruvchi: 5-teri turi'
-  - o‘t o‘chirish mashinasi
-  - o‘t o‘chiruvchi
+  - oʻt oʻchirish mashinasi
+  - oʻt o‘chiruvchi
 👩🏿‍🚒:
   - 6-teri turi
   - ayol
   - ayol o‘t o‘chiruvchi
   - 'ayol o‘t o‘chiruvchi: 6-teri turi'
-  - o‘t o‘chirish mashinasi
-  - o‘t o‘chiruvchi
+  - oʻt oʻchirish mashinasi
+  - oʻt o‘chiruvchi
 👮:
-  - militsioner
-  - mirshab
+  - ofitser
   - politsiya
   - politsiya xodimi
+  - politsiyachi
 👮🏻:
   - 1–2-teri turi
-  - militsioner
-  - mirshab
+  - ofitser
   - politsiya
   - politsiya xodimi
   - 'politsiya xodimi: 1–2-teri turi'
+  - politsiyachi
 👮🏼:
   - 3-teri turi
-  - militsioner
-  - mirshab
+  - ofitser
   - politsiya
   - politsiya xodimi
   - 'politsiya xodimi: 3-teri turi'
+  - politsiyachi
 👮🏽:
   - 4-teri turi
-  - militsioner
-  - mirshab
+  - ofitser
   - politsiya
   - politsiya xodimi
   - 'politsiya xodimi: 4-teri turi'
+  - politsiyachi
 👮🏾:
   - 5-teri turi
-  - militsioner
-  - mirshab
+  - ofitser
   - politsiya
   - politsiya xodimi
   - 'politsiya xodimi: 5-teri turi'
+  - politsiyachi
 👮🏿:
   - 6-teri turi
-  - militsioner
-  - mirshab
+  - ofitser
   - politsiya
   - politsiya xodimi
   - 'politsiya xodimi: 6-teri turi'
+  - politsiyachi
 👮‍♂:
   - erkak
   - erkak politsiyachi
@@ -5972,6 +7231,11 @@
   - ayol
   - 'ayol qo‘riqchi: 6-teri turi'
   - qo‘riqchi
+🥷:
+  - jangchi
+  - koʻrinmas
+  - ninza
+  - yashirin
 👷:
   - bosh kiyim
   - ishchi
@@ -6306,82 +7570,230 @@
   - er
   - erkak
   - smoking
-  - smoking kiygan erkak
+  - smoking kiygan odam
 🤵🏻:
   - 1–2-teri turi
   - er
   - erkak
   - smoking
-  - smoking kiygan erkak
-  - 'smoking kiygan erkak: 1–2-teri turi'
+  - smoking kiygan odam
+  - 'smoking kiygan odam: 1–2-teri turi'
 🤵🏼:
   - 3-teri turi
   - er
   - erkak
   - smoking
-  - smoking kiygan erkak
-  - 'smoking kiygan erkak: 3-teri turi'
+  - smoking kiygan odam
+  - 'smoking kiygan odam: 3-teri turi'
 🤵🏽:
   - 4-teri turi
   - er
   - erkak
   - smoking
-  - smoking kiygan erkak
-  - 'smoking kiygan erkak: 4-teri turi'
+  - smoking kiygan odam
+  - 'smoking kiygan odam: 4-teri turi'
 🤵🏾:
   - 5-teri turi
   - er
   - erkak
   - smoking
-  - smoking kiygan erkak
-  - 'smoking kiygan erkak: 5-teri turi'
+  - smoking kiygan odam
+  - 'smoking kiygan odam: 5-teri turi'
 🤵🏿:
   - 6-teri turi
   - er
   - erkak
   - smoking
+  - smoking kiygan odam
+  - 'smoking kiygan odam: 6-teri turi'
+🤵‍♂:
+  - erkak
+  - smoking
   - smoking kiygan erkak
-  - 'smoking kiygan erkak: 6-teri turi'
+  - smoking kiygan kishi
+🤵🏻‍♂:
+  - 1–2-teri turi
+  - erkak
+  - smoking
+  - smoking kiygan erkak
+  - smoking kiygan kishi
+  - 'smoking kiygan kishi: 1–2-teri turi'
+🤵🏼‍♂:
+  - 3-teri turi
+  - erkak
+  - smoking
+  - smoking kiygan erkak
+  - smoking kiygan kishi
+  - 'smoking kiygan kishi: 3-teri turi'
+🤵🏽‍♂:
+  - 4-teri turi
+  - erkak
+  - smoking
+  - smoking kiygan erkak
+  - smoking kiygan kishi
+  - 'smoking kiygan kishi: 4-teri turi'
+🤵🏾‍♂:
+  - 5-teri turi
+  - erkak
+  - smoking
+  - smoking kiygan erkak
+  - smoking kiygan kishi
+  - 'smoking kiygan kishi: 5-teri turi'
+🤵🏿‍♂:
+  - 6-teri turi
+  - erkak
+  - smoking
+  - smoking kiygan erkak
+  - smoking kiygan kishi
+  - 'smoking kiygan kishi: 6-teri turi'
+🤵‍♀:
+  - ayol
+  - smoking
+  - smoking kiygan ayol
+  - smoking kiygan smoking
+🤵🏻‍♀:
+  - 1–2-teri turi
+  - ayol
+  - smoking
+  - smoking kiygan ayol
+  - 'smoking kiygan ayol: 1–2-teri turi'
+  - smoking kiygan smoking
+🤵🏼‍♀:
+  - 3-teri turi
+  - ayol
+  - smoking
+  - smoking kiygan ayol
+  - 'smoking kiygan ayol: 3-teri turi'
+  - smoking kiygan smoking
+🤵🏽‍♀:
+  - 4-teri turi
+  - ayol
+  - smoking
+  - smoking kiygan ayol
+  - 'smoking kiygan ayol: 4-teri turi'
+  - smoking kiygan smoking
+🤵🏾‍♀:
+  - 5-teri turi
+  - ayol
+  - smoking
+  - smoking kiygan ayol
+  - 'smoking kiygan ayol: 5-teri turi'
+  - smoking kiygan smoking
+🤵🏿‍♀:
+  - 6-teri turi
+  - ayol
+  - smoking
+  - smoking kiygan ayol
+  - 'smoking kiygan ayol: 6-teri turi'
+  - smoking kiygan smoking
 👰:
   - kelin
+  - nikoh kiyimidagi odam
   - ro‘mol
   - to‘y
-  - to‘y ro‘molidagi kelin
 👰🏻:
   - 1–2-teri turi
   - kelin
+  - nikoh kiyimidagi odam
+  - 'nikoh kiyimidagi odam: 1–2-teri turi'
   - ro‘mol
   - to‘y
-  - to‘y ro‘molidagi kelin
-  - 'to‘y ro‘molidagi kelin: 1–2-teri turi'
 👰🏼:
   - 3-teri turi
   - kelin
+  - nikoh kiyimidagi odam
+  - 'nikoh kiyimidagi odam: 3-teri turi'
   - ro‘mol
   - to‘y
-  - to‘y ro‘molidagi kelin
-  - 'to‘y ro‘molidagi kelin: 3-teri turi'
 👰🏽:
   - 4-teri turi
   - kelin
+  - nikoh kiyimidagi odam
+  - 'nikoh kiyimidagi odam: 4-teri turi'
   - ro‘mol
   - to‘y
-  - to‘y ro‘molidagi kelin
-  - 'to‘y ro‘molidagi kelin: 4-teri turi'
 👰🏾:
   - 5-teri turi
   - kelin
+  - nikoh kiyimidagi odam
+  - 'nikoh kiyimidagi odam: 5-teri turi'
   - ro‘mol
   - to‘y
-  - to‘y ro‘molidagi kelin
-  - 'to‘y ro‘molidagi kelin: 5-teri turi'
 👰🏿:
   - 6-teri turi
   - kelin
+  - nikoh kiyimidagi odam
+  - 'nikoh kiyimidagi odam: 6-teri turi'
   - ro‘mol
   - to‘y
-  - to‘y ro‘molidagi kelin
-  - 'to‘y ro‘molidagi kelin: 6-teri turi'
+👰‍♂:
+  - erkak
+  - xarir parda
+  - xarir parda taqib olgan erkak
+👰🏻‍♂:
+  - 1–2-teri turi
+  - erkak
+  - xarir parda
+  - xarir parda taqib olgan erkak
+  - 'xarir parda taqib olgan erkak: 1–2-teri turi'
+👰🏼‍♂:
+  - 3-teri turi
+  - erkak
+  - xarir parda
+  - xarir parda taqib olgan erkak
+  - 'xarir parda taqib olgan erkak: 3-teri turi'
+👰🏽‍♂:
+  - 4-teri turi
+  - erkak
+  - xarir parda
+  - xarir parda taqib olgan erkak
+  - 'xarir parda taqib olgan erkak: 4-teri turi'
+👰🏾‍♂:
+  - 5-teri turi
+  - erkak
+  - xarir parda
+  - xarir parda taqib olgan erkak
+  - 'xarir parda taqib olgan erkak: 5-teri turi'
+👰🏿‍♂:
+  - 6-teri turi
+  - erkak
+  - xarir parda
+  - xarir parda taqib olgan erkak
+  - 'xarir parda taqib olgan erkak: 6-teri turi'
+👰‍♀:
+  - ayol
+  - xarir parda
+  - xarir parda taqib olgan ayol
+👰🏻‍♀:
+  - 1–2-teri turi
+  - ayol
+  - xarir parda
+  - xarir parda taqib olgan ayol
+  - 'xarir parda taqib olgan ayol: 1–2-teri turi'
+👰🏼‍♀:
+  - 3-teri turi
+  - ayol
+  - xarir parda
+  - xarir parda taqib olgan ayol
+  - 'xarir parda taqib olgan ayol: 3-teri turi'
+👰🏽‍♀:
+  - 4-teri turi
+  - ayol
+  - xarir parda
+  - xarir parda taqib olgan ayol
+  - 'xarir parda taqib olgan ayol: 4-teri turi'
+👰🏾‍♀:
+  - 5-teri turi
+  - ayol
+  - xarir parda
+  - xarir parda taqib olgan ayol
+  - 'xarir parda taqib olgan ayol: 5-teri turi'
+👰🏿‍♀:
+  - 6-teri turi
+  - ayol
+  - xarir parda
+  - xarir parda taqib olgan ayol
+  - 'xarir parda taqib olgan ayol: 6-teri turi'
 🤰:
   - ayol
   - homilador
@@ -6439,6 +7851,129 @@
   - 6-teri turi
   - emizish
   - 'emizish: 6-teri turi'
+👩‍🍼:
+  - ayol
+  - chaqaloq
+  - chaqaloq emizayotgan ayol
+  - emizayotgan
+  - xamshiralik qilayotgan
+👩🏻‍🍼:
+  - 1–2-teri turi
+  - ayol
+  - chaqaloq
+  - 'chaqaloq emizayotgan ayol: 1–2-teri turi'
+  - emizayotgan
+  - xamshiralik qilayotgan
+👩🏼‍🍼:
+  - 3-teri turi
+  - ayol
+  - chaqaloq
+  - 'chaqaloq emizayotgan ayol: 3-teri turi'
+  - emizayotgan
+  - xamshiralik qilayotgan
+👩🏽‍🍼:
+  - 4-teri turi
+  - ayol
+  - chaqaloq
+  - 'chaqaloq emizayotgan ayol: 4-teri turi'
+  - emizayotgan
+  - xamshiralik qilayotgan
+👩🏾‍🍼:
+  - 5-teri turi
+  - ayol
+  - chaqaloq
+  - 'chaqaloq emizayotgan ayol: 5-teri turi'
+  - emizayotgan
+  - xamshiralik qilayotgan
+👩🏿‍🍼:
+  - 6-teri turi
+  - ayol
+  - chaqaloq
+  - 'chaqaloq emizayotgan ayol: 6-teri turi'
+  - emizayotgan
+  - xamshiralik qilayotgan
+👨‍🍼:
+  - chaqaloq
+  - chaqaloq emizayotgan erkak
+  - emizayotgan
+  - erkak
+  - oziqlantirayotgan
+👨🏻‍🍼:
+  - 1–2-teri turi
+  - chaqaloq
+  - 'chaqaloq emizayotgan erkak: 1–2-teri turi'
+  - emizayotgan
+  - erkak
+  - oziqlantirayotgan
+👨🏼‍🍼:
+  - 3-teri turi
+  - chaqaloq
+  - 'chaqaloq emizayotgan erkak: 3-teri turi'
+  - emizayotgan
+  - erkak
+  - oziqlantirayotgan
+👨🏽‍🍼:
+  - 4-teri turi
+  - chaqaloq
+  - 'chaqaloq emizayotgan erkak: 4-teri turi'
+  - emizayotgan
+  - erkak
+  - oziqlantirayotgan
+👨🏾‍🍼:
+  - 5-teri turi
+  - chaqaloq
+  - 'chaqaloq emizayotgan erkak: 5-teri turi'
+  - emizayotgan
+  - erkak
+  - oziqlantirayotgan
+👨🏿‍🍼:
+  - 6-teri turi
+  - chaqaloq
+  - 'chaqaloq emizayotgan erkak: 6-teri turi'
+  - emizayotgan
+  - erkak
+  - oziqlantirayotgan
+🧑‍🍼:
+  - chaqaloq
+  - chaqaloq emizayotgan kishi
+  - emizayotgan
+  - kishi
+  - oziqlantirayotgan
+🧑🏻‍🍼:
+  - 1–2-teri turi
+  - chaqaloq
+  - 'chaqaloq emizayotgan kishi: 1–2-teri turi'
+  - emizayotgan
+  - kishi
+  - oziqlantirayotgan
+🧑🏼‍🍼:
+  - 3-teri turi
+  - chaqaloq
+  - 'chaqaloq emizayotgan kishi: 3-teri turi'
+  - emizayotgan
+  - kishi
+  - oziqlantirayotgan
+🧑🏽‍🍼:
+  - 4-teri turi
+  - chaqaloq
+  - 'chaqaloq emizayotgan kishi: 4-teri turi'
+  - emizayotgan
+  - kishi
+  - oziqlantirayotgan
+🧑🏾‍🍼:
+  - 5-teri turi
+  - chaqaloq
+  - 'chaqaloq emizayotgan kishi: 5-teri turi'
+  - emizayotgan
+  - kishi
+  - oziqlantirayotgan
+🧑🏿‍🍼:
+  - 6-teri turi
+  - chaqaloq
+  - 'chaqaloq emizayotgan kishi: 6-teri turi'
+  - emizayotgan
+  - kishi
+  - oziqlantirayotgan
 👼:
   - chaqaloq
   - chaqaloq farishta
@@ -6566,6 +8101,34 @@
   - qorqiz
   - 'qorqiz: 6-teri turi'
   - rojdestvo
+🧑‍🎄:
+  - klauz, rojdestvo
+  - miks-klauz
+🧑🏻‍🎄:
+  - 1–2-teri turi
+  - klauz, rojdestvo
+  - miks-klauz
+  - 'miks-klauz: 1–2-teri turi'
+🧑🏼‍🎄:
+  - 3-teri turi
+  - klauz, rojdestvo
+  - miks-klauz
+  - 'miks-klauz: 3-teri turi'
+🧑🏽‍🎄:
+  - 4-teri turi
+  - klauz, rojdestvo
+  - miks-klauz
+  - 'miks-klauz: 4-teri turi'
+🧑🏾‍🎄:
+  - 5-teri turi
+  - klauz, rojdestvo
+  - miks-klauz
+  - 'miks-klauz: 5-teri turi'
+🧑🏿‍🎄:
+  - 6-teri turi
+  - klauz, rojdestvo
+  - miks-klauz
+  - 'miks-klauz: 6-teri turi'
 🦸:
   - qahramon
   - superkuch
@@ -7858,6 +9421,570 @@
   - sayr
   - yurayotgan ayol
   - 'yurayotgan ayol: 6-teri turi'
+🧍:
+  - tik turgan odam
+  - tik turish
+  - turish
+🧍🏻:
+  - 1–2-teri turi
+  - tik turgan odam
+  - 'tik turgan odam: 1–2-teri turi'
+  - tik turish
+  - turish
+🧍🏼:
+  - 3-teri turi
+  - tik turgan odam
+  - 'tik turgan odam: 3-teri turi'
+  - tik turish
+  - turish
+🧍🏽:
+  - 4-teri turi
+  - tik turgan odam
+  - 'tik turgan odam: 4-teri turi'
+  - tik turish
+  - turish
+🧍🏾:
+  - 5-teri turi
+  - tik turgan odam
+  - 'tik turgan odam: 5-teri turi'
+  - tik turish
+  - turish
+🧍🏿:
+  - 6-teri turi
+  - tik turgan odam
+  - 'tik turgan odam: 6-teri turi'
+  - tik turish
+  - turish
+🧍‍♂:
+  - erkak
+  - tik turgan erkak
+  - tik turish
+🧍🏻‍♂:
+  - 1–2-teri turi
+  - erkak
+  - tik turgan erkak
+  - 'tik turgan erkak: 1–2-teri turi'
+  - tik turish
+🧍🏼‍♂:
+  - 3-teri turi
+  - erkak
+  - tik turgan erkak
+  - 'tik turgan erkak: 3-teri turi'
+  - tik turish
+🧍🏽‍♂:
+  - 4-teri turi
+  - erkak
+  - tik turgan erkak
+  - 'tik turgan erkak: 4-teri turi'
+  - tik turish
+🧍🏾‍♂:
+  - 5-teri turi
+  - erkak
+  - tik turgan erkak
+  - 'tik turgan erkak: 5-teri turi'
+  - tik turish
+🧍🏿‍♂:
+  - 6-teri turi
+  - erkak
+  - tik turgan erkak
+  - 'tik turgan erkak: 6-teri turi'
+  - tik turish
+🧍‍♀:
+  - ayol
+  - tik turgan ayol
+  - tik turish
+🧍🏻‍♀:
+  - 1–2-teri turi
+  - ayol
+  - tik turgan ayol
+  - 'tik turgan ayol: 1–2-teri turi'
+  - tik turish
+🧍🏼‍♀:
+  - 3-teri turi
+  - ayol
+  - tik turgan ayol
+  - 'tik turgan ayol: 3-teri turi'
+  - tik turish
+🧍🏽‍♀:
+  - 4-teri turi
+  - ayol
+  - tik turgan ayol
+  - 'tik turgan ayol: 4-teri turi'
+  - tik turish
+🧍🏾‍♀:
+  - 5-teri turi
+  - ayol
+  - tik turgan ayol
+  - 'tik turgan ayol: 5-teri turi'
+  - tik turish
+🧍🏿‍♀:
+  - 6-teri turi
+  - ayol
+  - tik turgan ayol
+  - 'tik turgan ayol: 6-teri turi'
+  - tik turish
+🧎:
+  - tiz choʻkish
+  - tiz choʻkkan odam
+  - tizza
+🧎🏻:
+  - 1–2-teri turi
+  - tiz choʻkish
+  - tiz choʻkkan odam
+  - 'tiz choʻkkan odam: 1–2-teri turi'
+  - tizza
+🧎🏼:
+  - 3-teri turi
+  - tiz choʻkish
+  - tiz choʻkkan odam
+  - 'tiz choʻkkan odam: 3-teri turi'
+  - tizza
+🧎🏽:
+  - 4-teri turi
+  - tiz choʻkish
+  - tiz choʻkkan odam
+  - 'tiz choʻkkan odam: 4-teri turi'
+  - tizza
+🧎🏾:
+  - 5-teri turi
+  - tiz choʻkish
+  - tiz choʻkkan odam
+  - 'tiz choʻkkan odam: 5-teri turi'
+  - tizza
+🧎🏿:
+  - 6-teri turi
+  - tiz choʻkish
+  - tiz choʻkkan odam
+  - 'tiz choʻkkan odam: 6-teri turi'
+  - tizza
+🧎‍♂:
+  - erkak
+  - tiz choʻkish
+  - tiz choʻkkan erkak
+🧎🏻‍♂:
+  - 1–2-teri turi
+  - erkak
+  - tiz choʻkish
+  - tiz choʻkkan erkak
+  - 'tiz choʻkkan erkak: 1–2-teri turi'
+🧎🏼‍♂:
+  - 3-teri turi
+  - erkak
+  - tiz choʻkish
+  - tiz choʻkkan erkak
+  - 'tiz choʻkkan erkak: 3-teri turi'
+🧎🏽‍♂:
+  - 4-teri turi
+  - erkak
+  - tiz choʻkish
+  - tiz choʻkkan erkak
+  - 'tiz choʻkkan erkak: 4-teri turi'
+🧎🏾‍♂:
+  - 5-teri turi
+  - erkak
+  - tiz choʻkish
+  - tiz choʻkkan erkak
+  - 'tiz choʻkkan erkak: 5-teri turi'
+🧎🏿‍♂:
+  - 6-teri turi
+  - erkak
+  - tiz choʻkish
+  - tiz choʻkkan erkak
+  - 'tiz choʻkkan erkak: 6-teri turi'
+🧎‍♀:
+  - ayol
+  - tiz choʻkish
+  - tiz choʻkkan ayol
+🧎🏻‍♀:
+  - 1–2-teri turi
+  - ayol
+  - tiz choʻkish
+  - tiz choʻkkan ayol
+  - 'tiz choʻkkan ayol: 1–2-teri turi'
+🧎🏼‍♀:
+  - 3-teri turi
+  - ayol
+  - tiz choʻkish
+  - tiz choʻkkan ayol
+  - 'tiz choʻkkan ayol: 3-teri turi'
+🧎🏽‍♀:
+  - 4-teri turi
+  - ayol
+  - tiz choʻkish
+  - tiz choʻkkan ayol
+  - 'tiz choʻkkan ayol: 4-teri turi'
+🧎🏾‍♀:
+  - 5-teri turi
+  - ayol
+  - tiz choʻkish
+  - tiz choʻkkan ayol
+  - 'tiz choʻkkan ayol: 5-teri turi'
+🧎🏿‍♀:
+  - 6-teri turi
+  - ayol
+  - tiz choʻkish
+  - tiz choʻkkan ayol
+  - 'tiz choʻkkan ayol: 6-teri turi'
+🧑‍🦯:
+  - hassali odam
+  - koʻr
+  - maxsus imkoniyatlar
+🧑🏻‍🦯:
+  - 1–2-teri turi
+  - hassali odam
+  - 'hassali odam: 1–2-teri turi'
+  - koʻr
+  - maxsus imkoniyatlar
+🧑🏼‍🦯:
+  - 3-teri turi
+  - hassali odam
+  - 'hassali odam: 3-teri turi'
+  - koʻr
+  - maxsus imkoniyatlar
+🧑🏽‍🦯:
+  - 4-teri turi
+  - hassali odam
+  - 'hassali odam: 4-teri turi'
+  - koʻr
+  - maxsus imkoniyatlar
+🧑🏾‍🦯:
+  - 5-teri turi
+  - hassali odam
+  - 'hassali odam: 5-teri turi'
+  - koʻr
+  - maxsus imkoniyatlar
+🧑🏿‍🦯:
+  - 6-teri turi
+  - hassali odam
+  - 'hassali odam: 6-teri turi'
+  - koʻr
+  - maxsus imkoniyatlar
+👨‍🦯:
+  - hassali kishi
+  - hassali odam
+  - koʻr
+  - nogironlik
+  - odam
+👨🏻‍🦯:
+  - 1–2-teri turi
+  - hassali kishi
+  - 'hassali kishi: 1–2-teri turi'
+  - hassali odam
+  - koʻr
+  - nogironlik
+  - odam
+👨🏼‍🦯:
+  - 3-teri turi
+  - hassali kishi
+  - 'hassali kishi: 3-teri turi'
+  - hassali odam
+  - koʻr
+  - nogironlik
+  - odam
+👨🏽‍🦯:
+  - 4-teri turi
+  - hassali kishi
+  - 'hassali kishi: 4-teri turi'
+  - hassali odam
+  - koʻr
+  - nogironlik
+  - odam
+👨🏾‍🦯:
+  - 5-teri turi
+  - hassali kishi
+  - 'hassali kishi: 5-teri turi'
+  - hassali odam
+  - koʻr
+  - nogironlik
+  - odam
+👨🏿‍🦯:
+  - 6-teri turi
+  - hassali kishi
+  - 'hassali kishi: 6-teri turi'
+  - hassali odam
+  - koʻr
+  - nogironlik
+  - odam
+👩‍🦯:
+  - ayol
+  - hassali ayol
+  - koʻr
+  - nogironlik
+👩🏻‍🦯:
+  - 1–2-teri turi
+  - ayol
+  - hassali ayol
+  - 'hassali ayol: 1–2-teri turi'
+  - koʻr
+  - nogironlik
+👩🏼‍🦯:
+  - 3-teri turi
+  - ayol
+  - hassali ayol
+  - 'hassali ayol: 3-teri turi'
+  - koʻr
+  - nogironlik
+👩🏽‍🦯:
+  - 4-teri turi
+  - ayol
+  - hassali ayol
+  - 'hassali ayol: 4-teri turi'
+  - koʻr
+  - nogironlik
+👩🏾‍🦯:
+  - 5-teri turi
+  - ayol
+  - hassali ayol
+  - 'hassali ayol: 5-teri turi'
+  - koʻr
+  - nogironlik
+👩🏿‍🦯:
+  - 6-teri turi
+  - ayol
+  - hassali ayol
+  - 'hassali ayol: 6-teri turi'
+  - koʻr
+  - nogironlik
+🧑‍🦼:
+  - maxsus imkoniyatlar
+  - motorli nogironlar aravachasidagi odam
+  - nogironlar aravachasi
+🧑🏻‍🦼:
+  - 1–2-teri turi
+  - maxsus imkoniyatlar
+  - motorli nogironlar aravachasidagi odam
+  - 'motorli nogironlar aravachasidagi odam: 1–2-teri turi'
+  - nogironlar aravachasi
+🧑🏼‍🦼:
+  - 3-teri turi
+  - maxsus imkoniyatlar
+  - motorli nogironlar aravachasidagi odam
+  - 'motorli nogironlar aravachasidagi odam: 3-teri turi'
+  - nogironlar aravachasi
+🧑🏽‍🦼:
+  - 4-teri turi
+  - maxsus imkoniyatlar
+  - motorli nogironlar aravachasidagi odam
+  - 'motorli nogironlar aravachasidagi odam: 4-teri turi'
+  - nogironlar aravachasi
+🧑🏾‍🦼:
+  - 5-teri turi
+  - maxsus imkoniyatlar
+  - motorli nogironlar aravachasidagi odam
+  - 'motorli nogironlar aravachasidagi odam: 5-teri turi'
+  - nogironlar aravachasi
+🧑🏿‍🦼:
+  - 6-teri turi
+  - maxsus imkoniyatlar
+  - motorli nogironlar aravachasidagi odam
+  - 'motorli nogironlar aravachasidagi odam: 6-teri turi'
+  - nogironlar aravachasi
+👨‍🦼:
+  - erkak
+  - motorli nogironlik aravachasidagi erkak
+  - nogironlik
+  - nogironlik aravachasi
+👨🏻‍🦼:
+  - 1–2-teri turi
+  - erkak
+  - motorli nogironlik aravachasidagi erkak
+  - 'motorli nogironlik aravachasidagi erkak: 1–2-teri turi'
+  - nogironlik
+  - nogironlik aravachasi
+👨🏼‍🦼:
+  - 3-teri turi
+  - erkak
+  - motorli nogironlik aravachasidagi erkak
+  - 'motorli nogironlik aravachasidagi erkak: 3-teri turi'
+  - nogironlik
+  - nogironlik aravachasi
+👨🏽‍🦼:
+  - 4-teri turi
+  - erkak
+  - motorli nogironlik aravachasidagi erkak
+  - 'motorli nogironlik aravachasidagi erkak: 4-teri turi'
+  - nogironlik
+  - nogironlik aravachasi
+👨🏾‍🦼:
+  - 5-teri turi
+  - erkak
+  - motorli nogironlik aravachasidagi erkak
+  - 'motorli nogironlik aravachasidagi erkak: 5-teri turi'
+  - nogironlik
+  - nogironlik aravachasi
+👨🏿‍🦼:
+  - 6-teri turi
+  - erkak
+  - motorli nogironlik aravachasidagi erkak
+  - 'motorli nogironlik aravachasidagi erkak: 6-teri turi'
+  - nogironlik
+  - nogironlik aravachasi
+👩‍🦼:
+  - ayol
+  - motorli nogironlik aravachasidagi ayol
+  - nogironlik
+  - nogironlik aravachasi
+👩🏻‍🦼:
+  - 1–2-teri turi
+  - ayol
+  - motorli nogironlik aravachasidagi ayol
+  - 'motorli nogironlik aravachasidagi ayol: 1–2-teri turi'
+  - nogironlik
+  - nogironlik aravachasi
+👩🏼‍🦼:
+  - 3-teri turi
+  - ayol
+  - motorli nogironlik aravachasidagi ayol
+  - 'motorli nogironlik aravachasidagi ayol: 3-teri turi'
+  - nogironlik
+  - nogironlik aravachasi
+👩🏽‍🦼:
+  - 4-teri turi
+  - ayol
+  - motorli nogironlik aravachasidagi ayol
+  - 'motorli nogironlik aravachasidagi ayol: 4-teri turi'
+  - nogironlik
+  - nogironlik aravachasi
+👩🏾‍🦼:
+  - 5-teri turi
+  - ayol
+  - motorli nogironlik aravachasidagi ayol
+  - 'motorli nogironlik aravachasidagi ayol: 5-teri turi'
+  - nogironlik
+  - nogironlik aravachasi
+👩🏿‍🦼:
+  - 6-teri turi
+  - ayol
+  - motorli nogironlik aravachasidagi ayol
+  - 'motorli nogironlik aravachasidagi ayol: 6-teri turi'
+  - nogironlik
+  - nogironlik aravachasi
+🧑‍🦽:
+  - gʻildirakli aravacha
+  - maxsus imkoniyatlar
+  - nogironlar aravachasidagi odam
+🧑🏻‍🦽:
+  - 1–2-teri turi
+  - gʻildirakli aravacha
+  - maxsus imkoniyatlar
+  - nogironlar aravachasidagi odam
+  - 'nogironlar aravachasidagi odam: 1–2-teri turi'
+🧑🏼‍🦽:
+  - 3-teri turi
+  - gʻildirakli aravacha
+  - maxsus imkoniyatlar
+  - nogironlar aravachasidagi odam
+  - 'nogironlar aravachasidagi odam: 3-teri turi'
+🧑🏽‍🦽:
+  - 4-teri turi
+  - gʻildirakli aravacha
+  - maxsus imkoniyatlar
+  - nogironlar aravachasidagi odam
+  - 'nogironlar aravachasidagi odam: 4-teri turi'
+🧑🏾‍🦽:
+  - 5-teri turi
+  - gʻildirakli aravacha
+  - maxsus imkoniyatlar
+  - nogironlar aravachasidagi odam
+  - 'nogironlar aravachasidagi odam: 5-teri turi'
+🧑🏿‍🦽:
+  - 6-teri turi
+  - gʻildirakli aravacha
+  - maxsus imkoniyatlar
+  - nogironlar aravachasidagi odam
+  - 'nogironlar aravachasidagi odam: 6-teri turi'
+👨‍🦽:
+  - erkak
+  - nogiron erkak
+  - nogironlik
+  - nogironlik aravachasi
+  - nogironlik aravachasidagi erkak
+👨🏻‍🦽:
+  - 1–2-teri turi
+  - erkak
+  - nogiron erkak
+  - nogironlik
+  - nogironlik aravachasi
+  - nogironlik aravachasidagi erkak
+  - 'nogironlik aravachasidagi erkak: 1–2-teri turi'
+👨🏼‍🦽:
+  - 3-teri turi
+  - erkak
+  - nogiron erkak
+  - nogironlik
+  - nogironlik aravachasi
+  - nogironlik aravachasidagi erkak
+  - 'nogironlik aravachasidagi erkak: 3-teri turi'
+👨🏽‍🦽:
+  - 4-teri turi
+  - erkak
+  - nogiron erkak
+  - nogironlik
+  - nogironlik aravachasi
+  - nogironlik aravachasidagi erkak
+  - 'nogironlik aravachasidagi erkak: 4-teri turi'
+👨🏾‍🦽:
+  - 5-teri turi
+  - erkak
+  - nogiron erkak
+  - nogironlik
+  - nogironlik aravachasi
+  - nogironlik aravachasidagi erkak
+  - 'nogironlik aravachasidagi erkak: 5-teri turi'
+👨🏿‍🦽:
+  - 6-teri turi
+  - erkak
+  - nogiron erkak
+  - nogironlik
+  - nogironlik aravachasi
+  - nogironlik aravachasidagi erkak
+  - 'nogironlik aravachasidagi erkak: 6-teri turi'
+👩‍🦽:
+  - ayol
+  - nogiron ayol
+  - nogironlik
+  - nogironlik aravachasi
+  - nogironlik aravachasidagi ayol
+👩🏻‍🦽:
+  - 1–2-teri turi
+  - ayol
+  - nogiron ayol
+  - nogironlik
+  - nogironlik aravachasi
+  - nogironlik aravachasidagi ayol
+  - 'nogironlik aravachasidagi ayol: 1–2-teri turi'
+👩🏼‍🦽:
+  - 3-teri turi
+  - ayol
+  - nogiron ayol
+  - nogironlik
+  - nogironlik aravachasi
+  - nogironlik aravachasidagi ayol
+  - 'nogironlik aravachasidagi ayol: 3-teri turi'
+👩🏽‍🦽:
+  - 4-teri turi
+  - ayol
+  - nogiron ayol
+  - nogironlik
+  - nogironlik aravachasi
+  - nogironlik aravachasidagi ayol
+  - 'nogironlik aravachasidagi ayol: 4-teri turi'
+👩🏾‍🦽:
+  - 5-teri turi
+  - ayol
+  - nogiron ayol
+  - nogironlik
+  - nogironlik aravachasi
+  - nogironlik aravachasidagi ayol
+  - 'nogironlik aravachasidagi ayol: 5-teri turi'
+👩🏿‍🦽:
+  - 6-teri turi
+  - ayol
+  - nogiron ayol
+  - nogironlik
+  - nogironlik aravachasi
+  - nogironlik aravachasidagi ayol
+  - 'nogironlik aravachasidagi ayol: 6-teri turi'
 🏃:
   - marafon
   - yugurish
@@ -7895,12 +10022,14 @@
 🏃‍♂:
   - erkak
   - marafon
+  - poyga
   - yugurayotgan erkak
   - yugurish
 🏃🏻‍♂:
   - 1–2-teri turi
   - erkak
   - marafon
+  - poyga
   - yugurayotgan erkak
   - 'yugurayotgan erkak: 1–2-teri turi'
   - yugurish
@@ -7908,6 +10037,7 @@
   - 3-teri turi
   - erkak
   - marafon
+  - poyga
   - yugurayotgan erkak
   - 'yugurayotgan erkak: 3-teri turi'
   - yugurish
@@ -7915,6 +10045,7 @@
   - 4-teri turi
   - erkak
   - marafon
+  - poyga
   - yugurayotgan erkak
   - 'yugurayotgan erkak: 4-teri turi'
   - yugurish
@@ -7922,6 +10053,7 @@
   - 5-teri turi
   - erkak
   - marafon
+  - poyga
   - yugurayotgan erkak
   - 'yugurayotgan erkak: 5-teri turi'
   - yugurish
@@ -7929,18 +10061,21 @@
   - 6-teri turi
   - erkak
   - marafon
+  - poyga
   - yugurayotgan erkak
   - 'yugurayotgan erkak: 6-teri turi'
   - yugurish
 🏃‍♀:
   - ayol
   - marafon
+  - poyga
   - yugurayotgan ayol
   - yugurish
 🏃🏻‍♀:
   - 1–2-teri turi
   - ayol
   - marafon
+  - poyga
   - yugurayotgan ayol
   - 'yugurayotgan ayol: 1–2-teri turi'
   - yugurish
@@ -7948,6 +10083,7 @@
   - 3-teri turi
   - ayol
   - marafon
+  - poyga
   - yugurayotgan ayol
   - 'yugurayotgan ayol: 3-teri turi'
   - yugurish
@@ -7955,6 +10091,7 @@
   - 4-teri turi
   - ayol
   - marafon
+  - poyga
   - yugurayotgan ayol
   - 'yugurayotgan ayol: 4-teri turi'
   - yugurish
@@ -7962,6 +10099,7 @@
   - 5-teri turi
   - ayol
   - marafon
+  - poyga
   - yugurayotgan ayol
   - 'yugurayotgan ayol: 5-teri turi'
   - yugurish
@@ -7969,37 +10107,38 @@
   - 6-teri turi
   - ayol
   - marafon
+  - poyga
   - yugurayotgan ayol
   - 'yugurayotgan ayol: 6-teri turi'
   - yugurish
 💃:
-  - raqqos
   - raqqosa
+  - raqs
 💃🏻:
   - 1–2-teri turi
-  - raqqos
   - raqqosa
   - 'raqqosa: 1–2-teri turi'
+  - raqs
 💃🏼:
   - 3-teri turi
-  - raqqos
   - raqqosa
   - 'raqqosa: 3-teri turi'
+  - raqs
 💃🏽:
   - 4-teri turi
-  - raqqos
   - raqqosa
   - 'raqqosa: 4-teri turi'
+  - raqs
 💃🏾:
   - 5-teri turi
-  - raqqos
   - raqqosa
   - 'raqqosa: 5-teri turi'
+  - raqs
 💃🏿:
   - 6-teri turi
-  - raqqos
   - raqqosa
   - 'raqqosa: 6-teri turi'
+  - raqs
 🕺:
   - erkak
   - raqs
@@ -8039,58 +10178,67 @@
   - ish
   - kostyum
   - kostyum kiygan kishi
+  - kostyum kiygan muallaq holatdagi kishi
 🕴🏻:
   - 1–2-teri turi
   - erkak
   - ish
   - kostyum
   - kostyum kiygan kishi
-  - 'kostyum kiygan kishi: 1–2-teri turi'
+  - kostyum kiygan muallaq holatdagi kishi
+  - 'kostyum kiygan muallaq holatdagi kishi: 1–2-teri turi'
 🕴🏼:
   - 3-teri turi
   - erkak
   - ish
   - kostyum
   - kostyum kiygan kishi
-  - 'kostyum kiygan kishi: 3-teri turi'
+  - kostyum kiygan muallaq holatdagi kishi
+  - 'kostyum kiygan muallaq holatdagi kishi: 3-teri turi'
 🕴🏽:
   - 4-teri turi
   - erkak
   - ish
   - kostyum
   - kostyum kiygan kishi
-  - 'kostyum kiygan kishi: 4-teri turi'
+  - kostyum kiygan muallaq holatdagi kishi
+  - 'kostyum kiygan muallaq holatdagi kishi: 4-teri turi'
 🕴🏾:
   - 5-teri turi
   - erkak
   - ish
   - kostyum
   - kostyum kiygan kishi
-  - 'kostyum kiygan kishi: 5-teri turi'
+  - kostyum kiygan muallaq holatdagi kishi
+  - 'kostyum kiygan muallaq holatdagi kishi: 5-teri turi'
 🕴🏿:
   - 6-teri turi
   - erkak
   - ish
   - kostyum
   - kostyum kiygan kishi
-  - 'kostyum kiygan kishi: 6-teri turi'
+  - kostyum kiygan muallaq holatdagi kishi
+  - 'kostyum kiygan muallaq holatdagi kishi: 6-teri turi'
 👯:
   - ayol
   - ayollar bazmi
   - qiz
   - quloq
   - quyon
+  - quyon quloqli odamlar
   - raqs
 👯‍♂:
   - erkak
   - erkak vaqtichog‘liq qilmoqda
   - quyon qulog‘i
+  - quyon quloqli erkaklar
   - raqqos
   - vaqtichog‘lik
 👯‍♀:
   - ayol
   - ayol vaqtichog‘lik qilmoqda
   - quyon qulog‘i
+  - quyon quloqli ayollar
   - raqqosa
   - vaqtichog‘lik
 🧖:
@@ -8232,45 +10380,51 @@
   - rapira
   - sport
 🏇:
-  - ippodrom
+  - chavandoz
   - ot
-  - ot yugurtirish
+  - ot poygasi
   - otchopar
+  - poyga
 🏇🏻:
   - 1–2-teri turi
-  - ippodrom
+  - chavandoz
   - ot
-  - ot yugurtirish
+  - ot poygasi
   - otchopar
   - 'otchopar: 1–2-teri turi'
+  - poyga
 🏇🏼:
   - 3-teri turi
-  - ippodrom
+  - chavandoz
   - ot
-  - ot yugurtirish
+  - ot poygasi
   - otchopar
   - 'otchopar: 3-teri turi'
+  - poyga
 🏇🏽:
   - 4-teri turi
-  - ippodrom
+  - chavandoz
   - ot
-  - ot yugurtirish
+  - ot poygasi
   - otchopar
   - 'otchopar: 4-teri turi'
+  - poyga
 🏇🏾:
   - 5-teri turi
-  - ippodrom
+  - chavandoz
   - ot
-  - ot yugurtirish
+  - ot poygasi
   - otchopar
   - 'otchopar: 5-teri turi'
+  - poyga
 🏇🏿:
   - 6-teri turi
-  - ippodrom
+  - chavandoz
   - ot
-  - ot yugurtirish
+  - ot poygasi
   - otchopar
   - 'otchopar: 6-teri turi'
+  - poyga
 ⛷️:
   - chang‘i
   - chang‘ichi
@@ -8959,83 +11113,95 @@
 🚴‍♂:
   - erkak
   - erkak velosipedda
-  - haydash
   - velosiped
+  - velosiped haydash
+  - velosipedchi
 🚴🏻‍♂:
   - 1–2-teri turi
   - erkak
   - erkak velosipedda
   - 'erkak velosipedda: 1–2-teri turi'
-  - haydash
   - velosiped
+  - velosiped haydash
+  - velosipedchi
 🚴🏼‍♂:
   - 3-teri turi
   - erkak
   - erkak velosipedda
   - 'erkak velosipedda: 3-teri turi'
-  - haydash
   - velosiped
+  - velosiped haydash
+  - velosipedchi
 🚴🏽‍♂:
   - 4-teri turi
   - erkak
   - erkak velosipedda
   - 'erkak velosipedda: 4-teri turi'
-  - haydash
   - velosiped
+  - velosiped haydash
+  - velosipedchi
 🚴🏾‍♂:
   - 5-teri turi
   - erkak
   - erkak velosipedda
   - 'erkak velosipedda: 5-teri turi'
-  - haydash
   - velosiped
+  - velosiped haydash
+  - velosipedchi
 🚴🏿‍♂:
   - 6-teri turi
   - erkak
   - erkak velosipedda
   - 'erkak velosipedda: 6-teri turi'
-  - haydash
   - velosiped
+  - velosiped haydash
+  - velosipedchi
 🚴‍♀:
   - ayol
   - ayol velosipedda
-  - haydash
   - velosiped
+  - velosiped haydash
+  - velosipedchi
 🚴🏻‍♀:
   - 1–2-teri turi
   - ayol
   - ayol velosipedda
   - 'ayol velosipedda: 1–2-teri turi'
-  - haydash
   - velosiped
+  - velosiped haydash
+  - velosipedchi
 🚴🏼‍♀:
   - 3-teri turi
   - ayol
   - ayol velosipedda
   - 'ayol velosipedda: 3-teri turi'
-  - haydash
   - velosiped
+  - velosiped haydash
+  - velosipedchi
 🚴🏽‍♀:
   - 4-teri turi
   - ayol
   - ayol velosipedda
   - 'ayol velosipedda: 4-teri turi'
-  - haydash
   - velosiped
+  - velosiped haydash
+  - velosipedchi
 🚴🏾‍♀:
   - 5-teri turi
   - ayol
   - ayol velosipedda
   - 'ayol velosipedda: 5-teri turi'
-  - haydash
   - velosiped
+  - velosiped haydash
+  - velosipedchi
 🚴🏿‍♀:
   - 6-teri turi
   - ayol
   - ayol velosipedda
   - 'ayol velosipedda: 6-teri turi'
-  - haydash
   - velosiped
+  - velosiped haydash
+  - velosipedchi
 🚵:
   - tog‘
   - tog‘ velosipedchisi
@@ -9125,49 +11291,61 @@
 🚵‍♀:
   - ayol
   - ayol tog‘da velosipedda
-  - haydash
-  - tog‘da
+  - bayk
+  - togʻ
   - velosiped
+  - velosiped haydash
+  - velosipedchi
 🚵🏻‍♀:
   - 1–2-teri turi
   - ayol
   - ayol tog‘da velosipedda
   - 'ayol tog‘da velosipedda: 1–2-teri turi'
-  - haydash
-  - tog‘da
+  - bayk
+  - togʻ
   - velosiped
+  - velosiped haydash
+  - velosipedchi
 🚵🏼‍♀:
   - 3-teri turi
   - ayol
   - ayol tog‘da velosipedda
   - 'ayol tog‘da velosipedda: 3-teri turi'
-  - haydash
-  - tog‘da
+  - bayk
+  - togʻ
   - velosiped
+  - velosiped haydash
+  - velosipedchi
 🚵🏽‍♀:
   - 4-teri turi
   - ayol
   - ayol tog‘da velosipedda
   - 'ayol tog‘da velosipedda: 4-teri turi'
-  - haydash
-  - tog‘da
+  - bayk
+  - togʻ
   - velosiped
+  - velosiped haydash
+  - velosipedchi
 🚵🏾‍♀:
   - 5-teri turi
   - ayol
   - ayol tog‘da velosipedda
   - 'ayol tog‘da velosipedda: 5-teri turi'
-  - haydash
-  - tog‘da
+  - bayk
+  - togʻ
   - velosiped
+  - velosiped haydash
+  - velosipedchi
 🚵🏿‍♀:
   - 6-teri turi
   - ayol
   - ayol tog‘da velosipedda
   - 'ayol tog‘da velosipedda: 6-teri turi'
-  - haydash
-  - tog‘da
+  - bayk
+  - togʻ
   - velosiped
+  - velosiped haydash
+  - velosipedchi
 🤸:
   - akrobatik mashq
   - akrobatika
@@ -9582,125 +11760,137 @@
   - gandbol
   - sport
 🤹:
+  - bilim
   - jonglyor
-  - ko‘p vazifalilik
+  - koʻp vazifalilik
   - muvozanat
-  - tajriba
+  - tomosha koʻrsatayotgan odam
+  - tomosha koʻrsatish
 🤹🏻:
   - 1–2-teri turi
+  - bilim
   - jonglyor
   - 'jonglyor: 1–2-teri turi'
-  - ko‘p vazifalilik
+  - koʻp vazifalilik
   - muvozanat
-  - tajriba
+  - tomosha koʻrsatayotgan odam
+  - tomosha koʻrsatish
 🤹🏼:
   - 3-teri turi
+  - bilim
   - jonglyor
   - 'jonglyor: 3-teri turi'
-  - ko‘p vazifalilik
+  - koʻp vazifalilik
   - muvozanat
-  - tajriba
+  - tomosha koʻrsatayotgan odam
+  - tomosha koʻrsatish
 🤹🏽:
   - 4-teri turi
+  - bilim
   - jonglyor
   - 'jonglyor: 4-teri turi'
-  - ko‘p vazifalilik
+  - koʻp vazifalilik
   - muvozanat
-  - tajriba
+  - tomosha koʻrsatayotgan odam
+  - tomosha koʻrsatish
 🤹🏾:
   - 5-teri turi
+  - bilim
   - jonglyor
   - 'jonglyor: 5-teri turi'
-  - ko‘p vazifalilik
+  - koʻp vazifalilik
   - muvozanat
-  - tajriba
+  - tomosha koʻrsatayotgan odam
+  - tomosha koʻrsatish
 🤹🏿:
   - 6-teri turi
+  - bilim
   - jonglyor
   - 'jonglyor: 6-teri turi'
-  - ko‘p vazifalilik
+  - koʻp vazifalilik
   - muvozanat
-  - tajriba
+  - tomosha koʻrsatayotgan odam
+  - tomosha koʻrsatish
 🤹‍♂:
-  - bir nechta amal
   - erkak
   - erkak jonglyorlik qilmoqda
-  - jonglyor
+  - koʻp vazifalilik
+  - tomosha koʻrsatish
 🤹🏻‍♂:
   - 1–2-teri turi
-  - bir nechta amal
   - erkak
   - erkak jonglyorlik qilmoqda
   - 'erkak jonglyorlik qilmoqda: 1–2-teri turi'
-  - jonglyor
+  - koʻp vazifalilik
+  - tomosha koʻrsatish
 🤹🏼‍♂:
   - 3-teri turi
-  - bir nechta amal
   - erkak
   - erkak jonglyorlik qilmoqda
   - 'erkak jonglyorlik qilmoqda: 3-teri turi'
-  - jonglyor
+  - koʻp vazifalilik
+  - tomosha koʻrsatish
 🤹🏽‍♂:
   - 4-teri turi
-  - bir nechta amal
   - erkak
   - erkak jonglyorlik qilmoqda
   - 'erkak jonglyorlik qilmoqda: 4-teri turi'
-  - jonglyor
+  - koʻp vazifalilik
+  - tomosha koʻrsatish
 🤹🏾‍♂:
   - 5-teri turi
-  - bir nechta amal
   - erkak
   - erkak jonglyorlik qilmoqda
   - 'erkak jonglyorlik qilmoqda: 5-teri turi'
-  - jonglyor
+  - koʻp vazifalilik
+  - tomosha koʻrsatish
 🤹🏿‍♂:
   - 6-teri turi
-  - bir nechta amal
   - erkak
   - erkak jonglyorlik qilmoqda
   - 'erkak jonglyorlik qilmoqda: 6-teri turi'
-  - jonglyor
+  - koʻp vazifalilik
+  - tomosha koʻrsatish
 🤹‍♀:
   - ayol
   - ayol jonglyorlik qilmoqda
-  - bir nechta amal
-  - jonglyor
+  - koʻp vazifalilik
+  - tomosha koʻrsatish
 🤹🏻‍♀:
   - 1–2-teri turi
   - ayol
   - ayol jonglyorlik qilmoqda
   - 'ayol jonglyorlik qilmoqda: 1–2-teri turi'
-  - bir nechta amal
-  - jonglyor
+  - koʻp vazifalilik
+  - tomosha koʻrsatish
 🤹🏼‍♀:
   - 3-teri turi
   - ayol
   - ayol jonglyorlik qilmoqda
   - 'ayol jonglyorlik qilmoqda: 3-teri turi'
-  - bir nechta amal
-  - jonglyor
+  - koʻp vazifalilik
+  - tomosha koʻrsatish
 🤹🏽‍♀:
   - 4-teri turi
   - ayol
   - ayol jonglyorlik qilmoqda
   - 'ayol jonglyorlik qilmoqda: 4-teri turi'
-  - bir nechta amal
-  - jonglyor
+  - koʻp vazifalilik
+  - tomosha koʻrsatish
 🤹🏾‍♀:
   - 5-teri turi
   - ayol
   - ayol jonglyorlik qilmoqda
   - 'ayol jonglyorlik qilmoqda: 5-teri turi'
-  - bir nechta amal
-  - jonglyor
+  - koʻp vazifalilik
+  - tomosha koʻrsatish
 🤹🏿‍♀:
   - 6-teri turi
   - ayol
   - ayol jonglyorlik qilmoqda
   - 'ayol jonglyorlik qilmoqda: 6-teri turi'
-  - bir nechta amal
-  - jonglyor
+  - koʻp vazifalilik
+  - tomosha koʻrsatish
 🧘:
   - lotus holatidagi odam
 🧘🏻:
@@ -9841,28 +12031,988 @@
   - mehmonxona
   - uxlash
   - uyqu
+🧑‍🤝‍🧑:
+  - juftlik
+  - odam
+  - qoʻl
+  - qoʻl ushlashib turgan odamlar
+  - ushlab
+🧑🏻‍🤝‍🧑🏻:
+  - 1–2-teri turi
+  - juftlik
+  - odam
+  - qoʻl
+  - qoʻl ushlashib turgan odamlar
+  - 'qoʻl ushlashib turgan odamlar: 1–2-teri turi'
+  - ushlab
+🧑🏻‍🤝‍🧑🏼:
+  - 1–2-teri turi
+  - 3-teri turi
+  - juftlik
+  - odam
+  - qoʻl
+  - qoʻl ushlashib turgan odamlar
+  - 'qoʻl ushlashib turgan odamlar: 1–2-teri turi 3-teri turi'
+  - ushlab
+🧑🏻‍🤝‍🧑🏽:
+  - 1–2-teri turi
+  - 4-teri turi
+  - juftlik
+  - odam
+  - qoʻl
+  - qoʻl ushlashib turgan odamlar
+  - 'qoʻl ushlashib turgan odamlar: 1–2-teri turi 4-teri turi'
+  - ushlab
+🧑🏻‍🤝‍🧑🏾:
+  - 1–2-teri turi
+  - 5-teri turi
+  - juftlik
+  - odam
+  - qoʻl
+  - qoʻl ushlashib turgan odamlar
+  - 'qoʻl ushlashib turgan odamlar: 1–2-teri turi 5-teri turi'
+  - ushlab
+🧑🏻‍🤝‍🧑🏿:
+  - 1–2-teri turi
+  - 6-teri turi
+  - juftlik
+  - odam
+  - qoʻl
+  - qoʻl ushlashib turgan odamlar
+  - 'qoʻl ushlashib turgan odamlar: 1–2-teri turi 6-teri turi'
+  - ushlab
+🧑🏼‍🤝‍🧑🏻:
+  - 1–2-teri turi
+  - 3-teri turi
+  - juftlik
+  - odam
+  - qoʻl
+  - qoʻl ushlashib turgan odamlar
+  - 'qoʻl ushlashib turgan odamlar: 3-teri turi 1–2-teri turi'
+  - ushlab
+🧑🏼‍🤝‍🧑🏼:
+  - 3-teri turi
+  - juftlik
+  - odam
+  - qoʻl
+  - qoʻl ushlashib turgan odamlar
+  - 'qoʻl ushlashib turgan odamlar: 3-teri turi'
+  - ushlab
+🧑🏼‍🤝‍🧑🏽:
+  - 3-teri turi
+  - 4-teri turi
+  - juftlik
+  - odam
+  - qoʻl
+  - qoʻl ushlashib turgan odamlar
+  - 'qoʻl ushlashib turgan odamlar: 3-teri turi 4-teri turi'
+  - ushlab
+🧑🏼‍🤝‍🧑🏾:
+  - 3-teri turi
+  - 5-teri turi
+  - juftlik
+  - odam
+  - qoʻl
+  - qoʻl ushlashib turgan odamlar
+  - 'qoʻl ushlashib turgan odamlar: 3-teri turi 5-teri turi'
+  - ushlab
+🧑🏼‍🤝‍🧑🏿:
+  - 3-teri turi
+  - 6-teri turi
+  - juftlik
+  - odam
+  - qoʻl
+  - qoʻl ushlashib turgan odamlar
+  - 'qoʻl ushlashib turgan odamlar: 3-teri turi 6-teri turi'
+  - ushlab
+🧑🏽‍🤝‍🧑🏻:
+  - 1–2-teri turi
+  - 4-teri turi
+  - juftlik
+  - odam
+  - qoʻl
+  - qoʻl ushlashib turgan odamlar
+  - 'qoʻl ushlashib turgan odamlar: 4-teri turi 1–2-teri turi'
+  - ushlab
+🧑🏽‍🤝‍🧑🏼:
+  - 3-teri turi
+  - 4-teri turi
+  - juftlik
+  - odam
+  - qoʻl
+  - qoʻl ushlashib turgan odamlar
+  - 'qoʻl ushlashib turgan odamlar: 4-teri turi 3-teri turi'
+  - ushlab
+🧑🏽‍🤝‍🧑🏽:
+  - 4-teri turi
+  - juftlik
+  - odam
+  - qoʻl
+  - qoʻl ushlashib turgan odamlar
+  - 'qoʻl ushlashib turgan odamlar: 4-teri turi'
+  - ushlab
+🧑🏽‍🤝‍🧑🏾:
+  - 4-teri turi
+  - 5-teri turi
+  - juftlik
+  - odam
+  - qoʻl
+  - qoʻl ushlashib turgan odamlar
+  - 'qoʻl ushlashib turgan odamlar: 4-teri turi 5-teri turi'
+  - ushlab
+🧑🏽‍🤝‍🧑🏿:
+  - 4-teri turi
+  - 6-teri turi
+  - juftlik
+  - odam
+  - qoʻl
+  - qoʻl ushlashib turgan odamlar
+  - 'qoʻl ushlashib turgan odamlar: 4-teri turi 6-teri turi'
+  - ushlab
+🧑🏾‍🤝‍🧑🏻:
+  - 1–2-teri turi
+  - 5-teri turi
+  - juftlik
+  - odam
+  - qoʻl
+  - qoʻl ushlashib turgan odamlar
+  - 'qoʻl ushlashib turgan odamlar: 5-teri turi 1–2-teri turi'
+  - ushlab
+🧑🏾‍🤝‍🧑🏼:
+  - 3-teri turi
+  - 5-teri turi
+  - juftlik
+  - odam
+  - qoʻl
+  - qoʻl ushlashib turgan odamlar
+  - 'qoʻl ushlashib turgan odamlar: 5-teri turi 3-teri turi'
+  - ushlab
+🧑🏾‍🤝‍🧑🏽:
+  - 4-teri turi
+  - 5-teri turi
+  - juftlik
+  - odam
+  - qoʻl
+  - qoʻl ushlashib turgan odamlar
+  - 'qoʻl ushlashib turgan odamlar: 5-teri turi 4-teri turi'
+  - ushlab
+🧑🏾‍🤝‍🧑🏾:
+  - 5-teri turi
+  - juftlik
+  - odam
+  - qoʻl
+  - qoʻl ushlashib turgan odamlar
+  - 'qoʻl ushlashib turgan odamlar: 5-teri turi'
+  - ushlab
+🧑🏾‍🤝‍🧑🏿:
+  - 5-teri turi
+  - 6-teri turi
+  - juftlik
+  - odam
+  - qoʻl
+  - qoʻl ushlashib turgan odamlar
+  - 'qoʻl ushlashib turgan odamlar: 5-teri turi 6-teri turi'
+  - ushlab
+🧑🏿‍🤝‍🧑🏻:
+  - 1–2-teri turi
+  - 6-teri turi
+  - juftlik
+  - odam
+  - qoʻl
+  - qoʻl ushlashib turgan odamlar
+  - 'qoʻl ushlashib turgan odamlar: 6-teri turi 1–2-teri turi'
+  - ushlab
+🧑🏿‍🤝‍🧑🏼:
+  - 3-teri turi
+  - 6-teri turi
+  - juftlik
+  - odam
+  - qoʻl
+  - qoʻl ushlashib turgan odamlar
+  - 'qoʻl ushlashib turgan odamlar: 6-teri turi 3-teri turi'
+  - ushlab
+🧑🏿‍🤝‍🧑🏽:
+  - 4-teri turi
+  - 6-teri turi
+  - juftlik
+  - odam
+  - qoʻl
+  - qoʻl ushlashib turgan odamlar
+  - 'qoʻl ushlashib turgan odamlar: 6-teri turi 4-teri turi'
+  - ushlab
+🧑🏿‍🤝‍🧑🏾:
+  - 5-teri turi
+  - 6-teri turi
+  - juftlik
+  - odam
+  - qoʻl
+  - qoʻl ushlashib turgan odamlar
+  - 'qoʻl ushlashib turgan odamlar: 6-teri turi 5-teri turi'
+  - ushlab
+🧑🏿‍🤝‍🧑🏿:
+  - 6-teri turi
+  - juftlik
+  - odam
+  - qoʻl
+  - qoʻl ushlashib turgan odamlar
+  - 'qoʻl ushlashib turgan odamlar: 6-teri turi'
+  - ushlab
 👭:
   - ayol
   - juftlik
-  - qo‘l
-  - qo‘l ushlashib turgan ikki ayol
-  - ushlash
+  - qoʻl
+  - qoʻl ushlashgan ayollar
+  - qoʻl ushlashish
+👭🏻:
+  - 1–2-teri turi
+  - ayol
+  - juftlik
+  - qoʻl
+  - qoʻl ushlashgan ayollar
+  - 'qoʻl ushlashgan ayollar: 1–2-teri turi'
+  - qoʻl ushlashish
+👩🏻‍🤝‍👩🏼:
+  - 1–2-teri turi
+  - 3-teri turi
+  - ayol
+  - juftlik
+  - qoʻl
+  - qoʻl ushlashgan ayollar
+  - 'qoʻl ushlashgan ayollar: 1–2-teri turi 3-teri turi'
+  - qoʻl ushlashish
+👩🏻‍🤝‍👩🏽:
+  - 1–2-teri turi
+  - 4-teri turi
+  - ayol
+  - juftlik
+  - qoʻl
+  - qoʻl ushlashgan ayollar
+  - 'qoʻl ushlashgan ayollar: 1–2-teri turi 4-teri turi'
+  - qoʻl ushlashish
+👩🏻‍🤝‍👩🏾:
+  - 1–2-teri turi
+  - 5-teri turi
+  - ayol
+  - juftlik
+  - qoʻl
+  - qoʻl ushlashgan ayollar
+  - 'qoʻl ushlashgan ayollar: 1–2-teri turi 5-teri turi'
+  - qoʻl ushlashish
+👩🏻‍🤝‍👩🏿:
+  - 1–2-teri turi
+  - 6-teri turi
+  - ayol
+  - juftlik
+  - qoʻl
+  - qoʻl ushlashgan ayollar
+  - 'qoʻl ushlashgan ayollar: 1–2-teri turi 6-teri turi'
+  - qoʻl ushlashish
+👩🏼‍🤝‍👩🏻:
+  - 1–2-teri turi
+  - 3-teri turi
+  - ayol
+  - juftlik
+  - qoʻl
+  - qoʻl ushlashgan ayollar
+  - 'qoʻl ushlashgan ayollar: 3-teri turi 1–2-teri turi'
+  - qoʻl ushlashish
+👭🏼:
+  - 3-teri turi
+  - ayol
+  - juftlik
+  - qoʻl
+  - qoʻl ushlashgan ayollar
+  - 'qoʻl ushlashgan ayollar: 3-teri turi'
+  - qoʻl ushlashish
+👩🏼‍🤝‍👩🏽:
+  - 3-teri turi
+  - 4-teri turi
+  - ayol
+  - juftlik
+  - qoʻl
+  - qoʻl ushlashgan ayollar
+  - 'qoʻl ushlashgan ayollar: 3-teri turi 4-teri turi'
+  - qoʻl ushlashish
+👩🏼‍🤝‍👩🏾:
+  - 3-teri turi
+  - 5-teri turi
+  - ayol
+  - juftlik
+  - qoʻl
+  - qoʻl ushlashgan ayollar
+  - 'qoʻl ushlashgan ayollar: 3-teri turi 5-teri turi'
+  - qoʻl ushlashish
+👩🏼‍🤝‍👩🏿:
+  - 3-teri turi
+  - 6-teri turi
+  - ayol
+  - juftlik
+  - qoʻl
+  - qoʻl ushlashgan ayollar
+  - 'qoʻl ushlashgan ayollar: 3-teri turi 6-teri turi'
+  - qoʻl ushlashish
+👩🏽‍🤝‍👩🏻:
+  - 1–2-teri turi
+  - 4-teri turi
+  - ayol
+  - juftlik
+  - qoʻl
+  - qoʻl ushlashgan ayollar
+  - 'qoʻl ushlashgan ayollar: 4-teri turi 1–2-teri turi'
+  - qoʻl ushlashish
+👩🏽‍🤝‍👩🏼:
+  - 3-teri turi
+  - 4-teri turi
+  - ayol
+  - juftlik
+  - qoʻl
+  - qoʻl ushlashgan ayollar
+  - 'qoʻl ushlashgan ayollar: 4-teri turi 3-teri turi'
+  - qoʻl ushlashish
+👭🏽:
+  - 4-teri turi
+  - ayol
+  - juftlik
+  - qoʻl
+  - qoʻl ushlashgan ayollar
+  - 'qoʻl ushlashgan ayollar: 4-teri turi'
+  - qoʻl ushlashish
+👩🏽‍🤝‍👩🏾:
+  - 4-teri turi
+  - 5-teri turi
+  - ayol
+  - juftlik
+  - qoʻl
+  - qoʻl ushlashgan ayollar
+  - 'qoʻl ushlashgan ayollar: 4-teri turi 5-teri turi'
+  - qoʻl ushlashish
+👩🏽‍🤝‍👩🏿:
+  - 4-teri turi
+  - 6-teri turi
+  - ayol
+  - juftlik
+  - qoʻl
+  - qoʻl ushlashgan ayollar
+  - 'qoʻl ushlashgan ayollar: 4-teri turi 6-teri turi'
+  - qoʻl ushlashish
+👩🏾‍🤝‍👩🏻:
+  - 1–2-teri turi
+  - 5-teri turi
+  - ayol
+  - juftlik
+  - qoʻl
+  - qoʻl ushlashgan ayollar
+  - 'qoʻl ushlashgan ayollar: 5-teri turi 1–2-teri turi'
+  - qoʻl ushlashish
+👩🏾‍🤝‍👩🏼:
+  - 3-teri turi
+  - 5-teri turi
+  - ayol
+  - juftlik
+  - qoʻl
+  - qoʻl ushlashgan ayollar
+  - 'qoʻl ushlashgan ayollar: 5-teri turi 3-teri turi'
+  - qoʻl ushlashish
+👩🏾‍🤝‍👩🏽:
+  - 4-teri turi
+  - 5-teri turi
+  - ayol
+  - juftlik
+  - qoʻl
+  - qoʻl ushlashgan ayollar
+  - 'qoʻl ushlashgan ayollar: 5-teri turi 4-teri turi'
+  - qoʻl ushlashish
+👭🏾:
+  - 5-teri turi
+  - ayol
+  - juftlik
+  - qoʻl
+  - qoʻl ushlashgan ayollar
+  - 'qoʻl ushlashgan ayollar: 5-teri turi'
+  - qoʻl ushlashish
+👩🏾‍🤝‍👩🏿:
+  - 5-teri turi
+  - 6-teri turi
+  - ayol
+  - juftlik
+  - qoʻl
+  - qoʻl ushlashgan ayollar
+  - 'qoʻl ushlashgan ayollar: 5-teri turi 6-teri turi'
+  - qoʻl ushlashish
+👩🏿‍🤝‍👩🏻:
+  - 1–2-teri turi
+  - 6-teri turi
+  - ayol
+  - juftlik
+  - qoʻl
+  - qoʻl ushlashgan ayollar
+  - 'qoʻl ushlashgan ayollar: 6-teri turi 1–2-teri turi'
+  - qoʻl ushlashish
+👩🏿‍🤝‍👩🏼:
+  - 3-teri turi
+  - 6-teri turi
+  - ayol
+  - juftlik
+  - qoʻl
+  - qoʻl ushlashgan ayollar
+  - 'qoʻl ushlashgan ayollar: 6-teri turi 3-teri turi'
+  - qoʻl ushlashish
+👩🏿‍🤝‍👩🏽:
+  - 4-teri turi
+  - 6-teri turi
+  - ayol
+  - juftlik
+  - qoʻl
+  - qoʻl ushlashgan ayollar
+  - 'qoʻl ushlashgan ayollar: 6-teri turi 4-teri turi'
+  - qoʻl ushlashish
+👩🏿‍🤝‍👩🏾:
+  - 5-teri turi
+  - 6-teri turi
+  - ayol
+  - juftlik
+  - qoʻl
+  - qoʻl ushlashgan ayollar
+  - 'qoʻl ushlashgan ayollar: 6-teri turi 5-teri turi'
+  - qoʻl ushlashish
+👭🏿:
+  - 6-teri turi
+  - ayol
+  - juftlik
+  - qoʻl
+  - qoʻl ushlashgan ayollar
+  - 'qoʻl ushlashgan ayollar: 6-teri turi'
+  - qoʻl ushlashish
 👫:
   - ayol
   - erkak
   - juftlik
-  - qo‘l
-  - qo‘l ushlashib turgan erkak va ayol
-  - ushlash
-👬:
-  - burj
-  - egizak
-  - egizaklar
+  - qoʻl
+  - qoʻl ushlashgan ayol va erkak
+  - qoʻl ushlashish
+👫🏻:
+  - 1–2-teri turi
+  - ayol
   - erkak
   - juftlik
-  - qo‘l
-  - qo‘l ushlashib turgan ikki erkak
-  - ushlash
+  - qoʻl
+  - qoʻl ushlashgan ayol va erkak
+  - 'qoʻl ushlashgan ayol va erkak: 1–2-teri turi'
+  - qoʻl ushlashish
+👩🏻‍🤝‍👨🏼:
+  - 1–2-teri turi
+  - 3-teri turi
+  - ayol
+  - erkak
+  - juftlik
+  - qoʻl
+  - qoʻl ushlashgan ayol va erkak
+  - 'qoʻl ushlashgan ayol va erkak: 1–2-teri turi 3-teri turi'
+  - qoʻl ushlashish
+👩🏻‍🤝‍👨🏽:
+  - 1–2-teri turi
+  - 4-teri turi
+  - ayol
+  - erkak
+  - juftlik
+  - qoʻl
+  - qoʻl ushlashgan ayol va erkak
+  - 'qoʻl ushlashgan ayol va erkak: 1–2-teri turi 4-teri turi'
+  - qoʻl ushlashish
+👩🏻‍🤝‍👨🏾:
+  - 1–2-teri turi
+  - 5-teri turi
+  - ayol
+  - erkak
+  - juftlik
+  - qoʻl
+  - qoʻl ushlashgan ayol va erkak
+  - 'qoʻl ushlashgan ayol va erkak: 1–2-teri turi 5-teri turi'
+  - qoʻl ushlashish
+👩🏻‍🤝‍👨🏿:
+  - 1–2-teri turi
+  - 6-teri turi
+  - ayol
+  - erkak
+  - juftlik
+  - qoʻl
+  - qoʻl ushlashgan ayol va erkak
+  - 'qoʻl ushlashgan ayol va erkak: 1–2-teri turi 6-teri turi'
+  - qoʻl ushlashish
+👩🏼‍🤝‍👨🏻:
+  - 1–2-teri turi
+  - 3-teri turi
+  - ayol
+  - erkak
+  - juftlik
+  - qoʻl
+  - qoʻl ushlashgan ayol va erkak
+  - 'qoʻl ushlashgan ayol va erkak: 3-teri turi 1–2-teri turi'
+  - qoʻl ushlashish
+👫🏼:
+  - 3-teri turi
+  - ayol
+  - erkak
+  - juftlik
+  - qoʻl
+  - qoʻl ushlashgan ayol va erkak
+  - 'qoʻl ushlashgan ayol va erkak: 3-teri turi'
+  - qoʻl ushlashish
+👩🏼‍🤝‍👨🏽:
+  - 3-teri turi
+  - 4-teri turi
+  - ayol
+  - erkak
+  - juftlik
+  - qoʻl
+  - qoʻl ushlashgan ayol va erkak
+  - 'qoʻl ushlashgan ayol va erkak: 3-teri turi 4-teri turi'
+  - qoʻl ushlashish
+👩🏼‍🤝‍👨🏾:
+  - 3-teri turi
+  - 5-teri turi
+  - ayol
+  - erkak
+  - juftlik
+  - qoʻl
+  - qoʻl ushlashgan ayol va erkak
+  - 'qoʻl ushlashgan ayol va erkak: 3-teri turi 5-teri turi'
+  - qoʻl ushlashish
+👩🏼‍🤝‍👨🏿:
+  - 3-teri turi
+  - 6-teri turi
+  - ayol
+  - erkak
+  - juftlik
+  - qoʻl
+  - qoʻl ushlashgan ayol va erkak
+  - 'qoʻl ushlashgan ayol va erkak: 3-teri turi 6-teri turi'
+  - qoʻl ushlashish
+👩🏽‍🤝‍👨🏻:
+  - 1–2-teri turi
+  - 4-teri turi
+  - ayol
+  - erkak
+  - juftlik
+  - qoʻl
+  - qoʻl ushlashgan ayol va erkak
+  - 'qoʻl ushlashgan ayol va erkak: 4-teri turi 1–2-teri turi'
+  - qoʻl ushlashish
+👩🏽‍🤝‍👨🏼:
+  - 3-teri turi
+  - 4-teri turi
+  - ayol
+  - erkak
+  - juftlik
+  - qoʻl
+  - qoʻl ushlashgan ayol va erkak
+  - 'qoʻl ushlashgan ayol va erkak: 4-teri turi 3-teri turi'
+  - qoʻl ushlashish
+👫🏽:
+  - 4-teri turi
+  - ayol
+  - erkak
+  - juftlik
+  - qoʻl
+  - qoʻl ushlashgan ayol va erkak
+  - 'qoʻl ushlashgan ayol va erkak: 4-teri turi'
+  - qoʻl ushlashish
+👩🏽‍🤝‍👨🏾:
+  - 4-teri turi
+  - 5-teri turi
+  - ayol
+  - erkak
+  - juftlik
+  - qoʻl
+  - qoʻl ushlashgan ayol va erkak
+  - 'qoʻl ushlashgan ayol va erkak: 4-teri turi 5-teri turi'
+  - qoʻl ushlashish
+👩🏽‍🤝‍👨🏿:
+  - 4-teri turi
+  - 6-teri turi
+  - ayol
+  - erkak
+  - juftlik
+  - qoʻl
+  - qoʻl ushlashgan ayol va erkak
+  - 'qoʻl ushlashgan ayol va erkak: 4-teri turi 6-teri turi'
+  - qoʻl ushlashish
+👩🏾‍🤝‍👨🏻:
+  - 1–2-teri turi
+  - 5-teri turi
+  - ayol
+  - erkak
+  - juftlik
+  - qoʻl
+  - qoʻl ushlashgan ayol va erkak
+  - 'qoʻl ushlashgan ayol va erkak: 5-teri turi 1–2-teri turi'
+  - qoʻl ushlashish
+👩🏾‍🤝‍👨🏼:
+  - 3-teri turi
+  - 5-teri turi
+  - ayol
+  - erkak
+  - juftlik
+  - qoʻl
+  - qoʻl ushlashgan ayol va erkak
+  - 'qoʻl ushlashgan ayol va erkak: 5-teri turi 3-teri turi'
+  - qoʻl ushlashish
+👩🏾‍🤝‍👨🏽:
+  - 4-teri turi
+  - 5-teri turi
+  - ayol
+  - erkak
+  - juftlik
+  - qoʻl
+  - qoʻl ushlashgan ayol va erkak
+  - 'qoʻl ushlashgan ayol va erkak: 5-teri turi 4-teri turi'
+  - qoʻl ushlashish
+👫🏾:
+  - 5-teri turi
+  - ayol
+  - erkak
+  - juftlik
+  - qoʻl
+  - qoʻl ushlashgan ayol va erkak
+  - 'qoʻl ushlashgan ayol va erkak: 5-teri turi'
+  - qoʻl ushlashish
+👩🏾‍🤝‍👨🏿:
+  - 5-teri turi
+  - 6-teri turi
+  - ayol
+  - erkak
+  - juftlik
+  - qoʻl
+  - qoʻl ushlashgan ayol va erkak
+  - 'qoʻl ushlashgan ayol va erkak: 5-teri turi 6-teri turi'
+  - qoʻl ushlashish
+👩🏿‍🤝‍👨🏻:
+  - 1–2-teri turi
+  - 6-teri turi
+  - ayol
+  - erkak
+  - juftlik
+  - qoʻl
+  - qoʻl ushlashgan ayol va erkak
+  - 'qoʻl ushlashgan ayol va erkak: 6-teri turi 1–2-teri turi'
+  - qoʻl ushlashish
+👩🏿‍🤝‍👨🏼:
+  - 3-teri turi
+  - 6-teri turi
+  - ayol
+  - erkak
+  - juftlik
+  - qoʻl
+  - qoʻl ushlashgan ayol va erkak
+  - 'qoʻl ushlashgan ayol va erkak: 6-teri turi 3-teri turi'
+  - qoʻl ushlashish
+👩🏿‍🤝‍👨🏽:
+  - 4-teri turi
+  - 6-teri turi
+  - ayol
+  - erkak
+  - juftlik
+  - qoʻl
+  - qoʻl ushlashgan ayol va erkak
+  - 'qoʻl ushlashgan ayol va erkak: 6-teri turi 4-teri turi'
+  - qoʻl ushlashish
+👩🏿‍🤝‍👨🏾:
+  - 5-teri turi
+  - 6-teri turi
+  - ayol
+  - erkak
+  - juftlik
+  - qoʻl
+  - qoʻl ushlashgan ayol va erkak
+  - 'qoʻl ushlashgan ayol va erkak: 6-teri turi 5-teri turi'
+  - qoʻl ushlashish
+👫🏿:
+  - 6-teri turi
+  - ayol
+  - erkak
+  - juftlik
+  - qoʻl
+  - qoʻl ushlashgan ayol va erkak
+  - 'qoʻl ushlashgan ayol va erkak: 6-teri turi'
+  - qoʻl ushlashish
+👬:
+  - Egizaklar
+  - burj
+  - egizaklar
+  - erkak
+  - erkaklar
+  - juftlik
+  - qoʻl ushlashgan erkaklar
+👬🏻:
+  - 1–2-teri turi
+  - Egizaklar
+  - burj
+  - egizaklar
+  - erkak
+  - erkaklar
+  - juftlik
+  - qoʻl ushlashgan erkaklar
+  - 'qoʻl ushlashgan erkaklar: 1–2-teri turi'
+👨🏻‍🤝‍👨🏼:
+  - 1–2-teri turi
+  - 3-teri turi
+  - Egizaklar
+  - burj
+  - egizaklar
+  - erkak
+  - erkaklar
+  - juftlik
+  - qoʻl ushlashgan erkaklar
+  - 'qoʻl ushlashgan erkaklar: 1–2-teri turi 3-teri turi'
+👨🏻‍🤝‍👨🏽:
+  - 1–2-teri turi
+  - 4-teri turi
+  - Egizaklar
+  - burj
+  - egizaklar
+  - erkak
+  - erkaklar
+  - juftlik
+  - qoʻl ushlashgan erkaklar
+  - 'qoʻl ushlashgan erkaklar: 1–2-teri turi 4-teri turi'
+👨🏻‍🤝‍👨🏾:
+  - 1–2-teri turi
+  - 5-teri turi
+  - Egizaklar
+  - burj
+  - egizaklar
+  - erkak
+  - erkaklar
+  - juftlik
+  - qoʻl ushlashgan erkaklar
+  - 'qoʻl ushlashgan erkaklar: 1–2-teri turi 5-teri turi'
+👨🏻‍🤝‍👨🏿:
+  - 1–2-teri turi
+  - 6-teri turi
+  - Egizaklar
+  - burj
+  - egizaklar
+  - erkak
+  - erkaklar
+  - juftlik
+  - qoʻl ushlashgan erkaklar
+  - 'qoʻl ushlashgan erkaklar: 1–2-teri turi 6-teri turi'
+👨🏼‍🤝‍👨🏻:
+  - 1–2-teri turi
+  - 3-teri turi
+  - Egizaklar
+  - burj
+  - egizaklar
+  - erkak
+  - erkaklar
+  - juftlik
+  - qoʻl ushlashgan erkaklar
+  - 'qoʻl ushlashgan erkaklar: 3-teri turi 1–2-teri turi'
+👬🏼:
+  - 3-teri turi
+  - Egizaklar
+  - burj
+  - egizaklar
+  - erkak
+  - erkaklar
+  - juftlik
+  - qoʻl ushlashgan erkaklar
+  - 'qoʻl ushlashgan erkaklar: 3-teri turi'
+👨🏼‍🤝‍👨🏽:
+  - 3-teri turi
+  - 4-teri turi
+  - Egizaklar
+  - burj
+  - egizaklar
+  - erkak
+  - erkaklar
+  - juftlik
+  - qoʻl ushlashgan erkaklar
+  - 'qoʻl ushlashgan erkaklar: 3-teri turi 4-teri turi'
+👨🏼‍🤝‍👨🏾:
+  - 3-teri turi
+  - 5-teri turi
+  - Egizaklar
+  - burj
+  - egizaklar
+  - erkak
+  - erkaklar
+  - juftlik
+  - qoʻl ushlashgan erkaklar
+  - 'qoʻl ushlashgan erkaklar: 3-teri turi 5-teri turi'
+👨🏼‍🤝‍👨🏿:
+  - 3-teri turi
+  - 6-teri turi
+  - Egizaklar
+  - burj
+  - egizaklar
+  - erkak
+  - erkaklar
+  - juftlik
+  - qoʻl ushlashgan erkaklar
+  - 'qoʻl ushlashgan erkaklar: 3-teri turi 6-teri turi'
+👨🏽‍🤝‍👨🏻:
+  - 1–2-teri turi
+  - 4-teri turi
+  - Egizaklar
+  - burj
+  - egizaklar
+  - erkak
+  - erkaklar
+  - juftlik
+  - qoʻl ushlashgan erkaklar
+  - 'qoʻl ushlashgan erkaklar: 4-teri turi 1–2-teri turi'
+👨🏽‍🤝‍👨🏼:
+  - 3-teri turi
+  - 4-teri turi
+  - Egizaklar
+  - burj
+  - egizaklar
+  - erkak
+  - erkaklar
+  - juftlik
+  - qoʻl ushlashgan erkaklar
+  - 'qoʻl ushlashgan erkaklar: 4-teri turi 3-teri turi'
+👬🏽:
+  - 4-teri turi
+  - Egizaklar
+  - burj
+  - egizaklar
+  - erkak
+  - erkaklar
+  - juftlik
+  - qoʻl ushlashgan erkaklar
+  - 'qoʻl ushlashgan erkaklar: 4-teri turi'
+👨🏽‍🤝‍👨🏾:
+  - 4-teri turi
+  - 5-teri turi
+  - Egizaklar
+  - burj
+  - egizaklar
+  - erkak
+  - erkaklar
+  - juftlik
+  - qoʻl ushlashgan erkaklar
+  - 'qoʻl ushlashgan erkaklar: 4-teri turi 5-teri turi'
+👨🏽‍🤝‍👨🏿:
+  - 4-teri turi
+  - 6-teri turi
+  - Egizaklar
+  - burj
+  - egizaklar
+  - erkak
+  - erkaklar
+  - juftlik
+  - qoʻl ushlashgan erkaklar
+  - 'qoʻl ushlashgan erkaklar: 4-teri turi 6-teri turi'
+👨🏾‍🤝‍👨🏻:
+  - 1–2-teri turi
+  - 5-teri turi
+  - Egizaklar
+  - burj
+  - egizaklar
+  - erkak
+  - erkaklar
+  - juftlik
+  - qoʻl ushlashgan erkaklar
+  - 'qoʻl ushlashgan erkaklar: 5-teri turi 1–2-teri turi'
+👨🏾‍🤝‍👨🏼:
+  - 3-teri turi
+  - 5-teri turi
+  - Egizaklar
+  - burj
+  - egizaklar
+  - erkak
+  - erkaklar
+  - juftlik
+  - qoʻl ushlashgan erkaklar
+  - 'qoʻl ushlashgan erkaklar: 5-teri turi 3-teri turi'
+👨🏾‍🤝‍👨🏽:
+  - 4-teri turi
+  - 5-teri turi
+  - Egizaklar
+  - burj
+  - egizaklar
+  - erkak
+  - erkaklar
+  - juftlik
+  - qoʻl ushlashgan erkaklar
+  - 'qoʻl ushlashgan erkaklar: 5-teri turi 4-teri turi'
+👬🏾:
+  - 5-teri turi
+  - Egizaklar
+  - burj
+  - egizaklar
+  - erkak
+  - erkaklar
+  - juftlik
+  - qoʻl ushlashgan erkaklar
+  - 'qoʻl ushlashgan erkaklar: 5-teri turi'
+👨🏾‍🤝‍👨🏿:
+  - 5-teri turi
+  - 6-teri turi
+  - Egizaklar
+  - burj
+  - egizaklar
+  - erkak
+  - erkaklar
+  - juftlik
+  - qoʻl ushlashgan erkaklar
+  - 'qoʻl ushlashgan erkaklar: 5-teri turi 6-teri turi'
+👨🏿‍🤝‍👨🏻:
+  - 1–2-teri turi
+  - 6-teri turi
+  - Egizaklar
+  - burj
+  - egizaklar
+  - erkak
+  - erkaklar
+  - juftlik
+  - qoʻl ushlashgan erkaklar
+  - 'qoʻl ushlashgan erkaklar: 6-teri turi 1–2-teri turi'
+👨🏿‍🤝‍👨🏼:
+  - 3-teri turi
+  - 6-teri turi
+  - Egizaklar
+  - burj
+  - egizaklar
+  - erkak
+  - erkaklar
+  - juftlik
+  - qoʻl ushlashgan erkaklar
+  - 'qoʻl ushlashgan erkaklar: 6-teri turi 3-teri turi'
+👨🏿‍🤝‍👨🏽:
+  - 4-teri turi
+  - 6-teri turi
+  - Egizaklar
+  - burj
+  - egizaklar
+  - erkak
+  - erkaklar
+  - juftlik
+  - qoʻl ushlashgan erkaklar
+  - 'qoʻl ushlashgan erkaklar: 6-teri turi 4-teri turi'
+👨🏿‍🤝‍👨🏾:
+  - 5-teri turi
+  - 6-teri turi
+  - Egizaklar
+  - burj
+  - egizaklar
+  - erkak
+  - erkaklar
+  - juftlik
+  - qoʻl ushlashgan erkaklar
+  - 'qoʻl ushlashgan erkaklar: 6-teri turi 5-teri turi'
+👬🏿:
+  - 6-teri turi
+  - Egizaklar
+  - burj
+  - egizaklar
+  - erkak
+  - erkaklar
+  - juftlik
+  - qoʻl ushlashgan erkaklar
+  - 'qoʻl ushlashgan erkaklar: 6-teri turi'
 💏:
   - bo‘sa olish
   - juftlik
@@ -10147,6 +13297,13 @@
   - byust
   - kontur suratli byustlar
   - siluet
+🫂:
+  - minnatdorlik
+  - quchoqlashayotgan odamlar
+  - quchoqlashish
+  - rahmat
+  - salom
+  - xayr
 👣:
   - iz
   - kiyim
@@ -10187,6 +13344,9 @@
   - gorilla
   - hayvon
   - maymun
+🦧:
+  - maymun
+  - orangutan
 🐶:
   - kuchuk
   - kuchuk qiyofasi
@@ -10195,18 +13355,27 @@
 🐕️:
   - kuchuk
   - uy hayvoni
+🦮:
+  - boshlovchi
+  - boshlovchi it
+  - gid
+  - koʻr
+  - maxsus imkoniyatlar
+🐕‍🦺:
+  - it
+  - nogiron
+  - xizmat
+  - xizmat iti
+  - yordam
 🐩:
   - kuchuk
   - pudel
 🐺:
-  - bo‘ri
-  - bo‘ri qiyofasi
+  - boʻri
   - yuz
 🦊:
-  - ayyor
-  - ayyor tulki
-  - fayvon
   - tulki
+  - yuz
 🦝:
   - jonivor
   - silash
@@ -10220,13 +13389,18 @@
 🐈️:
   - mushuk
   - uy hayvoni
+🐈‍⬛:
+  - mushuk
+  - omadsiz
+  - qora
+  - qora mushuk
 🦁:
+  - Sherxon
   - burj
   - sher
-  - sher qiyofasi
   - yuz
 🐯:
-  - yo‘lbars
+  - yoʻlbars
   - yo‘lbars qiyofasi
   - yuz
 🐅:
@@ -10241,8 +13415,7 @@
   - ot
   - ot poygasi
 🦄:
-  - bir shoxli ot
-  - bir shoxli ot qiyofasi
+  - yakkashox
   - yuz
 🦓:
   - oq-qora
@@ -10251,6 +13424,11 @@
 🦌:
   - hayvon
   - kiyik
+🦬:
+  - bizon
+  - buyvol
+  - poda
+  - zubr
 🐮:
   - sigir
   - sigir qiyofasi
@@ -10259,22 +13437,25 @@
   - burj
   - ho‘kiz
 🐃:
+  - buqa
   - buyvol
   - suv
 🐄:
   - sigir
 🐷:
-  - cho‘chqa
+  - choʻchqa
   - cho‘chqa qiyofasi
   - yuz
 🐖:
+  - choʻchqa
   - cho‘chqa
+  - urgʻochi choʻchqa
 🐗:
   - cho‘chqa
   - to‘ng‘iz
 🐽:
   - burun
-  - cho‘chqa
+  - choʻchqa
   - cho‘chqa burni
   - yuz
 🐏:
@@ -10309,6 +13490,13 @@
   - xol-xol
 🐘:
   - fil
+🦣:
+  - mamont
+  - qirilish
+  - qoziqtish
+  - soʻyloqtish
+  - yirik
+  - yungli
 🦏:
   - hayvon
   - karkidon
@@ -10326,8 +13514,7 @@
 🐀:
   - kalamush
 🐹:
-  - og‘maxon
-  - og‘maxon qiyofasi
+  - oʻgmaxon
   - uy hayvoni
   - yuz
 🐰:
@@ -10340,6 +13527,12 @@
   - uy hayvobi
 🐿️:
   - burunduq
+  - olmaxon
+🦫:
+  - damba
+  - koʻtarma
+  - qunduz
+  - suv qunduzi
 🦔:
   - ignali
   - tikanli
@@ -10350,15 +13543,33 @@
   - vampir
 🐻:
   - ayiq
-  - ayiq qiyofasi
   - yuz
+🐻‍❄:
+  - ayiq
+  - oq
+  - qutb
+  - qutb ayig‘i
 🐨:
   - ayiq
   - koala
 🐼:
   - panda
-  - panda qiyofasi
   - yuz
+🦥:
+  - dangasa
+  - sekin
+  - yalqov
+🦦:
+  - baliq ovi
+  - hayvon
+  - oʻyinqaroq
+  - qunduz
+  - suv
+🦨:
+  - qoʻlansa
+  - sassiq
+  - sassiqvoy
+  - skuns
 🦘:
   - avstraliya
   - jonivor
@@ -10375,19 +13586,25 @@
   - panja izlari
 🦃:
   - kurka
+  - parranda
 🐔:
   - jo‘ja
   - tovuq
 🐓:
+  - parranda
+  - xoʻroz
   - xo‘roz
 🐣:
   - chaqaloq
-  - jo‘ja
+  - joʻja
+  - parranda
   - tuxumdan chiqayotgan jo‘ja
   - tuxumdan yorib chiqish
 🐤:
   - chaqaloq
+  - joʻja
   - jo‘ja
+  - parranda
 🐥:
   - chaqaloq
   - jo‘ja
@@ -10395,6 +13612,7 @@
 🐦️:
   - qush
 🐧:
+  - parranda
   - pingvin
 🕊️:
   - kabutar
@@ -10405,8 +13623,9 @@
   - burgut
   - qush
 🦆:
+  - oʻrdak
   - o‘rdak
-  - qush
+  - parranda
 🦢:
   - irkit o‘rdakcha
   - oqqush
@@ -10416,7 +13635,21 @@
 🦉:
   - boyqush
   - donolik
-  - parranda
+  - qush
+🦤:
+  - Mavrikiy
+  - Mavrikiya dronti
+  - qirilish
+  - yirik
+🪶:
+  - par
+  - parvoz
+  - pat
+  - yengil
+🦩:
+  - ajoyib
+  - flamingo
+  - tropik
 🦚:
   - dum
   - parranda
@@ -10434,7 +13667,6 @@
 🐸:
   - baqa
   - qurbaqa
-  - qurbaqa qiyofasi
   - yuz
 🐊:
   - timsoh
@@ -10451,6 +13683,7 @@
   - ajdar qiyofasi
   - ajdarho
   - ertak
+  - qiyofa
   - yuz
 🐉:
   - ajdar
@@ -10474,6 +13707,9 @@
 🐬:
   - delfin
   - suzgich
+🦭:
+  - dengiz mushugi
+  - dengiz sheri
 🐟️:
   - baliq
   - burj
@@ -10509,19 +13745,27 @@
   - ari
   - asalari
   - xasharot
+🪲:
+  - hasharot
+  - qoʻngʻiz
+  - qumursqa
 🐞:
   - xasharot
   - xonqizi
 🦗:
   - chigirtka
   - qora chigirtka
+🪳:
+  - chuqurcha
+  - hasharot
+  - suvarak
 🕷️:
   - o‘rgimchak
   - xasharot
 🕸️:
-  - o‘rgimchak
+  - oʻrgimchak
   - o‘rgimchak turi
-  - veb
+  - toʻr
 🦂:
   - burj
   - chayon
@@ -10531,6 +13775,21 @@
   - malyariya
   - qon so‘rish
   - virus
+🪰:
+  - chirish
+  - irish
+  - kasallik
+  - pashsha
+  - qurt
+  - setse
+  - soʻna
+  - uy pashshasi
+  - xastalik
+🪱:
+  - boʻgʻimli qurt
+  - chuvalchang
+  - parazit
+  - qurt
 🦠:
   - amyoba
   - bakteriya
@@ -10545,7 +13804,7 @@
   - gilos
   - gilos guli
   - gul
-  - o‘simlik
+  - gullash
 💮:
   - gul
   - oq gul
@@ -10581,19 +13840,25 @@
   - ko‘chat
   - o‘simlik
   - yosh
+🪴:
+  - foydasiz
+  - oʻsimlik
+  - oʻsish
+  - parvarishlash
+  - tuvakdagi oʻsimlik
+  - uy
+  - zerikarli
 🌲:
   - archa
   - daraxt
   - o‘simlik
 🌳:
-  - barg
+  - bargli
   - bargli daraxt
   - daraxt
-  - o‘simlik
-  - to‘kilish
+  - toʻkilish
 🌴:
   - daraxt
-  - o‘simlik
   - palma
   - palma daraxti
 🌵:
@@ -10613,13 +13878,12 @@
 🍀:
   - '4'
   - barg
-  - o‘simlik
-  - to‘rt
+  - beda
+  - oʻsimlik
+  - toʻrt
   - to‘rt yaproqli beda bargi
-  - yaproq
 🍁:
   - barg
-  - o‘simlik
   - xazon
   - zarang
   - zarang bargi
@@ -10698,6 +13962,10 @@
   - meva
   - o‘simlik
   - qulupnay
+🫐:
+  - chernika
+  - moviy
+  - reza meva
 🥝:
   - kivi
   - meva
@@ -10706,6 +13974,10 @@
   - o‘simlik
   - pomidor
   - sabzavot
+🫒:
+  - ovqat
+  - taom
+  - zaytun
 🥥:
   - kokos
   - palma
@@ -10736,6 +14008,11 @@
   - achchiq qalampir
   - o‘simlik
   - qalampir
+🫑:
+  - bolgar qalampiri
+  - kapsikum
+  - qalampir
+  - sabzavot
 🥒:
   - bodring
   - sabzavot
@@ -10751,6 +14028,14 @@
   - brokkoli
   - karam
   - yovvoyi karam
+🧄:
+  - sarimsoq
+  - ziravor
+🧅:
+  - bosh
+  - koʻz yoshi
+  - piyoz
+  - yigʻi
 🍄:
   - o‘simlik
   - qo‘ziqorin
@@ -10775,6 +14060,12 @@
   - fransuz
   - non
   - taom
+🫓:
+  - arepa
+  - lavash
+  - malda non
+  - naan
+  - pita
 🥨:
   - kulcha
   - o‘ralgan
@@ -10785,7 +14076,14 @@
   - teshik kulcha
 🥞:
   - blinchik
+  - blinchiklar
+  - krep
+  - pirog
   - taom
+🧇:
+  - qattiq
+  - vafli
+  - yumshoq
 🧀:
   - pishloq
   - pishloq bo‘lagi
@@ -10797,6 +14095,7 @@
   - oyoq
   - parranda
   - parranda oyog‘i
+  - pishirilgan tovuq oyogʻi
   - suyak
   - tovuq
 🥩:
@@ -10812,9 +14111,8 @@
   - burger
   - gamburger
 🍟:
-  - fri
-  - kartoshka
-  - qovurilgan
+  - fransuz
+  - kartoshka-fri
   - qovurilgan fri-kartoshka
 🍕:
   - bo‘lak
@@ -10833,11 +14131,25 @@
 🌯:
   - burrito
   - meksika taomi
+🫔:
+  - meksika
+  - meksikancha
+  - oʻralgan
+  - oʻrama
+  - tamale
 🥙:
+  - falafel
+  - giros
   - kabob
-  - lavash
+  - non
+  - qiymalangan
   - shaurma
   - taom
+🧆:
+  - falafel
+  - noʻxat
+  - qiyma
+  - yumaloq qiyma
 🥚:
   - taom
   - tuxum
@@ -10856,6 +14168,14 @@
   - bir qozon ovqat
   - go‘sht
   - qozon
+🫕:
+  - eritilgan
+  - fondyu
+  - pishloq
+  - shokolad
+  - shveytsar
+  - shveytsarcha
+  - tova
 🥣:
   - atala
   - bodroq
@@ -10863,12 +14183,17 @@
   - kosa bilan qoshiq
   - nonushta
 🥗:
-  - sabzavot
+  - koʻkat
   - sabzavotli salat
   - salat
   - taom
 🍿:
   - popkorn
+🧈:
+  - qaymoq
+  - sariyogʻ
+  - sut mahsulotlari
+  - yogʻ
 🧂:
   - dengiz tuzi
   - tuz
@@ -10888,6 +14213,7 @@
   - kreker
 🍙:
   - guruch
+  - shar
   - yapon
   - yumaloq
   - yumaloqlangan guruch
@@ -10911,8 +14237,8 @@
 🍠:
   - jigarli batat
   - kartoshka
+  - mazali
   - qovurilgan
-  - shirin
 🍢:
   - dengiz taomi
   - kabob
@@ -10983,6 +14309,11 @@
   - kalmar
   - mollyuska
   - taom
+🦪:
+  - chigʻanoq
+  - dayving
+  - marvarid
+  - shoʻngʻish
 🍦:
   - krem
   - muz
@@ -11015,10 +14346,9 @@
 🎂:
   - nishonlash
   - qandolat
-  - shirin
   - shirinlik
   - tort
-  - tug‘ilgan kun
+  - tugʻilgan kun
 🍰:
   - bo‘lak
   - qandolat
@@ -11036,10 +14366,10 @@
   - sut shirinlik
   - tort
 🍫:
-  - bo‘lak
   - shirin
   - shirinlik
   - shokolad
+  - shokolad boʻlagi
   - shokolad bo‘lagi
 🍬:
   - konfet
@@ -11057,6 +14387,7 @@
   - shirinlik
 🍯:
   - asal
+  - asal bochkasi
   - asal idishi
   - bochka
   - shirin
@@ -11064,7 +14395,7 @@
   - chaqaloq
   - chaqaloqlar idishi
   - ichimlik
-  - shisha idish
+  - shisha
   - sut
 🥛:
   - bir stakan sut
@@ -11078,6 +14409,10 @@
   - issiq
   - issiq ichimlik
   - kofe
+🫖:
+  - choy
+  - choynak
+  - ichimlik
 🍵:
   - choy
   - ichimlik
@@ -11149,6 +14484,23 @@
   - shartbar
   - stakan bilan cho‘p
   - suv
+🧋:
+  - choy
+  - koʻpik
+  - koʻpikli choy
+  - marvarid
+  - pufak
+  - sut
+🧃:
+  - ichimlik qutisi
+  - sharbat qutisi
+🧉:
+  - ichimlik
+  - mate
+🧊:
+  - aysberg
+  - muz
+  - sovuq
 🥢:
   - asboblar
   - tayoqcha
@@ -11160,10 +14512,11 @@
   - sanchqi, pichoq va likopcha
   - taom
 🍴:
+  - ovqat pishirish
   - pichoq
   - sanchqi
   - sanchqi va pichoq
-  - taom
+  - taom anjomlari
 🥄:
   - oshxona anjomi
   - qoshiq
@@ -11173,11 +14526,12 @@
   - qurol
   - taom
 🏺:
+  - Qovgʻa
   - burj
   - ichimlik
+  - koʻza
   - ko‘za
-  - qovg‘a
-  - taom
+  - ovqat pishirish
 🌍:
   - afrika
   - dunyo
@@ -11265,6 +14619,21 @@
   - g‘ishtin
   - q‘isht
   - terish
+🪨:
+  - ogʻir
+  - qattiq
+  - tosh
+  - xarsang
+🪵:
+  - gʻoʻla
+  - toʻsin
+  - xoda
+  - yogʻoch
+🛖:
+  - kulba
+  - oʻtov
+  - uy
+  - yurt
 🏘️:
   - bino
   - uy
@@ -11362,6 +14731,11 @@
   - islom
   - masjid
   - muslim
+🛕:
+  - hindu
+  - hindu ibodatxonasi
+  - ibodatxona
+  - sigʻinish
 🕍:
   - din
   - ibodatxona
@@ -11582,6 +14956,10 @@
   - hordiq
   - hordiq chiqarish avtomobili
   - transport
+🛻:
+  - ortish
+  - tashish
+  - yuk mashinasi
 🚚:
   - transport
   - yetkazib berish
@@ -11603,6 +14981,17 @@
   - poyga
 🛵:
   - moped
+🦽:
+  - aravacha
+  - nogironlik
+  - nogironlik aravachasi
+🦼:
+  - motorli aravacha
+  - motorli nogironlik aravachasi
+  - nogironlik
+🛺:
+  - avtoriksha
+  - tuk tuk
 🚲️:
   - transport
   - velosiped
@@ -11615,6 +15004,11 @@
   - rolik
   - skeyt
   - skeytbord
+🛼:
+  - gʻildirakli konki
+  - konki
+  - roller
+  - skeyt
 🚏:
   - avtobus
   - avtobus bekati
@@ -11714,6 +15108,12 @@
   - samolyot
   - samolyot qo‘nishi
   - transport
+🪂:
+  - osilish
+  - parashyut
+  - parvoz
+  - skaydayving
+  - uchish
 💺:
   - kreslo
   - o‘rindiq
@@ -12080,6 +15480,10 @@
   - quyosh qiyofasi
   - yorug‘ilik
   - yuz
+🪐:
+  - halqali sayyora
+  - qoʻrgʻoshin
+  - saturn
 ⭐️:
   - oq o‘rtacha yulduz
   - yulduz
@@ -12251,10 +15655,9 @@
   - oshqovoq
   - shamchiroqli oshqovoq
 🎄:
-  - bayram
+  - Rojdestvo
   - daraxt
   - nishonlash
-  - yangi yil
   - yangi yil archasi
 🎆:
   - bayram
@@ -12272,6 +15675,7 @@
   - portlash
   - portlatgich
 ✨:
+  - '*'
   - uchqun
   - uchqunlar
   - yulduz
@@ -12282,10 +15686,11 @@
   - bayram
   - nishonlash
   - paqildoq
-  - popildoq
+  - syurpriz
 🎊:
-  - bayram
+  - konfet
   - konfetti
+  - nishonlash
   - shar
 🎋:
   - banner
@@ -12307,7 +15712,7 @@
   - yapon
   - yapon qo‘g‘irchoqlari
 🎏:
-  - bayram
+  - nishonlash
   - vimpel
   - zog‘orabaliq
   - zog‘orabaliq shaklidagi vimpel
@@ -12379,9 +15784,10 @@
   - medal
   - uchinchi o‘rin
 ⚽️:
+  - amerikacha futbol
   - futbol
   - futbol to‘pi
-  - to‘p
+  - toʻp
 ⚾️:
   - beysbol
   - to‘p
@@ -12427,6 +15833,7 @@
 🏏:
   - cho‘p
   - kriket
+  - kriket oʻyini
   - o‘yin
   - to‘p
 🏑:
@@ -12435,9 +15842,12 @@
   - to‘p
   - xokkey
   - xokkey maydoni
+  - xokkey tayogʻi
 🏒:
   - muz
-  - o‘yin
+  - oʻyin
+  - shayba
+  - tayoq
   - xokkey
   - xokkey tayog‘i va diski
 🥍:
@@ -12460,7 +15870,7 @@
 🥊:
   - boks
   - boks qo‘lqopi
-  - qo‘lqop
+  - qoʻlqop
   - sport
 🥋:
   - dzyudo
@@ -12472,9 +15882,9 @@
   - taekvondo
 🥅:
   - darvoza
-  - gol
   - sport
   - sportga oid darvoza
+  - toʻr
 ⛳️:
   - golf
   - teshik
@@ -12485,8 +15895,15 @@
 🎣:
   - baliq
   - qarmoq
+🤿:
+  - dayving
+  - shoʻngʻish
+  - shoʻngʻish niqobi
+  - suvosti
 🎽:
+  - atletika
   - futbolka
+  - lenta
   - yugurish
   - yugurish futbolkasi
 🎿:
@@ -12507,6 +15924,14 @@
   - mo‘ljalni urish
   - o‘yin
   - taget
+🪀:
+  - oʻyinchoq
+  - pirildoq
+  - yo-yo
+🪁:
+  - aylanish
+  - uchish
+  - varrak
 🎱:
   - '8'
   - 8 ta shar
@@ -12522,6 +15947,11 @@
   - kristall shar
   - shar
   - taqdir
+🪄:
+  - jodugar
+  - sehr
+  - sehrgar
+  - sehrli tayoqcha
 🧿:
   - ko‘k
   - ko‘z
@@ -12548,13 +15978,10 @@
   - tosh
 🧩:
   - boshqotirma
-  - bo‘lak
+  - mantiq
   - mozaika
-  - parcha
   - pazl
-  - pazl bo‘lagi
-  - pazlning qismi
-  - puzl
+  - pazl qismi
   - qism
 🧸:
   - ayiqcha
@@ -12563,6 +15990,16 @@
   - duxoba
   - o‘yinchoq
   - yumshoq o‘yinchoq
+🪅:
+  - bazm
+  - kecha
+  - nishonlash
+  - pinyata
+🪆:
+  - ichma-ich
+  - matryoshka
+  - qoʻgʻirchoq
+  - rossiya
 ♠️:
   - karta
   - o‘yin
@@ -12634,6 +16071,13 @@
   - ip
   - ip g‘altagi
   - tikish
+🪡:
+  - chok
+  - igna
+  - kashta
+  - tikish
+  - tikuv ignasi
+  - tikuvchilik
 🧶:
   - koptok
   - koptok iplar
@@ -12641,6 +16085,12 @@
   - o‘ram ip
   - to‘qish
   - yigirilgan ip
+🪢:
+  - arqon
+  - bogʻlash
+  - chilvir
+  - eshish
+  - tugun
 👓️:
   - kiyim
   - ko‘z
@@ -12665,8 +16115,16 @@
   - oq xalat
   - tajriba
   - xalat
+🦺:
+  - favqulodda holat
+  - kamzul
+  - qutqarish
+  - qutqaruv kamzuli
+  - xavfsizlik
 👔:
+  - boʻyinbogʻ
   - bo‘yinbog‘
+  - galstuk
   - kiyim
 👕:
   - futbolka
@@ -12690,6 +16148,24 @@
 👘:
   - kimono
   - kiyim
+🥻:
+  - kiyim
+  - koʻylak
+  - sari
+🩱:
+  - choʻmilish kiyimi
+  - yaxlit choʻmilish kiyimi
+🩲:
+  - chomilish trusigi
+  - choʻmilish kiyimi
+  - ich kiyim
+  - trusik
+  - yaxlit
+🩳:
+  - choʻmilish kiyimi
+  - ich kiyimi
+  - ishton
+  - kalta ishton
 👙:
   - bikini
   - kiyim
@@ -12718,8 +16194,15 @@
 🎒:
   - jild
   - maktab
-  - maktab sumkasi
+  - ryukzak
   - sumka
+🩴:
+  - plyaj shippagi
+  - sandal
+  - shippak
+  - tasma
+  - tasmali sandal
+  - zori
 👞:
   - erkak
   - erkaklar tuflisi
@@ -12757,6 +16240,10 @@
   - kiyim
   - shippak
   - tufli
+🩰:
+  - balet
+  - balet poyafzali
+  - raqs
 👢:
   - ayol
   - ayollar etigi
@@ -12775,19 +16262,26 @@
   - kiyim
   - shlyapa
 🎩:
-  - bosh kiyim
+  - bosh
+  - bosh kiyimi
   - kiyim
   - shlyapa
   - silindr shlyapa
 🎓️:
   - akademik bosh kiyim
   - bitiruv
-  - bosh kiyim
   - kiyim
   - nishonlash
-  - shlyapa
+  - qalpoq
+  - shapka
 🧢:
   - beysbolka
+🪖:
+  - askar
+  - harbiy
+  - harbiy kaska
+  - jangchi
+  - kaska
 ⛑️:
   - bosh kiyim
   - dubulg‘a
@@ -12797,9 +16291,9 @@
   - yuz
 📿:
   - din
-  - ibodat
+  - ibodat qiluvchi
   - kiyim
-  - marjon
+  - shoda
   - tasbeh
 💄:
   - grim
@@ -12858,12 +16352,12 @@
   - man etilgan
   - mumkin emas
   - ovozsiz
-  - qo‘ng‘iroqcha
+  - qoʻngʻiroqcha
   - shovqinsiz
   - taqiqlangan
   - taqiqlovchi chizig‘i bor qo‘ng‘iroq
+  - taqiqlovchi chiziqli qoʻngʻiroq
   - tinch
-  - yo‘q
 🎼:
   - kalit
   - musiqa
@@ -12907,6 +16401,11 @@
   - musiqa
   - saksafon
   - saksofon
+🪗:
+  - akkordeon
+  - garmon
+  - qisish
+  - siqish
 🎸:
   - asbob
   - gitara
@@ -12925,10 +16424,24 @@
   - asbob
   - musiqa
   - skripka
+🪕:
+  - banjo
+  - musiqa
+  - tor
+  - torli musiqa asbobi
 🥁:
   - baraban
   - musiqa
   - tayoqchalar
+🪘:
+  - bongo
+  - konga
+  - nogʻora
+  - ohang
+  - ritm
+  - urish
+  - uzun nogʻora
+  - zarba
 📱:
   - aloqa
   - mobil
@@ -12936,20 +16449,21 @@
   - telefon
   - uyali
 📲:
-  - aloqa
-  - chiziq
   - mobil
   - mobil telefon va strelka
   - qabul qilish
-  - qo‘ng‘iroq
+  - strelka
+  - strelkali mobil telefon
   - telefon
-  - uyali
+  - uyali aloqa
 ☎️:
   - telefon
+  - uy telefoni
 📞:
   - qabul qiluvchi
   - telefon
   - telefon go‘shagi
+  - uy telefoni
 📟️:
   - peyjer
 📠:
@@ -12961,7 +16475,8 @@
   - elektr
   - elektr energiyasi
   - elektr kabel sanchqisi
-  - sanchqi
+  - ulash
+  - vilka
 💻️:
   - kompyuter
   - noutbuk
@@ -12989,11 +16504,12 @@
   - disk
   - kompyuter
   - mini-disk
-  - optikali
+  - optika
 💾:
   - disk
   - disketa
   - kompyuter
+  - yumshoq disk
 💿️:
   - blu-ray
   - cd
@@ -13057,12 +16573,14 @@
 🔍:
   - asbob
   - chapga qaragan lupa
+  - chapga qiyshaygan lupa
   - kattalashtirish
   - qidirish
   - shisha
 🔎:
   - asbob
   - kattalashtirish
+  - oʻngga qiyshaygan lupa
   - o‘ngga qaragan lupa
   - qidirish
   - shisha
@@ -13071,11 +16589,10 @@
   - yorug‘lik
 💡:
   - elektr
-  - elektr lampa
   - elektr lampasi
   - fikr
   - latifa
-  - yorug‘lik
+  - yorugʻlik
 🔦:
   - asbob
   - chiroq
@@ -13089,6 +16606,11 @@
   - qizil qog‘ozli lampa
   - yapon
   - yorug‘lik
+🪔:
+  - chiroq
+  - diya
+  - moy
+  - moychiroq
 📔:
   - bezak
   - bezakli muqovali daftar
@@ -13114,7 +16636,7 @@
   - ko‘k kitob
 📙:
   - kitob
-  - to‘q sariq
+  - toʻq sariq
   - to‘q sariq kitob
 📚️:
   - kitob
@@ -13147,11 +16669,11 @@
   - qog‘oz
   - yangiliklar
 📑:
-  - belgi
+  - belgilash
   - marker
-  - sahifalar
   - sahifalardagi xatcho‘p
-  - xatcho‘p
+  - varaqlar
+  - xatchoʻp
 🔖:
   - belgi
   - xatcho‘p
@@ -13162,54 +16684,55 @@
   - pul
   - pul xalta
   - xalta
+🪙:
+  - kumush
+  - metall
+  - oltin
+  - pul
+  - tanga
+  - tilla
+  - xazina
 💴:
-  - bank
   - banknot
+  - hisob
   - iyena banknotasi
   - pul
   - pul birligi
-  - qog‘oz pul
   - valyuta
   - yen
 💵:
-  - bank
   - banknot
   - dollar
   - dollar banknotasi
+  - hisob
   - pul
   - pul birligi
-  - qog‘oz pul
   - valyuta
 💶:
-  - bank
   - banknot
+  - hisob
   - pul
   - pul birligi
-  - qog‘oz pul
   - valyuta
   - yevro
   - yevro banknotasi
 💷:
-  - bank
   - banknot
   - funt sterling
   - funt sterling banknotasi
   - pul
   - pul birligi
-  - qog‘oz pul
   - valyuta
 💸:
-  - bank
   - banknot
-  - chek
+  - hisob
   - pul
   - qanot
   - qanoti bor pul dastasi
   - qanotlar
-  - qog‘oz pul
+  - qanotli pul
 💳️:
-  - bank
-  - kartochka
+  - karta
   - kredit
   - kredit karta
   - pul
@@ -13220,29 +16743,13 @@
   - hisob
   - hisobchilik
 💹:
-  - bank
-  - bozor
   - diagramma
-  - grafa
-  - ko‘tarilish
+  - grafika
+  - oʻsish
   - o‘sayotgan iyena diagrammasi
-  - o‘sish
   - pul
-  - tepaga
-  - trend
-  - valyuta
   - yen
-💱:
-  - almashtirish
-  - bank
-  - pul
-  - pul birligini almashtirish
-  - valyuta
-💲:
-  - dollar
-  - katta dollar belgisi
-  - pul
-  - valyuta
+  - yen oʻsish diagrammasi
 ✉️:
   - e-pochta
   - elektron xat
@@ -13257,19 +16764,13 @@
   - konvert
   - pochta
   - qabul qilish
-  - xat
 📩:
   - chiquvchi
-  - chiziq
   - e-pochta
+  - email
   - konvert
-  - pastga
-  - pochta
+  - strelka
   - strelkali konvert
-  - xabar
-  - xat
-  - yuborilgan
-  - yuboriluvchi
 📤️:
   - chiquvchi xat qutisi
   - pochta
@@ -13324,7 +16825,6 @@
 🖋️:
   - pero
   - peroli ruchka
-  - ruchka
 🖊️:
   - ruchka
   - sharikli ruchka
@@ -13349,10 +16849,10 @@
   - ochiq
   - ochiq fayl jildi
 🗂️:
-  - ajratuvchi
+  - ajratuvchilar
   - fayllarni ajratuvchi
   - indeks
-  - karta
+  - kartochka
 📅:
   - sana
   - taqvim
@@ -13370,7 +16870,7 @@
   - taqvim
 📇:
   - indeks
-  - karta
+  - kartochka
   - kartoteka
 📈:
   - diagramma
@@ -13421,10 +16921,11 @@
 🗃️:
   - fayl
   - fayl qutisi
-  - karta
+  - kartochka
   - quti
 🗄️:
   - fayl
+  - fayl yaratish
   - fayllar javoni
   - javon
 🗑️:
@@ -13463,6 +16964,13 @@
 🔨:
   - asbob
   - bolg‘a
+🪓:
+  - bolta
+  - boltacha
+  - chopish
+  - oʻtin
+  - yogʻoch
+  - yorish
 ⛏️:
   - asbob
   - kon
@@ -13490,45 +16998,75 @@
   - qurol
   - revolver
   - to‘pponcha
+🪃:
+  - aks-sado
+  - avstraliya
+  - bumerang
+  - qaytish
 🏹:
+  - Oʻqotar
   - burj
   - kamon
+  - kamon va oʻq
   - kamon va o‘q
-  - o‘q
-  - o‘qchi
-  - o‘qotar
-  - qurol
+  - oʻq
+  - yoy
 🛡️:
   - qalqon
   - qurol
+🪚:
+  - arralash
+  - asbob
+  - duradgor
+  - duradgorlik arrasi
+  - taxta
+  - yogʻoch
 🔧:
   - asbob
   - gayka kaliti
+🪛:
+  - asbob
+  - burash
+  - otvertka
+  - qotirish
 🔩:
   - asbob
   - gayka
   - gayka va murvat
   - murvat
 ⚙️:
-  - asbob
+  - shesternya
+  - tish
+  - tishli gʻildirak
   - tishli g‘ildirak
+  - uskuna
 🗜️:
   - asbob
   - kompressor
 ⚖️:
+  - Tarozi
   - adolat
-  - asbob
-  - balans
   - burj
-  - og‘irlik
-  - palla
+  - muvozanat
+  - oʻlchov
   - tarozi
+🦯:
+  - hassa
+  - koʻr
+  - nogironlik
 🔗:
   - havol
   - havola
 ⛓️:
   - zanjir
   - zanjirlar
+🪝:
+  - egri
+  - ilgak
+  - ilib olish
+  - ilintirish
+  - ilmoq
+  - savdo nuqtasi
 🧰:
   - asbob
   - asbob-uskuna
@@ -13543,6 +17081,12 @@
   - taqa
   - taqasimon magnit
   - tortish
+🪜:
+  - chiqish
+  - narvon
+  - pogʻona
+  - qadam
+  - shoti
 ⚗️:
   - asbob
   - haydash kimyoviy shishasi
@@ -13576,18 +17120,21 @@
   - teleskop
 📡:
   - antenna
-  - sun’iy yo‘ldosh
+  - lagan
+  - sunʼiy yoʻldosh
   - sun’iy yo‘ldoshli antenna
-  - tarelka
 💉:
-  - asbob
-  - emlash
+  - dori
   - igna
   - kasal
-  - shifokor
   - shprits
-  - tibbiyot
   - ukol
+🩸:
+  - hayz
+  - menstruatsiya
+  - qon tomchisi
+  - qon topshirish
+  - tibbiyot
 💊:
   - bemor
   - doktor
@@ -13595,8 +17142,33 @@
   - kasal
   - shifokor
   - tibbiyot
+🩹:
+  - bandaj
+  - plastir
+🩺:
+  - doktor
+  - shifokor
+  - stetoskop
+  - tibbiyot
+  - yurak
 🚪:
   - eshik
+🛗:
+  - koʻtarilish
+  - lift
+  - maxsus imkoniyatlar
+🪞:
+  - aks etish
+  - aks ettirgich
+  - oyna
+  - reflektor
+🪟:
+  - deraza
+  - koʻrish
+  - ochilish
+  - oyna
+  - rom
+  - shaffof
 🛏️:
   - karavot
   - mehmonxona
@@ -13608,14 +17180,34 @@
   - divan va lampa
   - lampa
   - mehmonxona
+🪑:
+  - kursi
+  - oʻtirish
+  - stul
 🚽:
   - hojatxona
   - tualet
+🪠:
+  - kuch bilan tortish
+  - santexnikning yordamchisi
+  - tortgich
+  - tortish
 🚿:
   - dush
   - suv
 🛁:
+  - hammom
   - vanna
+🪤:
+  - qopqon
+  - sichqon tutgich
+  - tuzoq
+  - xoʻrak
+🪒:
+  - oʻtkir
+  - soqol olish
+  - tigʻ
+  - ustara
 🧴:
   - balzam
   - dush geli
@@ -13647,6 +17239,11 @@
   - qog‘oz
   - qog‘oz o‘rami
   - qog‘oz sochiq
+🪣:
+  - chelak
+  - idish
+  - paqir
+  - satil
 🧼:
   - ko‘pik
   - sovun
@@ -13654,6 +17251,15 @@
   - sovun ko‘pigi
   - yuvinish
   - yuvish
+🪥:
+  - choʻtka
+  - gigiyena
+  - hammom
+  - tish
+  - tish choʻtkasi
+  - tishlar
+  - tozalash
+  - vannaxona
 🧽:
   - gubka
   - idish
@@ -13669,22 +17275,38 @@
 🛒:
   - aravacha
   - xarid
+  - xarid aravachasi
   - xarid savatchasi
 🚬:
   - chekish
+  - sigaret
 ⚰️:
   - o‘lim
   - tobut
+🪦:
+  - mozor toshi
+  - qabr
+  - qabr toshi
+  - qabriston
+  - vafot
 ⚱️:
   - dafn
   - dafn ko‘zasi
-  - ko‘za
-  - o‘lim
+  - koʻza
+  - oʻlim
+  - vafot
 🗿:
   - haykal
   - moai
   - moyai
   - yuz
+🪧:
+  - belgi
+  - namoyish
+  - norozilik
+  - piket
+  - plakat
+  - qarshilik
 🏧:
   - atm
   - bank
@@ -13811,19 +17433,20 @@
   - belgi
   - biologik xavf
 ⬆️:
-  - chiziq
   - shimol
+  - strelka
   - yo‘nalish
-  - yuqoriga yo‘nalish
+  - yuqoriga strelka
 ↗️:
   - chiziq
   - o‘ng-yuqoriga yo‘nalish
   - shimoli sharq
   - yo‘nalish
 ➡️:
-  - chiziq
-  - o‘ngga yo‘nalish
+  - oʻngga strelka
+  - o‘ngga strelka
   - sharq
+  - strelka
   - yo‘nalish
 ↘️:
   - chiziq
@@ -13831,10 +17454,10 @@
   - o‘ng-pastga yo‘nalish
   - yo‘nalish
 ⬇️:
-  - chiziq
   - janub
   - pastga
-  - pastga yo‘nalish
+  - pastga strelka
+  - strelka
   - yo‘nalish
 ↙️:
   - chiziq
@@ -13842,9 +17465,9 @@
   - past-chapga yo‘nalish
   - yo‘nalish
 ⬅️:
-  - chapga yo‘nalish
-  - chiziq
+  - chapga strelka
   - g‘arb
+  - strelka
   - yo‘nalish
 ↖️:
   - chap yuqoriga yo‘nalish
@@ -14146,11 +17769,42 @@
 ♂️:
   - erkak
   - erkak belgisi
-⚕️:
-  - eskulap
-  - tibbiy ramz
-  - tibbiyot
-  - xodimlar
+⚧️:
+  - transgender
+  - transseksual
+  - transseksuallik belgisi
+✖️:
+  - bekor qilish
+  - belgi
+  - koʻpaytirish
+  - koʻpaytirish belgisi
+  - koʻpaytiruv
+  - x
+  - ×
+➕:
+  - +
+  - belgi
+  - matematika
+  - plus
+  - plyus
+  - qoʻshish belgisi
+  - qoʻshuv
+➖:
+  - '-'
+  - ayirish belgisi
+  - ayiruv
+  - belgi
+  - manfiy
+  - matematika
+  - minus
+  - −
+➗:
+  - belgi
+  - boʻlish
+  - boʻlish belgisi
+  - boʻluv
+  - matematika
+  - ÷
 ♾️:
   - abadiy
   - cheksizilik
@@ -14158,74 +17812,128 @@
   - cheksizlik belgisi
   - doimiy
   - muntazam
+‼️:
+  - '!'
+  - '!!'
+  - belgi
+  - juft undov belgisi
+  - paq-puq
+  - undov
+⁉️:
+  - '!'
+  - '!?'
+  - '?'
+  - belgi
+  - savol
+  - tinish belgisi
+  - undov
+  - undov soʻroq belgisi
+❓️:
+  - '?'
+  - belgi
+  - savol
+  - soʻroq belgisi
+  - tinish belgisi
+❔:
+  - '?'
+  - belgi
+  - belgilangan
+  - oq soʻroq belgisi
+  - savol
+  - tinish belgisi
+❕:
+  - '!'
+  - belgi
+  - belgilangan
+  - oq undov belgisi
+  - tinish belgisi
+  - undov
+❗️:
+  - '!'
+  - belgi
+  - tinish belgisi
+  - undov
+  - undov belgisi
+〰️:
+  - defis
+  - tinish
+  - to‘lqinli
+  - to‘lqinli chiziq
+💱:
+  - ayirboshlash
+  - bank
+  - pul
+  - pul birligini almashtirish
+  - valyuta
+💲:
+  - dollar
+  - katta dollar belgisi
+  - pul
+  - valyuta
+⚕️:
+  - eskulap
+  - tibbiy ramz
+  - tibbiyot
+  - xodimlar
 ♻️:
   - qayta ishlash
   - qayta ishlash belgisi
 ⚜:
   - gulsapsar
 🔱:
-  - asbob
-  - emblema
   - kema
   - langar
+  - nishon
   - uch shoxli nayza
+  - uch tishli nayza
+  - uskuna
 📛:
-  - ism
   - ism yoziladigan nishon
   - nishon
+  - nom
 🔰:
-  - asbob
   - barg
   - boshlovchi
   - boshlovchi darajasini bildiruvchi yaponcha belgi
-  - sariq
   - yaponcha
-  - yashil
 ⭕️:
   - aylana
-  - juda katta aylana
+  - boʻsh qizil doira
+  - katta
   - o
+  - qizil
 ✅:
   - belgi
   - belgilash
-  - belgilash uchun oq katta belgi
+  - belgilash tugmasi belgisi
+  - tugma
+  - ✓
 ☑️:
+  - belgilangan belgilash maydonchasi
   - belgilash
-  - ichi belgilangan belgilash katakchasi
-  - katakcha
+  - maydoncha
+  - ✓
 ✔️:
   - belgi
   - belgilash
-  - belgilash uchun to‘q belgi
-✖️:
-  - bekor
-  - ko‘paytirish
-  - to‘q ko‘paytiruv belgisi
-  - x
+  - belgilash belgisi
+  - ✓
 ❌:
-  - bekor
+  - bekor qilish
   - belgi
-  - ko‘paytirish
+  - koʻpaytirish
+  - koʻpaytiruv
+  - krest
+  - krest belgisi
   - x
-  - xoch belgisi
+  - ×
 ❎:
   - belgi
-  - kvadrat
-  - xoch belgisi tugmasi
-➕:
-  - matematika
-  - musbat
-  - plyus
-  - to‘q qo‘shuv belgisi
-➖:
-  - manfiy
-  - matematika
-  - minus
-  - to‘q ayiruv belgisi
-➗:
-  - bo‘lish
-  - matematika
-  - to‘q bo‘luv belgisi
+  - belgilash
+  - krest belgili tugma
+  - toʻrtburchak
+  - x
+  - ×
 ➰:
   - davr
   - jingalak
@@ -14242,56 +17950,22 @@
   - ovoz almashinuvi belgisi
   - qism
 ✳️:
-  - sakkiz kegayli yulduzcha
+  - '*'
+  - sakkiz qirrali yulduz
   - yulduzcha
 ✴️:
-  - sakkiz qirrali yulduz
+  - '*'
+  - sakkiz burchakli yulduz
   - yulduz
 ❇️:
+  - '*'
   - uchqun
-‼️:
-  - belgi
-  - ikkita undov belgisi
-  - tinish
-  - undov
-⁉️:
-  - belgi
-  - so‘roq
-  - tinish
-  - undov
-  - undov so‘roq belgisi
-❓️:
-  - belgi
-  - so‘roq
-  - so‘roq belgisi
-  - tinish
-❔:
-  - belgi
-  - chizilgan
-  - oq so‘roq belgisi
-  - so‘roq
-  - tinish
-❕:
-  - belgi
-  - chizilgan
-  - oq undov belgisi
-  - tinish
-  - undov
-❗️:
-  - belgi
-  - tinish
-  - undov
-  - undov belgisi
-〰️:
-  - defis
-  - tinish
-  - to‘lqinli
-  - to‘lqinli chiziq
 ©️:
+  - c
   - mualliflik huquqi
 ®️:
-  - ro‘yxatdan o‘tgan
-  - ro‘yxatga olingan
+  - qayd qilingan
+  - r
 ™️:
   - belgi
   - savdo belgisi
@@ -14487,11 +18161,35 @@
   - geometriya
   - qizil
   - qizil doira
+🟠:
+  - doira
+  - sabzirang doira
+  - sariq
+🟡:
+  - aylana
+  - doira
+  - sariq
+  - sariq doira
+🟢:
+  - aylana
+  - doira
+  - yashil
+  - yashil doira
 🔵:
   - aylana
   - geometriya
   - ko‘k
   - ko‘k doira
+🟣:
+  - aylana
+  - binafsharang
+  - binafsharang doira
+  - doira
+🟤:
+  - aylana
+  - doira
+  - jigarrang
+  - jigarrang doira
 ⚫️:
   - doira
   - geometriya
@@ -14500,6 +18198,41 @@
   - doira
   - geometriya
   - oq doira
+🟥:
+  - aylana
+  - doira
+  - qizil
+  - qizil kvadrat
+🟧:
+  - apelsinrang
+  - apelsinrang kvadrat
+  - kvadrat
+  - toʻrtburchak
+🟨:
+  - kvadrat
+  - sariq
+  - sariq kvadrat
+  - toʻrtburchak
+🟩:
+  - kvadrat
+  - toʻrtburchak
+  - yashil
+  - yashil kvadrat
+🟦:
+  - koʻk
+  - koʻk kvadrat
+  - kvadrat
+  - toʻrtburchak
+🟪:
+  - binafsharang
+  - binafsharang kvadrat
+  - kvadrat
+  - toʻrtburchak
+🟫:
+  - jigarrang
+  - jigarrang kvadrat
+  - kvadrat
+  - toʻrtburchak
 ⬛️:
   - geometrik
   - katta qora kvadrat
@@ -14607,6 +18340,11 @@
   - bayroq
   - kamalak
   - kamalak bayroq
+🏳‍⚧:
+  - bayroq
+  - moviy, pushti va oq bayroq
+  - transgender
+  - transseksual
 🏴‍☠:
   - bayroq
   - bosh suyagi
@@ -15065,7 +18803,7 @@
   - 'bayroq: Marshall orollari'
 🇲🇰:
   - bayroq
-  - 'bayroq: Makedoniya'
+  - 'bayroq: Shimoliy Makedoniya'
 🇲🇱:
   - bayroq
   - 'bayroq: Mali'
@@ -15390,6 +19128,15 @@
 🇿🇼:
   - bayroq
   - 'bayroq: Zimbabve'
+🏴󠁧󠁢󠁥󠁮󠁧󠁿:
+  - bayroq
+  - 'bayroq: Angliya'
+🏴󠁧󠁢󠁳󠁣󠁴󠁿:
+  - bayroq
+  - 'bayroq: Shotlandiya'
+🏴󠁧󠁢󠁷󠁬󠁳󠁿:
+  - bayroq
+  - 'bayroq: Uels'
 🏻:
   - 1–2-teri turi
   - emojini o‘zgartirish

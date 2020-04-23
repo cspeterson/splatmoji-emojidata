@@ -81,6 +81,7 @@
   - armunud
   - imetlev
   - naeratav kolme südamega nägu
+  - naeratav südametega nägu
   - sisse võetud
 😍:
   - armastus
@@ -122,6 +123,13 @@
   - nägu
   - silm
   - suudlus
+🥲:
+  - kergendus
+  - liigutatud
+  - naeratav
+  - naeratav pisaraga nägu
+  - pisar
+  - uhke
 😋:
   - maitsev
   - maitsvat toitu nautija nägu
@@ -313,6 +321,13 @@
   - pidu
   - pidutsemine
   - pidutsev nägu
+🥸:
+  - inkognito
+  - maskeerima
+  - maskeeritud nägu
+  - nina
+  - nägu
+  - prillid
 😎:
   - ere
   - ilm
@@ -455,6 +470,12 @@
   - nägu
   - väsinud
   - väsinud nägu
+🥱:
+  - haigutamine
+  - haigutav nägu
+  - haigutus
+  - igav
+  - väsinud
 😤:
   - aur
   - nina
@@ -574,7 +595,6 @@
   - robot
   - roboti nägu
 😺:
-  - avatud
   - avatud suuga naeratav kass
   - kass
   - lahti
@@ -583,7 +603,6 @@
   - suu
 😸:
   - irve
-  - irvitus
   - kass
   - lõbusate silmadega irvitav kass
   - naeratus
@@ -603,7 +622,6 @@
   - süda
   - südamekujuliste silmadega naeratav kass
 😼:
-  - iroonia
   - irooniline
   - kass
   - naeratus
@@ -741,11 +759,19 @@
   - lilla
   - lilla süda
   - süda
+🤎:
+  - pruun
+  - pruun süda
+  - süda
 🖤:
   - kuri
   - must
   - must süda
   - süda
+🤍:
+  - süda
+  - valge
+  - valge süda
 💯:
   - '100'
   - punkt
@@ -1043,6 +1069,81 @@
   - keha
   - käsi
   - tume nahatoon
+🤌:
+  - kokkusurutud
+  - kokkusurutud sõrmed
+  - küsimus
+  - sarkastiline
+  - sõrmed
+  - žest
+🤌🏻:
+  - hele nahatoon
+  - kokkusurutud
+  - 'kokkusurutud sõrmed: hele nahatoon'
+  - küsimus
+  - sarkastiline
+  - sõrmed
+  - žest
+🤌🏼:
+  - keskmiselt hele nahatoon
+  - kokkusurutud
+  - 'kokkusurutud sõrmed: keskmiselt hele nahatoon'
+  - küsimus
+  - sarkastiline
+  - sõrmed
+  - žest
+🤌🏽:
+  - keskmine nahatoon
+  - kokkusurutud
+  - 'kokkusurutud sõrmed: keskmine nahatoon'
+  - küsimus
+  - sarkastiline
+  - sõrmed
+  - žest
+🤌🏾:
+  - keskmiselt tume nahatoon
+  - kokkusurutud
+  - 'kokkusurutud sõrmed: keskmiselt tume nahatoon'
+  - küsimus
+  - sarkastiline
+  - sõrmed
+  - žest
+🤌🏿:
+  - kokkusurutud
+  - 'kokkusurutud sõrmed: tume nahatoon'
+  - küsimus
+  - sarkastiline
+  - sõrmed
+  - tume nahatoon
+  - žest
+🤏:
+  - pöialt ja nimetissõrme lähestikku hoidev käsi
+  - väike kogus
+🤏🏻:
+  - hele nahatoon
+  - pöialt ja nimetissõrme lähestikku hoidev käsi
+  - 'pöialt ja nimetissõrme lähestikku hoidev käsi: hele nahatoon'
+  - väike kogus
+🤏🏼:
+  - keskmiselt hele nahatoon
+  - pöialt ja nimetissõrme lähestikku hoidev käsi
+  - 'pöialt ja nimetissõrme lähestikku hoidev käsi: keskmiselt hele nahatoon'
+  - väike kogus
+🤏🏽:
+  - keskmine nahatoon
+  - pöialt ja nimetissõrme lähestikku hoidev käsi
+  - 'pöialt ja nimetissõrme lähestikku hoidev käsi: keskmine nahatoon'
+  - väike kogus
+🤏🏾:
+  - keskmiselt tume nahatoon
+  - pöialt ja nimetissõrme lähestikku hoidev käsi
+  - 'pöialt ja nimetissõrme lähestikku hoidev käsi: keskmiselt tume nahatoon'
+  - väike kogus
+🤏🏿:
+  - pöialt ja nimetissõrme lähestikku hoidev käsi
+  - 'pöialt ja nimetissõrme lähestikku hoidev käsi: tume nahatoon'
+  - tume nahatoon
+  - väike kogus
 ✌️:
   - keha
   - käsi
@@ -2174,6 +2275,14 @@
   - pingutatud biitseps
   - 'pingutatud biitseps: tume nahatoon'
   - tume nahatoon
+🦾:
+  - ligipääs
+  - mehaaniline käsi
+  - protees
+🦿:
+  - ligipääs
+  - mehaaniline jalg
+  - protees
 🦵:
   - jalalöök
   - jalg
@@ -2270,6 +2379,40 @@
   - kõrv
   - 'kõrv: tume nahatoon'
   - tume nahatoon
+🦻:
+  - juurdepääs
+  - kuuldeaparaadiga kõrv
+  - kuulmispuue
+🦻🏻:
+  - hele nahatoon
+  - juurdepääs
+  - kuuldeaparaadiga kõrv
+  - 'kuuldeaparaadiga kõrv: hele nahatoon'
+  - kuulmispuue
+🦻🏼:
+  - juurdepääs
+  - keskmiselt hele nahatoon
+  - kuuldeaparaadiga kõrv
+  - 'kuuldeaparaadiga kõrv: keskmiselt hele nahatoon'
+  - kuulmispuue
+🦻🏽:
+  - juurdepääs
+  - keskmine nahatoon
+  - kuuldeaparaadiga kõrv
+  - 'kuuldeaparaadiga kõrv: keskmine nahatoon'
+  - kuulmispuue
+🦻🏾:
+  - juurdepääs
+  - keskmiselt tume nahatoon
+  - kuuldeaparaadiga kõrv
+  - 'kuuldeaparaadiga kõrv: keskmiselt tume nahatoon'
+  - kuulmispuue
+🦻🏿:
+  - juurdepääs
+  - kuuldeaparaadiga kõrv
+  - 'kuuldeaparaadiga kõrv: tume nahatoon'
+  - kuulmispuue
+  - tume nahatoon
 👃:
   - keha
   - nina
@@ -2301,6 +2444,19 @@
 🧠:
   - aju
   - intelligentne
+🫀:
+  - keskpunkt
+  - organ
+  - pulss
+  - süda
+  - südamelöök
+🫁:
+  - hingamine
+  - hingetõmme
+  - kopsud
+  - organ
+  - sissehingamine
+  - väljahingamine
 🦷:
   - hambaarst
   - hammas
@@ -2489,36 +2645,187 @@
   - blond
   - blondide juustega inimene
   - blondiin
+  - 'inimene: blondide juustega'
 👱🏻:
   - blond
+  - blondide juustega
   - blondide juustega inimene
-  - 'blondide juustega inimene: hele nahatoon'
   - blondiin
   - hele nahatoon
+  - 'inimene: blondide juustega'
+  - 'inimene: hele nahatoon, blondide juustega'
 👱🏼:
   - blond
+  - blondide juustega
   - blondide juustega inimene
-  - 'blondide juustega inimene: keskmiselt hele nahatoon'
   - blondiin
+  - 'inimene: blondide juustega'
+  - 'inimene: keskmiselt hele nahatoon, blondide juustega'
   - keskmiselt hele nahatoon
 👱🏽:
   - blond
+  - blondide juustega
   - blondide juustega inimene
-  - 'blondide juustega inimene: keskmine nahatoon'
   - blondiin
+  - 'inimene: blondide juustega'
+  - 'inimene: keskmine nahatoon, blondide juustega'
   - keskmine nahatoon
 👱🏾:
   - blond
+  - blondide juustega
   - blondide juustega inimene
-  - 'blondide juustega inimene: keskmiselt tume nahatoon'
   - blondiin
+  - 'inimene: blondide juustega'
+  - 'inimene: keskmiselt tume nahatoon, blondide juustega'
   - keskmiselt tume nahatoon
 👱🏿:
   - blond
+  - blondide juustega
   - blondide juustega inimene
-  - 'blondide juustega inimene: tume nahatoon'
   - blondiin
+  - 'inimene: blondide juustega'
+  - 'inimene: tume nahatoon, blondide juustega'
   - tume nahatoon
+🧑‍🦰:
+  - punased juuksed
+  - sooliselt neutraalne
+  - täiskasvanu
+  - 'täiskasvanu: punased juuksed'
+🧑🏻‍🦰:
+  - hele nahatoon
+  - punased juuksed
+  - sooliselt neutraalne
+  - täiskasvanu
+  - 'täiskasvanu: hele nahatoon, punased juuksed'
+🧑🏼‍🦰:
+  - keskmiselt hele nahatoon
+  - punased juuksed
+  - sooliselt neutraalne
+  - täiskasvanu
+  - 'täiskasvanu: keskmiselt hele nahatoon, punased juuksed'
+🧑🏽‍🦰:
+  - keskmine nahatoon
+  - punased juuksed
+  - sooliselt neutraalne
+  - täiskasvanu
+  - 'täiskasvanu: keskmine nahatoon, punased juuksed'
+🧑🏾‍🦰:
+  - keskmiselt tume nahatoon
+  - punased juuksed
+  - sooliselt neutraalne
+  - täiskasvanu
+  - 'täiskasvanu: keskmiselt tume nahatoon, punased juuksed'
+🧑🏿‍🦰:
+  - punased juuksed
+  - sooliselt neutraalne
+  - tume nahatoon
+  - täiskasvanu
+  - 'täiskasvanu: tume nahatoon, punased juuksed'
+🧑‍🦱:
+  - lokkis juuksed
+  - sooliselt neutraalne
+  - täiskasvanu
+  - 'täiskasvanu: lokkis juuksed'
+🧑🏻‍🦱:
+  - hele nahatoon
+  - lokkis juuksed
+  - sooliselt neutraalne
+  - täiskasvanu
+  - 'täiskasvanu: hele nahatoon, lokkis juuksed'
+🧑🏼‍🦱:
+  - keskmiselt hele nahatoon
+  - lokkis juuksed
+  - sooliselt neutraalne
+  - täiskasvanu
+  - 'täiskasvanu: keskmiselt hele nahatoon, lokkis juuksed'
+🧑🏽‍🦱:
+  - keskmine nahatoon
+  - lokkis juuksed
+  - sooliselt neutraalne
+  - täiskasvanu
+  - 'täiskasvanu: keskmine nahatoon, lokkis juuksed'
+🧑🏾‍🦱:
+  - keskmiselt tume nahatoon
+  - lokkis juuksed
+  - sooliselt neutraalne
+  - täiskasvanu
+  - 'täiskasvanu: keskmiselt tume nahatoon, lokkis juuksed'
+🧑🏿‍🦱:
+  - lokkis juuksed
+  - sooliselt neutraalne
+  - tume nahatoon
+  - täiskasvanu
+  - 'täiskasvanu: tume nahatoon, lokkis juuksed'
+🧑‍🦳:
+  - heledad juuksed
+  - sooliselt neutraalne
+  - täiskasvanu
+  - 'täiskasvanu: heledad juuksed'
+🧑🏻‍🦳:
+  - hele nahatoon
+  - heledad juuksed
+  - sooliselt neutraalne
+  - täiskasvanu
+  - 'täiskasvanu: hele nahatoon, heledad juuksed'
+🧑🏼‍🦳:
+  - heledad juuksed
+  - keskmiselt hele nahatoon
+  - sooliselt neutraalne
+  - täiskasvanu
+  - 'täiskasvanu: keskmiselt hele nahatoon, heledad juuksed'
+🧑🏽‍🦳:
+  - heledad juuksed
+  - keskmine nahatoon
+  - sooliselt neutraalne
+  - täiskasvanu
+  - 'täiskasvanu: keskmine nahatoon, heledad juuksed'
+🧑🏾‍🦳:
+  - heledad juuksed
+  - keskmiselt tume nahatoon
+  - sooliselt neutraalne
+  - täiskasvanu
+  - 'täiskasvanu: keskmiselt tume nahatoon, heledad juuksed'
+🧑🏿‍🦳:
+  - heledad juuksed
+  - sooliselt neutraalne
+  - tume nahatoon
+  - täiskasvanu
+  - 'täiskasvanu: tume nahatoon, heledad juuksed'
+🧑‍🦲:
+  - kiilaspea
+  - sooliselt neutraalne
+  - täiskasvanu
+  - 'täiskasvanu: kiilaspea'
+🧑🏻‍🦲:
+  - hele nahatoon
+  - kiilaspea
+  - sooliselt neutraalne
+  - täiskasvanu
+  - 'täiskasvanu: hele nahatoon, kiilaspea'
+🧑🏼‍🦲:
+  - keskmiselt hele nahatoon
+  - kiilaspea
+  - sooliselt neutraalne
+  - täiskasvanu
+  - 'täiskasvanu: keskmiselt hele nahatoon, kiilaspea'
+🧑🏽‍🦲:
+  - keskmine nahatoon
+  - kiilaspea
+  - sooliselt neutraalne
+  - täiskasvanu
+  - 'täiskasvanu: keskmine nahatoon, kiilaspea'
+🧑🏾‍🦲:
+  - keskmiselt tume nahatoon
+  - kiilaspea
+  - sooliselt neutraalne
+  - täiskasvanu
+  - 'täiskasvanu: keskmiselt tume nahatoon, kiilaspea'
+🧑🏿‍🦲:
+  - kiilaspea
+  - sooliselt neutraalne
+  - tume nahatoon
+  - täiskasvanu
+  - 'täiskasvanu: tume nahatoon, kiilaspea'
 👨:
   - mees
 👨🏻:
@@ -2544,65 +2851,81 @@
 🧔:
   - habe
   - habemega isik
+  - 'mees: habemega'
 🧔🏻:
   - habe
+  - habemega
   - habemega isik
-  - 'habemega isik: hele nahatoon'
   - hele nahatoon
+  - 'mees: habemega'
+  - 'mees: hele nahatoon, habemega'
 🧔🏼:
   - habe
+  - habemega
   - habemega isik
-  - 'habemega isik: keskmiselt hele nahatoon'
   - keskmiselt hele nahatoon
+  - 'mees: habemega'
+  - 'mees: keskmiselt hele nahatoon, habemega'
 🧔🏽:
   - habe
+  - habemega
   - habemega isik
-  - 'habemega isik: keskmine nahatoon'
   - keskmine nahatoon
+  - 'mees: habemega'
+  - 'mees: keskmine nahatoon, habemega'
 🧔🏾:
   - habe
+  - habemega
   - habemega isik
-  - 'habemega isik: keskmiselt tume nahatoon'
   - keskmiselt tume nahatoon
+  - 'mees: habemega'
+  - 'mees: keskmiselt tume nahatoon, habemega'
 🧔🏿:
   - habe
+  - habemega
   - habemega isik
-  - 'habemega isik: tume nahatoon'
+  - 'mees: habemega'
+  - 'mees: tume nahatoon, habemega'
   - tume nahatoon
 👱‍♂:
   - blond
-  - blond mees
   - blondiin
   - mees
+  - 'mees: blond'
 👱🏻‍♂:
   - blond
-  - 'blond mees: hele nahatoon'
   - blondiin
   - hele nahatoon
   - mees
+  - 'mees: blond'
+  - 'mees: hele nahatoon, blond'
 👱🏼‍♂:
   - blond
-  - 'blond mees: keskmiselt hele nahatoon'
   - blondiin
   - keskmiselt hele nahatoon
   - mees
+  - 'mees: blond'
+  - 'mees: keskmiselt hele nahatoon, blond'
 👱🏽‍♂:
   - blond
-  - 'blond mees: keskmine nahatoon'
   - blondiin
   - keskmine nahatoon
   - mees
+  - 'mees: blond'
+  - 'mees: keskmine nahatoon, blond'
 👱🏾‍♂:
   - blond
-  - 'blond mees: keskmiselt tume nahatoon'
   - blondiin
   - keskmiselt tume nahatoon
   - mees
+  - 'mees: blond'
+  - 'mees: keskmiselt tume nahatoon, blond'
 👱🏿‍♂:
   - blond
-  - 'blond mees: tume nahatoon'
   - blondiin
   - mees
+  - 'mees: blond'
+  - 'mees: tume nahatoon, blond'
   - tume nahatoon
 👨‍🦰:
   - mees
@@ -2744,38 +3067,43 @@
   - tume nahatoon
 👱‍♀:
   - blond
-  - blond naine
   - blondiin
   - naine
+  - 'naine: blond'
 👱🏻‍♀:
   - blond
-  - 'blond naine: hele nahatoon'
   - blondiin
   - hele nahatoon
   - naine
+  - 'naine: blond'
+  - 'naine: hele nahatoon, blond'
 👱🏼‍♀:
   - blond
-  - 'blond naine: keskmiselt hele nahatoon'
   - blondiin
   - keskmiselt hele nahatoon
   - naine
+  - 'naine: blond'
+  - 'naine: keskmiselt hele nahatoon, blond'
 👱🏽‍♀:
   - blond
-  - 'blond naine: keskmine nahatoon'
   - blondiin
   - keskmine nahatoon
   - naine
+  - 'naine: blond'
+  - 'naine: keskmine nahatoon, blond'
 👱🏾‍♀:
   - blond
-  - 'blond naine: keskmiselt tume nahatoon'
   - blondiin
   - keskmiselt tume nahatoon
   - naine
+  - 'naine: blond'
+  - 'naine: keskmiselt tume nahatoon, blond'
 👱🏿‍♀:
   - blond
-  - 'blond naine: tume nahatoon'
   - blondiin
   - naine
+  - 'naine: blond'
+  - 'naine: tume nahatoon, blond'
   - tume nahatoon
 👩‍🦰:
   - naine
@@ -3765,6 +4093,110 @@
   - tervitus
   - tume nahatoon
   - žest
+🧏:
+  - juurdepääs
+  - kurt
+  - kurt inimene
+  - kuulmine
+  - kõrv
+🧏🏻:
+  - hele nahatoon
+  - juurdepääs
+  - kurt
+  - kurt inimene
+  - 'kurt inimene: hele nahatoon'
+  - kuulmine
+  - kõrv
+🧏🏼:
+  - juurdepääs
+  - keskmiselt hele nahatoon
+  - kurt
+  - kurt inimene
+  - 'kurt inimene: keskmiselt hele nahatoon'
+  - kuulmine
+  - kõrv
+🧏🏽:
+  - juurdepääs
+  - keskmine nahatoon
+  - kurt
+  - kurt inimene
+  - 'kurt inimene: keskmine nahatoon'
+  - kuulmine
+  - kõrv
+🧏🏾:
+  - juurdepääs
+  - keskmiselt tume nahatoon
+  - kurt
+  - kurt inimene
+  - 'kurt inimene: keskmiselt tume nahatoon'
+  - kuulmine
+  - kõrv
+🧏🏿:
+  - juurdepääs
+  - kurt
+  - kurt inimene
+  - 'kurt inimene: tume nahatoon'
+  - kuulmine
+  - kõrv
+  - tume nahatoon
+🧏‍♂:
+  - kurt
+  - kurt mees
+  - mees
+🧏🏻‍♂:
+  - hele nahatoon
+  - kurt
+  - 'kurt mees: hele nahatoon'
+  - mees
+🧏🏼‍♂:
+  - keskmiselt hele nahatoon
+  - kurt
+  - 'kurt mees: keskmiselt hele nahatoon'
+  - mees
+🧏🏽‍♂:
+  - keskmine nahatoon
+  - kurt
+  - 'kurt mees: keskmine nahatoon'
+  - mees
+🧏🏾‍♂:
+  - keskmiselt tume nahatoon
+  - kurt
+  - 'kurt mees: keskmiselt tume nahatoon'
+  - mees
+🧏🏿‍♂:
+  - kurt
+  - 'kurt mees: tume nahatoon'
+  - mees
+  - tume nahatoon
+🧏‍♀:
+  - kurt
+  - kurt naine
+  - naine
+🧏🏻‍♀:
+  - hele nahatoon
+  - kurt
+  - 'kurt naine: hele nahatoon'
+  - naine
+🧏🏼‍♀:
+  - keskmiselt hele nahatoon
+  - kurt
+  - 'kurt naine: keskmiselt hele nahatoon'
+  - naine
+🧏🏽‍♀:
+  - keskmine nahatoon
+  - kurt
+  - 'kurt naine: keskmine nahatoon'
+  - naine
+🧏🏾‍♀:
+  - keskmiselt tume nahatoon
+  - kurt
+  - 'kurt naine: keskmiselt tume nahatoon'
+  - naine
+🧏🏿‍♀:
+  - kurt
+  - 'kurt naine: tume nahatoon'
+  - naine
+  - tume nahatoon
 🙇:
   - kummardav inimene
   - kummardus
@@ -4143,6 +4575,52 @@
   - õlgu kehitav naine
   - 'õlgu kehitav naine: tume nahatoon'
   - ükskõiksus
+🧑‍⚕:
+  - arst
+  - meditsiiniõde
+  - terapeut
+  - tervishoid
+  - tervishoiutöötaja
+🧑🏻‍⚕:
+  - arst
+  - hele nahatoon
+  - meditsiiniõde
+  - terapeut
+  - tervishoid
+  - tervishoiutöötaja
+  - 'tervishoiutöötaja: hele nahatoon'
+🧑🏼‍⚕:
+  - arst
+  - keskmiselt hele nahatoon
+  - meditsiiniõde
+  - terapeut
+  - tervishoid
+  - tervishoiutöötaja
+  - 'tervishoiutöötaja: keskmiselt hele nahatoon'
+🧑🏽‍⚕:
+  - arst
+  - keskmine nahatoon
+  - meditsiiniõde
+  - terapeut
+  - tervishoid
+  - tervishoiutöötaja
+  - 'tervishoiutöötaja: keskmine nahatoon'
+🧑🏾‍⚕:
+  - arst
+  - keskmiselt tume nahatoon
+  - meditsiiniõde
+  - terapeut
+  - tervishoid
+  - tervishoiutöötaja
+  - 'tervishoiutöötaja: keskmiselt tume nahatoon'
+🧑🏿‍⚕:
+  - arst
+  - meditsiiniõde
+  - terapeut
+  - tervishoid
+  - tervishoiutöötaja
+  - 'tervishoiutöötaja: tume nahatoon'
+  - tume nahatoon
 👨‍⚕:
   - arst
   - meditsiin
@@ -4235,6 +4713,34 @@
   - naisarst
   - 'naisarst: tume nahatoon'
   - tume nahatoon
+🧑‍🎓:
+  - koolilõpetaja
+  - õpilane
+🧑🏻‍🎓:
+  - hele nahatoon
+  - koolilõpetaja
+  - õpilane
+  - 'õpilane: hele nahatoon'
+🧑🏼‍🎓:
+  - keskmiselt hele nahatoon
+  - koolilõpetaja
+  - õpilane
+  - 'õpilane: keskmiselt hele nahatoon'
+🧑🏽‍🎓:
+  - keskmine nahatoon
+  - koolilõpetaja
+  - õpilane
+  - 'õpilane: keskmine nahatoon'
+🧑🏾‍🎓:
+  - keskmiselt tume nahatoon
+  - koolilõpetaja
+  - õpilane
+  - 'õpilane: keskmiselt tume nahatoon'
+🧑🏿‍🎓:
+  - koolilõpetaja
+  - tume nahatoon
+  - õpilane
+  - 'õpilane: tume nahatoon'
 👨‍🎓:
   - lõpetaja
   - mees
@@ -4315,6 +4821,40 @@
   - 'naisõpilane: tume nahatoon'
   - tume nahatoon
   - õpilane
+🧑‍🏫:
+  - koolitaja
+  - professor
+  - õpetaja
+🧑🏻‍🏫:
+  - hele nahatoon
+  - koolitaja
+  - professor
+  - õpetaja
+  - 'õpetaja: hele nahatoon'
+🧑🏼‍🏫:
+  - keskmiselt hele nahatoon
+  - koolitaja
+  - professor
+  - õpetaja
+  - 'õpetaja: keskmiselt hele nahatoon'
+🧑🏽‍🏫:
+  - keskmine nahatoon
+  - koolitaja
+  - professor
+  - õpetaja
+  - 'õpetaja: keskmine nahatoon'
+🧑🏾‍🏫:
+  - keskmiselt tume nahatoon
+  - koolitaja
+  - professor
+  - õpetaja
+  - 'õpetaja: keskmiselt tume nahatoon'
+🧑🏿‍🏫:
+  - koolitaja
+  - professor
+  - tume nahatoon
+  - õpetaja
+  - 'õpetaja: tume nahatoon'
 👨‍🏫:
   - juhendaja
   - mees
@@ -4407,6 +4947,40 @@
   - professor
   - tume nahatoon
   - õpetaja
+🧑‍⚖:
+  - kohtunik
+  - kohus
+  - õigusemõistmine
+🧑🏻‍⚖:
+  - hele nahatoon
+  - kohtunik
+  - 'kohtunik: hele nahatoon'
+  - kohus
+  - õigusemõistmine
+🧑🏼‍⚖:
+  - keskmiselt hele nahatoon
+  - kohtunik
+  - 'kohtunik: keskmiselt hele nahatoon'
+  - kohus
+  - õigusemõistmine
+🧑🏽‍⚖:
+  - keskmine nahatoon
+  - kohtunik
+  - 'kohtunik: keskmine nahatoon'
+  - kohus
+  - õigusemõistmine
+🧑🏾‍⚖:
+  - keskmiselt tume nahatoon
+  - kohtunik
+  - 'kohtunik: keskmiselt tume nahatoon'
+  - kohus
+  - õigusemõistmine
+🧑🏿‍⚖:
+  - kohtunik
+  - 'kohtunik: tume nahatoon'
+  - kohus
+  - tume nahatoon
+  - õigusemõistmine
 👨‍⚖:
   - kohus
   - mees
@@ -4487,6 +5061,40 @@
   - 'naiskohtunik: tume nahatoon'
   - tume nahatoon
   - õigusemõistmine
+🧑‍🌾:
+  - aednik
+  - farmer
+  - talunik
+🧑🏻‍🌾:
+  - aednik
+  - farmer
+  - hele nahatoon
+  - talunik
+  - 'talunik: hele nahatoon'
+🧑🏼‍🌾:
+  - aednik
+  - farmer
+  - keskmiselt hele nahatoon
+  - talunik
+  - 'talunik: keskmiselt hele nahatoon'
+🧑🏽‍🌾:
+  - aednik
+  - farmer
+  - keskmine nahatoon
+  - talunik
+  - 'talunik: keskmine nahatoon'
+🧑🏾‍🌾:
+  - aednik
+  - farmer
+  - keskmiselt tume nahatoon
+  - talunik
+  - 'talunik: keskmiselt tume nahatoon'
+🧑🏿‍🌾:
+  - aednik
+  - farmer
+  - talunik
+  - 'talunik: tume nahatoon'
+  - tume nahatoon
 👨‍🌾:
   - aednik
   - farmer
@@ -4573,6 +5181,34 @@
   - naisfarmer
   - 'naisfarmer: tume nahatoon'
   - tume nahatoon
+🧑‍🍳:
+  - kokk
+  - peakokk
+🧑🏻‍🍳:
+  - hele nahatoon
+  - kokk
+  - 'kokk: hele nahatoon'
+  - peakokk
+🧑🏼‍🍳:
+  - keskmiselt hele nahatoon
+  - kokk
+  - 'kokk: keskmiselt hele nahatoon'
+  - peakokk
+🧑🏽‍🍳:
+  - keskmine nahatoon
+  - kokk
+  - 'kokk: keskmine nahatoon'
+  - peakokk
+🧑🏾‍🍳:
+  - keskmiselt tume nahatoon
+  - kokk
+  - 'kokk: keskmiselt tume nahatoon'
+  - peakokk
+🧑🏿‍🍳:
+  - kokk
+  - 'kokk: tume nahatoon'
+  - peakokk
+  - tume nahatoon
 👨‍🍳:
   - kokk
   - mees
@@ -4640,6 +5276,46 @@
   - naine
   - naiskokk
   - 'naiskokk: tume nahatoon'
+  - tume nahatoon
+🧑‍🔧:
+  - elektrik
+  - mehaanik
+  - torulukksepp
+  - torumees
+🧑🏻‍🔧:
+  - elektrik
+  - hele nahatoon
+  - mehaanik
+  - 'mehaanik: hele nahatoon'
+  - torulukksepp
+  - torumees
+🧑🏼‍🔧:
+  - elektrik
+  - keskmiselt hele nahatoon
+  - mehaanik
+  - 'mehaanik: keskmiselt hele nahatoon'
+  - torulukksepp
+  - torumees
+🧑🏽‍🔧:
+  - elektrik
+  - keskmine nahatoon
+  - mehaanik
+  - 'mehaanik: keskmine nahatoon'
+  - torulukksepp
+  - torumees
+🧑🏾‍🔧:
+  - elektrik
+  - keskmiselt tume nahatoon
+  - mehaanik
+  - 'mehaanik: keskmiselt tume nahatoon'
+  - torulukksepp
+  - torumees
+🧑🏿‍🔧:
+  - elektrik
+  - mehaanik
+  - 'mehaanik: tume nahatoon'
+  - torulukksepp
+  - torumees
   - tume nahatoon
 👨‍🔧:
   - elektrik
@@ -4739,6 +5415,46 @@
   - 'naismehaanik: tume nahatoon'
   - torulukksepp
   - tume nahatoon
+🧑‍🏭:
+  - liinitööline
+  - tehas
+  - tehasetööline
+  - tööline
+🧑🏻‍🏭:
+  - hele nahatoon
+  - liinitööline
+  - tehas
+  - tehasetööline
+  - 'tehasetööline: hele nahatoon'
+  - tööline
+🧑🏼‍🏭:
+  - keskmiselt hele nahatoon
+  - liinitööline
+  - tehas
+  - tehasetööline
+  - 'tehasetööline: keskmiselt hele nahatoon'
+  - tööline
+🧑🏽‍🏭:
+  - keskmine nahatoon
+  - liinitööline
+  - tehas
+  - tehasetööline
+  - 'tehasetööline: keskmine nahatoon'
+  - tööline
+🧑🏾‍🏭:
+  - keskmiselt tume nahatoon
+  - liinitööline
+  - tehas
+  - tehasetööline
+  - 'tehasetööline: keskmiselt tume nahatoon'
+  - tööline
+🧑🏿‍🏭:
+  - liinitööline
+  - tehas
+  - tehasetööline
+  - 'tehasetööline: tume nahatoon'
+  - tume nahatoon
+  - tööline
 👨‍🏭:
   - liinitööline
   - mees
@@ -4831,6 +5547,58 @@
   - tehas
   - tume nahatoon
   - tööline
+🧑‍💼:
+  - ametnik
+  - arhitekt
+  - juhataja
+  - kontoritöötaja
+  - valgekrae
+  - ärimees
+🧑🏻‍💼:
+  - ametnik
+  - arhitekt
+  - hele nahatoon
+  - juhataja
+  - kontoritöötaja
+  - 'kontoritöötaja: hele nahatoon'
+  - valgekrae
+  - ärimees
+🧑🏼‍💼:
+  - ametnik
+  - arhitekt
+  - juhataja
+  - keskmiselt hele nahatoon
+  - kontoritöötaja
+  - 'kontoritöötaja: keskmiselt hele nahatoon'
+  - valgekrae
+  - ärimees
+🧑🏽‍💼:
+  - ametnik
+  - arhitekt
+  - juhataja
+  - keskmine nahatoon
+  - kontoritöötaja
+  - 'kontoritöötaja: keskmine nahatoon'
+  - valgekrae
+  - ärimees
+🧑🏾‍💼:
+  - ametnik
+  - arhitekt
+  - juhataja
+  - keskmiselt tume nahatoon
+  - kontoritöötaja
+  - 'kontoritöötaja: keskmiselt tume nahatoon'
+  - valgekrae
+  - ärimees
+🧑🏿‍💼:
+  - ametnik
+  - arhitekt
+  - juhataja
+  - kontoritöötaja
+  - 'kontoritöötaja: tume nahatoon'
+  - tume nahatoon
+  - valgekrae
+  - ärimees
 👨‍💼:
   - arhitekt
   - juhataja
@@ -4923,6 +5691,52 @@
   - tume nahatoon
   - valgekrae
   - ärinaine
+🧑‍🔬:
+  - bioloog
+  - füüsik
+  - insener
+  - keemik
+  - teadlane
+🧑🏻‍🔬:
+  - bioloog
+  - füüsik
+  - hele nahatoon
+  - insener
+  - keemik
+  - teadlane
+  - 'teadlane: hele nahatoon'
+🧑🏼‍🔬:
+  - bioloog
+  - füüsik
+  - insener
+  - keemik
+  - keskmiselt hele nahatoon
+  - teadlane
+  - 'teadlane: keskmiselt hele nahatoon'
+🧑🏽‍🔬:
+  - bioloog
+  - füüsik
+  - insener
+  - keemik
+  - keskmine nahatoon
+  - teadlane
+  - 'teadlane: keskmine nahatoon'
+🧑🏾‍🔬:
+  - bioloog
+  - füüsik
+  - insener
+  - keemik
+  - keskmiselt tume nahatoon
+  - teadlane
+  - 'teadlane: keskmiselt tume nahatoon'
+🧑🏿‍🔬:
+  - bioloog
+  - füüsik
+  - insener
+  - keemik
+  - teadlane
+  - 'teadlane: tume nahatoon'
+  - tume nahatoon
 👨‍🔬:
   - bioloog
   - füüsik
@@ -5014,6 +5828,46 @@
   - keemik
   - naisteadlane
   - 'naisteadlane: tume nahatoon'
+  - tume nahatoon
+🧑‍💻:
+  - arendaja
+  - programmeerija
+  - tarkvara
+  - tehnoloog
+🧑🏻‍💻:
+  - arendaja
+  - hele nahatoon
+  - programmeerija
+  - 'programmeerija: hele nahatoon'
+  - tarkvara
+  - tehnoloog
+🧑🏼‍💻:
+  - arendaja
+  - keskmiselt hele nahatoon
+  - programmeerija
+  - 'programmeerija: keskmiselt hele nahatoon'
+  - tarkvara
+  - tehnoloog
+🧑🏽‍💻:
+  - arendaja
+  - keskmine nahatoon
+  - programmeerija
+  - 'programmeerija: keskmine nahatoon'
+  - tarkvara
+  - tehnoloog
+🧑🏾‍💻:
+  - arendaja
+  - keskmiselt tume nahatoon
+  - programmeerija
+  - 'programmeerija: keskmiselt tume nahatoon'
+  - tarkvara
+  - tehnoloog
+🧑🏿‍💻:
+  - arendaja
+  - programmeerija
+  - 'programmeerija: tume nahatoon'
+  - tarkvara
+  - tehnoloog
   - tume nahatoon
 👨‍💻:
   - arendaja
@@ -5119,6 +5973,46 @@
   - tarkvara
   - tehnoloog
   - tume nahatoon
+🧑‍🎤:
+  - artist
+  - laulja
+  - meelelahutaja
+  - staar
+🧑🏻‍🎤:
+  - artist
+  - hele nahatoon
+  - laulja
+  - 'laulja: hele nahatoon'
+  - meelelahutaja
+  - staar
+🧑🏼‍🎤:
+  - artist
+  - keskmiselt hele nahatoon
+  - laulja
+  - 'laulja: keskmiselt hele nahatoon'
+  - meelelahutaja
+  - staar
+🧑🏽‍🎤:
+  - artist
+  - keskmine nahatoon
+  - laulja
+  - 'laulja: keskmine nahatoon'
+  - meelelahutaja
+  - staar
+🧑🏾‍🎤:
+  - artist
+  - keskmiselt tume nahatoon
+  - laulja
+  - 'laulja: keskmiselt tume nahatoon'
+  - meelelahutaja
+  - staar
+🧑🏿‍🎤:
+  - artist
+  - laulja
+  - 'laulja: tume nahatoon'
+  - meelelahutaja
+  - staar
+  - tume nahatoon
 👨‍🎤:
   - artist
   - laulja
@@ -5211,6 +6105,34 @@
   - 'naislaulja: tume nahatoon'
   - staar
   - tume nahatoon
+🧑‍🎨:
+  - kunstnik
+  - palett
+🧑🏻‍🎨:
+  - hele nahatoon
+  - kunstnik
+  - 'kunstnik: hele nahatoon'
+  - palett
+🧑🏼‍🎨:
+  - keskmiselt hele nahatoon
+  - kunstnik
+  - 'kunstnik: keskmiselt hele nahatoon'
+  - palett
+🧑🏽‍🎨:
+  - keskmine nahatoon
+  - kunstnik
+  - 'kunstnik: keskmine nahatoon'
+  - palett
+🧑🏾‍🎨:
+  - keskmiselt tume nahatoon
+  - kunstnik
+  - 'kunstnik: keskmiselt tume nahatoon'
+  - palett
+🧑🏿‍🎨:
+  - kunstnik
+  - 'kunstnik: tume nahatoon'
+  - palett
+  - tume nahatoon
 👨‍🎨:
   - kunstnik
   - mees
@@ -5290,6 +6212,34 @@
   - naiskunstnik
   - 'naiskunstnik: tume nahatoon'
   - palett
+  - tume nahatoon
+🧑‍✈:
+  - lennuk
+  - piloot
+🧑🏻‍✈:
+  - hele nahatoon
+  - lennuk
+  - piloot
+  - 'piloot: hele nahatoon'
+🧑🏼‍✈:
+  - keskmiselt hele nahatoon
+  - lennuk
+  - piloot
+  - 'piloot: keskmiselt hele nahatoon'
+🧑🏽‍✈:
+  - keskmine nahatoon
+  - lennuk
+  - piloot
+  - 'piloot: keskmine nahatoon'
+🧑🏾‍✈:
+  - keskmiselt tume nahatoon
+  - lennuk
+  - piloot
+  - 'piloot: keskmiselt tume nahatoon'
+🧑🏿‍✈:
+  - lennuk
+  - piloot
+  - 'piloot: tume nahatoon'
   - tume nahatoon
 👨‍✈:
   - lendur
@@ -5383,6 +6333,34 @@
   - 'naispiloot: tume nahatoon'
   - piloot
   - tume nahatoon
+🧑‍🚀:
+  - astronaut
+  - rakett
+🧑🏻‍🚀:
+  - astronaut
+  - 'astronaut: hele nahatoon'
+  - hele nahatoon
+  - rakett
+🧑🏼‍🚀:
+  - astronaut
+  - 'astronaut: keskmiselt hele nahatoon'
+  - keskmiselt hele nahatoon
+  - rakett
+🧑🏽‍🚀:
+  - astronaut
+  - 'astronaut: keskmine nahatoon'
+  - keskmine nahatoon
+  - rakett
+🧑🏾‍🚀:
+  - astronaut
+  - 'astronaut: keskmiselt tume nahatoon'
+  - keskmiselt tume nahatoon
+  - rakett
+🧑🏿‍🚀:
+  - astronaut
+  - 'astronaut: tume nahatoon'
+  - rakett
+  - tume nahatoon
 👨‍🚀:
   - astronaut
   - kosmos
@@ -5474,6 +6452,34 @@
   - naisastronaut
   - 'naisastronaut: tume nahatoon'
   - rakett
+  - tume nahatoon
+🧑‍🚒:
+  - tuletõrjeauto
+  - tuletõrjuja
+🧑🏻‍🚒:
+  - hele nahatoon
+  - tuletõrjeauto
+  - tuletõrjuja
+  - 'tuletõrjuja: hele nahatoon'
+🧑🏼‍🚒:
+  - keskmiselt hele nahatoon
+  - tuletõrjeauto
+  - tuletõrjuja
+  - 'tuletõrjuja: keskmiselt hele nahatoon'
+🧑🏽‍🚒:
+  - keskmine nahatoon
+  - tuletõrjeauto
+  - tuletõrjuja
+  - 'tuletõrjuja: keskmine nahatoon'
+🧑🏾‍🚒:
+  - keskmiselt tume nahatoon
+  - tuletõrjeauto
+  - tuletõrjuja
+  - 'tuletõrjuja: keskmiselt tume nahatoon'
+🧑🏿‍🚒:
+  - tuletõrjeauto
+  - tuletõrjuja
+  - 'tuletõrjuja: tume nahatoon'
   - tume nahatoon
 👨‍🚒:
   - mees
@@ -5879,6 +6885,11 @@
   - 'naisvalvur: tume nahatoon'
   - tume nahatoon
   - valvur
+🥷:
+  - jaapan
+  - ninja
+  - salakuulaja
+  - sõdalane
 👷:
   - ehitaja
   - ehitus
@@ -6256,84 +7267,226 @@
   - tichel
   - tume nahatoon
 🤵:
+  - inimene smokingus
   - mees
-  - mees smokingus
   - peigmees
-  - smoking
 🤵🏻:
   - hele nahatoon
+  - inimene smokingus
+  - 'inimene smokingus: hele nahatoon'
   - mees
-  - mees smokingus
-  - 'mees smokingus: hele nahatoon'
   - peigmees
-  - smoking
 🤵🏼:
+  - inimene smokingus
+  - 'inimene smokingus: keskmiselt hele nahatoon'
   - keskmiselt hele nahatoon
   - mees
-  - mees smokingus
-  - 'mees smokingus: keskmiselt hele nahatoon'
   - peigmees
-  - smoking
 🤵🏽:
+  - inimene smokingus
+  - 'inimene smokingus: keskmine nahatoon'
   - keskmine nahatoon
   - mees
-  - mees smokingus
-  - 'mees smokingus: keskmine nahatoon'
   - peigmees
-  - smoking
 🤵🏾:
+  - inimene smokingus
+  - 'inimene smokingus: keskmiselt tume nahatoon'
   - keskmiselt tume nahatoon
   - mees
-  - mees smokingus
-  - 'mees smokingus: keskmiselt tume nahatoon'
   - peigmees
-  - smoking
 🤵🏿:
+  - inimene smokingus
+  - 'inimene smokingus: tume nahatoon'
   - mees
-  - mees smokingus
-  - 'mees smokingus: tume nahatoon'
   - peigmees
+  - tume nahatoon
+🤵‍♂:
+  - mees
+  - mees smokingis
+  - mees smokingus
+  - smoking
+🤵🏻‍♂:
+  - hele nahatoon
+  - mees
+  - mees smokingis
+  - 'mees smokingis: hele nahatoon'
+  - mees smokingus
+  - smoking
+🤵🏼‍♂:
+  - keskmiselt hele nahatoon
+  - mees
+  - mees smokingis
+  - 'mees smokingis: keskmiselt hele nahatoon'
+  - mees smokingus
+  - smoking
+🤵🏽‍♂:
+  - keskmine nahatoon
+  - mees
+  - mees smokingis
+  - 'mees smokingis: keskmine nahatoon'
+  - mees smokingus
+  - smoking
+🤵🏾‍♂:
+  - keskmiselt tume nahatoon
+  - mees
+  - mees smokingis
+  - 'mees smokingis: keskmiselt tume nahatoon'
+  - mees smokingus
+  - smoking
+🤵🏿‍♂:
+  - mees
+  - mees smokingis
+  - 'mees smokingis: tume nahatoon'
+  - mees smokingus
+  - smoking
+  - tume nahatoon
+🤵‍♀:
+  - naine
+  - naine smokingus
+  - smoking
+🤵🏻‍♀:
+  - hele nahatoon
+  - naine
+  - naine smokingus
+  - 'naine smokingus: hele nahatoon'
+  - smoking
+🤵🏼‍♀:
+  - keskmiselt hele nahatoon
+  - naine
+  - naine smokingus
+  - 'naine smokingus: keskmiselt hele nahatoon'
+  - smoking
+🤵🏽‍♀:
+  - keskmine nahatoon
+  - naine
+  - naine smokingus
+  - 'naine smokingus: keskmine nahatoon'
+  - smoking
+🤵🏾‍♀:
+  - keskmiselt tume nahatoon
+  - naine
+  - naine smokingus
+  - 'naine smokingus: keskmiselt tume nahatoon'
+  - smoking
+🤵🏿‍♀:
+  - naine
+  - naine smokingus
+  - 'naine smokingus: tume nahatoon'
   - smoking
   - tume nahatoon
 👰:
   - loor
+  - loori kandev inimene
   - loori kandev pruut
   - pruut
   - pulm
 👰🏻:
   - hele nahatoon
   - loor
+  - loori kandev inimene
+  - 'loori kandev inimene: hele nahatoon'
   - loori kandev pruut
-  - 'loori kandev pruut: hele nahatoon'
   - pruut
   - pulm
 👰🏼:
   - keskmiselt hele nahatoon
   - loor
+  - loori kandev inimene
+  - 'loori kandev inimene: keskmiselt hele nahatoon'
   - loori kandev pruut
-  - 'loori kandev pruut: keskmiselt hele nahatoon'
   - pruut
   - pulm
 👰🏽:
   - keskmine nahatoon
   - loor
+  - loori kandev inimene
+  - 'loori kandev inimene: keskmine nahatoon'
   - loori kandev pruut
-  - 'loori kandev pruut: keskmine nahatoon'
   - pruut
   - pulm
 👰🏾:
   - keskmiselt tume nahatoon
   - loor
+  - loori kandev inimene
+  - 'loori kandev inimene: keskmiselt tume nahatoon'
   - loori kandev pruut
-  - 'loori kandev pruut: keskmiselt tume nahatoon'
   - pruut
   - pulm
 👰🏿:
   - loor
+  - loori kandev inimene
+  - 'loori kandev inimene: tume nahatoon'
   - loori kandev pruut
-  - 'loori kandev pruut: tume nahatoon'
   - pruut
   - pulm
+  - tume nahatoon
+👰‍♂:
+  - loor
+  - mees
+  - mees looriga
+👰🏻‍♂:
+  - hele nahatoon
+  - loor
+  - mees
+  - mees looriga
+  - 'mees looriga: hele nahatoon'
+👰🏼‍♂:
+  - keskmiselt hele nahatoon
+  - loor
+  - mees
+  - mees looriga
+  - 'mees looriga: keskmiselt hele nahatoon'
+👰🏽‍♂:
+  - keskmine nahatoon
+  - loor
+  - mees
+  - mees looriga
+  - 'mees looriga: keskmine nahatoon'
+👰🏾‍♂:
+  - keskmiselt tume nahatoon
+  - loor
+  - mees
+  - mees looriga
+  - 'mees looriga: keskmiselt tume nahatoon'
+👰🏿‍♂:
+  - loor
+  - mees
+  - mees looriga
+  - 'mees looriga: tume nahatoon'
+  - tume nahatoon
+👰‍♀:
+  - loor
+  - naine
+  - naine looriga
+👰🏻‍♀:
+  - hele nahatoon
+  - loor
+  - naine
+  - naine looriga
+  - 'naine looriga: hele nahatoon'
+👰🏼‍♀:
+  - keskmiselt hele nahatoon
+  - loor
+  - naine
+  - naine looriga
+  - 'naine looriga: keskmiselt hele nahatoon'
+👰🏽‍♀:
+  - keskmine nahatoon
+  - loor
+  - naine
+  - naine looriga
+  - 'naine looriga: keskmine nahatoon'
+👰🏾‍♀:
+  - keskmiselt tume nahatoon
+  - loor
+  - naine
+  - naine looriga
+  - 'naine looriga: keskmiselt tume nahatoon'
+👰🏿‍♀:
+  - loor
+  - naine
+  - naine looriga
+  - 'naine looriga: tume nahatoon'
   - tume nahatoon
 🤰:
   - naine
@@ -6403,6 +7556,144 @@
   - rind
   - rinnaga toitmine
   - 'rinnaga toitmine: tume nahatoon'
+  - tume nahatoon
+👩‍🍼:
+  - beebi
+  - beebit toitev naine
+  - imetamine
+  - naine
+  - toitmine
+👩🏻‍🍼:
+  - beebi
+  - beebit toitev naine
+  - 'beebit toitev naine: hele nahatoon'
+  - hele nahatoon
+  - imetamine
+  - naine
+  - toitmine
+👩🏼‍🍼:
+  - beebi
+  - beebit toitev naine
+  - 'beebit toitev naine: keskmiselt hele nahatoon'
+  - imetamine
+  - keskmiselt hele nahatoon
+  - naine
+  - toitmine
+👩🏽‍🍼:
+  - beebi
+  - beebit toitev naine
+  - 'beebit toitev naine: keskmine nahatoon'
+  - imetamine
+  - keskmine nahatoon
+  - naine
+  - toitmine
+👩🏾‍🍼:
+  - beebi
+  - beebit toitev naine
+  - 'beebit toitev naine: keskmiselt tume nahatoon'
+  - imetamine
+  - keskmiselt tume nahatoon
+  - naine
+  - toitmine
+👩🏿‍🍼:
+  - beebi
+  - beebit toitev naine
+  - 'beebit toitev naine: tume nahatoon'
+  - imetamine
+  - naine
+  - toitmine
+  - tume nahatoon
+👨‍🍼:
+  - beebi
+  - beebit toitev mees
+  - imetamine
+  - mees
+  - toitmine
+👨🏻‍🍼:
+  - beebi
+  - beebit toitev mees
+  - 'beebit toitev mees: hele nahatoon'
+  - hele nahatoon
+  - imetamine
+  - mees
+  - toitmine
+👨🏼‍🍼:
+  - beebi
+  - beebit toitev mees
+  - 'beebit toitev mees: keskmiselt hele nahatoon'
+  - imetamine
+  - keskmiselt hele nahatoon
+  - mees
+  - toitmine
+👨🏽‍🍼:
+  - beebi
+  - beebit toitev mees
+  - 'beebit toitev mees: keskmine nahatoon'
+  - imetamine
+  - keskmine nahatoon
+  - mees
+  - toitmine
+👨🏾‍🍼:
+  - beebi
+  - beebit toitev mees
+  - 'beebit toitev mees: keskmiselt tume nahatoon'
+  - imetamine
+  - keskmiselt tume nahatoon
+  - mees
+  - toitmine
+👨🏿‍🍼:
+  - beebi
+  - beebit toitev mees
+  - 'beebit toitev mees: tume nahatoon'
+  - imetamine
+  - mees
+  - toitmine
+  - tume nahatoon
+🧑‍🍼:
+  - beebi
+  - beebit toitev inimene
+  - imetamine
+  - inimene
+  - toitmine
+🧑🏻‍🍼:
+  - beebi
+  - beebit toitev inimene
+  - 'beebit toitev inimene: hele nahatoon'
+  - hele nahatoon
+  - imetamine
+  - inimene
+  - toitmine
+🧑🏼‍🍼:
+  - beebi
+  - beebit toitev inimene
+  - 'beebit toitev inimene: keskmiselt hele nahatoon'
+  - imetamine
+  - inimene
+  - keskmiselt hele nahatoon
+  - toitmine
+🧑🏽‍🍼:
+  - beebi
+  - beebit toitev inimene
+  - 'beebit toitev inimene: keskmine nahatoon'
+  - imetamine
+  - inimene
+  - keskmine nahatoon
+  - toitmine
+🧑🏾‍🍼:
+  - beebi
+  - beebit toitev inimene
+  - 'beebit toitev inimene: keskmiselt tume nahatoon'
+  - imetamine
+  - inimene
+  - keskmiselt tume nahatoon
+  - toitmine
+🧑🏿‍🍼:
+  - beebi
+  - beebit toitev inimene
+  - 'beebit toitev inimene: tume nahatoon'
+  - imetamine
+  - inimene
+  - toitmine
   - tume nahatoon
 👼:
   - ingel
@@ -6518,6 +7809,40 @@
   - abikaasa
   - jõuluvana
   - 'jõuluvana abikaasa: tume nahatoon'
+  - tume nahatoon
+🧑‍🎄:
+  - päkapikk
+  - päkapikk, jõulud
+  - päkats
+🧑🏻‍🎄:
+  - hele nahatoon
+  - päkapikk
+  - päkapikk, jõulud
+  - päkats
+  - 'päkats: hele nahatoon'
+🧑🏼‍🎄:
+  - keskmiselt hele nahatoon
+  - päkapikk
+  - päkapikk, jõulud
+  - päkats
+  - 'päkats: keskmiselt hele nahatoon'
+🧑🏽‍🎄:
+  - keskmine nahatoon
+  - päkapikk
+  - päkapikk, jõulud
+  - päkats
+  - 'päkats: keskmine nahatoon'
+🧑🏾‍🎄:
+  - keskmiselt tume nahatoon
+  - päkapikk
+  - päkapikk, jõulud
+  - päkats
+  - 'päkats: keskmiselt tume nahatoon'
+🧑🏿‍🎄:
+  - päkapikk
+  - päkapikk, jõulud
+  - päkats
+  - 'päkats: tume nahatoon'
   - tume nahatoon
 🦸:
   - hea
@@ -7679,6 +9004,582 @@
   - 'kõndiv naine: tume nahatoon'
   - naine
   - tume nahatoon
+🧍:
+  - inimene
+  - seisev
+  - seisev inimene
+  - seismine
+🧍🏻:
+  - hele nahatoon
+  - inimene
+  - seisev
+  - 'seisev inimene: hele nahatoon'
+  - seismine
+🧍🏼:
+  - inimene
+  - keskmiselt hele nahatoon
+  - seisev
+  - 'seisev inimene: keskmiselt hele nahatoon'
+  - seismine
+🧍🏽:
+  - inimene
+  - keskmine nahatoon
+  - seisev
+  - 'seisev inimene: keskmine nahatoon'
+  - seismine
+🧍🏾:
+  - inimene
+  - keskmiselt tume nahatoon
+  - seisev
+  - 'seisev inimene: keskmiselt tume nahatoon'
+  - seismine
+🧍🏿:
+  - inimene
+  - seisev
+  - 'seisev inimene: tume nahatoon'
+  - seismine
+  - tume nahatoon
+🧍‍♂:
+  - mees
+  - seisev
+  - seisev mees
+  - seismine
+🧍🏻‍♂:
+  - hele nahatoon
+  - mees
+  - seisev
+  - 'seisev mees: hele nahatoon'
+  - seismine
+🧍🏼‍♂:
+  - keskmiselt hele nahatoon
+  - mees
+  - seisev
+  - 'seisev mees: keskmiselt hele nahatoon'
+  - seismine
+🧍🏽‍♂:
+  - keskmine nahatoon
+  - mees
+  - seisev
+  - 'seisev mees: keskmine nahatoon'
+  - seismine
+🧍🏾‍♂:
+  - keskmiselt tume nahatoon
+  - mees
+  - seisev
+  - 'seisev mees: keskmiselt tume nahatoon'
+  - seismine
+🧍🏿‍♂:
+  - mees
+  - seisev
+  - 'seisev mees: tume nahatoon'
+  - seismine
+  - tume nahatoon
+🧍‍♀:
+  - naine
+  - seisev
+  - seisev naine
+  - seismine
+🧍🏻‍♀:
+  - hele nahatoon
+  - naine
+  - seisev
+  - 'seisev naine: hele nahatoon'
+  - seismine
+🧍🏼‍♀:
+  - keskmiselt hele nahatoon
+  - naine
+  - seisev
+  - 'seisev naine: keskmiselt hele nahatoon'
+  - seismine
+🧍🏽‍♀:
+  - keskmine nahatoon
+  - naine
+  - seisev
+  - 'seisev naine: keskmine nahatoon'
+  - seismine
+🧍🏾‍♀:
+  - keskmiselt tume nahatoon
+  - naine
+  - seisev
+  - 'seisev naine: keskmiselt tume nahatoon'
+  - seismine
+🧍🏿‍♀:
+  - naine
+  - seisev
+  - 'seisev naine: tume nahatoon'
+  - seismine
+  - tume nahatoon
+🧎:
+  - inimene
+  - põlvili
+  - põlvitav
+  - põlvitav inimene
+🧎🏻:
+  - hele nahatoon
+  - inimene
+  - põlvili
+  - põlvitav
+  - 'põlvitav inimene: hele nahatoon'
+🧎🏼:
+  - inimene
+  - keskmiselt hele nahatoon
+  - põlvili
+  - põlvitav
+  - 'põlvitav inimene: keskmiselt hele nahatoon'
+🧎🏽:
+  - inimene
+  - keskmine nahatoon
+  - põlvili
+  - põlvitav
+  - 'põlvitav inimene: keskmine nahatoon'
+🧎🏾:
+  - inimene
+  - keskmiselt tume nahatoon
+  - põlvili
+  - põlvitav
+  - 'põlvitav inimene: keskmiselt tume nahatoon'
+🧎🏿:
+  - inimene
+  - põlvili
+  - põlvitav
+  - 'põlvitav inimene: tume nahatoon'
+  - tume nahatoon
+🧎‍♂:
+  - mees
+  - põlvili
+  - põlvitav
+  - põlvitav mees
+🧎🏻‍♂:
+  - hele nahatoon
+  - mees
+  - põlvili
+  - põlvitav
+  - 'põlvitav mees: hele nahatoon'
+🧎🏼‍♂:
+  - keskmiselt hele nahatoon
+  - mees
+  - põlvili
+  - põlvitav
+  - 'põlvitav mees: keskmiselt hele nahatoon'
+🧎🏽‍♂:
+  - keskmine nahatoon
+  - mees
+  - põlvili
+  - põlvitav
+  - 'põlvitav mees: keskmine nahatoon'
+🧎🏾‍♂:
+  - keskmiselt tume nahatoon
+  - mees
+  - põlvili
+  - põlvitav
+  - 'põlvitav mees: keskmiselt tume nahatoon'
+🧎🏿‍♂:
+  - mees
+  - põlvili
+  - põlvitav
+  - 'põlvitav mees: tume nahatoon'
+  - tume nahatoon
+🧎‍♀:
+  - naine
+  - põlvili
+  - põlvitav
+  - põlvitav naine
+🧎🏻‍♀:
+  - hele nahatoon
+  - naine
+  - põlvili
+  - põlvitav
+  - 'põlvitav naine: hele nahatoon'
+🧎🏼‍♀:
+  - keskmiselt hele nahatoon
+  - naine
+  - põlvili
+  - põlvitav
+  - 'põlvitav naine: keskmiselt hele nahatoon'
+🧎🏽‍♀:
+  - keskmine nahatoon
+  - naine
+  - põlvili
+  - põlvitav
+  - 'põlvitav naine: keskmine nahatoon'
+🧎🏾‍♀:
+  - keskmiselt tume nahatoon
+  - naine
+  - põlvili
+  - põlvitav
+  - 'põlvitav naine: keskmiselt tume nahatoon'
+🧎🏿‍♀:
+  - naine
+  - põlvili
+  - põlvitav
+  - 'põlvitav naine: tume nahatoon'
+  - tume nahatoon
+🧑‍🦯:
+  - ligipääs
+  - pime
+  - valge kepiga inimene
+🧑🏻‍🦯:
+  - hele nahatoon
+  - ligipääs
+  - pime
+  - valge kepiga inimene
+  - 'valge kepiga inimene: hele nahatoon'
+🧑🏼‍🦯:
+  - keskmiselt hele nahatoon
+  - ligipääs
+  - pime
+  - valge kepiga inimene
+  - 'valge kepiga inimene: keskmiselt hele nahatoon'
+🧑🏽‍🦯:
+  - keskmine nahatoon
+  - ligipääs
+  - pime
+  - valge kepiga inimene
+  - 'valge kepiga inimene: keskmine nahatoon'
+🧑🏾‍🦯:
+  - keskmiselt tume nahatoon
+  - ligipääs
+  - pime
+  - valge kepiga inimene
+  - 'valge kepiga inimene: keskmiselt tume nahatoon'
+🧑🏿‍🦯:
+  - ligipääs
+  - pime
+  - tume nahatoon
+  - valge kepiga inimene
+  - 'valge kepiga inimene: tume nahatoon'
+👨‍🦯:
+  - ligipääs
+  - mees
+  - pime
+  - valge kepiga mees
+👨🏻‍🦯:
+  - hele nahatoon
+  - ligipääs
+  - mees
+  - pime
+  - valge kepiga mees
+  - 'valge kepiga mees: hele nahatoon'
+👨🏼‍🦯:
+  - keskmiselt hele nahatoon
+  - ligipääs
+  - mees
+  - pime
+  - valge kepiga mees
+  - 'valge kepiga mees: keskmiselt hele nahatoon'
+👨🏽‍🦯:
+  - keskmine nahatoon
+  - ligipääs
+  - mees
+  - pime
+  - valge kepiga mees
+  - 'valge kepiga mees: keskmine nahatoon'
+👨🏾‍🦯:
+  - keskmiselt tume nahatoon
+  - ligipääs
+  - mees
+  - pime
+  - valge kepiga mees
+  - 'valge kepiga mees: keskmiselt tume nahatoon'
+👨🏿‍🦯:
+  - ligipääs
+  - mees
+  - pime
+  - tume nahatoon
+  - valge kepiga mees
+  - 'valge kepiga mees: tume nahatoon'
+👩‍🦯:
+  - ligipääs
+  - naine
+  - pime
+  - valge kepiga naine
+👩🏻‍🦯:
+  - hele nahatoon
+  - ligipääs
+  - naine
+  - pime
+  - valge kepiga naine
+  - 'valge kepiga naine: hele nahatoon'
+👩🏼‍🦯:
+  - keskmiselt hele nahatoon
+  - ligipääs
+  - naine
+  - pime
+  - valge kepiga naine
+  - 'valge kepiga naine: keskmiselt hele nahatoon'
+👩🏽‍🦯:
+  - keskmine nahatoon
+  - ligipääs
+  - naine
+  - pime
+  - valge kepiga naine
+  - 'valge kepiga naine: keskmine nahatoon'
+👩🏾‍🦯:
+  - keskmiselt tume nahatoon
+  - ligipääs
+  - naine
+  - pime
+  - valge kepiga naine
+  - 'valge kepiga naine: keskmiselt tume nahatoon'
+👩🏿‍🦯:
+  - ligipääs
+  - naine
+  - pime
+  - tume nahatoon
+  - valge kepiga naine
+  - 'valge kepiga naine: tume nahatoon'
+🧑‍🦼:
+  - elektrilises ratastoolis inimene
+  - ligipääsetavus
+  - ratastool
+🧑🏻‍🦼:
+  - elektrilises ratastoolis inimene
+  - 'elektrilises ratastoolis inimene: hele nahatoon'
+  - hele nahatoon
+  - ligipääsetavus
+  - ratastool
+🧑🏼‍🦼:
+  - elektrilises ratastoolis inimene
+  - 'elektrilises ratastoolis inimene: keskmiselt hele nahatoon'
+  - keskmiselt hele nahatoon
+  - ligipääsetavus
+  - ratastool
+🧑🏽‍🦼:
+  - elektrilises ratastoolis inimene
+  - 'elektrilises ratastoolis inimene: keskmine nahatoon'
+  - keskmine nahatoon
+  - ligipääsetavus
+  - ratastool
+🧑🏾‍🦼:
+  - elektrilises ratastoolis inimene
+  - 'elektrilises ratastoolis inimene: keskmiselt tume nahatoon'
+  - keskmiselt tume nahatoon
+  - ligipääsetavus
+  - ratastool
+🧑🏿‍🦼:
+  - elektrilises ratastoolis inimene
+  - 'elektrilises ratastoolis inimene: tume nahatoon'
+  - ligipääsetavus
+  - ratastool
+  - tume nahatoon
+👨‍🦼:
+  - elektriratastoolis mees
+  - elektriratastoolis olev mees
+  - ligipääs
+  - mees
+  - ratastool
+👨🏻‍🦼:
+  - elektriratastoolis mees
+  - elektriratastoolis olev mees
+  - 'elektriratastoolis olev mees: hele nahatoon'
+  - hele nahatoon
+  - ligipääs
+  - mees
+  - ratastool
+👨🏼‍🦼:
+  - elektriratastoolis mees
+  - elektriratastoolis olev mees
+  - 'elektriratastoolis olev mees: keskmiselt hele nahatoon'
+  - keskmiselt hele nahatoon
+  - ligipääs
+  - mees
+  - ratastool
+👨🏽‍🦼:
+  - elektriratastoolis mees
+  - elektriratastoolis olev mees
+  - 'elektriratastoolis olev mees: keskmine nahatoon'
+  - keskmine nahatoon
+  - ligipääs
+  - mees
+  - ratastool
+👨🏾‍🦼:
+  - elektriratastoolis mees
+  - elektriratastoolis olev mees
+  - 'elektriratastoolis olev mees: keskmiselt tume nahatoon'
+  - keskmiselt tume nahatoon
+  - ligipääs
+  - mees
+  - ratastool
+👨🏿‍🦼:
+  - elektriratastoolis mees
+  - elektriratastoolis olev mees
+  - 'elektriratastoolis olev mees: tume nahatoon'
+  - ligipääs
+  - mees
+  - ratastool
+  - tume nahatoon
+👩‍🦼:
+  - elektriratastoolis naine
+  - elektriratastoolis olev naine
+  - ligipääs
+  - naine
+  - ratastool
+👩🏻‍🦼:
+  - elektriratastoolis naine
+  - elektriratastoolis olev naine
+  - 'elektriratastoolis olev naine: hele nahatoon'
+  - hele nahatoon
+  - ligipääs
+  - naine
+  - ratastool
+👩🏼‍🦼:
+  - elektriratastoolis naine
+  - elektriratastoolis olev naine
+  - 'elektriratastoolis olev naine: keskmiselt hele nahatoon'
+  - keskmiselt hele nahatoon
+  - ligipääs
+  - naine
+  - ratastool
+👩🏽‍🦼:
+  - elektriratastoolis naine
+  - elektriratastoolis olev naine
+  - 'elektriratastoolis olev naine: keskmine nahatoon'
+  - keskmine nahatoon
+  - ligipääs
+  - naine
+  - ratastool
+👩🏾‍🦼:
+  - elektriratastoolis naine
+  - elektriratastoolis olev naine
+  - 'elektriratastoolis olev naine: keskmiselt tume nahatoon'
+  - keskmiselt tume nahatoon
+  - ligipääs
+  - naine
+  - ratastool
+👩🏿‍🦼:
+  - elektriratastoolis naine
+  - elektriratastoolis olev naine
+  - 'elektriratastoolis olev naine: tume nahatoon'
+  - ligipääs
+  - naine
+  - ratastool
+  - tume nahatoon
+🧑‍🦽:
+  - ligipääsetavus
+  - manuaalses ratastoolis inimene
+  - ratastool
+🧑🏻‍🦽:
+  - hele nahatoon
+  - ligipääsetavus
+  - manuaalses ratastoolis inimene
+  - 'manuaalses ratastoolis inimene: hele nahatoon'
+  - ratastool
+🧑🏼‍🦽:
+  - keskmiselt hele nahatoon
+  - ligipääsetavus
+  - manuaalses ratastoolis inimene
+  - 'manuaalses ratastoolis inimene: keskmiselt hele nahatoon'
+  - ratastool
+🧑🏽‍🦽:
+  - keskmine nahatoon
+  - ligipääsetavus
+  - manuaalses ratastoolis inimene
+  - 'manuaalses ratastoolis inimene: keskmine nahatoon'
+  - ratastool
+🧑🏾‍🦽:
+  - keskmiselt tume nahatoon
+  - ligipääsetavus
+  - manuaalses ratastoolis inimene
+  - 'manuaalses ratastoolis inimene: keskmiselt tume nahatoon'
+  - ratastool
+🧑🏿‍🦽:
+  - ligipääsetavus
+  - manuaalses ratastoolis inimene
+  - 'manuaalses ratastoolis inimene: tume nahatoon'
+  - ratastool
+  - tume nahatoon
+👨‍🦽:
+  - ligipääs
+  - manuaalratastoolis mees
+  - manuaalratastoolis olev mees
+  - mees
+  - ratastool
+👨🏻‍🦽:
+  - hele nahatoon
+  - ligipääs
+  - manuaalratastoolis mees
+  - manuaalratastoolis olev mees
+  - 'manuaalratastoolis olev mees: hele nahatoon'
+  - mees
+  - ratastool
+👨🏼‍🦽:
+  - keskmiselt hele nahatoon
+  - ligipääs
+  - manuaalratastoolis mees
+  - manuaalratastoolis olev mees
+  - 'manuaalratastoolis olev mees: keskmiselt hele nahatoon'
+  - mees
+  - ratastool
+👨🏽‍🦽:
+  - keskmine nahatoon
+  - ligipääs
+  - manuaalratastoolis mees
+  - manuaalratastoolis olev mees
+  - 'manuaalratastoolis olev mees: keskmine nahatoon'
+  - mees
+  - ratastool
+👨🏾‍🦽:
+  - keskmiselt tume nahatoon
+  - ligipääs
+  - manuaalratastoolis mees
+  - manuaalratastoolis olev mees
+  - 'manuaalratastoolis olev mees: keskmiselt tume nahatoon'
+  - mees
+  - ratastool
+👨🏿‍🦽:
+  - ligipääs
+  - manuaalratastoolis mees
+  - manuaalratastoolis olev mees
+  - 'manuaalratastoolis olev mees: tume nahatoon'
+  - mees
+  - ratastool
+  - tume nahatoon
+👩‍🦽:
+  - juurdepääs
+  - manuaalratastoolis naine
+  - manuaalratastoolis olev naine
+  - naine
+  - ratastool
+👩🏻‍🦽:
+  - hele nahatoon
+  - juurdepääs
+  - manuaalratastoolis naine
+  - manuaalratastoolis olev naine
+  - 'manuaalratastoolis olev naine: hele nahatoon'
+  - naine
+  - ratastool
+👩🏼‍🦽:
+  - juurdepääs
+  - keskmiselt hele nahatoon
+  - manuaalratastoolis naine
+  - manuaalratastoolis olev naine
+  - 'manuaalratastoolis olev naine: keskmiselt hele nahatoon'
+  - naine
+  - ratastool
+👩🏽‍🦽:
+  - juurdepääs
+  - keskmine nahatoon
+  - manuaalratastoolis naine
+  - manuaalratastoolis olev naine
+  - 'manuaalratastoolis olev naine: keskmine nahatoon'
+  - naine
+  - ratastool
+👩🏾‍🦽:
+  - juurdepääs
+  - keskmiselt tume nahatoon
+  - manuaalratastoolis naine
+  - manuaalratastoolis olev naine
+  - 'manuaalratastoolis olev naine: keskmiselt tume nahatoon'
+  - naine
+  - ratastool
+👩🏿‍🦽:
+  - juurdepääs
+  - manuaalratastoolis naine
+  - manuaalratastoolis olev naine
+  - 'manuaalratastoolis olev naine: tume nahatoon'
+  - naine
+  - ratastool
+  - tume nahatoon
 🏃:
   - jooks
   - jooksja
@@ -7939,37 +9840,43 @@
   - pidutsevad jänesekõrvadega naised
   - tants
 🧖:
+  - inimene leiliruumis
   - leiliruum
   - leiliruumis olev inimene
   - saun
 🧖🏻:
   - hele nahatoon
+  - inimene leiliruumis
+  - 'inimene leiliruumis: hele nahatoon'
   - leiliruum
   - leiliruumis olev inimene
-  - 'leiliruumis olev inimene: hele nahatoon'
   - saun
 🧖🏼:
+  - inimene leiliruumis
+  - 'inimene leiliruumis: keskmiselt hele nahatoon'
   - keskmiselt hele nahatoon
   - leiliruum
   - leiliruumis olev inimene
-  - 'leiliruumis olev inimene: keskmiselt hele nahatoon'
   - saun
 🧖🏽:
+  - inimene leiliruumis
+  - 'inimene leiliruumis: keskmine nahatoon'
   - keskmine nahatoon
   - leiliruum
   - leiliruumis olev inimene
-  - 'leiliruumis olev inimene: keskmine nahatoon'
   - saun
 🧖🏾:
+  - inimene leiliruumis
+  - 'inimene leiliruumis: keskmiselt tume nahatoon'
   - keskmiselt tume nahatoon
   - leiliruum
   - leiliruumis olev inimene
-  - 'leiliruumis olev inimene: keskmiselt tume nahatoon'
   - saun
 🧖🏿:
+  - inimene leiliruumis
+  - 'inimene leiliruumis: tume nahatoon'
   - leiliruum
   - leiliruumis olev inimene
-  - 'leiliruumis olev inimene: tume nahatoon'
   - saun
   - tume nahatoon
 🧖‍♂:
@@ -8009,35 +9916,41 @@
 🧖‍♀:
   - leiliruum
   - leiliruumis olev naine
+  - naine leiliruumis
   - saun
 🧖🏻‍♀:
   - hele nahatoon
   - leiliruum
   - leiliruumis olev naine
-  - 'leiliruumis olev naine: hele nahatoon'
+  - naine leiliruumis
+  - 'naine leiliruumis: hele nahatoon'
   - saun
 🧖🏼‍♀:
   - keskmiselt hele nahatoon
   - leiliruum
   - leiliruumis olev naine
-  - 'leiliruumis olev naine: keskmiselt hele nahatoon'
+  - naine leiliruumis
+  - 'naine leiliruumis: keskmiselt hele nahatoon'
   - saun
 🧖🏽‍♀:
   - keskmine nahatoon
   - leiliruum
   - leiliruumis olev naine
-  - 'leiliruumis olev naine: keskmine nahatoon'
+  - naine leiliruumis
+  - 'naine leiliruumis: keskmine nahatoon'
   - saun
 🧖🏾‍♀:
   - keskmiselt tume nahatoon
   - leiliruum
   - leiliruumis olev naine
-  - 'leiliruumis olev naine: keskmiselt tume nahatoon'
+  - naine leiliruumis
+  - 'naine leiliruumis: keskmiselt tume nahatoon'
   - saun
 🧖🏿‍♀:
   - leiliruum
   - leiliruumis olev naine
-  - 'leiliruumis olev naine: tume nahatoon'
+  - naine leiliruumis
+  - 'naine leiliruumis: tume nahatoon'
   - saun
   - tume nahatoon
 🧗:
@@ -9859,23 +11772,964 @@
   - 'inimene voodis: tume nahatoon'
   - tume nahatoon
   - uni
+🧑‍🤝‍🧑:
+  - hoiavad käest
+  - hoiavad käest kinni
+  - inimene
+  - inimesed hoiavad käest kinni
+  - käed
+  - paar
+🧑🏻‍🤝‍🧑🏻:
+  - hele nahatoon
+  - hoiavad käest
+  - hoiavad käest kinni
+  - inimene
+  - inimesed hoiavad käest kinni
+  - 'inimesed hoiavad käest kinni: hele nahatoon'
+  - käed
+  - paar
+🧑🏻‍🤝‍🧑🏼:
+  - hele nahatoon
+  - hoiavad käest
+  - hoiavad käest kinni
+  - inimene
+  - inimesed hoiavad käest kinni
+  - 'inimesed hoiavad käest kinni: hele nahatoon, keskmiselt hele nahatoon'
+  - keskmiselt hele nahatoon
+  - käed
+  - paar
+🧑🏻‍🤝‍🧑🏽:
+  - hele nahatoon
+  - hoiavad käest
+  - hoiavad käest kinni
+  - inimene
+  - inimesed hoiavad käest kinni
+  - 'inimesed hoiavad käest kinni: hele nahatoon, keskmine nahatoon'
+  - keskmine nahatoon
+  - käed
+  - paar
+🧑🏻‍🤝‍🧑🏾:
+  - hele nahatoon
+  - hoiavad käest
+  - hoiavad käest kinni
+  - inimene
+  - inimesed hoiavad käest kinni
+  - 'inimesed hoiavad käest kinni: hele nahatoon, keskmiselt tume nahatoon'
+  - keskmiselt tume nahatoon
+  - käed
+  - paar
+🧑🏻‍🤝‍🧑🏿:
+  - hele nahatoon
+  - hoiavad käest
+  - hoiavad käest kinni
+  - inimene
+  - inimesed hoiavad käest kinni
+  - 'inimesed hoiavad käest kinni: hele nahatoon, tume nahatoon'
+  - käed
+  - paar
+  - tume nahatoon
+🧑🏼‍🤝‍🧑🏻:
+  - hele nahatoon
+  - hoiavad käest
+  - hoiavad käest kinni
+  - inimene
+  - inimesed hoiavad käest kinni
+  - 'inimesed hoiavad käest kinni: keskmiselt hele nahatoon, hele nahatoon'
+  - keskmiselt hele nahatoon
+  - käed
+  - paar
+🧑🏼‍🤝‍🧑🏼:
+  - hoiavad käest
+  - hoiavad käest kinni
+  - inimene
+  - inimesed hoiavad käest kinni
+  - 'inimesed hoiavad käest kinni: keskmiselt hele nahatoon'
+  - keskmiselt hele nahatoon
+  - käed
+  - paar
+🧑🏼‍🤝‍🧑🏽:
+  - hoiavad käest
+  - hoiavad käest kinni
+  - inimene
+  - inimesed hoiavad käest kinni
+  - 'inimesed hoiavad käest kinni: keskmiselt hele nahatoon, keskmine nahatoon'
+  - keskmine nahatoon
+  - keskmiselt hele nahatoon
+  - käed
+  - paar
+🧑🏼‍🤝‍🧑🏾:
+  - hoiavad käest
+  - hoiavad käest kinni
+  - inimene
+  - inimesed hoiavad käest kinni
+  - 'inimesed hoiavad käest kinni: keskmiselt hele nahatoon, keskmiselt tume nahatoon'
+  - keskmiselt hele nahatoon
+  - keskmiselt tume nahatoon
+  - käed
+  - paar
+🧑🏼‍🤝‍🧑🏿:
+  - hoiavad käest
+  - hoiavad käest kinni
+  - inimene
+  - inimesed hoiavad käest kinni
+  - 'inimesed hoiavad käest kinni: keskmiselt hele nahatoon, tume nahatoon'
+  - keskmiselt hele nahatoon
+  - käed
+  - paar
+  - tume nahatoon
+🧑🏽‍🤝‍🧑🏻:
+  - hele nahatoon
+  - hoiavad käest
+  - hoiavad käest kinni
+  - inimene
+  - inimesed hoiavad käest kinni
+  - 'inimesed hoiavad käest kinni: keskmine nahatoon, hele nahatoon'
+  - keskmine nahatoon
+  - käed
+  - paar
+🧑🏽‍🤝‍🧑🏼:
+  - hoiavad käest
+  - hoiavad käest kinni
+  - inimene
+  - inimesed hoiavad käest kinni
+  - 'inimesed hoiavad käest kinni: keskmine nahatoon, keskmiselt hele nahatoon'
+  - keskmine nahatoon
+  - keskmiselt hele nahatoon
+  - käed
+  - paar
+🧑🏽‍🤝‍🧑🏽:
+  - hoiavad käest
+  - hoiavad käest kinni
+  - inimene
+  - inimesed hoiavad käest kinni
+  - 'inimesed hoiavad käest kinni: keskmine nahatoon'
+  - keskmine nahatoon
+  - käed
+  - paar
+🧑🏽‍🤝‍🧑🏾:
+  - hoiavad käest
+  - hoiavad käest kinni
+  - inimene
+  - inimesed hoiavad käest kinni
+  - 'inimesed hoiavad käest kinni: keskmine nahatoon, keskmiselt tume nahatoon'
+  - keskmine nahatoon
+  - keskmiselt tume nahatoon
+  - käed
+  - paar
+🧑🏽‍🤝‍🧑🏿:
+  - hoiavad käest
+  - hoiavad käest kinni
+  - inimene
+  - inimesed hoiavad käest kinni
+  - 'inimesed hoiavad käest kinni: keskmine nahatoon, tume nahatoon'
+  - keskmine nahatoon
+  - käed
+  - paar
+  - tume nahatoon
+🧑🏾‍🤝‍🧑🏻:
+  - hele nahatoon
+  - hoiavad käest
+  - hoiavad käest kinni
+  - inimene
+  - inimesed hoiavad käest kinni
+  - 'inimesed hoiavad käest kinni: keskmiselt tume nahatoon, hele nahatoon'
+  - keskmiselt tume nahatoon
+  - käed
+  - paar
+🧑🏾‍🤝‍🧑🏼:
+  - hoiavad käest
+  - hoiavad käest kinni
+  - inimene
+  - inimesed hoiavad käest kinni
+  - 'inimesed hoiavad käest kinni: keskmiselt tume nahatoon, keskmiselt hele nahatoon'
+  - keskmiselt hele nahatoon
+  - keskmiselt tume nahatoon
+  - käed
+  - paar
+🧑🏾‍🤝‍🧑🏽:
+  - hoiavad käest
+  - hoiavad käest kinni
+  - inimene
+  - inimesed hoiavad käest kinni
+  - 'inimesed hoiavad käest kinni: keskmiselt tume nahatoon, keskmine nahatoon'
+  - keskmine nahatoon
+  - keskmiselt tume nahatoon
+  - käed
+  - paar
+🧑🏾‍🤝‍🧑🏾:
+  - hoiavad käest
+  - hoiavad käest kinni
+  - inimene
+  - inimesed hoiavad käest kinni
+  - 'inimesed hoiavad käest kinni: keskmiselt tume nahatoon'
+  - keskmiselt tume nahatoon
+  - käed
+  - paar
+🧑🏾‍🤝‍🧑🏿:
+  - hoiavad käest
+  - hoiavad käest kinni
+  - inimene
+  - inimesed hoiavad käest kinni
+  - 'inimesed hoiavad käest kinni: keskmiselt tume nahatoon, tume nahatoon'
+  - keskmiselt tume nahatoon
+  - käed
+  - paar
+  - tume nahatoon
+🧑🏿‍🤝‍🧑🏻:
+  - hele nahatoon
+  - hoiavad käest
+  - hoiavad käest kinni
+  - inimene
+  - inimesed hoiavad käest kinni
+  - 'inimesed hoiavad käest kinni: tume nahatoon, hele nahatoon'
+  - käed
+  - paar
+  - tume nahatoon
+🧑🏿‍🤝‍🧑🏼:
+  - hoiavad käest
+  - hoiavad käest kinni
+  - inimene
+  - inimesed hoiavad käest kinni
+  - 'inimesed hoiavad käest kinni: tume nahatoon, keskmiselt hele nahatoon'
+  - keskmiselt hele nahatoon
+  - käed
+  - paar
+  - tume nahatoon
+🧑🏿‍🤝‍🧑🏽:
+  - hoiavad käest
+  - hoiavad käest kinni
+  - inimene
+  - inimesed hoiavad käest kinni
+  - 'inimesed hoiavad käest kinni: tume nahatoon, keskmine nahatoon'
+  - keskmine nahatoon
+  - käed
+  - paar
+  - tume nahatoon
+🧑🏿‍🤝‍🧑🏾:
+  - hoiavad käest
+  - hoiavad käest kinni
+  - inimene
+  - inimesed hoiavad käest kinni
+  - 'inimesed hoiavad käest kinni: tume nahatoon, keskmiselt tume nahatoon'
+  - keskmiselt tume nahatoon
+  - käed
+  - paar
+  - tume nahatoon
+🧑🏿‍🤝‍🧑🏿:
+  - hoiavad käest
+  - hoiavad käest kinni
+  - inimene
+  - inimesed hoiavad käest kinni
+  - 'inimesed hoiavad käest kinni: tume nahatoon'
+  - käed
+  - paar
+  - tume nahatoon
 👭:
   - kaks naist hoiavad käest kinni
   - käed
+  - käest kinni hoidvad naised
   - naised
   - paar
+👭🏻:
+  - hele nahatoon
+  - kaks naist hoiavad käest kinni
+  - käed
+  - käest kinni hoidvad naised
+  - 'käest kinni hoidvad naised: hele nahatoon'
+  - naised
+  - paar
+👩🏻‍🤝‍👩🏼:
+  - hele nahatoon
+  - kaks naist hoiavad käest kinni
+  - keskmiselt hele nahatoon
+  - käed
+  - käest kinni hoidvad naised
+  - 'käest kinni hoidvad naised: hele nahatoon, keskmiselt hele nahatoon'
+  - naised
+  - paar
+👩🏻‍🤝‍👩🏽:
+  - hele nahatoon
+  - kaks naist hoiavad käest kinni
+  - keskmine nahatoon
+  - käed
+  - käest kinni hoidvad naised
+  - 'käest kinni hoidvad naised: hele nahatoon, keskmine nahatoon'
+  - naised
+  - paar
+👩🏻‍🤝‍👩🏾:
+  - hele nahatoon
+  - kaks naist hoiavad käest kinni
+  - keskmiselt tume nahatoon
+  - käed
+  - käest kinni hoidvad naised
+  - 'käest kinni hoidvad naised: hele nahatoon, keskmiselt tume nahatoon'
+  - naised
+  - paar
+👩🏻‍🤝‍👩🏿:
+  - hele nahatoon
+  - kaks naist hoiavad käest kinni
+  - käed
+  - käest kinni hoidvad naised
+  - 'käest kinni hoidvad naised: hele nahatoon, tume nahatoon'
+  - naised
+  - paar
+  - tume nahatoon
+👩🏼‍🤝‍👩🏻:
+  - hele nahatoon
+  - kaks naist hoiavad käest kinni
+  - keskmiselt hele nahatoon
+  - käed
+  - käest kinni hoidvad naised
+  - 'käest kinni hoidvad naised: keskmiselt hele nahatoon, hele nahatoon'
+  - naised
+  - paar
+👭🏼:
+  - kaks naist hoiavad käest kinni
+  - keskmiselt hele nahatoon
+  - käed
+  - käest kinni hoidvad naised
+  - 'käest kinni hoidvad naised: keskmiselt hele nahatoon'
+  - naised
+  - paar
+👩🏼‍🤝‍👩🏽:
+  - kaks naist hoiavad käest kinni
+  - keskmine nahatoon
+  - keskmiselt hele nahatoon
+  - käed
+  - käest kinni hoidvad naised
+  - 'käest kinni hoidvad naised: keskmiselt hele nahatoon, keskmine nahatoon'
+  - naised
+  - paar
+👩🏼‍🤝‍👩🏾:
+  - kaks naist hoiavad käest kinni
+  - keskmiselt hele nahatoon
+  - keskmiselt tume nahatoon
+  - käed
+  - käest kinni hoidvad naised
+  - 'käest kinni hoidvad naised: keskmiselt hele nahatoon, keskmiselt tume nahatoon'
+  - naised
+  - paar
+👩🏼‍🤝‍👩🏿:
+  - kaks naist hoiavad käest kinni
+  - keskmiselt hele nahatoon
+  - käed
+  - käest kinni hoidvad naised
+  - 'käest kinni hoidvad naised: keskmiselt hele nahatoon, tume nahatoon'
+  - naised
+  - paar
+  - tume nahatoon
+👩🏽‍🤝‍👩🏻:
+  - hele nahatoon
+  - kaks naist hoiavad käest kinni
+  - keskmine nahatoon
+  - käed
+  - käest kinni hoidvad naised
+  - 'käest kinni hoidvad naised: keskmine nahatoon, hele nahatoon'
+  - naised
+  - paar
+👩🏽‍🤝‍👩🏼:
+  - kaks naist hoiavad käest kinni
+  - keskmine nahatoon
+  - keskmiselt hele nahatoon
+  - käed
+  - käest kinni hoidvad naised
+  - 'käest kinni hoidvad naised: keskmine nahatoon, keskmiselt hele nahatoon'
+  - naised
+  - paar
+👭🏽:
+  - kaks naist hoiavad käest kinni
+  - keskmine nahatoon
+  - käed
+  - käest kinni hoidvad naised
+  - 'käest kinni hoidvad naised: keskmine nahatoon'
+  - naised
+  - paar
+👩🏽‍🤝‍👩🏾:
+  - kaks naist hoiavad käest kinni
+  - keskmine nahatoon
+  - keskmiselt tume nahatoon
+  - käed
+  - käest kinni hoidvad naised
+  - 'käest kinni hoidvad naised: keskmine nahatoon, keskmiselt tume nahatoon'
+  - naised
+  - paar
+👩🏽‍🤝‍👩🏿:
+  - kaks naist hoiavad käest kinni
+  - keskmine nahatoon
+  - käed
+  - käest kinni hoidvad naised
+  - 'käest kinni hoidvad naised: keskmine nahatoon, tume nahatoon'
+  - naised
+  - paar
+  - tume nahatoon
+👩🏾‍🤝‍👩🏻:
+  - hele nahatoon
+  - kaks naist hoiavad käest kinni
+  - keskmiselt tume nahatoon
+  - käed
+  - käest kinni hoidvad naised
+  - 'käest kinni hoidvad naised: keskmiselt tume nahatoon, hele nahatoon'
+  - naised
+  - paar
+👩🏾‍🤝‍👩🏼:
+  - kaks naist hoiavad käest kinni
+  - keskmiselt hele nahatoon
+  - keskmiselt tume nahatoon
+  - käed
+  - käest kinni hoidvad naised
+  - 'käest kinni hoidvad naised: keskmiselt tume nahatoon, keskmiselt hele nahatoon'
+  - naised
+  - paar
+👩🏾‍🤝‍👩🏽:
+  - kaks naist hoiavad käest kinni
+  - keskmine nahatoon
+  - keskmiselt tume nahatoon
+  - käed
+  - käest kinni hoidvad naised
+  - 'käest kinni hoidvad naised: keskmiselt tume nahatoon, keskmine nahatoon'
+  - naised
+  - paar
+👭🏾:
+  - kaks naist hoiavad käest kinni
+  - keskmiselt tume nahatoon
+  - käed
+  - käest kinni hoidvad naised
+  - 'käest kinni hoidvad naised: keskmiselt tume nahatoon'
+  - naised
+  - paar
+👩🏾‍🤝‍👩🏿:
+  - kaks naist hoiavad käest kinni
+  - keskmiselt tume nahatoon
+  - käed
+  - käest kinni hoidvad naised
+  - 'käest kinni hoidvad naised: keskmiselt tume nahatoon, tume nahatoon'
+  - naised
+  - paar
+  - tume nahatoon
+👩🏿‍🤝‍👩🏻:
+  - hele nahatoon
+  - kaks naist hoiavad käest kinni
+  - käed
+  - käest kinni hoidvad naised
+  - 'käest kinni hoidvad naised: tume nahatoon, hele nahatoon'
+  - naised
+  - paar
+  - tume nahatoon
+👩🏿‍🤝‍👩🏼:
+  - kaks naist hoiavad käest kinni
+  - keskmiselt hele nahatoon
+  - käed
+  - käest kinni hoidvad naised
+  - 'käest kinni hoidvad naised: tume nahatoon, keskmiselt hele nahatoon'
+  - naised
+  - paar
+  - tume nahatoon
+👩🏿‍🤝‍👩🏽:
+  - kaks naist hoiavad käest kinni
+  - keskmine nahatoon
+  - käed
+  - käest kinni hoidvad naised
+  - 'käest kinni hoidvad naised: tume nahatoon, keskmine nahatoon'
+  - naised
+  - paar
+  - tume nahatoon
+👩🏿‍🤝‍👩🏾:
+  - kaks naist hoiavad käest kinni
+  - keskmiselt tume nahatoon
+  - käed
+  - käest kinni hoidvad naised
+  - 'käest kinni hoidvad naised: tume nahatoon, keskmiselt tume nahatoon'
+  - naised
+  - paar
+  - tume nahatoon
+👭🏿:
+  - kaks naist hoiavad käest kinni
+  - käed
+  - käest kinni hoidvad naised
+  - 'käest kinni hoidvad naised: tume nahatoon'
+  - naised
+  - paar
+  - tume nahatoon
 👫:
   - käed
   - mees
   - mees ja naine hoiavad käest kinni
   - naine
   - paarike
+👫🏻:
+  - hele nahatoon
+  - käed
+  - mees
+  - mees ja naine hoiavad käest kinni
+  - 'mees ja naine hoiavad käest kinni: hele nahatoon'
+  - naine
+  - paarike
+👩🏻‍🤝‍👨🏼:
+  - hele nahatoon
+  - keskmiselt hele nahatoon
+  - käed
+  - mees
+  - mees ja naine hoiavad käest kinni
+  - 'mees ja naine hoiavad käest kinni: hele nahatoon, keskmiselt hele nahatoon'
+  - naine
+  - paarike
+👩🏻‍🤝‍👨🏽:
+  - hele nahatoon
+  - keskmine nahatoon
+  - käed
+  - mees
+  - mees ja naine hoiavad käest kinni
+  - 'mees ja naine hoiavad käest kinni: hele nahatoon, keskmine nahatoon'
+  - naine
+  - paarike
+👩🏻‍🤝‍👨🏾:
+  - hele nahatoon
+  - keskmiselt tume nahatoon
+  - käed
+  - mees
+  - mees ja naine hoiavad käest kinni
+  - 'mees ja naine hoiavad käest kinni: hele nahatoon, keskmiselt tume nahatoon'
+  - naine
+  - paarike
+👩🏻‍🤝‍👨🏿:
+  - hele nahatoon
+  - käed
+  - mees
+  - mees ja naine hoiavad käest kinni
+  - 'mees ja naine hoiavad käest kinni: hele nahatoon, tume nahatoon'
+  - naine
+  - paarike
+  - tume nahatoon
+👩🏼‍🤝‍👨🏻:
+  - hele nahatoon
+  - keskmiselt hele nahatoon
+  - käed
+  - mees
+  - mees ja naine hoiavad käest kinni
+  - 'mees ja naine hoiavad käest kinni: keskmiselt hele nahatoon, hele nahatoon'
+  - naine
+  - paarike
+👫🏼:
+  - keskmiselt hele nahatoon
+  - käed
+  - mees
+  - mees ja naine hoiavad käest kinni
+  - 'mees ja naine hoiavad käest kinni: keskmiselt hele nahatoon'
+  - naine
+  - paarike
+👩🏼‍🤝‍👨🏽:
+  - keskmine nahatoon
+  - keskmiselt hele nahatoon
+  - käed
+  - mees
+  - mees ja naine hoiavad käest kinni
+  - 'mees ja naine hoiavad käest kinni: keskmiselt hele nahatoon, keskmine nahatoon'
+  - naine
+  - paarike
+👩🏼‍🤝‍👨🏾:
+  - keskmiselt hele nahatoon
+  - keskmiselt tume nahatoon
+  - käed
+  - mees
+  - mees ja naine hoiavad käest kinni
+  - 'mees ja naine hoiavad käest kinni: keskmiselt hele nahatoon, keskmiselt tume
+    nahatoon'
+  - naine
+  - paarike
+👩🏼‍🤝‍👨🏿:
+  - keskmiselt hele nahatoon
+  - käed
+  - mees
+  - mees ja naine hoiavad käest kinni
+  - 'mees ja naine hoiavad käest kinni: keskmiselt hele nahatoon, tume nahatoon'
+  - naine
+  - paarike
+  - tume nahatoon
+👩🏽‍🤝‍👨🏻:
+  - hele nahatoon
+  - keskmine nahatoon
+  - käed
+  - mees
+  - mees ja naine hoiavad käest kinni
+  - 'mees ja naine hoiavad käest kinni: keskmine nahatoon, hele nahatoon'
+  - naine
+  - paarike
+👩🏽‍🤝‍👨🏼:
+  - keskmine nahatoon
+  - keskmiselt hele nahatoon
+  - käed
+  - mees
+  - mees ja naine hoiavad käest kinni
+  - 'mees ja naine hoiavad käest kinni: keskmine nahatoon, keskmiselt hele nahatoon'
+  - naine
+  - paarike
+👫🏽:
+  - keskmine nahatoon
+  - käed
+  - mees
+  - mees ja naine hoiavad käest kinni
+  - 'mees ja naine hoiavad käest kinni: keskmine nahatoon'
+  - naine
+  - paarike
+👩🏽‍🤝‍👨🏾:
+  - keskmine nahatoon
+  - keskmiselt tume nahatoon
+  - käed
+  - mees
+  - mees ja naine hoiavad käest kinni
+  - 'mees ja naine hoiavad käest kinni: keskmine nahatoon, keskmiselt tume nahatoon'
+  - naine
+  - paarike
+👩🏽‍🤝‍👨🏿:
+  - keskmine nahatoon
+  - käed
+  - mees
+  - mees ja naine hoiavad käest kinni
+  - 'mees ja naine hoiavad käest kinni: keskmine nahatoon, tume nahatoon'
+  - naine
+  - paarike
+  - tume nahatoon
+👩🏾‍🤝‍👨🏻:
+  - hele nahatoon
+  - keskmiselt tume nahatoon
+  - käed
+  - mees
+  - mees ja naine hoiavad käest kinni
+  - 'mees ja naine hoiavad käest kinni: keskmiselt tume nahatoon, hele nahatoon'
+  - naine
+  - paarike
+👩🏾‍🤝‍👨🏼:
+  - keskmiselt hele nahatoon
+  - keskmiselt tume nahatoon
+  - käed
+  - mees
+  - mees ja naine hoiavad käest kinni
+  - 'mees ja naine hoiavad käest kinni: keskmiselt tume nahatoon, keskmiselt hele
+    nahatoon'
+  - naine
+  - paarike
+👩🏾‍🤝‍👨🏽:
+  - keskmine nahatoon
+  - keskmiselt tume nahatoon
+  - käed
+  - mees
+  - mees ja naine hoiavad käest kinni
+  - 'mees ja naine hoiavad käest kinni: keskmiselt tume nahatoon, keskmine nahatoon'
+  - naine
+  - paarike
+👫🏾:
+  - keskmiselt tume nahatoon
+  - käed
+  - mees
+  - mees ja naine hoiavad käest kinni
+  - 'mees ja naine hoiavad käest kinni: keskmiselt tume nahatoon'
+  - naine
+  - paarike
+👩🏾‍🤝‍👨🏿:
+  - keskmiselt tume nahatoon
+  - käed
+  - mees
+  - mees ja naine hoiavad käest kinni
+  - 'mees ja naine hoiavad käest kinni: keskmiselt tume nahatoon, tume nahatoon'
+  - naine
+  - paarike
+  - tume nahatoon
+👩🏿‍🤝‍👨🏻:
+  - hele nahatoon
+  - käed
+  - mees
+  - mees ja naine hoiavad käest kinni
+  - 'mees ja naine hoiavad käest kinni: tume nahatoon, hele nahatoon'
+  - naine
+  - paarike
+  - tume nahatoon
+👩🏿‍🤝‍👨🏼:
+  - keskmiselt hele nahatoon
+  - käed
+  - mees
+  - mees ja naine hoiavad käest kinni
+  - 'mees ja naine hoiavad käest kinni: tume nahatoon, keskmiselt hele nahatoon'
+  - naine
+  - paarike
+  - tume nahatoon
+👩🏿‍🤝‍👨🏽:
+  - keskmine nahatoon
+  - käed
+  - mees
+  - mees ja naine hoiavad käest kinni
+  - 'mees ja naine hoiavad käest kinni: tume nahatoon, keskmine nahatoon'
+  - naine
+  - paarike
+  - tume nahatoon
+👩🏿‍🤝‍👨🏾:
+  - keskmiselt tume nahatoon
+  - käed
+  - mees
+  - mees ja naine hoiavad käest kinni
+  - 'mees ja naine hoiavad käest kinni: tume nahatoon, keskmiselt tume nahatoon'
+  - naine
+  - paarike
+  - tume nahatoon
+👫🏿:
+  - käed
+  - mees
+  - mees ja naine hoiavad käest kinni
+  - 'mees ja naine hoiavad käest kinni: tume nahatoon'
+  - naine
+  - paarike
+  - tume nahatoon
 👬:
   - kaks meest hoiavad käest kinni
   - kaksikud
   - käed
+  - käest kinni hoidvad mehed
   - mehed
   - paar
+👬🏻:
+  - hele nahatoon
+  - kaks meest hoiavad käest kinni
+  - kaksikud
+  - käed
+  - käest kinni hoidvad mehed
+  - 'käest kinni hoidvad mehed: hele nahatoon'
+  - mehed
+  - paar
+👨🏻‍🤝‍👨🏼:
+  - hele nahatoon
+  - kaks meest hoiavad käest kinni
+  - kaksikud
+  - keskmiselt hele nahatoon
+  - käed
+  - käest kinni hoidvad mehed
+  - 'käest kinni hoidvad mehed: hele nahatoon, keskmiselt hele nahatoon'
+  - mehed
+  - paar
+👨🏻‍🤝‍👨🏽:
+  - hele nahatoon
+  - kaks meest hoiavad käest kinni
+  - kaksikud
+  - keskmine nahatoon
+  - käed
+  - käest kinni hoidvad mehed
+  - 'käest kinni hoidvad mehed: hele nahatoon, keskmine nahatoon'
+  - mehed
+  - paar
+👨🏻‍🤝‍👨🏾:
+  - hele nahatoon
+  - kaks meest hoiavad käest kinni
+  - kaksikud
+  - keskmiselt tume nahatoon
+  - käed
+  - käest kinni hoidvad mehed
+  - 'käest kinni hoidvad mehed: hele nahatoon, keskmiselt tume nahatoon'
+  - mehed
+  - paar
+👨🏻‍🤝‍👨🏿:
+  - hele nahatoon
+  - kaks meest hoiavad käest kinni
+  - kaksikud
+  - käed
+  - käest kinni hoidvad mehed
+  - 'käest kinni hoidvad mehed: hele nahatoon, tume nahatoon'
+  - mehed
+  - paar
+  - tume nahatoon
+👨🏼‍🤝‍👨🏻:
+  - hele nahatoon
+  - kaks meest hoiavad käest kinni
+  - kaksikud
+  - keskmiselt hele nahatoon
+  - käed
+  - käest kinni hoidvad mehed
+  - 'käest kinni hoidvad mehed: keskmiselt hele nahatoon, hele nahatoon'
+  - mehed
+  - paar
+👬🏼:
+  - kaks meest hoiavad käest kinni
+  - kaksikud
+  - keskmiselt hele nahatoon
+  - käed
+  - käest kinni hoidvad mehed
+  - 'käest kinni hoidvad mehed: keskmiselt hele nahatoon'
+  - mehed
+  - paar
+👨🏼‍🤝‍👨🏽:
+  - kaks meest hoiavad käest kinni
+  - kaksikud
+  - keskmine nahatoon
+  - keskmiselt hele nahatoon
+  - käed
+  - käest kinni hoidvad mehed
+  - 'käest kinni hoidvad mehed: keskmiselt hele nahatoon, keskmine nahatoon'
+  - mehed
+  - paar
+👨🏼‍🤝‍👨🏾:
+  - kaks meest hoiavad käest kinni
+  - kaksikud
+  - keskmiselt hele nahatoon
+  - keskmiselt tume nahatoon
+  - käed
+  - käest kinni hoidvad mehed
+  - 'käest kinni hoidvad mehed: keskmiselt hele nahatoon, keskmiselt tume nahatoon'
+  - mehed
+  - paar
+👨🏼‍🤝‍👨🏿:
+  - kaks meest hoiavad käest kinni
+  - kaksikud
+  - keskmiselt hele nahatoon
+  - käed
+  - käest kinni hoidvad mehed
+  - 'käest kinni hoidvad mehed: keskmiselt hele nahatoon, tume nahatoon'
+  - mehed
+  - paar
+  - tume nahatoon
+👨🏽‍🤝‍👨🏻:
+  - hele nahatoon
+  - kaks meest hoiavad käest kinni
+  - kaksikud
+  - keskmine nahatoon
+  - käed
+  - käest kinni hoidvad mehed
+  - 'käest kinni hoidvad mehed: keskmine nahatoon, hele nahatoon'
+  - mehed
+  - paar
+👨🏽‍🤝‍👨🏼:
+  - kaks meest hoiavad käest kinni
+  - kaksikud
+  - keskmine nahatoon
+  - keskmiselt hele nahatoon
+  - käed
+  - käest kinni hoidvad mehed
+  - 'käest kinni hoidvad mehed: keskmine nahatoon, keskmiselt hele nahatoon'
+  - mehed
+  - paar
+👬🏽:
+  - kaks meest hoiavad käest kinni
+  - kaksikud
+  - keskmine nahatoon
+  - käed
+  - käest kinni hoidvad mehed
+  - 'käest kinni hoidvad mehed: keskmine nahatoon'
+  - mehed
+  - paar
+👨🏽‍🤝‍👨🏾:
+  - kaks meest hoiavad käest kinni
+  - kaksikud
+  - keskmine nahatoon
+  - keskmiselt tume nahatoon
+  - käed
+  - käest kinni hoidvad mehed
+  - 'käest kinni hoidvad mehed: keskmine nahatoon, keskmiselt tume nahatoon'
+  - mehed
+  - paar
+👨🏽‍🤝‍👨🏿:
+  - kaks meest hoiavad käest kinni
+  - kaksikud
+  - keskmine nahatoon
+  - käed
+  - käest kinni hoidvad mehed
+  - 'käest kinni hoidvad mehed: keskmine nahatoon, tume nahatoon'
+  - mehed
+  - paar
+  - tume nahatoon
+👨🏾‍🤝‍👨🏻:
+  - hele nahatoon
+  - kaks meest hoiavad käest kinni
+  - kaksikud
+  - keskmiselt tume nahatoon
+  - käed
+  - käest kinni hoidvad mehed
+  - 'käest kinni hoidvad mehed: keskmiselt tume nahatoon, hele nahatoon'
+  - mehed
+  - paar
+👨🏾‍🤝‍👨🏼:
+  - kaks meest hoiavad käest kinni
+  - kaksikud
+  - keskmiselt hele nahatoon
+  - keskmiselt tume nahatoon
+  - käed
+  - käest kinni hoidvad mehed
+  - 'käest kinni hoidvad mehed: keskmiselt tume nahatoon, keskmiselt hele nahatoon'
+  - mehed
+  - paar
+👨🏾‍🤝‍👨🏽:
+  - kaks meest hoiavad käest kinni
+  - kaksikud
+  - keskmine nahatoon
+  - keskmiselt tume nahatoon
+  - käed
+  - käest kinni hoidvad mehed
+  - 'käest kinni hoidvad mehed: keskmiselt tume nahatoon, keskmine nahatoon'
+  - mehed
+  - paar
+👬🏾:
+  - kaks meest hoiavad käest kinni
+  - kaksikud
+  - keskmiselt tume nahatoon
+  - käed
+  - käest kinni hoidvad mehed
+  - 'käest kinni hoidvad mehed: keskmiselt tume nahatoon'
+  - mehed
+  - paar
+👨🏾‍🤝‍👨🏿:
+  - kaks meest hoiavad käest kinni
+  - kaksikud
+  - keskmiselt tume nahatoon
+  - käed
+  - käest kinni hoidvad mehed
+  - 'käest kinni hoidvad mehed: keskmiselt tume nahatoon, tume nahatoon'
+  - mehed
+  - paar
+  - tume nahatoon
+👨🏿‍🤝‍👨🏻:
+  - hele nahatoon
+  - kaks meest hoiavad käest kinni
+  - kaksikud
+  - käed
+  - käest kinni hoidvad mehed
+  - 'käest kinni hoidvad mehed: tume nahatoon, hele nahatoon'
+  - mehed
+  - paar
+  - tume nahatoon
+👨🏿‍🤝‍👨🏼:
+  - kaks meest hoiavad käest kinni
+  - kaksikud
+  - keskmiselt hele nahatoon
+  - käed
+  - käest kinni hoidvad mehed
+  - 'käest kinni hoidvad mehed: tume nahatoon, keskmiselt hele nahatoon'
+  - mehed
+  - paar
+  - tume nahatoon
+👨🏿‍🤝‍👨🏽:
+  - kaks meest hoiavad käest kinni
+  - kaksikud
+  - keskmine nahatoon
+  - käed
+  - käest kinni hoidvad mehed
+  - 'käest kinni hoidvad mehed: tume nahatoon, keskmine nahatoon'
+  - mehed
+  - paar
+  - tume nahatoon
+👨🏿‍🤝‍👨🏾:
+  - kaks meest hoiavad käest kinni
+  - kaksikud
+  - keskmiselt tume nahatoon
+  - käed
+  - käest kinni hoidvad mehed
+  - 'käest kinni hoidvad mehed: tume nahatoon, keskmiselt tume nahatoon'
+  - mehed
+  - paar
+  - tume nahatoon
+👬🏿:
+  - kaks meest hoiavad käest kinni
+  - kaksikud
+  - käed
+  - käest kinni hoidvad mehed
+  - 'käest kinni hoidvad mehed: tume nahatoon'
+  - mehed
+  - paar
+  - tume nahatoon
 💏:
   - musi
   - suudlus
@@ -10151,6 +13005,12 @@
   - büst
   - büstide siluetid
   - siluett
+🫂:
+  - hüvastijätt
+  - kallistavad inimesed
+  - kallistus
+  - tervitus
+  - tänu
 👣:
   - jalajälg
   - jalajäljed
@@ -10186,6 +13046,9 @@
 🦍:
   - gorilla
   - loom
+🦧:
+  - inimahv
+  - orangutan
 🐶:
   - koer
   - koera nägu
@@ -10194,6 +13057,19 @@
 🐕️:
   - koer
   - lemmikloom
+🦮:
+  - abi
+  - juht
+  - juhtkoer
+  - koer
+  - pime
+  - vaegnägija
+🐕‍🦺:
+  - abi
+  - koer
+  - politsei
+  - teenistus
+  - teenistuskoer
 🐩:
   - koer
   - puudel
@@ -10219,6 +13095,11 @@
   - kass
   - koer
   - lemmikloom
+🐈‍⬛:
+  - ebaõnn
+  - kass
+  - must
+  - must kass
 🦁:
   - lõvi
   - lõvi nägu
@@ -10251,6 +13132,11 @@
 🦌:
   - hirv
   - loom
+🦬:
+  - kari
+  - piison
+  - pühvel
+  - pürg
 🐮:
   - lehm
   - lehma nägu
@@ -10312,6 +13198,12 @@
   - laigud
 🐘:
   - elevant
+🦣:
+  - karvane
+  - kihv
+  - mammut
+  - suur
+  - väljasurnud
 🦏:
   - loom
   - ninasarvik
@@ -10342,6 +13234,9 @@
 🐿️:
   - orav
   - vöötorav
+🦫:
+  - kobras
+  - tamm
 🦔:
   - okkaline
   - siil
@@ -10351,14 +13246,30 @@
   - vampiir
 🐻:
   - karu
-  - karu nägu
   - nägu
+🐻‍❄:
+  - arktika
+  - jääkaru
+  - karu
+  - valge
 🐨:
   - koaala
 🐼:
   - nägu
   - panda
-  - panda nägu
+🦥:
+  - aeglane
+  - laisik
+  - laisk
+  - laiskloom
+🦦:
+  - jõgi
+  - kala
+  - saarmas
+  - udras
+🦨:
+  - hais
+  - skunk
 🦘:
   - Austraalia
   - hüpe
@@ -10412,6 +13323,21 @@
 🦉:
   - lind
   - öökull
+🦤:
+  - Mauritius
+  - dodo
+  - lind
+  - suur
+  - väljasurev
+🪶:
+  - kerge
+  - lendama
+  - suled
+  - sulg
+🦩:
+  - flamingo
+  - lind
+  - troopiline
 🦚:
   - eneseimetlus
   - hooplemine
@@ -10451,6 +13377,7 @@
   - brontosaurus
   - diplodookus
   - sauropod
+  - sauropood
 🦖:
   - türannosaurus
 🐳:
@@ -10463,6 +13390,9 @@
 🐬:
   - delfiin
   - loib
+🦭:
+  - hüljes
+  - merilõvi
 🐟️:
   - kala
   - sodiaak
@@ -10497,6 +13427,9 @@
 🐝:
   - mesilane
   - putukas
+🪲:
+  - mardikas
+  - putukas
 🐞:
   - lepatriinu
   - putukas
@@ -10504,6 +13437,10 @@
 🦗:
   - kilk
   - rohutirts
+🪳:
+  - prussakas
+  - putukas
+  - tarakan
 🕷️:
   - ämblik
 🕸️:
@@ -10521,6 +13458,19 @@
   - putukas
   - sääsk
   - viirus
+🪰:
+  - haigus
+  - kärbes
+  - parm
+  - roiskumine
+  - toakärbes
+  - tsetsekärbes
+  - tõuk
+🪱:
+  - parasiit
+  - rõnguss
+  - uss
+  - vihmauss
 🦠:
   - amööb
   - bakter
@@ -10573,6 +13523,14 @@
   - idu
   - taim
   - võrse
+🪴:
+  - hoolitsema
+  - igav
+  - kasutu
+  - kasvatama
+  - potilill
+  - taim
+  - tuba
 🌲:
   - igihaljas
   - igihaljas puu
@@ -10688,6 +13646,11 @@
   - mari
   - puuvili
   - taim
+🫐:
+  - mari
+  - mustikad
+  - mustikas
+  - sinine
 🥝:
   - kiivi
   - puuvili
@@ -10696,6 +13659,9 @@
   - köögivili
   - taim
   - tomat
+🫒:
+  - oliiv
+  - toit
 🥥:
   - kookospähkel
   - palm
@@ -10726,6 +13692,10 @@
   - taim
   - tuline
   - tuline pipar
+🫑:
+  - köögivili
+  - paprika
+  - pipar
 🥒:
   - kurk
   - köögivili
@@ -10739,6 +13709,12 @@
 🥦:
   - brokoli
   - metskapsas
+🧄:
+  - küüslauk
+  - maitseaine
+🧅:
+  - maitseaine
+  - sibul
 🍄:
   - mürgiseen
   - seen
@@ -10764,6 +13740,12 @@
   - pikk
   - sai
   - toit
+🫓:
+  - arepa
+  - lameleib
+  - lavašš
+  - naan
+  - pita
 🥨:
   - keerutatud
   - soolakringel
@@ -10776,6 +13758,10 @@
   - pannkoogid
   - pannkook
   - toit
+🧇:
+  - kõhklev
+  - vahvel
+  - vahvliraud
 🧀:
   - juust
   - juustutükk
@@ -10825,11 +13811,20 @@
 🌯:
   - burrito
   - mehhiko
+🫔:
+  - maisikakk
+  - mehhiko
+  - tamale
+  - täidetud
 🥙:
   - falafel
   - kebab
   - toit
   - täidetud pita
+🧆:
+  - falafel
+  - kikerhernes
+  - lihapall
 🥚:
   - muna
   - toit
@@ -10846,6 +13841,13 @@
   - hautis
   - potitäis toitu
   - pott
+🫕:
+  - fondüü
+  - juust
+  - nõu
+  - sulatatud
+  - šokolaad
+  - šveitsi
 🥣:
   - hommikueine
   - hommikusöögihelbed
@@ -10859,6 +13861,9 @@
 🍿:
   - mais
   - popkorn
+🧈:
+  - piimatoode
+  - või
 🧂:
   - maitseaine
   - sool
@@ -10954,6 +13959,11 @@
   - kalmaar
   - mollusk
   - toit
+🦪:
+  - auster
+  - elus
+  - karp
+  - pärl
 🍦:
   - jäätis
   - magus
@@ -11035,6 +14045,11 @@
   - kuum
   - kuum jook
   - tee
+🫖:
+  - jooma
+  - kann
+  - tee
+  - teekann
 🍵:
   - jook
   - kõrvata teetass
@@ -11095,6 +14110,24 @@
   - kõrrega tops
   - limonaad
   - mahl
+🧋:
+  - mull
+  - piim
+  - pärl
+  - pärlitee
+  - tee
+🧃:
+  - joogipakk
+  - mahlapakk
+🧉:
+  - jook
+  - mate
+  - tee
+🧊:
+  - jää
+  - jääkuubik
+  - kuubik
+  - külm
 🥢:
   - hashi
   - söögipulgad
@@ -11210,6 +14243,22 @@
   - sein
   - telliskivi
   - telliskivid
+🪨:
+  - kaljurahn
+  - kivi
+  - kivirahn
+  - raske
+  - tugev
+🪵:
+  - ehituspuit
+  - palk
+  - puit
+  - saepuit
+🛖:
+  - hütt
+  - jurta
+  - maja
+  - tare
 🏘️:
   - hoone
   - maja
@@ -11301,6 +14350,11 @@
   - moslem
   - mošee
   - usk
+🛕:
+  - hindu
+  - hinduism
+  - hinduistlik tempel
+  - tempel
 🕍:
   - judaism
   - juut
@@ -11509,6 +14563,10 @@
   - mahtuniversaal
   - sõiduk
   - universaal
+🛻:
+  - kast
+  - maastur
+  - pikap
 🚚:
   - kuller
   - kulleriauto
@@ -11531,6 +14589,17 @@
 🛵:
   - motoroller
   - skuuter
+🦽:
+  - ligipääs
+  - manuaalratastool
+  - ratastool
+🦼:
+  - elektriratastool
+  - ligipääs
+  - ratastool
+🛺:
+  - autorikša
+  - tuk-tuk
 🚲️:
   - jalgratas
   - ratas
@@ -11541,6 +14610,10 @@
 🛹:
   - rula
   - rulalaud
+🛼:
+  - rulluisk
+  - rulluisutama
+  - uisk
 🚏:
   - buss
   - bussipeatus
@@ -11638,6 +14711,11 @@
   - maandumine
   - maanduv lennuk
   - sõiduk
+🪂:
+  - langevari
+  - langevarjuga hüppamine
+  - langevarjuhüpe
+  - langevarjur
 💺:
   - iste
   - tool
@@ -11983,6 +15061,9 @@
   - nägu
   - näoga päike
   - päike
+🪐:
+  - Saturn
+  - rõngastega planeet
 ⭐️:
   - keskmine täht
   - täht
@@ -12158,6 +15239,7 @@
   - ilutulestik
   - lõhkeaine
 ✨:
+  - '*'
   - säde
   - sädemed
   - sära
@@ -12354,6 +15436,11 @@
 🎣:
   - kala
   - õng
+🤿:
+  - akvalang
+  - snorgeldamine
+  - sukeldumine
+  - sukeldumismask
 🎽:
   - jooks
   - jooksusärk
@@ -12375,6 +15462,17 @@
   - sihtmärk
   - tabamus
   - täistabamus
+🪀:
+  - edasi-tagasi
+  - jojo
+  - keerlemine
+  - ketas
+  - mänguasi
+🪁:
+  - lennutamine
+  - lohe
+  - tuul
+  - tuulelohe
 🎱:
   - '8'
   - kuul
@@ -12386,6 +15484,11 @@
   - kristallkuul
   - muinasjutt
   - tööriist
+🪄:
+  - maagia
+  - nõid
+  - võlukepp
+  - võlur
 🧿:
   - Nazari amulett
   - Nazari silm
@@ -12419,6 +15522,15 @@
   - mängukaru
   - pehme
   - plüüs
+🪅:
+  - peomäng
+  - pidu
+  - piñata
+🪆:
+  - matrjoška
+  - matrjoškad
+  - nukk
+  - vene
 ♠️:
   - kaart
   - mast
@@ -12481,12 +15593,25 @@
   - niit
   - nõel
   - õmblemine
+🪡:
+  - nõel
+  - rätsep
+  - tikkimine
+  - õmblemine
+  - õmblused
+  - õmblusnõel
 🧶:
   - heegeldamine
   - kera
   - kudumine
   - lõng
   - lõngakera
+🪢:
+  - keerd
+  - köis
+  - nöör
+  - siduma
+  - sõlm
 👓️:
   - mood
   - prillid
@@ -12507,6 +15632,11 @@
   - laborant
   - laborikittel
   - teadlane
+🦺:
+  - hädaolukord
+  - ohutus
+  - ohutusvest
+  - vest
 👔:
   - lips
   - riided
@@ -12537,6 +15667,24 @@
 👘:
   - kimono
   - riided
+🥻:
+  - kleit
+  - rõivas
+  - sari
+🩱:
+  - trikoo
+  - ujumiskostüüm
+  - ujumistrikoo
+🩲:
+  - aluspesu
+  - ujumiskostüüm
+  - ujumispüksid
+  - ujumisriie
+🩳:
+  - aluspesu
+  - lühikesed püksid
+  - ujumisriie
+  - šortsid
 👙:
   - bikiinid
   - riided
@@ -12566,6 +15714,12 @@
   - kool
   - kott
   - ranits
+🩴:
+  - plätud
+  - rannajalatsid
+  - rannasandaalid
+  - sandaalid
+  - varbavahesandaalid
 👞:
   - king
   - mees
@@ -12601,6 +15755,10 @@
   - naistesandaal
   - riided
   - sandaal
+🩰:
+  - balletikingad
+  - ballett
+  - tants
 👢:
   - king
   - naine
@@ -12631,6 +15789,12 @@
 🧢:
   - nokkmüts
   - pesapallimüts
+🪖:
+  - armee
+  - kiiver
+  - sõdur
+  - sõdurikiiver
+  - sõjavägi
 ⛑️:
   - abi
   - kiirabi
@@ -12736,6 +15900,10 @@
   - muusika
   - pill
   - saksofon
+🪗:
+  - akordion
+  - lõõts
+  - lõõtspill
 🎸:
   - kitarr
   - muusika
@@ -12753,10 +15921,20 @@
   - muusika
   - pill
   - viiul
+🪕:
+  - bandžo
+  - keelpill
+  - muusika
 🥁:
   - muusika
   - trumm
   - trummipulgad
+🪘:
+  - aafrika
+  - aafrika trumm
+  - djembe
+  - rütm
+  - trumm
 📱:
   - mobiil
   - mobiiltelefon
@@ -12904,6 +16082,11 @@
   - punane
   - punane paberlatern
   - valgus
+🪔:
+  - diya
+  - diya-lamp
+  - lamp
+  - õli
 📔:
   - dekoratiivse kaanega märkmik
   - kaaned
@@ -12973,8 +16156,16 @@
   - raha
   - rahakott
   - rahapaun
+🪙:
+  - hõbe
+  - kuld
+  - metall
+  - münt
+  - raha
+  - varandus
 💴:
   - jeen
+  - jeeni rahatäht
   - pank
   - raha
   - rahatäht
@@ -12987,6 +16178,7 @@
   - valuuta
 💶:
   - euro
+  - euro rahatäht
   - pank
   - raha
   - rahatäht
@@ -13020,17 +16212,6 @@
   - kasv
   - turg
   - tõusev graafik jeenisümboliga
-  - valuuta
-💱:
-  - pank
-  - raha
-  - vahetus
-  - valuuta
-  - valuutavahetus
-💲:
-  - dollar
-  - raha
-  - suur dollarimärk
   - valuuta
 ✉️:
   - e-post
@@ -13239,6 +16420,11 @@
 🔨:
   - haamer
   - tööriist
+🪓:
+  - kirves
+  - lõhkumine
+  - puud
+  - raiumine
 ⛏️:
   - kirka
   - tööriist
@@ -13266,6 +16452,11 @@
   - relv
   - revolver
   - tööriist
+🪃:
+  - austraalia
+  - bumerang
+  - tagasilend
+  - tagasipöördumine
 🏹:
   - ambur
   - nool
@@ -13275,8 +16466,18 @@
 🛡️:
   - kilp
   - relv
+🪚:
+  - käsisaag
+  - puit
+  - puusepp
+  - saag
+  - tööriist
 🔧:
   - mutrivõti
+  - tööriist
+🪛:
+  - kruvi
+  - kruvikeeraja
   - tööriist
 🔩:
   - mutter
@@ -13294,12 +16495,23 @@
   - kaalukausid
   - sodiaak
   - tööriist
+🦯:
+  - kohalejõudmine
+  - ligipääs
+  - pime
+  - valge kepp
 🔗:
   - lüli
 ⛓️:
   - ahel
   - ahelad
   - kett
+🪝:
+  - kinnitamine
+  - konks
+  - kõver
+  - püük
+  - tõstmine
 🧰:
   - kast
   - laegas
@@ -13309,6 +16521,11 @@
   - atraktsioon
   - hobuseraud
   - magnet
+🪜:
+  - aste
+  - redel
+  - ronima
+  - trepp
 ⚗️:
   - destilleerimisnõu
   - keemia
@@ -13351,13 +16568,42 @@
   - nõel
   - ravim
   - süstal
+🩸:
+  - meditsiin
+  - menstruatsioon
+  - veredoonorlus
+  - veretilk
 💊:
   - arst
   - haige
   - ravim
   - tablett
+🩹:
+  - meditsiin
+  - plaaster
+🩺:
+  - arst
+  - kuuldetoru
+  - meditsiin
+  - stetoskoop
+  - süda
 🚪:
   - uks
+🛗:
+  - elevaator
+  - lift
+  - ligipääs
+  - tõstuk
+🪞:
+  - peegel
+  - peegeldi
+  - peegeldus
+🪟:
+  - aken
+  - avamine
+  - läbipaistev
+  - raam
+  - vaade
 🛏️:
   - hotell
   - uni
@@ -13367,15 +16613,36 @@
   - diivan ja lamp
   - hotell
   - lamp
+🪑:
+  - iste
+  - istumine
+  - tool
 🚽:
   - WC-pott
   - tualett
   - wc
+🪠:
+  - imipump
+  - pump
+  - pumpamine
+  - ummistus
+  - valamu
+  - valamupump
 🚿:
   - dušš
   - vesi
 🛁:
   - vann
+🪤:
+  - hiirelõks
+  - lõks
+  - püünis
+  - sööt
+🪒:
+  - habe
+  - habemenuga
+  - raseerimine
+  - terav
 🧴:
   - emulsioon
   - emulsioonipudel
@@ -13400,6 +16667,9 @@
   - paberirull
   - paberkäterätid
   - tualettpaber
+🪣:
+  - pang
+  - ämber
 🧼:
   - pesemine
   - puhastamine
@@ -13407,6 +16677,13 @@
   - seebivaht
   - seep
   - tükiseep
+🪥:
+  - hambad
+  - hambahari
+  - hari
+  - hügieen
+  - pesema
+  - vannituba
 🧽:
   - imav
   - pesemine
@@ -13428,6 +16705,11 @@
 ⚰️:
   - kirst
   - surm
+🪦:
+  - hauakivi
+  - haud
+  - kalmistu
+  - surnuaed
 ⚱️:
   - matus
   - surm
@@ -13437,6 +16719,11 @@
   - kuju
   - moai
   - nägu
+🪧:
+  - meeleavaldus
+  - plakat
+  - protest
+  - silt
 🏧:
   - pangaautomaat
   - sularaha
@@ -13865,15 +17152,85 @@
   - mees
   - mehesümbol
   - sümbol
-⚕️:
-  - Asklepios
-  - meditsiin
-  - meditsiinisümbol
+⚧️:
+  - transsoolisus
+  - transsoolisuse sümbol
+✖️:
+  - korrutamine
+  - korrutusmärk
+  - suur korrutusmärk
+  - x
+➕:
+  - +
+  - matemaatika
+  - pluss
+  - plussmärk
+➖:
+  - '-'
+  - matemaatika
+  - miinus
+  - miinusmärk
+  - −
+➗:
+  - jagamine
+  - jagamismärk
+  - matemaatika
+  - märk
+  - ÷
 ♾️:
   - igavesti
   - kõikehaarav
   - lõpmatu
   - lõpmatus
+‼️:
+  - hüüumärk
+  - topelthüüumärk
+⁉️:
+  - '!'
+  - '!?'
+  - '?'
+  - hüüumärk
+  - küsimärgiga hüüumärk
+  - küsimärk
+❓️:
+  - '?'
+  - kirjavahemärk
+  - küsimus
+  - küsimärk
+❔:
+  - '?'
+  - kirjavahemärk
+  - küsimus
+  - küsimärk
+  - valge küsimärk
+❕:
+  - '!'
+  - hüüumärk
+  - valge hüüumärk
+❗️:
+  - '!'
+  - hüüumärk
+  - kirjavahemärk
+〰️:
+  - kirjavahemärk
+  - kriips
+  - laineline
+  - laineline kriips
+💱:
+  - pank
+  - raha
+  - vahetus
+  - valuuta
+  - valuutavahetus
+💲:
+  - dollar
+  - raha
+  - suur dollarimärk
+  - valuuta
+⚕️:
+  - Asklepios
+  - meditsiin
+  - meditsiinisümbol
 ♻️:
   - taaskasutus
   - taaskasutuse sümbol
@@ -13900,9 +17257,11 @@
 ⭕️:
   - o
   - rõngas
+  - seest tühi punane ringjoon
   - suur ringjoon
 ✅:
   - märge
+  - märkenupp
   - suur valge märge
 ☑️:
   - märge
@@ -13910,32 +17269,19 @@
 ✔️:
   - märge
   - suur märge
-✖️:
-  - korrutamine
-  - suur korrutusmärk
-  - x
 ❌:
   - ei
   - korrutamine
   - korrutusmärk
+  - rist
   - x
+  - ×
 ❎:
   - korrutusmärgiga nupp
   - märk
   - ruut
   - x
-➕:
-  - matemaatika
-  - pluss
-  - suur plussmärk
-➖:
-  - matemaatika
-  - miinus
-  - suur miinusmärk
-➗:
-  - jagamine
-  - matemaatika
-  - suur jagamismärk
+  - ×
 ➰:
   - lokk
   - silmus
@@ -13948,43 +17294,21 @@
   - osa
   - osa vaheldumise märk
 ✳️:
+  - '*'
   - kaheksa tipuga tärn
   - tärn
 ✴️:
+  - '*'
   - kaheksa tipuga täht
   - täht
 ❇️:
+  - '*'
   - sädelus
-‼️:
-  - hüüumärk
-  - topelthüüumärk
-⁉️:
-  - hüüumärk
-  - küsimärgiga hüüumärk
-  - küsimärk
-❓️:
-  - kirjavahemärk
-  - küsimus
-  - küsimärk
-❔:
-  - kirjavahemärk
-  - küsimus
-  - küsimärk
-  - valge küsimärk
-❕:
-  - hüüumärk
-  - valge hüüumärk
-❗️:
-  - hüüumärk
-  - kirjavahemärk
-〰️:
-  - kirjavahemärk
-  - kriips
-  - laineline
-  - laineline kriips
 ©️:
   - autoriõigus
+  - c
 ®️:
+  - r
   - registreeritud
 ™️:
   - kaubamärk
@@ -14224,11 +17548,36 @@
   - punane
   - punane ring
   - ring
+🟠:
+  - kera
+  - oranž
+  - oranž ring
+  - ring
+🟡:
+  - kera
+  - kollane
+  - kollane ring
+  - ring
+🟢:
+  - kera
+  - ring
+  - roheline
+  - roheline ring
 🔵:
   - geomeetria
   - ring
   - sinine
   - sinine ring
+🟣:
+  - kera
+  - lilla
+  - lilla ring
+  - ring
+🟤:
+  - kera
+  - pruun
+  - pruun ring
+  - ring
 ⚫️:
   - geomeetria
   - must ring
@@ -14237,6 +17586,41 @@
   - geomeetria
   - ring
   - valge ring
+🟥:
+  - nelinurk
+  - punane
+  - punane ruut
+  - ruut
+🟧:
+  - nelinurk
+  - oranž
+  - oranž ruut
+  - ruut
+🟨:
+  - kollane
+  - kollane ruut
+  - nelinurk
+  - ruut
+🟩:
+  - nelinurk
+  - roheline
+  - roheline ruut
+  - ruut
+🟦:
+  - nelinurk
+  - ruut
+  - sinine
+  - sinine ruut
+🟪:
+  - lilla
+  - lilla ruut
+  - nelinurk
+  - ruut
+🟫:
+  - nelinurk
+  - pruun
+  - pruun ruut
+  - ruut
 ⬛️:
   - geomeetria
   - ruut
@@ -14353,6 +17737,13 @@
   - lipp
   - vikerkaar
   - vikerkaarelipp
+🏳‍⚧:
+  - helesinine
+  - lipp
+  - roosa
+  - transsoolisus
+  - transsoolisuse lipp
+  - valge
 🏴‍☠:
   - piraadilipp
   - piraat
@@ -14807,7 +18198,7 @@
   - 'lipp: Marshalli Saared'
 🇲🇰:
   - lipp
-  - 'lipp: Makedoonia'
+  - 'lipp: Põhja-Makedoonia'
 🇲🇱:
   - lipp
   - 'lipp: Mali'
@@ -15077,7 +18468,7 @@
   - 'lipp: Ühendriikide hajasaared'
 🇺🇳:
   - lipp
-  - 'lipp: Ühendatud Rahvaste Organisatsioon'
+  - 'lipp: Ühinenud Rahvaste Organisatsioon'
 🇺🇸:
   - lipp
   - 'lipp: Ameerika Ühendriigid'

@@ -1,7 +1,8 @@
 {
     "🙃": [
         "face",
-        "upside down"
+        "upside down",
+        "upside-down face"
     ],
     "😍": [
         "smiling face with heart eyes"
@@ -9,6 +10,7 @@
     "😋": [
         "delicious",
         "face",
+        "face savouring food",
         "savoring",
         "savouring",
         "smile",
@@ -44,6 +46,14 @@
     ],
     "😻": [
         "smiling cat face with heart eyes"
+    ],
+    "😼": [
+        "cat",
+        "cat with wry smile",
+        "face",
+        "ironic",
+        "smile",
+        "wry"
     ],
     "🗨️": [
         "dialogue",
@@ -84,36 +94,6 @@
         "dark skin tone",
         "hand",
         "perfect"
-    ],
-    "✌🏻": [
-        "hand",
-        "light skin tone",
-        "v",
-        "victory"
-    ],
-    "✌🏼": [
-        "hand",
-        "medium-light skin tone",
-        "v",
-        "victory"
-    ],
-    "✌🏽": [
-        "hand",
-        "medium skin tone",
-        "v",
-        "victory"
-    ],
-    "✌🏾": [
-        "hand",
-        "medium-dark skin tone",
-        "v",
-        "victory"
-    ],
-    "✌🏿": [
-        "dark skin tone",
-        "hand",
-        "v",
-        "victory"
     ],
     "🤟": [
         "love you gesture"
@@ -288,51 +268,6 @@
         "right-facing fist",
         "rightward"
     ],
-    "🙌🏻": [
-        "celebration",
-        "gesture",
-        "hand",
-        "hooray",
-        "light skin tone",
-        "raised",
-        "raising hands"
-    ],
-    "🙌🏼": [
-        "celebration",
-        "gesture",
-        "hand",
-        "hooray",
-        "medium-light skin tone",
-        "raised",
-        "raising hands"
-    ],
-    "🙌🏽": [
-        "celebration",
-        "gesture",
-        "hand",
-        "hooray",
-        "medium skin tone",
-        "raised",
-        "raising hands"
-    ],
-    "🙌🏾": [
-        "celebration",
-        "gesture",
-        "hand",
-        "hooray",
-        "medium-dark skin tone",
-        "raised",
-        "raising hands"
-    ],
-    "🙌🏿": [
-        "celebration",
-        "dark skin tone",
-        "gesture",
-        "hand",
-        "hooray",
-        "raised",
-        "raising hands"
-    ],
     "💪": [
         "flexed bicep"
     ],
@@ -408,95 +343,28 @@
         "unspecified gender",
         "young"
     ],
-    "🙇🏻‍♂": [
-        "apology",
-        "bowing",
-        "favor",
-        "gesture",
-        "light skin tone",
-        "man",
-        "sorry"
+    "🧑‍⚕": [
+        "health worker"
     ],
-    "🙇🏼‍♂": [
-        "apology",
-        "bowing",
-        "favor",
-        "gesture",
-        "man",
-        "medium-light skin tone",
-        "sorry"
+    "🧑🏻‍⚕": [
+        "health worker",
+        "light skin tone"
     ],
-    "🙇🏽‍♂": [
-        "apology",
-        "bowing",
-        "favor",
-        "gesture",
-        "man",
-        "medium skin tone",
-        "sorry"
+    "🧑🏼‍⚕": [
+        "health worker",
+        "medium-light skin tone"
     ],
-    "🙇🏾‍♂": [
-        "apology",
-        "bowing",
-        "favor",
-        "gesture",
-        "man",
-        "medium-dark skin tone",
-        "sorry"
+    "🧑🏽‍⚕": [
+        "health worker",
+        "medium skin tone"
     ],
-    "🙇🏿‍♂": [
-        "apology",
-        "bowing",
+    "🧑🏾‍⚕": [
+        "health worker",
+        "medium-dark skin tone"
+    ],
+    "🧑🏿‍⚕": [
         "dark skin tone",
-        "favor",
-        "gesture",
-        "man",
-        "sorry"
-    ],
-    "🙇🏻‍♀": [
-        "apology",
-        "bowing",
-        "favor",
-        "gesture",
-        "light skin tone",
-        "sorry",
-        "woman"
-    ],
-    "🙇🏼‍♀": [
-        "apology",
-        "bowing",
-        "favor",
-        "gesture",
-        "medium-light skin tone",
-        "sorry",
-        "woman"
-    ],
-    "🙇🏽‍♀": [
-        "apology",
-        "bowing",
-        "favor",
-        "gesture",
-        "medium skin tone",
-        "sorry",
-        "woman"
-    ],
-    "🙇🏾‍♀": [
-        "apology",
-        "bowing",
-        "favor",
-        "gesture",
-        "medium-dark skin tone",
-        "sorry",
-        "woman"
-    ],
-    "🙇🏿‍♀": [
-        "apology",
-        "bowing",
-        "dark skin tone",
-        "favor",
-        "gesture",
-        "sorry",
-        "woman"
+        "health worker"
     ],
     "👨‍⚕": [
         "doctor",
@@ -604,155 +472,28 @@
         "woman",
         "woman health worker"
     ],
-    "👨🏻‍🌾": [
-        "farmer",
-        "gardener",
-        "light skin tone",
-        "man",
-        "rancher"
+    "🧑‍🚒": [
+        "firefighter"
     ],
-    "👨🏼‍🌾": [
-        "farmer",
-        "gardener",
-        "man",
-        "medium-light skin tone",
-        "rancher"
+    "🧑🏻‍🚒": [
+        "firefighter",
+        "light skin tone"
     ],
-    "👨🏽‍🌾": [
-        "farmer",
-        "gardener",
-        "man",
-        "medium skin tone",
-        "rancher"
+    "🧑🏼‍🚒": [
+        "firefighter",
+        "medium-light skin tone"
     ],
-    "👨🏾‍🌾": [
-        "farmer",
-        "gardener",
-        "man",
-        "medium-dark skin tone",
-        "rancher"
+    "🧑🏽‍🚒": [
+        "firefighter",
+        "medium skin tone"
     ],
-    "👨🏿‍🌾": [
+    "🧑🏾‍🚒": [
+        "firefighter",
+        "medium-dark skin tone"
+    ],
+    "🧑🏿‍🚒": [
         "dark skin tone",
-        "farmer",
-        "gardener",
-        "man",
-        "rancher"
-    ],
-    "👩🏻‍🌾": [
-        "farmer",
-        "gardener",
-        "light skin tone",
-        "rancher",
-        "woman"
-    ],
-    "👩🏼‍🌾": [
-        "farmer",
-        "gardener",
-        "medium-light skin tone",
-        "rancher",
-        "woman"
-    ],
-    "👩🏽‍🌾": [
-        "farmer",
-        "gardener",
-        "medium skin tone",
-        "rancher",
-        "woman"
-    ],
-    "👩🏾‍🌾": [
-        "farmer",
-        "gardener",
-        "medium-dark skin tone",
-        "rancher",
-        "woman"
-    ],
-    "👩🏿‍🌾": [
-        "dark skin tone",
-        "farmer",
-        "gardener",
-        "rancher",
-        "woman"
-    ],
-    "👨🏻‍🔧": [
-        "electrician",
-        "light skin tone",
-        "man",
-        "mechanic",
-        "plumber",
-        "tradesperson"
-    ],
-    "👨🏼‍🔧": [
-        "electrician",
-        "man",
-        "mechanic",
-        "medium-light skin tone",
-        "plumber",
-        "tradesperson"
-    ],
-    "👨🏽‍🔧": [
-        "electrician",
-        "man",
-        "mechanic",
-        "medium skin tone",
-        "plumber",
-        "tradesperson"
-    ],
-    "👨🏾‍🔧": [
-        "electrician",
-        "man",
-        "mechanic",
-        "medium-dark skin tone",
-        "plumber",
-        "tradesperson"
-    ],
-    "👨🏿‍🔧": [
-        "dark skin tone",
-        "electrician",
-        "man",
-        "mechanic",
-        "plumber",
-        "tradesperson"
-    ],
-    "👩🏻‍🔧": [
-        "electrician",
-        "light skin tone",
-        "mechanic",
-        "plumber",
-        "tradesperson",
-        "woman"
-    ],
-    "👩🏼‍🔧": [
-        "electrician",
-        "mechanic",
-        "medium-light skin tone",
-        "plumber",
-        "tradesperson",
-        "woman"
-    ],
-    "👩🏽‍🔧": [
-        "electrician",
-        "mechanic",
-        "medium skin tone",
-        "plumber",
-        "tradesperson",
-        "woman"
-    ],
-    "👩🏾‍🔧": [
-        "electrician",
-        "mechanic",
-        "medium-dark skin tone",
-        "plumber",
-        "tradesperson",
-        "woman"
-    ],
-    "👩🏿‍🔧": [
-        "dark skin tone",
-        "electrician",
-        "mechanic",
-        "plumber",
-        "tradesperson",
-        "woman"
+        "firefighter"
     ],
     "👨‍🚒": [
         "fire truck",
@@ -836,291 +577,6 @@
         "firewoman",
         "woman"
     ],
-    "👮🏻‍♂": [
-        "cop",
-        "light skin tone",
-        "man",
-        "officer",
-        "police"
-    ],
-    "👮🏼‍♂": [
-        "cop",
-        "man",
-        "medium-light skin tone",
-        "officer",
-        "police"
-    ],
-    "👮🏽‍♂": [
-        "cop",
-        "man",
-        "medium skin tone",
-        "officer",
-        "police"
-    ],
-    "👮🏾‍♂": [
-        "cop",
-        "man",
-        "medium-dark skin tone",
-        "officer",
-        "police"
-    ],
-    "👮🏿‍♂": [
-        "cop",
-        "dark skin tone",
-        "man",
-        "officer",
-        "police"
-    ],
-    "👮🏻‍♀": [
-        "cop",
-        "light skin tone",
-        "officer",
-        "police",
-        "woman"
-    ],
-    "👮🏼‍♀": [
-        "cop",
-        "medium-light skin tone",
-        "officer",
-        "police",
-        "woman"
-    ],
-    "👮🏽‍♀": [
-        "cop",
-        "medium skin tone",
-        "officer",
-        "police",
-        "woman"
-    ],
-    "👮🏾‍♀": [
-        "cop",
-        "medium-dark skin tone",
-        "officer",
-        "police",
-        "woman"
-    ],
-    "👮🏿‍♀": [
-        "cop",
-        "dark skin tone",
-        "officer",
-        "police",
-        "woman"
-    ],
-    "💂🏻‍♂": [
-        "guard",
-        "light skin tone",
-        "man"
-    ],
-    "💂🏼‍♂": [
-        "guard",
-        "man",
-        "medium-light skin tone"
-    ],
-    "💂🏽‍♂": [
-        "guard",
-        "man",
-        "medium skin tone"
-    ],
-    "💂🏾‍♂": [
-        "guard",
-        "man",
-        "medium-dark skin tone"
-    ],
-    "💂🏿‍♂": [
-        "dark skin tone",
-        "guard",
-        "man"
-    ],
-    "💂🏻‍♀": [
-        "guard",
-        "light skin tone",
-        "woman"
-    ],
-    "💂🏼‍♀": [
-        "guard",
-        "medium-light skin tone",
-        "woman"
-    ],
-    "💂🏽‍♀": [
-        "guard",
-        "medium skin tone",
-        "woman"
-    ],
-    "💂🏾‍♀": [
-        "guard",
-        "medium-dark skin tone",
-        "woman"
-    ],
-    "💂🏿‍♀": [
-        "dark skin tone",
-        "guard",
-        "woman"
-    ],
-    "👷🏻": [
-        "construction",
-        "hat",
-        "light skin tone",
-        "worker"
-    ],
-    "👷🏼": [
-        "construction",
-        "hat",
-        "medium-light skin tone",
-        "worker"
-    ],
-    "👷🏽": [
-        "construction",
-        "hat",
-        "medium skin tone",
-        "worker"
-    ],
-    "👷🏾": [
-        "construction",
-        "hat",
-        "medium-dark skin tone",
-        "worker"
-    ],
-    "👷🏿": [
-        "construction",
-        "dark skin tone",
-        "hat",
-        "worker"
-    ],
-    "👷🏻‍♂": [
-        "construction",
-        "light skin tone",
-        "man",
-        "worker"
-    ],
-    "👷🏼‍♂": [
-        "construction",
-        "man",
-        "medium-light skin tone",
-        "worker"
-    ],
-    "👷🏽‍♂": [
-        "construction",
-        "man",
-        "medium skin tone",
-        "worker"
-    ],
-    "👷🏾‍♂": [
-        "construction",
-        "man",
-        "medium-dark skin tone",
-        "worker"
-    ],
-    "👷🏿‍♂": [
-        "construction",
-        "dark skin tone",
-        "man",
-        "worker"
-    ],
-    "👷🏻‍♀": [
-        "construction",
-        "light skin tone",
-        "woman",
-        "worker"
-    ],
-    "👷🏼‍♀": [
-        "construction",
-        "medium-light skin tone",
-        "woman",
-        "worker"
-    ],
-    "👷🏽‍♀": [
-        "construction",
-        "medium skin tone",
-        "woman",
-        "worker"
-    ],
-    "👷🏾‍♀": [
-        "construction",
-        "medium-dark skin tone",
-        "woman",
-        "worker"
-    ],
-    "👷🏿‍♀": [
-        "construction",
-        "dark skin tone",
-        "woman",
-        "worker"
-    ],
-    "👲🏻": [
-        "gua pi mao",
-        "hat",
-        "light skin tone",
-        "man",
-        "man with Chinese cap"
-    ],
-    "👲🏼": [
-        "gua pi mao",
-        "hat",
-        "man",
-        "man with Chinese cap",
-        "medium-light skin tone"
-    ],
-    "👲🏽": [
-        "gua pi mao",
-        "hat",
-        "man",
-        "man with Chinese cap",
-        "medium skin tone"
-    ],
-    "👲🏾": [
-        "gua pi mao",
-        "hat",
-        "man",
-        "man with Chinese cap",
-        "medium-dark skin tone"
-    ],
-    "👲🏿": [
-        "dark skin tone",
-        "gua pi mao",
-        "hat",
-        "man",
-        "man with Chinese cap"
-    ],
-    "🤱🏻": [
-        "baby",
-        "breast",
-        "breast-feeding",
-        "breast-feeding: light skin tone",
-        "light skin tone",
-        "nursing"
-    ],
-    "🤱🏼": [
-        "baby",
-        "breast",
-        "breast-feeding",
-        "breast-feeding: medium-light skin tone",
-        "medium-light skin tone",
-        "nursing"
-    ],
-    "🤱🏽": [
-        "baby",
-        "breast",
-        "breast-feeding",
-        "breast-feeding: medium skin tone",
-        "medium skin tone",
-        "nursing"
-    ],
-    "🤱🏾": [
-        "baby",
-        "breast",
-        "breast-feeding",
-        "breast-feeding: medium-dark skin tone",
-        "medium-dark skin tone",
-        "nursing"
-    ],
-    "🤱🏿": [
-        "baby",
-        "breast",
-        "breast-feeding",
-        "breast-feeding: dark skin tone",
-        "dark skin tone",
-        "nursing"
-    ],
     "🎅": [
         "Christmas",
         "Claus",
@@ -1196,146 +652,86 @@
         "Mrs. Claus: dark skin tone",
         "dark skin tone"
     ],
+    "🧑‍🎄": [
+        "Claus, Christmas",
+        "Mx. Claus"
+    ],
+    "🧑🏻‍🎄": [
+        "Claus, Christmas",
+        "Mx. Claus",
+        "Mx. Claus: light skin tone",
+        "light skin tone"
+    ],
+    "🧑🏼‍🎄": [
+        "Claus, Christmas",
+        "Mx. Claus",
+        "Mx. Claus: medium-light skin tone",
+        "medium-light skin tone"
+    ],
+    "🧑🏽‍🎄": [
+        "Claus, Christmas",
+        "Mx. Claus",
+        "Mx. Claus: medium skin tone",
+        "medium skin tone"
+    ],
+    "🧑🏾‍🎄": [
+        "Claus, Christmas",
+        "Mx. Claus",
+        "Mx. Claus: medium-dark skin tone",
+        "medium-dark skin tone"
+    ],
+    "🧑🏿‍🎄": [
+        "Claus, Christmas",
+        "Mx. Claus",
+        "Mx. Claus: dark skin tone",
+        "dark skin tone"
+    ],
     "💇": [
         "barber",
         "beauty",
         "haircut",
-        "parlour"
+        "parlour",
+        "person getting haircut"
     ],
     "💇🏻": [
         "barber",
         "beauty",
         "haircut",
         "light skin tone",
-        "parlour"
+        "parlour",
+        "person getting haircut"
     ],
     "💇🏼": [
         "barber",
         "beauty",
         "haircut",
         "medium-light skin tone",
-        "parlour"
+        "parlour",
+        "person getting haircut"
     ],
     "💇🏽": [
         "barber",
         "beauty",
         "haircut",
         "medium skin tone",
-        "parlour"
+        "parlour",
+        "person getting haircut"
     ],
     "💇🏾": [
         "barber",
         "beauty",
         "haircut",
         "medium-dark skin tone",
-        "parlour"
+        "parlour",
+        "person getting haircut"
     ],
     "💇🏿": [
         "barber",
         "beauty",
         "dark skin tone",
         "haircut",
-        "parlour"
-    ],
-    "🚣🏻": [
-        "boat",
-        "light skin tone",
-        "person rowing boat",
-        "rowboat"
-    ],
-    "🚣🏼": [
-        "boat",
-        "medium-light skin tone",
-        "person rowing boat",
-        "rowboat"
-    ],
-    "🚣🏽": [
-        "boat",
-        "medium skin tone",
-        "person rowing boat",
-        "rowboat"
-    ],
-    "🚣🏾": [
-        "boat",
-        "medium-dark skin tone",
-        "person rowing boat",
-        "rowboat"
-    ],
-    "🚣🏿": [
-        "boat",
-        "dark skin tone",
-        "person rowing boat",
-        "rowboat"
-    ],
-    "🚣🏻‍♂": [
-        "boat",
-        "light skin tone",
-        "man",
-        "man rowing boat",
-        "rowboat"
-    ],
-    "🚣🏼‍♂": [
-        "boat",
-        "man",
-        "man rowing boat",
-        "medium-light skin tone",
-        "rowboat"
-    ],
-    "🚣🏽‍♂": [
-        "boat",
-        "man",
-        "man rowing boat",
-        "medium skin tone",
-        "rowboat"
-    ],
-    "🚣🏾‍♂": [
-        "boat",
-        "man",
-        "man rowing boat",
-        "medium-dark skin tone",
-        "rowboat"
-    ],
-    "🚣🏿‍♂": [
-        "boat",
-        "dark skin tone",
-        "man",
-        "man rowing boat",
-        "rowboat"
-    ],
-    "🚣🏻‍♀": [
-        "boat",
-        "light skin tone",
-        "rowboat",
-        "woman",
-        "woman rowing boat"
-    ],
-    "🚣🏼‍♀": [
-        "boat",
-        "medium-light skin tone",
-        "rowboat",
-        "woman",
-        "woman rowing boat"
-    ],
-    "🚣🏽‍♀": [
-        "boat",
-        "medium skin tone",
-        "rowboat",
-        "woman",
-        "woman rowing boat"
-    ],
-    "🚣🏾‍♀": [
-        "boat",
-        "medium-dark skin tone",
-        "rowboat",
-        "woman",
-        "woman rowing boat"
-    ],
-    "🚣🏿‍♀": [
-        "boat",
-        "dark skin tone",
-        "rowboat",
-        "woman",
-        "woman rowing boat"
+        "parlour",
+        "person getting haircut"
     ],
     "🏋️": [
         "lifter",
@@ -1377,66 +773,6 @@
         "person lifting weights",
         "weight",
         "weightlifter"
-    ],
-    "🏋🏻‍♂": [
-        "light skin tone",
-        "man",
-        "man lifting weights",
-        "weight lifter"
-    ],
-    "🏋🏼‍♂": [
-        "man",
-        "man lifting weights",
-        "medium-light skin tone",
-        "weight lifter"
-    ],
-    "🏋🏽‍♂": [
-        "man",
-        "man lifting weights",
-        "medium skin tone",
-        "weight lifter"
-    ],
-    "🏋🏾‍♂": [
-        "man",
-        "man lifting weights",
-        "medium-dark skin tone",
-        "weight lifter"
-    ],
-    "🏋🏿‍♂": [
-        "dark skin tone",
-        "man",
-        "man lifting weights",
-        "weight lifter"
-    ],
-    "🏋🏻‍♀": [
-        "light skin tone",
-        "weight lifter",
-        "woman",
-        "woman lifting weights"
-    ],
-    "🏋🏼‍♀": [
-        "medium-light skin tone",
-        "weight lifter",
-        "woman",
-        "woman lifting weights"
-    ],
-    "🏋🏽‍♀": [
-        "medium skin tone",
-        "weight lifter",
-        "woman",
-        "woman lifting weights"
-    ],
-    "🏋🏾‍♀": [
-        "medium-dark skin tone",
-        "weight lifter",
-        "woman",
-        "woman lifting weights"
-    ],
-    "🏋🏿‍♀": [
-        "dark skin tone",
-        "weight lifter",
-        "woman",
-        "woman lifting weights"
     ],
     "🤹": [
         "balance",
@@ -1578,13 +914,555 @@
         "hand",
         "two women holding hands",
         "woman",
-        "women"
+        "women",
+        "women holding hands"
+    ],
+    "👭🏻": [
+        "couple",
+        "hand",
+        "light skin tone",
+        "two women holding hands",
+        "woman",
+        "women",
+        "women holding hands"
+    ],
+    "👩🏻‍🤝‍👩🏼": [
+        "couple",
+        "hand",
+        "light skin tone",
+        "medium-light skin tone",
+        "two women holding hands",
+        "woman",
+        "women",
+        "women holding hands"
+    ],
+    "👩🏻‍🤝‍👩🏽": [
+        "couple",
+        "hand",
+        "light skin tone",
+        "medium skin tone",
+        "two women holding hands",
+        "woman",
+        "women",
+        "women holding hands"
+    ],
+    "👩🏻‍🤝‍👩🏾": [
+        "couple",
+        "hand",
+        "light skin tone",
+        "medium-dark skin tone",
+        "two women holding hands",
+        "woman",
+        "women",
+        "women holding hands"
+    ],
+    "👩🏻‍🤝‍👩🏿": [
+        "couple",
+        "dark skin tone",
+        "hand",
+        "light skin tone",
+        "two women holding hands",
+        "woman",
+        "women",
+        "women holding hands"
+    ],
+    "👩🏼‍🤝‍👩🏻": [
+        "couple",
+        "hand",
+        "light skin tone",
+        "medium-light skin tone",
+        "two women holding hands",
+        "woman",
+        "women",
+        "women holding hands"
+    ],
+    "👭🏼": [
+        "couple",
+        "hand",
+        "medium-light skin tone",
+        "two women holding hands",
+        "woman",
+        "women",
+        "women holding hands"
+    ],
+    "👩🏼‍🤝‍👩🏽": [
+        "couple",
+        "hand",
+        "medium skin tone",
+        "medium-light skin tone",
+        "two women holding hands",
+        "woman",
+        "women",
+        "women holding hands"
+    ],
+    "👩🏼‍🤝‍👩🏾": [
+        "couple",
+        "hand",
+        "medium-dark skin tone",
+        "medium-light skin tone",
+        "two women holding hands",
+        "woman",
+        "women",
+        "women holding hands"
+    ],
+    "👩🏼‍🤝‍👩🏿": [
+        "couple",
+        "dark skin tone",
+        "hand",
+        "medium-light skin tone",
+        "two women holding hands",
+        "woman",
+        "women",
+        "women holding hands"
+    ],
+    "👩🏽‍🤝‍👩🏻": [
+        "couple",
+        "hand",
+        "light skin tone",
+        "medium skin tone",
+        "two women holding hands",
+        "woman",
+        "women",
+        "women holding hands"
+    ],
+    "👩🏽‍🤝‍👩🏼": [
+        "couple",
+        "hand",
+        "medium skin tone",
+        "medium-light skin tone",
+        "two women holding hands",
+        "woman",
+        "women",
+        "women holding hands"
+    ],
+    "👭🏽": [
+        "couple",
+        "hand",
+        "medium skin tone",
+        "two women holding hands",
+        "woman",
+        "women",
+        "women holding hands"
+    ],
+    "👩🏽‍🤝‍👩🏾": [
+        "couple",
+        "hand",
+        "medium skin tone",
+        "medium-dark skin tone",
+        "two women holding hands",
+        "woman",
+        "women",
+        "women holding hands"
+    ],
+    "👩🏽‍🤝‍👩🏿": [
+        "couple",
+        "dark skin tone",
+        "hand",
+        "medium skin tone",
+        "two women holding hands",
+        "woman",
+        "women",
+        "women holding hands"
+    ],
+    "👩🏾‍🤝‍👩🏻": [
+        "couple",
+        "hand",
+        "light skin tone",
+        "medium-dark skin tone",
+        "two women holding hands",
+        "woman",
+        "women",
+        "women holding hands"
+    ],
+    "👩🏾‍🤝‍👩🏼": [
+        "couple",
+        "hand",
+        "medium-dark skin tone",
+        "medium-light skin tone",
+        "two women holding hands",
+        "woman",
+        "women",
+        "women holding hands"
+    ],
+    "👩🏾‍🤝‍👩🏽": [
+        "couple",
+        "hand",
+        "medium skin tone",
+        "medium-dark skin tone",
+        "two women holding hands",
+        "woman",
+        "women",
+        "women holding hands"
+    ],
+    "👭🏾": [
+        "couple",
+        "hand",
+        "medium-dark skin tone",
+        "two women holding hands",
+        "woman",
+        "women",
+        "women holding hands"
+    ],
+    "👩🏾‍🤝‍👩🏿": [
+        "couple",
+        "dark skin tone",
+        "hand",
+        "medium-dark skin tone",
+        "two women holding hands",
+        "woman",
+        "women",
+        "women holding hands"
+    ],
+    "👩🏿‍🤝‍👩🏻": [
+        "couple",
+        "dark skin tone",
+        "hand",
+        "light skin tone",
+        "two women holding hands",
+        "woman",
+        "women",
+        "women holding hands"
+    ],
+    "👩🏿‍🤝‍👩🏼": [
+        "couple",
+        "dark skin tone",
+        "hand",
+        "medium-light skin tone",
+        "two women holding hands",
+        "woman",
+        "women",
+        "women holding hands"
+    ],
+    "👩🏿‍🤝‍👩🏽": [
+        "couple",
+        "dark skin tone",
+        "hand",
+        "medium skin tone",
+        "two women holding hands",
+        "woman",
+        "women",
+        "women holding hands"
+    ],
+    "👩🏿‍🤝‍👩🏾": [
+        "couple",
+        "dark skin tone",
+        "hand",
+        "medium-dark skin tone",
+        "two women holding hands",
+        "woman",
+        "women",
+        "women holding hands"
+    ],
+    "👭🏿": [
+        "couple",
+        "dark skin tone",
+        "hand",
+        "two women holding hands",
+        "woman",
+        "women",
+        "women holding hands"
     ],
     "👬": [
         "Gemini",
         "couple",
         "man",
         "men",
+        "men holding hands",
+        "twins",
+        "two men holding hands",
+        "zodiac"
+    ],
+    "👬🏻": [
+        "Gemini",
+        "couple",
+        "light skin tone",
+        "man",
+        "men",
+        "men holding hands",
+        "twins",
+        "two men holding hands",
+        "zodiac"
+    ],
+    "👨🏻‍🤝‍👨🏼": [
+        "Gemini",
+        "couple",
+        "light skin tone",
+        "man",
+        "medium-light skin tone",
+        "men",
+        "men holding hands",
+        "twins",
+        "two men holding hands",
+        "zodiac"
+    ],
+    "👨🏻‍🤝‍👨🏽": [
+        "Gemini",
+        "couple",
+        "light skin tone",
+        "man",
+        "medium skin tone",
+        "men",
+        "men holding hands",
+        "twins",
+        "two men holding hands",
+        "zodiac"
+    ],
+    "👨🏻‍🤝‍👨🏾": [
+        "Gemini",
+        "couple",
+        "light skin tone",
+        "man",
+        "medium-dark skin tone",
+        "men",
+        "men holding hands",
+        "twins",
+        "two men holding hands",
+        "zodiac"
+    ],
+    "👨🏻‍🤝‍👨🏿": [
+        "Gemini",
+        "couple",
+        "dark skin tone",
+        "light skin tone",
+        "man",
+        "men",
+        "men holding hands",
+        "twins",
+        "two men holding hands",
+        "zodiac"
+    ],
+    "👨🏼‍🤝‍👨🏻": [
+        "Gemini",
+        "couple",
+        "light skin tone",
+        "man",
+        "medium-light skin tone",
+        "men",
+        "men holding hands",
+        "twins",
+        "two men holding hands",
+        "zodiac"
+    ],
+    "👬🏼": [
+        "Gemini",
+        "couple",
+        "man",
+        "medium-light skin tone",
+        "men",
+        "men holding hands",
+        "twins",
+        "two men holding hands",
+        "zodiac"
+    ],
+    "👨🏼‍🤝‍👨🏽": [
+        "Gemini",
+        "couple",
+        "man",
+        "medium skin tone",
+        "medium-light skin tone",
+        "men",
+        "men holding hands",
+        "twins",
+        "two men holding hands",
+        "zodiac"
+    ],
+    "👨🏼‍🤝‍👨🏾": [
+        "Gemini",
+        "couple",
+        "man",
+        "medium-dark skin tone",
+        "medium-light skin tone",
+        "men",
+        "men holding hands",
+        "twins",
+        "two men holding hands",
+        "zodiac"
+    ],
+    "👨🏼‍🤝‍👨🏿": [
+        "Gemini",
+        "couple",
+        "dark skin tone",
+        "man",
+        "medium-light skin tone",
+        "men",
+        "men holding hands",
+        "twins",
+        "two men holding hands",
+        "zodiac"
+    ],
+    "👨🏽‍🤝‍👨🏻": [
+        "Gemini",
+        "couple",
+        "light skin tone",
+        "man",
+        "medium skin tone",
+        "men",
+        "men holding hands",
+        "twins",
+        "two men holding hands",
+        "zodiac"
+    ],
+    "👨🏽‍🤝‍👨🏼": [
+        "Gemini",
+        "couple",
+        "man",
+        "medium skin tone",
+        "medium-light skin tone",
+        "men",
+        "men holding hands",
+        "twins",
+        "two men holding hands",
+        "zodiac"
+    ],
+    "👬🏽": [
+        "Gemini",
+        "couple",
+        "man",
+        "medium skin tone",
+        "men",
+        "men holding hands",
+        "twins",
+        "two men holding hands",
+        "zodiac"
+    ],
+    "👨🏽‍🤝‍👨🏾": [
+        "Gemini",
+        "couple",
+        "man",
+        "medium skin tone",
+        "medium-dark skin tone",
+        "men",
+        "men holding hands",
+        "twins",
+        "two men holding hands",
+        "zodiac"
+    ],
+    "👨🏽‍🤝‍👨🏿": [
+        "Gemini",
+        "couple",
+        "dark skin tone",
+        "man",
+        "medium skin tone",
+        "men",
+        "men holding hands",
+        "twins",
+        "two men holding hands",
+        "zodiac"
+    ],
+    "👨🏾‍🤝‍👨🏻": [
+        "Gemini",
+        "couple",
+        "light skin tone",
+        "man",
+        "medium-dark skin tone",
+        "men",
+        "men holding hands",
+        "twins",
+        "two men holding hands",
+        "zodiac"
+    ],
+    "👨🏾‍🤝‍👨🏼": [
+        "Gemini",
+        "couple",
+        "man",
+        "medium-dark skin tone",
+        "medium-light skin tone",
+        "men",
+        "men holding hands",
+        "twins",
+        "two men holding hands",
+        "zodiac"
+    ],
+    "👨🏾‍🤝‍👨🏽": [
+        "Gemini",
+        "couple",
+        "man",
+        "medium skin tone",
+        "medium-dark skin tone",
+        "men",
+        "men holding hands",
+        "twins",
+        "two men holding hands",
+        "zodiac"
+    ],
+    "👬🏾": [
+        "Gemini",
+        "couple",
+        "man",
+        "medium-dark skin tone",
+        "men",
+        "men holding hands",
+        "twins",
+        "two men holding hands",
+        "zodiac"
+    ],
+    "👨🏾‍🤝‍👨🏿": [
+        "Gemini",
+        "couple",
+        "dark skin tone",
+        "man",
+        "medium-dark skin tone",
+        "men",
+        "men holding hands",
+        "twins",
+        "two men holding hands",
+        "zodiac"
+    ],
+    "👨🏿‍🤝‍👨🏻": [
+        "Gemini",
+        "couple",
+        "dark skin tone",
+        "light skin tone",
+        "man",
+        "men",
+        "men holding hands",
+        "twins",
+        "two men holding hands",
+        "zodiac"
+    ],
+    "👨🏿‍🤝‍👨🏼": [
+        "Gemini",
+        "couple",
+        "dark skin tone",
+        "man",
+        "medium-light skin tone",
+        "men",
+        "men holding hands",
+        "twins",
+        "two men holding hands",
+        "zodiac"
+    ],
+    "👨🏿‍🤝‍👨🏽": [
+        "Gemini",
+        "couple",
+        "dark skin tone",
+        "man",
+        "medium skin tone",
+        "men",
+        "men holding hands",
+        "twins",
+        "two men holding hands",
+        "zodiac"
+    ],
+    "👨🏿‍🤝‍👨🏾": [
+        "Gemini",
+        "couple",
+        "dark skin tone",
+        "man",
+        "medium-dark skin tone",
+        "men",
+        "men holding hands",
+        "twins",
+        "two men holding hands",
+        "zodiac"
+    ],
+    "👬🏿": [
+        "Gemini",
+        "couple",
+        "dark skin tone",
+        "man",
+        "men",
+        "men holding hands",
         "twins",
         "two men holding hands",
         "zodiac"
@@ -1611,6 +1489,14 @@
     "🌾": [
         "sheaf of rice"
     ],
+    "🧄": [
+        "flavouring",
+        "garlic"
+    ],
+    "🧅": [
+        "flavouring",
+        "onion"
+    ],
     "🥜": [
         "food",
         "nut",
@@ -1619,6 +1505,7 @@
         "vegetable"
     ],
     "🌰": [
+        "chestnut",
         "nut"
     ],
     "🥐": [
@@ -1641,11 +1528,19 @@
         "French fries"
     ],
     "🌮": [
-        "Mexican"
+        "Mexican",
+        "taco"
     ],
     "🌯": [
         "Mexican",
+        "burrito",
         "wrap"
+    ],
+    "🧆": [
+        "chick pea",
+        "chickpea",
+        "falafel",
+        "meatball"
     ],
     "🥫": [
         "canned food"
@@ -1683,12 +1578,17 @@
     ],
     "🗽": [
         "Liberty",
-        "Statue"
+        "Statue",
+        "Statue of Liberty"
     ],
     "🕌": [
         "Islam",
         "Muslim",
+        "mosque",
         "religion"
+    ],
+    "🛕": [
+        "Hindu temple"
     ],
     "⛩️": [
         "Shinto shrine"
@@ -1696,6 +1596,7 @@
     "🕋": [
         "Islam",
         "Muslim",
+        "kaaba",
         "religion"
     ],
     "🎡": [
@@ -1708,6 +1609,7 @@
         "car",
         "electric",
         "railway",
+        "railway carriage",
         "train",
         "tram",
         "trolley bus",
@@ -1715,6 +1617,7 @@
     ],
     "🚄": [
         "Shinkansen",
+        "high-speed train",
         "railway",
         "speed",
         "train"
@@ -1745,6 +1648,12 @@
         "recreational",
         "sport utility",
         "sport utility vehicle"
+    ],
+    "🛺": [
+        "auto rickshaw",
+        "tuk tuk",
+        "tuk-tuk",
+        "tuktuk"
     ],
     "⛽️": [
         "gas pump"
@@ -1809,6 +1718,7 @@
         "celebration",
         "jack",
         "jack-o-lantern",
+        "jack-o’-lantern",
         "lantern"
     ],
     "🎋": [
@@ -1824,13 +1734,21 @@
         "ball",
         "bat",
         "cricket",
+        "cricket match",
         "game"
+    ],
+    "🤿": [
+        "diving",
+        "diving mask",
+        "scuba",
+        "snorkelling"
     ],
     "🧿": [
         "bead",
         "charm",
         "evil eye",
         "nazar",
+        "nazar amulet",
         "talisman"
     ],
     "🀄️": [
@@ -1846,6 +1764,9 @@
     ],
     "🎒": [
         "backpack"
+    ],
+    "🩴": [
+        "flip-flop"
     ],
     "🎓️": [
         "cap",
@@ -1885,6 +1806,7 @@
     ],
     "📧": [
         "e-mail",
+        "email",
         "letter",
         "mail"
     ],
@@ -1909,6 +1831,9 @@
     "🚽": [
         "lavatory",
         "toilet"
+    ],
+    "🪤": [
+        "mousetrap"
     ],
     "🛒": [
         "shopping cart"
@@ -1966,6 +1891,35 @@
         "vibrate",
         "vibration"
     ],
+    "✖️": [
+        "cancel",
+        "heavy multiplication x",
+        "multiplication",
+        "multiply",
+        "sign",
+        "x",
+        "×"
+    ],
+    "➕": [
+        "+",
+        "math",
+        "plus",
+        "sign"
+    ],
+    "➖": [
+        "-",
+        "math",
+        "minus",
+        "sign",
+        "−"
+    ],
+    "➗": [
+        "divide",
+        "division",
+        "math",
+        "sign",
+        "÷"
+    ],
     "✅": [
         "white heavy check mark"
     ],
@@ -1992,5 +1946,8 @@
     ],
     "🏁": [
         "checkered flag"
+    ],
+    "🏳‍⚧": [
+        "transgender flag"
     ]
 }

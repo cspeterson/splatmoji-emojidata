@@ -89,7 +89,7 @@
     ],
     "🥰": [
         "adorație",
-        "față zâmbitoare cu 3 inimioare",
+        "față zâmbitoare cu inimioare",
         "pasiune",
         "îndrăgostit",
         "îndrăgostită"
@@ -138,6 +138,15 @@
         "ochi",
         "pupic",
         "zâmbet"
+    ],
+    "🥲": [
+        "atins",
+        "față zâmbind cu lacrimă",
+        "lacrimă",
+        "mândru",
+        "recunoscător",
+        "ușurat",
+        "zâmbind ușor"
     ],
     "😋": [
         "delicios",
@@ -369,11 +378,19 @@
         "pălărie"
     ],
     "🥳": [
+        "coif",
         "față de petrecere",
         "petrecere",
-        "pălărie",
         "sărbătorire",
         "trompetă"
+    ],
+    "🥸": [
+        "deghizare",
+        "față",
+        "față deghizată",
+        "incognito",
+        "nas",
+        "ochelari"
     ],
     "😎": [
         "față",
@@ -538,6 +555,12 @@
         "față obosită",
         "oboseală"
     ],
+    "🥱": [
+        "căscat",
+        "față care cască",
+        "oboseală",
+        "plictis"
+    ],
     "😤": [
         "față",
         "față care scoate fum pe nări",
@@ -647,74 +670,78 @@
     ],
     "🤖": [
         "față",
-        "față de robot",
         "monstru",
         "robot"
     ],
     "😺": [
-        "față de pisică încântată",
-        "gură deschisă",
+        "deschisă",
+        "față",
+        "gură",
         "pisică",
+        "pisică încântată",
         "zâmbet"
     ],
     "😸": [
         "față",
-        "față de pisică încântată cu ochi zâmbitori",
-        "ochi închiși",
+        "ochi",
         "pisică",
+        "pisică încântată cu ochi zâmbitori",
         "zâmbet",
         "încântare"
     ],
     "😹": [
         "bucurie",
         "față",
-        "față de pisică cu lacrimi de bucurie",
         "lacrimi",
-        "pisică"
+        "pisică",
+        "pisică cu lacrimi de bucurie"
     ],
     "😻": [
+        "dragoste",
         "față",
-        "față de pisică zâmbitoare cu inimioare la ochi",
         "inimioare",
         "ochi",
         "pisică",
+        "pisică zâmbitoare cu inimioare la ochi",
         "zâmbet"
     ],
     "😼": [
         "față",
-        "față de pisică cu zâmbet ironic",
+        "ironie",
         "pisică",
+        "pisică cu zâmbet ironic",
         "zâmbet",
         "șiretenie"
     ],
     "😽": [
         "față",
-        "față de pisică pupăcioasă",
         "ochi",
         "pisică",
+        "pisică pupăcioasă",
         "sărut"
     ],
     "🙀": [
         "față",
-        "față de pisică surprinsă",
+        "oh",
         "pisică",
+        "pisică surprinsă",
         "sperietură",
         "surpriză",
         "uimire"
     ],
     "😿": [
         "față",
-        "față de pisică plângând",
         "lacrimă",
         "pisică",
+        "pisică plângând",
         "plâns"
     ],
     "😾": [
         "bosumflare",
-        "enervare",
         "față",
-        "față de pisică îmbufnată",
-        "pisică"
+        "pisică",
+        "pisică îmbufnată",
+        "îmbufnare"
     ],
     "🙈": [
         "față",
@@ -846,12 +873,23 @@
         "inimă mov",
         "mov"
     ],
+    "🤎": [
+        "inimă",
+        "inimă maro",
+        "maro"
+    ],
     "🖤": [
         "inimă",
         "inimă neagră",
         "malefic",
         "negru",
         "rău"
+    ],
+    "🤍": [
+        "alb",
+        "albă",
+        "inimă",
+        "inimă albă"
     ],
     "💯": [
         "100",
@@ -1207,6 +1245,98 @@
         "semnul ok",
         "semnul ok: ton închis al pielii",
         "ton închis al pielii"
+    ],
+    "🤌": [
+        "degete",
+        "degete strânse",
+        "gest cu mâna",
+        "interogație",
+        "sarcastic"
+    ],
+    "🤌🏻": [
+        "degete",
+        "degete strânse",
+        "degete strânse: ton deschis al pielii",
+        "gest cu mâna",
+        "interogație",
+        "sarcastic",
+        "ton deschis al pielii"
+    ],
+    "🤌🏼": [
+        "degete",
+        "degete strânse",
+        "degete strânse: ton semi‑deschis al pielii",
+        "gest cu mâna",
+        "interogație",
+        "sarcastic",
+        "ton semi‑deschis al pielii"
+    ],
+    "🤌🏽": [
+        "degete",
+        "degete strânse",
+        "degete strânse: ton mediu al pielii",
+        "gest cu mâna",
+        "interogație",
+        "sarcastic",
+        "ton mediu al pielii"
+    ],
+    "🤌🏾": [
+        "degete",
+        "degete strânse",
+        "degete strânse: ton semi‑închis al pielii",
+        "gest cu mâna",
+        "interogație",
+        "sarcastic",
+        "ton semi‑închis al pielii"
+    ],
+    "🤌🏿": [
+        "degete",
+        "degete strânse",
+        "degete strânse: ton închis al pielii",
+        "gest cu mâna",
+        "interogație",
+        "sarcastic",
+        "ton închis al pielii"
+    ],
+    "🤏": [
+        "cantitate mică",
+        "mână cu două degete apropiate",
+        "valoare mică"
+    ],
+    "🤏🏻": [
+        "cantitate mică",
+        "mână cu două degete apropiate",
+        "mână cu două degete apropiate: ton deschis al pielii",
+        "ton deschis al pielii",
+        "valoare mică"
+    ],
+    "🤏🏼": [
+        "cantitate mică",
+        "mână cu două degete apropiate",
+        "mână cu două degete apropiate: ton semi‑deschis al pielii",
+        "ton semi‑deschis al pielii",
+        "valoare mică"
+    ],
+    "🤏🏽": [
+        "cantitate mică",
+        "mână cu două degete apropiate",
+        "mână cu două degete apropiate: ton mediu al pielii",
+        "ton mediu al pielii",
+        "valoare mică"
+    ],
+    "🤏🏾": [
+        "cantitate mică",
+        "mână cu două degete apropiate",
+        "mână cu două degete apropiate: ton semi‑închis al pielii",
+        "ton semi‑închis al pielii",
+        "valoare mică"
+    ],
+    "🤏🏿": [
+        "cantitate mică",
+        "mână cu două degete apropiate",
+        "mână cu două degete apropiate: ton închis al pielii",
+        "ton închis al pielii",
+        "valoare mică"
     ],
     "✌️": [
         "degete",
@@ -1572,6 +1702,7 @@
         "dos de mână cu arătătorul în sus",
         "dos de mână cu degetul arătător îndreptat în sus",
         "dosul palmei",
+        "indica",
         "sus"
     ],
     "👆🏻": [
@@ -1581,6 +1712,7 @@
         "dos de mână cu arătătorul în sus: ton deschis al pielii",
         "dos de mână cu degetul arătător îndreptat în sus",
         "dosul palmei",
+        "indica",
         "sus",
         "ton deschis al pielii"
     ],
@@ -1591,6 +1723,7 @@
         "dos de mână cu arătătorul în sus: ton semi‑deschis al pielii",
         "dos de mână cu degetul arătător îndreptat în sus",
         "dosul palmei",
+        "indica",
         "sus",
         "ton semi‑deschis al pielii"
     ],
@@ -1601,6 +1734,7 @@
         "dos de mână cu arătătorul în sus: ton mediu al pielii",
         "dos de mână cu degetul arătător îndreptat în sus",
         "dosul palmei",
+        "indica",
         "sus",
         "ton mediu al pielii"
     ],
@@ -1611,6 +1745,7 @@
         "dos de mână cu arătătorul în sus: ton semi‑închis al pielii",
         "dos de mână cu degetul arătător îndreptat în sus",
         "dosul palmei",
+        "indica",
         "sus",
         "ton semi‑închis al pielii"
     ],
@@ -1621,6 +1756,7 @@
         "dos de mână cu arătătorul în sus: ton închis al pielii",
         "dos de mână cu degetul arătător îndreptat în sus",
         "dosul palmei",
+        "indica",
         "sus",
         "ton închis al pielii"
     ],
@@ -1682,6 +1818,7 @@
         "dos de mână cu arătătorul în jos",
         "dos de mână cu degetul arătător îndreptat în jos",
         "dosul palmei",
+        "indica",
         "jos"
     ],
     "👇🏻": [
@@ -1691,6 +1828,7 @@
         "dos de mână cu arătătorul în jos: ton deschis al pielii",
         "dos de mână cu degetul arătător îndreptat în jos",
         "dosul palmei",
+        "indica",
         "jos",
         "ton deschis al pielii"
     ],
@@ -1701,6 +1839,7 @@
         "dos de mână cu arătătorul în jos: ton semi‑deschis al pielii",
         "dos de mână cu degetul arătător îndreptat în jos",
         "dosul palmei",
+        "indica",
         "jos",
         "ton semi‑deschis al pielii"
     ],
@@ -1711,6 +1850,7 @@
         "dos de mână cu arătătorul în jos: ton mediu al pielii",
         "dos de mână cu degetul arătător îndreptat în jos",
         "dosul palmei",
+        "indica",
         "jos",
         "ton mediu al pielii"
     ],
@@ -1721,6 +1861,7 @@
         "dos de mână cu arătătorul în jos: ton semi‑închis al pielii",
         "dos de mână cu degetul arătător îndreptat în jos",
         "dosul palmei",
+        "indica",
         "jos",
         "ton semi‑închis al pielii"
     ],
@@ -1731,6 +1872,7 @@
         "dos de mână cu arătătorul în jos: ton închis al pielii",
         "dos de mână cu degetul arătător îndreptat în jos",
         "dosul palmei",
+        "indica",
         "jos",
         "ton închis al pielii"
     ],
@@ -2503,6 +2645,18 @@
         "mușchi",
         "ton închis al pielii"
     ],
+    "🦾": [
+        "accesibilitate",
+        "braț mecanic",
+        "protetic",
+        "proteză"
+    ],
+    "🦿": [
+        "accesibilitate",
+        "picior mecanic",
+        "protetic",
+        "proteză"
+    ],
     "🦵": [
         "membru",
         "picior",
@@ -2617,6 +2771,52 @@
         "ureche",
         "ureche: ton închis al pielii"
     ],
+    "🦻": [
+        "accesibilitate",
+        "deficiențe auditive",
+        "hipoacuzie",
+        "ureche cu proteză auditivă"
+    ],
+    "🦻🏻": [
+        "accesibilitate",
+        "deficiențe auditive",
+        "hipoacuzie",
+        "ton deschis al pielii",
+        "ureche cu proteză auditivă",
+        "ureche cu proteză auditivă: ton deschis al pielii"
+    ],
+    "🦻🏼": [
+        "accesibilitate",
+        "deficiențe auditive",
+        "hipoacuzie",
+        "ton semi‑deschis al pielii",
+        "ureche cu proteză auditivă",
+        "ureche cu proteză auditivă: ton semi‑deschis al pielii"
+    ],
+    "🦻🏽": [
+        "accesibilitate",
+        "deficiențe auditive",
+        "hipoacuzie",
+        "ton mediu al pielii",
+        "ureche cu proteză auditivă",
+        "ureche cu proteză auditivă: ton mediu al pielii"
+    ],
+    "🦻🏾": [
+        "accesibilitate",
+        "deficiențe auditive",
+        "hipoacuzie",
+        "ton semi‑închis al pielii",
+        "ureche cu proteză auditivă",
+        "ureche cu proteză auditivă: ton semi‑închis al pielii"
+    ],
+    "🦻🏿": [
+        "accesibilitate",
+        "deficiențe auditive",
+        "hipoacuzie",
+        "ton închis al pielii",
+        "ureche cu proteză auditivă",
+        "ureche cu proteză auditivă: ton închis al pielii"
+    ],
     "👃": [
         "corp",
         "nas"
@@ -2655,6 +2855,22 @@
         "creier",
         "inteligent"
     ],
+    "🫀": [
+        "bătăile inimii",
+        "cord",
+        "inimă",
+        "organ",
+        "puls"
+    ],
+    "🫁": [
+        "expirare",
+        "inhalare",
+        "inspirare",
+        "organ",
+        "plămâni",
+        "respirare",
+        "respirație"
+    ],
     "🦷": [
         "dentist",
         "dinte",
@@ -2680,8 +2896,7 @@
     ],
     "👄": [
         "buze",
-        "gură",
-        "limbă"
+        "gură"
     ],
     "👶": [
         "bebe",
@@ -2737,35 +2952,35 @@
     "🧒🏻": [
         "copil",
         "copil: ton deschis al pielii",
-        "sex neutru",
+        "neutru",
         "ton deschis al pielii",
         "tânăr"
     ],
     "🧒🏼": [
         "copil",
         "copil: ton semi‑deschis al pielii",
-        "sex neutru",
+        "neutru",
         "ton semi‑deschis al pielii",
         "tânăr"
     ],
     "🧒🏽": [
         "copil",
         "copil: ton mediu al pielii",
-        "sex neutru",
+        "neutru",
         "ton mediu al pielii",
         "tânăr"
     ],
     "🧒🏾": [
         "copil",
         "copil: ton semi‑închis al pielii",
-        "sex neutru",
+        "neutru",
         "ton semi‑închis al pielii",
         "tânăr"
     ],
     "🧒🏿": [
         "copil",
         "copil: ton închis al pielii",
-        "sex neutru",
+        "neutru",
         "ton închis al pielii",
         "tânăr"
     ],
@@ -2869,48 +3084,52 @@
     "🧑🏻": [
         "adult",
         "adult: ton deschis al pielii",
-        "gen neutru",
+        "neutru",
         "persoană",
         "ton deschis al pielii"
     ],
     "🧑🏼": [
         "adult",
         "adult: ton semi‑deschis al pielii",
-        "gen neutru",
+        "neutru",
         "persoană",
         "ton semi‑deschis al pielii"
     ],
     "🧑🏽": [
         "adult",
         "adult: ton mediu al pielii",
-        "gen neutru",
+        "neutru",
         "persoană",
         "ton mediu al pielii"
     ],
     "🧑🏾": [
         "adult",
         "adult: ton semi‑închis al pielii",
-        "gen neutru",
+        "neutru",
         "persoană",
         "ton semi‑închis al pielii"
     ],
     "🧑🏿": [
         "adult",
         "adult: ton închis al pielii",
-        "gen neutru",
+        "neutru",
         "persoană",
         "ton închis al pielii"
     ],
     "👱": [
         "blond",
         "om",
-        "persoană blondă"
+        "persoană blondă",
+        "persoană cu păr blond",
+        "păr"
     ],
     "👱🏻": [
         "blond",
         "om",
         "persoană blondă",
         "persoană blondă: ton deschis al pielii",
+        "persoană cu păr blond",
+        "păr",
         "ton deschis al pielii"
     ],
     "👱🏼": [
@@ -2918,6 +3137,8 @@
         "om",
         "persoană blondă",
         "persoană blondă: ton semi‑deschis al pielii",
+        "persoană cu păr blond",
+        "păr",
         "ton semi‑deschis al pielii"
     ],
     "👱🏽": [
@@ -2925,6 +3146,8 @@
         "om",
         "persoană blondă",
         "persoană blondă: ton mediu al pielii",
+        "persoană cu păr blond",
+        "păr",
         "ton mediu al pielii"
     ],
     "👱🏾": [
@@ -2932,6 +3155,8 @@
         "om",
         "persoană blondă",
         "persoană blondă: ton semi‑închis al pielii",
+        "persoană cu păr blond",
+        "păr",
         "ton semi‑închis al pielii"
     ],
     "👱🏿": [
@@ -2939,6 +3164,196 @@
         "om",
         "persoană blondă",
         "persoană blondă: ton închis al pielii",
+        "persoană cu păr blond",
+        "păr",
+        "ton închis al pielii"
+    ],
+    "🧑‍🦰": [
+        "adult",
+        "adult: păr roșcat",
+        "neutru",
+        "persoană",
+        "păr roșcat"
+    ],
+    "🧑🏻‍🦰": [
+        "adult",
+        "adult: ton deschis al pielii, păr roșcat",
+        "neutru",
+        "persoană",
+        "păr roșcat",
+        "ton deschis al pielii"
+    ],
+    "🧑🏼‍🦰": [
+        "adult",
+        "adult: ton semi‑deschis al pielii, păr roșcat",
+        "neutru",
+        "persoană",
+        "păr roșcat",
+        "ton semi‑deschis al pielii"
+    ],
+    "🧑🏽‍🦰": [
+        "adult",
+        "adult: ton mediu al pielii, păr roșcat",
+        "neutru",
+        "persoană",
+        "păr roșcat",
+        "ton mediu al pielii"
+    ],
+    "🧑🏾‍🦰": [
+        "adult",
+        "adult: ton semi‑închis al pielii, păr roșcat",
+        "neutru",
+        "persoană",
+        "păr roșcat",
+        "ton semi‑închis al pielii"
+    ],
+    "🧑🏿‍🦰": [
+        "adult",
+        "adult: ton închis al pielii, păr roșcat",
+        "neutru",
+        "persoană",
+        "păr roșcat",
+        "ton închis al pielii"
+    ],
+    "🧑‍🦱": [
+        "adult",
+        "adult: păr creț",
+        "neutru",
+        "persoană",
+        "păr creț"
+    ],
+    "🧑🏻‍🦱": [
+        "adult",
+        "adult: ton deschis al pielii, păr creț",
+        "neutru",
+        "persoană",
+        "păr creț",
+        "ton deschis al pielii"
+    ],
+    "🧑🏼‍🦱": [
+        "adult",
+        "adult: ton semi‑deschis al pielii, păr creț",
+        "neutru",
+        "persoană",
+        "păr creț",
+        "ton semi‑deschis al pielii"
+    ],
+    "🧑🏽‍🦱": [
+        "adult",
+        "adult: ton mediu al pielii, păr creț",
+        "neutru",
+        "persoană",
+        "păr creț",
+        "ton mediu al pielii"
+    ],
+    "🧑🏾‍🦱": [
+        "adult",
+        "adult: ton semi‑închis al pielii, păr creț",
+        "neutru",
+        "persoană",
+        "păr creț",
+        "ton semi‑închis al pielii"
+    ],
+    "🧑🏿‍🦱": [
+        "adult",
+        "adult: ton închis al pielii, păr creț",
+        "neutru",
+        "persoană",
+        "păr creț",
+        "ton închis al pielii"
+    ],
+    "🧑‍🦳": [
+        "adult",
+        "adult: păr alb",
+        "neutru",
+        "persoană",
+        "păr alb"
+    ],
+    "🧑🏻‍🦳": [
+        "adult",
+        "adult: ton deschis al pielii, păr alb",
+        "neutru",
+        "persoană",
+        "păr alb",
+        "ton deschis al pielii"
+    ],
+    "🧑🏼‍🦳": [
+        "adult",
+        "adult: ton semi‑deschis al pielii, păr alb",
+        "neutru",
+        "persoană",
+        "păr alb",
+        "ton semi‑deschis al pielii"
+    ],
+    "🧑🏽‍🦳": [
+        "adult",
+        "adult: ton mediu al pielii, păr alb",
+        "neutru",
+        "persoană",
+        "păr alb",
+        "ton mediu al pielii"
+    ],
+    "🧑🏾‍🦳": [
+        "adult",
+        "adult: ton semi‑închis al pielii, păr alb",
+        "neutru",
+        "persoană",
+        "păr alb",
+        "ton semi‑închis al pielii"
+    ],
+    "🧑🏿‍🦳": [
+        "adult",
+        "adult: ton închis al pielii, păr alb",
+        "neutru",
+        "persoană",
+        "păr alb",
+        "ton închis al pielii"
+    ],
+    "🧑‍🦲": [
+        "adult",
+        "adult: chelie",
+        "chelie",
+        "neutru",
+        "persoană"
+    ],
+    "🧑🏻‍🦲": [
+        "adult",
+        "adult: ton deschis al pielii, chelie",
+        "chelie",
+        "neutru",
+        "persoană",
+        "ton deschis al pielii"
+    ],
+    "🧑🏼‍🦲": [
+        "adult",
+        "adult: ton semi‑deschis al pielii, chelie",
+        "chelie",
+        "neutru",
+        "persoană",
+        "ton semi‑deschis al pielii"
+    ],
+    "🧑🏽‍🦲": [
+        "adult",
+        "adult: ton mediu al pielii, chelie",
+        "chelie",
+        "neutru",
+        "persoană",
+        "ton mediu al pielii"
+    ],
+    "🧑🏾‍🦲": [
+        "adult",
+        "adult: ton semi‑închis al pielii, chelie",
+        "chelie",
+        "neutru",
+        "persoană",
+        "ton semi‑închis al pielii"
+    ],
+    "🧑🏿‍🦲": [
+        "adult",
+        "adult: ton închis al pielii, chelie",
+        "chelie",
+        "neutru",
+        "persoană",
         "ton închis al pielii"
     ],
     "👨": [
@@ -2977,71 +3392,95 @@
     ],
     "🧔": [
         "barbă",
-        "persoană cu barbă"
+        "bărbat",
+        "bărbat cu barbă",
+        "persoană"
     ],
     "🧔🏻": [
         "barbă",
-        "persoană cu barbă",
-        "persoană cu barbă: ton deschis al pielii",
+        "bărbat",
+        "bărbat cu barbă",
+        "bărbat cu barbă: ton deschis al pielii",
+        "persoană",
         "ton deschis al pielii"
     ],
     "🧔🏼": [
         "barbă",
-        "persoană cu barbă",
-        "persoană cu barbă: ton semi‑deschis al pielii",
+        "bărbat",
+        "bărbat cu barbă",
+        "bărbat cu barbă: ton semi‑deschis al pielii",
+        "persoană",
         "ton semi‑deschis al pielii"
     ],
     "🧔🏽": [
         "barbă",
-        "persoană cu barbă",
-        "persoană cu barbă: ton mediu al pielii",
+        "bărbat",
+        "bărbat cu barbă",
+        "bărbat cu barbă: ton mediu al pielii",
+        "persoană",
         "ton mediu al pielii"
     ],
     "🧔🏾": [
         "barbă",
-        "persoană cu barbă",
-        "persoană cu barbă: ton semi‑închis al pielii",
+        "bărbat",
+        "bărbat cu barbă",
+        "bărbat cu barbă: ton semi‑închis al pielii",
+        "persoană",
         "ton semi‑închis al pielii"
     ],
     "🧔🏿": [
         "barbă",
-        "persoană cu barbă",
-        "persoană cu barbă: ton închis al pielii",
+        "bărbat",
+        "bărbat cu barbă",
+        "bărbat cu barbă: ton închis al pielii",
+        "persoană",
         "ton închis al pielii"
     ],
     "👱‍♂": [
         "blond",
         "bărbat",
-        "bărbat blond"
+        "bărbat blond",
+        "bărbat cu păr blond",
+        "păr"
     ],
     "👱🏻‍♂": [
         "blond",
         "bărbat",
         "bărbat blond: ton deschis al pielii",
+        "bărbat cu păr blond",
+        "păr",
         "ton deschis al pielii"
     ],
     "👱🏼‍♂": [
         "blond",
         "bărbat",
         "bărbat blond: ton semi‑deschis al pielii",
+        "bărbat cu păr blond",
+        "păr",
         "ton semi‑deschis al pielii"
     ],
     "👱🏽‍♂": [
         "blond",
         "bărbat",
         "bărbat blond: ton mediu al pielii",
+        "bărbat cu păr blond",
+        "păr",
         "ton mediu al pielii"
     ],
     "👱🏾‍♂": [
         "blond",
         "bărbat",
         "bărbat blond: ton semi‑închis al pielii",
+        "bărbat cu păr blond",
+        "păr",
         "ton semi‑închis al pielii"
     ],
     "👱🏿‍♂": [
         "blond",
         "bărbat",
         "bărbat blond: ton închis al pielii",
+        "bărbat cu păr blond",
+        "păr",
         "ton închis al pielii"
     ],
     "👨‍🦰": [
@@ -3245,36 +3684,48 @@
     "👱‍♀": [
         "blondă",
         "femeie",
-        "femeie blondă"
+        "femeie blondă",
+        "femeie cu păr blond",
+        "păr"
     ],
     "👱🏻‍♀": [
         "blondă",
         "femeie",
         "femeie blondă: ton deschis al pielii",
+        "femeie cu păr blond",
+        "păr",
         "ton deschis al pielii"
     ],
     "👱🏼‍♀": [
         "blondă",
         "femeie",
         "femeie blondă: ton semi‑deschis al pielii",
+        "femeie cu păr blond",
+        "păr",
         "ton semi‑deschis al pielii"
     ],
     "👱🏽‍♀": [
         "blondă",
         "femeie",
         "femeie blondă: ton mediu al pielii",
+        "femeie cu păr blond",
+        "păr",
         "ton mediu al pielii"
     ],
     "👱🏾‍♀": [
         "blondă",
         "femeie",
         "femeie blondă: ton semi‑închis al pielii",
+        "femeie cu păr blond",
+        "păr",
         "ton semi‑închis al pielii"
     ],
     "👱🏿‍♀": [
         "blondă",
         "femeie",
         "femeie blondă: ton închis al pielii",
+        "femeie cu păr blond",
+        "păr",
         "ton închis al pielii"
     ],
     "👩‍🦰": [
@@ -3449,40 +3900,45 @@
         "vârstnic"
     ],
     "🧓🏻": [
+        "adult",
         "bătrân",
-        "persoană",
+        "neutru",
         "persoană în vârstă",
         "persoană în vârstă: ton deschis al pielii",
         "ton deschis al pielii",
         "vârstnic"
     ],
     "🧓🏼": [
+        "adult",
         "bătrân",
-        "persoană",
+        "neutru",
         "persoană în vârstă",
         "persoană în vârstă: ton semi‑deschis al pielii",
         "ton semi‑deschis al pielii",
         "vârstnic"
     ],
     "🧓🏽": [
+        "adult",
         "bătrân",
-        "persoană",
+        "neutru",
         "persoană în vârstă",
         "persoană în vârstă: ton mediu al pielii",
         "ton mediu al pielii",
         "vârstnic"
     ],
     "🧓🏾": [
+        "adult",
         "bătrân",
-        "persoană",
+        "neutru",
         "persoană în vârstă",
         "persoană în vârstă: ton semi‑închis al pielii",
         "ton semi‑închis al pielii",
         "vârstnic"
     ],
     "🧓🏿": [
+        "adult",
         "bătrân",
-        "persoană",
+        "neutru",
         "persoană în vârstă",
         "persoană în vârstă: ton închis al pielii",
         "ton închis al pielii",
@@ -3747,12 +4203,14 @@
         "îmbufnare"
     ],
     "🙎‍♂": [
+        "bosumflare",
         "bărbat",
         "bărbat bosumflat",
         "gest",
         "îmbufnare"
     ],
     "🙎🏻‍♂": [
+        "bosumflare",
         "bărbat",
         "bărbat bosumflat",
         "bărbat bosumflat: ton deschis al pielii",
@@ -3761,6 +4219,7 @@
         "îmbufnare"
     ],
     "🙎🏼‍♂": [
+        "bosumflare",
         "bărbat",
         "bărbat bosumflat",
         "bărbat bosumflat: ton semi‑deschis al pielii",
@@ -3769,6 +4228,7 @@
         "îmbufnare"
     ],
     "🙎🏽‍♂": [
+        "bosumflare",
         "bărbat",
         "bărbat bosumflat",
         "bărbat bosumflat: ton mediu al pielii",
@@ -3777,6 +4237,7 @@
         "îmbufnare"
     ],
     "🙎🏾‍♂": [
+        "bosumflare",
         "bărbat",
         "bărbat bosumflat",
         "bărbat bosumflat: ton semi‑închis al pielii",
@@ -3785,6 +4246,7 @@
         "îmbufnare"
     ],
     "🙎🏿‍♂": [
+        "bosumflare",
         "bărbat",
         "bărbat bosumflat",
         "bărbat bosumflat: ton închis al pielii",
@@ -3793,12 +4255,14 @@
         "îmbufnare"
     ],
     "🙎‍♀": [
+        "bosumflare",
         "femeie",
         "femeie bosumflată",
         "gest",
         "îmbufnare"
     ],
     "🙎🏻‍♀": [
+        "bosumflare",
         "femeie",
         "femeie bosumflată",
         "femeie bosumflată: ton deschis al pielii",
@@ -3807,6 +4271,7 @@
         "îmbufnare"
     ],
     "🙎🏼‍♀": [
+        "bosumflare",
         "femeie",
         "femeie bosumflată",
         "femeie bosumflată: ton semi‑deschis al pielii",
@@ -3815,6 +4280,7 @@
         "îmbufnare"
     ],
     "🙎🏽‍♀": [
+        "bosumflare",
         "femeie",
         "femeie bosumflată",
         "femeie bosumflată: ton mediu al pielii",
@@ -3823,6 +4289,7 @@
         "îmbufnare"
     ],
     "🙎🏾‍♀": [
+        "bosumflare",
         "femeie",
         "femeie bosumflată",
         "femeie bosumflată: ton semi‑închis al pielii",
@@ -3831,6 +4298,7 @@
         "îmbufnare"
     ],
     "🙎🏿‍♀": [
+        "bosumflare",
         "femeie",
         "femeie bosumflată",
         "femeie bosumflată: ton închis al pielii",
@@ -4426,6 +4894,134 @@
         "mână ridicată",
         "ton închis al pielii"
     ],
+    "🧏": [
+        "accesibilitate",
+        "auz",
+        "persoană surdă",
+        "surditate",
+        "surzenie",
+        "ureche"
+    ],
+    "🧏🏻": [
+        "accesibilitate",
+        "auz",
+        "persoană surdă",
+        "persoană surdă: ton deschis al pielii",
+        "surditate",
+        "surzenie",
+        "ton deschis al pielii",
+        "ureche"
+    ],
+    "🧏🏼": [
+        "accesibilitate",
+        "auz",
+        "persoană surdă",
+        "persoană surdă: ton semi‑deschis al pielii",
+        "surditate",
+        "surzenie",
+        "ton semi‑deschis al pielii",
+        "ureche"
+    ],
+    "🧏🏽": [
+        "accesibilitate",
+        "auz",
+        "persoană surdă",
+        "persoană surdă: ton mediu al pielii",
+        "surditate",
+        "surzenie",
+        "ton mediu al pielii",
+        "ureche"
+    ],
+    "🧏🏾": [
+        "accesibilitate",
+        "auz",
+        "persoană surdă",
+        "persoană surdă: ton semi‑închis al pielii",
+        "surditate",
+        "surzenie",
+        "ton semi‑închis al pielii",
+        "ureche"
+    ],
+    "🧏🏿": [
+        "accesibilitate",
+        "auz",
+        "persoană surdă",
+        "persoană surdă: ton închis al pielii",
+        "surditate",
+        "surzenie",
+        "ton închis al pielii",
+        "ureche"
+    ],
+    "🧏‍♂": [
+        "bărbat",
+        "bărbat surd",
+        "surd"
+    ],
+    "🧏🏻‍♂": [
+        "bărbat",
+        "bărbat surd: ton deschis al pielii",
+        "surd",
+        "ton deschis al pielii"
+    ],
+    "🧏🏼‍♂": [
+        "bărbat",
+        "bărbat surd: ton semi‑deschis al pielii",
+        "surd",
+        "ton semi‑deschis al pielii"
+    ],
+    "🧏🏽‍♂": [
+        "bărbat",
+        "bărbat surd: ton mediu al pielii",
+        "surd",
+        "ton mediu al pielii"
+    ],
+    "🧏🏾‍♂": [
+        "bărbat",
+        "bărbat surd: ton semi‑închis al pielii",
+        "surd",
+        "ton semi‑închis al pielii"
+    ],
+    "🧏🏿‍♂": [
+        "bărbat",
+        "bărbat surd: ton închis al pielii",
+        "surd",
+        "ton închis al pielii"
+    ],
+    "🧏‍♀": [
+        "femeie",
+        "femeie surdă",
+        "surdă"
+    ],
+    "🧏🏻‍♀": [
+        "femeie",
+        "femeie surdă: ton deschis al pielii",
+        "surdă",
+        "ton deschis al pielii"
+    ],
+    "🧏🏼‍♀": [
+        "femeie",
+        "femeie surdă: ton semi‑deschis al pielii",
+        "surdă",
+        "ton semi‑deschis al pielii"
+    ],
+    "🧏🏽‍♀": [
+        "femeie",
+        "femeie surdă: ton mediu al pielii",
+        "surdă",
+        "ton mediu al pielii"
+    ],
+    "🧏🏾‍♀": [
+        "femeie",
+        "femeie surdă: ton semi‑închis al pielii",
+        "surdă",
+        "ton semi‑închis al pielii"
+    ],
+    "🧏🏿‍♀": [
+        "femeie",
+        "femeie surdă: ton închis al pielii",
+        "surdă",
+        "ton închis al pielii"
+    ],
     "🙇": [
         "persoană care se înclină",
         "respect",
@@ -4924,6 +5520,76 @@
         "ton închis al pielii",
         "îndoială"
     ],
+    "🧑‍⚕": [
+        "asistent",
+        "asistentă",
+        "doctor",
+        "doctoriță",
+        "persoană lucrătoare în domeniul sănătății",
+        "servicii medicale",
+        "terapeut",
+        "terapeută"
+    ],
+    "🧑🏻‍⚕": [
+        "asistent",
+        "asistentă",
+        "doctor",
+        "doctoriță",
+        "persoană lucrătoare în domeniul sănătății",
+        "persoană lucrătoare în domeniul sănătății: ton deschis al pielii",
+        "servicii medicale",
+        "terapeut",
+        "terapeută",
+        "ton deschis al pielii"
+    ],
+    "🧑🏼‍⚕": [
+        "asistent",
+        "asistentă",
+        "doctor",
+        "doctoriță",
+        "persoană lucrătoare în domeniul sănătății",
+        "persoană lucrătoare în domeniul sănătății: ton semi‑deschis al pielii",
+        "servicii medicale",
+        "terapeut",
+        "terapeută",
+        "ton semi‑deschis al pielii"
+    ],
+    "🧑🏽‍⚕": [
+        "asistent",
+        "asistentă",
+        "doctor",
+        "doctoriță",
+        "persoană lucrătoare în domeniul sănătății",
+        "persoană lucrătoare în domeniul sănătății: ton mediu al pielii",
+        "servicii medicale",
+        "terapeut",
+        "terapeută",
+        "ton mediu al pielii"
+    ],
+    "🧑🏾‍⚕": [
+        "asistent",
+        "asistentă",
+        "doctor",
+        "doctoriță",
+        "persoană lucrătoare în domeniul sănătății",
+        "persoană lucrătoare în domeniul sănătății: ton semi‑închis al pielii",
+        "servicii medicale",
+        "terapeut",
+        "terapeută",
+        "ton semi‑închis al pielii"
+    ],
+    "🧑🏿‍⚕": [
+        "asistent",
+        "asistentă",
+        "doctor",
+        "doctoriță",
+        "persoană lucrătoare în domeniul sănătății",
+        "persoană lucrătoare în domeniul sănătății: ton închis al pielii",
+        "servicii medicale",
+        "terapeut",
+        "terapeută",
+        "ton închis al pielii"
+    ],
     "👨‍⚕": [
         "bărbat",
         "doctor",
@@ -5052,6 +5718,58 @@
         "terapeută",
         "ton închis al pielii"
     ],
+    "🧑‍🎓": [
+        "absolvent",
+        "absolventă",
+        "student",
+        "student sau studentă",
+        "studentă"
+    ],
+    "🧑🏻‍🎓": [
+        "absolvent",
+        "absolventă",
+        "student",
+        "student sau studentă",
+        "student sau studentă: ton deschis al pielii",
+        "studentă",
+        "ton deschis al pielii"
+    ],
+    "🧑🏼‍🎓": [
+        "absolvent",
+        "absolventă",
+        "student",
+        "student sau studentă",
+        "student sau studentă: ton semi‑deschis al pielii",
+        "studentă",
+        "ton semi‑deschis al pielii"
+    ],
+    "🧑🏽‍🎓": [
+        "absolvent",
+        "absolventă",
+        "student",
+        "student sau studentă",
+        "student sau studentă: ton mediu al pielii",
+        "studentă",
+        "ton mediu al pielii"
+    ],
+    "🧑🏾‍🎓": [
+        "absolvent",
+        "absolventă",
+        "student",
+        "student sau studentă",
+        "student sau studentă: ton semi‑închis al pielii",
+        "studentă",
+        "ton semi‑închis al pielii"
+    ],
+    "🧑🏿‍🎓": [
+        "absolvent",
+        "absolventă",
+        "student",
+        "student sau studentă",
+        "student sau studentă: ton închis al pielii",
+        "studentă",
+        "ton închis al pielii"
+    ],
     "👨‍🎓": [
         "absolvent",
         "student"
@@ -5119,6 +5837,52 @@
         "studentă",
         "studentă: ton închis al pielii",
         "ton închis al pielii"
+    ],
+    "🧑‍🏫": [
+        "instructor",
+        "profesor",
+        "profesor sau profesoară",
+        "învățător"
+    ],
+    "🧑🏻‍🏫": [
+        "instructor",
+        "profesor",
+        "profesor sau profesoară",
+        "profesor sau profesoară: ton deschis al pielii",
+        "ton deschis al pielii",
+        "învățător"
+    ],
+    "🧑🏼‍🏫": [
+        "instructor",
+        "profesor",
+        "profesor sau profesoară",
+        "profesor sau profesoară: ton semi‑deschis al pielii",
+        "ton semi‑deschis al pielii",
+        "învățător"
+    ],
+    "🧑🏽‍🏫": [
+        "instructor",
+        "profesor",
+        "profesor sau profesoară",
+        "profesor sau profesoară: ton mediu al pielii",
+        "ton mediu al pielii",
+        "învățător"
+    ],
+    "🧑🏾‍🏫": [
+        "instructor",
+        "profesor",
+        "profesor sau profesoară",
+        "profesor sau profesoară: ton semi‑închis al pielii",
+        "ton semi‑închis al pielii",
+        "învățător"
+    ],
+    "🧑🏿‍🏫": [
+        "instructor",
+        "profesor",
+        "profesor sau profesoară",
+        "profesor sau profesoară: ton închis al pielii",
+        "ton închis al pielii",
+        "învățător"
     ],
     "👨‍🏫": [
         "instructor",
@@ -5200,6 +5964,46 @@
         "ton închis al pielii",
         "învățătoare"
     ],
+    "🧑‍⚖": [
+        "balanță",
+        "judecător",
+        "judecător sau judecătoare"
+    ],
+    "🧑🏻‍⚖": [
+        "balanță",
+        "judecător",
+        "judecător sau judecătoare",
+        "judecător sau judecătoare: ton deschis al pielii",
+        "ton deschis al pielii"
+    ],
+    "🧑🏼‍⚖": [
+        "balanță",
+        "judecător",
+        "judecător sau judecătoare",
+        "judecător sau judecătoare: ton semi‑deschis al pielii",
+        "ton semi‑deschis al pielii"
+    ],
+    "🧑🏽‍⚖": [
+        "balanță",
+        "judecător",
+        "judecător sau judecătoare",
+        "judecător sau judecătoare: ton mediu al pielii",
+        "ton mediu al pielii"
+    ],
+    "🧑🏾‍⚖": [
+        "balanță",
+        "judecător",
+        "judecător sau judecătoare",
+        "judecător sau judecătoare: ton semi‑închis al pielii",
+        "ton semi‑închis al pielii"
+    ],
+    "🧑🏿‍⚖": [
+        "balanță",
+        "judecător",
+        "judecător sau judecătoare",
+        "judecător sau judecătoare: ton închis al pielii",
+        "ton închis al pielii"
+    ],
     "👨‍⚖": [
         "balanță",
         "judecător",
@@ -5278,6 +6082,52 @@
         "judecătoare",
         "judecătoare: ton închis al pielii",
         "justiție",
+        "ton închis al pielii"
+    ],
+    "🧑‍🌾": [
+        "crescător de vite",
+        "fermier",
+        "fermier sau fermieră",
+        "grădinar"
+    ],
+    "🧑🏻‍🌾": [
+        "crescător de vite",
+        "fermier",
+        "fermier sau fermieră",
+        "fermier sau fermieră: ton deschis al pielii",
+        "grădinar",
+        "ton deschis al pielii"
+    ],
+    "🧑🏼‍🌾": [
+        "crescător de vite",
+        "fermier",
+        "fermier sau fermieră",
+        "fermier sau fermieră: ton semi‑deschis al pielii",
+        "grădinar",
+        "ton semi‑deschis al pielii"
+    ],
+    "🧑🏽‍🌾": [
+        "crescător de vite",
+        "fermier",
+        "fermier sau fermieră",
+        "fermier sau fermieră: ton mediu al pielii",
+        "grădinar",
+        "ton mediu al pielii"
+    ],
+    "🧑🏾‍🌾": [
+        "crescător de vite",
+        "fermier",
+        "fermier sau fermieră",
+        "fermier sau fermieră: ton semi‑închis al pielii",
+        "grădinar",
+        "ton semi‑închis al pielii"
+    ],
+    "🧑🏿‍🌾": [
+        "crescător de vite",
+        "fermier",
+        "fermier sau fermieră",
+        "fermier sau fermieră: ton închis al pielii",
+        "grădinar",
         "ton închis al pielii"
     ],
     "👨‍🌾": [
@@ -5372,6 +6222,46 @@
         "ton închis al pielii",
         "țărancă"
     ],
+    "🧑‍🍳": [
+        "bucătar",
+        "bucătar sau bucătăreasă",
+        "chef"
+    ],
+    "🧑🏻‍🍳": [
+        "bucătar",
+        "bucătar sau bucătăreasă",
+        "bucătar sau bucătăreasă: ton deschis al pielii",
+        "chef",
+        "ton deschis al pielii"
+    ],
+    "🧑🏼‍🍳": [
+        "bucătar",
+        "bucătar sau bucătăreasă",
+        "bucătar sau bucătăreasă: ton semi‑deschis al pielii",
+        "chef",
+        "ton semi‑deschis al pielii"
+    ],
+    "🧑🏽‍🍳": [
+        "bucătar",
+        "bucătar sau bucătăreasă",
+        "bucătar sau bucătăreasă: ton mediu al pielii",
+        "chef",
+        "ton mediu al pielii"
+    ],
+    "🧑🏾‍🍳": [
+        "bucătar",
+        "bucătar sau bucătăreasă",
+        "bucătar sau bucătăreasă: ton semi‑închis al pielii",
+        "chef",
+        "ton semi‑închis al pielii"
+    ],
+    "🧑🏿‍🍳": [
+        "bucătar",
+        "bucătar sau bucătăreasă",
+        "bucătar sau bucătăreasă: ton închis al pielii",
+        "chef",
+        "ton închis al pielii"
+    ],
     "👨‍🍳": [
         "bucătar",
         "bucătărie"
@@ -5440,17 +6330,65 @@
         "bucătărie",
         "ton închis al pielii"
     ],
+    "🧑‍🔧": [
+        "electrician",
+        "instalator",
+        "mecanic",
+        "meseriaș"
+    ],
+    "🧑🏻‍🔧": [
+        "electrician",
+        "instalator",
+        "mecanic",
+        "mecanic: ton deschis al pielii",
+        "meseriaș",
+        "ton deschis al pielii"
+    ],
+    "🧑🏼‍🔧": [
+        "electrician",
+        "instalator",
+        "mecanic",
+        "mecanic: ton semi‑deschis al pielii",
+        "meseriaș",
+        "ton semi‑deschis al pielii"
+    ],
+    "🧑🏽‍🔧": [
+        "electrician",
+        "instalator",
+        "mecanic",
+        "mecanic: ton mediu al pielii",
+        "meseriaș",
+        "ton mediu al pielii"
+    ],
+    "🧑🏾‍🔧": [
+        "electrician",
+        "instalator",
+        "mecanic",
+        "mecanic: ton semi‑închis al pielii",
+        "meseriaș",
+        "ton semi‑închis al pielii"
+    ],
+    "🧑🏿‍🔧": [
+        "electrician",
+        "instalator",
+        "mecanic",
+        "mecanic: ton închis al pielii",
+        "meseriaș",
+        "ton închis al pielii"
+    ],
     "👨‍🔧": [
         "electrician",
         "instalator",
         "mecanic",
+        "mecanic bărbat",
         "meșter"
     ],
     "👨🏻‍🔧": [
         "electrician",
         "instalator",
         "mecanic",
-        "mecanic: ton deschis al pielii",
+        "mecanic bărbat",
+        "mecanic bărbat: ton deschis al pielii",
         "meșter",
         "ton deschis al pielii"
     ],
@@ -5458,7 +6396,8 @@
         "electrician",
         "instalator",
         "mecanic",
-        "mecanic: ton semi‑deschis al pielii",
+        "mecanic bărbat",
+        "mecanic bărbat: ton semi‑deschis al pielii",
         "meșter",
         "ton semi‑deschis al pielii"
     ],
@@ -5466,7 +6405,8 @@
         "electrician",
         "instalator",
         "mecanic",
-        "mecanic: ton mediu al pielii",
+        "mecanic bărbat",
+        "mecanic bărbat: ton mediu al pielii",
         "meșter",
         "ton mediu al pielii"
     ],
@@ -5474,7 +6414,8 @@
         "electrician",
         "instalator",
         "mecanic",
-        "mecanic: ton semi‑închis al pielii",
+        "mecanic bărbat",
+        "mecanic bărbat: ton semi‑închis al pielii",
         "meșter",
         "ton semi‑închis al pielii"
     ],
@@ -5482,48 +6423,107 @@
         "electrician",
         "instalator",
         "mecanic",
-        "mecanic: ton închis al pielii",
+        "mecanic bărbat",
+        "mecanic bărbat: ton închis al pielii",
         "meșter",
         "ton închis al pielii"
     ],
     "👩‍🔧": [
         "electriciană",
         "femeie mecanic",
-        "instalatoare"
+        "instalatoare",
+        "mecanic femeie"
     ],
     "👩🏻‍🔧": [
         "electriciană",
         "femeie mecanic",
-        "femeie mecanic: ton deschis al pielii",
         "instalatoare",
+        "mecanic femeie",
+        "mecanic femeie: ton deschis al pielii",
         "ton deschis al pielii"
     ],
     "👩🏼‍🔧": [
         "electriciană",
         "femeie mecanic",
-        "femeie mecanic: ton semi‑deschis al pielii",
         "instalatoare",
+        "mecanic femeie",
+        "mecanic femeie: ton semi‑deschis al pielii",
         "ton semi‑deschis al pielii"
     ],
     "👩🏽‍🔧": [
         "electriciană",
         "femeie mecanic",
-        "femeie mecanic: ton mediu al pielii",
         "instalatoare",
+        "mecanic femeie",
+        "mecanic femeie: ton mediu al pielii",
         "ton mediu al pielii"
     ],
     "👩🏾‍🔧": [
         "electriciană",
         "femeie mecanic",
-        "femeie mecanic: ton semi‑închis al pielii",
         "instalatoare",
+        "mecanic femeie",
+        "mecanic femeie: ton semi‑închis al pielii",
         "ton semi‑închis al pielii"
     ],
     "👩🏿‍🔧": [
         "electriciană",
         "femeie mecanic",
-        "femeie mecanic: ton închis al pielii",
         "instalatoare",
+        "mecanic femeie",
+        "mecanic femeie: ton închis al pielii",
+        "ton închis al pielii"
+    ],
+    "🧑‍🏭": [
+        "colectiv",
+        "fabrică",
+        "industrial",
+        "muncitor",
+        "muncitor sau muncitoare în fabrică"
+    ],
+    "🧑🏻‍🏭": [
+        "colectiv",
+        "fabrică",
+        "industrial",
+        "muncitor",
+        "muncitor sau muncitoare în fabrică",
+        "muncitor sau muncitoare în fabrică: ton deschis al pielii",
+        "ton deschis al pielii"
+    ],
+    "🧑🏼‍🏭": [
+        "colectiv",
+        "fabrică",
+        "industrial",
+        "muncitor",
+        "muncitor sau muncitoare în fabrică",
+        "muncitor sau muncitoare în fabrică: ton semi‑deschis al pielii",
+        "ton semi‑deschis al pielii"
+    ],
+    "🧑🏽‍🏭": [
+        "colectiv",
+        "fabrică",
+        "industrial",
+        "muncitor",
+        "muncitor sau muncitoare în fabrică",
+        "muncitor sau muncitoare în fabrică: ton mediu al pielii",
+        "ton mediu al pielii"
+    ],
+    "🧑🏾‍🏭": [
+        "colectiv",
+        "fabrică",
+        "industrial",
+        "muncitor",
+        "muncitor sau muncitoare în fabrică",
+        "muncitor sau muncitoare în fabrică: ton semi‑închis al pielii",
+        "ton semi‑închis al pielii"
+    ],
+    "🧑🏿‍🏭": [
+        "colectiv",
+        "fabrică",
+        "industrial",
+        "muncitor",
+        "muncitor sau muncitoare în fabrică",
+        "muncitor sau muncitoare în fabrică: ton închis al pielii",
         "ton închis al pielii"
     ],
     "👨‍🏭": [
@@ -5642,6 +6642,58 @@
         "ton închis al pielii",
         "uzină"
     ],
+    "🧑‍💼": [
+        "arhitect",
+        "director",
+        "funcționar sau funcționară",
+        "guler alb",
+        "manager"
+    ],
+    "🧑🏻‍💼": [
+        "arhitect",
+        "director",
+        "funcționar sau funcționară",
+        "funcționar sau funcționară: ton deschis al pielii",
+        "guler alb",
+        "manager",
+        "ton deschis al pielii"
+    ],
+    "🧑🏼‍💼": [
+        "arhitect",
+        "director",
+        "funcționar sau funcționară",
+        "funcționar sau funcționară: ton semi‑deschis al pielii",
+        "guler alb",
+        "manager",
+        "ton semi‑deschis al pielii"
+    ],
+    "🧑🏽‍💼": [
+        "arhitect",
+        "director",
+        "funcționar sau funcționară",
+        "funcționar sau funcționară: ton mediu al pielii",
+        "guler alb",
+        "manager",
+        "ton mediu al pielii"
+    ],
+    "🧑🏾‍💼": [
+        "arhitect",
+        "director",
+        "funcționar sau funcționară",
+        "funcționar sau funcționară: ton semi‑închis al pielii",
+        "guler alb",
+        "manager",
+        "ton semi‑închis al pielii"
+    ],
+    "🧑🏿‍💼": [
+        "arhitect",
+        "director",
+        "funcționar sau funcționară",
+        "funcționar sau funcționară: ton închis al pielii",
+        "guler alb",
+        "manager",
+        "ton închis al pielii"
+    ],
     "👨‍💼": [
         "administrație",
         "arhitect",
@@ -5758,12 +6810,65 @@
         "funcționară: ton închis al pielii",
         "ton închis al pielii"
     ],
+    "🧑‍🔬": [
+        "biolog",
+        "chimist",
+        "fizician",
+        "inginer",
+        "om de știință"
+    ],
+    "🧑🏻‍🔬": [
+        "biolog",
+        "chimist",
+        "fizician",
+        "inginer",
+        "om de știință",
+        "om de știință: ton deschis al pielii",
+        "ton deschis al pielii"
+    ],
+    "🧑🏼‍🔬": [
+        "biolog",
+        "chimist",
+        "fizician",
+        "inginer",
+        "om de știință",
+        "om de știință: ton semi‑deschis al pielii",
+        "ton semi‑deschis al pielii"
+    ],
+    "🧑🏽‍🔬": [
+        "biolog",
+        "chimist",
+        "fizician",
+        "inginer",
+        "om de știință",
+        "om de știință: ton mediu al pielii",
+        "ton mediu al pielii"
+    ],
+    "🧑🏾‍🔬": [
+        "biolog",
+        "chimist",
+        "fizician",
+        "inginer",
+        "om de știință",
+        "om de știință: ton semi‑închis al pielii",
+        "ton semi‑închis al pielii"
+    ],
+    "🧑🏿‍🔬": [
+        "biolog",
+        "chimist",
+        "fizician",
+        "inginer",
+        "om de știință",
+        "om de știință: ton închis al pielii",
+        "ton închis al pielii"
+    ],
     "👨‍🔬": [
         "biolog",
         "chimist",
         "fizician",
         "matematician",
-        "om de știință"
+        "om de știință",
+        "om de știință bărbat"
     ],
     "👨🏻‍🔬": [
         "biolog",
@@ -5771,7 +6876,8 @@
         "fizician",
         "matematician",
         "om de știință",
-        "om de știință: ton deschis al pielii",
+        "om de știință bărbat",
+        "om de știință bărbat: ton deschis al pielii",
         "ton deschis al pielii"
     ],
     "👨🏼‍🔬": [
@@ -5780,7 +6886,8 @@
         "fizician",
         "matematician",
         "om de știință",
-        "om de știință: ton semi‑deschis al pielii",
+        "om de știință bărbat",
+        "om de știință bărbat: ton semi‑deschis al pielii",
         "ton semi‑deschis al pielii"
     ],
     "👨🏽‍🔬": [
@@ -5789,7 +6896,8 @@
         "fizician",
         "matematician",
         "om de știință",
-        "om de știință: ton mediu al pielii",
+        "om de știință bărbat",
+        "om de știință bărbat: ton mediu al pielii",
         "ton mediu al pielii"
     ],
     "👨🏾‍🔬": [
@@ -5798,7 +6906,8 @@
         "fizician",
         "matematician",
         "om de știință",
-        "om de știință: ton semi‑închis al pielii",
+        "om de știință bărbat",
+        "om de știință bărbat: ton semi‑închis al pielii",
         "ton semi‑închis al pielii"
     ],
     "👨🏿‍🔬": [
@@ -5807,7 +6916,8 @@
         "fizician",
         "matematician",
         "om de știință",
-        "om de știință: ton închis al pielii",
+        "om de știință bărbat",
+        "om de știință bărbat: ton închis al pielii",
         "ton închis al pielii"
     ],
     "👩‍🔬": [
@@ -5815,51 +6925,121 @@
         "chimistă",
         "femeie om de știință",
         "fiziciană",
-        "matematiciană"
+        "matematiciană",
+        "om de știință femeie"
     ],
     "👩🏻‍🔬": [
         "biologă",
         "chimistă",
         "femeie om de știință",
-        "femeie om de știință: ton deschis al pielii",
         "fiziciană",
         "matematiciană",
+        "om de știință femeie",
+        "om de știință femeie: ton deschis al pielii",
         "ton deschis al pielii"
     ],
     "👩🏼‍🔬": [
         "biologă",
         "chimistă",
         "femeie om de știință",
-        "femeie om de știință: ton semi‑deschis al pielii",
         "fiziciană",
         "matematiciană",
+        "om de știință femeie",
+        "om de știință femeie: ton semi‑deschis al pielii",
         "ton semi‑deschis al pielii"
     ],
     "👩🏽‍🔬": [
         "biologă",
         "chimistă",
         "femeie om de știință",
-        "femeie om de știință: ton mediu al pielii",
         "fiziciană",
         "matematiciană",
+        "om de știință femeie",
+        "om de știință femeie: ton mediu al pielii",
         "ton mediu al pielii"
     ],
     "👩🏾‍🔬": [
         "biologă",
         "chimistă",
         "femeie om de știință",
-        "femeie om de știință: ton semi‑închis al pielii",
         "fiziciană",
         "matematiciană",
+        "om de știință femeie",
+        "om de știință femeie: ton semi‑închis al pielii",
         "ton semi‑închis al pielii"
     ],
     "👩🏿‍🔬": [
         "biologă",
         "chimistă",
         "femeie om de știință",
-        "femeie om de știință: ton închis al pielii",
         "fiziciană",
         "matematiciană",
+        "om de știință femeie",
+        "om de știință femeie: ton închis al pielii",
+        "ton închis al pielii"
+    ],
+    "🧑‍💻": [
+        "dezvoltator",
+        "inventator",
+        "programator",
+        "software",
+        "specialist sau specialistă IT",
+        "tehnic",
+        "tehnolog"
+    ],
+    "🧑🏻‍💻": [
+        "dezvoltator",
+        "inventator",
+        "programator",
+        "software",
+        "specialist sau specialistă IT",
+        "specialist sau specialistă IT: ton deschis al pielii",
+        "tehnic",
+        "tehnolog",
+        "ton deschis al pielii"
+    ],
+    "🧑🏼‍💻": [
+        "dezvoltator",
+        "inventator",
+        "programator",
+        "software",
+        "specialist sau specialistă IT",
+        "specialist sau specialistă IT: ton semi‑deschis al pielii",
+        "tehnic",
+        "tehnolog",
+        "ton semi‑deschis al pielii"
+    ],
+    "🧑🏽‍💻": [
+        "dezvoltator",
+        "inventator",
+        "programator",
+        "software",
+        "specialist sau specialistă IT",
+        "specialist sau specialistă IT: ton mediu al pielii",
+        "tehnic",
+        "tehnolog",
+        "ton mediu al pielii"
+    ],
+    "🧑🏾‍💻": [
+        "dezvoltator",
+        "inventator",
+        "programator",
+        "software",
+        "specialist sau specialistă IT",
+        "specialist sau specialistă IT: ton semi‑închis al pielii",
+        "tehnic",
+        "tehnolog",
+        "ton semi‑închis al pielii"
+    ],
+    "🧑🏿‍💻": [
+        "dezvoltator",
+        "inventator",
+        "programator",
+        "software",
+        "specialist sau specialistă IT",
+        "specialist sau specialistă IT: ton închis al pielii",
+        "tehnic",
+        "tehnolog",
         "ton închis al pielii"
     ],
     "👨‍💻": [
@@ -5965,6 +7145,70 @@
         "specialistă IT",
         "specialistă IT: ton închis al pielii",
         "ton închis al pielii"
+    ],
+    "🧑‍🎤": [
+        "actor",
+        "comediant",
+        "cântăreț",
+        "cântăreț sau cântăreață",
+        "rock",
+        "solist",
+        "vedetă"
+    ],
+    "🧑🏻‍🎤": [
+        "actor",
+        "comediant",
+        "cântăreț",
+        "cântăreț sau cântăreață",
+        "cântăreț sau cântăreață: ton deschis al pielii",
+        "rock",
+        "solist",
+        "ton deschis al pielii",
+        "vedetă"
+    ],
+    "🧑🏼‍🎤": [
+        "actor",
+        "comediant",
+        "cântăreț",
+        "cântăreț sau cântăreață",
+        "cântăreț sau cântăreață: ton semi‑deschis al pielii",
+        "rock",
+        "solist",
+        "ton semi‑deschis al pielii",
+        "vedetă"
+    ],
+    "🧑🏽‍🎤": [
+        "actor",
+        "comediant",
+        "cântăreț",
+        "cântăreț sau cântăreață",
+        "cântăreț sau cântăreață: ton mediu al pielii",
+        "rock",
+        "solist",
+        "ton mediu al pielii",
+        "vedetă"
+    ],
+    "🧑🏾‍🎤": [
+        "actor",
+        "comediant",
+        "cântăreț",
+        "cântăreț sau cântăreață",
+        "cântăreț sau cântăreață: ton semi‑închis al pielii",
+        "rock",
+        "solist",
+        "ton semi‑închis al pielii",
+        "vedetă"
+    ],
+    "🧑🏿‍🎤": [
+        "actor",
+        "comediant",
+        "cântăreț",
+        "cântăreț sau cântăreață",
+        "cântăreț sau cântăreață: ton închis al pielii",
+        "rock",
+        "solist",
+        "ton închis al pielii",
+        "vedetă"
     ],
     "👨‍🎤": [
         "actor",
@@ -6082,6 +7326,46 @@
         "ton închis al pielii",
         "vedetă"
     ],
+    "🧑‍🎨": [
+        "artist",
+        "artist sau artistă",
+        "paletă"
+    ],
+    "🧑🏻‍🎨": [
+        "artist",
+        "artist sau artistă",
+        "artist sau artistă: ton deschis al pielii",
+        "paletă",
+        "ton deschis al pielii"
+    ],
+    "🧑🏼‍🎨": [
+        "artist",
+        "artist sau artistă",
+        "artist sau artistă: ton semi‑deschis al pielii",
+        "paletă",
+        "ton semi‑deschis al pielii"
+    ],
+    "🧑🏽‍🎨": [
+        "artist",
+        "artist sau artistă",
+        "artist sau artistă: ton mediu al pielii",
+        "paletă",
+        "ton mediu al pielii"
+    ],
+    "🧑🏾‍🎨": [
+        "artist",
+        "artist sau artistă",
+        "artist sau artistă: ton semi‑închis al pielii",
+        "paletă",
+        "ton semi‑închis al pielii"
+    ],
+    "🧑🏿‍🎨": [
+        "artist",
+        "artist sau artistă",
+        "artist sau artistă: ton închis al pielii",
+        "paletă",
+        "ton închis al pielii"
+    ],
     "👨‍🎨": [
         "artist",
         "paletă",
@@ -6162,72 +7446,158 @@
         "pictoriță",
         "ton închis al pielii"
     ],
-    "👨‍✈": [
+    "🧑‍✈": [
         "avion",
         "pilot"
     ],
-    "👨🏻‍✈": [
+    "🧑🏻‍✈": [
         "avion",
         "pilot",
         "pilot: ton deschis al pielii",
         "ton deschis al pielii"
     ],
-    "👨🏼‍✈": [
+    "🧑🏼‍✈": [
         "avion",
         "pilot",
         "pilot: ton semi‑deschis al pielii",
         "ton semi‑deschis al pielii"
     ],
-    "👨🏽‍✈": [
+    "🧑🏽‍✈": [
         "avion",
         "pilot",
         "pilot: ton mediu al pielii",
         "ton mediu al pielii"
     ],
-    "👨🏾‍✈": [
+    "🧑🏾‍✈": [
         "avion",
         "pilot",
         "pilot: ton semi‑închis al pielii",
         "ton semi‑închis al pielii"
     ],
-    "👨🏿‍✈": [
+    "🧑🏿‍✈": [
         "avion",
         "pilot",
         "pilot: ton închis al pielii",
         "ton închis al pielii"
     ],
+    "👨‍✈": [
+        "avion",
+        "pilot",
+        "pilot bărbat"
+    ],
+    "👨🏻‍✈": [
+        "avion",
+        "pilot",
+        "pilot bărbat",
+        "pilot bărbat: ton deschis al pielii",
+        "ton deschis al pielii"
+    ],
+    "👨🏼‍✈": [
+        "avion",
+        "pilot",
+        "pilot bărbat",
+        "pilot bărbat: ton semi‑deschis al pielii",
+        "ton semi‑deschis al pielii"
+    ],
+    "👨🏽‍✈": [
+        "avion",
+        "pilot",
+        "pilot bărbat",
+        "pilot bărbat: ton mediu al pielii",
+        "ton mediu al pielii"
+    ],
+    "👨🏾‍✈": [
+        "avion",
+        "pilot",
+        "pilot bărbat",
+        "pilot bărbat: ton semi‑închis al pielii",
+        "ton semi‑închis al pielii"
+    ],
+    "👨🏿‍✈": [
+        "avion",
+        "pilot",
+        "pilot bărbat",
+        "pilot bărbat: ton închis al pielii",
+        "ton închis al pielii"
+    ],
     "👩‍✈": [
         "avion",
-        "femeie pilot"
+        "femeie pilot",
+        "pilot femeie"
     ],
     "👩🏻‍✈": [
         "avion",
         "femeie pilot",
-        "femeie pilot: ton deschis al pielii",
+        "pilot femeie",
+        "pilot femeie: ton deschis al pielii",
         "ton deschis al pielii"
     ],
     "👩🏼‍✈": [
         "avion",
         "femeie pilot",
-        "femeie pilot: ton semi‑deschis al pielii",
+        "pilot femeie",
+        "pilot femeie: ton semi‑deschis al pielii",
         "ton semi‑deschis al pielii"
     ],
     "👩🏽‍✈": [
         "avion",
         "femeie pilot",
-        "femeie pilot: ton mediu al pielii",
+        "pilot femeie",
+        "pilot femeie: ton mediu al pielii",
         "ton mediu al pielii"
     ],
     "👩🏾‍✈": [
         "avion",
         "femeie pilot",
-        "femeie pilot: ton semi‑închis al pielii",
+        "pilot femeie",
+        "pilot femeie: ton semi‑închis al pielii",
         "ton semi‑închis al pielii"
     ],
     "👩🏿‍✈": [
         "avion",
         "femeie pilot",
-        "femeie pilot: ton închis al pielii",
+        "pilot femeie",
+        "pilot femeie: ton închis al pielii",
+        "ton închis al pielii"
+    ],
+    "🧑‍🚀": [
+        "astronaut",
+        "astronaut sau astronaută",
+        "rachetă"
+    ],
+    "🧑🏻‍🚀": [
+        "astronaut",
+        "astronaut sau astronaută",
+        "astronaut sau astronaută: ton deschis al pielii",
+        "rachetă",
+        "ton deschis al pielii"
+    ],
+    "🧑🏼‍🚀": [
+        "astronaut",
+        "astronaut sau astronaută",
+        "astronaut sau astronaută: ton semi‑deschis al pielii",
+        "rachetă",
+        "ton semi‑deschis al pielii"
+    ],
+    "🧑🏽‍🚀": [
+        "astronaut",
+        "astronaut sau astronaută",
+        "astronaut sau astronaută: ton mediu al pielii",
+        "rachetă",
+        "ton mediu al pielii"
+    ],
+    "🧑🏾‍🚀": [
+        "astronaut",
+        "astronaut sau astronaută",
+        "astronaut sau astronaută: ton semi‑închis al pielii",
+        "rachetă",
+        "ton semi‑închis al pielii"
+    ],
+    "🧑🏿‍🚀": [
+        "astronaut",
+        "astronaut sau astronaută",
+        "astronaut sau astronaută: ton închis al pielii",
+        "rachetă",
         "ton închis al pielii"
     ],
     "👨‍🚀": [
@@ -6322,106 +7692,158 @@
         "spațiu",
         "ton închis al pielii"
     ],
-    "👨‍🚒": [
+    "🧑‍🚒": [
         "mașină de pompieri",
         "pompier"
     ],
-    "👨🏻‍🚒": [
+    "🧑🏻‍🚒": [
         "mașină de pompieri",
         "pompier",
         "pompier: ton deschis al pielii",
         "ton deschis al pielii"
     ],
-    "👨🏼‍🚒": [
+    "🧑🏼‍🚒": [
         "mașină de pompieri",
         "pompier",
         "pompier: ton semi‑deschis al pielii",
         "ton semi‑deschis al pielii"
     ],
-    "👨🏽‍🚒": [
+    "🧑🏽‍🚒": [
         "mașină de pompieri",
         "pompier",
         "pompier: ton mediu al pielii",
         "ton mediu al pielii"
     ],
-    "👨🏾‍🚒": [
+    "🧑🏾‍🚒": [
         "mașină de pompieri",
         "pompier",
         "pompier: ton semi‑închis al pielii",
         "ton semi‑închis al pielii"
     ],
-    "👨🏿‍🚒": [
+    "🧑🏿‍🚒": [
         "mașină de pompieri",
         "pompier",
         "pompier: ton închis al pielii",
         "ton închis al pielii"
     ],
+    "👨‍🚒": [
+        "mașină de pompieri",
+        "pompier",
+        "pompier bărbat"
+    ],
+    "👨🏻‍🚒": [
+        "mașină de pompieri",
+        "pompier",
+        "pompier bărbat",
+        "pompier bărbat: ton deschis al pielii",
+        "ton deschis al pielii"
+    ],
+    "👨🏼‍🚒": [
+        "mașină de pompieri",
+        "pompier",
+        "pompier bărbat",
+        "pompier bărbat: ton semi‑deschis al pielii",
+        "ton semi‑deschis al pielii"
+    ],
+    "👨🏽‍🚒": [
+        "mașină de pompieri",
+        "pompier",
+        "pompier bărbat",
+        "pompier bărbat: ton mediu al pielii",
+        "ton mediu al pielii"
+    ],
+    "👨🏾‍🚒": [
+        "mașină de pompieri",
+        "pompier",
+        "pompier bărbat",
+        "pompier bărbat: ton semi‑închis al pielii",
+        "ton semi‑închis al pielii"
+    ],
+    "👨🏿‍🚒": [
+        "mașină de pompieri",
+        "pompier",
+        "pompier bărbat",
+        "pompier bărbat: ton închis al pielii",
+        "ton închis al pielii"
+    ],
     "👩‍🚒": [
         "femeie pompier",
-        "mașină de pompieri"
+        "mașină de pompieri",
+        "pompier femeie"
     ],
     "👩🏻‍🚒": [
         "femeie pompier",
-        "femeie pompier: ton deschis al pielii",
         "mașină de pompieri",
+        "pompier femeie",
+        "pompier femeie: ton deschis al pielii",
         "ton deschis al pielii"
     ],
     "👩🏼‍🚒": [
         "femeie pompier",
-        "femeie pompier: ton semi‑deschis al pielii",
         "mașină de pompieri",
+        "pompier femeie",
+        "pompier femeie: ton semi‑deschis al pielii",
         "ton semi‑deschis al pielii"
     ],
     "👩🏽‍🚒": [
         "femeie pompier",
-        "femeie pompier: ton mediu al pielii",
         "mașină de pompieri",
+        "pompier femeie",
+        "pompier femeie: ton mediu al pielii",
         "ton mediu al pielii"
     ],
     "👩🏾‍🚒": [
         "femeie pompier",
-        "femeie pompier: ton semi‑închis al pielii",
         "mașină de pompieri",
+        "pompier femeie",
+        "pompier femeie: ton semi‑închis al pielii",
         "ton semi‑închis al pielii"
     ],
     "👩🏿‍🚒": [
         "femeie pompier",
-        "femeie pompier: ton închis al pielii",
         "mașină de pompieri",
+        "pompier femeie",
+        "pompier femeie: ton închis al pielii",
         "ton închis al pielii"
     ],
     "👮": [
         "ofițer",
-        "polițist"
+        "polițist",
+        "polițist sau polițistă"
     ],
     "👮🏻": [
         "ofițer",
         "polițist",
-        "polițist: ton deschis al pielii",
+        "polițist sau polițistă",
+        "polițist sau polițistă: ton deschis al pielii",
         "ton deschis al pielii"
     ],
     "👮🏼": [
         "ofițer",
         "polițist",
-        "polițist: ton semi‑deschis al pielii",
+        "polițist sau polițistă",
+        "polițist sau polițistă: ton semi‑deschis al pielii",
         "ton semi‑deschis al pielii"
     ],
     "👮🏽": [
         "ofițer",
         "polițist",
-        "polițist: ton mediu al pielii",
+        "polițist sau polițistă",
+        "polițist sau polițistă: ton mediu al pielii",
         "ton mediu al pielii"
     ],
     "👮🏾": [
         "ofițer",
         "polițist",
-        "polițist: ton semi‑închis al pielii",
+        "polițist sau polițistă",
+        "polițist sau polițistă: ton semi‑închis al pielii",
         "ton semi‑închis al pielii"
     ],
     "👮🏿": [
         "ofițer",
         "polițist",
-        "polițist: ton închis al pielii",
+        "polițist sau polițistă",
+        "polițist sau polițistă: ton închis al pielii",
         "ton închis al pielii"
     ],
     "👮‍♂": [
@@ -6435,7 +7857,7 @@
         "poliție",
         "polițist",
         "polițist bărbat",
-        "polițist bărbat: ton deschis al pielii",
+        "polițist: ton deschis al pielii",
         "ton deschis al pielii"
     ],
     "👮🏼‍♂": [
@@ -6443,7 +7865,7 @@
         "poliție",
         "polițist",
         "polițist bărbat",
-        "polițist bărbat: ton semi‑deschis al pielii",
+        "polițist: ton semi‑deschis al pielii",
         "ton semi‑deschis al pielii"
     ],
     "👮🏽‍♂": [
@@ -6451,7 +7873,7 @@
         "poliție",
         "polițist",
         "polițist bărbat",
-        "polițist bărbat: ton mediu al pielii",
+        "polițist: ton mediu al pielii",
         "ton mediu al pielii"
     ],
     "👮🏾‍♂": [
@@ -6459,7 +7881,7 @@
         "poliție",
         "polițist",
         "polițist bărbat",
-        "polițist bărbat: ton semi‑închis al pielii",
+        "polițist: ton semi‑închis al pielii",
         "ton semi‑închis al pielii"
     ],
     "👮🏿‍♂": [
@@ -6467,7 +7889,7 @@
         "poliție",
         "polițist",
         "polițist bărbat",
-        "polițist bărbat: ton închis al pielii",
+        "polițist: ton închis al pielii",
         "ton închis al pielii"
     ],
     "👮‍♀": [
@@ -6592,47 +8014,53 @@
     ],
     "🕵‍♀": [
         "agentă secretă",
+        "detectiv femeie",
         "detectivă",
         "femeie detectiv",
         "spioană"
     ],
     "🕵🏻‍♀": [
         "agentă secretă",
+        "detectiv femeie",
+        "detectiv femeie: ton deschis al pielii",
         "detectivă",
         "femeie detectiv",
-        "femeie detectiv: ton deschis al pielii",
         "spioană",
         "ton deschis al pielii"
     ],
     "🕵🏼‍♀": [
         "agentă secretă",
+        "detectiv femeie",
+        "detectiv femeie: ton semi‑deschis al pielii",
         "detectivă",
         "femeie detectiv",
-        "femeie detectiv: ton semi‑deschis al pielii",
         "spioană",
         "ton semi‑deschis al pielii"
     ],
     "🕵🏽‍♀": [
         "agentă secretă",
+        "detectiv femeie",
+        "detectiv femeie: ton mediu al pielii",
         "detectivă",
         "femeie detectiv",
-        "femeie detectiv: ton mediu al pielii",
         "spioană",
         "ton mediu al pielii"
     ],
     "🕵🏾‍♀": [
         "agentă secretă",
+        "detectiv femeie",
+        "detectiv femeie: ton semi‑închis al pielii",
         "detectivă",
         "femeie detectiv",
-        "femeie detectiv: ton semi‑închis al pielii",
         "spioană",
         "ton semi‑închis al pielii"
     ],
     "🕵🏿‍♀": [
         "agentă secretă",
+        "detectiv femeie",
+        "detectiv femeie: ton închis al pielii",
         "detectivă",
         "femeie detectiv",
-        "femeie detectiv: ton închis al pielii",
         "spioană",
         "ton închis al pielii"
     ],
@@ -6684,16 +8112,16 @@
     ],
     "💂‍♂": [
         "bărbat",
-        "bărbat gardian",
         "gardian",
+        "gardian bărbat",
         "gardă",
         "pază",
         "protecție"
     ],
     "💂🏻‍♂": [
         "bărbat",
-        "bărbat gardian: ton deschis al pielii",
         "gardian",
+        "gardian bărbat: ton deschis al pielii",
         "gardă",
         "pază",
         "protecție",
@@ -6701,8 +8129,8 @@
     ],
     "💂🏼‍♂": [
         "bărbat",
-        "bărbat gardian: ton semi‑deschis al pielii",
         "gardian",
+        "gardian bărbat: ton semi‑deschis al pielii",
         "gardă",
         "pază",
         "protecție",
@@ -6710,8 +8138,8 @@
     ],
     "💂🏽‍♂": [
         "bărbat",
-        "bărbat gardian: ton mediu al pielii",
         "gardian",
+        "gardian bărbat: ton mediu al pielii",
         "gardă",
         "pază",
         "protecție",
@@ -6719,8 +8147,8 @@
     ],
     "💂🏾‍♂": [
         "bărbat",
-        "bărbat gardian: ton semi‑închis al pielii",
         "gardian",
+        "gardian bărbat: ton semi‑închis al pielii",
         "gardă",
         "pază",
         "protecție",
@@ -6728,8 +8156,8 @@
     ],
     "💂🏿‍♂": [
         "bărbat",
-        "bărbat gardian: ton închis al pielii",
         "gardian",
+        "gardian bărbat: ton închis al pielii",
         "gardă",
         "pază",
         "protecție",
@@ -6737,16 +8165,16 @@
     ],
     "💂‍♀": [
         "femeie",
-        "femeie gardian",
         "gardian",
+        "gardian femeie",
         "gardă",
         "pază",
         "protecție"
     ],
     "💂🏻‍♀": [
         "femeie",
-        "femeie gardian: ton deschis al pielii",
         "gardian",
+        "gardian femeie: ton deschis al pielii",
         "gardă",
         "pază",
         "protecție",
@@ -6754,8 +8182,8 @@
     ],
     "💂🏼‍♀": [
         "femeie",
-        "femeie gardian: ton semi‑deschis al pielii",
         "gardian",
+        "gardian femeie: ton semi‑deschis al pielii",
         "gardă",
         "pază",
         "protecție",
@@ -6763,8 +8191,8 @@
     ],
     "💂🏽‍♀": [
         "femeie",
-        "femeie gardian: ton mediu al pielii",
         "gardian",
+        "gardian femeie: ton mediu al pielii",
         "gardă",
         "pază",
         "protecție",
@@ -6772,8 +8200,8 @@
     ],
     "💂🏾‍♀": [
         "femeie",
-        "femeie gardian: ton semi‑închis al pielii",
         "gardian",
+        "gardian femeie: ton semi‑închis al pielii",
         "gardă",
         "pază",
         "protecție",
@@ -6781,12 +8209,18 @@
     ],
     "💂🏿‍♀": [
         "femeie",
-        "femeie gardian: ton închis al pielii",
         "gardian",
+        "gardian femeie: ton închis al pielii",
         "gardă",
         "pază",
         "protecție",
         "ton închis al pielii"
+    ],
+    "🥷": [
+        "ascuns",
+        "invizibil",
+        "luptător",
+        "ninja"
     ],
     "👷": [
         "cască de protecție",
@@ -7207,94 +8641,260 @@
         "ton închis al pielii"
     ],
     "🤵": [
-        "bărbat",
-        "bărbat în frac",
-        "frac",
-        "mire"
+        "mire",
+        "persoană",
+        "persoană în smoching",
+        "smoching"
     ],
     "🤵🏻": [
-        "bărbat",
-        "bărbat în frac",
-        "bărbat în frac: ton deschis al pielii",
-        "frac",
         "mire",
+        "persoană",
+        "persoană în smoching",
+        "persoană în smoching: ton deschis al pielii",
+        "smoching",
         "ton deschis al pielii"
     ],
     "🤵🏼": [
-        "bărbat",
-        "bărbat în frac",
-        "bărbat în frac: ton semi‑deschis al pielii",
-        "frac",
         "mire",
+        "persoană",
+        "persoană în smoching",
+        "persoană în smoching: ton semi‑deschis al pielii",
+        "smoching",
         "ton semi‑deschis al pielii"
     ],
     "🤵🏽": [
-        "bărbat",
-        "bărbat în frac",
-        "bărbat în frac: ton mediu al pielii",
-        "frac",
         "mire",
+        "persoană",
+        "persoană în smoching",
+        "persoană în smoching: ton mediu al pielii",
+        "smoching",
         "ton mediu al pielii"
     ],
     "🤵🏾": [
-        "bărbat",
-        "bărbat în frac",
-        "bărbat în frac: ton semi‑închis al pielii",
-        "frac",
         "mire",
+        "persoană",
+        "persoană în smoching",
+        "persoană în smoching: ton semi‑închis al pielii",
+        "smoching",
         "ton semi‑închis al pielii"
     ],
     "🤵🏿": [
-        "bărbat",
-        "bărbat în frac",
-        "bărbat în frac: ton închis al pielii",
-        "frac",
         "mire",
+        "persoană",
+        "persoană în smoching",
+        "persoană în smoching: ton închis al pielii",
+        "smoching",
+        "ton închis al pielii"
+    ],
+    "🤵‍♂": [
+        "bărbat",
+        "bărbat în smoching",
+        "smoching"
+    ],
+    "🤵🏻‍♂": [
+        "bărbat",
+        "bărbat în smoching",
+        "bărbat în smoching: ton deschis al pielii",
+        "smoching",
+        "ton deschis al pielii"
+    ],
+    "🤵🏼‍♂": [
+        "bărbat",
+        "bărbat în smoching",
+        "bărbat în smoching: ton semi‑deschis al pielii",
+        "smoching",
+        "ton semi‑deschis al pielii"
+    ],
+    "🤵🏽‍♂": [
+        "bărbat",
+        "bărbat în smoching",
+        "bărbat în smoching: ton mediu al pielii",
+        "smoching",
+        "ton mediu al pielii"
+    ],
+    "🤵🏾‍♂": [
+        "bărbat",
+        "bărbat în smoching",
+        "bărbat în smoching: ton semi‑închis al pielii",
+        "smoching",
+        "ton semi‑închis al pielii"
+    ],
+    "🤵🏿‍♂": [
+        "bărbat",
+        "bărbat în smoching",
+        "bărbat în smoching: ton închis al pielii",
+        "smoching",
+        "ton închis al pielii"
+    ],
+    "🤵‍♀": [
+        "femeie",
+        "femeie în smoching",
+        "smoching"
+    ],
+    "🤵🏻‍♀": [
+        "femeie",
+        "femeie în smoching",
+        "femeie în smoching: ton deschis al pielii",
+        "smoching",
+        "ton deschis al pielii"
+    ],
+    "🤵🏼‍♀": [
+        "femeie",
+        "femeie în smoching",
+        "femeie în smoching: ton semi‑deschis al pielii",
+        "smoching",
+        "ton semi‑deschis al pielii"
+    ],
+    "🤵🏽‍♀": [
+        "femeie",
+        "femeie în smoching",
+        "femeie în smoching: ton mediu al pielii",
+        "smoching",
+        "ton mediu al pielii"
+    ],
+    "🤵🏾‍♀": [
+        "femeie",
+        "femeie în smoching",
+        "femeie în smoching: ton semi‑închis al pielii",
+        "smoching",
+        "ton semi‑închis al pielii"
+    ],
+    "🤵🏿‍♀": [
+        "femeie",
+        "femeie în smoching",
+        "femeie în smoching: ton închis al pielii",
+        "smoching",
         "ton închis al pielii"
     ],
     "👰": [
-        "femeie",
-        "mireasă cu voal",
+        "mireasă",
         "nuntă",
+        "persoană",
+        "persoană cu voal",
         "voal"
     ],
     "👰🏻": [
-        "femeie",
-        "mireasă cu voal",
-        "mireasă cu voal: ton deschis al pielii",
+        "mireasă",
         "nuntă",
+        "persoană",
+        "persoană cu voal",
+        "persoană cu voal: ton deschis al pielii",
         "ton deschis al pielii",
         "voal"
     ],
     "👰🏼": [
-        "femeie",
-        "mireasă cu voal",
-        "mireasă cu voal: ton semi‑deschis al pielii",
+        "mireasă",
         "nuntă",
+        "persoană",
+        "persoană cu voal",
+        "persoană cu voal: ton semi‑deschis al pielii",
         "ton semi‑deschis al pielii",
         "voal"
     ],
     "👰🏽": [
-        "femeie",
-        "mireasă cu voal",
-        "mireasă cu voal: ton mediu al pielii",
+        "mireasă",
         "nuntă",
+        "persoană",
+        "persoană cu voal",
+        "persoană cu voal: ton mediu al pielii",
         "ton mediu al pielii",
         "voal"
     ],
     "👰🏾": [
-        "femeie",
-        "mireasă cu voal",
-        "mireasă cu voal: ton semi‑închis al pielii",
+        "mireasă",
         "nuntă",
+        "persoană",
+        "persoană cu voal",
+        "persoană cu voal: ton semi‑închis al pielii",
         "ton semi‑închis al pielii",
         "voal"
     ],
     "👰🏿": [
-        "femeie",
-        "mireasă cu voal",
-        "mireasă cu voal: ton închis al pielii",
+        "mireasă",
         "nuntă",
+        "persoană",
+        "persoană cu voal",
+        "persoană cu voal: ton închis al pielii",
+        "ton închis al pielii",
+        "voal"
+    ],
+    "👰‍♂": [
+        "bărbat",
+        "bărbat cu voal",
+        "voal"
+    ],
+    "👰🏻‍♂": [
+        "bărbat",
+        "bărbat cu voal",
+        "bărbat cu voal: ton deschis al pielii",
+        "ton deschis al pielii",
+        "voal"
+    ],
+    "👰🏼‍♂": [
+        "bărbat",
+        "bărbat cu voal",
+        "bărbat cu voal: ton semi‑deschis al pielii",
+        "ton semi‑deschis al pielii",
+        "voal"
+    ],
+    "👰🏽‍♂": [
+        "bărbat",
+        "bărbat cu voal",
+        "bărbat cu voal: ton mediu al pielii",
+        "ton mediu al pielii",
+        "voal"
+    ],
+    "👰🏾‍♂": [
+        "bărbat",
+        "bărbat cu voal",
+        "bărbat cu voal: ton semi‑închis al pielii",
+        "ton semi‑închis al pielii",
+        "voal"
+    ],
+    "👰🏿‍♂": [
+        "bărbat",
+        "bărbat cu voal",
+        "bărbat cu voal: ton închis al pielii",
+        "ton închis al pielii",
+        "voal"
+    ],
+    "👰‍♀": [
+        "femeie",
+        "femeie cu voal",
+        "voal"
+    ],
+    "👰🏻‍♀": [
+        "femeie",
+        "femeie cu voal",
+        "femeie cu voal: ton deschis al pielii",
+        "ton deschis al pielii",
+        "voal"
+    ],
+    "👰🏼‍♀": [
+        "femeie",
+        "femeie cu voal",
+        "femeie cu voal: ton semi‑deschis al pielii",
+        "ton semi‑deschis al pielii",
+        "voal"
+    ],
+    "👰🏽‍♀": [
+        "femeie",
+        "femeie cu voal",
+        "femeie cu voal: ton mediu al pielii",
+        "ton mediu al pielii",
+        "voal"
+    ],
+    "👰🏾‍♀": [
+        "femeie",
+        "femeie cu voal",
+        "femeie cu voal: ton semi‑închis al pielii",
+        "ton semi‑închis al pielii",
+        "voal"
+    ],
+    "👰🏿‍♀": [
+        "femeie",
+        "femeie cu voal",
+        "femeie cu voal: ton închis al pielii",
         "ton închis al pielii",
         "voal"
     ],
@@ -7388,6 +8988,156 @@
         "bebeluș",
         "piept",
         "sân",
+        "ton închis al pielii"
+    ],
+    "👩‍🍼": [
+        "alăptare",
+        "bebeluș",
+        "femeie",
+        "femeie hrănind un bebeluș",
+        "hrănire"
+    ],
+    "👩🏻‍🍼": [
+        "alăptare",
+        "bebeluș",
+        "femeie",
+        "femeie hrănind un bebeluș",
+        "femeie hrănind un bebeluș: ton deschis al pielii",
+        "hrănire",
+        "ton deschis al pielii"
+    ],
+    "👩🏼‍🍼": [
+        "alăptare",
+        "bebeluș",
+        "femeie",
+        "femeie hrănind un bebeluș",
+        "femeie hrănind un bebeluș: ton semi‑deschis al pielii",
+        "hrănire",
+        "ton semi‑deschis al pielii"
+    ],
+    "👩🏽‍🍼": [
+        "alăptare",
+        "bebeluș",
+        "femeie",
+        "femeie hrănind un bebeluș",
+        "femeie hrănind un bebeluș: ton mediu al pielii",
+        "hrănire",
+        "ton mediu al pielii"
+    ],
+    "👩🏾‍🍼": [
+        "alăptare",
+        "bebeluș",
+        "femeie",
+        "femeie hrănind un bebeluș",
+        "femeie hrănind un bebeluș: ton semi‑închis al pielii",
+        "hrănire",
+        "ton semi‑închis al pielii"
+    ],
+    "👩🏿‍🍼": [
+        "alăptare",
+        "bebeluș",
+        "femeie",
+        "femeie hrănind un bebeluș",
+        "femeie hrănind un bebeluș: ton închis al pielii",
+        "hrănire",
+        "ton închis al pielii"
+    ],
+    "👨‍🍼": [
+        "bebeluș",
+        "bărbat",
+        "bărbat hrănind un bebeluș",
+        "hrănire"
+    ],
+    "👨🏻‍🍼": [
+        "bebeluș",
+        "bărbat",
+        "bărbat hrănind un bebeluș",
+        "bărbat hrănind un bebeluș: ton deschis al pielii",
+        "hrănire",
+        "ton deschis al pielii"
+    ],
+    "👨🏼‍🍼": [
+        "bebeluș",
+        "bărbat",
+        "bărbat hrănind un bebeluș",
+        "bărbat hrănind un bebeluș: ton semi‑deschis al pielii",
+        "hrănire",
+        "ton semi‑deschis al pielii"
+    ],
+    "👨🏽‍🍼": [
+        "bebeluș",
+        "bărbat",
+        "bărbat hrănind un bebeluș",
+        "bărbat hrănind un bebeluș: ton mediu al pielii",
+        "hrănire",
+        "ton mediu al pielii"
+    ],
+    "👨🏾‍🍼": [
+        "bebeluș",
+        "bărbat",
+        "bărbat hrănind un bebeluș",
+        "bărbat hrănind un bebeluș: ton semi‑închis al pielii",
+        "hrănire",
+        "ton semi‑închis al pielii"
+    ],
+    "👨🏿‍🍼": [
+        "bebeluș",
+        "bărbat",
+        "bărbat hrănind un bebeluș",
+        "bărbat hrănind un bebeluș: ton închis al pielii",
+        "hrănire",
+        "ton închis al pielii"
+    ],
+    "🧑‍🍼": [
+        "alăptare",
+        "bebeluș",
+        "hrănire",
+        "persoană",
+        "persoană hrănind un bebeluș"
+    ],
+    "🧑🏻‍🍼": [
+        "alăptare",
+        "bebeluș",
+        "hrănire",
+        "persoană",
+        "persoană hrănind un bebeluș",
+        "persoană hrănind un bebeluș: ton deschis al pielii",
+        "ton deschis al pielii"
+    ],
+    "🧑🏼‍🍼": [
+        "alăptare",
+        "bebeluș",
+        "hrănire",
+        "persoană",
+        "persoană hrănind un bebeluș",
+        "persoană hrănind un bebeluș: ton semi‑deschis al pielii",
+        "ton semi‑deschis al pielii"
+    ],
+    "🧑🏽‍🍼": [
+        "alăptare",
+        "bebeluș",
+        "hrănire",
+        "persoană",
+        "persoană hrănind un bebeluș",
+        "persoană hrănind un bebeluș: ton mediu al pielii",
+        "ton mediu al pielii"
+    ],
+    "🧑🏾‍🍼": [
+        "alăptare",
+        "bebeluș",
+        "hrănire",
+        "persoană",
+        "persoană hrănind un bebeluș",
+        "persoană hrănind un bebeluș: ton semi‑închis al pielii",
+        "ton semi‑închis al pielii"
+    ],
+    "🧑🏿‍🍼": [
+        "alăptare",
+        "bebeluș",
+        "hrănire",
+        "persoană",
+        "persoană hrănind un bebeluș",
+        "persoană hrănind un bebeluș: ton închis al pielii",
         "ton închis al pielii"
     ],
     "👼": [
@@ -7538,6 +9288,34 @@
         "Doamna Crăciun: ton închis al pielii",
         "doamna",
         "sărbătoare",
+        "ton închis al pielii"
+    ],
+    "🧑‍🎄": [
+        "Crăciun"
+    ],
+    "🧑🏻‍🎄": [
+        "Crăciun",
+        "Crăciun: ton deschis al pielii",
+        "ton deschis al pielii"
+    ],
+    "🧑🏼‍🎄": [
+        "Crăciun",
+        "Crăciun: ton semi‑deschis al pielii",
+        "ton semi‑deschis al pielii"
+    ],
+    "🧑🏽‍🎄": [
+        "Crăciun",
+        "Crăciun: ton mediu al pielii",
+        "ton mediu al pielii"
+    ],
+    "🧑🏾‍🎄": [
+        "Crăciun",
+        "Crăciun: ton semi‑închis al pielii",
+        "ton semi‑închis al pielii"
+    ],
+    "🧑🏿‍🎄": [
+        "Crăciun",
+        "Crăciun: ton închis al pielii",
         "ton închis al pielii"
     ],
     "🦸": [
@@ -8480,54 +10258,54 @@
         "strigoi"
     ],
     "💆": [
+        "față",
         "masaj",
-        "masaj facial",
+        "persoană care primește un masaj",
         "persoană care primește un masaj facial",
-        "relaxare",
         "salon"
     ],
     "💆🏻": [
+        "față",
         "masaj",
-        "masaj facial",
+        "persoană care primește un masaj",
         "persoană care primește un masaj facial",
         "persoană care primește un masaj facial: ton deschis al pielii",
-        "relaxare",
         "salon",
         "ton deschis al pielii"
     ],
     "💆🏼": [
+        "față",
         "masaj",
-        "masaj facial",
+        "persoană care primește un masaj",
         "persoană care primește un masaj facial",
         "persoană care primește un masaj facial: ton semi‑deschis al pielii",
-        "relaxare",
         "salon",
         "ton semi‑deschis al pielii"
     ],
     "💆🏽": [
+        "față",
         "masaj",
-        "masaj facial",
+        "persoană care primește un masaj",
         "persoană care primește un masaj facial",
         "persoană care primește un masaj facial: ton mediu al pielii",
-        "relaxare",
         "salon",
         "ton mediu al pielii"
     ],
     "💆🏾": [
+        "față",
         "masaj",
-        "masaj facial",
+        "persoană care primește un masaj",
         "persoană care primește un masaj facial",
         "persoană care primește un masaj facial: ton semi‑închis al pielii",
-        "relaxare",
         "salon",
         "ton semi‑închis al pielii"
     ],
     "💆🏿": [
+        "față",
         "masaj",
-        "masaj facial",
+        "persoană care primește un masaj",
         "persoană care primește un masaj facial",
         "persoană care primește un masaj facial: ton închis al pielii",
-        "relaxare",
         "salon",
         "ton închis al pielii"
     ],
@@ -8624,70 +10402,76 @@
         "ton închis al pielii"
     ],
     "💇": [
-        "coafat",
         "coafor",
         "frizerie",
         "frumusețe",
+        "oafat",
         "persoană care de tunde",
+        "persoană care se tunde",
         "salon",
         "tuns",
         "tunsoare"
     ],
     "💇🏻": [
-        "coafat",
         "coafor",
         "frizerie",
         "frumusețe",
+        "oafat",
         "persoană care de tunde",
         "persoană care de tunde: ton deschis al pielii",
+        "persoană care se tunde",
         "salon",
         "ton deschis al pielii",
         "tuns",
         "tunsoare"
     ],
     "💇🏼": [
-        "coafat",
         "coafor",
         "frizerie",
         "frumusețe",
+        "oafat",
         "persoană care de tunde",
         "persoană care de tunde: ton semi‑deschis al pielii",
+        "persoană care se tunde",
         "salon",
         "ton semi‑deschis al pielii",
         "tuns",
         "tunsoare"
     ],
     "💇🏽": [
-        "coafat",
         "coafor",
         "frizerie",
         "frumusețe",
+        "oafat",
         "persoană care de tunde",
         "persoană care de tunde: ton mediu al pielii",
+        "persoană care se tunde",
         "salon",
         "ton mediu al pielii",
         "tuns",
         "tunsoare"
     ],
     "💇🏾": [
-        "coafat",
         "coafor",
         "frizerie",
         "frumusețe",
+        "oafat",
         "persoană care de tunde",
         "persoană care de tunde: ton semi‑închis al pielii",
+        "persoană care se tunde",
         "salon",
         "ton semi‑închis al pielii",
         "tuns",
         "tunsoare"
     ],
     "💇🏿": [
-        "coafat",
         "coafor",
         "frizerie",
         "frumusețe",
+        "oafat",
         "persoană care de tunde",
         "persoană care de tunde: ton închis al pielii",
+        "persoană care se tunde",
         "salon",
         "ton închis al pielii",
         "tuns",
@@ -8787,6 +10571,8 @@
     ],
     "🚶": [
         "deplasare",
+        "drumeție",
+        "merge",
         "mers",
         "persoană care merge",
         "pieton",
@@ -8794,6 +10580,8 @@
     ],
     "🚶🏻": [
         "deplasare",
+        "drumeție",
+        "merge",
         "mers",
         "persoană care merge",
         "persoană care merge: ton deschis al pielii",
@@ -8803,6 +10591,8 @@
     ],
     "🚶🏼": [
         "deplasare",
+        "drumeție",
+        "merge",
         "mers",
         "persoană care merge",
         "persoană care merge: ton semi‑deschis al pielii",
@@ -8812,6 +10602,8 @@
     ],
     "🚶🏽": [
         "deplasare",
+        "drumeție",
+        "merge",
         "mers",
         "persoană care merge",
         "persoană care merge: ton mediu al pielii",
@@ -8821,6 +10613,8 @@
     ],
     "🚶🏾": [
         "deplasare",
+        "drumeție",
+        "merge",
         "mers",
         "persoană care merge",
         "persoană care merge: ton semi‑închis al pielii",
@@ -8830,6 +10624,8 @@
     ],
     "🚶🏿": [
         "deplasare",
+        "drumeție",
+        "merge",
         "mers",
         "persoană care merge",
         "persoană care merge: ton închis al pielii",
@@ -8929,16 +10725,716 @@
         "plimbare",
         "ton închis al pielii"
     ],
+    "🧍": [
+        "a sta în picioare",
+        "persoană în picioare",
+        "ridicat",
+        "în picioare"
+    ],
+    "🧍🏻": [
+        "a sta în picioare",
+        "persoană în picioare",
+        "persoană în picioare: ton deschis al pielii",
+        "ridicat",
+        "ton deschis al pielii",
+        "în picioare"
+    ],
+    "🧍🏼": [
+        "a sta în picioare",
+        "persoană în picioare",
+        "persoană în picioare: ton semi‑deschis al pielii",
+        "ridicat",
+        "ton semi‑deschis al pielii",
+        "în picioare"
+    ],
+    "🧍🏽": [
+        "a sta în picioare",
+        "persoană în picioare",
+        "persoană în picioare: ton mediu al pielii",
+        "ridicat",
+        "ton mediu al pielii",
+        "în picioare"
+    ],
+    "🧍🏾": [
+        "a sta în picioare",
+        "persoană în picioare",
+        "persoană în picioare: ton semi‑închis al pielii",
+        "ridicat",
+        "ton semi‑închis al pielii",
+        "în picioare"
+    ],
+    "🧍🏿": [
+        "a sta în picioare",
+        "persoană în picioare",
+        "persoană în picioare: ton închis al pielii",
+        "ridicat",
+        "ton închis al pielii",
+        "în picioare"
+    ],
+    "🧍‍♂": [
+        "bărbat",
+        "bărbat în picioare",
+        "ridicat",
+        "în picioare"
+    ],
+    "🧍🏻‍♂": [
+        "bărbat",
+        "bărbat în picioare",
+        "bărbat în picioare: ton deschis al pielii",
+        "ridicat",
+        "ton deschis al pielii",
+        "în picioare"
+    ],
+    "🧍🏼‍♂": [
+        "bărbat",
+        "bărbat în picioare",
+        "bărbat în picioare: ton semi‑deschis al pielii",
+        "ridicat",
+        "ton semi‑deschis al pielii",
+        "în picioare"
+    ],
+    "🧍🏽‍♂": [
+        "bărbat",
+        "bărbat în picioare",
+        "bărbat în picioare: ton mediu al pielii",
+        "ridicat",
+        "ton mediu al pielii",
+        "în picioare"
+    ],
+    "🧍🏾‍♂": [
+        "bărbat",
+        "bărbat în picioare",
+        "bărbat în picioare: ton semi‑închis al pielii",
+        "ridicat",
+        "ton semi‑închis al pielii",
+        "în picioare"
+    ],
+    "🧍🏿‍♂": [
+        "bărbat",
+        "bărbat în picioare",
+        "bărbat în picioare: ton închis al pielii",
+        "ridicat",
+        "ton închis al pielii",
+        "în picioare"
+    ],
+    "🧍‍♀": [
+        "femeie",
+        "femeie în picioare",
+        "ridicată",
+        "în picioare"
+    ],
+    "🧍🏻‍♀": [
+        "femeie",
+        "femeie în picioare",
+        "femeie în picioare: ton deschis al pielii",
+        "ridicată",
+        "ton deschis al pielii",
+        "în picioare"
+    ],
+    "🧍🏼‍♀": [
+        "femeie",
+        "femeie în picioare",
+        "femeie în picioare: ton semi‑deschis al pielii",
+        "ridicată",
+        "ton semi‑deschis al pielii",
+        "în picioare"
+    ],
+    "🧍🏽‍♀": [
+        "femeie",
+        "femeie în picioare",
+        "femeie în picioare: ton mediu al pielii",
+        "ridicată",
+        "ton mediu al pielii",
+        "în picioare"
+    ],
+    "🧍🏾‍♀": [
+        "femeie",
+        "femeie în picioare",
+        "femeie în picioare: ton semi‑închis al pielii",
+        "ridicată",
+        "ton semi‑închis al pielii",
+        "în picioare"
+    ],
+    "🧍🏿‍♀": [
+        "femeie",
+        "femeie în picioare",
+        "femeie în picioare: ton închis al pielii",
+        "ridicată",
+        "ton închis al pielii",
+        "în picioare"
+    ],
+    "🧎": [
+        "a îngenunchea",
+        "genunchi",
+        "persoană în genunchi",
+        "îngenunchere"
+    ],
+    "🧎🏻": [
+        "a îngenunchea",
+        "genunchi",
+        "persoană în genunchi",
+        "persoană în genunchi: ton deschis al pielii",
+        "ton deschis al pielii",
+        "îngenunchere"
+    ],
+    "🧎🏼": [
+        "a îngenunchea",
+        "genunchi",
+        "persoană în genunchi",
+        "persoană în genunchi: ton semi‑deschis al pielii",
+        "ton semi‑deschis al pielii",
+        "îngenunchere"
+    ],
+    "🧎🏽": [
+        "a îngenunchea",
+        "genunchi",
+        "persoană în genunchi",
+        "persoană în genunchi: ton mediu al pielii",
+        "ton mediu al pielii",
+        "îngenunchere"
+    ],
+    "🧎🏾": [
+        "a îngenunchea",
+        "genunchi",
+        "persoană în genunchi",
+        "persoană în genunchi: ton semi‑închis al pielii",
+        "ton semi‑închis al pielii",
+        "îngenunchere"
+    ],
+    "🧎🏿": [
+        "a îngenunchea",
+        "genunchi",
+        "persoană în genunchi",
+        "persoană în genunchi: ton închis al pielii",
+        "ton închis al pielii",
+        "îngenunchere"
+    ],
+    "🧎‍♂": [
+        "bărbat",
+        "bărbat în genunchi",
+        "în genunchi",
+        "îngenuncheat",
+        "îngenunchind"
+    ],
+    "🧎🏻‍♂": [
+        "bărbat",
+        "bărbat în genunchi",
+        "bărbat în genunchi: ton deschis al pielii",
+        "ton deschis al pielii",
+        "în genunchi",
+        "îngenuncheat",
+        "îngenunchind"
+    ],
+    "🧎🏼‍♂": [
+        "bărbat",
+        "bărbat în genunchi",
+        "bărbat în genunchi: ton semi‑deschis al pielii",
+        "ton semi‑deschis al pielii",
+        "în genunchi",
+        "îngenuncheat",
+        "îngenunchind"
+    ],
+    "🧎🏽‍♂": [
+        "bărbat",
+        "bărbat în genunchi",
+        "bărbat în genunchi: ton mediu al pielii",
+        "ton mediu al pielii",
+        "în genunchi",
+        "îngenuncheat",
+        "îngenunchind"
+    ],
+    "🧎🏾‍♂": [
+        "bărbat",
+        "bărbat în genunchi",
+        "bărbat în genunchi: ton semi‑închis al pielii",
+        "ton semi‑închis al pielii",
+        "în genunchi",
+        "îngenuncheat",
+        "îngenunchind"
+    ],
+    "🧎🏿‍♂": [
+        "bărbat",
+        "bărbat în genunchi",
+        "bărbat în genunchi: ton închis al pielii",
+        "ton închis al pielii",
+        "în genunchi",
+        "îngenuncheat",
+        "îngenunchind"
+    ],
+    "🧎‍♀": [
+        "femeie",
+        "femeie în genunchi",
+        "în genunchi",
+        "îngenuncheată",
+        "îngenunchind"
+    ],
+    "🧎🏻‍♀": [
+        "femeie",
+        "femeie în genunchi",
+        "femeie în genunchi: ton deschis al pielii",
+        "ton deschis al pielii",
+        "în genunchi",
+        "îngenuncheată",
+        "îngenunchind"
+    ],
+    "🧎🏼‍♀": [
+        "femeie",
+        "femeie în genunchi",
+        "femeie în genunchi: ton semi‑deschis al pielii",
+        "ton semi‑deschis al pielii",
+        "în genunchi",
+        "îngenuncheată",
+        "îngenunchind"
+    ],
+    "🧎🏽‍♀": [
+        "femeie",
+        "femeie în genunchi",
+        "femeie în genunchi: ton mediu al pielii",
+        "ton mediu al pielii",
+        "în genunchi",
+        "îngenuncheată",
+        "îngenunchind"
+    ],
+    "🧎🏾‍♀": [
+        "femeie",
+        "femeie în genunchi",
+        "femeie în genunchi: ton semi‑închis al pielii",
+        "ton semi‑închis al pielii",
+        "în genunchi",
+        "îngenuncheată",
+        "îngenunchind"
+    ],
+    "🧎🏿‍♀": [
+        "femeie",
+        "femeie în genunchi",
+        "femeie în genunchi: ton închis al pielii",
+        "ton închis al pielii",
+        "în genunchi",
+        "îngenuncheată",
+        "îngenunchind"
+    ],
+    "🧑‍🦯": [
+        "accesibilitate",
+        "nevăzător",
+        "orb",
+        "persoană cu baston pentru nevăzători"
+    ],
+    "🧑🏻‍🦯": [
+        "accesibilitate",
+        "nevăzător",
+        "orb",
+        "persoană cu baston pentru nevăzători",
+        "persoană cu baston pentru nevăzători: ton deschis al pielii",
+        "ton deschis al pielii"
+    ],
+    "🧑🏼‍🦯": [
+        "accesibilitate",
+        "nevăzător",
+        "orb",
+        "persoană cu baston pentru nevăzători",
+        "persoană cu baston pentru nevăzători: ton semi‑deschis al pielii",
+        "ton semi‑deschis al pielii"
+    ],
+    "🧑🏽‍🦯": [
+        "accesibilitate",
+        "nevăzător",
+        "orb",
+        "persoană cu baston pentru nevăzători",
+        "persoană cu baston pentru nevăzători: ton mediu al pielii",
+        "ton mediu al pielii"
+    ],
+    "🧑🏾‍🦯": [
+        "accesibilitate",
+        "nevăzător",
+        "orb",
+        "persoană cu baston pentru nevăzători",
+        "persoană cu baston pentru nevăzători: ton semi‑închis al pielii",
+        "ton semi‑închis al pielii"
+    ],
+    "🧑🏿‍🦯": [
+        "accesibilitate",
+        "nevăzător",
+        "orb",
+        "persoană cu baston pentru nevăzători",
+        "persoană cu baston pentru nevăzători: ton închis al pielii",
+        "ton închis al pielii"
+    ],
+    "👨‍🦯": [
+        "accesibilitate",
+        "bărbat",
+        "bărbat cu baston pentru nevăzători",
+        "nevăzător",
+        "orb"
+    ],
+    "👨🏻‍🦯": [
+        "accesibilitate",
+        "bărbat",
+        "bărbat cu baston pentru nevăzători",
+        "bărbat cu baston pentru nevăzători: ton deschis al pielii",
+        "nevăzător",
+        "orb",
+        "ton deschis al pielii"
+    ],
+    "👨🏼‍🦯": [
+        "accesibilitate",
+        "bărbat",
+        "bărbat cu baston pentru nevăzători",
+        "bărbat cu baston pentru nevăzători: ton semi‑deschis al pielii",
+        "nevăzător",
+        "orb",
+        "ton semi‑deschis al pielii"
+    ],
+    "👨🏽‍🦯": [
+        "accesibilitate",
+        "bărbat",
+        "bărbat cu baston pentru nevăzători",
+        "bărbat cu baston pentru nevăzători: ton mediu al pielii",
+        "nevăzător",
+        "orb",
+        "ton mediu al pielii"
+    ],
+    "👨🏾‍🦯": [
+        "accesibilitate",
+        "bărbat",
+        "bărbat cu baston pentru nevăzători",
+        "bărbat cu baston pentru nevăzători: ton semi‑închis al pielii",
+        "nevăzător",
+        "orb",
+        "ton semi‑închis al pielii"
+    ],
+    "👨🏿‍🦯": [
+        "accesibilitate",
+        "bărbat",
+        "bărbat cu baston pentru nevăzători",
+        "bărbat cu baston pentru nevăzători: ton închis al pielii",
+        "nevăzător",
+        "orb",
+        "ton închis al pielii"
+    ],
+    "👩‍🦯": [
+        "accesibilitate",
+        "femeie",
+        "femeie cu baston pentru nevăzători",
+        "nevăzătoare",
+        "oarbă"
+    ],
+    "👩🏻‍🦯": [
+        "accesibilitate",
+        "femeie",
+        "femeie cu baston pentru nevăzători",
+        "femeie cu baston pentru nevăzători: ton deschis al pielii",
+        "nevăzătoare",
+        "oarbă",
+        "ton deschis al pielii"
+    ],
+    "👩🏼‍🦯": [
+        "accesibilitate",
+        "femeie",
+        "femeie cu baston pentru nevăzători",
+        "femeie cu baston pentru nevăzători: ton semi‑deschis al pielii",
+        "nevăzătoare",
+        "oarbă",
+        "ton semi‑deschis al pielii"
+    ],
+    "👩🏽‍🦯": [
+        "accesibilitate",
+        "femeie",
+        "femeie cu baston pentru nevăzători",
+        "femeie cu baston pentru nevăzători: ton mediu al pielii",
+        "nevăzătoare",
+        "oarbă",
+        "ton mediu al pielii"
+    ],
+    "👩🏾‍🦯": [
+        "accesibilitate",
+        "femeie",
+        "femeie cu baston pentru nevăzători",
+        "femeie cu baston pentru nevăzători: ton semi‑închis al pielii",
+        "nevăzătoare",
+        "oarbă",
+        "ton semi‑închis al pielii"
+    ],
+    "👩🏿‍🦯": [
+        "accesibilitate",
+        "femeie",
+        "femeie cu baston pentru nevăzători",
+        "femeie cu baston pentru nevăzători: ton închis al pielii",
+        "nevăzătoare",
+        "oarbă",
+        "ton închis al pielii"
+    ],
+    "🧑‍🦼": [
+        "accesibilitate",
+        "persoană în scaun cu rotile motorizat",
+        "scaun cu rotile"
+    ],
+    "🧑🏻‍🦼": [
+        "accesibilitate",
+        "persoană în scaun cu rotile motorizat",
+        "persoană în scaun cu rotile motorizat: ton deschis al pielii",
+        "scaun cu rotile",
+        "ton deschis al pielii"
+    ],
+    "🧑🏼‍🦼": [
+        "accesibilitate",
+        "persoană în scaun cu rotile motorizat",
+        "persoană în scaun cu rotile motorizat: ton semi‑deschis al pielii",
+        "scaun cu rotile",
+        "ton semi‑deschis al pielii"
+    ],
+    "🧑🏽‍🦼": [
+        "accesibilitate",
+        "persoană în scaun cu rotile motorizat",
+        "persoană în scaun cu rotile motorizat: ton mediu al pielii",
+        "scaun cu rotile",
+        "ton mediu al pielii"
+    ],
+    "🧑🏾‍🦼": [
+        "accesibilitate",
+        "persoană în scaun cu rotile motorizat",
+        "persoană în scaun cu rotile motorizat: ton semi‑închis al pielii",
+        "scaun cu rotile",
+        "ton semi‑închis al pielii"
+    ],
+    "🧑🏿‍🦼": [
+        "accesibilitate",
+        "persoană în scaun cu rotile motorizat",
+        "persoană în scaun cu rotile motorizat: ton închis al pielii",
+        "scaun cu rotile",
+        "ton închis al pielii"
+    ],
+    "👨‍🦼": [
+        "accesibilitate",
+        "bărbat",
+        "bărbat în scaun cu rotile motorizat",
+        "scaun cu rotile"
+    ],
+    "👨🏻‍🦼": [
+        "accesibilitate",
+        "bărbat",
+        "bărbat în scaun cu rotile motorizat",
+        "bărbat în scaun cu rotile motorizat: ton deschis al pielii",
+        "scaun cu rotile",
+        "ton deschis al pielii"
+    ],
+    "👨🏼‍🦼": [
+        "accesibilitate",
+        "bărbat",
+        "bărbat în scaun cu rotile motorizat",
+        "bărbat în scaun cu rotile motorizat: ton semi‑deschis al pielii",
+        "scaun cu rotile",
+        "ton semi‑deschis al pielii"
+    ],
+    "👨🏽‍🦼": [
+        "accesibilitate",
+        "bărbat",
+        "bărbat în scaun cu rotile motorizat",
+        "bărbat în scaun cu rotile motorizat: ton mediu al pielii",
+        "scaun cu rotile",
+        "ton mediu al pielii"
+    ],
+    "👨🏾‍🦼": [
+        "accesibilitate",
+        "bărbat",
+        "bărbat în scaun cu rotile motorizat",
+        "bărbat în scaun cu rotile motorizat: ton semi‑închis al pielii",
+        "scaun cu rotile",
+        "ton semi‑închis al pielii"
+    ],
+    "👨🏿‍🦼": [
+        "accesibilitate",
+        "bărbat",
+        "bărbat în scaun cu rotile motorizat",
+        "bărbat în scaun cu rotile motorizat: ton închis al pielii",
+        "scaun cu rotile",
+        "ton închis al pielii"
+    ],
+    "👩‍🦼": [
+        "accesibilitate",
+        "femeie",
+        "femeie în scaun cu rotile motorizat",
+        "scaun cu rotile"
+    ],
+    "👩🏻‍🦼": [
+        "accesibilitate",
+        "femeie",
+        "femeie în scaun cu rotile motorizat",
+        "femeie în scaun cu rotile motorizat: ton deschis al pielii",
+        "scaun cu rotile",
+        "ton deschis al pielii"
+    ],
+    "👩🏼‍🦼": [
+        "accesibilitate",
+        "femeie",
+        "femeie în scaun cu rotile motorizat",
+        "femeie în scaun cu rotile motorizat: ton semi‑deschis al pielii",
+        "scaun cu rotile",
+        "ton semi‑deschis al pielii"
+    ],
+    "👩🏽‍🦼": [
+        "accesibilitate",
+        "femeie",
+        "femeie în scaun cu rotile motorizat",
+        "femeie în scaun cu rotile motorizat: ton mediu al pielii",
+        "scaun cu rotile",
+        "ton mediu al pielii"
+    ],
+    "👩🏾‍🦼": [
+        "accesibilitate",
+        "femeie",
+        "femeie în scaun cu rotile motorizat",
+        "femeie în scaun cu rotile motorizat: ton semi‑închis al pielii",
+        "scaun cu rotile",
+        "ton semi‑închis al pielii"
+    ],
+    "👩🏿‍🦼": [
+        "accesibilitate",
+        "femeie",
+        "femeie în scaun cu rotile motorizat",
+        "femeie în scaun cu rotile motorizat: ton închis al pielii",
+        "scaun cu rotile",
+        "ton închis al pielii"
+    ],
+    "🧑‍🦽": [
+        "accesibilitate",
+        "persoană în scaun cu rotile manual",
+        "scaun cu rotile"
+    ],
+    "🧑🏻‍🦽": [
+        "accesibilitate",
+        "persoană în scaun cu rotile manual",
+        "persoană în scaun cu rotile manual: ton deschis al pielii",
+        "scaun cu rotile",
+        "ton deschis al pielii"
+    ],
+    "🧑🏼‍🦽": [
+        "accesibilitate",
+        "persoană în scaun cu rotile manual",
+        "persoană în scaun cu rotile manual: ton semi‑deschis al pielii",
+        "scaun cu rotile",
+        "ton semi‑deschis al pielii"
+    ],
+    "🧑🏽‍🦽": [
+        "accesibilitate",
+        "persoană în scaun cu rotile manual",
+        "persoană în scaun cu rotile manual: ton mediu al pielii",
+        "scaun cu rotile",
+        "ton mediu al pielii"
+    ],
+    "🧑🏾‍🦽": [
+        "accesibilitate",
+        "persoană în scaun cu rotile manual",
+        "persoană în scaun cu rotile manual: ton semi‑închis al pielii",
+        "scaun cu rotile",
+        "ton semi‑închis al pielii"
+    ],
+    "🧑🏿‍🦽": [
+        "accesibilitate",
+        "persoană în scaun cu rotile manual",
+        "persoană în scaun cu rotile manual: ton închis al pielii",
+        "scaun cu rotile",
+        "ton închis al pielii"
+    ],
+    "👨‍🦽": [
+        "accesibilitate",
+        "bărbat",
+        "bărbat în scaun cu rotile manual",
+        "scaun cu rotile"
+    ],
+    "👨🏻‍🦽": [
+        "accesibilitate",
+        "bărbat",
+        "bărbat în scaun cu rotile manual",
+        "bărbat în scaun cu rotile manual: ton deschis al pielii",
+        "scaun cu rotile",
+        "ton deschis al pielii"
+    ],
+    "👨🏼‍🦽": [
+        "accesibilitate",
+        "bărbat",
+        "bărbat în scaun cu rotile manual",
+        "bărbat în scaun cu rotile manual: ton semi‑deschis al pielii",
+        "scaun cu rotile",
+        "ton semi‑deschis al pielii"
+    ],
+    "👨🏽‍🦽": [
+        "accesibilitate",
+        "bărbat",
+        "bărbat în scaun cu rotile manual",
+        "bărbat în scaun cu rotile manual: ton mediu al pielii",
+        "scaun cu rotile",
+        "ton mediu al pielii"
+    ],
+    "👨🏾‍🦽": [
+        "accesibilitate",
+        "bărbat",
+        "bărbat în scaun cu rotile manual",
+        "bărbat în scaun cu rotile manual: ton semi‑închis al pielii",
+        "scaun cu rotile",
+        "ton semi‑închis al pielii"
+    ],
+    "👨🏿‍🦽": [
+        "accesibilitate",
+        "bărbat",
+        "bărbat în scaun cu rotile manual",
+        "bărbat în scaun cu rotile manual: ton închis al pielii",
+        "scaun cu rotile",
+        "ton închis al pielii"
+    ],
+    "👩‍🦽": [
+        "accesibilitate",
+        "femeie",
+        "femeie în scaun cu rotile manual",
+        "scaun cu rotile"
+    ],
+    "👩🏻‍🦽": [
+        "accesibilitate",
+        "femeie",
+        "femeie în scaun cu rotile manual",
+        "femeie în scaun cu rotile manual: ton deschis al pielii",
+        "scaun cu rotile",
+        "ton deschis al pielii"
+    ],
+    "👩🏼‍🦽": [
+        "accesibilitate",
+        "femeie",
+        "femeie în scaun cu rotile manual",
+        "femeie în scaun cu rotile manual: ton semi‑deschis al pielii",
+        "scaun cu rotile",
+        "ton semi‑deschis al pielii"
+    ],
+    "👩🏽‍🦽": [
+        "accesibilitate",
+        "femeie",
+        "femeie în scaun cu rotile manual",
+        "femeie în scaun cu rotile manual: ton mediu al pielii",
+        "scaun cu rotile",
+        "ton mediu al pielii"
+    ],
+    "👩🏾‍🦽": [
+        "accesibilitate",
+        "femeie",
+        "femeie în scaun cu rotile manual",
+        "femeie în scaun cu rotile manual: ton semi‑închis al pielii",
+        "scaun cu rotile",
+        "ton semi‑închis al pielii"
+    ],
+    "👩🏿‍🦽": [
+        "accesibilitate",
+        "femeie",
+        "femeie în scaun cu rotile manual",
+        "femeie în scaun cu rotile manual: ton închis al pielii",
+        "scaun cu rotile",
+        "ton închis al pielii"
+    ],
     "🏃": [
         "alergare",
-        "alergător",
         "fugă",
         "maraton",
         "persoană care aleargă"
     ],
     "🏃🏻": [
         "alergare",
-        "alergător",
         "fugă",
         "maraton",
         "persoană care aleargă",
@@ -8947,7 +11443,6 @@
     ],
     "🏃🏼": [
         "alergare",
-        "alergător",
         "fugă",
         "maraton",
         "persoană care aleargă",
@@ -8956,7 +11451,6 @@
     ],
     "🏃🏽": [
         "alergare",
-        "alergător",
         "fugă",
         "maraton",
         "persoană care aleargă",
@@ -8965,7 +11459,6 @@
     ],
     "🏃🏾": [
         "alergare",
-        "alergător",
         "fugă",
         "maraton",
         "persoană care aleargă",
@@ -8974,7 +11467,6 @@
     ],
     "🏃🏿": [
         "alergare",
-        "alergător",
         "fugă",
         "maraton",
         "persoană care aleargă",
@@ -9475,7 +11967,6 @@
         "ton închis al pielii"
     ],
     "🤺": [
-        "om",
         "persoană care practică scrima",
         "sabie",
         "scrimer",
@@ -9707,74 +12198,48 @@
         "ton închis al pielii"
     ],
     "🏄️": [
-        "ocean",
         "persoană care practică surfing",
-        "placă",
-        "practicant de surfing",
-        "surfing",
-        "valuri"
+        "surfing"
     ],
     "🏄🏻": [
-        "ocean",
         "persoană care practică surfing",
         "persoană care practică surfing: ton deschis al pielii",
-        "placă",
-        "practicant de surfing",
         "surfing",
-        "ton deschis al pielii",
-        "valuri"
+        "ton deschis al pielii"
     ],
     "🏄🏼": [
-        "ocean",
         "persoană care practică surfing",
         "persoană care practică surfing: ton semi‑deschis al pielii",
-        "placă",
-        "practicant de surfing",
         "surfing",
-        "ton semi‑deschis al pielii",
-        "valuri"
+        "ton semi‑deschis al pielii"
     ],
     "🏄🏽": [
-        "ocean",
         "persoană care practică surfing",
         "persoană care practică surfing: ton mediu al pielii",
-        "placă",
-        "practicant de surfing",
         "surfing",
-        "ton mediu al pielii",
-        "valuri"
+        "ton mediu al pielii"
     ],
     "🏄🏾": [
-        "ocean",
         "persoană care practică surfing",
         "persoană care practică surfing: ton semi‑închis al pielii",
-        "placă",
-        "practicant de surfing",
         "surfing",
-        "ton semi‑închis al pielii",
-        "valuri"
+        "ton semi‑închis al pielii"
     ],
     "🏄🏿": [
-        "ocean",
         "persoană care practică surfing",
         "persoană care practică surfing: ton închis al pielii",
-        "placă",
-        "practicant de surfing",
         "surfing",
-        "ton închis al pielii",
-        "valuri"
+        "ton închis al pielii"
     ],
     "🏄‍♂": [
         "bărbat",
         "bărbat care practică surfing",
-        "bărbat la surfing",
         "surfing"
     ],
     "🏄🏻‍♂": [
         "bărbat",
         "bărbat care practică surfing",
         "bărbat care practică surfing: ton deschis al pielii",
-        "bărbat la surfing",
         "surfing",
         "ton deschis al pielii"
     ],
@@ -9782,7 +12247,6 @@
         "bărbat",
         "bărbat care practică surfing",
         "bărbat care practică surfing: ton semi‑deschis al pielii",
-        "bărbat la surfing",
         "surfing",
         "ton semi‑deschis al pielii"
     ],
@@ -9790,7 +12254,6 @@
         "bărbat",
         "bărbat care practică surfing",
         "bărbat care practică surfing: ton mediu al pielii",
-        "bărbat la surfing",
         "surfing",
         "ton mediu al pielii"
     ],
@@ -9798,7 +12261,6 @@
         "bărbat",
         "bărbat care practică surfing",
         "bărbat care practică surfing: ton semi‑închis al pielii",
-        "bărbat la surfing",
         "surfing",
         "ton semi‑închis al pielii"
     ],
@@ -9806,21 +12268,18 @@
         "bărbat",
         "bărbat care practică surfing",
         "bărbat care practică surfing: ton închis al pielii",
-        "bărbat la surfing",
         "surfing",
         "ton închis al pielii"
     ],
     "🏄‍♀": [
         "femeie",
         "femeie care practică surfing",
-        "femeie la surfing",
         "surfing"
     ],
     "🏄🏻‍♀": [
         "femeie",
         "femeie care practică surfing",
         "femeie care practică surfing: ton deschis al pielii",
-        "femeie la surfing",
         "surfing",
         "ton deschis al pielii"
     ],
@@ -9828,7 +12287,6 @@
         "femeie",
         "femeie care practică surfing",
         "femeie care practică surfing: ton semi‑deschis al pielii",
-        "femeie la surfing",
         "surfing",
         "ton semi‑deschis al pielii"
     ],
@@ -9836,7 +12294,6 @@
         "femeie",
         "femeie care practică surfing",
         "femeie care practică surfing: ton mediu al pielii",
-        "femeie la surfing",
         "surfing",
         "ton mediu al pielii"
     ],
@@ -9844,7 +12301,6 @@
         "femeie",
         "femeie care practică surfing",
         "femeie care practică surfing: ton semi‑închis al pielii",
-        "femeie la surfing",
         "surfing",
         "ton semi‑închis al pielii"
     ],
@@ -9852,7 +12308,6 @@
         "femeie",
         "femeie care practică surfing",
         "femeie care practică surfing: ton închis al pielii",
-        "femeie la surfing",
         "surfing",
         "ton închis al pielii"
     ],
@@ -10243,17 +12698,13 @@
     "🏋️": [
         "greutăți",
         "halterofil",
-        "persoană care ridică greutăți",
-        "ridicare",
-        "sport"
+        "persoană care ridică greutăți"
     ],
     "🏋🏻": [
         "greutăți",
         "halterofil",
         "persoană care ridică greutăți",
         "persoană care ridică greutăți: ton deschis al pielii",
-        "ridicare",
-        "sport",
         "ton deschis al pielii"
     ],
     "🏋🏼": [
@@ -10261,8 +12712,6 @@
         "halterofil",
         "persoană care ridică greutăți",
         "persoană care ridică greutăți: ton semi‑deschis al pielii",
-        "ridicare",
-        "sport",
         "ton semi‑deschis al pielii"
     ],
     "🏋🏽": [
@@ -10270,8 +12719,6 @@
         "halterofil",
         "persoană care ridică greutăți",
         "persoană care ridică greutăți: ton mediu al pielii",
-        "ridicare",
-        "sport",
         "ton mediu al pielii"
     ],
     "🏋🏾": [
@@ -10279,8 +12726,6 @@
         "halterofil",
         "persoană care ridică greutăți",
         "persoană care ridică greutăți: ton semi‑închis al pielii",
-        "ridicare",
-        "sport",
         "ton semi‑închis al pielii"
     ],
     "🏋🏿": [
@@ -10288,8 +12733,6 @@
         "halterofil",
         "persoană care ridică greutăți",
         "persoană care ridică greutăți: ton închis al pielii",
-        "ridicare",
-        "sport",
         "ton închis al pielii"
     ],
     "🏋‍♂": [
@@ -11601,12 +14044,561 @@
         "somn",
         "ton închis al pielii"
     ],
+    "🧑‍🤝‍🧑": [
+        "cuplu",
+        "mână",
+        "persoane ținându-se de mână",
+        "persoană",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "🧑🏻‍🤝‍🧑🏻": [
+        "cuplu",
+        "mână",
+        "persoane ținându-se de mână",
+        "persoane ținându-se de mână: ton deschis al pielii",
+        "persoană",
+        "ton deschis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "🧑🏻‍🤝‍🧑🏼": [
+        "cuplu",
+        "mână",
+        "persoane ținându-se de mână",
+        "persoane ținându-se de mână: ton deschis al pielii, ton semi‑deschis al pielii",
+        "persoană",
+        "ton deschis al pielii",
+        "ton semi‑deschis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "🧑🏻‍🤝‍🧑🏽": [
+        "cuplu",
+        "mână",
+        "persoane ținându-se de mână",
+        "persoane ținându-se de mână: ton deschis al pielii, ton mediu al pielii",
+        "persoană",
+        "ton deschis al pielii",
+        "ton mediu al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "🧑🏻‍🤝‍🧑🏾": [
+        "cuplu",
+        "mână",
+        "persoane ținându-se de mână",
+        "persoane ținându-se de mână: ton deschis al pielii, ton semi‑închis al pielii",
+        "persoană",
+        "ton deschis al pielii",
+        "ton semi‑închis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "🧑🏻‍🤝‍🧑🏿": [
+        "cuplu",
+        "mână",
+        "persoane ținându-se de mână",
+        "persoane ținându-se de mână: ton deschis al pielii, ton închis al pielii",
+        "persoană",
+        "ton deschis al pielii",
+        "ton închis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "🧑🏼‍🤝‍🧑🏻": [
+        "cuplu",
+        "mână",
+        "persoane ținându-se de mână",
+        "persoane ținându-se de mână: ton semi‑deschis al pielii, ton deschis al pielii",
+        "persoană",
+        "ton deschis al pielii",
+        "ton semi‑deschis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "🧑🏼‍🤝‍🧑🏼": [
+        "cuplu",
+        "mână",
+        "persoane ținându-se de mână",
+        "persoane ținându-se de mână: ton semi‑deschis al pielii",
+        "persoană",
+        "ton semi‑deschis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "🧑🏼‍🤝‍🧑🏽": [
+        "cuplu",
+        "mână",
+        "persoane ținându-se de mână",
+        "persoane ținându-se de mână: ton semi‑deschis al pielii, ton mediu al pielii",
+        "persoană",
+        "ton mediu al pielii",
+        "ton semi‑deschis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "🧑🏼‍🤝‍🧑🏾": [
+        "cuplu",
+        "mână",
+        "persoane ținându-se de mână",
+        "persoane ținându-se de mână: ton semi‑deschis al pielii, ton semi‑închis al pielii",
+        "persoană",
+        "ton semi‑deschis al pielii",
+        "ton semi‑închis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "🧑🏼‍🤝‍🧑🏿": [
+        "cuplu",
+        "mână",
+        "persoane ținându-se de mână",
+        "persoane ținându-se de mână: ton semi‑deschis al pielii, ton închis al pielii",
+        "persoană",
+        "ton semi‑deschis al pielii",
+        "ton închis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "🧑🏽‍🤝‍🧑🏻": [
+        "cuplu",
+        "mână",
+        "persoane ținându-se de mână",
+        "persoane ținându-se de mână: ton mediu al pielii, ton deschis al pielii",
+        "persoană",
+        "ton deschis al pielii",
+        "ton mediu al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "🧑🏽‍🤝‍🧑🏼": [
+        "cuplu",
+        "mână",
+        "persoane ținându-se de mână",
+        "persoane ținându-se de mână: ton mediu al pielii, ton semi‑deschis al pielii",
+        "persoană",
+        "ton mediu al pielii",
+        "ton semi‑deschis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "🧑🏽‍🤝‍🧑🏽": [
+        "cuplu",
+        "mână",
+        "persoane ținându-se de mână",
+        "persoane ținându-se de mână: ton mediu al pielii",
+        "persoană",
+        "ton mediu al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "🧑🏽‍🤝‍🧑🏾": [
+        "cuplu",
+        "mână",
+        "persoane ținându-se de mână",
+        "persoane ținându-se de mână: ton mediu al pielii, ton semi‑închis al pielii",
+        "persoană",
+        "ton mediu al pielii",
+        "ton semi‑închis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "🧑🏽‍🤝‍🧑🏿": [
+        "cuplu",
+        "mână",
+        "persoane ținându-se de mână",
+        "persoane ținându-se de mână: ton mediu al pielii, ton închis al pielii",
+        "persoană",
+        "ton mediu al pielii",
+        "ton închis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "🧑🏾‍🤝‍🧑🏻": [
+        "cuplu",
+        "mână",
+        "persoane ținându-se de mână",
+        "persoane ținându-se de mână: ton semi‑închis al pielii, ton deschis al pielii",
+        "persoană",
+        "ton deschis al pielii",
+        "ton semi‑închis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "🧑🏾‍🤝‍🧑🏼": [
+        "cuplu",
+        "mână",
+        "persoane ținându-se de mână",
+        "persoane ținându-se de mână: ton semi‑închis al pielii, ton semi‑deschis al pielii",
+        "persoană",
+        "ton semi‑deschis al pielii",
+        "ton semi‑închis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "🧑🏾‍🤝‍🧑🏽": [
+        "cuplu",
+        "mână",
+        "persoane ținându-se de mână",
+        "persoane ținându-se de mână: ton semi‑închis al pielii, ton mediu al pielii",
+        "persoană",
+        "ton mediu al pielii",
+        "ton semi‑închis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "🧑🏾‍🤝‍🧑🏾": [
+        "cuplu",
+        "mână",
+        "persoane ținându-se de mână",
+        "persoane ținându-se de mână: ton semi‑închis al pielii",
+        "persoană",
+        "ton semi‑închis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "🧑🏾‍🤝‍🧑🏿": [
+        "cuplu",
+        "mână",
+        "persoane ținându-se de mână",
+        "persoane ținându-se de mână: ton semi‑închis al pielii, ton închis al pielii",
+        "persoană",
+        "ton semi‑închis al pielii",
+        "ton închis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "🧑🏿‍🤝‍🧑🏻": [
+        "cuplu",
+        "mână",
+        "persoane ținându-se de mână",
+        "persoane ținându-se de mână: ton închis al pielii, ton deschis al pielii",
+        "persoană",
+        "ton deschis al pielii",
+        "ton închis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "🧑🏿‍🤝‍🧑🏼": [
+        "cuplu",
+        "mână",
+        "persoane ținându-se de mână",
+        "persoane ținându-se de mână: ton închis al pielii, ton semi‑deschis al pielii",
+        "persoană",
+        "ton semi‑deschis al pielii",
+        "ton închis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "🧑🏿‍🤝‍🧑🏽": [
+        "cuplu",
+        "mână",
+        "persoane ținându-se de mână",
+        "persoane ținându-se de mână: ton închis al pielii, ton mediu al pielii",
+        "persoană",
+        "ton mediu al pielii",
+        "ton închis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "🧑🏿‍🤝‍🧑🏾": [
+        "cuplu",
+        "mână",
+        "persoane ținându-se de mână",
+        "persoane ținându-se de mână: ton închis al pielii, ton semi‑închis al pielii",
+        "persoană",
+        "ton semi‑închis al pielii",
+        "ton închis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "🧑🏿‍🤝‍🧑🏿": [
+        "cuplu",
+        "mână",
+        "persoane ținându-se de mână",
+        "persoane ținându-se de mână: ton închis al pielii",
+        "persoană",
+        "ton închis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
     "👭": [
         "cuplu",
-        "două femei ținându-se de mână",
-        "femeie",
+        "femei",
+        "femei ținându-se de mână",
         "mână",
-        "ține"
+        "ține",
+        "ținându-se de mână"
+    ],
+    "👭🏻": [
+        "cuplu",
+        "femei",
+        "femei ținându-se de mână",
+        "femei ținându-se de mână: ton deschis al pielii",
+        "mână",
+        "ton deschis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "👩🏻‍🤝‍👩🏼": [
+        "cuplu",
+        "femei",
+        "femei ținându-se de mână",
+        "femei ținându-se de mână: ton deschis al pielii, ton semi‑deschis al pielii",
+        "mână",
+        "ton deschis al pielii",
+        "ton semi‑deschis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "👩🏻‍🤝‍👩🏽": [
+        "cuplu",
+        "femei",
+        "femei ținându-se de mână",
+        "femei ținându-se de mână: ton deschis al pielii, ton mediu al pielii",
+        "mână",
+        "ton deschis al pielii",
+        "ton mediu al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "👩🏻‍🤝‍👩🏾": [
+        "cuplu",
+        "femei",
+        "femei ținându-se de mână",
+        "femei ținându-se de mână: ton deschis al pielii, ton semi‑închis al pielii",
+        "mână",
+        "ton deschis al pielii",
+        "ton semi‑închis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "👩🏻‍🤝‍👩🏿": [
+        "cuplu",
+        "femei",
+        "femei ținându-se de mână",
+        "femei ținându-se de mână: ton deschis al pielii, ton închis al pielii",
+        "mână",
+        "ton deschis al pielii",
+        "ton închis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "👩🏼‍🤝‍👩🏻": [
+        "cuplu",
+        "femei",
+        "femei ținându-se de mână",
+        "femei ținându-se de mână: ton semi‑deschis al pielii, ton deschis al pielii",
+        "mână",
+        "ton deschis al pielii",
+        "ton semi‑deschis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "👭🏼": [
+        "cuplu",
+        "femei",
+        "femei ținându-se de mână",
+        "femei ținându-se de mână: ton semi‑deschis al pielii",
+        "mână",
+        "ton semi‑deschis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "👩🏼‍🤝‍👩🏽": [
+        "cuplu",
+        "femei",
+        "femei ținându-se de mână",
+        "femei ținându-se de mână: ton semi‑deschis al pielii, ton mediu al pielii",
+        "mână",
+        "ton mediu al pielii",
+        "ton semi‑deschis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "👩🏼‍🤝‍👩🏾": [
+        "cuplu",
+        "femei",
+        "femei ținându-se de mână",
+        "femei ținându-se de mână: ton semi‑deschis al pielii, ton semi‑închis al pielii",
+        "mână",
+        "ton semi‑deschis al pielii",
+        "ton semi‑închis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "👩🏼‍🤝‍👩🏿": [
+        "cuplu",
+        "femei",
+        "femei ținându-se de mână",
+        "femei ținându-se de mână: ton semi‑deschis al pielii, ton închis al pielii",
+        "mână",
+        "ton semi‑deschis al pielii",
+        "ton închis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "👩🏽‍🤝‍👩🏻": [
+        "cuplu",
+        "femei",
+        "femei ținându-se de mână",
+        "femei ținându-se de mână: ton mediu al pielii, ton deschis al pielii",
+        "mână",
+        "ton deschis al pielii",
+        "ton mediu al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "👩🏽‍🤝‍👩🏼": [
+        "cuplu",
+        "femei",
+        "femei ținându-se de mână",
+        "femei ținându-se de mână: ton mediu al pielii, ton semi‑deschis al pielii",
+        "mână",
+        "ton mediu al pielii",
+        "ton semi‑deschis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "👭🏽": [
+        "cuplu",
+        "femei",
+        "femei ținându-se de mână",
+        "femei ținându-se de mână: ton mediu al pielii",
+        "mână",
+        "ton mediu al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "👩🏽‍🤝‍👩🏾": [
+        "cuplu",
+        "femei",
+        "femei ținându-se de mână",
+        "femei ținându-se de mână: ton mediu al pielii, ton semi‑închis al pielii",
+        "mână",
+        "ton mediu al pielii",
+        "ton semi‑închis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "👩🏽‍🤝‍👩🏿": [
+        "cuplu",
+        "femei",
+        "femei ținându-se de mână",
+        "femei ținându-se de mână: ton mediu al pielii, ton închis al pielii",
+        "mână",
+        "ton mediu al pielii",
+        "ton închis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "👩🏾‍🤝‍👩🏻": [
+        "cuplu",
+        "femei",
+        "femei ținându-se de mână",
+        "femei ținându-se de mână: ton semi‑închis al pielii, ton deschis al pielii",
+        "mână",
+        "ton deschis al pielii",
+        "ton semi‑închis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "👩🏾‍🤝‍👩🏼": [
+        "cuplu",
+        "femei",
+        "femei ținându-se de mână",
+        "femei ținându-se de mână: ton semi‑închis al pielii, ton semi‑deschis al pielii",
+        "mână",
+        "ton semi‑deschis al pielii",
+        "ton semi‑închis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "👩🏾‍🤝‍👩🏽": [
+        "cuplu",
+        "femei",
+        "femei ținându-se de mână",
+        "femei ținându-se de mână: ton semi‑închis al pielii, ton mediu al pielii",
+        "mână",
+        "ton mediu al pielii",
+        "ton semi‑închis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "👭🏾": [
+        "cuplu",
+        "femei",
+        "femei ținându-se de mână",
+        "femei ținându-se de mână: ton semi‑închis al pielii",
+        "mână",
+        "ton semi‑închis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "👩🏾‍🤝‍👩🏿": [
+        "cuplu",
+        "femei",
+        "femei ținându-se de mână",
+        "femei ținându-se de mână: ton semi‑închis al pielii, ton închis al pielii",
+        "mână",
+        "ton semi‑închis al pielii",
+        "ton închis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "👩🏿‍🤝‍👩🏻": [
+        "cuplu",
+        "femei",
+        "femei ținându-se de mână",
+        "femei ținându-se de mână: ton închis al pielii, ton deschis al pielii",
+        "mână",
+        "ton deschis al pielii",
+        "ton închis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "👩🏿‍🤝‍👩🏼": [
+        "cuplu",
+        "femei",
+        "femei ținându-se de mână",
+        "femei ținându-se de mână: ton închis al pielii, ton semi‑deschis al pielii",
+        "mână",
+        "ton semi‑deschis al pielii",
+        "ton închis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "👩🏿‍🤝‍👩🏽": [
+        "cuplu",
+        "femei",
+        "femei ținându-se de mână",
+        "femei ținându-se de mână: ton închis al pielii, ton mediu al pielii",
+        "mână",
+        "ton mediu al pielii",
+        "ton închis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "👩🏿‍🤝‍👩🏾": [
+        "cuplu",
+        "femei",
+        "femei ținându-se de mână",
+        "femei ținându-se de mână: ton închis al pielii, ton semi‑închis al pielii",
+        "mână",
+        "ton semi‑închis al pielii",
+        "ton închis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "👭🏿": [
+        "cuplu",
+        "femei",
+        "femei ținându-se de mână",
+        "femei ținându-se de mână: ton închis al pielii",
+        "mână",
+        "ton închis al pielii",
+        "ține",
+        "ținându-se de mână"
     ],
     "👫": [
         "bărbat",
@@ -11614,13 +14606,606 @@
         "cuplu",
         "femeie",
         "mână",
-        "ține"
+        "ține",
+        "ținându-se de mână"
+    ],
+    "👫🏻": [
+        "bărbat",
+        "bărbat și femeie ținându-se de mână",
+        "bărbat și femeie ținându-se de mână: ton deschis al pielii",
+        "cuplu",
+        "femeie",
+        "mână",
+        "ton deschis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "👩🏻‍🤝‍👨🏼": [
+        "bărbat",
+        "bărbat și femeie ținându-se de mână",
+        "bărbat și femeie ținându-se de mână: ton deschis al pielii, ton semi‑deschis al pielii",
+        "cuplu",
+        "femeie",
+        "mână",
+        "ton deschis al pielii",
+        "ton semi‑deschis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "👩🏻‍🤝‍👨🏽": [
+        "bărbat",
+        "bărbat și femeie ținându-se de mână",
+        "bărbat și femeie ținându-se de mână: ton deschis al pielii, ton mediu al pielii",
+        "cuplu",
+        "femeie",
+        "mână",
+        "ton deschis al pielii",
+        "ton mediu al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "👩🏻‍🤝‍👨🏾": [
+        "bărbat",
+        "bărbat și femeie ținându-se de mână",
+        "bărbat și femeie ținându-se de mână: ton deschis al pielii, ton semi‑închis al pielii",
+        "cuplu",
+        "femeie",
+        "mână",
+        "ton deschis al pielii",
+        "ton semi‑închis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "👩🏻‍🤝‍👨🏿": [
+        "bărbat",
+        "bărbat și femeie ținându-se de mână",
+        "bărbat și femeie ținându-se de mână: ton deschis al pielii, ton închis al pielii",
+        "cuplu",
+        "femeie",
+        "mână",
+        "ton deschis al pielii",
+        "ton închis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "👩🏼‍🤝‍👨🏻": [
+        "bărbat",
+        "bărbat și femeie ținându-se de mână",
+        "bărbat și femeie ținându-se de mână: ton semi‑deschis al pielii, ton deschis al pielii",
+        "cuplu",
+        "femeie",
+        "mână",
+        "ton deschis al pielii",
+        "ton semi‑deschis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "👫🏼": [
+        "bărbat",
+        "bărbat și femeie ținându-se de mână",
+        "bărbat și femeie ținându-se de mână: ton semi‑deschis al pielii",
+        "cuplu",
+        "femeie",
+        "mână",
+        "ton semi‑deschis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "👩🏼‍🤝‍👨🏽": [
+        "bărbat",
+        "bărbat și femeie ținându-se de mână",
+        "bărbat și femeie ținându-se de mână: ton semi‑deschis al pielii, ton mediu al pielii",
+        "cuplu",
+        "femeie",
+        "mână",
+        "ton mediu al pielii",
+        "ton semi‑deschis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "👩🏼‍🤝‍👨🏾": [
+        "bărbat",
+        "bărbat și femeie ținându-se de mână",
+        "bărbat și femeie ținându-se de mână: ton semi‑deschis al pielii, ton semi‑închis al pielii",
+        "cuplu",
+        "femeie",
+        "mână",
+        "ton semi‑deschis al pielii",
+        "ton semi‑închis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "👩🏼‍🤝‍👨🏿": [
+        "bărbat",
+        "bărbat și femeie ținându-se de mână",
+        "bărbat și femeie ținându-se de mână: ton semi‑deschis al pielii, ton închis al pielii",
+        "cuplu",
+        "femeie",
+        "mână",
+        "ton semi‑deschis al pielii",
+        "ton închis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "👩🏽‍🤝‍👨🏻": [
+        "bărbat",
+        "bărbat și femeie ținându-se de mână",
+        "bărbat și femeie ținându-se de mână: ton mediu al pielii, ton deschis al pielii",
+        "cuplu",
+        "femeie",
+        "mână",
+        "ton deschis al pielii",
+        "ton mediu al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "👩🏽‍🤝‍👨🏼": [
+        "bărbat",
+        "bărbat și femeie ținându-se de mână",
+        "bărbat și femeie ținându-se de mână: ton mediu al pielii, ton semi‑deschis al pielii",
+        "cuplu",
+        "femeie",
+        "mână",
+        "ton mediu al pielii",
+        "ton semi‑deschis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "👫🏽": [
+        "bărbat",
+        "bărbat și femeie ținându-se de mână",
+        "bărbat și femeie ținându-se de mână: ton mediu al pielii",
+        "cuplu",
+        "femeie",
+        "mână",
+        "ton mediu al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "👩🏽‍🤝‍👨🏾": [
+        "bărbat",
+        "bărbat și femeie ținându-se de mână",
+        "bărbat și femeie ținându-se de mână: ton mediu al pielii, ton semi‑închis al pielii",
+        "cuplu",
+        "femeie",
+        "mână",
+        "ton mediu al pielii",
+        "ton semi‑închis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "👩🏽‍🤝‍👨🏿": [
+        "bărbat",
+        "bărbat și femeie ținându-se de mână",
+        "bărbat și femeie ținându-se de mână: ton mediu al pielii, ton închis al pielii",
+        "cuplu",
+        "femeie",
+        "mână",
+        "ton mediu al pielii",
+        "ton închis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "👩🏾‍🤝‍👨🏻": [
+        "bărbat",
+        "bărbat și femeie ținându-se de mână",
+        "bărbat și femeie ținându-se de mână: ton semi‑închis al pielii, ton deschis al pielii",
+        "cuplu",
+        "femeie",
+        "mână",
+        "ton deschis al pielii",
+        "ton semi‑închis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "👩🏾‍🤝‍👨🏼": [
+        "bărbat",
+        "bărbat și femeie ținându-se de mână",
+        "bărbat și femeie ținându-se de mână: ton semi‑închis al pielii, ton semi‑deschis al pielii",
+        "cuplu",
+        "femeie",
+        "mână",
+        "ton semi‑deschis al pielii",
+        "ton semi‑închis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "👩🏾‍🤝‍👨🏽": [
+        "bărbat",
+        "bărbat și femeie ținându-se de mână",
+        "bărbat și femeie ținându-se de mână: ton semi‑închis al pielii, ton mediu al pielii",
+        "cuplu",
+        "femeie",
+        "mână",
+        "ton mediu al pielii",
+        "ton semi‑închis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "👫🏾": [
+        "bărbat",
+        "bărbat și femeie ținându-se de mână",
+        "bărbat și femeie ținându-se de mână: ton semi‑închis al pielii",
+        "cuplu",
+        "femeie",
+        "mână",
+        "ton semi‑închis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "👩🏾‍🤝‍👨🏿": [
+        "bărbat",
+        "bărbat și femeie ținându-se de mână",
+        "bărbat și femeie ținându-se de mână: ton semi‑închis al pielii, ton închis al pielii",
+        "cuplu",
+        "femeie",
+        "mână",
+        "ton semi‑închis al pielii",
+        "ton închis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "👩🏿‍🤝‍👨🏻": [
+        "bărbat",
+        "bărbat și femeie ținându-se de mână",
+        "bărbat și femeie ținându-se de mână: ton închis al pielii, ton deschis al pielii",
+        "cuplu",
+        "femeie",
+        "mână",
+        "ton deschis al pielii",
+        "ton închis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "👩🏿‍🤝‍👨🏼": [
+        "bărbat",
+        "bărbat și femeie ținându-se de mână",
+        "bărbat și femeie ținându-se de mână: ton închis al pielii, ton semi‑deschis al pielii",
+        "cuplu",
+        "femeie",
+        "mână",
+        "ton semi‑deschis al pielii",
+        "ton închis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "👩🏿‍🤝‍👨🏽": [
+        "bărbat",
+        "bărbat și femeie ținându-se de mână",
+        "bărbat și femeie ținându-se de mână: ton închis al pielii, ton mediu al pielii",
+        "cuplu",
+        "femeie",
+        "mână",
+        "ton mediu al pielii",
+        "ton închis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "👩🏿‍🤝‍👨🏾": [
+        "bărbat",
+        "bărbat și femeie ținându-se de mână",
+        "bărbat și femeie ținându-se de mână: ton închis al pielii, ton semi‑închis al pielii",
+        "cuplu",
+        "femeie",
+        "mână",
+        "ton semi‑închis al pielii",
+        "ton închis al pielii",
+        "ține",
+        "ținându-se de mână"
+    ],
+    "👫🏿": [
+        "bărbat",
+        "bărbat și femeie ținându-se de mână",
+        "bărbat și femeie ținându-se de mână: ton închis al pielii",
+        "cuplu",
+        "femeie",
+        "mână",
+        "ton închis al pielii",
+        "ține",
+        "ținându-se de mână"
     ],
     "👬": [
         "Gemeni",
         "bărbat",
+        "bărbați",
+        "bărbați ținându-se de mână",
         "cuplu",
         "doi bărbați ținându-se de mână",
+        "zodiac"
+    ],
+    "👬🏻": [
+        "Gemeni",
+        "bărbat",
+        "bărbați",
+        "bărbați ținându-se de mână",
+        "bărbați ținându-se de mână: ton deschis al pielii",
+        "cuplu",
+        "doi bărbați ținându-se de mână",
+        "ton deschis al pielii",
+        "zodiac"
+    ],
+    "👨🏻‍🤝‍👨🏼": [
+        "Gemeni",
+        "bărbat",
+        "bărbați",
+        "bărbați ținându-se de mână",
+        "bărbați ținându-se de mână: ton deschis al pielii, ton semi‑deschis al pielii",
+        "cuplu",
+        "doi bărbați ținându-se de mână",
+        "ton deschis al pielii",
+        "ton semi‑deschis al pielii",
+        "zodiac"
+    ],
+    "👨🏻‍🤝‍👨🏽": [
+        "Gemeni",
+        "bărbat",
+        "bărbați",
+        "bărbați ținându-se de mână",
+        "bărbați ținându-se de mână: ton deschis al pielii, ton mediu al pielii",
+        "cuplu",
+        "doi bărbați ținându-se de mână",
+        "ton deschis al pielii",
+        "ton mediu al pielii",
+        "zodiac"
+    ],
+    "👨🏻‍🤝‍👨🏾": [
+        "Gemeni",
+        "bărbat",
+        "bărbați",
+        "bărbați ținându-se de mână",
+        "bărbați ținându-se de mână: ton deschis al pielii, ton semi‑închis al pielii",
+        "cuplu",
+        "doi bărbați ținându-se de mână",
+        "ton deschis al pielii",
+        "ton semi‑închis al pielii",
+        "zodiac"
+    ],
+    "👨🏻‍🤝‍👨🏿": [
+        "Gemeni",
+        "bărbat",
+        "bărbați",
+        "bărbați ținându-se de mână",
+        "bărbați ținându-se de mână: ton deschis al pielii, ton închis al pielii",
+        "cuplu",
+        "doi bărbați ținându-se de mână",
+        "ton deschis al pielii",
+        "ton închis al pielii",
+        "zodiac"
+    ],
+    "👨🏼‍🤝‍👨🏻": [
+        "Gemeni",
+        "bărbat",
+        "bărbați",
+        "bărbați ținându-se de mână",
+        "bărbați ținându-se de mână: ton semi‑deschis al pielii, ton deschis al pielii",
+        "cuplu",
+        "doi bărbați ținându-se de mână",
+        "ton deschis al pielii",
+        "ton semi‑deschis al pielii",
+        "zodiac"
+    ],
+    "👬🏼": [
+        "Gemeni",
+        "bărbat",
+        "bărbați",
+        "bărbați ținându-se de mână",
+        "bărbați ținându-se de mână: ton semi‑deschis al pielii",
+        "cuplu",
+        "doi bărbați ținându-se de mână",
+        "ton semi‑deschis al pielii",
+        "zodiac"
+    ],
+    "👨🏼‍🤝‍👨🏽": [
+        "Gemeni",
+        "bărbat",
+        "bărbați",
+        "bărbați ținându-se de mână",
+        "bărbați ținându-se de mână: ton semi‑deschis al pielii, ton mediu al pielii",
+        "cuplu",
+        "doi bărbați ținându-se de mână",
+        "ton mediu al pielii",
+        "ton semi‑deschis al pielii",
+        "zodiac"
+    ],
+    "👨🏼‍🤝‍👨🏾": [
+        "Gemeni",
+        "bărbat",
+        "bărbați",
+        "bărbați ținându-se de mână",
+        "bărbați ținându-se de mână: ton semi‑deschis al pielii, ton semi‑închis al pielii",
+        "cuplu",
+        "doi bărbați ținându-se de mână",
+        "ton semi‑deschis al pielii",
+        "ton semi‑închis al pielii",
+        "zodiac"
+    ],
+    "👨🏼‍🤝‍👨🏿": [
+        "Gemeni",
+        "bărbat",
+        "bărbați",
+        "bărbați ținându-se de mână",
+        "bărbați ținându-se de mână: ton semi‑deschis al pielii, ton închis al pielii",
+        "cuplu",
+        "doi bărbați ținându-se de mână",
+        "ton semi‑deschis al pielii",
+        "ton închis al pielii",
+        "zodiac"
+    ],
+    "👨🏽‍🤝‍👨🏻": [
+        "Gemeni",
+        "bărbat",
+        "bărbați",
+        "bărbați ținându-se de mână",
+        "bărbați ținându-se de mână: ton mediu al pielii, ton deschis al pielii",
+        "cuplu",
+        "doi bărbați ținându-se de mână",
+        "ton deschis al pielii",
+        "ton mediu al pielii",
+        "zodiac"
+    ],
+    "👨🏽‍🤝‍👨🏼": [
+        "Gemeni",
+        "bărbat",
+        "bărbați",
+        "bărbați ținându-se de mână",
+        "bărbați ținându-se de mână: ton mediu al pielii, ton semi‑deschis al pielii",
+        "cuplu",
+        "doi bărbați ținându-se de mână",
+        "ton mediu al pielii",
+        "ton semi‑deschis al pielii",
+        "zodiac"
+    ],
+    "👬🏽": [
+        "Gemeni",
+        "bărbat",
+        "bărbați",
+        "bărbați ținându-se de mână",
+        "bărbați ținându-se de mână: ton mediu al pielii",
+        "cuplu",
+        "doi bărbați ținându-se de mână",
+        "ton mediu al pielii",
+        "zodiac"
+    ],
+    "👨🏽‍🤝‍👨🏾": [
+        "Gemeni",
+        "bărbat",
+        "bărbați",
+        "bărbați ținându-se de mână",
+        "bărbați ținându-se de mână: ton mediu al pielii, ton semi‑închis al pielii",
+        "cuplu",
+        "doi bărbați ținându-se de mână",
+        "ton mediu al pielii",
+        "ton semi‑închis al pielii",
+        "zodiac"
+    ],
+    "👨🏽‍🤝‍👨🏿": [
+        "Gemeni",
+        "bărbat",
+        "bărbați",
+        "bărbați ținându-se de mână",
+        "bărbați ținându-se de mână: ton mediu al pielii, ton închis al pielii",
+        "cuplu",
+        "doi bărbați ținându-se de mână",
+        "ton mediu al pielii",
+        "ton închis al pielii",
+        "zodiac"
+    ],
+    "👨🏾‍🤝‍👨🏻": [
+        "Gemeni",
+        "bărbat",
+        "bărbați",
+        "bărbați ținându-se de mână",
+        "bărbați ținându-se de mână: ton semi‑închis al pielii, ton deschis al pielii",
+        "cuplu",
+        "doi bărbați ținându-se de mână",
+        "ton deschis al pielii",
+        "ton semi‑închis al pielii",
+        "zodiac"
+    ],
+    "👨🏾‍🤝‍👨🏼": [
+        "Gemeni",
+        "bărbat",
+        "bărbați",
+        "bărbați ținându-se de mână",
+        "bărbați ținându-se de mână: ton semi‑închis al pielii, ton semi‑deschis al pielii",
+        "cuplu",
+        "doi bărbați ținându-se de mână",
+        "ton semi‑deschis al pielii",
+        "ton semi‑închis al pielii",
+        "zodiac"
+    ],
+    "👨🏾‍🤝‍👨🏽": [
+        "Gemeni",
+        "bărbat",
+        "bărbați",
+        "bărbați ținându-se de mână",
+        "bărbați ținându-se de mână: ton semi‑închis al pielii, ton mediu al pielii",
+        "cuplu",
+        "doi bărbați ținându-se de mână",
+        "ton mediu al pielii",
+        "ton semi‑închis al pielii",
+        "zodiac"
+    ],
+    "👬🏾": [
+        "Gemeni",
+        "bărbat",
+        "bărbați",
+        "bărbați ținându-se de mână",
+        "bărbați ținându-se de mână: ton semi‑închis al pielii",
+        "cuplu",
+        "doi bărbați ținându-se de mână",
+        "ton semi‑închis al pielii",
+        "zodiac"
+    ],
+    "👨🏾‍🤝‍👨🏿": [
+        "Gemeni",
+        "bărbat",
+        "bărbați",
+        "bărbați ținându-se de mână",
+        "bărbați ținându-se de mână: ton semi‑închis al pielii, ton închis al pielii",
+        "cuplu",
+        "doi bărbați ținându-se de mână",
+        "ton semi‑închis al pielii",
+        "ton închis al pielii",
+        "zodiac"
+    ],
+    "👨🏿‍🤝‍👨🏻": [
+        "Gemeni",
+        "bărbat",
+        "bărbați",
+        "bărbați ținându-se de mână",
+        "bărbați ținându-se de mână: ton închis al pielii, ton deschis al pielii",
+        "cuplu",
+        "doi bărbați ținându-se de mână",
+        "ton deschis al pielii",
+        "ton închis al pielii",
+        "zodiac"
+    ],
+    "👨🏿‍🤝‍👨🏼": [
+        "Gemeni",
+        "bărbat",
+        "bărbați",
+        "bărbați ținându-se de mână",
+        "bărbați ținându-se de mână: ton închis al pielii, ton semi‑deschis al pielii",
+        "cuplu",
+        "doi bărbați ținându-se de mână",
+        "ton semi‑deschis al pielii",
+        "ton închis al pielii",
+        "zodiac"
+    ],
+    "👨🏿‍🤝‍👨🏽": [
+        "Gemeni",
+        "bărbat",
+        "bărbați",
+        "bărbați ținându-se de mână",
+        "bărbați ținându-se de mână: ton închis al pielii, ton mediu al pielii",
+        "cuplu",
+        "doi bărbați ținându-se de mână",
+        "ton mediu al pielii",
+        "ton închis al pielii",
+        "zodiac"
+    ],
+    "👨🏿‍🤝‍👨🏾": [
+        "Gemeni",
+        "bărbat",
+        "bărbați",
+        "bărbați ținându-se de mână",
+        "bărbați ținându-se de mână: ton închis al pielii, ton semi‑închis al pielii",
+        "cuplu",
+        "doi bărbați ținându-se de mână",
+        "ton semi‑închis al pielii",
+        "ton închis al pielii",
+        "zodiac"
+    ],
+    "👬🏿": [
+        "Gemeni",
+        "bărbat",
+        "bărbați",
+        "bărbați ținându-se de mână",
+        "bărbați ținându-se de mână: ton închis al pielii",
+        "cuplu",
+        "doi bărbați ținându-se de mână",
+        "ton închis al pielii",
         "zodiac"
     ],
     "💏": [
@@ -11864,6 +15449,14 @@
         "siluete busturi",
         "siluetă"
     ],
+    "🫂": [
+        "adio",
+        "la revedere",
+        "mulțumesc",
+        "persoane îmbrățișate",
+        "salut",
+        "îmbrățișare"
+    ],
     "👣": [
         "talpă",
         "urme de pași",
@@ -11906,6 +15499,11 @@
         "animal sălbatic",
         "gorilă"
     ],
+    "🦧": [
+        "primat",
+        "primate",
+        "urangutan"
+    ],
     "🐶": [
         "animal de companie",
         "animal domestic",
@@ -11918,21 +15516,31 @@
         "animal domestic",
         "câine"
     ],
+    "🦮": [
+        "accesibilitate",
+        "câine ghid",
+        "ghid",
+        "nevăzător",
+        "orb"
+    ],
+    "🐕‍🦺": [
+        "accesibilitate",
+        "asistență",
+        "câine",
+        "câine de asistență",
+        "servicii"
+    ],
     "🐩": [
         "câine",
         "pudel",
         "rasă"
     ],
     "🐺": [
-        "animal sălbatic",
         "față",
-        "față de lup",
         "lup"
     ],
     "🦊": [
-        "animal sălbatic",
         "față",
-        "față de vulpe",
         "vulpe"
     ],
     "🦝": [
@@ -11953,10 +15561,14 @@
         "animal domestic",
         "pisică"
     ],
+    "🐈‍⬛": [
+        "ghinion",
+        "neagră",
+        "pisică",
+        "pisică neagră"
+    ],
     "🦁": [
         "față",
-        "față de leu",
-        "felină",
         "leu",
         "zodiac"
     ],
@@ -11987,11 +15599,8 @@
         "echitație"
     ],
     "🦄": [
-        "animal",
-        "cap de unicorn",
-        "corn",
-        "fantezie",
-        "față"
+        "față",
+        "unicorn"
     ],
     "🦓": [
         "animal sălbatic",
@@ -12001,6 +15610,13 @@
     "🦌": [
         "animal sălbatic",
         "cerb"
+    ],
+    "🦬": [
+        "bizon",
+        "bour",
+        "bufal",
+        "cireadă",
+        "zimbru"
     ],
     "🐮": [
         "animal domestic",
@@ -12083,6 +15699,14 @@
         "animal sălbatic",
         "elefant"
     ],
+    "🦣": [
+        "colți",
+        "dispariție",
+        "extincție",
+        "lânos",
+        "mamut",
+        "mare"
+    ],
     "🦏": [
         "animal sălbatic",
         "rinocer"
@@ -12107,9 +15731,7 @@
     "🐹": [
         "animal de companie",
         "față",
-        "față de hamster",
-        "hamster",
-        "rozător"
+        "hamster"
     ],
     "🐰": [
         "animal de companie",
@@ -12128,6 +15750,10 @@
         "rozător",
         "veveriță"
     ],
+    "🦫": [
+        "baraj",
+        "castor"
+    ],
     "🦔": [
         "arici",
         "țepos"
@@ -12138,8 +15764,13 @@
     ],
     "🐻": [
         "față",
-        "față de urs",
         "urs"
+    ],
+    "🐻‍❄": [
+        "alb",
+        "arctic",
+        "urs",
+        "urs polar"
     ],
     "🐨": [
         "koala",
@@ -12147,9 +15778,22 @@
     ],
     "🐼": [
         "față",
-        "față de panda",
-        "panda",
-        "urs"
+        "panda"
+    ],
+    "🦥": [
+        "leneș",
+        "lent",
+        "trândav"
+    ],
+    "🦦": [
+        "alunecos",
+        "jucăuș",
+        "vidră"
+    ],
+    "🦨": [
+        "mirositor",
+        "puți",
+        "sconcs"
     ],
     "🦘": [
         "Australia",
@@ -12232,6 +15876,25 @@
         "pasăre",
         "înțelept"
     ],
+    "🦤": [
+        "Mauritius",
+        "dispariție",
+        "dodo",
+        "extincție",
+        "mare"
+    ],
+    "🪶": [
+        "pană",
+        "pasăre",
+        "penaj",
+        "ușor",
+        "zbor"
+    ],
+    "🦩": [
+        "flamboaiant",
+        "flamingo",
+        "tropical"
+    ],
     "🦚": [
         "mândrie",
         "orgoliu",
@@ -12309,6 +15972,10 @@
         "inteligent",
         "mamifer acvatic"
     ],
+    "🦭": [
+        "focă",
+        "leu de mare"
+    ],
     "🐟️": [
         "pește",
         "pești",
@@ -12362,6 +16029,11 @@
         "insectă",
         "miere"
     ],
+    "🪲": [
+        "cărăbuș",
+        "gândac",
+        "insectă"
+    ],
     "🐞": [
         "buburuză",
         "buline",
@@ -12371,6 +16043,11 @@
     "🦗": [
         "greier",
         "lăcustă"
+    ],
+    "🪳": [
+        "gândac de bucătărie",
+        "insectă",
+        "parazit"
     ],
     "🕷️": [
         "arahnidă",
@@ -12397,6 +16074,19 @@
         "malarie",
         "înțepătură",
         "țânțar"
+    ],
+    "🪰": [
+        "boală",
+        "descompunere",
+        "dăunător",
+        "muscă",
+        "putrezire"
+    ],
+    "🪱": [
+        "anelid",
+        "parazit",
+        "râmă",
+        "vierme"
     ],
     "🦠": [
         "amibă",
@@ -12461,6 +16151,14 @@
         "plantă",
         "răsad",
         "tânără"
+    ],
+    "🪴": [
+        "casă",
+        "crește",
+        "cultiva",
+        "ghiveci",
+        "plantă",
+        "plantă în ghiveci"
     ],
     "🌲": [
         "arbore conifer",
@@ -12588,6 +16286,9 @@
         "căpșună",
         "fruct"
     ],
+    "🫐": [
+        "afine"
+    ],
     "🥝": [
         "fructe",
         "kiwi",
@@ -12598,6 +16299,10 @@
         "legumă",
         "roșie",
         "tomată"
+    ],
+    "🫒": [
+        "mâncare",
+        "măslină"
     ],
     "🥥": [
         "cocotier",
@@ -12636,6 +16341,9 @@
         "iute",
         "legumă"
     ],
+    "🫑": [
+        "ardei gras"
+    ],
     "🥒": [
         "castravete",
         "legume",
@@ -12653,6 +16361,16 @@
     "🥦": [
         "broccoli",
         "conopidă"
+    ],
+    "🧄": [
+        "aromă",
+        "condiment",
+        "usturoi"
+    ],
+    "🧅": [
+        "aromă",
+        "ceapă",
+        "condiment"
     ],
     "🍄": [
         "ciupercă",
@@ -12687,6 +16405,9 @@
         "mâncare",
         "pâine"
     ],
+    "🫓": [
+        "pită"
+    ],
     "🥨": [
         "covrig",
         "covrigei",
@@ -12703,6 +16424,11 @@
         "clătită",
         "crepe",
         "mâncare"
+    ],
+    "🧇": [
+        "fier de călcat",
+        "gofră",
+        "nehotărât"
     ],
     "🧀": [
         "brânză",
@@ -12773,6 +16499,9 @@
         "sandvici rulat",
         "sandviș rulat"
     ],
+    "🫔": [
+        "tamale"
+    ],
     "🥙": [
         "falafel",
         "giros",
@@ -12781,6 +16510,11 @@
         "lipie umplută",
         "mâncare",
         "șaorma"
+    ],
+    "🧆": [
+        "chifteluță",
+        "falafel",
+        "năut"
     ],
     "🥚": [
         "mâncare",
@@ -12803,6 +16537,9 @@
         "oală cu mâncare",
         "tocană"
     ],
+    "🫕": [
+        "fondue"
+    ],
     "🥣": [
         "castron cu lingură",
         "cereale",
@@ -12821,6 +16558,10 @@
         "pop-corn",
         "popcorn",
         "porumb"
+    ],
+    "🧈": [
+        "lactate",
+        "unt"
     ],
     "🧂": [
         "condiment",
@@ -12947,6 +16688,11 @@
         "moluscă",
         "mâncare"
     ],
+    "🦪": [
+        "perlă",
+        "scufundare",
+        "stridie"
+    ],
     "🍦": [
         "cornet",
         "desert",
@@ -13056,6 +16802,11 @@
         "ceașcă",
         "fierbinte"
     ],
+    "🫖": [
+        "băutură",
+        "ceai",
+        "ceainic"
+    ],
     "🍵": [
         "băutură",
         "ceai",
@@ -13133,6 +16884,26 @@
         "pahar cu pai",
         "sifon",
         "suc"
+    ],
+    "🧋": [
+        "ceai",
+        "ceai cu perle",
+        "lapte",
+        "perle"
+    ],
+    "🧃": [
+        "cutie de băutură",
+        "cutie de suc"
+    ],
+    "🧉": [
+        "băutură",
+        "mate"
+    ],
+    "🧊": [
+        "aisberg",
+        "cub de gheață",
+        "gheață",
+        "rece"
     ],
     "🥢": [
         "bețișoare de mâncat",
@@ -13284,6 +17055,15 @@
         "mortar",
         "zid"
     ],
+    "🪨": [
+        "piatră"
+    ],
+    "🪵": [
+        "lemn"
+    ],
+    "🛖": [
+        "colibă"
+    ],
     "🏘️": [
         "case",
         "construcție"
@@ -13404,6 +17184,11 @@
         "moschee",
         "musulman",
         "religie"
+    ],
+    "🛕": [
+        "hindus",
+        "templu",
+        "templu hindus"
     ],
     "🕍": [
         "cult",
@@ -13661,6 +17446,9 @@
         "vehicul",
         "vehicul recreațional"
     ],
+    "🛻": [
+        "camionetă"
+    ],
     "🚚": [
         "camion",
         "camion de marfă",
@@ -13690,6 +17478,18 @@
         "motoscuter",
         "scuter"
     ],
+    "🦽": [
+        "accesibilitate",
+        "scaun cu rotile manual"
+    ],
+    "🦼": [
+        "accesibilitate",
+        "scaun cu rotile motorizat"
+    ],
+    "🛺": [
+        "autoricșă",
+        "tuk tuk"
+    ],
     "🚲️": [
         "bicicletă",
         "ciclism"
@@ -13701,6 +17501,9 @@
     "🛹": [
         "placă",
         "skateboard"
+    ],
+    "🛼": [
+        "patină cu rotile"
     ],
     "🚏": [
         "autobuz",
@@ -13841,6 +17644,12 @@
         "sosire",
         "sosire avion",
         "sosiri"
+    ],
+    "🪂": [
+        "deltaplanorism",
+        "parasailing",
+        "parașutism",
+        "parașută"
     ],
     "💺": [
         "loc în mijloc de transport",
@@ -14226,6 +18035,11 @@
         "soare",
         "soare cu față"
     ],
+    "🪐": [
+        "planetă cu inele",
+        "saturn",
+        "saturnian"
+    ],
     "⭐️": [
         "stea"
     ],
@@ -14427,10 +18241,11 @@
         "petardă"
     ],
     "✨": [
+        "*",
         "luminițe",
         "stea",
         "steluțe",
-        "strălucire"
+        "steluță"
     ],
     "🎈": [
         "balon",
@@ -14687,6 +18502,13 @@
         "pește",
         "undiță"
     ],
+    "🤿": [
+        "mască de scufundări",
+        "scuba",
+        "scufundare cu tub de respirat",
+        "scufundări",
+        "snorkeling"
+    ],
     "🎽": [
         "atletism",
         "sport",
@@ -14716,6 +18538,17 @@
         "reușită",
         "țintă"
     ],
+    "🪀": [
+        "fluctua",
+        "jucărie",
+        "yo-yo"
+    ],
+    "🪁": [
+        "plana",
+        "pluti",
+        "zbura",
+        "zmeu"
+    ],
     "🎱": [
         "biliard",
         "bilă",
@@ -14730,6 +18563,14 @@
         "glob",
         "glob de cristal",
         "noroc"
+    ],
+    "🪄": [
+        "baghetă magică",
+        "magie",
+        "vrajă",
+        "vrăjitoare",
+        "vrăjitor",
+        "vrăjitorie"
     ],
     "🧿": [
         "amuletă",
@@ -14766,6 +18607,7 @@
         "joc de puzzle",
         "mozaic",
         "piesă",
+        "piesă de puzzle",
         "puzzle"
     ],
     "🧸": [
@@ -14773,6 +18615,12 @@
         "pluș",
         "ursuleț",
         "ursuleț de pluș"
+    ],
+    "🪅": [
+        "piñata"
+    ],
+    "🪆": [
+        "matrioșka"
     ],
     "♠️": [
         "cărți",
@@ -14853,11 +18701,25 @@
         "cusut",
         "mosor"
     ],
+    "🪡": [
+        "ac",
+        "ac de cusut",
+        "broderie",
+        "croitorie",
+        "cusut"
+    ],
     "🧶": [
         "croșeta",
         "fir textil",
         "ghem",
         "tricota"
+    ],
+    "🪢": [
+        "frânghie",
+        "lega",
+        "nod",
+        "sfoară",
+        "încurcătură"
     ],
     "👓️": [
         "ochelari",
@@ -14881,6 +18743,12 @@
         "experiment",
         "halat de laborator",
         "om de știință"
+    ],
+    "🦺": [
+        "siguranță",
+        "urgență",
+        "vestă",
+        "vestă de siguranță"
     ],
     "👔": [
         "cravată",
@@ -14923,6 +18791,27 @@
         "kimono",
         "îmbrăcăminte"
     ],
+    "🥻": [
+        "rochie",
+        "sari",
+        "îmbrăcăminte"
+    ],
+    "🩱": [
+        "costum de baie",
+        "costum de înot întreg"
+    ],
+    "🩲": [
+        "chilot",
+        "costum de baie",
+        "lenjerie",
+        "slip"
+    ],
+    "🩳": [
+        "boxeri",
+        "costum de baie",
+        "lenjerie",
+        "șort"
+    ],
     "👙": [
         "bikini",
         "costum de baie",
@@ -14962,6 +18851,9 @@
         "rucsac",
         "școală"
     ],
+    "🩴": [
+        "șlap"
+    ],
     "👞": [
         "bărbat",
         "masculin",
@@ -14999,6 +18891,11 @@
         "pantof",
         "sanda de damă",
         "încălțăminte"
+    ],
+    "🩰": [
+        "balet",
+        "dans",
+        "pantofi de balet"
     ],
     "👢": [
         "cizmă de damă",
@@ -15038,6 +18935,9 @@
         "șapcă",
         "șapcă cu cozoroc",
         "șapcă de baseball"
+    ],
+    "🪖": [
+        "cască militară"
     ],
     "⛑️": [
         "ajutor",
@@ -15171,6 +19071,9 @@
         "muzică",
         "saxofon"
     ],
+    "🪗": [
+        "acordeon"
+    ],
     "🎸": [
         "chitară",
         "instrument",
@@ -15193,10 +19096,18 @@
         "muzică",
         "vioară"
     ],
+    "🪕": [
+        "banjo",
+        "coarde",
+        "muzică"
+    ],
     "🥁": [
         "bețe de tobă",
         "muzică",
         "tobă"
+    ],
+    "🪘": [
+        "tobă înaltă"
     ],
     "📱": [
         "celular",
@@ -15406,6 +19317,12 @@
         "lumină",
         "roșu"
     ],
+    "🪔": [
+        "diya",
+        "lampă",
+        "lampă diya",
+        "ulei"
+    ],
     "📔": [
         "caiet",
         "caiet cu copertă decorativă",
@@ -15499,6 +19416,14 @@
         "pungă cu bani",
         "sac cu bani"
     ],
+    "🪙": [
+        "argint",
+        "aur",
+        "bani",
+        "comoară",
+        "metal",
+        "monedă"
+    ],
     "💴": [
         "bancnotă",
         "bancnotă yen",
@@ -15557,17 +19482,6 @@
         "grafic ascendent cu yen",
         "valută",
         "yen"
-    ],
-    "💱": [
-        "bani",
-        "schimb",
-        "schimb valutar",
-        "valută"
-    ],
-    "💲": [
-        "bani",
-        "dolar",
-        "semnul dolar îngroșat"
     ],
     "✉️": [
         "e-mail",
@@ -15665,8 +19579,7 @@
     "🖋️": [
         "cerneală",
         "rezervor",
-        "stilou",
-        "stiou"
+        "stilou"
     ],
     "🖊️": [
         "mină",
@@ -15848,6 +19761,14 @@
         "ciocan",
         "instrument"
     ],
+    "🪓": [
+        "despica",
+        "lemn",
+        "reteza",
+        "secure",
+        "topor",
+        "toporișcă"
+    ],
     "⛏️": [
         "instrument",
         "minerit",
@@ -15884,6 +19805,9 @@
         "pistol",
         "revolver"
     ],
+    "🪃": [
+        "bumerang"
+    ],
     "🏹": [
         "Săgetător",
         "arc",
@@ -15897,10 +19821,20 @@
         "armă",
         "scut"
     ],
+    "🪚": [
+        "fierăstrău pentru tămplărie"
+    ],
     "🔧": [
         "cheie de piulițe",
         "cheie fixă",
         "instrument"
+    ],
+    "🪛": [
+        "instrument",
+        "sculă",
+        "unealtă",
+        "șurub",
+        "șurubelniță"
     ],
     "🔩": [
         "instrument",
@@ -15928,6 +19862,12 @@
         "justiție",
         "zodiac"
     ],
+    "🦯": [
+        "accesibilitate",
+        "baston pentru nevăzători",
+        "nevăzător",
+        "orb"
+    ],
     "🔗": [
         "conexiune",
         "legătură",
@@ -15939,6 +19879,13 @@
         "lanț",
         "lanțuri",
         "zale"
+    ],
+    "🪝": [
+        "argument de vânzare",
+        "captură",
+        "cârlig",
+        "escroc",
+        "momeală"
     ],
     "🧰": [
         "cutie",
@@ -15952,6 +19899,11 @@
         "magnet",
         "magnetic",
         "potcoavă"
+    ],
+    "🪜": [
+        "scară",
+        "treaptă",
+        "urca"
     ],
     "⚗️": [
         "alambic",
@@ -16007,6 +19959,14 @@
         "siringă",
         "tratament"
     ],
+    "🩸": [
+        "donare de sânge",
+        "medicină",
+        "menstruație",
+        "picătură de sânge",
+        "rană",
+        "sânge"
+    ],
     "💊": [
         "doctor",
         "medicament",
@@ -16014,8 +19974,37 @@
         "pilulă",
         "tratament"
     ],
+    "🩹": [
+        "bandaj adeziv",
+        "leucoplast"
+    ],
+    "🩺": [
+        "doctor",
+        "inimă",
+        "medicină",
+        "stetoscop"
+    ],
     "🚪": [
         "ușă"
+    ],
+    "🛗": [
+        "accesibilitate",
+        "ascensor",
+        "elevator",
+        "lift"
+    ],
+    "🪞": [
+        "oglindă",
+        "reflexie"
+    ],
+    "🪟": [
+        "aer proaspăt",
+        "deschidere",
+        "fereastră",
+        "geam",
+        "ramă",
+        "transparent",
+        "vedere"
     ],
     "🛏️": [
         "cazare",
@@ -16030,8 +20019,15 @@
         "lampă",
         "lumină"
     ],
+    "🪑": [
+        "loc",
+        "scaun"
+    ],
     "🚽": [
         "toaletă"
+    ],
+    "🪠": [
+        "pompă de aspirare"
     ],
     "🚿": [
         "apă",
@@ -16040,6 +20036,18 @@
     "🛁": [
         "baie",
         "cadă"
+    ],
+    "🪤": [
+        "ademeni",
+        "capcană de șoareci",
+        "cursă de șoareci",
+        "momeală"
+    ],
+    "🪒": [
+        "ascuțit",
+        "brici",
+        "bărbierit",
+        "ras"
     ],
     "🧴": [
         "cremă",
@@ -16069,11 +20077,25 @@
         "hârtie igienică",
         "sul de hârtie"
     ],
+    "🪣": [
+        "găleată"
+    ],
     "🧼": [
         "clăbuc",
         "curățenie",
         "săpun",
         "îmbăiere"
+    ],
+    "🪥": [
+        "baie",
+        "curățare",
+        "dantură",
+        "dentară",
+        "dinte",
+        "igienă",
+        "periaj",
+        "periere",
+        "periuță de dinți"
     ],
     "🧽": [
         "absorbant",
@@ -16104,6 +20126,9 @@
         "moarte",
         "înmormântare"
     ],
+    "🪦": [
+        "piatră funerară"
+    ],
     "⚱️": [
         "cenușă",
         "moarte",
@@ -16115,6 +20140,9 @@
         "statuie",
         "statuie moai"
     ],
+    "🪧": [
+        "plancardă"
+    ],
     "🏧": [
         "atm",
         "automat bancar",
@@ -16125,6 +20153,7 @@
         "coș de gunoi",
         "folosiți coșul de gunoi",
         "gunoi",
+        "simbol pentru folosirea coșului de gunoi",
         "simbol pentru folosiți coșul de gunoi"
     ],
     "🚰": [
@@ -16586,8 +20615,7 @@
         "melodia următoare",
         "scena următoare",
         "săgeată",
-        "triunghi",
-        "următorul"
+        "triunghi"
     ],
     "⏯": [
         "buton de redare sau suspendare",
@@ -16715,17 +20743,107 @@
         "masculin",
         "semn masculin"
     ],
-    "⚕️": [
-        "Esculap",
-        "medicamente",
-        "personal",
-        "simbol medical"
+    "⚧️": [
+        "transgender"
+    ],
+    "✖️": [
+        "anulare",
+        "semn",
+        "x",
+        "înmulțire"
+    ],
+    "➕": [
+        "+",
+        "adunare",
+        "matematică",
+        "plus",
+        "semn"
+    ],
+    "➖": [
+        "-",
+        "matematică",
+        "minus",
+        "scădere",
+        "semn minus",
+        "–"
+    ],
+    "➗": [
+        "matematică",
+        "semn",
+        "împărțire",
+        "÷"
     ],
     "♾️": [
         "etern",
         "infinit",
         "nelimitat",
         "universal"
+    ],
+    "‼️": [
+        "!",
+        "exclamație",
+        "punctuație",
+        "semn",
+        "semn dublu de exclamare"
+    ],
+    "⁉️": [
+        "!",
+        "!?",
+        "?",
+        "exclamație",
+        "punctuație",
+        "semn de exclamare și întrebare",
+        "întrebare"
+    ],
+    "❓️": [
+        "punctuație",
+        "semn",
+        "semnul întrebării",
+        "întrebare"
+    ],
+    "❔": [
+        "contur",
+        "punctuație",
+        "semn",
+        "semnul întrebării alb",
+        "întrebare"
+    ],
+    "❕": [
+        "contur",
+        "exclamație",
+        "punctuație",
+        "semn",
+        "semnul exclamării alb"
+    ],
+    "❗️": [
+        "!",
+        "exclamație",
+        "mirare",
+        "punctuație",
+        "semn",
+        "semnul exclamării"
+    ],
+    "〰️": [
+        "liniuță",
+        "liniuță ondulată",
+        "ondulat"
+    ],
+    "💱": [
+        "bani",
+        "schimb",
+        "schimb valutar",
+        "valută"
+    ],
+    "💲": [
+        "bani",
+        "dolar",
+        "semnul dolar îngroșat"
+    ],
+    "⚕️": [
+        "Esculap",
+        "medicamente",
+        "personal",
+        "simbol medical"
     ],
     "♻️": [
         "reciclare",
@@ -16759,13 +20877,16 @@
     ],
     "⭕️": [
         "cerc",
-        "cerc mare îngroșat",
-        "o"
+        "cerc roșu gol",
+        "mare",
+        "o",
+        "roșu"
     ],
     "✅": [
-        "alb",
         "bifă",
-        "bifă albă îngroșată"
+        "buton",
+        "buton de bifă",
+        "✓"
     ],
     "☑️": [
         "bifă",
@@ -16777,16 +20898,11 @@
         "bifă",
         "bifă îngroșată"
     ],
-    "✖️": [
-        "anulare",
-        "semnul înmulțirii îngroșat",
-        "x",
-        "înmulțire"
-    ],
     "❌": [
         "anulare",
         "semnul x",
         "x",
+        "×",
         "închidere",
         "înmulțire"
     ],
@@ -16794,24 +20910,8 @@
         "buton",
         "buton x",
         "pătrat",
-        "x"
-    ],
-    "➕": [
-        "adunare",
-        "matematică",
-        "plus",
-        "semn plus îngroșat"
-    ],
-    "➖": [
-        "matematică",
-        "minus",
-        "scădere",
-        "semn minus îngroșat"
-    ],
-    "➗": [
-        "matematică",
-        "semnul împărțirii îngroșat",
-        "împărțire"
+        "x",
+        "×"
     ],
     "➰": [
         "buclă",
@@ -16842,62 +20942,18 @@
         "stea cu opt colțuri"
     ],
     "❇️": [
+        "*",
         "lumină",
         "strălucire"
     ],
-    "‼️": [
-        "dublu",
-        "exclamație",
-        "punctuație",
-        "semn",
-        "semn dublu de exclamare"
-    ],
-    "⁉️": [
-        "exclamație",
-        "punctuație",
-        "semn de exclamare și întrebare",
-        "întrebare"
-    ],
-    "❓️": [
-        "punctuație",
-        "semn",
-        "semnul întrebării",
-        "întrebare"
-    ],
-    "❔": [
-        "contur",
-        "punctuație",
-        "semn",
-        "semnul întrebării alb",
-        "întrebare"
-    ],
-    "❕": [
-        "contur",
-        "exclamație",
-        "punctuație",
-        "semn",
-        "semnul exclamării alb"
-    ],
-    "❗️": [
-        "exclamație",
-        "mirare",
-        "punctuație",
-        "semn",
-        "semnul exclamării"
-    ],
-    "〰️": [
-        "liniuță",
-        "liniuță ondulată",
-        "ondulat"
-    ],
     "©️": [
-        "autor",
+        "c",
         "copyright",
-        "drept",
         "drepturi de autor"
     ],
     "®️": [
         "marcă înregistrată",
+        "r",
         "înregistrat"
     ],
     "™️": [
@@ -16971,7 +21027,7 @@
         "introducere minuscule latine",
         "latine",
         "litere",
-        "majuscule"
+        "minuscule"
     ],
     "🔢": [
         "123",
@@ -17181,11 +21237,36 @@
         "geometric",
         "roșu"
     ],
+    "🟠": [
+        "cerc",
+        "cerc portocaliu",
+        "portocaliu"
+    ],
+    "🟡": [
+        "cerc",
+        "cerc galben",
+        "galben"
+    ],
+    "🟢": [
+        "cerc",
+        "cerc verde",
+        "verde"
+    ],
     "🔵": [
         "albastru",
         "cerc",
         "cerc albastru",
         "geometric"
+    ],
+    "🟣": [
+        "cerc",
+        "cerc violet",
+        "violet"
+    ],
+    "🟤": [
+        "cerc",
+        "cerc maro",
+        "maro"
     ],
     "⚫️": [
         "cerc",
@@ -17198,6 +21279,41 @@
         "cerc",
         "cerc alb",
         "geometric"
+    ],
+    "🟥": [
+        "pătrat",
+        "pătrat roșu",
+        "roșu"
+    ],
+    "🟧": [
+        "portocaliu",
+        "pătrat",
+        "pătrat portocaliu"
+    ],
+    "🟨": [
+        "galben",
+        "pătrat",
+        "pătrat galben"
+    ],
+    "🟩": [
+        "pătrat",
+        "pătrat verde",
+        "verde"
+    ],
+    "🟦": [
+        "albastru",
+        "pătrat",
+        "pătrat albastru"
+    ],
+    "🟪": [
+        "pătrat",
+        "pătrat violet",
+        "violet"
+    ],
+    "🟫": [
+        "maro",
+        "pătrat",
+        "pătrat maro"
     ],
     "⬛️": [
         "geometric",
@@ -17338,6 +21454,14 @@
     "🏳‍🌈": [
         "curcubeu",
         "steag curcubeu"
+    ],
+    "🏳‍⚧": [
+        "alb",
+        "albastru deschis",
+        "roz",
+        "steag",
+        "steag transgender",
+        "transgender"
     ],
     "🏴‍☠": [
         "comoară",
@@ -17944,7 +22068,7 @@
     ],
     "🇲🇰": [
         "steag",
-        "steag: Republica Macedonia"
+        "steag: Macedonia de Nord"
     ],
     "🇲🇱": [
         "steag",
@@ -17960,7 +22084,7 @@
     ],
     "🇲🇴": [
         "steag",
-        "steag: R.A.S. Macao a Chinei"
+        "steag: R.A.S. Macao, China"
     ],
     "🇲🇵": [
         "steag",
@@ -18204,7 +22328,7 @@
     ],
     "🇸🇹": [
         "steag",
-        "steag: Sao Tome și Principe"
+        "steag: São Tomé și Príncipe"
     ],
     "🇸🇻": [
         "steag",
@@ -18220,7 +22344,7 @@
     ],
     "🇸🇿": [
         "steag",
-        "steag: Swaziland"
+        "steag: eSwatini"
     ],
     "🇹🇦": [
         "steag",
@@ -18256,7 +22380,7 @@
     ],
     "🇹🇱": [
         "steag",
-        "steag: Timorul de Est"
+        "steag: Timor-Leste"
     ],
     "🇹🇲": [
         "steag",

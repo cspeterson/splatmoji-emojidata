@@ -10,6 +10,7 @@
   - oop
 😄:
   - gesig
+  - gesig en oë glimlag
   - glimlag
   - glimlaggende gesig met oop mond en glimlaggende oë
   - mond
@@ -26,6 +27,7 @@
   - glimlag
   - glimlaggende gesig met oop mond en oë styf toe
   - lag
+  - lag gesig met toe oë
   - mond
   - oop
   - tevrede
@@ -34,6 +36,7 @@
   - glimlag
   - glimlaggende gesig met oop mond en koue sweet
   - koud
+  - lag gesig met sweet
   - oop
   - sweet
 🤣:
@@ -117,6 +120,14 @@
   - glimlag
   - oog
   - soen
+🥲:
+  - aangeraak
+  - dankbaar
+  - glimlaggend
+  - glimlaggende gesig met traan
+  - traan
+  - trots
+  - verlig
 😋:
   - geniet
   - gesig
@@ -311,6 +322,13 @@
   - partytjie
   - partytjie gesig
   - vier
+🥸:
+  - bril
+  - gesig
+  - incognito
+  - neus
+  - vermom
+  - vermomde gesig
 😎:
   - bril
   - gesig
@@ -451,6 +469,11 @@
   - gesig
   - moeg
   - moeë gesig
+🥱:
+  - gaap
+  - gapende gesig
+  - moeg
+  - verveeld
 😤:
   - gesig
   - gesig met stoom uit neus
@@ -733,12 +756,20 @@
   - hart
   - pers
   - pers hartjie
+🤎:
+  - bruin
+  - bruin hartjie
+  - hartjie
 🖤:
   - boos
   - hart
   - sleg
   - swart
   - swart hartjie
+🤍:
+  - hartjie
+  - wit
+  - wit hartjie
 💯:
   - '100'
   - honderd
@@ -854,29 +885,35 @@
   - wuiwende hand
   - 'wuiwende hand: donker velkleur'
 🤚:
+  - agterkant van hand
   - hand
   - handrug
 🤚🏻:
+  - agterkant van hand
   - hand
   - handrug
   - 'handrug: ligte velkleur'
   - ligte velkleur
 🤚🏼:
+  - agterkant van hand
   - hand
   - handrug
   - 'handrug: medium-ligte velkleur'
   - medium-ligte velkleur
 🤚🏽:
+  - agterkant van hand
   - hand
   - handrug
   - 'handrug: medium velkleur'
   - medium velkleur
 🤚🏾:
+  - agterkant van hand
   - hand
   - handrug
   - 'handrug: medium-donker velkleur'
   - medium-donker velkleur
 🤚🏿:
+  - agterkant van hand
   - donker velkleur
   - hand
   - handrug
@@ -1047,6 +1084,86 @@
   - ok
   - ok-handteken
   - 'ok-handteken: donker velkleur'
+🤌:
+  - beklemtoon
+  - handgebaar
+  - ondervraging
+  - sarkasties
+  - vingerpunte saamgedruk
+  - vingers
+🤌🏻:
+  - beklemtoon
+  - handgebaar
+  - ligte velkleur
+  - ondervraging
+  - sarkasties
+  - vingerpunte saamgedruk
+  - 'vingerpunte saamgedruk: ligte velkleur'
+  - vingers
+🤌🏼:
+  - beklemtoon
+  - handgebaar
+  - medium-ligte velkleur
+  - ondervraging
+  - sarkasties
+  - vingerpunte saamgedruk
+  - 'vingerpunte saamgedruk: medium-ligte velkleur'
+  - vingers
+🤌🏽:
+  - beklemtoon
+  - handgebaar
+  - medium velkleur
+  - ondervraging
+  - sarkasties
+  - vingerpunte saamgedruk
+  - 'vingerpunte saamgedruk: medium velkleur'
+  - vingers
+🤌🏾:
+  - beklemtoon
+  - handgebaar
+  - medium-donker velkleur
+  - ondervraging
+  - sarkasties
+  - vingerpunte saamgedruk
+  - 'vingerpunte saamgedruk: medium-donker velkleur'
+  - vingers
+🤌🏿:
+  - beklemtoon
+  - donker velkleur
+  - handgebaar
+  - ondervraging
+  - sarkasties
+  - vingerpunte saamgedruk
+  - 'vingerpunte saamgedruk: donker velkleur'
+  - vingers
+🤏:
+  - klein hoeveelheid
+  - knypende hand
+🤏🏻:
+  - klein hoeveelheid
+  - knypende hand
+  - 'knypende hand: ligte velkleur'
+  - ligte velkleur
+🤏🏼:
+  - klein hoeveelheid
+  - knypende hand
+  - 'knypende hand: medium-ligte velkleur'
+  - medium-ligte velkleur
+🤏🏽:
+  - klein hoeveelheid
+  - knypende hand
+  - 'knypende hand: medium velkleur'
+  - medium velkleur
+🤏🏾:
+  - klein hoeveelheid
+  - knypende hand
+  - 'knypende hand: medium-donker velkleur'
+  - medium-donker velkleur
+🤏🏿:
+  - donker velkleur
+  - klein hoeveelheid
+  - knypende hand
+  - 'knypende hand: donker velkleur'
 ✌️:
   - hand
   - liggaam
@@ -1379,20 +1496,18 @@
   - hand
   - liggaam
   - op
-  - rughnad
+  - rughand
   - vinger
   - wys
-  - wysvinger
   - wysvingerrughand wat op wys
 👆🏻:
   - hand
   - liggaam
   - ligte velkleur
   - op
-  - rughnad
+  - rughand
   - vinger
   - wys
-  - wysvinger
   - wysvingerrughand wat op wys
   - 'wysvingerrughand wat op wys: ligte velkleur'
 👆🏼:
@@ -1400,10 +1515,9 @@
   - liggaam
   - medium-ligte velkleur
   - op
-  - rughnad
+  - rughand
   - vinger
   - wys
-  - wysvinger
   - wysvingerrughand wat op wys
   - 'wysvingerrughand wat op wys: medium-ligte velkleur'
 👆🏽:
@@ -1411,10 +1525,9 @@
   - liggaam
   - medium velkleur
   - op
-  - rughnad
+  - rughand
   - vinger
   - wys
-  - wysvinger
   - wysvingerrughand wat op wys
   - 'wysvingerrughand wat op wys: medium velkleur'
 👆🏾:
@@ -1422,10 +1535,9 @@
   - liggaam
   - medium-donker velkleur
   - op
-  - rughnad
+  - rughand
   - vinger
   - wys
-  - wysvinger
   - wysvingerrughand wat op wys
   - 'wysvingerrughand wat op wys: medium-donker velkleur'
 👆🏿:
@@ -1433,10 +1545,9 @@
   - hand
   - liggaam
   - op
-  - rughnad
+  - rughand
   - vinger
   - wys
-  - wysvinger
   - wysvingerrughand wat op wys
   - 'wysvingerrughand wat op wys: donker velkleur'
 🖕:
@@ -1446,7 +1557,6 @@
   - op
   - vinger
   - wys
-  - wysvinger
 🖕🏻:
   - hand
   - liggaam
@@ -1456,7 +1566,6 @@
   - op
   - vinger
   - wys
-  - wysvinger
 🖕🏼:
   - hand
   - liggaam
@@ -1466,7 +1575,6 @@
   - op
   - vinger
   - wys
-  - wysvinger
 🖕🏽:
   - hand
   - liggaam
@@ -1476,7 +1584,6 @@
   - op
   - vinger
   - wys
-  - wysvinger
 🖕🏾:
   - hand
   - liggaam
@@ -1486,7 +1593,6 @@
   - op
   - vinger
   - wys
-  - wysvinger
 🖕🏿:
   - donker velkleur
   - hand
@@ -1496,7 +1602,6 @@
   - op
   - vinger
   - wys
-  - wysvinger
 👇️:
   - af
   - hand
@@ -1504,7 +1609,6 @@
   - rughand
   - vinger
   - wys
-  - wysvinger
   - wysvingerrughand wat af wys
 👇🏻:
   - af
@@ -1514,7 +1618,6 @@
   - rughand
   - vinger
   - wys
-  - wysvinger
   - wysvingerrughand wat af wys
   - 'wysvingerrughand wat af wys: ligte velkleur'
 👇🏼:
@@ -1525,7 +1628,6 @@
   - rughand
   - vinger
   - wys
-  - wysvinger
   - wysvingerrughand wat af wys
   - 'wysvingerrughand wat af wys: medium-ligte velkleur'
 👇🏽:
@@ -1536,7 +1638,6 @@
   - rughand
   - vinger
   - wys
-  - wysvinger
   - wysvingerrughand wat af wys
   - 'wysvingerrughand wat af wys: medium velkleur'
 👇🏾:
@@ -1547,7 +1648,6 @@
   - rughand
   - vinger
   - wys
-  - wysvinger
   - wysvingerrughand wat af wys
   - 'wysvingerrughand wat af wys: medium-donker velkleur'
 👇🏿:
@@ -1558,7 +1658,6 @@
   - rughand
   - vinger
   - wys
-  - wysvinger
   - wysvingerrughand wat af wys
   - 'wysvingerrughand wat af wys: donker velkleur'
 ☝️:
@@ -1567,7 +1666,6 @@
   - op
   - vinger
   - wys
-  - wysvinger
   - wysvinger wat op wys
 ☝🏻:
   - hand
@@ -1576,7 +1674,6 @@
   - op
   - vinger
   - wys
-  - wysvinger
   - wysvinger wat op wys
   - 'wysvinger wat op wys: ligte velkleur'
 ☝🏼:
@@ -1586,7 +1683,6 @@
   - op
   - vinger
   - wys
-  - wysvinger
   - wysvinger wat op wys
   - 'wysvinger wat op wys: medium-ligte velkleur'
 ☝🏽:
@@ -1596,7 +1692,6 @@
   - op
   - vinger
   - wys
-  - wysvinger
   - wysvinger wat op wys
   - 'wysvinger wat op wys: medium velkleur'
 ☝🏾:
@@ -1606,7 +1701,6 @@
   - op
   - vinger
   - wys
-  - wysvinger
   - wysvinger wat op wys
   - 'wysvinger wat op wys: medium-donker velkleur'
 ☝🏿:
@@ -1616,7 +1710,6 @@
   - op
   - vinger
   - wys
-  - wysvinger
   - wysvinger wat op wys
   - 'wysvinger wat op wys: donker velkleur'
 👍️:
@@ -1778,14 +1871,14 @@
 👊:
   - gebal
   - hand
-  - liggam
+  - liggaam
   - slaan
   - vuis
   - vuishou
 👊🏻:
   - gebal
   - hand
-  - liggam
+  - liggaam
   - ligte velkleur
   - slaan
   - vuis
@@ -1794,7 +1887,7 @@
 👊🏼:
   - gebal
   - hand
-  - liggam
+  - liggaam
   - medium-ligte velkleur
   - slaan
   - vuis
@@ -1803,7 +1896,7 @@
 👊🏽:
   - gebal
   - hand
-  - liggam
+  - liggaam
   - medium velkleur
   - slaan
   - vuis
@@ -1812,7 +1905,7 @@
 👊🏾:
   - gebal
   - hand
-  - liggam
+  - liggaam
   - medium-donker velkleur
   - slaan
   - vuis
@@ -1822,67 +1915,79 @@
   - donker velkleur
   - gebal
   - hand
-  - liggam
+  - liggaam
   - slaan
   - vuis
   - vuishou
   - 'vuishou: donker velkleur'
 🤛:
+  - linkerkant
   - links
   - vuis
   - vuis links
 🤛🏻:
   - ligte velkleur
+  - linkerkant
   - links
   - vuis
   - 'vuis links: ligte velkleur'
 🤛🏼:
+  - linkerkant
   - links
   - medium-ligte velkleur
   - vuis
   - 'vuis links: medium-ligte velkleur'
 🤛🏽:
+  - linkerkant
   - links
   - medium velkleur
   - vuis
   - 'vuis links: medium velkleur'
 🤛🏾:
+  - linkerkant
   - links
   - medium-donker velkleur
   - vuis
   - 'vuis links: medium-donker velkleur'
 🤛🏿:
   - donker velkleur
+  - linkerkant
   - links
   - vuis
   - 'vuis links: donker velkleur'
 🤜:
   - regs
+  - regterkant
   - vuis
   - vuis regs
 🤜🏻:
   - ligte velkleur
   - regs
+  - regterkant
   - vuis
   - 'vuis regs: ligte velkleur'
 🤜🏼:
   - medium-ligte velkleur
   - regs
+  - regterkant
   - vuis
   - 'vuis regs: medium-ligte velkleur'
 🤜🏽:
   - medium velkleur
   - regs
+  - regterkant
   - vuis
   - 'vuis regs: medium velkleur'
 🤜🏾:
   - medium-donker velkleur
   - regs
+  - regterkant
   - vuis
   - 'vuis regs: medium-donker velkleur'
 🤜🏿:
   - donker velkleur
   - regs
+  - regterkant
   - vuis
   - 'vuis regs: donker velkleur'
 👏:
@@ -1928,6 +2033,7 @@
 🙌:
   - gebaar
   - hand
+  - hande in die lug
   - hoera
   - liggaam
   - omhoog
@@ -1936,6 +2042,7 @@
 🙌🏻:
   - gebaar
   - hand
+  - hande in die lug
   - hoera
   - liggaam
   - ligte velkleur
@@ -1946,6 +2053,7 @@
 🙌🏼:
   - gebaar
   - hand
+  - hande in die lug
   - hoera
   - liggaam
   - medium-ligte velkleur
@@ -1956,6 +2064,7 @@
 🙌🏽:
   - gebaar
   - hand
+  - hande in die lug
   - hoera
   - liggaam
   - medium velkleur
@@ -1966,6 +2075,7 @@
 🙌🏾:
   - gebaar
   - hand
+  - hande in die lug
   - hoera
   - liggaam
   - medium-donker velkleur
@@ -1977,6 +2087,7 @@
   - donker velkleur
   - gebaar
   - hand
+  - hande in die lug
   - hoera
   - liggaam
   - omhoog
@@ -2026,31 +2137,37 @@
 🤲:
   - bid
   - palms op teen mekaar
+  - palms teenaan langs mekaar
 🤲🏻:
   - bid
   - ligte velkleur
   - palms op teen mekaar
   - 'palms op teen mekaar: ligte velkleur'
+  - palms teenaan langs mekaar
 🤲🏼:
   - bid
   - medium-ligte velkleur
   - palms op teen mekaar
   - 'palms op teen mekaar: medium-ligte velkleur'
+  - palms teenaan langs mekaar
 🤲🏽:
   - bid
   - medium velkleur
   - palms op teen mekaar
   - 'palms op teen mekaar: medium velkleur'
+  - palms teenaan langs mekaar
 🤲🏾:
   - bid
   - medium-donker velkleur
   - palms op teen mekaar
   - 'palms op teen mekaar: medium-donker velkleur'
+  - palms teenaan langs mekaar
 🤲🏿:
   - bid
   - donker velkleur
   - palms op teen mekaar
   - 'palms op teen mekaar: donker velkleur'
+  - palms teenaan langs mekaar
 🤝:
   - bladskud
   - groet
@@ -2059,79 +2176,61 @@
 🙏:
   - asseblief
   - bid
-  - buig
   - dankie
   - gebaar
-  - gevou
   - gevoude hande
   - hand
   - liggaam
-  - vra
 🙏🏻:
   - asseblief
   - bid
-  - buig
   - dankie
   - gebaar
-  - gevou
   - gevoude hande
   - 'gevoude hande: ligte velkleur'
   - hand
   - liggaam
   - ligte velkleur
-  - vra
 🙏🏼:
   - asseblief
   - bid
-  - buig
   - dankie
   - gebaar
-  - gevou
   - gevoude hande
   - 'gevoude hande: medium-ligte velkleur'
   - hand
   - liggaam
   - medium-ligte velkleur
-  - vra
 🙏🏽:
   - asseblief
   - bid
-  - buig
   - dankie
   - gebaar
-  - gevou
   - gevoude hande
   - 'gevoude hande: medium velkleur'
   - hand
   - liggaam
   - medium velkleur
-  - vra
 🙏🏾:
   - asseblief
   - bid
-  - buig
   - dankie
   - gebaar
-  - gevou
   - gevoude hande
   - 'gevoude hande: medium-donker velkleur'
   - hand
   - liggaam
   - medium-donker velkleur
-  - vra
 🙏🏿:
   - asseblief
   - bid
-  - buig
   - dankie
   - donker velkleur
   - gebaar
-  - gevou
   - gevoude hande
   - 'gevoude hande: donker velkleur'
   - hand
   - liggaam
-  - vra
 ✍️:
   - hand
   - hand wat skryf
@@ -2316,6 +2415,14 @@
   - komies
   - liggaam
   - spier
+🦾:
+  - meganiese arm
+  - prostese
+  - toeganklikheid
+🦿:
+  - meganiese been
+  - prestese
+  - toeganklikheid
 🦵:
   - been
   - ledemaat
@@ -2412,6 +2519,40 @@
   - liggaam
   - oor
   - 'oor: donker velkleur'
+🦻:
+  - gehoorprobleme
+  - oor met gehoorapparaat
+  - toeganklikheid
+🦻🏻:
+  - gehoorprobleme
+  - ligte velkleur
+  - oor met gehoorapparaat
+  - 'oor met gehoorapparaat: ligte velkleur'
+  - toeganklikheid
+🦻🏼:
+  - gehoorprobleme
+  - medium-ligte velkleur
+  - oor met gehoorapparaat
+  - 'oor met gehoorapparaat: medium-ligte velkleur'
+  - toeganklikheid
+🦻🏽:
+  - gehoorprobleme
+  - medium velkleur
+  - oor met gehoorapparaat
+  - 'oor met gehoorapparaat: medium velkleur'
+  - toeganklikheid
+🦻🏾:
+  - gehoorprobleme
+  - medium-donker velkleur
+  - oor met gehoorapparaat
+  - 'oor met gehoorapparaat: medium-donker velkleur'
+  - toeganklikheid
+🦻🏿:
+  - donker velkleur
+  - gehoorprobleme
+  - oor met gehoorapparaat
+  - 'oor met gehoorapparaat: donker velkleur'
+  - toeganklikheid
 👃:
   - liggaam
   - neus
@@ -2443,6 +2584,20 @@
 🧠:
   - brein
   - intelligent
+🫀:
+  - hart
+  - hartklop
+  - kardiologie
+  - orgaan
+  - orgaanhart
+  - pols
+🫁:
+  - asem
+  - asemhaal
+  - inasem
+  - longe
+  - orgaan
+  - uitasem
 🦷:
   - tand
   - tandarts
@@ -2466,26 +2621,32 @@
   - mond
 👶:
   - baba
+  - jonk
 👶🏻:
   - baba
   - 'baba: ligte velkleur'
+  - jonk
   - ligte velkleur
 👶🏼:
   - baba
   - 'baba: medium-ligte velkleur'
+  - jonk
   - medium-ligte velkleur
 👶🏽:
   - baba
   - 'baba: medium velkleur'
+  - jonk
   - medium velkleur
 👶🏾:
   - baba
   - 'baba: medium-donker velkleur'
+  - jonk
   - medium-donker velkleur
 👶🏿:
   - baba
   - 'baba: donker velkleur'
   - donker velkleur
+  - jonk
 🧒:
   - geslag-neutraal
   - jongmens
@@ -2521,505 +2682,855 @@
   - kind
   - 'kind: donker velkleur'
 👦:
+  - jonk
   - kind
   - seun
 👦🏻:
+  - jonk
   - kind
   - ligte velkleur
   - seun
   - 'seun: ligte velkleur'
 👦🏼:
+  - jonk
   - kind
   - medium-ligte velkleur
   - seun
   - 'seun: medium-ligte velkleur'
 👦🏽:
+  - jonk
   - kind
   - medium velkleur
   - seun
   - 'seun: medium velkleur'
 👦🏾:
+  - jonk
   - kind
   - medium-donker velkleur
   - seun
   - 'seun: medium-donker velkleur'
 👦🏿:
   - donker velkleur
+  - jonk
   - kind
   - seun
   - 'seun: donker velkleur'
 👧:
+  - diereriem
+  - jonk
   - kind
   - meisie
+  - virgo
 👧🏻:
+  - diereriem
+  - jonk
   - kind
   - ligte velkleur
   - meisie
   - 'meisie: ligte velkleur'
+  - virgo
 👧🏼:
+  - diereriem
+  - jonk
   - kind
   - medium-ligte velkleur
   - meisie
   - 'meisie: medium-ligte velkleur'
+  - virgo
 👧🏽:
+  - diereriem
+  - jonk
   - kind
   - medium velkleur
   - meisie
   - 'meisie: medium velkleur'
+  - virgo
 👧🏾:
+  - diereriem
+  - jonk
   - kind
   - medium-donker velkleur
   - meisie
   - 'meisie: medium-donker velkleur'
+  - virgo
 👧🏿:
+  - diereriem
   - donker velkleur
+  - jonk
   - kind
   - meisie
   - 'meisie: donker velkleur'
+  - virgo
 🧑:
-  - geslag-neutraal
+  - geslagneutraal
+  - ongespesifiseerde geslag
+  - persoon
   - volwassene
 🧑🏻:
-  - geslag-neutraal
+  - geslagneutraal
   - ligte velkleur
+  - ongespesifiseerde geslag
+  - persoon
   - volwassene
   - 'volwassene: ligte velkleur'
 🧑🏼:
-  - geslag-neutraal
+  - geslagneutraal
   - medium-ligte velkleur
+  - ongespesifiseerde geslag
+  - persoon
   - volwassene
   - 'volwassene: medium-ligte velkleur'
 🧑🏽:
-  - geslag-neutraal
+  - geslagneutraal
   - medium velkleur
+  - ongespesifiseerde geslag
+  - persoon
   - volwassene
   - 'volwassene: medium velkleur'
 🧑🏾:
-  - geslag-neutraal
+  - geslagneutraal
   - medium-donker velkleur
+  - ongespesifiseerde geslag
+  - persoon
   - volwassene
   - 'volwassene: medium-donker velkleur'
 🧑🏿:
   - donker velkleur
-  - geslag-neutraal
+  - geslagneutraal
+  - ongespesifiseerde geslag
+  - persoon
   - volwassene
   - 'volwassene: donker velkleur'
 👱:
   - blond
+  - hare
   - persoon met blonde hare
 👱🏻:
   - blond
+  - hare
   - ligte velkleur
   - persoon met blonde hare
   - 'persoon met blonde hare: ligte velkleur'
 👱🏼:
   - blond
+  - hare
   - medium-ligte velkleur
   - persoon met blonde hare
   - 'persoon met blonde hare: medium-ligte velkleur'
 👱🏽:
   - blond
+  - hare
   - medium velkleur
   - persoon met blonde hare
   - 'persoon met blonde hare: medium velkleur'
 👱🏾:
   - blond
+  - hare
   - medium-donker velkleur
   - persoon met blonde hare
   - 'persoon met blonde hare: medium-donker velkleur'
 👱🏿:
   - blond
   - donker velkleur
+  - hare
   - persoon met blonde hare
   - 'persoon met blonde hare: donker velkleur'
+🧑‍🦰:
+  - geslagneutraal
+  - ongespesifiseerde geslag
+  - persoon
+  - rooi hare
+  - volwassene
+  - 'volwassene: rooi hare'
+🧑🏻‍🦰:
+  - geslagneutraal
+  - ligte velkleur
+  - ongespesifiseerde geslag
+  - persoon
+  - rooi hare
+  - volwassene
+  - 'volwassene: ligte velkleur en rooi hare'
+🧑🏼‍🦰:
+  - geslagneutraal
+  - medium-ligte velkleur
+  - ongespesifiseerde geslag
+  - persoon
+  - rooi hare
+  - volwassene
+  - 'volwassene: medium-ligte velkleur en rooi hare'
+🧑🏽‍🦰:
+  - geslagneutraal
+  - medium velkleur
+  - ongespesifiseerde geslag
+  - persoon
+  - rooi hare
+  - volwassene
+  - 'volwassene: medium velkleur en rooi hare'
+🧑🏾‍🦰:
+  - geslagneutraal
+  - medium-donker velkleur
+  - ongespesifiseerde geslag
+  - persoon
+  - rooi hare
+  - volwassene
+  - 'volwassene: medium-donker velkleur en rooi hare'
+🧑🏿‍🦰:
+  - donker velkleur
+  - geslagneutraal
+  - ongespesifiseerde geslag
+  - persoon
+  - rooi hare
+  - volwassene
+  - 'volwassene: donker velkleur en rooi hare'
+🧑‍🦱:
+  - geslagneutraal
+  - krulhare
+  - ongespesifiseerde geslag
+  - persoon
+  - volwassene
+  - 'volwassene: krulhare'
+🧑🏻‍🦱:
+  - geslagneutraal
+  - krulhare
+  - ligte velkleur
+  - ongespesifiseerde geslag
+  - persoon
+  - volwassene
+  - 'volwassene: ligte velkleur en krulhare'
+🧑🏼‍🦱:
+  - geslagneutraal
+  - krulhare
+  - medium-ligte velkleur
+  - ongespesifiseerde geslag
+  - persoon
+  - volwassene
+  - 'volwassene: medium-ligte velkleur en krulhare'
+🧑🏽‍🦱:
+  - geslagneutraal
+  - krulhare
+  - medium velkleur
+  - ongespesifiseerde geslag
+  - persoon
+  - volwassene
+  - 'volwassene: medium velkleur en krulhare'
+🧑🏾‍🦱:
+  - geslagneutraal
+  - krulhare
+  - medium-donker velkleur
+  - ongespesifiseerde geslag
+  - persoon
+  - volwassene
+  - 'volwassene: medium-donker velkleur en krulhare'
+🧑🏿‍🦱:
+  - donker velkleur
+  - geslagneutraal
+  - krulhare
+  - ongespesifiseerde geslag
+  - persoon
+  - volwassene
+  - 'volwassene: donker velkleur en krulhare'
+🧑‍🦳:
+  - geslagneutraal
+  - ongespesifiseerde geslag
+  - persoon
+  - volwassene
+  - 'volwassene: wit hare'
+  - wit hare
+🧑🏻‍🦳:
+  - geslagneutraal
+  - ligte velkleur
+  - ongespesifiseerde geslag
+  - persoon
+  - volwassene
+  - 'volwassene: ligte velkleur en wit hare'
+  - wit hare
+🧑🏼‍🦳:
+  - geslagneutraal
+  - medium-ligte velkleur
+  - ongespesifiseerde geslag
+  - persoon
+  - volwassene
+  - 'volwassene: medium-ligte velkleur en wit hare'
+  - wit hare
+🧑🏽‍🦳:
+  - geslagneutraal
+  - medium velkleur
+  - ongespesifiseerde geslag
+  - persoon
+  - volwassene
+  - 'volwassene: medium velkleur en wit hare'
+  - wit hare
+🧑🏾‍🦳:
+  - geslagneutraal
+  - medium-donker velkleur
+  - ongespesifiseerde geslag
+  - persoon
+  - volwassene
+  - 'volwassene: medium-donker velkleur en wit hare'
+  - wit hare
+🧑🏿‍🦳:
+  - donker velkleur
+  - geslagneutraal
+  - ongespesifiseerde geslag
+  - persoon
+  - volwassene
+  - 'volwassene: donker velkleur en wit hare'
+  - wit hare
+🧑‍🦲:
+  - bles
+  - geslagneutraal
+  - ongespesifiseerde geslag
+  - persoon
+  - volwassene
+  - 'volwassene: bles'
+🧑🏻‍🦲:
+  - bles
+  - geslagneutraal
+  - ligte velkleur
+  - ongespesifiseerde geslag
+  - persoon
+  - volwassene
+  - 'volwassene: ligte velkleur en bles'
+🧑🏼‍🦲:
+  - bles
+  - geslagneutraal
+  - medium-ligte velkleur
+  - ongespesifiseerde geslag
+  - persoon
+  - volwassene
+  - 'volwassene: medium-ligte velkleur en bles'
+🧑🏽‍🦲:
+  - bles
+  - geslagneutraal
+  - medium velkleur
+  - ongespesifiseerde geslag
+  - persoon
+  - volwassene
+  - 'volwassene: medium velkleur en bles'
+🧑🏾‍🦲:
+  - bles
+  - geslagneutraal
+  - medium-donker velkleur
+  - ongespesifiseerde geslag
+  - persoon
+  - volwassene
+  - 'volwassene: medium-donker velkleur en bles'
+🧑🏿‍🦲:
+  - bles
+  - donker velkleur
+  - geslagneutraal
+  - ongespesifiseerde geslag
+  - persoon
+  - volwassene
+  - 'volwassene: donker velkleur en bles'
 👨:
   - man
+  - volwassene
 👨🏻:
   - ligte velkleur
   - man
   - 'man: ligte velkleur'
+  - volwassene
 👨🏼:
   - man
   - 'man: medium-ligte velkleur'
   - medium-ligte velkleur
+  - volwassene
 👨🏽:
   - man
   - 'man: medium velkleur'
   - medium velkleur
+  - volwassene
 👨🏾:
   - man
   - 'man: medium-donker velkleur'
   - medium-donker velkleur
+  - volwassene
 👨🏿:
   - donker velkleur
   - man
   - 'man: donker velkleur'
+  - volwassene
 🧔:
   - baard
   - bebaarde persoon
+  - man
 🧔🏻:
   - baard
   - bebaarde persoon
   - 'bebaarde persoon: ligte velkleur'
   - ligte velkleur
+  - man
 🧔🏼:
   - baard
   - bebaarde persoon
   - 'bebaarde persoon: medium-ligte velkleur'
+  - man
   - medium-ligte velkleur
 🧔🏽:
   - baard
   - bebaarde persoon
   - 'bebaarde persoon: medium velkleur'
+  - man
   - medium velkleur
 🧔🏾:
   - baard
   - bebaarde persoon
   - 'bebaarde persoon: medium-donker velkleur'
+  - man
   - medium-donker velkleur
 🧔🏿:
   - baard
   - bebaarde persoon
   - 'bebaarde persoon: donker velkleur'
   - donker velkleur
+  - man
 👱‍♂:
+  - blond
   - blonde man
+  - hare
+  - man
 👱🏻‍♂:
+  - blond
   - blonde man
   - 'blonde man: ligte velkleur'
+  - hare
   - ligte velkleur
+  - man
 👱🏼‍♂:
+  - blond
   - blonde man
   - 'blonde man: medium-ligte velkleur'
+  - hare
+  - man
   - medium-ligte velkleur
 👱🏽‍♂:
+  - blond
   - blonde man
   - 'blonde man: medium velkleur'
+  - hare
+  - man
   - medium velkleur
 👱🏾‍♂:
+  - blond
   - blonde man
   - 'blonde man: medium-donker velkleur'
+  - hare
+  - man
   - medium-donker velkleur
 👱🏿‍♂:
+  - blond
   - blonde man
   - 'blonde man: donker velkleur'
   - donker velkleur
+  - hare
+  - man
 👨‍🦰:
   - man
   - 'man: rooi hare'
   - rooi hare
+  - volwassene
 👨🏻‍🦰:
   - ligte velkleur
   - man
   - 'man: ligte velkleur en rooi hare'
   - rooi hare
+  - volwassene
 👨🏼‍🦰:
   - man
   - 'man: medium-ligte velkleur en rooi hare'
   - medium-ligte velkleur
   - rooi hare
+  - volwassene
 👨🏽‍🦰:
   - man
   - 'man: medium velkleur en rooi hare'
   - medium velkleur
   - rooi hare
+  - volwassene
 👨🏾‍🦰:
   - man
   - 'man: medium-donker velkleur en rooi hare'
   - medium-donker velkleur
   - rooi hare
+  - volwassene
 👨🏿‍🦰:
   - donker velkleur
   - man
   - 'man: donker velkleur en rooi hare'
   - rooi hare
+  - volwassene
 👨‍🦱:
   - krulhare
   - man
   - 'man: krulhare'
+  - volwassene
 👨🏻‍🦱:
   - krulhare
   - ligte velkleur
   - man
   - 'man: ligte velkleur en krulhare'
+  - volwassene
 👨🏼‍🦱:
   - krulhare
   - man
   - 'man: medium-ligte velkleur en krulhare'
   - medium-ligte velkleur
+  - volwassene
 👨🏽‍🦱:
   - krulhare
   - man
   - 'man: medium velkleur en krulhare'
   - medium velkleur
+  - volwassene
 👨🏾‍🦱:
   - krulhare
   - man
   - 'man: medium-donker velkleur en krulhare'
   - medium-donker velkleur
+  - volwassene
 👨🏿‍🦱:
   - donker velkleur
   - krulhare
   - man
   - 'man: donker velkleur en krulhare'
+  - volwassene
 👨‍🦳:
   - man
   - 'man: wit hare'
+  - volwassene
   - wit hare
 👨🏻‍🦳:
   - ligte velkleur
   - man
   - 'man: ligte velkleur en wit hare'
+  - volwassene
   - wit hare
 👨🏼‍🦳:
   - man
   - 'man: medium-ligte velkleur en wit hare'
   - medium-ligte velkleur
+  - volwassene
   - wit hare
 👨🏽‍🦳:
   - man
   - 'man: medium velkleur en wit hare'
   - medium velkleur
+  - volwassene
   - wit hare
 👨🏾‍🦳:
   - man
   - 'man: medium-donker velkleur en wit hare'
   - medium-donker velkleur
+  - volwassene
   - wit hare
 👨🏿‍🦳:
   - donker velkleur
   - man
   - 'man: donker velkleur en wit hare'
+  - volwassene
   - wit hare
 👨‍🦲:
   - bles
   - man
   - 'man: bles'
+  - volwassene
 👨🏻‍🦲:
   - bles
   - ligte velkleur
   - man
   - 'man: ligte velkleur en bles'
+  - volwassene
 👨🏼‍🦲:
   - bles
   - man
   - 'man: medium-ligte velkleur en bles'
   - medium-ligte velkleur
+  - volwassene
 👨🏽‍🦲:
   - bles
   - man
   - 'man: medium velkleur en bles'
   - medium velkleur
+  - volwassene
 👨🏾‍🦲:
   - bles
   - man
   - 'man: medium-donker velkleur en bles'
   - medium-donker velkleur
+  - volwassene
 👨🏿‍🦲:
   - bles
   - donker velkleur
   - man
   - 'man: donker velkleur en bles'
+  - volwassene
 👩:
+  - volwassene
   - vrou
 👩🏻:
   - ligte velkleur
+  - volwassene
   - vrou
   - 'vrou: ligte velkleur'
 👩🏼:
   - medium-ligte velkleur
+  - volwassene
   - vrou
   - 'vrou: medium-ligte velkleur'
 👩🏽:
   - medium velkleur
+  - volwassene
   - vrou
   - 'vrou: medium velkleur'
 👩🏾:
   - medium-donker velkleur
+  - volwassene
   - vrou
   - 'vrou: medium-donker velkleur'
 👩🏿:
   - donker velkleur
+  - volwassene
   - vrou
   - 'vrou: donker velkleur'
 👱‍♀:
+  - blond
   - blonde vrou
   - blondine
+  - hare
+  - vrou
 👱🏻‍♀:
+  - blond
   - blonde vrou
   - blondine
   - 'blondine: ligte velkleur'
+  - hare
   - ligte velkleur
+  - vrou
 👱🏼‍♀:
+  - blond
   - blonde vrou
   - blondine
   - 'blondine: medium-ligte velkleur'
+  - hare
   - medium-ligte velkleur
+  - vrou
 👱🏽‍♀:
+  - blond
   - blonde vrou
   - blondine
   - 'blondine: medium velkleur'
+  - hare
   - medium velkleur
+  - vrou
 👱🏾‍♀:
+  - blond
   - blonde vrou
   - blondine
   - 'blondine: medium-donker velkleur'
+  - hare
   - medium-donker velkleur
+  - vrou
 👱🏿‍♀:
+  - blond
   - blonde vrou
   - blondine
   - 'blondine: donker velkleur'
   - donker velkleur
+  - hare
+  - vrou
 👩‍🦰:
   - rooi hare
+  - volwassene
   - vrou
   - 'vrou: rooi hare'
 👩🏻‍🦰:
   - ligte velkleur
   - rooi hare
+  - volwassene
   - vrou
   - 'vrou: ligte velkleur en rooi hare'
 👩🏼‍🦰:
   - medium-ligte velkleur
   - rooi hare
+  - volwassene
   - vrou
   - 'vrou: medium-ligte velkleur en rooi hare'
 👩🏽‍🦰:
   - medium velkleur
   - rooi hare
+  - volwassene
   - vrou
   - 'vrou: medium velkleur en rooi hare'
 👩🏾‍🦰:
   - medium-donker velkleur
   - rooi hare
+  - volwassene
   - vrou
   - 'vrou: medium-donker velkleur en rooi hare'
 👩🏿‍🦰:
   - donker velkleur
   - rooi hare
+  - volwassene
   - vrou
   - 'vrou: donker velkleur en rooi hare'
 👩‍🦱:
   - krulhare
+  - volwassene
   - vrou
   - 'vrou: krulhare'
 👩🏻‍🦱:
   - krulhare
   - ligte velkleur
+  - volwassene
   - vrou
   - 'vrou: ligte velkleur en krulhare'
 👩🏼‍🦱:
   - krulhare
   - medium-ligte velkleur
+  - volwassene
   - vrou
   - 'vrou: medium-ligte velkleur en krulhare'
 👩🏽‍🦱:
   - krulhare
   - medium velkleur
+  - volwassene
   - vrou
   - 'vrou: medium velkleur en krulhare'
 👩🏾‍🦱:
   - krulhare
   - medium-donker velkleur
+  - volwassene
   - vrou
   - 'vrou: medium-donker velkleur en krulhare'
 👩🏿‍🦱:
   - donker velkleur
   - krulhare
+  - volwassene
   - vrou
   - 'vrou: donker velkleur en krulhare'
 👩‍🦳:
+  - volwassene
   - vrou
   - 'vrou: wit hare'
   - wit hare
 👩🏻‍🦳:
   - ligte velkleur
+  - volwassene
   - vrou
   - 'vrou: ligte velkleur en wit hare'
   - wit hare
 👩🏼‍🦳:
   - medium-ligte velkleur
+  - volwassene
   - vrou
   - 'vrou: medium-ligte velkleur en wit hare'
   - wit hare
 👩🏽‍🦳:
   - medium velkleur
+  - volwassene
   - vrou
   - 'vrou: medium velkleur en wit hare'
   - wit hare
 👩🏾‍🦳:
   - medium-donker velkleur
+  - volwassene
   - vrou
   - 'vrou: medium-donker velkleur en wit hare'
   - wit hare
 👩🏿‍🦳:
   - donker velkleur
+  - volwassene
   - vrou
   - 'vrou: donker velkleur en wit hare'
   - wit hare
 👩‍🦲:
   - bles
+  - volwassene
   - vrou
   - 'vrou: bles'
 👩🏻‍🦲:
   - bles
   - ligte velkleur
+  - volwassene
   - vrou
   - 'vrou: ligte velkleur en bles'
 👩🏼‍🦲:
   - bles
   - medium-ligte velkleur
+  - volwassene
   - vrou
   - 'vrou: medium-ligte velkleur en bles'
 👩🏽‍🦲:
   - bles
   - medium velkleur
+  - volwassene
   - vrou
   - 'vrou: medium velkleur en bles'
 👩🏾‍🦲:
   - bles
   - medium-donker velkleur
+  - volwassene
   - vrou
   - 'vrou: medium-donker velkleur en bles'
 👩🏿‍🦲:
   - bles
   - donker velkleur
+  - volwassene
   - vrou
   - 'vrou: donker velkleur en bles'
 🧓:
-  - geslag-neutraal
+  - geslagneutraal
+  - ongespesifiseerde geslag
   - oud
+  - ouer persoon
   - ouer volwassene
+  - volwassene
 🧓🏻:
-  - geslag-neutraal
+  - geslagneutraal
   - ligte velkleur
+  - ongespesifiseerde geslag
   - oud
+  - ouer persoon
   - ouer volwassene
   - 'ouer volwassene: ligte velkleur'
+  - volwassene
 🧓🏼:
-  - geslag-neutraal
+  - geslagneutraal
   - medium-ligte velkleur
+  - ongespesifiseerde geslag
   - oud
+  - ouer persoon
   - ouer volwassene
   - 'ouer volwassene: medium-ligte velkleur'
+  - volwassene
 🧓🏽:
-  - geslag-neutraal
+  - geslagneutraal
   - medium velkleur
+  - ongespesifiseerde geslag
   - oud
+  - ouer persoon
   - ouer volwassene
   - 'ouer volwassene: medium velkleur'
+  - volwassene
 🧓🏾:
-  - geslag-neutraal
+  - geslagneutraal
   - medium-donker velkleur
+  - ongespesifiseerde geslag
   - oud
+  - ouer persoon
   - ouer volwassene
   - 'ouer volwassene: medium-donker velkleur'
+  - volwassene
 🧓🏿:
   - donker velkleur
-  - geslag-neutraal
+  - geslagneutraal
+  - ongespesifiseerde geslag
   - oud
+  - ouer persoon
   - ouer volwassene
   - 'ouer volwassene: donker velkleur'
+  - volwassene
 👴:
   - man
   - ou man
@@ -3057,95 +3568,112 @@
 👵:
   - ou vrou
   - oud
+  - volwassene
   - vrou
 👵🏻:
   - ligte velkleur
   - ou vrou
   - 'ou vrou: ligte velkleur'
   - oud
+  - volwassene
   - vrou
 👵🏼:
   - medium-ligte velkleur
   - ou vrou
   - 'ou vrou: medium-ligte velkleur'
   - oud
+  - volwassene
   - vrou
 👵🏽:
   - medium velkleur
   - ou vrou
   - 'ou vrou: medium velkleur'
   - oud
+  - volwassene
   - vrou
 👵🏾:
   - medium-donker velkleur
   - ou vrou
   - 'ou vrou: medium-donker velkleur'
   - oud
+  - volwassene
   - vrou
 👵🏿:
   - donker velkleur
   - ou vrou
   - 'ou vrou: donker velkleur'
   - oud
+  - volwassene
   - vrou
 🙍:
   - frons
   - gebaar
+  - ongelukkig
   - persoon wat frons
 🙍🏻:
   - frons
   - gebaar
   - ligte velkleur
+  - ongelukkig
   - persoon wat frons
   - 'persoon wat frons: ligte velkleur'
 🙍🏼:
   - frons
   - gebaar
   - medium-ligte velkleur
+  - ongelukkig
   - persoon wat frons
   - 'persoon wat frons: medium-ligte velkleur'
 🙍🏽:
   - frons
   - gebaar
   - medium velkleur
+  - ongelukkig
   - persoon wat frons
   - 'persoon wat frons: medium velkleur'
 🙍🏾:
   - frons
   - gebaar
   - medium-donker velkleur
+  - ongelukkig
   - persoon wat frons
   - 'persoon wat frons: medium-donker velkleur'
 🙍🏿:
   - donker velkleur
   - frons
   - gebaar
+  - ongelukkig
   - persoon wat frons
   - 'persoon wat frons: donker velkleur'
 🙍‍♂:
   - frons
+  - gebaar
   - man wat frons
   - ongelukkig
 🙍🏻‍♂:
   - frons
+  - gebaar
   - ligte velkleur
   - man wat frons
   - 'man wat frons: ligte velkleur'
   - ongelukkig
 🙍🏼‍♂:
   - frons
+  - gebaar
   - man wat frons
   - 'man wat frons: medium-ligte velkleur'
   - medium-ligte velkleur
   - ongelukkig
 🙍🏽‍♂:
   - frons
+  - gebaar
   - man wat frons
   - 'man wat frons: medium velkleur'
   - medium velkleur
   - ongelukkig
 🙍🏾‍♂:
   - frons
+  - gebaar
   - man wat frons
   - 'man wat frons: medium-donker velkleur'
   - medium-donker velkleur
@@ -3153,33 +3681,39 @@
 🙍🏿‍♂:
   - donker velkleur
   - frons
+  - gebaar
   - man wat frons
   - 'man wat frons: donker velkleur'
   - ongelukkig
 🙍‍♀:
   - frons
+  - gebaar
   - ongelukkig
   - vrou wat frons
 🙍🏻‍♀:
   - frons
+  - gebaar
   - ligte velkleur
   - ongelukkig
   - vrou wat frons
   - 'vrou wat frons: ligte velkleur'
 🙍🏼‍♀:
   - frons
+  - gebaar
   - medium-ligte velkleur
   - ongelukkig
   - vrou wat frons
   - 'vrou wat frons: medium-ligte velkleur'
 🙍🏽‍♀:
   - frons
+  - gebaar
   - medium velkleur
   - ongelukkig
   - vrou wat frons
   - 'vrou wat frons: medium velkleur'
 🙍🏾‍♀:
   - frons
+  - gebaar
   - medium-donker velkleur
   - ongelukkig
   - vrou wat frons
@@ -3187,116 +3721,124 @@
 🙍🏿‍♀:
   - donker velkleur
   - frons
+  - gebaar
   - ongelukkig
   - vrou wat frons
   - 'vrou wat frons: donker velkleur'
 🙎:
+  - dikbek
+  - dikbek persoon
+  - dikbekpersoon
   - gebaar
-  - persoon wat pruil
-  - pruil
 🙎🏻:
+  - dikbek
+  - dikbek persoon
+  - 'dikbek persoon: ligte velkleur'
+  - dikbekpersoon
   - gebaar
   - ligte velkleur
-  - persoon wat pruil
-  - 'persoon wat pruil: ligte velkleur'
-  - pruil
 🙎🏼:
+  - dikbek
+  - dikbek persoon
+  - 'dikbek persoon: medium-ligte velkleur'
+  - dikbekpersoon
   - gebaar
   - medium-ligte velkleur
-  - persoon wat pruil
-  - 'persoon wat pruil: medium-ligte velkleur'
-  - pruil
 🙎🏽:
+  - dikbek
+  - dikbek persoon
+  - 'dikbek persoon: medium velkleur'
+  - dikbekpersoon
   - gebaar
   - medium velkleur
-  - persoon wat pruil
-  - 'persoon wat pruil: medium velkleur'
-  - pruil
 🙎🏾:
+  - dikbek
+  - dikbek persoon
+  - 'dikbek persoon: medium-donker velkleur'
+  - dikbekpersoon
   - gebaar
   - medium-donker velkleur
-  - persoon wat pruil
-  - 'persoon wat pruil: medium-donker velkleur'
-  - pruil
 🙎🏿:
+  - dikbek
+  - dikbek persoon
+  - 'dikbek persoon: donker velkleur'
+  - dikbekpersoon
   - donker velkleur
   - gebaar
-  - persoon wat pruil
-  - 'persoon wat pruil: donker velkleur'
-  - pruil
 🙎‍♂:
   - dikbek
   - dikbek man
-  - pruil
+  - gebaar
 🙎🏻‍♂:
   - dikbek
   - dikbek man
   - 'dikbek man: ligte velkleur'
+  - gebaar
   - ligte velkleur
-  - pruil
 🙎🏼‍♂:
   - dikbek
   - dikbek man
   - 'dikbek man: medium-ligte velkleur'
+  - gebaar
   - medium-ligte velkleur
-  - pruil
 🙎🏽‍♂:
   - dikbek
   - dikbek man
   - 'dikbek man: medium velkleur'
+  - gebaar
   - medium velkleur
-  - pruil
 🙎🏾‍♂:
   - dikbek
   - dikbek man
   - 'dikbek man: medium-donker velkleur'
+  - gebaar
   - medium-donker velkleur
-  - pruil
 🙎🏿‍♂:
   - dikbek
   - dikbek man
   - 'dikbek man: donker velkleur'
   - donker velkleur
-  - pruil
+  - gebaar
 🙎‍♀:
   - dikbek
   - dikbek vrou
-  - pruil
+  - gebaar
 🙎🏻‍♀:
   - dikbek
   - dikbek vrou
   - 'dikbek vrou: ligte velkleur'
+  - gebaar
   - ligte velkleur
-  - pruil
 🙎🏼‍♀:
   - dikbek
   - dikbek vrou
   - 'dikbek vrou: medium-ligte velkleur'
+  - gebaar
   - medium-ligte velkleur
-  - pruil
 🙎🏽‍♀:
   - dikbek
   - dikbek vrou
   - 'dikbek vrou: medium velkleur'
+  - gebaar
   - medium velkleur
-  - pruil
 🙎🏾‍♀:
   - dikbek
   - dikbek vrou
   - 'dikbek vrou: medium-donker velkleur'
+  - gebaar
   - medium-donker velkleur
-  - pruil
 🙎🏿‍♀:
   - dikbek
   - dikbek vrou
   - 'dikbek vrou: donker velkleur'
   - donker velkleur
-  - pruil
+  - gebaar
 🙅:
   - gebaar
   - hand
   - keer
   - nee
+  - persoon wat wys NEE
   - verbied
   - verbode
   - wys nee
@@ -3306,111 +3848,189 @@
   - keer
   - ligte velkleur
   - nee
+  - persoon wat wys NEE
+  - 'persoon wat wys NEE: ligte velkleur'
   - verbied
   - verbode
   - wys nee
-  - 'wys nee: ligte velkleur'
 🙅🏼:
   - gebaar
   - hand
   - keer
   - medium-ligte velkleur
   - nee
+  - persoon wat wys NEE
+  - 'persoon wat wys NEE: medium-ligte velkleur'
   - verbied
   - verbode
   - wys nee
-  - 'wys nee: medium-ligte velkleur'
 🙅🏽:
   - gebaar
   - hand
   - keer
   - medium velkleur
   - nee
+  - persoon wat wys NEE
+  - 'persoon wat wys NEE: medium velkleur'
   - verbied
   - verbode
   - wys nee
-  - 'wys nee: medium velkleur'
 🙅🏾:
   - gebaar
   - hand
   - keer
   - medium-donker velkleur
   - nee
+  - persoon wat wys NEE
+  - 'persoon wat wys NEE: medium-donker velkleur'
   - verbied
   - verbode
   - wys nee
-  - 'wys nee: medium-donker velkleur'
 🙅🏿:
   - donker velkleur
   - gebaar
   - hand
   - keer
   - nee
+  - persoon wat wys NEE
+  - 'persoon wat wys NEE: donker velkleur'
   - verbied
   - verbode
   - wys nee
-  - 'wys nee: donker velkleur'
 🙅‍♂:
-  - man wys nee
+  - gebaar
+  - hand
+  - man
+  - man wys NEE
   - nee
+  - verbied
+  - verbode
+  - wys nee
 🙅🏻‍♂:
+  - gebaar
+  - hand
   - ligte velkleur
-  - man wys nee
-  - 'man wys nee: ligte velkleur'
+  - man
+  - man wys NEE
+  - 'man wys NEE: ligte velkleur'
   - nee
+  - verbied
+  - verbode
+  - wys nee
 🙅🏼‍♂:
-  - man wys nee
-  - 'man wys nee: medium-ligte velkleur'
+  - gebaar
+  - hand
+  - man
+  - man wys NEE
+  - 'man wys NEE: medium-ligte velkleur'
   - medium-ligte velkleur
   - nee
+  - verbied
+  - verbode
+  - wys nee
 🙅🏽‍♂:
-  - man wys nee
-  - 'man wys nee: medium velkleur'
+  - gebaar
+  - hand
+  - man
+  - man wys NEE
+  - 'man wys NEE: medium velkleur'
   - medium velkleur
   - nee
+  - verbied
+  - verbode
+  - wys nee
 🙅🏾‍♂:
-  - man wys nee
-  - 'man wys nee: medium-donker velkleur'
+  - gebaar
+  - hand
+  - man
+  - man wys NEE
+  - 'man wys NEE: medium-donker velkleur'
   - medium-donker velkleur
   - nee
+  - verbied
+  - verbode
+  - wys nee
 🙅🏿‍♂:
   - donker velkleur
-  - man wys nee
-  - 'man wys nee: donker velkleur'
+  - gebaar
+  - hand
+  - man
+  - man wys NEE
+  - 'man wys NEE: donker velkleur'
   - nee
+  - verbied
+  - verbode
+  - wys nee
 🙅‍♀:
+  - gebaar
+  - hand
   - nee
-  - vrou wys nee
+  - verbied
+  - verbode
+  - vrou
+  - vrou wys NEE
+  - wys nee
 🙅🏻‍♀:
+  - gebaar
+  - hand
   - ligte velkleur
   - nee
-  - vrou wys nee
-  - 'vrou wys nee: ligte velkleur'
+  - verbied
+  - verbode
+  - vrou
+  - vrou wys NEE
+  - 'vrou wys NEE: ligte velkleur'
+  - wys nee
 🙅🏼‍♀:
+  - gebaar
+  - hand
   - medium-ligte velkleur
   - nee
-  - vrou wys nee
-  - 'vrou wys nee: medium-ligte velkleur'
+  - verbied
+  - verbode
+  - vrou
+  - vrou wys NEE
+  - 'vrou wys NEE: medium-ligte velkleur'
+  - wys nee
 🙅🏽‍♀:
+  - gebaar
+  - hand
   - medium velkleur
   - nee
-  - vrou wys nee
-  - 'vrou wys nee: medium velkleur'
+  - verbied
+  - verbode
+  - vrou
+  - vrou wys NEE
+  - 'vrou wys NEE: medium velkleur'
+  - wys nee
 🙅🏾‍♀:
+  - gebaar
+  - hand
   - medium-donker velkleur
   - nee
-  - vrou wys nee
-  - 'vrou wys nee: medium-donker velkleur'
+  - verbied
+  - verbode
+  - vrou
+  - vrou wys NEE
+  - 'vrou wys NEE: medium-donker velkleur'
+  - wys nee
 🙅🏿‍♀:
   - donker velkleur
+  - gebaar
+  - hand
   - nee
-  - vrou wys nee
-  - 'vrou wys nee: donker velkleur'
+  - verbied
+  - verbode
+  - vrou
+  - vrou wys NEE
+  - 'vrou wys NEE: donker velkleur'
+  - wys nee
 🙆:
   - gebaar
   - goed
   - hand
   - ok
+  - persoon wys als is goed
   - wys goed
 🙆🏻:
   - gebaar
@@ -3418,287 +4038,435 @@
   - hand
   - ligte velkleur
   - ok
+  - persoon wys als is goed
+  - 'persoon wys als is goed: ligte velkleur'
   - wys goed
-  - 'wys goed: ligte velkleur'
 🙆🏼:
   - gebaar
   - goed
   - hand
   - medium-ligte velkleur
   - ok
+  - persoon wys als is goed
+  - 'persoon wys als is goed: medium-ligte velkleur'
   - wys goed
-  - 'wys goed: medium-ligte velkleur'
 🙆🏽:
   - gebaar
   - goed
   - hand
   - medium velkleur
   - ok
+  - persoon wys als is goed
+  - 'persoon wys als is goed: medium velkleur'
   - wys goed
-  - 'wys goed: medium velkleur'
 🙆🏾:
   - gebaar
   - goed
   - hand
   - medium-donker velkleur
   - ok
+  - persoon wys als is goed
+  - 'persoon wys als is goed: medium-donker velkleur'
   - wys goed
-  - 'wys goed: medium-donker velkleur'
 🙆🏿:
   - donker velkleur
   - gebaar
   - goed
   - hand
   - ok
+  - persoon wys als is goed
+  - 'persoon wys als is goed: donker velkleur'
   - wys goed
-  - 'wys goed: donker velkleur'
 🙆‍♂:
-  - ja
-  - man wys ja
+  - gebaar
+  - goed
+  - hand
+  - man
+  - man wys als is goed
+  - ok
+  - wys goed
 🙆🏻‍♂:
-  - ja
+  - gebaar
+  - goed
+  - hand
   - ligte velkleur
-  - man wys ja
-  - 'man wys ja: ligte velkleur'
+  - man
+  - man wys als is goed
+  - 'man wys als is goed: ligte velkleur'
+  - ok
+  - wys goed
 🙆🏼‍♂:
-  - ja
-  - man wys ja
-  - 'man wys ja: medium-ligte velkleur'
+  - gebaar
+  - goed
+  - hand
+  - man
+  - man wys als is goed
+  - 'man wys als is goed: medium-ligte velkleur'
   - medium-ligte velkleur
+  - ok
+  - wys goed
 🙆🏽‍♂:
-  - ja
-  - man wys ja
-  - 'man wys ja: medium velkleur'
+  - gebaar
+  - goed
+  - hand
+  - man
+  - man wys als is goed
+  - 'man wys als is goed: medium velkleur'
   - medium velkleur
+  - ok
+  - wys goed
 🙆🏾‍♂:
-  - ja
-  - man wys ja
-  - 'man wys ja: medium-donker velkleur'
+  - gebaar
+  - goed
+  - hand
+  - man
+  - man wys als is goed
+  - 'man wys als is goed: medium-donker velkleur'
   - medium-donker velkleur
+  - ok
+  - wys goed
 🙆🏿‍♂:
   - donker velkleur
-  - ja
-  - man wys ja
-  - 'man wys ja: donker velkleur'
+  - gebaar
+  - goed
+  - hand
+  - man
+  - man wys als is goed
+  - 'man wys als is goed: donker velkleur'
+  - ok
+  - wys goed
 🙆‍♀:
-  - ja
-  - vrou wys ja
+  - gebaar
+  - goed
+  - hand
+  - ok
+  - vrou
+  - vrou wys als is goed
+  - wys goed
 🙆🏻‍♀:
-  - ja
+  - gebaar
+  - goed
+  - hand
   - ligte velkleur
-  - vrou wys ja
-  - 'vrou wys ja: ligte velkleur'
+  - ok
+  - vrou
+  - vrou wys als is goed
+  - 'vrou wys als is goed: ligte velkleur'
+  - wys goed
 🙆🏼‍♀:
-  - ja
+  - gebaar
+  - goed
+  - hand
   - medium-ligte velkleur
-  - vrou wys ja
-  - 'vrou wys ja: medium-ligte velkleur'
+  - ok
+  - vrou
+  - vrou wys als is goed
+  - 'vrou wys als is goed: medium-ligte velkleur'
+  - wys goed
 🙆🏽‍♀:
-  - ja
+  - gebaar
+  - goed
+  - hand
   - medium velkleur
-  - vrou wys ja
-  - 'vrou wys ja: medium velkleur'
+  - ok
+  - vrou
+  - vrou wys als is goed
+  - 'vrou wys als is goed: medium velkleur'
+  - wys goed
 🙆🏾‍♀:
-  - ja
+  - gebaar
+  - goed
+  - hand
   - medium-donker velkleur
-  - vrou wys ja
-  - 'vrou wys ja: medium-donker velkleur'
+  - ok
+  - vrou
+  - vrou wys als is goed
+  - 'vrou wys als is goed: medium-donker velkleur'
+  - wys goed
 🙆🏿‍♀:
   - donker velkleur
-  - ja
-  - vrou wys ja
-  - 'vrou wys ja: donker velkleur'
+  - gebaar
+  - goed
+  - hand
+  - ok
+  - vrou
+  - vrou wys als is goed
+  - 'vrou wys als is goed: donker velkleur'
+  - wys goed
 💁:
+  - fooitjie
   - hand
   - help
   - inligting
-  - persoon by inligtingtoonbank
+  - persoon hou hand geknak
+  - persoon wat hand geknak hou
   - skrander
 💁🏻:
+  - fooitjie
   - hand
   - help
   - inligting
   - ligte velkleur
-  - persoon by inligtingtoonbank
-  - 'persoon by inligtingtoonbank: ligte velkleur'
+  - persoon hou hand geknak
+  - 'persoon hou hand geknak: ligte velkleur'
+  - persoon wat hand geknak hou
   - skrander
 💁🏼:
+  - fooitjie
   - hand
   - help
   - inligting
   - medium-ligte velkleur
-  - persoon by inligtingtoonbank
-  - 'persoon by inligtingtoonbank: medium-ligte velkleur'
+  - persoon hou hand geknak
+  - 'persoon hou hand geknak: medium-ligte velkleur'
+  - persoon wat hand geknak hou
   - skrander
 💁🏽:
+  - fooitjie
   - hand
   - help
   - inligting
   - medium velkleur
-  - persoon by inligtingtoonbank
-  - 'persoon by inligtingtoonbank: medium velkleur'
+  - persoon hou hand geknak
+  - 'persoon hou hand geknak: medium velkleur'
+  - persoon wat hand geknak hou
   - skrander
 💁🏾:
+  - fooitjie
   - hand
   - help
   - inligting
   - medium-donker velkleur
-  - persoon by inligtingtoonbank
-  - 'persoon by inligtingtoonbank: medium-donker velkleur'
+  - persoon hou hand geknak
+  - 'persoon hou hand geknak: medium-donker velkleur'
+  - persoon wat hand geknak hou
   - skrander
 💁🏿:
   - donker velkleur
+  - fooitjie
   - hand
   - help
   - inligting
-  - persoon by inligtingtoonbank
-  - 'persoon by inligtingtoonbank: donker velkleur'
+  - persoon hou hand geknak
+  - 'persoon hou hand geknak: donker velkleur'
+  - persoon wat hand geknak hou
   - skrander
 💁‍♂:
-  - hulpvaardig
-  - man met handpalm
-  - plathand
+  - fooitjie
+  - hand
+  - help
+  - inligting
+  - man
+  - man hou hand geknak
+  - man wat hand geknak hou
+  - skrander
 💁🏻‍♂:
-  - hulpvaardig
+  - fooitjie
+  - hand
+  - help
+  - inligting
   - ligte velkleur
-  - man met handpalm
-  - 'man met handpalm: ligte velkleur'
-  - plathand
+  - man
+  - man hou hand geknak
+  - 'man hou hand geknak: ligte velkleur'
+  - man wat hand geknak hou
+  - skrander
 💁🏼‍♂:
-  - hulpvaardig
-  - man met handpalm
-  - 'man met handpalm: medium-ligte velkleur'
+  - fooitjie
+  - hand
+  - help
+  - inligting
+  - man
+  - man hou hand geknak
+  - 'man hou hand geknak: medium-ligte velkleur'
+  - man wat hand geknak hou
   - medium-ligte velkleur
-  - plathand
+  - skrander
 💁🏽‍♂:
-  - hulpvaardig
-  - man met handpalm
-  - 'man met handpalm: medium velkleur'
+  - fooitjie
+  - hand
+  - help
+  - inligting
+  - man
+  - man hou hand geknak
+  - 'man hou hand geknak: medium velkleur'
+  - man wat hand geknak hou
   - medium velkleur
-  - plathand
+  - skrander
 💁🏾‍♂:
-  - hulpvaardig
-  - man met handpalm
-  - 'man met handpalm: medium-donker velkleur'
+  - fooitjie
+  - hand
+  - help
+  - inligting
+  - man
+  - man hou hand geknak
+  - 'man hou hand geknak: medium-donker velkleur'
+  - man wat hand geknak hou
   - medium-donker velkleur
-  - plathand
+  - skrander
 💁🏿‍♂:
   - donker velkleur
-  - hulpvaardig
-  - man met handpalm
-  - 'man met handpalm: donker velkleur'
-  - plathand
+  - fooitjie
+  - hand
+  - help
+  - inligting
+  - man
+  - man hou hand geknak
+  - 'man hou hand geknak: donker velkleur'
+  - man wat hand geknak hou
+  - skrander
 💁‍♀:
-  - hulpvaardig
-  - plathand
-  - vrou met handpalm
+  - fooitjie
+  - hand
+  - help
+  - inligting
+  - skrander
+  - vrou
+  - vrou hou hand geknak
+  - vrou wat hand geknak hou
 💁🏻‍♀:
-  - hulpvaardig
+  - fooitjie
+  - hand
+  - help
+  - inligting
   - ligte velkleur
-  - plathand
-  - vrou met handpalm
-  - 'vrou met handpalm: ligte velkleur'
+  - skrander
+  - vrou
+  - vrou hou hand geknak
+  - 'vrou hou hand geknak: ligte velkleur'
+  - vrou wat hand geknak hou
 💁🏼‍♀:
-  - hulpvaardig
+  - fooitjie
+  - hand
+  - help
+  - inligting
   - medium-ligte velkleur
-  - plathand
-  - vrou met handpalm
-  - 'vrou met handpalm: medium-ligte velkleur'
+  - skrander
+  - vrou
+  - vrou hou hand geknak
+  - 'vrou hou hand geknak: medium-ligte velkleur'
+  - vrou wat hand geknak hou
 💁🏽‍♀:
-  - hulpvaardig
+  - fooitjie
+  - hand
+  - help
+  - inligting
   - medium velkleur
-  - plathand
-  - vrou met handpalm
-  - 'vrou met handpalm: medium velkleur'
+  - skrander
+  - vrou
+  - vrou hou hand geknak
+  - 'vrou hou hand geknak: medium velkleur'
+  - vrou wat hand geknak hou
 💁🏾‍♀:
-  - hulpvaardig
+  - fooitjie
+  - hand
+  - help
+  - inligting
   - medium-donker velkleur
-  - plathand
-  - vrou met handpalm
-  - 'vrou met handpalm: medium-donker velkleur'
+  - skrander
+  - vrou
+  - vrou hou hand geknak
+  - 'vrou hou hand geknak: medium-donker velkleur'
+  - vrou wat hand geknak hou
 💁🏿‍♀:
   - donker velkleur
-  - hulpvaardig
-  - plathand
-  - vrou met handpalm
-  - 'vrou met handpalm: donker velkleur'
+  - fooitjie
+  - hand
+  - help
+  - inligting
+  - skrander
+  - vrou
+  - vrou hou hand geknak
+  - 'vrou hou hand geknak: donker velkleur'
+  - vrou wat hand geknak hou
 🙋:
   - gebaar
   - gelukkig
   - gelukkige persoon met hand in die lug
   - hand
   - omhoog
+  - persoon wat hand opsteek
 🙋🏻:
   - gebaar
   - gelukkig
   - gelukkige persoon met hand in die lug
-  - 'gelukkige persoon met hand in die lug: ligte velkleur'
   - hand
   - ligte velkleur
   - omhoog
+  - persoon wat hand opsteek
+  - 'persoon wat hand opsteek: ligte velkleur'
 🙋🏼:
   - gebaar
   - gelukkig
   - gelukkige persoon met hand in die lug
-  - 'gelukkige persoon met hand in die lug: medium-ligte velkleur'
   - hand
   - medium-ligte velkleur
   - omhoog
+  - persoon wat hand opsteek
+  - 'persoon wat hand opsteek: medium-ligte velkleur'
 🙋🏽:
   - gebaar
   - gelukkig
   - gelukkige persoon met hand in die lug
-  - 'gelukkige persoon met hand in die lug: medium velkleur'
   - hand
   - medium velkleur
   - omhoog
+  - persoon wat hand opsteek
+  - 'persoon wat hand opsteek: medium velkleur'
 🙋🏾:
   - gebaar
   - gelukkig
   - gelukkige persoon met hand in die lug
-  - 'gelukkige persoon met hand in die lug: medium-donker velkleur'
   - hand
   - medium-donker velkleur
   - omhoog
+  - persoon wat hand opsteek
+  - 'persoon wat hand opsteek: medium-donker velkleur'
 🙋🏿:
   - donker velkleur
   - gebaar
   - gelukkig
   - gelukkige persoon met hand in die lug
-  - 'gelukkige persoon met hand in die lug: donker velkleur'
   - hand
   - omhoog
+  - persoon wat hand opsteek
+  - 'persoon wat hand opsteek: donker velkleur'
 🙋‍♂:
   - groet
   - lig hand
   - man lig hand
+  - man wat hand opsteek
   - waai
 🙋🏻‍♂:
   - groet
   - lig hand
   - ligte velkleur
   - man lig hand
-  - 'man lig hand: ligte velkleur'
+  - man wat hand opsteek
+  - 'man wat hand opsteek: ligte velkleur'
   - waai
 🙋🏼‍♂:
   - groet
   - lig hand
   - man lig hand
-  - 'man lig hand: medium-ligte velkleur'
+  - man wat hand opsteek
+  - 'man wat hand opsteek: medium-ligte velkleur'
   - medium-ligte velkleur
   - waai
 🙋🏽‍♂:
   - groet
   - lig hand
   - man lig hand
-  - 'man lig hand: medium velkleur'
+  - man wat hand opsteek
+  - 'man wat hand opsteek: medium velkleur'
   - medium velkleur
   - waai
 🙋🏾‍♂:
   - groet
   - lig hand
   - man lig hand
-  - 'man lig hand: medium-donker velkleur'
+  - man wat hand opsteek
+  - 'man wat hand opsteek: medium-donker velkleur'
   - medium-donker velkleur
   - waai
 🙋🏿‍♂:
@@ -3706,57 +4474,180 @@
   - groet
   - lig hand
   - man lig hand
-  - 'man lig hand: donker velkleur'
+  - man wat hand opsteek
+  - 'man wat hand opsteek: donker velkleur'
   - waai
 🙋‍♀:
   - groet
   - lig hand
   - vrou lig hand
+  - vrou wat hand opsteek
   - waai
 🙋🏻‍♀:
   - groet
   - lig hand
   - ligte velkleur
   - vrou lig hand
-  - 'vrou lig hand: ligte velkleur'
+  - vrou wat hand opsteek
+  - 'vrou wat hand opsteek: ligte velkleur'
   - waai
 🙋🏼‍♀:
   - groet
   - lig hand
   - medium-ligte velkleur
   - vrou lig hand
-  - 'vrou lig hand: medium-ligte velkleur'
+  - vrou wat hand opsteek
+  - 'vrou wat hand opsteek: medium-ligte velkleur'
   - waai
 🙋🏽‍♀:
   - groet
   - lig hand
   - medium velkleur
   - vrou lig hand
-  - 'vrou lig hand: medium velkleur'
+  - vrou wat hand opsteek
+  - 'vrou wat hand opsteek: medium velkleur'
   - waai
 🙋🏾‍♀:
   - groet
   - lig hand
   - medium-donker velkleur
   - vrou lig hand
-  - 'vrou lig hand: medium-donker velkleur'
+  - vrou wat hand opsteek
+  - 'vrou wat hand opsteek: medium-donker velkleur'
   - waai
 🙋🏿‍♀:
   - donker velkleur
   - groet
   - lig hand
   - vrou lig hand
-  - 'vrou lig hand: donker velkleur'
+  - vrou wat hand opsteek
+  - 'vrou wat hand opsteek: donker velkleur'
   - waai
+🧏:
+  - doof
+  - dowe persoon
+  - hoor
+  - oor
+  - toeganklikheid
+🧏🏻:
+  - doof
+  - dowe persoon
+  - 'dowe persoon: ligte velkleur'
+  - hoor
+  - ligte velkleur
+  - oor
+  - toeganklikheid
+🧏🏼:
+  - doof
+  - dowe persoon
+  - 'dowe persoon: medium-ligte velkleur'
+  - hoor
+  - medium-ligte velkleur
+  - oor
+  - toeganklikheid
+🧏🏽:
+  - doof
+  - dowe persoon
+  - 'dowe persoon: medium velkleur'
+  - hoor
+  - medium velkleur
+  - oor
+  - toeganklikheid
+🧏🏾:
+  - doof
+  - dowe persoon
+  - 'dowe persoon: medium-donker velkleur'
+  - hoor
+  - medium-donker velkleur
+  - oor
+  - toeganklikheid
+🧏🏿:
+  - donker velkleur
+  - doof
+  - dowe persoon
+  - 'dowe persoon: donker velkleur'
+  - hoor
+  - oor
+  - toeganklikheid
+🧏‍♂:
+  - doof
+  - dowe man
+  - man
+🧏🏻‍♂:
+  - doof
+  - dowe man
+  - 'dowe man: ligte velkleur'
+  - ligte velkleur
+  - man
+🧏🏼‍♂:
+  - doof
+  - dowe man
+  - 'dowe man: medium-ligte velkleur'
+  - man
+  - medium-ligte velkleur
+🧏🏽‍♂:
+  - doof
+  - dowe man
+  - 'dowe man: medium velkleur'
+  - man
+  - medium velkleur
+🧏🏾‍♂:
+  - doof
+  - dowe man
+  - 'dowe man: medium-donker velkleur'
+  - man
+  - medium-donker velkleur
+🧏🏿‍♂:
+  - donker velkleur
+  - doof
+  - dowe man
+  - 'dowe man: donker velkleur'
+  - man
+🧏‍♀:
+  - doof
+  - dowe vrou
+  - vrou
+🧏🏻‍♀:
+  - doof
+  - dowe vrou
+  - 'dowe vrou: ligte velkleur'
+  - ligte velkleur
+  - vrou
+🧏🏼‍♀:
+  - doof
+  - dowe vrou
+  - 'dowe vrou: medium-ligte velkleur'
+  - medium-ligte velkleur
+  - vrou
+🧏🏽‍♀:
+  - doof
+  - dowe vrou
+  - 'dowe vrou: medium velkleur'
+  - medium velkleur
+  - vrou
+🧏🏾‍♀:
+  - doof
+  - dowe vrou
+  - 'dowe vrou: medium-donker velkleur'
+  - medium-donker velkleur
+  - vrou
+🧏🏿‍♀:
+  - donker velkleur
+  - doof
+  - dowe vrou
+  - 'dowe vrou: donker velkleur'
+  - vrou
 🙇:
   - buig
   - gebaar
+  - guns
   - jammer
   - persoon wat buig
   - verskoning
 🙇🏻:
   - buig
   - gebaar
+  - guns
   - jammer
   - ligte velkleur
   - persoon wat buig
@@ -3765,6 +4656,7 @@
 🙇🏼:
   - buig
   - gebaar
+  - guns
   - jammer
   - medium-ligte velkleur
   - persoon wat buig
@@ -3773,6 +4665,7 @@
 🙇🏽:
   - buig
   - gebaar
+  - guns
   - jammer
   - medium velkleur
   - persoon wat buig
@@ -3781,6 +4674,7 @@
 🙇🏾:
   - buig
   - gebaar
+  - guns
   - jammer
   - medium-donker velkleur
   - persoon wat buig
@@ -3790,362 +4684,661 @@
   - buig
   - donker velkleur
   - gebaar
+  - guns
   - jammer
   - persoon wat buig
   - 'persoon wat buig: donker velkleur'
   - verskoning
 🙇‍♂:
   - buig
+  - gebaar
+  - guns
   - jammer
+  - man
   - man buig
+  - verskoning
 🙇🏻‍♂:
   - buig
+  - gebaar
+  - guns
   - jammer
   - ligte velkleur
-  - man buig
+  - man
   - 'man buig: ligte velkleur'
+  - verskoning
 🙇🏼‍♂:
   - buig
+  - gebaar
+  - guns
   - jammer
-  - man buig
+  - man
   - 'man buig: medium-ligte velkleur'
   - medium-ligte velkleur
+  - verskoning
 🙇🏽‍♂:
   - buig
+  - gebaar
+  - guns
   - jammer
-  - man buig
+  - man
   - 'man buig: medium velkleur'
   - medium velkleur
+  - verskoning
 🙇🏾‍♂:
   - buig
+  - gebaar
+  - guns
   - jammer
-  - man buig
+  - man
   - 'man buig: medium-donker velkleur'
   - medium-donker velkleur
+  - verskoning
 🙇🏿‍♂:
   - buig
   - donker velkleur
+  - gebaar
+  - guns
   - jammer
-  - man buig
+  - man
   - 'man buig: donker velkleur'
+  - verskoning
 🙇‍♀:
   - buig
+  - gebaar
+  - guns
   - jammer
+  - verskoning
+  - vrou
   - vrou buig
 🙇🏻‍♀:
   - buig
+  - gebaar
+  - guns
   - jammer
   - ligte velkleur
-  - vrou buig
+  - verskoning
+  - vrou
   - 'vrou buig: ligte velkleur'
 🙇🏼‍♀:
   - buig
+  - gebaar
+  - guns
   - jammer
   - medium-ligte velkleur
-  - vrou buig
+  - verskoning
+  - vrou
   - 'vrou buig: medium-ligte velkleur'
 🙇🏽‍♀:
   - buig
+  - gebaar
+  - guns
   - jammer
   - medium velkleur
-  - vrou buig
+  - verskoning
+  - vrou
   - 'vrou buig: medium velkleur'
 🙇🏾‍♀:
   - buig
+  - gebaar
+  - guns
   - jammer
   - medium-donker velkleur
-  - vrou buig
+  - verskoning
+  - vrou
   - 'vrou buig: medium-donker velkleur'
 🙇🏿‍♀:
   - buig
   - donker velkleur
+  - gebaar
+  - guns
   - jammer
-  - vrou buig
+  - verskoning
+  - vrou
   - 'vrou buig: donker velkleur'
 🤦:
   - facepalm
+  - gsig
+  - hand teen voorkop slaan
+  - moedeloos
   - ongeloof
+  - palm
   - verbyster
 🤦🏻:
   - facepalm
-  - 'facepalm: ligte velkleur'
+  - gsig
+  - hand teen voorkop slaan
+  - 'hand teen voorkop slaan: ligte velkleur'
   - ligte velkleur
+  - moedeloos
   - ongeloof
+  - palm
   - verbyster
 🤦🏼:
   - facepalm
-  - 'facepalm: medium-ligte velkleur'
+  - gsig
+  - hand teen voorkop slaan
+  - 'hand teen voorkop slaan: medium-ligte velkleur'
   - medium-ligte velkleur
+  - moedeloos
   - ongeloof
+  - palm
   - verbyster
 🤦🏽:
   - facepalm
-  - 'facepalm: medium velkleur'
+  - gsig
+  - hand teen voorkop slaan
+  - 'hand teen voorkop slaan: medium velkleur'
   - medium velkleur
+  - moedeloos
   - ongeloof
+  - palm
   - verbyster
 🤦🏾:
   - facepalm
-  - 'facepalm: medium-donker velkleur'
+  - gsig
+  - hand teen voorkop slaan
+  - 'hand teen voorkop slaan: medium-donker velkleur'
   - medium-donker velkleur
+  - moedeloos
   - ongeloof
+  - palm
   - verbyster
 🤦🏿:
   - donker velkleur
   - facepalm
-  - 'facepalm: donker velkleur'
+  - gsig
+  - hand teen voorkop slaan
+  - 'hand teen voorkop slaan: donker velkleur'
+  - moedeloos
   - ongeloof
+  - palm
   - verbyster
 🤦‍♂:
   - facepalm
+  - gsig
+  - hand teen voorkop slaan
+  - man
+  - man slaan hand teen voorkop
   - moedeloos
-  - moedelose man
   - ongeloof
+  - palm
+  - verbyster
 🤦🏻‍♂:
   - facepalm
+  - gsig
+  - hand teen voorkop slaan
   - ligte velkleur
+  - man
+  - man slaan hand teen voorkop
+  - 'man slaan hand teen voorkop: ligte velkleur'
   - moedeloos
-  - moedelose man
-  - 'moedelose man: ligte velkleur'
   - ongeloof
+  - palm
+  - verbyster
 🤦🏼‍♂:
   - facepalm
+  - gsig
+  - hand teen voorkop slaan
+  - man
+  - man slaan hand teen voorkop
+  - 'man slaan hand teen voorkop: medium-ligte velkleur'
   - medium-ligte velkleur
   - moedeloos
-  - moedelose man
-  - 'moedelose man: medium-ligte velkleur'
   - ongeloof
+  - palm
+  - verbyster
 🤦🏽‍♂:
   - facepalm
+  - gsig
+  - hand teen voorkop slaan
+  - man
+  - man slaan hand teen voorkop
+  - 'man slaan hand teen voorkop: medium velkleur'
   - medium velkleur
   - moedeloos
-  - moedelose man
-  - 'moedelose man: medium velkleur'
   - ongeloof
+  - palm
+  - verbyster
 🤦🏾‍♂:
   - facepalm
+  - gsig
+  - hand teen voorkop slaan
+  - man
+  - man slaan hand teen voorkop
+  - 'man slaan hand teen voorkop: medium-donker velkleur'
   - medium-donker velkleur
   - moedeloos
-  - moedelose man
-  - 'moedelose man: medium-donker velkleur'
   - ongeloof
+  - palm
+  - verbyster
 🤦🏿‍♂:
   - donker velkleur
   - facepalm
+  - gsig
+  - hand teen voorkop slaan
+  - man
+  - man slaan hand teen voorkop
+  - 'man slaan hand teen voorkop: donker velkleur'
   - moedeloos
-  - moedelose man
-  - 'moedelose man: donker velkleur'
   - ongeloof
+  - palm
+  - verbyster
 🤦‍♀:
   - facepalm
+  - gsig
+  - hand teen voorkop slaan
   - moedeloos
-  - moedelose vrou
   - ongeloof
+  - palm
+  - verbyster
+  - vrou
+  - vrou slaan hand teen voorkop
 🤦🏻‍♀:
   - facepalm
+  - gsig
+  - hand teen voorkop slaan
   - ligte velkleur
   - moedeloos
-  - moedelose vrou
-  - 'moedelose vrou: ligte velkleur'
   - ongeloof
+  - palm
+  - verbyster
+  - vrou
+  - vrou slaan hand teen voorkop
+  - 'vrou slaan hand teen voorkop: ligte velkleur'
 🤦🏼‍♀:
   - facepalm
+  - gsig
+  - hand teen voorkop slaan
   - medium-ligte velkleur
   - moedeloos
-  - moedelose vrou
-  - 'moedelose vrou: medium-ligte velkleur'
   - ongeloof
+  - palm
+  - verbyster
+  - vrou
+  - vrou slaan hand teen voorkop
+  - 'vrou slaan hand teen voorkop: medium-ligte velkleur'
 🤦🏽‍♀:
   - facepalm
+  - gsig
+  - hand teen voorkop slaan
   - medium velkleur
   - moedeloos
-  - moedelose vrou
-  - 'moedelose vrou: medium velkleur'
   - ongeloof
+  - palm
+  - verbyster
+  - vrou
+  - vrou slaan hand teen voorkop
+  - 'vrou slaan hand teen voorkop: medium velkleur'
 🤦🏾‍♀:
   - facepalm
+  - gsig
+  - hand teen voorkop slaan
   - medium-donker velkleur
   - moedeloos
-  - moedelose vrou
-  - 'moedelose vrou: medium-donker velkleur'
   - ongeloof
+  - palm
+  - verbyster
+  - vrou
+  - vrou slaan hand teen voorkop
+  - 'vrou slaan hand teen voorkop: medium-donker velkleur'
 🤦🏿‍♀:
   - donker velkleur
   - facepalm
+  - gsig
+  - hand teen voorkop slaan
   - moedeloos
-  - moedelose vrou
-  - 'moedelose vrou: donker velkleur'
   - ongeloof
+  - palm
+  - verbyster
+  - vrou
+  - vrou slaan hand teen voorkop
+  - 'vrou slaan hand teen voorkop: donker velkleur'
 🤷:
   - onseker
+  - persoon skouerophaal
+  - skouerophaal
   - skouers
   - weet nie
 🤷🏻:
   - ligte velkleur
   - onseker
+  - persoon skouerophaal
+  - 'persoon skouerophaal: ligte velkleur'
+  - skouerophaal
   - skouers
   - weet nie
-  - 'weet nie: ligte velkleur'
 🤷🏼:
   - medium-ligte velkleur
   - onseker
+  - persoon skouerophaal
+  - 'persoon skouerophaal: medium-ligte velkleur'
+  - skouerophaal
   - skouers
   - weet nie
-  - 'weet nie: medium-ligte velkleur'
 🤷🏽:
   - medium velkleur
   - onseker
+  - persoon skouerophaal
+  - 'persoon skouerophaal: medium velkleur'
+  - skouerophaal
   - skouers
   - weet nie
-  - 'weet nie: medium velkleur'
 🤷🏾:
   - medium-donker velkleur
   - onseker
+  - persoon skouerophaal
+  - 'persoon skouerophaal: medium-donker velkleur'
+  - skouerophaal
   - skouers
   - weet nie
-  - 'weet nie: medium-donker velkleur'
 🤷🏿:
   - donker velkleur
   - onseker
+  - persoon skouerophaal
+  - 'persoon skouerophaal: donker velkleur'
+  - skouerophaal
   - skouers
   - weet nie
-  - 'weet nie: donker velkleur'
 🤷‍♂:
   - man skouerophaal
-  - skouerophaal
+  - onseker
+  - skouers
   - weet nie
 🤷🏻‍♂:
   - ligte velkleur
   - man skouerophaal
   - 'man skouerophaal: ligte velkleur'
-  - skouerophaal
+  - onseker
+  - skouers
   - weet nie
 🤷🏼‍♂:
   - man skouerophaal
   - 'man skouerophaal: medium-ligte velkleur'
   - medium-ligte velkleur
-  - skouerophaal
+  - onseker
+  - skouers
   - weet nie
 🤷🏽‍♂:
   - man skouerophaal
   - 'man skouerophaal: medium velkleur'
   - medium velkleur
-  - skouerophaal
+  - onseker
+  - skouers
   - weet nie
 🤷🏾‍♂:
   - man skouerophaal
   - 'man skouerophaal: medium-donker velkleur'
   - medium-donker velkleur
-  - skouerophaal
+  - onseker
+  - skouers
   - weet nie
 🤷🏿‍♂:
   - donker velkleur
   - man skouerophaal
   - 'man skouerophaal: donker velkleur'
-  - skouerophaal
+  - onseker
+  - skouers
   - weet nie
 🤷‍♀:
-  - skouerophaal
+  - onseker
+  - skouers
   - vrou skouerophaal
   - weet nie
 🤷🏻‍♀:
   - ligte velkleur
-  - skouerophaal
+  - onseker
+  - skouers
   - vrou skouerophaal
   - 'vrou skouerophaal: ligte velkleur'
   - weet nie
 🤷🏼‍♀:
   - medium-ligte velkleur
-  - skouerophaal
+  - onseker
+  - skouers
   - vrou skouerophaal
   - 'vrou skouerophaal: medium-ligte velkleur'
   - weet nie
 🤷🏽‍♀:
   - medium velkleur
-  - skouerophaal
+  - onseker
+  - skouers
   - vrou skouerophaal
   - 'vrou skouerophaal: medium velkleur'
   - weet nie
 🤷🏾‍♀:
   - medium-donker velkleur
-  - skouerophaal
+  - onseker
+  - skouers
   - vrou skouerophaal
   - 'vrou skouerophaal: medium-donker velkleur'
   - weet nie
 🤷🏿‍♀:
   - donker velkleur
-  - skouerophaal
+  - onseker
+  - skouers
   - vrou skouerophaal
   - 'vrou skouerophaal: donker velkleur'
   - weet nie
+🧑‍⚕:
+  - dokter
+  - gesondheidsorg
+  - gesondheidswerker
+  - terapeut
+  - verpleegster
+  - verpleër
+🧑🏻‍⚕:
+  - dokter
+  - gesondheidsorg
+  - gesondheidswerker
+  - 'gesondheidswerker: ligte velkleur'
+  - ligte velkleur
+  - terapeut
+  - verpleegster
+  - verpleër
+🧑🏼‍⚕:
+  - dokter
+  - gesondheidsorg
+  - gesondheidswerker
+  - 'gesondheidswerker: medium-ligte velkleur'
+  - medium-ligte velkleur
+  - terapeut
+  - verpleegster
+  - verpleër
+🧑🏽‍⚕:
+  - dokter
+  - gesondheidsorg
+  - gesondheidswerker
+  - 'gesondheidswerker: medium velkleur'
+  - medium velkleur
+  - terapeut
+  - verpleegster
+  - verpleër
+🧑🏾‍⚕:
+  - dokter
+  - gesondheidsorg
+  - gesondheidswerker
+  - 'gesondheidswerker: medium-donker velkleur'
+  - medium-donker velkleur
+  - terapeut
+  - verpleegster
+  - verpleër
+🧑🏿‍⚕:
+  - dokter
+  - donker velkleur
+  - gesondheidsorg
+  - gesondheidswerker
+  - 'gesondheidswerker: donker velkleur'
+  - terapeut
+  - verpleegster
+  - verpleër
 👨‍⚕:
   - dokter
-  - manlike dokter
+  - man
+  - manlike gesondheidswerker
   - medies
+  - mediese sorg
+  - mediese werker
+  - terapeut
+  - verpleër
 👨🏻‍⚕:
   - dokter
   - ligte velkleur
-  - manlike dokter
-  - 'manlike dokter: ligte velkleur'
+  - man
+  - manlike gesondheidswerker
+  - 'manlike gesondheidswerker: ligte velkleur'
   - medies
+  - mediese sorg
+  - mediese werker
+  - terapeut
+  - verpleër
 👨🏼‍⚕:
   - dokter
-  - manlike dokter
-  - 'manlike dokter: medium-ligte velkleur'
+  - man
+  - manlike gesondheidswerker
+  - 'manlike gesondheidswerker: medium-ligte velkleur'
   - medies
+  - mediese sorg
+  - mediese werker
   - medium-ligte velkleur
+  - terapeut
+  - verpleër
 👨🏽‍⚕:
   - dokter
-  - manlike dokter
-  - 'manlike dokter: medium velkleur'
+  - man
+  - manlike gesondheidswerker
+  - 'manlike gesondheidswerker: medium velkleur'
   - medies
+  - mediese sorg
+  - mediese werker
   - medium velkleur
+  - terapeut
+  - verpleër
 👨🏾‍⚕:
   - dokter
-  - manlike dokter
-  - 'manlike dokter: medium-donker velkleur'
+  - man
+  - manlike gesondheidswerker
+  - 'manlike gesondheidswerker: medium-donker velkleur'
   - medies
+  - mediese sorg
+  - mediese werker
   - medium-donker velkleur
+  - terapeut
+  - verpleër
 👨🏿‍⚕:
   - dokter
   - donker velkleur
-  - manlike dokter
-  - 'manlike dokter: donker velkleur'
+  - man
+  - manlike gesondheidswerker
+  - 'manlike gesondheidswerker: donker velkleur'
   - medies
+  - mediese sorg
+  - mediese werker
+  - terapeut
+  - verpleër
 👩‍⚕:
   - dokter
   - medies
-  - vroulike dokter
+  - mediese sorg
+  - mediese werker
+  - terapeut
+  - verpleegster
+  - vrou
+  - vroulike gesondheidswerker
 👩🏻‍⚕:
   - dokter
   - ligte velkleur
   - medies
-  - vroulike dokter
-  - 'vroulike dokter: ligte velkleur'
+  - mediese sorg
+  - mediese werker
+  - terapeut
+  - verpleegster
+  - vrou
+  - vroulike gesondheidswerker
+  - 'vroulike gesondheidswerker: ligte velkleur'
 👩🏼‍⚕:
   - dokter
   - medies
+  - mediese sorg
+  - mediese werker
   - medium-ligte velkleur
-  - vroulike dokter
-  - 'vroulike dokter: medium-ligte velkleur'
+  - terapeut
+  - verpleegster
+  - vrou
+  - vroulike gesondheidswerker
+  - 'vroulike gesondheidswerker: medium-ligte velkleur'
 👩🏽‍⚕:
   - dokter
   - medies
+  - mediese sorg
+  - mediese werker
   - medium velkleur
-  - vroulike dokter
-  - 'vroulike dokter: medium velkleur'
+  - terapeut
+  - verpleegster
+  - vrou
+  - vroulike gesondheidswerker
+  - 'vroulike gesondheidswerker: medium velkleur'
 👩🏾‍⚕:
   - dokter
   - medies
+  - mediese sorg
+  - mediese werker
   - medium-donker velkleur
-  - vroulike dokter
-  - 'vroulike dokter: medium-donker velkleur'
+  - terapeut
+  - verpleegster
+  - vrou
+  - vroulike gesondheidswerker
+  - 'vroulike gesondheidswerker: medium-donker velkleur'
 👩🏿‍⚕:
   - dokter
   - donker velkleur
   - medies
-  - vroulike dokter
-  - 'vroulike dokter: donker velkleur'
+  - mediese sorg
+  - mediese werker
+  - terapeut
+  - verpleegster
+  - vrou
+  - vroulike gesondheidswerker
+  - 'vroulike gesondheidswerker: donker velkleur'
+🧑‍🎓:
+  - graad
+  - gradeplegtigheid
+  - gradueer
+  - student
+🧑🏻‍🎓:
+  - graad
+  - gradeplegtigheid
+  - gradueer
+  - ligte velkleur
+  - student
+  - 'student: ligte velkleur'
+🧑🏼‍🎓:
+  - graad
+  - gradeplegtigheid
+  - gradueer
+  - medium-ligte velkleur
+  - student
+  - 'student: medium-ligte velkleur'
+🧑🏽‍🎓:
+  - graad
+  - gradeplegtigheid
+  - gradueer
+  - medium velkleur
+  - student
+  - 'student: medium velkleur'
+🧑🏾‍🎓:
+  - graad
+  - gradeplegtigheid
+  - gradueer
+  - medium-donker velkleur
+  - student
+  - 'student: medium-donker velkleur'
+🧑🏿‍🎓:
+  - donker velkleur
+  - graad
+  - gradeplegtigheid
+  - gradueer
+  - student
+  - 'student: donker velkleur'
 👨‍🎓:
   - graad
   - gradeplegtigheid
@@ -4226,43 +5419,83 @@
   - toga
   - vroulike student
   - 'vroulike student: donker velkleur'
+🧑‍🏫:
+  - instrukteur
+  - onderwyser
+  - professor
+🧑🏻‍🏫:
+  - instrukteur
+  - ligte velkleur
+  - onderwyser
+  - 'onderwyser: ligte velkleur'
+  - professor
+🧑🏼‍🏫:
+  - instrukteur
+  - medium-ligte velkleur
+  - onderwyser
+  - 'onderwyser: medium-ligte velkleur'
+  - professor
+🧑🏽‍🏫:
+  - instrukteur
+  - medium velkleur
+  - onderwyser
+  - 'onderwyser: medium velkleur'
+  - professor
+🧑🏾‍🏫:
+  - instrukteur
+  - medium-donker velkleur
+  - onderwyser
+  - 'onderwyser: medium-donker velkleur'
+  - professor
+🧑🏿‍🏫:
+  - donker velkleur
+  - instrukteur
+  - onderwyser
+  - 'onderwyser: donker velkleur'
+  - professor
 👨‍🏫:
+  - manlike onderwyser
   - meneer
   - onderwyser
   - opvoeder
   - skool
 👨🏻‍🏫:
   - ligte velkleur
+  - manlike onderwyser
+  - 'manlike onderwyser: ligte velkleur'
   - meneer
-  - 'meneer: ligte velkleur'
   - onderwyser
   - opvoeder
   - skool
 👨🏼‍🏫:
+  - manlike onderwyser
+  - 'manlike onderwyser: medium-ligte velkleur'
   - medium-ligte velkleur
   - meneer
-  - 'meneer: medium-ligte velkleur'
   - onderwyser
   - opvoeder
   - skool
 👨🏽‍🏫:
+  - manlike onderwyser
+  - 'manlike onderwyser: medium velkleur'
   - medium velkleur
   - meneer
-  - 'meneer: medium velkleur'
   - onderwyser
   - opvoeder
   - skool
 👨🏾‍🏫:
+  - manlike onderwyser
+  - 'manlike onderwyser: medium-donker velkleur'
   - medium-donker velkleur
   - meneer
-  - 'meneer: medium-donker velkleur'
   - onderwyser
   - opvoeder
   - skool
 👨🏿‍🏫:
   - donker velkleur
+  - manlike onderwyser
+  - 'manlike onderwyser: donker velkleur'
   - meneer
-  - 'meneer: donker velkleur'
   - onderwyser
   - opvoeder
   - skool
@@ -4272,46 +5505,80 @@
   - onderwyseres
   - opvoeder
   - skool
+  - vroulike onderwyser
 👩🏻‍🏫:
   - juffrou
-  - 'juffrou: ligte velkleur'
   - ligte velkleur
   - onderwyser
   - onderwyseres
   - opvoeder
   - skool
+  - vroulike onderwyser
+  - 'vroulike onderwyser: ligte velkleur'
 👩🏼‍🏫:
   - juffrou
-  - 'juffrou: medium-ligte velkleur'
   - medium-ligte velkleur
   - onderwyser
   - onderwyseres
   - opvoeder
   - skool
+  - vroulike onderwyser
+  - 'vroulike onderwyser: medium-ligte velkleur'
 👩🏽‍🏫:
   - juffrou
-  - 'juffrou: medium velkleur'
   - medium velkleur
   - onderwyser
   - onderwyseres
   - opvoeder
   - skool
+  - vroulike onderwyser
+  - 'vroulike onderwyser: medium velkleur'
 👩🏾‍🏫:
   - juffrou
-  - 'juffrou: medium-donker velkleur'
   - medium-donker velkleur
   - onderwyser
   - onderwyseres
   - opvoeder
   - skool
+  - vroulike onderwyser
+  - 'vroulike onderwyser: medium-donker velkleur'
 👩🏿‍🏫:
   - donker velkleur
   - juffrou
-  - 'juffrou: donker velkleur'
   - onderwyser
   - onderwyseres
   - opvoeder
   - skool
+  - vroulike onderwyser
+  - 'vroulike onderwyser: donker velkleur'
+🧑‍⚖:
+  - regter
+  - regtershammer
+🧑🏻‍⚖:
+  - ligte velkleur
+  - regter
+  - 'regter: ligte velkleur'
+  - regtershammer
+🧑🏼‍⚖:
+  - medium-ligte velkleur
+  - regter
+  - 'regter: medium-ligte velkleur'
+  - regtershammer
+🧑🏽‍⚖:
+  - medium velkleur
+  - regter
+  - 'regter: medium velkleur'
+  - regtershammer
+🧑🏾‍⚖:
+  - medium-donker velkleur
+  - regter
+  - 'regter: medium-donker velkleur'
+  - regtershammer
+🧑🏿‍⚖:
+  - donker velkleur
+  - regter
+  - 'regter: donker velkleur'
+  - regtershammer
 👨‍⚖:
   - hof
   - landdros
@@ -4404,6 +5671,34 @@
   - regter
   - vroulike regter
   - 'vroulike regter: donker velkleur'
+🧑‍🌾:
+  - boer
+  - tuinier
+🧑🏻‍🌾:
+  - boer
+  - 'boer: ligte velkleur'
+  - ligte velkleur
+  - tuinier
+🧑🏼‍🌾:
+  - boer
+  - 'boer: medium-ligte velkleur'
+  - medium-ligte velkleur
+  - tuinier
+🧑🏽‍🌾:
+  - boer
+  - 'boer: medium velkleur'
+  - medium velkleur
+  - tuinier
+🧑🏾‍🌾:
+  - boer
+  - 'boer: medium-donker velkleur'
+  - medium-donker velkleur
+  - tuinier
+🧑🏿‍🌾:
+  - boer
+  - 'boer: donker velkleur'
+  - donker velkleur
+  - tuinier
 👨‍🌾:
   - boer
   - koringaar
@@ -4484,6 +5779,34 @@
   - plaas
   - vroulike boer
   - 'vroulike boer: donker velkleur'
+🧑‍🍳:
+  - kok
+  - sjef
+🧑🏻‍🍳:
+  - kok
+  - 'kok: ligte velkleur'
+  - ligte velkleur
+  - sjef
+🧑🏼‍🍳:
+  - kok
+  - 'kok: medium-ligte velkleur'
+  - medium-ligte velkleur
+  - sjef
+🧑🏽‍🍳:
+  - kok
+  - 'kok: medium velkleur'
+  - medium velkleur
+  - sjef
+🧑🏾‍🍳:
+  - kok
+  - 'kok: medium-donker velkleur'
+  - medium-donker velkleur
+  - sjef
+🧑🏿‍🍳:
+  - donker velkleur
+  - kok
+  - 'kok: donker velkleur'
+  - sjef
 👨‍🍳:
   - eier
   - kok
@@ -4564,6 +5887,40 @@
   - pan
   - vroulike kok
   - 'vroulike kok: donker velkleur'
+🧑‍🔧:
+  - elektrisiën
+  - loodgieter
+  - werktuigkundige
+🧑🏻‍🔧:
+  - elektrisiën
+  - ligte velkleur
+  - loodgieter
+  - werktuigkundige
+  - 'werktuigkundige: ligte velkleur'
+🧑🏼‍🔧:
+  - elektrisiën
+  - loodgieter
+  - medium-ligte velkleur
+  - werktuigkundige
+  - 'werktuigkundige: medium-ligte velkleur'
+🧑🏽‍🔧:
+  - elektrisiën
+  - loodgieter
+  - medium velkleur
+  - werktuigkundige
+  - 'werktuigkundige: medium velkleur'
+🧑🏾‍🔧:
+  - elektrisiën
+  - loodgieter
+  - medium-donker velkleur
+  - werktuigkundige
+  - 'werktuigkundige: medium-donker velkleur'
+🧑🏿‍🔧:
+  - donker velkleur
+  - elektrisiën
+  - loodgieter
+  - werktuigkundige
+  - 'werktuigkundige: donker velkleur'
 👨‍🔧:
   - manlike motorwerktuigkundige
   - mechanic
@@ -4644,6 +6001,58 @@
   - motorwerktuigkundige
   - vroulike motorwerktuigkundige
   - 'vroulike motorwerktuigkundige: donker velkleur'
+🧑‍🏭:
+  - fabriek
+  - fabriekswerker
+  - industrieel
+  - montering
+  - nywerheid
+  - werker
+🧑🏻‍🏭:
+  - fabriek
+  - fabriekswerker
+  - 'fabriekswerker: ligte velkleur'
+  - industrieel
+  - ligte velkleur
+  - montering
+  - nywerheid
+  - werker
+🧑🏼‍🏭:
+  - fabriek
+  - fabriekswerker
+  - 'fabriekswerker: medium-ligte velkleur'
+  - industrieel
+  - medium-ligte velkleur
+  - montering
+  - nywerheid
+  - werker
+🧑🏽‍🏭:
+  - fabriek
+  - fabriekswerker
+  - 'fabriekswerker: medium velkleur'
+  - industrieel
+  - medium velkleur
+  - montering
+  - nywerheid
+  - werker
+🧑🏾‍🏭:
+  - fabriek
+  - fabriekswerker
+  - 'fabriekswerker: medium-donker velkleur'
+  - industrieel
+  - medium-donker velkleur
+  - montering
+  - nywerheid
+  - werker
+🧑🏿‍🏭:
+  - donker velkleur
+  - fabriek
+  - fabriekswerker
+  - 'fabriekswerker: donker velkleur'
+  - industrieel
+  - montering
+  - nywerheid
+  - werker
 👨‍🏭:
   - fabriekswerker
   - manlike fabriekswerker
@@ -4700,62 +6109,190 @@
   - fabriekswerker
   - vroulike fabriekswerker
   - 'vroulike fabriekswerker: donker velkleur'
+🧑‍💼:
+  - argitek
+  - besigheid
+  - bestuurder
+  - kantoorwerker
+  - witboordjiewerker
+🧑🏻‍💼:
+  - argitek
+  - besigheid
+  - bestuurder
+  - kantoorwerker
+  - 'kantoorwerker: ligte velkleur'
+  - ligte velkleur
+  - witboordjiewerker
+🧑🏼‍💼:
+  - argitek
+  - besigheid
+  - bestuurder
+  - kantoorwerker
+  - 'kantoorwerker: medium-ligte velkleur'
+  - medium-ligte velkleur
+  - witboordjiewerker
+🧑🏽‍💼:
+  - argitek
+  - besigheid
+  - bestuurder
+  - kantoorwerker
+  - 'kantoorwerker: medium velkleur'
+  - medium velkleur
+  - witboordjiewerker
+🧑🏾‍💼:
+  - argitek
+  - besigheid
+  - bestuurder
+  - kantoorwerker
+  - 'kantoorwerker: medium-donker velkleur'
+  - medium-donker velkleur
+  - witboordjiewerker
+🧑🏿‍💼:
+  - argitek
+  - besigheid
+  - bestuurder
+  - donker velkleur
+  - kantoorwerker
+  - 'kantoorwerker: donker velkleur'
+  - witboordjiewerker
 👨‍💼:
+  - besigheid
+  - bestuurder
   - kantoorwerker
   - manlike kantoorwerker
+  - witboordjie
 👨🏻‍💼:
+  - besigheid
+  - bestuurder
   - kantoorwerker
   - ligte velkleur
   - manlike kantoorwerker
   - 'manlike kantoorwerker: ligte velkleur'
+  - witboordjie
 👨🏼‍💼:
+  - besigheid
+  - bestuurder
   - kantoorwerker
   - manlike kantoorwerker
   - 'manlike kantoorwerker: medium-ligte velkleur'
   - medium-ligte velkleur
+  - witboordjie
 👨🏽‍💼:
+  - besigheid
+  - bestuurder
   - kantoorwerker
   - manlike kantoorwerker
   - 'manlike kantoorwerker: medium velkleur'
   - medium velkleur
+  - witboordjie
 👨🏾‍💼:
+  - besigheid
+  - bestuurder
   - kantoorwerker
   - manlike kantoorwerker
   - 'manlike kantoorwerker: medium-donker velkleur'
   - medium-donker velkleur
+  - witboordjie
 👨🏿‍💼:
+  - besigheid
+  - bestuurder
   - donker velkleur
   - kantoorwerker
   - manlike kantoorwerker
   - 'manlike kantoorwerker: donker velkleur'
+  - witboordjie
 👩‍💼:
+  - besigheid
+  - bestuurder
   - kantoorwerker
   - vroulike kantoorwerker
+  - witboordjie
 👩🏻‍💼:
+  - besigheid
+  - bestuurder
   - kantoorwerker
   - ligte velkleur
   - vroulike kantoorwerker
   - 'vroulike kantoorwerker: ligte velkleur'
+  - witboordjie
 👩🏼‍💼:
+  - besigheid
+  - bestuurder
   - kantoorwerker
   - medium-ligte velkleur
   - vroulike kantoorwerker
   - 'vroulike kantoorwerker: medium-ligte velkleur'
+  - witboordjie
 👩🏽‍💼:
+  - besigheid
+  - bestuurder
   - kantoorwerker
   - medium velkleur
   - vroulike kantoorwerker
   - 'vroulike kantoorwerker: medium velkleur'
+  - witboordjie
 👩🏾‍💼:
+  - besigheid
+  - bestuurder
   - kantoorwerker
   - medium-donker velkleur
   - vroulike kantoorwerker
   - 'vroulike kantoorwerker: medium-donker velkleur'
+  - witboordjie
 👩🏿‍💼:
+  - besigheid
+  - bestuurder
   - donker velkleur
   - kantoorwerker
   - vroulike kantoorwerker
   - 'vroulike kantoorwerker: donker velkleur'
+  - witboordjie
+🧑‍🔬:
+  - bioloog
+  - chemikus
+  - fisikus
+  - ingenieur
+  - wetenskaplike
+🧑🏻‍🔬:
+  - bioloog
+  - chemikus
+  - fisikus
+  - ingenieur
+  - ligte velkleur
+  - wetenskaplike
+  - 'wetenskaplike: ligte velkleur'
+🧑🏼‍🔬:
+  - bioloog
+  - chemikus
+  - fisikus
+  - ingenieur
+  - medium-ligte velkleur
+  - wetenskaplike
+  - 'wetenskaplike: medium-ligte velkleur'
+🧑🏽‍🔬:
+  - bioloog
+  - chemikus
+  - fisikus
+  - ingenieur
+  - medium velkleur
+  - wetenskaplike
+  - 'wetenskaplike: medium velkleur'
+🧑🏾‍🔬:
+  - bioloog
+  - chemikus
+  - fisikus
+  - ingenieur
+  - medium-donker velkleur
+  - wetenskaplike
+  - 'wetenskaplike: medium-donker velkleur'
+🧑🏿‍🔬:
+  - bioloog
+  - chemikus
+  - donker velkleur
+  - fisikus
+  - ingenieur
+  - wetenskaplike
+  - 'wetenskaplike: donker velkleur'
 👨‍🔬:
   - manlike wetenskaplike
   - mikroskoop
@@ -4836,148 +6373,334 @@
   - vroulike wetenskaplike
   - 'vroulike wetenskaplike: donker velkleur'
   - wetenskaplike
+🧑‍💻:
+  - kodeerder
+  - ontwikkelaar
+  - sagteware
+  - skepper
+  - tegnoloog
+🧑🏻‍💻:
+  - kodeerder
+  - ligte velkleur
+  - ontwikkelaar
+  - sagteware
+  - skepper
+  - tegnoloog
+  - 'tegnoloog: ligte velkleur'
+🧑🏼‍💻:
+  - kodeerder
+  - medium-ligte velkleur
+  - ontwikkelaar
+  - sagteware
+  - skepper
+  - tegnoloog
+  - 'tegnoloog: medium-ligte velkleur'
+🧑🏽‍💻:
+  - kodeerder
+  - medium velkleur
+  - ontwikkelaar
+  - sagteware
+  - skepper
+  - tegnoloog
+  - 'tegnoloog: medium velkleur'
+🧑🏾‍💻:
+  - kodeerder
+  - medium-donker velkleur
+  - ontwikkelaar
+  - sagteware
+  - skepper
+  - tegnoloog
+  - 'tegnoloog: medium-donker velkleur'
+🧑🏿‍💻:
+  - donker velkleur
+  - kodeerder
+  - ontwikkelaar
+  - sagteware
+  - skepper
+  - tegnoloog
+  - 'tegnoloog: donker velkleur'
 👨‍💻:
-  - bleeksiel
   - manlike tegnoloog
+  - ontwikkelaar
   - rekenaar
+  - sagteware
+  - skepper
   - tegnologie
 👨🏻‍💻:
-  - bleeksiel
   - ligte velkleur
   - manlike tegnoloog
   - 'manlike tegnoloog: ligte velkleur'
+  - ontwikkelaar
   - rekenaar
+  - sagteware
+  - skepper
   - tegnologie
 👨🏼‍💻:
-  - bleeksiel
   - manlike tegnoloog
   - 'manlike tegnoloog: medium-ligte velkleur'
   - medium-ligte velkleur
+  - ontwikkelaar
   - rekenaar
+  - sagteware
+  - skepper
   - tegnologie
 👨🏽‍💻:
-  - bleeksiel
   - manlike tegnoloog
   - 'manlike tegnoloog: medium velkleur'
   - medium velkleur
+  - ontwikkelaar
   - rekenaar
+  - sagteware
+  - skepper
   - tegnologie
 👨🏾‍💻:
-  - bleeksiel
   - manlike tegnoloog
   - 'manlike tegnoloog: medium-donker velkleur'
   - medium-donker velkleur
+  - ontwikkelaar
   - rekenaar
+  - sagteware
+  - skepper
   - tegnologie
 👨🏿‍💻:
-  - bleeksiel
   - donker velkleur
   - manlike tegnoloog
   - 'manlike tegnoloog: donker velkleur'
+  - ontwikkelaar
   - rekenaar
+  - sagteware
+  - skepper
   - tegnologie
 👩‍💻:
-  - bleeksiel
+  - ontwikkelaar
   - rekenaar
+  - sagteware
+  - skepper
   - tegnologie
   - vroulike tegnoloog
 👩🏻‍💻:
-  - bleeksiel
   - ligte velkleur
+  - ontwikkelaar
   - rekenaar
+  - sagteware
+  - skepper
   - tegnologie
   - vroulike tegnoloog
   - 'vroulike tegnoloog: ligte velkleur'
 👩🏼‍💻:
-  - bleeksiel
   - medium-ligte velkleur
+  - ontwikkelaar
   - rekenaar
+  - sagteware
+  - skepper
   - tegnologie
   - vroulike tegnoloog
   - 'vroulike tegnoloog: medium-ligte velkleur'
 👩🏽‍💻:
-  - bleeksiel
   - medium velkleur
+  - ontwikkelaar
   - rekenaar
+  - sagteware
+  - skepper
   - tegnologie
   - vroulike tegnoloog
   - 'vroulike tegnoloog: medium velkleur'
 👩🏾‍💻:
-  - bleeksiel
   - medium-donker velkleur
+  - ontwikkelaar
   - rekenaar
+  - sagteware
+  - skepper
   - tegnologie
   - vroulike tegnoloog
   - 'vroulike tegnoloog: medium-donker velkleur'
 👩🏿‍💻:
-  - bleeksiel
   - donker velkleur
+  - ontwikkelaar
   - rekenaar
+  - sagteware
+  - skepper
   - tegnologie
   - vroulike tegnoloog
   - 'vroulike tegnoloog: donker velkleur'
-👨‍🎤:
-  - manlike sanger
+🧑‍🎤:
+  - akteur
   - sanger
+  - ster
+  - vermaaklikheidster
+🧑🏻‍🎤:
+  - akteur
+  - ligte velkleur
+  - sanger
+  - 'sanger: ligte velkleur'
+  - ster
+  - vermaaklikheidster
+🧑🏼‍🎤:
+  - akteur
+  - medium-ligte velkleur
+  - sanger
+  - 'sanger: medium-ligte velkleur'
+  - ster
+  - vermaaklikheidster
+🧑🏽‍🎤:
+  - akteur
+  - medium velkleur
+  - sanger
+  - 'sanger: medium velkleur'
+  - ster
+  - vermaaklikheidster
+🧑🏾‍🎤:
+  - akteur
+  - medium-donker velkleur
+  - sanger
+  - 'sanger: medium-donker velkleur'
+  - ster
+  - vermaaklikheidster
+🧑🏿‍🎤:
+  - akteur
+  - donker velkleur
+  - sanger
+  - 'sanger: donker velkleur'
+  - ster
+  - vermaaklikheidster
+👨‍🎤:
+  - man
+  - manlike sanger
+  - rock
+  - sanger
+  - ster
+  - vermaaklikheid
 👨🏻‍🎤:
   - ligte velkleur
+  - man
   - manlike sanger
   - 'manlike sanger: ligte velkleur'
+  - rock
   - sanger
+  - ster
+  - vermaaklikheid
 👨🏼‍🎤:
+  - man
   - manlike sanger
   - 'manlike sanger: medium-ligte velkleur'
   - medium-ligte velkleur
+  - rock
   - sanger
+  - ster
+  - vermaaklikheid
 👨🏽‍🎤:
+  - man
   - manlike sanger
   - 'manlike sanger: medium velkleur'
   - medium velkleur
+  - rock
   - sanger
+  - ster
+  - vermaaklikheid
 👨🏾‍🎤:
+  - man
   - manlike sanger
   - 'manlike sanger: medium-donker velkleur'
   - medium-donker velkleur
+  - rock
   - sanger
+  - ster
+  - vermaaklikheid
 👨🏿‍🎤:
   - donker velkleur
+  - man
   - manlike sanger
   - 'manlike sanger: donker velkleur'
+  - rock
   - sanger
+  - ster
+  - vermaaklikheid
 👩‍🎤:
+  - man
+  - rock
   - sanger
-  - sangeres
+  - ster
+  - vermaaklikheid
   - vroulike sanger
 👩🏻‍🎤:
   - ligte velkleur
+  - man
+  - rock
   - sanger
-  - sangeres
+  - ster
+  - vermaaklikheid
   - vroulike sanger
   - 'vroulike sanger: ligte velkleur'
 👩🏼‍🎤:
+  - man
   - medium-ligte velkleur
+  - rock
   - sanger
-  - sangeres
+  - ster
+  - vermaaklikheid
   - vroulike sanger
   - 'vroulike sanger: medium-ligte velkleur'
 👩🏽‍🎤:
+  - man
   - medium velkleur
+  - rock
   - sanger
-  - sangeres
+  - ster
+  - vermaaklikheid
   - vroulike sanger
   - 'vroulike sanger: medium velkleur'
 👩🏾‍🎤:
+  - man
   - medium-donker velkleur
+  - rock
   - sanger
-  - sangeres
+  - ster
+  - vermaaklikheid
   - vroulike sanger
   - 'vroulike sanger: medium-donker velkleur'
 👩🏿‍🎤:
   - donker velkleur
+  - man
+  - rock
   - sanger
-  - sangeres
+  - ster
+  - vermaaklikheid
   - vroulike sanger
   - 'vroulike sanger: donker velkleur'
+🧑‍🎨:
+  - kuns
+  - kunstenaar
+  - palet
+🧑🏻‍🎨:
+  - kuns
+  - kunstenaar
+  - 'kunstenaar: ligte velkleur'
+  - ligte velkleur
+  - palet
+🧑🏼‍🎨:
+  - kuns
+  - kunstenaar
+  - 'kunstenaar: medium-ligte velkleur'
+  - medium-ligte velkleur
+  - palet
+🧑🏽‍🎨:
+  - kuns
+  - kunstenaar
+  - 'kunstenaar: medium velkleur'
+  - medium velkleur
+  - palet
+🧑🏾‍🎨:
+  - kuns
+  - kunstenaar
+  - 'kunstenaar: medium-donker velkleur'
+  - medium-donker velkleur
+  - palet
+🧑🏿‍🎨:
+  - donker velkleur
+  - kuns
+  - kunstenaar
+  - 'kunstenaar: donker velkleur'
+  - palet
 👨‍🎨:
   - kunstenaar
   - manlike kunstenaar
@@ -5058,6 +6781,34 @@
   - verwer
   - vroulike kunstenaar
   - 'vroulike kunstenaar: donker velkleur'
+🧑‍✈:
+  - vliegtuig
+  - vlieënier
+🧑🏻‍✈:
+  - ligte velkleur
+  - vliegtuig
+  - vlieënier
+  - 'vlieënier: ligte velkleur'
+🧑🏼‍✈:
+  - medium-ligte velkleur
+  - vliegtuig
+  - vlieënier
+  - 'vlieënier: medium-ligte velkleur'
+🧑🏽‍✈:
+  - medium velkleur
+  - vliegtuig
+  - vlieënier
+  - 'vlieënier: medium velkleur'
+🧑🏾‍✈:
+  - medium-donker velkleur
+  - vliegtuig
+  - vlieënier
+  - 'vlieënier: medium-donker velkleur'
+🧑🏿‍✈:
+  - donker velkleur
+  - vliegtuig
+  - vlieënier
+  - 'vlieënier: donker velkleur'
 👨‍✈:
   - kaptein
   - loods
@@ -5138,6 +6889,34 @@
   - vlieënier
   - vroulike vlieënier
   - 'vroulike vlieënier: donker velkleur'
+🧑‍🚀:
+  - ruimtetuig
+  - ruimtevaarder
+🧑🏻‍🚀:
+  - ligte velkleur
+  - ruimtetuig
+  - ruimtevaarder
+  - 'ruimtevaarder: ligte velkleur'
+🧑🏼‍🚀:
+  - medium-ligte velkleur
+  - ruimtetuig
+  - ruimtevaarder
+  - 'ruimtevaarder: medium-ligte velkleur'
+🧑🏽‍🚀:
+  - medium velkleur
+  - ruimtetuig
+  - ruimtevaarder
+  - 'ruimtevaarder: medium velkleur'
+🧑🏾‍🚀:
+  - medium-donker velkleur
+  - ruimtetuig
+  - ruimtevaarder
+  - 'ruimtevaarder: medium-donker velkleur'
+🧑🏿‍🚀:
+  - donker velkleur
+  - ruimtetuig
+  - ruimtevaarder
+  - 'ruimtevaarder: donker velkleur'
 👨‍🚀:
   - manlike ruimtevaarder
   - ruimtevaarder
@@ -5194,6 +6973,46 @@
   - ruimtevaarder
   - vroulike ruimtevaarder
   - 'vroulike ruimtevaarder: donker velkleur'
+🧑‍🚒:
+  - brandbestryder
+  - brandweer
+  - brandweerlorrie
+  - brandweerman
+🧑🏻‍🚒:
+  - brandbestryder
+  - 'brandbestryder: ligte velkleur'
+  - brandweer
+  - brandweerlorrie
+  - brandweerman
+  - ligte velkleur
+🧑🏼‍🚒:
+  - brandbestryder
+  - 'brandbestryder: medium-ligte velkleur'
+  - brandweer
+  - brandweerlorrie
+  - brandweerman
+  - medium-ligte velkleur
+🧑🏽‍🚒:
+  - brandbestryder
+  - 'brandbestryder: medium velkleur'
+  - brandweer
+  - brandweerlorrie
+  - brandweerman
+  - medium velkleur
+🧑🏾‍🚒:
+  - brandbestryder
+  - 'brandbestryder: medium-donker velkleur'
+  - brandweer
+  - brandweerlorrie
+  - brandweerman
+  - medium-donker velkleur
+🧑🏿‍🚒:
+  - brandbestryder
+  - 'brandbestryder: donker velkleur'
+  - brandweer
+  - brandweerlorrie
+  - brandweerman
+  - donker velkleur
 👨‍🚒:
   - brandweer
   - brandweerman
@@ -5383,57 +7202,69 @@
 🕵‍♂:
   - manlike speurder
   - speurder
+  - spioen
 🕵🏻‍♂:
   - ligte velkleur
   - manlike speurder
   - 'manlike speurder: ligte velkleur'
   - speurder
+  - spioen
 🕵🏼‍♂:
   - manlike speurder
   - 'manlike speurder: medium-ligte velkleur'
   - medium-ligte velkleur
   - speurder
+  - spioen
 🕵🏽‍♂:
   - manlike speurder
   - 'manlike speurder: medium velkleur'
   - medium velkleur
   - speurder
+  - spioen
 🕵🏾‍♂:
   - manlike speurder
   - 'manlike speurder: medium-donker velkleur'
   - medium-donker velkleur
   - speurder
+  - spioen
 🕵🏿‍♂:
   - donker velkleur
   - manlike speurder
   - 'manlike speurder: donker velkleur'
   - speurder
+  - spioen
 🕵‍♀:
   - speurder
+  - spioen
   - vroulike speurder
 🕵🏻‍♀:
   - ligte velkleur
   - speurder
+  - spioen
   - vroulike speurder
   - 'vroulike speurder: ligte velkleur'
 🕵🏼‍♀:
   - medium-ligte velkleur
   - speurder
+  - spioen
   - vroulike speurder
   - 'vroulike speurder: medium-ligte velkleur'
 🕵🏽‍♀:
   - medium velkleur
   - speurder
+  - spioen
   - vroulike speurder
   - 'vroulike speurder: medium velkleur'
 🕵🏾‍♀:
   - medium-donker velkleur
   - speurder
+  - spioen
   - vroulike speurder
   - 'vroulike speurder: medium-donker velkleur'
 🕵🏿‍♀:
   - donker velkleur
   - speurder
+  - spioen
   - vroulike speurder
   - 'vroulike speurder: donker velkleur'
 💂:
@@ -5520,6 +7351,11 @@
   - vroulike wag
   - 'vroulike wag: donker velkleur'
   - wag
+🥷:
+  - ninja
+  - stilletjies
+  - vegter
+  - verberg
 👷:
   - hoed
   - konstruksie
@@ -5561,87 +7397,105 @@
   - 'konstruksiewerker: donker velkleur'
   - werker
 👷‍♂:
-  - bouer
+  - konstruksie
+  - man
   - manlike bouer
+  - werker
 👷🏻‍♂:
-  - bouer
+  - konstruksie
   - ligte velkleur
+  - man
   - manlike bouer
   - 'manlike bouer: ligte velkleur'
+  - werker
 👷🏼‍♂:
-  - bouer
+  - konstruksie
+  - man
   - manlike bouer
   - 'manlike bouer: medium-ligte velkleur'
   - medium-ligte velkleur
+  - werker
 👷🏽‍♂:
-  - bouer
+  - konstruksie
+  - man
   - manlike bouer
   - 'manlike bouer: medium velkleur'
   - medium velkleur
+  - werker
 👷🏾‍♂:
-  - bouer
+  - konstruksie
+  - man
   - manlike bouer
   - 'manlike bouer: medium-donker velkleur'
   - medium-donker velkleur
+  - werker
 👷🏿‍♂:
-  - bouer
   - donker velkleur
+  - konstruksie
+  - man
   - manlike bouer
   - 'manlike bouer: donker velkleur'
+  - werker
 👷‍♀:
-  - bouer
+  - konstruksie
+  - vrou
   - vroulike bouer
+  - werker
 👷🏻‍♀:
-  - bouer
+  - konstruksie
   - ligte velkleur
+  - vrou
   - vroulike bouer
   - 'vroulike bouer: ligte velkleur'
+  - werker
 👷🏼‍♀:
-  - bouer
+  - konstruksie
   - medium-ligte velkleur
+  - vrou
   - vroulike bouer
   - 'vroulike bouer: medium-ligte velkleur'
+  - werker
 👷🏽‍♀:
-  - bouer
+  - konstruksie
   - medium velkleur
+  - vrou
   - vroulike bouer
   - 'vroulike bouer: medium velkleur'
+  - werker
 👷🏾‍♀:
-  - bouer
+  - konstruksie
   - medium-donker velkleur
+  - vrou
   - vroulike bouer
   - 'vroulike bouer: medium-donker velkleur'
+  - werker
 👷🏿‍♀:
-  - bouer
   - donker velkleur
+  - konstruksie
+  - vrou
   - vroulike bouer
   - 'vroulike bouer: donker velkleur'
+  - werker
 🤴:
-  - gesig
   - prins
 🤴🏻:
-  - gesig
   - ligte velkleur
   - prins
   - 'prins: ligte velkleur'
 🤴🏼:
-  - gesig
   - medium-ligte velkleur
   - prins
   - 'prins: medium-ligte velkleur'
 🤴🏽:
-  - gesig
   - medium velkleur
   - prins
   - 'prins: medium velkleur'
 🤴🏾:
-  - gesig
   - medium-donker velkleur
   - prins
   - 'prins: medium-donker velkleur'
 🤴🏿:
   - donker velkleur
-  - gesig
   - prins
   - 'prins: donker velkleur'
 👸:
@@ -5679,38 +7533,38 @@
   - 'prinses: donker velkleur'
   - sprokie
 👳:
-  - man
   - met met tulband
+  - persoon met tulband
   - tulband
 👳🏻:
   - ligte velkleur
-  - man
   - met met tulband
   - 'met met tulband: ligte velkleur'
+  - persoon met tulband
   - tulband
 👳🏼:
-  - man
   - medium-ligte velkleur
   - met met tulband
   - 'met met tulband: medium-ligte velkleur'
+  - persoon met tulband
   - tulband
 👳🏽:
-  - man
   - medium velkleur
   - met met tulband
   - 'met met tulband: medium velkleur'
+  - persoon met tulband
   - tulband
 👳🏾:
-  - man
   - medium-donker velkleur
   - met met tulband
   - 'met met tulband: medium-donker velkleur'
+  - persoon met tulband
   - tulband
 👳🏿:
   - donker velkleur
-  - man
   - met met tulband
   - 'met met tulband: donker velkleur'
+  - persoon met tulband
   - tulband
 👳‍♂:
   - man met tulband
@@ -5772,18 +7626,21 @@
   - gua pi mao
   - hoed
   - man
+  - man met Chinese mus
   - man met chinese mus
 👲🏻:
   - gua pi mao
   - hoed
   - ligte velkleur
   - man
+  - man met Chinese mus
   - man met chinese mus
   - 'man met chinese mus: ligte velkleur'
 👲🏼:
   - gua pi mao
   - hoed
   - man
+  - man met Chinese mus
   - man met chinese mus
   - 'man met chinese mus: medium-ligte velkleur'
   - medium-ligte velkleur
@@ -5791,6 +7648,7 @@
   - gua pi mao
   - hoed
   - man
+  - man met Chinese mus
   - man met chinese mus
   - 'man met chinese mus: medium velkleur'
   - medium velkleur
@@ -5798,6 +7656,7 @@
   - gua pi mao
   - hoed
   - man
+  - man met Chinese mus
   - man met chinese mus
   - 'man met chinese mus: medium-donker velkleur'
   - medium-donker velkleur
@@ -5806,6 +7665,7 @@
   - gua pi mao
   - hoed
   - man
+  - man met Chinese mus
   - man met chinese mus
   - 'man met chinese mus: donker velkleur'
 🧕:
@@ -5850,128 +7710,258 @@
   - 'vrou met kopdoek: donker velkleur'
 🤵:
   - bruidegom
-  - man
-  - man in pak
   - pak
+  - persoon
+  - persoon in pak
   - tuxedo
 🤵🏻:
   - bruidegom
+  - ligte velkleur
+  - pak
+  - persoon
+  - persoon in pak
+  - 'persoon in pak: ligte velkleur'
+  - tuxedo
+🤵🏼:
+  - bruidegom
+  - medium-ligte velkleur
+  - pak
+  - persoon
+  - persoon in pak
+  - 'persoon in pak: medium-ligte velkleur'
+  - tuxedo
+🤵🏽:
+  - bruidegom
+  - medium velkleur
+  - pak
+  - persoon
+  - persoon in pak
+  - 'persoon in pak: medium velkleur'
+  - tuxedo
+🤵🏾:
+  - bruidegom
+  - medium-donker velkleur
+  - pak
+  - persoon
+  - persoon in pak
+  - 'persoon in pak: medium-donker velkleur'
+  - tuxedo
+🤵🏿:
+  - bruidegom
+  - donker velkleur
+  - pak
+  - persoon
+  - persoon in pak
+  - 'persoon in pak: donker velkleur'
+  - tuxedo
+🤵‍♂:
+  - man
+  - man in pak
+  - pak
+🤵🏻‍♂:
   - ligte velkleur
   - man
   - man in pak
   - 'man in pak: ligte velkleur'
   - pak
-  - tuxedo
-🤵🏼:
-  - bruidegom
+🤵🏼‍♂:
   - man
   - man in pak
   - 'man in pak: medium-ligte velkleur'
   - medium-ligte velkleur
   - pak
-  - tuxedo
-🤵🏽:
-  - bruidegom
+🤵🏽‍♂:
   - man
   - man in pak
   - 'man in pak: medium velkleur'
   - medium velkleur
   - pak
-  - tuxedo
-🤵🏾:
-  - bruidegom
+🤵🏾‍♂:
   - man
   - man in pak
   - 'man in pak: medium-donker velkleur'
   - medium-donker velkleur
   - pak
-  - tuxedo
-🤵🏿:
-  - bruidegom
+🤵🏿‍♂:
   - donker velkleur
   - man
   - man in pak
   - 'man in pak: donker velkleur'
   - pak
-  - tuxedo
+🤵‍♀:
+  - pak
+  - vrou
+  - vrou in pak
+🤵🏻‍♀:
+  - ligte velkleur
+  - pak
+  - vrou
+  - vrou in pak
+  - 'vrou in pak: ligte velkleur'
+🤵🏼‍♀:
+  - medium-ligte velkleur
+  - pak
+  - vrou
+  - vrou in pak
+  - 'vrou in pak: medium-ligte velkleur'
+🤵🏽‍♀:
+  - medium velkleur
+  - pak
+  - vrou
+  - vrou in pak
+  - 'vrou in pak: medium velkleur'
+🤵🏾‍♀:
+  - medium-donker velkleur
+  - pak
+  - vrou
+  - vrou in pak
+  - 'vrou in pak: medium-donker velkleur'
+🤵🏿‍♀:
+  - donker velkleur
+  - pak
+  - vrou
+  - vrou in pak
+  - 'vrou in pak: donker velkleur'
 👰:
   - bruid
-  - bruid met sluier
+  - persoon
+  - persoon met sluier
   - sluier
   - troue
 👰🏻:
   - bruid
-  - bruid met sluier
-  - 'bruid met sluier: ligte velkleur'
   - ligte velkleur
+  - persoon
+  - persoon met sluier
+  - 'persoon met sluier: ligte velkleur'
   - sluier
   - troue
 👰🏼:
   - bruid
-  - bruid met sluier
-  - 'bruid met sluier: medium-ligte velkleur'
   - medium-ligte velkleur
+  - persoon
+  - persoon met sluier
+  - 'persoon met sluier: medium-ligte velkleur'
   - sluier
   - troue
 👰🏽:
   - bruid
-  - bruid met sluier
-  - 'bruid met sluier: medium velkleur'
   - medium velkleur
+  - persoon
+  - persoon met sluier
+  - 'persoon met sluier: medium velkleur'
   - sluier
   - troue
 👰🏾:
   - bruid
-  - bruid met sluier
-  - 'bruid met sluier: medium-donker velkleur'
   - medium-donker velkleur
+  - persoon
+  - persoon met sluier
+  - 'persoon met sluier: medium-donker velkleur'
   - sluier
   - troue
 👰🏿:
   - bruid
-  - bruid met sluier
-  - 'bruid met sluier: donker velkleur'
   - donker velkleur
+  - persoon
+  - persoon met sluier
+  - 'persoon met sluier: donker velkleur'
   - sluier
   - troue
+👰‍♂:
+  - man
+  - man met sluier
+  - sluier
+👰🏻‍♂:
+  - ligte velkleur
+  - man
+  - man met sluier
+  - 'man met sluier: ligte velkleur'
+  - sluier
+👰🏼‍♂:
+  - man
+  - man met sluier
+  - 'man met sluier: medium-ligte velkleur'
+  - medium-ligte velkleur
+  - sluier
+👰🏽‍♂:
+  - man
+  - man met sluier
+  - 'man met sluier: medium velkleur'
+  - medium velkleur
+  - sluier
+👰🏾‍♂:
+  - man
+  - man met sluier
+  - 'man met sluier: medium-donker velkleur'
+  - medium-donker velkleur
+  - sluier
+👰🏿‍♂:
+  - donker velkleur
+  - man
+  - man met sluier
+  - 'man met sluier: donker velkleur'
+  - sluier
+👰‍♀:
+  - sluier
+  - vrou
+  - vrou met sluier
+👰🏻‍♀:
+  - ligte velkleur
+  - sluier
+  - vrou
+  - vrou met sluier
+  - 'vrou met sluier: ligte velkleur'
+👰🏼‍♀:
+  - medium-ligte velkleur
+  - sluier
+  - vrou
+  - vrou met sluier
+  - 'vrou met sluier: medium-ligte velkleur'
+👰🏽‍♀:
+  - medium velkleur
+  - sluier
+  - vrou
+  - vrou met sluier
+  - 'vrou met sluier: medium velkleur'
+👰🏾‍♀:
+  - medium-donker velkleur
+  - sluier
+  - vrou
+  - vrou met sluier
+  - 'vrou met sluier: medium-donker velkleur'
+👰🏿‍♀:
+  - donker velkleur
+  - sluier
+  - vrou
+  - vrou met sluier
+  - 'vrou met sluier: donker velkleur'
 🤰:
-  - ma
-  - moeder
   - swanger
   - swanger vrou
   - vrou
 🤰🏻:
   - ligte velkleur
-  - ma
-  - moeder
   - swanger
   - 'swanger vrou: ligte velkleur'
   - vrou
 🤰🏼:
-  - ma
   - medium-ligte velkleur
-  - moeder
   - swanger
   - 'swanger vrou: medium-ligte velkleur'
   - vrou
 🤰🏽:
-  - ma
   - medium velkleur
-  - moeder
   - swanger
   - 'swanger vrou: medium velkleur'
   - vrou
 🤰🏾:
-  - ma
   - medium-donker velkleur
-  - moeder
   - swanger
   - 'swanger vrou: medium-donker velkleur'
   - vrou
 🤰🏿:
   - donker velkleur
-  - ma
-  - moeder
   - swanger
   - 'swanger vrou: donker velkleur'
   - vrou
@@ -6015,6 +8005,126 @@
   - 'borsvoed: donker velkleur'
   - donker velkleur
   - voeding
+👩‍🍼:
+  - baba
+  - voedend
+  - vrou
+  - vrou wat baba voed
+👩🏻‍🍼:
+  - baba
+  - ligte velkleur
+  - voedend
+  - vrou
+  - vrou wat baba voed
+  - 'vrou wat baba voed: ligte velkleur'
+👩🏼‍🍼:
+  - baba
+  - medium-ligte velkleur
+  - voedend
+  - vrou
+  - vrou wat baba voed
+  - 'vrou wat baba voed: medium-ligte velkleur'
+👩🏽‍🍼:
+  - baba
+  - medium velkleur
+  - voedend
+  - vrou
+  - vrou wat baba voed
+  - 'vrou wat baba voed: medium velkleur'
+👩🏾‍🍼:
+  - baba
+  - medium-donker velkleur
+  - voedend
+  - vrou
+  - vrou wat baba voed
+  - 'vrou wat baba voed: medium-donker velkleur'
+👩🏿‍🍼:
+  - baba
+  - donker velkleur
+  - voedend
+  - vrou
+  - vrou wat baba voed
+  - 'vrou wat baba voed: donker velkleur'
+👨‍🍼:
+  - baba
+  - man
+  - man wat baba voed
+  - voedend
+👨🏻‍🍼:
+  - baba
+  - ligte velkleur
+  - man
+  - man wat baba voed
+  - 'man wat baba voed: ligte velkleur'
+  - voedend
+👨🏼‍🍼:
+  - baba
+  - man
+  - man wat baba voed
+  - 'man wat baba voed: medium-ligte velkleur'
+  - medium-ligte velkleur
+  - voedend
+👨🏽‍🍼:
+  - baba
+  - man
+  - man wat baba voed
+  - 'man wat baba voed: medium velkleur'
+  - medium velkleur
+  - voedend
+👨🏾‍🍼:
+  - baba
+  - man
+  - man wat baba voed
+  - 'man wat baba voed: medium-donker velkleur'
+  - medium-donker velkleur
+  - voedend
+👨🏿‍🍼:
+  - baba
+  - donker velkleur
+  - man
+  - man wat baba voed
+  - 'man wat baba voed: donker velkleur'
+  - voedend
+🧑‍🍼:
+  - baba
+  - persoon
+  - persoon wat baba voed
+  - voedend
+🧑🏻‍🍼:
+  - baba
+  - ligte velkleur
+  - persoon
+  - persoon wat baba voed
+  - 'persoon wat baba voed: ligte velkleur'
+  - voedend
+🧑🏼‍🍼:
+  - baba
+  - medium-ligte velkleur
+  - persoon
+  - persoon wat baba voed
+  - 'persoon wat baba voed: medium-ligte velkleur'
+  - voedend
+🧑🏽‍🍼:
+  - baba
+  - medium velkleur
+  - persoon
+  - persoon wat baba voed
+  - 'persoon wat baba voed: medium velkleur'
+  - voedend
+🧑🏾‍🍼:
+  - baba
+  - medium-donker velkleur
+  - persoon
+  - persoon wat baba voed
+  - 'persoon wat baba voed: medium-donker velkleur'
+  - voedend
+🧑🏿‍🍼:
+  - baba
+  - donker velkleur
+  - persoon
+  - persoon wat baba voed
+  - 'persoon wat baba voed: donker velkleur'
+  - voedend
 👼:
   - baba
   - baba-engel
@@ -6068,97 +8178,119 @@
   - gesig
   - sprokie
 🎅:
-  - fantasie
-  - kersfees
-  - kersvader
-  - sinterklaas
-  - sprokie
+  - Kersfees
+  - Kersvader
   - vader
   - viering
 🎅🏻:
-  - fantasie
-  - kersfees
-  - kersvader
-  - 'kersvader: ligte velkleur'
+  - Kersfees
+  - Kersvader
+  - 'Kersvader: ligte velkleur'
   - ligte velkleur
-  - sinterklaas
-  - sprokie
   - vader
   - viering
 🎅🏼:
-  - fantasie
-  - kersfees
-  - kersvader
-  - 'kersvader: medium-ligte velkleur'
+  - Kersfees
+  - Kersvader
+  - 'Kersvader: medium-ligte velkleur'
   - medium-ligte velkleur
-  - sinterklaas
-  - sprokie
   - vader
   - viering
 🎅🏽:
-  - fantasie
-  - kersfees
-  - kersvader
-  - 'kersvader: medium velkleur'
+  - Kersfees
+  - Kersvader
+  - 'Kersvader: medium velkleur'
   - medium velkleur
-  - sinterklaas
-  - sprokie
   - vader
   - viering
 🎅🏾:
-  - fantasie
-  - kersfees
-  - kersvader
-  - 'kersvader: medium-donker velkleur'
+  - Kersfees
+  - Kersvader
+  - 'Kersvader: medium-donker velkleur'
   - medium-donker velkleur
-  - sinterklaas
-  - sprokie
   - vader
   - viering
 🎅🏿:
+  - Kersfees
+  - Kersvader
+  - 'Kersvader: donker velkleur'
   - donker velkleur
-  - fantasie
-  - kersfees
-  - kersvader
-  - 'kersvader: donker velkleur'
-  - sinterklaas
-  - sprokie
   - vader
   - viering
 🤶:
-  - gesig
-  - kersmoeder
-  - moeder kersfees
+  - Kersfees
+  - Kersmoeder
+  - Moeder Kersfees
+  - moeder
+  - viering
 🤶🏻:
-  - gesig
-  - kersmoeder
+  - Kersfees
+  - Kersmoeder
+  - Moeder Kersfees
+  - 'Moeder Kersfees: ligte velkleur'
   - ligte velkleur
-  - moeder kersfees
-  - 'moeder kersfees: ligte velkleur'
+  - moeder
+  - viering
 🤶🏼:
-  - gesig
-  - kersmoeder
+  - Kersfees
+  - Kersmoeder
+  - Moeder Kersfees
+  - 'Moeder Kersfees: medium-ligte velkleur'
   - medium-ligte velkleur
-  - moeder kersfees
-  - 'moeder kersfees: medium-ligte velkleur'
+  - moeder
+  - viering
 🤶🏽:
-  - gesig
-  - kersmoeder
+  - Kersfees
+  - Kersmoeder
+  - Moeder Kersfees
+  - 'Moeder Kersfees: medium velkleur'
   - medium velkleur
-  - moeder kersfees
-  - 'moeder kersfees: medium velkleur'
+  - moeder
+  - viering
 🤶🏾:
-  - gesig
-  - kersmoeder
+  - Kersfees
+  - Kersmoeder
+  - Moeder Kersfees
+  - 'Moeder Kersfees: medium-donker velkleur'
   - medium-donker velkleur
-  - moeder kersfees
-  - 'moeder kersfees: medium-donker velkleur'
+  - moeder
+  - viering
 🤶🏿:
+  - Kersfees
+  - Kersmoeder
+  - Moeder Kersfees
+  - 'Moeder Kersfees: donker velkleur'
   - donker velkleur
-  - gesig
-  - kersmoeder
-  - moeder kersfees
-  - 'moeder kersfees: donker velkleur'
+  - moeder
+  - viering
+🧑‍🎄:
+  - Claus, Kersfeess
+  - mx claus
+🧑🏻‍🎄:
+  - Claus, Kersfeess
+  - ligte velkleur
+  - mx claus
+  - 'mx claus: ligte velkleur'
+🧑🏼‍🎄:
+  - Claus, Kersfeess
+  - medium-ligte velkleur
+  - mx claus
+  - 'mx claus: medium-ligte velkleur'
+🧑🏽‍🎄:
+  - Claus, Kersfeess
+  - medium velkleur
+  - mx claus
+  - 'mx claus: medium velkleur'
+🧑🏾‍🎄:
+  - Claus, Kersfeess
+  - medium-donker velkleur
+  - mx claus
+  - 'mx claus: medium-donker velkleur'
+🧑🏿‍🎄:
+  - Claus, Kersfeess
+  - donker velkleur
+  - mx claus
+  - 'mx claus: donker velkleur'
 🦸:
   - goeie
   - held
@@ -7266,40 +9398,580 @@
   - voetganger
   - vrou stap
   - 'vrou stap: donker velkleur'
+🧍:
+  - persoon wat staan
+  - staan
+🧍🏻:
+  - ligte velkleur
+  - persoon wat staan
+  - 'persoon wat staan: ligte velkleur'
+  - staan
+🧍🏼:
+  - medium-ligte velkleur
+  - persoon wat staan
+  - 'persoon wat staan: medium-ligte velkleur'
+  - staan
+🧍🏽:
+  - medium velkleur
+  - persoon wat staan
+  - 'persoon wat staan: medium velkleur'
+  - staan
+🧍🏾:
+  - medium-donker velkleur
+  - persoon wat staan
+  - 'persoon wat staan: medium-donker velkleur'
+  - staan
+🧍🏿:
+  - donker velkleur
+  - persoon wat staan
+  - 'persoon wat staan: donker velkleur'
+  - staan
+🧍‍♂:
+  - man
+  - man wat staan
+  - staan
+🧍🏻‍♂:
+  - ligte velkleur
+  - man
+  - man wat staan
+  - 'man wat staan: ligte velkleur'
+  - staan
+🧍🏼‍♂:
+  - man
+  - man wat staan
+  - 'man wat staan: medium-ligte velkleur'
+  - medium-ligte velkleur
+  - staan
+🧍🏽‍♂:
+  - man
+  - man wat staan
+  - 'man wat staan: medium velkleur'
+  - medium velkleur
+  - staan
+🧍🏾‍♂:
+  - man
+  - man wat staan
+  - 'man wat staan: medium-donker velkleur'
+  - medium-donker velkleur
+  - staan
+🧍🏿‍♂:
+  - donker velkleur
+  - man
+  - man wat staan
+  - 'man wat staan: donker velkleur'
+  - staan
+🧍‍♀:
+  - staan
+  - vrou
+  - vrou wat staan
+🧍🏻‍♀:
+  - ligte velkleur
+  - staan
+  - vrou
+  - vrou wat staan
+  - 'vrou wat staan: ligte velkleur'
+🧍🏼‍♀:
+  - medium-ligte velkleur
+  - staan
+  - vrou
+  - vrou wat staan
+  - 'vrou wat staan: medium-ligte velkleur'
+🧍🏽‍♀:
+  - medium velkleur
+  - staan
+  - vrou
+  - vrou wat staan
+  - 'vrou wat staan: medium velkleur'
+🧍🏾‍♀:
+  - medium-donker velkleur
+  - staan
+  - vrou
+  - vrou wat staan
+  - 'vrou wat staan: medium-donker velkleur'
+🧍🏿‍♀:
+  - donker velkleur
+  - staan
+  - vrou
+  - vrou wat staan
+  - 'vrou wat staan: donker velkleur'
+🧎:
+  - kniel
+  - persoon wat kniel
+🧎🏻:
+  - kniel
+  - ligte velkleur
+  - persoon wat kniel
+  - 'persoon wat kniel: ligte velkleur'
+🧎🏼:
+  - kniel
+  - medium-ligte velkleur
+  - persoon wat kniel
+  - 'persoon wat kniel: medium-ligte velkleur'
+🧎🏽:
+  - kniel
+  - medium velkleur
+  - persoon wat kniel
+  - 'persoon wat kniel: medium velkleur'
+🧎🏾:
+  - kniel
+  - medium-donker velkleur
+  - persoon wat kniel
+  - 'persoon wat kniel: medium-donker velkleur'
+🧎🏿:
+  - donker velkleur
+  - kniel
+  - persoon wat kniel
+  - 'persoon wat kniel: donker velkleur'
+🧎‍♂:
+  - kniel
+  - man
+  - man wat kniel
+🧎🏻‍♂:
+  - kniel
+  - ligte velkleur
+  - man
+  - man wat kniel
+  - 'man wat kniel: ligte velkleur'
+🧎🏼‍♂:
+  - kniel
+  - man
+  - man wat kniel
+  - 'man wat kniel: medium-ligte velkleur'
+  - medium-ligte velkleur
+🧎🏽‍♂:
+  - kniel
+  - man
+  - man wat kniel
+  - 'man wat kniel: medium velkleur'
+  - medium velkleur
+🧎🏾‍♂:
+  - kniel
+  - man
+  - man wat kniel
+  - 'man wat kniel: medium-donker velkleur'
+  - medium-donker velkleur
+🧎🏿‍♂:
+  - donker velkleur
+  - kniel
+  - man
+  - man wat kniel
+  - 'man wat kniel: donker velkleur'
+🧎‍♀:
+  - kniel
+  - vrou
+  - vrou wat kniel
+🧎🏻‍♀:
+  - kniel
+  - ligte velkleur
+  - vrou
+  - vrou wat kniel
+  - 'vrou wat kniel: ligte velkleur'
+🧎🏼‍♀:
+  - kniel
+  - medium-ligte velkleur
+  - vrou
+  - vrou wat kniel
+  - 'vrou wat kniel: medium-ligte velkleur'
+🧎🏽‍♀:
+  - kniel
+  - medium velkleur
+  - vrou
+  - vrou wat kniel
+  - 'vrou wat kniel: medium velkleur'
+🧎🏾‍♀:
+  - kniel
+  - medium-donker velkleur
+  - vrou
+  - vrou wat kniel
+  - 'vrou wat kniel: medium-donker velkleur'
+🧎🏿‍♀:
+  - donker velkleur
+  - kniel
+  - vrou
+  - vrou wat kniel
+  - 'vrou wat kniel: donker velkleur'
+🧑‍🦯:
+  - blink
+  - persoon met stapstok
+  - toegangklikheid
+🧑🏻‍🦯:
+  - blink
+  - ligte velkleur
+  - persoon met stapstok
+  - 'persoon met stapstok: ligte velkleur'
+  - toegangklikheid
+🧑🏼‍🦯:
+  - blink
+  - medium-ligte velkleur
+  - persoon met stapstok
+  - 'persoon met stapstok: medium-ligte velkleur'
+  - toegangklikheid
+🧑🏽‍🦯:
+  - blink
+  - medium velkleur
+  - persoon met stapstok
+  - 'persoon met stapstok: medium velkleur'
+  - toegangklikheid
+🧑🏾‍🦯:
+  - blink
+  - medium-donker velkleur
+  - persoon met stapstok
+  - 'persoon met stapstok: medium-donker velkleur'
+  - toegangklikheid
+🧑🏿‍🦯:
+  - blink
+  - donker velkleur
+  - persoon met stapstok
+  - 'persoon met stapstok: donker velkleur'
+  - toegangklikheid
+👨‍🦯:
+  - blind
+  - man
+  - man met gidsstok
+  - toeganklikheid
+👨🏻‍🦯:
+  - blind
+  - ligte velkleur
+  - man
+  - man met gidsstok
+  - 'man met gidsstok: ligte velkleur'
+  - toeganklikheid
+👨🏼‍🦯:
+  - blind
+  - man
+  - man met gidsstok
+  - 'man met gidsstok: medium-ligte velkleur'
+  - medium-ligte velkleur
+  - toeganklikheid
+👨🏽‍🦯:
+  - blind
+  - man
+  - man met gidsstok
+  - 'man met gidsstok: medium velkleur'
+  - medium velkleur
+  - toeganklikheid
+👨🏾‍🦯:
+  - blind
+  - man
+  - man met gidsstok
+  - 'man met gidsstok: medium-donker velkleur'
+  - medium-donker velkleur
+  - toeganklikheid
+👨🏿‍🦯:
+  - blind
+  - donker velkleur
+  - man
+  - man met gidsstok
+  - 'man met gidsstok: donker velkleur'
+  - toeganklikheid
+👩‍🦯:
+  - blind
+  - toeganklikheid
+  - vrou
+  - vrou met gidsstok
+👩🏻‍🦯:
+  - blind
+  - ligte velkleur
+  - toeganklikheid
+  - vrou
+  - vrou met gidsstok
+  - 'vrou met gidsstok: ligte velkleur'
+👩🏼‍🦯:
+  - blind
+  - medium-ligte velkleur
+  - toeganklikheid
+  - vrou
+  - vrou met gidsstok
+  - 'vrou met gidsstok: medium-ligte velkleur'
+👩🏽‍🦯:
+  - blind
+  - medium velkleur
+  - toeganklikheid
+  - vrou
+  - vrou met gidsstok
+  - 'vrou met gidsstok: medium velkleur'
+👩🏾‍🦯:
+  - blind
+  - medium-donker velkleur
+  - toeganklikheid
+  - vrou
+  - vrou met gidsstok
+  - 'vrou met gidsstok: medium-donker velkleur'
+👩🏿‍🦯:
+  - blind
+  - donker velkleur
+  - toeganklikheid
+  - vrou
+  - vrou met gidsstok
+  - 'vrou met gidsstok: donker velkleur'
+🧑‍🦼:
+  - persoon in motoraangedrewe roltoel
+  - rolstoel
+  - toegangklikheid
+🧑🏻‍🦼:
+  - ligte velkleur
+  - persoon in motoraangedrewe roltoel
+  - 'persoon in motoraangedrewe roltoel: ligte velkleur'
+  - rolstoel
+  - toegangklikheid
+🧑🏼‍🦼:
+  - medium-ligte velkleur
+  - persoon in motoraangedrewe roltoel
+  - 'persoon in motoraangedrewe roltoel: medium-ligte velkleur'
+  - rolstoel
+  - toegangklikheid
+🧑🏽‍🦼:
+  - medium velkleur
+  - persoon in motoraangedrewe roltoel
+  - 'persoon in motoraangedrewe roltoel: medium velkleur'
+  - rolstoel
+  - toegangklikheid
+🧑🏾‍🦼:
+  - medium-donker velkleur
+  - persoon in motoraangedrewe roltoel
+  - 'persoon in motoraangedrewe roltoel: medium-donker velkleur'
+  - rolstoel
+  - toegangklikheid
+🧑🏿‍🦼:
+  - donker velkleur
+  - persoon in motoraangedrewe roltoel
+  - 'persoon in motoraangedrewe roltoel: donker velkleur'
+  - rolstoel
+  - toegangklikheid
+👨‍🦼:
+  - man
+  - man in motoraangedrewe rolstoel
+  - rolstoel
+  - toeganklikheid
+👨🏻‍🦼:
+  - ligte velkleur
+  - man
+  - man in motoraangedrewe rolstoel
+  - 'man in motoraangedrewe rolstoel: ligte velkleur'
+  - rolstoel
+  - toeganklikheid
+👨🏼‍🦼:
+  - man
+  - man in motoraangedrewe rolstoel
+  - 'man in motoraangedrewe rolstoel: medium-ligte velkleur'
+  - medium-ligte velkleur
+  - rolstoel
+  - toeganklikheid
+👨🏽‍🦼:
+  - man
+  - man in motoraangedrewe rolstoel
+  - 'man in motoraangedrewe rolstoel: medium velkleur'
+  - medium velkleur
+  - rolstoel
+  - toeganklikheid
+👨🏾‍🦼:
+  - man
+  - man in motoraangedrewe rolstoel
+  - 'man in motoraangedrewe rolstoel: medium-donker velkleur'
+  - medium-donker velkleur
+  - rolstoel
+  - toeganklikheid
+👨🏿‍🦼:
+  - donker velkleur
+  - man
+  - man in motoraangedrewe rolstoel
+  - 'man in motoraangedrewe rolstoel: donker velkleur'
+  - rolstoel
+  - toeganklikheid
+👩‍🦼:
+  - rolstoel
+  - toeganklikheid
+  - vrou
+  - vrou in motoraangedrewe rolstoel
+👩🏻‍🦼:
+  - ligte velkleur
+  - rolstoel
+  - toeganklikheid
+  - vrou
+  - vrou in motoraangedrewe rolstoel
+  - 'vrou in motoraangedrewe rolstoel: ligte velkleur'
+👩🏼‍🦼:
+  - medium-ligte velkleur
+  - rolstoel
+  - toeganklikheid
+  - vrou
+  - vrou in motoraangedrewe rolstoel
+  - 'vrou in motoraangedrewe rolstoel: medium-ligte velkleur'
+👩🏽‍🦼:
+  - medium velkleur
+  - rolstoel
+  - toeganklikheid
+  - vrou
+  - vrou in motoraangedrewe rolstoel
+  - 'vrou in motoraangedrewe rolstoel: medium velkleur'
+👩🏾‍🦼:
+  - medium-donker velkleur
+  - rolstoel
+  - toeganklikheid
+  - vrou
+  - vrou in motoraangedrewe rolstoel
+  - 'vrou in motoraangedrewe rolstoel: medium-donker velkleur'
+👩🏿‍🦼:
+  - donker velkleur
+  - rolstoel
+  - toeganklikheid
+  - vrou
+  - vrou in motoraangedrewe rolstoel
+  - 'vrou in motoraangedrewe rolstoel: donker velkleur'
+🧑‍🦽:
+  - persoon in handgedrewe rolstoel
+  - rolstoel
+  - toeganklikheid
+🧑🏻‍🦽:
+  - ligte velkleur
+  - persoon in handgedrewe rolstoel
+  - 'persoon in handgedrewe rolstoel: ligte velkleur'
+  - rolstoel
+  - toeganklikheid
+🧑🏼‍🦽:
+  - medium-ligte velkleur
+  - persoon in handgedrewe rolstoel
+  - 'persoon in handgedrewe rolstoel: medium-ligte velkleur'
+  - rolstoel
+  - toeganklikheid
+🧑🏽‍🦽:
+  - medium velkleur
+  - persoon in handgedrewe rolstoel
+  - 'persoon in handgedrewe rolstoel: medium velkleur'
+  - rolstoel
+  - toeganklikheid
+🧑🏾‍🦽:
+  - medium-donker velkleur
+  - persoon in handgedrewe rolstoel
+  - 'persoon in handgedrewe rolstoel: medium-donker velkleur'
+  - rolstoel
+  - toeganklikheid
+🧑🏿‍🦽:
+  - donker velkleur
+  - persoon in handgedrewe rolstoel
+  - 'persoon in handgedrewe rolstoel: donker velkleur'
+  - rolstoel
+  - toeganklikheid
+👨‍🦽:
+  - man
+  - man in handgedrewe rolstoel
+  - rolstoel
+  - toeganklikheid
+👨🏻‍🦽:
+  - ligte velkleur
+  - man
+  - man in handgedrewe rolstoel
+  - 'man in handgedrewe rolstoel: ligte velkleur'
+  - rolstoel
+  - toeganklikheid
+👨🏼‍🦽:
+  - man
+  - man in handgedrewe rolstoel
+  - 'man in handgedrewe rolstoel: medium-ligte velkleur'
+  - medium-ligte velkleur
+  - rolstoel
+  - toeganklikheid
+👨🏽‍🦽:
+  - man
+  - man in handgedrewe rolstoel
+  - 'man in handgedrewe rolstoel: medium velkleur'
+  - medium velkleur
+  - rolstoel
+  - toeganklikheid
+👨🏾‍🦽:
+  - man
+  - man in handgedrewe rolstoel
+  - 'man in handgedrewe rolstoel: medium-donker velkleur'
+  - medium-donker velkleur
+  - rolstoel
+  - toeganklikheid
+👨🏿‍🦽:
+  - donker velkleur
+  - man
+  - man in handgedrewe rolstoel
+  - 'man in handgedrewe rolstoel: donker velkleur'
+  - rolstoel
+  - toeganklikheid
+👩‍🦽:
+  - rolstoel
+  - toeganklikheid
+  - vrou
+  - vrou in handgedrewe rolstoel
+👩🏻‍🦽:
+  - ligte velkleur
+  - rolstoel
+  - toeganklikheid
+  - vrou
+  - vrou in handgedrewe rolstoel
+  - 'vrou in handgedrewe rolstoel: ligte velkleur'
+👩🏼‍🦽:
+  - medium-ligte velkleur
+  - rolstoel
+  - toeganklikheid
+  - vrou
+  - vrou in handgedrewe rolstoel
+  - 'vrou in handgedrewe rolstoel: medium-ligte velkleur'
+👩🏽‍🦽:
+  - medium velkleur
+  - rolstoel
+  - toeganklikheid
+  - vrou
+  - vrou in handgedrewe rolstoel
+  - 'vrou in handgedrewe rolstoel: medium velkleur'
+👩🏾‍🦽:
+  - medium-donker velkleur
+  - rolstoel
+  - toeganklikheid
+  - vrou
+  - vrou in handgedrewe rolstoel
+  - 'vrou in handgedrewe rolstoel: medium-donker velkleur'
+👩🏿‍🦽:
+  - donker velkleur
+  - rolstoel
+  - toeganklikheid
+  - vrou
+  - vrou in handgedrewe rolstoel
+  - 'vrou in handgedrewe rolstoel: donker velkleur'
 🏃:
   - draf
   - hardloper
   - marathon
+  - persoon wat hardloop
 🏃🏻:
   - draf
   - hardloper
-  - 'hardloper: ligte velkleur'
   - ligte velkleur
   - marathon
+  - persoon wat hardloop
+  - 'persoon wat hardloop: ligte velkleur'
 🏃🏼:
   - draf
   - hardloper
-  - 'hardloper: medium-ligte velkleur'
   - marathon
   - medium-ligte velkleur
+  - persoon wat hardloop
+  - 'persoon wat hardloop: medium-ligte velkleur'
 🏃🏽:
   - draf
   - hardloper
-  - 'hardloper: medium velkleur'
   - marathon
   - medium velkleur
+  - persoon wat hardloop
+  - 'persoon wat hardloop: medium velkleur'
 🏃🏾:
   - draf
   - hardloper
-  - 'hardloper: medium-donker velkleur'
   - marathon
   - medium-donker velkleur
+  - persoon wat hardloop
+  - 'persoon wat hardloop: medium-donker velkleur'
 🏃🏿:
   - donker velkleur
   - draf
   - hardloper
-  - 'hardloper: donker velkleur'
   - marathon
+  - persoon wat hardloop
+  - 'persoon wat hardloop: donker velkleur'
 🏃‍♂:
   - draf
   - haastig
@@ -7491,19 +10163,18 @@
   - sake
 👯:
   - danser
-  - hasie
-  - meisie
-  - oor
-  - vrou
-  - vroue wat dans
+  - haasore
+  - mense met haasore
+  - partytjie
 👯‍♂:
   - dansers
-  - hasie-ore
-  - mans dans
+  - haasore
+  - mans met haasore
 👯‍♀:
-  - danseresse
-  - hasie-ore
-  - vroue dans
+  - dansers
+  - partytjie
+  - vroue
+  - vroue met haasore
 🧖:
   - persoon in stoomkamer
   - sauna
@@ -7923,112 +10594,112 @@
   - see
 🏄‍♂:
   - branderplankry
+  - man
   - manlike branderplankryer
-  - surf
 🏄🏻‍♂:
   - branderplankry
   - ligte velkleur
+  - man
   - manlike branderplankryer
   - 'manlike branderplankryer: ligte velkleur'
-  - surf
 🏄🏼‍♂:
   - branderplankry
+  - man
   - manlike branderplankryer
   - 'manlike branderplankryer: medium-ligte velkleur'
   - medium-ligte velkleur
-  - surf
 🏄🏽‍♂:
   - branderplankry
+  - man
   - manlike branderplankryer
   - 'manlike branderplankryer: medium velkleur'
   - medium velkleur
-  - surf
 🏄🏾‍♂:
   - branderplankry
+  - man
   - manlike branderplankryer
   - 'manlike branderplankryer: medium-donker velkleur'
   - medium-donker velkleur
-  - surf
 🏄🏿‍♂:
   - branderplankry
   - donker velkleur
+  - man
   - manlike branderplankryer
   - 'manlike branderplankryer: donker velkleur'
-  - surf
 🏄‍♀:
   - branderplankry
-  - surf
+  - vrou
   - vroulike branderplankryer
 🏄🏻‍♀:
   - branderplankry
   - ligte velkleur
-  - surf
+  - vrou
   - vroulike branderplankryer
   - 'vroulike branderplankryer: ligte velkleur'
 🏄🏼‍♀:
   - branderplankry
   - medium-ligte velkleur
-  - surf
+  - vrou
   - vroulike branderplankryer
   - 'vroulike branderplankryer: medium-ligte velkleur'
 🏄🏽‍♀:
   - branderplankry
   - medium velkleur
-  - surf
+  - vrou
   - vroulike branderplankryer
   - 'vroulike branderplankryer: medium velkleur'
 🏄🏾‍♀:
   - branderplankry
   - medium-donker velkleur
-  - surf
+  - vrou
   - vroulike branderplankryer
   - 'vroulike branderplankryer: medium-donker velkleur'
 🏄🏿‍♀:
   - branderplankry
   - donker velkleur
-  - surf
+  - vrou
   - vroulike branderplankryer
   - 'vroulike branderplankryer: donker velkleur'
 🚣:
   - boot
+  - persoon roei
   - roei
   - roeiboot
-  - voertuig
 🚣🏻:
   - boot
   - ligte velkleur
+  - persoon roei
   - roei
   - roeiboot
   - 'roeiboot: ligte velkleur'
-  - voertuig
 🚣🏼:
   - boot
   - medium-ligte velkleur
+  - persoon roei
   - roei
   - roeiboot
   - 'roeiboot: medium-ligte velkleur'
-  - voertuig
 🚣🏽:
   - boot
   - medium velkleur
+  - persoon roei
   - roei
   - roeiboot
   - 'roeiboot: medium velkleur'
-  - voertuig
 🚣🏾:
   - boot
   - medium-donker velkleur
+  - persoon roei
   - roei
   - roeiboot
   - 'roeiboot: medium-donker velkleur'
-  - voertuig
 🚣🏿:
   - boot
   - donker velkleur
+  - persoon roei
   - roei
   - roeiboot
   - 'roeiboot: donker velkleur'
-  - voertuig
 🚣‍♂:
   - kano
   - man wat roei
@@ -8195,100 +10866,100 @@
   - 'vroulike swemmer: donker velkleur'
 ⛹️:
   - bal
-  - persoon met bal
+  - persoon hop bal
 ⛹🏻:
   - bal
   - ligte velkleur
-  - persoon met bal
-  - 'persoon met bal: ligte velkleur'
+  - persoon hop bal
+  - 'persoon hop bal: ligte velkleur'
 ⛹🏼:
   - bal
   - medium-ligte velkleur
-  - persoon met bal
-  - 'persoon met bal: medium-ligte velkleur'
+  - persoon hop bal
+  - 'persoon hop bal: medium-ligte velkleur'
 ⛹🏽:
   - bal
   - medium velkleur
-  - persoon met bal
-  - 'persoon met bal: medium velkleur'
+  - persoon hop bal
+  - 'persoon hop bal: medium velkleur'
 ⛹🏾:
   - bal
   - medium-donker velkleur
-  - persoon met bal
-  - 'persoon met bal: medium-donker velkleur'
+  - persoon hop bal
+  - 'persoon hop bal: medium-donker velkleur'
 ⛹🏿:
   - bal
   - donker velkleur
-  - persoon met bal
-  - 'persoon met bal: donker velkleur'
+  - persoon hop bal
+  - 'persoon hop bal: donker velkleur'
 ⛹‍♂:
-  - man met bal
-  - skop
-  - sokker
+  - bal
+  - man
+  - man hop bal
 ⛹🏻‍♂:
+  - bal
   - ligte velkleur
-  - man met bal
-  - 'man met bal: ligte velkleur'
-  - skop
-  - sokker
+  - man
+  - man hop bal
+  - 'man hop bal: ligte velkleur'
 ⛹🏼‍♂:
-  - man met bal
-  - 'man met bal: medium-ligte velkleur'
+  - bal
+  - man
+  - man hop bal
+  - 'man hop bal: medium-ligte velkleur'
   - medium-ligte velkleur
-  - skop
-  - sokker
 ⛹🏽‍♂:
-  - man met bal
-  - 'man met bal: medium velkleur'
+  - bal
+  - man
+  - man hop bal
+  - 'man hop bal: medium velkleur'
   - medium velkleur
-  - skop
-  - sokker
 ⛹🏾‍♂:
-  - man met bal
-  - 'man met bal: medium-donker velkleur'
+  - bal
+  - man
+  - man hop bal
+  - 'man hop bal: medium-donker velkleur'
   - medium-donker velkleur
-  - skop
-  - sokker
 ⛹🏿‍♂:
+  - bal
   - donker velkleur
-  - man met bal
-  - 'man met bal: donker velkleur'
-  - skop
-  - sokker
+  - man
+  - man hop bal
+  - 'man hop bal: donker velkleur'
 ⛹‍♀:
-  - skop
-  - sokker
-  - vrou met bal
+  - bal
+  - vrou
+  - vrou hop bal
 ⛹🏻‍♀:
+  - bal
   - ligte velkleur
-  - skop
-  - sokker
-  - vrou met bal
-  - 'vrou met bal: ligte velkleur'
+  - vrou
+  - vrou hop bal
+  - 'vrou hop bal: ligte velkleur'
 ⛹🏼‍♀:
+  - bal
   - medium-ligte velkleur
-  - skop
-  - sokker
-  - vrou met bal
-  - 'vrou met bal: medium-ligte velkleur'
+  - vrou
+  - vrou hop bal
+  - 'vrou hop bal: medium-ligte velkleur'
 ⛹🏽‍♀:
+  - bal
   - medium velkleur
-  - skop
-  - sokker
-  - vrou met bal
-  - 'vrou met bal: medium velkleur'
+  - vrou
+  - vrou hop bal
+  - 'vrou hop bal: medium velkleur'
 ⛹🏾‍♀:
+  - bal
   - medium-donker velkleur
-  - skop
-  - sokker
-  - vrou met bal
-  - 'vrou met bal: medium-donker velkleur'
+  - vrou
+  - vrou hop bal
+  - 'vrou hop bal: medium-donker velkleur'
 ⛹🏿‍♀:
+  - bal
   - donker velkleur
-  - skop
-  - sokker
-  - vrou met bal
-  - 'vrou met bal: donker velkleur'
+  - vrou
+  - vrou hop bal
+  - 'vrou hop bal: donker velkleur'
 🏋️:
   - gewig
   - gewigopteller
@@ -8393,189 +11064,210 @@
   - 'vroulike gewigopteller: donker velkleur'
 🚴:
   - fiets
+  - fietsry
   - fietsryer
 🚴🏻:
   - fiets
+  - fietsry
   - fietsryer
   - 'fietsryer: ligte velkleur'
   - ligte velkleur
 🚴🏼:
   - fiets
+  - fietsry
   - fietsryer
   - 'fietsryer: medium-ligte velkleur'
   - medium-ligte velkleur
 🚴🏽:
   - fiets
+  - fietsry
   - fietsryer
   - 'fietsryer: medium velkleur'
   - medium velkleur
 🚴🏾:
   - fiets
+  - fietsry
   - fietsryer
   - 'fietsryer: medium-donker velkleur'
   - medium-donker velkleur
 🚴🏿:
   - donker velkleur
   - fiets
+  - fietsry
   - fietsryer
   - 'fietsryer: donker velkleur'
 🚴‍♂:
   - fiets
-  - fietser
   - fietsry
   - fietsryer
+  - man
   - manlike fietsryer
 🚴🏻‍♂:
   - fiets
-  - fietser
   - fietsry
   - fietsryer
   - ligte velkleur
+  - man
   - manlike fietsryer
   - 'manlike fietsryer: ligte velkleur'
 🚴🏼‍♂:
   - fiets
-  - fietser
   - fietsry
   - fietsryer
+  - man
   - manlike fietsryer
   - 'manlike fietsryer: medium-ligte velkleur'
   - medium-ligte velkleur
 🚴🏽‍♂:
   - fiets
-  - fietser
   - fietsry
   - fietsryer
+  - man
   - manlike fietsryer
   - 'manlike fietsryer: medium velkleur'
   - medium velkleur
 🚴🏾‍♂:
   - fiets
-  - fietser
   - fietsry
   - fietsryer
+  - man
   - manlike fietsryer
   - 'manlike fietsryer: medium-donker velkleur'
   - medium-donker velkleur
 🚴🏿‍♂:
   - donker velkleur
   - fiets
-  - fietser
   - fietsry
   - fietsryer
+  - man
   - manlike fietsryer
   - 'manlike fietsryer: donker velkleur'
 🚴‍♀:
   - fiets
-  - fietser
   - fietsry
   - fietsryer
+  - vrou
   - vroulike fietsryer
 🚴🏻‍♀:
   - fiets
-  - fietser
   - fietsry
   - fietsryer
   - ligte velkleur
+  - vrou
   - vroulike fietsryer
   - 'vroulike fietsryer: ligte velkleur'
 🚴🏼‍♀:
   - fiets
-  - fietser
   - fietsry
   - fietsryer
   - medium-ligte velkleur
+  - vrou
   - vroulike fietsryer
   - 'vroulike fietsryer: medium-ligte velkleur'
 🚴🏽‍♀:
   - fiets
-  - fietser
   - fietsry
   - fietsryer
   - medium velkleur
+  - vrou
   - vroulike fietsryer
   - 'vroulike fietsryer: medium velkleur'
 🚴🏾‍♀:
   - fiets
-  - fietser
   - fietsry
   - fietsryer
   - medium-donker velkleur
+  - vrou
   - vroulike fietsryer
   - 'vroulike fietsryer: medium-donker velkleur'
 🚴🏿‍♀:
   - donker velkleur
   - fiets
-  - fietser
   - fietsry
   - fietsryer
+  - vrou
   - vroulike fietsryer
   - 'vroulike fietsryer: donker velkleur'
 🚵:
   - berg
-  - bergietsryer
+  - bergfietsryer
   - fiets
-  - fietsryer
+  - fietsry
 🚵🏻:
   - berg
-  - bergietsryer
-  - 'bergietsryer: ligte velkleur'
+  - bergfietsryer
+  - 'bergfietsryer: ligte velkleur'
   - fiets
-  - fietsryer
+  - fietsry
   - ligte velkleur
 🚵🏼:
   - berg
-  - bergietsryer
-  - 'bergietsryer: medium-ligte velkleur'
+  - bergfietsryer
+  - 'bergfietsryer: medium-ligte velkleur'
   - fiets
-  - fietsryer
+  - fietsry
   - medium-ligte velkleur
 🚵🏽:
   - berg
-  - bergietsryer
-  - 'bergietsryer: medium velkleur'
+  - bergfietsryer
+  - 'bergfietsryer: medium velkleur'
   - fiets
-  - fietsryer
+  - fietsry
   - medium velkleur
 🚵🏾:
   - berg
-  - bergietsryer
-  - 'bergietsryer: medium-donker velkleur'
+  - bergfietsryer
+  - 'bergfietsryer: medium-donker velkleur'
   - fiets
-  - fietsryer
+  - fietsry
   - medium-donker velkleur
 🚵🏿:
   - berg
-  - bergietsryer
-  - 'bergietsryer: donker velkleur'
+  - bergfietsryer
+  - 'bergfietsryer: donker velkleur'
   - donker velkleur
   - fiets
-  - fietsryer
+  - fietsry
 🚵‍♂:
   - bergfiets
   - bergfietsry
+  - fietsry
+  - fietsryer
+  - man
   - manlike bergfietsryer
 🚵🏻‍♂:
   - bergfiets
   - bergfietsry
+  - fietsry
+  - fietsryer
   - ligte velkleur
+  - man
   - manlike bergfietsryer
   - 'manlike bergfietsryer: ligte velkleur'
 🚵🏼‍♂:
   - bergfiets
   - bergfietsry
+  - fietsry
+  - fietsryer
+  - man
   - manlike bergfietsryer
   - 'manlike bergfietsryer: medium-ligte velkleur'
   - medium-ligte velkleur
 🚵🏽‍♂:
   - bergfiets
   - bergfietsry
+  - fietsry
+  - fietsryer
+  - man
   - manlike bergfietsryer
   - 'manlike bergfietsryer: medium velkleur'
   - medium velkleur
 🚵🏾‍♂:
   - bergfiets
   - bergfietsry
+  - fietsry
+  - fietsryer
+  - man
   - manlike bergfietsryer
   - 'manlike bergfietsryer: medium-donker velkleur'
   - medium-donker velkleur
@@ -8583,143 +11275,176 @@
   - bergfiets
   - bergfietsry
   - donker velkleur
+  - fietsry
+  - fietsryer
+  - man
   - manlike bergfietsryer
   - 'manlike bergfietsryer: donker velkleur'
 🚵‍♀:
   - bergfiets
   - bergfietsry
+  - fietsry
+  - fietsryer
+  - vrou
   - vroulike bergfietsryer
 🚵🏻‍♀:
   - bergfiets
   - bergfietsry
+  - fietsry
+  - fietsryer
   - ligte velkleur
+  - vrou
   - vroulike bergfietsryer
   - 'vroulike bergfietsryer: ligte velkleur'
 🚵🏼‍♀:
   - bergfiets
   - bergfietsry
+  - fietsry
+  - fietsryer
   - medium-ligte velkleur
+  - vrou
   - vroulike bergfietsryer
   - 'vroulike bergfietsryer: medium-ligte velkleur'
 🚵🏽‍♀:
   - bergfiets
   - bergfietsry
+  - fietsry
+  - fietsryer
   - medium velkleur
+  - vrou
   - vroulike bergfietsryer
   - 'vroulike bergfietsryer: medium velkleur'
 🚵🏾‍♀:
   - bergfiets
   - bergfietsry
+  - fietsry
+  - fietsryer
   - medium-donker velkleur
+  - vrou
   - vroulike bergfietsryer
   - 'vroulike bergfietsryer: medium-donker velkleur'
 🚵🏿‍♀:
   - bergfiets
   - bergfietsry
   - donker velkleur
+  - fietsry
+  - fietsryer
+  - vrou
   - vroulike bergfietsryer
   - 'vroulike bergfietsryer: donker velkleur'
 🤸:
   - bollemakiesie
   - gimnastiek
+  - persoon wat ‘n wawiel doen
   - wawiel
 🤸🏻:
   - bollemakiesie
   - gimnastiek
   - ligte velkleur
+  - persoon wat ‘n wawiel doen
+  - 'persoon wat ‘n wawiel doen: ligte velkleur'
   - wawiel
-  - 'wawiel: ligte velkleur'
 🤸🏼:
   - bollemakiesie
   - gimnastiek
   - medium-ligte velkleur
+  - persoon wat ‘n wawiel doen
+  - 'persoon wat ‘n wawiel doen: medium-ligte velkleur'
   - wawiel
-  - 'wawiel: medium-ligte velkleur'
 🤸🏽:
   - bollemakiesie
   - gimnastiek
   - medium velkleur
+  - persoon wat ‘n wawiel doen
+  - 'persoon wat ‘n wawiel doen: medium velkleur'
   - wawiel
-  - 'wawiel: medium velkleur'
 🤸🏾:
   - bollemakiesie
   - gimnastiek
   - medium-donker velkleur
+  - persoon wat ‘n wawiel doen
+  - 'persoon wat ‘n wawiel doen: medium-donker velkleur'
   - wawiel
-  - 'wawiel: medium-donker velkleur'
 🤸🏿:
   - bollemakiesie
   - donker velkleur
   - gimnastiek
+  - persoon wat ‘n wawiel doen
+  - 'persoon wat ‘n wawiel doen: donker velkleur'
   - wawiel
-  - 'wawiel: donker velkleur'
 🤸‍♂:
   - bollemakiesie
-  - man wawiel
+  - man doen wawiel
   - wawiel
 🤸🏻‍♂:
   - bollemakiesie
   - ligte velkleur
-  - man wawiel
-  - 'man wawiel: ligte velkleur'
+  - man doen wawiel
+  - 'man doen wawiel: ligte velkleur'
   - wawiel
 🤸🏼‍♂:
   - bollemakiesie
-  - man wawiel
-  - 'man wawiel: medium-ligte velkleur'
+  - man doen wawiel
+  - 'man doen wawiel: medium-ligte velkleur'
   - medium-ligte velkleur
   - wawiel
 🤸🏽‍♂:
   - bollemakiesie
-  - man wawiel
-  - 'man wawiel: medium velkleur'
+  - man doen wawiel
+  - 'man doen wawiel: medium velkleur'
   - medium velkleur
   - wawiel
 🤸🏾‍♂:
   - bollemakiesie
-  - man wawiel
-  - 'man wawiel: medium-donker velkleur'
+  - man doen wawiel
+  - 'man doen wawiel: medium-donker velkleur'
   - medium-donker velkleur
   - wawiel
 🤸🏿‍♂:
   - bollemakiesie
   - donker velkleur
-  - man wawiel
-  - 'man wawiel: donker velkleur'
+  - man doen wawiel
+  - 'man doen wawiel: donker velkleur'
   - wawiel
 🤸‍♀:
   - bollemakiesie
-  - vrou wawiel
+  - vrou doen wawiel
+  - vvrou doen wawiel
   - wawiel
 🤸🏻‍♀:
   - bollemakiesie
   - ligte velkleur
-  - vrou wawiel
-  - 'vrou wawiel: ligte velkleur'
+  - vrou doen wawiel
+  - vvrou doen wawiel
+  - 'vvrou doen wawiel: ligte velkleur'
   - wawiel
 🤸🏼‍♀:
   - bollemakiesie
   - medium-ligte velkleur
-  - vrou wawiel
-  - 'vrou wawiel: medium-ligte velkleur'
+  - vrou doen wawiel
+  - vvrou doen wawiel
+  - 'vvrou doen wawiel: medium-ligte velkleur'
   - wawiel
 🤸🏽‍♀:
   - bollemakiesie
   - medium velkleur
-  - vrou wawiel
-  - 'vrou wawiel: medium velkleur'
+  - vrou doen wawiel
+  - vvrou doen wawiel
+  - 'vvrou doen wawiel: medium velkleur'
   - wawiel
 🤸🏾‍♀:
   - bollemakiesie
   - medium-donker velkleur
-  - vrou wawiel
-  - 'vrou wawiel: medium-donker velkleur'
+  - vrou doen wawiel
+  - vvrou doen wawiel
+  - 'vvrou doen wawiel: medium-donker velkleur'
   - wawiel
 🤸🏿‍♀:
   - bollemakiesie
   - donker velkleur
-  - vrou wawiel
-  - 'vrou wawiel: donker velkleur'
+  - vrou doen wawiel
+  - vvrou doen wawiel
+  - 'vvrou doen wawiel: donker velkleur'
   - wawiel
 🤼:
   - rofstoei
@@ -8823,33 +11548,39 @@
   - 'vroulike waterpolospeler: donker velkleur'
   - waterpolo
 🤾:
+  - bal
   - handbal
-  - sport
+  - persoon wat handbal speel
 🤾🏻:
+  - bal
   - handbal
-  - 'handbal: ligte velkleur'
   - ligte velkleur
-  - sport
+  - persoon wat handbal speel
+  - 'persoon wat handbal speel: ligte velkleur'
 🤾🏼:
+  - bal
   - handbal
-  - 'handbal: medium-ligte velkleur'
   - medium-ligte velkleur
-  - sport
+  - persoon wat handbal speel
+  - 'persoon wat handbal speel: medium-ligte velkleur'
 🤾🏽:
+  - bal
   - handbal
-  - 'handbal: medium velkleur'
   - medium velkleur
-  - sport
+  - persoon wat handbal speel
+  - 'persoon wat handbal speel: medium velkleur'
 🤾🏾:
+  - bal
   - handbal
-  - 'handbal: medium-donker velkleur'
   - medium-donker velkleur
-  - sport
+  - persoon wat handbal speel
+  - 'persoon wat handbal speel: medium-donker velkleur'
 🤾🏿:
+  - bal
   - donker velkleur
   - handbal
-  - 'handbal: donker velkleur'
-  - sport
+  - persoon wat handbal speel
+  - 'persoon wat handbal speel: donker velkleur'
 🤾‍♂:
   - handbal
   - manlike handbalspeler
@@ -8909,85 +11640,121 @@
 🤹:
   - balanseer
   - jongleer
+  - vaardigheid
+  - veelsydig
 🤹🏻:
   - balanseer
   - jongleer
   - 'jongleer: ligte velkleur'
   - ligte velkleur
+  - vaardigheid
+  - veelsydig
 🤹🏼:
   - balanseer
   - jongleer
   - 'jongleer: medium-ligte velkleur'
   - medium-ligte velkleur
+  - vaardigheid
+  - veelsydig
 🤹🏽:
   - balanseer
   - jongleer
   - 'jongleer: medium velkleur'
   - medium velkleur
+  - vaardigheid
+  - veelsydig
 🤹🏾:
   - balanseer
   - jongleer
   - 'jongleer: medium-donker velkleur'
   - medium-donker velkleur
+  - vaardigheid
+  - veelsydig
 🤹🏿:
   - balanseer
   - donker velkleur
   - jongleer
   - 'jongleer: donker velkleur'
+  - vaardigheid
+  - veelsydig
 🤹‍♂:
   - jongleer
+  - man
   - manlike jongleur
+  - veelsydig
 🤹🏻‍♂:
   - jongleer
   - ligte velkleur
+  - man
   - manlike jongleur
   - 'manlike jongleur: ligte velkleur'
+  - veelsydig
 🤹🏼‍♂:
   - jongleer
+  - man
   - manlike jongleur
   - 'manlike jongleur: medium-ligte velkleur'
   - medium-ligte velkleur
+  - veelsydig
 🤹🏽‍♂:
   - jongleer
+  - man
   - manlike jongleur
   - 'manlike jongleur: medium velkleur'
   - medium velkleur
+  - veelsydig
 🤹🏾‍♂:
   - jongleer
+  - man
   - manlike jongleur
   - 'manlike jongleur: medium-donker velkleur'
   - medium-donker velkleur
+  - veelsydig
 🤹🏿‍♂:
   - donker velkleur
   - jongleer
+  - man
   - manlike jongleur
   - 'manlike jongleur: donker velkleur'
+  - veelsydig
 🤹‍♀:
   - jongleer
+  - veelsydig
+  - vrou
   - vroulike jongleur
 🤹🏻‍♀:
   - jongleer
   - ligte velkleur
+  - veelsydig
+  - vrou
   - vroulike jongleur
   - 'vroulike jongleur: ligte velkleur'
 🤹🏼‍♀:
   - jongleer
   - medium-ligte velkleur
+  - veelsydig
+  - vrou
   - vroulike jongleur
   - 'vroulike jongleur: medium-ligte velkleur'
 🤹🏽‍♀:
   - jongleer
   - medium velkleur
+  - veelsydig
+  - vrou
   - vroulike jongleur
   - 'vroulike jongleur: medium velkleur'
 🤹🏾‍♀:
   - jongleer
   - medium-donker velkleur
+  - veelsydig
+  - vrou
   - vroulike jongleur
   - 'vroulike jongleur: medium-donker velkleur'
 🤹🏿‍♀:
   - donker velkleur
   - jongleer
+  - veelsydig
+  - vrou
   - vroulike jongleur
   - 'vroulike jongleur: donker velkleur'
 🧘:
@@ -9166,26 +11933,1014 @@
   - persoon in bed
   - 'persoon in bed: donker velkleur'
   - slaap
+🧑‍🤝‍🧑:
+  - hand
+  - hande vashou
+  - mense wat hande vashou
+  - paartjie
+  - vashou
+🧑🏻‍🤝‍🧑🏻:
+  - hand
+  - hande vashou
+  - ligte velkleur
+  - mense wat hande vashou
+  - 'mense wat hande vashou: ligte velkleur'
+  - paartjie
+  - vashou
+🧑🏻‍🤝‍🧑🏼:
+  - hand
+  - hande vashou
+  - ligte velkleur
+  - medium-ligte velkleur
+  - mense wat hande vashou
+  - 'mense wat hande vashou: ligte velkleur en medium-ligte velkleur'
+  - paartjie
+  - vashou
+🧑🏻‍🤝‍🧑🏽:
+  - hand
+  - hande vashou
+  - ligte velkleur
+  - medium velkleur
+  - mense wat hande vashou
+  - 'mense wat hande vashou: ligte velkleur en medium velkleur'
+  - paartjie
+  - vashou
+🧑🏻‍🤝‍🧑🏾:
+  - hand
+  - hande vashou
+  - ligte velkleur
+  - medium-donker velkleur
+  - mense wat hande vashou
+  - 'mense wat hande vashou: ligte velkleur en medium-donker velkleur'
+  - paartjie
+  - vashou
+🧑🏻‍🤝‍🧑🏿:
+  - donker velkleur
+  - hand
+  - hande vashou
+  - ligte velkleur
+  - mense wat hande vashou
+  - 'mense wat hande vashou: ligte velkleur en donker velkleur'
+  - paartjie
+  - vashou
+🧑🏼‍🤝‍🧑🏻:
+  - hand
+  - hande vashou
+  - ligte velkleur
+  - medium-ligte velkleur
+  - mense wat hande vashou
+  - 'mense wat hande vashou: medium-ligte velkleur en ligte velkleur'
+  - paartjie
+  - vashou
+🧑🏼‍🤝‍🧑🏼:
+  - hand
+  - hande vashou
+  - medium-ligte velkleur
+  - mense wat hande vashou
+  - 'mense wat hande vashou: medium-ligte velkleur'
+  - paartjie
+  - vashou
+🧑🏼‍🤝‍🧑🏽:
+  - hand
+  - hande vashou
+  - medium velkleur
+  - medium-ligte velkleur
+  - mense wat hande vashou
+  - 'mense wat hande vashou: medium-ligte velkleur en medium velkleur'
+  - paartjie
+  - vashou
+🧑🏼‍🤝‍🧑🏾:
+  - hand
+  - hande vashou
+  - medium-donker velkleur
+  - medium-ligte velkleur
+  - mense wat hande vashou
+  - 'mense wat hande vashou: medium-ligte velkleur en medium-donker velkleur'
+  - paartjie
+  - vashou
+🧑🏼‍🤝‍🧑🏿:
+  - donker velkleur
+  - hand
+  - hande vashou
+  - medium-ligte velkleur
+  - mense wat hande vashou
+  - 'mense wat hande vashou: medium-ligte velkleur en donker velkleur'
+  - paartjie
+  - vashou
+🧑🏽‍🤝‍🧑🏻:
+  - hand
+  - hande vashou
+  - ligte velkleur
+  - medium velkleur
+  - mense wat hande vashou
+  - 'mense wat hande vashou: medium velkleur en ligte velkleur'
+  - paartjie
+  - vashou
+🧑🏽‍🤝‍🧑🏼:
+  - hand
+  - hande vashou
+  - medium velkleur
+  - medium-ligte velkleur
+  - mense wat hande vashou
+  - 'mense wat hande vashou: medium velkleur en medium-ligte velkleur'
+  - paartjie
+  - vashou
+🧑🏽‍🤝‍🧑🏽:
+  - hand
+  - hande vashou
+  - medium velkleur
+  - mense wat hande vashou
+  - 'mense wat hande vashou: medium velkleur'
+  - paartjie
+  - vashou
+🧑🏽‍🤝‍🧑🏾:
+  - hand
+  - hande vashou
+  - medium velkleur
+  - medium-donker velkleur
+  - mense wat hande vashou
+  - 'mense wat hande vashou: medium velkleur en medium-donker velkleur'
+  - paartjie
+  - vashou
+🧑🏽‍🤝‍🧑🏿:
+  - donker velkleur
+  - hand
+  - hande vashou
+  - medium velkleur
+  - mense wat hande vashou
+  - 'mense wat hande vashou: medium velkleur en donker velkleur'
+  - paartjie
+  - vashou
+🧑🏾‍🤝‍🧑🏻:
+  - hand
+  - hande vashou
+  - ligte velkleur
+  - medium-donker velkleur
+  - mense wat hande vashou
+  - 'mense wat hande vashou: medium-donker velkleur en ligte velkleur'
+  - paartjie
+  - vashou
+🧑🏾‍🤝‍🧑🏼:
+  - hand
+  - hande vashou
+  - medium-donker velkleur
+  - medium-ligte velkleur
+  - mense wat hande vashou
+  - 'mense wat hande vashou: medium-donker velkleur en medium-ligte velkleur'
+  - paartjie
+  - vashou
+🧑🏾‍🤝‍🧑🏽:
+  - hand
+  - hande vashou
+  - medium velkleur
+  - medium-donker velkleur
+  - mense wat hande vashou
+  - 'mense wat hande vashou: medium-donker velkleur en medium velkleur'
+  - paartjie
+  - vashou
+🧑🏾‍🤝‍🧑🏾:
+  - hand
+  - hande vashou
+  - medium-donker velkleur
+  - mense wat hande vashou
+  - 'mense wat hande vashou: medium-donker velkleur'
+  - paartjie
+  - vashou
+🧑🏾‍🤝‍🧑🏿:
+  - donker velkleur
+  - hand
+  - hande vashou
+  - medium-donker velkleur
+  - mense wat hande vashou
+  - 'mense wat hande vashou: medium-donker velkleur en donker velkleur'
+  - paartjie
+  - vashou
+🧑🏿‍🤝‍🧑🏻:
+  - donker velkleur
+  - hand
+  - hande vashou
+  - ligte velkleur
+  - mense wat hande vashou
+  - 'mense wat hande vashou: donker velkleur en ligte velkleur'
+  - paartjie
+  - vashou
+🧑🏿‍🤝‍🧑🏼:
+  - donker velkleur
+  - hand
+  - hande vashou
+  - medium-ligte velkleur
+  - mense wat hande vashou
+  - 'mense wat hande vashou: donker velkleur en medium-ligte velkleur'
+  - paartjie
+  - vashou
+🧑🏿‍🤝‍🧑🏽:
+  - donker velkleur
+  - hand
+  - hande vashou
+  - medium velkleur
+  - mense wat hande vashou
+  - 'mense wat hande vashou: donker velkleur en medium velkleur'
+  - paartjie
+  - vashou
+🧑🏿‍🤝‍🧑🏾:
+  - donker velkleur
+  - hand
+  - hande vashou
+  - medium-donker velkleur
+  - mense wat hande vashou
+  - 'mense wat hande vashou: donker velkleur en medium-donker velkleur'
+  - paartjie
+  - vashou
+🧑🏿‍🤝‍🧑🏿:
+  - donker velkleur
+  - hand
+  - hande vashou
+  - mense wat hande vashou
+  - 'mense wat hande vashou: donker velkleur'
+  - paartjie
+  - vashou
 👭:
   - hand
-  - hou
+  - hande vashou
   - paartjie
   - twee vroue wat hande vashou
-  - vrou
+  - vroue
+👭🏻:
+  - hand
+  - hande vashou
+  - ligte velkleur
+  - paartjie
+  - twee vroue wat hande vashou
+  - 'twee vroue wat hande vashou: ligte velkleur'
+  - vroue
+👩🏻‍🤝‍👩🏼:
+  - hand
+  - hande vashou
+  - ligte velkleur
+  - medium-ligte velkleur
+  - paartjie
+  - twee vroue wat hande vashou
+  - 'twee vroue wat hande vashou: ligte velkleur en medium-ligte velkleur'
+  - vroue
+👩🏻‍🤝‍👩🏽:
+  - hand
+  - hande vashou
+  - ligte velkleur
+  - medium velkleur
+  - paartjie
+  - twee vroue wat hande vashou
+  - 'twee vroue wat hande vashou: ligte velkleur en medium velkleur'
+  - vroue
+👩🏻‍🤝‍👩🏾:
+  - hand
+  - hande vashou
+  - ligte velkleur
+  - medium-donker velkleur
+  - paartjie
+  - twee vroue wat hande vashou
+  - 'twee vroue wat hande vashou: ligte velkleur en medium-donker velkleur'
+  - vroue
+👩🏻‍🤝‍👩🏿:
+  - donker velkleur
+  - hand
+  - hande vashou
+  - ligte velkleur
+  - paartjie
+  - twee vroue wat hande vashou
+  - 'twee vroue wat hande vashou: ligte velkleur en donker velkleur'
+  - vroue
+👩🏼‍🤝‍👩🏻:
+  - hand
+  - hande vashou
+  - ligte velkleur
+  - medium-ligte velkleur
+  - paartjie
+  - twee vroue wat hande vashou
+  - 'twee vroue wat hande vashou: medium-ligte velkleur en ligte velkleur'
+  - vroue
+👭🏼:
+  - hand
+  - hande vashou
+  - medium-ligte velkleur
+  - paartjie
+  - twee vroue wat hande vashou
+  - 'twee vroue wat hande vashou: medium-ligte velkleur'
+  - vroue
+👩🏼‍🤝‍👩🏽:
+  - hand
+  - hande vashou
+  - medium velkleur
+  - medium-ligte velkleur
+  - paartjie
+  - twee vroue wat hande vashou
+  - 'twee vroue wat hande vashou: medium-ligte velkleur en medium velkleur'
+  - vroue
+👩🏼‍🤝‍👩🏾:
+  - hand
+  - hande vashou
+  - medium-donker velkleur
+  - medium-ligte velkleur
+  - paartjie
+  - twee vroue wat hande vashou
+  - 'twee vroue wat hande vashou: medium-ligte velkleur en medium-donker velkleur'
+  - vroue
+👩🏼‍🤝‍👩🏿:
+  - donker velkleur
+  - hand
+  - hande vashou
+  - medium-ligte velkleur
+  - paartjie
+  - twee vroue wat hande vashou
+  - 'twee vroue wat hande vashou: medium-ligte velkleur en donker velkleur'
+  - vroue
+👩🏽‍🤝‍👩🏻:
+  - hand
+  - hande vashou
+  - ligte velkleur
+  - medium velkleur
+  - paartjie
+  - twee vroue wat hande vashou
+  - 'twee vroue wat hande vashou: medium velkleur en ligte velkleur'
+  - vroue
+👩🏽‍🤝‍👩🏼:
+  - hand
+  - hande vashou
+  - medium velkleur
+  - medium-ligte velkleur
+  - paartjie
+  - twee vroue wat hande vashou
+  - 'twee vroue wat hande vashou: medium velkleur en medium-ligte velkleur'
+  - vroue
+👭🏽:
+  - hand
+  - hande vashou
+  - medium velkleur
+  - paartjie
+  - twee vroue wat hande vashou
+  - 'twee vroue wat hande vashou: medium velkleur'
+  - vroue
+👩🏽‍🤝‍👩🏾:
+  - hand
+  - hande vashou
+  - medium velkleur
+  - medium-donker velkleur
+  - paartjie
+  - twee vroue wat hande vashou
+  - 'twee vroue wat hande vashou: medium velkleur en medium-donker velkleur'
+  - vroue
+👩🏽‍🤝‍👩🏿:
+  - donker velkleur
+  - hand
+  - hande vashou
+  - medium velkleur
+  - paartjie
+  - twee vroue wat hande vashou
+  - 'twee vroue wat hande vashou: medium velkleur en donker velkleur'
+  - vroue
+👩🏾‍🤝‍👩🏻:
+  - hand
+  - hande vashou
+  - ligte velkleur
+  - medium-donker velkleur
+  - paartjie
+  - twee vroue wat hande vashou
+  - 'twee vroue wat hande vashou: medium-donker velkleur en ligte velkleur'
+  - vroue
+👩🏾‍🤝‍👩🏼:
+  - hand
+  - hande vashou
+  - medium-donker velkleur
+  - medium-ligte velkleur
+  - paartjie
+  - twee vroue wat hande vashou
+  - 'twee vroue wat hande vashou: medium-donker velkleur en medium-ligte velkleur'
+  - vroue
+👩🏾‍🤝‍👩🏽:
+  - hand
+  - hande vashou
+  - medium velkleur
+  - medium-donker velkleur
+  - paartjie
+  - twee vroue wat hande vashou
+  - 'twee vroue wat hande vashou: medium-donker velkleur en medium velkleur'
+  - vroue
+👭🏾:
+  - hand
+  - hande vashou
+  - medium-donker velkleur
+  - paartjie
+  - twee vroue wat hande vashou
+  - 'twee vroue wat hande vashou: medium-donker velkleur'
+  - vroue
+👩🏾‍🤝‍👩🏿:
+  - donker velkleur
+  - hand
+  - hande vashou
+  - medium-donker velkleur
+  - paartjie
+  - twee vroue wat hande vashou
+  - 'twee vroue wat hande vashou: medium-donker velkleur en donker velkleur'
+  - vroue
+👩🏿‍🤝‍👩🏻:
+  - donker velkleur
+  - hand
+  - hande vashou
+  - ligte velkleur
+  - paartjie
+  - twee vroue wat hande vashou
+  - 'twee vroue wat hande vashou: donker velkleur en ligte velkleur'
+  - vroue
+👩🏿‍🤝‍👩🏼:
+  - donker velkleur
+  - hand
+  - hande vashou
+  - medium-ligte velkleur
+  - paartjie
+  - twee vroue wat hande vashou
+  - 'twee vroue wat hande vashou: donker velkleur en medium-ligte velkleur'
+  - vroue
+👩🏿‍🤝‍👩🏽:
+  - donker velkleur
+  - hand
+  - hande vashou
+  - medium velkleur
+  - paartjie
+  - twee vroue wat hande vashou
+  - 'twee vroue wat hande vashou: donker velkleur en medium velkleur'
+  - vroue
+👩🏿‍🤝‍👩🏾:
+  - donker velkleur
+  - hand
+  - hande vashou
+  - medium-donker velkleur
+  - paartjie
+  - twee vroue wat hande vashou
+  - 'twee vroue wat hande vashou: donker velkleur en medium-donker velkleur'
+  - vroue
+👭🏿:
+  - donker velkleur
+  - hand
+  - hande vashou
+  - paartjie
+  - twee vroue wat hande vashou
+  - 'twee vroue wat hande vashou: donker velkleur'
+  - vroue
 👫:
   - hand
+  - hande vashou
   - hou
   - man
   - man en vrou wat hande vashou
   - paartjie
   - vrou
-👬:
+👫🏻:
   - hand
+  - hande vashou
+  - hou
+  - ligte velkleur
+  - man
+  - man en vrou wat hande vashou
+  - 'man en vrou wat hande vashou: ligte velkleur'
+  - paartjie
+  - vrou
+👩🏻‍🤝‍👨🏼:
+  - hand
+  - hande vashou
+  - hou
+  - ligte velkleur
+  - man
+  - man en vrou wat hande vashou
+  - 'man en vrou wat hande vashou: ligte velkleur en medium-ligte velkleur'
+  - medium-ligte velkleur
+  - paartjie
+  - vrou
+👩🏻‍🤝‍👨🏽:
+  - hand
+  - hande vashou
+  - hou
+  - ligte velkleur
+  - man
+  - man en vrou wat hande vashou
+  - 'man en vrou wat hande vashou: ligte velkleur en medium velkleur'
+  - medium velkleur
+  - paartjie
+  - vrou
+👩🏻‍🤝‍👨🏾:
+  - hand
+  - hande vashou
+  - hou
+  - ligte velkleur
+  - man
+  - man en vrou wat hande vashou
+  - 'man en vrou wat hande vashou: ligte velkleur en medium-donker velkleur'
+  - medium-donker velkleur
+  - paartjie
+  - vrou
+👩🏻‍🤝‍👨🏿:
+  - donker velkleur
+  - hand
+  - hande vashou
+  - hou
+  - ligte velkleur
+  - man
+  - man en vrou wat hande vashou
+  - 'man en vrou wat hande vashou: ligte velkleur en donker velkleur'
+  - paartjie
+  - vrou
+👩🏼‍🤝‍👨🏻:
+  - hand
+  - hande vashou
+  - hou
+  - ligte velkleur
+  - man
+  - man en vrou wat hande vashou
+  - 'man en vrou wat hande vashou: medium-ligte velkleur en ligte velkleur'
+  - medium-ligte velkleur
+  - paartjie
+  - vrou
+👫🏼:
+  - hand
+  - hande vashou
   - hou
   - man
+  - man en vrou wat hande vashou
+  - 'man en vrou wat hande vashou: medium-ligte velkleur'
+  - medium-ligte velkleur
   - paartjie
-  - twee
+  - vrou
+👩🏼‍🤝‍👨🏽:
+  - hand
+  - hande vashou
+  - hou
+  - man
+  - man en vrou wat hande vashou
+  - 'man en vrou wat hande vashou: medium-ligte velkleur en medium velkleur'
+  - medium velkleur
+  - medium-ligte velkleur
+  - paartjie
+  - vrou
+👩🏼‍🤝‍👨🏾:
+  - hand
+  - hande vashou
+  - hou
+  - man
+  - man en vrou wat hande vashou
+  - 'man en vrou wat hande vashou: medium-ligte velkleur en medium-donker velkleur'
+  - medium-donker velkleur
+  - medium-ligte velkleur
+  - paartjie
+  - vrou
+👩🏼‍🤝‍👨🏿:
+  - donker velkleur
+  - hand
+  - hande vashou
+  - hou
+  - man
+  - man en vrou wat hande vashou
+  - 'man en vrou wat hande vashou: medium-ligte velkleur en donker velkleur'
+  - medium-ligte velkleur
+  - paartjie
+  - vrou
+👩🏽‍🤝‍👨🏻:
+  - hand
+  - hande vashou
+  - hou
+  - ligte velkleur
+  - man
+  - man en vrou wat hande vashou
+  - 'man en vrou wat hande vashou: medium velkleur en ligte velkleur'
+  - medium velkleur
+  - paartjie
+  - vrou
+👩🏽‍🤝‍👨🏼:
+  - hand
+  - hande vashou
+  - hou
+  - man
+  - man en vrou wat hande vashou
+  - 'man en vrou wat hande vashou: medium velkleur en medium-ligte velkleur'
+  - medium velkleur
+  - medium-ligte velkleur
+  - paartjie
+  - vrou
+👫🏽:
+  - hand
+  - hande vashou
+  - hou
+  - man
+  - man en vrou wat hande vashou
+  - 'man en vrou wat hande vashou: medium velkleur'
+  - medium velkleur
+  - paartjie
+  - vrou
+👩🏽‍🤝‍👨🏾:
+  - hand
+  - hande vashou
+  - hou
+  - man
+  - man en vrou wat hande vashou
+  - 'man en vrou wat hande vashou: medium velkleur en medium-donker velkleur'
+  - medium velkleur
+  - medium-donker velkleur
+  - paartjie
+  - vrou
+👩🏽‍🤝‍👨🏿:
+  - donker velkleur
+  - hand
+  - hande vashou
+  - hou
+  - man
+  - man en vrou wat hande vashou
+  - 'man en vrou wat hande vashou: medium velkleur en donker velkleur'
+  - medium velkleur
+  - paartjie
+  - vrou
+👩🏾‍🤝‍👨🏻:
+  - hand
+  - hande vashou
+  - hou
+  - ligte velkleur
+  - man
+  - man en vrou wat hande vashou
+  - 'man en vrou wat hande vashou: medium-donker velkleur en ligte velkleur'
+  - medium-donker velkleur
+  - paartjie
+  - vrou
+👩🏾‍🤝‍👨🏼:
+  - hand
+  - hande vashou
+  - hou
+  - man
+  - man en vrou wat hande vashou
+  - 'man en vrou wat hande vashou: medium-donker velkleur en medium-ligte velkleur'
+  - medium-donker velkleur
+  - medium-ligte velkleur
+  - paartjie
+  - vrou
+👩🏾‍🤝‍👨🏽:
+  - hand
+  - hande vashou
+  - hou
+  - man
+  - man en vrou wat hande vashou
+  - 'man en vrou wat hande vashou: medium-donker velkleur en medium velkleur'
+  - medium velkleur
+  - medium-donker velkleur
+  - paartjie
+  - vrou
+👫🏾:
+  - hand
+  - hande vashou
+  - hou
+  - man
+  - man en vrou wat hande vashou
+  - 'man en vrou wat hande vashou: medium-donker velkleur'
+  - medium-donker velkleur
+  - paartjie
+  - vrou
+👩🏾‍🤝‍👨🏿:
+  - donker velkleur
+  - hand
+  - hande vashou
+  - hou
+  - man
+  - man en vrou wat hande vashou
+  - 'man en vrou wat hande vashou: medium-donker velkleur en donker velkleur'
+  - medium-donker velkleur
+  - paartjie
+  - vrou
+👩🏿‍🤝‍👨🏻:
+  - donker velkleur
+  - hand
+  - hande vashou
+  - hou
+  - ligte velkleur
+  - man
+  - man en vrou wat hande vashou
+  - 'man en vrou wat hande vashou: donker velkleur en ligte velkleur'
+  - paartjie
+  - vrou
+👩🏿‍🤝‍👨🏼:
+  - donker velkleur
+  - hand
+  - hande vashou
+  - hou
+  - man
+  - man en vrou wat hande vashou
+  - 'man en vrou wat hande vashou: donker velkleur en medium-ligte velkleur'
+  - medium-ligte velkleur
+  - paartjie
+  - vrou
+👩🏿‍🤝‍👨🏽:
+  - donker velkleur
+  - hand
+  - hande vashou
+  - hou
+  - man
+  - man en vrou wat hande vashou
+  - 'man en vrou wat hande vashou: donker velkleur en medium velkleur'
+  - medium velkleur
+  - paartjie
+  - vrou
+👩🏿‍🤝‍👨🏾:
+  - donker velkleur
+  - hand
+  - hande vashou
+  - hou
+  - man
+  - man en vrou wat hande vashou
+  - 'man en vrou wat hande vashou: donker velkleur en medium-donker velkleur'
+  - medium-donker velkleur
+  - paartjie
+  - vrou
+👫🏿:
+  - donker velkleur
+  - hand
+  - hande vashou
+  - hou
+  - man
+  - man en vrou wat hande vashou
+  - 'man en vrou wat hande vashou: donker velkleur'
+  - paartjie
+  - vrou
+👬:
+  - Tweeling
+  - hande vashou
+  - man
+  - mans
+  - paartjie
+  - sodiak
   - twee mans wat hande vashou
+👬🏻:
+  - Tweeling
+  - hande vashou
+  - ligte velkleur
+  - man
+  - mans
+  - paartjie
+  - sodiak
+  - twee mans wat hande vashou
+  - 'twee mans wat hande vashou: ligte velkleur'
+👨🏻‍🤝‍👨🏼:
+  - Tweeling
+  - hande vashou
+  - ligte velkleur
+  - man
+  - mans
+  - medium-ligte velkleur
+  - paartjie
+  - sodiak
+  - twee mans wat hande vashou
+  - 'twee mans wat hande vashou: ligte velkleur en medium-ligte velkleur'
+👨🏻‍🤝‍👨🏽:
+  - Tweeling
+  - hande vashou
+  - ligte velkleur
+  - man
+  - mans
+  - medium velkleur
+  - paartjie
+  - sodiak
+  - twee mans wat hande vashou
+  - 'twee mans wat hande vashou: ligte velkleur en medium velkleur'
+👨🏻‍🤝‍👨🏾:
+  - Tweeling
+  - hande vashou
+  - ligte velkleur
+  - man
+  - mans
+  - medium-donker velkleur
+  - paartjie
+  - sodiak
+  - twee mans wat hande vashou
+  - 'twee mans wat hande vashou: ligte velkleur en medium-donker velkleur'
+👨🏻‍🤝‍👨🏿:
+  - Tweeling
+  - donker velkleur
+  - hande vashou
+  - ligte velkleur
+  - man
+  - mans
+  - paartjie
+  - sodiak
+  - twee mans wat hande vashou
+  - 'twee mans wat hande vashou: ligte velkleur en donker velkleur'
+👨🏼‍🤝‍👨🏻:
+  - Tweeling
+  - hande vashou
+  - ligte velkleur
+  - man
+  - mans
+  - medium-ligte velkleur
+  - paartjie
+  - sodiak
+  - twee mans wat hande vashou
+  - 'twee mans wat hande vashou: medium-ligte velkleur en ligte velkleur'
+👬🏼:
+  - Tweeling
+  - hande vashou
+  - man
+  - mans
+  - medium-ligte velkleur
+  - paartjie
+  - sodiak
+  - twee mans wat hande vashou
+  - 'twee mans wat hande vashou: medium-ligte velkleur'
+👨🏼‍🤝‍👨🏽:
+  - Tweeling
+  - hande vashou
+  - man
+  - mans
+  - medium velkleur
+  - medium-ligte velkleur
+  - paartjie
+  - sodiak
+  - twee mans wat hande vashou
+  - 'twee mans wat hande vashou: medium-ligte velkleur en medium velkleur'
+👨🏼‍🤝‍👨🏾:
+  - Tweeling
+  - hande vashou
+  - man
+  - mans
+  - medium-donker velkleur
+  - medium-ligte velkleur
+  - paartjie
+  - sodiak
+  - twee mans wat hande vashou
+  - 'twee mans wat hande vashou: medium-ligte velkleur en medium-donker velkleur'
+👨🏼‍🤝‍👨🏿:
+  - Tweeling
+  - donker velkleur
+  - hande vashou
+  - man
+  - mans
+  - medium-ligte velkleur
+  - paartjie
+  - sodiak
+  - twee mans wat hande vashou
+  - 'twee mans wat hande vashou: medium-ligte velkleur en donker velkleur'
+👨🏽‍🤝‍👨🏻:
+  - Tweeling
+  - hande vashou
+  - ligte velkleur
+  - man
+  - mans
+  - medium velkleur
+  - paartjie
+  - sodiak
+  - twee mans wat hande vashou
+  - 'twee mans wat hande vashou: medium velkleur en ligte velkleur'
+👨🏽‍🤝‍👨🏼:
+  - Tweeling
+  - hande vashou
+  - man
+  - mans
+  - medium velkleur
+  - medium-ligte velkleur
+  - paartjie
+  - sodiak
+  - twee mans wat hande vashou
+  - 'twee mans wat hande vashou: medium velkleur en medium-ligte velkleur'
+👬🏽:
+  - Tweeling
+  - hande vashou
+  - man
+  - mans
+  - medium velkleur
+  - paartjie
+  - sodiak
+  - twee mans wat hande vashou
+  - 'twee mans wat hande vashou: medium velkleur'
+👨🏽‍🤝‍👨🏾:
+  - Tweeling
+  - hande vashou
+  - man
+  - mans
+  - medium velkleur
+  - medium-donker velkleur
+  - paartjie
+  - sodiak
+  - twee mans wat hande vashou
+  - 'twee mans wat hande vashou: medium velkleur en medium-donker velkleur'
+👨🏽‍🤝‍👨🏿:
+  - Tweeling
+  - donker velkleur
+  - hande vashou
+  - man
+  - mans
+  - medium velkleur
+  - paartjie
+  - sodiak
+  - twee mans wat hande vashou
+  - 'twee mans wat hande vashou: medium velkleur en donker velkleur'
+👨🏾‍🤝‍👨🏻:
+  - Tweeling
+  - hande vashou
+  - ligte velkleur
+  - man
+  - mans
+  - medium-donker velkleur
+  - paartjie
+  - sodiak
+  - twee mans wat hande vashou
+  - 'twee mans wat hande vashou: medium-donker velkleur en ligte velkleur'
+👨🏾‍🤝‍👨🏼:
+  - Tweeling
+  - hande vashou
+  - man
+  - mans
+  - medium-donker velkleur
+  - medium-ligte velkleur
+  - paartjie
+  - sodiak
+  - twee mans wat hande vashou
+  - 'twee mans wat hande vashou: medium-donker velkleur en medium-ligte velkleur'
+👨🏾‍🤝‍👨🏽:
+  - Tweeling
+  - hande vashou
+  - man
+  - mans
+  - medium velkleur
+  - medium-donker velkleur
+  - paartjie
+  - sodiak
+  - twee mans wat hande vashou
+  - 'twee mans wat hande vashou: medium-donker velkleur en medium velkleur'
+👬🏾:
+  - Tweeling
+  - hande vashou
+  - man
+  - mans
+  - medium-donker velkleur
+  - paartjie
+  - sodiak
+  - twee mans wat hande vashou
+  - 'twee mans wat hande vashou: medium-donker velkleur'
+👨🏾‍🤝‍👨🏿:
+  - Tweeling
+  - donker velkleur
+  - hande vashou
+  - man
+  - mans
+  - medium-donker velkleur
+  - paartjie
+  - sodiak
+  - twee mans wat hande vashou
+  - 'twee mans wat hande vashou: medium-donker velkleur en donker velkleur'
+👨🏿‍🤝‍👨🏻:
+  - Tweeling
+  - donker velkleur
+  - hande vashou
+  - ligte velkleur
+  - man
+  - mans
+  - paartjie
+  - sodiak
+  - twee mans wat hande vashou
+  - 'twee mans wat hande vashou: donker velkleur en ligte velkleur'
+👨🏿‍🤝‍👨🏼:
+  - Tweeling
+  - donker velkleur
+  - hande vashou
+  - man
+  - mans
+  - medium-ligte velkleur
+  - paartjie
+  - sodiak
+  - twee mans wat hande vashou
+  - 'twee mans wat hande vashou: donker velkleur en medium-ligte velkleur'
+👨🏿‍🤝‍👨🏽:
+  - Tweeling
+  - donker velkleur
+  - hande vashou
+  - man
+  - mans
+  - medium velkleur
+  - paartjie
+  - sodiak
+  - twee mans wat hande vashou
+  - 'twee mans wat hande vashou: donker velkleur en medium velkleur'
+👨🏿‍🤝‍👨🏾:
+  - Tweeling
+  - donker velkleur
+  - hande vashou
+  - man
+  - mans
+  - medium-donker velkleur
+  - paartjie
+  - sodiak
+  - twee mans wat hande vashou
+  - 'twee mans wat hande vashou: donker velkleur en medium-donker velkleur'
+👬🏿:
+  - Tweeling
+  - donker velkleur
+  - hande vashou
+  - man
+  - mans
+  - paartjie
+  - sodiak
+  - twee mans wat hande vashou
+  - 'twee mans wat hande vashou: donker velkleur'
 💏:
   - paartjie
   - romanse
@@ -9469,6 +13224,13 @@
   - borssilhoeëtte
   - profiele
   - silhoeëtte
+🫂:
+  - dankie
+  - druk
+  - drukkie
+  - hallo
+  - mense wat mekaar druk
+  - totsiens
 👣:
   - klere
   - liggaam
@@ -9507,6 +13269,9 @@
   - dier
   - gesig
   - gorilla
+🦧:
+  - aap
+  - oerangoetang
 🐶:
   - gesig
   - hond
@@ -9515,8 +13280,18 @@
 🐕️:
   - hond
   - troeteldier
+🦮:
+  - blind
+  - gids
+  - gidshond
+  - toeganklikheid
+🐕‍🦺:
+  - diens
+  - dienshond
+  - hond
+  - hulp
+  - toeganklikheid
 🐩:
-  - gesig
   - hond
   - poedel
   - troeteldier
@@ -9541,6 +13316,11 @@
 🐈️:
   - kat
   - troeteldier
+🐈‍⬛:
+  - kat
+  - ongelukkig
+  - swart
+  - swart kat
 🦁:
   - diereriem
   - gesig
@@ -9575,6 +13355,12 @@
   - dier
   - gesig
   - wildsbok
+🦬:
+  - Amerikaanse buffel
+  - bison
+  - buffel
+  - oeros
+  - trop
 🐮:
   - bees
   - gesig
@@ -9615,8 +13401,8 @@
   - skaap
 🐑:
   - ooi
-  - ram
   - skaap
+  - vroulik
 🐐:
   - boerbok
   - capricorn
@@ -9640,9 +13426,13 @@
   - kolle
 🐘:
   - olifant
+🦣:
+  - groot
+  - mammoet
+  - tande
+  - uitgestorwe
+  - wollerig
 🦏:
-  - dier
-  - gesig
   - renoster
 🦛:
   - seekoei
@@ -9672,6 +13462,10 @@
   - troeteldier
 🐿️:
   - grondeekhoring
+🦫:
+  - bewer
+  - dam
+  - opdam
 🦔:
   - krimpvarkie
   - stekelrig
@@ -9683,6 +13477,11 @@
   - beer
   - beergesig
   - gesig
+🐻‍❄:
+  - arkties
+  - beer
+  - wit
+  - ysbeer
 🐨:
   - beer
   - koala
@@ -9690,6 +13489,17 @@
   - gesig
   - panda
   - pandagesig
+🦥:
+  - lui
+  - luidier
+  - stadig
+🦦:
+  - otter
+  - speel
+  - visvang
+🦨:
+  - muishond
+  - stink
 🦘:
   - Australië
   - buideldier
@@ -9706,27 +13516,34 @@
   - voete
 🦃:
   - kalkoen
+  - voël
 🐔:
   - hoender
+  - voël
 🐓:
   - haan
+  - voël
 🐣:
   - baba
   - kuiken
   - kuiken wat uitbroei
   - uitbroei
+  - voël
 🐤:
   - baba
-  - gesig
+  - babakuiken
   - kuiken
-  - kuikengesig
+  - voël
 🐥:
   - baba
   - kuiken
+  - kuiken wat vorentoe kyk
+  - voël
 🐦️:
-  - voëltjie
+  - voël
 🐧:
   - pikkewyn
+  - voël
 🕊️:
   - duif
   - vlieg
@@ -9748,22 +13565,35 @@
   - uil
   - voël
   - wys
+🦤:
+  - Mauritius
+  - dodo
+  - groot
+  - uitgestorwe
+🪶:
+  - lig
+  - veer
+  - vere
+  - vlug
+  - voël
+🦩:
+  - flambojant
+  - flamink
+  - tropies
 🦚:
   - pou
-  - pouwyfie
-  - spoggerig
+  - pouhen
+  - pronkerig
   - trots
   - voël
 🦜:
   - papegaai
-  - pollie
   - praat
   - seerower
   - voël
 🐸:
   - gesig
   - padda
-  - paddagesig
 🐊:
   - krokodil
 🐢:
@@ -9802,6 +13632,9 @@
 🐬:
   - dolfyn
   - vin
+🦭:
+  - rob
+  - seeleeu
 🐟️:
   - diereriem
   - pisces
@@ -9824,7 +13657,6 @@
   - spiraalskulp
 🐌:
   - slak
-  - stadig
 🦋:
   - insek
   - mooi
@@ -9840,22 +13672,30 @@
   - by
   - heuningby
   - insek
+🪲:
+  - gogga
+  - insek
+  - kewer
 🐞:
   - besie
   - insek
   - kewer
-  - skilpadbesie
-  - skilpadjie
+  - liewenheersbesie
 🦗:
   - kriek
   - springkaan
+🪳:
+  - gogga
+  - insek
+  - kakkerlak
+  - kokkerot
 🕷️:
   - gogga
   - insek
   - spinnekop
 🕸️:
   - spinnekop
-  - spinnekopweb
+  - spinnerak
   - web
 🦂:
   - diereriem
@@ -9868,6 +13708,17 @@
   - muskiet
   - siekte
   - virus
+🪰:
+  - huisvlieg
+  - lastig
+  - maaier
+  - vlieg
+  - vuil
+🪱:
+  - annelied
+  - erdwurm
+  - parasiet
+  - wurm
 🦠:
   - amoeba
   - bakterieë
@@ -9922,6 +13773,13 @@
   - jonk
   - plant
   - saailing
+🪴:
+  - groei
+  - huis
+  - husplant
+  - plant
+  - potplant
+  - vertroetel
 🌲:
   - boom
   - immergroen
@@ -10047,6 +13905,11 @@
   - bessie
   - plant
   - vrug
+🫐:
+  - bessie
+  - blou
+  - bloubessie
+  - bloubessies
 🥝:
   - kiwi
   - kiwivrug
@@ -10056,6 +13919,9 @@
   - groente
   - plant
   - tamatie
+🫒:
+  - kos
+  - olyf
 🥥:
   - kokosneut
   - palm
@@ -10087,6 +13953,10 @@
   - brandrissie
   - plant
   - rissie
+🫑:
+  - groente
+  - rissies
+  - soetrissie
 🥒:
   - groente
   - komkommer
@@ -10099,6 +13969,12 @@
 🥦:
   - broccoli
   - wilde kool
+🧄:
+  - geurmiddel
+  - knoffel
+🧅:
+  - geurmiddel
+  - ui
 🍄:
   - paddastoel
   - plant
@@ -10107,6 +13983,7 @@
   - grondboontjie
   - grondboontjies
   - kos
+  - neute
 🌰:
   - kastaiing
   - plant
@@ -10123,6 +14000,11 @@
   - brood
   - frankryk
   - kos
+🫓:
+  - focaccia
+  - lavash
+  - pita
+  - platbrood
 🥨:
   - gevleg
   - pretzel
@@ -10135,6 +14017,10 @@
   - pannekoek
   - plaatkoekie
   - plaatkoekies
+🧇:
+  - onbeslis
+  - pan
+  - wafel
 🧀:
   - kaas
   - kaswig
@@ -10185,11 +14071,19 @@
   - burrito
   - kos
   - meksikaans
+🫔:
+  - Meksikaans
+  - omhulsel
+  - tamale
 🥙:
   - bunny chow
   - kos
   - platbrood
   - wrap
+🧆:
+  - falafel
+  - keker-ertjie
+  - maalbol
 🥚:
   - eier
   - kos
@@ -10208,6 +14102,14 @@
   - bak kos
   - bredie
   - kos
+🫕:
+  - Switsers
+  - diepbraai
+  - fondue
+  - gesmelt
+  - kaas
+  - pot
+  - sjokolade
 🥣:
   - bakkie met lepel
   - conjee
@@ -10221,6 +14123,9 @@
 🍿:
   - fliek
   - springmielies
+🧈:
+  - botter
+  - suiwel
 🧂:
   - pot
   - sout
@@ -10337,6 +14242,10 @@
   - mollusk
   - seekat
   - tjokka
+🦪:
+  - duik
+  - oester
+  - pêrel
 🍦:
   - nagereg
   - room
@@ -10439,6 +14348,11 @@
   - tee
   - warm
   - warm drankie
+🫖:
+  - drink
+  - pot
+  - tee
+  - teepot
 🍵:
   - drankie
   - drink
@@ -10509,6 +14423,22 @@
   - beker met strooitjie
   - koeldrank
   - sap
+🧋:
+  - borrel
+  - borreltee
+  - melk
+  - pêrels
+  - tee
+🧃:
+  - koeldrankboksie
+  - sapboksie
+🧉:
+  - drankie
+  - maté
+🧊:
+  - koud
+  - ysberg
+  - ysblokkie
 🥢:
   - eetstokkies
 🍽️:
@@ -10638,6 +14568,22 @@
   - messel
   - muur
   - sement
+🪨:
+  - klip
+  - rots
+  - solied
+  - steen
+  - swaar
+🪵:
+  - blok
+  - hout
+  - stomp
+  - timmerhout
+🛖:
+  - huis
+  - hut
+  - joert
+  - rondawel
 🏘️:
   - gebou
   - huis
@@ -10736,6 +14682,10 @@
   - islam
   - moskee
   - moslem
+🛕:
+  - Hindoetempel
+  - hindoe
+  - tempel
 🕍:
   - godsdiens
   - joods
@@ -10961,6 +14911,10 @@
   - ontspanning
   - ontspanningvoertuig
   - voertuig
+🛻:
+  - bakkie
+  - kap
+  - vrag
 🚚:
   - aflewering
   - afleweringswa
@@ -10989,6 +14943,15 @@
   - bromponie
   - motorfiets
   - skoeter
+🦽:
+  - handgedrewe rolstoel
+  - toeganklikheid
+🦼:
+  - motoraangedrewe rolstoel
+  - toeganklikheid
+🛺:
+  - outoriksja
+  - toek-toek
 🚲️:
   - fiets
   - voertuig
@@ -10997,6 +14960,10 @@
   - skopfiets
 🛹:
   - skaatsplank
+🛼:
+  - Rolskaats
+  - rolskaats
+  - skaats
 🚏:
   - bus
   - bushalte
@@ -11103,6 +15070,11 @@
   - vliegtuig
   - vliegtuig land
   - voertuig
+🪂:
+  - hangsweef
+  - sweefseil
+  - valskerm
+  - valskermspring
 💺:
   - sitplek
   - stoel
@@ -11505,6 +15477,10 @@
   - son
   - son met gesig
   - weer
+🪐:
+  - planeet met ring om
+  - saturnies
+  - saturnus
 ⭐️:
   - ster
   - wit
@@ -11672,7 +15648,7 @@
   - weer
 🎃:
   - allerheiligeaand
-  - holloween
+  - halloween
   - pampoen
   - pampoenlantern
   - spook
@@ -11917,6 +15893,11 @@
   - stok
   - vis
   - visstok
+🤿:
+  - duik
+  - duikmasker
+  - skubaduik
+  - snorkel
 🎽:
   - band
   - draf
@@ -11941,6 +15922,14 @@
   - pyltjie
   - speel
   - teiken
+🪀:
+  - jojo
+  - op en af
+  - speelding
+🪁:
+  - sweef
+  - vlieg
+  - vlieër
 🎱:
   - '8'
   - agt
@@ -11954,6 +15943,11 @@
   - kristal
   - kristalbal
   - okkulte
+🪄:
+  - heks
+  - towenaar
+  - towerkrag
+  - towerstaf
 🧿:
   - bose oog
   - gelukbringer
@@ -11983,6 +15977,7 @@
 🧩:
   - deel
   - legkaart
+  - legkaartstuk
   - skakeling
   - wenk
 🧸:
@@ -11991,6 +15986,18 @@
   - sagte speelding
   - speelding
   - teddiebeer
+🪅:
+  - partytjie
+  - piñata
+  - verjaarsdag
+  - viering
+🪆:
+  - Rusland
+  - ineenpassende
+  - ineenpassende poppe
+  - pas ineen
+  - pop
+  - poppies
 ♠️:
   - kaart
   - skoppens
@@ -12054,11 +16061,21 @@
   - naald
   - naaldwerk
   - tol
+🪡:
+  - borduur
+  - naald
+  - naaldwerk
+  - naaldwerknaald
+  - steke
 🧶:
   - bol wol
   - brei
   - hekel
   - wol
+🪢:
+  - kinkel
+  - knoop
+  - tou
 👓️:
   - bril
   - klere
@@ -12080,6 +16097,12 @@
   - eksperiment
   - laboratoriumjas
   - wetenskaplike
+🦺:
+  - nooddiens
+  - noodgeval
+  - onderbaadjie
+  - veiligheid
+  - veiligheidsonderbaadjie
 👔:
   - das
   - klere
@@ -12110,6 +16133,23 @@
 👘:
   - kimono
   - klere
+🥻:
+  - klere
+  - rok
+  - sari
+🩱:
+  - eenstukswembroek
+  - swembroek
+🩲:
+  - eenstuk
+  - mansportswembroek
+  - onderklere
+  - swembroek
+🩳:
+  - broek
+  - mansswembroek
+  - onderklere
+  - swembroek
 👙:
   - bikini
   - klere
@@ -12140,6 +16180,12 @@
   - skool
   - skoolrugsak
   - tas
+🩴:
+  - deurtoonplakkies
+  - plakkies
+  - stortplakkies
+  - strandplakkies
+  - tussentoonplakkie
 👞:
   - klere
   - man
@@ -12175,6 +16221,10 @@
   - skoen
   - vrou
   - vrouesandaal
+🩰:
+  - ballet
+  - balletskoene
+  - dans
 👢:
   - klere
   - skoen
@@ -12206,6 +16256,13 @@
 🧢:
   - bofbalpet
   - hardepuntpet
+🪖:
+  - helm
+  - kryger
+  - militêr
+  - militêre helm
+  - soldaat
+  - weermag
 ⛑️:
   - gesig
   - helm
@@ -12323,6 +16380,9 @@
   - instrument
   - musiek
   - saxofoon
+🪗:
+  - konsertina
+  - trekklavier
 🎸:
   - ghitaar
   - instrument
@@ -12344,10 +16404,20 @@
   - musiek
   - stryk
   - viool
+🪕:
+  - banjo
+  - musiek
+  - snaarinstrument
 🥁:
   - musiek
   - trom
   - tromme
+🪘:
+  - drom
+  - lang drom
+  - maatslag
+  - pols
+  - ritme
 📱:
   - foon
   - mobiel
@@ -12520,6 +16590,11 @@
   - lig
   - rooi
   - rooi papierlantern
+🪔:
+  - Indies
+  - Indiese olielamp
+  - diya
+  - olielamp
 📔:
   - boek
   - notaboek
@@ -12590,6 +16665,12 @@
   - geld
   - geldsak
   - sak
+🪙:
+  - geld
+  - goud
+  - muntstuk
+  - silwer
+  - skat
 💴:
   - bank
   - banknoot
@@ -12641,15 +16722,6 @@
   - grafiek met stygende jen
   - jen
   - mark
-  - wisselkoers
-💱:
-  - bank
-  - geld
-  - wisselkoers
-💲:
-  - dik dollarteken
-  - dollar
-  - geld
   - wisselkoers
 ✉️:
   - brief
@@ -12917,6 +16989,12 @@
   - gereedskap
   - hamer
   - kap
+🪓:
+  - byl
+  - handbyl
+  - hout
+  - kap
+  - kloof
 ⛏️:
   - gereedskap
   - kap
@@ -12945,6 +17023,11 @@
   - skiet
   - vuurwapen
   - wapen
+🪃:
+  - Australië
+  - boemerang
+  - terugdraai
+  - terugkeer
 🏹:
   - boog
   - boogskutter
@@ -12957,9 +17040,21 @@
   - beskerm
   - skild
   - wapen
+🪚:
+  - gereedskap
+  - hout
+  - houtsaag
+  - houtwerk
+  - saag
+  - skrynwerker
+  - timmerhout
 🔧:
   - gereedskap
   - moersleutel
+🪛:
+  - gereedskap
+  - skroef
+  - skroewedraaier
 🔩:
   - bout
   - bout en moer
@@ -12981,12 +17076,22 @@
   - skaal
   - weeg
   - weegskaal
+🦯:
+  - blind
+  - gidsstok
+  - toeganklikheid
 🔗:
   - skakel
 ⛓️:
   - ketting
   - kettings
   - skakel
+🪝:
+  - hoek
+  - strik
+  - vang
+  - vangs
+  - verkoopspunt
 🧰:
   - gereedskap
   - gereedskaptrommel
@@ -12997,6 +17102,10 @@
   - hoefyster
   - magneet
   - magneties
+🪜:
+  - klim
+  - leer
+  - trappie
 ⚗️:
   - alembiek
   - chemie
@@ -13040,13 +17149,43 @@
   - medisyne
   - naald
   - siek
+🩸:
+  - bloeddruppel
+  - bloedskenk
+  - medisyne
+  - menstruasie
 💊:
   - dokter
   - medisyne
   - pil
   - siek
+🩹:
+  - plakpleister
+  - pleister
+🩺:
+  - dokter
+  - hart
+  - medisyne
+  - stetoskoop
 🚪:
   - deur
+🛗:
+  - hys
+  - hysbak
+  - lig
+  - toeganklikheid
+🪞:
+  - spektrum
+  - spieël
+  - weerkaats
+  - weerkaatsing
+🪟:
+  - deursigtig
+  - opening
+  - raam
+  - uitsig
+  - vars
+  - venster
 🛏️:
   - bed
   - hotel
@@ -13057,7 +17196,16 @@
   - lamp
   - rus
   - rusbank en lamp
+🪑:
+  - sit
+  - sitplek
+  - stoel
 🚽:
+  - toilet
+🪠:
+  - dompelaar
+  - loodgieter
+  - suigkrag
   - toilet
 🚿:
   - stort
@@ -13065,6 +17213,15 @@
 🛁:
   - bad
   - water
+🪤:
+  - lokaas
+  - muisvalletjie
+  - strik
+  - wip
+🪒:
+  - skeer
+  - skeermes
+  - skerp
 🧴:
   - lyfroom
   - lyfroombottel
@@ -13090,6 +17247,9 @@
   - kombuispapier
   - papierrol
   - toiletpapier
+🪣:
+  - emmer
+  - vat
 🧼:
   - bad
   - koekie seep
@@ -13097,6 +17257,13 @@
   - seepbakkie
   - skoon
   - skuim
+🪥:
+  - badkamer
+  - borsel
+  - higiëne
+  - skoon
+  - tande
+  - tandeborsel
 🧽:
   - absorbeer
   - opsuig
@@ -13119,6 +17286,10 @@
   - begrawe
   - dood
   - kis
+🪦:
+  - graf
+  - grafsteen
+  - kopsteen
 ⚱️:
   - as
   - begrafnis
@@ -13129,95 +17300,95 @@
   - gesig
   - moai
   - standbeeld
+🪧:
+  - betoging
+  - plakkaat
+  - protes
 🏧:
+  - ATM-teken
+  - OTM
   - bank
-  - geld
+  - kassier
   - kitsbank
-  - otm
-  - otm-teken
 🚮:
-  - drom
-  - gooi vullis in drom-teken
-  - rommel
+  - '"vullis in drom"-teken'
   - vullis
+  - vullisblik
 🚰:
   - drink
   - drinkbaar
   - drinkbare water
-  - kraan
   - water
 ♿️:
-  - gestremd
-  - rolstoel
+  - rolstoel-simbool
   - toegang
 🚹️:
-  - badkamer
   - kleedkamer
-  - mans
+  - man
   - manskleedkamer
+  - toilet
 🚺️:
-  - badkamer
   - kleedkamer
-  - vroue
+  - toilet
+  - vrou
   - vrouekleedkamer
 🚻:
-  - badkamer
   - kleedkamer
+  - toilet
 🚼️:
   - baba
   - babasimbool
-  - doek
+  - doekomruil
 🚾:
-  - badkamer
+  - WC
+  - kamer
   - kleedkamer
   - toilet
+  - water
 🛂:
-  - grens
+  - kontrole
   - paspoort
-  - paspoortbeheer
+  - paspoortkontrole
 🛃:
   - doeane
 🛄:
   - bagasie
   - bagasiesaal
-  - saal
-  - tas
+  - haal
 🛅:
   - bagasie
   - bagasiesluitkas
   - sluitkas
-  - tas
 ⚠️:
-  - gevaar
   - waarskuwing
 🚸:
   - kind
-  - krinders stap oor
-  - kruising
+  - kinders stap oor
+  - stap oor
   - verkeer
   - voetganger
 ⛔️:
-  - geen toegang nie
-  - nee
+  - geen
+  - geen toegang
+  - nie
   - toegang
   - verbode
   - verkeer
 🚫:
-  - nee
+  - geen
+  - nie
   - toegang
   - verbode
 🚳:
   - fiets
   - fietse verbode
-  - nee
+  - geen
   - verbode
-  - voertuig
 🚭️:
-  - nee
+  - geen
+  - nie
   - rook
   - rook verbode
-  - sigaret
-  - verbied
   - verbode
 🚯:
   - geen rommelstrooi
@@ -13225,14 +17396,12 @@
   - verbode
   - vullis
 🚱:
-  - drink
-  - drinkbaar
+  - niedrinkbaar
   - niedrinkbare water
-  - verbode
   - water
 🚷:
-  - nee
-  - verbied
+  - geen
+  - nie
   - verbode
   - voetganger
   - voetgangers verbode
@@ -13245,18 +17414,16 @@
 🔞:
   - '18'
   - agtien
-  - geen onder agtiens
   - jonger as agtien verbode
   - minderjarig
   - ouderdomsbeperking
+  - verbode
 ☢️:
-  - bestraling
   - radioaktief
+  - teken
 ☣️:
-  - biologies
-  - biologiese gevaar
-  - gevaar
-  - lewensgevaar
+  - biogevaar
+  - teken
 ⬆️:
   - noord
   - op
@@ -13357,8 +17524,7 @@
   - top
   - toppyl
 🛐:
-  - aanbid
-  - bid
+  - aanbidding
   - godsdiens
   - plek van aanbidding
 ⚛️:
@@ -13366,17 +17532,18 @@
   - atoom
   - atoomsimbool
 🕉️:
+  - Hindoe
   - godsdiens
-  - hindoe
   - om
 ✡️:
-  - dawid
-  - dawidster
+  - Dawid
+  - Dawidster
+  - Jood
+  - Joods
   - godsdiens
-  - joods
   - ster
 ☸️:
-  - boeddhis
+  - Boeddhis
   - dharma
   - dharmawiel
   - godsdiens
@@ -13387,97 +17554,90 @@
   - jin
   - jin-jang
   - tao
-  - taoïs
+  - taois
 ✝️:
+  - Latynse kruis
   - christen
   - godsdiens
   - kruis
-  - latynse kruis
 ☦️:
   - christen
   - godsdiens
   - kruis
-  - ortodoks
   - ortodokse kruis
 ☪️:
+  - Islam
   - godsdiens
-  - islam
   - moslem
   - ster en sekelmaan
 ☮️:
   - vrede
   - vredesimbool
 🕎:
-  - blaker
   - godsdiens
-  - kandelaar
+  - kandelaber
+  - kershouer
   - menora
 🔯:
-  - kol
-  - ses
-  - sespunt
+  - fortuin
   - sespuntster met kol
   - ster
 ♈️:
+  - Ram-sterrebeeld
   - diereriem
   - ram
-  - ramsterrebeeld
 ♉️:
+  - Bul-sterrebeeld
   - bul
-  - bulsterrebeeld
   - diereriem
   - os
 ♊️:
+  - Tweeling-sterrebeeld
   - diereriem
   - tweeling
-  - tweelingsterrebeeld
 ♋️:
+  - Kreef-sterrebeeld
   - diereriem
   - krap
-  - kreefsterrebeeld
 ♌️:
+  - Leeu-sterrebeeld
   - diereriem
   - leeu
-  - leeusterrebeeld
 ♍️:
+  - Maagd-sterrebeeld
   - diereriem
-  - maagd
-  - maagdsterrebeeld
 ♎️:
+  - Weegskaal-sterrebeeld
+  - balans
   - diereriem
   - geregtigheid
   - skaal
-  - weegskaal
-  - weegskaalsterrebeeld
 ♏️:
+  - Skerpioen-sterrebeeld
   - diereriem
-  - scorpio
   - skerpioen
-  - skerpioensterrebeeld
 ♐️:
+  - Boogskutter-sterrebeeld
   - boogskutter
-  - boogskuttersterrebeeld
   - diereriem
 ♑️:
-  - bok
+  - Steenbok-sterrebeeld
+  - boerbok
   - diereriem
-  - steenbok
-  - steenboksterrebeeld
 ♒️:
+  - Waterdraer-sterrebeeld
   - diereriem
   - draer
   - water
-  - waterdraersterrebeeld
 ♓️:
+  - Visse-sterrebeeld
   - diereriem
   - vis
-  - visse
-  - vissesterrebeeld
 ⛎:
+  - Slangdraer-sterrebeeld
   - diereriem
   - draer
   - slang
-  - slangdraersterrebeeld
 🔀:
   - gekruis
   - pyle
@@ -13620,77 +17780,12 @@
 ♂️:
   - manlik
   - manlik-teken
-⚕️:
-  - eskulaap
-  - mediese simbool
-♾️:
-  - altyd
-  - oneindig
-  - oneindigheid
-  - universeel
-  - vir ewig
-♻️:
-  - herwin
-  - herwinning
-  - herwinningsimbool
-⚜:
-  - fleur
-  - fleur de lis
-  - lelie
-🔱:
-  - anker
-  - drie
-  - drietandvurkembleem
-  - embleem
-  - skip
-  - vurk
-📛:
-  - etiket
-  - naam
-  - naametiket
-🔰:
-  - beginner
-  - blaar
-  - chevron
-  - geel
-  - groen
-  - japannees
-  - japanse beginnersimbool
-⭕️:
-  - groot dik sirkel
-  - o
-  - sirkel
-✅:
-  - dik wit regmerk
-  - merk
-  - reg
-☑️:
-  - merk
-  - reg
-  - stem
-  - stembus met regmerk
-  - verkiesing
-✔️:
-  - dik regmerk
-  - merk
-  - reg
+⚧️:
+  - transgender
+  - transgendersimbool
 ✖️:
   - dik maalteken
   - kanselleer
-  - maal
-  - verkeerd
-  - vermenigvuldig
-  - x
-❌:
-  - kanselleer
-  - kuismerk
-  - maal
-  - verkeerd
-  - vermenigvuldig
-  - x
-❎:
-  - kanselleer
-  - kruimerkknoppie
   - maal
   - verkeerd
   - vermenigvuldig
@@ -13707,31 +17802,12 @@
   - deel
   - dik deelteken
   - wiskunde
-➰:
-  - krul
-  - krullus
-  - lus
-➿:
-  - dubbel
-  - dubbelkrullus
-  - krul
-  - lus
-〽️:
-  - begin
-  - merk
-  - stem
-  - stembeginteken
-✳️:
-  - agtspeekasterisk
-  - asterisk
-  - ster
-✴️:
-  - agtpuntster
-  - ster
-❇️:
-  - ster
-  - vonk
-  - vonkster
+♾️:
+  - altyd
+  - oneindig
+  - oneindigheid
+  - universeel
+  - vir ewig
 ‼️:
   - dubbeluitroepteken
   - leesteken
@@ -13770,6 +17846,106 @@
   - golfstreep
   - leesteken
   - streep
+💱:
+  - bank
+  - geld
+  - wisselkoers
+💲:
+  - dik dollarteken
+  - dollar
+  - geld
+  - wisselkoers
+⚕️:
+  - eskulaap
+  - mediese simbool
+♻️:
+  - herwin
+  - herwinning
+  - herwinningsimbool
+⚜:
+  - fleur
+  - fleur de lis
+  - lelie
+🔱:
+  - anker
+  - drie
+  - drietandvurkembleem
+  - embleem
+  - skip
+  - vurk
+📛:
+  - etiket
+  - naam
+  - naametiket
+🔰:
+  - beginner
+  - blaar
+  - chevron
+  - geel
+  - groen
+  - japannees
+  - japanse beginnersimbool
+⭕️:
+  - groot
+  - hol rooi sirkel
+  - o
+  - rooi
+  - sirkel
+✅:
+  - knoppie
+  - merk
+  - regmerk
+  - regmerkknoppie
+  - ✓
+☑️:
+  - blokkie
+  - merkblokkie met regmerk
+  - regmerk
+  - ✓
+✔️:
+  - dik regmerk
+  - merk
+  - reg
+  - regmerk
+❌:
+  - kanselleer
+  - kuismerk
+  - maal
+  - verkeerd
+  - vermenigvuldig
+  - x
+❎:
+  - kanselleer
+  - kruimerkknoppie
+  - maal
+  - verkeerd
+  - vermenigvuldig
+  - x
+➰:
+  - krul
+  - krullus
+  - lus
+➿:
+  - dubbel
+  - dubbelkrullus
+  - krul
+  - lus
+〽️:
+  - begin
+  - merk
+  - stem
+  - stembeginteken
+✳️:
+  - agtspeekasterisk
+  - asterisk
+  - ster
+✴️:
+  - agtpuntster
+  - ster
+❇️:
+  - ster
+  - vonk
+  - vonkster
 ©️:
   - kopiereg
   - kopieregmerk
@@ -13783,223 +17959,265 @@
   - merk
   - tm
 '#⃣':
-  - sleutelbordtoets
-  - 'sleutelbordtoets: #'
+  - knoppiesimbool
+  - 'knoppiesimbool: #'
 '*⃣':
-  - sleutelbordtoets
-  - 'sleutelbordtoets: *'
+  - knoppiesimbool
+  - 'knoppiesimbool: *'
 0⃣:
-  - sleutelbordtoets
-  - 'sleutelbordtoets: 0'
+  - knoppiesimbool
+  - 'knoppiesimbool: 0'
 1⃣:
-  - sleutelbordtoets
-  - 'sleutelbordtoets: 1'
+  - knoppiesimbool
+  - 'knoppiesimbool: 1'
 2⃣:
-  - sleutelbordtoets
-  - 'sleutelbordtoets: 2'
+  - knoppiesimbool
+  - 'knoppiesimbool: 2'
 3⃣:
-  - sleutelbordtoets
-  - 'sleutelbordtoets: 3'
+  - knoppiesimbool
+  - 'knoppiesimbool: 3'
 4⃣:
-  - sleutelbordtoets
-  - 'sleutelbordtoets: 4'
+  - knoppiesimbool
+  - 'knoppiesimbool: 4'
 5⃣:
-  - sleutelbordtoets
-  - 'sleutelbordtoets: 5'
+  - knoppiesimbool
+  - 'knoppiesimbool: 5'
 6⃣:
-  - sleutelbordtoets
-  - 'sleutelbordtoets: 6'
+  - knoppiesimbool
+  - 'knoppiesimbool: 6'
 7⃣:
-  - sleutelbordtoets
-  - 'sleutelbordtoets: 7'
+  - knoppiesimbool
+  - 'knoppiesimbool: 7'
 8⃣:
-  - sleutelbordtoets
-  - 'sleutelbordtoets: 8'
+  - knoppiesimbool
+  - 'knoppiesimbool: 8'
 9⃣:
-  - sleutelbordtoets
-  - 'sleutelbordtoets: 9'
+  - knoppiesimbool
+  - 'knoppiesimbool: 9'
 🔟:
-  - sleutelbordtoets
-  - 'sleutelbordtoets: 10'
+  - knoppiesimbool
+  - 'knoppiesimbool: 10'
 🔠:
-  - abcd
+  - ABCD
+  - Latyn
   - bokas
-  - hoof
   - invoer
-  - invoer latyns bokas
-  - latyn
+  - invoer- Latynse bokas
   - letters
 🔡:
-  - abcd
+  - ABCD
+  - Latyn
   - invoer
-  - invoer latyns onderkas
-  - klein
-  - latters
-  - latyn
+  - invoer- Latynse onderkas
+  - letters
   - onderkas
 🔢:
   - '1234'
   - invoer
-  - invoer syfers
+  - invoersyfers
   - syfers
 🔣:
   - invoer
-  - invoer simbole
-  - simbole
+  - invoersimbole
+  - 〒♪&%
 🔤:
-  - abc
+  - ABC
+  - Latyn
   - alfabet
   - invoer
-  - invoer latyns letters
-  - latyn
+  - invoer- Latynse letters
   - letters
 🅰️:
-  - a
-  - a-knoppie
-  - bloed
+  - A
+  - A-knopie (bloedgroep)
+  - bloedgroep
 🆎:
-  - ab
-  - ab-knoppie
-  - bloed
+  - AB
+  - AB-knopie (bloedgroep)
+  - bloedgroep
 🅱️:
-  - b
-  - b-knoppie
-  - bloed
+  - B
+  - B-knopie (bloedgroep)
+  - bloedgroep
 🆑:
-  - cl
-  - cl-knoppie
-  - uitvee
+  - CL
+  - CL-knopie
 🆒:
+  - COOL-knopie
   - koel
-  - koel in raam
 🆓:
+  - FREE-knopie
   - gratis
-  - gratis in raam
 ℹ️:
-  - i
+  - I
   - inligting
-  - inligtingbron
 🆔:
-  - id
-  - id in raam
+  - ID
+  - ID-knopie
   - identiteit
 Ⓜ️:
-  - kring
-  - letter m in sirkel
-  - m
+  - M
+  - M in sirkel
   - sirkel
 🆕:
+  - NEW-knopie
   - nuut
-  - nuut in raam
 🆖:
-  - ng
-  - ng in raam
-  - nikswerd
-  - sleg
+  - NG
+  - NG-knopie
 🅾️:
-  - bloed
-  - o
-  - o-knoppie
+  - O
+  - O-knopie (bloedgroep)
+  - bloedgroep
 🆗:
-  - goed
-  - ok
-  - ok in raam
+  - OK-knopie
+  - oukei
 🅿️:
-  - p-knoppie
+  - P-knopie
   - parkering
 🆘:
-  - help
-  - sos
-  - sos in raam
+  - SOS
+  - SOS-knopie
+  - hulp
 🆙:
+  - UP!-knopie
   - merk
   - op
-  - op!-knoppie
 🆚:
-  - teen
+  - VS-knopie
   - versus
   - vs
-  - vs in raam
 🈁:
-  - japannees
-  - katakana koko in raam
-  - koko
+  - Japannees
+  - Japannese “hier”-knopie
+  - katakana
+  - “hier”
+  - ココ
 🈂️:
-  - japannees
-  - katakana sa in raam
-  - sa
+  - Japannees
+  - Japannese “diensfooi”-knopie
+  - katakana
+  - “diensfooi”
+  - サ
 🈷:
-  - japannees
-  - maan
-  - maanideogram in raam
+  - Japannees
+  - Japannese “maandrekening”-knopie
+  - ideogram
+  - “maandrekening”
+  - 月
 🈶:
-  - bestaan
-  - bestaanideogram in raam
-  - japannees
+  - Japannees
+  - Japannese “nie gratis nie”-knopie
+  - ideogram
+  - “nie gratis nie”
+  - 有
 🈯:
-  - japannees
-  - vinger
-  - vingerideogram in raam
+  - Japannees
+  - Japannese “gereserveer”-knopie
+  - ideogram
+  - “gereserveer”
+  - 指
 🉐:
-  - japannees
-  - voordeel
-  - voordeelideogram in sirkel
+  - Japannees
+  - Japannese “winskopie”-knopie
+  - ideogram
+  - “winskopie”
+  - 得
 🈹:
-  - japannees
-  - verdeel
-  - verdeelideogram in raam
+  - Japannees
+  - Japannese “afslag”-knopie
+  - ideogram
+  - “afslag”
+  - 割
 🈚:
-  - japannees
-  - ontkenning
-  - ontkenningideogram in raam
+  - Japannees
+  - Japannese “gratis”-knopie
+  - ideogram
+  - “gratis”
+  - 無
 🈲:
-  - japannees
-  - verbied
-  - verbiedideogram in raam
+  - Japannees
+  - Japannese “verbode”-knopie
+  - ideogram
+  - “verbode”
+  - 禁
 🉑:
-  - aanvaar
-  - aanvaarideogram in sirkel
-  - chinees
+  - Japannees
+  - Japannese “aanvaarbaar”-knopie
+  - ideogram
+  - “aanvaarbaar”
+  - 可
 🈸:
-  - aansoek
-  - chinees
-  - doen aansoek-ideogram in raam
+  - '"aansoek"'
+  - Japannees
+  - Japannese "aansoek"-knopie
+  - ideogram
+  - 申
 🈴:
-  - chinees
-  - saam
-  - saamideogram in raam
+  - '"slaagsyfer"'
+  - Japannees
+  - Japannese "slaagsyfer"-knopie
+  - ideogram
+  - 合
 🈳:
-  - chinees
-  - leeg
-  - leegideogram in raam
+  - '"vakant"'
+  - Japannees
+  - Japannese "vakant"-knopie
+  - ideogram
+  - 空
 ㊗️:
-  - chinees
-  - geluk
-  - gelukwensideogram in sirkel
-  - gelukwensing
+  - '"veels geluk"'
+  - Japannees
+  - Japannese "veels geluk"-knopie
   - ideogram
+  - 祝
 ㊙️:
-  - chinees
-  - geheim
-  - geheimideogram in sirkel
+  - '"geheim"'
+  - Japannees
+  - Japannese "geheim"-knopie
   - ideogram
+  - 秘
 🈺:
-  - chinees
-  - werk
-  - werk tans-ideogram in raam
+  - '"oop vir besigheid"'
+  - Japannees
+  - Japannese "oop vir besigheid"-knopie
+  - ideogram
+  - 営
 🈵:
-  - chinees
-  - volheid
-  - volheidideogram in raam
+  - '"geen vakant"'
+  - Japannees
+  - Japannese "geen vakant"-knopie
+  - ideogram
+  - 満
 🔴:
   - geometries
   - rooi
   - rooi sirkel
   - sirkel
+🟠:
+  - oranje
+  - oranje sirkel
+  - sirkel
+🟡:
+  - geel
+  - geel sirkel
+  - sirkel
+🟢:
+  - groen
+  - groen sirkel
+  - sirkel
 🔵:
   - blou
   - blou sirkel
   - geometries
+  - sirkel
+🟣:
+  - pers
+  - pers sirkel
+  - sirkel
+🟤:
+  - bruin
+  - bruin sirkel
   - sirkel
 ⚫️:
   - geometries
@@ -14011,6 +18229,34 @@
   - sirkel
   - wit
   - wit sirkel
+🟥:
+  - rooi
+  - rooi vierkant
+  - vierkant
+🟧:
+  - oranje
+  - oranje vierkant
+  - vierkant
+🟨:
+  - geel
+  - geel vierkant
+  - vierkant
+🟩:
+  - groen
+  - groen vierkant
+  - vierkant
+🟦:
+  - blou
+  - blou vierkant
+  - vierkant
+🟪:
+  - pers
+  - pers vierkant
+  - vierkant
+🟫:
+  - bruin
+  - bruin vierkant
+  - vierkant
 ⬛️:
   - geometries
   - groot swart vierkant
@@ -14135,6 +18381,13 @@
 🏳‍🌈:
   - reënboog
   - reënboogvlag
+🏳‍⚧:
+  - lig blou
+  - pienk
+  - transgender
+  - transgendervlag
+  - vlag
+  - wit
 🏴‍☠:
   - Jolly Roger
   - plunder
@@ -14590,7 +18843,7 @@
   - 'vlag: Marshalleilande'
 🇲🇰:
   - vlag
-  - 'vlag: Macedonië'
+  - 'vlag: Noord-Macedonië'
 🇲🇱:
   - vlag
   - 'vlag: Mali'
@@ -14797,7 +19050,7 @@
   - 'vlag: Sirië'
 🇸🇿:
   - vlag
-  - 'vlag: Swaziland'
+  - 'vlag: Eswatini'
 🇹🇦:
   - vlag
   - 'vlag: Tristan da Cunha'
@@ -14923,7 +19176,7 @@
   - 'vlag: Skotland'
 🏴󠁧󠁢󠁷󠁬󠁳󠁿:
   - vlag
-  - 'vlag: Wales'
+  - 'vlag: Wallis'
 🏻:
   - kleur
   - ligte velkleur
