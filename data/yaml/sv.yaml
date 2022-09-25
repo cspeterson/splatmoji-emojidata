@@ -1,3 +1,981 @@
+‾:
+  - överstreck
+_:
+  - understreck
+  - understrykning
+  - understrykningstecken
+'-':
+  - avstavningstecken
+  - bindestreck
+  - bindestreck-minustecken
+  - minustecken
+‐:
+  - avstavningstecken
+  - bindestreck
+–:
+  - streck
+  - tankstreck
+—:
+  - långt
+  - långt tankstreck
+  - tankstreck
+―:
+  - bindestreck
+  - horisontellt streck
+  - streck
+  - tankstreck
+・:
+  - halvhög punkt
+  - katakana
+  - katakana – mellanpunkt
+  - mittpunkt
+  - punkter
+',':
+  - komma
+  - kommatecken
+،:
+  - arabiska
+  - arabiskt kommatecken
+  - faasila
+  - kommatecken
+、:
+  - ideografiskt
+  - ideografiskt kommatecken
+  - kommatecken
+;:
+  - semikolon
+؛:
+  - arabiska
+  - arabiskt semikolon
+  - semikolon
+':':
+  - kolon
+'!':
+  - skiljetecken
+  - utrop
+  - utropstecken
+¡:
+  - förundringstecken
+  - inverterat
+  - inverterat utropstecken
+  - utrop
+  - utropstecken
+'?':
+  - fråga
+  - frågetecken
+¿:
+  - fråga
+  - frågetecken
+  - inverterat
+  - inverterat frågetecken
+؟:
+  - arabiska
+  - arabiskt frågetecken
+  - fråga
+  - frågetecken
+‽:
+  - interrobang
+.:
+  - punkt
+  - slutpunkt
+…:
+  - ellips
+  - tre punkter
+  - uteslutningstecken
+。:
+  - ideografisk
+  - ideografisk punkt
+  - punkt
+  - slutpunkt
+·:
+  - halvhög punkt
+  - mellanpunkt
+  - mittpunkt
+  - punkt
+  - punkt i mitten
+"'":
+  - apostrof
+  - citattecken
+  - enkelt citattecken
+  - skrivmaskinsapostrof
+‘:
+  - apostrof
+  - citattecken
+  - enkelt citattecken
+  - typoghrafiskt citattecken
+  - vänster apostrof
+  - vänsterställd apostrof
+’:
+  - apostrof
+  - citattecken
+  - enkelt citattecken
+  - höger apostrof
+  - högerställd apostrof
+  - typografiskt citattecken
+‚:
+  - apostrof
+  - citattecken
+  - nedsänkt citattecken
+  - nedsänkt högerställd apostrof
+“:
+  - citat
+  - citattecken
+  - dubbelt citattecken
+  - inledande citattecken
+  - typografiskt citattecken
+”:
+  - avslutande citattecken
+  - citat
+  - citattecken
+  - dubbelt citattecken
+  - typografiskt citattecken
+„:
+  - citat
+  - citattecken
+  - dubbelt citattecken
+  - nedre avslutande citattecken
+  - nedre citattecken
+  - typografiskt citattecken
+«:
+  - citationstecken
+  - dubbla vinkelcitationstecken
+  - gåsögon vänster
+  - vinkel
+  - vänster
+»:
+  - citationstecken
+  - dubbla vinkelcitationstecken
+  - gåsögon höger
+  - höger
+  - vinkel
+):
+  - avslutande parentes
+  - klammer
+  - parentes
+  - rundparentes
+'[':
+  - hakparentes
+  - inledande hakparentes
+  - klammer
+  - parentes
+']':
+  - avslutande hakparentes
+  - hakparentes
+  - klammer
+  - parentes
+'{':
+  - ackolad
+  - inledande klammerparentes
+  - klammerparentes
+'}':
+  - ackolad
+  - avslutande klammerparentes
+  - klammerparentes
+〈:
+  - chevron
+  - inledande vinkelparentes
+  - klammer
+  - vinkelparentes
+〉:
+  - avslutande vinkelparentes
+  - chevron
+  - klammer
+  - vinkelparentes
+《:
+  - dubbel inledande vinkelparentes
+  - dubbel vinkelparantes
+  - inledande dubbel vinkelparentes
+  - klammer
+》:
+  - avslutande dubbel vinkelparentes
+  - dubbel avslutande vinkelparentes
+  - dubbel vinkelparentes
+  - klammer
+「:
+  - halv hörnparentes
+  - inledande halv hörnparentes
+  - parentestecken
+」:
+  - avslutande halv hörnparentes
+  - halv hörparentes
+  - parentestecken
+『:
+  - inledande ofylld halv hörnparentes
+  - ofyllt halvt hörnparentestecken
+  - parentestecken
+』:
+  - avslutande ofylld halv hörnparentes
+  - ofylld halv hörnparentes
+  - parentestecken
+【:
+  - inledande svart konkavt parentestecken
+  - konkavt parentestecken
+  - lentikulärt parentestecken
+  - parentestecken
+】:
+  - avslutande svart konkavt parentestecken
+  - konkavt parentestecken
+  - lentikulärt parentestecken
+  - parentestecken
+〔:
+  - inledande sköldpaddsskalformat parentestecken
+  - inledande sköldpaddsskalsparentes
+  - parentestecken
+  - skalformat parentestecken
+  - sköldpaddsskalformat parentestecken
+〕:
+  - avslutande sköldpaddsskalformat parentestecken
+  - avslutande sköldpaddsskalparentes
+  - parentestecken
+  - skalformat parentestecken
+  - sköldpaddsskalformat parentestecken
+〖:
+  - inledande ofyllt konkavt parentestecken
+  - ofyllt konkavt parentestecken
+  - ofyllt lentikulärt parentestecken
+  - parentestecken
+〗:
+  - avslutande ofyllt konkavt parentestecken
+  - ofyllt konkavt parentestecken
+  - ofyllt lentikulärt parentestecken
+  - parentestecken
+§:
+  - avsnitt
+  - del
+  - paragraf
+  - paragraftecken
+¶:
+  - alinea
+  - paragraf
+  - paragraftecken
+  - stycke
+'@':
+  - '@-tecken'
+  - at-tecken
+  - snabel-a
+'*️':
+  - asterisk
+  - jokertecken
+  - stjärna
+/:
+  - eller
+  - sned
+  - snedstreck
+  - streck
+\:
+  - bakstreck
+  - bakåt snedstreck
+  - omvänt snedstreck
+'&':
+  - et-tecken
+  - och
+  - och-tecken
+'#️':
+  - fyrkant
+  - fyrtagg
+  - hash
+  - hash-tagg
+  - hashtecken
+  - nummer
+  - nummertecken
+  - pound
+'%':
+  - hundradel
+  - per hundra
+  - procent
+‰:
+  - per tusen
+  - promille
+  - tusendel
+†:
+  - kors
+  - korstecken
+  - obelisk
+‡:
+  - dubbel
+  - dubbelkors
+  - dubbelkorstecken
+  - obelus
+•:
+  - listpunkt
+  - punkt
+  - punktlista
+‧:
+  - avstavningspunkt
+  - bindestreck
+  - punkt
+  - streck
+′:
+  - prim
+  - primtecken
+″:
+  - dubbelprim
+  - dubbelprimtecken
+‴:
+  - prim
+  - trippelprim
+  - trippelprimtecken
+  - triss
+‸:
+  - insättningstecken
+※:
+  - källhänvisning
+  - referenstecken
+⁂:
+  - asterism
+'`':
+  - accent
+  - accenttecken
+  - grav
+  - grav accent
+´:
+  - accent
+  - accenttecken
+  - akut
+  - akut accent
+^:
+  - accent
+  - accenttecken
+  - cirkumflex
+  - hatt
+¨:
+  - trema
+  - två punkter
+  - umlaut
+°:
+  - grad
+  - gradsymbol
+  - gradtecken
+℗:
+  - copyright
+  - inspelning
+  - ljud
+  - ljudinspelning
+  - ljudinspelning upphovsrätt
+  - upphovsrätt
+←:
+  - pil
+  - vänster
+  - vänsterriktad pil
+↚:
+  - vänsterriktat pilstreck
+→:
+  - höger
+  - högerpil
+  - högerriktad pil
+  - pil
+↛:
+  - högerriktat pilstreck
+↑:
+  - pil
+  - uppåt
+  - uppåtriktad pil
+↓:
+  - nedåt
+  - nedåtriktad pil
+  - pil
+↜:
+  - vänsterriktad vågig pil
+↝:
+  - högerriktad vågig pil
+↞:
+  - vänsterriktad dubbelhövdad pil
+↟:
+  - uppåtriktad dubbelhövdad pil
+↠:
+  - högerriktad dubbelhövdad pil
+↡:
+  - nedåtriktad dubbelhövdad pil
+↢:
+  - vänsterriktad pilsvans
+↣:
+  - högerriktad pilsvans
+↤:
+  - vänsterriktad pil från streck
+↥:
+  - uppåtriktad pil från streck
+↦:
+  - högerriktad pil från streck
+↧:
+  - nedåtriktad pil från streck
+↨:
+  - upp- och nedåtriktad pil med bas
+↫:
+  - vänsterriktad pilloop
+↬:
+  - högerriktad pilloop
+↭:
+  - höger- och vänsterriktad vågpil
+↯:
+  - nedåtriktad sicksackpil
+↰:
+  - uppåtriktad pil med spetsen åt vänster
+↱:
+  - uppåtriktad pil med spetsen åt höger
+↲:
+  - nedåtriktad pil med spetsen åt vänster
+↳:
+  - nedåtriktad pil med spetsen åt höger
+↴:
+  - högerriktad vinklad pil med spetsen nedåt
+↵:
+  - nedåtriktad vinklad pil med spetsen åt vänster
+↶:
+  - delcirkelpil uppifrån motsols
+↷:
+  - delcirkelpil uppifrån medsols
+↸:
+  - nordvästpil med långt streck
+↹:
+  - vänsterriktat pilstreck över högerriktat pilstreck
+↺:
+  - motsols öppen cirkelpil
+↻:
+  - medsols öppen cirkelpil
+↼:
+  - vänsterriktad harpunhulling uppåt
+↽:
+  - vänsterriktad harpunhulling nedåt
+↾:
+  - uppåtriktad harpunhulling åt höger
+↿:
+  - uppåtriktad harpunhulling åt vänster
+⇀:
+  - högerriktad harpunhulling uppåt
+⇁:
+  - högerriktad harpunhulling nedåt
+⇂:
+  - nedåtriktad harpunhulling åt höger
+⇃:
+  - nedåtriktad harpunhulling åt vänster
+⇄:
+  - högerriktad pil över vänsterriktad pil
+⇅:
+  - nedåt
+  - pil
+  - uppåt
+  - uppåt- och nedåtriktade pilar
+⇆:
+  - höger
+  - pil
+  - vänster
+  - vänster- över högerriktad pil
+  - vänsterriktad över högerriktad pil
+⇇:
+  - vänsterriktat pilpar
+⇈:
+  - uppåtriktat pilpar
+⇉:
+  - högerriktat pilpar
+⇊:
+  - nedåtriktat pilpar
+⇋:
+  - vänsterriktad harpun över högerriktad harpun
+⇌:
+  - högerriktad harpun över vänsterriktad harpun
+⇐:
+  - vänsterriktad dubbelpil
+⇍:
+  - vänsterriktat dubbelpilstreck
+⇑:
+  - uppåtriktad dubbelpil
+⇒:
+  - högerriktad dubbelpil
+⇏:
+  - högerriktat dubbelpilstreck
+⇓:
+  - nedåtriktad dubbelpil
+⇔:
+  - vänster- och högerriktad dubbelpil
+⇎:
+  - vänster- och högerriktat dubbelpilstreck
+⇖:
+  - nordväst dubbelpil
+⇗:
+  - nordöst dubbelpil
+⇘:
+  - sydöst dubbelpil
+⇙:
+  - sydväst dubbelpil
+⇚:
+  - vänsterriktad trippelpil
+⇛:
+  - högerriktad trippelpil
+⇜:
+  - vänsterriktad krusig pil
+⇝:
+  - högerriktad krusig pil
+⇞:
+  - uppåtriktat dubbelpilstreck
+⇟:
+  - nedåtriktat dubbelpilstreck
+⇠:
+  - vänsterriktad streckad pil
+⇡:
+  - uppåtriktad streckad pil
+⇢:
+  - högerriktad streckad pil
+⇣:
+  - nedåtriktad streckad pil
+⇤:
+  - vänsterriktat pilfält
+⇥:
+  - högerriktat pilfält
+⇦:
+  - vänsterriktad ihålig pil
+⇧:
+  - uppåtriktad ihålig pil
+⇨:
+  - högerriktad ihålig pil
+⇩:
+  - nedåtriktad ihålig pil
+⇪:
+  - uppåtriktad ihålig pil från streck
+⇵:
+  - nedåtriktad pil åt vänster uppåtriktad pil
+∀:
+  - för allt
+∂:
+  - partiell differential
+∃:
+  - existenskvanta
+∅:
+  - tom mängd
+∆:
+  - tillskott
+  - triangel
+∇:
+  - nablaoperatorn
+  - triangel
+∈:
+  - element
+  - element i
+  - finns i
+  - i
+  - tillhör
+∉:
+  - inte ett element
+∋:
+  - tillhör mängd
+∎:
+  - bevisslut
+∏:
+  - n-ställig produkt
+∑:
+  - n-ställig summering
++:
+  - addera
+  - plus
+  - plustecken
+±:
+  - plus-minus
+÷:
+  - dela
+  - division
+  - divisionstecken
+  - obelus
+×:
+  - gånger
+  - multiplicera
+  - multiplikation
+  - multiplikationstecken
+<:
+  - mindre än
+  - mindre än-tecken
+  - starttagg
+  - tagg
+≮:
+  - inte mindre än
+'=':
+  - lika med
+  - likhetstecken
+≠:
+  - ej lika med
+  - inte lika med
+  - skilt från
+'>':
+  - sluttagg
+  - större än
+  - större än-tecken
+  - tagg
+≯:
+  - inte större än
+¬:
+  - icke
+  - negation
+'|':
+  - lodstreck
+  - streck
+  - vertikalis
+  - vertikalstreck
+'~':
+  - tilde
+−:
+  - minus
+  - minustecken
+  - subtrahera
+⁻:
+  - minus
+  - upphöjt till
+  - upphöjt till minus
+∓:
+  - minus eller plus
+∕:
+  - divisionsstreck
+⁄:
+  - bråkstreck
+∗:
+  - asteriskoperator
+∘:
+  - ringoperator
+∙:
+  - punktoperator
+√:
+  - kvadrat
+  - kvadratrot
+  - rot
+  - rotmärke
+∝:
+  - proportionerlig
+∞:
+  - oändlighet
+  - oändlighetstecken
+∟:
+  - rät vinkel
+∠:
+  - vinkel
+∣:
+  - delar
+∥:
+  - parallell
+∧:
+  - logiskt och
+∩:
+  - skärning
+  - snitt
+∪:
+  - union
+  - unionen av
+∫:
+  - integral
+∬:
+  - dubbelintegral
+∮:
+  - konturintegral
+∴:
+  - alltså
+∵:
+  - eftersom
+∶:
+  - förhållande
+∷:
+  - proportion
+∼:
+  - tildeoperator
+∽:
+  - omvänd tilde
+∾:
+  - inverterat liggande s
+≃:
+  - asymptotiskt lika med
+≅:
+  - ungefär lika med
+≈:
+  - nästan lika med
+  - ungefär lika med
+≌:
+  - allt lika
+≒:
+  - ungefärligt lika med-bild
+≖:
+  - ring i likhetstecken
+≡:
+  - exakt
+  - identiskt
+  - identiskt lika med
+  - trippel
+≣:
+  - strikt ekvivalent
+≤:
+  - lika med
+  - likhetstecken
+  - mindre än
+  - mindre än eller lika med
+  - olikhetstecken
+≥:
+  - lika med
+  - likhetstecken
+  - olikhetstecken
+  - större än
+  - större än eller lika med
+≦:
+  - mindre än över lika med
+≧:
+  - större än över lika med
+≪:
+  - mycket mindre än
+≫:
+  - mycket större än
+≬:
+  - mellan
+≳:
+  - större än likvärdig
+≺:
+  - föregår
+≻:
+  - efterföljer
+⊁:
+  - efterföljer inte
+⊂:
+  - delmängd
+  - delmängd av
+  - är en delmängd av
+⊃:
+  - supermängd
+⊆:
+  - delmängd lika med
+⊇:
+  - supermängd lika med
+⊕:
+  - plus i cirkel
+⊖:
+  - minus i cirkel
+⊗:
+  - gångertecken i cirkel
+⊘:
+  - divisionsstreck i cirkel
+⊙:
+  - prickoperator i cirkel
+⊚:
+  - ringoperator i cirkel
+⊛:
+  - asteriskoperator i cirkel
+⊞:
+  - plus i kvadrat
+⊟:
+  - minus i kvadrat
+⊥:
+  - falsum
+⊮:
+  - tvingar inte
+⊰:
+  - efterföljer under relation
+⊱:
+  - föregår under relation
+⋭:
+  - innehåller inte som normal delgruppslikvärdig
+⊶:
+  - original
+⊹:
+  - hermitesk matris
+⊿:
+  - rätvinklig triangel
+⋁:
+  - n-ställig logik eller
+⋂:
+  - n-ställigt snitt
+⋃:
+  - n-ställig union
+⋅:
+  - prickoperator
+⋆:
+  - stjärnoperator
+⋈:
+  - naturlig ordning
+⋒:
+  - dubbelsnitt
+⋘:
+  - väldigt mycket mindre än
+⋙:
+  - väldigt mycket större än
+⋮:
+  - vertikal ellips
+⋯:
+  - mellanhög horisontell ellips
+⋰:
+  - högerstigande diagonal ellips
+⋱:
+  - högersjunkande diagonal ellips
+■:
+  - fylld kvadrat
+□:
+  - ihålig kvadrat
+▢:
+  - ihålig kvadrat med rundade hörn
+▣:
+  - ihålig kvadrat som innehåller fylld kvadrat
+▤:
+  - kvadrat med horisontell fyllning
+▥:
+  - kvadrat med vertikal fyllning
+▦:
+  - kvadrat med ortogonalt korsande streckfyllning
+▧:
+  - kvadrat med diagonalt sjunkande fyllning från vänster till höger
+▨:
+  - kvadrat med diagonalt sjunkande fyllning från höger till vänster
+▩:
+  - kvadrat med diagonalt korsande streckfyllning
+▬:
+  - fylld rektangel
+▭:
+  - ihålig rektangel
+▮:
+  - fylld vertikal rektangel
+▰:
+  - fyllt parallellogram
+▲:
+  - fylld
+  - fylld uppåtpekande triangel
+  - fylld uppåtriktad triangel
+  - pil
+  - triangel
+  - uppåt
+△:
+  - ihålig uppåtpekande triangel
+▴:
+  - fylld uppåtpekande liten triangel
+▵:
+  - ihålig uppåtpekande liten triangel
+▷:
+  - ihålig högerpekande triangel
+▸:
+  - fylld högerpekande liten triangel
+▹:
+  - ihålig högerpekande liten triangel
+►:
+  - fylld högerpekande pekare
+▻:
+  - ihålig högerpekande pekare
+▼:
+  - fylld
+  - fylld nedåtpekande triangel
+  - fylld nedåtriktad triangel
+  - nedåt
+  - pil
+  - triangel
+▽:
+  - ihålig nedåtpekande triangel
+▾:
+  - fylld nedåtpekande liten triangel
+▿:
+  - ihålig nedåtpekande liten triangel
+◁:
+  - ihålig vänsterpekande triangel
+◂:
+  - fylld vänsterpekande liten triangel
+◃:
+  - ihålig vänsterpekande liten triangel
+◄:
+  - fylld vänsterpekande pekare
+◅:
+  - ihålig vänsterpekande pekare
+◆:
+  - fylld romb
+◇:
+  - ihålig romb
+◈:
+  - ihålig romb som innehåller fylld romb
+◉:
+  - ihålig cirkel som innehåller fylld cirkel
+◊:
+  - diamant
+  - romb
+  - ruta
+○:
+  - cirkel
+  - ihålig cirkel
+  - ring
+◌:
+  - punktcirkel
+◍:
+  - cirkel med vertikal fyllning
+◎:
+  - måltavla
+●:
+  - cirkel
+  - fylld cirkel
+◐:
+  - cirkel med vänster halva fylld
+◑:
+  - cirkel med höger halva fylld
+◒:
+  - cirkel med nedre halva fylld
+◓:
+  - cirkel med övre halva fylld
+◔:
+  - cirkel med övre högra fjärdedel fylld
+◕:
+  - fylld cirkel med övre vänstra fjärdedel tom
+◖:
+  - vänster halvfylld cirkel
+◗:
+  - höger halvfylld cirkel
+◘:
+  - inverterad punkt
+◙:
+  - fylld kvadrat med ihålig cirkel
+◜:
+  - övre vänstra kvadrant cirkulär båge
+◝:
+  - övre högra kvadrant cirkulär båge
+◞:
+  - nedre högra kvadrant cirkulär båge
+◟:
+  - nedre vänstra kvadrant cirkulär båge
+◠:
+  - övre halvcirkel
+◡:
+  - nedre halvcirkel
+◢:
+  - fylld triangel nedtill höger
+◣:
+  - fylld triangel nedtill vänster
+◤:
+  - fylld triangel upptill vänster
+◥:
+  - fylld triangel upptill höger
+◦:
+  - ihålig punkt
+◯:
+  - cirkel
+  - ring
+  - stor ihålig cirkel
+◳:
+  - ihålig kvadrat övre högra kvadrant
+◷:
+  - ihålig cirkel med övre högra kvadrant
+◿:
+  - triangel nedtill höger
+♪:
+  - musik
+  - not
+  - åttondel
+  - åttondelsnot
+⨧:
+  - plus nedsänkt två
+⨯:
+  - vektorkryssprodukt
+⨼:
+  - inre produkt
+⩣:
+  - logiskt eller dubbelt understreck
+⩽:
+  - lutande mindre än-likhetstecken
+⪍:
+  - lutande mindre än ovanför-likhetstecken
+⪚:
+  - lika med större än med dubbla linjer
+⪺:
+  - föregår över inte nästan lika med
+♭:
+  - dur
+  - musik
+  - not
+♯:
+  - moll
+  - musik
+  - not
 😀:
   - ansikte med stort leende
   - leende
@@ -46,6 +1024,12 @@
   - ansikte
   - upp-och-ner
   - upp-och-nervänt ansikte
+🫠:
+  - flytande
+  - försvinner
+  - smältande ansikte
+  - smälter
+  - upplöses
 😉:
   - ansikte som blinkar med ögonen
   - blinkar med ögonen
@@ -136,6 +1120,19 @@
 🤭:
   - ansikte med handen för munnen
   - hoppsan
+🫢:
+  - ansikte med ögonen öppna och handen för munnen
+  - förvånad
+  - generad
+  - misstro
+  - rädd
+  - överraskad
+  - överväldigad
+🫣:
+  - ansikte som kisar
+  - fängslad
+  - kikar
+  - stirrar
 🤫:
   - hyssjande ansikte
   - tyst
@@ -143,6 +1140,14 @@
   - ansikte
   - ansikte som tänker
   - tänker
+🫡:
+  - ansikte som gör honnör
+  - honnör
+  - hälsa
+  - instämma
+  - ja
+  - ok
+  - salutera
 🤐:
   - ansikte
   - ansikte som tiger
@@ -163,6 +1168,18 @@
 😶:
   - ansikte utan mun
   - ingen mun
+🫥:
+  - deprimerad
+  - försvinner
+  - gömd
+  - introvert
+  - osynlig
+  - osynligt ansikte
+😶‍🌫:
+  - ansikte i moln
+  - disträ
+  - glömsk
+  - tanksprid
 😏:
   - flin
   - flinande ansikte
@@ -179,6 +1196,8 @@
 😬:
   - grimaserande ansikte
   - grimaserar
+😮‍💨:
+  - ansikte andas ut
 🤥:
   - ansikte
   - ljugande ansikte
@@ -262,6 +1281,11 @@
   - omtumlad
   - omtumlat ansikte
   - yr
+😵‍💫:
+  - ansikte med spiralögon
+  - fara
+  - hypnotiserad
+  - yrsel
 🤯:
   - chockad
   - exploderande huvud
@@ -281,7 +1305,9 @@
 🥸:
   - anonym
   - ansikte
+  - förklädnad
   - glasögon
+  - inkognito
   - mask
   - maskerat ansikte
   - näsa
@@ -302,6 +1328,11 @@
 😕:
   - förbryllad
   - förbryllat ansikte
+🫤:
+  - ansikte med diagonal mun
+  - besviken
+  - osäker
+  - skeptisk
 😟:
   - bekymrad
   - bekymrat ansikte
@@ -337,6 +1368,12 @@
   - hundögon
   - nåd
   - tigga
+🥹:
+  - ansikte som håller tillbaka tårarna
+  - arg
+  - gråter
+  - ledsen
+  - tårar i ögonen
 😦:
   - bister
   - ogillande ansikte med öppen mun
@@ -526,11 +1563,6 @@
   - apa
   - apa säger inget
   - säger inget
-💋:
-  - kyssmärke
-  - kärlek
-  - läppar
-  - läppavtryck
 💌:
   - brev
   - brev med hjärta
@@ -587,6 +1619,18 @@
   - brustet hjärta
   - känslor
   - trasigt hjärta
+❤‍🔥:
+  - besviken
+  - brinnande hjärta
+  - osäker
+  - skeptisk
+❤‍🩹:
+  - friskna till
+  - läkande hjärta
+  - läker
+  - läker sår
+  - repa sig
+  - tillfriskna
 ❤️:
   - hjärta
   - kärlek
@@ -623,6 +1667,11 @@
   - hjärta
   - vitt
   - vitt hjärta
+💋:
+  - kyssmärke
+  - kärlek
+  - läppar
+  - läppavtryck
 💯:
   - 100 poäng
   - full pott
@@ -651,9 +1700,6 @@
   - springer iväg
 🕳️:
   - hål
-💣️:
-  - bomb
-  - serietidning
 💬:
   - bubbla
   - dialogbubbla
@@ -868,6 +1914,332 @@
   - vulcan
   - vulcan-hälsning
   - 'vulcan-hälsning: mörk hy'
+🫱:
+  - hand
+  - hand som pekar till höger
+  - höger
+  - till höger
+🫱🏻:
+  - hand
+  - hand som pekar till höger
+  - 'hand som pekar till höger: ljus hy'
+  - höger
+  - ljus hy
+  - till höger
+🫱🏼:
+  - hand
+  - hand som pekar till höger
+  - 'hand som pekar till höger: mellanljus hy'
+  - höger
+  - mellanljus hy
+  - till höger
+🫱🏽:
+  - hand
+  - hand som pekar till höger
+  - 'hand som pekar till höger: mellanfärgad hy'
+  - höger
+  - mellanfärgad hy
+  - till höger
+🫱🏾:
+  - hand
+  - hand som pekar till höger
+  - 'hand som pekar till höger: mellanmörk hy'
+  - höger
+  - mellanmörk hy
+  - till höger
+🫱🏿:
+  - hand
+  - hand som pekar till höger
+  - 'hand som pekar till höger: mörk hy'
+  - höger
+  - mörk hy
+  - till höger
+🫱🏻‍🫲🏼:
+  - avtal
+  - hand
+  - handskakning
+  - 'handskakning: ljus hy, mellanljus hy'
+  - ljus hy
+  - mellanljus hy
+  - möte
+🫱🏻‍🫲🏽:
+  - avtal
+  - hand
+  - handskakning
+  - 'handskakning: ljus hy, mellanfärgad hy'
+  - ljus hy
+  - mellanfärgad hy
+  - möte
+🫱🏻‍🫲🏾:
+  - avtal
+  - hand
+  - handskakning
+  - 'handskakning: ljus hy, mellanmörk hy'
+  - ljus hy
+  - mellanmörk hy
+  - möte
+🫱🏻‍🫲🏿:
+  - avtal
+  - hand
+  - handskakning
+  - 'handskakning: ljus hy, mörk hy'
+  - ljus hy
+  - mörk hy
+  - möte
+🫱🏼‍🫲🏻:
+  - avtal
+  - hand
+  - handskakning
+  - 'handskakning: mellanljus hy, ljus hy'
+  - ljus hy
+  - mellanljus hy
+  - möte
+🫱🏼‍🫲🏽:
+  - avtal
+  - hand
+  - handskakning
+  - 'handskakning: mellanljus hy, mellanfärgad hy'
+  - mellanfärgad hy
+  - mellanljus hy
+  - möte
+🫱🏼‍🫲🏾:
+  - avtal
+  - hand
+  - handskakning
+  - 'handskakning: mellanljus hy, mellanmörk hy'
+  - mellanljus hy
+  - mellanmörk hy
+  - möte
+🫱🏼‍🫲🏿:
+  - avtal
+  - hand
+  - handskakning
+  - 'handskakning: mellanljus hy, mörk hy'
+  - mellanljus hy
+  - mörk hy
+  - möte
+🫱🏽‍🫲🏻:
+  - avtal
+  - hand
+  - handskakning
+  - 'handskakning: mellanfärgad hy, ljus hy'
+  - ljus hy
+  - mellanfärgad hy
+  - möte
+🫱🏽‍🫲🏼:
+  - avtal
+  - hand
+  - handskakning
+  - 'handskakning: mellanfärgad hy, mellanljus hy'
+  - mellanfärgad hy
+  - mellanljus hy
+  - möte
+🫱🏽‍🫲🏾:
+  - avtal
+  - hand
+  - handskakning
+  - 'handskakning: mellanfärgad hy, mellanmörk hy'
+  - mellanfärgad hy
+  - mellanmörk hy
+  - möte
+🫱🏽‍🫲🏿:
+  - avtal
+  - hand
+  - handskakning
+  - 'handskakning: mellanfärgad hy, mörk hy'
+  - mellanfärgad hy
+  - mörk hy
+  - möte
+🫱🏾‍🫲🏻:
+  - avtal
+  - hand
+  - handskakning
+  - 'handskakning: mellanmörk hy, ljus hy'
+  - ljus hy
+  - mellanmörk hy
+  - möte
+🫱🏾‍🫲🏼:
+  - avtal
+  - hand
+  - handskakning
+  - 'handskakning: mellanmörk hy, mellanljus hy'
+  - mellanljus hy
+  - mellanmörk hy
+  - möte
+🫱🏾‍🫲🏽:
+  - avtal
+  - hand
+  - handskakning
+  - 'handskakning: mellanmörk hy, mellanfärgad hy'
+  - mellanfärgad hy
+  - mellanmörk hy
+  - möte
+🫱🏾‍🫲🏿:
+  - avtal
+  - hand
+  - handskakning
+  - 'handskakning: mellanmörk hy, mörk hy'
+  - mellanmörk hy
+  - mörk hy
+  - möte
+🫱🏿‍🫲🏻:
+  - avtal
+  - hand
+  - handskakning
+  - 'handskakning: mörk hy, ljus hy'
+  - ljus hy
+  - mörk hy
+  - möte
+🫱🏿‍🫲🏼:
+  - avtal
+  - hand
+  - handskakning
+  - 'handskakning: mörk hy, mellanljus hy'
+  - mellanljus hy
+  - mörk hy
+  - möte
+🫱🏿‍🫲🏽:
+  - avtal
+  - hand
+  - handskakning
+  - 'handskakning: mörk hy, mellanfärgad hy'
+  - mellanfärgad hy
+  - mörk hy
+  - möte
+🫱🏿‍🫲🏾:
+  - avtal
+  - hand
+  - handskakning
+  - 'handskakning: mörk hy, mellanmörk hy'
+  - mellanmörk hy
+  - mörk hy
+  - möte
+🫲:
+  - hand
+  - hand som pekar till vänster
+  - till vänster
+  - vänster
+🫲🏻:
+  - hand
+  - hand som pekar till vänster
+  - 'hand som pekar till vänster: ljus hy'
+  - ljus hy
+  - till vänster
+  - vänster
+🫲🏼:
+  - hand
+  - hand som pekar till vänster
+  - 'hand som pekar till vänster: mellanljus hy'
+  - mellanljus hy
+  - till vänster
+  - vänster
+🫲🏽:
+  - hand
+  - hand som pekar till vänster
+  - 'hand som pekar till vänster: mellanfärgad hy'
+  - mellanfärgad hy
+  - till vänster
+  - vänster
+🫲🏾:
+  - hand
+  - hand som pekar till vänster
+  - 'hand som pekar till vänster: mellanmörk hy'
+  - mellanmörk hy
+  - till vänster
+  - vänster
+🫲🏿:
+  - hand
+  - hand som pekar till vänster
+  - 'hand som pekar till vänster: mörk hy'
+  - mörk hy
+  - till vänster
+  - vänster
+🫳:
+  - avvisa
+  - handflatan nedåt
+  - neka
+  - schas
+🫳🏻:
+  - avvisa
+  - handflatan nedåt
+  - 'handflatan nedåt: ljus hy'
+  - ljus hy
+  - neka
+  - schas
+🫳🏼:
+  - avvisa
+  - handflatan nedåt
+  - 'handflatan nedåt: mellanljus hy'
+  - mellanljus hy
+  - neka
+  - schas
+🫳🏽:
+  - avvisa
+  - handflatan nedåt
+  - 'handflatan nedåt: mellanfärgad hy'
+  - mellanfärgad hy
+  - neka
+  - schas
+🫳🏾:
+  - avvisa
+  - handflatan nedåt
+  - 'handflatan nedåt: mellanmörk hy'
+  - mellanmörk hy
+  - neka
+  - schas
+🫳🏿:
+  - avvisa
+  - handflatan nedåt
+  - 'handflatan nedåt: mörk hy'
+  - mörk hy
+  - neka
+  - schas
+🫴:
+  - bjuda in
+  - erbjuda
+  - fånga
+  - handflatan uppåt
+  - kalla på
+🫴🏻:
+  - bjuda in
+  - erbjuda
+  - fånga
+  - handflatan uppåt
+  - 'handflatan uppåt: ljus hy'
+  - kalla på
+  - ljus hy
+🫴🏼:
+  - bjuda in
+  - erbjuda
+  - fånga
+  - handflatan uppåt
+  - 'handflatan uppåt: mellanljus hy'
+  - kalla på
+  - mellanljus hy
+🫴🏽:
+  - bjuda in
+  - erbjuda
+  - fånga
+  - handflatan uppåt
+  - 'handflatan uppåt: mellanfärgad hy'
+  - kalla på
+  - mellanfärgad hy
+🫴🏾:
+  - bjuda in
+  - erbjuda
+  - fånga
+  - handflatan uppåt
+  - 'handflatan uppåt: mellanmörk hy'
+  - kalla på
+  - mellanmörk hy
+🫴🏿:
+  - bjuda in
+  - erbjuda
+  - fånga
+  - handflatan uppåt
+  - 'handflatan uppåt: mörk hy'
+  - kalla på
+  - mörk hy
 👌:
   - OK
   - OK-tecken
@@ -911,54 +2283,54 @@
 🤌:
   - fingerportmonnä
   - fingrar
-  - frågande
+  - förhör
   - handgest
-  - knyten
+  - nypa
   - sarkastisk
 🤌🏻:
   - fingerportmonnä
   - 'fingerportmonnä: ljus hy'
   - fingrar
-  - frågande
+  - förhör
   - handgest
-  - knyten
   - ljus hy
+  - nypa
   - sarkastisk
 🤌🏼:
   - fingerportmonnä
   - 'fingerportmonnä: mellanljus hy'
   - fingrar
-  - frågande
+  - förhör
   - handgest
-  - knyten
   - mellanljus hy
+  - nypa
   - sarkastisk
 🤌🏽:
   - fingerportmonnä
   - 'fingerportmonnä: mellanfärgad hy'
   - fingrar
-  - frågande
+  - förhör
   - handgest
-  - knyten
   - mellanfärgad hy
+  - nypa
   - sarkastisk
 🤌🏾:
   - fingerportmonnä
   - 'fingerportmonnä: mellanmörk hy'
   - fingrar
-  - frågande
+  - förhör
   - handgest
-  - knyten
   - mellanmörk hy
+  - nypa
   - sarkastisk
 🤌🏿:
   - fingerportmonnä
   - 'fingerportmonnä: mörk hy'
   - fingrar
-  - frågande
+  - förhör
   - handgest
-  - knyten
   - mörk hy
+  - nypa
   - sarkastisk
 🤏:
   - liten mängd
@@ -1062,6 +2434,58 @@
   - 'korsade fingrar: mörk hy'
   - lycka
   - mörk hy
+🫰:
+  - dyrt
+  - hand med tummen och pekfingret korsade
+  - knäppa med fingrarna
+  - pengaprassel
+  - pengar
+  - snäppa med fingrarna
+🫰🏻:
+  - dyrt
+  - hand med tummen och pekfingret korsade
+  - 'hand med tummen och pekfingret korsade: ljus hy'
+  - knäppa med fingrarna
+  - ljus hy
+  - pengaprassel
+  - pengar
+  - snäppa med fingrarna
+🫰🏼:
+  - dyrt
+  - hand med tummen och pekfingret korsade
+  - 'hand med tummen och pekfingret korsade: mellanljus hy'
+  - knäppa med fingrarna
+  - mellanljus hy
+  - pengaprassel
+  - pengar
+  - snäppa med fingrarna
+🫰🏽:
+  - dyrt
+  - hand med tummen och pekfingret korsade
+  - 'hand med tummen och pekfingret korsade: mellanfärgad hy'
+  - knäppa med fingrarna
+  - mellanfärgad hy
+  - pengaprassel
+  - pengar
+  - snäppa med fingrarna
+🫰🏾:
+  - dyrt
+  - hand med tummen och pekfingret korsade
+  - 'hand med tummen och pekfingret korsade: mellanmörk hy'
+  - knäppa med fingrarna
+  - mellanmörk hy
+  - pengaprassel
+  - pengar
+  - snäppa med fingrarna
+🫰🏿:
+  - dyrt
+  - hand med tummen och pekfingret korsade
+  - 'hand med tummen och pekfingret korsade: mörk hy'
+  - knäppa med fingrarna
+  - mörk hy
+  - pengaprassel
+  - pengar
+  - snäppa med fingrarna
 🤟:
   - hand
   - jag älskar dig-gest
@@ -1386,6 +2810,40 @@
   - förmaning
   - mörk hy
   - peka
+🫵:
+  - finger som pekar på mig
+  - mig
+  - peka
+🫵🏻:
+  - finger som pekar på mig
+  - 'finger som pekar på mig: ljus hy'
+  - ljus hy
+  - mig
+  - peka
+🫵🏼:
+  - finger som pekar på mig
+  - 'finger som pekar på mig: mellanljus hy'
+  - mellanljus hy
+  - mig
+  - peka
+🫵🏽:
+  - finger som pekar på mig
+  - 'finger som pekar på mig: mellanfärgad hy'
+  - mellanfärgad hy
+  - mig
+  - peka
+🫵🏾:
+  - finger som pekar på mig
+  - 'finger som pekar på mig: mellanmörk hy'
+  - mellanmörk hy
+  - mig
+  - peka
+🫵🏿:
+  - finger som pekar på mig
+  - 'finger som pekar på mig: mörk hy'
+  - mig
+  - mörk hy
+  - peka
 👍️:
   - gillar
   - tumme
@@ -1666,6 +3124,34 @@
   - hurra
   - mörk hy
   - räcker upp händerna
+🫶:
+  - handhjärta
+  - kärlek
+🫶🏻:
+  - handhjärta
+  - 'handhjärta: ljus hy'
+  - kärlek
+  - ljus hy
+🫶🏼:
+  - handhjärta
+  - 'handhjärta: mellanljus hy'
+  - kärlek
+  - mellanljus hy
+🫶🏽:
+  - handhjärta
+  - 'handhjärta: mellanfärgad hy'
+  - kärlek
+  - mellanfärgad hy
+🫶🏾:
+  - handhjärta
+  - 'handhjärta: mellanmörk hy'
+  - kärlek
+  - mellanmörk hy
+🫶🏿:
+  - handhjärta
+  - 'handhjärta: mörk hy'
+  - kärlek
+  - mörk hy
 👐:
   - händer
   - öppna
@@ -1727,6 +3213,41 @@
   - avtal
   - hand
   - handskakning
+  - möte
+🤝🏻:
+  - avtal
+  - hand
+  - handskakning
+  - 'handskakning: ljus hy'
+  - ljus hy
+  - möte
+🤝🏼:
+  - avtal
+  - hand
+  - handskakning
+  - 'handskakning: mellanljus hy'
+  - mellanljus hy
+  - möte
+🤝🏽:
+  - avtal
+  - hand
+  - handskakning
+  - 'handskakning: mellanfärgad hy'
+  - mellanfärgad hy
+  - möte
+🤝🏾:
+  - avtal
+  - hand
+  - handskakning
+  - 'handskakning: mellanmörk hy'
+  - mellanmörk hy
+  - möte
+🤝🏿:
+  - avtal
+  - hand
+  - handskakning
+  - 'handskakning: mörk hy'
+  - mörk hy
   - möte
 🙏:
   - be
@@ -2102,6 +3623,14 @@
 👄:
   - läppar
   - mun
+🫦:
+  - biter i läppen
+  - flirtar
+  - nervös
+  - obekväm
+  - orolig
+  - rädd
+  - ängslig
 👶:
   - baby
   - bebis
@@ -2324,6 +3853,366 @@
   - 'blond person: mörk hy'
   - människor
   - mörk hy
+🧑🏻‍❤‍💋‍🧑🏼:
+  - kyssas
+  - kärlek
+  - ljus hy
+  - mellanljus hy
+  - människor
+  - person
+  - puss
+  - 'puss: person, person, ljus hy, mellanljus hy'
+🧑🏻‍❤‍💋‍🧑🏽:
+  - kyssas
+  - kärlek
+  - ljus hy
+  - mellanfärgad hy
+  - människor
+  - person
+  - puss
+  - 'puss: person, person, ljus hy, mellanfärgad hy'
+🧑🏻‍❤‍💋‍🧑🏾:
+  - kyssas
+  - kärlek
+  - ljus hy
+  - mellanmörk hy
+  - människor
+  - person
+  - puss
+  - 'puss: person, person, ljus hy, mellanmörk hy'
+🧑🏻‍❤‍💋‍🧑🏿:
+  - kyssas
+  - kärlek
+  - ljus hy
+  - människor
+  - mörk hy
+  - person
+  - puss
+  - 'puss: person, person, ljus hy, mörk hy'
+🧑🏼‍❤‍💋‍🧑🏻:
+  - kyssas
+  - kärlek
+  - ljus hy
+  - mellanljus hy
+  - människor
+  - person
+  - puss
+  - 'puss: person, person, mellanljus hy, ljus hy'
+🧑🏼‍❤‍💋‍🧑🏽:
+  - kyssas
+  - kärlek
+  - mellanfärgad hy
+  - mellanljus hy
+  - människor
+  - person
+  - puss
+  - 'puss: person, person, mellanljus hy, mellanfärgad hy'
+🧑🏼‍❤‍💋‍🧑🏾:
+  - kyssas
+  - kärlek
+  - mellanljus hy
+  - mellanmörk hy
+  - människor
+  - person
+  - puss
+  - 'puss: person, person, mellanljus hy, mellanmörk hy'
+🧑🏼‍❤‍💋‍🧑🏿:
+  - kyssas
+  - kärlek
+  - mellanljus hy
+  - människor
+  - mörk hy
+  - person
+  - puss
+  - 'puss: person, person, mellanljus hy, mörk hy'
+🧑🏽‍❤‍💋‍🧑🏻:
+  - kyssas
+  - kärlek
+  - ljus hy
+  - mellanfärgad hy
+  - människor
+  - person
+  - puss
+  - 'puss: person, person, mellanfärgad hy, ljus hy'
+🧑🏽‍❤‍💋‍🧑🏼:
+  - kyssas
+  - kärlek
+  - mellanfärgad hy
+  - mellanljus hy
+  - människor
+  - person
+  - puss
+  - 'puss: person, person, mellanfärgad hy, mellanljus hy'
+🧑🏽‍❤‍💋‍🧑🏾:
+  - kyssas
+  - kärlek
+  - mellanfärgad hy
+  - mellanmörk hy
+  - människor
+  - person
+  - puss
+  - 'puss: person, person, mellanfärgad hy, mellanmörk hy'
+🧑🏽‍❤‍💋‍🧑🏿:
+  - kyssas
+  - kärlek
+  - mellanfärgad hy
+  - människor
+  - mörk hy
+  - person
+  - puss
+  - 'puss: person, person, mellanfärgad hy, mörk hy'
+🧑🏾‍❤‍💋‍🧑🏻:
+  - kyssas
+  - kärlek
+  - ljus hy
+  - mellanmörk hy
+  - människor
+  - person
+  - puss
+  - 'puss: person, person, mellanmörk hy, ljus hy'
+🧑🏾‍❤‍💋‍🧑🏼:
+  - kyssas
+  - kärlek
+  - mellanljus hy
+  - mellanmörk hy
+  - människor
+  - person
+  - puss
+  - 'puss: person, person, mellanmörk hy, mellanljus hy'
+🧑🏾‍❤‍💋‍🧑🏽:
+  - kyssas
+  - kärlek
+  - mellanfärgad hy
+  - mellanmörk hy
+  - människor
+  - person
+  - puss
+  - 'puss: person, person, mellanmörk hy, mellanfärgad hy'
+🧑🏾‍❤‍💋‍🧑🏿:
+  - kyssas
+  - kärlek
+  - mellanmörk hy
+  - människor
+  - mörk hy
+  - person
+  - puss
+  - 'puss: person, person, mellanmörk hy, mörk hy'
+🧑🏿‍❤‍💋‍🧑🏻:
+  - kyssas
+  - kärlek
+  - ljus hy
+  - människor
+  - mörk hy
+  - person
+  - puss
+  - 'puss: person, person, mörk hy, ljus hy'
+🧑🏿‍❤‍💋‍🧑🏼:
+  - kyssas
+  - kärlek
+  - mellanljus hy
+  - människor
+  - mörk hy
+  - person
+  - puss
+  - 'puss: person, person, mörk hy, mellanljus hy'
+🧑🏿‍❤‍💋‍🧑🏽:
+  - kyssas
+  - kärlek
+  - mellanfärgad hy
+  - människor
+  - mörk hy
+  - person
+  - puss
+  - 'puss: person, person, mörk hy, mellanfärgad hy'
+🧑🏿‍❤‍💋‍🧑🏾:
+  - kyssas
+  - kärlek
+  - mellanmörk hy
+  - människor
+  - mörk hy
+  - person
+  - puss
+  - 'puss: person, person, mörk hy, mellanmörk hy'
+🧑🏻‍❤‍🧑🏼:
+  - hjärta
+  - kärlek
+  - ljus hy
+  - mellanljus hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: person, person, ljus hy, mellanljus hy'
+  - person
+🧑🏻‍❤‍🧑🏽:
+  - hjärta
+  - kärlek
+  - ljus hy
+  - mellanfärgad hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: person, person, ljus hy, mellanfärgad hy'
+  - person
+🧑🏻‍❤‍🧑🏾:
+  - hjärta
+  - kärlek
+  - ljus hy
+  - mellanmörk hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: person, person, ljus hy, mellanmörk hy'
+  - person
+🧑🏻‍❤‍🧑🏿:
+  - hjärta
+  - kärlek
+  - ljus hy
+  - människor
+  - mörk hy
+  - par med hjärta
+  - 'par med hjärta: person, person, ljus hy, mörk hy'
+  - person
+🧑🏼‍❤‍🧑🏻:
+  - hjärta
+  - kärlek
+  - ljus hy
+  - mellanljus hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: person, person, mellanljus hy, ljus hy'
+  - person
+🧑🏼‍❤‍🧑🏽:
+  - hjärta
+  - kärlek
+  - mellanfärgad hy
+  - mellanljus hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: person, person, mellanljus hy, mellanfärgad hy'
+  - person
+🧑🏼‍❤‍🧑🏾:
+  - hjärta
+  - kärlek
+  - mellanljus hy
+  - mellanmörk hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: person, person, mellanljus hy, mellanmörk hy'
+  - person
+🧑🏼‍❤‍🧑🏿:
+  - hjärta
+  - kärlek
+  - mellanljus hy
+  - människor
+  - mörk hy
+  - par med hjärta
+  - 'par med hjärta: person, person, mellanljus hy, mörk hy'
+  - person
+🧑🏽‍❤‍🧑🏻:
+  - hjärta
+  - kärlek
+  - ljus hy
+  - mellanfärgad hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: person, person, mellanfärgad hy, ljus hy'
+  - person
+🧑🏽‍❤‍🧑🏼:
+  - hjärta
+  - kärlek
+  - mellanfärgad hy
+  - mellanljus hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: person, person, mellanfärgad hy, mellanljus hy'
+  - person
+🧑🏽‍❤‍🧑🏾:
+  - hjärta
+  - kärlek
+  - mellanfärgad hy
+  - mellanmörk hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: person, person, mellanfärgad hy, mellanmörk hy'
+  - person
+🧑🏽‍❤‍🧑🏿:
+  - hjärta
+  - kärlek
+  - mellanfärgad hy
+  - människor
+  - mörk hy
+  - par med hjärta
+  - 'par med hjärta: person, person, mellanfärgad hy, mörk hy'
+  - person
+🧑🏾‍❤‍🧑🏻:
+  - hjärta
+  - kärlek
+  - ljus hy
+  - mellanmörk hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: person, person, mellanmörk hy, ljus hy'
+  - person
+🧑🏾‍❤‍🧑🏼:
+  - hjärta
+  - kärlek
+  - mellanljus hy
+  - mellanmörk hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: person, person, mellanmörk hy, mellanljus hy'
+  - person
+🧑🏾‍❤‍🧑🏽:
+  - hjärta
+  - kärlek
+  - mellanfärgad hy
+  - mellanmörk hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: person, person, mellanmörk hy, mellanfärgad hy'
+  - person
+🧑🏾‍❤‍🧑🏿:
+  - hjärta
+  - kärlek
+  - mellanmörk hy
+  - människor
+  - mörk hy
+  - par med hjärta
+  - 'par med hjärta: person, person, mellanmörk hy, mörk hy'
+  - person
+🧑🏿‍❤‍🧑🏻:
+  - hjärta
+  - kärlek
+  - ljus hy
+  - människor
+  - mörk hy
+  - par med hjärta
+  - 'par med hjärta: person, person, mörk hy, ljus hy'
+  - person
+🧑🏿‍❤‍🧑🏼:
+  - hjärta
+  - kärlek
+  - mellanljus hy
+  - människor
+  - mörk hy
+  - par med hjärta
+  - 'par med hjärta: person, person, mörk hy, mellanljus hy'
+  - person
+🧑🏿‍❤‍🧑🏽:
+  - hjärta
+  - kärlek
+  - mellanfärgad hy
+  - människor
+  - mörk hy
+  - par med hjärta
+  - 'par med hjärta: person, person, mörk hy, mellanfärgad hy'
+  - person
+🧑🏿‍❤‍🧑🏾:
+  - hjärta
+  - kärlek
+  - mellanmörk hy
+  - människor
+  - mörk hy
+  - par med hjärta
+  - 'par med hjärta: person, person, mörk hy, mellanmörk hy'
+  - person
 🧑‍🦰:
   - könsneutral
   - person
@@ -2550,6 +4439,40 @@
   - mörk hy
   - person med skägg
   - skägg
+🧔‍♂:
+  - man
+  - 'man: skägg'
+  - skägg
+🧔🏻‍♂:
+  - ljus hy
+  - man
+  - 'man: ljus hy, skägg'
+  - 'man: skägg'
+  - skägg
+🧔🏼‍♂:
+  - man
+  - 'man: mellanljus hy, skägg'
+  - 'man: skägg'
+  - mellanljus hy
+  - skägg
+🧔🏽‍♂:
+  - man
+  - 'man: mellanfärgad hy, skägg'
+  - 'man: skägg'
+  - mellanfärgad hy
+  - skägg
+🧔🏾‍♂:
+  - man
+  - 'man: mellanmörk hy, skägg'
+  - 'man: skägg'
+  - mellanmörk hy
+  - skägg
+🧔🏿‍♂:
+  - man
+  - 'man: mörk hy, skägg'
+  - 'man: skägg'
+  - mörk hy
+  - skägg
 👱‍♂:
   - blond
   - blond man
@@ -2579,6 +4502,446 @@
   - 'blond man: mörk hy'
   - man
   - mörk hy
+👨🏻‍❤‍💋‍👨🏻:
+  - kyssas
+  - kärlek
+  - ljus hy
+  - man
+  - människor
+  - puss
+  - 'puss: man, man, ljus hy'
+👨🏻‍❤‍💋‍👨🏼:
+  - kyssas
+  - kärlek
+  - ljus hy
+  - man
+  - mellanljus hy
+  - människor
+  - puss
+  - 'puss: man, man, ljus hy, mellanljus hy'
+👨🏻‍❤‍💋‍👨🏽:
+  - kyssas
+  - kärlek
+  - ljus hy
+  - man
+  - mellanfärgad hy
+  - människor
+  - puss
+  - 'puss: man, man, ljus hy, mellanfärgad hy'
+👨🏻‍❤‍💋‍👨🏾:
+  - kyssas
+  - kärlek
+  - ljus hy
+  - man
+  - mellanmörk hy
+  - människor
+  - puss
+  - 'puss: man, man, ljus hy, mellanmörk hy'
+👨🏻‍❤‍💋‍👨🏿:
+  - kyssas
+  - kärlek
+  - ljus hy
+  - man
+  - människor
+  - mörk hy
+  - puss
+  - 'puss: man, man, ljus hy, mörk hy'
+👨🏼‍❤‍💋‍👨🏻:
+  - kyssas
+  - kärlek
+  - ljus hy
+  - man
+  - mellanljus hy
+  - människor
+  - puss
+  - 'puss: man, man, mellanljus hy, ljus hy'
+👨🏼‍❤‍💋‍👨🏼:
+  - kyssas
+  - kärlek
+  - man
+  - mellanljus hy
+  - människor
+  - puss
+  - 'puss: man, man, mellanljus hy'
+👨🏼‍❤‍💋‍👨🏽:
+  - kyssas
+  - kärlek
+  - man
+  - mellanfärgad hy
+  - mellanljus hy
+  - människor
+  - puss
+  - 'puss: man, man, mellanljus hy, mellanfärgad hy'
+👨🏼‍❤‍💋‍👨🏾:
+  - kyssas
+  - kärlek
+  - man
+  - mellanljus hy
+  - mellanmörk hy
+  - människor
+  - puss
+  - 'puss: man, man, mellanljus hy, mellanmörk hy'
+👨🏼‍❤‍💋‍👨🏿:
+  - kyssas
+  - kärlek
+  - man
+  - mellanljus hy
+  - människor
+  - mörk hy
+  - puss
+  - 'puss: man, man, mellanljus hy, mörk hy'
+👨🏽‍❤‍💋‍👨🏻:
+  - kyssas
+  - kärlek
+  - ljus hy
+  - man
+  - mellanfärgad hy
+  - människor
+  - puss
+  - 'puss: man, man, mellanfärgad hy, ljus hy'
+👨🏽‍❤‍💋‍👨🏼:
+  - kyssas
+  - kärlek
+  - man
+  - mellanfärgad hy
+  - mellanljus hy
+  - människor
+  - puss
+  - 'puss: man, man, mellanfärgad hy, mellanljus hy'
+👨🏽‍❤‍💋‍👨🏽:
+  - kyssas
+  - kärlek
+  - man
+  - mellanfärgad hy
+  - människor
+  - puss
+  - 'puss: man, man, mellanfärgad hy'
+👨🏽‍❤‍💋‍👨🏾:
+  - kyssas
+  - kärlek
+  - man
+  - mellanfärgad hy
+  - mellanmörk hy
+  - människor
+  - puss
+  - 'puss: man, man, mellanfärgad hy, mellanmörk hy'
+👨🏽‍❤‍💋‍👨🏿:
+  - kyssas
+  - kärlek
+  - man
+  - mellanfärgad hy
+  - människor
+  - mörk hy
+  - puss
+  - 'puss: man, man, mellanfärgad hy, mörk hy'
+👨🏾‍❤‍💋‍👨🏻:
+  - kyssas
+  - kärlek
+  - ljus hy
+  - man
+  - mellanmörk hy
+  - människor
+  - puss
+  - 'puss: man, man, mellanmörk hy, ljus hy'
+👨🏾‍❤‍💋‍👨🏼:
+  - kyssas
+  - kärlek
+  - man
+  - mellanljus hy
+  - mellanmörk hy
+  - människor
+  - puss
+  - 'puss: man, man, mellanmörk hy, mellanljus hy'
+👨🏾‍❤‍💋‍👨🏽:
+  - kyssas
+  - kärlek
+  - man
+  - mellanfärgad hy
+  - mellanmörk hy
+  - människor
+  - puss
+  - 'puss: man, man, mellanmörk hy, mellanfärgad hy'
+👨🏾‍❤‍💋‍👨🏾:
+  - kyssas
+  - kärlek
+  - man
+  - mellanmörk hy
+  - människor
+  - puss
+  - 'puss: man, man, mellanmörk hy'
+👨🏾‍❤‍💋‍👨🏿:
+  - kyssas
+  - kärlek
+  - man
+  - mellanmörk hy
+  - människor
+  - mörk hy
+  - puss
+  - 'puss: man, man, mellanmörk hy, mörk hy'
+👨🏿‍❤‍💋‍👨🏻:
+  - kyssas
+  - kärlek
+  - ljus hy
+  - man
+  - människor
+  - mörk hy
+  - puss
+  - 'puss: man, man, mörk hy, ljus hy'
+👨🏿‍❤‍💋‍👨🏼:
+  - kyssas
+  - kärlek
+  - man
+  - mellanljus hy
+  - människor
+  - mörk hy
+  - puss
+  - 'puss: man, man, mörk hy, mellanljus hy'
+👨🏿‍❤‍💋‍👨🏽:
+  - kyssas
+  - kärlek
+  - man
+  - mellanfärgad hy
+  - människor
+  - mörk hy
+  - puss
+  - 'puss: man, man, mörk hy, mellanfärgad hy'
+👨🏿‍❤‍💋‍👨🏾:
+  - kyssas
+  - kärlek
+  - man
+  - mellanmörk hy
+  - människor
+  - mörk hy
+  - puss
+  - 'puss: man, man, mörk hy, mellanmörk hy'
+👨🏿‍❤‍💋‍👨🏿:
+  - kyssas
+  - kärlek
+  - man
+  - människor
+  - mörk hy
+  - puss
+  - 'puss: man, man, mörk hy'
+👨🏻‍❤‍👨🏻:
+  - hjärta
+  - kärlek
+  - ljus hy
+  - man
+  - människor
+  - par med hjärta
+  - 'par med hjärta: man, man, ljus hy'
+👨🏻‍❤‍👨🏼:
+  - hjärta
+  - kärlek
+  - ljus hy
+  - man
+  - mellanljus hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: man, man, ljus hy, mellanljus hy'
+👨🏻‍❤‍👨🏽:
+  - hjärta
+  - kärlek
+  - ljus hy
+  - man
+  - mellanfärgad hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: man, man, ljus hy, mellanfärgad hy'
+👨🏻‍❤‍👨🏾:
+  - hjärta
+  - kärlek
+  - ljus hy
+  - man
+  - mellanmörk hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: man, man, ljus hy, mellanmörk hy'
+👨🏻‍❤‍👨🏿:
+  - hjärta
+  - kärlek
+  - ljus hy
+  - man
+  - människor
+  - mörk hy
+  - par med hjärta
+  - 'par med hjärta: man, man, ljus hy, mörk hy'
+👨🏼‍❤‍👨🏻:
+  - hjärta
+  - kärlek
+  - ljus hy
+  - man
+  - mellanljus hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: man, man, mellanljus hy, ljus hy'
+👨🏼‍❤‍👨🏼:
+  - hjärta
+  - kärlek
+  - man
+  - mellanljus hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: man, man, mellanljus hy'
+👨🏼‍❤‍👨🏽:
+  - hjärta
+  - kärlek
+  - man
+  - mellanfärgad hy
+  - mellanljus hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: man, man, mellanljus hy, mellanfärgad hy'
+👨🏼‍❤‍👨🏾:
+  - hjärta
+  - kärlek
+  - man
+  - mellanljus hy
+  - mellanmörk hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: man, man, mellanljus hy, mellanmörk hy'
+👨🏼‍❤‍👨🏿:
+  - hjärta
+  - kärlek
+  - man
+  - mellanljus hy
+  - människor
+  - mörk hy
+  - par med hjärta
+  - 'par med hjärta: man, man, mellanljus hy, mörk hy'
+👨🏽‍❤‍👨🏻:
+  - hjärta
+  - kärlek
+  - ljus hy
+  - man
+  - mellanfärgad hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: man, man, mellanfärgad hy, ljus hy'
+👨🏽‍❤‍👨🏼:
+  - hjärta
+  - kärlek
+  - man
+  - mellanfärgad hy
+  - mellanljus hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: man, man, mellanfärgad hy, mellanljus hy'
+👨🏽‍❤‍👨🏽:
+  - hjärta
+  - kärlek
+  - man
+  - mellanfärgad hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: man, man, mellanfärgad hy'
+👨🏽‍❤‍👨🏾:
+  - hjärta
+  - kärlek
+  - man
+  - mellanfärgad hy
+  - mellanmörk hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: man, man, mellanfärgad hy, mellanmörk hy'
+👨🏽‍❤‍👨🏿:
+  - hjärta
+  - kärlek
+  - man
+  - mellanfärgad hy
+  - människor
+  - mörk hy
+  - par med hjärta
+  - 'par med hjärta: man, man, mellanfärgad hy, mörk hy'
+👨🏾‍❤‍👨🏻:
+  - hjärta
+  - kärlek
+  - ljus hy
+  - man
+  - mellanmörk hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: man, man, mellanmörk hy, ljus hy'
+👨🏾‍❤‍👨🏼:
+  - hjärta
+  - kärlek
+  - man
+  - mellanljus hy
+  - mellanmörk hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: man, man, mellanmörk hy, mellanljus hy'
+👨🏾‍❤‍👨🏽:
+  - hjärta
+  - kärlek
+  - man
+  - mellanfärgad hy
+  - mellanmörk hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: man, man, mellanmörk hy, mellanfärgad hy'
+👨🏾‍❤‍👨🏾:
+  - hjärta
+  - kärlek
+  - man
+  - mellanmörk hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: man, man, mellanmörk hy'
+👨🏾‍❤‍👨🏿:
+  - hjärta
+  - kärlek
+  - man
+  - mellanmörk hy
+  - människor
+  - mörk hy
+  - par med hjärta
+  - 'par med hjärta: man, man, mellanmörk hy, mörk hy'
+👨🏿‍❤‍👨🏻:
+  - hjärta
+  - kärlek
+  - ljus hy
+  - man
+  - människor
+  - mörk hy
+  - par med hjärta
+  - 'par med hjärta: man, man, mörk hy, ljus hy'
+👨🏿‍❤‍👨🏼:
+  - hjärta
+  - kärlek
+  - man
+  - mellanljus hy
+  - människor
+  - mörk hy
+  - par med hjärta
+  - 'par med hjärta: man, man, mörk hy, mellanljus hy'
+👨🏿‍❤‍👨🏽:
+  - hjärta
+  - kärlek
+  - man
+  - mellanfärgad hy
+  - människor
+  - mörk hy
+  - par med hjärta
+  - 'par med hjärta: man, man, mörk hy, mellanfärgad hy'
+👨🏿‍❤‍👨🏾:
+  - hjärta
+  - kärlek
+  - man
+  - mellanmörk hy
+  - människor
+  - mörk hy
+  - par med hjärta
+  - 'par med hjärta: man, man, mörk hy, mellanmörk hy'
+👨🏿‍❤‍👨🏿:
+  - hjärta
+  - kärlek
+  - man
+  - människor
+  - mörk hy
+  - par med hjärta
+  - 'par med hjärta: man, man, mörk hy'
 👨‍🦰:
   - man
   - 'man: rödhårig'
@@ -2747,6 +5110,40 @@
   - 'kvinna: mörk hy'
   - mörk hy
   - vuxen
+🧔‍♀:
+  - kvinna
+  - 'kvinna: skägg'
+  - skägg
+🧔🏻‍♀:
+  - kvinna
+  - 'kvinna: ljus hy, skägg'
+  - 'kvinna: skägg'
+  - ljus hy
+  - skägg
+🧔🏼‍♀:
+  - kvinna
+  - 'kvinna: mellanljus hy, skägg'
+  - 'kvinna: skägg'
+  - mellanljus hy
+  - skägg
+🧔🏽‍♀:
+  - kvinna
+  - 'kvinna: mellanfärgad hy, skägg'
+  - 'kvinna: skägg'
+  - mellanfärgad hy
+  - skägg
+🧔🏾‍♀:
+  - kvinna
+  - 'kvinna: mellanmörk hy, skägg'
+  - 'kvinna: skägg'
+  - mellanmörk hy
+  - skägg
+🧔🏿‍♀:
+  - kvinna
+  - 'kvinna: mörk hy, skägg'
+  - 'kvinna: skägg'
+  - mörk hy
+  - skägg
 👱‍♀:
   - blond
   - blond kvinna
@@ -2782,6 +5179,936 @@
   - blondin
   - kvinna
   - mörk hy
+👩🏻‍❤‍💋‍👨🏻:
+  - kvinna
+  - kyssas
+  - kärlek
+  - ljus hy
+  - man
+  - människor
+  - puss
+  - 'puss: kvinna, man, ljus hy'
+👩🏻‍❤‍💋‍👨🏼:
+  - kvinna
+  - kyssas
+  - kärlek
+  - ljus hy
+  - man
+  - mellanljus hy
+  - människor
+  - puss
+  - 'puss: kvinna, man, ljus hy, mellanljus hy'
+👩🏻‍❤‍💋‍👨🏽:
+  - kvinna
+  - kyssas
+  - kärlek
+  - ljus hy
+  - man
+  - mellanfärgad hy
+  - människor
+  - puss
+  - 'puss: kvinna, man, ljus hy, mellanfärgad hy'
+👩🏻‍❤‍💋‍👨🏾:
+  - kvinna
+  - kyssas
+  - kärlek
+  - ljus hy
+  - man
+  - mellanmörk hy
+  - människor
+  - puss
+  - 'puss: kvinna, man, ljus hy, mellanmörk hy'
+👩🏻‍❤‍💋‍👨🏿:
+  - kvinna
+  - kyssas
+  - kärlek
+  - ljus hy
+  - man
+  - människor
+  - mörk hy
+  - puss
+  - 'puss: kvinna, man, ljus hy, mörk hy'
+👩🏼‍❤‍💋‍👨🏻:
+  - kvinna
+  - kyssas
+  - kärlek
+  - ljus hy
+  - man
+  - mellanljus hy
+  - människor
+  - puss
+  - 'puss: kvinna, man, mellanljus hy, ljus hy'
+👩🏼‍❤‍💋‍👨🏼:
+  - kvinna
+  - kyssas
+  - kärlek
+  - man
+  - mellanljus hy
+  - människor
+  - puss
+  - 'puss: kvinna, man, mellanljus hy'
+👩🏼‍❤‍💋‍👨🏽:
+  - kvinna
+  - kyssas
+  - kärlek
+  - man
+  - mellanfärgad hy
+  - mellanljus hy
+  - människor
+  - puss
+  - 'puss: kvinna, man, mellanljus hy, mellanfärgad hy'
+👩🏼‍❤‍💋‍👨🏾:
+  - kvinna
+  - kyssas
+  - kärlek
+  - man
+  - mellanljus hy
+  - mellanmörk hy
+  - människor
+  - puss
+  - 'puss: kvinna, man, mellanljus hy, mellanmörk hy'
+👩🏼‍❤‍💋‍👨🏿:
+  - kvinna
+  - kyssas
+  - kärlek
+  - man
+  - mellanljus hy
+  - människor
+  - mörk hy
+  - puss
+  - 'puss: kvinna, man, mellanljus hy, mörk hy'
+👩🏽‍❤‍💋‍👨🏻:
+  - kvinna
+  - kyssas
+  - kärlek
+  - ljus hy
+  - man
+  - mellanfärgad hy
+  - människor
+  - puss
+  - 'puss: kvinna, man, mellanfärgad hy, ljus hy'
+👩🏽‍❤‍💋‍👨🏼:
+  - kvinna
+  - kyssas
+  - kärlek
+  - man
+  - mellanfärgad hy
+  - mellanljus hy
+  - människor
+  - puss
+  - 'puss: kvinna, man, mellanfärgad hy, mellanljus hy'
+👩🏽‍❤‍💋‍👨🏽:
+  - kvinna
+  - kyssas
+  - kärlek
+  - man
+  - mellanfärgad hy
+  - människor
+  - puss
+  - 'puss: kvinna, man, mellanfärgad hy'
+👩🏽‍❤‍💋‍👨🏾:
+  - kvinna
+  - kyssas
+  - kärlek
+  - man
+  - mellanfärgad hy
+  - mellanmörk hy
+  - människor
+  - puss
+  - 'puss: kvinna, man, mellanfärgad hy, mellanmörk hy'
+👩🏽‍❤‍💋‍👨🏿:
+  - kvinna
+  - kyssas
+  - kärlek
+  - man
+  - mellanfärgad hy
+  - människor
+  - mörk hy
+  - puss
+  - 'puss: kvinna, man, mellanfärgad hy, mörk hy'
+👩🏾‍❤‍💋‍👨🏻:
+  - kvinna
+  - kyssas
+  - kärlek
+  - ljus hy
+  - man
+  - mellanmörk hy
+  - människor
+  - puss
+  - 'puss: kvinna, man, mellanmörk hy, ljus hy'
+👩🏾‍❤‍💋‍👨🏼:
+  - kvinna
+  - kyssas
+  - kärlek
+  - man
+  - mellanljus hy
+  - mellanmörk hy
+  - människor
+  - puss
+  - 'puss: kvinna, man, mellanmörk hy, mellanljus hy'
+👩🏾‍❤‍💋‍👨🏽:
+  - kvinna
+  - kyssas
+  - kärlek
+  - man
+  - mellanfärgad hy
+  - mellanmörk hy
+  - människor
+  - puss
+  - 'puss: kvinna, man, mellanmörk hy, mellanfärgad hy'
+👩🏾‍❤‍💋‍👨🏾:
+  - kvinna
+  - kyssas
+  - kärlek
+  - man
+  - mellanmörk hy
+  - människor
+  - puss
+  - 'puss: kvinna, man, mellanmörk hy'
+👩🏾‍❤‍💋‍👨🏿:
+  - kvinna
+  - kyssas
+  - kärlek
+  - man
+  - mellanmörk hy
+  - människor
+  - mörk hy
+  - puss
+  - 'puss: kvinna, man, mellanmörk hy, mörk hy'
+👩🏿‍❤‍💋‍👨🏻:
+  - kvinna
+  - kyssas
+  - kärlek
+  - ljus hy
+  - man
+  - människor
+  - mörk hy
+  - puss
+  - 'puss: kvinna, man, mörk hy, ljus hy'
+👩🏿‍❤‍💋‍👨🏼:
+  - kvinna
+  - kyssas
+  - kärlek
+  - man
+  - mellanljus hy
+  - människor
+  - mörk hy
+  - puss
+  - 'puss: kvinna, man, mörk hy, mellanljus hy'
+👩🏿‍❤‍💋‍👨🏽:
+  - kvinna
+  - kyssas
+  - kärlek
+  - man
+  - mellanfärgad hy
+  - människor
+  - mörk hy
+  - puss
+  - 'puss: kvinna, man, mörk hy, mellanfärgad hy'
+👩🏿‍❤‍💋‍👨🏾:
+  - kvinna
+  - kyssas
+  - kärlek
+  - man
+  - mellanmörk hy
+  - människor
+  - mörk hy
+  - puss
+  - 'puss: kvinna, man, mörk hy, mellanmörk hy'
+👩🏿‍❤‍💋‍👨🏿:
+  - kvinna
+  - kyssas
+  - kärlek
+  - man
+  - människor
+  - mörk hy
+  - puss
+  - 'puss: kvinna, man, mörk hy'
+👩🏻‍❤‍💋‍👩🏻:
+  - kvinna
+  - kyssas
+  - kärlek
+  - ljus hy
+  - människor
+  - puss
+  - 'puss: kvinna, kvinna, ljus hy'
+👩🏻‍❤‍💋‍👩🏼:
+  - kvinna
+  - kyssas
+  - kärlek
+  - ljus hy
+  - mellanljus hy
+  - människor
+  - puss
+  - 'puss: kvinna, kvinna, ljus hy, mellanljus hy'
+👩🏻‍❤‍💋‍👩🏽:
+  - kvinna
+  - kyssas
+  - kärlek
+  - ljus hy
+  - mellanfärgad hy
+  - människor
+  - puss
+  - 'puss: kvinna, kvinna, ljus hy, mellanfärgad hy'
+👩🏻‍❤‍💋‍👩🏾:
+  - kvinna
+  - kyssas
+  - kärlek
+  - ljus hy
+  - mellanmörk hy
+  - människor
+  - puss
+  - 'puss: kvinna, kvinna, ljus hy, mellanmörk hy'
+👩🏻‍❤‍💋‍👩🏿:
+  - kvinna
+  - kyssas
+  - kärlek
+  - ljus hy
+  - människor
+  - mörk hy
+  - puss
+  - 'puss: kvinna, kvinna, ljus hy, mörk hy'
+👩🏼‍❤‍💋‍👩🏻:
+  - kvinna
+  - kyssas
+  - kärlek
+  - ljus hy
+  - mellanljus hy
+  - människor
+  - puss
+  - 'puss: kvinna, kvinna, mellanljus hy, ljus hy'
+👩🏼‍❤‍💋‍👩🏼:
+  - kvinna
+  - kyssas
+  - kärlek
+  - mellanljus hy
+  - människor
+  - puss
+  - 'puss: kvinna, kvinna, mellanljus hy'
+👩🏼‍❤‍💋‍👩🏽:
+  - kvinna
+  - kyssas
+  - kärlek
+  - mellanfärgad hy
+  - mellanljus hy
+  - människor
+  - puss
+  - 'puss: kvinna, kvinna, mellanljus hy, mellanfärgad hy'
+👩🏼‍❤‍💋‍👩🏾:
+  - kvinna
+  - kyssas
+  - kärlek
+  - mellanljus hy
+  - mellanmörk hy
+  - människor
+  - puss
+  - 'puss: kvinna, kvinna, mellanljus hy, mellanmörk hy'
+👩🏼‍❤‍💋‍👩🏿:
+  - kvinna
+  - kyssas
+  - kärlek
+  - mellanljus hy
+  - människor
+  - mörk hy
+  - puss
+  - 'puss: kvinna, kvinna, mellanljus hy, mörk hy'
+👩🏽‍❤‍💋‍👩🏻:
+  - kvinna
+  - kyssas
+  - kärlek
+  - ljus hy
+  - mellanfärgad hy
+  - människor
+  - puss
+  - 'puss: kvinna, kvinna, mellanfärgad hy, ljus hy'
+👩🏽‍❤‍💋‍👩🏼:
+  - kvinna
+  - kyssas
+  - kärlek
+  - mellanfärgad hy
+  - mellanljus hy
+  - människor
+  - puss
+  - 'puss: kvinna, kvinna, mellanfärgad hy, mellanljus hy'
+👩🏽‍❤‍💋‍👩🏽:
+  - kvinna
+  - kyssas
+  - kärlek
+  - mellanfärgad hy
+  - människor
+  - puss
+  - 'puss: kvinna, kvinna, mellanfärgad hy'
+👩🏽‍❤‍💋‍👩🏾:
+  - kvinna
+  - kyssas
+  - kärlek
+  - mellanfärgad hy
+  - mellanmörk hy
+  - människor
+  - puss
+  - 'puss: kvinna, kvinna, mellanfärgad hy, mellanmörk hy'
+👩🏽‍❤‍💋‍👩🏿:
+  - kvinna
+  - kyssas
+  - kärlek
+  - mellanfärgad hy
+  - människor
+  - mörk hy
+  - puss
+  - 'puss: kvinna, kvinna, mellanfärgad hy, mörk hy'
+👩🏾‍❤‍💋‍👩🏻:
+  - kvinna
+  - kyssas
+  - kärlek
+  - ljus hy
+  - mellanmörk hy
+  - människor
+  - puss
+  - 'puss: kvinna, kvinna, mellanmörk hy, ljus hy'
+👩🏾‍❤‍💋‍👩🏼:
+  - kvinna
+  - kyssas
+  - kärlek
+  - mellanljus hy
+  - mellanmörk hy
+  - människor
+  - puss
+  - 'puss: kvinna, kvinna, mellanmörk hy, mellanljus hy'
+👩🏾‍❤‍💋‍👩🏽:
+  - kvinna
+  - kyssas
+  - kärlek
+  - mellanfärgad hy
+  - mellanmörk hy
+  - människor
+  - puss
+  - 'puss: kvinna, kvinna, mellanmörk hy, mellanfärgad hy'
+👩🏾‍❤‍💋‍👩🏾:
+  - kvinna
+  - kyssas
+  - kärlek
+  - mellanmörk hy
+  - människor
+  - puss
+  - 'puss: kvinna, kvinna, mellanmörk hy'
+👩🏾‍❤‍💋‍👩🏿:
+  - kvinna
+  - kyssas
+  - kärlek
+  - mellanmörk hy
+  - människor
+  - mörk hy
+  - puss
+  - 'puss: kvinna, kvinna, mellanmörk hy, mörk hy'
+👩🏿‍❤‍💋‍👩🏻:
+  - kvinna
+  - kyssas
+  - kärlek
+  - ljus hy
+  - människor
+  - mörk hy
+  - puss
+  - 'puss: kvinna, kvinna, mörk hy, ljus hy'
+👩🏿‍❤‍💋‍👩🏼:
+  - kvinna
+  - kyssas
+  - kärlek
+  - mellanljus hy
+  - människor
+  - mörk hy
+  - puss
+  - 'puss: kvinna, kvinna, mörk hy, mellanljus hy'
+👩🏿‍❤‍💋‍👩🏽:
+  - kvinna
+  - kyssas
+  - kärlek
+  - mellanfärgad hy
+  - människor
+  - mörk hy
+  - puss
+  - 'puss: kvinna, kvinna, mörk hy, mellanfärgad hy'
+👩🏿‍❤‍💋‍👩🏾:
+  - kvinna
+  - kyssas
+  - kärlek
+  - mellanmörk hy
+  - människor
+  - mörk hy
+  - puss
+  - 'puss: kvinna, kvinna, mörk hy, mellanmörk hy'
+👩🏿‍❤‍💋‍👩🏿:
+  - kvinna
+  - kyssas
+  - kärlek
+  - människor
+  - mörk hy
+  - puss
+  - 'puss: kvinna, kvinna, mörk hy'
+👩🏻‍❤‍👨🏻:
+  - hjärta
+  - kvinna
+  - kärlek
+  - ljus hy
+  - man
+  - människor
+  - par med hjärta
+  - 'par med hjärta: kvinna, man, ljus hy'
+👩🏻‍❤‍👨🏼:
+  - hjärta
+  - kvinna
+  - kärlek
+  - ljus hy
+  - man
+  - mellanljus hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: kvinna, man, ljus hy, mellanljus hy'
+👩🏻‍❤‍👨🏽:
+  - hjärta
+  - kvinna
+  - kärlek
+  - ljus hy
+  - man
+  - mellanfärgad hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: kvinna, man, ljus hy, mellanfärgad hy'
+👩🏻‍❤‍👨🏾:
+  - hjärta
+  - kvinna
+  - kärlek
+  - ljus hy
+  - man
+  - mellanmörk hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: kvinna, man, ljus hy, mellanmörk hy'
+👩🏻‍❤‍👨🏿:
+  - hjärta
+  - kvinna
+  - kärlek
+  - ljus hy
+  - man
+  - människor
+  - mörk hy
+  - par med hjärta
+  - 'par med hjärta: kvinna, man, ljus hy, mörk hy'
+👩🏼‍❤‍👨🏻:
+  - hjärta
+  - kvinna
+  - kärlek
+  - ljus hy
+  - man
+  - mellanljus hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: kvinna, man, mellanljus hy, ljus hy'
+👩🏼‍❤‍👨🏼:
+  - hjärta
+  - kvinna
+  - kärlek
+  - man
+  - mellanljus hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: kvinna, man, mellanljus hy'
+👩🏼‍❤‍👨🏽:
+  - hjärta
+  - kvinna
+  - kärlek
+  - man
+  - mellanfärgad hy
+  - mellanljus hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: kvinna, man, mellanljus hy, mellanfärgad hy'
+👩🏼‍❤‍👨🏾:
+  - hjärta
+  - kvinna
+  - kärlek
+  - man
+  - mellanljus hy
+  - mellanmörk hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: kvinna, man, mellanljus hy, mellanmörk hy'
+👩🏼‍❤‍👨🏿:
+  - hjärta
+  - kvinna
+  - kärlek
+  - man
+  - mellanljus hy
+  - människor
+  - mörk hy
+  - par med hjärta
+  - 'par med hjärta: kvinna, man, mellanljus hy, mörk hy'
+👩🏽‍❤‍👨🏻:
+  - hjärta
+  - kvinna
+  - kärlek
+  - ljus hy
+  - man
+  - mellanfärgad hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: kvinna, man, mellanfärgad hy, ljus hy'
+👩🏽‍❤‍👨🏼:
+  - hjärta
+  - kvinna
+  - kärlek
+  - man
+  - mellanfärgad hy
+  - mellanljus hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: kvinna, man, mellanfärgad hy, mellanljus hy'
+👩🏽‍❤‍👨🏽:
+  - hjärta
+  - kvinna
+  - kärlek
+  - man
+  - mellanfärgad hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: kvinna, man, mellanfärgad hy'
+👩🏽‍❤‍👨🏾:
+  - hjärta
+  - kvinna
+  - kärlek
+  - man
+  - mellanfärgad hy
+  - mellanmörk hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: kvinna, man, mellanfärgad hy, mellanmörk hy'
+👩🏽‍❤‍👨🏿:
+  - hjärta
+  - kvinna
+  - kärlek
+  - man
+  - mellanfärgad hy
+  - människor
+  - mörk hy
+  - par med hjärta
+  - 'par med hjärta: kvinna, man, mellanfärgad hy, mörk hy'
+👩🏾‍❤‍👨🏻:
+  - hjärta
+  - kvinna
+  - kärlek
+  - ljus hy
+  - man
+  - mellanmörk hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: kvinna, man, mellanmörk hy, ljus hy'
+👩🏾‍❤‍👨🏼:
+  - hjärta
+  - kvinna
+  - kärlek
+  - man
+  - mellanljus hy
+  - mellanmörk hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: kvinna, man, mellanmörk hy, mellanljus hy'
+👩🏾‍❤‍👨🏽:
+  - hjärta
+  - kvinna
+  - kärlek
+  - man
+  - mellanfärgad hy
+  - mellanmörk hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: kvinna, man, mellanmörk hy, mellanfärgad hy'
+👩🏾‍❤‍👨🏾:
+  - hjärta
+  - kvinna
+  - kärlek
+  - man
+  - mellanmörk hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: kvinna, man, mellanmörk hy'
+👩🏾‍❤‍👨🏿:
+  - hjärta
+  - kvinna
+  - kärlek
+  - man
+  - mellanmörk hy
+  - människor
+  - mörk hy
+  - par med hjärta
+  - 'par med hjärta: kvinna, man, mellanmörk hy, mörk hy'
+👩🏿‍❤‍👨🏻:
+  - hjärta
+  - kvinna
+  - kärlek
+  - ljus hy
+  - man
+  - människor
+  - mörk hy
+  - par med hjärta
+  - 'par med hjärta: kvinna, man, mörk hy, ljus hy'
+👩🏿‍❤‍👨🏼:
+  - hjärta
+  - kvinna
+  - kärlek
+  - man
+  - mellanljus hy
+  - människor
+  - mörk hy
+  - par med hjärta
+  - 'par med hjärta: kvinna, man, mörk hy, mellanljus hy'
+👩🏿‍❤‍👨🏽:
+  - hjärta
+  - kvinna
+  - kärlek
+  - man
+  - mellanfärgad hy
+  - människor
+  - mörk hy
+  - par med hjärta
+  - 'par med hjärta: kvinna, man, mörk hy, mellanfärgad hy'
+👩🏿‍❤‍👨🏾:
+  - hjärta
+  - kvinna
+  - kärlek
+  - man
+  - mellanmörk hy
+  - människor
+  - mörk hy
+  - par med hjärta
+  - 'par med hjärta: kvinna, man, mörk hy, mellanmörk hy'
+👩🏿‍❤‍👨🏿:
+  - hjärta
+  - kvinna
+  - kärlek
+  - man
+  - människor
+  - mörk hy
+  - par med hjärta
+  - 'par med hjärta: kvinna, man, mörk hy'
+👩🏻‍❤‍👩🏻:
+  - hjärta
+  - kvinna
+  - kärlek
+  - ljus hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: kvinna, kvinna, ljus hy'
+👩🏻‍❤‍👩🏼:
+  - hjärta
+  - kvinna
+  - kärlek
+  - ljus hy
+  - mellanljus hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: kvinna, kvinna, ljus hy, mellanljus hy'
+👩🏻‍❤‍👩🏽:
+  - hjärta
+  - kvinna
+  - kärlek
+  - ljus hy
+  - mellanfärgad hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: kvinna, kvinna, ljus hy, mellanfärgad hy'
+👩🏻‍❤‍👩🏾:
+  - hjärta
+  - kvinna
+  - kärlek
+  - ljus hy
+  - mellanmörk hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: kvinna, kvinna, ljus hy, mellanmörk hy'
+👩🏻‍❤‍👩🏿:
+  - hjärta
+  - kvinna
+  - kärlek
+  - ljus hy
+  - människor
+  - mörk hy
+  - par med hjärta
+  - 'par med hjärta: kvinna, kvinna, ljus hy, mörk hy'
+👩🏼‍❤‍👩🏻:
+  - hjärta
+  - kvinna
+  - kärlek
+  - ljus hy
+  - mellanljus hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: kvinna, kvinna, mellanljus hy, ljus hy'
+👩🏼‍❤‍👩🏼:
+  - hjärta
+  - kvinna
+  - kärlek
+  - mellanljus hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: kvinna, kvinna, mellanljus hy'
+👩🏼‍❤‍👩🏽:
+  - hjärta
+  - kvinna
+  - kärlek
+  - mellanfärgad hy
+  - mellanljus hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: kvinna, kvinna, mellanljus hy, mellanfärgad hy'
+👩🏼‍❤‍👩🏾:
+  - hjärta
+  - kvinna
+  - kärlek
+  - mellanljus hy
+  - mellanmörk hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: kvinna, kvinna, mellanljus hy, mellanmörk hy'
+👩🏼‍❤‍👩🏿:
+  - hjärta
+  - kvinna
+  - kärlek
+  - mellanljus hy
+  - människor
+  - mörk hy
+  - par med hjärta
+  - 'par med hjärta: kvinna, kvinna, mellanljus hy, mörk hy'
+👩🏽‍❤‍👩🏻:
+  - hjärta
+  - kvinna
+  - kärlek
+  - ljus hy
+  - mellanfärgad hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: kvinna, kvinna, mellanfärgad hy, ljus hy'
+👩🏽‍❤‍👩🏼:
+  - hjärta
+  - kvinna
+  - kärlek
+  - mellanfärgad hy
+  - mellanljus hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: kvinna, kvinna, mellanfärgad hy, mellanljus hy'
+👩🏽‍❤‍👩🏽:
+  - hjärta
+  - kvinna
+  - kärlek
+  - mellanfärgad hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: kvinna, kvinna, mellanfärgad hy'
+👩🏽‍❤‍👩🏾:
+  - hjärta
+  - kvinna
+  - kärlek
+  - mellanfärgad hy
+  - mellanmörk hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: kvinna, kvinna, mellanfärgad hy, mellanmörk hy'
+👩🏽‍❤‍👩🏿:
+  - hjärta
+  - kvinna
+  - kärlek
+  - mellanfärgad hy
+  - människor
+  - mörk hy
+  - par med hjärta
+  - 'par med hjärta: kvinna, kvinna, mellanfärgad hy, mörk hy'
+👩🏾‍❤‍👩🏻:
+  - hjärta
+  - kvinna
+  - kärlek
+  - ljus hy
+  - mellanmörk hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: kvinna, kvinna, mellanmörk hy, ljus hy'
+👩🏾‍❤‍👩🏼:
+  - hjärta
+  - kvinna
+  - kärlek
+  - mellanljus hy
+  - mellanmörk hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: kvinna, kvinna, mellanmörk hy, mellanljus hy'
+👩🏾‍❤‍👩🏽:
+  - hjärta
+  - kvinna
+  - kärlek
+  - mellanfärgad hy
+  - mellanmörk hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: kvinna, kvinna, mellanmörk hy, mellanfärgad hy'
+👩🏾‍❤‍👩🏾:
+  - hjärta
+  - kvinna
+  - kärlek
+  - mellanmörk hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: kvinna, kvinna, mellanmörk hy'
+👩🏾‍❤‍👩🏿:
+  - hjärta
+  - kvinna
+  - kärlek
+  - mellanmörk hy
+  - människor
+  - mörk hy
+  - par med hjärta
+  - 'par med hjärta: kvinna, kvinna, mellanmörk hy, mörk hy'
+👩🏿‍❤‍👩🏻:
+  - hjärta
+  - kvinna
+  - kärlek
+  - ljus hy
+  - människor
+  - mörk hy
+  - par med hjärta
+  - 'par med hjärta: kvinna, kvinna, mörk hy, ljus hy'
+👩🏿‍❤‍👩🏼:
+  - hjärta
+  - kvinna
+  - kärlek
+  - mellanljus hy
+  - människor
+  - mörk hy
+  - par med hjärta
+  - 'par med hjärta: kvinna, kvinna, mörk hy, mellanljus hy'
+👩🏿‍❤‍👩🏽:
+  - hjärta
+  - kvinna
+  - kärlek
+  - mellanfärgad hy
+  - människor
+  - mörk hy
+  - par med hjärta
+  - 'par med hjärta: kvinna, kvinna, mörk hy, mellanfärgad hy'
+👩🏿‍❤‍👩🏾:
+  - hjärta
+  - kvinna
+  - kärlek
+  - mellanmörk hy
+  - människor
+  - mörk hy
+  - par med hjärta
+  - 'par med hjärta: kvinna, kvinna, mörk hy, mellanmörk hy'
+👩🏿‍❤‍👩🏿:
+  - hjärta
+  - kvinna
+  - kärlek
+  - människor
+  - mörk hy
+  - par med hjärta
+  - 'par med hjärta: kvinna, kvinna, mörk hy'
 👩‍🦰:
   - kvinna
   - 'kvinna: rödhårig'
@@ -4274,26 +7601,50 @@
   - tvivel
 🧑‍⚕:
   - läkare
+  - sjuksköterska
+  - sjukvård
+  - terapeut
+  - vårdpersonal
 🧑🏻‍⚕:
   - ljus hy
   - läkare
   - 'läkare: ljus hy'
+  - sjuksköterska
+  - sjukvård
+  - terapeut
+  - vårdpersonal
 🧑🏼‍⚕:
   - läkare
   - 'läkare: mellanljus hy'
   - mellanljus hy
+  - sjuksköterska
+  - sjukvård
+  - terapeut
+  - vårdpersonal
 🧑🏽‍⚕:
   - läkare
   - 'läkare: mellanfärgad hy'
   - mellanfärgad hy
+  - sjuksköterska
+  - sjukvård
+  - terapeut
+  - vårdpersonal
 🧑🏾‍⚕:
   - läkare
   - 'läkare: mellanmörk hy'
   - mellanmörk hy
+  - sjuksköterska
+  - sjukvård
+  - terapeut
+  - vårdpersonal
 🧑🏿‍⚕:
   - läkare
   - 'läkare: mörk hy'
   - mörk hy
+  - sjuksköterska
+  - sjukvård
+  - terapeut
+  - vårdpersonal
 👨‍⚕:
   - doktor
   - hälsovård
@@ -5814,33 +9165,33 @@
   - mörk hy
   - stjärna
 🧑‍🎨:
-  - artist
   - konstnär
+  - palett
 🧑🏻‍🎨:
-  - artist
   - konstnär
   - 'konstnär: ljus hy'
   - ljus hy
+  - palett
 🧑🏼‍🎨:
-  - artist
   - konstnär
   - 'konstnär: mellanljus hy'
   - mellanljus hy
+  - palett
 🧑🏽‍🎨:
-  - artist
   - konstnär
   - 'konstnär: mellanfärgad hy'
   - mellanfärgad hy
+  - palett
 🧑🏾‍🎨:
-  - artist
   - konstnär
   - 'konstnär: mellanmörk hy'
   - mellanmörk hy
+  - palett
 🧑🏿‍🎨:
-  - artist
   - konstnär
   - 'konstnär: mörk hy'
   - mörk hy
+  - palett
 👨‍🎨:
   - man
   - manlig konstnär
@@ -6648,10 +9999,45 @@
   - vaktbyte
   - vaktparad
 🥷:
-  - flygare
-  - hemligt
+  - gömd
+  - hemlig
+  - lönnmördare
   - ninja
-  - pilot
+🥷🏻:
+  - gömd
+  - hemlig
+  - ljus hy
+  - lönnmördare
+  - ninja
+  - 'ninja: ljus hy'
+🥷🏼:
+  - gömd
+  - hemlig
+  - lönnmördare
+  - mellanljus hy
+  - ninja
+  - 'ninja: mellanljus hy'
+🥷🏽:
+  - gömd
+  - hemlig
+  - lönnmördare
+  - mellanfärgad hy
+  - ninja
+  - 'ninja: mellanfärgad hy'
+🥷🏾:
+  - gömd
+  - hemlig
+  - lönnmördare
+  - mellanmörk hy
+  - ninja
+  - 'ninja: mellanmörk hy'
+🥷🏿:
+  - gömd
+  - hemlig
+  - lönnmördare
+  - mörk hy
+  - ninja
+  - 'ninja: mörk hy'
 👷:
   - arbetare
   - byggarbetare
@@ -6766,6 +10152,52 @@
   - kvinnlig byggarbetare
   - 'kvinnlig byggarbetare: mörk hy'
   - mörk hy
+🫅:
+  - kung
+  - kunglighet
+  - monark
+  - person med krona
+  - ädling
+🫅🏻:
+  - kung
+  - kunglighet
+  - ljus hy
+  - monark
+  - person med krona
+  - 'person med krona: ljus hy'
+  - ädling
+🫅🏼:
+  - kung
+  - kunglighet
+  - mellanljus hy
+  - monark
+  - person med krona
+  - 'person med krona: mellanljus hy'
+  - ädling
+🫅🏽:
+  - kung
+  - kunglighet
+  - mellanfärgad hy
+  - monark
+  - person med krona
+  - 'person med krona: mellanfärgad hy'
+  - ädling
+🫅🏾:
+  - kung
+  - kunglighet
+  - mellanmörk hy
+  - monark
+  - person med krona
+  - 'person med krona: mellanmörk hy'
+  - ädling
+🫅🏿:
+  - kung
+  - kunglighet
+  - monark
+  - mörk hy
+  - person med krona
+  - 'person med krona: mörk hy'
+  - ädling
 🤴:
   - prins
 🤴🏻:
@@ -7255,6 +10687,86 @@
   - 'gravid kvinna: mörk hy'
   - kvinna
   - mörk hy
+🫃:
+  - gravid
+  - gravid man
+  - stor mage
+  - uppsvälld
+🫃🏻:
+  - gravid
+  - gravid man
+  - 'gravid man: ljus hy'
+  - ljus hy
+  - stor mage
+  - uppsvälld
+🫃🏼:
+  - gravid
+  - gravid man
+  - 'gravid man: mellanljus hy'
+  - mellanljus hy
+  - stor mage
+  - uppsvälld
+🫃🏽:
+  - gravid
+  - gravid man
+  - 'gravid man: mellanfärgad hy'
+  - mellanfärgad hy
+  - stor mage
+  - uppsvälld
+🫃🏾:
+  - gravid
+  - gravid man
+  - 'gravid man: mellanmörk hy'
+  - mellanmörk hy
+  - stor mage
+  - uppsvälld
+🫃🏿:
+  - gravid
+  - gravid man
+  - 'gravid man: mörk hy'
+  - mörk hy
+  - stor mage
+  - uppsvälld
+🫄:
+  - gravid
+  - gravid person
+  - stor mage
+  - uppsvälld
+🫄🏻:
+  - gravid
+  - gravid person
+  - 'gravid person: ljus hy'
+  - ljus hy
+  - stor mage
+  - uppsvälld
+🫄🏼:
+  - gravid
+  - gravid person
+  - 'gravid person: mellanljus hy'
+  - mellanljus hy
+  - stor mage
+  - uppsvälld
+🫄🏽:
+  - gravid
+  - gravid person
+  - 'gravid person: mellanfärgad hy'
+  - mellanfärgad hy
+  - stor mage
+  - uppsvälld
+🫄🏾:
+  - gravid
+  - gravid person
+  - 'gravid person: mellanmörk hy'
+  - mellanmörk hy
+  - stor mage
+  - uppsvälld
+🫄🏿:
+  - gravid
+  - gravid person
+  - 'gravid person: mörk hy'
+  - mörk hy
+  - stor mage
+  - uppsvälld
 🤱:
   - amma
   - amning
@@ -7399,6 +10911,7 @@
   - ljus hy
   - mata
   - person
+  - person ammar spädbarn
   - 'person ammar spädbarn: ljus hy'
   - person matar spädbarn
   - spädbarn
@@ -7407,6 +10920,7 @@
   - mata
   - mellanljus hy
   - person
+  - person ammar spädbarn
   - 'person ammar spädbarn: mellanljus hy'
   - person matar spädbarn
   - spädbarn
@@ -7415,6 +10929,7 @@
   - mata
   - mellanfärgad hy
   - person
+  - person ammar spädbarn
   - 'person ammar spädbarn: mellanfärgad hy'
   - person matar spädbarn
   - spädbarn
@@ -7423,6 +10938,7 @@
   - mata
   - mellanmörk hy
   - person
+  - person ammar spädbarn
   - 'person ammar spädbarn: mellanmörk hy'
   - person matar spädbarn
   - spädbarn
@@ -7431,6 +10947,7 @@
   - mata
   - mörk hy
   - person
+  - person ammar spädbarn
   - 'person ammar spädbarn: mörk hy'
   - person matar spädbarn
   - spädbarn
@@ -8399,6 +11916,12 @@
   - levande död
   - odöd
   - vandöd
+🧌:
+  - fantasy
+  - monster
+  - saga
+  - sägen
+  - troll
 💆:
   - ansiktsmassage
   - behandling
@@ -11404,38 +14927,44 @@
   - multitask
   - mörk hy
 🧘:
-  - meditering
+  - meditation
   - person i lotusposition
+  - person i lotusställning
   - yoga
 🧘🏻:
   - ljus hy
-  - meditering
+  - meditation
   - person i lotusposition
   - 'person i lotusposition: ljus hy'
+  - person i lotusställning
   - yoga
 🧘🏼:
-  - meditering
+  - meditation
   - mellanljus hy
   - person i lotusposition
   - 'person i lotusposition: mellanljus hy'
+  - person i lotusställning
   - yoga
 🧘🏽:
-  - meditering
+  - meditation
   - mellanfärgad hy
   - person i lotusposition
   - 'person i lotusposition: mellanfärgad hy'
+  - person i lotusställning
   - yoga
 🧘🏾:
-  - meditering
+  - meditation
   - mellanmörk hy
   - person i lotusposition
   - 'person i lotusposition: mellanmörk hy'
+  - person i lotusställning
   - yoga
 🧘🏿:
-  - meditering
+  - meditation
   - mörk hy
   - person i lotusposition
   - 'person i lotusposition: mörk hy'
+  - person i lotusställning
   - yoga
 🧘‍♂:
   - man i lotusposition
@@ -12442,6 +15971,41 @@
   - kärlek
   - människor
   - puss
+💏🏻:
+  - kyssas
+  - kärlek
+  - ljus hy
+  - människor
+  - puss
+  - 'puss: ljus hy'
+💏🏼:
+  - kyssas
+  - kärlek
+  - mellanljus hy
+  - människor
+  - puss
+  - 'puss: mellanljus hy'
+💏🏽:
+  - kyssas
+  - kärlek
+  - mellanfärgad hy
+  - människor
+  - puss
+  - 'puss: mellanfärgad hy'
+💏🏾:
+  - kyssas
+  - kärlek
+  - mellanmörk hy
+  - människor
+  - puss
+  - 'puss: mellanmörk hy'
+💏🏿:
+  - kyssas
+  - kärlek
+  - människor
+  - mörk hy
+  - puss
+  - 'puss: mörk hy'
 👩‍❤‍💋‍👨:
   - kvinna
   - kyssas
@@ -12469,6 +16033,41 @@
   - kärlek
   - människor
   - par med hjärta
+💑🏻:
+  - hjärta
+  - kärlek
+  - ljus hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: ljus hy'
+💑🏼:
+  - hjärta
+  - kärlek
+  - mellanljus hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: mellanljus hy'
+💑🏽:
+  - hjärta
+  - kärlek
+  - mellanfärgad hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: mellanfärgad hy'
+💑🏾:
+  - hjärta
+  - kärlek
+  - mellanmörk hy
+  - människor
+  - par med hjärta
+  - 'par med hjärta: mellanmörk hy'
+💑🏿:
+  - hjärta
+  - kärlek
+  - människor
+  - mörk hy
+  - par med hjärta
+  - 'par med hjärta: mörk hy'
 👩‍❤‍👨:
   - hjärta
   - kvinna
@@ -12893,8 +16492,9 @@
   - gris
   - grisansikte
 🐖:
-  - djur
   - gris
+  - so
+  - sugga
 🐗:
   - djur
   - svin
@@ -13071,6 +16671,7 @@
   - vis
 🦤:
   - Dront
+  - Mauritius
   - dront
   - stor
   - utrotad
@@ -13138,6 +16739,7 @@
   - delfin
   - djur
 🦭:
+  - sjölejon
   - säl
 🐟️:
   - fisk
@@ -13162,6 +16764,10 @@
   - djur
   - snäcka
   - snäckskal
+🪸:
+  - korall
+  - ocean
+  - rev
 🐌:
   - djur
   - snigel
@@ -13243,6 +16849,14 @@
 💮:
   - blomma
   - vit blomma
+🪷:
+  - Indien
+  - Vietnam
+  - blomma
+  - buddhism
+  - hinduism
+  - lotus
+  - renhet
 🏵️:
   - bandros
   - blomma
@@ -13324,6 +16938,15 @@
   - löv
   - löv i vinden
   - vind
+🪹:
+  - ruva
+  - tomt bo
+🪺:
+  - bo med ägg
+  - ruva
+🍄:
+  - svamp
+  - växt
 🍇:
   - frukt
   - vindruvor
@@ -13420,7 +17043,6 @@
 🫑:
   - grönsak
   - paprika
-  - röd paprika
 🥒:
   - grönsak
   - gurka
@@ -13440,15 +17062,16 @@
 🧅:
   - lök
   - smaksättning
-🍄:
-  - svamp
-  - växt
 🥜:
   - grönsak
   - jordnöt
   - jordnötter
   - mat
   - nöt
+🫘:
+  - bönor
+  - kidneybönor
+  - mat
 🌰:
   - kastanj
   - växt
@@ -13651,11 +17274,12 @@
   - efterrätt
   - japan
 🥟:
+  - degknyte
   - dumpling
+  - empanada
   - gyōza
   - jiaozi
-  - pierogi
-  - potsticker
+  - pirog
 🥠:
   - lyckokaka
   - profetia
@@ -13818,6 +17442,12 @@
   - sprit
   - whisky
   - whiskyglas
+🫗:
+  - dryck
+  - glas
+  - hälla vätska
+  - spilla
+  - tomt
 🥤:
   - juice
   - läskedryck
@@ -13856,6 +17486,13 @@
 🔪:
   - kniv
   - kökskniv
+🫙:
+  - behållare
+  - burk
+  - förvaring
+  - krydda
+  - sås
+  - tom
 🏺:
   - amfora
   - kruka
@@ -13943,9 +17580,10 @@
   - klippa
   - sten
 🪵:
-  - stockar
-  - timmerstockar
+  - stock
+  - timmerstock
   - trä
+  - trästock
   - trästockar
   - ved
 🛖:
@@ -14111,6 +17749,11 @@
   - häst
   - karusell
   - karusellhäst
+🛝:
+  - leka
+  - lekplats
+  - nöjesfält
+  - rutschbana
 🎡:
   - karusell
   - nöjespark
@@ -14177,7 +17820,7 @@
   - bergbana
   - bergsbana
   - bergståg
-  - fordon
+  - järnväg
 🚋:
   - fordon
   - spårvagn
@@ -14265,7 +17908,9 @@
   - tillgänglighet
 🛺:
   - automatisk riksha
-  - motorriksha
+  - bilriksha
+  - motordriven rickshaw
+  - motordriven riksha
   - tuk-tuk
 🚲️:
   - cykel
@@ -14296,8 +17941,14 @@
 ⛽️:
   - bensin
   - bensinpump
+  - bensinstation
   - bränsle
   - bränslepump
+🛞:
+  - cirkel
+  - däck
+  - hjul
+  - rulla
 🚨:
   - lampa
   - polisbil
@@ -14320,6 +17971,13 @@
 ⚓️:
   - ankare
   - hopp
+🛟:
+  - flytetyg
+  - frälsarkrans
+  - livboj
+  - livräddning
+  - räddning
+  - säkerhet
 ⛵️:
   - båt
   - segelbåt
@@ -14380,12 +18038,13 @@
   - fordon
   - hängbana
 🚠:
-  - fordon
   - gondolbana
+  - kabinbana
   - linbana
+  - skidlift
 🚡:
-  - fordon
   - funifor
+  - gondolbana
   - kabinbana
   - linbana
 🛰️:
@@ -14402,6 +18061,7 @@
 🛎️:
   - hotell
   - klocka
+  - piccolo
   - plingklocka
   - receptionsklocka
 🧳:
@@ -14425,9 +18085,7 @@
   - väckarklocka
 ⏱️:
   - klocka
-  - kronograf
   - stoppur
-  - tid
   - tidtagarur
 ⏲️:
   - klocka
@@ -15020,6 +18678,12 @@
   - flyga
   - flygande drake
   - sväva
+🔫:
+  - leksakspistol
+  - pistol
+  - revolver
+  - vapen
+  - vattenpistol
 🎱:
   - biljard
   - biljardboll
@@ -15029,15 +18693,12 @@
   - kristallkula
   - spåkula
 🪄:
+  - häxa
+  - magi
   - trollkarl
   - trollkonst
   - trollspö
-  - tro´llstav
-🧿:
-  - amulett
-  - nazar
-  - onda ögat
-  - onda ögat-sten
+  - trollstav
 🎮️:
   - kontroll
   - spel
@@ -15072,6 +18733,12 @@
   - fest
   - kalas
   - piñata
+🪩:
+  - dansa
+  - disco
+  - discokula
+  - fest
+  - glitter
 🪆:
   - babuschkadocka
   - matrjosjka
@@ -15470,6 +19137,10 @@
   - kommunikation
 🔋:
   - batteri
+🪫:
+  - elektronik
+  - låg batterinivå
+  - låg energinivå
 🔌:
   - elkontakt
   - kontakt
@@ -15620,6 +19291,7 @@
   - pergament
   - rulle
 📄:
+  - dokument
   - sida
   - sida med text uppåt
   - text uppåt
@@ -15693,8 +19365,11 @@
   - uppåtpekande
 ✉️:
   - brev
+  - e-post
+  - e-postmeddelande
   - kuvert
   - mail
+  - mejl
 📧:
   - brev
   - e-post
@@ -15710,11 +19385,12 @@
   - mottaget brev
 📩:
   - e-post
-  - kommunikation
   - kuvert
   - kuvert med pil
-  - skickat brev
-  - utgående brev
+  - mejl
+  - pil
+  - skickat
+  - utgående
 📤️:
   - kommunikation
   - skickat
@@ -15749,6 +19425,8 @@
   - blyertspenna
 ✒️:
   - penna
+  - reservoarpenna
+  - stift
   - stiftpenna
 🖋️:
   - penna
@@ -15902,10 +19580,9 @@
   - korslagda svärd
   - svärd
   - vapen
-🔫:
-  - pistol
-  - revolver
-  - vapen
+💣️:
+  - bomb
+  - serietidning
 🪃:
   - australien
   - boomerang
@@ -16030,11 +19707,24 @@
 🩹:
   - bandage
   - plåster
+🩼:
+  - funktionsnedsättning
+  - handikapp
+  - krycka
+  - käpp
+  - mobilitetshjälpmedel
+  - skadad
 🩺:
   - doktor
   - hjärta
   - medicin
   - stetoskop
+🩻:
+  - ben
+  - läkare
+  - medicin
+  - röntgen
+  - skelett
 🚪:
   - dörr
 🛗:
@@ -16123,6 +19813,13 @@
   - skål
   - tvål
   - tvålbit
+🫧:
+  - bubblor
+  - lödder
+  - rap
+  - rent
+  - tvål
+  - under vatten
 🪥:
   - borste
   - ren
@@ -16164,6 +19861,19 @@
   - begravning
   - begravningsurna
   - urna
+🧿:
+  - amulett
+  - nazar
+  - onda ögat
+  - onda ögat-sten
+🪬:
+  - Fatima
+  - Maria
+  - Miriam
+  - amulett
+  - hamsa
+  - hand
+  - skydd
 🗿:
   - påskön
   - staty
@@ -16172,6 +19882,12 @@
   - plakat
   - protest
   - skylt
+🪪:
+  - ID
+  - ID-kort
+  - legitimation
+  - personuppgifter
+  - säkerhet
 🏧:
   - bankomat
   - bankomatskylt
@@ -16305,12 +20021,11 @@
   - uppåt
   - uppåtpil höger
 ➡️:
-  - höger
   - högerpil
   - pil
   - riktning
   - väderstreck
-  - öst
+  - öster
 ↘️:
   - höger
   - nedåt
@@ -16349,6 +20064,8 @@
   - pil
   - pil höger och vänster
   - vänster
+↮:
+  - höger och vänsterriktat pilstreck
 ↩️:
   - pil
   - sväng
@@ -16642,7 +20359,7 @@
   - '-'
   - matte
   - minus
-  - minustecken
+  - subtrahera
   - tecken
   - −
 ➗:
@@ -16651,6 +20368,10 @@
   - matte
   - tecken
   - ÷
+🟰:
+  - fetstilt likamedtecken
+  - likhet
+  - matte
 ♾️:
   - evig
   - obegränsad
@@ -16665,8 +20386,11 @@
   - utropstecken
   - utropstecken och frågetecken
 ❓️:
+  - '?'
   - fråga
-  - frågetecken
+  - interpunktion
+  - rött frågetecken
+  - tecken
 ❔:
   - fråga
   - frågetecken
@@ -16679,6 +20403,7 @@
 ❗️:
   - kommatering
   - rött
+  - rött utropstecken
   - utropstecken
 〰️:
   - tankstreck
@@ -17478,7 +21203,7 @@
   - 'flagga: Guyana'
 🇭🇰:
   - flagga
-  - 'flagga: Hongkong'
+  - 'flagga: Hongkong SAR'
 🇭🇲:
   - flagga
   - 'flagga: Heardön och McDonaldöarna'
@@ -17640,7 +21365,7 @@
   - 'flagga: Mongoliet'
 🇲🇴:
   - flagga
-  - 'flagga: Macao'
+  - 'flagga: Macao SAR'
 🇲🇵:
   - flagga
   - 'flagga: Nordmarianerna'
@@ -17859,7 +21584,7 @@
   - 'flagga: Tadzjikistan'
 🇹🇰:
   - flagga
-  - 'flagga: Tokelau'
+  - 'flagga: Tokelauöarna'
 🇹🇱:
   - flagga
   - 'flagga: Östtimor'
@@ -17962,6 +21687,122 @@
 🏴󠁧󠁢󠁷󠁬󠁳󠁿:
   - flagga
   - 'flagga: Wales'
+¤:
+  - okänd valuta
+¢:
+  - cent
+$:
+  - USD
+  - dollar
+  - pengar
+  - peso
+£:
+  - EGP
+  - GBP
+  - pund
+  - valuta
+¥:
+  - CNY
+  - JPY
+  - valuta
+  - yen
+  - yuan
+֏:
+  - armenisk dram
+؋:
+  - afghansk afghani
+৳:
+  - bangladeshisk taka
+฿:
+  - thailändsk baht
+៛:
+  - kambodjansk riel
+₡:
+  - costarikansk colón
+₢:
+  - cruzeiro
+₣:
+  - fransk franc
+₤:
+  - lira
+₥:
+  - mil
+  - mill
+₦:
+  - nigeriansk naira
+₧:
+  - spansk peseta
+₩:
+  - KPW
+  - KRW
+  - won
+₪:
+  - israelisk ny shekel
+₫:
+  - vietnamesisk dong
+€:
+  - EUR
+  - euro
+  - valuta
+₭:
+  - laotisk kip
+₮:
+  - mongolisk tögrög
+₰:
+  - tysk pfennig
+₱:
+  - peso
+₲:
+  - paraguayansk guarani
+₳:
+  - austral
+₴:
+  - ukrainsk hryvnia
+₵:
+  - ghanansk cedi
+₶:
+  - livre tournois
+₷:
+  - spesmilo
+₸:
+  - kazakisk tenge
+₹:
+  - indisk rupie
+  - rupie
+  - valuta
+₺:
+  - turkisk lira
+₼:
+  - azerbajdzjansk manat
+₽:
+  - rubel
+  - valuta
+₾:
+  - georgisk lari
+₿:
+  - BTC
+  - bitcoin
+₨:
+  - rupie
+﷼:
+  - rial
+¹:
+  - ett
+  - upphöjt till
+  - upphöjt till ett
+²:
+  - kvadrat
+  - två
+  - upphöjt till
+  - upphöjt till två
+³:
+  - kubik
+  - tre
+  - upphöjt till
+  - upphöjt till tre
+µ:
+  - mikrotecken
+  - mått
 🏻:
   - hud
   - hudfärg

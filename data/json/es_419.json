@@ -1,4 +1,373 @@
 {
+    "‾": [
+        "línea superpuesta",
+        "superposición",
+        "vinculum"
+    ],
+    "_": [
+        "guion",
+        "guion bajo",
+        "línea"
+    ],
+    "-": [
+        "guion",
+        "menos"
+    ],
+    "‐": [
+        "guion"
+    ],
+    "–": [
+        "guion",
+        "guion corto"
+    ],
+    "―": [
+        "barra",
+        "barra horizontal",
+        "guion",
+        "línea"
+    ],
+    "‽": [
+        "exclarrogativo",
+        "interrobang"
+    ],
+    ".": [
+        "punto",
+        "punto final"
+    ],
+    "…": [
+        "elipsis",
+        "omisión",
+        "puntos suspensivos"
+    ],
+    "。": [
+        "ideográfico",
+        "punto",
+        "punto final"
+    ],
+    "‘": [
+        "apóstrofe",
+        "apóstrofe izquierdo",
+        "comillas",
+        "comillas simples"
+    ],
+    "’": [
+        "apóstrofe",
+        "apóstrofo derecho",
+        "comillas",
+        "comillas simples"
+    ],
+    "‚": [
+        "apóstrofe derecho bajo",
+        "apóstrofo",
+        "comillas",
+        "comillas bajas"
+    ],
+    "«": [
+        "apertura",
+        "comillas angulares",
+        "comillas de apertura",
+        "comillas españolas",
+        "comillas francesas",
+        "diple de apertura"
+    ],
+    "»": [
+        "cierre",
+        "comillas angulares",
+        "comillas de cierre",
+        "comillas españolas",
+        "comillas francesas",
+        "diple de cierre"
+    ],
+    "§": [
+        "parte",
+        "párrafo",
+        "sección",
+        "signo de sección"
+    ],
+    "†": [
+        "daga",
+        "obelisco",
+        "signo de daga"
+    ],
+    "‡": [
+        "daga",
+        "doble",
+        "obelisco",
+        "signo de daga doble"
+    ],
+    "•": [
+        "punto",
+        "viñeta"
+    ],
+    "‧": [
+        "guion",
+        "punto",
+        "punto de unión con guion"
+    ],
+    "‸": [
+        "caret",
+        "intercalación"
+    ],
+    "⁂": [
+        "asterismo",
+        "estrellas",
+        "tres asteriscos"
+    ],
+    "↴": [
+        "flecha hacia abajo con punta hacia la esquina derecha"
+    ],
+    "↵": [
+        "flecha hacia abajo con punta hacia la esquina izquierda"
+    ],
+    "↶": [
+        "flecha en sentido antihorario"
+    ],
+    "↷": [
+        "flecha en sentido horario"
+    ],
+    "↸": [
+        "flecha hacia noroeste con barra"
+    ],
+    "↹": [
+        "flecha hacia la izquierda con barra sobre flecha hacia la derecha con barra"
+    ],
+    "↾": [
+        "arpón hacia arriba con flecha a la derecha",
+        "punta"
+    ],
+    "↿": [
+        "arpón hacia arriba con flecha a la izquierda",
+        "punta"
+    ],
+    "⇀": [
+        "arpón hacia la derecha con flecha por arriba",
+        "punta"
+    ],
+    "⇁": [
+        "arpón hacia la derecha con flecha por arriba",
+        "arpón hacia la derecha con flecha por debajo",
+        "punta"
+    ],
+    "⇄": [
+        "flecha a la derecha sobre flecha a la izquierda"
+    ],
+    "⇅": [
+        "abajo",
+        "apuntar",
+        "arriba",
+        "flecha",
+        "flecha doble hacia arriba y abajo",
+        "hacia abajo",
+        "hacia arriba"
+    ],
+    "⇆": [
+        "apuntar",
+        "derecha",
+        "flecha",
+        "flecha doble hacia la izquierda y derecha",
+        "hacia la derecha",
+        "hacia la izquierda",
+        "izquierda"
+    ],
+    "⇇": [
+        "par de flechas hacia la izquierda"
+    ],
+    "⇈": [
+        "par de flechas hacia arriba"
+    ],
+    "⇉": [
+        "par de flechas hacia la derecha"
+    ],
+    "⇊": [
+        "par de flechas hacia abajo"
+    ],
+    "⇋": [
+        "arpón a la izquierda sobre arpón a la derecha"
+    ],
+    "⇌": [
+        "arpón a la derecha sobre arpón a la izquierda"
+    ],
+    "⇠": [
+        "flecha discontinua hacia la izquierda"
+    ],
+    "⇢": [
+        "flecha discontinua hacia la derecha"
+    ],
+    "⇦": [
+        "flecha vacía hacia la izquierda"
+    ],
+    "⇧": [
+        "flecha vacía hacia arriba"
+    ],
+    "⇨": [
+        "flecha vacía hacia la derecha"
+    ],
+    "⇩": [
+        "flecha vacía hacia abajo"
+    ],
+    "⇪": [
+        "flecha vacía hacia arriba desde barra"
+    ],
+    "⇵": [
+        "flecha hacia abajo y flecha hacia arriba"
+    ],
+    "∉": [
+        "no es un elemento de"
+    ],
+    "∋": [
+        "es un elemento de"
+    ],
+    "∓": [
+        "menos-más"
+    ],
+    "∟": [
+        "matemáticas",
+        "ángulo derecho"
+    ],
+    "⋆": [
+        "operador",
+        "operador de estrella"
+    ],
+    "⋮": [
+        "elipsis",
+        "elipsis vertical",
+        "matemáticas",
+        "operador"
+    ],
+    "⋯": [
+        "elipsis",
+        "elipsis horizontal de línea media",
+        "matemáticas"
+    ],
+    "⋰": [
+        "elipsis",
+        "elipsis en diagonal hacia la derecha",
+        "matemáticas"
+    ],
+    "⋱": [
+        "elipsis",
+        "elipsis en diagonal hacia la izquierda",
+        "matemáticas"
+    ],
+    "□": [
+        "cuadrado vacío"
+    ],
+    "▢": [
+        "cuadrado vacío con bordes redondos"
+    ],
+    "▣": [
+        "cuadrado vacío con cuadrado relleno dentro"
+    ],
+    "▭": [
+        "rectángulo vacío"
+    ],
+    "△": [
+        "triángulo vacío que apunta hacia arriba"
+    ],
+    "▴": [
+        "triángulo pequeño relleno hacia arriba"
+    ],
+    "▵": [
+        "pequeño vacío hacia arriba",
+        "triángulo pequeño vacío hacia arriba"
+    ],
+    "▷": [
+        "triángulo vacío hacia la derecha"
+    ],
+    "▸": [
+        "triángulo pequeño relleno hacia la derecha"
+    ],
+    "▹": [
+        "triángulo pequeño vacío hacia la derecha"
+    ],
+    "►": [
+        "puntero relleno hacia la derecha"
+    ],
+    "▻": [
+        "puntero vacío hacia la derecha"
+    ],
+    "▽": [
+        "triángulo vacío hacia abajo"
+    ],
+    "▾": [
+        "triángulo pequeño relleno hacia abajo"
+    ],
+    "▿": [
+        "triángulo pequeño vacío hacia abajo"
+    ],
+    "◁": [
+        "triángulo vacío hacia la izquierda"
+    ],
+    "◂": [
+        "triángulo pequeño relleno hacia la izquierda"
+    ],
+    "◃": [
+        "triángulo pequeño vacío hacia la izquierda"
+    ],
+    "◄": [
+        "puntero relleno hacia la izquierda"
+    ],
+    "◅": [
+        "puntero vacío hacia la izquierda"
+    ],
+    "◇": [
+        "diamante vacío"
+    ],
+    "◈": [
+        "diamante vacío con diamante relleno dentro"
+    ],
+    "◉": [
+        "círculo punteado",
+        "círculo vacío con círculo relleno dentro",
+        "círculos concéntricos rellenos",
+        "división",
+        "ojo de pez"
+    ],
+    "○": [
+        "anillo",
+        "círculo",
+        "círculo vacío"
+    ],
+    "◔": [
+        "círculo con cuadrante superior derecho relleno"
+    ],
+    "◘": [
+        "viñeta invertida"
+    ],
+    "◙": [
+        "cuadrado relleno con círculo vacío dentro",
+        "círculo vacío invertido"
+    ],
+    "◜": [
+        "arco de cuadrante superior izquierdo"
+    ],
+    "◝": [
+        "arco de cuadrante superior derecho"
+    ],
+    "◞": [
+        "arco de cuadrante inferior derecho"
+    ],
+    "◟": [
+        "arco de cuadrante inferior izquierdo"
+    ],
+    "◦": [
+        "viñeta vacía"
+    ],
+    "◯": [
+        "anillo",
+        "círculo",
+        "círculo vacío grande"
+    ],
+    "◳": [
+        "cuadrado vacío con cuadrante superior derecho"
+    ],
+    "◷": [
+        "círculo vacío con cuadrante superior derecho"
+    ],
+    "⨯": [
+        "producto cruz",
+        "producto vectorial"
+    ],
     "😀": [
         "cara",
         "cara feliz",
@@ -971,6 +1340,186 @@
         "trek",
         "vulcano"
     ],
+    "🫱🏻‍🫲🏼": [
+        "acuerdo",
+        "apretón",
+        "apretón de manos",
+        "manos",
+        "reunión",
+        "tono de piel claro",
+        "tono de piel claro medio"
+    ],
+    "🫱🏻‍🫲🏽": [
+        "acuerdo",
+        "apretón",
+        "apretón de manos",
+        "manos",
+        "reunión",
+        "tono de piel claro",
+        "tono de piel medio"
+    ],
+    "🫱🏻‍🫲🏾": [
+        "acuerdo",
+        "apretón",
+        "apretón de manos",
+        "manos",
+        "reunión",
+        "tono de piel claro",
+        "tono de piel oscuro medio"
+    ],
+    "🫱🏻‍🫲🏿": [
+        "acuerdo",
+        "apretón",
+        "apretón de manos",
+        "manos",
+        "reunión",
+        "tono de piel claro",
+        "tono de piel oscuro"
+    ],
+    "🫱🏼‍🫲🏻": [
+        "acuerdo",
+        "apretón",
+        "apretón de manos",
+        "manos",
+        "reunión",
+        "tono de piel claro",
+        "tono de piel claro medio"
+    ],
+    "🫱🏼‍🫲🏽": [
+        "acuerdo",
+        "apretón",
+        "apretón de manos",
+        "manos",
+        "reunión",
+        "tono de piel claro medio",
+        "tono de piel medio"
+    ],
+    "🫱🏼‍🫲🏾": [
+        "acuerdo",
+        "apretón",
+        "apretón de manos",
+        "manos",
+        "reunión",
+        "tono de piel claro medio",
+        "tono de piel oscuro medio"
+    ],
+    "🫱🏼‍🫲🏿": [
+        "acuerdo",
+        "apretón",
+        "apretón de manos",
+        "manos",
+        "reunión",
+        "tono de piel claro medio",
+        "tono de piel oscuro"
+    ],
+    "🫱🏽‍🫲🏻": [
+        "acuerdo",
+        "apretón",
+        "apretón de manos",
+        "manos",
+        "reunión",
+        "tono de piel claro",
+        "tono de piel medio"
+    ],
+    "🫱🏽‍🫲🏼": [
+        "acuerdo",
+        "apretón",
+        "apretón de manos",
+        "manos",
+        "reunión",
+        "tono de piel claro medio",
+        "tono de piel medio"
+    ],
+    "🫱🏽‍🫲🏾": [
+        "acuerdo",
+        "apretón",
+        "apretón de manos",
+        "manos",
+        "reunión",
+        "tono de piel medio",
+        "tono de piel oscuro medio"
+    ],
+    "🫱🏽‍🫲🏿": [
+        "acuerdo",
+        "apretón",
+        "apretón de manos",
+        "manos",
+        "reunión",
+        "tono de piel medio",
+        "tono de piel oscuro"
+    ],
+    "🫱🏾‍🫲🏻": [
+        "acuerdo",
+        "apretón",
+        "apretón de manos",
+        "manos",
+        "reunión",
+        "tono de piel claro",
+        "tono de piel oscuro medio"
+    ],
+    "🫱🏾‍🫲🏼": [
+        "acuerdo",
+        "apretón",
+        "apretón de manos",
+        "manos",
+        "reunión",
+        "tono de piel claro medio",
+        "tono de piel oscuro medio"
+    ],
+    "🫱🏾‍🫲🏽": [
+        "acuerdo",
+        "apretón",
+        "apretón de manos",
+        "manos",
+        "reunión",
+        "tono de piel medio",
+        "tono de piel oscuro medio"
+    ],
+    "🫱🏾‍🫲🏿": [
+        "acuerdo",
+        "apretón",
+        "apretón de manos",
+        "manos",
+        "reunión",
+        "tono de piel oscuro",
+        "tono de piel oscuro medio"
+    ],
+    "🫱🏿‍🫲🏻": [
+        "acuerdo",
+        "apretón",
+        "apretón de manos",
+        "manos",
+        "reunión",
+        "tono de piel claro",
+        "tono de piel oscuro"
+    ],
+    "🫱🏿‍🫲🏼": [
+        "acuerdo",
+        "apretón",
+        "apretón de manos",
+        "manos",
+        "reunión",
+        "tono de piel claro medio",
+        "tono de piel oscuro"
+    ],
+    "🫱🏿‍🫲🏽": [
+        "acuerdo",
+        "apretón",
+        "apretón de manos",
+        "manos",
+        "reunión",
+        "tono de piel medio",
+        "tono de piel oscuro"
+    ],
+    "🫱🏿‍🫲🏾": [
+        "acuerdo",
+        "apretón",
+        "apretón de manos",
+        "manos",
+        "reunión",
+        "tono de piel oscuro",
+        "tono de piel oscuro medio"
+    ],
     "👌": [
         "gesto",
         "mano",
@@ -1743,6 +2292,40 @@
         "manos",
         "tono de piel oscuro"
     ],
+    "🫶": [
+        "amor",
+        "corazón con las manos"
+    ],
+    "🫶🏻": [
+        "amor",
+        "corazón con las manos",
+        "corazón con las manos: tono de piel claro",
+        "tono de piel claro"
+    ],
+    "🫶🏼": [
+        "amor",
+        "corazón con las manos",
+        "corazón con las manos: tono de piel claro medio",
+        "tono de piel claro medio"
+    ],
+    "🫶🏽": [
+        "amor",
+        "corazón con las manos",
+        "corazón con las manos: tono de piel medio",
+        "tono de piel medio"
+    ],
+    "🫶🏾": [
+        "amor",
+        "corazón con las manos",
+        "corazón con las manos: tono de piel oscuro medio",
+        "tono de piel oscuro medio"
+    ],
+    "🫶🏿": [
+        "amor",
+        "corazón con las manos",
+        "corazón con las manos: tono de piel oscuro",
+        "tono de piel oscuro"
+    ],
     "👐": [
         "abiertas",
         "gesto",
@@ -1785,6 +2368,46 @@
         "manos",
         "reunión"
     ],
+    "🤝🏻": [
+        "acuerdo",
+        "apretón",
+        "apretón de manos",
+        "manos",
+        "reunión",
+        "tono de piel claro"
+    ],
+    "🤝🏼": [
+        "acuerdo",
+        "apretón",
+        "apretón de manos",
+        "manos",
+        "reunión",
+        "tono de piel claro medio"
+    ],
+    "🤝🏽": [
+        "acuerdo",
+        "apretón",
+        "apretón de manos",
+        "manos",
+        "reunión",
+        "tono de piel medio"
+    ],
+    "🤝🏾": [
+        "acuerdo",
+        "apretón",
+        "apretón de manos",
+        "manos",
+        "reunión",
+        "tono de piel oscuro medio"
+    ],
+    "🤝🏿": [
+        "acuerdo",
+        "apretón",
+        "apretón de manos",
+        "manos",
+        "reunión",
+        "tono de piel oscuro"
+    ],
     "🙏": [
         "favor",
         "gracias",
@@ -1792,9 +2415,7 @@
         "manos en oración",
         "oración",
         "orar",
-        "por",
-        "rezar",
-        "rezo"
+        "rezar"
     ],
     "🙏🏻": [
         "favor",
@@ -1803,9 +2424,7 @@
         "manos en oración",
         "oración",
         "orar",
-        "por",
         "rezar",
-        "rezo",
         "tono de piel claro"
     ],
     "🙏🏼": [
@@ -1815,9 +2434,7 @@
         "manos en oración",
         "oración",
         "orar",
-        "por",
         "rezar",
-        "rezo",
         "tono de piel claro medio"
     ],
     "🙏🏽": [
@@ -1827,9 +2444,7 @@
         "manos en oración",
         "oración",
         "orar",
-        "por",
         "rezar",
-        "rezo",
         "tono de piel medio"
     ],
     "🙏🏾": [
@@ -1839,9 +2454,7 @@
         "manos en oración",
         "oración",
         "orar",
-        "por",
         "rezar",
-        "rezo",
         "tono de piel oscuro medio"
     ],
     "🙏🏿": [
@@ -1851,9 +2464,7 @@
         "manos en oración",
         "oración",
         "orar",
-        "por",
         "rezar",
-        "rezo",
         "tono de piel oscuro"
     ],
     "🤳": [
@@ -2031,6 +2642,246 @@
         "rubio",
         "tono de piel oscuro"
     ],
+    "🧑🏻‍❤‍💋‍🧑🏼": [
+        "beso",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: persona adulta, persona adulta, tono de piel claro, tono de piel claro medio",
+        "persona adulta",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro",
+        "tono de piel claro medio"
+    ],
+    "🧑🏻‍❤‍💋‍🧑🏽": [
+        "beso",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: persona adulta, persona adulta, tono de piel claro, tono de piel medio",
+        "persona adulta",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro",
+        "tono de piel medio"
+    ],
+    "🧑🏻‍❤‍💋‍🧑🏾": [
+        "beso",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: persona adulta, persona adulta, tono de piel claro, tono de piel oscuro medio",
+        "persona adulta",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro",
+        "tono de piel oscuro medio"
+    ],
+    "🧑🏻‍❤‍💋‍🧑🏿": [
+        "beso",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: persona adulta, persona adulta, tono de piel claro, tono de piel oscuro",
+        "persona adulta",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro",
+        "tono de piel oscuro"
+    ],
+    "🧑🏼‍❤‍💋‍🧑🏻": [
+        "beso",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: persona adulta, persona adulta, tono de piel claro medio, tono de piel claro",
+        "persona adulta",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro",
+        "tono de piel claro medio"
+    ],
+    "🧑🏼‍❤‍💋‍🧑🏽": [
+        "beso",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: persona adulta, persona adulta, tono de piel claro medio, tono de piel medio",
+        "persona adulta",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro medio",
+        "tono de piel medio"
+    ],
+    "🧑🏼‍❤‍💋‍🧑🏾": [
+        "beso",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: persona adulta, persona adulta, tono de piel claro medio, tono de piel oscuro medio",
+        "persona adulta",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro medio",
+        "tono de piel oscuro medio"
+    ],
+    "🧑🏼‍❤‍💋‍🧑🏿": [
+        "beso",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: persona adulta, persona adulta, tono de piel claro medio, tono de piel oscuro",
+        "persona adulta",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro medio",
+        "tono de piel oscuro"
+    ],
+    "🧑🏽‍❤‍💋‍🧑🏻": [
+        "beso",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: persona adulta, persona adulta, tono de piel medio, tono de piel claro",
+        "persona adulta",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro",
+        "tono de piel medio"
+    ],
+    "🧑🏽‍❤‍💋‍🧑🏼": [
+        "beso",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: persona adulta, persona adulta, tono de piel medio, tono de piel claro medio",
+        "persona adulta",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro medio",
+        "tono de piel medio"
+    ],
+    "🧑🏽‍❤‍💋‍🧑🏾": [
+        "beso",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: persona adulta, persona adulta, tono de piel medio, tono de piel oscuro medio",
+        "persona adulta",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel medio",
+        "tono de piel oscuro medio"
+    ],
+    "🧑🏽‍❤‍💋‍🧑🏿": [
+        "beso",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: persona adulta, persona adulta, tono de piel medio, tono de piel oscuro",
+        "persona adulta",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel medio",
+        "tono de piel oscuro"
+    ],
+    "🧑🏾‍❤‍💋‍🧑🏻": [
+        "beso",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: persona adulta, persona adulta, tono de piel oscuro medio, tono de piel claro",
+        "persona adulta",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro",
+        "tono de piel oscuro medio"
+    ],
+    "🧑🏾‍❤‍💋‍🧑🏼": [
+        "beso",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: persona adulta, persona adulta, tono de piel oscuro medio, tono de piel claro medio",
+        "persona adulta",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro medio",
+        "tono de piel oscuro medio"
+    ],
+    "🧑🏾‍❤‍💋‍🧑🏽": [
+        "beso",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: persona adulta, persona adulta, tono de piel oscuro medio, tono de piel medio",
+        "persona adulta",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel medio",
+        "tono de piel oscuro medio"
+    ],
+    "🧑🏾‍❤‍💋‍🧑🏿": [
+        "beso",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: persona adulta, persona adulta, tono de piel oscuro medio, tono de piel oscuro",
+        "persona adulta",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel oscuro",
+        "tono de piel oscuro medio"
+    ],
+    "🧑🏿‍❤‍💋‍🧑🏻": [
+        "beso",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: persona adulta, persona adulta, tono de piel oscuro, tono de piel claro",
+        "persona adulta",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro",
+        "tono de piel oscuro"
+    ],
+    "🧑🏿‍❤‍💋‍🧑🏼": [
+        "beso",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: persona adulta, persona adulta, tono de piel oscuro, tono de piel claro medio",
+        "persona adulta",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro medio",
+        "tono de piel oscuro"
+    ],
+    "🧑🏿‍❤‍💋‍🧑🏽": [
+        "beso",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: persona adulta, persona adulta, tono de piel oscuro, tono de piel medio",
+        "persona adulta",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel medio",
+        "tono de piel oscuro"
+    ],
+    "🧑🏿‍❤‍💋‍🧑🏾": [
+        "beso",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: persona adulta, persona adulta, tono de piel oscuro, tono de piel oscuro medio",
+        "persona adulta",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel oscuro",
+        "tono de piel oscuro medio"
+    ],
     "👨": [
         "cara",
         "hombre",
@@ -2070,6 +2921,330 @@
         "hombre",
         "persona",
         "señor",
+        "tono de piel oscuro"
+    ],
+    "🧔‍♂": [
+        "barba",
+        "hombre: barba"
+    ],
+    "🧔🏻‍♂": [
+        "barba",
+        "hombre: barba",
+        "tono de piel claro"
+    ],
+    "🧔🏼‍♂": [
+        "barba",
+        "hombre: barba",
+        "tono de piel claro medio"
+    ],
+    "🧔🏽‍♂": [
+        "barba",
+        "hombre: barba",
+        "tono de piel medio"
+    ],
+    "🧔🏾‍♂": [
+        "barba",
+        "hombre: barba",
+        "tono de piel oscuro medio"
+    ],
+    "🧔🏿‍♂": [
+        "barba",
+        "hombre: barba",
+        "tono de piel oscuro"
+    ],
+    "👨🏻‍❤‍💋‍👨🏻": [
+        "beso",
+        "hombre",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: hombre, hombre, tono de piel claro",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro"
+    ],
+    "👨🏻‍❤‍💋‍👨🏼": [
+        "beso",
+        "hombre",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: hombre, hombre, tono de piel claro, tono de piel claro medio",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro",
+        "tono de piel claro medio"
+    ],
+    "👨🏻‍❤‍💋‍👨🏽": [
+        "beso",
+        "hombre",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: hombre, hombre, tono de piel claro, tono de piel medio",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro",
+        "tono de piel medio"
+    ],
+    "👨🏻‍❤‍💋‍👨🏾": [
+        "beso",
+        "hombre",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: hombre, hombre, tono de piel claro, tono de piel oscuro medio",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro",
+        "tono de piel oscuro medio"
+    ],
+    "👨🏻‍❤‍💋‍👨🏿": [
+        "beso",
+        "hombre",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: hombre, hombre, tono de piel claro, tono de piel oscuro",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro",
+        "tono de piel oscuro"
+    ],
+    "👨🏼‍❤‍💋‍👨🏻": [
+        "beso",
+        "hombre",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: hombre, hombre, tono de piel claro medio, tono de piel claro",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro",
+        "tono de piel claro medio"
+    ],
+    "👨🏼‍❤‍💋‍👨🏼": [
+        "beso",
+        "hombre",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: hombre, hombre, tono de piel claro medio",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro medio"
+    ],
+    "👨🏼‍❤‍💋‍👨🏽": [
+        "beso",
+        "hombre",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: hombre, hombre, tono de piel claro medio, tono de piel medio",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro medio",
+        "tono de piel medio"
+    ],
+    "👨🏼‍❤‍💋‍👨🏾": [
+        "beso",
+        "hombre",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: hombre, hombre, tono de piel claro medio, tono de piel oscuro medio",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro medio",
+        "tono de piel oscuro medio"
+    ],
+    "👨🏼‍❤‍💋‍👨🏿": [
+        "beso",
+        "hombre",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: hombre, hombre, tono de piel claro medio, tono de piel oscuro",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro medio",
+        "tono de piel oscuro"
+    ],
+    "👨🏽‍❤‍💋‍👨🏻": [
+        "beso",
+        "hombre",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: hombre, hombre, tono de piel medio, tono de piel claro",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro",
+        "tono de piel medio"
+    ],
+    "👨🏽‍❤‍💋‍👨🏼": [
+        "beso",
+        "hombre",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: hombre, hombre, tono de piel medio, tono de piel claro medio",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro medio",
+        "tono de piel medio"
+    ],
+    "👨🏽‍❤‍💋‍👨🏽": [
+        "beso",
+        "hombre",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: hombre, hombre, tono de piel medio",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel medio"
+    ],
+    "👨🏽‍❤‍💋‍👨🏾": [
+        "beso",
+        "hombre",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: hombre, hombre, tono de piel medio, tono de piel oscuro medio",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel medio",
+        "tono de piel oscuro medio"
+    ],
+    "👨🏽‍❤‍💋‍👨🏿": [
+        "beso",
+        "hombre",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: hombre, hombre, tono de piel medio, tono de piel oscuro",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel medio",
+        "tono de piel oscuro"
+    ],
+    "👨🏾‍❤‍💋‍👨🏻": [
+        "beso",
+        "hombre",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: hombre, hombre, tono de piel oscuro medio, tono de piel claro",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro",
+        "tono de piel oscuro medio"
+    ],
+    "👨🏾‍❤‍💋‍👨🏼": [
+        "beso",
+        "hombre",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: hombre, hombre, tono de piel oscuro medio, tono de piel claro medio",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro medio",
+        "tono de piel oscuro medio"
+    ],
+    "👨🏾‍❤‍💋‍👨🏽": [
+        "beso",
+        "hombre",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: hombre, hombre, tono de piel oscuro medio, tono de piel medio",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel medio",
+        "tono de piel oscuro medio"
+    ],
+    "👨🏾‍❤‍💋‍👨🏾": [
+        "beso",
+        "hombre",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: hombre, hombre, tono de piel oscuro medio",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel oscuro medio"
+    ],
+    "👨🏾‍❤‍💋‍👨🏿": [
+        "beso",
+        "hombre",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: hombre, hombre, tono de piel oscuro medio, tono de piel oscuro",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel oscuro",
+        "tono de piel oscuro medio"
+    ],
+    "👨🏿‍❤‍💋‍👨🏻": [
+        "beso",
+        "hombre",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: hombre, hombre, tono de piel oscuro, tono de piel claro",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro",
+        "tono de piel oscuro"
+    ],
+    "👨🏿‍❤‍💋‍👨🏼": [
+        "beso",
+        "hombre",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: hombre, hombre, tono de piel oscuro, tono de piel claro medio",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro medio",
+        "tono de piel oscuro"
+    ],
+    "👨🏿‍❤‍💋‍👨🏽": [
+        "beso",
+        "hombre",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: hombre, hombre, tono de piel oscuro, tono de piel medio",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel medio",
+        "tono de piel oscuro"
+    ],
+    "👨🏿‍❤‍💋‍👨🏾": [
+        "beso",
+        "hombre",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: hombre, hombre, tono de piel oscuro, tono de piel oscuro medio",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel oscuro",
+        "tono de piel oscuro medio"
+    ],
+    "👨🏿‍❤‍💋‍👨🏿": [
+        "beso",
+        "hombre",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: hombre, hombre, tono de piel oscuro",
+        "personas",
+        "romance",
+        "romántico",
         "tono de piel oscuro"
     ],
     "👨‍🦰": [
@@ -2299,6 +3474,621 @@
         "mujer",
         "persona",
         "señora",
+        "tono de piel oscuro"
+    ],
+    "👩🏻‍❤‍💋‍👨🏻": [
+        "beso",
+        "hombre",
+        "mujer",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: mujer, hombre, tono de piel claro",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro"
+    ],
+    "👩🏻‍❤‍💋‍👨🏼": [
+        "beso",
+        "hombre",
+        "mujer",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: mujer, hombre, tono de piel claro, tono de piel claro medio",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro",
+        "tono de piel claro medio"
+    ],
+    "👩🏻‍❤‍💋‍👨🏽": [
+        "beso",
+        "hombre",
+        "mujer",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: mujer, hombre, tono de piel claro, tono de piel medio",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro",
+        "tono de piel medio"
+    ],
+    "👩🏻‍❤‍💋‍👨🏾": [
+        "beso",
+        "hombre",
+        "mujer",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: mujer, hombre, tono de piel claro, tono de piel oscuro medio",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro",
+        "tono de piel oscuro medio"
+    ],
+    "👩🏻‍❤‍💋‍👨🏿": [
+        "beso",
+        "hombre",
+        "mujer",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: mujer, hombre, tono de piel claro, tono de piel oscuro",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro",
+        "tono de piel oscuro"
+    ],
+    "👩🏼‍❤‍💋‍👨🏻": [
+        "beso",
+        "hombre",
+        "mujer",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: mujer, hombre, tono de piel claro medio, tono de piel claro",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro",
+        "tono de piel claro medio"
+    ],
+    "👩🏼‍❤‍💋‍👨🏼": [
+        "beso",
+        "hombre",
+        "mujer",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: mujer, hombre, tono de piel claro medio",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro medio"
+    ],
+    "👩🏼‍❤‍💋‍👨🏽": [
+        "beso",
+        "hombre",
+        "mujer",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: mujer, hombre, tono de piel claro medio, tono de piel medio",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro medio",
+        "tono de piel medio"
+    ],
+    "👩🏼‍❤‍💋‍👨🏾": [
+        "beso",
+        "hombre",
+        "mujer",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: mujer, hombre, tono de piel claro medio, tono de piel oscuro medio",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro medio",
+        "tono de piel oscuro medio"
+    ],
+    "👩🏼‍❤‍💋‍👨🏿": [
+        "beso",
+        "hombre",
+        "mujer",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: mujer, hombre, tono de piel claro medio, tono de piel oscuro",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro medio",
+        "tono de piel oscuro"
+    ],
+    "👩🏽‍❤‍💋‍👨🏻": [
+        "beso",
+        "hombre",
+        "mujer",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: mujer, hombre, tono de piel medio, tono de piel claro",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro",
+        "tono de piel medio"
+    ],
+    "👩🏽‍❤‍💋‍👨🏼": [
+        "beso",
+        "hombre",
+        "mujer",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: mujer, hombre, tono de piel medio, tono de piel claro medio",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro medio",
+        "tono de piel medio"
+    ],
+    "👩🏽‍❤‍💋‍👨🏽": [
+        "beso",
+        "hombre",
+        "mujer",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: mujer, hombre, tono de piel medio",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel medio"
+    ],
+    "👩🏽‍❤‍💋‍👨🏾": [
+        "beso",
+        "hombre",
+        "mujer",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: mujer, hombre, tono de piel medio, tono de piel oscuro medio",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel medio",
+        "tono de piel oscuro medio"
+    ],
+    "👩🏽‍❤‍💋‍👨🏿": [
+        "beso",
+        "hombre",
+        "mujer",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: mujer, hombre, tono de piel medio, tono de piel oscuro",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel medio",
+        "tono de piel oscuro"
+    ],
+    "👩🏾‍❤‍💋‍👨🏻": [
+        "beso",
+        "hombre",
+        "mujer",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: mujer, hombre, tono de piel oscuro medio, tono de piel claro",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro",
+        "tono de piel oscuro medio"
+    ],
+    "👩🏾‍❤‍💋‍👨🏼": [
+        "beso",
+        "hombre",
+        "mujer",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: mujer, hombre, tono de piel oscuro medio, tono de piel claro medio",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro medio",
+        "tono de piel oscuro medio"
+    ],
+    "👩🏾‍❤‍💋‍👨🏽": [
+        "beso",
+        "hombre",
+        "mujer",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: mujer, hombre, tono de piel oscuro medio, tono de piel medio",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel medio",
+        "tono de piel oscuro medio"
+    ],
+    "👩🏾‍❤‍💋‍👨🏾": [
+        "beso",
+        "hombre",
+        "mujer",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: mujer, hombre, tono de piel oscuro medio",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel oscuro medio"
+    ],
+    "👩🏾‍❤‍💋‍👨🏿": [
+        "beso",
+        "hombre",
+        "mujer",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: mujer, hombre, tono de piel oscuro medio, tono de piel oscuro",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel oscuro",
+        "tono de piel oscuro medio"
+    ],
+    "👩🏿‍❤‍💋‍👨🏻": [
+        "beso",
+        "hombre",
+        "mujer",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: mujer, hombre, tono de piel oscuro, tono de piel claro",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro",
+        "tono de piel oscuro"
+    ],
+    "👩🏿‍❤‍💋‍👨🏼": [
+        "beso",
+        "hombre",
+        "mujer",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: mujer, hombre, tono de piel oscuro, tono de piel claro medio",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro medio",
+        "tono de piel oscuro"
+    ],
+    "👩🏿‍❤‍💋‍👨🏽": [
+        "beso",
+        "hombre",
+        "mujer",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: mujer, hombre, tono de piel oscuro, tono de piel medio",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel medio",
+        "tono de piel oscuro"
+    ],
+    "👩🏿‍❤‍💋‍👨🏾": [
+        "beso",
+        "hombre",
+        "mujer",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: mujer, hombre, tono de piel oscuro, tono de piel oscuro medio",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel oscuro",
+        "tono de piel oscuro medio"
+    ],
+    "👩🏿‍❤‍💋‍👨🏿": [
+        "beso",
+        "hombre",
+        "mujer",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: mujer, hombre, tono de piel oscuro",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel oscuro"
+    ],
+    "👩🏻‍❤‍💋‍👩🏻": [
+        "beso",
+        "mujer",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: mujer, mujer, tono de piel claro",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro"
+    ],
+    "👩🏻‍❤‍💋‍👩🏼": [
+        "beso",
+        "mujer",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: mujer, mujer, tono de piel claro, tono de piel claro medio",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro",
+        "tono de piel claro medio"
+    ],
+    "👩🏻‍❤‍💋‍👩🏽": [
+        "beso",
+        "mujer",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: mujer, mujer, tono de piel claro, tono de piel medio",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro",
+        "tono de piel medio"
+    ],
+    "👩🏻‍❤‍💋‍👩🏾": [
+        "beso",
+        "mujer",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: mujer, mujer, tono de piel claro, tono de piel oscuro medio",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro",
+        "tono de piel oscuro medio"
+    ],
+    "👩🏻‍❤‍💋‍👩🏿": [
+        "beso",
+        "mujer",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: mujer, mujer, tono de piel claro, tono de piel oscuro",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro",
+        "tono de piel oscuro"
+    ],
+    "👩🏼‍❤‍💋‍👩🏻": [
+        "beso",
+        "mujer",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: mujer, mujer, tono de piel claro medio, tono de piel claro",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro",
+        "tono de piel claro medio"
+    ],
+    "👩🏼‍❤‍💋‍👩🏼": [
+        "beso",
+        "mujer",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: mujer, mujer, tono de piel claro medio",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro medio"
+    ],
+    "👩🏼‍❤‍💋‍👩🏽": [
+        "beso",
+        "mujer",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: mujer, mujer, tono de piel claro medio, tono de piel medio",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro medio",
+        "tono de piel medio"
+    ],
+    "👩🏼‍❤‍💋‍👩🏾": [
+        "beso",
+        "mujer",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: mujer, mujer, tono de piel claro medio, tono de piel oscuro medio",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro medio",
+        "tono de piel oscuro medio"
+    ],
+    "👩🏼‍❤‍💋‍👩🏿": [
+        "beso",
+        "mujer",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: mujer, mujer, tono de piel claro medio, tono de piel oscuro",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro medio",
+        "tono de piel oscuro"
+    ],
+    "👩🏽‍❤‍💋‍👩🏻": [
+        "beso",
+        "mujer",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: mujer, mujer, tono de piel medio, tono de piel claro",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro",
+        "tono de piel medio"
+    ],
+    "👩🏽‍❤‍💋‍👩🏼": [
+        "beso",
+        "mujer",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: mujer, mujer, tono de piel medio, tono de piel claro medio",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro medio",
+        "tono de piel medio"
+    ],
+    "👩🏽‍❤‍💋‍👩🏽": [
+        "beso",
+        "mujer",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: mujer, mujer, tono de piel medio",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel medio"
+    ],
+    "👩🏽‍❤‍💋‍👩🏾": [
+        "beso",
+        "mujer",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: mujer, mujer, tono de piel medio, tono de piel oscuro medio",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel medio",
+        "tono de piel oscuro medio"
+    ],
+    "👩🏽‍❤‍💋‍👩🏿": [
+        "beso",
+        "mujer",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: mujer, mujer, tono de piel medio, tono de piel oscuro",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel medio",
+        "tono de piel oscuro"
+    ],
+    "👩🏾‍❤‍💋‍👩🏻": [
+        "beso",
+        "mujer",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: mujer, mujer, tono de piel oscuro medio, tono de piel claro",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro",
+        "tono de piel oscuro medio"
+    ],
+    "👩🏾‍❤‍💋‍👩🏼": [
+        "beso",
+        "mujer",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: mujer, mujer, tono de piel oscuro medio, tono de piel claro medio",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro medio",
+        "tono de piel oscuro medio"
+    ],
+    "👩🏾‍❤‍💋‍👩🏽": [
+        "beso",
+        "mujer",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: mujer, mujer, tono de piel oscuro medio, tono de piel medio",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel medio",
+        "tono de piel oscuro medio"
+    ],
+    "👩🏾‍❤‍💋‍👩🏾": [
+        "beso",
+        "mujer",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: mujer, mujer, tono de piel oscuro medio",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel oscuro medio"
+    ],
+    "👩🏾‍❤‍💋‍👩🏿": [
+        "beso",
+        "mujer",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: mujer, mujer, tono de piel oscuro medio, tono de piel oscuro",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel oscuro",
+        "tono de piel oscuro medio"
+    ],
+    "👩🏿‍❤‍💋‍👩🏻": [
+        "beso",
+        "mujer",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: mujer, mujer, tono de piel oscuro, tono de piel claro",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro",
+        "tono de piel oscuro"
+    ],
+    "👩🏿‍❤‍💋‍👩🏼": [
+        "beso",
+        "mujer",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: mujer, mujer, tono de piel oscuro, tono de piel claro medio",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro medio",
+        "tono de piel oscuro"
+    ],
+    "👩🏿‍❤‍💋‍👩🏽": [
+        "beso",
+        "mujer",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: mujer, mujer, tono de piel oscuro, tono de piel medio",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel medio",
+        "tono de piel oscuro"
+    ],
+    "👩🏿‍❤‍💋‍👩🏾": [
+        "beso",
+        "mujer",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: mujer, mujer, tono de piel oscuro, tono de piel oscuro medio",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel oscuro",
+        "tono de piel oscuro medio"
+    ],
+    "👩🏿‍❤‍💋‍👩🏿": [
+        "beso",
+        "mujer",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: mujer, mujer, tono de piel oscuro",
+        "personas",
+        "romance",
+        "romántico",
         "tono de piel oscuro"
     ],
     "👩‍🦰": [
@@ -2653,64 +4443,6 @@
         "tono de piel oscuro",
         "vieja"
     ],
-    "🙍": [
-        "cara",
-        "ceño",
-        "enojado",
-        "mal",
-        "mujer frunciendo el ceño",
-        "persona"
-    ],
-    "🙍🏻": [
-        "cara",
-        "ceño",
-        "enojado",
-        "mal",
-        "mujer frunciendo el ceño",
-        "mujer frunciendo el ceño: tono de piel claro",
-        "persona",
-        "tono de piel claro"
-    ],
-    "🙍🏼": [
-        "cara",
-        "ceño",
-        "enojado",
-        "mal",
-        "mujer frunciendo el ceño",
-        "mujer frunciendo el ceño: tono de piel claro medio",
-        "persona",
-        "tono de piel claro medio"
-    ],
-    "🙍🏽": [
-        "cara",
-        "ceño",
-        "enojado",
-        "mal",
-        "mujer frunciendo el ceño",
-        "mujer frunciendo el ceño: tono de piel medio",
-        "persona",
-        "tono de piel medio"
-    ],
-    "🙍🏾": [
-        "cara",
-        "ceño",
-        "enojado",
-        "mal",
-        "mujer frunciendo el ceño",
-        "mujer frunciendo el ceño: tono de piel oscuro medio",
-        "persona",
-        "tono de piel oscuro medio"
-    ],
-    "🙍🏿": [
-        "cara",
-        "ceño",
-        "enojado",
-        "mal",
-        "mujer frunciendo el ceño",
-        "mujer frunciendo el ceño: tono de piel oscuro",
-        "persona",
-        "tono de piel oscuro"
-    ],
     "🙍‍♀": [
         "ceño",
         "fruncido",
@@ -2774,53 +4506,6 @@
         "persona",
         "tono de piel oscuro",
         "triste"
-    ],
-    "🙎": [
-        "cara",
-        "enojada",
-        "mujer",
-        "mujer enojada",
-        "persona"
-    ],
-    "🙎🏻": [
-        "cara",
-        "enojada",
-        "mujer",
-        "mujer enojada: tono de piel claro",
-        "persona",
-        "tono de piel claro"
-    ],
-    "🙎🏼": [
-        "cara",
-        "enojada",
-        "mujer",
-        "mujer enojada: tono de piel claro medio",
-        "persona",
-        "tono de piel claro medio"
-    ],
-    "🙎🏽": [
-        "cara",
-        "enojada",
-        "mujer",
-        "mujer enojada: tono de piel medio",
-        "persona",
-        "tono de piel medio"
-    ],
-    "🙎🏾": [
-        "cara",
-        "enojada",
-        "mujer",
-        "mujer enojada: tono de piel oscuro medio",
-        "persona",
-        "tono de piel oscuro medio"
-    ],
-    "🙎🏿": [
-        "cara",
-        "enojada",
-        "mujer",
-        "mujer enojada: tono de piel oscuro",
-        "persona",
-        "tono de piel oscuro"
     ],
     "🙅": [
         "brazos",
@@ -2924,64 +4609,6 @@
         "gesto de está bien",
         "gesto de está bien: tono de piel oscuro",
         "ok",
-        "tono de piel oscuro"
-    ],
-    "💁": [
-        "entrada",
-        "información",
-        "mesa",
-        "mujer",
-        "persona",
-        "persona en mesa entrada"
-    ],
-    "💁🏻": [
-        "entrada",
-        "información",
-        "mesa",
-        "mujer",
-        "persona",
-        "persona en mesa entrada",
-        "persona en mesa entrada: tono de piel claro",
-        "tono de piel claro"
-    ],
-    "💁🏼": [
-        "entrada",
-        "información",
-        "mesa",
-        "mujer",
-        "persona",
-        "persona en mesa entrada",
-        "persona en mesa entrada: tono de piel claro medio",
-        "tono de piel claro medio"
-    ],
-    "💁🏽": [
-        "entrada",
-        "información",
-        "mesa",
-        "mujer",
-        "persona",
-        "persona en mesa entrada",
-        "persona en mesa entrada: tono de piel medio",
-        "tono de piel medio"
-    ],
-    "💁🏾": [
-        "entrada",
-        "información",
-        "mesa",
-        "mujer",
-        "persona",
-        "persona en mesa entrada",
-        "persona en mesa entrada: tono de piel oscuro medio",
-        "tono de piel oscuro medio"
-    ],
-    "💁🏿": [
-        "entrada",
-        "información",
-        "mesa",
-        "mujer",
-        "persona",
-        "persona en mesa entrada",
-        "persona en mesa entrada: tono de piel oscuro",
         "tono de piel oscuro"
     ],
     "🙋": [
@@ -3236,69 +4863,46 @@
         "sombrero",
         "tono de piel oscuro"
     ],
-    "👷": [
-        "cara",
-        "construcción",
-        "hombre",
-        "obrero",
-        "obrero de construcción",
-        "persona",
-        "trabajador"
+    "🫅": [
+        "monarca",
+        "noble",
+        "persona con corona",
+        "realeza"
     ],
-    "👷🏻": [
-        "cara",
-        "construcción",
-        "hombre",
-        "obrero",
-        "obrero de construcción",
-        "obrero de construcción: tono de piel claro",
-        "persona",
-        "tono de piel claro",
-        "trabajador"
+    "🫅🏻": [
+        "monarca",
+        "noble",
+        "persona con corona",
+        "realeza",
+        "tono de piel claro"
     ],
-    "👷🏼": [
-        "cara",
-        "construcción",
-        "hombre",
-        "obrero",
-        "obrero de construcción",
-        "obrero de construcción: tono de piel claro medio",
-        "persona",
-        "tono de piel claro medio",
-        "trabajador"
+    "🫅🏼": [
+        "monarca",
+        "noble",
+        "persona con corona",
+        "realeza",
+        "tono de piel claro medio"
     ],
-    "👷🏽": [
-        "cara",
-        "construcción",
-        "hombre",
-        "obrero",
-        "obrero de construcción",
-        "obrero de construcción: tono de piel medio",
-        "persona",
-        "tono de piel medio",
-        "trabajador"
+    "🫅🏽": [
+        "monarca",
+        "noble",
+        "persona con corona",
+        "realeza",
+        "tono de piel medio"
     ],
-    "👷🏾": [
-        "cara",
-        "construcción",
-        "hombre",
-        "obrero",
-        "obrero de construcción",
-        "obrero de construcción: tono de piel oscuro medio",
-        "persona",
-        "tono de piel oscuro medio",
-        "trabajador"
+    "🫅🏾": [
+        "monarca",
+        "noble",
+        "persona con corona",
+        "realeza",
+        "tono de piel oscuro medio"
     ],
-    "👷🏿": [
-        "cara",
-        "construcción",
-        "hombre",
-        "obrero",
-        "obrero de construcción",
-        "obrero de construcción: tono de piel oscuro",
-        "persona",
-        "tono de piel oscuro",
-        "trabajador"
+    "🫅🏿": [
+        "monarca",
+        "noble",
+        "persona con corona",
+        "realeza",
+        "tono de piel oscuro"
     ],
     "🤴": [
         "príncipe"
@@ -3695,6 +5299,12 @@
         "tono de piel oscuro",
         "tritón"
     ],
+    "🧌": [
+        "cuento de hadas",
+        "fantasía",
+        "monstruo",
+        "troll"
+    ],
     "💆": [
         "belleza",
         "masaje",
@@ -3757,22 +5367,18 @@
         "belleza",
         "corte",
         "corte de pelo",
-        "mujer",
         "pelo",
         "peluquero",
-        "peluquería",
-        "salón"
+        "persona cortándose el pelo"
     ],
     "💇🏻": [
         "belleza",
         "corte",
         "corte de pelo",
         "corte de pelo: tono de piel claro",
-        "mujer",
         "pelo",
         "peluquero",
-        "peluquería",
-        "salón",
+        "persona cortándose el pelo",
         "tono de piel claro"
     ],
     "💇🏼": [
@@ -3780,11 +5386,9 @@
         "corte",
         "corte de pelo",
         "corte de pelo: tono de piel claro medio",
-        "mujer",
         "pelo",
         "peluquero",
-        "peluquería",
-        "salón",
+        "persona cortándose el pelo",
         "tono de piel claro medio"
     ],
     "💇🏽": [
@@ -3792,11 +5396,9 @@
         "corte",
         "corte de pelo",
         "corte de pelo: tono de piel medio",
-        "mujer",
         "pelo",
         "peluquero",
-        "peluquería",
-        "salón",
+        "persona cortándose el pelo",
         "tono de piel medio"
     ],
     "💇🏾": [
@@ -3804,11 +5406,9 @@
         "corte",
         "corte de pelo",
         "corte de pelo: tono de piel oscuro medio",
-        "mujer",
         "pelo",
         "peluquero",
-        "peluquería",
-        "salón",
+        "persona cortándose el pelo",
         "tono de piel oscuro medio"
     ],
     "💇🏿": [
@@ -3816,11 +5416,9 @@
         "corte",
         "corte de pelo",
         "corte de pelo: tono de piel oscuro",
-        "mujer",
         "pelo",
         "peluquero",
-        "peluquería",
-        "salón",
+        "persona cortándose el pelo",
         "tono de piel oscuro"
     ],
     "🚶": [
@@ -4941,6 +6539,56 @@
         "romance",
         "romántico"
     ],
+    "💏🏻": [
+        "beso",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: tono de piel claro",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro"
+    ],
+    "💏🏼": [
+        "beso",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: tono de piel claro medio",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel claro medio"
+    ],
+    "💏🏽": [
+        "beso",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: tono de piel medio",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel medio"
+    ],
+    "💏🏾": [
+        "beso",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: tono de piel oscuro medio",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel oscuro medio"
+    ],
+    "💏🏿": [
+        "beso",
+        "pareja",
+        "pareja besándose",
+        "pareja besándose: tono de piel oscuro",
+        "personas",
+        "romance",
+        "romántico",
+        "tono de piel oscuro"
+    ],
     "👩‍❤‍💋‍👨": [
         "beso",
         "hombre",
@@ -4971,370 +6619,6 @@
         "personas",
         "romance",
         "romántico"
-    ],
-    "💑": [
-        "amor",
-        "corazón",
-        "enamorado",
-        "pareja",
-        "pareja enamorada",
-        "personas",
-        "romance",
-        "romántico"
-    ],
-    "👩‍❤‍👨": [
-        "amor",
-        "corazón",
-        "enamorado",
-        "hombre",
-        "mujer",
-        "pareja",
-        "pareja enamorada",
-        "personas",
-        "romance",
-        "romántico"
-    ],
-    "👨‍❤‍👨": [
-        "amor",
-        "corazón",
-        "enamorado",
-        "hombre",
-        "pareja",
-        "pareja enamorada",
-        "personas",
-        "romance",
-        "romántico"
-    ],
-    "👩‍❤‍👩": [
-        "amor",
-        "corazón",
-        "enamorado",
-        "mujer",
-        "pareja",
-        "pareja enamorada",
-        "personas",
-        "romance",
-        "romántico"
-    ],
-    "👪️": [
-        "familia",
-        "hija",
-        "hijo",
-        "madre",
-        "mamá",
-        "padre",
-        "papá",
-        "personas"
-    ],
-    "👨‍👩‍👦": [
-        "familia",
-        "hija",
-        "hijo",
-        "hombre",
-        "madre",
-        "mamá",
-        "mujer",
-        "niño",
-        "padre",
-        "papá",
-        "personas"
-    ],
-    "👨‍👩‍👧": [
-        "familia",
-        "hija",
-        "hijo",
-        "hombre",
-        "madre",
-        "mamá",
-        "mujer",
-        "niña",
-        "padre",
-        "papá",
-        "personas"
-    ],
-    "👨‍👩‍👧‍👦": [
-        "familia",
-        "hija",
-        "hijo",
-        "hombre",
-        "madre",
-        "mamá",
-        "mujer",
-        "niña",
-        "niño",
-        "padre",
-        "papá",
-        "personas"
-    ],
-    "👨‍👩‍👦‍👦": [
-        "familia",
-        "hija",
-        "hijo",
-        "hombre",
-        "madre",
-        "mamá",
-        "mujer",
-        "niño",
-        "padre",
-        "papá",
-        "personas"
-    ],
-    "👨‍👩‍👧‍👧": [
-        "familia",
-        "hija",
-        "hijo",
-        "hombre",
-        "madre",
-        "mamá",
-        "mujer",
-        "niña",
-        "padre",
-        "papá",
-        "personas"
-    ],
-    "👨‍👨‍👦": [
-        "familia",
-        "hija",
-        "hijo",
-        "hombre",
-        "madre",
-        "mamá",
-        "niño",
-        "padre",
-        "papá",
-        "personas"
-    ],
-    "👨‍👨‍👧": [
-        "familia",
-        "hija",
-        "hijo",
-        "hombre",
-        "madre",
-        "mamá",
-        "niña",
-        "padre",
-        "papá",
-        "personas"
-    ],
-    "👨‍👨‍👧‍👦": [
-        "familia",
-        "hija",
-        "hijo",
-        "hombre",
-        "madre",
-        "mamá",
-        "niña",
-        "niño",
-        "padre",
-        "papá",
-        "personas"
-    ],
-    "👨‍👨‍👦‍👦": [
-        "familia",
-        "hija",
-        "hijo",
-        "hombre",
-        "madre",
-        "mamá",
-        "niño",
-        "padre",
-        "papá",
-        "personas"
-    ],
-    "👨‍👨‍👧‍👧": [
-        "familia",
-        "hija",
-        "hijo",
-        "hombre",
-        "madre",
-        "mamá",
-        "niña",
-        "padre",
-        "papá",
-        "personas"
-    ],
-    "👩‍👩‍👦": [
-        "familia",
-        "hija",
-        "hijo",
-        "madre",
-        "mamá",
-        "mujer",
-        "niño",
-        "padre",
-        "papá",
-        "personas"
-    ],
-    "👩‍👩‍👧": [
-        "familia",
-        "hija",
-        "hijo",
-        "madre",
-        "mamá",
-        "mujer",
-        "niña",
-        "padre",
-        "papá",
-        "personas"
-    ],
-    "👩‍👩‍👧‍👦": [
-        "familia",
-        "hija",
-        "hijo",
-        "madre",
-        "mamá",
-        "mujer",
-        "niña",
-        "niño",
-        "padre",
-        "papá",
-        "personas"
-    ],
-    "👩‍👩‍👦‍👦": [
-        "familia",
-        "hija",
-        "hijo",
-        "madre",
-        "mamá",
-        "mujer",
-        "niño",
-        "padre",
-        "papá",
-        "personas"
-    ],
-    "👩‍👩‍👧‍👧": [
-        "familia",
-        "hija",
-        "hijo",
-        "madre",
-        "mamá",
-        "mujer",
-        "niña",
-        "padre",
-        "papá",
-        "personas"
-    ],
-    "👨‍👦": [
-        "familia",
-        "hija",
-        "hijo",
-        "hombre",
-        "madre",
-        "mamá",
-        "niño",
-        "padre",
-        "papá",
-        "personas"
-    ],
-    "👨‍👦‍👦": [
-        "familia",
-        "hija",
-        "hijo",
-        "hombre",
-        "madre",
-        "mamá",
-        "niño",
-        "padre",
-        "papá",
-        "personas"
-    ],
-    "👨‍👧": [
-        "familia",
-        "hija",
-        "hijo",
-        "hombre",
-        "madre",
-        "mamá",
-        "niña",
-        "padre",
-        "papá",
-        "personas"
-    ],
-    "👨‍👧‍👦": [
-        "familia",
-        "hija",
-        "hijo",
-        "hombre",
-        "madre",
-        "mamá",
-        "niña",
-        "niño",
-        "padre",
-        "papá",
-        "personas"
-    ],
-    "👨‍👧‍👧": [
-        "familia",
-        "hija",
-        "hijo",
-        "hombre",
-        "madre",
-        "mamá",
-        "niña",
-        "padre",
-        "papá",
-        "personas"
-    ],
-    "👩‍👦": [
-        "familia",
-        "hija",
-        "hijo",
-        "madre",
-        "mamá",
-        "mujer",
-        "niño",
-        "padre",
-        "papá",
-        "personas"
-    ],
-    "👩‍👦‍👦": [
-        "familia",
-        "hija",
-        "hijo",
-        "madre",
-        "mamá",
-        "mujer",
-        "niño",
-        "padre",
-        "papá",
-        "personas"
-    ],
-    "👩‍👧": [
-        "familia",
-        "hija",
-        "hijo",
-        "madre",
-        "mamá",
-        "mujer",
-        "niña",
-        "padre",
-        "papá",
-        "personas"
-    ],
-    "👩‍👧‍👦": [
-        "familia",
-        "hija",
-        "hijo",
-        "madre",
-        "mamá",
-        "mujer",
-        "niña",
-        "niño",
-        "padre",
-        "papá",
-        "personas"
-    ],
-    "👩‍👧‍👧": [
-        "familia",
-        "hija",
-        "hijo",
-        "madre",
-        "mamá",
-        "mujer",
-        "niña",
-        "padre",
-        "papá",
-        "personas"
     ],
     "🗣️": [
         "cabeza",
@@ -5427,6 +6711,7 @@
     "🐾": [
         "animal",
         "huella",
+        "huellas de pezuñas",
         "pata",
         "pezuña"
     ],
@@ -5521,6 +6806,15 @@
         "flor blanca",
         "sello"
     ],
+    "🪷": [
+        "India",
+        "Vietnam",
+        "budismo",
+        "flor",
+        "hinduismo",
+        "lotus",
+        "pureza"
+    ],
     "🥀": [
         "flor",
         "marchita",
@@ -5550,6 +6844,14 @@
         "hojas",
         "soplar",
         "viento"
+    ],
+    "🪹": [
+        "anidamiento",
+        "nido vacío"
+    ],
+    "🪺": [
+        "anidamiento",
+        "nido con huevos"
     ],
     "🍌": [
         "banana",
@@ -5631,6 +6933,12 @@
         "fruto seco",
         "maní",
         "vegetal"
+    ],
+    "🫘": [
+        "comida",
+        "frijoles",
+        "legumbre",
+        "riñón"
     ],
     "🌰": [
         "castaña",
@@ -5888,8 +7196,8 @@
     "🎂": [
         "celebración",
         "cumpleaños",
-        "dulce",
         "fiesta",
+        "pastel de cumpleaños",
         "torta",
         "torta de cumpleaños",
         "velas"
@@ -5900,8 +7208,8 @@
         "dulce",
         "fiesta",
         "porción de torta",
-        "torta",
-        "velas"
+        "rebanada de pastel",
+        "torta"
     ],
     "🍬": [
         "caramelo",
@@ -6003,6 +7311,13 @@
         "vaso pequeño",
         "whisky"
     ],
+    "🫗": [
+        "bebida",
+        "copa",
+        "derramada",
+        "líquido que se vierte",
+        "vacío"
+    ],
     "🧋": [
         "burbuja",
         "leche",
@@ -6035,6 +7350,15 @@
         "cocina",
         "cuchillo",
         "cuchillo de cocina"
+    ],
+    "🫙": [
+        "almacenar",
+        "condimento",
+        "frasco",
+        "jarra",
+        "recipiente",
+        "salsa",
+        "vacío"
     ],
     "🏺": [
         "jarra",
@@ -6325,17 +7649,6 @@
         "tren eléctrico",
         "vagón"
     ],
-    "🚄": [
-        "bala",
-        "ferrocarril",
-        "rápido",
-        "transporte",
-        "tren",
-        "tren de alta velocidad",
-        "velocidad",
-        "viajar",
-        "viaje"
-    ],
     "🚅": [
         "bala",
         "ferrocarril",
@@ -6623,10 +7936,9 @@
     "🛫": [
         "avión",
         "avión despegando",
-        "check",
+        "check-in",
         "despegar",
         "despegue",
-        "in",
         "partida",
         "salida"
     ],
@@ -8417,6 +9729,9 @@
         "estatua de la isla de Pascua",
         "isla"
     ],
+    "🪪": [
+        "identificación"
+    ],
     "🏧": [
         "atm",
         "banco",
@@ -8791,6 +10106,9 @@
     "➖": [
         "resta"
     ],
+    "❓️": [
+        "signo de interrogación"
+    ],
     "❔": [
         "?",
         "interrogación",
@@ -8805,6 +10123,9 @@
         "exclamación blanca",
         "puntuación",
         "signo de exclamación gris"
+    ],
+    "❗️": [
+        "signo de exclamación"
     ],
     "〰️": [
         "guion",
@@ -8979,16 +10300,6 @@
     "🔵": [
         "círculo azul"
     ],
-    "⚪️": [
-        "blanco",
-        "círculo",
-        "grande"
-    ],
-    "⬛️": [
-        "cuadrado",
-        "grande",
-        "negro"
-    ],
     "⬜️": [
         "blanco",
         "cuadrado",
@@ -8998,11 +10309,6 @@
         "cuadrado",
         "mediano",
         "negro"
-    ],
-    "◻️": [
-        "blanco",
-        "cuadrado",
-        "mediano"
     ],
     "◾️": [
         "cuadrado",
@@ -9016,16 +10322,6 @@
         "cuadrado",
         "cuadrado blanco mediano-pequeño",
         "mediano",
-        "pequeño"
-    ],
-    "▪️": [
-        "cuadrado",
-        "negro",
-        "pequeño"
-    ],
-    "▫️": [
-        "blanco",
-        "cuadrado",
         "pequeño"
     ],
     "🔶": [
@@ -10151,5 +11447,54 @@
     "🏴󠁧󠁢󠁷󠁬󠁳󠁿": [
         "bandera",
         "bandera: Gales"
+    ],
+    "¢": [
+        "centavo"
+    ],
+    "฿": [
+        "baht tailandes"
+    ],
+    "₢": [
+        "BRB",
+        "cruceiro",
+        "divisa"
+    ],
+    "₣": [
+        "FRF",
+        "divisa",
+        "franco",
+        "franco francés"
+    ],
+    "₤": [
+        "divisa",
+        "lira"
+    ],
+    "₥": [
+        "mil",
+        "mill"
+    ],
+    "₰": [
+        "divisa",
+        "penique",
+        "penique alemán",
+        "pfennig"
+    ],
+    "₳": [
+        "ARA",
+        "austral",
+        "divisa"
+    ],
+    "₶": [
+        "divisa",
+        "libra tornesa"
+    ],
+    "₸": [
+        "tenge kazajo"
+    ],
+    "₿": [
+        "bitcoin"
+    ],
+    "µ": [
+        "signo micro"
     ]
 }

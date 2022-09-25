@@ -1,4 +1,1434 @@
 {
+    "‾": [
+        "høj streg"
+    ],
+    "_": [
+        "lav streg",
+        "lav tankestreg",
+        "streg",
+        "tankestreg",
+        "understregning",
+        "understregningstegn"
+    ],
+    "-": [
+        "minus",
+        "streg",
+        "tankestreg",
+        "tankestreg-minus"
+    ],
+    "‐": [
+        "bindestreg",
+        "streg"
+    ],
+    "–": [
+        "en dash",
+        "kort",
+        "n-tankestreg",
+        "tankestreg"
+    ],
+    "—": [
+        "em dash",
+        "lang",
+        "lang tankestreg",
+        "m-tankestreg",
+        "tankestreg"
+    ],
+    "―": [
+        "linje",
+        "streg",
+        "tankestreg",
+        "vandret streg"
+    ],
+    "・": [
+        "katakana",
+        "katakana-mellemprik",
+        "mellemprik",
+        "mellempunkt",
+        "prikker"
+    ],
+    ",": [
+        "grammatik",
+        "komma",
+        "pause",
+        "sætningsopdeling"
+    ],
+    "،": [
+        "arabisk komma",
+        "grammatik",
+        "tegnsætning"
+    ],
+    "、": [
+        "grammatik",
+        "ideografisk komma",
+        "kinesisk komma",
+        "tegnsætning"
+    ],
+    ";": [
+        "grammatik",
+        "kolon",
+        "semi",
+        "semikolon",
+        "tegn",
+        "tegnsætning"
+    ],
+    "؛": [
+        "arabisk",
+        "arabisk semikolon",
+        "semikolon"
+    ],
+    ":": [
+        "definition",
+        "kolon",
+        "tegn",
+        "tegnsætning"
+    ],
+    "!": [
+        "bang",
+        "idé",
+        "tegn",
+        "tegnsætning",
+        "udråb",
+        "udråbstegn"
+    ],
+    "¡": [
+        "omvendt udråbstegn",
+        "på hovedet",
+        "udråbstegn"
+    ],
+    "?": [
+        "spørgsmål",
+        "spørgsmålstegn"
+    ],
+    "¿": [
+        "omvendt",
+        "omvendt spørgsmålstegn",
+        "spørgsmål",
+        "spørgsmålstegn"
+    ],
+    "؟": [
+        "arabisk",
+        "arabisk spørgsmålstegn",
+        "spejlvendt",
+        "spørgsmål",
+        "spørgsmålstegn"
+    ],
+    "‽": [
+        "interabang",
+        "interrobang",
+        "spørgsmåls- og udråbstegn",
+        "spørgsmålstegn",
+        "udråbstegn"
+    ],
+    ".": [
+        "prik",
+        "punktum"
+    ],
+    "…": [
+        "ellipse",
+        "prikker",
+        "tøveprikker",
+        "udelade",
+        "udeladelsesprikker"
+    ],
+    "。": [
+        "ideografisk",
+        "ideografisk punktum",
+        "punktum"
+    ],
+    "·": [
+        "mellem",
+        "prik",
+        "punkttegn",
+        "underordnet",
+        "underordnet punkttegn"
+    ],
+    "'": [
+        "anførselstegn",
+        "apostrof",
+        "citat",
+        "citationstegn",
+        "enkelt anførselstegn",
+        "enkelt citationstegn"
+    ],
+    "‘": [
+        "apostrof",
+        "citat",
+        "enkelt anførselstegn",
+        "enkelt citationstegn",
+        "krøllet anførselstegn",
+        "krøllet citationstegn",
+        "venstre apostrof"
+    ],
+    "’": [
+        "apostrof",
+        "citat",
+        "enkelt anførselstegn",
+        "enkelt citationstegn",
+        "højre apostrof",
+        "krøllet anførselstegn",
+        "krøllet citationstegn"
+    ],
+    "‚": [
+        "anførselstegn",
+        "apostrof",
+        "citat",
+        "citationstegn",
+        "lav højre apostrof",
+        "lavt anførselstegn",
+        "lavt citationstegn"
+    ],
+    "“": [
+        "anførselstegn",
+        "citat",
+        "citationstegn",
+        "dobbelt anførselstegn",
+        "dobbelt citationstegn",
+        "krøllet anførselstegn",
+        "krøllet citationstegn",
+        "venstre anførselstegn"
+    ],
+    "”": [
+        "anførselstegn",
+        "citat",
+        "citationstegn",
+        "dobbelt anførselstegn",
+        "dobbelt citationstegn",
+        "højre anførselstegn",
+        "krøllet anførselstegn",
+        "krøllet citationstegn"
+    ],
+    "„": [
+        "anførselstegn",
+        "citat",
+        "citationstegn",
+        "dobbelt anførselstegn",
+        "dobbelt citationstegn",
+        "krøllet anførselstegn",
+        "krøllet citationstegn",
+        "lavt anførselstegn",
+        "lavt citationstegn",
+        "lavt højre anførselstegn"
+    ],
+    "«": [
+        "anførselstegn",
+        "citattegn",
+        "indskudstegn",
+        "parentes",
+        "venstre",
+        "venstre fransk anførselstegn",
+        "vinkel"
+    ],
+    "»": [
+        "anførselstegn",
+        "citattegn",
+        "højre",
+        "højre fransk anførselstegn",
+        "indskudstegn",
+        "parentes",
+        "vinkel"
+    ],
+    ")": [
+        "parentes",
+        "rund parentes",
+        "slutparentes"
+    ],
+    "[": [
+        "firkantet parentes",
+        "kantet parentes",
+        "parentes",
+        "venstre firkantet parentes"
+    ],
+    "]": [
+        "firkantet parentes",
+        "højre firkantet parentes",
+        "kantet parentes",
+        "parentes"
+    ],
+    "{": [
+        "akkolade",
+        "klammeparentes",
+        "krøllet parentes",
+        "tuborgparentes",
+        "venstre akkolade"
+    ],
+    "}": [
+        "akkolade",
+        "højre akkolade",
+        "klammeparentes",
+        "krøllet parentes",
+        "tuborgparentes"
+    ],
+    "〈": [
+        "hak",
+        "mindre end",
+        "parentes",
+        "ruderparentes",
+        "spids parentes",
+        "venstre vinkelparentes",
+        "vinkelparentes"
+    ],
+    "〉": [
+        "hak",
+        "højre vinkelparentes",
+        "parentes",
+        "ruderparentes",
+        "spids parentes",
+        "større end",
+        "vinkelparentes"
+    ],
+    "《": [
+        "dobbelt vinkelparentes",
+        "parentes",
+        "venstre dobbelt vinkelparentes",
+        "vinkelparentes"
+    ],
+    "》": [
+        "dobbelt vinkelparentes",
+        "højre dobbelt vinkelparentes",
+        "parentes",
+        "vinkelparentes"
+    ],
+    "「": [
+        "hjørneparentes",
+        "parentes",
+        "venstre hjørneparentes"
+    ],
+    "」": [
+        "hjørneparentes",
+        "højre hjørneparentes",
+        "parentes"
+    ],
+    "『": [
+        "hjørneparentes",
+        "hul hjørneparentes",
+        "parentes",
+        "venstre hul hjørneparentes"
+    ],
+    "』": [
+        "hjørneparentes",
+        "hul hjørneparentes",
+        "højre hul hjørneparentes",
+        "parentes"
+    ],
+    "【": [
+        "linseformet parentes",
+        "linseparentes",
+        "parentes",
+        "sort linseparentes",
+        "venstre sort linseparentes"
+    ],
+    "】": [
+        "højre sort linseparentes",
+        "linseformet parentes",
+        "linseparentes",
+        "parentes",
+        "sort linseparentes"
+    ],
+    "〔": [
+        "parentes",
+        "skildpaddeparentes",
+        "skjoldparentes",
+        "venstre skjoldparentes"
+    ],
+    "〕": [
+        "højre skjoldparentes",
+        "parentes",
+        "skildpaddeparentes",
+        "skjoldparentes"
+    ],
+    "〖": [
+        "hul linseparentes",
+        "linseformet parentes",
+        "linseparentes",
+        "parentes",
+        "venstre hul linseparentes"
+    ],
+    "〗": [
+        "hul linseparentes",
+        "højre hul linseparentes",
+        "linseformet parentes",
+        "linseparentes",
+        "parentes"
+    ],
+    "§": [
+        "jura",
+        "lov",
+        "paragraf",
+        "paragraftegn",
+        "punkt"
+    ],
+    "¶": [
+        "a linea",
+        "afsnit",
+        "afsnitstegn",
+        "alinea",
+        "pilcrow"
+    ],
+    "@": [
+        "ampersat",
+        "at-tegn",
+        "commercial a",
+        "snabel-a"
+    ],
+    "*️": [
+        "asterisk",
+        "jokertegn",
+        "stjerne"
+    ],
+    "/": [
+        "skrå",
+        "skråstreg",
+        "soliduslinje"
+    ],
+    "\\": [
+        "backslash",
+        "omvendt skråstreg",
+        "omvendt solidustegn"
+    ],
+    "&": [
+        "og",
+        "og-tegn"
+    ],
+    "#️": [
+        "antal",
+        "hash",
+        "hashtag",
+        "nummer"
+    ],
+    "%": [
+        "procent",
+        "procenttegn"
+    ],
+    "‰": [
+        "promille",
+        "promilletegn"
+    ],
+    "†": [
+        "daggert",
+        "kors",
+        "korstegn",
+        "skak"
+    ],
+    "‡": [
+        "daggert",
+        "dobbelt",
+        "dobbeltkors",
+        "dobbeltkorstegn",
+        "kors",
+        "mat",
+        "skakmat"
+    ],
+    "•": [
+        "prik",
+        "punkttegn"
+    ],
+    "‧": [
+        "bindeprik",
+        "bindestreg",
+        "prik",
+        "sammensætning",
+        "tankestreg"
+    ],
+    "′": [
+        "anførselstegn",
+        "citationstegn",
+        "enkelt anførselstegn",
+        "enkelt citationstegn"
+    ],
+    "″": [
+        "anførselstegn",
+        "citationstegn",
+        "dobbelt anførselstegn",
+        "dobbelt citationstegn"
+    ],
+    "‴": [
+        "anførselstegn",
+        "citationstegn",
+        "tredobbelt anførselstegn",
+        "tredobbelt citationstegn"
+    ],
+    "‸": [
+        "indskudstegn"
+    ],
+    "※": [
+        "henvisning",
+        "henvisningstegn",
+        "reference"
+    ],
+    "⁂": [
+        "asterisme"
+    ],
+    "`": [
+        "accent",
+        "accent grave",
+        "grave",
+        "tone"
+    ],
+    "´": [
+        "accent",
+        "accent aigu",
+        "accenttegn",
+        "aigu",
+        "tone"
+    ],
+    "^": [
+        "accent",
+        "accent circumfleks",
+        "caret",
+        "chevron",
+        "circumfleks",
+        "eksklusiv eller",
+        "hat",
+        "kile",
+        "kontrol",
+        "pointer",
+        "potens",
+        "xeller",
+        "xor"
+    ],
+    "¨": [
+        "diaeresis",
+        "tréma",
+        "umlaut"
+    ],
+    "°": [
+        "grader",
+        "gradtegn",
+        "time"
+    ],
+    "℗": [
+        "copyright",
+        "copyright på lydoptagelse",
+        "lyd",
+        "lydoptagelse",
+        "optagelse"
+    ],
+    "←": [
+        "pil",
+        "pil til venstre",
+        "venstre",
+        "venstrepil"
+    ],
+    "↚": [
+        "venstrepil og skråstreg"
+    ],
+    "→": [
+        "højre",
+        "højrepil",
+        "pil",
+        "pil til højre"
+    ],
+    "↛": [
+        "højrepil og skråstreg"
+    ],
+    "↑": [
+        "op",
+        "opadgående pil",
+        "pil",
+        "pil op"
+    ],
+    "↓": [
+        "ned",
+        "nedadgående pil",
+        "pil ned"
+    ],
+    "↜": [
+        "bølget venstrepil"
+    ],
+    "↝": [
+        "bølget højrepil"
+    ],
+    "↞": [
+        "tohovedet venstrepil"
+    ],
+    "↟": [
+        "tohovedet pil op"
+    ],
+    "↠": [
+        "tohovedet højrepil"
+    ],
+    "↡": [
+        "tohovedet pil ned"
+    ],
+    "↢": [
+        "venstrepil med fjer"
+    ],
+    "↣": [
+        "højrepil med fjer"
+    ],
+    "↤": [
+        "venstrepil fra streg"
+    ],
+    "↥": [
+        "pil op fra streg"
+    ],
+    "↦": [
+        "højrepil fra streg"
+    ],
+    "↧": [
+        "pil ned fra streg"
+    ],
+    "↨": [
+        "pil op/ned med fod"
+    ],
+    "↫": [
+        "venstrepil med sløjfe"
+    ],
+    "↬": [
+        "højrepil med sløjfe"
+    ],
+    "↭": [
+        "venstre-/højrepil med bølge"
+    ],
+    "↯": [
+        "zigzagpil ned"
+    ],
+    "↰": [
+        "pil op og til venstre"
+    ],
+    "↱": [
+        "pil op og til højre"
+    ],
+    "↲": [
+        "pil ned og til venstre"
+    ],
+    "↳": [
+        "pil ned og til højre"
+    ],
+    "↴": [
+        "hjørnepil til højre og ned"
+    ],
+    "↵": [
+        "hjørnepil ned og til venstre"
+    ],
+    "↶": [
+        "halvcirkelpil mod uret, top"
+    ],
+    "↷": [
+        "halvcirkelpil med uret, top"
+    ],
+    "↸": [
+        "pil mod nordvest med lang streg"
+    ],
+    "↹": [
+        "venstrepil med streg over højrepil med streg"
+    ],
+    "↺": [
+        "åben cirkelpil mod uret"
+    ],
+    "↻": [
+        "åben cirkelpil med uret"
+    ],
+    "↼": [
+        "venstre harpun med krog op"
+    ],
+    "↽": [
+        "venstre harpun med krog ned"
+    ],
+    "↾": [
+        "harpun op med krog til højre"
+    ],
+    "↿": [
+        "harpun op med krog til venstre"
+    ],
+    "⇀": [
+        "højre harpun med krog op"
+    ],
+    "⇁": [
+        "højre harpun med krog ned"
+    ],
+    "⇂": [
+        "harpun ned med krog til højre"
+    ],
+    "⇃": [
+        "harpun ned med krog til venstre"
+    ],
+    "⇄": [
+        "højrepil over venstrepil"
+    ],
+    "⇅": [
+        "ned",
+        "op",
+        "pil",
+        "pil op og pil ned"
+    ],
+    "⇆": [
+        "højre",
+        "pil",
+        "venstre",
+        "venstrepil over højrepil"
+    ],
+    "⇇": [
+        "to pile mod venstre"
+    ],
+    "⇈": [
+        "to pile op"
+    ],
+    "⇉": [
+        "to pile mod højre"
+    ],
+    "⇊": [
+        "to pile ned"
+    ],
+    "⇋": [
+        "venstre harpun over højre harpun"
+    ],
+    "⇌": [
+        "højre harpun over venstre harpun"
+    ],
+    "⇐": [
+        "dobbeltpil mod venstre"
+    ],
+    "⇍": [
+        "dobbeltpil mod venstre med skråstreg"
+    ],
+    "⇑": [
+        "dobbeltpil op"
+    ],
+    "⇒": [
+        "dobbeltpil mod højre"
+    ],
+    "⇏": [
+        "dobbeltpil mod højre med skråstreg"
+    ],
+    "⇓": [
+        "dobbeltpil ned"
+    ],
+    "⇔": [
+        "dobbeltpil mod venstre og højre"
+    ],
+    "⇎": [
+        "dobbeltpil mod venstre og højre med skråstreg"
+    ],
+    "⇖": [
+        "dobbeltpil mod nordvest"
+    ],
+    "⇗": [
+        "dobbeltpil mod nordøst"
+    ],
+    "⇘": [
+        "dobbeltpil mod sydøst"
+    ],
+    "⇙": [
+        "dobbeltpil mod sydvest"
+    ],
+    "⇚": [
+        "tredobbelt pil mod venstre"
+    ],
+    "⇛": [
+        "tredobbelt pil mod højre"
+    ],
+    "⇜": [
+        "snoet pil mod venstre"
+    ],
+    "⇝": [
+        "snoet pil mod højre"
+    ],
+    "⇞": [
+        "pil op med dobbelt tværstreg"
+    ],
+    "⇟": [
+        "pil ned med dobbelt tværstreg"
+    ],
+    "⇠": [
+        "stiplet venstrepil"
+    ],
+    "⇡": [
+        "stiplet pil op"
+    ],
+    "⇢": [
+        "stiplet højrepil"
+    ],
+    "⇣": [
+        "stiplet pil ned"
+    ],
+    "⇤": [
+        "venstrepil mod streg"
+    ],
+    "⇥": [
+        "højrepil mod streg"
+    ],
+    "⇦": [
+        "hul venstrepil"
+    ],
+    "⇧": [
+        "hul pil op"
+    ],
+    "⇨": [
+        "hul højrepil"
+    ],
+    "⇩": [
+        "hul pil ned"
+    ],
+    "⇪": [
+        "hul pil op fra streg"
+    ],
+    "⇵": [
+        "pil ned til venstre for pil op"
+    ],
+    "∀": [
+        "for alle"
+    ],
+    "∂": [
+        "partiel differentialligning"
+    ],
+    "∃": [
+        "der findes"
+    ],
+    "∅": [
+        "tom mængde"
+    ],
+    "∆": [
+        "optælling",
+        "trekant"
+    ],
+    "∇": [
+        "nabla",
+        "trekant"
+    ],
+    "∈": [
+        "element",
+        "element i",
+        "indeholder",
+        "medlem",
+        "medlem af",
+        "medlemskab",
+        "mængde"
+    ],
+    "∉": [
+        "tilhører ikke"
+    ],
+    "∋": [
+        "indeholder som element"
+    ],
+    "∎": [
+        "slut på bevis"
+    ],
+    "∏": [
+        "produkt"
+    ],
+    "∑": [
+        "sum"
+    ],
+    "+": [
+        "addere",
+        "lægge til",
+        "plus",
+        "plustegn"
+    ],
+    "±": [
+        "minus",
+        "plus",
+        "plus/minus"
+    ],
+    "÷": [
+        "dele",
+        "dividere",
+        "division",
+        "divisionstegn"
+    ],
+    "×": [
+        "gange",
+        "gangetegn",
+        "multiplicere",
+        "multiplikation",
+        "multiplikationstegn"
+    ],
+    "<": [
+        "mindre end",
+        "start-tag",
+        "tag"
+    ],
+    "≮": [
+        "ikke mindre end"
+    ],
+    "=": [
+        "er lig med",
+        "lig med",
+        "lighed"
+    ],
+    "≠": [
+        "ikke lig med",
+        "ulighed"
+    ],
+    ">": [
+        "afsluttende tag",
+        "slut-tag",
+        "større end",
+        "tag"
+    ],
+    "≯": [
+        "ikke større end"
+    ],
+    "¬": [
+        "ikke",
+        "negation",
+        "negere"
+    ],
+    "|": [
+        "ikke og",
+        "lodret streg",
+        "lodret søjle",
+        "pipe",
+        "sheffers streg",
+        "streg",
+        "uforenelig med"
+    ],
+    "~": [
+        "tilde"
+    ],
+    "−": [
+        "minus",
+        "minustegn",
+        "subtrahere",
+        "trække fra"
+    ],
+    "⁻": [
+        "hævet",
+        "hævet minus",
+        "minus",
+        "minustegn"
+    ],
+    "∓": [
+        "minus eller plus"
+    ],
+    "∕": [
+        "division"
+    ],
+    "⁄": [
+        "brøkdel"
+    ],
+    "∗": [
+        "asteriskoperator"
+    ],
+    "∘": [
+        "ringoperator"
+    ],
+    "∙": [
+        "punktoperator"
+    ],
+    "√": [
+        "kvadrat",
+        "kvadratrod",
+        "kvadratrodstegn",
+        "rod",
+        "rodtegn"
+    ],
+    "∝": [
+        "proportional"
+    ],
+    "∞": [
+        "uendelighedstegn",
+        "uendeligt"
+    ],
+    "∟": [
+        "ret vinkel"
+    ],
+    "∠": [
+        "vinkel"
+    ],
+    "∣": [
+        "deler"
+    ],
+    "∥": [
+        "parallel"
+    ],
+    "∧": [
+        "logisk og"
+    ],
+    "∩": [
+        "fællesmængde",
+        "mængde"
+    ],
+    "∪": [
+        "forening",
+        "foreningsmængde",
+        "mængde",
+        "samling"
+    ],
+    "∫": [
+        "integral"
+    ],
+    "∬": [
+        "dobbelt integral"
+    ],
+    "∮": [
+        "integral",
+        "kurveintegral",
+        "lukket kurveintegral"
+    ],
+    "∴": [
+        "derfor"
+    ],
+    "∵": [
+        "fordi"
+    ],
+    "∶": [
+        "forhold"
+    ],
+    "∷": [
+        "proportion"
+    ],
+    "∼": [
+        "tilde-operator"
+    ],
+    "∽": [
+        "omvendt tilde"
+    ],
+    "∾": [
+        "omvendt dovent s",
+        "omvendt liggende s"
+    ],
+    "≃": [
+        "asymptotisk lig med"
+    ],
+    "≅": [
+        "cirka lig med"
+    ],
+    "≈": [
+        "approksimation",
+        "cirka",
+        "næsten lig med",
+        "omtrent"
+    ],
+    "≌": [
+        "alle lig med"
+    ],
+    "≒": [
+        "cirka lig med billedet"
+    ],
+    "≖": [
+        "ring i lighedstegn"
+    ],
+    "≡": [
+        "eksakt",
+        "identisk",
+        "identisk med",
+        "nøjagtigt",
+        "tredobbelt",
+        "tredobbelt lighedstegn"
+    ],
+    "≣": [
+        "lighed",
+        "matematik",
+        "strengt ækvivalent"
+    ],
+    "≤": [
+        "er lig med",
+        "lig med",
+        "mindre end",
+        "mindre end eller lig med",
+        "ulighed"
+    ],
+    "≥": [
+        "er lig med",
+        "lig med",
+        "større end",
+        "større end eller lig med",
+        "ulighed"
+    ],
+    "≦": [
+        "mindre end over lig med"
+    ],
+    "≧": [
+        "større end over lig med"
+    ],
+    "≪": [
+        "meget mindre end"
+    ],
+    "≫": [
+        "meget større end"
+    ],
+    "≬": [
+        "mellem"
+    ],
+    "≳": [
+        "større end-ekvivalent",
+        "større end-ækvivalent"
+    ],
+    "≺": [
+        "kommer før"
+    ],
+    "≻": [
+        "kommer efter"
+    ],
+    "⊁": [
+        "kommer ikke efter"
+    ],
+    "⊂": [
+        "delmængde",
+        "delmængde af",
+        "mængde"
+    ],
+    "⊃": [
+        "matematik",
+        "mængdeoperator",
+        "supermængde"
+    ],
+    "⊆": [
+        "delmængde eller lig med"
+    ],
+    "⊇": [
+        "supermængde eller lig med"
+    ],
+    "⊕": [
+        "plus med ring"
+    ],
+    "⊖": [
+        "minus med ring"
+    ],
+    "⊗": [
+        "gange med ring"
+    ],
+    "⊘": [
+        "division med ring"
+    ],
+    "⊙": [
+        "punktoperator med ring"
+    ],
+    "⊚": [
+        "ring-operator med ring"
+    ],
+    "⊛": [
+        "stjerne-operator med ring"
+    ],
+    "⊞": [
+        "firkant med plus"
+    ],
+    "⊟": [
+        "firkant med minus"
+    ],
+    "⊥": [
+        "eet",
+        "falsum",
+        "op",
+        "vinkelret op"
+    ],
+    "⊮": [
+        "gennemtvinger ikke"
+    ],
+    "⊰": [
+        "kommer før under relation"
+    ],
+    "⊱": [
+        "følger efter under relation"
+    ],
+    "⋭": [
+        "indeholder ikke som normal undergruppe lig med"
+    ],
+    "⊶": [
+        "oprindelig"
+    ],
+    "⊹": [
+        "hermitisk transponeret matrix"
+    ],
+    "⊿": [
+        "retvinklet trekant"
+    ],
+    "⋁": [
+        "n-ært logisk eller"
+    ],
+    "⋂": [
+        "n-ær fællesmængde"
+    ],
+    "⋃": [
+        "n-ær foreningsmængde"
+    ],
+    "⋅": [
+        "prikoperator"
+    ],
+    "⋆": [
+        "stjerneoperator"
+    ],
+    "⋈": [
+        "naturlig join"
+    ],
+    "⋒": [
+        "dobbelt fællesmængde"
+    ],
+    "⋘": [
+        "langt mindre end"
+    ],
+    "⋙": [
+        "langt større end"
+    ],
+    "⋮": [
+        "lodret ellipse"
+    ],
+    "⋯": [
+        "vandret ellipse"
+    ],
+    "⋰": [
+        "diagonal ellipse opad mod højre"
+    ],
+    "⋱": [
+        "diagonal ellipse nedad mod højre"
+    ],
+    "■": [
+        "udfyldt firkant"
+    ],
+    "□": [
+        "hul firkant"
+    ],
+    "▢": [
+        "hul firkant med afrundede hjørner"
+    ],
+    "▣": [
+        "hul firkant, der indeholder udfyldt firkant"
+    ],
+    "▤": [
+        "firkant med vandret udfyldning"
+    ],
+    "▥": [
+        "firkant med lodret udfyldning"
+    ],
+    "▦": [
+        "firkant med krydsskraveret udfyldning"
+    ],
+    "▧": [
+        "firkant med skravering øverst til venstre mod nederst til højre"
+    ],
+    "▨": [
+        "firkant med skravering øverst til højre mod nederst til venstre"
+    ],
+    "▩": [
+        "firkant med diagonal krydsskraveret udfyldning"
+    ],
+    "▬": [
+        "udfyldt rektangel"
+    ],
+    "▭": [
+        "hult rektangel"
+    ],
+    "▮": [
+        "udfyldt lodret rektangel"
+    ],
+    "▰": [
+        "udfyldt parallellogram"
+    ],
+    "▲": [
+        "op",
+        "pil",
+        "trekant",
+        "udfyldt",
+        "udfyldt opadvendt trekant"
+    ],
+    "△": [
+        "hul trekant, der peger opad"
+    ],
+    "▴": [
+        "udfyldt lille trekant, der peger opad"
+    ],
+    "▵": [
+        "hul lille trekant, der peger opad"
+    ],
+    "▷": [
+        "hul trekant, der peger mod højre"
+    ],
+    "▸": [
+        "udfyldt lille trekant, der peger mod højre"
+    ],
+    "▹": [
+        "hul lille trekant, der peger mod højre"
+    ],
+    "►": [
+        "udfyldt pointer, der peger mod højre"
+    ],
+    "▻": [
+        "hul pointer, der peger mod højre"
+    ],
+    "▼": [
+        "ned",
+        "nedadvendt trekant",
+        "pil",
+        "trekant",
+        "udfyldt",
+        "udfyldt nedadvendt trekant"
+    ],
+    "▽": [
+        "hul trekant, der peger nedad"
+    ],
+    "▾": [
+        "udfyldt lille trekant, der peger nedad"
+    ],
+    "▿": [
+        "hul lille trekant, der peger nedad"
+    ],
+    "◁": [
+        "hul trekant, der peger mod venstre"
+    ],
+    "◂": [
+        "udfyldt lille trekant, der peger mod venstre"
+    ],
+    "◃": [
+        "hul lille trekant, der peger mod venstre"
+    ],
+    "◄": [
+        "udfyldt pointer, der peger mod venstre"
+    ],
+    "◅": [
+        "hul pointer, der peger mod venstre"
+    ],
+    "◆": [
+        "udfyldt ruder"
+    ],
+    "◇": [
+        "hul ruder"
+    ],
+    "◈": [
+        "hul ruder, der indeholder udfyldt ruder"
+    ],
+    "◉": [
+        "hul cirkel, der indeholder udfyldt cirkel"
+    ],
+    "◊": [
+        "firkant",
+        "rombe",
+        "ruder"
+    ],
+    "○": [
+        "cirkel",
+        "hul cirkel",
+        "ring"
+    ],
+    "◌": [
+        "punkteret cirkel"
+    ],
+    "◍": [
+        "cirkel med lodret udfyldning"
+    ],
+    "◎": [
+        "koncentriske cirkler"
+    ],
+    "●": [
+        "cirkel",
+        "udfyldt cirkel"
+    ],
+    "◐": [
+        "cirkel med venstre halvdel udfyldt"
+    ],
+    "◑": [
+        "cirkel med højre halvdel udfyldt"
+    ],
+    "◒": [
+        "cirkel med nederste halvdel udfyldt"
+    ],
+    "◓": [
+        "cirkel med øverste halvdel udfyldt"
+    ],
+    "◔": [
+        "cirkel med øverste højre kvadrant udfyldt"
+    ],
+    "◕": [
+        "cirkel med alt andet end øverste venstre kvadrant udfyldt"
+    ],
+    "◖": [
+        "venstre halvdel af udfyldt cirkel"
+    ],
+    "◗": [
+        "højre halvdel af udfyldt cirkel"
+    ],
+    "◘": [
+        "omvendt punkttegn"
+    ],
+    "◙": [
+        "udfyldt firkant, der indeholder hul cirkel"
+    ],
+    "◜": [
+        "øverste venstre kvadrant af cirkelbue"
+    ],
+    "◝": [
+        "øverste højre kvadrant af cirkelbue"
+    ],
+    "◞": [
+        "nederste højre kvadrant af cirkelbue"
+    ],
+    "◟": [
+        "nederste vendstre kvadrant af cirkelbue"
+    ],
+    "◠": [
+        "øverste halvcirkel"
+    ],
+    "◡": [
+        "nederste halvcirkel"
+    ],
+    "◢": [
+        "udfyldt trekant nedad mod højre"
+    ],
+    "◣": [
+        "udfyldt trekant nedad mod venstre"
+    ],
+    "◤": [
+        "udfyldt trekant opad mod venstre"
+    ],
+    "◥": [
+        "udfyldt trekant opad mod højre"
+    ],
+    "◦": [
+        "hult punkttegn"
+    ],
+    "◯": [
+        "cirkel",
+        "ring",
+        "stor hul cirkel"
+    ],
+    "◳": [
+        "hul firkant øverste højre kvadrant"
+    ],
+    "◷": [
+        "hul cirkel med øverste højre kvadrant"
+    ],
+    "◿": [
+        "trekant nedad mod højre"
+    ],
+    "♪": [
+        "musik",
+        "node",
+        "ottendedel",
+        "ottendedelsnode"
+    ],
+    "⨧": [
+        "plus med sænket 2"
+    ],
+    "⨯": [
+        "krydsprodukt, vektor"
+    ],
+    "⨼": [
+        "indre produkt"
+    ],
+    "⩣": [
+        "logisk eller med dobbelt understregning"
+    ],
+    "⩽": [
+        "mindre end med skråt lighedstegn"
+    ],
+    "⪍": [
+        "mindre end over cirka lig med"
+    ],
+    "⪚": [
+        "dobbeltstreget lighedstegn og større end"
+    ],
+    "⪺": [
+        "følger efter over ikke cirka lig med"
+    ],
+    "♭": [
+        "b",
+        "bemol",
+        "es",
+        "musik",
+        "node",
+        "tone",
+        "tone med b for"
+    ],
+    "♯": [
+        "diesis",
+        "is",
+        "kryds",
+        "musik",
+        "node",
+        "tone",
+        "tone med kryds for"
+    ],
     "😀": [
         "glad",
         "grinende ansigt",
@@ -62,6 +1492,13 @@
         "omvendt",
         "omvendt ansigt",
         "på hovedet"
+    ],
+    "🫠": [
+        "flydende",
+        "forsvinde",
+        "opløse",
+        "smelte",
+        "smeltende ansigt"
     ],
     "😉": [
         "ansigt",
@@ -187,6 +1624,22 @@
         "ansigt med hånd over munden",
         "ups"
     ],
+    "🫢": [
+        "ansigt med åbne øjne og hånden over munden",
+        "bange",
+        "forbavselse",
+        "forbløffelse",
+        "overraskelse",
+        "pinlig",
+        "ærefrygt"
+    ],
+    "🫣": [
+        "ansigt, der smugkigger",
+        "betaget",
+        "fascineret",
+        "smugkigge",
+        "stirre"
+    ],
     "🤫": [
         "stille",
         "tysse",
@@ -197,6 +1650,14 @@
         "tanker",
         "tænkende",
         "tænkende ansigt"
+    ],
+    "🫡": [
+        "ansigt, der gør honnør",
+        "gøre honnør",
+        "ja",
+        "militær",
+        "ok",
+        "solskin"
     ],
     "🤐": [
         "ansigt",
@@ -226,6 +1687,22 @@
         "stille",
         "tavs"
     ],
+    "🫥": [
+        "deprimeret",
+        "forsvinde",
+        "gemme",
+        "introvert",
+        "skjule",
+        "stiplet linje ansigt",
+        "usynlig"
+    ],
+    "😶‍🌫": [
+        "ansigt i sky",
+        "fraværende",
+        "hovedet i skyerne",
+        "tåget",
+        "ukoncentreret"
+    ],
     "😏": [
         "ansigt",
         "ansigt med smørret grin",
@@ -246,6 +1723,18 @@
         "ansigt",
         "lave grimasse",
         "sammenbidt ansigt"
+    ],
+    "😮‍💨": [
+        "ansigt",
+        "ekshalerende",
+        "fløjt",
+        "hvisken",
+        "lettelse",
+        "pift",
+        "pyha",
+        "udåndende ansigt",
+        "udånding",
+        "ånde ud"
     ],
     "🤥": [
         "ansigt",
@@ -361,6 +1850,14 @@
         "svimmelt ansigt",
         "ør"
     ],
+    "😵‍💫": [
+        "ansigt med spiraløjne",
+        "hypnose",
+        "hypnotiseret",
+        "problemer",
+        "spiral",
+        "svimmel"
+    ],
     "🤯": [
         "chokeret",
         "hoved, der eksploderer"
@@ -407,6 +1904,14 @@
         "ansigt",
         "forvirret ansigt"
     ],
+    "🫤": [
+        "ansigt med skrå mund",
+        "ligeglad",
+        "skeptisk",
+        "skuffet",
+        "uimponeret",
+        "usikker"
+    ],
     "😟": [
         "ansigt",
         "bekymret",
@@ -448,6 +1953,15 @@
         "bønfaldende ansigt",
         "hundeøjne",
         "trygle"
+    ],
+    "🥹": [
+        "ansigt, der holder tårer tilbage",
+        "græde",
+        "ked af det",
+        "modstå",
+        "stolt",
+        "trist",
+        "vred"
     ],
     "😦": [
         "ansigt",
@@ -584,7 +2098,8 @@
     "👹": [
         "japansk uhyre",
         "monster",
-        "trold"
+        "trold",
+        "uhyre"
     ],
     "👺": [
         "japansk ånd",
@@ -666,12 +2181,6 @@
         "ikke tale",
         "tre vise aber"
     ],
-    "💋": [
-        "kys",
-        "læbeaftryk",
-        "læber",
-        "romantik"
-    ],
     "💌": [
         "brev med hjerte",
         "kærestebrev",
@@ -733,6 +2242,23 @@
         "knust hjerte",
         "ulykkelig kærlighed"
     ],
+    "❤‍🔥": [
+        "brændende hjerte",
+        "brændende kærlighed",
+        "hjerte med ild i",
+        "ild",
+        "kærlighed",
+        "passion"
+    ],
+    "❤‍🩹": [
+        "bedring",
+        "helende hjerte",
+        "hjerte",
+        "plaster",
+        "plaster på hjerte",
+        "rask",
+        "sundere"
+    ],
     "❤️": [
         "hjerte",
         "rødt hjerte"
@@ -784,6 +2310,12 @@
         "hvid",
         "hvidt hjerte"
     ],
+    "💋": [
+        "kys",
+        "læbeaftryk",
+        "læber",
+        "romantik"
+    ],
     "💯": [
         "100",
         "100 point",
@@ -820,10 +2352,6 @@
     "🕳️": [
         "hul",
         "sort"
-    ],
-    "💣️": [
-        "bombe",
-        "følelse"
     ],
     "💬": [
         "tale",
@@ -1095,6 +2623,416 @@
         "vulcan-hilsen",
         "vulcan-hilsen: mørk teint"
     ],
+    "🫱": [
+        "hånd",
+        "hånd til højre",
+        "højre"
+    ],
+    "🫱🏻": [
+        "hånd",
+        "hånd til højre",
+        "hånd til højre: lys teint",
+        "højre",
+        "lys teint"
+    ],
+    "🫱🏼": [
+        "hånd",
+        "hånd til højre",
+        "hånd til højre: medium til lys teint",
+        "højre",
+        "medium til lys teint"
+    ],
+    "🫱🏽": [
+        "hånd",
+        "hånd til højre",
+        "hånd til højre: medium teint",
+        "højre",
+        "medium teint"
+    ],
+    "🫱🏾": [
+        "hånd",
+        "hånd til højre",
+        "hånd til højre: medium til mørk teint",
+        "højre",
+        "medium til mørk teint"
+    ],
+    "🫱🏿": [
+        "hånd",
+        "hånd til højre",
+        "hånd til højre: mørk teint",
+        "højre",
+        "mørk teint"
+    ],
+    "🫱🏻‍🫲🏼": [
+        "aftale",
+        "enighed",
+        "hilsen",
+        "håndtryk",
+        "håndtryk: lys teint og medium til lys teint",
+        "hænder",
+        "lys teint",
+        "medium til lys teint",
+        "mødes"
+    ],
+    "🫱🏻‍🫲🏽": [
+        "aftale",
+        "enighed",
+        "hilsen",
+        "håndtryk",
+        "håndtryk: lys teint og medium teint",
+        "hænder",
+        "lys teint",
+        "medium teint",
+        "mødes"
+    ],
+    "🫱🏻‍🫲🏾": [
+        "aftale",
+        "enighed",
+        "hilsen",
+        "håndtryk",
+        "håndtryk: lys teint og medium til mørk teint",
+        "hænder",
+        "lys teint",
+        "medium til mørk teint",
+        "mødes"
+    ],
+    "🫱🏻‍🫲🏿": [
+        "aftale",
+        "enighed",
+        "hilsen",
+        "håndtryk",
+        "håndtryk: lys teint og mørk teint",
+        "hænder",
+        "lys teint",
+        "mødes",
+        "mørk teint"
+    ],
+    "🫱🏼‍🫲🏻": [
+        "aftale",
+        "enighed",
+        "hilsen",
+        "håndtryk",
+        "håndtryk: medium til lys teint og lys teint",
+        "hænder",
+        "lys teint",
+        "medium til lys teint",
+        "mødes"
+    ],
+    "🫱🏼‍🫲🏽": [
+        "aftale",
+        "enighed",
+        "hilsen",
+        "håndtryk",
+        "håndtryk: medium til lys teint og medium teint",
+        "hænder",
+        "medium teint",
+        "medium til lys teint",
+        "mødes"
+    ],
+    "🫱🏼‍🫲🏾": [
+        "aftale",
+        "enighed",
+        "hilsen",
+        "håndtryk",
+        "håndtryk: medium til lys teint og medium til mørk teint",
+        "hænder",
+        "medium til lys teint",
+        "medium til mørk teint",
+        "mødes"
+    ],
+    "🫱🏼‍🫲🏿": [
+        "aftale",
+        "enighed",
+        "hilsen",
+        "håndtryk",
+        "håndtryk: medium til lys teint og mørk teint",
+        "hænder",
+        "medium til lys teint",
+        "mødes",
+        "mørk teint"
+    ],
+    "🫱🏽‍🫲🏻": [
+        "aftale",
+        "enighed",
+        "hilsen",
+        "håndtryk",
+        "håndtryk: medium teint og lys teint",
+        "hænder",
+        "lys teint",
+        "medium teint",
+        "mødes"
+    ],
+    "🫱🏽‍🫲🏼": [
+        "aftale",
+        "enighed",
+        "hilsen",
+        "håndtryk",
+        "håndtryk: medium teint og medium til lys teint",
+        "hænder",
+        "medium teint",
+        "medium til lys teint",
+        "mødes"
+    ],
+    "🫱🏽‍🫲🏾": [
+        "aftale",
+        "enighed",
+        "hilsen",
+        "håndtryk",
+        "håndtryk: medium teint og medium til mørk teint",
+        "hænder",
+        "medium teint",
+        "medium til mørk teint",
+        "mødes"
+    ],
+    "🫱🏽‍🫲🏿": [
+        "aftale",
+        "enighed",
+        "hilsen",
+        "håndtryk",
+        "håndtryk: medium teint og mørk teint",
+        "hænder",
+        "medium teint",
+        "mødes",
+        "mørk teint"
+    ],
+    "🫱🏾‍🫲🏻": [
+        "aftale",
+        "enighed",
+        "hilsen",
+        "håndtryk",
+        "håndtryk: medium til mørk teint og lys teint",
+        "hænder",
+        "lys teint",
+        "medium til mørk teint",
+        "mødes"
+    ],
+    "🫱🏾‍🫲🏼": [
+        "aftale",
+        "enighed",
+        "hilsen",
+        "håndtryk",
+        "håndtryk: medium til mørk teint og medium til lys teint",
+        "hænder",
+        "medium til lys teint",
+        "medium til mørk teint",
+        "mødes"
+    ],
+    "🫱🏾‍🫲🏽": [
+        "aftale",
+        "enighed",
+        "hilsen",
+        "håndtryk",
+        "håndtryk: medium til mørk teint og medium teint",
+        "hænder",
+        "medium teint",
+        "medium til mørk teint",
+        "mødes"
+    ],
+    "🫱🏾‍🫲🏿": [
+        "aftale",
+        "enighed",
+        "hilsen",
+        "håndtryk",
+        "håndtryk: medium til mørk teint og mørk teint",
+        "hænder",
+        "medium til mørk teint",
+        "mødes",
+        "mørk teint"
+    ],
+    "🫱🏿‍🫲🏻": [
+        "aftale",
+        "enighed",
+        "hilsen",
+        "håndtryk",
+        "håndtryk: mørk teint og lys teint",
+        "hænder",
+        "lys teint",
+        "mødes",
+        "mørk teint"
+    ],
+    "🫱🏿‍🫲🏼": [
+        "aftale",
+        "enighed",
+        "hilsen",
+        "håndtryk",
+        "håndtryk: mørk teint og medium til lys teint",
+        "hænder",
+        "medium til lys teint",
+        "mødes",
+        "mørk teint"
+    ],
+    "🫱🏿‍🫲🏽": [
+        "aftale",
+        "enighed",
+        "hilsen",
+        "håndtryk",
+        "håndtryk: mørk teint og medium teint",
+        "hænder",
+        "medium teint",
+        "mødes",
+        "mørk teint"
+    ],
+    "🫱🏿‍🫲🏾": [
+        "aftale",
+        "enighed",
+        "hilsen",
+        "håndtryk",
+        "håndtryk: mørk teint og medium til mørk teint",
+        "hænder",
+        "medium til mørk teint",
+        "mødes",
+        "mørk teint"
+    ],
+    "🫲": [
+        "hånd",
+        "hånd til venstre",
+        "venstre"
+    ],
+    "🫲🏻": [
+        "hånd",
+        "hånd til venstre",
+        "hånd til venstre: lys teint",
+        "lys teint",
+        "venstre"
+    ],
+    "🫲🏼": [
+        "hånd",
+        "hånd til venstre",
+        "hånd til venstre: medium til lys teint",
+        "medium til lys teint",
+        "venstre"
+    ],
+    "🫲🏽": [
+        "hånd",
+        "hånd til venstre",
+        "hånd til venstre: medium teint",
+        "medium teint",
+        "venstre"
+    ],
+    "🫲🏾": [
+        "hånd",
+        "hånd til venstre",
+        "hånd til venstre: medium til mørk teint",
+        "medium til mørk teint",
+        "venstre"
+    ],
+    "🫲🏿": [
+        "hånd",
+        "hånd til venstre",
+        "hånd til venstre: mørk teint",
+        "mørk teint",
+        "venstre"
+    ],
+    "🫳": [
+        "afslå",
+        "afvise",
+        "genne væk",
+        "håndflade nedad",
+        "tabe"
+    ],
+    "🫳🏻": [
+        "afslå",
+        "afvise",
+        "genne væk",
+        "håndflade nedad",
+        "håndflade nedad: lys teint",
+        "lys teint",
+        "tabe"
+    ],
+    "🫳🏼": [
+        "afslå",
+        "afvise",
+        "genne væk",
+        "håndflade nedad",
+        "håndflade nedad: medium til lys teint",
+        "medium til lys teint",
+        "tabe"
+    ],
+    "🫳🏽": [
+        "afslå",
+        "afvise",
+        "genne væk",
+        "håndflade nedad",
+        "håndflade nedad: medium teint",
+        "medium teint",
+        "tabe"
+    ],
+    "🫳🏾": [
+        "afslå",
+        "afvise",
+        "genne væk",
+        "håndflade nedad",
+        "håndflade nedad: medium til mørk teint",
+        "medium til mørk teint",
+        "tabe"
+    ],
+    "🫳🏿": [
+        "afslå",
+        "afvise",
+        "genne væk",
+        "håndflade nedad",
+        "håndflade nedad: mørk teint",
+        "mørk teint",
+        "tabe"
+    ],
+    "🫴": [
+        "gribe",
+        "håndflade opad",
+        "kom",
+        "lokke",
+        "tilbyde",
+        "vinke hen"
+    ],
+    "🫴🏻": [
+        "gribe",
+        "håndflade opad",
+        "håndflade opad: lys teint",
+        "kom",
+        "lokke",
+        "lys teint",
+        "tilbyde",
+        "vinke hen"
+    ],
+    "🫴🏼": [
+        "gribe",
+        "håndflade opad",
+        "håndflade opad: medium til lys teint",
+        "kom",
+        "lokke",
+        "medium til lys teint",
+        "tilbyde",
+        "vinke hen"
+    ],
+    "🫴🏽": [
+        "gribe",
+        "håndflade opad",
+        "håndflade opad: medium teint",
+        "kom",
+        "lokke",
+        "medium teint",
+        "tilbyde",
+        "vinke hen"
+    ],
+    "🫴🏾": [
+        "gribe",
+        "håndflade opad",
+        "håndflade opad: medium til mørk teint",
+        "kom",
+        "lokke",
+        "medium til mørk teint",
+        "tilbyde",
+        "vinke hen"
+    ],
+    "🫴🏿": [
+        "gribe",
+        "håndflade opad",
+        "håndflade opad: mørk teint",
+        "kom",
+        "lokke",
+        "mørk teint",
+        "tilbyde",
+        "vinke hen"
+    ],
     "👌": [
         "OK-håndtegn",
         "OK-tegn",
@@ -1336,6 +3274,64 @@
         "krydsede fingre: mørk teint",
         "krydser fingre",
         "mørk teint"
+    ],
+    "🫰": [
+        "dyrt",
+        "hjerte",
+        "knips",
+        "krydset pegefinger og tommelfinger",
+        "kærlighed",
+        "penge"
+    ],
+    "🫰🏻": [
+        "dyrt",
+        "hjerte",
+        "knips",
+        "krydset pegefinger og tommelfinger",
+        "krydset pegefinger og tommelfinger: lys teint",
+        "kærlighed",
+        "lys teint",
+        "penge"
+    ],
+    "🫰🏼": [
+        "dyrt",
+        "hjerte",
+        "knips",
+        "krydset pegefinger og tommelfinger",
+        "krydset pegefinger og tommelfinger: medium til lys teint",
+        "kærlighed",
+        "medium til lys teint",
+        "penge"
+    ],
+    "🫰🏽": [
+        "dyrt",
+        "hjerte",
+        "knips",
+        "krydset pegefinger og tommelfinger",
+        "krydset pegefinger og tommelfinger: medium teint",
+        "kærlighed",
+        "medium teint",
+        "penge"
+    ],
+    "🫰🏾": [
+        "dyrt",
+        "hjerte",
+        "knips",
+        "krydset pegefinger og tommelfinger",
+        "krydset pegefinger og tommelfinger: medium til mørk teint",
+        "kærlighed",
+        "medium til mørk teint",
+        "penge"
+    ],
+    "🫰🏿": [
+        "dyrt",
+        "hjerte",
+        "knips",
+        "krydset pegefinger og tommelfinger",
+        "krydset pegefinger og tommelfinger: mørk teint",
+        "kærlighed",
+        "mørk teint",
+        "penge"
     ],
     "🤟": [
         "Elsker dig",
@@ -1823,6 +3819,46 @@
         "rækker finger op",
         "rækker finger op: mørk teint"
     ],
+    "🫵": [
+        "dig",
+        "pegefinger",
+        "peger på seeren"
+    ],
+    "🫵🏻": [
+        "dig",
+        "lys teint",
+        "pegefinger",
+        "peger på seeren",
+        "peger på seeren: lys teint"
+    ],
+    "🫵🏼": [
+        "dig",
+        "medium til lys teint",
+        "pegefinger",
+        "peger på seeren",
+        "peger på seeren: medium til lys teint"
+    ],
+    "🫵🏽": [
+        "dig",
+        "medium teint",
+        "pegefinger",
+        "peger på seeren",
+        "peger på seeren: medium teint"
+    ],
+    "🫵🏾": [
+        "dig",
+        "medium til mørk teint",
+        "pegefinger",
+        "peger på seeren",
+        "peger på seeren: medium til mørk teint"
+    ],
+    "🫵🏿": [
+        "dig",
+        "mørk teint",
+        "pegefinger",
+        "peger på seeren",
+        "peger på seeren: mørk teint"
+    ],
     "👍️": [
         "OK",
         "håndtegn",
@@ -2223,6 +4259,40 @@
         "løftede hænder: mørk teint",
         "mørk teint"
     ],
+    "🫶": [
+        "hjertehænder",
+        "kærlighed"
+    ],
+    "🫶🏻": [
+        "hjertehænder",
+        "hjertehænder: lys teint",
+        "kærlighed",
+        "lys teint"
+    ],
+    "🫶🏼": [
+        "hjertehænder",
+        "hjertehænder: medium til lys teint",
+        "kærlighed",
+        "medium til lys teint"
+    ],
+    "🫶🏽": [
+        "hjertehænder",
+        "hjertehænder: medium teint",
+        "kærlighed",
+        "medium teint"
+    ],
+    "🫶🏾": [
+        "hjertehænder",
+        "hjertehænder: medium til mørk teint",
+        "kærlighed",
+        "medium til mørk teint"
+    ],
+    "🫶🏿": [
+        "hjertehænder",
+        "hjertehænder: mørk teint",
+        "kærlighed",
+        "mørk teint"
+    ],
     "👐": [
         "håndtegn",
         "åbne hænder",
@@ -2304,6 +4374,56 @@
         "håndtryk",
         "hænder",
         "mødes"
+    ],
+    "🤝🏻": [
+        "aftale",
+        "enighed",
+        "hilsen",
+        "håndtryk",
+        "håndtryk: lys teint",
+        "hænder",
+        "lys teint",
+        "mødes"
+    ],
+    "🤝🏼": [
+        "aftale",
+        "enighed",
+        "hilsen",
+        "håndtryk",
+        "håndtryk: medium til lys teint",
+        "hænder",
+        "medium til lys teint",
+        "mødes"
+    ],
+    "🤝🏽": [
+        "aftale",
+        "enighed",
+        "hilsen",
+        "håndtryk",
+        "håndtryk: medium teint",
+        "hænder",
+        "medium teint",
+        "mødes"
+    ],
+    "🤝🏾": [
+        "aftale",
+        "enighed",
+        "hilsen",
+        "håndtryk",
+        "håndtryk: medium til mørk teint",
+        "hænder",
+        "medium til mørk teint",
+        "mødes"
+    ],
+    "🤝🏿": [
+        "aftale",
+        "enighed",
+        "hilsen",
+        "håndtryk",
+        "håndtryk: mørk teint",
+        "hænder",
+        "mødes",
+        "mørk teint"
     ],
     "🙏": [
         "bøn",
@@ -2824,6 +4944,15 @@
         "læber",
         "mund"
     ],
+    "🫦": [
+        "angst",
+        "bange",
+        "bekymret",
+        "bider i læben",
+        "flirte",
+        "nervøs",
+        "utryg"
+    ],
     "👶": [
         "baby",
         "barn",
@@ -3064,6 +5193,386 @@
         "hår",
         "mørk teint"
     ],
+    "🧑🏻‍❤‍💋‍🧑🏼": [
+        "kys",
+        "kys: voksen, voksen, lys teint og medium til lys teint",
+        "kærlighed",
+        "lys teint",
+        "medium til lys teint",
+        "par med hjerte",
+        "romantik",
+        "voksen"
+    ],
+    "🧑🏻‍❤‍💋‍🧑🏽": [
+        "kys",
+        "kys: voksen, voksen, lys teint og medium teint",
+        "kærlighed",
+        "lys teint",
+        "medium teint",
+        "par med hjerte",
+        "romantik",
+        "voksen"
+    ],
+    "🧑🏻‍❤‍💋‍🧑🏾": [
+        "kys",
+        "kys: voksen, voksen, lys teint og medium til mørk teint",
+        "kærlighed",
+        "lys teint",
+        "medium til mørk teint",
+        "par med hjerte",
+        "romantik",
+        "voksen"
+    ],
+    "🧑🏻‍❤‍💋‍🧑🏿": [
+        "kys",
+        "kys: voksen, voksen, lys teint og mørk teint",
+        "kærlighed",
+        "lys teint",
+        "mørk teint",
+        "par med hjerte",
+        "romantik",
+        "voksen"
+    ],
+    "🧑🏼‍❤‍💋‍🧑🏻": [
+        "kys",
+        "kys: voksen, voksen, medium til lys teint og lys teint",
+        "kærlighed",
+        "lys teint",
+        "medium til lys teint",
+        "par med hjerte",
+        "romantik",
+        "voksen"
+    ],
+    "🧑🏼‍❤‍💋‍🧑🏽": [
+        "kys",
+        "kys: voksen, voksen, medium til lys teint og medium teint",
+        "kærlighed",
+        "medium teint",
+        "medium til lys teint",
+        "par med hjerte",
+        "romantik",
+        "voksen"
+    ],
+    "🧑🏼‍❤‍💋‍🧑🏾": [
+        "kys",
+        "kys: voksen, voksen, medium til lys teint og medium til mørk teint",
+        "kærlighed",
+        "medium til lys teint",
+        "medium til mørk teint",
+        "par med hjerte",
+        "romantik",
+        "voksen"
+    ],
+    "🧑🏼‍❤‍💋‍🧑🏿": [
+        "kys",
+        "kys: voksen, voksen, medium til lys teint og mørk teint",
+        "kærlighed",
+        "medium til lys teint",
+        "mørk teint",
+        "par med hjerte",
+        "romantik",
+        "voksen"
+    ],
+    "🧑🏽‍❤‍💋‍🧑🏻": [
+        "kys",
+        "kys: voksen, voksen, medium teint og lys teint",
+        "kærlighed",
+        "lys teint",
+        "medium teint",
+        "par med hjerte",
+        "romantik",
+        "voksen"
+    ],
+    "🧑🏽‍❤‍💋‍🧑🏼": [
+        "kys",
+        "kys: voksen, voksen, medium teint og medium til lys teint",
+        "kærlighed",
+        "medium teint",
+        "medium til lys teint",
+        "par med hjerte",
+        "romantik",
+        "voksen"
+    ],
+    "🧑🏽‍❤‍💋‍🧑🏾": [
+        "kys",
+        "kys: voksen, voksen, medium teint og medium til mørk teint",
+        "kærlighed",
+        "medium teint",
+        "medium til mørk teint",
+        "par med hjerte",
+        "romantik",
+        "voksen"
+    ],
+    "🧑🏽‍❤‍💋‍🧑🏿": [
+        "kys",
+        "kys: voksen, voksen, medium teint og mørk teint",
+        "kærlighed",
+        "medium teint",
+        "mørk teint",
+        "par med hjerte",
+        "romantik",
+        "voksen"
+    ],
+    "🧑🏾‍❤‍💋‍🧑🏻": [
+        "kys",
+        "kys: voksen, voksen, medium til mørk teint og lys teint",
+        "kærlighed",
+        "lys teint",
+        "medium til mørk teint",
+        "par med hjerte",
+        "romantik",
+        "voksen"
+    ],
+    "🧑🏾‍❤‍💋‍🧑🏼": [
+        "kys",
+        "kys: voksen, voksen, medium til mørk teint og medium til lys teint",
+        "kærlighed",
+        "medium til lys teint",
+        "medium til mørk teint",
+        "par med hjerte",
+        "romantik",
+        "voksen"
+    ],
+    "🧑🏾‍❤‍💋‍🧑🏽": [
+        "kys",
+        "kys: voksen, voksen, medium til mørk teint og medium teint",
+        "kærlighed",
+        "medium teint",
+        "medium til mørk teint",
+        "par med hjerte",
+        "romantik",
+        "voksen"
+    ],
+    "🧑🏾‍❤‍💋‍🧑🏿": [
+        "kys",
+        "kys: voksen, voksen, medium til mørk teint og mørk teint",
+        "kærlighed",
+        "medium til mørk teint",
+        "mørk teint",
+        "par med hjerte",
+        "romantik",
+        "voksen"
+    ],
+    "🧑🏿‍❤‍💋‍🧑🏻": [
+        "kys",
+        "kys: voksen, voksen, mørk teint og lys teint",
+        "kærlighed",
+        "lys teint",
+        "mørk teint",
+        "par med hjerte",
+        "romantik",
+        "voksen"
+    ],
+    "🧑🏿‍❤‍💋‍🧑🏼": [
+        "kys",
+        "kys: voksen, voksen, mørk teint og medium til lys teint",
+        "kærlighed",
+        "medium til lys teint",
+        "mørk teint",
+        "par med hjerte",
+        "romantik",
+        "voksen"
+    ],
+    "🧑🏿‍❤‍💋‍🧑🏽": [
+        "kys",
+        "kys: voksen, voksen, mørk teint og medium teint",
+        "kærlighed",
+        "medium teint",
+        "mørk teint",
+        "par med hjerte",
+        "romantik",
+        "voksen"
+    ],
+    "🧑🏿‍❤‍💋‍🧑🏾": [
+        "kys",
+        "kys: voksen, voksen, mørk teint og medium til mørk teint",
+        "kærlighed",
+        "medium til mørk teint",
+        "mørk teint",
+        "par med hjerte",
+        "romantik",
+        "voksen"
+    ],
+    "🧑🏻‍❤‍🧑🏼": [
+        "kærlighed",
+        "lys teint",
+        "medium til lys teint",
+        "par med hjerte",
+        "par med hjerte: voksen, voksen, lys teint og medium til lys teint",
+        "romantik",
+        "voksen"
+    ],
+    "🧑🏻‍❤‍🧑🏽": [
+        "kærlighed",
+        "lys teint",
+        "medium teint",
+        "par med hjerte",
+        "par med hjerte: voksen, voksen, lys teint og medium teint",
+        "romantik",
+        "voksen"
+    ],
+    "🧑🏻‍❤‍🧑🏾": [
+        "kærlighed",
+        "lys teint",
+        "medium til mørk teint",
+        "par med hjerte",
+        "par med hjerte: voksen, voksen, lys teint og medium til mørk teint",
+        "romantik",
+        "voksen"
+    ],
+    "🧑🏻‍❤‍🧑🏿": [
+        "kærlighed",
+        "lys teint",
+        "mørk teint",
+        "par med hjerte",
+        "par med hjerte: voksen, voksen, lys teint og mørk teint",
+        "romantik",
+        "voksen"
+    ],
+    "🧑🏼‍❤‍🧑🏻": [
+        "kærlighed",
+        "lys teint",
+        "medium til lys teint",
+        "par med hjerte",
+        "par med hjerte: voksen, voksen, medium til lys teint og lys teint",
+        "romantik",
+        "voksen"
+    ],
+    "🧑🏼‍❤‍🧑🏽": [
+        "kærlighed",
+        "medium teint",
+        "medium til lys teint",
+        "par med hjerte",
+        "par med hjerte: voksen, voksen, medium til lys teint og medium teint",
+        "romantik",
+        "voksen"
+    ],
+    "🧑🏼‍❤‍🧑🏾": [
+        "kærlighed",
+        "medium til lys teint",
+        "medium til mørk teint",
+        "par med hjerte",
+        "par med hjerte: voksen, voksen, medium til lys teint og medium til mørk teint",
+        "romantik",
+        "voksen"
+    ],
+    "🧑🏼‍❤‍🧑🏿": [
+        "kærlighed",
+        "medium til lys teint",
+        "mørk teint",
+        "par med hjerte",
+        "par med hjerte: voksen, voksen, medium til lys teint og mørk teint",
+        "romantik",
+        "voksen"
+    ],
+    "🧑🏽‍❤‍🧑🏻": [
+        "kærlighed",
+        "lys teint",
+        "medium teint",
+        "par med hjerte",
+        "par med hjerte: voksen, voksen, medium teint og lys teint",
+        "romantik",
+        "voksen"
+    ],
+    "🧑🏽‍❤‍🧑🏼": [
+        "kærlighed",
+        "medium teint",
+        "medium til lys teint",
+        "par med hjerte",
+        "par med hjerte: voksen, voksen, medium teint og medium til lys teint",
+        "romantik",
+        "voksen"
+    ],
+    "🧑🏽‍❤‍🧑🏾": [
+        "kærlighed",
+        "medium teint",
+        "medium til mørk teint",
+        "par med hjerte",
+        "par med hjerte: voksen, voksen, medium teint og medium til mørk teint",
+        "romantik",
+        "voksen"
+    ],
+    "🧑🏽‍❤‍🧑🏿": [
+        "kærlighed",
+        "medium teint",
+        "mørk teint",
+        "par med hjerte",
+        "par med hjerte: voksen, voksen, medium teint og mørk teint",
+        "romantik",
+        "voksen"
+    ],
+    "🧑🏾‍❤‍🧑🏻": [
+        "kærlighed",
+        "lys teint",
+        "medium til mørk teint",
+        "par med hjerte",
+        "par med hjerte: voksen, voksen, medium til mørk teint og lys teint",
+        "romantik",
+        "voksen"
+    ],
+    "🧑🏾‍❤‍🧑🏼": [
+        "kærlighed",
+        "medium til lys teint",
+        "medium til mørk teint",
+        "par med hjerte",
+        "par med hjerte: voksen, voksen, medium til mørk teint og medium til lys teint",
+        "romantik",
+        "voksen"
+    ],
+    "🧑🏾‍❤‍🧑🏽": [
+        "kærlighed",
+        "medium teint",
+        "medium til mørk teint",
+        "par med hjerte",
+        "par med hjerte: voksen, voksen, medium til mørk teint og medium teint",
+        "romantik",
+        "voksen"
+    ],
+    "🧑🏾‍❤‍🧑🏿": [
+        "kærlighed",
+        "medium til mørk teint",
+        "mørk teint",
+        "par med hjerte",
+        "par med hjerte: voksen, voksen, medium til mørk teint og mørk teint",
+        "romantik",
+        "voksen"
+    ],
+    "🧑🏿‍❤‍🧑🏻": [
+        "kærlighed",
+        "lys teint",
+        "mørk teint",
+        "par med hjerte",
+        "par med hjerte: voksen, voksen, mørk teint og lys teint",
+        "romantik",
+        "voksen"
+    ],
+    "🧑🏿‍❤‍🧑🏼": [
+        "kærlighed",
+        "medium til lys teint",
+        "mørk teint",
+        "par med hjerte",
+        "par med hjerte: voksen, voksen, mørk teint og medium til lys teint",
+        "romantik",
+        "voksen"
+    ],
+    "🧑🏿‍❤‍🧑🏽": [
+        "kærlighed",
+        "medium teint",
+        "mørk teint",
+        "par med hjerte",
+        "par med hjerte: voksen, voksen, mørk teint og medium teint",
+        "romantik",
+        "voksen"
+    ],
+    "🧑🏿‍❤‍🧑🏾": [
+        "kærlighed",
+        "medium til mørk teint",
+        "mørk teint",
+        "par med hjerte",
+        "par med hjerte: voksen, voksen, mørk teint og medium til mørk teint",
+        "romantik",
+        "voksen"
+    ],
     "🧑‍🦰": [
         "person",
         "rødt hår",
@@ -3270,54 +5779,94 @@
     ],
     "🧔": [
         "fuldskæg",
-        "mand",
-        "mand med skæg",
         "person",
+        "person med skæg",
         "skæg"
     ],
     "🧔🏻": [
         "fuldskæg",
         "lys teint",
-        "mand",
-        "mand med skæg",
-        "mand med skæg: lys teint",
         "person",
+        "person med skæg",
+        "person med skæg: lys teint",
         "skæg"
     ],
     "🧔🏼": [
+        "fuldskæg",
+        "medium til lys teint",
+        "person",
+        "person med skæg",
+        "person med skæg: medium til lys teint",
+        "skæg"
+    ],
+    "🧔🏽": [
+        "fuldskæg",
+        "medium teint",
+        "person",
+        "person med skæg",
+        "person med skæg: medium teint",
+        "skæg"
+    ],
+    "🧔🏾": [
+        "fuldskæg",
+        "medium til mørk teint",
+        "person",
+        "person med skæg",
+        "person med skæg: medium til mørk teint",
+        "skæg"
+    ],
+    "🧔🏿": [
+        "fuldskæg",
+        "mørk teint",
+        "person",
+        "person med skæg",
+        "person med skæg: mørk teint",
+        "skæg"
+    ],
+    "🧔‍♂": [
+        "fuldskæg",
+        "mand",
+        "mand med skæg",
+        "skæg"
+    ],
+    "🧔🏻‍♂": [
+        "fuldskæg",
+        "lys teint",
+        "mand",
+        "mand med skæg",
+        "mand med skæg: lys teint",
+        "skæg"
+    ],
+    "🧔🏼‍♂": [
         "fuldskæg",
         "mand",
         "mand med skæg",
         "mand med skæg: medium til lys teint",
         "medium til lys teint",
-        "person",
         "skæg"
     ],
-    "🧔🏽": [
+    "🧔🏽‍♂": [
         "fuldskæg",
         "mand",
         "mand med skæg",
         "mand med skæg: medium teint",
         "medium teint",
-        "person",
         "skæg"
     ],
-    "🧔🏾": [
+    "🧔🏾‍♂": [
         "fuldskæg",
         "mand",
         "mand med skæg",
         "mand med skæg: medium til mørk teint",
         "medium til mørk teint",
-        "person",
         "skæg"
     ],
-    "🧔🏿": [
+    "🧔🏿‍♂": [
         "fuldskæg",
         "mand",
         "mand med skæg",
         "mand med skæg: mørk teint",
         "mørk teint",
-        "person",
         "skæg"
     ],
     "👱‍♂": [
@@ -3360,6 +5909,471 @@
         "lyshåret",
         "mand",
         "mørk teint"
+    ],
+    "👨🏻‍❤‍💋‍👨🏻": [
+        "kys",
+        "kys: mand, mand og lys teint",
+        "kærlighed",
+        "lys teint",
+        "mand",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👨🏻‍❤‍💋‍👨🏼": [
+        "kys",
+        "kys: mand, mand, lys teint og medium til lys teint",
+        "kærlighed",
+        "lys teint",
+        "mand",
+        "medium til lys teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👨🏻‍❤‍💋‍👨🏽": [
+        "kys",
+        "kys: mand, mand, lys teint og medium teint",
+        "kærlighed",
+        "lys teint",
+        "mand",
+        "medium teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👨🏻‍❤‍💋‍👨🏾": [
+        "kys",
+        "kys: mand, mand, lys teint og medium til mørk teint",
+        "kærlighed",
+        "lys teint",
+        "mand",
+        "medium til mørk teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👨🏻‍❤‍💋‍👨🏿": [
+        "kys",
+        "kys: mand, mand, lys teint og mørk teint",
+        "kærlighed",
+        "lys teint",
+        "mand",
+        "mørk teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👨🏼‍❤‍💋‍👨🏻": [
+        "kys",
+        "kys: mand, mand, medium til lys teint og lys teint",
+        "kærlighed",
+        "lys teint",
+        "mand",
+        "medium til lys teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👨🏼‍❤‍💋‍👨🏼": [
+        "kys",
+        "kys: mand, mand og medium til lys teint",
+        "kærlighed",
+        "mand",
+        "medium til lys teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👨🏼‍❤‍💋‍👨🏽": [
+        "kys",
+        "kys: mand, mand, medium til lys teint og medium teint",
+        "kærlighed",
+        "mand",
+        "medium teint",
+        "medium til lys teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👨🏼‍❤‍💋‍👨🏾": [
+        "kys",
+        "kys: mand, mand, medium til lys teint og medium til mørk teint",
+        "kærlighed",
+        "mand",
+        "medium til lys teint",
+        "medium til mørk teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👨🏼‍❤‍💋‍👨🏿": [
+        "kys",
+        "kys: mand, mand, medium til lys teint og mørk teint",
+        "kærlighed",
+        "mand",
+        "medium til lys teint",
+        "mørk teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👨🏽‍❤‍💋‍👨🏻": [
+        "kys",
+        "kys: mand, mand, medium teint og lys teint",
+        "kærlighed",
+        "lys teint",
+        "mand",
+        "medium teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👨🏽‍❤‍💋‍👨🏼": [
+        "kys",
+        "kys: mand, mand, medium teint og medium til lys teint",
+        "kærlighed",
+        "mand",
+        "medium teint",
+        "medium til lys teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👨🏽‍❤‍💋‍👨🏽": [
+        "kys",
+        "kys: mand, mand og medium teint",
+        "kærlighed",
+        "mand",
+        "medium teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👨🏽‍❤‍💋‍👨🏾": [
+        "kys",
+        "kys: mand, mand, medium teint og medium til mørk teint",
+        "kærlighed",
+        "mand",
+        "medium teint",
+        "medium til mørk teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👨🏽‍❤‍💋‍👨🏿": [
+        "kys",
+        "kys: mand, mand, medium teint og mørk teint",
+        "kærlighed",
+        "mand",
+        "medium teint",
+        "mørk teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👨🏾‍❤‍💋‍👨🏻": [
+        "kys",
+        "kys: mand, mand, medium til mørk teint og lys teint",
+        "kærlighed",
+        "lys teint",
+        "mand",
+        "medium til mørk teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👨🏾‍❤‍💋‍👨🏼": [
+        "kys",
+        "kys: mand, mand, medium til mørk teint og medium til lys teint",
+        "kærlighed",
+        "mand",
+        "medium til lys teint",
+        "medium til mørk teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👨🏾‍❤‍💋‍👨🏽": [
+        "kys",
+        "kys: mand, mand, medium til mørk teint og medium teint",
+        "kærlighed",
+        "mand",
+        "medium teint",
+        "medium til mørk teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👨🏾‍❤‍💋‍👨🏾": [
+        "kys",
+        "kys: mand, mand og medium til mørk teint",
+        "kærlighed",
+        "mand",
+        "medium til mørk teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👨🏾‍❤‍💋‍👨🏿": [
+        "kys",
+        "kys: mand, mand, medium til mørk teint og mørk teint",
+        "kærlighed",
+        "mand",
+        "medium til mørk teint",
+        "mørk teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👨🏿‍❤‍💋‍👨🏻": [
+        "kys",
+        "kys: mand, mand, mørk teint og lys teint",
+        "kærlighed",
+        "lys teint",
+        "mand",
+        "mørk teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👨🏿‍❤‍💋‍👨🏼": [
+        "kys",
+        "kys: mand, mand, mørk teint og medium til lys teint",
+        "kærlighed",
+        "mand",
+        "medium til lys teint",
+        "mørk teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👨🏿‍❤‍💋‍👨🏽": [
+        "kys",
+        "kys: mand, mand, mørk teint og medium teint",
+        "kærlighed",
+        "mand",
+        "medium teint",
+        "mørk teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👨🏿‍❤‍💋‍👨🏾": [
+        "kys",
+        "kys: mand, mand, mørk teint og medium til mørk teint",
+        "kærlighed",
+        "mand",
+        "medium til mørk teint",
+        "mørk teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👨🏿‍❤‍💋‍👨🏿": [
+        "kys",
+        "kys: mand, mand og mørk teint",
+        "kærlighed",
+        "mand",
+        "mørk teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👨🏻‍❤‍👨🏻": [
+        "kærlighed",
+        "lys teint",
+        "mand",
+        "par med hjerte",
+        "par med hjerte: mand, mand og lys teint",
+        "romantik"
+    ],
+    "👨🏻‍❤‍👨🏼": [
+        "kærlighed",
+        "lys teint",
+        "mand",
+        "medium til lys teint",
+        "par med hjerte",
+        "par med hjerte: mand, mand, lys teint og medium til lys teint",
+        "romantik"
+    ],
+    "👨🏻‍❤‍👨🏽": [
+        "kærlighed",
+        "lys teint",
+        "mand",
+        "medium teint",
+        "par med hjerte",
+        "par med hjerte: mand, mand, lys teint og medium teint",
+        "romantik"
+    ],
+    "👨🏻‍❤‍👨🏾": [
+        "kærlighed",
+        "lys teint",
+        "mand",
+        "medium til mørk teint",
+        "par med hjerte",
+        "par med hjerte: mand, mand, lys teint og medium til mørk teint",
+        "romantik"
+    ],
+    "👨🏻‍❤‍👨🏿": [
+        "kærlighed",
+        "lys teint",
+        "mand",
+        "mørk teint",
+        "par med hjerte",
+        "par med hjerte: mand, mand, lys teint og mørk teint",
+        "romantik"
+    ],
+    "👨🏼‍❤‍👨🏻": [
+        "kærlighed",
+        "lys teint",
+        "mand",
+        "medium til lys teint",
+        "par med hjerte",
+        "par med hjerte: mand, mand, medium til lys teint og lys teint",
+        "romantik"
+    ],
+    "👨🏼‍❤‍👨🏼": [
+        "kærlighed",
+        "mand",
+        "medium til lys teint",
+        "par med hjerte",
+        "par med hjerte: mand, mand og medium til lys teint",
+        "romantik"
+    ],
+    "👨🏼‍❤‍👨🏽": [
+        "kærlighed",
+        "mand",
+        "medium teint",
+        "medium til lys teint",
+        "par med hjerte",
+        "par med hjerte: mand, mand, medium til lys teint og medium teint",
+        "romantik"
+    ],
+    "👨🏼‍❤‍👨🏾": [
+        "kærlighed",
+        "mand",
+        "medium til lys teint",
+        "medium til mørk teint",
+        "par med hjerte",
+        "par med hjerte: mand, mand, medium til lys teint og medium til mørk teint",
+        "romantik"
+    ],
+    "👨🏼‍❤‍👨🏿": [
+        "kærlighed",
+        "mand",
+        "medium til lys teint",
+        "mørk teint",
+        "par med hjerte",
+        "par med hjerte: mand, mand, medium til lys teint og mørk teint",
+        "romantik"
+    ],
+    "👨🏽‍❤‍👨🏻": [
+        "kærlighed",
+        "lys teint",
+        "mand",
+        "medium teint",
+        "par med hjerte",
+        "par med hjerte: mand, mand, medium teint og lys teint",
+        "romantik"
+    ],
+    "👨🏽‍❤‍👨🏼": [
+        "kærlighed",
+        "mand",
+        "medium teint",
+        "medium til lys teint",
+        "par med hjerte",
+        "par med hjerte: mand, mand, medium teint og medium til lys teint",
+        "romantik"
+    ],
+    "👨🏽‍❤‍👨🏽": [
+        "kærlighed",
+        "mand",
+        "medium teint",
+        "par med hjerte",
+        "par med hjerte: mand, mand og medium teint",
+        "romantik"
+    ],
+    "👨🏽‍❤‍👨🏾": [
+        "kærlighed",
+        "mand",
+        "medium teint",
+        "medium til mørk teint",
+        "par med hjerte",
+        "par med hjerte: mand, mand, medium teint og medium til mørk teint",
+        "romantik"
+    ],
+    "👨🏽‍❤‍👨🏿": [
+        "kærlighed",
+        "mand",
+        "medium teint",
+        "mørk teint",
+        "par med hjerte",
+        "par med hjerte: mand, mand, medium teint og mørk teint",
+        "romantik"
+    ],
+    "👨🏾‍❤‍👨🏻": [
+        "kærlighed",
+        "lys teint",
+        "mand",
+        "medium til mørk teint",
+        "par med hjerte",
+        "par med hjerte: mand, mand, medium til mørk teint og lys teint",
+        "romantik"
+    ],
+    "👨🏾‍❤‍👨🏼": [
+        "kærlighed",
+        "mand",
+        "medium til lys teint",
+        "medium til mørk teint",
+        "par med hjerte",
+        "par med hjerte: mand, mand, medium til mørk teint og medium til lys teint",
+        "romantik"
+    ],
+    "👨🏾‍❤‍👨🏽": [
+        "kærlighed",
+        "mand",
+        "medium teint",
+        "medium til mørk teint",
+        "par med hjerte",
+        "par med hjerte: mand, mand, medium til mørk teint og medium teint",
+        "romantik"
+    ],
+    "👨🏾‍❤‍👨🏾": [
+        "kærlighed",
+        "mand",
+        "medium til mørk teint",
+        "par med hjerte",
+        "par med hjerte: mand, mand og medium til mørk teint",
+        "romantik"
+    ],
+    "👨🏾‍❤‍👨🏿": [
+        "kærlighed",
+        "mand",
+        "medium til mørk teint",
+        "mørk teint",
+        "par med hjerte",
+        "par med hjerte: mand, mand, medium til mørk teint og mørk teint",
+        "romantik"
+    ],
+    "👨🏿‍❤‍👨🏻": [
+        "kærlighed",
+        "lys teint",
+        "mand",
+        "mørk teint",
+        "par med hjerte",
+        "par med hjerte: mand, mand, mørk teint og lys teint",
+        "romantik"
+    ],
+    "👨🏿‍❤‍👨🏼": [
+        "kærlighed",
+        "mand",
+        "medium til lys teint",
+        "mørk teint",
+        "par med hjerte",
+        "par med hjerte: mand, mand, mørk teint og medium til lys teint",
+        "romantik"
+    ],
+    "👨🏿‍❤‍👨🏽": [
+        "kærlighed",
+        "mand",
+        "medium teint",
+        "mørk teint",
+        "par med hjerte",
+        "par med hjerte: mand, mand, mørk teint og medium teint",
+        "romantik"
+    ],
+    "👨🏿‍❤‍👨🏾": [
+        "kærlighed",
+        "mand",
+        "medium til mørk teint",
+        "mørk teint",
+        "par med hjerte",
+        "par med hjerte: mand, mand, mørk teint og medium til mørk teint",
+        "romantik"
+    ],
+    "👨🏿‍❤‍👨🏿": [
+        "kærlighed",
+        "mand",
+        "mørk teint",
+        "par med hjerte",
+        "par med hjerte: mand, mand og mørk teint",
+        "romantik"
     ],
     "👨‍🦰": [
         "mand",
@@ -3589,6 +6603,52 @@
         "mørk teint",
         "person"
     ],
+    "🧔‍♀": [
+        "fuldskæg",
+        "kvinde",
+        "kvinde med skæg",
+        "skæg"
+    ],
+    "🧔🏻‍♀": [
+        "fuldskæg",
+        "kvinde",
+        "kvinde med skæg",
+        "kvinde med skæg: lys teint",
+        "lys teint",
+        "skæg"
+    ],
+    "🧔🏼‍♀": [
+        "fuldskæg",
+        "kvinde",
+        "kvinde med skæg",
+        "kvinde med skæg: medium til lys teint",
+        "medium til lys teint",
+        "skæg"
+    ],
+    "🧔🏽‍♀": [
+        "fuldskæg",
+        "kvinde",
+        "kvinde med skæg",
+        "kvinde med skæg: medium teint",
+        "medium teint",
+        "skæg"
+    ],
+    "🧔🏾‍♀": [
+        "fuldskæg",
+        "kvinde",
+        "kvinde med skæg",
+        "kvinde med skæg: medium til mørk teint",
+        "medium til mørk teint",
+        "skæg"
+    ],
+    "🧔🏿‍♀": [
+        "fuldskæg",
+        "kvinde",
+        "kvinde med skæg",
+        "kvinde med skæg: mørk teint",
+        "mørk teint",
+        "skæg"
+    ],
     "👱‍♀": [
         "blond kvinde",
         "blondine",
@@ -3634,6 +6694,986 @@
         "kvinde",
         "lyshåret",
         "mørk teint"
+    ],
+    "👩🏻‍❤‍💋‍👨🏻": [
+        "kvinde",
+        "kys",
+        "kys: kvinde, mand og lys teint",
+        "kærlighed",
+        "lys teint",
+        "mand",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👩🏻‍❤‍💋‍👨🏼": [
+        "kvinde",
+        "kys",
+        "kys: kvinde, mand, lys teint og medium til lys teint",
+        "kærlighed",
+        "lys teint",
+        "mand",
+        "medium til lys teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👩🏻‍❤‍💋‍👨🏽": [
+        "kvinde",
+        "kys",
+        "kys: kvinde, mand, lys teint og medium teint",
+        "kærlighed",
+        "lys teint",
+        "mand",
+        "medium teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👩🏻‍❤‍💋‍👨🏾": [
+        "kvinde",
+        "kys",
+        "kys: kvinde, mand, lys teint og medium til mørk teint",
+        "kærlighed",
+        "lys teint",
+        "mand",
+        "medium til mørk teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👩🏻‍❤‍💋‍👨🏿": [
+        "kvinde",
+        "kys",
+        "kys: kvinde, mand, lys teint og mørk teint",
+        "kærlighed",
+        "lys teint",
+        "mand",
+        "mørk teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👩🏼‍❤‍💋‍👨🏻": [
+        "kvinde",
+        "kys",
+        "kys: kvinde, mand, medium til lys teint og lys teint",
+        "kærlighed",
+        "lys teint",
+        "mand",
+        "medium til lys teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👩🏼‍❤‍💋‍👨🏼": [
+        "kvinde",
+        "kys",
+        "kys: kvinde, mand og medium til lys teint",
+        "kærlighed",
+        "mand",
+        "medium til lys teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👩🏼‍❤‍💋‍👨🏽": [
+        "kvinde",
+        "kys",
+        "kys: kvinde, mand, medium til lys teint og medium teint",
+        "kærlighed",
+        "mand",
+        "medium teint",
+        "medium til lys teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👩🏼‍❤‍💋‍👨🏾": [
+        "kvinde",
+        "kys",
+        "kys: kvinde, mand, medium til lys teint og medium til mørk teint",
+        "kærlighed",
+        "mand",
+        "medium til lys teint",
+        "medium til mørk teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👩🏼‍❤‍💋‍👨🏿": [
+        "kvinde",
+        "kys",
+        "kys: kvinde, mand, medium til lys teint og mørk teint",
+        "kærlighed",
+        "mand",
+        "medium til lys teint",
+        "mørk teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👩🏽‍❤‍💋‍👨🏻": [
+        "kvinde",
+        "kys",
+        "kys: kvinde, mand, medium teint og lys teint",
+        "kærlighed",
+        "lys teint",
+        "mand",
+        "medium teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👩🏽‍❤‍💋‍👨🏼": [
+        "kvinde",
+        "kys",
+        "kys: kvinde, mand, medium teint og medium til lys teint",
+        "kærlighed",
+        "mand",
+        "medium teint",
+        "medium til lys teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👩🏽‍❤‍💋‍👨🏽": [
+        "kvinde",
+        "kys",
+        "kys: kvinde, mand og medium teint",
+        "kærlighed",
+        "mand",
+        "medium teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👩🏽‍❤‍💋‍👨🏾": [
+        "kvinde",
+        "kys",
+        "kys: kvinde, mand, medium teint og medium til mørk teint",
+        "kærlighed",
+        "mand",
+        "medium teint",
+        "medium til mørk teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👩🏽‍❤‍💋‍👨🏿": [
+        "kvinde",
+        "kys",
+        "kys: kvinde, mand, medium teint og mørk teint",
+        "kærlighed",
+        "mand",
+        "medium teint",
+        "mørk teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👩🏾‍❤‍💋‍👨🏻": [
+        "kvinde",
+        "kys",
+        "kys: kvinde, mand, medium til mørk teint og lys teint",
+        "kærlighed",
+        "lys teint",
+        "mand",
+        "medium til mørk teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👩🏾‍❤‍💋‍👨🏼": [
+        "kvinde",
+        "kys",
+        "kys: kvinde, mand, medium til mørk teint og medium til lys teint",
+        "kærlighed",
+        "mand",
+        "medium til lys teint",
+        "medium til mørk teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👩🏾‍❤‍💋‍👨🏽": [
+        "kvinde",
+        "kys",
+        "kys: kvinde, mand, medium til mørk teint og medium teint",
+        "kærlighed",
+        "mand",
+        "medium teint",
+        "medium til mørk teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👩🏾‍❤‍💋‍👨🏾": [
+        "kvinde",
+        "kys",
+        "kys: kvinde, mand og medium til mørk teint",
+        "kærlighed",
+        "mand",
+        "medium til mørk teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👩🏾‍❤‍💋‍👨🏿": [
+        "kvinde",
+        "kys",
+        "kys: kvinde, mand, medium til mørk teint og mørk teint",
+        "kærlighed",
+        "mand",
+        "medium til mørk teint",
+        "mørk teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👩🏿‍❤‍💋‍👨🏻": [
+        "kvinde",
+        "kys",
+        "kys: kvinde, mand, mørk teint og lys teint",
+        "kærlighed",
+        "lys teint",
+        "mand",
+        "mørk teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👩🏿‍❤‍💋‍👨🏼": [
+        "kvinde",
+        "kys",
+        "kys: kvinde, mand, mørk teint og medium til lys teint",
+        "kærlighed",
+        "mand",
+        "medium til lys teint",
+        "mørk teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👩🏿‍❤‍💋‍👨🏽": [
+        "kvinde",
+        "kys",
+        "kys: kvinde, mand, mørk teint og medium teint",
+        "kærlighed",
+        "mand",
+        "medium teint",
+        "mørk teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👩🏿‍❤‍💋‍👨🏾": [
+        "kvinde",
+        "kys",
+        "kys: kvinde, mand, mørk teint og medium til mørk teint",
+        "kærlighed",
+        "mand",
+        "medium til mørk teint",
+        "mørk teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👩🏿‍❤‍💋‍👨🏿": [
+        "kvinde",
+        "kys",
+        "kys: kvinde, mand og mørk teint",
+        "kærlighed",
+        "mand",
+        "mørk teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👩🏻‍❤‍💋‍👩🏻": [
+        "kvinde",
+        "kys",
+        "kys: kvinde, kvinde og lys teint",
+        "kærlighed",
+        "lys teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👩🏻‍❤‍💋‍👩🏼": [
+        "kvinde",
+        "kys",
+        "kys: kvinde, kvinde, lys teint og medium til lys teint",
+        "kærlighed",
+        "lys teint",
+        "medium til lys teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👩🏻‍❤‍💋‍👩🏽": [
+        "kvinde",
+        "kys",
+        "kys: kvinde, kvinde, lys teint og medium teint",
+        "kærlighed",
+        "lys teint",
+        "medium teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👩🏻‍❤‍💋‍👩🏾": [
+        "kvinde",
+        "kys",
+        "kys: kvinde, kvinde, lys teint og medium til mørk teint",
+        "kærlighed",
+        "lys teint",
+        "medium til mørk teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👩🏻‍❤‍💋‍👩🏿": [
+        "kvinde",
+        "kys",
+        "kys: kvinde, kvinde, lys teint og mørk teint",
+        "kærlighed",
+        "lys teint",
+        "mørk teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👩🏼‍❤‍💋‍👩🏻": [
+        "kvinde",
+        "kys",
+        "kys: kvinde, kvinde, medium til lys teint og lys teint",
+        "kærlighed",
+        "lys teint",
+        "medium til lys teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👩🏼‍❤‍💋‍👩🏼": [
+        "kvinde",
+        "kys",
+        "kys: kvinde, kvinde og medium til lys teint",
+        "kærlighed",
+        "medium til lys teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👩🏼‍❤‍💋‍👩🏽": [
+        "kvinde",
+        "kys",
+        "kys: kvinde, kvinde, medium til lys teint og medium teint",
+        "kærlighed",
+        "medium teint",
+        "medium til lys teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👩🏼‍❤‍💋‍👩🏾": [
+        "kvinde",
+        "kys",
+        "kys: kvinde, kvinde, medium til lys teint og medium til mørk teint",
+        "kærlighed",
+        "medium til lys teint",
+        "medium til mørk teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👩🏼‍❤‍💋‍👩🏿": [
+        "kvinde",
+        "kys",
+        "kys: kvinde, kvinde, medium til lys teint og mørk teint",
+        "kærlighed",
+        "medium til lys teint",
+        "mørk teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👩🏽‍❤‍💋‍👩🏻": [
+        "kvinde",
+        "kys",
+        "kys: kvinde, kvinde, medium teint og lys teint",
+        "kærlighed",
+        "lys teint",
+        "medium teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👩🏽‍❤‍💋‍👩🏼": [
+        "kvinde",
+        "kys",
+        "kys: kvinde, kvinde, medium teint og medium til lys teint",
+        "kærlighed",
+        "medium teint",
+        "medium til lys teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👩🏽‍❤‍💋‍👩🏽": [
+        "kvinde",
+        "kys",
+        "kys: kvinde, kvinde og medium teint",
+        "kærlighed",
+        "medium teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👩🏽‍❤‍💋‍👩🏾": [
+        "kvinde",
+        "kys",
+        "kys: kvinde, kvinde, medium teint og medium til mørk teint",
+        "kærlighed",
+        "medium teint",
+        "medium til mørk teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👩🏽‍❤‍💋‍👩🏿": [
+        "kvinde",
+        "kys",
+        "kys: kvinde, kvinde, medium teint og mørk teint",
+        "kærlighed",
+        "medium teint",
+        "mørk teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👩🏾‍❤‍💋‍👩🏻": [
+        "kvinde",
+        "kys",
+        "kys: kvinde, kvinde, medium til mørk teint og lys teint",
+        "kærlighed",
+        "lys teint",
+        "medium til mørk teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👩🏾‍❤‍💋‍👩🏼": [
+        "kvinde",
+        "kys",
+        "kys: kvinde, kvinde, medium til mørk teint og medium til lys teint",
+        "kærlighed",
+        "medium til lys teint",
+        "medium til mørk teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👩🏾‍❤‍💋‍👩🏽": [
+        "kvinde",
+        "kys",
+        "kys: kvinde, kvinde, medium til mørk teint og medium teint",
+        "kærlighed",
+        "medium teint",
+        "medium til mørk teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👩🏾‍❤‍💋‍👩🏾": [
+        "kvinde",
+        "kys",
+        "kys: kvinde, kvinde og medium til mørk teint",
+        "kærlighed",
+        "medium til mørk teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👩🏾‍❤‍💋‍👩🏿": [
+        "kvinde",
+        "kys",
+        "kys: kvinde, kvinde, medium til mørk teint og mørk teint",
+        "kærlighed",
+        "medium til mørk teint",
+        "mørk teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👩🏿‍❤‍💋‍👩🏻": [
+        "kvinde",
+        "kys",
+        "kys: kvinde, kvinde, mørk teint og lys teint",
+        "kærlighed",
+        "lys teint",
+        "mørk teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👩🏿‍❤‍💋‍👩🏼": [
+        "kvinde",
+        "kys",
+        "kys: kvinde, kvinde, mørk teint og medium til lys teint",
+        "kærlighed",
+        "medium til lys teint",
+        "mørk teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👩🏿‍❤‍💋‍👩🏽": [
+        "kvinde",
+        "kys",
+        "kys: kvinde, kvinde, mørk teint og medium teint",
+        "kærlighed",
+        "medium teint",
+        "mørk teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👩🏿‍❤‍💋‍👩🏾": [
+        "kvinde",
+        "kys",
+        "kys: kvinde, kvinde, mørk teint og medium til mørk teint",
+        "kærlighed",
+        "medium til mørk teint",
+        "mørk teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👩🏿‍❤‍💋‍👩🏿": [
+        "kvinde",
+        "kys",
+        "kys: kvinde, kvinde og mørk teint",
+        "kærlighed",
+        "mørk teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "👩🏻‍❤‍👨🏻": [
+        "kvinde",
+        "kærlighed",
+        "lys teint",
+        "mand",
+        "par med hjerte",
+        "par med hjerte: kvinde, mand og lys teint",
+        "romantik"
+    ],
+    "👩🏻‍❤‍👨🏼": [
+        "kvinde",
+        "kærlighed",
+        "lys teint",
+        "mand",
+        "medium til lys teint",
+        "par med hjerte",
+        "par med hjerte: kvinde, mand, lys teint og medium til lys teint",
+        "romantik"
+    ],
+    "👩🏻‍❤‍👨🏽": [
+        "kvinde",
+        "kærlighed",
+        "lys teint",
+        "mand",
+        "medium teint",
+        "par med hjerte",
+        "par med hjerte: kvinde, mand, lys teint og medium teint",
+        "romantik"
+    ],
+    "👩🏻‍❤‍👨🏾": [
+        "kvinde",
+        "kærlighed",
+        "lys teint",
+        "mand",
+        "medium til mørk teint",
+        "par med hjerte",
+        "par med hjerte: kvinde, mand, lys teint og medium til mørk teint",
+        "romantik"
+    ],
+    "👩🏻‍❤‍👨🏿": [
+        "kvinde",
+        "kærlighed",
+        "lys teint",
+        "mand",
+        "mørk teint",
+        "par med hjerte",
+        "par med hjerte: kvinde, mand, lys teint og mørk teint",
+        "romantik"
+    ],
+    "👩🏼‍❤‍👨🏻": [
+        "kvinde",
+        "kærlighed",
+        "lys teint",
+        "mand",
+        "medium til lys teint",
+        "par med hjerte",
+        "par med hjerte: kvinde, mand, medium til lys teint og lys teint",
+        "romantik"
+    ],
+    "👩🏼‍❤‍👨🏼": [
+        "kvinde",
+        "kærlighed",
+        "mand",
+        "medium til lys teint",
+        "par med hjerte",
+        "par med hjerte: kvinde, mand og medium til lys teint",
+        "romantik"
+    ],
+    "👩🏼‍❤‍👨🏽": [
+        "kvinde",
+        "kærlighed",
+        "mand",
+        "medium teint",
+        "medium til lys teint",
+        "par med hjerte",
+        "par med hjerte: kvinde, mand, medium til lys teint og medium teint",
+        "romantik"
+    ],
+    "👩🏼‍❤‍👨🏾": [
+        "kvinde",
+        "kærlighed",
+        "mand",
+        "medium til lys teint",
+        "medium til mørk teint",
+        "par med hjerte",
+        "par med hjerte: kvinde, mand, medium til lys teint og medium til mørk teint",
+        "romantik"
+    ],
+    "👩🏼‍❤‍👨🏿": [
+        "kvinde",
+        "kærlighed",
+        "mand",
+        "medium til lys teint",
+        "mørk teint",
+        "par med hjerte",
+        "par med hjerte: kvinde, mand, medium til lys teint og mørk teint",
+        "romantik"
+    ],
+    "👩🏽‍❤‍👨🏻": [
+        "kvinde",
+        "kærlighed",
+        "lys teint",
+        "mand",
+        "medium teint",
+        "par med hjerte",
+        "par med hjerte: kvinde, mand, medium teint og lys teint",
+        "romantik"
+    ],
+    "👩🏽‍❤‍👨🏼": [
+        "kvinde",
+        "kærlighed",
+        "mand",
+        "medium teint",
+        "medium til lys teint",
+        "par med hjerte",
+        "par med hjerte: kvinde, mand, medium teint og medium til lys teint",
+        "romantik"
+    ],
+    "👩🏽‍❤‍👨🏽": [
+        "kvinde",
+        "kærlighed",
+        "mand",
+        "medium teint",
+        "par med hjerte",
+        "par med hjerte: kvinde, mand og medium teint",
+        "romantik"
+    ],
+    "👩🏽‍❤‍👨🏾": [
+        "kvinde",
+        "kærlighed",
+        "mand",
+        "medium teint",
+        "medium til mørk teint",
+        "par med hjerte",
+        "par med hjerte: kvinde, mand, medium teint og medium til mørk teint",
+        "romantik"
+    ],
+    "👩🏽‍❤‍👨🏿": [
+        "kvinde",
+        "kærlighed",
+        "mand",
+        "medium teint",
+        "mørk teint",
+        "par med hjerte",
+        "par med hjerte: kvinde, mand, medium teint og mørk teint",
+        "romantik"
+    ],
+    "👩🏾‍❤‍👨🏻": [
+        "kvinde",
+        "kærlighed",
+        "lys teint",
+        "mand",
+        "medium til mørk teint",
+        "par med hjerte",
+        "par med hjerte: kvinde, mand, medium til mørk teint og lys teint",
+        "romantik"
+    ],
+    "👩🏾‍❤‍👨🏼": [
+        "kvinde",
+        "kærlighed",
+        "mand",
+        "medium til lys teint",
+        "medium til mørk teint",
+        "par med hjerte",
+        "par med hjerte: kvinde, mand, medium til mørk teint og medium til lys teint",
+        "romantik"
+    ],
+    "👩🏾‍❤‍👨🏽": [
+        "kvinde",
+        "kærlighed",
+        "mand",
+        "medium teint",
+        "medium til mørk teint",
+        "par med hjerte",
+        "par med hjerte: kvinde, mand, medium til mørk teint og medium teint",
+        "romantik"
+    ],
+    "👩🏾‍❤‍👨🏾": [
+        "kvinde",
+        "kærlighed",
+        "mand",
+        "medium til mørk teint",
+        "par med hjerte",
+        "par med hjerte: kvinde, mand og medium til mørk teint",
+        "romantik"
+    ],
+    "👩🏾‍❤‍👨🏿": [
+        "kvinde",
+        "kærlighed",
+        "mand",
+        "medium til mørk teint",
+        "mørk teint",
+        "par med hjerte",
+        "par med hjerte: kvinde, mand, medium til mørk teint og mørk teint",
+        "romantik"
+    ],
+    "👩🏿‍❤‍👨🏻": [
+        "kvinde",
+        "kærlighed",
+        "lys teint",
+        "mand",
+        "mørk teint",
+        "par med hjerte",
+        "par med hjerte: kvinde, mand, mørk teint og lys teint",
+        "romantik"
+    ],
+    "👩🏿‍❤‍👨🏼": [
+        "kvinde",
+        "kærlighed",
+        "mand",
+        "medium til lys teint",
+        "mørk teint",
+        "par med hjerte",
+        "par med hjerte: kvinde, mand, mørk teint og medium til lys teint",
+        "romantik"
+    ],
+    "👩🏿‍❤‍👨🏽": [
+        "kvinde",
+        "kærlighed",
+        "mand",
+        "medium teint",
+        "mørk teint",
+        "par med hjerte",
+        "par med hjerte: kvinde, mand, mørk teint og medium teint",
+        "romantik"
+    ],
+    "👩🏿‍❤‍👨🏾": [
+        "kvinde",
+        "kærlighed",
+        "mand",
+        "medium til mørk teint",
+        "mørk teint",
+        "par med hjerte",
+        "par med hjerte: kvinde, mand, mørk teint og medium til mørk teint",
+        "romantik"
+    ],
+    "👩🏿‍❤‍👨🏿": [
+        "kvinde",
+        "kærlighed",
+        "mand",
+        "mørk teint",
+        "par med hjerte",
+        "par med hjerte: kvinde, mand og mørk teint",
+        "romantik"
+    ],
+    "👩🏻‍❤‍👩🏻": [
+        "kvinde",
+        "kærlighed",
+        "lys teint",
+        "par med hjerte",
+        "par med hjerte: kvinde, kvinde og lys teint",
+        "romantik"
+    ],
+    "👩🏻‍❤‍👩🏼": [
+        "kvinde",
+        "kærlighed",
+        "lys teint",
+        "medium til lys teint",
+        "par med hjerte",
+        "par med hjerte: kvinde, kvinde, lys teint og medium til lys teint",
+        "romantik"
+    ],
+    "👩🏻‍❤‍👩🏽": [
+        "kvinde",
+        "kærlighed",
+        "lys teint",
+        "medium teint",
+        "par med hjerte",
+        "par med hjerte: kvinde, kvinde, lys teint og medium teint",
+        "romantik"
+    ],
+    "👩🏻‍❤‍👩🏾": [
+        "kvinde",
+        "kærlighed",
+        "lys teint",
+        "medium til mørk teint",
+        "par med hjerte",
+        "par med hjerte: kvinde, kvinde, lys teint og medium til mørk teint",
+        "romantik"
+    ],
+    "👩🏻‍❤‍👩🏿": [
+        "kvinde",
+        "kærlighed",
+        "lys teint",
+        "mørk teint",
+        "par med hjerte",
+        "par med hjerte: kvinde, kvinde, lys teint og mørk teint",
+        "romantik"
+    ],
+    "👩🏼‍❤‍👩🏻": [
+        "kvinde",
+        "kærlighed",
+        "lys teint",
+        "medium til lys teint",
+        "par med hjerte",
+        "par med hjerte: kvinde, kvinde, medium til lys teint og lys teint",
+        "romantik"
+    ],
+    "👩🏼‍❤‍👩🏼": [
+        "kvinde",
+        "kærlighed",
+        "medium til lys teint",
+        "par med hjerte",
+        "par med hjerte: kvinde, kvinde og medium til lys teint",
+        "romantik"
+    ],
+    "👩🏼‍❤‍👩🏽": [
+        "kvinde",
+        "kærlighed",
+        "medium teint",
+        "medium til lys teint",
+        "par med hjerte",
+        "par med hjerte: kvinde, kvinde, medium til lys teint og medium teint",
+        "romantik"
+    ],
+    "👩🏼‍❤‍👩🏾": [
+        "kvinde",
+        "kærlighed",
+        "medium til lys teint",
+        "medium til mørk teint",
+        "par med hjerte",
+        "par med hjerte: kvinde, kvinde, medium til lys teint og medium til mørk teint",
+        "romantik"
+    ],
+    "👩🏼‍❤‍👩🏿": [
+        "kvinde",
+        "kærlighed",
+        "medium til lys teint",
+        "mørk teint",
+        "par med hjerte",
+        "par med hjerte: kvinde, kvinde, medium til lys teint og mørk teint",
+        "romantik"
+    ],
+    "👩🏽‍❤‍👩🏻": [
+        "kvinde",
+        "kærlighed",
+        "lys teint",
+        "medium teint",
+        "par med hjerte",
+        "par med hjerte: kvinde, kvinde, medium teint og lys teint",
+        "romantik"
+    ],
+    "👩🏽‍❤‍👩🏼": [
+        "kvinde",
+        "kærlighed",
+        "medium teint",
+        "medium til lys teint",
+        "par med hjerte",
+        "par med hjerte: kvinde, kvinde, medium teint og medium til lys teint",
+        "romantik"
+    ],
+    "👩🏽‍❤‍👩🏽": [
+        "kvinde",
+        "kærlighed",
+        "medium teint",
+        "par med hjerte",
+        "par med hjerte: kvinde, kvinde og medium teint",
+        "romantik"
+    ],
+    "👩🏽‍❤‍👩🏾": [
+        "kvinde",
+        "kærlighed",
+        "medium teint",
+        "medium til mørk teint",
+        "par med hjerte",
+        "par med hjerte: kvinde, kvinde, medium teint og medium til mørk teint",
+        "romantik"
+    ],
+    "👩🏽‍❤‍👩🏿": [
+        "kvinde",
+        "kærlighed",
+        "medium teint",
+        "mørk teint",
+        "par med hjerte",
+        "par med hjerte: kvinde, kvinde, medium teint og mørk teint",
+        "romantik"
+    ],
+    "👩🏾‍❤‍👩🏻": [
+        "kvinde",
+        "kærlighed",
+        "lys teint",
+        "medium til mørk teint",
+        "par med hjerte",
+        "par med hjerte: kvinde, kvinde, medium til mørk teint og lys teint",
+        "romantik"
+    ],
+    "👩🏾‍❤‍👩🏼": [
+        "kvinde",
+        "kærlighed",
+        "medium til lys teint",
+        "medium til mørk teint",
+        "par med hjerte",
+        "par med hjerte: kvinde, kvinde, medium til mørk teint og medium til lys teint",
+        "romantik"
+    ],
+    "👩🏾‍❤‍👩🏽": [
+        "kvinde",
+        "kærlighed",
+        "medium teint",
+        "medium til mørk teint",
+        "par med hjerte",
+        "par med hjerte: kvinde, kvinde, medium til mørk teint og medium teint",
+        "romantik"
+    ],
+    "👩🏾‍❤‍👩🏾": [
+        "kvinde",
+        "kærlighed",
+        "medium til mørk teint",
+        "par med hjerte",
+        "par med hjerte: kvinde, kvinde og medium til mørk teint",
+        "romantik"
+    ],
+    "👩🏾‍❤‍👩🏿": [
+        "kvinde",
+        "kærlighed",
+        "medium til mørk teint",
+        "mørk teint",
+        "par med hjerte",
+        "par med hjerte: kvinde, kvinde, medium til mørk teint og mørk teint",
+        "romantik"
+    ],
+    "👩🏿‍❤‍👩🏻": [
+        "kvinde",
+        "kærlighed",
+        "lys teint",
+        "mørk teint",
+        "par med hjerte",
+        "par med hjerte: kvinde, kvinde, mørk teint og lys teint",
+        "romantik"
+    ],
+    "👩🏿‍❤‍👩🏼": [
+        "kvinde",
+        "kærlighed",
+        "medium til lys teint",
+        "mørk teint",
+        "par med hjerte",
+        "par med hjerte: kvinde, kvinde, mørk teint og medium til lys teint",
+        "romantik"
+    ],
+    "👩🏿‍❤‍👩🏽": [
+        "kvinde",
+        "kærlighed",
+        "medium teint",
+        "mørk teint",
+        "par med hjerte",
+        "par med hjerte: kvinde, kvinde, mørk teint og medium teint",
+        "romantik"
+    ],
+    "👩🏿‍❤‍👩🏾": [
+        "kvinde",
+        "kærlighed",
+        "medium til mørk teint",
+        "mørk teint",
+        "par med hjerte",
+        "par med hjerte: kvinde, kvinde, mørk teint og medium til mørk teint",
+        "romantik"
+    ],
+    "👩🏿‍❤‍👩🏿": [
+        "kvinde",
+        "kærlighed",
+        "mørk teint",
+        "par med hjerte",
+        "par med hjerte: kvinde, kvinde og mørk teint",
+        "romantik"
     ],
     "👩‍🦰": [
         "kvinde",
@@ -4850,32 +8890,56 @@
         "mørk teint"
     ],
     "🧏": [
-        "døv person"
+        "døv",
+        "døv person",
+        "høre",
+        "tilgængelighed",
+        "øre"
     ],
     "🧏🏻": [
+        "døv",
         "døv person",
         "døv person: lys teint",
-        "lys teint"
+        "høre",
+        "lys teint",
+        "tilgængelighed",
+        "øre"
     ],
     "🧏🏼": [
+        "døv",
         "døv person",
         "døv person: medium til lys teint",
-        "medium til lys teint"
+        "høre",
+        "medium til lys teint",
+        "tilgængelighed",
+        "øre"
     ],
     "🧏🏽": [
+        "døv",
         "døv person",
         "døv person: medium teint",
-        "medium teint"
+        "høre",
+        "medium teint",
+        "tilgængelighed",
+        "øre"
     ],
     "🧏🏾": [
+        "døv",
         "døv person",
         "døv person: medium til mørk teint",
-        "medium til mørk teint"
+        "høre",
+        "medium til mørk teint",
+        "tilgængelighed",
+        "øre"
     ],
     "🧏🏿": [
+        "døv",
         "døv person",
         "døv person: mørk teint",
-        "mørk teint"
+        "høre",
+        "mørk teint",
+        "tilgængelighed",
+        "øre"
     ],
     "🧏‍♂": [
         "døv mand"
@@ -8611,6 +12675,46 @@
         "skjult",
         "stealth"
     ],
+    "🥷🏻": [
+        "lys teint",
+        "ninja",
+        "ninja: lys teint",
+        "ninjakriger",
+        "skjult",
+        "stealth"
+    ],
+    "🥷🏼": [
+        "medium til lys teint",
+        "ninja",
+        "ninja: medium til lys teint",
+        "ninjakriger",
+        "skjult",
+        "stealth"
+    ],
+    "🥷🏽": [
+        "medium teint",
+        "ninja",
+        "ninja: medium teint",
+        "ninjakriger",
+        "skjult",
+        "stealth"
+    ],
+    "🥷🏾": [
+        "medium til mørk teint",
+        "ninja",
+        "ninja: medium til mørk teint",
+        "ninjakriger",
+        "skjult",
+        "stealth"
+    ],
+    "🥷🏿": [
+        "mørk teint",
+        "ninja",
+        "ninja: mørk teint",
+        "ninjakriger",
+        "skjult",
+        "stealth"
+    ],
     "👷": [
         "arbejder",
         "byggeri",
@@ -8766,6 +12870,58 @@
         "kvindelig bygningsarbejder",
         "kvindelig bygningsarbejder: mørk teint",
         "mørk teint"
+    ],
+    "🫅": [
+        "adelig",
+        "kongelig",
+        "monark",
+        "person med krone",
+        "royal"
+    ],
+    "🫅🏻": [
+        "adelig",
+        "kongelig",
+        "lys teint",
+        "monark",
+        "person med krone",
+        "person med krone: lys teint",
+        "royal"
+    ],
+    "🫅🏼": [
+        "adelig",
+        "kongelig",
+        "medium til lys teint",
+        "monark",
+        "person med krone",
+        "person med krone: medium til lys teint",
+        "royal"
+    ],
+    "🫅🏽": [
+        "adelig",
+        "kongelig",
+        "medium teint",
+        "monark",
+        "person med krone",
+        "person med krone: medium teint",
+        "royal"
+    ],
+    "🫅🏾": [
+        "adelig",
+        "kongelig",
+        "medium til mørk teint",
+        "monark",
+        "person med krone",
+        "person med krone: medium til mørk teint",
+        "royal"
+    ],
+    "🫅🏿": [
+        "adelig",
+        "kongelig",
+        "monark",
+        "mørk teint",
+        "person med krone",
+        "person med krone: mørk teint",
+        "royal"
     ],
     "🤴": [
         "kongelig",
@@ -9417,6 +13573,110 @@
         "mor",
         "mørk teint",
         "vordende mor"
+    ],
+    "🫃": [
+        "gravid",
+        "gravid mand",
+        "mave",
+        "mæt",
+        "oppustet"
+    ],
+    "🫃🏻": [
+        "gravid",
+        "gravid mand",
+        "gravid mand: lys teint",
+        "lys teint",
+        "mave",
+        "mæt",
+        "oppustet"
+    ],
+    "🫃🏼": [
+        "gravid",
+        "gravid mand",
+        "gravid mand: medium til lys teint",
+        "mave",
+        "medium til lys teint",
+        "mæt",
+        "oppustet"
+    ],
+    "🫃🏽": [
+        "gravid",
+        "gravid mand",
+        "gravid mand: medium teint",
+        "mave",
+        "medium teint",
+        "mæt",
+        "oppustet"
+    ],
+    "🫃🏾": [
+        "gravid",
+        "gravid mand",
+        "gravid mand: medium til mørk teint",
+        "mave",
+        "medium til mørk teint",
+        "mæt",
+        "oppustet"
+    ],
+    "🫃🏿": [
+        "gravid",
+        "gravid mand",
+        "gravid mand: mørk teint",
+        "mave",
+        "mæt",
+        "mørk teint",
+        "oppustet"
+    ],
+    "🫄": [
+        "gravid",
+        "gravid person",
+        "mave",
+        "mæt",
+        "oppustet"
+    ],
+    "🫄🏻": [
+        "gravid",
+        "gravid person",
+        "gravid person: lys teint",
+        "lys teint",
+        "mave",
+        "mæt",
+        "oppustet"
+    ],
+    "🫄🏼": [
+        "gravid",
+        "gravid person",
+        "gravid person: medium til lys teint",
+        "mave",
+        "medium til lys teint",
+        "mæt",
+        "oppustet"
+    ],
+    "🫄🏽": [
+        "gravid",
+        "gravid person",
+        "gravid person: medium teint",
+        "mave",
+        "medium teint",
+        "mæt",
+        "oppustet"
+    ],
+    "🫄🏾": [
+        "gravid",
+        "gravid person",
+        "gravid person: medium til mørk teint",
+        "mave",
+        "medium til mørk teint",
+        "mæt",
+        "oppustet"
+    ],
+    "🫄🏿": [
+        "gravid",
+        "gravid person",
+        "gravid person: mørk teint",
+        "mave",
+        "mæt",
+        "mørk teint",
+        "oppustet"
     ],
     "🤱": [
         "baby",
@@ -10732,6 +14992,12 @@
         "kvinde",
         "kvindelig zombie",
         "levende død"
+    ],
+    "🧌": [
+        "eventyr",
+        "fantasy",
+        "monster",
+        "trold"
     ],
     "💆": [
         "ansigtsmassage",
@@ -15213,6 +19479,46 @@
         "par med hjerte",
         "romantik"
     ],
+    "💏🏻": [
+        "kys",
+        "kys: lys teint",
+        "kærlighed",
+        "lys teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "💏🏼": [
+        "kys",
+        "kys: medium til lys teint",
+        "kærlighed",
+        "medium til lys teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "💏🏽": [
+        "kys",
+        "kys: medium teint",
+        "kærlighed",
+        "medium teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "💏🏾": [
+        "kys",
+        "kys: medium til mørk teint",
+        "kærlighed",
+        "medium til mørk teint",
+        "par med hjerte",
+        "romantik"
+    ],
+    "💏🏿": [
+        "kys",
+        "kys: mørk teint",
+        "kærlighed",
+        "mørk teint",
+        "par med hjerte",
+        "romantik"
+    ],
     "👩‍❤‍💋‍👨": [
         "kvinde",
         "kys",
@@ -15241,6 +19547,41 @@
     "💑": [
         "kærlighed",
         "par med hjerte",
+        "romantik"
+    ],
+    "💑🏻": [
+        "kærlighed",
+        "lys teint",
+        "par med hjerte",
+        "par med hjerte: lys teint",
+        "romantik"
+    ],
+    "💑🏼": [
+        "kærlighed",
+        "medium til lys teint",
+        "par med hjerte",
+        "par med hjerte: medium til lys teint",
+        "romantik"
+    ],
+    "💑🏽": [
+        "kærlighed",
+        "medium teint",
+        "par med hjerte",
+        "par med hjerte: medium teint",
+        "romantik"
+    ],
+    "💑🏾": [
+        "kærlighed",
+        "medium til mørk teint",
+        "par med hjerte",
+        "par med hjerte: medium til mørk teint",
+        "romantik"
+    ],
+    "💑🏿": [
+        "kærlighed",
+        "mørk teint",
+        "par med hjerte",
+        "par med hjerte: mørk teint",
         "romantik"
     ],
     "👩‍❤‍👨": [
@@ -15616,16 +19957,16 @@
         "kæledyr"
     ],
     "🦮": [
-        "adgang",
         "blind",
-        "førerhund"
+        "førerhund",
+        "tilgængelighed"
     ],
     "🐕‍🦺": [
-        "adgang",
         "førerhund",
         "hjælp",
         "hund",
-        "servicehund"
+        "servicehund",
+        "tilgængelighed"
     ],
     "🐩": [
         "dyr",
@@ -16089,6 +20430,11 @@
         "dyr",
         "konkylie"
     ],
+    "🪸": [
+        "hav",
+        "koral",
+        "rev"
+    ],
     "🐌": [
         "dyr",
         "langsom",
@@ -16192,6 +20538,15 @@
         "blomst",
         "hvid blomst"
     ],
+    "🪷": [
+        "Indien",
+        "Vietnam",
+        "blomst",
+        "buddhisme",
+        "hinduisme",
+        "lotus",
+        "renhed"
+    ],
     "🏵️": [
         "plante",
         "roset"
@@ -16290,6 +20645,18 @@
         "blade i vinden",
         "blæst",
         "vind"
+    ],
+    "🪹": [
+        "redebygning",
+        "tom rede"
+    ],
+    "🪺": [
+        "rede med æg",
+        "redebygning"
+    ],
+    "🍄": [
+        "plante",
+        "svamp"
     ],
     "🍇": [
         "frugt",
@@ -16446,10 +20813,6 @@
         "give smag",
         "løg"
     ],
-    "🍄": [
-        "plante",
-        "svamp"
-    ],
     "🥜": [
         "jordnød",
         "jordnødder",
@@ -16458,6 +20821,12 @@
         "peanut",
         "peanuts",
         "snack"
+    ],
+    "🫘": [
+        "bælgplante",
+        "bønner",
+        "kidney",
+        "mad"
     ],
     "🌰": [
         "kastanje",
@@ -16928,6 +21297,13 @@
         "sprut",
         "whisky"
     ],
+    "🫗": [
+        "drik",
+        "glas",
+        "hælde vand",
+        "spilde",
+        "tom"
+    ],
     "🥤": [
         "bæger",
         "bæger med sugerør",
@@ -16979,6 +21355,15 @@
     "🔪": [
         "kniv",
         "køkkenkniv"
+    ],
+    "🫙": [
+        "beholder",
+        "glas",
+        "konservere",
+        "krukke",
+        "sylte",
+        "tilbehør",
+        "tom"
     ],
     "🏺": [
         "amfora",
@@ -17303,6 +21688,11 @@
         "karruseltur",
         "køre i karrusel"
     ],
+    "🛝": [
+        "forlystelsespark",
+        "leg",
+        "legeplads-rutsjebane"
+    ],
     "🎡": [
         "forlystelse",
         "forlystelsespark",
@@ -17537,6 +21927,12 @@
         "benzinpumpe",
         "tankstation"
     ],
+    "🛞": [
+        "cirkel",
+        "dreje",
+        "dæk",
+        "hjul"
+    ],
     "🚨": [
         "politi",
         "politiblink",
@@ -17572,6 +21968,14 @@
         "båd",
         "skib",
         "værktøj"
+    ],
+    "🛟": [
+        "bøje",
+        "flyde",
+        "livredder",
+        "redde",
+        "redningskrans",
+        "sikkerhed"
     ],
     "⛵️": [
         "båd",
@@ -18433,6 +22837,12 @@
         "legetøjsdrage",
         "svæve"
     ],
+    "🔫": [
+        "pistol",
+        "revolver",
+        "vandpistol",
+        "våben"
+    ],
     "🎱": [
         "billard",
         "billardkugle",
@@ -18448,14 +22858,6 @@
         "magi",
         "troldmand",
         "tryllestav"
-    ],
-    "🧿": [
-        "det onde øje",
-        "lykkebringer",
-        "nazar",
-        "nazaramulet",
-        "perle",
-        "talisman"
     ],
     "🎮️": [
         "controller",
@@ -18492,6 +22894,14 @@
         "fejring",
         "fest",
         "piñata"
+    ],
+    "🪩": [
+        "dans",
+        "disko",
+        "diskokugle",
+        "fest",
+        "glitter",
+        "spejlkugle"
     ],
     "🪆": [
         "babusjka",
@@ -19012,6 +23422,11 @@
         "batteri",
         "opladet",
         "opladning"
+    ],
+    "🪫": [
+        "elektronik",
+        "lav energi",
+        "lavt batteriniveau"
     ],
     "🔌": [
         "elektricitet",
@@ -19570,10 +23985,9 @@
         "sværd",
         "våben"
     ],
-    "🔫": [
-        "pistol",
-        "revolver",
-        "våben"
+    "💣️": [
+        "bombe",
+        "følelse"
     ],
     "🪃": [
         "Australien",
@@ -19734,7 +24148,12 @@
         "sprøjte"
     ],
     "🩸": [
-        "bloddråbe"
+        "blod",
+        "bloddonor",
+        "bloddråbe",
+        "medicin",
+        "menstruation",
+        "sår"
     ],
     "💊": [
         "læge",
@@ -19744,8 +24163,29 @@
     "🩹": [
         "plaster"
     ],
+    "🩼": [
+        "handicap",
+        "hjælp til førlighed",
+        "invaliditet",
+        "krykke",
+        "skadet",
+        "stok"
+    ],
     "🩺": [
+        "doktor",
+        "hjerte",
+        "læge",
+        "medicin",
         "stetoskop"
+    ],
+    "🩻": [
+        "knogler",
+        "læge",
+        "medicinsk",
+        "røntgen",
+        "røntgenbillede",
+        "skelet",
+        "undersøgelse"
     ],
     "🚪": [
         "dør",
@@ -19867,6 +24307,14 @@
         "sæbeskål",
         "vaske"
     ],
+    "🫧": [
+        "bobler",
+        "bøvs",
+        "ren",
+        "sæbe",
+        "under vand",
+        "undervands"
+    ],
     "🪥": [
         "badeværelse",
         "børste",
@@ -19917,6 +24365,23 @@
         "død",
         "urne"
     ],
+    "🧿": [
+        "det onde øje",
+        "lykkebringer",
+        "nazar",
+        "nazaramulet",
+        "perle",
+        "talisman"
+    ],
+    "🪬": [
+        "Fatima",
+        "Maria",
+        "Mirjam",
+        "amulet",
+        "beskyttelse",
+        "hamsa",
+        "hånd"
+    ],
     "🗿": [
         "Moai",
         "Moai-statue",
@@ -19931,6 +24396,14 @@
         "protestskilt",
         "skilt",
         "strejke"
+    ],
+    "🪪": [
+        "autorisation",
+        "brugeroplysninger",
+        "id",
+        "legitimationskort",
+        "sikkerhed",
+        "tilladelse"
     ],
     "🏧": [
         "dankortautomat",
@@ -20126,6 +24599,9 @@
         "pil",
         "pil mod venstre og højre"
     ],
+    "↮": [
+        "venstre-/højrepil og skråstreg"
+    ],
     "↩️": [
         "pil",
         "pil mod højre med sving til venstre"
@@ -20307,6 +24783,7 @@
     ],
     "🔀": [
         "bland sange",
+        "bland sange-knap",
         "krydsende pile",
         "mod højre",
         "pile for bland"
@@ -20486,11 +24963,18 @@
         "−"
     ],
     "➗": [
+        "dividere",
         "division",
         "divisionstegn",
         "matematik",
         "tegn",
         "÷"
+    ],
+    "🟰": [
+        "fedt lighedstegn",
+        "lighed",
+        "lighedstegn",
+        "matematik"
     ],
     "♾️": [
         "ubegrænset",
@@ -20515,6 +24999,7 @@
     ],
     "❓️": [
         "?",
+        "rødt spørgsmålstegn",
         "spørgsmål",
         "spørgsmålstegn",
         "tegn",
@@ -20535,6 +25020,8 @@
         "udråbstegn"
     ],
     "❗️": [
+        "!",
+        "rødt udråbstegn",
         "tegnsætning",
         "udråbstegn"
     ],
@@ -20933,10 +25420,14 @@
         "geometrisk"
     ],
     "🟣": [
-        "lille cirkel"
+        "cirkel",
+        "lilla",
+        "lilla cirkel"
     ],
     "🟤": [
-        "brun cirkel"
+        "brun",
+        "brun cirkel",
+        "cirkel"
     ],
     "⚫️": [
         "cirkel",
@@ -22163,6 +26654,182 @@
     "🏴󠁧󠁢󠁷󠁬󠁳󠁿": [
         "flag",
         "flag: Wales"
+    ],
+    "¤": [
+        "ukendt valuta"
+    ],
+    "¢": [
+        "cent"
+    ],
+    "$": [
+        "AUD",
+        "CAD",
+        "HKD",
+        "NZD",
+        "USD",
+        "dollar",
+        "penge"
+    ],
+    "£": [
+        "EGP",
+        "GBP",
+        "pund",
+        "sterling",
+        "valuta"
+    ],
+    "¥": [
+        "CNY",
+        "JPY",
+        "valuta",
+        "yen",
+        "yuan"
+    ],
+    "֏": [
+        "armensk dram"
+    ],
+    "؋": [
+        "afghansk afghani"
+    ],
+    "৳": [
+        "bangladeshisk taka"
+    ],
+    "฿": [
+        "thailandsk baht"
+    ],
+    "៛": [
+        "cambodjansk riel"
+    ],
+    "₡": [
+        "costaricansk colón"
+    ],
+    "₢": [
+        "cruzeiro"
+    ],
+    "₣": [
+        "franske franc"
+    ],
+    "₤": [
+        "lira"
+    ],
+    "₥": [
+        "mil",
+        "mill"
+    ],
+    "₦": [
+        "nigeriansk naira"
+    ],
+    "₧": [
+        "Spansk peseta"
+    ],
+    "₩": [
+        "KPW",
+        "KRW",
+        "korea",
+        "nordkorea",
+        "sydkorea",
+        "won"
+    ],
+    "₪": [
+        "ny israelsk shekel"
+    ],
+    "₫": [
+        "vietnamesisk dong"
+    ],
+    "€": [
+        "EUR",
+        "euro",
+        "valuta"
+    ],
+    "₭": [
+        "laotisk kip"
+    ],
+    "₮": [
+        "mongolsk tugrik"
+    ],
+    "₰": [
+        "tysk pfennig"
+    ],
+    "₱": [
+        "peso"
+    ],
+    "₲": [
+        "paraguaysk guarani"
+    ],
+    "₳": [
+        "austral"
+    ],
+    "₴": [
+        "ukrainsk grynia"
+    ],
+    "₵": [
+        "ghanesisk cedi"
+    ],
+    "₶": [
+        "livre tournois"
+    ],
+    "₷": [
+        "spesmilo"
+    ],
+    "₸": [
+        "kasakhisk tenge"
+    ],
+    "₹": [
+        "indisk rupee",
+        "rupee",
+        "valuta"
+    ],
+    "₺": [
+        "tyrkisk lira"
+    ],
+    "₼": [
+        "aserbajdsjansk manat"
+    ],
+    "₽": [
+        "rubel",
+        "valuta"
+    ],
+    "₾": [
+        "georgisk lari"
+    ],
+    "₿": [
+        "BTC",
+        "bitcoin"
+    ],
+    "₨": [
+        "rupee"
+    ],
+    "﷼": [
+        "rial"
+    ],
+    "¹": [
+        "en",
+        "et",
+        "ettal",
+        "hævet",
+        "hævet ettal"
+    ],
+    "²": [
+        "anden potens",
+        "hævet",
+        "hævet total",
+        "kvadrat",
+        "to",
+        "total"
+    ],
+    "³": [
+        "hævet",
+        "hævet tretal",
+        "kubik",
+        "tre",
+        "tredje potens",
+        "tretal"
+    ],
+    "µ": [
+        "mikrosymbol",
+        "mikrotegn",
+        "my",
+        "my-symbol",
+        "mål"
     ],
     "🏻": [
         "hudfarve",

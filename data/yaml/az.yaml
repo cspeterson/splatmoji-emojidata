@@ -1,3 +1,1114 @@
+‾:
+  - cizgi
+  - üstü cizgili
+  - üzəri xətli
+_:
+  - alt tire
+  - alt xətt
+  - aşağı xətt
+  - tire
+  - xətt
+'-':
+  - defis
+  - defis-çıxma
+  - tire
+  - çıxma
+‐:
+  - defis
+  - tire
+–:
+  - en
+  - qısa tire
+  - tire
+—:
+  - em
+  - tire
+  - uzun tire
+―:
+  - tire
+  - xətt
+  - üfüqi xətt
+・:
+  - interpunkt
+  - katakana
+  - katakana orta nöqtə
+  - nöqtələr
+  - orta nöqtə
+',':
+  - vergül
+  - vergül durğusu
+،:
+  - vergül
+  - ərəb
+  - ərəb vergülü
+、:
+  - ideografik
+  - ideoqrafik vergül
+  - vergül
+;:
+  - nöqtəli vergül
+؛:
+  - nöqtəli vergül
+  - ərəb
+  - ərəb nöqtəli vergülü
+':':
+  - iki nöqtə
+  - iki nöqtə durğusu
+'!':
+  - nida
+  - nida işarəsi
+  - nida nişanı
+  - partlayış
+¡:
+  - nida
+  - nida durğusu
+  - nida işarəsi
+  - partlayış
+  - tərs
+  - tərs nida işarəsi
+'?':
+  - sual
+  - sual işarəsi
+¿:
+  - sual
+  - sual işarəsi
+  - tərs
+  - tərs sual işarəsi
+؟:
+  - sual
+  - sual işarəsi
+  - ərəb
+  - ərəb sual işarəsi
+‽:
+  - interabanq
+  - interrobanq
+.:
+  - nöqtə
+  - tam durğu
+…:
+  - ellips
+  - nöqtələr
+  - üç nöqtə
+。:
+  - ideoqrafik
+  - ideoqrafik nöqtə
+  - nöqtə
+  - tam durğu
+·:
+  - interpunkt
+  - middot
+  - nöqtə
+  - orta
+  - orta nöqtə
+"'":
+  - apostrof
+  - dırnaq
+  - tipoqraf apostrofu
+  - tək dırnaq
+‘:
+  - apostrof
+  - dırnaq
+  - smart dırnaq
+  - sol apostrof
+  - tək dırnaq
+’:
+  - apostrof
+  - dırnaq
+  - sağ apostrof
+  - smart dırnaq
+  - tək dırnaq
+‚:
+  - apostrof
+  - aşağı dırnaq
+  - aşağı sağ apostrof
+  - dırnaq
+“:
+  - dırnaq
+  - ikiqat dırnaq
+  - sitat
+  - smart sitat
+  - sol sitat işarəsi
+”:
+  - dırnaq
+  - ikiqat dırnaq
+  - sağ sitat işarəsi
+  - sitat
+  - smart sitat
+„:
+  - aşağı sağ sitat işarəsi
+  - aşağı sitat
+  - dırnaq
+  - ikiqat dırnaq
+  - sitat v smart sitat
+«:
+  - bucaq
+  - düzbucaqlı mötərizə
+  - dırnaq işarəsi
+  - redaktə kursoru
+  - sol
+  - sol dırnaq işarəsi
+  - şevron
+»:
+  - bucaq
+  - düzbucaqlı mötərizə
+  - dırnaq işarəsi
+  - redaktə kursoru
+  - sağ
+  - sağ dırnaq işarəsi
+  - şevron
+):
+  - mötərizə
+  - qapanan mötərizə
+  - qövsvari mötərizə
+'[':
+  - açılan kvadrat mötərizə
+  - kvadrat mötərizə
+  - mötərizə
+']':
+  - kvadrat mötərizə
+  - mötərizə
+  - qapanan kvadrat mötərizə
+'{':
+  - açılan buruq mötərizə
+  - buruq mötərizə
+  - fiqurlu mötərizə
+'}':
+  - buruq mötərizə
+  - fiqurlu mötərizə
+  - qapanan buruq mötərizə
+〈:
+  - açılan bucaqlı mötərizə
+  - brilliant mötərizə
+  - bucaqlı mötərizə
+  - mötərizə
+  - oxlu mötərizə
+  - şevron
+〉:
+  - brilliant mötərizə
+  - bucaqlı mötərizə
+  - mötərizə
+  - oxlu mötərizə
+  - qapanan bucaqlı mötərizə
+  - şevron
+《:
+  - açılan ikiqat bucaqlı mötərizə
+  - ikiqat bucaqlı mötərizə
+  - mötərizə
+》:
+  - ikiqat bucaqlı mötərizə
+  - mötərizə
+  - qapanan ikiqat bucaqlı mötərizə
+「:
+  - açılan künc mötərizəsi
+  - mötərizəsi
+」:
+  - mötərizə
+  - qapanan künc mötərizəsi
+『:
+  - açılan boş künc mötərizəsi
+  - mötərizə
+』:
+  - mötərizə
+  - qapanan boş künc mötərizəsi
+【:
+  - açılan qara linza mötərizəsi
+  - linza mötərizəsi
+  - mötərizə
+】:
+  - linza mötərizəsi
+  - mötərizə
+  - qapanan qara linza mötərizəsi
+〔:
+  - açılan kronşteyn mötərizə
+  - kronşteyn mötərizə
+  - mötərizə
+〕:
+  - kronşteyn mötərizə
+  - mötərizə
+  - qapanan kronşteyn mötərizə
+〖:
+  - açılan boş linza mötərizəsi
+  - boş linza mötərizəsi
+  - mötərizə
+〗:
+  - boş linza mötərizəsi
+  - mötərizə
+  - qapanan boş linza mötərizəsi
+§:
+  - bölmə
+  - bölmə işarəsi
+  - hissə
+  - paraqraf
+  - paraqraf işarəsi
+¶:
+  - absaz işarəsi
+  - alinea
+  - parafir
+  - paraqraf
+  - paraqraf nişanı
+'@':
+  - ampersat
+  - arobaza
+  - arroba
+  - strudel
+  - ticari ət
+  - ət işarəsi
+  - ət nişanı
+'*️':
+  - asterisk
+  - coker
+  - ulduz
+/:
+  - kəsr
+  - maili
+  - maili xətt
+  - sleş
+  - solidus
+  - ştrix
+\:
+  - geri sleş
+  - kəsr
+  - tərs solidus
+'&':
+  - ampersand
+'#️':
+  - funt
+  - heş
+  - heş işarəsi
+  - heşteq
+  - lb
+  - nömrə
+'%':
+  - faiz
+‰:
+  - mində bir
+  - promil
+†:
+  - kiçik xaç
+  - obelisk
+  - xəncər
+  - xəncər-xaç işarəsi
+‡:
+  - ikiqat
+  - ikixaçlı xəncər işarəsi
+  - kiçik xaç
+  - obelisk
+  - xəncər
+•:
+  - böyük nöqtə
+  - nöqtə
+‧:
+  - defis
+  - keçid nöqtəsi
+  - nöqtə
+  - tire
+′:
+  - ştrix
+  - ştrix işarəsi
+″:
+  - ikiqat ştrix
+  - ştrix
+‴:
+  - üçqat ştrix
+  - ştrix
+‸:
+  - açılan dırnaq işarəsi
+  - bağlanan dırnaq işarəsi
+※:
+  - kontrol işarəsi
+⁂:
+  - asterizm
+  - ulduz
+  - üç
+'`':
+  - ağır
+  - ağır vurğu
+  - ton
+  - vurğu
+´:
+  - iti
+  - iti vurğu
+  - ton
+  - vurğu
+^:
+  - güc
+  - papaq
+  - paz
+  - qoyma işarəsi
+  - sirkumfleks
+  - vurğu
+  - şevron
+¨:
+  - dierez
+  - trema
+  - umlaut
+°:
+  - dərəcə
+  - isbat
+  - saat
+℗:
+  - müəllif hüququ
+  - səs
+  - səs yazma üzrə müəllif hüququ
+  - yazma
+←:
+  - ox
+  - sol
+  - sola yönəlmiş ox
+↚:
+  - sol istiqamətdə ox xətti
+→:
+  - ox
+  - sağ
+  - sağa yönəlmiş ox
+↛:
+  - sağ istiqamətində ox xətti
+↑:
+  - ox
+  - yuxarı
+  - yuxarıya yönəlmiş ox
+↓:
+  - aşağı
+  - aşağı yönəlmiş ox
+  - ox
+↜:
+  - sol istiqamətində dalğalı ox
+↝:
+  - sağ istiqamətində dalğalı ox
+↞:
+  - sola doğru ikibaşlı ox
+↟:
+  - yuxarıya doğru ikibaşlı ox
+↠:
+  - sağa doğru ikibaşlı ox
+↡:
+  - aşağıya doğru ikibaşlı ox
+↢:
+  - sola doğru ox ucluğu
+↣:
+  - sağa doğru ox ucluğu
+↤:
+  - xəttdən sola ox
+↥:
+  - xəttdən yuxarı ox
+↦:
+  - xəttdən sağa ox
+↧:
+  - xəttdən aşağı ox
+↨:
+  - yuxarı-aşağı ucluqlu ox
+↫:
+  - halqa ilə sola doğru ox
+↬:
+  - halqa ilə sağa doğru ox
+↭:
+  - sola-sağa dalğalı ox
+↯:
+  - aşağıya doğru ziqzaqşəkilli ox
+  - ziqzaq
+↰:
+  - yuxarı sol istiqamətli ox ucu
+↱:
+  - yuxarı sağ istiqamətli ox ucu
+↲:
+  - aşağı sol istiqamətli ox ucu
+↳:
+  - aşağı sağ istiqamətli ox ucu
+↴:
+  - sağa doğru aşağı ox küncü
+↵:
+  - aşağı sola doğru ox küncü
+↶:
+  - saat əqrəbinin əksi istiqamətində yuxarıya doğru qövsşəkilli ox
+↷:
+  - saat əqrəbi istiqamətində yuxarıya doğru qövsşəkilli ox
+↸:
+  - şimal qərb istiqamətində uzun xəttli ox
+↹:
+  - sağ ox xətti üzərində sol ox xətti
+↺:
+  - saat əqrəbinin əksi istiqamətində açıq dairəvi ox
+↻:
+  - saat əqrəbi istiqamətində açıq dairəvi ox
+↼:
+  - dişək
+  - sola doğru yuxarı qarmaq dişəyi
+↽:
+  - sola doğru aşağı qarmaq dişəyi
+↾:
+  - dişək
+  - yuxarı sağa doğru qarmaq dişəyi
+↿:
+  - dişək
+  - yuxarı sola doğru qarmaq dişəyi
+⇀:
+  - dişək
+  - sağa doğru yuxarı qarmaq dişəyi
+⇁:
+  - dişək
+  - sağa doğru aşağı qarmaq dişəyi
+⇂:
+  - aşağıya doğru sağa qarmaq dişəyi
+  - dişək
+⇃:
+  - aşağıya doğru sola qarmaq dişəyi
+  - dişək
+⇄:
+  - sola doğru olan oxun üzərində sağa doğru ox
+⇅:
+  - aşağı
+  - ox
+  - yuxarı
+  - yuxarı və aşağı yönəlmiş oxlar
+⇆:
+  - ox
+  - sağ
+  - sağa yönəlmiş oxlar üzəri sola yönəlmiş
+  - sağa yönəlmiş oxlar üzərindən sola yönəlmiş
+  - sol
+⇇:
+  - sola doğru cüt ox
+⇈:
+  - yuxarıya doğru cüt ox
+⇉:
+  - sağa doğru cüt ox
+⇊:
+  - aşağıya doğru cüt ox
+⇋:
+  - sağa doğru olan qarmağın üzərində sola doğru qarmaq
+⇌:
+  - sola doğru olan qarmağın üzərində sağa doğru qarmaq
+⇐:
+  - sola doğru ikili ox
+⇍:
+  - üzəri xəttli sola doğru ikili ox
+⇑:
+  - yuxarıya doğru ikili ox
+⇒:
+  - sağa doğru ikili ox
+⇏:
+  - üzəri xəttli sağa doğru ikili ox
+⇓:
+  - aşağıya doğru ikili ox
+⇔:
+  - sol-sağ istiqamətli ikili ox
+⇎:
+  - üzəri xəttli sol-sağ istiqamətli ikili ox
+⇖:
+  - şimal qərb istiqamətli ikili ox
+⇗:
+  - şimal şərq istiqamətli ikili ox
+⇘:
+  - cənub şərq istiqamətli ikili ox
+⇙:
+  - cənub qərb istiqamətli ikili ox
+⇚:
+  - sola doğru üçlü ox
+⇛:
+  - sağa doğru üçlü ox
+⇜:
+  - sola doğru kərtikli ox
+⇝:
+  - sağa doğru kərtikli ox
+⇞:
+  - yuxarı ox üzərində ikili xətt
+⇟:
+  - aşağı ox üzərində ikili xətt
+⇠:
+  - sola doğru tireli ox
+⇡:
+  - yuxarıya doğru tireli ox
+⇢:
+  - sağa doğru tireli ox
+⇣:
+  - aşağıya doğru tireli ox
+⇤:
+  - soldakı xəttə doğru ox
+⇥:
+  - sağdakı xəttə doğru ox
+⇦:
+  - sola doğru içiboş ox
+⇧:
+  - yuxarıya doğru içiboş ox
+⇨:
+  - sağa doğru içiboş ox
+⇩:
+  - aşağıya doğru içiboş ox
+⇪:
+  - xəttdən yuxarıya doğru içiboş ox
+⇵:
+  - yuxarı oxun solunda aşağı ox
+∀:
+  - hamısı
+  - istənilən
+  - universal
+  - verilən
+  - çevrilmiş A
+∂:
+  - differensial
+  - qismən differensial
+∃:
+  - çevrilmiş E
+∅:
+  - boş çoxluq
+  - riyaziyyat
+∆:
+  - delta
+  - üçbucaq
+∇:
+  - nabla
+  - üçbucaq
+∈:
+  - daxildir
+  - dəst
+  - element
+  - elementi
+  - üzvlük
+∉:
+  - element
+  - çoxluğa daxil deyil
+∋:
+  - element
+  - çoxluğa daxildir
+∎:
+  - son sübut
+∏:
+  - məhsul
+  - məntiq
+  - n-ar məhsul
+∑:
+  - n-ar cəm
+  - riyaziyyat
++:
+  - toplama
+  - toplama işarəsi
+  - əlavə et
+±:
+  - toplama-çıxma
+÷:
+  - bölmə
+  - bölmə işarəsi
+  - bölmək
+  - kiçik xaç
+×:
+  - dəfə
+  - vurma
+  - vurma işarəsi
+  - vurma şarəsi
+  - vurmaq
+<:
+  - açılan teq
+  - kiçik işarəsi
+  - teq
+≮:
+  - bərabərsizlik
+  - kiçik deyil
+  - riyaziyyat
+'=':
+  - bərabər
+  - bərabər olmaq
+≠:
+  - bərabərsizlik
+  - qeyri-bərabər
+'>':
+  - böyük işarəsi
+  - qapanan teq
+  - teq
+≯:
+  - böyük deyil
+  - bərabərsizlik
+  - riyaziyyat
+¬:
+  - inkar
+  - yox
+'|':
+  - şaquli xətt
+  - şeffer xətti
+'~':
+  - tilda
+−:
+  - minus
+  - çıxma
+  - çıxma işarəsi
+⁻:
+  - çıxma
+  - üstdə yazılan
+  - üstdə çıxma
+∓:
+  - çıx-yaxud-üstəgəl
+  - üstəgəl-çıx
+∕:
+  - bölmə sleşi
+  - sleş
+  - xətt
+  - çəpəki xətt
+⁄:
+  - maili xətt
+  - nisbət sleşi
+  - xətt
+∗:
+  - ulduz
+  - ulduz operatoru
+∘:
+  - dərəcə operatoru
+∙:
+  - böyük nöqtə operatoru
+  - operator
+√:
+  - irrasional
+  - kvadrat
+  - kök
+  - kökaltı
+  - radikal
+  - əsas
+∝:
+  - mütənasib
+  - mütənasiblik
+∞:
+  - sonsuzluq
+  - sonsuzluq işarəsi
+∟:
+  - bucaq
+  - riyaziyyat
+  - sağ bucaq
+∠:
+  - bucaq
+  - iti
+∣:
+  - bölücü
+  - bölür
+∥:
+  - paralel
+∧:
+  - ac
+  - atque
+  - məntiqi və
+  - paz
+∩:
+  - dəst
+  - kəsişmə
+∪:
+  - birləşmə
+  - cəm
+  - dəst
+∫:
+  - hesablama
+  - inteqral
+∬:
+  - hesablama
+  - ikiqat inteqral
+∮:
+  - kontur inteqralı
+∴:
+  - buna görə də
+  - məntiq
+∵:
+  - məntiq
+  - çünki
+∶:
+  - əmsal
+∷:
+  - nisbət
+  - uyğunluq
+∼:
+  - operator
+  - tilda operatoru
+∽:
+  - tilda
+  - tərs tilda
+∾:
+  - çevrilmiş tənbəl s
+≃:
+  - asimptot
+  - asimptotik bərabər
+  - riyaziyyat
+≅:
+  - bərabərlik
+  - izomorfizm
+  - konqruentlik
+  - riyaziyyat
+  - təqribən bərabər
+≈:
+  - ortalama
+  - təqribən
+  - təxminən bərabər
+≌:
+  - bərabərlik
+  - riyaziyyat
+  - tamamilə bərabər
+≒:
+  - təqribən şəklə bərabər
+≖:
+  - bərabər çevrəyə al
+  - bərabərlik
+  - riyaziyyat
+≡:
+  - bərabər
+  - bərabərdir
+  - dəqiq
+  - üçqat
+≣:
+  - bərabərlik
+  - riyaziyyat
+  - tam ekvivalent
+≤:
+  - bərabər
+  - bərabərsizlik
+  - kiçik
+  - kiçik və ya bərabər
+≥:
+  - böyük
+  - böyük və ya bərabər
+  - bərabər
+  - bərabərsizlik
+≦:
+  - bərabərdən kiçik
+  - bərabərsizlik
+  - riyaziyyat
+≧:
+  - bərabərdən böyük
+  - bərabərsizlik
+  - riyaziyyat
+≪:
+  - '...çox az'
+  - bərabərsizlik
+  - riyaziyyat
+≫:
+  - '...çox artıq'
+  - bərabərsizlik
+  - riyaziyyat
+≬:
+  - arasında
+≳:
+  - bərabərsizlik
+  - ekvivalentindən böyükdür
+  - riyaziyyat
+≺:
+  - qabaqlayır
+  - riyaziyyat
+  - çoxluq operatoru
+≻:
+  - dalınca gəlir
+  - riyaziyyat
+  - çoxluq operatoru
+⊁:
+  - dalınca gəlmir
+  - riyaziyyat
+  - çoxluq operatoru
+⊂:
+  - altçoxluq
+  - altçoxluğu
+  - dəst
+⊃:
+  - riyaziyyat
+  - çoxluq operatoru
+  - üst çoxluq
+⊆:
+  - alt çoxluğa bərabər
+⊇:
+  - bərabərlik
+  - riyaziyyat
+  - üst çoxluğa bərabər
+⊕:
+  - çevrələnmiş üstəgəl
+  - üstəgəl
+⊖:
+  - morfoloji daralma
+  - simmetrik fərq
+  - çevrələnmiş çıxma
+⊗:
+  - birbaşa cəm
+  - məhsul
+  - tenzor
+⊘:
+  - bölməyə bənzər
+  - riyaziyyat
+  - çevrələnmiş bölmə sleşi
+⊙:
+  - XNOR
+  - operator
+  - çevrələnmiş nöqtə operatoru
+⊚:
+  - çevrələnmiş halqa operatoru
+⊛:
+  - operator
+  - ulduzcuq
+  - çevrələnmiş ulduzcuq operatoru
+⊞:
+  - kvadrat içində üstəgəl
+  - riyaziyyat
+  - əlavəetmə kimi
+⊟:
+  - azaltma kimi
+  - kvadrat içində çıxma
+  - riyaziyyat
+⊥:
+  - eet
+  - falsum
+  - tack
+  - yanlış element
+⊮:
+  - məcbur etmir
+⊰:
+  - ondan əvvəl dayanır
+  - riyaziyyat
+  - çoxluq operatoru
+⊱:
+  - ondan sonra dayanır
+  - riyaziyyat
+  - çoxluq operatoru
+⋭:
+  - normal qrupaltı bərabəri kimi ehtiva etmir
+  - qruplar nəzəriyyəsi
+  - riyaziyyat
+⊶:
+  - orijinal
+⊹:
+  - kvadrat konyuqat matris
+  - kvadrat matris
+  - riyaziyyat
+  - özü qoşulan matris
+⊿:
+  - düzbucaqlı üçbucaq
+  - riyaziyyat
+⋁:
+  - dizyunksiya
+  - məntiq
+  - n-ar məntiqi və ya
+⋂:
+  - kəsişmə
+  - mathematics
+  - n-ar kəsişmə
+  - çoxluq operatoru
+⋃:
+  - birləşmə
+  - n-ar birləşmə
+  - riyaziyyat
+  - çoxluq operatoru
+⋅:
+  - nöqtə operatoru
+  - operator
+⋆:
+  - operator
+  - ulduz-operator
+⋈:
+  - binar-operator
+  - kəpənək
+  - təbii qoşulma
+⋒:
+  - ikiqat kəsişmə
+  - kəsişmə
+  - riyaziyyat
+  - çoxluq operatoru
+⋘:
+  - bərabərsizlik
+  - riyaziyyat
+  - çox-çox az
+⋙:
+  - bərabərsizlik
+  - riyaziyyat
+  - çox-çox artıq
+⋮:
+  - riyaziyyat
+  - üçnöqtə
+  - şaquli üç nöqtə
+⋯:
+  - üfüqi orta xətt üç nöqtəsi
+  - üç nöqtə
+⋰:
+  - diaqonal üzrə yuxarıya üç nöqtə
+  - riyaziyyat
+  - üç nöqtə
+⋱:
+  - diaqonal üzrə aşağıya üç nöqtə
+  - riyaziyyat
+  - üç nöqtə
+■:
+  - dolu kvadrat
+□:
+  - boş kvadrat
+▢:
+  - küncləri girdə boş kvadrat
+▣:
+  - içində dolu kvadrat olan boş kvadrat
+▤:
+  - üfüqi doldurulan kvadrat
+▥:
+  - şaquli doldurulan kvadrat
+▦:
+  - ortoqonal çarpaz doldurulan kvadrat
+▧:
+  - yuxarı solu aşağı sağı doldurulan kvadrat
+▨:
+  - yuxarı sağı aşağı solu doldurulan kvadrat
+▩:
+  - diaqonal üzrə çarpaz doldurulan kvadrat
+▬:
+  - dolu düzbucaqlı
+▭:
+  - boş düzbucaqlı
+▮:
+  - dolu şaquli düzbucaqlı
+▰:
+  - dolu paraleloqram
+▲:
+  - dolu
+  - ox
+  - yuxarı
+  - yuxarı yönəlmiş dolu üçbucaq
+  - üçbucaq
+△:
+  - ucu yuxarı boş üçbucaq
+▴:
+  - ucu yuxarı dolu kiçik üçbucaq
+▵:
+  - ucu yuxarı boş kiçik üçbucaq
+▷:
+  - ucu sağa boş üçbucaq
+▸:
+  - ucu sağa dolu kiçik üçbucaq
+▹:
+  - ucu sağa boş kiçik üçbucaq
+►:
+  - ucu sağa dolu istiqamətləndirici
+▻:
+  - ucu sağa boş istiqamətləndirici
+▼:
+  - aşağı
+  - aşağı yönəlmiş dolu üçbucaq
+  - dolu
+  - ox
+  - üçbucaq
+▽:
+  - ucu aşağı boş üçbucaq
+▾:
+  - ucu aşağı dolu kiçik üçbucaq
+▿:
+  - ucu aşağı boş kiçik üçbucaq
+◁:
+  - ucu sola boş üçbucaq
+◂:
+  - ucu sola dolu kiçik üçbucaq
+◃:
+  - ucu sola boş kiçik üçbucaq
+◄:
+  - ucu sola dolu istiqamətləndirici
+◅:
+  - ucu sola boş istiqamətləndirici
+◆:
+  - dolu romb
+◇:
+  - boş romb
+◈:
+  - içində dolu romb olan boş romb
+◉:
+  - balıq gözü
+  - dolu konsentrik dairələr
+  - içində dolu dairə olan boş dairə
+  - çala
+  - çevrələnmiş nöqtə
+◊:
+  - romb
+  - rombşəkilli fiqur
+○:
+  - boş dairə
+  - dairə
+  - halqa
+◌:
+  - nöqtələrdən ibarət çevrə
+◍:
+  - şaquli doldurulan dairə
+◎:
+  - hədəf
+  - konsentrik dairələr
+  - qoşa dairə
+●:
+  - dairə
+  - dolu dairə
+◐:
+  - sol yarısı dolu dairə
+◑:
+  - sağ yarısı dolu dairə
+◒:
+  - aşağı yarısı dolu dairə
+◓:
+  - yuxarı yarısı dolu dairə
+◔:
+  - yuxarı sağ kvadrantı dolu dairə
+◕:
+  - yuxarı sol kvadrantı xaric tamamilə dolu dairə
+◖:
+  - sol yarısı dolmuş dairə
+◗:
+  - sağ yarısı dolmuş dairə
+◘:
+  - tərsinə marker
+◙:
+  - içində boş dairə olan dolu kvadrat
+  - tərsinə boş dairə
+◜:
+  - yuxarı sol kvadrant qövsü
+◝:
+  - yuxarı sağ kvadrant qövsü
+◞:
+  - aşağı sağ kvadrant qövsü
+◟:
+  - aşağı sol kvadrant qövsü
+◠:
+  - yuxarı yarımdairə
+◡:
+  - aşağı yarımdairə
+◢:
+  - aşağı sağa yönəlmiş dolu üçbucaq
+◣:
+  - aşağı sola yönəlmiş dolu üçbucaq
+◤:
+  - yuxarı sola yönəlmiş dolu üçbucaq
+◥:
+  - yuxarı sağa yönəlmiş dolu üçbucaq
+◦:
+  - boş marker
+◯:
+  - böyük boş dairə
+  - dairə
+  - halqa
+◳:
+  - boş kvadratın yuxarı sağ kvadrantı
+◷:
+  - yuxarı sağ kvadrantı olan boş dairə
+◿:
+  - aşağı sağa yönəlmiş üçbucaq
+♪:
+  - musiqi
+  - not
+  - səkkizinci
+  - səkkizinci not
+⨧:
+  - üstəgəl altında iki
+⨯:
+  - vektorların kəsişmə məhsulu
+⨼:
+  - daxili məhsul
+⩣:
+  - məntiqi və ya qoşa alt xətt
+⩽:
+  - maili bərabərdən kiçik
+⪍:
+  - təqribən bərabərdən kiçik
+⪚:
+  - bərabərsizlik
+  - qoşa xəttli bərabərdən böyük
+  - riyaziyyat
+⪺:
+  - təqribən bərabərdən geri qalır
+♭:
+  - bemol
+  - musiqi
+  - not
+♯:
+  - diez
+  - musiqi
+  - not
 😀:
   - gülmək
   - gülən üz
@@ -56,6 +1167,12 @@
   - baş-aşağı
   - başı-aşağı üz
   - üz
+🫠:
+  - həll
+  - maye
+  - yox olmaq
+  - əridir
+  - əriyən üz
 😉:
   - göz vuran üz
   - göz vurmaq
@@ -169,6 +1286,19 @@
 🤭:
   - ağzını əli ilə örtmüş üz
   - vay
+🫢:
+  - açıq gözlü üz və ağzı tutmuş əl
+  - heyrət
+  - inamsızlıq
+  - qorxu
+  - qorxuram
+  - sürpriz
+  - xəcalətli
+🫣:
+  - baxan gözlə üz
+  - baxış
+  - biip
+  - əsir
 🤫:
   - sakit
   - tərpənən
@@ -177,6 +1307,13 @@
   - düşünür
   - düşünən üz
   - üz
+🫡:
+  - bəli
+  - günəşli
+  - qoşunlar
+  - salam
+  - salamlayan üz
+  - tamam
 🤐:
   - ağzı bağlanmış üz
   - ağız
@@ -203,6 +1340,17 @@
   - sakit
   - səssiz
   - üz
+🫥:
+  - depressiya
+  - gizlət
+  - görünməz
+  - introvert
+  - nöqtəli xətli üz
+  - yox olmaq
+😶‍🌫:
+  - bulud
+  - buludlu baş
+  - buludlu üz
 😏:
   - özündən razı gülümsəmək
   - özündən razı gülümsəyən üz
@@ -221,6 +1369,11 @@
   - üz
   - üz-gözünü turşudan üz
   - üz-gözünü turşutmaq
+😮‍💨:
+  - ciyərəçəkmə
+  - nəfəs alan üz
+  - nəfəsalma
+  - pıçıldama
 🤥:
   - adam
   - yalançı
@@ -308,6 +1461,12 @@
   - başgicəllənmə
   - başıgicəllənən üz
   - üz
+😵‍💫:
+  - başgicəllənmə
+  - hipnozlanmış
+  - problem
+  - spiral
+  - spiral gözlü üz
 🤯:
   - partlayan baş
   - şoka düşmüş
@@ -347,6 +1506,12 @@
   - çaşqın
   - çaşqın üz
   - üz
+🫤:
+  - diaqonal ağızlı üz
+  - meh
+  - məyus
+  - qeyri-əmin
+  - skeptik
 😟:
   - narahat
   - narahat üz
@@ -387,6 +1552,13 @@
   - nəm gözlər
   - yalvaran üz
   - yalvarış
+🥹:
+  - ağlamaq
+  - dolmuş gözləri olan üz
+  - hirsli
+  - müqavimət
+  - qürurlu
+  - qəmli
 😦:
   - açıq
   - ağzı açıq qaşqabaqlı üz
@@ -642,13 +1814,6 @@
   - meymun
   - pis danışmıram
   - qadağa
-💋:
-  - dodaq
-  - işarə
-  - romantika
-  - öpüş
-  - öpüş işarəsi
-  - ürək
 💌:
   - məktub
   - poçt
@@ -706,6 +1871,19 @@
   - sındırılmış
   - sınmış ürək
   - ürək
+❤‍🔥:
+  - alovlu ürək
+  - müqəddəs ürək
+  - sevgi
+  - yanmaq
+  - ürək
+  - şəhvət
+❤‍🩹:
+  - sağalma
+  - sağlam
+  - yara bandlı ürək
+  - yara bandı bağlamaq
+  - özünə gəlmək
 ❤️:
   - qırmızı ürək
   - ürək
@@ -742,6 +1920,13 @@
   - ağ
   - ağ ürək
   - ürək
+💋:
+  - dodaq
+  - işarə
+  - romantika
+  - öpüş
+  - öpüş işarəsi
+  - ürək
 💯:
   - '100'
   - 100 xal
@@ -773,9 +1958,6 @@
   - tez getmək
 🕳️:
   - deşik
-💣️:
-  - bomba
-  - komik
 💬:
   - dialoq
   - komik
@@ -1032,6 +2214,322 @@
   - vulkan salamı
   - 'vulkan salamı: tünd dəri tonu'
   - əl
+🫱:
+  - sağ
+  - sağ əl
+  - sağa
+  - əl
+🫱🏻:
+  - açıq dəri tonu
+  - sağ
+  - 'sağ əl: açıq dəri tonu'
+  - sağa
+  - əl
+🫱🏼:
+  - orta-açıq dəri tonu
+  - sağ
+  - 'sağ əl: orta-açıq dəri tonu'
+  - sağa
+  - əl
+🫱🏽:
+  - orta dəri tonu
+  - sağ
+  - 'sağ əl: orta dəri tonu'
+  - sağa
+  - əl
+🫱🏾:
+  - orta-tünd dəri tonu
+  - sağ
+  - 'sağ əl: orta-tünd dəri tonu'
+  - sağa
+  - əl
+🫱🏿:
+  - sağ
+  - 'sağ əl: tünd dəri tonu'
+  - sağa
+  - tünd dəri tonu
+  - əl
+🫱🏻‍🫲🏼:
+  - açıq dəri tonu
+  - görüşmək
+  - orta-açıq dəri tonu
+  - salam
+  - salamlaşmaq
+  - 'salamlaşmaq: açıq dəri tonu, orta-açıq dəri tonu'
+  - əl sıxmaq
+🫱🏻‍🫲🏽:
+  - açıq dəri tonu
+  - görüşmək
+  - orta dəri tonu
+  - salam
+  - salamlaşmaq
+  - 'salamlaşmaq: açıq dəri tonu, orta dəri tonu'
+  - əl sıxmaq
+🫱🏻‍🫲🏾:
+  - açıq dəri tonu
+  - görüşmək
+  - orta-tünd dəri tonu
+  - salam
+  - salamlaşmaq
+  - 'salamlaşmaq: açıq dəri tonu, orta-tünd dəri tonu'
+  - əl sıxmaq
+🫱🏻‍🫲🏿:
+  - açıq dəri tonu
+  - görüşmək
+  - salam
+  - salamlaşmaq
+  - 'salamlaşmaq: açıq dəri tonu, tünd dəri tonu'
+  - tünd dəri tonu
+  - əl sıxmaq
+🫱🏼‍🫲🏻:
+  - açıq dəri tonu
+  - görüşmək
+  - orta-açıq dəri tonu
+  - salam
+  - salamlaşmaq
+  - 'salamlaşmaq: orta-açıq dəri tonu, açıq dəri tonu'
+  - əl sıxmaq
+🫱🏼‍🫲🏽:
+  - görüşmək
+  - orta dəri tonu
+  - orta-açıq dəri tonu
+  - salam
+  - salamlaşmaq
+  - 'salamlaşmaq: orta-açıq dəri tonu, orta dəri tonu'
+  - əl sıxmaq
+🫱🏼‍🫲🏾:
+  - görüşmək
+  - orta-açıq dəri tonu
+  - orta-tünd dəri tonu
+  - salam
+  - salamlaşmaq
+  - 'salamlaşmaq: orta-açıq dəri tonu, orta-tünd dəri tonu'
+  - əl sıxmaq
+🫱🏼‍🫲🏿:
+  - görüşmək
+  - orta-açıq dəri tonu
+  - salam
+  - salamlaşmaq
+  - 'salamlaşmaq: orta-açıq dəri tonu, tünd dəri tonu'
+  - tünd dəri tonu
+  - əl sıxmaq
+🫱🏽‍🫲🏻:
+  - açıq dəri tonu
+  - görüşmək
+  - orta dəri tonu
+  - salam
+  - salamlaşmaq
+  - 'salamlaşmaq: orta dəri tonu, açıq dəri tonu'
+  - əl sıxmaq
+🫱🏽‍🫲🏼:
+  - görüşmək
+  - orta dəri tonu
+  - orta-açıq dəri tonu
+  - salam
+  - salamlaşmaq
+  - 'salamlaşmaq: orta dəri tonu, orta-açıq dəri tonu'
+  - əl sıxmaq
+🫱🏽‍🫲🏾:
+  - görüşmək
+  - orta dəri tonu
+  - orta-tünd dəri tonu
+  - salam
+  - salamlaşmaq
+  - 'salamlaşmaq: orta dəri tonu, orta-tünd dəri tonu'
+  - əl sıxmaq
+🫱🏽‍🫲🏿:
+  - görüşmək
+  - orta dəri tonu
+  - salam
+  - salamlaşmaq
+  - 'salamlaşmaq: orta dəri tonu, tünd dəri tonu'
+  - tünd dəri tonu
+  - əl sıxmaq
+🫱🏾‍🫲🏻:
+  - açıq dəri tonu
+  - görüşmək
+  - orta-tünd dəri tonu
+  - salam
+  - salamlaşmaq
+  - 'salamlaşmaq: orta-tünd dəri tonu, açıq dəri tonu'
+  - əl sıxmaq
+🫱🏾‍🫲🏼:
+  - görüşmək
+  - orta-açıq dəri tonu
+  - orta-tünd dəri tonu
+  - salam
+  - salamlaşmaq
+  - 'salamlaşmaq: orta-tünd dəri tonu, orta-açıq dəri tonu'
+  - əl sıxmaq
+🫱🏾‍🫲🏽:
+  - görüşmək
+  - orta dəri tonu
+  - orta-tünd dəri tonu
+  - salam
+  - salamlaşmaq
+  - 'salamlaşmaq: orta-tünd dəri tonu, orta dəri tonu'
+  - əl sıxmaq
+🫱🏾‍🫲🏿:
+  - görüşmək
+  - orta-tünd dəri tonu
+  - salam
+  - salamlaşmaq
+  - 'salamlaşmaq: orta-tünd dəri tonu, tünd dəri tonu'
+  - tünd dəri tonu
+  - əl sıxmaq
+🫱🏿‍🫲🏻:
+  - açıq dəri tonu
+  - görüşmək
+  - salam
+  - salamlaşmaq
+  - 'salamlaşmaq: tünd dəri tonu, açıq dəri tonu'
+  - tünd dəri tonu
+  - əl sıxmaq
+🫱🏿‍🫲🏼:
+  - görüşmək
+  - orta-açıq dəri tonu
+  - salam
+  - salamlaşmaq
+  - 'salamlaşmaq: tünd dəri tonu, orta-açıq dəri tonu'
+  - tünd dəri tonu
+  - əl sıxmaq
+🫱🏿‍🫲🏽:
+  - görüşmək
+  - orta dəri tonu
+  - salam
+  - salamlaşmaq
+  - 'salamlaşmaq: tünd dəri tonu, orta dəri tonu'
+  - tünd dəri tonu
+  - əl sıxmaq
+🫱🏿‍🫲🏾:
+  - görüşmək
+  - orta-tünd dəri tonu
+  - salam
+  - salamlaşmaq
+  - 'salamlaşmaq: tünd dəri tonu, orta-tünd dəri tonu'
+  - tünd dəri tonu
+  - əl sıxmaq
+🫲:
+  - sol
+  - sol əl
+  - sola
+  - əl
+🫲🏻:
+  - açıq dəri tonu
+  - sol
+  - 'sol əl: açıq dəri tonu'
+  - sola
+  - əl
+🫲🏼:
+  - orta-açıq dəri tonu
+  - sol
+  - 'sol əl: orta-açıq dəri tonu'
+  - sola
+  - əl
+🫲🏽:
+  - orta dəri tonu
+  - sol
+  - 'sol əl: orta dəri tonu'
+  - sola
+  - əl
+🫲🏾:
+  - orta-tünd dəri tonu
+  - sol
+  - 'sol əl: orta-tünd dəri tonu'
+  - sola
+  - əl
+🫲🏿:
+  - sol
+  - 'sol əl: tünd dəri tonu'
+  - sola
+  - tünd dəri tonu
+  - əl
+🫳:
+  - aşağı əl
+  - damla
+  - kənarlaşdırma
+  - şu
+🫳🏻:
+  - açıq dəri tonu
+  - aşağı əl
+  - 'aşağı əl: açıq dəri tonu'
+  - damla
+  - kənarlaşdırma
+  - şu
+🫳🏼:
+  - aşağı əl
+  - 'aşağı əl: orta-açıq dəri tonu'
+  - damla
+  - kənarlaşdırma
+  - orta-açıq dəri tonu
+  - şu
+🫳🏽:
+  - aşağı əl
+  - 'aşağı əl: orta dəri tonu'
+  - damla
+  - kənarlaşdırma
+  - orta dəri tonu
+  - şu
+🫳🏾:
+  - aşağı əl
+  - 'aşağı əl: orta-tünd dəri tonu'
+  - damla
+  - kənarlaşdırma
+  - orta-tünd dəri tonu
+  - şu
+🫳🏿:
+  - aşağı əl
+  - 'aşağı əl: tünd dəri tonu'
+  - damla
+  - kənarlaşdırma
+  - tünd dəri tonu
+  - şu
+🫴:
+  - gəl
+  - işarə
+  - tutmaq
+  - təklif
+  - yuxarı əl
+🫴🏻:
+  - açıq dəri tonu
+  - gəl
+  - işarə
+  - tutmaq
+  - təklif
+  - yuxarı əl
+  - 'yuxarı əl: açıq dəri tonu'
+🫴🏼:
+  - gəl
+  - işarə
+  - orta-açıq dəri tonu
+  - tutmaq
+  - təklif
+  - yuxarı əl
+  - 'yuxarı əl: orta-açıq dəri tonu'
+🫴🏽:
+  - gəl
+  - işarə
+  - orta dəri tonu
+  - tutmaq
+  - təklif
+  - yuxarı əl
+  - 'yuxarı əl: orta dəri tonu'
+🫴🏾:
+  - gəl
+  - işarə
+  - orta-tünd dəri tonu
+  - tutmaq
+  - təklif
+  - yuxarı əl
+  - 'yuxarı əl: orta-tünd dəri tonu'
+🫴🏿:
+  - gəl
+  - işarə
+  - tutmaq
+  - tünd dəri tonu
+  - təklif
+  - yuxarı əl
+  - 'yuxarı əl: tünd dəri tonu'
 👌:
   - ok
   - ok işarəsi
@@ -1226,6 +2724,58 @@
   - ümid
   - ümid edirəm
   - 'ümid edirəm: tünd dəri tonu'
+🫰:
+  - bahalı
+  - pul
+  - sevgi
+  - snap
+  - ürək
+  - əl barmağı və baş barmağı çarpazlanmış vəziyyətdə
+🫰🏻:
+  - açıq dəri tonu
+  - bahalı
+  - pul
+  - sevgi
+  - snap
+  - ürək
+  - əl barmağı və baş barmağı çarpazlanmış vəziyyətdə
+  - 'əl barmağı və baş barmağı çarpazlanmış vəziyyətdə: açıq dəri tonu'
+🫰🏼:
+  - bahalı
+  - orta-açıq dəri tonu
+  - pul
+  - sevgi
+  - snap
+  - ürək
+  - əl barmağı və baş barmağı çarpazlanmış vəziyyətdə
+  - 'əl barmağı və baş barmağı çarpazlanmış vəziyyətdə: orta-açıq dəri tonu'
+🫰🏽:
+  - bahalı
+  - orta dəri tonu
+  - pul
+  - sevgi
+  - snap
+  - ürək
+  - əl barmağı və baş barmağı çarpazlanmış vəziyyətdə
+  - 'əl barmağı və baş barmağı çarpazlanmış vəziyyətdə: orta dəri tonu'
+🫰🏾:
+  - bahalı
+  - orta-tünd dəri tonu
+  - pul
+  - sevgi
+  - snap
+  - ürək
+  - əl barmağı və baş barmağı çarpazlanmış vəziyyətdə
+  - 'əl barmağı və baş barmağı çarpazlanmış vəziyyətdə: orta-tünd dəri tonu'
+🫰🏿:
+  - bahalı
+  - pul
+  - sevgi
+  - snap
+  - tünd dəri tonu
+  - ürək
+  - əl barmağı və baş barmağı çarpazlanmış vəziyyətdə
+  - 'əl barmağı və baş barmağı çarpazlanmış vəziyyətdə: tünd dəri tonu'
 🤟:
   - sevgi jesti
   - sevgi əli
@@ -1658,6 +3208,40 @@
   - tünd dəri tonu
   - yuxarı
   - əl
+🫵:
+  - işarə
+  - sən
+  - tamaşaçıya işarə edən barmaq
+🫵🏻:
+  - açıq dəri tonu
+  - işarə
+  - sən
+  - tamaşaçıya işarə edən barmaq
+  - 'tamaşaçıya işarə edən barmaq: açıq dəri tonu'
+🫵🏼:
+  - işarə
+  - orta-açıq dəri tonu
+  - sən
+  - tamaşaçıya işarə edən barmaq
+  - 'tamaşaçıya işarə edən barmaq: orta-açıq dəri tonu'
+🫵🏽:
+  - işarə
+  - orta dəri tonu
+  - sən
+  - tamaşaçıya işarə edən barmaq
+  - 'tamaşaçıya işarə edən barmaq: orta dəri tonu'
+🫵🏾:
+  - işarə
+  - orta-tünd dəri tonu
+  - sən
+  - tamaşaçıya işarə edən barmaq
+  - 'tamaşaçıya işarə edən barmaq: orta-tünd dəri tonu'
+🫵🏿:
+  - işarə
+  - sən
+  - tamaşaçıya işarə edən barmaq
+  - 'tamaşaçıya işarə edən barmaq: tünd dəri tonu'
+  - tünd dəri tonu
 👍️:
   - baş barmaq
   - baş barmaq yuxarı
@@ -2038,6 +3622,34 @@
   - əl
   - əllərini qaldıran adam
   - 'əllərini qaldıran adam: tünd dəri tonu'
+🫶:
+  - sevgi
+  - əldən ürək
+🫶🏻:
+  - açıq dəri tonu
+  - sevgi
+  - əldən ürək
+  - 'əldən ürək: açıq dəri tonu'
+🫶🏼:
+  - orta-açıq dəri tonu
+  - sevgi
+  - əldən ürək
+  - 'əldən ürək: orta-açıq dəri tonu'
+🫶🏽:
+  - orta dəri tonu
+  - sevgi
+  - əldən ürək
+  - 'əldən ürək: orta dəri tonu'
+🫶🏾:
+  - orta-tünd dəri tonu
+  - sevgi
+  - əldən ürək
+  - 'əldən ürək: orta-tünd dəri tonu'
+🫶🏿:
+  - sevgi
+  - tünd dəri tonu
+  - əldən ürək
+  - 'əldən ürək: tünd dəri tonu'
 👐:
   - açıq
   - açıq əllər
@@ -2110,6 +3722,41 @@
   - görüşmək
   - salam
   - salamlaşmaq
+  - əl sıxmaq
+🤝🏻:
+  - açıq dəri tonu
+  - görüşmək
+  - salam
+  - salamlaşmaq
+  - 'salamlaşmaq: açıq dəri tonu'
+  - əl sıxmaq
+🤝🏼:
+  - görüşmək
+  - orta-açıq dəri tonu
+  - salam
+  - salamlaşmaq
+  - 'salamlaşmaq: orta-açıq dəri tonu'
+  - əl sıxmaq
+🤝🏽:
+  - görüşmək
+  - orta dəri tonu
+  - salam
+  - salamlaşmaq
+  - 'salamlaşmaq: orta dəri tonu'
+  - əl sıxmaq
+🤝🏾:
+  - görüşmək
+  - orta-tünd dəri tonu
+  - salam
+  - salamlaşmaq
+  - 'salamlaşmaq: orta-tünd dəri tonu'
+  - əl sıxmaq
+🤝🏿:
+  - görüşmək
+  - salam
+  - salamlaşmaq
+  - 'salamlaşmaq: tünd dəri tonu'
+  - tünd dəri tonu
   - əl sıxmaq
 🙏:
   - dua etmək
@@ -2540,6 +4187,12 @@
 👄:
   - ağız
   - dodaqlar
+🫦:
+  - dişlənən dodaq
+  - flört
+  - narahat
+  - qorxu
+  - əsəbi
 👶:
   - cavan
   - körpə
@@ -2726,6 +4379,366 @@
   - 'sarı saçlı adam: tünd dəri tonu'
   - sarışın
   - tünd dəri tonu
+🧑🏻‍❤‍💋‍🧑🏼:
+  - açıq dəri tonu
+  - böyük
+  - cütlük
+  - orta-açıq dəri tonu
+  - romantika
+  - öpüş
+  - 'öpüş: böyük, böyük, açıq dəri tonu, orta-açıq dəri tonu'
+🧑🏻‍❤‍💋‍🧑🏽:
+  - açıq dəri tonu
+  - böyük
+  - cütlük
+  - orta dəri tonu
+  - romantika
+  - öpüş
+  - 'öpüş: böyük, böyük, açıq dəri tonu, orta dəri tonu'
+🧑🏻‍❤‍💋‍🧑🏾:
+  - açıq dəri tonu
+  - böyük
+  - cütlük
+  - orta-tünd dəri tonu
+  - romantika
+  - öpüş
+  - 'öpüş: böyük, böyük, açıq dəri tonu, orta-tünd dəri tonu'
+🧑🏻‍❤‍💋‍🧑🏿:
+  - açıq dəri tonu
+  - böyük
+  - cütlük
+  - romantika
+  - tünd dəri tonu
+  - öpüş
+  - 'öpüş: böyük, böyük, açıq dəri tonu, tünd dəri tonu'
+🧑🏼‍❤‍💋‍🧑🏻:
+  - açıq dəri tonu
+  - böyük
+  - cütlük
+  - orta-açıq dəri tonu
+  - romantika
+  - öpüş
+  - 'öpüş: böyük, böyük, orta-açıq dəri tonu, açıq dəri tonu'
+🧑🏼‍❤‍💋‍🧑🏽:
+  - böyük
+  - cütlük
+  - orta dəri tonu
+  - orta-açıq dəri tonu
+  - romantika
+  - öpüş
+  - 'öpüş: böyük, böyük, orta-açıq dəri tonu, orta dəri tonu'
+🧑🏼‍❤‍💋‍🧑🏾:
+  - böyük
+  - cütlük
+  - orta-açıq dəri tonu
+  - orta-tünd dəri tonu
+  - romantika
+  - öpüş
+  - 'öpüş: böyük, böyük, orta-açıq dəri tonu, orta-tünd dəri tonu'
+🧑🏼‍❤‍💋‍🧑🏿:
+  - böyük
+  - cütlük
+  - orta-açıq dəri tonu
+  - romantika
+  - tünd dəri tonu
+  - öpüş
+  - 'öpüş: böyük, böyük, orta-açıq dəri tonu, tünd dəri tonu'
+🧑🏽‍❤‍💋‍🧑🏻:
+  - açıq dəri tonu
+  - böyük
+  - cütlük
+  - orta dəri tonu
+  - romantika
+  - öpüş
+  - 'öpüş: böyük, böyük, orta dəri tonu, açıq dəri tonu'
+🧑🏽‍❤‍💋‍🧑🏼:
+  - böyük
+  - cütlük
+  - orta dəri tonu
+  - orta-açıq dəri tonu
+  - romantika
+  - öpüş
+  - 'öpüş: böyük, böyük, orta dəri tonu, orta-açıq dəri tonu'
+🧑🏽‍❤‍💋‍🧑🏾:
+  - böyük
+  - cütlük
+  - orta dəri tonu
+  - orta-tünd dəri tonu
+  - romantika
+  - öpüş
+  - 'öpüş: böyük, böyük, orta dəri tonu, orta-tünd dəri tonu'
+🧑🏽‍❤‍💋‍🧑🏿:
+  - böyük
+  - cütlük
+  - orta dəri tonu
+  - romantika
+  - tünd dəri tonu
+  - öpüş
+  - 'öpüş: böyük, böyük, orta dəri tonu, tünd dəri tonu'
+🧑🏾‍❤‍💋‍🧑🏻:
+  - açıq dəri tonu
+  - böyük
+  - cütlük
+  - orta-tünd dəri tonu
+  - romantika
+  - öpüş
+  - 'öpüş: böyük, böyük, orta-tünd dəri tonu, açıq dəri tonu'
+🧑🏾‍❤‍💋‍🧑🏼:
+  - böyük
+  - cütlük
+  - orta-açıq dəri tonu
+  - orta-tünd dəri tonu
+  - romantika
+  - öpüş
+  - 'öpüş: böyük, böyük, orta-tünd dəri tonu, orta-açıq dəri tonu'
+🧑🏾‍❤‍💋‍🧑🏽:
+  - böyük
+  - cütlük
+  - orta dəri tonu
+  - orta-tünd dəri tonu
+  - romantika
+  - öpüş
+  - 'öpüş: böyük, böyük, orta-tünd dəri tonu, orta dəri tonu'
+🧑🏾‍❤‍💋‍🧑🏿:
+  - böyük
+  - cütlük
+  - orta-tünd dəri tonu
+  - romantika
+  - tünd dəri tonu
+  - öpüş
+  - 'öpüş: böyük, böyük, orta-tünd dəri tonu, tünd dəri tonu'
+🧑🏿‍❤‍💋‍🧑🏻:
+  - açıq dəri tonu
+  - böyük
+  - cütlük
+  - romantika
+  - tünd dəri tonu
+  - öpüş
+  - 'öpüş: böyük, böyük, tünd dəri tonu, açıq dəri tonu'
+🧑🏿‍❤‍💋‍🧑🏼:
+  - böyük
+  - cütlük
+  - orta-açıq dəri tonu
+  - romantika
+  - tünd dəri tonu
+  - öpüş
+  - 'öpüş: böyük, böyük, tünd dəri tonu, orta-açıq dəri tonu'
+🧑🏿‍❤‍💋‍🧑🏽:
+  - böyük
+  - cütlük
+  - orta dəri tonu
+  - romantika
+  - tünd dəri tonu
+  - öpüş
+  - 'öpüş: böyük, böyük, tünd dəri tonu, orta dəri tonu'
+🧑🏿‍❤‍💋‍🧑🏾:
+  - böyük
+  - cütlük
+  - orta-tünd dəri tonu
+  - romantika
+  - tünd dəri tonu
+  - öpüş
+  - 'öpüş: böyük, böyük, tünd dəri tonu, orta-tünd dəri tonu'
+🧑🏻‍❤‍🧑🏼:
+  - açıq dəri tonu
+  - böyük
+  - cütlük
+  - orta-açıq dəri tonu
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: böyük, böyük, açıq dəri tonu, orta-açıq dəri tonu'
+🧑🏻‍❤‍🧑🏽:
+  - açıq dəri tonu
+  - böyük
+  - cütlük
+  - orta dəri tonu
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: böyük, böyük, açıq dəri tonu, orta dəri tonu'
+🧑🏻‍❤‍🧑🏾:
+  - açıq dəri tonu
+  - böyük
+  - cütlük
+  - orta-tünd dəri tonu
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: böyük, böyük, açıq dəri tonu, orta-tünd dəri tonu'
+🧑🏻‍❤‍🧑🏿:
+  - açıq dəri tonu
+  - böyük
+  - cütlük
+  - romantika
+  - sevgi
+  - tünd dəri tonu
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: böyük, böyük, açıq dəri tonu, tünd dəri tonu'
+🧑🏼‍❤‍🧑🏻:
+  - açıq dəri tonu
+  - böyük
+  - cütlük
+  - orta-açıq dəri tonu
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: böyük, böyük, orta-açıq dəri tonu, açıq dəri tonu'
+🧑🏼‍❤‍🧑🏽:
+  - böyük
+  - cütlük
+  - orta dəri tonu
+  - orta-açıq dəri tonu
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: böyük, böyük, orta-açıq dəri tonu, orta dəri tonu'
+🧑🏼‍❤‍🧑🏾:
+  - böyük
+  - cütlük
+  - orta-açıq dəri tonu
+  - orta-tünd dəri tonu
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: böyük, böyük, orta-açıq dəri tonu, orta-tünd dəri tonu'
+🧑🏼‍❤‍🧑🏿:
+  - böyük
+  - cütlük
+  - orta-açıq dəri tonu
+  - romantika
+  - sevgi
+  - tünd dəri tonu
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: böyük, böyük, orta-açıq dəri tonu, tünd dəri tonu'
+🧑🏽‍❤‍🧑🏻:
+  - açıq dəri tonu
+  - böyük
+  - cütlük
+  - orta dəri tonu
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: böyük, böyük, orta dəri tonu, açıq dəri tonu'
+🧑🏽‍❤‍🧑🏼:
+  - böyük
+  - cütlük
+  - orta dəri tonu
+  - orta-açıq dəri tonu
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: böyük, böyük, orta dəri tonu, orta-açıq dəri tonu'
+🧑🏽‍❤‍🧑🏾:
+  - böyük
+  - cütlük
+  - orta dəri tonu
+  - orta-tünd dəri tonu
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: böyük, böyük, orta dəri tonu, orta-tünd dəri tonu'
+🧑🏽‍❤‍🧑🏿:
+  - böyük
+  - cütlük
+  - orta dəri tonu
+  - romantika
+  - sevgi
+  - tünd dəri tonu
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: böyük, böyük, orta dəri tonu, tünd dəri tonu'
+🧑🏾‍❤‍🧑🏻:
+  - açıq dəri tonu
+  - böyük
+  - cütlük
+  - orta-tünd dəri tonu
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: böyük, böyük, orta-tünd dəri tonu, açıq dəri tonu'
+🧑🏾‍❤‍🧑🏼:
+  - böyük
+  - cütlük
+  - orta-açıq dəri tonu
+  - orta-tünd dəri tonu
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: böyük, böyük, orta-tünd dəri tonu, orta-açıq dəri tonu'
+🧑🏾‍❤‍🧑🏽:
+  - böyük
+  - cütlük
+  - orta dəri tonu
+  - orta-tünd dəri tonu
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: böyük, böyük, orta-tünd dəri tonu, orta dəri tonu'
+🧑🏾‍❤‍🧑🏿:
+  - böyük
+  - cütlük
+  - orta-tünd dəri tonu
+  - romantika
+  - sevgi
+  - tünd dəri tonu
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: böyük, böyük, orta-tünd dəri tonu, tünd dəri tonu'
+🧑🏿‍❤‍🧑🏻:
+  - açıq dəri tonu
+  - böyük
+  - cütlük
+  - romantika
+  - sevgi
+  - tünd dəri tonu
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: böyük, böyük, tünd dəri tonu, açıq dəri tonu'
+🧑🏿‍❤‍🧑🏼:
+  - böyük
+  - cütlük
+  - orta-açıq dəri tonu
+  - romantika
+  - sevgi
+  - tünd dəri tonu
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: böyük, böyük, tünd dəri tonu, orta-açıq dəri tonu'
+🧑🏿‍❤‍🧑🏽:
+  - böyük
+  - cütlük
+  - orta dəri tonu
+  - romantika
+  - sevgi
+  - tünd dəri tonu
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: böyük, böyük, tünd dəri tonu, orta dəri tonu'
+🧑🏿‍❤‍🧑🏾:
+  - böyük
+  - cütlük
+  - orta-tünd dəri tonu
+  - romantika
+  - sevgi
+  - tünd dəri tonu
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: böyük, böyük, tünd dəri tonu, orta-tünd dəri tonu'
 🧑‍🦰:
   - böyük
   - 'böyük: qırmızı saç'
@@ -2916,6 +4929,41 @@
   - saqqallı şəxs
   - 'saqqallı şəxs: tünd dəri tonu'
   - tünd dəri tonu
+🧔‍♂:
+  - kişi
+  - 'kişi: saqqal'
+  - kişi; saqqal
+  - saqqal
+🧔🏻‍♂:
+  - açıq dəri tonu
+  - kişi
+  - 'kişi: saqqal'
+  - 'kişi; saqqal: açıq dəri tonu'
+  - saqqal
+🧔🏼‍♂:
+  - kişi
+  - 'kişi: saqqal'
+  - 'kişi; saqqal: orta-açıq dəri tonu'
+  - orta-açıq dəri tonu
+  - saqqal
+🧔🏽‍♂:
+  - kişi
+  - 'kişi: saqqal'
+  - 'kişi; saqqal: orta dəri tonu'
+  - orta dəri tonu
+  - saqqal
+🧔🏾‍♂:
+  - kişi
+  - 'kişi: saqqal'
+  - 'kişi; saqqal: orta-tünd dəri tonu'
+  - orta-tünd dəri tonu
+  - saqqal
+🧔🏿‍♂:
+  - kişi
+  - 'kişi: saqqal'
+  - 'kişi; saqqal: tünd dəri tonu'
+  - saqqal
+  - tünd dəri tonu
 👱‍♂:
   - kişi
   - sarışın
@@ -2945,6 +4993,446 @@
   - sarışın
   - 'sarışın kişi: tünd dəri tonu'
   - tünd dəri tonu
+👨🏻‍❤‍💋‍👨🏻:
+  - açıq dəri tonu
+  - cütlük
+  - kişi
+  - romantika
+  - öpüş
+  - 'öpüş: kişi, kişi, açıq dəri tonu'
+👨🏻‍❤‍💋‍👨🏼:
+  - açıq dəri tonu
+  - cütlük
+  - kişi
+  - orta-açıq dəri tonu
+  - romantika
+  - öpüş
+  - 'öpüş: kişi, kişi, açıq dəri tonu, orta-açıq dəri tonu'
+👨🏻‍❤‍💋‍👨🏽:
+  - açıq dəri tonu
+  - cütlük
+  - kişi
+  - orta dəri tonu
+  - romantika
+  - öpüş
+  - 'öpüş: kişi, kişi, açıq dəri tonu, orta dəri tonu'
+👨🏻‍❤‍💋‍👨🏾:
+  - açıq dəri tonu
+  - cütlük
+  - kişi
+  - orta-tünd dəri tonu
+  - romantika
+  - öpüş
+  - 'öpüş: kişi, kişi, açıq dəri tonu, orta-tünd dəri tonu'
+👨🏻‍❤‍💋‍👨🏿:
+  - açıq dəri tonu
+  - cütlük
+  - kişi
+  - romantika
+  - tünd dəri tonu
+  - öpüş
+  - 'öpüş: kişi, kişi, açıq dəri tonu, tünd dəri tonu'
+👨🏼‍❤‍💋‍👨🏻:
+  - açıq dəri tonu
+  - cütlük
+  - kişi
+  - orta-açıq dəri tonu
+  - romantika
+  - öpüş
+  - 'öpüş: kişi, kişi, orta-açıq dəri tonu, açıq dəri tonu'
+👨🏼‍❤‍💋‍👨🏼:
+  - cütlük
+  - kişi
+  - orta-açıq dəri tonu
+  - romantika
+  - öpüş
+  - 'öpüş: kişi, kişi, orta-açıq dəri tonu'
+👨🏼‍❤‍💋‍👨🏽:
+  - cütlük
+  - kişi
+  - orta dəri tonu
+  - orta-açıq dəri tonu
+  - romantika
+  - öpüş
+  - 'öpüş: kişi, kişi, orta-açıq dəri tonu, orta dəri tonu'
+👨🏼‍❤‍💋‍👨🏾:
+  - cütlük
+  - kişi
+  - orta-açıq dəri tonu
+  - orta-tünd dəri tonu
+  - romantika
+  - öpüş
+  - 'öpüş: kişi, kişi, orta-açıq dəri tonu, orta-tünd dəri tonu'
+👨🏼‍❤‍💋‍👨🏿:
+  - cütlük
+  - kişi
+  - orta-açıq dəri tonu
+  - romantika
+  - tünd dəri tonu
+  - öpüş
+  - 'öpüş: kişi, kişi, orta-açıq dəri tonu, tünd dəri tonu'
+👨🏽‍❤‍💋‍👨🏻:
+  - açıq dəri tonu
+  - cütlük
+  - kişi
+  - orta dəri tonu
+  - romantika
+  - öpüş
+  - 'öpüş: kişi, kişi, orta dəri tonu, açıq dəri tonu'
+👨🏽‍❤‍💋‍👨🏼:
+  - cütlük
+  - kişi
+  - orta dəri tonu
+  - orta-açıq dəri tonu
+  - romantika
+  - öpüş
+  - 'öpüş: kişi, kişi, orta dəri tonu, orta-açıq dəri tonu'
+👨🏽‍❤‍💋‍👨🏽:
+  - cütlük
+  - kişi
+  - orta dəri tonu
+  - romantika
+  - öpüş
+  - 'öpüş: kişi, kişi, orta dəri tonu'
+👨🏽‍❤‍💋‍👨🏾:
+  - cütlük
+  - kişi
+  - orta dəri tonu
+  - orta-tünd dəri tonu
+  - romantika
+  - öpüş
+  - 'öpüş: kişi, kişi, orta dəri tonu, orta-tünd dəri tonu'
+👨🏽‍❤‍💋‍👨🏿:
+  - cütlük
+  - kişi
+  - orta dəri tonu
+  - romantika
+  - tünd dəri tonu
+  - öpüş
+  - 'öpüş: kişi, kişi, orta dəri tonu, tünd dəri tonu'
+👨🏾‍❤‍💋‍👨🏻:
+  - açıq dəri tonu
+  - cütlük
+  - kişi
+  - orta-tünd dəri tonu
+  - romantika
+  - öpüş
+  - 'öpüş: kişi, kişi, orta-tünd dəri tonu, açıq dəri tonu'
+👨🏾‍❤‍💋‍👨🏼:
+  - cütlük
+  - kişi
+  - orta-açıq dəri tonu
+  - orta-tünd dəri tonu
+  - romantika
+  - öpüş
+  - 'öpüş: kişi, kişi, orta-tünd dəri tonu, orta-açıq dəri tonu'
+👨🏾‍❤‍💋‍👨🏽:
+  - cütlük
+  - kişi
+  - orta dəri tonu
+  - orta-tünd dəri tonu
+  - romantika
+  - öpüş
+  - 'öpüş: kişi, kişi, orta-tünd dəri tonu, orta dəri tonu'
+👨🏾‍❤‍💋‍👨🏾:
+  - cütlük
+  - kişi
+  - orta-tünd dəri tonu
+  - romantika
+  - öpüş
+  - 'öpüş: kişi, kişi, orta-tünd dəri tonu'
+👨🏾‍❤‍💋‍👨🏿:
+  - cütlük
+  - kişi
+  - orta-tünd dəri tonu
+  - romantika
+  - tünd dəri tonu
+  - öpüş
+  - 'öpüş: kişi, kişi, orta-tünd dəri tonu, tünd dəri tonu'
+👨🏿‍❤‍💋‍👨🏻:
+  - açıq dəri tonu
+  - cütlük
+  - kişi
+  - romantika
+  - tünd dəri tonu
+  - öpüş
+  - 'öpüş: kişi, kişi, tünd dəri tonu, açıq dəri tonu'
+👨🏿‍❤‍💋‍👨🏼:
+  - cütlük
+  - kişi
+  - orta-açıq dəri tonu
+  - romantika
+  - tünd dəri tonu
+  - öpüş
+  - 'öpüş: kişi, kişi, tünd dəri tonu, orta-açıq dəri tonu'
+👨🏿‍❤‍💋‍👨🏽:
+  - cütlük
+  - kişi
+  - orta dəri tonu
+  - romantika
+  - tünd dəri tonu
+  - öpüş
+  - 'öpüş: kişi, kişi, tünd dəri tonu, orta dəri tonu'
+👨🏿‍❤‍💋‍👨🏾:
+  - cütlük
+  - kişi
+  - orta-tünd dəri tonu
+  - romantika
+  - tünd dəri tonu
+  - öpüş
+  - 'öpüş: kişi, kişi, tünd dəri tonu, orta-tünd dəri tonu'
+👨🏿‍❤‍💋‍👨🏿:
+  - cütlük
+  - kişi
+  - romantika
+  - tünd dəri tonu
+  - öpüş
+  - 'öpüş: kişi, kişi, tünd dəri tonu'
+👨🏻‍❤‍👨🏻:
+  - açıq dəri tonu
+  - cütlük
+  - kişi
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: kişi, kişi, açıq dəri tonu'
+👨🏻‍❤‍👨🏼:
+  - açıq dəri tonu
+  - cütlük
+  - kişi
+  - orta-açıq dəri tonu
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: kişi, kişi, açıq dəri tonu, orta-açıq dəri tonu'
+👨🏻‍❤‍👨🏽:
+  - açıq dəri tonu
+  - cütlük
+  - kişi
+  - orta dəri tonu
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: kişi, kişi, açıq dəri tonu, orta dəri tonu'
+👨🏻‍❤‍👨🏾:
+  - açıq dəri tonu
+  - cütlük
+  - kişi
+  - orta-tünd dəri tonu
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: kişi, kişi, açıq dəri tonu, orta-tünd dəri tonu'
+👨🏻‍❤‍👨🏿:
+  - açıq dəri tonu
+  - cütlük
+  - kişi
+  - romantika
+  - sevgi
+  - tünd dəri tonu
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: kişi, kişi, açıq dəri tonu, tünd dəri tonu'
+👨🏼‍❤‍👨🏻:
+  - açıq dəri tonu
+  - cütlük
+  - kişi
+  - orta-açıq dəri tonu
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: kişi, kişi, orta-açıq dəri tonu, açıq dəri tonu'
+👨🏼‍❤‍👨🏼:
+  - cütlük
+  - kişi
+  - orta-açıq dəri tonu
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: kişi, kişi, orta-açıq dəri tonu'
+👨🏼‍❤‍👨🏽:
+  - cütlük
+  - kişi
+  - orta dəri tonu
+  - orta-açıq dəri tonu
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: kişi, kişi, orta-açıq dəri tonu, orta dəri tonu'
+👨🏼‍❤‍👨🏾:
+  - cütlük
+  - kişi
+  - orta-açıq dəri tonu
+  - orta-tünd dəri tonu
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: kişi, kişi, orta-açıq dəri tonu, orta-tünd dəri tonu'
+👨🏼‍❤‍👨🏿:
+  - cütlük
+  - kişi
+  - orta-açıq dəri tonu
+  - romantika
+  - sevgi
+  - tünd dəri tonu
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: kişi, kişi, orta-açıq dəri tonu, tünd dəri tonu'
+👨🏽‍❤‍👨🏻:
+  - açıq dəri tonu
+  - cütlük
+  - kişi
+  - orta dəri tonu
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: kişi, kişi, orta dəri tonu, açıq dəri tonu'
+👨🏽‍❤‍👨🏼:
+  - cütlük
+  - kişi
+  - orta dəri tonu
+  - orta-açıq dəri tonu
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: kişi, kişi, orta dəri tonu, orta-açıq dəri tonu'
+👨🏽‍❤‍👨🏽:
+  - cütlük
+  - kişi
+  - orta dəri tonu
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: kişi, kişi, orta dəri tonu'
+👨🏽‍❤‍👨🏾:
+  - cütlük
+  - kişi
+  - orta dəri tonu
+  - orta-tünd dəri tonu
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: kişi, kişi, orta dəri tonu, orta-tünd dəri tonu'
+👨🏽‍❤‍👨🏿:
+  - cütlük
+  - kişi
+  - orta dəri tonu
+  - romantika
+  - sevgi
+  - tünd dəri tonu
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: kişi, kişi, orta dəri tonu, tünd dəri tonu'
+👨🏾‍❤‍👨🏻:
+  - açıq dəri tonu
+  - cütlük
+  - kişi
+  - orta-tünd dəri tonu
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: kişi, kişi, orta-tünd dəri tonu, açıq dəri tonu'
+👨🏾‍❤‍👨🏼:
+  - cütlük
+  - kişi
+  - orta-açıq dəri tonu
+  - orta-tünd dəri tonu
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: kişi, kişi, orta-tünd dəri tonu, orta-açıq dəri tonu'
+👨🏾‍❤‍👨🏽:
+  - cütlük
+  - kişi
+  - orta dəri tonu
+  - orta-tünd dəri tonu
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: kişi, kişi, orta-tünd dəri tonu, orta dəri tonu'
+👨🏾‍❤‍👨🏾:
+  - cütlük
+  - kişi
+  - orta-tünd dəri tonu
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: kişi, kişi, orta-tünd dəri tonu'
+👨🏾‍❤‍👨🏿:
+  - cütlük
+  - kişi
+  - orta-tünd dəri tonu
+  - romantika
+  - sevgi
+  - tünd dəri tonu
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: kişi, kişi, orta-tünd dəri tonu, tünd dəri tonu'
+👨🏿‍❤‍👨🏻:
+  - açıq dəri tonu
+  - cütlük
+  - kişi
+  - romantika
+  - sevgi
+  - tünd dəri tonu
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: kişi, kişi, tünd dəri tonu, açıq dəri tonu'
+👨🏿‍❤‍👨🏼:
+  - cütlük
+  - kişi
+  - orta-açıq dəri tonu
+  - romantika
+  - sevgi
+  - tünd dəri tonu
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: kişi, kişi, tünd dəri tonu, orta-açıq dəri tonu'
+👨🏿‍❤‍👨🏽:
+  - cütlük
+  - kişi
+  - orta dəri tonu
+  - romantika
+  - sevgi
+  - tünd dəri tonu
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: kişi, kişi, tünd dəri tonu, orta dəri tonu'
+👨🏿‍❤‍👨🏾:
+  - cütlük
+  - kişi
+  - orta-tünd dəri tonu
+  - romantika
+  - sevgi
+  - tünd dəri tonu
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: kişi, kişi, tünd dəri tonu, orta-tünd dəri tonu'
+👨🏿‍❤‍👨🏿:
+  - cütlük
+  - kişi
+  - romantika
+  - sevgi
+  - tünd dəri tonu
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: kişi, kişi, tünd dəri tonu'
 👨‍🦰:
   - kişi
   - 'kişi: qırmızı saç'
@@ -3083,6 +5571,46 @@
   - qadın
   - 'qadın: tünd dəri tonu'
   - tünd dəri tonu
+🧔‍♀:
+  - kişi
+  - 'kişi: saqqal'
+  - 'qadın: saqqal'
+  - saqqal
+🧔🏻‍♀:
+  - açıq dəri tonu
+  - kişi
+  - 'kişi: saqqal'
+  - 'qadın: açıq dəri tonu, saqqal'
+  - 'qadın: saqqal'
+  - saqqal
+🧔🏼‍♀:
+  - kişi
+  - 'kişi: saqqal'
+  - orta-açıq dəri tonu
+  - 'qadın: orta-açıq dəri tonu, saqqal'
+  - 'qadın: saqqal'
+  - saqqal
+🧔🏽‍♀:
+  - kişi
+  - 'kişi: saqqal'
+  - orta dəri tonu
+  - 'qadın: orta dəri tonu, saqqal'
+  - 'qadın: saqqal'
+  - saqqal
+🧔🏾‍♀:
+  - kişi
+  - 'kişi: saqqal'
+  - orta-tünd dəri tonu
+  - 'qadın: orta-tünd dəri tonu, saqqal'
+  - 'qadın: saqqal'
+  - saqqal
+🧔🏿‍♀:
+  - kişi
+  - 'kişi: saqqal'
+  - 'qadın: saqqal'
+  - 'qadın: tünd dəri tonu, saqqal'
+  - saqqal
+  - tünd dəri tonu
 👱‍♀:
   - qadın
   - sarışın
@@ -3112,6 +5640,936 @@
   - sarışın
   - 'sarışın qadın: tünd dəri tonu'
   - tünd dəri tonu
+👩🏻‍❤‍💋‍👨🏻:
+  - açıq dəri tonu
+  - cütlük
+  - kişi
+  - qadın
+  - romantika
+  - öpüş
+  - 'öpüş: qadın, kişi, açıq dəri tonu'
+👩🏻‍❤‍💋‍👨🏼:
+  - açıq dəri tonu
+  - cütlük
+  - kişi
+  - orta-açıq dəri tonu
+  - qadın
+  - romantika
+  - öpüş
+  - 'öpüş: qadın, kişi, açıq dəri tonu, orta-açıq dəri tonu'
+👩🏻‍❤‍💋‍👨🏽:
+  - açıq dəri tonu
+  - cütlük
+  - kişi
+  - orta dəri tonu
+  - qadın
+  - romantika
+  - öpüş
+  - 'öpüş: qadın, kişi, açıq dəri tonu, orta dəri tonu'
+👩🏻‍❤‍💋‍👨🏾:
+  - açıq dəri tonu
+  - cütlük
+  - kişi
+  - orta-tünd dəri tonu
+  - qadın
+  - romantika
+  - öpüş
+  - 'öpüş: qadın, kişi, açıq dəri tonu, orta-tünd dəri tonu'
+👩🏻‍❤‍💋‍👨🏿:
+  - açıq dəri tonu
+  - cütlük
+  - kişi
+  - qadın
+  - romantika
+  - tünd dəri tonu
+  - öpüş
+  - 'öpüş: qadın, kişi, açıq dəri tonu, tünd dəri tonu'
+👩🏼‍❤‍💋‍👨🏻:
+  - açıq dəri tonu
+  - cütlük
+  - kişi
+  - orta-açıq dəri tonu
+  - qadın
+  - romantika
+  - öpüş
+  - 'öpüş: qadın, kişi, orta-açıq dəri tonu, açıq dəri tonu'
+👩🏼‍❤‍💋‍👨🏼:
+  - cütlük
+  - kişi
+  - orta-açıq dəri tonu
+  - qadın
+  - romantika
+  - öpüş
+  - 'öpüş: qadın, kişi, orta-açıq dəri tonu'
+👩🏼‍❤‍💋‍👨🏽:
+  - cütlük
+  - kişi
+  - orta dəri tonu
+  - orta-açıq dəri tonu
+  - qadın
+  - romantika
+  - öpüş
+  - 'öpüş: qadın, kişi, orta-açıq dəri tonu, orta dəri tonu'
+👩🏼‍❤‍💋‍👨🏾:
+  - cütlük
+  - kişi
+  - orta-açıq dəri tonu
+  - orta-tünd dəri tonu
+  - qadın
+  - romantika
+  - öpüş
+  - 'öpüş: qadın, kişi, orta-açıq dəri tonu, orta-tünd dəri tonu'
+👩🏼‍❤‍💋‍👨🏿:
+  - cütlük
+  - kişi
+  - orta-açıq dəri tonu
+  - qadın
+  - romantika
+  - tünd dəri tonu
+  - öpüş
+  - 'öpüş: qadın, kişi, orta-açıq dəri tonu, tünd dəri tonu'
+👩🏽‍❤‍💋‍👨🏻:
+  - açıq dəri tonu
+  - cütlük
+  - kişi
+  - orta dəri tonu
+  - qadın
+  - romantika
+  - öpüş
+  - 'öpüş: qadın, kişi, orta dəri tonu, açıq dəri tonu'
+👩🏽‍❤‍💋‍👨🏼:
+  - cütlük
+  - kişi
+  - orta dəri tonu
+  - orta-açıq dəri tonu
+  - qadın
+  - romantika
+  - öpüş
+  - 'öpüş: qadın, kişi, orta dəri tonu, orta-açıq dəri tonu'
+👩🏽‍❤‍💋‍👨🏽:
+  - cütlük
+  - kişi
+  - orta dəri tonu
+  - qadın
+  - romantika
+  - öpüş
+  - 'öpüş: qadın, kişi, orta dəri tonu'
+👩🏽‍❤‍💋‍👨🏾:
+  - cütlük
+  - kişi
+  - orta dəri tonu
+  - orta-tünd dəri tonu
+  - qadın
+  - romantika
+  - öpüş
+  - 'öpüş: qadın, kişi, orta dəri tonu, orta-tünd dəri tonu'
+👩🏽‍❤‍💋‍👨🏿:
+  - cütlük
+  - kişi
+  - orta dəri tonu
+  - qadın
+  - romantika
+  - tünd dəri tonu
+  - öpüş
+  - 'öpüş: qadın, kişi, orta dəri tonu, tünd dəri tonu'
+👩🏾‍❤‍💋‍👨🏻:
+  - açıq dəri tonu
+  - cütlük
+  - kişi
+  - orta-tünd dəri tonu
+  - qadın
+  - romantika
+  - öpüş
+  - 'öpüş: qadın, kişi, orta-tünd dəri tonu, açıq dəri tonu'
+👩🏾‍❤‍💋‍👨🏼:
+  - cütlük
+  - kişi
+  - orta-açıq dəri tonu
+  - orta-tünd dəri tonu
+  - qadın
+  - romantika
+  - öpüş
+  - 'öpüş: qadın, kişi, orta-tünd dəri tonu, orta-açıq dəri tonu'
+👩🏾‍❤‍💋‍👨🏽:
+  - cütlük
+  - kişi
+  - orta dəri tonu
+  - orta-tünd dəri tonu
+  - qadın
+  - romantika
+  - öpüş
+  - 'öpüş: qadın, kişi, orta-tünd dəri tonu, orta dəri tonu'
+👩🏾‍❤‍💋‍👨🏾:
+  - cütlük
+  - kişi
+  - orta-tünd dəri tonu
+  - qadın
+  - romantika
+  - öpüş
+  - 'öpüş: qadın, kişi, orta-tünd dəri tonu'
+👩🏾‍❤‍💋‍👨🏿:
+  - cütlük
+  - kişi
+  - orta-tünd dəri tonu
+  - qadın
+  - romantika
+  - tünd dəri tonu
+  - öpüş
+  - 'öpüş: qadın, kişi, orta-tünd dəri tonu, tünd dəri tonu'
+👩🏿‍❤‍💋‍👨🏻:
+  - açıq dəri tonu
+  - cütlük
+  - kişi
+  - qadın
+  - romantika
+  - tünd dəri tonu
+  - öpüş
+  - 'öpüş: qadın, kişi, tünd dəri tonu, açıq dəri tonu'
+👩🏿‍❤‍💋‍👨🏼:
+  - cütlük
+  - kişi
+  - orta-açıq dəri tonu
+  - qadın
+  - romantika
+  - tünd dəri tonu
+  - öpüş
+  - 'öpüş: qadın, kişi, tünd dəri tonu, orta-açıq dəri tonu'
+👩🏿‍❤‍💋‍👨🏽:
+  - cütlük
+  - kişi
+  - orta dəri tonu
+  - qadın
+  - romantika
+  - tünd dəri tonu
+  - öpüş
+  - 'öpüş: qadın, kişi, tünd dəri tonu, orta dəri tonu'
+👩🏿‍❤‍💋‍👨🏾:
+  - cütlük
+  - kişi
+  - orta-tünd dəri tonu
+  - qadın
+  - romantika
+  - tünd dəri tonu
+  - öpüş
+  - 'öpüş: qadın, kişi, tünd dəri tonu, orta-tünd dəri tonu'
+👩🏿‍❤‍💋‍👨🏿:
+  - cütlük
+  - kişi
+  - qadın
+  - romantika
+  - tünd dəri tonu
+  - öpüş
+  - 'öpüş: qadın, kişi, tünd dəri tonu'
+👩🏻‍❤‍💋‍👩🏻:
+  - açıq dəri tonu
+  - cütlük
+  - qadın
+  - romantika
+  - öpüş
+  - 'öpüş: qadın, qadın, açıq dəri tonu'
+👩🏻‍❤‍💋‍👩🏼:
+  - açıq dəri tonu
+  - cütlük
+  - orta-açıq dəri tonu
+  - qadın
+  - romantika
+  - öpüş
+  - 'öpüş: qadın, qadın, açıq dəri tonu, orta-açıq dəri tonu'
+👩🏻‍❤‍💋‍👩🏽:
+  - açıq dəri tonu
+  - cütlük
+  - orta dəri tonu
+  - qadın
+  - romantika
+  - öpüş
+  - 'öpüş: qadın, qadın, açıq dəri tonu, orta dəri tonu'
+👩🏻‍❤‍💋‍👩🏾:
+  - açıq dəri tonu
+  - cütlük
+  - orta-tünd dəri tonu
+  - qadın
+  - romantika
+  - öpüş
+  - 'öpüş: qadın, qadın, açıq dəri tonu, orta-tünd dəri tonu'
+👩🏻‍❤‍💋‍👩🏿:
+  - açıq dəri tonu
+  - cütlük
+  - qadın
+  - romantika
+  - tünd dəri tonu
+  - öpüş
+  - 'öpüş: qadın, qadın, açıq dəri tonu, tünd dəri tonu'
+👩🏼‍❤‍💋‍👩🏻:
+  - açıq dəri tonu
+  - cütlük
+  - orta-açıq dəri tonu
+  - qadın
+  - romantika
+  - öpüş
+  - 'öpüş: qadın, qadın, orta-açıq dəri tonu, açıq dəri tonu'
+👩🏼‍❤‍💋‍👩🏼:
+  - cütlük
+  - orta-açıq dəri tonu
+  - qadın
+  - romantika
+  - öpüş
+  - 'öpüş: qadın, qadın, orta-açıq dəri tonu'
+👩🏼‍❤‍💋‍👩🏽:
+  - cütlük
+  - orta dəri tonu
+  - orta-açıq dəri tonu
+  - qadın
+  - romantika
+  - öpüş
+  - 'öpüş: qadın, qadın, orta-açıq dəri tonu, orta dəri tonu'
+👩🏼‍❤‍💋‍👩🏾:
+  - cütlük
+  - orta-açıq dəri tonu
+  - orta-tünd dəri tonu
+  - qadın
+  - romantika
+  - öpüş
+  - 'öpüş: qadın, qadın, orta-açıq dəri tonu, orta-tünd dəri tonu'
+👩🏼‍❤‍💋‍👩🏿:
+  - cütlük
+  - orta-açıq dəri tonu
+  - qadın
+  - romantika
+  - tünd dəri tonu
+  - öpüş
+  - 'öpüş: qadın, qadın, orta-açıq dəri tonu, tünd dəri tonu'
+👩🏽‍❤‍💋‍👩🏻:
+  - açıq dəri tonu
+  - cütlük
+  - orta dəri tonu
+  - qadın
+  - romantika
+  - öpüş
+  - 'öpüş: qadın, qadın, orta dəri tonu, açıq dəri tonu'
+👩🏽‍❤‍💋‍👩🏼:
+  - cütlük
+  - orta dəri tonu
+  - orta-açıq dəri tonu
+  - qadın
+  - romantika
+  - öpüş
+  - 'öpüş: qadın, qadın, orta dəri tonu, orta-açıq dəri tonu'
+👩🏽‍❤‍💋‍👩🏽:
+  - cütlük
+  - orta dəri tonu
+  - qadın
+  - romantika
+  - öpüş
+  - 'öpüş: qadın, qadın, orta dəri tonu'
+👩🏽‍❤‍💋‍👩🏾:
+  - cütlük
+  - orta dəri tonu
+  - orta-tünd dəri tonu
+  - qadın
+  - romantika
+  - öpüş
+  - 'öpüş: qadın, qadın, orta dəri tonu, orta-tünd dəri tonu'
+👩🏽‍❤‍💋‍👩🏿:
+  - cütlük
+  - orta dəri tonu
+  - qadın
+  - romantika
+  - tünd dəri tonu
+  - öpüş
+  - 'öpüş: qadın, qadın, orta dəri tonu, tünd dəri tonu'
+👩🏾‍❤‍💋‍👩🏻:
+  - açıq dəri tonu
+  - cütlük
+  - orta-tünd dəri tonu
+  - qadın
+  - romantika
+  - öpüş
+  - 'öpüş: qadın, qadın, orta-tünd dəri tonu, açıq dəri tonu'
+👩🏾‍❤‍💋‍👩🏼:
+  - cütlük
+  - orta-açıq dəri tonu
+  - orta-tünd dəri tonu
+  - qadın
+  - romantika
+  - öpüş
+  - 'öpüş: qadın, qadın, orta-tünd dəri tonu, orta-açıq dəri tonu'
+👩🏾‍❤‍💋‍👩🏽:
+  - cütlük
+  - orta dəri tonu
+  - orta-tünd dəri tonu
+  - qadın
+  - romantika
+  - öpüş
+  - 'öpüş: qadın, qadın, orta-tünd dəri tonu, orta dəri tonu'
+👩🏾‍❤‍💋‍👩🏾:
+  - cütlük
+  - orta-tünd dəri tonu
+  - qadın
+  - romantika
+  - öpüş
+  - 'öpüş: qadın, qadın, orta-tünd dəri tonu'
+👩🏾‍❤‍💋‍👩🏿:
+  - cütlük
+  - orta-tünd dəri tonu
+  - qadın
+  - romantika
+  - tünd dəri tonu
+  - öpüş
+  - 'öpüş: qadın, qadın, orta-tünd dəri tonu, tünd dəri tonu'
+👩🏿‍❤‍💋‍👩🏻:
+  - açıq dəri tonu
+  - cütlük
+  - qadın
+  - romantika
+  - tünd dəri tonu
+  - öpüş
+  - 'öpüş: qadın, qadın, tünd dəri tonu, açıq dəri tonu'
+👩🏿‍❤‍💋‍👩🏼:
+  - cütlük
+  - orta-açıq dəri tonu
+  - qadın
+  - romantika
+  - tünd dəri tonu
+  - öpüş
+  - 'öpüş: qadın, qadın, tünd dəri tonu, orta-açıq dəri tonu'
+👩🏿‍❤‍💋‍👩🏽:
+  - cütlük
+  - orta dəri tonu
+  - qadın
+  - romantika
+  - tünd dəri tonu
+  - öpüş
+  - 'öpüş: qadın, qadın, tünd dəri tonu, orta dəri tonu'
+👩🏿‍❤‍💋‍👩🏾:
+  - cütlük
+  - orta-tünd dəri tonu
+  - qadın
+  - romantika
+  - tünd dəri tonu
+  - öpüş
+  - 'öpüş: qadın, qadın, tünd dəri tonu, orta-tünd dəri tonu'
+👩🏿‍❤‍💋‍👩🏿:
+  - cütlük
+  - qadın
+  - romantika
+  - tünd dəri tonu
+  - öpüş
+  - 'öpüş: qadın, qadın, tünd dəri tonu'
+👩🏻‍❤‍👨🏻:
+  - açıq dəri tonu
+  - cütlük
+  - kişi
+  - qadın
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: qadın, kişi, açıq dəri tonu'
+👩🏻‍❤‍👨🏼:
+  - açıq dəri tonu
+  - cütlük
+  - kişi
+  - orta-açıq dəri tonu
+  - qadın
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: qadın, kişi, açıq dəri tonu, orta-açıq dəri tonu'
+👩🏻‍❤‍👨🏽:
+  - açıq dəri tonu
+  - cütlük
+  - kişi
+  - orta dəri tonu
+  - qadın
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: qadın, kişi, açıq dəri tonu, orta dəri tonu'
+👩🏻‍❤‍👨🏾:
+  - açıq dəri tonu
+  - cütlük
+  - kişi
+  - orta-tünd dəri tonu
+  - qadın
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: qadın, kişi, açıq dəri tonu, orta-tünd dəri tonu'
+👩🏻‍❤‍👨🏿:
+  - açıq dəri tonu
+  - cütlük
+  - kişi
+  - qadın
+  - romantika
+  - sevgi
+  - tünd dəri tonu
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: qadın, kişi, açıq dəri tonu, tünd dəri tonu'
+👩🏼‍❤‍👨🏻:
+  - açıq dəri tonu
+  - cütlük
+  - kişi
+  - orta-açıq dəri tonu
+  - qadın
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: qadın, kişi, orta-açıq dəri tonu, açıq dəri tonu'
+👩🏼‍❤‍👨🏼:
+  - cütlük
+  - kişi
+  - orta-açıq dəri tonu
+  - qadın
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: qadın, kişi, orta-açıq dəri tonu'
+👩🏼‍❤‍👨🏽:
+  - cütlük
+  - kişi
+  - orta dəri tonu
+  - orta-açıq dəri tonu
+  - qadın
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: qadın, kişi, orta-açıq dəri tonu, orta dəri tonu'
+👩🏼‍❤‍👨🏾:
+  - cütlük
+  - kişi
+  - orta-açıq dəri tonu
+  - orta-tünd dəri tonu
+  - qadın
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: qadın, kişi, orta-açıq dəri tonu, orta-tünd dəri tonu'
+👩🏼‍❤‍👨🏿:
+  - cütlük
+  - kişi
+  - orta-açıq dəri tonu
+  - qadın
+  - romantika
+  - sevgi
+  - tünd dəri tonu
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: qadın, kişi, orta-açıq dəri tonu, tünd dəri tonu'
+👩🏽‍❤‍👨🏻:
+  - açıq dəri tonu
+  - cütlük
+  - kişi
+  - orta dəri tonu
+  - qadın
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: qadın, kişi, orta dəri tonu, açıq dəri tonu'
+👩🏽‍❤‍👨🏼:
+  - cütlük
+  - kişi
+  - orta dəri tonu
+  - orta-açıq dəri tonu
+  - qadın
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: qadın, kişi, orta dəri tonu, orta-açıq dəri tonu'
+👩🏽‍❤‍👨🏽:
+  - cütlük
+  - kişi
+  - orta dəri tonu
+  - qadın
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: qadın, kişi, orta dəri tonu'
+👩🏽‍❤‍👨🏾:
+  - cütlük
+  - kişi
+  - orta dəri tonu
+  - orta-tünd dəri tonu
+  - qadın
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: qadın, kişi, orta dəri tonu, orta-tünd dəri tonu'
+👩🏽‍❤‍👨🏿:
+  - cütlük
+  - kişi
+  - orta dəri tonu
+  - qadın
+  - romantika
+  - sevgi
+  - tünd dəri tonu
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: qadın, kişi, orta dəri tonu, tünd dəri tonu'
+👩🏾‍❤‍👨🏻:
+  - açıq dəri tonu
+  - cütlük
+  - kişi
+  - orta-tünd dəri tonu
+  - qadın
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: qadın, kişi, orta-tünd dəri tonu, açıq dəri tonu'
+👩🏾‍❤‍👨🏼:
+  - cütlük
+  - kişi
+  - orta-açıq dəri tonu
+  - orta-tünd dəri tonu
+  - qadın
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: qadın, kişi, orta-tünd dəri tonu, orta-açıq dəri tonu'
+👩🏾‍❤‍👨🏽:
+  - cütlük
+  - kişi
+  - orta dəri tonu
+  - orta-tünd dəri tonu
+  - qadın
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: qadın, kişi, orta-tünd dəri tonu, orta dəri tonu'
+👩🏾‍❤‍👨🏾:
+  - cütlük
+  - kişi
+  - orta-tünd dəri tonu
+  - qadın
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: qadın, kişi, orta-tünd dəri tonu'
+👩🏾‍❤‍👨🏿:
+  - cütlük
+  - kişi
+  - orta-tünd dəri tonu
+  - qadın
+  - romantika
+  - sevgi
+  - tünd dəri tonu
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: qadın, kişi, orta-tünd dəri tonu, tünd dəri tonu'
+👩🏿‍❤‍👨🏻:
+  - açıq dəri tonu
+  - cütlük
+  - kişi
+  - qadın
+  - romantika
+  - sevgi
+  - tünd dəri tonu
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: qadın, kişi, tünd dəri tonu, açıq dəri tonu'
+👩🏿‍❤‍👨🏼:
+  - cütlük
+  - kişi
+  - orta-açıq dəri tonu
+  - qadın
+  - romantika
+  - sevgi
+  - tünd dəri tonu
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: qadın, kişi, tünd dəri tonu, orta-açıq dəri tonu'
+👩🏿‍❤‍👨🏽:
+  - cütlük
+  - kişi
+  - orta dəri tonu
+  - qadın
+  - romantika
+  - sevgi
+  - tünd dəri tonu
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: qadın, kişi, tünd dəri tonu, orta dəri tonu'
+👩🏿‍❤‍👨🏾:
+  - cütlük
+  - kişi
+  - orta-tünd dəri tonu
+  - qadın
+  - romantika
+  - sevgi
+  - tünd dəri tonu
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: qadın, kişi, tünd dəri tonu, orta-tünd dəri tonu'
+👩🏿‍❤‍👨🏿:
+  - cütlük
+  - kişi
+  - qadın
+  - romantika
+  - sevgi
+  - tünd dəri tonu
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: qadın, kişi, tünd dəri tonu'
+👩🏻‍❤‍👩🏻:
+  - açıq dəri tonu
+  - cütlük
+  - qadın
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: qadın, qadın, açıq dəri tonu'
+👩🏻‍❤‍👩🏼:
+  - açıq dəri tonu
+  - cütlük
+  - orta-açıq dəri tonu
+  - qadın
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: qadın, qadın, açıq dəri tonu, orta-açıq dəri tonu'
+👩🏻‍❤‍👩🏽:
+  - açıq dəri tonu
+  - cütlük
+  - orta dəri tonu
+  - qadın
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: qadın, qadın, açıq dəri tonu, orta dəri tonu'
+👩🏻‍❤‍👩🏾:
+  - açıq dəri tonu
+  - cütlük
+  - orta-tünd dəri tonu
+  - qadın
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: qadın, qadın, açıq dəri tonu, orta-tünd dəri tonu'
+👩🏻‍❤‍👩🏿:
+  - açıq dəri tonu
+  - cütlük
+  - qadın
+  - romantika
+  - sevgi
+  - tünd dəri tonu
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: qadın, qadın, açıq dəri tonu, tünd dəri tonu'
+👩🏼‍❤‍👩🏻:
+  - açıq dəri tonu
+  - cütlük
+  - orta-açıq dəri tonu
+  - qadın
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: qadın, qadın, orta-açıq dəri tonu, açıq dəri tonu'
+👩🏼‍❤‍👩🏼:
+  - cütlük
+  - orta-açıq dəri tonu
+  - qadın
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: qadın, qadın, orta-açıq dəri tonu'
+👩🏼‍❤‍👩🏽:
+  - cütlük
+  - orta dəri tonu
+  - orta-açıq dəri tonu
+  - qadın
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: qadın, qadın, orta-açıq dəri tonu, orta dəri tonu'
+👩🏼‍❤‍👩🏾:
+  - cütlük
+  - orta-açıq dəri tonu
+  - orta-tünd dəri tonu
+  - qadın
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: qadın, qadın, orta-açıq dəri tonu, orta-tünd dəri tonu'
+👩🏼‍❤‍👩🏿:
+  - cütlük
+  - orta-açıq dəri tonu
+  - qadın
+  - romantika
+  - sevgi
+  - tünd dəri tonu
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: qadın, qadın, orta-açıq dəri tonu, tünd dəri tonu'
+👩🏽‍❤‍👩🏻:
+  - açıq dəri tonu
+  - cütlük
+  - orta dəri tonu
+  - qadın
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: qadın, qadın, orta dəri tonu, açıq dəri tonu'
+👩🏽‍❤‍👩🏼:
+  - cütlük
+  - orta dəri tonu
+  - orta-açıq dəri tonu
+  - qadın
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: qadın, qadın, orta dəri tonu, orta-açıq dəri tonu'
+👩🏽‍❤‍👩🏽:
+  - cütlük
+  - orta dəri tonu
+  - qadın
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: qadın, qadın, orta dəri tonu'
+👩🏽‍❤‍👩🏾:
+  - cütlük
+  - orta dəri tonu
+  - orta-tünd dəri tonu
+  - qadın
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: qadın, qadın, orta dəri tonu, orta-tünd dəri tonu'
+👩🏽‍❤‍👩🏿:
+  - cütlük
+  - orta dəri tonu
+  - qadın
+  - romantika
+  - sevgi
+  - tünd dəri tonu
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: qadın, qadın, orta dəri tonu, tünd dəri tonu'
+👩🏾‍❤‍👩🏻:
+  - açıq dəri tonu
+  - cütlük
+  - orta-tünd dəri tonu
+  - qadın
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: qadın, qadın, orta-tünd dəri tonu, açıq dəri tonu'
+👩🏾‍❤‍👩🏼:
+  - cütlük
+  - orta-açıq dəri tonu
+  - orta-tünd dəri tonu
+  - qadın
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: qadın, qadın, orta-tünd dəri tonu, orta-açıq dəri tonu'
+👩🏾‍❤‍👩🏽:
+  - cütlük
+  - orta dəri tonu
+  - orta-tünd dəri tonu
+  - qadın
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: qadın, qadın, orta-tünd dəri tonu, orta dəri tonu'
+👩🏾‍❤‍👩🏾:
+  - cütlük
+  - orta-tünd dəri tonu
+  - qadın
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: qadın, qadın, orta-tünd dəri tonu'
+👩🏾‍❤‍👩🏿:
+  - cütlük
+  - orta-tünd dəri tonu
+  - qadın
+  - romantika
+  - sevgi
+  - tünd dəri tonu
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: qadın, qadın, orta-tünd dəri tonu, tünd dəri tonu'
+👩🏿‍❤‍👩🏻:
+  - açıq dəri tonu
+  - cütlük
+  - qadın
+  - romantika
+  - sevgi
+  - tünd dəri tonu
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: qadın, qadın, tünd dəri tonu, açıq dəri tonu'
+👩🏿‍❤‍👩🏼:
+  - cütlük
+  - orta-açıq dəri tonu
+  - qadın
+  - romantika
+  - sevgi
+  - tünd dəri tonu
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: qadın, qadın, tünd dəri tonu, orta-açıq dəri tonu'
+👩🏿‍❤‍👩🏽:
+  - cütlük
+  - orta dəri tonu
+  - qadın
+  - romantika
+  - sevgi
+  - tünd dəri tonu
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: qadın, qadın, tünd dəri tonu, orta dəri tonu'
+👩🏿‍❤‍👩🏾:
+  - cütlük
+  - orta-tünd dəri tonu
+  - qadın
+  - romantika
+  - sevgi
+  - tünd dəri tonu
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: qadın, qadın, tünd dəri tonu, orta-tünd dəri tonu'
+👩🏿‍❤‍👩🏿:
+  - cütlük
+  - qadın
+  - romantika
+  - sevgi
+  - tünd dəri tonu
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: qadın, qadın, tünd dəri tonu'
 👩‍🦰:
   - qadın
   - 'qadın: qırmızı saç'
@@ -6911,6 +10369,41 @@
   - gizli
   - gizlilik
   - nindza
+🥷🏻:
+  - açıq dəri tonu
+  - döyüşçü
+  - gizli
+  - gizlilik
+  - nindza
+  - 'nindza: açıq dəri tonu'
+🥷🏼:
+  - döyüşçü
+  - gizli
+  - gizlilik
+  - nindza
+  - 'nindza: orta-açıq dəri tonu'
+  - orta-açıq dəri tonu
+🥷🏽:
+  - döyüşçü
+  - gizli
+  - gizlilik
+  - nindza
+  - 'nindza: orta dəri tonu'
+  - orta dəri tonu
+🥷🏾:
+  - döyüşçü
+  - gizli
+  - gizlilik
+  - nindza
+  - 'nindza: orta-tünd dəri tonu'
+  - orta-tünd dəri tonu
+🥷🏿:
+  - döyüşçü
+  - gizli
+  - gizlilik
+  - nindza
+  - 'nindza: tünd dəri tonu'
+  - tünd dəri tonu
 👷:
   - işçi
   - papaq
@@ -7030,6 +10523,52 @@
   - qadın bənna
   - 'qadın bənna: tünd dəri tonu'
   - tikinti
+  - tünd dəri tonu
+🫅:
+  - krallıq
+  - monarx
+  - nəcib
+  - səltənət
+  - taclı adam
+🫅🏻:
+  - açıq dəri tonu
+  - krallıq
+  - monarx
+  - nəcib
+  - səltənət
+  - taclı adam
+  - 'taclı adam: açıq dəri tonu'
+🫅🏼:
+  - krallıq
+  - monarx
+  - nəcib
+  - orta-açıq dəri tonu
+  - səltənət
+  - taclı adam
+  - 'taclı adam: orta-açıq dəri tonu'
+🫅🏽:
+  - krallıq
+  - monarx
+  - nəcib
+  - orta dəri tonu
+  - səltənət
+  - taclı adam
+  - 'taclı adam: orta dəri tonu'
+🫅🏾:
+  - krallıq
+  - monarx
+  - nəcib
+  - orta-tünd dəri tonu
+  - səltənət
+  - taclı adam
+  - 'taclı adam: orta-tünd dəri tonu'
+🫅🏿:
+  - krallıq
+  - monarx
+  - nəcib
+  - səltənət
+  - taclı adam
+  - 'taclı adam: tünd dəri tonu'
   - tünd dəri tonu
 🤴:
   - oğlan şahzadə
@@ -7396,49 +10935,49 @@
   - 'smokinqli qadın: tünd dəri tonu'
   - tünd dəri tonu
 👰:
-  - duvaq
   - duvaqlı şəxs
+  - fata
+  - fatalı gəlin
   - gəlin
-  - toy
   - şəxs
 👰🏻:
   - açıq dəri tonu
-  - duvaq
   - duvaqlı şəxs
   - 'duvaqlı şəxs: açıq dəri tonu'
+  - fata
+  - fatalı gəlin
   - gəlin
-  - toy
   - şəxs
 👰🏼:
-  - duvaq
   - duvaqlı şəxs
   - 'duvaqlı şəxs: orta-açıq dəri tonu'
+  - fata
+  - fatalı gəlin
   - gəlin
   - orta-açıq dəri tonu
-  - toy
   - şəxs
 👰🏽:
-  - duvaq
   - duvaqlı şəxs
   - 'duvaqlı şəxs: orta dəri tonu'
+  - fata
+  - fatalı gəlin
   - gəlin
   - orta dəri tonu
-  - toy
   - şəxs
 👰🏾:
-  - duvaq
   - duvaqlı şəxs
   - 'duvaqlı şəxs: orta-tünd dəri tonu'
+  - fata
+  - fatalı gəlin
   - gəlin
   - orta-tünd dəri tonu
-  - toy
   - şəxs
 👰🏿:
-  - duvaq
   - duvaqlı şəxs
   - 'duvaqlı şəxs: tünd dəri tonu'
+  - fata
+  - fatalı gəlin
   - gəlin
-  - toy
   - tünd dəri tonu
   - şəxs
 👰‍♂:
@@ -7544,6 +11083,98 @@
   - qadın
   - tünd dəri tonu
   - uşaq
+🫃:
+  - hamilə
+  - hamilə kişi
+  - qarın
+  - tam
+  - şişkin
+🫃🏻:
+  - açıq dəri tonu
+  - hamilə
+  - hamilə kişi
+  - 'hamilə kişi: açıq dəri tonu'
+  - qarın
+  - tam
+  - şişkin
+🫃🏼:
+  - hamilə
+  - hamilə kişi
+  - 'hamilə kişi: orta-açıq dəri tonu'
+  - orta-açıq dəri tonu
+  - qarın
+  - tam
+  - şişkin
+🫃🏽:
+  - hamilə
+  - hamilə kişi
+  - 'hamilə kişi: orta dəri tonu'
+  - orta dəri tonu
+  - qarın
+  - tam
+  - şişkin
+🫃🏾:
+  - hamilə
+  - hamilə kişi
+  - 'hamilə kişi: orta-tünd dəri tonu'
+  - orta-tünd dəri tonu
+  - qarın
+  - tam
+  - şişkin
+🫃🏿:
+  - hamilə
+  - hamilə kişi
+  - 'hamilə kişi: tünd dəri tonu'
+  - qarın
+  - tam
+  - tünd dəri tonu
+  - şişkin
+🫄:
+  - hamilə
+  - hamilə adam
+  - qarın
+  - tam
+  - şişkin
+🫄🏻:
+  - açıq dəri tonu
+  - hamilə
+  - hamilə adam
+  - 'hamilə adam: açıq dəri tonu'
+  - qarın
+  - tam
+  - şişkin
+🫄🏼:
+  - hamilə
+  - hamilə adam
+  - 'hamilə adam: orta-açıq dəri tonu'
+  - orta-açıq dəri tonu
+  - qarın
+  - tam
+  - şişkin
+🫄🏽:
+  - hamilə
+  - hamilə adam
+  - 'hamilə adam: orta dəri tonu'
+  - orta dəri tonu
+  - qarın
+  - tam
+  - şişkin
+🫄🏾:
+  - hamilə
+  - hamilə adam
+  - 'hamilə adam: orta-tünd dəri tonu'
+  - orta-tünd dəri tonu
+  - qarın
+  - tam
+  - şişkin
+🫄🏿:
+  - hamilə
+  - hamilə adam
+  - 'hamilə adam: tünd dəri tonu'
+  - qarın
+  - tam
+  - tünd dəri tonu
+  - şişkin
 🤱:
   - döş
   - körpə
@@ -8668,6 +12299,11 @@
   - gəzən ölü
   - qadın zombi
   - xortdan
+🧌:
+  - fentezi
+  - monstr
+  - nağıl
+  - troll
 💆:
   - masaj
   - salon
@@ -9187,35 +12823,41 @@
   - qadın
   - tünd dəri tonu
 🧑‍🦯:
-  - kor
+  - ağ çəlikli adam
+  - görmə məhdudiyyətli
   - xüsusi funksiyalar
   - zondlayan çəlikli adam
 🧑🏻‍🦯:
   - açıq dəri tonu
-  - kor
+  - ağ çəlikli adam
+  - görmə məhdudiyyətli
   - xüsusi funksiyalar
   - zondlayan çəlikli adam
   - 'zondlayan çəlikli adam: açıq dəri tonu'
 🧑🏼‍🦯:
-  - kor
+  - ağ çəlikli adam
+  - görmə məhdudiyyətli
   - orta-açıq dəri tonu
   - xüsusi funksiyalar
   - zondlayan çəlikli adam
   - 'zondlayan çəlikli adam: orta-açıq dəri tonu'
 🧑🏽‍🦯:
-  - kor
+  - ağ çəlikli adam
+  - görmə məhdudiyyətli
   - orta dəri tonu
   - xüsusi funksiyalar
   - zondlayan çəlikli adam
   - 'zondlayan çəlikli adam: orta dəri tonu'
 🧑🏾‍🦯:
-  - kor
+  - ağ çəlikli adam
+  - görmə məhdudiyyətli
   - orta-tünd dəri tonu
   - xüsusi funksiyalar
   - zondlayan çəlikli adam
   - 'zondlayan çəlikli adam: orta-tünd dəri tonu'
 🧑🏿‍🦯:
-  - kor
+  - ağ çəlikli adam
+  - görmə məhdudiyyətli
   - tünd dəri tonu
   - xüsusi funksiyalar
   - zondlayan çəlikli adam
@@ -9394,26 +13036,38 @@
   - tünd dəri tonu
 🧑‍🦽:
   - əl arabasında adam
+  - əlil arabası
+  - əlil arabasında adam
 🧑🏻‍🦽:
   - açıq dəri tonu
   - əl arabasında adam
   - 'əl arabasında adam: açıq dəri tonu'
+  - əlil arabası
+  - əlil arabasında adam
 🧑🏼‍🦽:
   - orta-açıq dəri tonu
   - əl arabasında adam
   - 'əl arabasında adam: orta-açıq dəri tonu'
+  - əlil arabası
+  - əlil arabasında adam
 🧑🏽‍🦽:
   - orta dəri tonu
   - əl arabasında adam
   - 'əl arabasında adam: orta dəri tonu'
+  - əlil arabası
+  - əlil arabasında adam
 🧑🏾‍🦽:
   - orta-tünd dəri tonu
   - əl arabasında adam
   - 'əl arabasında adam: orta-tünd dəri tonu'
+  - əlil arabası
+  - əlil arabasında adam
 🧑🏿‍🦽:
   - tünd dəri tonu
   - əl arabasında adam
   - 'əl arabasında adam: tünd dəri tonu'
+  - əlil arabası
+  - əlil arabasında adam
 👨‍🦽:
   - kişi
   - manual
@@ -12555,6 +16209,36 @@
   - cütlük
   - romantika
   - öpüş
+💏🏻:
+  - açıq dəri tonu
+  - cütlük
+  - romantika
+  - öpüş
+  - 'öpüş: açıq dəri tonu'
+💏🏼:
+  - cütlük
+  - orta-açıq dəri tonu
+  - romantika
+  - öpüş
+  - 'öpüş: orta-açıq dəri tonu'
+💏🏽:
+  - cütlük
+  - orta dəri tonu
+  - romantika
+  - öpüş
+  - 'öpüş: orta dəri tonu'
+💏🏾:
+  - cütlük
+  - orta-tünd dəri tonu
+  - romantika
+  - öpüş
+  - 'öpüş: orta-tünd dəri tonu'
+💏🏿:
+  - cütlük
+  - romantika
+  - tünd dəri tonu
+  - öpüş
+  - 'öpüş: tünd dəri tonu'
 👩‍❤‍💋‍👨:
   - cütlük
   - kişi
@@ -12580,6 +16264,46 @@
   - sevgi
   - ürək
   - ürəkli cütlük
+💑🏻:
+  - açıq dəri tonu
+  - cütlük
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: açıq dəri tonu'
+💑🏼:
+  - cütlük
+  - orta-açıq dəri tonu
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: orta-açıq dəri tonu'
+💑🏽:
+  - cütlük
+  - orta dəri tonu
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: orta dəri tonu'
+💑🏾:
+  - cütlük
+  - orta-tünd dəri tonu
+  - romantika
+  - sevgi
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: orta-tünd dəri tonu'
+💑🏿:
+  - cütlük
+  - romantika
+  - sevgi
+  - tünd dəri tonu
+  - ürək
+  - ürəkli cütlük
+  - 'ürəkli cütlük: tünd dəri tonu'
 👩‍❤‍👨:
   - cütlük
   - kişi
@@ -13244,6 +16968,10 @@
   - balıqqulağı
   - spiral
   - spiral balıqqulağı
+🪸:
+  - mərcan
+  - okean
+  - rif
 🐌:
   - ilbiz
 🦋:
@@ -13321,6 +17049,14 @@
 💮:
   - ağ gül
   - gül
+🪷:
+  - Buddizm
+  - Hindistan
+  - Hinduizm
+  - Vyetnam
+  - lotus
+  - saflıq
+  - çiçək
 🏵️:
   - bitki
   - rozetka
@@ -13416,6 +17152,15 @@
   - titrəmək
   - yarpaq
   - əsmək
+🪹:
+  - boş yuva
+  - yuvalama
+🪺:
+  - yumurtalı yuva
+  - yuvalama
+🍄:
+  - göbələk
+  - milçəkqıran
 🍇:
   - meyvə
   - üzüm
@@ -13528,12 +17273,14 @@
 🧅:
   - dadlandırma
   - soğan
-🍄:
-  - göbələk
-  - milçəkqıran
 🥜:
   - yer fındığı
   - çərəz
+🫘:
+  - böyrək
+  - lobya
+  - paxlalı
+  - qida
 🌰:
   - bitki
   - şabalıd
@@ -13645,8 +17392,8 @@
 🫕:
   - fondyu
   - güvəc
-  - isveçrə
   - pendir
+  - İsveçrə
   - şokolad
   - əridilmiş
 🥣:
@@ -13894,7 +17641,6 @@
   - şüşə
   - şərab
   - şərab bakalı
-  - şərəb bakalı
 🍸️:
   - bar
   - içmək
@@ -13929,6 +17675,12 @@
   - likör
   - spirtli
   - viski stəkanı
+🫗:
+  - boş
+  - içki
+  - maye süzülməsi
+  - tökmək
+  - şüşə
 🥤:
   - borucuqlu stəkan
   - soda
@@ -13974,6 +17726,13 @@
   - hoço
   - mətbəx bıçağı
   - silah
+🫙:
+  - banka
+  - konteyner
+  - mağaza
+  - sous
+  - çeşni
+  - ədva
 🏺:
   - alət
   - amfora
@@ -14253,6 +18012,10 @@
   - at
   - karusel
   - karusel at
+🛝:
+  - oynamaq
+  - oyun slaydı
+  - əyləncə parkı
 🎡:
   - lunapark
   - çarx
@@ -14465,6 +18228,10 @@
   - stansiya
   - yanacaq
   - yanacaq borusu
+🛞:
+  - dairə
+  - növbə
+  - təkər
 🚨:
   - fırlanan
   - işıq
@@ -14494,6 +18261,12 @@
   - alət
   - gəmi
   - lövbər
+🛟:
+  - həyat qoruyucu
+  - təhlükəsizlik
+  - xilasetmə
+  - üzmək
+  - üzük buy
 ⛵️:
   - dəniz
   - kurort
@@ -15327,6 +19100,11 @@
   - havada üzmə
   - uçuş
   - çərpələng
+🔫:
+  - alət
+  - revolver
+  - silah
+  - tapança
 🎱:
   - '8'
   - bilyard
@@ -15346,12 +19124,6 @@
   - falçı
   - sehrli
   - sehrli çubuq
-🧿:
-  - gözdəymə
-  - gözmuncuğu
-  - gözmüncuğu
-  - muncuq
-  - talisman
 🎮️:
   - kontroller
   - oyun
@@ -15382,10 +19154,16 @@
   - bayram
   - pinyata
   - şənlik
+🪩:
+  - diskoteka
+  - güzgü top
+  - parıltı
+  - rəqs
+  - ziyafət
 🪆:
+  - Rusiya
   - gəlincik
   - matryoşkalar
-  - rusiya
   - yuva
 ♠️:
   - dəst
@@ -15645,7 +19423,6 @@
   - baş
   - geyim
   - papaq
-  - silindi şlyapa
   - silindr papaq
   - silindr şlyapa
 🎓️:
@@ -15838,6 +19615,9 @@
   - faks aparatı
 🔋:
   - batareya
+🪫:
+  - bitən enerji
+  - elektron
 🔌:
   - elektrik
   - elektrik ştepseli
@@ -16349,11 +20129,9 @@
   - kəsişən qılınclar
   - qılınclar
   - silah
-🔫:
-  - alət
-  - revolver
-  - silah
-  - tapança
+💣️:
+  - bomba
+  - komik
 🪃:
   - avstraliya
   - bumeranq
@@ -16488,11 +20266,23 @@
 🩹:
   - bandaj
   - yapışan bandaj
+🩼:
+  - hərəkətlilik yardımı
+  - incitmək
+  - qalmaq
+  - qoltuqağacı
+  - əlillik
 🩺:
   - doktor
   - stetoskop
   - tibb
   - ürək
+🩻:
+  - həkim
+  - rentgen
+  - skelet
+  - sümüklər
+  - tibbi
 🚪:
   - qapı
 🛗:
@@ -16579,6 +20369,12 @@
   - sabunqabı
   - təmizlənmək
   - çimmək
+🫧:
+  - gəyirti
+  - köpüklər
+  - sabun
+  - sualtı
+  - təmiz
 🪥:
   - diş
   - diş fırçası
@@ -16618,6 +20414,20 @@
   - cənazə urnası
   - urna
   - ölüm
+🧿:
+  - gözdəymə
+  - gözmuncuğu
+  - gözmüncuğu
+  - muncuq
+  - talisman
+🪬:
+  - Fatimə
+  - Miriam
+  - Məryəm
+  - amulet
+  - hamsa
+  - qorunma
+  - əl
 🗿:
   - heykəl
   - moai
@@ -16628,9 +20438,15 @@
   - nümayiş
   - paya
   - plakat
+🪪:
+  - etimadnamələri
+  - lisenziya
+  - təhlükəsizlik
+  - Şəxsiyyət vəsiqəsi
+  - şəxsiyyət vəsiqəsi
 🏧:
   - Bankomat işarəsi
-  - avtomat
+  - avtomatik
   - bank
   - bankomat
   - kassir
@@ -16645,7 +20461,7 @@
   - su
 ♿️:
   - giriş
-  - əlil arabası
+  - əlil arabası işarəsi
 🚹️:
   - ayaqyolu
   - kişi
@@ -16659,26 +20475,29 @@
   - tualet
   - wc
 🚻:
+  - WC
   - ayaqyolu
-  - wc
+  - tualet
 🚼️:
-  - dəyişiklik
+  - bələyi dəyişmək
   - körpə
+  - körpə işarəsi
   - körpə simvolu
 🚾:
   - ayaqyolu
   - su
   - tualet
+  - tualet otağı
   - wc
 🛂:
-  - idarə
   - pasport
   - pasport yoxlaması
+  - yoxlama
 🛃:
   - gömrük
 🛄:
   - baqaj
-  - baqaj tələbi
+  - baqajın verilməsi
   - tələb
 🛅:
   - baqaj
@@ -16686,7 +20505,6 @@
   - yük
   - şkaf
 ⚠️:
-  - həyəcan
   - xəbərdarlıq
 🚸:
   - keçmək
@@ -16730,10 +20548,9 @@
   - zibil
   - zibil atmaq olmaz
 🚱:
-  - içmək
-  - içməli
-  - qadağa
-  - qadağan olunmuş
+  - içməli deyil
+  - içməyə yararsız
+  - su
   - su içməli deyil
 🚷:
   - piyada
@@ -16751,9 +20568,13 @@
   - xeyr
   - yox
 🔞:
+  - '18'
   - 18 yaşından aşağı olanlara olmaz
+  - həddi-buluğa çatmamış
   - on səkkiz
-  - qadağa
+  - on səkkiz yaşdan aşağıya olmaz
+  - qadağandır
+  - yaş məhdudiyyəti
 ☢️:
   - işarə
   - radioaktiv
@@ -16815,6 +20636,8 @@
 ↔️:
   - ox
   - sola-sağa ox
+↮:
+  - soldan sağa ox xətti
 ↩️:
   - ox
   - sola dönən sağ ox
@@ -17112,16 +20935,25 @@
   - vurma
   - ×
 ➕:
-  - plus
-  - qalın plus işarəsi
+  - +
+  - işarə
+  - qalın üstəgəl işarəsi
   - riyaziyyat
+  - üstəgəl
 ➖:
-  - minus
-  - qalın minus işarəsi
+  - '-'
+  - işarə
+  - qalın çıxma işarəsi
   - riyaziyyat
+  - çıxma
+  - −
 ➗:
   - bölmə
   - qalın bölmə işarəsi
+  - riyaziyyat
+🟰:
+  - ağır bərabərlik işarəsi
+  - bərabərlik
   - riyaziyyat
 ♾️:
   - həmişəlik
@@ -17143,7 +20975,8 @@
   - sual
 ❓️:
   - durğu işarəsi
-  - işarə
+  - qırmızı işarə
+  - qırmızı sual işarəsi
   - sual
   - sual işarəsi
 ❔:
@@ -17162,7 +20995,7 @@
   - durğu işarəsi
   - işarə
   - nida
-  - nida işarəsi
+  - qırmızı nida işarəsi
 〰️:
   - dalğalı tire
   - dalğavari
@@ -17210,16 +21043,20 @@
 ⭕️:
   - dairə
   - o
-  - qalın böyük dairə
+  - q
+  - qalın dairə
+  - qırmızı qalın dairə
+  - rm
+  - z
 ✅:
-  - ağ qalın təsdiq işarəsi
   - işarə
   - işarələ
+  - təsdiq işarəsi
 ☑️:
   - işarələ
   - qutu
   - seçki
-  - təsdiqlənmiş seçki qutusu
+  - təsdiqlənmiş seçim düzbucaqlısı
 ✔️:
   - işarə
   - işarələ
@@ -17355,43 +21192,44 @@
   - ödənişsiz
 ℹ️:
   - i
-  - informasiya məlumatı
   - məlumat
 🆔:
   - id
   - kimlik
-  - kvadrat kimlik
+  - kimlik düyməsi
 Ⓜ️:
   - dairə
-  - dairəvi m hərfi
+  - dairə içində M
   - m
 🆕:
-  - kvadrat yeni
   - yeni
+  - yeni düyməsi
 🆖:
-  - kvadrat ng
+  - NG düyməsi
   - ng
 🅾️:
   - o
   - o düyməsi
   - qan
 🆗:
-  - kvadrat ok
-  - ok
+  - OK
+  - OK düyməsi
 🅿️:
   - p düyməsi
   - parkinq
 🆘:
-  - kvadrat sos
+  - SOS düyməsi
   - kömək
   - sos
 🆙:
+  - YUXARI! düyməsi
   - işarə
-  - up! button
   - yuxarı
+  - yuxarı! düyməsi
 🆚:
-  - kvadrat vs
+  - QARŞI düyməsi
   - qarşı
+  - qarşı düyməsi
   - vs
 🈁:
   - kvadrat katakana koko
@@ -17400,71 +21238,100 @@
   - kvadrat katakana sa
   - yapon
 🈷:
-  - kvadrat ay ideoqramı
-  - yapon
+  - '"aylıq məbləğ"'
+  - Japanese
+  - ideoqram
+  - yapon "aylıq məbləğ" düyməsi
+  - 月
 🈶:
-  - kvadrat çıxış ideoqramı
+  - '"pulsuz deyil"'
+  - ideoqram
   - yapon
+  - yapon "pulsuz deyil" düyməsi
+  - 有
 🈯:
-  - kvadrat barmaq ideoqramı
+  - '"məxsusdur"'
+  - ideoqram
   - yapon
+  - yapon "məxsusdur" düyməsi
+  - 指
 🉐:
-  - dairə üstünlük ideoqramı
+  - '"sövdələşmə"'
+  - ideoqram
   - yapon
+  - yapon "yaxşı sövdələşmə" düyməsi
+  - 得
 🈹:
   - kvadrat bölmə ideoqramı
   - yapon
 🈚:
-  - kvadrat inkar ideoqramı
+  - '"pulsuzdur"'
+  - ideoqram
   - yapon
+  - yapon "pulsuzdur" düyməsi
+  - 無
 🈲:
   - kvadrat qadağa ideoqramı
   - yapon
 🉑:
-  - dairə qəbul etmək ideoqramı
-  - çin
+  - '"qəbul edilə bilən"'
+  - ideoqram
+  - yapon
+  - yapon "qəbul edilə bilən" düyməsi
+  - 可
 🈸:
   - kvadrat tətbiq ideoqramı
   - çin
 🈴:
-  - kvadrat birlikdə ideoqramı
-  - çin
+  - '"keçən qiymət"'
+  - ideoqram
+  - yapon
+  - yapon "keçən qiymət" düyməsi
+  - 合
 🈳:
   - kvadrat boş ideoqramı
   - çin
 ㊗️:
-  - dairə təbrik ideoqramı
+  - '"təbriklər"'
   - ideoqram
-  - təbrik
-  - çin
+  - yapon
+  - yapon "təbriklər" düyməsi
+  - 祝
 ㊙️:
-  - dairə sirr ideoqramı
+  - '"məxfi"'
   - ideoqram
-  - sirr
-  - çin
+  - yapon
+  - yapon "məxfi" düyməsi
+  - 秘
 🈺:
-  - kvadrat idarə ideoqramı
-  - çin
+  - '"iş"'
+  - ideoqram
+  - yapon
+  - yapon "iş" düyməsi
+  - 営
 🈵:
-  - kvadrat dolğunluq ideoqramı
-  - çin
+  - '"tamamilə dolu"'
+  - ideoqram
+  - yapon
+  - yapon "tamamilə dolu" düyməsi
+  - 満
 🔴:
   - dairə
   - həndəsi
   - qırmızı
   - qırmızı dairə
 🟠:
+  - dairə
   - narıncı
-  - narıncı çevrə
-  - çevrə
+  - narıncı dairə
 🟡:
+  - dairə
   - sarı
-  - sarı çevrə
-  - çevrə
+  - sarı dairə
 🟢:
+  - dairə
   - yaşıl
-  - yaşıl çevrə
-  - çevrə
+  - yaşıl dairə
 🔵:
   - dairə
   - həndəsi
@@ -17472,12 +21339,12 @@
   - mavi dairə
 🟣:
   - bənövşəyi
-  - bənövşəyi çevrə
-  - çevrə
+  - bənövşəyi dairə
+  - dairə
 🟤:
+  - dairə
   - qəhvəyi
-  - qəhvəyi çevrə
-  - çevrə
+  - qəhvəyi dairə
 ⚫️:
   - dairə
   - həndəsi
@@ -17487,9 +21354,9 @@
   - dairə
   - həndəsi
 🟥:
+  - kvadrat
   - qırmızı
   - qırmızı kvadrat
-  - çevrə
 🟧:
   - kvadrat
   - narıncı
@@ -17533,7 +21400,7 @@
 ◾️:
   - həndəsi
   - kvadrat
-  - qara orta kiçiklikdə kvadrat
+  - qara orta-kiçik kvadrat
 ◽️:
   - ağ orta kiçiklikdə kvadrat
   - həndəsi
@@ -17613,8 +21480,9 @@
   - yapon
 🏴:
   - dalğalanan
-  - dalğalanan qara bayraq
+  - qara bayraq
 🏳️:
+  - ağ bayraq
   - dalğalanan
   - dalğalanan ağ bayraq
 🏳‍🌈:
@@ -18414,23 +22282,155 @@
 🏴󠁧󠁢󠁷󠁬󠁳󠁿:
   - bayraq
   - 'bayraq: Uels'
+¤:
+  - Naməlum Valyuta
+¢:
+  - sent
+$:
+  - USD
+  - dollar
+  - peso
+  - pul
+£:
+  - EGP
+  - GBP
+  - funt
+  - valyuta
+¥:
+  - CNY
+  - JPY
+  - valyuta
+  - yen
+  - yuan
+֏:
+  - Ermənistan Dramı
+؋:
+  - Əfqanıstan Əfqanisi
+৳:
+  - Banqladeş Takası
+฿:
+  - Tayland Batı
+៛:
+  - Kamboca Rieli
+₡:
+  - Kosta Rika Kolonu
+₢:
+  - BRB
+  - kruzeyro
+  - valyuta
+₣:
+  - frank
+  - fransız frankı
+  - valyuta
+₤:
+  - lira
+  - valyuta
+₥:
+  - mil
+  - mill
+₦:
+  - Nigeriya Nairası
+₧:
+  - İspan Pesetası
+₩:
+  - KPW
+  - KRW
+  - von
+₪:
+  - İsrail Yeni Şekeli
+₫:
+  - Vyetnam Donqu
+€:
+  - EUR
+  - avro
+  - valyuta
+₭:
+  - Laos Kipi
+₮:
+  - Monqoliya Tuqriki
+₰:
+  - alman pennisi
+  - german pennisi
+  - pfenniq
+  - valyuta
+₱:
+  - peso
+  - peso işarəsi
+₲:
+  - Paraqvay Quaranisi
+₳:
+  - ARA
+  - austral
+  - valyuta
+₴:
+  - Ukrayna Qrivnası
+₵:
+  - Qana Sedisi
+₶:
+  - tur livri
+  - valyuta
+₷:
+  - spesmilo
+  - valyuta
+₸:
+  - Qazaxıstan Tengesi
+₹:
+  - Hindistan rupisi
+  - rupi
+  - valyuta
+₺:
+  - Türkiyə Lirəsi
+₼:
+  - Azərbaycan Manatı
+₽:
+  - rubl
+  - valyuta
+₾:
+  - Gürcüstan Larisi
+₿:
+  - BTC
+  - bitkoin
+₨:
+  - rupi
+  - valyuta
+﷼:
+  - rial
+  - valyuta
+¹:
+  - bir
+  - üstdə bir
+  - üstdə yazılan
+²:
+  - iki
+  - kvadrata yüksəlmiş
+  - üstdə iki
+  - üstdə yazılan
+³:
+  - kuba yüksəlmiş
+  - üstdə yazılan
+  - üstdə üç
+  - üç
+µ:
+  - mikro işarəsi
+  - mkro işarəsi
+  - ölçü
 🏻:
   - açıq dəri tonu
-  - emoji modifikatoru
+  - dəri tonu
   - növ 1–2
 🏼:
-  - emoji modifikatoru
+  - dəri tonu
   - növ 3
   - orta-açıq dəri tonu
 🏽:
-  - emoji modifikatoru
+  - dəri tonu
   - növ 4
   - orta dəri tonu
 🏾:
-  - emoji modifikatoru
+  - dəri tonu
   - növ 5
   - orta-tünd dəri tonu
 🏿:
-  - emoji modifikatoru
+  - dəri tonu
   - növ 6
   - tünd dəri tonu

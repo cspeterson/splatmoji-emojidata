@@ -1,4 +1,1411 @@
 {
+    "‾": [
+        "ylleviivaus"
+    ],
+    "_": [
+        "alaviiva",
+        "viiva"
+    ],
+    "-": [
+        "miinus",
+        "miinusviiva",
+        "tavuviiva",
+        "viiva"
+    ],
+    "‐": [
+        "tavuviiva",
+        "yhdysviiva"
+    ],
+    "–": [
+        "ajatusviiva",
+        "lyhyt ajatusviiva",
+        "n-viiva",
+        "viiva"
+    ],
+    "—": [
+        "ajatusviiva",
+        "m-viiva",
+        "pitkä ajatusviiva",
+        "viiva"
+    ],
+    "―": [
+        "tavuviiva",
+        "vaakaviiva",
+        "viiva",
+        "väliviiva"
+    ],
+    "・": [
+        "katakana",
+        "katakana keskipiste",
+        "keskipiste",
+        "pisteet",
+        "välipiste"
+    ],
+    ",": [
+        "desimaalierotin",
+        "pilkku"
+    ],
+    "،": [
+        "arabialainen",
+        "arabialainen pilkku",
+        "pilkku"
+    ],
+    "、": [
+        "ideografinen",
+        "ideografinen pilkku",
+        "pilkku"
+    ],
+    ";": [
+        "puolipiste"
+    ],
+    "؛": [
+        "arabialainen",
+        "arabialainen puolipiste",
+        "puolipiste"
+    ],
+    ":": [
+        "kaksoispiste"
+    ],
+    "!": [
+        "huudahdus",
+        "huutomerkki",
+        "pamaus",
+        "parahdus"
+    ],
+    "¡": [
+        "huudahdus",
+        "huutomerkki",
+        "käänteinen",
+        "käänteinen huutomerkki",
+        "pamaus"
+    ],
+    "?": [
+        "kysymys"
+    ],
+    "¿": [
+        "kysymys",
+        "kysymysmerkki",
+        "käänteinen",
+        "käänteinen kysymysmerkki"
+    ],
+    "؟": [
+        "arabialainen",
+        "arabialainen kysymysmerkki",
+        "kysymys",
+        "kysymysmerkki"
+    ],
+    "‽": [
+        "kysymys-huutomerkki"
+    ],
+    ".": [
+        "piste"
+    ],
+    "…": [
+        "ellipsi",
+        "kolme pistettä",
+        "pistekolmikko"
+    ],
+    "。": [
+        "ideografinen",
+        "ideografinen piste",
+        "piste",
+        "ympyrä"
+    ],
+    "·": [
+        "piste",
+        "piste keskellä",
+        "rivinkeskinen piste"
+    ],
+    "'": [
+        "heittomerkki",
+        "koneheittomerkki",
+        "lainaus",
+        "puolilainausmerkki"
+    ],
+    "‘": [
+        "apostrofi",
+        "heittomerkki",
+        "lainaus",
+        "puolilainausmerkki",
+        "vasen heittomerkki"
+    ],
+    "’": [
+        "apostrofi",
+        "heittomerkki",
+        "lainaus",
+        "oikea heittomerkki",
+        "puolilainausmerkki"
+    ],
+    "‚": [
+        "alaheittomerkki",
+        "apostrofi",
+        "lainaus",
+        "oikea alaheittomerkki"
+    ],
+    "“": [
+        "heittomerkki",
+        "lainaus",
+        "lainausmerkki",
+        "vasen lainausmerkki"
+    ],
+    "”": [
+        "heittomerkki",
+        "lainaus",
+        "lainausmerkki",
+        "oikea lainausmerkki"
+    ],
+    "„": [
+        "alalainausmerkki",
+        "kokolainausmerkki",
+        "lainaus",
+        "oikea alalainausmerkki"
+    ],
+    "«": [
+        "kaksoisnuoli",
+        "kulma",
+        "kulmalainausmerkki",
+        "lainausmerkki",
+        "poisjääntimerkit",
+        "vasen",
+        "vasen kulmalainausmerkki"
+    ],
+    "»": [
+        "kaksoisnuoli",
+        "kulma",
+        "kulmalainausmerkki",
+        "lainausmerkki",
+        "oikea",
+        "oikea kulmalainausmerkki",
+        "poisjääntimerkit"
+    ],
+    ")": [
+        "kaarisulje",
+        "kaarisulku",
+        "oikea kaarisulje",
+        "sulje",
+        "sulkeet",
+        "sulkeva",
+        "sulkumerkki",
+        "sulut"
+    ],
+    "[": [
+        "alkava",
+        "hakasulje",
+        "hakasulku",
+        "sulje",
+        "sulkeet",
+        "sulkumerkki",
+        "vasen hakasulje"
+    ],
+    "]": [
+        "hakasulje",
+        "hakasulku",
+        "oikea hakasulje",
+        "sulje",
+        "sulkeet",
+        "sulkeva",
+        "sulkumerkki"
+    ],
+    "{": [
+        "aaltosulje",
+        "aaltosulku",
+        "alkava",
+        "sulje",
+        "sulkeet",
+        "sulkumerkki",
+        "vasen aaltosulje"
+    ],
+    "}": [
+        "aaltosulje",
+        "aaltosulku",
+        "alkava",
+        "oikea aaltosulje",
+        "sulje",
+        "sulkeet",
+        "sulkumerkki"
+    ],
+    "〈": [
+        "alkava",
+        "kulmasulje",
+        "kulmasulku",
+        "sulje",
+        "sulkeet",
+        "sulkumerkki",
+        "vasen kulmasulje"
+    ],
+    "〉": [
+        "kulmasulje",
+        "kulmasulku",
+        "oikea kulmasulje",
+        "sulje",
+        "sulkeet",
+        "sulkeva",
+        "sulkumerkki"
+    ],
+    "《": [
+        "alkava",
+        "kaksoiskulmasulje",
+        "kaksoiskulmasulku",
+        "sulje",
+        "sulkeet",
+        "sulkumerkki",
+        "vasen kaksoiskulmasulje"
+    ],
+    "》": [
+        "kaksoiskulmasulje",
+        "kaksoiskulmasulku",
+        "oikea kaksoiskulmasulje",
+        "sulje",
+        "sulkeet",
+        "sulkeva",
+        "sulkumerkki"
+    ],
+    "「": [
+        "alkava",
+        "nurkkasulje",
+        "nurkkasulku",
+        "sulje",
+        "sulku",
+        "sulkumerkki",
+        "vasen nurkkasulje"
+    ],
+    "」": [
+        "nurkkasulje",
+        "nurkkasulku",
+        "oikea nurkkasulje",
+        "sulje",
+        "sulkeva",
+        "sulku",
+        "sulkumerkki"
+    ],
+    "『": [
+        "alkava",
+        "ontto nurkkasulje",
+        "ontto nurkkasulku",
+        "sulje",
+        "sulku",
+        "sulkumerkki",
+        "vasen ontto nurkkasulje"
+    ],
+    "』": [
+        "oikea ontto nurkkasulje",
+        "ontto nurkkasulje",
+        "ontto nurkkasulku",
+        "sulje",
+        "sulkeva",
+        "sulku",
+        "sulkumerkki"
+    ],
+    "【": [
+        "alkava",
+        "musta linssisulje",
+        "musta linssisulku",
+        "sulje",
+        "sulku",
+        "sulkumerkki",
+        "vasen musta linssisulje"
+    ],
+    "】": [
+        "musta linssisulje",
+        "musta linssisulku",
+        "oikea musta linssisulje",
+        "sulje",
+        "sulkeva",
+        "sulku",
+        "sulkumerkki"
+    ],
+    "〔": [
+        "alkava",
+        "sulje",
+        "sulkeet",
+        "sulkumerkki",
+        "tylppäkulmainen hakasulje",
+        "tylppäkulmainen hakasulku",
+        "vasen tylppäkulmainen hakasulje"
+    ],
+    "〕": [
+        "oikea tylppäkulmainen hakasulje",
+        "sulje",
+        "sulkeet",
+        "sulkeva",
+        "sulkumerkki",
+        "tylppäkulmainen hakasulje",
+        "tylppäkulmainen hakasulku"
+    ],
+    "〖": [
+        "alkava",
+        "ontto linssisulje",
+        "ontto linssisulku",
+        "sulje",
+        "sulku",
+        "sulkumerkki",
+        "vasen ontto linssisulje"
+    ],
+    "〗": [
+        "oikea ontto linssisulje",
+        "ontto linssisulje",
+        "ontto linssisulku",
+        "sulje",
+        "sulkeva",
+        "sulku",
+        "sulkumerkki"
+    ],
+    "§": [
+        "kappale",
+        "osa",
+        "pykälämerkki"
+    ],
+    "¶": [
+        "alinea",
+        "kapp.",
+        "kappale",
+        "kappaleen merkki",
+        "kappalemerkki"
+    ],
+    "@": [
+        "kissanhäntä",
+        "miukumauku",
+        "ät-merkki"
+    ],
+    "*️": [
+        "asteriski",
+        "tähti",
+        "tähtimerkki"
+    ],
+    "/": [
+        "kauttaviiva",
+        "vino",
+        "vinoviiva"
+    ],
+    "\\": [
+        "kenoviiva",
+        "käänteinen kauttaviiva"
+    ],
+    "&": [
+        "et",
+        "et-merkki",
+        "ja"
+    ],
+    "#️": [
+        "hashtag",
+        "lb",
+        "numero",
+        "pauna",
+        "ristikko",
+        "ristikkomerkki"
+    ],
+    "%": [
+        "prosentti"
+    ],
+    "‰": [
+        "promille"
+    ],
+    "†": [
+        "risti",
+        "ristimerkki"
+    ],
+    "‡": [
+        "kaksoisristi",
+        "kaksoisristimerkki",
+        "risti",
+        "ristimerkki"
+    ],
+    "•": [
+        "luetelmapallo",
+        "luettelomerkki",
+        "piste"
+    ],
+    "‧": [
+        "tavu",
+        "tavupiste",
+        "viiva",
+        "väli"
+    ],
+    "′": [
+        "yläpuolinen indeksointipilkku"
+    ],
+    "″": [
+        "kaksinkertainen yläpuolinen indeksointipilkku",
+        "yläpuolinen indeksointipilkku"
+    ],
+    "‴": [
+        "kolminkertainen yläpuolinen indeksointipilkku",
+        "yläpuolinen indeksointipilkku"
+    ],
+    "‸": [
+        "poisjääntimerkki"
+    ],
+    "※": [
+        "viitemerkki"
+    ],
+    "⁂": [
+        "asterismi",
+        "kolme tähteä"
+    ],
+    "`": [
+        "gravis",
+        "tarke"
+    ],
+    "´": [
+        "akuutti",
+        "tarke"
+    ],
+    "^": [
+        "hattu",
+        "sirkumfleksi",
+        "tarke",
+        "ylöspäin osoittava nuolenkärki"
+    ],
+    "¨": [
+        "diereesi",
+        "treema",
+        "umlaut"
+    ],
+    "°": [
+        "aste",
+        "tunti",
+        "vastaavuus"
+    ],
+    "℗": [
+        "tekijänoikeus",
+        "ääni",
+        "äänite",
+        "äänitteen tekijänoikeus"
+    ],
+    "←": [
+        "nuoli",
+        "vasemmalle",
+        "vasemmalle osoittava nuoli"
+    ],
+    "↚": [
+        "vasemmalle vetävä nuoli"
+    ],
+    "→": [
+        "nuoli",
+        "oikealle",
+        "oikealle osoittava nuoli"
+    ],
+    "↛": [
+        "oikealle vetävä nuoli"
+    ],
+    "↑": [
+        "nuoli",
+        "ylös",
+        "ylös osoittava nuoli"
+    ],
+    "↓": [
+        "alas",
+        "alas osoittava nuoli",
+        "nuoli"
+    ],
+    "↜": [
+        "aaltonuoli vasemmalle"
+    ],
+    "↝": [
+        "aaltonuoli oikeaan"
+    ],
+    "↞": [
+        "kaksipäinen nuoli vasemmalle"
+    ],
+    "↟": [
+        "kaksipäinen nuoli ylös"
+    ],
+    "↠": [
+        "kaksipäinen nuoli oikealle"
+    ],
+    "↡": [
+        "kaksipäinen nuoli alas"
+    ],
+    "↢": [
+        "hahlonuoli vasemmalle"
+    ],
+    "↣": [
+        "hahlonuoli oikealle"
+    ],
+    "↤": [
+        "nuoli palkista vasemmalle"
+    ],
+    "↥": [
+        "nuoli palkista ylös"
+    ],
+    "↦": [
+        "nuoli palkista oikealle"
+    ],
+    "↧": [
+        "nuoli palkista alas"
+    ],
+    "↨": [
+        "nuoli ylös ja alas sekä kanta"
+    ],
+    "↫": [
+        "kierrenuoli vasemmalle"
+    ],
+    "↬": [
+        "kierrenuoli oikealle"
+    ],
+    "↭": [
+        "aaltonuoli vasemmalle ja oikealle"
+    ],
+    "↯": [
+        "siksak",
+        "siksak-nuoli alas"
+    ],
+    "↰": [
+        "vasemmalle kaartuva nuoli ylös"
+    ],
+    "↱": [
+        "oikealle kaartuva nuoli ylös"
+    ],
+    "↲": [
+        "vasemmalle kaartuva nuoli alas"
+    ],
+    "↳": [
+        "oikealle kaartuva nuoli alas"
+    ],
+    "↴": [
+        "alas kaartuva kulmanuoli oikealle"
+    ],
+    "↵": [
+        "vasemmalle kaartuva kulmanuoli alas"
+    ],
+    "↶": [
+        "vastapäivään kulkeva ylempi puoliympyränuoli"
+    ],
+    "↷": [
+        "myötäpäivään kulkeva ylempi puoliympyränuoli"
+    ],
+    "↸": [
+        "luodenuoli ja pitkä palkki"
+    ],
+    "↹": [
+        "oikealle osoittavan nuolipalkin yllä nuolipalkki vasemmalle"
+    ],
+    "↺": [
+        "avoimen ympyrän nuoli vastapäivään"
+    ],
+    "↻": [
+        "avoimen ympyrän nuoli myötäpäivään"
+    ],
+    "↼": [
+        "väkäpiikki vasemmalle ja ylös"
+    ],
+    "↽": [
+        "väkäpiikki vasemmalle ja alas"
+    ],
+    "↾": [
+        "väkäpiikki ylös ja oikealle"
+    ],
+    "↿": [
+        "väkäpiikki ylös ja vasemmalle"
+    ],
+    "⇀": [
+        "väkäpiikki oikealle ja ylös"
+    ],
+    "⇁": [
+        "väkäpiikki oikealle ja alas"
+    ],
+    "⇂": [
+        "väkäpiikki alas ja oikealle"
+    ],
+    "⇃": [
+        "väkäpiikki alas ja vasemmalle"
+    ],
+    "⇄": [
+        "nuoli oikealle jonka alla nuoli vasemmalle"
+    ],
+    "⇅": [
+        "alas",
+        "nuoli",
+        "ylös",
+        "ylös ja alas osoittavat nuolet"
+    ],
+    "⇆": [
+        "nuolet vasemmalle ja oikealle päällekkäin",
+        "nuoli",
+        "oikealle",
+        "vasemmalle"
+    ],
+    "⇇": [
+        "nuolipari vasemmalle"
+    ],
+    "⇈": [
+        "nuolipari ylös"
+    ],
+    "⇉": [
+        "nuolipari oikealle"
+    ],
+    "⇊": [
+        "nuolipari alas"
+    ],
+    "⇋": [
+        "väkäpiikki vasemmalle jonka alla väkäpiikki oikealle"
+    ],
+    "⇌": [
+        "väkäpiikki oikealle jonka alla väkäpiikki vasemmalle"
+    ],
+    "⇐": [
+        "kaksoisnuoli vasemmalle"
+    ],
+    "⇍": [
+        "yliviivattu kaksoisnuoli vasemmalle"
+    ],
+    "⇑": [
+        "kaksoisnuoli ylös"
+    ],
+    "⇒": [
+        "kaksoisnuoli oikealle"
+    ],
+    "⇏": [
+        "yliviivattu kaksoisnuoli oikealle"
+    ],
+    "⇓": [
+        "kaksoisnuoli alas"
+    ],
+    "⇔": [
+        "kaksoisnuoli vasemmalle ja oikealle"
+    ],
+    "⇎": [
+        "yliviivattu kaksoisnuoli vasemmalle ja oikealle"
+    ],
+    "⇖": [
+        "kaksoisnuoli luoteeseen"
+    ],
+    "⇗": [
+        "kaksoisnuoli koiliseen"
+    ],
+    "⇘": [
+        "kaksoisnuoli kaakkoon"
+    ],
+    "⇙": [
+        "kaksoisnuoli lounaaseen"
+    ],
+    "⇚": [
+        "kolmoisnuoli vasemmalle"
+    ],
+    "⇛": [
+        "kolmoisnuoli oikealle"
+    ],
+    "⇜": [
+        "koukeronuoli vasemmalle"
+    ],
+    "⇝": [
+        "koukeronuoli oikealle"
+    ],
+    "⇞": [
+        "kahdesti yliviivattu nuoli ylös"
+    ],
+    "⇟": [
+        "kahdesti yliviivattu nuoli alas"
+    ],
+    "⇠": [
+        "katkoviivanuoli vasemmalle"
+    ],
+    "⇡": [
+        "katkoviivanuoli ylös"
+    ],
+    "⇢": [
+        "katkoviivanuoli oikealle"
+    ],
+    "⇣": [
+        "katkoviivanuoli alas"
+    ],
+    "⇤": [
+        "pystyviivaan päättyvä vasemmalle osoittava nuoli"
+    ],
+    "⇥": [
+        "pystyviivaan päättyvä oikealle osoittava nuoli"
+    ],
+    "⇦": [
+        "tyhjä nuoli vasemmalle"
+    ],
+    "⇧": [
+        "tyhjä nuoli ylös"
+    ],
+    "⇨": [
+        "tyhjä nuoli oikealle"
+    ],
+    "⇩": [
+        "tyhjä nuoli alas"
+    ],
+    "⇪": [
+        "palkista alkava tyhjä nuoli ylös"
+    ],
+    "⇵": [
+        "nuoli alas ja nuoli ylös"
+    ],
+    "∀": [
+        "kaikille"
+    ],
+    "∂": [
+        "differentiaali",
+        "osittaisderivaatta"
+    ],
+    "∃": [
+        "eksistenssikvanttori",
+        "on olemassa"
+    ],
+    "∅": [
+        "joukko-operaattori",
+        "matematiikka",
+        "tyhjä joukko"
+    ],
+    "∆": [
+        "kolmio",
+        "lisäys"
+    ],
+    "∇": [
+        "kolmio",
+        "nabla"
+    ],
+    "∈": [
+        "joukko",
+        "jäsenyys",
+        "kuuluu joukkoon",
+        "osa",
+        "sisältää"
+    ],
+    "∉": [
+        "ei kuulu joukkoon"
+    ],
+    "∋": [
+        "elementti",
+        "jäsenenä joukkoon kuuluva"
+    ],
+    "∎": [
+        "halmos",
+        "q.e.d.",
+        "qed",
+        "todistuksen loppu"
+    ],
+    "∏": [
+        "logiikka",
+        "monikkotulo",
+        "tulo"
+    ],
+    "∑": [
+        "matematiikka",
+        "summa"
+    ],
+    "+": [
+        "lisätä",
+        "plus",
+        "plusmerkki",
+        "summa"
+    ],
+    "±": [
+        "plus-miinus",
+        "plus-miinusmerkki"
+    ],
+    "÷": [
+        "jaa",
+        "jakolasku",
+        "jakolaskumerkki",
+        "jakomerkki"
+    ],
+    "×": [
+        "kerro",
+        "kertaa",
+        "kertolasku",
+        "kertolaskumerkki",
+        "kertomerkki"
+    ],
+    "<": [
+        "kulmasulje",
+        "pienemmyysmerkki",
+        "pienempi kuin",
+        "vasen kulmasulje"
+    ],
+    "≮": [
+        "ei pienempi kuin",
+        "matematiikka"
+    ],
+    "=": [
+        "yhtä suuri kuin",
+        "yhtäsuuruusmerkki"
+    ],
+    "≠": [
+        "epäyhtäläisyys",
+        "epäyhtäläisyysmerkki",
+        "eri suuri kuin",
+        "erisuuruusmerkki"
+    ],
+    ">": [
+        "kulmasulje",
+        "oikea kulmasulje",
+        "suuremmuusmerkki",
+        "suurempi kuin"
+    ],
+    "≯": [
+        "ei suurempi kuin"
+    ],
+    "¬": [
+        "negaatio",
+        "vastakohta"
+    ],
+    "|": [
+        "Shefferin viiva",
+        "jakaa",
+        "palkki",
+        "putki",
+        "pystyviiva",
+        "vbar",
+        "viiva"
+    ],
+    "~": [
+        "aaltoviiva",
+        "tilde"
+    ],
+    "−": [
+        "erotus",
+        "miinus",
+        "miinusmerkki",
+        "vähentää"
+    ],
+    "⁻": [
+        "miinus",
+        "yläindeksi",
+        "yläindeksi miinus"
+    ],
+    "∓": [
+        "miinus tai plus",
+        "plus-miinus"
+    ],
+    "∕": [
+        "jakoviiva",
+        "vinoviiva"
+    ],
+    "⁄": [
+        "murtoluvun vinoviiva"
+    ],
+    "∗": [
+        "asteriski­operaat­to­ri",
+        "tähti"
+    ],
+    "∘": [
+        "pallo-operaattori"
+    ],
+    "∙": [
+        "luettelomerkkioperaattori"
+    ],
+    "√": [
+        "juuri",
+        "juurilauseke",
+        "kantaluku",
+        "neliö",
+        "neliöjuuri",
+        "sievennys"
+    ],
+    "∝": [
+        "verrannollinen"
+    ],
+    "∞": [
+        "aina",
+        "ikuinen",
+        "rajaton",
+        "universaali",
+        "äärettömyys",
+        "äärettömän merkki",
+        "ääretön"
+    ],
+    "∟": [
+        "oikea kulma"
+    ],
+    "∠": [
+        "kulma"
+    ],
+    "∣": [
+        "jakaja"
+    ],
+    "∥": [
+        "paralleeli"
+    ],
+    "∧": [
+        "looginen konjunktio"
+    ],
+    "∩": [
+        "joukko",
+        "leikkaus"
+    ],
+    "∪": [
+        "joukko",
+        "kokoelma",
+        "yhdiste"
+    ],
+    "∫": [
+        "differentiaali- ja integraalilaskenta",
+        "integraali"
+    ],
+    "∬": [
+        "kaksoisintegraali"
+    ],
+    "∮": [
+        "käyräintegraali"
+    ],
+    "∴": [
+        "koska"
+    ],
+    "∵": [
+        "siis"
+    ],
+    "∶": [
+        "suhde"
+    ],
+    "∷": [
+        "suhteellisuus"
+    ],
+    "∼": [
+        "operaattori",
+        "tildeoperaattori"
+    ],
+    "∽": [
+        "aaltoviiva",
+        "käänteinen tilde"
+    ],
+    "∾": [
+        "ylösalainen laiska s"
+    ],
+    "≃": [
+        "asymptoottinen"
+    ],
+    "≅": [
+        "yhtenevä"
+    ],
+    "≈": [
+        "likiarvo",
+        "likimäärin yhtä suuri",
+        "likimäärin yhtä suuri kuin",
+        "likimäärä"
+    ],
+    "≌": [
+        "kaikki yhtä suuria kuin"
+    ],
+    "≒": [
+        "lähes yhtä suuri"
+    ],
+    "≖": [
+        "ympyrän sisältävä yhtäläisyysmerkki"
+    ],
+    "≡": [
+        "identtinen",
+        "kolminkertainen",
+        "sama",
+        "sama kuin"
+    ],
+    "≣": [
+        "tarkka vastaavuus"
+    ],
+    "≤": [
+        "epäyhtäläisyys",
+        "pienempi kuin",
+        "pienempi tai yhtä suuri kuin",
+        "yhtä suuri",
+        "yhtäsuuruus"
+    ],
+    "≥": [
+        "epäyhtäläisyys",
+        "suurempi kuin",
+        "suurempi tai yhtä suuri kuin",
+        "yhtä suuri",
+        "yhtäsuuruus"
+    ],
+    "≦": [
+        "yhtäläisyysmerkin yläpuolella oleva pienempi kuin -merkki"
+    ],
+    "≧": [
+        "yhtäläisyysmerkin yläpuolella oleva suurempi kuin -merkki"
+    ],
+    "≪": [
+        "paljon pienempi kuin"
+    ],
+    "≫": [
+        "paljon suurempi kuin"
+    ],
+    "≬": [
+        "välissä"
+    ],
+    "≳": [
+        "suurempi kuin tai ekvivalentti"
+    ],
+    "≺": [
+        "edeltää"
+    ],
+    "≻": [
+        "seuraa"
+    ],
+    "⊁": [
+        "ei seuraa"
+    ],
+    "⊂": [
+        "joukko",
+        "on osajoukko",
+        "osajoukko"
+    ],
+    "⊃": [
+        "ylijoukko"
+    ],
+    "⊆": [
+        "on osajoukko",
+        "osajoukko"
+    ],
+    "⊇": [
+        "matematiikka",
+        "on yläjoukko",
+        "yläjoukko"
+    ],
+    "⊕": [
+        "plus",
+        "ympyröity plus"
+    ],
+    "⊖": [
+        "ympyröity miinus"
+    ],
+    "⊗": [
+        "ympyröity kertomerkki"
+    ],
+    "⊘": [
+        "ympyröity jakomerkki"
+    ],
+    "⊙": [
+        "ympyröity pisteoperaattori"
+    ],
+    "⊚": [
+        "ympyröity pallo-operaattori"
+    ],
+    "⊛": [
+        "asteriski",
+        "operaattori",
+        "ympyröity asteriskioperaattori"
+    ],
+    "⊞": [
+        "plus neliössä"
+    ],
+    "⊟": [
+        "miinus neliössä"
+    ],
+    "⊥": [
+        "ylös osoittava nupi"
+    ],
+    "⊮": [
+        "ei pakota"
+    ],
+    "⊰": [
+        "relationaalinen edeltäminen"
+    ],
+    "⊱": [
+        "relationaalinen seuraaminen"
+    ],
+    "⋭": [
+        "normaalina aliryhmänä sisältämisen ja yhtäläisyyden negaatio"
+    ],
+    "⊶": [
+        "alkuperäinen"
+    ],
+    "⊹": [
+        "Hermiten konjugaattimatriisi"
+    ],
+    "⊿": [
+        "oikeanpuoleinen kolmio"
+    ],
+    "⋁": [
+        "monikko looginen tai"
+    ],
+    "⋂": [
+        "monikkoleikkaus"
+    ],
+    "⋃": [
+        "monikkounioni"
+    ],
+    "⋅": [
+        "pisteoperaattori"
+    ],
+    "⋆": [
+        "tähtioperaattori"
+    ],
+    "⋈": [
+        "luonnollinen liitos"
+    ],
+    "⋒": [
+        "kaksoisleikkaus"
+    ],
+    "⋘": [
+        "huomattavasti pienempi kuin"
+    ],
+    "⋙": [
+        "huomattavasti suurempi kuin"
+    ],
+    "⋮": [
+        "pystysuuntainen ellipsi"
+    ],
+    "⋯": [
+        "rivinkeskinen ellipsi"
+    ],
+    "⋰": [
+        "ellipsi ylös oikealle"
+    ],
+    "⋱": [
+        "ellipsi alas oikealle"
+    ],
+    "■": [
+        "täytetty neliö"
+    ],
+    "□": [
+        "tyhjä neliö"
+    ],
+    "▢": [
+        "tyhjä neliö jossa pyöristetyt kulmat"
+    ],
+    "▣": [
+        "tyhjä neliö jossa täytetty neliö"
+    ],
+    "▤": [
+        "vaakasuuntaisesti täytetty neliö"
+    ],
+    "▥": [
+        "pystysuuntaisesti täytetty neliö"
+    ],
+    "▦": [
+        "suorakulmaisilla ristiviivoilla täytetty neliö"
+    ],
+    "▧": [
+        "ylävasemmalta alaoikealle täytetty neliö"
+    ],
+    "▨": [
+        "yläoikealta alavasemmalle täytetty neliö"
+    ],
+    "▩": [
+        "vinoilla ristiviivoilla täytetty neliö"
+    ],
+    "▬": [
+        "täytetty suorakulmio"
+    ],
+    "▭": [
+        "tyhjä suorakulmio"
+    ],
+    "▮": [
+        "täytetty pystysuuntainen suorakulmio"
+    ],
+    "▰": [
+        "täytetty suunnikas"
+    ],
+    "▲": [
+        "kolmio",
+        "musta ylös osoittava kolmio",
+        "nuoli",
+        "täytetty ylös osoittava kolmio",
+        "ylös"
+    ],
+    "△": [
+        "tyhjä kolmio ylös"
+    ],
+    "▴": [
+        "pieni täytetty kolmio ylös"
+    ],
+    "▵": [
+        "pieni tyhjä kolmio ylös"
+    ],
+    "▷": [
+        "tyhjä kolmio oikealle"
+    ],
+    "▸": [
+        "pieni täytetty kolmio oikealle"
+    ],
+    "▹": [
+        "pieni tyhjä kolmio oikealle"
+    ],
+    "►": [
+        "täytetty osoitin oikealle"
+    ],
+    "▻": [
+        "tyhjä osoitin oikealle"
+    ],
+    "▼": [
+        "alas",
+        "kolmio",
+        "musta alas osoittava kolmio",
+        "nuoli",
+        "täytetty alas osoittava kolmio"
+    ],
+    "▽": [
+        "tyhjä kolmio alas"
+    ],
+    "▾": [
+        "pieni täytetty kolmio alas"
+    ],
+    "▿": [
+        "pieni tyhjä kolmio alas"
+    ],
+    "◁": [
+        "tyhjä kolmio vasemmalle"
+    ],
+    "◂": [
+        "pieni täytetty kolmio vasemmalle"
+    ],
+    "◃": [
+        "pieni tyhjä kolmio vasemmalle"
+    ],
+    "◄": [
+        "täytetty osoitin vasemmalle"
+    ],
+    "◅": [
+        "tyhjä osoitin vasemmalle"
+    ],
+    "◆": [
+        "täytetty vinoneliö"
+    ],
+    "◇": [
+        "tyhjä vinoneliö"
+    ],
+    "◈": [
+        "tyhjä vinoneliö jossa täytetty neliö"
+    ],
+    "◉": [
+        "tyhjä ympyrä jossa täytetty ympyrä"
+    ],
+    "◊": [
+        "monikulmio",
+        "neljäkäs",
+        "vinoneliö"
+    ],
+    "○": [
+        "kehä",
+        "tyhjä ympyrä",
+        "ympyrä"
+    ],
+    "◌": [
+        "pisteympyrä"
+    ],
+    "◍": [
+        "pystysuuntaisesti täytetty ympyrä"
+    ],
+    "◎": [
+        "samankeskiset ympyrät"
+    ],
+    "●": [
+        "täytetty ympyrä",
+        "ympyrä"
+    ],
+    "◐": [
+        "vasemmalta puoliskoltaan täytetty ympyrä"
+    ],
+    "◑": [
+        "oikealta puoliskoltaan täytetty ympyrä"
+    ],
+    "◒": [
+        "alapuoliskoltaan täytetty ympyrä"
+    ],
+    "◓": [
+        "yläpuoliskoltaan täytetty ympyrä"
+    ],
+    "◔": [
+        "ympyrä, jonka oikea yläneljännes täytetty"
+    ],
+    "◕": [
+        "ympyrä, jonka muut neljännekset paitsi ylävasen täytetty"
+    ],
+    "◖": [
+        "täytetyn ympyrän vasen puolisko"
+    ],
+    "◗": [
+        "täytetyn ympyrän oikea puolisko"
+    ],
+    "◘": [
+        "käänteinen luettelomerkki"
+    ],
+    "◙": [
+        "täytetty neliö jossa tyhjä ympyrä"
+    ],
+    "◜": [
+        "vasemman yläneljänneksen pyöreä kaari"
+    ],
+    "◝": [
+        "oikean yläneljänneksen pyöreä kaari"
+    ],
+    "◞": [
+        "oikean alaneljänneksen pyöreä kaari"
+    ],
+    "◟": [
+        "vasemman alaneljänneksen pyöreä kaari"
+    ],
+    "◠": [
+        "ylempi puoliympyrä"
+    ],
+    "◡": [
+        "alempi puoliympyrä"
+    ],
+    "◢": [
+        "täytetty alaoikean kolmio"
+    ],
+    "◣": [
+        "täytetty alavasemman kolmio"
+    ],
+    "◤": [
+        "täytetty ylävasemman kolmio"
+    ],
+    "◥": [
+        "täytetty yläoikean kolmio"
+    ],
+    "◦": [
+        "ontto luetelmapallo"
+    ],
+    "◯": [
+        "kehä",
+        "suuri tyhjä ympyrä",
+        "ympyrä"
+    ],
+    "◳": [
+        "tyhjä neliö jossa yläoikean neljännes"
+    ],
+    "◷": [
+        "tyhjä ympyrä jossa yläoikean neljännes"
+    ],
+    "◿": [
+        "alaoikean kolmio"
+    ],
+    "♪": [
+        "kahdeksas",
+        "kahdeksasosanuotti",
+        "musiikki",
+        "nuotti"
+    ],
+    "⨧": [
+        "plusmerkki ja alaindeksi kaksi"
+    ],
+    "⨯": [
+        "vektoriristitulo"
+    ],
+    "⨼": [
+        "sisätulo"
+    ],
+    "⩣": [
+        "looginen tai kaksoisalaviiva"
+    ],
+    "⩽": [
+        "pienempi vino yhteneväisyys"
+    ],
+    "⪍": [
+        "pienempi kuin, alla vastaava yhtäsuuruus"
+    ],
+    "⪚": [
+        "kaksoisviivallinen yhtäsuuruus suurempi"
+    ],
+    "⪺": [
+        "seuraa, jonka alla noin-merkin negaatio"
+    ],
+    "♭": [
+        "alennus",
+        "alennusmerkki",
+        "b-molli",
+        "musiikki",
+        "nuotti"
+    ],
+    "♯": [
+        "diesis",
+        "dièse",
+        "musiikki",
+        "nuotti",
+        "ylennys",
+        "ylennysmerkki"
+    ],
     "😀": [
         "hymy",
         "kasvot",
@@ -73,6 +1480,15 @@
         "ylösalainen",
         "ylösalainen naama"
     ],
+    "🫠": [
+        "kadota",
+        "liueta",
+        "pehmenevä",
+        "sulaa",
+        "sulava naama",
+        "sulavat kasvot",
+        "valuva"
+    ],
     "😉": [
         "flirtti",
         "huumori",
@@ -96,7 +1512,6 @@
         "naama",
         "satu",
         "sädekehä",
-        "tarina",
         "viaton"
     ],
     "🥰": [
@@ -215,6 +1630,25 @@
         "käsi suun edessä",
         "lipsahdus"
     ],
+    "🫢": [
+        "epäusko",
+        "hämmästys",
+        "nolo",
+        "peloissaan",
+        "silmät pyöreinä käsi suun edessä",
+        "yllättynyt",
+        "ällikkä",
+        "ällistys"
+    ],
+    "🫣": [
+        "ihastunut",
+        "kiehtova",
+        "kurkistaa",
+        "kurkistus sormien takaa",
+        "kurkkia",
+        "tiirata",
+        "vilkuilla"
+    ],
     "🤫": [
         "hiljentää",
         "hyssyttelevä",
@@ -223,6 +1657,16 @@
     "🤔": [
         "mietteliäs",
         "naama"
+    ],
+    "🫡": [
+        "joukot",
+        "kunniatervehdys",
+        "kunnioittava tervehdys",
+        "kyllä",
+        "käsi lippaan",
+        "ok",
+        "palveluksessanne",
+        "selvä"
     ],
     "🤐": [
         "naama",
@@ -257,6 +1701,22 @@
         "naama ilman suuta",
         "suu"
     ],
+    "🫥": [
+        "haihtuva",
+        "häviävä",
+        "introvertti",
+        "katkoviivalla piirretty naama",
+        "katoava",
+        "masentunut",
+        "näkymätön",
+        "piiloon"
+    ],
+    "😶‍🌫": [
+        "hajamielinen",
+        "naama pilvissä",
+        "naama sumussa",
+        "pää pilvissä"
+    ],
     "😏": [
         "huvittunut",
         "hymy",
@@ -279,6 +1739,15 @@
         "irvistys",
         "irvistävä",
         "naama"
+    ],
+    "😮‍💨": [
+        "haukkoa henkeään",
+        "helpotus",
+        "hämmästynyt",
+        "hämmästyä",
+        "kuiskaus",
+        "puhaltaa",
+        "vihellys"
     ],
     "🤥": [
         "kasvot",
@@ -389,9 +1858,19 @@
     ],
     "😵": [
         "huimaus",
+        "kuollut",
         "naama",
         "pyörtyvä",
+        "tajuton",
         "tuupertuva"
+    ],
+    "😵‍💫": [
+        "apua",
+        "huimata",
+        "hypnoosissa",
+        "naama jolla spiraalisilmät",
+        "ongelmia",
+        "spiraali"
     ],
     "🤯": [
         "järkytys",
@@ -447,6 +1926,15 @@
         "hämmentynyt",
         "naama"
     ],
+    "🫤": [
+        "epäilevä",
+        "epävarma",
+        "naama suu vinossa",
+        "pah",
+        "pettynyt",
+        "pyh",
+        "skeptinen"
+    ],
     "😟": [
         "huolestunut",
         "huoli",
@@ -493,6 +1981,14 @@
         "anova",
         "koiranpentuilme",
         "sääli"
+    ],
+    "🥹": [
+        "itku",
+        "kyyneliä pidättelevä naama",
+        "pidätellä itkua",
+        "surullinen",
+        "vihainen",
+        "ylpeä"
     ],
     "😦": [
         "auki",
@@ -801,12 +2297,6 @@
         "en puhu pahaa",
         "kielletty"
     ],
-    "💋": [
-        "huulet",
-        "huulipunajälki",
-        "jälki",
-        "pusu"
-    ],
     "💌": [
         "kirje",
         "posti",
@@ -875,6 +2365,24 @@
         "särkynyt sydän",
         "särkyä"
     ],
+    "❤‍🔥": [
+        "himo",
+        "liekki",
+        "palaa",
+        "palava sydän",
+        "pyhä sydän",
+        "rakkaus",
+        "sydän"
+    ],
+    "❤‍🩹": [
+        "elpyvä",
+        "hyvinvoiva",
+        "parantuminen",
+        "parantuva",
+        "parantuva sydän",
+        "tervehtyvä",
+        "toipuminen"
+    ],
     "❤️": [
         "punainen sydän",
         "sydän"
@@ -919,6 +2427,12 @@
         "valkoinen",
         "valkoinen sydän"
     ],
+    "💋": [
+        "huulet",
+        "huulipunajälki",
+        "jälki",
+        "pusu"
+    ],
     "💯": [
         "100",
         "pisteet",
@@ -956,10 +2470,6 @@
         "musta aukko",
         "pallo",
         "reikä"
-    ],
-    "💣️": [
-        "pommi",
-        "sarjakuva"
     ],
     "💬": [
         "ilmapallo",
@@ -1005,7 +2515,8 @@
         "käden heilautus",
         "käsi",
         "vartalo",
-        "vilkuttaa"
+        "vilkuttaa",
+        "vilkutus"
     ],
     "👋🏻": [
         "heilautus",
@@ -1014,7 +2525,8 @@
         "käsi",
         "vaalea iho",
         "vartalo",
-        "vilkuttaa"
+        "vilkuttaa",
+        "vilkutus"
     ],
     "👋🏼": [
         "heilautus",
@@ -1023,7 +2535,8 @@
         "käden heilautus: keskivaalea iho",
         "käsi",
         "vartalo",
-        "vilkuttaa"
+        "vilkuttaa",
+        "vilkutus"
     ],
     "👋🏽": [
         "heilautus",
@@ -1032,7 +2545,8 @@
         "käsi",
         "tummanvaalea iho",
         "vartalo",
-        "vilkuttaa"
+        "vilkuttaa",
+        "vilkutus"
     ],
     "👋🏾": [
         "heilautus",
@@ -1041,7 +2555,8 @@
         "käden heilautus: keskitumma iho",
         "käsi",
         "vartalo",
-        "vilkuttaa"
+        "vilkuttaa",
+        "vilkutus"
     ],
     "👋🏿": [
         "heilautus",
@@ -1050,7 +2565,8 @@
         "käsi",
         "tumma iho",
         "vartalo",
-        "vilkuttaa"
+        "vilkuttaa",
+        "vilkutus"
     ],
     "🤚": [
         "kohotettu",
@@ -1248,6 +2764,432 @@
         "vulkanilaisten tervehdys",
         "vulkanilaisten tervehdys: tumma iho"
     ],
+    "🫱": [
+        "kädenojennus",
+        "käsi",
+        "oikealle",
+        "oikealle ojentuva käsi"
+    ],
+    "🫱🏻": [
+        "kädenojennus",
+        "käsi",
+        "oikealle",
+        "oikealle ojentuva käsi",
+        "oikealle ojentuva käsi: vaalea iho",
+        "vaalea iho"
+    ],
+    "🫱🏼": [
+        "keskivaalea iho",
+        "kädenojennus",
+        "käsi",
+        "oikealle",
+        "oikealle ojentuva käsi",
+        "oikealle ojentuva käsi: keskivaalea iho"
+    ],
+    "🫱🏽": [
+        "kädenojennus",
+        "käsi",
+        "oikealle",
+        "oikealle ojentuva käsi",
+        "oikealle ojentuva käsi: tummanvaalea iho",
+        "tummanvaalea iho"
+    ],
+    "🫱🏾": [
+        "keskitumma iho",
+        "kädenojennus",
+        "käsi",
+        "oikealle",
+        "oikealle ojentuva käsi",
+        "oikealle ojentuva käsi: keskitumma iho"
+    ],
+    "🫱🏿": [
+        "kädenojennus",
+        "käsi",
+        "oikealle",
+        "oikealle ojentuva käsi",
+        "oikealle ojentuva käsi: tumma iho",
+        "tumma iho"
+    ],
+    "🫱🏻‍🫲🏼": [
+        "keskivaalea iho",
+        "kädenpuristus",
+        "kädenpuristus: vaalea iho, keskivaalea iho",
+        "käsi",
+        "kätellä",
+        "sopimus",
+        "tapaaminen",
+        "vaalea iho"
+    ],
+    "🫱🏻‍🫲🏽": [
+        "kädenpuristus",
+        "kädenpuristus: vaalea iho, tummanvaalea iho",
+        "käsi",
+        "kätellä",
+        "sopimus",
+        "tapaaminen",
+        "tummanvaalea iho",
+        "vaalea iho"
+    ],
+    "🫱🏻‍🫲🏾": [
+        "keskitumma iho",
+        "kädenpuristus",
+        "kädenpuristus: vaalea iho, keskitumma iho",
+        "käsi",
+        "kätellä",
+        "sopimus",
+        "tapaaminen",
+        "vaalea iho"
+    ],
+    "🫱🏻‍🫲🏿": [
+        "kädenpuristus",
+        "kädenpuristus: vaalea iho, tumma iho",
+        "käsi",
+        "kätellä",
+        "sopimus",
+        "tapaaminen",
+        "tumma iho",
+        "vaalea iho"
+    ],
+    "🫱🏼‍🫲🏻": [
+        "keskivaalea iho",
+        "kädenpuristus",
+        "kädenpuristus: keskivaalea iho, vaalea iho",
+        "käsi",
+        "kätellä",
+        "sopimus",
+        "tapaaminen",
+        "vaalea iho"
+    ],
+    "🫱🏼‍🫲🏽": [
+        "keskivaalea iho",
+        "kädenpuristus",
+        "kädenpuristus: keskivaalea iho, tummanvaalea iho",
+        "käsi",
+        "kätellä",
+        "sopimus",
+        "tapaaminen",
+        "tummanvaalea iho"
+    ],
+    "🫱🏼‍🫲🏾": [
+        "keskitumma iho",
+        "keskivaalea iho",
+        "kädenpuristus",
+        "kädenpuristus: keskivaalea iho, keskitumma iho",
+        "käsi",
+        "kätellä",
+        "sopimus",
+        "tapaaminen"
+    ],
+    "🫱🏼‍🫲🏿": [
+        "keskivaalea iho",
+        "kädenpuristus",
+        "kädenpuristus: keskivaalea iho, tumma iho",
+        "käsi",
+        "kätellä",
+        "sopimus",
+        "tapaaminen",
+        "tumma iho"
+    ],
+    "🫱🏽‍🫲🏻": [
+        "kädenpuristus",
+        "kädenpuristus: tummanvaalea iho, vaalea iho",
+        "käsi",
+        "kätellä",
+        "sopimus",
+        "tapaaminen",
+        "tummanvaalea iho",
+        "vaalea iho"
+    ],
+    "🫱🏽‍🫲🏼": [
+        "keskivaalea iho",
+        "kädenpuristus",
+        "kädenpuristus: tummanvaalea iho, keskivaalea iho",
+        "käsi",
+        "kätellä",
+        "sopimus",
+        "tapaaminen",
+        "tummanvaalea iho"
+    ],
+    "🫱🏽‍🫲🏾": [
+        "keskitumma iho",
+        "kädenpuristus",
+        "kädenpuristus: tummanvaalea iho, keskitumma iho",
+        "käsi",
+        "kätellä",
+        "sopimus",
+        "tapaaminen",
+        "tummanvaalea iho"
+    ],
+    "🫱🏽‍🫲🏿": [
+        "kädenpuristus",
+        "kädenpuristus: tummanvaalea iho, tumma iho",
+        "käsi",
+        "kätellä",
+        "sopimus",
+        "tapaaminen",
+        "tumma iho",
+        "tummanvaalea iho"
+    ],
+    "🫱🏾‍🫲🏻": [
+        "keskitumma iho",
+        "kädenpuristus",
+        "kädenpuristus: keskitumma iho, vaalea iho",
+        "käsi",
+        "kätellä",
+        "sopimus",
+        "tapaaminen",
+        "vaalea iho"
+    ],
+    "🫱🏾‍🫲🏼": [
+        "keskitumma iho",
+        "keskivaalea iho",
+        "kädenpuristus",
+        "kädenpuristus: keskitumma iho, keskivaalea iho",
+        "käsi",
+        "kätellä",
+        "sopimus",
+        "tapaaminen"
+    ],
+    "🫱🏾‍🫲🏽": [
+        "keskitumma iho",
+        "kädenpuristus",
+        "kädenpuristus: keskitumma iho, tummanvaalea iho",
+        "käsi",
+        "kätellä",
+        "sopimus",
+        "tapaaminen",
+        "tummanvaalea iho"
+    ],
+    "🫱🏾‍🫲🏿": [
+        "keskitumma iho",
+        "kädenpuristus",
+        "kädenpuristus: keskitumma iho, tumma iho",
+        "käsi",
+        "kätellä",
+        "sopimus",
+        "tapaaminen",
+        "tumma iho"
+    ],
+    "🫱🏿‍🫲🏻": [
+        "kädenpuristus",
+        "kädenpuristus: tumma iho, vaalea iho",
+        "käsi",
+        "kätellä",
+        "sopimus",
+        "tapaaminen",
+        "tumma iho",
+        "vaalea iho"
+    ],
+    "🫱🏿‍🫲🏼": [
+        "keskivaalea iho",
+        "kädenpuristus",
+        "kädenpuristus: tumma iho, keskivaalea iho",
+        "käsi",
+        "kätellä",
+        "sopimus",
+        "tapaaminen",
+        "tumma iho"
+    ],
+    "🫱🏿‍🫲🏽": [
+        "kädenpuristus",
+        "kädenpuristus: tumma iho, tummanvaalea iho",
+        "käsi",
+        "kätellä",
+        "sopimus",
+        "tapaaminen",
+        "tumma iho",
+        "tummanvaalea iho"
+    ],
+    "🫱🏿‍🫲🏾": [
+        "keskitumma iho",
+        "kädenpuristus",
+        "kädenpuristus: tumma iho, keskitumma iho",
+        "käsi",
+        "kätellä",
+        "sopimus",
+        "tapaaminen",
+        "tumma iho"
+    ],
+    "🫲": [
+        "kädenojennus",
+        "käsi",
+        "vasemmalle",
+        "vasemmalle ojentuva käsi",
+        "vasen"
+    ],
+    "🫲🏻": [
+        "kädenojennus",
+        "käsi",
+        "vaalea iho",
+        "vasemmalle",
+        "vasemmalle ojentuva käsi",
+        "vasemmalle ojentuva käsi: vaalea iho",
+        "vasen"
+    ],
+    "🫲🏼": [
+        "keskivaalea iho",
+        "kädenojennus",
+        "käsi",
+        "vasemmalle",
+        "vasemmalle ojentuva käsi",
+        "vasemmalle ojentuva käsi: keskivaalea iho",
+        "vasen"
+    ],
+    "🫲🏽": [
+        "kädenojennus",
+        "käsi",
+        "tummanvaalea iho",
+        "vasemmalle",
+        "vasemmalle ojentuva käsi",
+        "vasemmalle ojentuva käsi: tummanvaalea iho",
+        "vasen"
+    ],
+    "🫲🏾": [
+        "keskitumma iho",
+        "kädenojennus",
+        "käsi",
+        "vasemmalle",
+        "vasemmalle ojentuva käsi",
+        "vasemmalle ojentuva käsi: keskitumma iho",
+        "vasen"
+    ],
+    "🫲🏿": [
+        "kädenojennus",
+        "käsi",
+        "tumma iho",
+        "vasemmalle",
+        "vasemmalle ojentuva käsi",
+        "vasemmalle ojentuva käsi: tumma iho",
+        "vasen"
+    ],
+    "🫳": [
+        "ei kelpaa",
+        "hus",
+        "hylätä",
+        "hätistää",
+        "hätyyttää",
+        "käsi kämmen alaspäin",
+        "pudottaa"
+    ],
+    "🫳🏻": [
+        "ei kelpaa",
+        "hus",
+        "hylätä",
+        "hätistää",
+        "hätyyttää",
+        "käsi kämmen alaspäin",
+        "käsi kämmen alaspäin: vaalea iho",
+        "pudottaa",
+        "vaalea iho"
+    ],
+    "🫳🏼": [
+        "ei kelpaa",
+        "hus",
+        "hylätä",
+        "hätistää",
+        "hätyyttää",
+        "keskivaalea iho",
+        "käsi kämmen alaspäin",
+        "käsi kämmen alaspäin: keskivaalea iho",
+        "pudottaa"
+    ],
+    "🫳🏽": [
+        "ei kelpaa",
+        "hus",
+        "hylätä",
+        "hätistää",
+        "hätyyttää",
+        "käsi kämmen alaspäin",
+        "käsi kämmen alaspäin: tummanvaalea iho",
+        "pudottaa",
+        "tummanvaalea iho"
+    ],
+    "🫳🏾": [
+        "ei kelpaa",
+        "hus",
+        "hylätä",
+        "hätistää",
+        "hätyyttää",
+        "keskitumma iho",
+        "käsi kämmen alaspäin",
+        "käsi kämmen alaspäin: keskitumma iho",
+        "pudottaa"
+    ],
+    "🫳🏿": [
+        "ei kelpaa",
+        "hus",
+        "hylätä",
+        "hätistää",
+        "hätyyttää",
+        "käsi kämmen alaspäin",
+        "käsi kämmen alaspäin: tumma iho",
+        "pudottaa",
+        "tumma iho"
+    ],
+    "🫴": [
+        "houkutella",
+        "kutsua",
+        "käsi kämmen ylöspäin",
+        "pyydystää",
+        "tarjota",
+        "viittilöidä",
+        "viittoa"
+    ],
+    "🫴🏻": [
+        "houkutella",
+        "kutsua",
+        "käsi kämmen ylöspäin",
+        "käsi kämmen ylöspäin: vaalea iho",
+        "pyydystää",
+        "tarjota",
+        "vaalea iho",
+        "viittilöidä",
+        "viittoa"
+    ],
+    "🫴🏼": [
+        "houkutella",
+        "keskivaalea iho",
+        "kutsua",
+        "käsi kämmen ylöspäin",
+        "käsi kämmen ylöspäin: keskivaalea iho",
+        "pyydystää",
+        "tarjota",
+        "viittilöidä",
+        "viittoa"
+    ],
+    "🫴🏽": [
+        "houkutella",
+        "kutsua",
+        "käsi kämmen ylöspäin",
+        "käsi kämmen ylöspäin: tummanvaalea iho",
+        "pyydystää",
+        "tarjota",
+        "tummanvaalea iho",
+        "viittilöidä",
+        "viittoa"
+    ],
+    "🫴🏾": [
+        "houkutella",
+        "keskitumma iho",
+        "kutsua",
+        "käsi kämmen ylöspäin",
+        "käsi kämmen ylöspäin: keskitumma iho",
+        "pyydystää",
+        "tarjota",
+        "viittilöidä",
+        "viittoa"
+    ],
+    "🫴🏿": [
+        "houkutella",
+        "kutsua",
+        "käsi kämmen ylöspäin",
+        "käsi kämmen ylöspäin: tumma iho",
+        "pyydystää",
+        "tarjota",
+        "tumma iho",
+        "viittilöidä",
+        "viittoa"
+    ],
     "👌": [
         "käsi",
         "ok",
@@ -1301,16 +3243,17 @@
         "mitä",
         "sarkastinen",
         "sormet",
+        "sormet supussa",
         "supussa"
     ],
     "🤌🏻": [
         "kuulustelu",
         "käsi supussa",
-        "käsi supussa: vaalea iho",
         "käsiele",
         "mitä",
         "sarkastinen",
         "sormet",
+        "sormet supussa: vaalea iho",
         "supussa",
         "vaalea iho"
     ],
@@ -1318,21 +3261,21 @@
         "keskivaalea iho",
         "kuulustelu",
         "käsi supussa",
-        "käsi supussa: keskivaalea iho",
         "käsiele",
         "mitä",
         "sarkastinen",
         "sormet",
+        "sormet supussa: keskivaalea iho",
         "supussa"
     ],
     "🤌🏽": [
         "kuulustelu",
         "käsi supussa",
-        "käsi supussa: tummanvaalea iho",
         "käsiele",
         "mitä",
         "sarkastinen",
         "sormet",
+        "sormet supussa: tummanvaalea iho",
         "supussa",
         "tummanvaalea iho"
     ],
@@ -1340,57 +3283,75 @@
         "keskitumma iho",
         "kuulustelu",
         "käsi supussa",
-        "käsi supussa: keskitumma iho",
         "käsiele",
         "mitä",
         "sarkastinen",
         "sormet",
+        "sormet supussa: keskitumma iho",
         "supussa"
     ],
     "🤌🏿": [
         "kuulustelu",
         "käsi supussa",
-        "käsi supussa: tumma iho",
         "käsiele",
         "mitä",
         "sarkastinen",
         "sormet",
+        "sormet supussa: tumma iho",
         "supussa",
         "tumma iho"
     ],
     "🤏": [
+        "hippunen",
+        "nipistysote",
         "nipistävä käsi",
-        "pieni määrä"
+        "pieni määrä",
+        "vähäinen määrä"
     ],
     "🤏🏻": [
+        "hippunen",
+        "nipistysote",
         "nipistävä käsi",
         "nipistävä käsi: vaalea iho",
         "pieni määrä",
-        "vaalea iho"
+        "vaalea iho",
+        "vähäinen määrä"
     ],
     "🤏🏼": [
+        "hippunen",
         "keskivaalea iho",
+        "nipistysote",
         "nipistävä käsi",
         "nipistävä käsi: keskivaalea iho",
-        "pieni määrä"
+        "pieni määrä",
+        "vähäinen määrä"
     ],
     "🤏🏽": [
+        "hippunen",
+        "nipistysote",
         "nipistävä käsi",
         "nipistävä käsi: tummanvaalea iho",
         "pieni määrä",
-        "tummanvaalea iho"
+        "tummanvaalea iho",
+        "vähäinen määrä"
     ],
     "🤏🏾": [
+        "hippunen",
         "keskitumma iho",
+        "nipistysote",
         "nipistävä käsi",
         "nipistävä käsi: keskitumma iho",
-        "pieni määrä"
+        "pieni määrä",
+        "vähäinen määrä"
     ],
     "🤏🏿": [
+        "hippunen",
+        "nipistysote",
         "nipistävä käsi",
         "nipistävä käsi: tumma iho",
         "pieni määrä",
-        "tumma iho"
+        "tumma iho",
+        "vähäinen määrä"
     ],
     "✌️": [
         "käsi",
@@ -1446,6 +3407,7 @@
     ],
     "🤞": [
         "käsi",
+        "narrata",
         "onni",
         "risti",
         "sormet ristissä",
@@ -1453,6 +3415,7 @@
     ],
     "🤞🏻": [
         "käsi",
+        "narrata",
         "onni",
         "risti",
         "sormet ristissä",
@@ -1463,6 +3426,7 @@
     "🤞🏼": [
         "keskivaalea iho",
         "käsi",
+        "narrata",
         "onni",
         "risti",
         "sormet ristissä",
@@ -1471,6 +3435,7 @@
     ],
     "🤞🏽": [
         "käsi",
+        "narrata",
         "onni",
         "risti",
         "sormet ristissä",
@@ -1481,6 +3446,7 @@
     "🤞🏾": [
         "keskitumma iho",
         "käsi",
+        "narrata",
         "onni",
         "risti",
         "sormet ristissä",
@@ -1489,11 +3455,82 @@
     ],
     "🤞🏿": [
         "käsi",
+        "narrata",
         "onni",
         "risti",
         "sormet ristissä",
         "sormet ristissä: tumma iho",
         "sormi",
+        "tumma iho"
+    ],
+    "🫰": [
+        "anna rahaa",
+        "etusormi ja peukalo ristissä",
+        "hinta",
+        "kallis",
+        "napsautus",
+        "raha",
+        "rakkaus",
+        "sydän"
+    ],
+    "🫰🏻": [
+        "anna rahaa",
+        "etusormi ja peukalo ristissä",
+        "etusormi ja peukalo ristissä: vaalea iho",
+        "hinta",
+        "kallis",
+        "napsautus",
+        "raha",
+        "rakkaus",
+        "sydän",
+        "vaalea iho"
+    ],
+    "🫰🏼": [
+        "anna rahaa",
+        "etusormi ja peukalo ristissä",
+        "etusormi ja peukalo ristissä: keskivaalea iho",
+        "hinta",
+        "kallis",
+        "keskivaalea iho",
+        "napsautus",
+        "raha",
+        "rakkaus",
+        "sydän"
+    ],
+    "🫰🏽": [
+        "anna rahaa",
+        "etusormi ja peukalo ristissä",
+        "etusormi ja peukalo ristissä: tummanvaalea iho",
+        "hinta",
+        "kallis",
+        "napsautus",
+        "raha",
+        "rakkaus",
+        "sydän",
+        "tummanvaalea iho"
+    ],
+    "🫰🏾": [
+        "anna rahaa",
+        "etusormi ja peukalo ristissä",
+        "etusormi ja peukalo ristissä: keskitumma iho",
+        "hinta",
+        "kallis",
+        "keskitumma iho",
+        "napsautus",
+        "raha",
+        "rakkaus",
+        "sydän"
+    ],
+    "🫰🏿": [
+        "anna rahaa",
+        "etusormi ja peukalo ristissä",
+        "etusormi ja peukalo ristissä: tumma iho",
+        "hinta",
+        "kallis",
+        "napsautus",
+        "raha",
+        "rakkaus",
+        "sydän",
         "tumma iho"
     ],
     "🤟": [
@@ -2018,6 +4055,52 @@
         "ylös osoittava etusormi",
         "ylös osoittava etusormi: tumma iho"
     ],
+    "🫵": [
+        "etusormi osoittaa katsojaa",
+        "osoittaa",
+        "sinä",
+        "sinä siinä"
+    ],
+    "🫵🏻": [
+        "etusormi osoittaa katsojaa",
+        "etusormi osoittaa katsojaa: vaalea iho",
+        "osoittaa",
+        "sinä",
+        "sinä siinä",
+        "vaalea iho"
+    ],
+    "🫵🏼": [
+        "etusormi osoittaa katsojaa",
+        "etusormi osoittaa katsojaa: keskivaalea iho",
+        "keskivaalea iho",
+        "osoittaa",
+        "sinä",
+        "sinä siinä"
+    ],
+    "🫵🏽": [
+        "etusormi osoittaa katsojaa",
+        "etusormi osoittaa katsojaa: tummanvaalea iho",
+        "osoittaa",
+        "sinä",
+        "sinä siinä",
+        "tummanvaalea iho"
+    ],
+    "🫵🏾": [
+        "etusormi osoittaa katsojaa",
+        "etusormi osoittaa katsojaa: keskitumma iho",
+        "keskitumma iho",
+        "osoittaa",
+        "sinä",
+        "sinä siinä"
+    ],
+    "🫵🏿": [
+        "etusormi osoittaa katsojaa",
+        "etusormi osoittaa katsojaa: tumma iho",
+        "osoittaa",
+        "sinä",
+        "sinä siinä",
+        "tumma iho"
+    ],
     "👍️": [
         "+1",
         "käsi",
@@ -2430,6 +4513,58 @@
         "tumma iho",
         "vartalo"
     ],
+    "🫶": [
+        "rakas",
+        "rakastaa",
+        "rakkaus",
+        "sydänkuvio käsillä",
+        "sydänkädet"
+    ],
+    "🫶🏻": [
+        "rakas",
+        "rakastaa",
+        "rakkaus",
+        "sydänkuvio käsillä",
+        "sydänkuvio käsillä: vaalea iho",
+        "sydänkädet",
+        "vaalea iho"
+    ],
+    "🫶🏼": [
+        "keskivaalea iho",
+        "rakas",
+        "rakastaa",
+        "rakkaus",
+        "sydänkuvio käsillä",
+        "sydänkuvio käsillä: keskivaalea iho",
+        "sydänkädet"
+    ],
+    "🫶🏽": [
+        "rakas",
+        "rakastaa",
+        "rakkaus",
+        "sydänkuvio käsillä",
+        "sydänkuvio käsillä: tummanvaalea iho",
+        "sydänkädet",
+        "tummanvaalea iho"
+    ],
+    "🫶🏾": [
+        "keskitumma iho",
+        "rakas",
+        "rakastaa",
+        "rakkaus",
+        "sydänkuvio käsillä",
+        "sydänkuvio käsillä: keskitumma iho",
+        "sydänkädet"
+    ],
+    "🫶🏿": [
+        "rakas",
+        "rakastaa",
+        "rakkaus",
+        "sydänkuvio käsillä",
+        "sydänkuvio käsillä: tumma iho",
+        "sydänkädet",
+        "tumma iho"
+    ],
     "👐": [
         "avoimet kädet",
         "avoin",
@@ -2517,12 +4652,59 @@
         "sopimus",
         "tapaaminen"
     ],
+    "🤝🏻": [
+        "kädenpuristus",
+        "kädenpuristus: vaalea iho",
+        "käsi",
+        "kätellä",
+        "sopimus",
+        "tapaaminen",
+        "vaalea iho"
+    ],
+    "🤝🏼": [
+        "keskivaalea iho",
+        "kädenpuristus",
+        "kädenpuristus: keskivaalea iho",
+        "käsi",
+        "kätellä",
+        "sopimus",
+        "tapaaminen"
+    ],
+    "🤝🏽": [
+        "kädenpuristus",
+        "kädenpuristus: tummanvaalea iho",
+        "käsi",
+        "kätellä",
+        "sopimus",
+        "tapaaminen",
+        "tummanvaalea iho"
+    ],
+    "🤝🏾": [
+        "keskitumma iho",
+        "kädenpuristus",
+        "kädenpuristus: keskitumma iho",
+        "käsi",
+        "kätellä",
+        "sopimus",
+        "tapaaminen"
+    ],
+    "🤝🏿": [
+        "kädenpuristus",
+        "kädenpuristus: tumma iho",
+        "käsi",
+        "kätellä",
+        "sopimus",
+        "tapaaminen",
+        "tumma iho"
+    ],
     "🙏": [
         "kiitos",
         "kumarrus",
         "kämmenet yhdessä",
         "pliis",
-        "rukous"
+        "pyyntö",
+        "rukous",
+        "yläfemma"
     ],
     "🙏🏻": [
         "kiitos",
@@ -2530,8 +4712,10 @@
         "kämmenet yhdessä",
         "kämmenet yhdessä: vaalea iho",
         "pliis",
+        "pyyntö",
         "rukous",
-        "vaalea iho"
+        "vaalea iho",
+        "yläfemma"
     ],
     "🙏🏼": [
         "keskivaalea iho",
@@ -2540,7 +4724,9 @@
         "kämmenet yhdessä",
         "kämmenet yhdessä: keskivaalea iho",
         "pliis",
-        "rukous"
+        "pyyntö",
+        "rukous",
+        "yläfemma"
     ],
     "🙏🏽": [
         "kiitos",
@@ -2548,8 +4734,10 @@
         "kämmenet yhdessä",
         "kämmenet yhdessä: tummanvaalea iho",
         "pliis",
+        "pyyntö",
         "rukous",
-        "tummanvaalea iho"
+        "tummanvaalea iho",
+        "yläfemma"
     ],
     "🙏🏾": [
         "keskitumma iho",
@@ -2558,7 +4746,9 @@
         "kämmenet yhdessä",
         "kämmenet yhdessä: keskitumma iho",
         "pliis",
-        "rukous"
+        "pyyntö",
+        "rukous",
+        "yläfemma"
     ],
     "🙏🏿": [
         "kiitos",
@@ -2566,8 +4756,10 @@
         "kämmenet yhdessä",
         "kämmenet yhdessä: tumma iho",
         "pliis",
+        "pyyntö",
         "rukous",
-        "tumma iho"
+        "tumma iho",
+        "yläfemma"
     ],
     "✍️": [
         "kirjoittaa",
@@ -3043,7 +5235,6 @@
     "🫀": [
         "elin",
         "kardiologia",
-        "keskipiste",
         "pulssi",
         "sydän",
         "syke",
@@ -3088,6 +5279,15 @@
         "pää",
         "suu",
         "vartalo"
+    ],
+    "🫦": [
+        "flirttaileva",
+        "hermostunut",
+        "huolestunut",
+        "kiusaantunut",
+        "pelokas",
+        "purra huulta",
+        "vaivautunut"
     ],
     "👶": [
         "lapsi",
@@ -3388,6 +5588,406 @@
         "vaaleahiuksinen henkilö",
         "vaaleatukkainen henkilö",
         "vaaleatukkainen henkilö: tumma iho"
+    ],
+    "🧑🏻‍❤‍💋‍🧑🏼": [
+        "aikuinen",
+        "keskivaalea iho",
+        "pariskunta",
+        "pusu",
+        "pusu: aikuinen, aikuinen, vaalea iho, keskivaalea iho",
+        "romantiikka",
+        "vaalea iho"
+    ],
+    "🧑🏻‍❤‍💋‍🧑🏽": [
+        "aikuinen",
+        "pariskunta",
+        "pusu",
+        "pusu: aikuinen, aikuinen, vaalea iho, tummanvaalea iho",
+        "romantiikka",
+        "tummanvaalea iho",
+        "vaalea iho"
+    ],
+    "🧑🏻‍❤‍💋‍🧑🏾": [
+        "aikuinen",
+        "keskitumma iho",
+        "pariskunta",
+        "pusu",
+        "pusu: aikuinen, aikuinen, vaalea iho, keskitumma iho",
+        "romantiikka",
+        "vaalea iho"
+    ],
+    "🧑🏻‍❤‍💋‍🧑🏿": [
+        "aikuinen",
+        "pariskunta",
+        "pusu",
+        "pusu: aikuinen, aikuinen, vaalea iho, tumma iho",
+        "romantiikka",
+        "tumma iho",
+        "vaalea iho"
+    ],
+    "🧑🏼‍❤‍💋‍🧑🏻": [
+        "aikuinen",
+        "keskivaalea iho",
+        "pariskunta",
+        "pusu",
+        "pusu: aikuinen, aikuinen, keskivaalea iho, vaalea iho",
+        "romantiikka",
+        "vaalea iho"
+    ],
+    "🧑🏼‍❤‍💋‍🧑🏽": [
+        "aikuinen",
+        "keskivaalea iho",
+        "pariskunta",
+        "pusu",
+        "pusu: aikuinen, aikuinen, keskivaalea iho, tummanvaalea iho",
+        "romantiikka",
+        "tummanvaalea iho"
+    ],
+    "🧑🏼‍❤‍💋‍🧑🏾": [
+        "aikuinen",
+        "keskitumma iho",
+        "keskivaalea iho",
+        "pariskunta",
+        "pusu",
+        "pusu: aikuinen, aikuinen, keskivaalea iho, keskitumma iho",
+        "romantiikka"
+    ],
+    "🧑🏼‍❤‍💋‍🧑🏿": [
+        "aikuinen",
+        "keskivaalea iho",
+        "pariskunta",
+        "pusu",
+        "pusu: aikuinen, aikuinen, keskivaalea iho, tumma iho",
+        "romantiikka",
+        "tumma iho"
+    ],
+    "🧑🏽‍❤‍💋‍🧑🏻": [
+        "aikuinen",
+        "pariskunta",
+        "pusu",
+        "pusu: aikuinen, aikuinen, tummanvaalea iho, vaalea iho",
+        "romantiikka",
+        "tummanvaalea iho",
+        "vaalea iho"
+    ],
+    "🧑🏽‍❤‍💋‍🧑🏼": [
+        "aikuinen",
+        "keskivaalea iho",
+        "pariskunta",
+        "pusu",
+        "pusu: aikuinen, aikuinen, tummanvaalea iho, keskivaalea iho",
+        "romantiikka",
+        "tummanvaalea iho"
+    ],
+    "🧑🏽‍❤‍💋‍🧑🏾": [
+        "aikuinen",
+        "keskitumma iho",
+        "pariskunta",
+        "pusu",
+        "pusu: aikuinen, aikuinen, tummanvaalea iho, keskitumma iho",
+        "romantiikka",
+        "tummanvaalea iho"
+    ],
+    "🧑🏽‍❤‍💋‍🧑🏿": [
+        "aikuinen",
+        "pariskunta",
+        "pusu",
+        "pusu: aikuinen, aikuinen, tummanvaalea iho, tumma iho",
+        "romantiikka",
+        "tumma iho",
+        "tummanvaalea iho"
+    ],
+    "🧑🏾‍❤‍💋‍🧑🏻": [
+        "aikuinen",
+        "keskitumma iho",
+        "pariskunta",
+        "pusu",
+        "pusu: aikuinen, aikuinen, keskitumma iho, vaalea iho",
+        "romantiikka",
+        "vaalea iho"
+    ],
+    "🧑🏾‍❤‍💋‍🧑🏼": [
+        "aikuinen",
+        "keskitumma iho",
+        "keskivaalea iho",
+        "pariskunta",
+        "pusu",
+        "pusu: aikuinen, aikuinen, keskitumma iho, keskivaalea iho",
+        "romantiikka"
+    ],
+    "🧑🏾‍❤‍💋‍🧑🏽": [
+        "aikuinen",
+        "keskitumma iho",
+        "pariskunta",
+        "pusu",
+        "pusu: aikuinen, aikuinen, keskitumma iho, tummanvaalea iho",
+        "romantiikka",
+        "tummanvaalea iho"
+    ],
+    "🧑🏾‍❤‍💋‍🧑🏿": [
+        "aikuinen",
+        "keskitumma iho",
+        "pariskunta",
+        "pusu",
+        "pusu: aikuinen, aikuinen, keskitumma iho, tumma iho",
+        "romantiikka",
+        "tumma iho"
+    ],
+    "🧑🏿‍❤‍💋‍🧑🏻": [
+        "aikuinen",
+        "pariskunta",
+        "pusu",
+        "pusu: aikuinen, aikuinen, tumma iho, vaalea iho",
+        "romantiikka",
+        "tumma iho",
+        "vaalea iho"
+    ],
+    "🧑🏿‍❤‍💋‍🧑🏼": [
+        "aikuinen",
+        "keskivaalea iho",
+        "pariskunta",
+        "pusu",
+        "pusu: aikuinen, aikuinen, tumma iho, keskivaalea iho",
+        "romantiikka",
+        "tumma iho"
+    ],
+    "🧑🏿‍❤‍💋‍🧑🏽": [
+        "aikuinen",
+        "pariskunta",
+        "pusu",
+        "pusu: aikuinen, aikuinen, tumma iho, tummanvaalea iho",
+        "romantiikka",
+        "tumma iho",
+        "tummanvaalea iho"
+    ],
+    "🧑🏿‍❤‍💋‍🧑🏾": [
+        "aikuinen",
+        "keskitumma iho",
+        "pariskunta",
+        "pusu",
+        "pusu: aikuinen, aikuinen, tumma iho, keskitumma iho",
+        "romantiikka",
+        "tumma iho"
+    ],
+    "🧑🏻‍❤‍🧑🏼": [
+        "aikuinen",
+        "keskivaalea iho",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: aikuinen, aikuinen, vaalea iho, keskivaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "vaalea iho"
+    ],
+    "🧑🏻‍❤‍🧑🏽": [
+        "aikuinen",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: aikuinen, aikuinen, vaalea iho, tummanvaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tummanvaalea iho",
+        "vaalea iho"
+    ],
+    "🧑🏻‍❤‍🧑🏾": [
+        "aikuinen",
+        "keskitumma iho",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: aikuinen, aikuinen, vaalea iho, keskitumma iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "vaalea iho"
+    ],
+    "🧑🏻‍❤‍🧑🏿": [
+        "aikuinen",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: aikuinen, aikuinen, vaalea iho, tumma iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tumma iho",
+        "vaalea iho"
+    ],
+    "🧑🏼‍❤‍🧑🏻": [
+        "aikuinen",
+        "keskivaalea iho",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: aikuinen, aikuinen, keskivaalea iho, vaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "vaalea iho"
+    ],
+    "🧑🏼‍❤‍🧑🏽": [
+        "aikuinen",
+        "keskivaalea iho",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: aikuinen, aikuinen, keskivaalea iho, tummanvaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tummanvaalea iho"
+    ],
+    "🧑🏼‍❤‍🧑🏾": [
+        "aikuinen",
+        "keskitumma iho",
+        "keskivaalea iho",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: aikuinen, aikuinen, keskivaalea iho, keskitumma iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän"
+    ],
+    "🧑🏼‍❤‍🧑🏿": [
+        "aikuinen",
+        "keskivaalea iho",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: aikuinen, aikuinen, keskivaalea iho, tumma iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tumma iho"
+    ],
+    "🧑🏽‍❤‍🧑🏻": [
+        "aikuinen",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: aikuinen, aikuinen, tummanvaalea iho, vaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tummanvaalea iho",
+        "vaalea iho"
+    ],
+    "🧑🏽‍❤‍🧑🏼": [
+        "aikuinen",
+        "keskivaalea iho",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: aikuinen, aikuinen, tummanvaalea iho, keskivaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tummanvaalea iho"
+    ],
+    "🧑🏽‍❤‍🧑🏾": [
+        "aikuinen",
+        "keskitumma iho",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: aikuinen, aikuinen, tummanvaalea iho, keskitumma iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tummanvaalea iho"
+    ],
+    "🧑🏽‍❤‍🧑🏿": [
+        "aikuinen",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: aikuinen, aikuinen, tummanvaalea iho, tumma iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tumma iho",
+        "tummanvaalea iho"
+    ],
+    "🧑🏾‍❤‍🧑🏻": [
+        "aikuinen",
+        "keskitumma iho",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: aikuinen, aikuinen, keskitumma iho, vaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "vaalea iho"
+    ],
+    "🧑🏾‍❤‍🧑🏼": [
+        "aikuinen",
+        "keskitumma iho",
+        "keskivaalea iho",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: aikuinen, aikuinen, keskitumma iho, keskivaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän"
+    ],
+    "🧑🏾‍❤‍🧑🏽": [
+        "aikuinen",
+        "keskitumma iho",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: aikuinen, aikuinen, keskitumma iho, tummanvaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tummanvaalea iho"
+    ],
+    "🧑🏾‍❤‍🧑🏿": [
+        "aikuinen",
+        "keskitumma iho",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: aikuinen, aikuinen, keskitumma iho, tumma iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tumma iho"
+    ],
+    "🧑🏿‍❤‍🧑🏻": [
+        "aikuinen",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: aikuinen, aikuinen, tumma iho, vaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tumma iho",
+        "vaalea iho"
+    ],
+    "🧑🏿‍❤‍🧑🏼": [
+        "aikuinen",
+        "keskivaalea iho",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: aikuinen, aikuinen, tumma iho, keskivaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tumma iho"
+    ],
+    "🧑🏿‍❤‍🧑🏽": [
+        "aikuinen",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: aikuinen, aikuinen, tumma iho, tummanvaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tumma iho",
+        "tummanvaalea iho"
+    ],
+    "🧑🏿‍❤‍🧑🏾": [
+        "aikuinen",
+        "keskitumma iho",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: aikuinen, aikuinen, tumma iho, keskitumma iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tumma iho"
     ],
     "🧑‍🦰": [
         "aikaihminen",
@@ -3741,6 +6341,46 @@
         "tumma iho",
         "viikset"
     ],
+    "🧔‍♂": [
+        "mies",
+        "parrakas mies",
+        "parta"
+    ],
+    "🧔🏻‍♂": [
+        "mies",
+        "parrakas mies",
+        "parrakas mies: vaalea iho",
+        "parta",
+        "vaalea iho"
+    ],
+    "🧔🏼‍♂": [
+        "keskivaalea iho",
+        "mies",
+        "parrakas mies",
+        "parrakas mies: keskivaalea iho",
+        "parta"
+    ],
+    "🧔🏽‍♂": [
+        "mies",
+        "parrakas mies",
+        "parrakas mies: tummanvaalea iho",
+        "parta",
+        "tummanvaalea iho"
+    ],
+    "🧔🏾‍♂": [
+        "keskitumma iho",
+        "mies",
+        "parrakas mies",
+        "parrakas mies: keskitumma iho",
+        "parta"
+    ],
+    "🧔🏿‍♂": [
+        "mies",
+        "parrakas mies",
+        "parrakas mies: tumma iho",
+        "parta",
+        "tumma iho"
+    ],
     "👱‍♂": [
         "blondi",
         "hiukset",
@@ -3798,6 +6438,496 @@
         "vaaleahiuksinen mies",
         "vaaleatukkainen mies",
         "vaaleatukkainen mies: tumma iho"
+    ],
+    "👨🏻‍❤‍💋‍👨🏻": [
+        "mies",
+        "pariskunta",
+        "pusu",
+        "pusu: mies, mies, vaalea iho",
+        "romantiikka",
+        "vaalea iho"
+    ],
+    "👨🏻‍❤‍💋‍👨🏼": [
+        "keskivaalea iho",
+        "mies",
+        "pariskunta",
+        "pusu",
+        "pusu: mies, mies, vaalea iho, keskivaalea iho",
+        "romantiikka",
+        "vaalea iho"
+    ],
+    "👨🏻‍❤‍💋‍👨🏽": [
+        "mies",
+        "pariskunta",
+        "pusu",
+        "pusu: mies, mies, vaalea iho, tummanvaalea iho",
+        "romantiikka",
+        "tummanvaalea iho",
+        "vaalea iho"
+    ],
+    "👨🏻‍❤‍💋‍👨🏾": [
+        "keskitumma iho",
+        "mies",
+        "pariskunta",
+        "pusu",
+        "pusu: mies, mies, vaalea iho, keskitumma iho",
+        "romantiikka",
+        "vaalea iho"
+    ],
+    "👨🏻‍❤‍💋‍👨🏿": [
+        "mies",
+        "pariskunta",
+        "pusu",
+        "pusu: mies, mies, vaalea iho, tumma iho",
+        "romantiikka",
+        "tumma iho",
+        "vaalea iho"
+    ],
+    "👨🏼‍❤‍💋‍👨🏻": [
+        "keskivaalea iho",
+        "mies",
+        "pariskunta",
+        "pusu",
+        "pusu: mies, mies, keskivaalea iho, vaalea iho",
+        "romantiikka",
+        "vaalea iho"
+    ],
+    "👨🏼‍❤‍💋‍👨🏼": [
+        "keskivaalea iho",
+        "mies",
+        "pariskunta",
+        "pusu",
+        "pusu: mies, mies, keskivaalea iho",
+        "romantiikka"
+    ],
+    "👨🏼‍❤‍💋‍👨🏽": [
+        "keskivaalea iho",
+        "mies",
+        "pariskunta",
+        "pusu",
+        "pusu: mies, mies, keskivaalea iho, tummanvaalea iho",
+        "romantiikka",
+        "tummanvaalea iho"
+    ],
+    "👨🏼‍❤‍💋‍👨🏾": [
+        "keskitumma iho",
+        "keskivaalea iho",
+        "mies",
+        "pariskunta",
+        "pusu",
+        "pusu: mies, mies, keskivaalea iho, keskitumma iho",
+        "romantiikka"
+    ],
+    "👨🏼‍❤‍💋‍👨🏿": [
+        "keskivaalea iho",
+        "mies",
+        "pariskunta",
+        "pusu",
+        "pusu: mies, mies, keskivaalea iho, tumma iho",
+        "romantiikka",
+        "tumma iho"
+    ],
+    "👨🏽‍❤‍💋‍👨🏻": [
+        "mies",
+        "pariskunta",
+        "pusu",
+        "pusu: mies, mies, tummanvaalea iho, vaalea iho",
+        "romantiikka",
+        "tummanvaalea iho",
+        "vaalea iho"
+    ],
+    "👨🏽‍❤‍💋‍👨🏼": [
+        "keskivaalea iho",
+        "mies",
+        "pariskunta",
+        "pusu",
+        "pusu: mies, mies, tummanvaalea iho, keskivaalea iho",
+        "romantiikka",
+        "tummanvaalea iho"
+    ],
+    "👨🏽‍❤‍💋‍👨🏽": [
+        "mies",
+        "pariskunta",
+        "pusu",
+        "pusu: mies, mies, tummanvaalea iho",
+        "romantiikka",
+        "tummanvaalea iho"
+    ],
+    "👨🏽‍❤‍💋‍👨🏾": [
+        "keskitumma iho",
+        "mies",
+        "pariskunta",
+        "pusu",
+        "pusu: mies, mies, tummanvaalea iho, keskitumma iho",
+        "romantiikka",
+        "tummanvaalea iho"
+    ],
+    "👨🏽‍❤‍💋‍👨🏿": [
+        "mies",
+        "pariskunta",
+        "pusu",
+        "pusu: mies, mies, tummanvaalea iho, tumma iho",
+        "romantiikka",
+        "tumma iho",
+        "tummanvaalea iho"
+    ],
+    "👨🏾‍❤‍💋‍👨🏻": [
+        "keskitumma iho",
+        "mies",
+        "pariskunta",
+        "pusu",
+        "pusu: mies, mies, keskitumma iho, vaalea iho",
+        "romantiikka",
+        "vaalea iho"
+    ],
+    "👨🏾‍❤‍💋‍👨🏼": [
+        "keskitumma iho",
+        "keskivaalea iho",
+        "mies",
+        "pariskunta",
+        "pusu",
+        "pusu: mies, mies, keskitumma iho, keskivaalea iho",
+        "romantiikka"
+    ],
+    "👨🏾‍❤‍💋‍👨🏽": [
+        "keskitumma iho",
+        "mies",
+        "pariskunta",
+        "pusu",
+        "pusu: mies, mies, keskitumma iho, tummanvaalea iho",
+        "romantiikka",
+        "tummanvaalea iho"
+    ],
+    "👨🏾‍❤‍💋‍👨🏾": [
+        "keskitumma iho",
+        "mies",
+        "pariskunta",
+        "pusu",
+        "pusu: mies, mies, keskitumma iho",
+        "romantiikka"
+    ],
+    "👨🏾‍❤‍💋‍👨🏿": [
+        "keskitumma iho",
+        "mies",
+        "pariskunta",
+        "pusu",
+        "pusu: mies, mies, keskitumma iho, tumma iho",
+        "romantiikka",
+        "tumma iho"
+    ],
+    "👨🏿‍❤‍💋‍👨🏻": [
+        "mies",
+        "pariskunta",
+        "pusu",
+        "pusu: mies, mies, tumma iho, vaalea iho",
+        "romantiikka",
+        "tumma iho",
+        "vaalea iho"
+    ],
+    "👨🏿‍❤‍💋‍👨🏼": [
+        "keskivaalea iho",
+        "mies",
+        "pariskunta",
+        "pusu",
+        "pusu: mies, mies, tumma iho, keskivaalea iho",
+        "romantiikka",
+        "tumma iho"
+    ],
+    "👨🏿‍❤‍💋‍👨🏽": [
+        "mies",
+        "pariskunta",
+        "pusu",
+        "pusu: mies, mies, tumma iho, tummanvaalea iho",
+        "romantiikka",
+        "tumma iho",
+        "tummanvaalea iho"
+    ],
+    "👨🏿‍❤‍💋‍👨🏾": [
+        "keskitumma iho",
+        "mies",
+        "pariskunta",
+        "pusu",
+        "pusu: mies, mies, tumma iho, keskitumma iho",
+        "romantiikka",
+        "tumma iho"
+    ],
+    "👨🏿‍❤‍💋‍👨🏿": [
+        "mies",
+        "pariskunta",
+        "pusu",
+        "pusu: mies, mies, tumma iho",
+        "romantiikka",
+        "tumma iho"
+    ],
+    "👨🏻‍❤‍👨🏻": [
+        "mies",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: mies, mies, vaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "vaalea iho"
+    ],
+    "👨🏻‍❤‍👨🏼": [
+        "keskivaalea iho",
+        "mies",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: mies, mies, vaalea iho, keskivaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "vaalea iho"
+    ],
+    "👨🏻‍❤‍👨🏽": [
+        "mies",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: mies, mies, vaalea iho, tummanvaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tummanvaalea iho",
+        "vaalea iho"
+    ],
+    "👨🏻‍❤‍👨🏾": [
+        "keskitumma iho",
+        "mies",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: mies, mies, vaalea iho, keskitumma iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "vaalea iho"
+    ],
+    "👨🏻‍❤‍👨🏿": [
+        "mies",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: mies, mies, vaalea iho, tumma iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tumma iho",
+        "vaalea iho"
+    ],
+    "👨🏼‍❤‍👨🏻": [
+        "keskivaalea iho",
+        "mies",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: mies, mies, keskivaalea iho, vaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "vaalea iho"
+    ],
+    "👨🏼‍❤‍👨🏼": [
+        "keskivaalea iho",
+        "mies",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: mies, mies, keskivaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän"
+    ],
+    "👨🏼‍❤‍👨🏽": [
+        "keskivaalea iho",
+        "mies",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: mies, mies, keskivaalea iho, tummanvaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tummanvaalea iho"
+    ],
+    "👨🏼‍❤‍👨🏾": [
+        "keskitumma iho",
+        "keskivaalea iho",
+        "mies",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: mies, mies, keskivaalea iho, keskitumma iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän"
+    ],
+    "👨🏼‍❤‍👨🏿": [
+        "keskivaalea iho",
+        "mies",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: mies, mies, keskivaalea iho, tumma iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tumma iho"
+    ],
+    "👨🏽‍❤‍👨🏻": [
+        "mies",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: mies, mies, tummanvaalea iho, vaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tummanvaalea iho",
+        "vaalea iho"
+    ],
+    "👨🏽‍❤‍👨🏼": [
+        "keskivaalea iho",
+        "mies",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: mies, mies, tummanvaalea iho, keskivaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tummanvaalea iho"
+    ],
+    "👨🏽‍❤‍👨🏽": [
+        "mies",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: mies, mies, tummanvaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tummanvaalea iho"
+    ],
+    "👨🏽‍❤‍👨🏾": [
+        "keskitumma iho",
+        "mies",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: mies, mies, tummanvaalea iho, keskitumma iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tummanvaalea iho"
+    ],
+    "👨🏽‍❤‍👨🏿": [
+        "mies",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: mies, mies, tummanvaalea iho, tumma iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tumma iho",
+        "tummanvaalea iho"
+    ],
+    "👨🏾‍❤‍👨🏻": [
+        "keskitumma iho",
+        "mies",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: mies, mies, keskitumma iho, vaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "vaalea iho"
+    ],
+    "👨🏾‍❤‍👨🏼": [
+        "keskitumma iho",
+        "keskivaalea iho",
+        "mies",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: mies, mies, keskitumma iho, keskivaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän"
+    ],
+    "👨🏾‍❤‍👨🏽": [
+        "keskitumma iho",
+        "mies",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: mies, mies, keskitumma iho, tummanvaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tummanvaalea iho"
+    ],
+    "👨🏾‍❤‍👨🏾": [
+        "keskitumma iho",
+        "mies",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: mies, mies, keskitumma iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän"
+    ],
+    "👨🏾‍❤‍👨🏿": [
+        "keskitumma iho",
+        "mies",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: mies, mies, keskitumma iho, tumma iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tumma iho"
+    ],
+    "👨🏿‍❤‍👨🏻": [
+        "mies",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: mies, mies, tumma iho, vaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tumma iho",
+        "vaalea iho"
+    ],
+    "👨🏿‍❤‍👨🏼": [
+        "keskivaalea iho",
+        "mies",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: mies, mies, tumma iho, keskivaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tumma iho"
+    ],
+    "👨🏿‍❤‍👨🏽": [
+        "mies",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: mies, mies, tumma iho, tummanvaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tumma iho",
+        "tummanvaalea iho"
+    ],
+    "👨🏿‍❤‍👨🏾": [
+        "keskitumma iho",
+        "mies",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: mies, mies, tumma iho, keskitumma iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tumma iho"
+    ],
+    "👨🏿‍❤‍👨🏿": [
+        "mies",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: mies, mies, tumma iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tumma iho"
     ],
     "👨‍🦰": [
         "mies",
@@ -3997,6 +7127,46 @@
         "naispuolinen",
         "tumma iho"
     ],
+    "🧔‍♀": [
+        "nainen",
+        "parrakas nainen",
+        "parta"
+    ],
+    "🧔🏻‍♀": [
+        "nainen",
+        "parrakas nainen",
+        "parrakas nainen: vaalea iho",
+        "parta",
+        "vaalea iho"
+    ],
+    "🧔🏼‍♀": [
+        "keskivaalea iho",
+        "nainen",
+        "parrakas nainen",
+        "parrakas nainen: keskivaalea iho",
+        "parta"
+    ],
+    "🧔🏽‍♀": [
+        "nainen",
+        "parrakas nainen",
+        "parrakas nainen: tummanvaalea iho",
+        "parta",
+        "tummanvaalea iho"
+    ],
+    "🧔🏾‍♀": [
+        "keskitumma iho",
+        "nainen",
+        "parrakas nainen",
+        "parrakas nainen: keskitumma iho",
+        "parta"
+    ],
+    "🧔🏿‍♀": [
+        "nainen",
+        "parrakas nainen",
+        "parrakas nainen: tumma iho",
+        "parta",
+        "tumma iho"
+    ],
     "👱‍♀": [
         "blondi",
         "hiukset",
@@ -4054,6 +7224,1036 @@
         "vaaleahiuksinen nainen",
         "vaaleatukkainen nainen",
         "vaaleatukkainen nainen: tumma iho"
+    ],
+    "👩🏻‍❤‍💋‍👨🏻": [
+        "mies",
+        "nainen",
+        "pariskunta",
+        "pusu",
+        "pusu: nainen, mies, vaalea iho",
+        "romantiikka",
+        "vaalea iho"
+    ],
+    "👩🏻‍❤‍💋‍👨🏼": [
+        "keskivaalea iho",
+        "mies",
+        "nainen",
+        "pariskunta",
+        "pusu",
+        "pusu: nainen, mies, vaalea iho, keskivaalea iho",
+        "romantiikka",
+        "vaalea iho"
+    ],
+    "👩🏻‍❤‍💋‍👨🏽": [
+        "mies",
+        "nainen",
+        "pariskunta",
+        "pusu",
+        "pusu: nainen, mies, vaalea iho, tummanvaalea iho",
+        "romantiikka",
+        "tummanvaalea iho",
+        "vaalea iho"
+    ],
+    "👩🏻‍❤‍💋‍👨🏾": [
+        "keskitumma iho",
+        "mies",
+        "nainen",
+        "pariskunta",
+        "pusu",
+        "pusu: nainen, mies, vaalea iho, keskitumma iho",
+        "romantiikka",
+        "vaalea iho"
+    ],
+    "👩🏻‍❤‍💋‍👨🏿": [
+        "mies",
+        "nainen",
+        "pariskunta",
+        "pusu",
+        "pusu: nainen, mies, vaalea iho, tumma iho",
+        "romantiikka",
+        "tumma iho",
+        "vaalea iho"
+    ],
+    "👩🏼‍❤‍💋‍👨🏻": [
+        "keskivaalea iho",
+        "mies",
+        "nainen",
+        "pariskunta",
+        "pusu",
+        "pusu: nainen, mies, keskivaalea iho, vaalea iho",
+        "romantiikka",
+        "vaalea iho"
+    ],
+    "👩🏼‍❤‍💋‍👨🏼": [
+        "keskivaalea iho",
+        "mies",
+        "nainen",
+        "pariskunta",
+        "pusu",
+        "pusu: nainen, mies, keskivaalea iho",
+        "romantiikka"
+    ],
+    "👩🏼‍❤‍💋‍👨🏽": [
+        "keskivaalea iho",
+        "mies",
+        "nainen",
+        "pariskunta",
+        "pusu",
+        "pusu: nainen, mies, keskivaalea iho, tummanvaalea iho",
+        "romantiikka",
+        "tummanvaalea iho"
+    ],
+    "👩🏼‍❤‍💋‍👨🏾": [
+        "keskitumma iho",
+        "keskivaalea iho",
+        "mies",
+        "nainen",
+        "pariskunta",
+        "pusu",
+        "pusu: nainen, mies, keskivaalea iho, keskitumma iho",
+        "romantiikka"
+    ],
+    "👩🏼‍❤‍💋‍👨🏿": [
+        "keskivaalea iho",
+        "mies",
+        "nainen",
+        "pariskunta",
+        "pusu",
+        "pusu: nainen, mies, keskivaalea iho, tumma iho",
+        "romantiikka",
+        "tumma iho"
+    ],
+    "👩🏽‍❤‍💋‍👨🏻": [
+        "mies",
+        "nainen",
+        "pariskunta",
+        "pusu",
+        "pusu: nainen, mies, tummanvaalea iho, vaalea iho",
+        "romantiikka",
+        "tummanvaalea iho",
+        "vaalea iho"
+    ],
+    "👩🏽‍❤‍💋‍👨🏼": [
+        "keskivaalea iho",
+        "mies",
+        "nainen",
+        "pariskunta",
+        "pusu",
+        "pusu: nainen, mies, tummanvaalea iho, keskivaalea iho",
+        "romantiikka",
+        "tummanvaalea iho"
+    ],
+    "👩🏽‍❤‍💋‍👨🏽": [
+        "mies",
+        "nainen",
+        "pariskunta",
+        "pusu",
+        "pusu: nainen, mies, tummanvaalea iho",
+        "romantiikka",
+        "tummanvaalea iho"
+    ],
+    "👩🏽‍❤‍💋‍👨🏾": [
+        "keskitumma iho",
+        "mies",
+        "nainen",
+        "pariskunta",
+        "pusu",
+        "pusu: nainen, mies, tummanvaalea iho, keskitumma iho",
+        "romantiikka",
+        "tummanvaalea iho"
+    ],
+    "👩🏽‍❤‍💋‍👨🏿": [
+        "mies",
+        "nainen",
+        "pariskunta",
+        "pusu",
+        "pusu: nainen, mies, tummanvaalea iho, tumma iho",
+        "romantiikka",
+        "tumma iho",
+        "tummanvaalea iho"
+    ],
+    "👩🏾‍❤‍💋‍👨🏻": [
+        "keskitumma iho",
+        "mies",
+        "nainen",
+        "pariskunta",
+        "pusu",
+        "pusu: nainen, mies, keskitumma iho, vaalea iho",
+        "romantiikka",
+        "vaalea iho"
+    ],
+    "👩🏾‍❤‍💋‍👨🏼": [
+        "keskitumma iho",
+        "keskivaalea iho",
+        "mies",
+        "nainen",
+        "pariskunta",
+        "pusu",
+        "pusu: nainen, mies, keskitumma iho, keskivaalea iho",
+        "romantiikka"
+    ],
+    "👩🏾‍❤‍💋‍👨🏽": [
+        "keskitumma iho",
+        "mies",
+        "nainen",
+        "pariskunta",
+        "pusu",
+        "pusu: nainen, mies, keskitumma iho, tummanvaalea iho",
+        "romantiikka",
+        "tummanvaalea iho"
+    ],
+    "👩🏾‍❤‍💋‍👨🏾": [
+        "keskitumma iho",
+        "mies",
+        "nainen",
+        "pariskunta",
+        "pusu",
+        "pusu: nainen, mies, keskitumma iho",
+        "romantiikka"
+    ],
+    "👩🏾‍❤‍💋‍👨🏿": [
+        "keskitumma iho",
+        "mies",
+        "nainen",
+        "pariskunta",
+        "pusu",
+        "pusu: nainen, mies, keskitumma iho, tumma iho",
+        "romantiikka",
+        "tumma iho"
+    ],
+    "👩🏿‍❤‍💋‍👨🏻": [
+        "mies",
+        "nainen",
+        "pariskunta",
+        "pusu",
+        "pusu: nainen, mies, tumma iho, vaalea iho",
+        "romantiikka",
+        "tumma iho",
+        "vaalea iho"
+    ],
+    "👩🏿‍❤‍💋‍👨🏼": [
+        "keskivaalea iho",
+        "mies",
+        "nainen",
+        "pariskunta",
+        "pusu",
+        "pusu: nainen, mies, tumma iho, keskivaalea iho",
+        "romantiikka",
+        "tumma iho"
+    ],
+    "👩🏿‍❤‍💋‍👨🏽": [
+        "mies",
+        "nainen",
+        "pariskunta",
+        "pusu",
+        "pusu: nainen, mies, tumma iho, tummanvaalea iho",
+        "romantiikka",
+        "tumma iho",
+        "tummanvaalea iho"
+    ],
+    "👩🏿‍❤‍💋‍👨🏾": [
+        "keskitumma iho",
+        "mies",
+        "nainen",
+        "pariskunta",
+        "pusu",
+        "pusu: nainen, mies, tumma iho, keskitumma iho",
+        "romantiikka",
+        "tumma iho"
+    ],
+    "👩🏿‍❤‍💋‍👨🏿": [
+        "mies",
+        "nainen",
+        "pariskunta",
+        "pusu",
+        "pusu: nainen, mies, tumma iho",
+        "romantiikka",
+        "tumma iho"
+    ],
+    "👩🏻‍❤‍💋‍👩🏻": [
+        "nainen",
+        "pariskunta",
+        "pusu",
+        "pusu: nainen, nainen, vaalea iho",
+        "romantiikka",
+        "vaalea iho"
+    ],
+    "👩🏻‍❤‍💋‍👩🏼": [
+        "keskivaalea iho",
+        "nainen",
+        "pariskunta",
+        "pusu",
+        "pusu: nainen, nainen, vaalea iho, keskivaalea iho",
+        "romantiikka",
+        "vaalea iho"
+    ],
+    "👩🏻‍❤‍💋‍👩🏽": [
+        "nainen",
+        "pariskunta",
+        "pusu",
+        "pusu: nainen, nainen, vaalea iho, tummanvaalea iho",
+        "romantiikka",
+        "tummanvaalea iho",
+        "vaalea iho"
+    ],
+    "👩🏻‍❤‍💋‍👩🏾": [
+        "keskitumma iho",
+        "nainen",
+        "pariskunta",
+        "pusu",
+        "pusu: nainen, nainen, vaalea iho, keskitumma iho",
+        "romantiikka",
+        "vaalea iho"
+    ],
+    "👩🏻‍❤‍💋‍👩🏿": [
+        "nainen",
+        "pariskunta",
+        "pusu",
+        "pusu: nainen, nainen, vaalea iho, tumma iho",
+        "romantiikka",
+        "tumma iho",
+        "vaalea iho"
+    ],
+    "👩🏼‍❤‍💋‍👩🏻": [
+        "keskivaalea iho",
+        "nainen",
+        "pariskunta",
+        "pusu",
+        "pusu: nainen, nainen, keskivaalea iho, vaalea iho",
+        "romantiikka",
+        "vaalea iho"
+    ],
+    "👩🏼‍❤‍💋‍👩🏼": [
+        "keskivaalea iho",
+        "nainen",
+        "pariskunta",
+        "pusu",
+        "pusu: nainen, nainen, keskivaalea iho",
+        "romantiikka"
+    ],
+    "👩🏼‍❤‍💋‍👩🏽": [
+        "keskivaalea iho",
+        "nainen",
+        "pariskunta",
+        "pusu",
+        "pusu: nainen, nainen, keskivaalea iho, tummanvaalea iho",
+        "romantiikka",
+        "tummanvaalea iho"
+    ],
+    "👩🏼‍❤‍💋‍👩🏾": [
+        "keskitumma iho",
+        "keskivaalea iho",
+        "nainen",
+        "pariskunta",
+        "pusu",
+        "pusu: nainen, nainen, keskivaalea iho, keskitumma iho",
+        "romantiikka"
+    ],
+    "👩🏼‍❤‍💋‍👩🏿": [
+        "keskivaalea iho",
+        "nainen",
+        "pariskunta",
+        "pusu",
+        "pusu: nainen, nainen, keskivaalea iho, tumma iho",
+        "romantiikka",
+        "tumma iho"
+    ],
+    "👩🏽‍❤‍💋‍👩🏻": [
+        "nainen",
+        "pariskunta",
+        "pusu",
+        "pusu: nainen, nainen, tummanvaalea iho, vaalea iho",
+        "romantiikka",
+        "tummanvaalea iho",
+        "vaalea iho"
+    ],
+    "👩🏽‍❤‍💋‍👩🏼": [
+        "keskivaalea iho",
+        "nainen",
+        "pariskunta",
+        "pusu",
+        "pusu: nainen, nainen, tummanvaalea iho, keskivaalea iho",
+        "romantiikka",
+        "tummanvaalea iho"
+    ],
+    "👩🏽‍❤‍💋‍👩🏽": [
+        "nainen",
+        "pariskunta",
+        "pusu",
+        "pusu: nainen, nainen, tummanvaalea iho",
+        "romantiikka",
+        "tummanvaalea iho"
+    ],
+    "👩🏽‍❤‍💋‍👩🏾": [
+        "keskitumma iho",
+        "nainen",
+        "pariskunta",
+        "pusu",
+        "pusu: nainen, nainen, tummanvaalea iho, keskitumma iho",
+        "romantiikka",
+        "tummanvaalea iho"
+    ],
+    "👩🏽‍❤‍💋‍👩🏿": [
+        "nainen",
+        "pariskunta",
+        "pusu",
+        "pusu: nainen, nainen, tummanvaalea iho, tumma iho",
+        "romantiikka",
+        "tumma iho",
+        "tummanvaalea iho"
+    ],
+    "👩🏾‍❤‍💋‍👩🏻": [
+        "keskitumma iho",
+        "nainen",
+        "pariskunta",
+        "pusu",
+        "pusu: nainen, nainen, keskitumma iho, vaalea iho",
+        "romantiikka",
+        "vaalea iho"
+    ],
+    "👩🏾‍❤‍💋‍👩🏼": [
+        "keskitumma iho",
+        "keskivaalea iho",
+        "nainen",
+        "pariskunta",
+        "pusu",
+        "pusu: nainen, nainen, keskitumma iho, keskivaalea iho",
+        "romantiikka"
+    ],
+    "👩🏾‍❤‍💋‍👩🏽": [
+        "keskitumma iho",
+        "nainen",
+        "pariskunta",
+        "pusu",
+        "pusu: nainen, nainen, keskitumma iho, tummanvaalea iho",
+        "romantiikka",
+        "tummanvaalea iho"
+    ],
+    "👩🏾‍❤‍💋‍👩🏾": [
+        "keskitumma iho",
+        "nainen",
+        "pariskunta",
+        "pusu",
+        "pusu: nainen, nainen, keskitumma iho",
+        "romantiikka"
+    ],
+    "👩🏾‍❤‍💋‍👩🏿": [
+        "keskitumma iho",
+        "nainen",
+        "pariskunta",
+        "pusu",
+        "pusu: nainen, nainen, keskitumma iho, tumma iho",
+        "romantiikka",
+        "tumma iho"
+    ],
+    "👩🏿‍❤‍💋‍👩🏻": [
+        "nainen",
+        "pariskunta",
+        "pusu",
+        "pusu: nainen, nainen, tumma iho, vaalea iho",
+        "romantiikka",
+        "tumma iho",
+        "vaalea iho"
+    ],
+    "👩🏿‍❤‍💋‍👩🏼": [
+        "keskivaalea iho",
+        "nainen",
+        "pariskunta",
+        "pusu",
+        "pusu: nainen, nainen, tumma iho, keskivaalea iho",
+        "romantiikka",
+        "tumma iho"
+    ],
+    "👩🏿‍❤‍💋‍👩🏽": [
+        "nainen",
+        "pariskunta",
+        "pusu",
+        "pusu: nainen, nainen, tumma iho, tummanvaalea iho",
+        "romantiikka",
+        "tumma iho",
+        "tummanvaalea iho"
+    ],
+    "👩🏿‍❤‍💋‍👩🏾": [
+        "keskitumma iho",
+        "nainen",
+        "pariskunta",
+        "pusu",
+        "pusu: nainen, nainen, tumma iho, keskitumma iho",
+        "romantiikka",
+        "tumma iho"
+    ],
+    "👩🏿‍❤‍💋‍👩🏿": [
+        "nainen",
+        "pariskunta",
+        "pusu",
+        "pusu: nainen, nainen, tumma iho",
+        "romantiikka",
+        "tumma iho"
+    ],
+    "👩🏻‍❤‍👨🏻": [
+        "mies",
+        "nainen",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: nainen, mies, vaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "vaalea iho"
+    ],
+    "👩🏻‍❤‍👨🏼": [
+        "keskivaalea iho",
+        "mies",
+        "nainen",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: nainen, mies, vaalea iho, keskivaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "vaalea iho"
+    ],
+    "👩🏻‍❤‍👨🏽": [
+        "mies",
+        "nainen",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: nainen, mies, vaalea iho, tummanvaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tummanvaalea iho",
+        "vaalea iho"
+    ],
+    "👩🏻‍❤‍👨🏾": [
+        "keskitumma iho",
+        "mies",
+        "nainen",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: nainen, mies, vaalea iho, keskitumma iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "vaalea iho"
+    ],
+    "👩🏻‍❤‍👨🏿": [
+        "mies",
+        "nainen",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: nainen, mies, vaalea iho, tumma iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tumma iho",
+        "vaalea iho"
+    ],
+    "👩🏼‍❤‍👨🏻": [
+        "keskivaalea iho",
+        "mies",
+        "nainen",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: nainen, mies, keskivaalea iho, vaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "vaalea iho"
+    ],
+    "👩🏼‍❤‍👨🏼": [
+        "keskivaalea iho",
+        "mies",
+        "nainen",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: nainen, mies, keskivaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän"
+    ],
+    "👩🏼‍❤‍👨🏽": [
+        "keskivaalea iho",
+        "mies",
+        "nainen",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: nainen, mies, keskivaalea iho, tummanvaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tummanvaalea iho"
+    ],
+    "👩🏼‍❤‍👨🏾": [
+        "keskitumma iho",
+        "keskivaalea iho",
+        "mies",
+        "nainen",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: nainen, mies, keskivaalea iho, keskitumma iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän"
+    ],
+    "👩🏼‍❤‍👨🏿": [
+        "keskivaalea iho",
+        "mies",
+        "nainen",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: nainen, mies, keskivaalea iho, tumma iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tumma iho"
+    ],
+    "👩🏽‍❤‍👨🏻": [
+        "mies",
+        "nainen",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: nainen, mies, tummanvaalea iho, vaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tummanvaalea iho",
+        "vaalea iho"
+    ],
+    "👩🏽‍❤‍👨🏼": [
+        "keskivaalea iho",
+        "mies",
+        "nainen",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: nainen, mies, tummanvaalea iho, keskivaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tummanvaalea iho"
+    ],
+    "👩🏽‍❤‍👨🏽": [
+        "mies",
+        "nainen",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: nainen, mies, tummanvaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tummanvaalea iho"
+    ],
+    "👩🏽‍❤‍👨🏾": [
+        "keskitumma iho",
+        "mies",
+        "nainen",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: nainen, mies, tummanvaalea iho, keskitumma iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tummanvaalea iho"
+    ],
+    "👩🏽‍❤‍👨🏿": [
+        "mies",
+        "nainen",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: nainen, mies, tummanvaalea iho, tumma iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tumma iho",
+        "tummanvaalea iho"
+    ],
+    "👩🏾‍❤‍👨🏻": [
+        "keskitumma iho",
+        "mies",
+        "nainen",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: nainen, mies, keskitumma iho, vaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "vaalea iho"
+    ],
+    "👩🏾‍❤‍👨🏼": [
+        "keskitumma iho",
+        "keskivaalea iho",
+        "mies",
+        "nainen",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: nainen, mies, keskitumma iho, keskivaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän"
+    ],
+    "👩🏾‍❤‍👨🏽": [
+        "keskitumma iho",
+        "mies",
+        "nainen",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: nainen, mies, keskitumma iho, tummanvaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tummanvaalea iho"
+    ],
+    "👩🏾‍❤‍👨🏾": [
+        "keskitumma iho",
+        "mies",
+        "nainen",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: nainen, mies, keskitumma iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän"
+    ],
+    "👩🏾‍❤‍👨🏿": [
+        "keskitumma iho",
+        "mies",
+        "nainen",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: nainen, mies, keskitumma iho, tumma iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tumma iho"
+    ],
+    "👩🏿‍❤‍👨🏻": [
+        "mies",
+        "nainen",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: nainen, mies, tumma iho, vaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tumma iho",
+        "vaalea iho"
+    ],
+    "👩🏿‍❤‍👨🏼": [
+        "keskivaalea iho",
+        "mies",
+        "nainen",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: nainen, mies, tumma iho, keskivaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tumma iho"
+    ],
+    "👩🏿‍❤‍👨🏽": [
+        "mies",
+        "nainen",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: nainen, mies, tumma iho, tummanvaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tumma iho",
+        "tummanvaalea iho"
+    ],
+    "👩🏿‍❤‍👨🏾": [
+        "keskitumma iho",
+        "mies",
+        "nainen",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: nainen, mies, tumma iho, keskitumma iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tumma iho"
+    ],
+    "👩🏿‍❤‍👨🏿": [
+        "mies",
+        "nainen",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: nainen, mies, tumma iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tumma iho"
+    ],
+    "👩🏻‍❤‍👩🏻": [
+        "nainen",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: nainen, nainen, vaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "vaalea iho"
+    ],
+    "👩🏻‍❤‍👩🏼": [
+        "keskivaalea iho",
+        "nainen",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: nainen, nainen, vaalea iho, keskivaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "vaalea iho"
+    ],
+    "👩🏻‍❤‍👩🏽": [
+        "nainen",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: nainen, nainen, vaalea iho, tummanvaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tummanvaalea iho",
+        "vaalea iho"
+    ],
+    "👩🏻‍❤‍👩🏾": [
+        "keskitumma iho",
+        "nainen",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: nainen, nainen, vaalea iho, keskitumma iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "vaalea iho"
+    ],
+    "👩🏻‍❤‍👩🏿": [
+        "nainen",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: nainen, nainen, vaalea iho, tumma iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tumma iho",
+        "vaalea iho"
+    ],
+    "👩🏼‍❤‍👩🏻": [
+        "keskivaalea iho",
+        "nainen",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: nainen, nainen, keskivaalea iho, vaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "vaalea iho"
+    ],
+    "👩🏼‍❤‍👩🏼": [
+        "keskivaalea iho",
+        "nainen",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: nainen, nainen, keskivaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän"
+    ],
+    "👩🏼‍❤‍👩🏽": [
+        "keskivaalea iho",
+        "nainen",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: nainen, nainen, keskivaalea iho, tummanvaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tummanvaalea iho"
+    ],
+    "👩🏼‍❤‍👩🏾": [
+        "keskitumma iho",
+        "keskivaalea iho",
+        "nainen",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: nainen, nainen, keskivaalea iho, keskitumma iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän"
+    ],
+    "👩🏼‍❤‍👩🏿": [
+        "keskivaalea iho",
+        "nainen",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: nainen, nainen, keskivaalea iho, tumma iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tumma iho"
+    ],
+    "👩🏽‍❤‍👩🏻": [
+        "nainen",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: nainen, nainen, tummanvaalea iho, vaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tummanvaalea iho",
+        "vaalea iho"
+    ],
+    "👩🏽‍❤‍👩🏼": [
+        "keskivaalea iho",
+        "nainen",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: nainen, nainen, tummanvaalea iho, keskivaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tummanvaalea iho"
+    ],
+    "👩🏽‍❤‍👩🏽": [
+        "nainen",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: nainen, nainen, tummanvaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tummanvaalea iho"
+    ],
+    "👩🏽‍❤‍👩🏾": [
+        "keskitumma iho",
+        "nainen",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: nainen, nainen, tummanvaalea iho, keskitumma iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tummanvaalea iho"
+    ],
+    "👩🏽‍❤‍👩🏿": [
+        "nainen",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: nainen, nainen, tummanvaalea iho, tumma iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tumma iho",
+        "tummanvaalea iho"
+    ],
+    "👩🏾‍❤‍👩🏻": [
+        "keskitumma iho",
+        "nainen",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: nainen, nainen, keskitumma iho, vaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "vaalea iho"
+    ],
+    "👩🏾‍❤‍👩🏼": [
+        "keskitumma iho",
+        "keskivaalea iho",
+        "nainen",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: nainen, nainen, keskitumma iho, keskivaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän"
+    ],
+    "👩🏾‍❤‍👩🏽": [
+        "keskitumma iho",
+        "nainen",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: nainen, nainen, keskitumma iho, tummanvaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tummanvaalea iho"
+    ],
+    "👩🏾‍❤‍👩🏾": [
+        "keskitumma iho",
+        "nainen",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: nainen, nainen, keskitumma iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän"
+    ],
+    "👩🏾‍❤‍👩🏿": [
+        "keskitumma iho",
+        "nainen",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: nainen, nainen, keskitumma iho, tumma iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tumma iho"
+    ],
+    "👩🏿‍❤‍👩🏻": [
+        "nainen",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: nainen, nainen, tumma iho, vaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tumma iho",
+        "vaalea iho"
+    ],
+    "👩🏿‍❤‍👩🏼": [
+        "keskivaalea iho",
+        "nainen",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: nainen, nainen, tumma iho, keskivaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tumma iho"
+    ],
+    "👩🏿‍❤‍👩🏽": [
+        "nainen",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: nainen, nainen, tumma iho, tummanvaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tumma iho",
+        "tummanvaalea iho"
+    ],
+    "👩🏿‍❤‍👩🏾": [
+        "keskitumma iho",
+        "nainen",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: nainen, nainen, tumma iho, keskitumma iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tumma iho"
+    ],
+    "👩🏿‍❤‍👩🏿": [
+        "nainen",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: nainen, nainen, tumma iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tumma iho"
     ],
     "👩‍🦰": [
         "nainen",
@@ -6151,6 +10351,7 @@
         "koulu",
         "mies",
         "miesopettaja",
+        "ohjaaja",
         "opettaja"
     ],
     "👨🏻‍🏫": [
@@ -6158,6 +10359,7 @@
         "mies",
         "miesopettaja",
         "miesopettaja: vaalea iho",
+        "ohjaaja",
         "opettaja",
         "vaalea iho"
     ],
@@ -6167,6 +10369,7 @@
         "mies",
         "miesopettaja",
         "miesopettaja: keskivaalea iho",
+        "ohjaaja",
         "opettaja"
     ],
     "👨🏽‍🏫": [
@@ -6174,6 +10377,7 @@
         "mies",
         "miesopettaja",
         "miesopettaja: tummanvaalea iho",
+        "ohjaaja",
         "opettaja",
         "tummanvaalea iho"
     ],
@@ -6183,6 +10387,7 @@
         "mies",
         "miesopettaja",
         "miesopettaja: keskitumma iho",
+        "ohjaaja",
         "opettaja"
     ],
     "👨🏿‍🏫": [
@@ -6190,6 +10395,7 @@
         "mies",
         "miesopettaja",
         "miesopettaja: tumma iho",
+        "ohjaaja",
         "opettaja",
         "tumma iho"
     ],
@@ -7615,6 +11821,7 @@
         "maalari",
         "mies",
         "miesartisti",
+        "miestaiteilija",
         "taide",
         "taiteilija"
     ],
@@ -7622,7 +11829,8 @@
         "maalari",
         "mies",
         "miesartisti",
-        "miesartisti: vaalea iho",
+        "miestaiteilija",
+        "miestaiteilija: vaalea iho",
         "taide",
         "taiteilija",
         "vaalea iho"
@@ -7632,7 +11840,8 @@
         "maalari",
         "mies",
         "miesartisti",
-        "miesartisti: keskivaalea iho",
+        "miestaiteilija",
+        "miestaiteilija: keskivaalea iho",
         "taide",
         "taiteilija"
     ],
@@ -7640,7 +11849,8 @@
         "maalari",
         "mies",
         "miesartisti",
-        "miesartisti: tummanvaalea iho",
+        "miestaiteilija",
+        "miestaiteilija: tummanvaalea iho",
         "taide",
         "taiteilija",
         "tummanvaalea iho"
@@ -7650,7 +11860,8 @@
         "maalari",
         "mies",
         "miesartisti",
-        "miesartisti: keskitumma iho",
+        "miestaiteilija",
+        "miestaiteilija: keskitumma iho",
         "taide",
         "taiteilija"
     ],
@@ -7658,59 +11869,72 @@
         "maalari",
         "mies",
         "miesartisti",
-        "miesartisti: tumma iho",
+        "miestaiteilija",
+        "miestaiteilija: tumma iho",
         "taide",
         "taiteilija",
         "tumma iho"
     ],
     "👩‍🎨": [
+        "kuvataiteilija",
         "maalari",
         "nainen",
         "naisartisti",
+        "naistaiteilija",
         "taide",
         "taiteilija"
     ],
     "👩🏻‍🎨": [
+        "kuvataiteilija",
         "maalari",
         "nainen",
         "naisartisti",
-        "naisartisti: vaalea iho",
+        "naistaiteilija",
+        "naistaiteilija: vaalea iho",
         "taide",
         "taiteilija",
         "vaalea iho"
     ],
     "👩🏼‍🎨": [
         "keskivaalea iho",
+        "kuvataiteilija",
         "maalari",
         "nainen",
         "naisartisti",
-        "naisartisti: keskivaalea iho",
+        "naistaiteilija",
+        "naistaiteilija: keskivaalea iho",
         "taide",
         "taiteilija"
     ],
     "👩🏽‍🎨": [
+        "kuvataiteilija",
         "maalari",
         "nainen",
         "naisartisti",
-        "naisartisti: tummanvaalea iho",
+        "naistaiteilija",
+        "naistaiteilija: tummanvaalea iho",
         "taide",
         "taiteilija",
         "tummanvaalea iho"
     ],
     "👩🏾‍🎨": [
         "keskitumma iho",
+        "kuvataiteilija",
         "maalari",
         "nainen",
         "naisartisti",
-        "naisartisti: keskitumma iho",
+        "naistaiteilija",
+        "naistaiteilija: keskitumma iho",
         "taide",
         "taiteilija"
     ],
     "👩🏿‍🎨": [
+        "kuvataiteilija",
         "maalari",
         "nainen",
         "naisartisti",
-        "naisartisti: tumma iho",
+        "naistaiteilija",
+        "naistaiteilija: tumma iho",
         "taide",
         "taiteilija",
         "tumma iho"
@@ -8502,6 +12726,51 @@
         "taistelija",
         "väijyy"
     ],
+    "🥷🏻": [
+        "ninja",
+        "ninja: vaalea iho",
+        "piilossa",
+        "soturi",
+        "taistelija",
+        "vaalea iho",
+        "väijyy"
+    ],
+    "🥷🏼": [
+        "keskivaalea iho",
+        "ninja",
+        "ninja: keskivaalea iho",
+        "piilossa",
+        "soturi",
+        "taistelija",
+        "väijyy"
+    ],
+    "🥷🏽": [
+        "ninja",
+        "ninja: tummanvaalea iho",
+        "piilossa",
+        "soturi",
+        "taistelija",
+        "tummanvaalea iho",
+        "väijyy"
+    ],
+    "🥷🏾": [
+        "keskitumma iho",
+        "ninja",
+        "ninja: keskitumma iho",
+        "piilossa",
+        "soturi",
+        "taistelija",
+        "väijyy"
+    ],
+    "🥷🏿": [
+        "ninja",
+        "ninja: tumma iho",
+        "piilossa",
+        "soturi",
+        "taistelija",
+        "tumma iho",
+        "väijyy"
+    ],
     "👷": [
         "hattu",
         "rakennus",
@@ -8638,6 +12907,64 @@
         "rakennusnainen: tumma iho",
         "rakennustyöläinen",
         "raksa",
+        "tumma iho"
+    ],
+    "🫅": [
+        "aatelinen",
+        "kruunua kantava henkilö",
+        "kruunupäinen",
+        "kuninkaallinen",
+        "monarkki",
+        "ruhtinaallinen"
+    ],
+    "🫅🏻": [
+        "aatelinen",
+        "kruunua kantava henkilö",
+        "kruunua kantava henkilö: vaalea iho",
+        "kruunupäinen",
+        "kuninkaallinen",
+        "monarkki",
+        "ruhtinaallinen",
+        "vaalea iho"
+    ],
+    "🫅🏼": [
+        "aatelinen",
+        "keskivaalea iho",
+        "kruunua kantava henkilö",
+        "kruunua kantava henkilö: keskivaalea iho",
+        "kruunupäinen",
+        "kuninkaallinen",
+        "monarkki",
+        "ruhtinaallinen"
+    ],
+    "🫅🏽": [
+        "aatelinen",
+        "kruunua kantava henkilö",
+        "kruunua kantava henkilö: tummanvaalea iho",
+        "kruunupäinen",
+        "kuninkaallinen",
+        "monarkki",
+        "ruhtinaallinen",
+        "tummanvaalea iho"
+    ],
+    "🫅🏾": [
+        "aatelinen",
+        "keskitumma iho",
+        "kruunua kantava henkilö",
+        "kruunua kantava henkilö: keskitumma iho",
+        "kruunupäinen",
+        "kuninkaallinen",
+        "monarkki",
+        "ruhtinaallinen"
+    ],
+    "🫅🏿": [
+        "aatelinen",
+        "kruunua kantava henkilö",
+        "kruunua kantava henkilö: tumma iho",
+        "kruunupäinen",
+        "kuninkaallinen",
+        "monarkki",
+        "ruhtinaallinen",
         "tumma iho"
     ],
     "🤴": [
@@ -9090,46 +13417,46 @@
     ],
     "👰": [
         "huntu",
-        "huntupäinen morsian",
+        "huntupäinen henkilö",
         "häät",
         "morsian"
     ],
     "👰🏻": [
         "huntu",
-        "huntupäinen morsian",
-        "huntupäinen morsian: vaalea iho",
+        "huntupäinen henkilö",
+        "huntupäinen henkilö: vaalea iho",
         "häät",
         "morsian",
         "vaalea iho"
     ],
     "👰🏼": [
         "huntu",
-        "huntupäinen morsian",
-        "huntupäinen morsian: keskivaalea iho",
+        "huntupäinen henkilö",
+        "huntupäinen henkilö: keskivaalea iho",
         "häät",
         "keskivaalea iho",
         "morsian"
     ],
     "👰🏽": [
         "huntu",
-        "huntupäinen morsian",
-        "huntupäinen morsian: tummanvaalea iho",
+        "huntupäinen henkilö",
+        "huntupäinen henkilö: tummanvaalea iho",
         "häät",
         "morsian",
         "tummanvaalea iho"
     ],
     "👰🏾": [
         "huntu",
-        "huntupäinen morsian",
-        "huntupäinen morsian: keskitumma iho",
+        "huntupäinen henkilö",
+        "huntupäinen henkilö: keskitumma iho",
         "häät",
         "keskitumma iho",
         "morsian"
     ],
     "👰🏿": [
         "huntu",
-        "huntupäinen morsian",
-        "huntupäinen morsian: tumma iho",
+        "huntupäinen henkilö",
+        "huntupäinen henkilö: tumma iho",
         "häät",
         "morsian",
         "tumma iho"
@@ -9227,44 +13554,202 @@
         "tumma iho"
     ],
     "🤰": [
+        "maha",
+        "masu",
         "nainen",
-        "raskaana",
-        "raskaana oleva nainen"
+        "paisunut",
+        "raskaana oleva nainen",
+        "turvonnut",
+        "täynnä",
+        "täysi"
     ],
     "🤰🏻": [
+        "maha",
+        "masu",
         "nainen",
-        "raskaana",
+        "paisunut",
         "raskaana oleva nainen",
         "raskaana oleva nainen: vaalea iho",
+        "turvonnut",
+        "täynnä",
+        "täysi",
         "vaalea iho"
     ],
     "🤰🏼": [
         "keskivaalea iho",
+        "maha",
+        "masu",
         "nainen",
-        "raskaana",
+        "paisunut",
         "raskaana oleva nainen",
-        "raskaana oleva nainen: keskivaalea iho"
+        "raskaana oleva nainen: keskivaalea iho",
+        "turvonnut",
+        "täynnä",
+        "täysi"
     ],
     "🤰🏽": [
+        "maha",
+        "masu",
         "nainen",
-        "raskaana",
+        "paisunut",
         "raskaana oleva nainen",
         "raskaana oleva nainen: tummanvaalea iho",
-        "tummanvaalea iho"
+        "tummanvaalea iho",
+        "turvonnut",
+        "täynnä",
+        "täysi"
     ],
     "🤰🏾": [
         "keskitumma iho",
+        "maha",
+        "masu",
         "nainen",
-        "raskaana",
+        "paisunut",
         "raskaana oleva nainen",
-        "raskaana oleva nainen: keskitumma iho"
+        "raskaana oleva nainen: keskitumma iho",
+        "turvonnut",
+        "täynnä",
+        "täysi"
     ],
     "🤰🏿": [
+        "maha",
+        "masu",
         "nainen",
-        "raskaana",
+        "paisunut",
         "raskaana oleva nainen",
         "raskaana oleva nainen: tumma iho",
-        "tumma iho"
+        "tumma iho",
+        "turvonnut",
+        "täynnä",
+        "täysi"
+    ],
+    "🫃": [
+        "maha",
+        "masu",
+        "paisunut",
+        "raskaana oleva mies",
+        "turvonnut",
+        "täynnä",
+        "täysi"
+    ],
+    "🫃🏻": [
+        "maha",
+        "masu",
+        "paisunut",
+        "raskaana oleva mies",
+        "raskaana oleva mies: vaalea iho",
+        "turvonnut",
+        "täynnä",
+        "täysi",
+        "vaalea iho"
+    ],
+    "🫃🏼": [
+        "keskivaalea iho",
+        "maha",
+        "masu",
+        "paisunut",
+        "raskaana oleva mies",
+        "raskaana oleva mies: keskivaalea iho",
+        "turvonnut",
+        "täynnä",
+        "täysi"
+    ],
+    "🫃🏽": [
+        "maha",
+        "masu",
+        "paisunut",
+        "raskaana oleva mies",
+        "raskaana oleva mies: tummanvaalea iho",
+        "tummanvaalea iho",
+        "turvonnut",
+        "täynnä",
+        "täysi"
+    ],
+    "🫃🏾": [
+        "keskitumma iho",
+        "maha",
+        "masu",
+        "paisunut",
+        "raskaana oleva mies",
+        "raskaana oleva mies: keskitumma iho",
+        "turvonnut",
+        "täynnä",
+        "täysi"
+    ],
+    "🫃🏿": [
+        "maha",
+        "masu",
+        "paisunut",
+        "raskaana oleva mies",
+        "raskaana oleva mies: tumma iho",
+        "tumma iho",
+        "turvonnut",
+        "täynnä",
+        "täysi"
+    ],
+    "🫄": [
+        "maha",
+        "masu",
+        "paisunut",
+        "raskaana oleva henkilö",
+        "turvonnut",
+        "täynnä",
+        "täysi"
+    ],
+    "🫄🏻": [
+        "maha",
+        "masu",
+        "paisunut",
+        "raskaana oleva henkilö",
+        "raskaana oleva henkilö: vaalea iho",
+        "turvonnut",
+        "täynnä",
+        "täysi",
+        "vaalea iho"
+    ],
+    "🫄🏼": [
+        "keskivaalea iho",
+        "maha",
+        "masu",
+        "paisunut",
+        "raskaana oleva henkilö",
+        "raskaana oleva henkilö: keskivaalea iho",
+        "turvonnut",
+        "täynnä",
+        "täysi"
+    ],
+    "🫄🏽": [
+        "maha",
+        "masu",
+        "paisunut",
+        "raskaana oleva henkilö",
+        "raskaana oleva henkilö: tummanvaalea iho",
+        "tummanvaalea iho",
+        "turvonnut",
+        "täynnä",
+        "täysi"
+    ],
+    "🫄🏾": [
+        "keskitumma iho",
+        "maha",
+        "masu",
+        "paisunut",
+        "raskaana oleva henkilö",
+        "raskaana oleva henkilö: keskitumma iho",
+        "turvonnut",
+        "täynnä",
+        "täysi"
+    ],
+    "🫄🏿": [
+        "maha",
+        "masu",
+        "paisunut",
+        "raskaana oleva henkilö",
+        "raskaana oleva henkilö: tumma iho",
+        "tumma iho",
+        "turvonnut",
+        "täynnä",
+        "täysi"
     ],
     "🤱": [
         "imettää",
@@ -9494,61 +13979,61 @@
     ],
     "👼": [
         "enkeli",
-        "enkelivauva",
         "fantasia",
         "naama",
         "satu",
-        "vauva"
+        "vauva",
+        "vauvaenkeli"
     ],
     "👼🏻": [
         "enkeli",
-        "enkelivauva",
-        "enkelivauva: vaalea iho",
         "fantasia",
         "naama",
         "satu",
         "vaalea iho",
-        "vauva"
+        "vauva",
+        "vauvaenkeli",
+        "vauvaenkeli: vaalea iho"
     ],
     "👼🏼": [
         "enkeli",
-        "enkelivauva",
-        "enkelivauva: keskivaalea iho",
         "fantasia",
         "keskivaalea iho",
         "naama",
         "satu",
-        "vauva"
+        "vauva",
+        "vauvaenkeli",
+        "vauvaenkeli: keskivaalea iho"
     ],
     "👼🏽": [
         "enkeli",
-        "enkelivauva",
-        "enkelivauva: tummanvaalea iho",
         "fantasia",
         "naama",
         "satu",
         "tummanvaalea iho",
-        "vauva"
+        "vauva",
+        "vauvaenkeli",
+        "vauvaenkeli: tummanvaalea iho"
     ],
     "👼🏾": [
         "enkeli",
-        "enkelivauva",
-        "enkelivauva: keskitumma iho",
         "fantasia",
         "keskitumma iho",
         "naama",
         "satu",
-        "vauva"
+        "vauva",
+        "vauvaenkeli",
+        "vauvaenkeli: keskitumma iho"
     ],
     "👼🏿": [
         "enkeli",
-        "enkelivauva",
-        "enkelivauva: tumma iho",
         "fantasia",
         "naama",
         "satu",
         "tumma iho",
-        "vauva"
+        "vauva",
+        "vauvaenkeli",
+        "vauvaenkeli: tumma iho"
     ],
     "🎅": [
         "fantasia",
@@ -10252,13 +14737,9 @@
         "Titania",
         "hyönteismäinen",
         "ilmatar",
-        "impi",
         "keiju",
         "keijukainen",
-        "luonnotar",
-        "metsänneito",
-        "siivet",
-        "sinipiika"
+        "luonnotar"
     ],
     "🧚🏻": [
         "Oberon",
@@ -10266,14 +14747,10 @@
         "Titania",
         "hyönteismäinen",
         "ilmatar",
-        "impi",
         "keiju",
         "keiju: vaalea iho",
         "keijukainen",
         "luonnotar",
-        "metsänneito",
-        "siivet",
-        "sinipiika",
         "vaalea iho"
     ],
     "🧚🏼": [
@@ -10282,15 +14759,11 @@
         "Titania",
         "hyönteismäinen",
         "ilmatar",
-        "impi",
         "keiju",
         "keiju: keskivaalea iho",
         "keijukainen",
         "keskivaalea iho",
-        "luonnotar",
-        "metsänneito",
-        "siivet",
-        "sinipiika"
+        "luonnotar"
     ],
     "🧚🏽": [
         "Oberon",
@@ -10298,14 +14771,10 @@
         "Titania",
         "hyönteismäinen",
         "ilmatar",
-        "impi",
         "keiju",
         "keiju: tummanvaalea iho",
         "keijukainen",
         "luonnotar",
-        "metsänneito",
-        "siivet",
-        "sinipiika",
         "tummanvaalea iho"
     ],
     "🧚🏾": [
@@ -10314,15 +14783,11 @@
         "Titania",
         "hyönteismäinen",
         "ilmatar",
-        "impi",
         "keiju",
         "keiju: keskitumma iho",
         "keijukainen",
         "keskitumma iho",
-        "luonnotar",
-        "metsänneito",
-        "siivet",
-        "sinipiika"
+        "luonnotar"
     ],
     "🧚🏿": [
         "Oberon",
@@ -10330,14 +14795,10 @@
         "Titania",
         "hyönteismäinen",
         "ilmatar",
-        "impi",
         "keiju",
         "keiju: tumma iho",
         "keijukainen",
         "luonnotar",
-        "metsänneito",
-        "siivet",
-        "sinipiika",
         "tumma iho"
     ],
     "🧚‍♂": [
@@ -10459,7 +14920,6 @@
     "🧛": [
         "Dracula",
         "elävä kuollut",
-        "epäkuollut",
         "hampaat",
         "torahammas",
         "vampyyri",
@@ -10469,7 +14929,6 @@
     "🧛🏻": [
         "Dracula",
         "elävä kuollut",
-        "epäkuollut",
         "hampaat",
         "torahammas",
         "vaalea iho",
@@ -10481,7 +14940,6 @@
     "🧛🏼": [
         "Dracula",
         "elävä kuollut",
-        "epäkuollut",
         "hampaat",
         "keskivaalea iho",
         "torahammas",
@@ -10493,7 +14951,6 @@
     "🧛🏽": [
         "Dracula",
         "elävä kuollut",
-        "epäkuollut",
         "hampaat",
         "torahammas",
         "tummanvaalea iho",
@@ -10505,7 +14962,6 @@
     "🧛🏾": [
         "Dracula",
         "elävä kuollut",
-        "epäkuollut",
         "hampaat",
         "keskitumma iho",
         "torahammas",
@@ -10517,7 +14973,6 @@
     "🧛🏿": [
         "Dracula",
         "elävä kuollut",
-        "epäkuollut",
         "hampaat",
         "torahammas",
         "tumma iho",
@@ -10529,7 +14984,6 @@
     "🧛‍♂": [
         "Dracula",
         "elävä kuollut",
-        "epäkuollut",
         "hampaat",
         "miesvampyyri",
         "torahammas",
@@ -10539,7 +14993,6 @@
     "🧛🏻‍♂": [
         "Dracula",
         "elävä kuollut",
-        "epäkuollut",
         "hampaat",
         "miesvampyyri",
         "miesvampyyri: vaalea iho",
@@ -10551,7 +15004,6 @@
     "🧛🏼‍♂": [
         "Dracula",
         "elävä kuollut",
-        "epäkuollut",
         "hampaat",
         "keskivaalea iho",
         "miesvampyyri",
@@ -10563,7 +15015,6 @@
     "🧛🏽‍♂": [
         "Dracula",
         "elävä kuollut",
-        "epäkuollut",
         "hampaat",
         "miesvampyyri",
         "miesvampyyri: tummanvaalea iho",
@@ -10575,7 +15026,6 @@
     "🧛🏾‍♂": [
         "Dracula",
         "elävä kuollut",
-        "epäkuollut",
         "hampaat",
         "keskitumma iho",
         "miesvampyyri",
@@ -10587,7 +15037,6 @@
     "🧛🏿‍♂": [
         "Dracula",
         "elävä kuollut",
-        "epäkuollut",
         "hampaat",
         "miesvampyyri",
         "miesvampyyri: tumma iho",
@@ -10598,7 +15047,6 @@
     ],
     "🧛‍♀": [
         "elävä kuollut",
-        "epäkuollut",
         "hampaat",
         "naisvampyyri",
         "torahammas",
@@ -10607,7 +15055,6 @@
     ],
     "🧛🏻‍♀": [
         "elävä kuollut",
-        "epäkuollut",
         "hampaat",
         "naisvampyyri",
         "naisvampyyri: vaalea iho",
@@ -10618,7 +15065,6 @@
     ],
     "🧛🏼‍♀": [
         "elävä kuollut",
-        "epäkuollut",
         "hampaat",
         "keskivaalea iho",
         "naisvampyyri",
@@ -10629,7 +15075,6 @@
     ],
     "🧛🏽‍♀": [
         "elävä kuollut",
-        "epäkuollut",
         "hampaat",
         "naisvampyyri",
         "naisvampyyri: tummanvaalea iho",
@@ -10640,7 +15085,6 @@
     ],
     "🧛🏾‍♀": [
         "elävä kuollut",
-        "epäkuollut",
         "hampaat",
         "keskitumma iho",
         "naisvampyyri",
@@ -10651,7 +15095,6 @@
     ],
     "🧛🏿‍♀": [
         "elävä kuollut",
-        "epäkuollut",
         "hampaat",
         "naisvampyyri",
         "naisvampyyri: tumma iho",
@@ -10661,80 +15104,56 @@
         "verenimijä"
     ],
     "🧜": [
-        "Ahti",
         "kalanpyrstö",
         "merenhaltija",
-        "merenmies",
-        "merenneito",
         "merenväki",
-        "pyrstö",
         "vedenhaltija",
-        "vedenväki"
+        "vetehinen"
     ],
     "🧜🏻": [
-        "Ahti",
         "kalanpyrstö",
         "merenhaltija",
-        "merenmies",
-        "merenneito",
         "merenväki",
         "merenväki: vaalea iho",
-        "pyrstö",
         "vaalea iho",
         "vedenhaltija",
-        "vedenväki"
+        "vetehinen"
     ],
     "🧜🏼": [
-        "Ahti",
         "kalanpyrstö",
         "keskivaalea iho",
         "merenhaltija",
-        "merenmies",
-        "merenneito",
         "merenväki",
         "merenväki: keskivaalea iho",
-        "pyrstö",
         "vedenhaltija",
-        "vedenväki"
+        "vetehinen"
     ],
     "🧜🏽": [
-        "Ahti",
         "kalanpyrstö",
         "merenhaltija",
-        "merenmies",
-        "merenneito",
         "merenväki",
         "merenväki: tummanvaalea iho",
-        "pyrstö",
         "tummanvaalea iho",
         "vedenhaltija",
-        "vedenväki"
+        "vetehinen"
     ],
     "🧜🏾": [
-        "Ahti",
         "kalanpyrstö",
         "keskitumma iho",
         "merenhaltija",
-        "merenmies",
-        "merenneito",
         "merenväki",
         "merenväki: keskitumma iho",
-        "pyrstö",
         "vedenhaltija",
-        "vedenväki"
+        "vetehinen"
     ],
     "🧜🏿": [
-        "Ahti",
         "kalanpyrstö",
         "merenhaltija",
-        "merenmies",
-        "merenneito",
         "merenväki",
         "merenväki: tumma iho",
-        "pyrstö",
         "tumma iho",
         "vedenhaltija",
-        "vedenväki"
+        "vetehinen"
     ],
     "🧜‍♂": [
         "Ahti",
@@ -10981,60 +15400,60 @@
         "tumma iho"
     ],
     "🧝‍♀": [
+        "Galadriel",
         "alf",
         "haltia",
         "haltiatar",
         "keiju",
-        "keijukainen",
         "suippokorva"
     ],
     "🧝🏻‍♀": [
+        "Galadriel",
         "alf",
         "haltia",
         "haltiatar",
         "haltiatar: vaalea iho",
         "keiju",
-        "keijukainen",
         "suippokorva",
         "vaalea iho"
     ],
     "🧝🏼‍♀": [
+        "Galadriel",
         "alf",
         "haltia",
         "haltiatar",
         "haltiatar: keskivaalea iho",
         "keiju",
-        "keijukainen",
         "keskivaalea iho",
         "suippokorva"
     ],
     "🧝🏽‍♀": [
+        "Galadriel",
         "alf",
         "haltia",
         "haltiatar",
         "haltiatar: tummanvaalea iho",
         "keiju",
-        "keijukainen",
         "suippokorva",
         "tummanvaalea iho"
     ],
     "🧝🏾‍♀": [
+        "Galadriel",
         "alf",
         "haltia",
         "haltiatar",
         "haltiatar: keskitumma iho",
         "keiju",
-        "keijukainen",
         "keskitumma iho",
         "suippokorva"
     ],
     "🧝🏿‍♀": [
+        "Galadriel",
         "alf",
         "haltia",
         "haltiatar",
         "haltiatar: tumma iho",
         "keiju",
-        "keijukainen",
         "suippokorva",
         "tumma iho"
     ],
@@ -11078,6 +15497,16 @@
         "tahdoton",
         "voodoo",
         "zombie"
+    ],
+    "🧌": [
+        "fantasia",
+        "hirviö",
+        "mörkö",
+        "mörökölli",
+        "peikko",
+        "rölli",
+        "satuolento",
+        "trolli"
     ],
     "💆": [
         "hieroja",
@@ -15643,6 +20072,41 @@
         "pusu",
         "romantiikka"
     ],
+    "💏🏻": [
+        "pariskunta",
+        "pusu",
+        "pusu: vaalea iho",
+        "romantiikka",
+        "vaalea iho"
+    ],
+    "💏🏼": [
+        "keskivaalea iho",
+        "pariskunta",
+        "pusu",
+        "pusu: keskivaalea iho",
+        "romantiikka"
+    ],
+    "💏🏽": [
+        "pariskunta",
+        "pusu",
+        "pusu: tummanvaalea iho",
+        "romantiikka",
+        "tummanvaalea iho"
+    ],
+    "💏🏾": [
+        "keskitumma iho",
+        "pariskunta",
+        "pusu",
+        "pusu: keskitumma iho",
+        "romantiikka"
+    ],
+    "💏🏿": [
+        "pariskunta",
+        "pusu",
+        "pusu: tumma iho",
+        "romantiikka",
+        "tumma iho"
+    ],
     "👩‍❤‍💋‍👨": [
         "mies",
         "nainen",
@@ -15671,6 +20135,51 @@
         "rakkaus",
         "romantiikka",
         "sydän"
+    ],
+    "💑🏻": [
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: vaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "vaalea iho"
+    ],
+    "💑🏼": [
+        "keskivaalea iho",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: keskivaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän"
+    ],
+    "💑🏽": [
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: tummanvaalea iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tummanvaalea iho"
+    ],
+    "💑🏾": [
+        "keskitumma iho",
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: keskitumma iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän"
+    ],
+    "💑🏿": [
+        "pariskunta",
+        "pariskunta ja sydän",
+        "pariskunta ja sydän: tumma iho",
+        "rakkaus",
+        "romantiikka",
+        "sydän",
+        "tumma iho"
     ],
     "👩‍❤‍👨": [
         "mies",
@@ -16096,6 +20605,9 @@
     "🐎": [
         "hevonen",
         "kilpahevonen",
+        "ratsastaja",
+        "ratsu",
+        "ratsuhevonen",
         "ravihevonen",
         "ravit"
     ],
@@ -16311,6 +20823,7 @@
         "pussieläin"
     ],
     "🦡": [
+        "mesimäyrä",
         "mäyrä"
     ],
     "🐾": [
@@ -16391,10 +20904,10 @@
     ],
     "🪶": [
         "höyhen",
-        "höyhenet",
         "keveä",
         "lento",
-        "lintu"
+        "lintu",
+        "sulka"
     ],
     "🦩": [
         "flamingo",
@@ -16501,6 +21014,12 @@
         "kotilo",
         "kuori"
     ],
+    "🪸": [
+        "koralli",
+        "koralliriutta",
+        "meri",
+        "riutta"
+    ],
     "🐌": [
         "etana"
     ],
@@ -16600,6 +21119,16 @@
         "kukka",
         "valkoinen kukka"
     ],
+    "🪷": [
+        "Intia",
+        "Vietnam",
+        "buddhalaisuus",
+        "hindulaisuus",
+        "kukka",
+        "lootus",
+        "puhtaus",
+        "viattomuus"
+    ],
     "🏵️": [
         "kasvi",
         "ruusuke"
@@ -16642,10 +21171,13 @@
     ],
     "🪴": [
         "hoivata",
+        "hyödytön",
         "kasvaa",
         "kasvi",
+        "kokousfiikus",
         "koti",
-        "ruukkukasvi"
+        "ruukkukasvi",
+        "tylsä"
     ],
     "🌲": [
         "ikivihreä",
@@ -16708,6 +21240,23 @@
         "lehti tuulessa",
         "puhaltaa",
         "tuuli"
+    ],
+    "🪹": [
+        "linnunpesä",
+        "pesiminen",
+        "pesintä",
+        "tyhjä pesä"
+    ],
+    "🪺": [
+        "linnunpesä",
+        "munia pesässä",
+        "muninta",
+        "pesiminen",
+        "pesintä"
+    ],
+    "🍄": [
+        "rihmasto",
+        "sieni"
     ],
     "🍇": [
         "hedelmä",
@@ -16877,14 +21426,19 @@
         "mauste",
         "sipuli"
     ],
-    "🍄": [
-        "rihmasto",
-        "sieni"
-    ],
     "🥜": [
         "maapähkinä",
         "pähkinä",
         "ruoka"
+    ],
+    "🫘": [
+        "munuainen",
+        "palkokasvi",
+        "papu",
+        "pavut",
+        "pieru",
+        "ruoka",
+        "tarhapapu"
     ],
     "🌰": [
         "kastanja",
@@ -17389,6 +21943,15 @@
         "viina",
         "viski"
     ],
+    "🫗": [
+        "juoma",
+        "kaataminen",
+        "lasi",
+        "läikyttää",
+        "nesteen kaataminen",
+        "tyhjä",
+        "valuttaa"
+    ],
     "🥤": [
         "juoma",
         "lasi ja pilli",
@@ -17446,13 +22009,21 @@
         "työkalu",
         "veitsi"
     ],
+    "🫙": [
+        "astia",
+        "höyste",
+        "kastike",
+        "mauste",
+        "purkki",
+        "säilytys",
+        "tyhjä"
+    ],
     "🏺": [
         "amfora",
         "horoskooppi",
         "horoskooppimerkki",
         "juoma",
         "kannu",
-        "kokkaus",
         "ruoanlaitto",
         "vesimies"
     ],
@@ -17580,6 +22151,7 @@
         "pölkky"
     ],
     "🛖": [
+        "jurtta",
         "maja",
         "mökki",
         "savimaja",
@@ -17801,6 +22373,11 @@
         "hevonen",
         "karuselli",
         "karusellihevonen"
+    ],
+    "🛝": [
+        "leikki",
+        "leikkipuisto",
+        "liukumäki"
     ],
     "🎡": [
         "huvipuisto",
@@ -18034,7 +22611,6 @@
     ],
     "🛼": [
         "luistin",
-        "rulla",
         "rullaluistin"
     ],
     "🚏": [
@@ -18062,6 +22638,12 @@
         "bensapumppu",
         "bensiini",
         "polttoaine"
+    ],
+    "🛞": [
+        "autonrengas",
+        "kääntyminen",
+        "pyörä",
+        "rengas"
     ],
     "🚨": [
         "hälytys",
@@ -18096,6 +22678,13 @@
         "laiva",
         "merenkulku",
         "meri"
+    ],
+    "🛟": [
+        "hengenpelastus",
+        "kelluminen",
+        "pelastaminen",
+        "pelastusrengas",
+        "turvallisuus"
     ],
     "⛵️": [
         "ajoneuvo",
@@ -18335,8 +22924,8 @@
         "kellonaika"
     ],
     "🕞": [
-        "15.30",
-        "3.30",
+        "14.30",
+        "2.30",
         "30",
         "aika",
         "kello",
@@ -18410,9 +22999,9 @@
         "kellonaika"
     ],
     "🕢": [
-        "19.30",
+        "18.30",
         "30",
-        "7.30",
+        "6.30",
         "aika",
         "kello",
         "kellonaika",
@@ -18815,6 +23404,7 @@
     "🎄": [
         "joulu",
         "joulukuusi",
+        "joulupuu",
         "juhla",
         "kuusi"
     ],
@@ -18951,7 +23541,8 @@
         "ensimmäinen",
         "kulta",
         "kultamitali",
-        "mitali"
+        "mitali",
+        "voittaja"
     ],
     "🥈": [
         "hopea",
@@ -19077,7 +23668,6 @@
         "kamppailulajiasu",
         "kamppailulajit",
         "karate",
-        "liikunta",
         "taekwondo",
         "urheilu"
     ],
@@ -19150,6 +23740,12 @@
         "leijailla",
         "lennättää"
     ],
+    "🔫": [
+        "pistooli",
+        "pyssy",
+        "revolveri",
+        "vesipyssy"
+    ],
     "🎱": [
         "biljardi",
         "biljardipallo",
@@ -19171,14 +23767,6 @@
         "taika",
         "taikasauva",
         "velho"
-    ],
-    "🧿": [
-        "amuletti",
-        "helmi",
-        "nazar-amuletti",
-        "paha silmä",
-        "taikakalu",
-        "talismaani"
     ],
     "🎮️": [
         "ohjain",
@@ -19220,6 +23808,16 @@
         "juhlat",
         "juhlinta",
         "piñata"
+    ],
+    "🪩": [
+        "bileet",
+        "disco",
+        "disko",
+        "diskopallo",
+        "glitter",
+        "juhlat",
+        "peilipallo",
+        "tanssi"
     ],
     "🪆": [
         "maatuska",
@@ -19315,7 +23913,9 @@
         "neula",
         "ompelu",
         "ompeluneula",
-        "parsiminen"
+        "parsiminen",
+        "silmäneula",
+        "tikit"
     ],
     "🧶": [
         "kerä",
@@ -19795,6 +24395,11 @@
         "akku",
         "akkuvirta",
         "paristo"
+    ],
+    "🪫": [
+        "akku vähissä",
+        "sähkö",
+        "virta vähissä"
     ],
     "🔌": [
         "pistoke",
@@ -20453,11 +25058,9 @@
         "miekat ristissä",
         "miekka"
     ],
-    "🔫": [
-        "pistooli",
-        "pyssy",
-        "revolveri",
-        "vesipyssy"
+    "💣️": [
+        "pommi",
+        "sarjakuva"
     ],
     "🪃": [
         "australia",
@@ -20629,11 +25232,26 @@
         "hoito",
         "laastari"
     ],
+    "🩼": [
+        "kainalosauva",
+        "keppi",
+        "liikkumisen apuväline",
+        "rajoite",
+        "sauva",
+        "vamma"
+    ],
     "🩺": [
         "kuuntelu",
         "lääkäri",
         "stetoskooppi",
         "sydän"
+    ],
+    "🩻": [
+        "luuranko",
+        "luut",
+        "lääketiede",
+        "lääkäri",
+        "röntgen"
     ],
     "🚪": [
         "ovi"
@@ -20749,6 +25367,14 @@
         "saippuavaahto",
         "siivous"
     ],
+    "🫧": [
+        "kuplat",
+        "pinnanalainen",
+        "puhdas",
+        "röyhtäisy",
+        "saippua",
+        "vedenalainen"
+    ],
     "🪥": [
         "hammasharja",
         "hampaat",
@@ -20798,6 +25424,24 @@
         "tuhkauurna",
         "uurna"
     ],
+    "🧿": [
+        "amuletti",
+        "helmi",
+        "nazar-amuletti",
+        "paha silmä",
+        "taikakalu",
+        "talismaani"
+    ],
+    "🪬": [
+        "Fatima",
+        "Maria",
+        "Miriam",
+        "amuletti",
+        "hamsa",
+        "käsi",
+        "suoja",
+        "suojelu"
+    ],
     "🗿": [
         "Pääsiäissaari",
         "kasvot",
@@ -20810,6 +25454,14 @@
         "kyltti",
         "mielenosoitus",
         "protesti"
+    ],
+    "🪪": [
+        "henkilökortti",
+        "henkkarit",
+        "kortti",
+        "kulkulupa",
+        "tunnistus",
+        "turvallisuus"
     ],
     "🏧": [
         "automaatti",
@@ -20880,7 +25532,8 @@
         "tavarasäilytys"
     ],
     "⚠️": [
-        "matkatavarat",
+        "muu vaara",
+        "vaara",
         "varoitus"
     ],
     "🚸": [
@@ -20910,6 +25563,7 @@
         "kielletty",
         "liikenne",
         "polkupyörä",
+        "polkupyörällä ajo kielletty",
         "pyörä"
     ],
     "🚭️": [
@@ -20924,10 +25578,9 @@
         "roskaaminen kielletty"
     ],
     "🚱": [
-        "juomakelpoinen",
-        "juominen",
-        "kielletty",
-        "vesi",
+        "juomakelvoton",
+        "juominen kielletty",
+        "pilaantunut vesi",
         "vesi ei juomakelpoista"
     ],
     "🚷": [
@@ -21027,6 +25680,9 @@
         "nuoli",
         "nuoli oikealle ja vasemmalle",
         "suunta"
+    ],
+    "↮": [
+        "vasen-oikea vetonuoli"
     ],
     "↩️": [
         "nuoli",
@@ -21448,11 +26104,12 @@
         "transsymboli"
     ],
     "✖️": [
-        "X",
         "kertolasku",
+        "kertomerkki",
         "merkki",
-        "paksu kertomerkki",
-        "peruuta"
+        "peruuta",
+        "x",
+        "×"
     ],
     "➕": [
         "+",
@@ -21473,6 +26130,11 @@
         "jakomerkki",
         "jakoviiva",
         "matematiikka"
+    ],
+    "🟰": [
+        "matematiikka",
+        "paksu yhtäsuuruusmerkki",
+        "yhtäsuuruus"
     ],
     "♾️": [
         "aina",
@@ -22490,7 +27152,7 @@
     ],
     "🇫🇲": [
         "lippu",
-        "lippu: Mikronesian liittovaltio"
+        "lippu: Mikronesia"
     ],
     "🇫🇴": [
         "lippu",
@@ -22558,7 +27220,7 @@
     ],
     "🇬🇸": [
         "lippu",
-        "lippu: Etelä-Georgia ja Eteläiset Sandwichsaaret"
+        "lippu: Etelä-Georgia ja Eteläiset Sandwichinsaaret"
     ],
     "🇬🇹": [
         "lippu",
@@ -22578,7 +27240,7 @@
     ],
     "🇭🇰": [
         "lippu",
-        "lippu: Hongkong – Kiinan e.h.a."
+        "lippu: Hongkong – Kiinan erityishallintoalue"
     ],
     "🇭🇲": [
         "lippu",
@@ -22794,7 +27456,7 @@
     ],
     "🇲🇴": [
         "lippu",
-        "lippu: Macao – Kiinan e.h.a."
+        "lippu: Macao – Kiinan erityishallintoalue"
     ],
     "🇲🇵": [
         "lippu",
@@ -22934,7 +27596,7 @@
     ],
     "🇵🇸": [
         "lippu",
-        "lippu: Palestiinalaisalueet"
+        "lippu: Palestiinalaisalue"
     ],
     "🇵🇹": [
         "lippu",
@@ -23006,7 +27668,7 @@
     ],
     "🇸🇯": [
         "lippu",
-        "lippu: Huippuvuoret ja Jan Mayen"
+        "lippu: Svalbard ja Jan Mayen"
     ],
     "🇸🇰": [
         "lippu",
@@ -23054,7 +27716,7 @@
     ],
     "🇸🇿": [
         "lippu",
-        "lippu: Swazimaa"
+        "lippu: Eswatini"
     ],
     "🇹🇦": [
         "lippu",
@@ -23070,7 +27732,7 @@
     ],
     "🇹🇫": [
         "lippu",
-        "lippu: Ranskan eteläiset alueet"
+        "lippu: Ranskan eteläiset ja antarktiset alueet"
     ],
     "🇹🇬": [
         "lippu",
@@ -23223,6 +27885,172 @@
     "🏴󠁧󠁢󠁷󠁬󠁳󠁿": [
         "lippu",
         "lippu: Wales"
+    ],
+    "¤": [
+        "tuntematon rahayksikkö"
+    ],
+    "¢": [
+        "sentti"
+    ],
+    "$": [
+        "USD",
+        "dollari",
+        "peso",
+        "raha"
+    ],
+    "£": [
+        "GBP",
+        "punta",
+        "valuutta"
+    ],
+    "¥": [
+        "JPY",
+        "jeni",
+        "juan",
+        "valuutta"
+    ],
+    "֏": [
+        "Armenian dram"
+    ],
+    "؋": [
+        "Afganistanin afgaani"
+    ],
+    "৳": [
+        "Bangladeshin taka"
+    ],
+    "฿": [
+        "Thaimaan baht"
+    ],
+    "៛": [
+        "Kambodžan riel"
+    ],
+    "₡": [
+        "Costa Rican colón"
+    ],
+    "₢": [
+        "BRB",
+        "cruzeiro",
+        "valuutta"
+    ],
+    "₣": [
+        "Ranskan frangi",
+        "frangi",
+        "valuutta"
+    ],
+    "₤": [
+        "liira",
+        "valuutta"
+    ],
+    "₥": [
+        "milli"
+    ],
+    "₦": [
+        "Nigerian naira"
+    ],
+    "₧": [
+        "Espanjan peseta"
+    ],
+    "₩": [
+        "KPW",
+        "KRW",
+        "won"
+    ],
+    "₪": [
+        "Israelin uusi sekeli"
+    ],
+    "₫": [
+        "Vietnamin dong"
+    ],
+    "€": [
+        "EUR",
+        "euro",
+        "valuutta"
+    ],
+    "₭": [
+        "Laosin kip"
+    ],
+    "₮": [
+        "Mongolian tugrik"
+    ],
+    "₰": [
+        "Saksan penni"
+    ],
+    "₱": [
+        "peso"
+    ],
+    "₲": [
+        "Paraguayn guarani"
+    ],
+    "₳": [
+        "austral"
+    ],
+    "₴": [
+        "Ukrainan hryvnia"
+    ],
+    "₵": [
+        "Ghanan cedi"
+    ],
+    "₶": [
+        "Toursin livre"
+    ],
+    "₷": [
+        "spesmilo"
+    ],
+    "₸": [
+        "Kazakstanin tenge"
+    ],
+    "₹": [
+        "INR",
+        "Intian rupia",
+        "rupia",
+        "valuutta"
+    ],
+    "₺": [
+        "Turkin liira"
+    ],
+    "₼": [
+        "Azerbaidžanin manat"
+    ],
+    "₽": [
+        "RUB",
+        "rupla",
+        "valuutta"
+    ],
+    "₾": [
+        "Georgian lari"
+    ],
+    "₿": [
+        "bitcoin"
+    ],
+    "₨": [
+        "rupia",
+        "valuutta"
+    ],
+    "﷼": [
+        "rial"
+    ],
+    "¹": [
+        "yksi",
+        "yläindeksi",
+        "yläindeksi yksi"
+    ],
+    "²": [
+        "kaksi",
+        "neliö",
+        "yläindeksi",
+        "yläindeksi kaksi"
+    ],
+    "³": [
+        "kolme",
+        "kuutio",
+        "yläindeksi",
+        "yläindeksi kolme"
+    ],
+    "µ": [
+        "mikro-merkki",
+        "mikromerkki",
+        "mitta",
+        "myy"
     ],
     "🏻": [
         "emojin muokkaus",

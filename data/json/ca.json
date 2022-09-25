@@ -1,4 +1,1313 @@
 {
+    "‾": [
+        "sobreratllat"
+    ],
+    "_": [
+        "caràcter de subratllat",
+        "guió",
+        "línia",
+        "ratlla",
+        "ratlla baixa"
+    ],
+    "-": [
+        "guionet",
+        "guionet de menys",
+        "menys"
+    ],
+    "‐": [
+        "guionet",
+        "guió"
+    ],
+    "–": [
+        "guió",
+        "guió mitjà"
+    ],
+    "—": [
+        "guió",
+        "guió llarg"
+    ],
+    "―": [
+        "barra",
+        "barra horitzontal",
+        "guió",
+        "línia"
+    ],
+    "・": [
+        "katakana",
+        "punt",
+        "punt alçat",
+        "punt volat",
+        "punt volat katakana"
+    ],
+    ",": [
+        "coma"
+    ],
+    "،": [
+        "coma",
+        "coma àrab",
+        "àrab"
+    ],
+    "、": [
+        "coma",
+        "coma ideogràfica",
+        "ideogràfica"
+    ],
+    ";": [
+        "coma",
+        "punt",
+        "punt i coma"
+    ],
+    "؛": [
+        "punt i coma",
+        "punt i coma àrab",
+        "àrab"
+    ],
+    ":": [
+        "dos punts"
+    ],
+    "!": [
+        "bang",
+        "exclamació",
+        "signe d’exclamació"
+    ],
+    "¡": [
+        "bang",
+        "exclamació",
+        "invertit",
+        "obertura",
+        "signe d’exclamació",
+        "signe d’exclamació d’obertura"
+    ],
+    "?": [
+        "interrogació",
+        "interrogant",
+        "pregunta",
+        "signe d’interrogació"
+    ],
+    "¿": [
+        "obertura",
+        "pregunta",
+        "signe d’interrogació",
+        "signe d’interrogació d’obertura"
+    ],
+    "؟": [
+        "pregunta",
+        "signe d’interrogació àrab",
+        "àrab"
+    ],
+    "‽": [
+        "signe exclarrogatiu"
+    ],
+    ".": [
+        "punt",
+        "punt final"
+    ],
+    "…": [
+        "omissió",
+        "punts",
+        "punts suspensius"
+    ],
+    "。": [
+        "ideogràfic",
+        "punt",
+        "punt ideogràfic"
+    ],
+    "·": [
+        "meitat",
+        "punt",
+        "punt alçat",
+        "punt volat"
+    ],
+    "'": [
+        "apòstrof",
+        "apòstrof tipogràfic",
+        "cometa",
+        "cometa simple"
+    ],
+    "‘": [
+        "apòstrof",
+        "cometa",
+        "cometa esquerra",
+        "cometa simple"
+    ],
+    "’": [
+        "apòstrof",
+        "cometa",
+        "cometa dreta",
+        "cometa simple"
+    ],
+    "‚": [
+        "cometa",
+        "cometa baixa",
+        "cometa baixa dreta",
+        "cometa simple"
+    ],
+    "“": [
+        "cometa",
+        "cometa doble",
+        "cometa doble alta esquerra",
+        "cometes"
+    ],
+    "”": [
+        "cometa",
+        "cometa doble",
+        "cometa doble alta dreta",
+        "cometes"
+    ],
+    "„": [
+        "cometa",
+        "cometa baixa",
+        "cometa doble",
+        "cometa doble baixa dreta",
+        "cometes"
+    ],
+    "«": [
+        "angle",
+        "cometa",
+        "cometa llatina esquerra",
+        "esquerra",
+        "galó",
+        "parèntesi",
+        "signe d’inserció"
+    ],
+    "»": [
+        "angle",
+        "cometa",
+        "cometa llatina dreta",
+        "dreta",
+        "galó",
+        "parèntesi",
+        "signe d’inserció"
+    ],
+    ")": [
+        "parèntesi",
+        "parèntesi de tancament"
+    ],
+    "[": [
+        "claudàtor",
+        "claudàtor d’obertura",
+        "claudàtor esquerre"
+    ],
+    "]": [
+        "claudàtor",
+        "claudàtor de tancament",
+        "claudàtor dret"
+    ],
+    "{": [
+        "clau",
+        "clau d’obertura",
+        "clau esquerra",
+        "parèntesi"
+    ],
+    "}": [
+        "clau",
+        "clau de tancament",
+        "clau dreta",
+        "parèntesi"
+    ],
+    "〈": [
+        "angle agut",
+        "obertura",
+        "parèntesi",
+        "parèntesi angular",
+        "parèntesi angular d’obertura"
+    ],
+    "〉": [
+        "angle agut",
+        "parèntesi",
+        "parèntesi angular",
+        "parèntesi angular de tancament",
+        "tancament"
+    ],
+    "《": [
+        "parèntesi",
+        "parèntesi angular doble",
+        "parèntesi angular doble d’obertura"
+    ],
+    "》": [
+        "parèntesi",
+        "parèntesi angular doble",
+        "parèntesi angular doble de tancament"
+    ],
+    "「": [
+        "parèntesi",
+        "semiclaudàtor",
+        "semiclaudàtor alt esquerre"
+    ],
+    "」": [
+        "parèntesi",
+        "semiclaudàtor",
+        "semiclaudàtor baix dret"
+    ],
+    "『": [
+        "claudàtor",
+        "semiclaudàtor buit",
+        "semiclaudàtor buit d’obertura"
+    ],
+    "』": [
+        "claudàtor",
+        "semiclaudàtor buit",
+        "semiclaudàtor buit de tancament"
+    ],
+    "【": [
+        "claudàtor",
+        "claudàtor de lent",
+        "claudàtor de lent negre d’obertura",
+        "claudàtor lenticular"
+    ],
+    "】": [
+        "claudàtor",
+        "claudàtor de lent",
+        "claudàtor lenticular",
+        "semiclaudàtor de lent negre de tancament"
+    ],
+    "〔": [
+        "claudàtor",
+        "claudàtor de tortuga",
+        "claudàtor de tortuga d’obertura"
+    ],
+    "〕": [
+        "claudàtor",
+        "claudàtor de tortuga",
+        "claudàtor de tortuga de tancament"
+    ],
+    "〖": [
+        "claudàtor",
+        "claudàtor de lent buit",
+        "claudàtor de lent buit d’obertura",
+        "claudàtor lenticular buit"
+    ],
+    "〗": [
+        "claudàtor",
+        "claudàtor de lent buit",
+        "claudàtor de lent buit de tancament",
+        "claudàtor lenticular buit"
+    ],
+    "§": [
+        "part",
+        "paràgraf",
+        "secció"
+    ],
+    "¶": [
+        "antígraf",
+        "calderó",
+        "marca de paràgraf",
+        "paràgraf",
+        "peu de mosca"
+    ],
+    "@": [
+        "a cuada",
+        "a encerclada",
+        "arrova",
+        "ensaïmada",
+        "rova"
+    ],
+    "*️": [
+        "asterisc",
+        "comodí",
+        "estrella"
+    ],
+    "/": [
+        "barra inclinada",
+        "barra obliqua",
+        "contrabarra"
+    ],
+    "\\": [
+        "barra inversa",
+        "barra obliqua inversa"
+    ],
+    "&": [
+        "et",
+        "i",
+        "i comercial"
+    ],
+    "#️": [
+        "coixinet",
+        "lliura",
+        "número",
+        "quadradet",
+        "xifra"
+    ],
+    "%": [
+        "percentatge",
+        "tant per cent"
+    ],
+    "‰": [
+        "per mil"
+    ],
+    "†": [
+        "diesi",
+        "obelisc",
+        "obelos",
+        "signe d’obelisc"
+    ],
+    "‡": [
+        "diesi",
+        "dos",
+        "obelisc",
+        "obelos",
+        "signe d’obelisc de dos braços"
+    ],
+    "•": [
+        "pic",
+        "punt",
+        "punt de llista"
+    ],
+    "‧": [
+        "guió",
+        "punt",
+        "punt de guió"
+    ],
+    "′": [
+        "prima"
+    ],
+    "″": [
+        "doble prima",
+        "prima"
+    ],
+    "‴": [
+        "prima",
+        "triple prima"
+    ],
+    "‸": [
+        "circumflex"
+    ],
+    "※": [
+        "marca de referència"
+    ],
+    "⁂": [
+        "asterisme"
+    ],
+    "`": [
+        "accent",
+        "accent greu",
+        "greu",
+        "to"
+    ],
+    "´": [
+        "accent",
+        "accent agut",
+        "agut",
+        "to"
+    ],
+    "^": [
+        "accent",
+        "accent circumflex",
+        "angle",
+        "barret",
+        "circumflex",
+        "control",
+        "punter"
+    ],
+    "¨": [
+        "dièresi"
+    ],
+    "°": [
+        "grau",
+        "hora",
+        "prova"
+    ],
+    "℗": [
+        "copyright",
+        "enregistrament",
+        "enregistrament de so amb copyright",
+        "so"
+    ],
+    "←": [
+        "esquerra",
+        "fletxa",
+        "fletxa que apunta cap a l’esquerra"
+    ],
+    "↚": [
+        "fletxa cap a l’esquerra amb traç"
+    ],
+    "→": [
+        "dreta",
+        "fletxa",
+        "fletxa que apunta cap a la dreta"
+    ],
+    "↛": [
+        "fletxa cap a la dreta amb barra inclinada"
+    ],
+    "↑": [
+        "amunt",
+        "fletxa",
+        "fletxa que apunta cap amunt"
+    ],
+    "↓": [
+        "avall",
+        "fletxa",
+        "fletxa que apunta cap avall"
+    ],
+    "↜": [
+        "fletxa ondulada cap a l’esquerra"
+    ],
+    "↝": [
+        "fletxa ondulada cap a la dreta"
+    ],
+    "↞": [
+        "fletxa cap a l’esquerra amb dues puntes"
+    ],
+    "↟": [
+        "fletxa cap amunt amb dues puntes"
+    ],
+    "↠": [
+        "fletxa cap a la dreta amb dues puntes"
+    ],
+    "↡": [
+        "fletxa cap avall amb dues puntes"
+    ],
+    "↢": [
+        "fletxa cap a l’esquerra amb cua"
+    ],
+    "↣": [
+        "fletxa cap a la dreta amb cua"
+    ],
+    "↤": [
+        "fletxa des d’una barra cap a l’esquerra"
+    ],
+    "↥": [
+        "fletxa des d’una barra cap amunt"
+    ],
+    "↦": [
+        "fletxa des d’una barra cap a la dreta"
+    ],
+    "↧": [
+        "fletxa des d’una barra cap avall"
+    ],
+    "↨": [
+        "fletxa amunt i avall amb una base"
+    ],
+    "↫": [
+        "fletxa cap a l’esquerra amb bucle"
+    ],
+    "↬": [
+        "fletxa cap a la dreta amb bucle"
+    ],
+    "↭": [
+        "fletxa esquerra i dreta ondulada"
+    ],
+    "↯": [
+        "fletxa cap avall en zig-zag"
+    ],
+    "↰": [
+        "fletxa cap amunt amb punta cap a l’esquerra"
+    ],
+    "↱": [
+        "fletxa cap amunt amb punta cap a la dreta"
+    ],
+    "↲": [
+        "fletxa cap avall amb punta cap a l’esquerra"
+    ],
+    "↳": [
+        "fletxa cap avall amb punta cap a la dreta"
+    ],
+    "↴": [
+        "fletxa curta a la dreta amb punta cap avall"
+    ],
+    "↵": [
+        "fletxa curta avall amb punta a l’esquerra"
+    ],
+    "↶": [
+        "fletxa semicircular superior antihorària"
+    ],
+    "↷": [
+        "fletxa semicircular superior en sentit horari"
+    ],
+    "↸": [
+        "fletxa cap al nord-oest amb barra llarga"
+    ],
+    "↹": [
+        "fletxa esquerra sobre dreta amb barra"
+    ],
+    "↺": [
+        "fletxa circular oberta en sentit antihorari"
+    ],
+    "↻": [
+        "fletxa circular oberta en sentit horari"
+    ],
+    "↼": [
+        "arpó cap a l’esquerra amb dent a sobre"
+    ],
+    "↽": [
+        "arpó cap a l’esquerra amb dent a sota"
+    ],
+    "↾": [
+        "arpó cap amunt amb dent a la dreta"
+    ],
+    "↿": [
+        "arpó cap amunt amb dent a l’esquerra"
+    ],
+    "⇀": [
+        "arpó cap a la dreta amb dent a sobre"
+    ],
+    "⇁": [
+        "arpó cap a la dreta amb dent a sota"
+    ],
+    "⇂": [
+        "arpó cap avall amb dent a la dreta"
+    ],
+    "⇃": [
+        "arpó cap avall amb dent a l’esquerra"
+    ],
+    "⇄": [
+        "fletxa dreta per sobre d’una fletxa esquerra"
+    ],
+    "⇅": [
+        "amunt",
+        "avall",
+        "fletxa",
+        "fletxes que apunten cap amunt i cap avall"
+    ],
+    "⇆": [
+        "dreta",
+        "esquerra",
+        "fletxa",
+        "fletxa que apunta cap a l’esquerra sobre una fletxa que apunta cap a la dreta",
+        "fletxes cap a l’esquerra i la dreta"
+    ],
+    "⇇": [
+        "dues fletxes cap a l’esquerra"
+    ],
+    "⇈": [
+        "dues fletxes cap amunt"
+    ],
+    "⇉": [
+        "dues fletxes cap a la dreta"
+    ],
+    "⇊": [
+        "dues fletxes cap avall"
+    ],
+    "⇋": [
+        "arpó esquerre per sobre d’un arpó dret"
+    ],
+    "⇌": [
+        "arpó dret per sobre d’un arpó esquerre"
+    ],
+    "⇐": [
+        "fletxa doble cap a l’esquerra"
+    ],
+    "⇍": [
+        "fletxa doble cap a l’esquerra amb traç"
+    ],
+    "⇑": [
+        "fletxa doble cap amunt"
+    ],
+    "⇒": [
+        "fletxa doble cap a la dreta"
+    ],
+    "⇏": [
+        "fletxa doble cap a la dreta amb traç"
+    ],
+    "⇓": [
+        "fletxa doble cap avall"
+    ],
+    "⇔": [
+        "fletxa doble cap a l’esquerra i la dreta"
+    ],
+    "⇎": [
+        "fletxa doble esquerra i dreta amb traç"
+    ],
+    "⇖": [
+        "fletxa doble cap al nord-oest"
+    ],
+    "⇗": [
+        "fletxa doble cap al nord-est"
+    ],
+    "⇘": [
+        "fletxa doble cap al sud-est"
+    ],
+    "⇙": [
+        "fletxa doble cap al sud-oest"
+    ],
+    "⇚": [
+        "fletxa triple cap a l’esquerra"
+    ],
+    "⇛": [
+        "fletxa triple cap a la dreta"
+    ],
+    "⇜": [
+        "fletxa en ziga-zaga cap a l’esquerra"
+    ],
+    "⇝": [
+        "fletxa en ziga-zaga cap a la dreta"
+    ],
+    "⇞": [
+        "fletxa cap amunt amb doble traç"
+    ],
+    "⇟": [
+        "fletxa cap avall amb doble traç"
+    ],
+    "⇠": [
+        "fletxa puntejada cap a l’esquerra"
+    ],
+    "⇡": [
+        "fletxa puntejada cap amunt"
+    ],
+    "⇢": [
+        "fletxa puntejada cap a la dreta"
+    ],
+    "⇣": [
+        "fletxa puntejada cap avall"
+    ],
+    "⇤": [
+        "fletxa cap a l’esquerra amb barra"
+    ],
+    "⇥": [
+        "fletxa cap a la dreta amb barra"
+    ],
+    "⇦": [
+        "fletxa buida cap a l’esquerra"
+    ],
+    "⇧": [
+        "fletxa buida cap amunt"
+    ],
+    "⇨": [
+        "fletxa buida cap a la dreta"
+    ],
+    "⇩": [
+        "fletxa buida cap avall"
+    ],
+    "⇪": [
+        "fletxa buida cap amunt des d’una barra"
+    ],
+    "⇵": [
+        "fletxa esquerra cap avall i dreta cap amunt"
+    ],
+    "∀": [
+        "per a tot"
+    ],
+    "∂": [
+        "derivada parcial"
+    ],
+    "∃": [
+        "existeix"
+    ],
+    "∅": [
+        "conjunt buit"
+    ],
+    "∆": [
+        "increment",
+        "triangle"
+    ],
+    "∇": [
+        "nabla",
+        "triangle"
+    ],
+    "∈": [
+        "conjunt",
+        "conté",
+        "element",
+        "element de",
+        "pertany a"
+    ],
+    "∉": [
+        "no és un element"
+    ],
+    "∋": [
+        "conté com a membre"
+    ],
+    "∎": [
+        "final de prova"
+    ],
+    "∏": [
+        "producte d’operador n"
+    ],
+    "∑": [
+        "sumatòria d’operador n"
+    ],
+    "+": [
+        "més",
+        "signe més",
+        "suma"
+    ],
+    "±": [
+        "signe de més o menys"
+    ],
+    "÷": [
+        "dividir",
+        "divisió",
+        "divisor",
+        "signe de divisió"
+    ],
+    "×": [
+        "multiplicació",
+        "multiplicador",
+        "multiplicar",
+        "signe de multiplicació"
+    ],
+    "<": [
+        "etiqueta",
+        "inferior a",
+        "menor que",
+        "més petit que",
+        "obertura"
+    ],
+    "≮": [
+        "no menor que"
+    ],
+    "=": [
+        "equival a",
+        "igual"
+    ],
+    "≠": [
+        "desigualtat",
+        "inequació",
+        "no és igual que"
+    ],
+    ">": [
+        "etiqueta",
+        "major que",
+        "més gran que",
+        "superior a",
+        "tancament"
+    ],
+    "≯": [
+        "no major que"
+    ],
+    "¬": [
+        "negació",
+        "no"
+    ],
+    "|": [
+        "barra vertical",
+        "línia vertical",
+        "pleca"
+    ],
+    "~": [
+        "titlla"
+    ],
+    "−": [
+        "menys",
+        "resta",
+        "signe menys"
+    ],
+    "⁻": [
+        "resta",
+        "superíndex",
+        "superíndex resta"
+    ],
+    "∓": [
+        "més menys"
+    ],
+    "∕": [
+        "barra de divisió"
+    ],
+    "⁄": [
+        "barra de fracció"
+    ],
+    "∗": [
+        "operador asterisc"
+    ],
+    "∘": [
+        "operador anell"
+    ],
+    "∙": [
+        "operador vinyeta"
+    ],
+    "√": [
+        "arrel",
+        "arrel quadrada",
+        "quadrat",
+        "radical",
+        "signe d’arrel"
+    ],
+    "∝": [
+        "proporcional"
+    ],
+    "∞": [
+        "infinit",
+        "signe d’infinit"
+    ],
+    "∟": [
+        "angle recte"
+    ],
+    "∠": [
+        "angle"
+    ],
+    "∣": [
+        "divideix"
+    ],
+    "∥": [
+        "paral·lel"
+    ],
+    "∧": [
+        "I lògic"
+    ],
+    "∩": [
+        "conjunt",
+        "intersecció"
+    ],
+    "∪": [
+        "col·lecció",
+        "conjunt",
+        "unió"
+    ],
+    "∫": [
+        "integral"
+    ],
+    "∬": [
+        "integral doble"
+    ],
+    "∮": [
+        "integral de contorn"
+    ],
+    "∴": [
+        "per tant"
+    ],
+    "∵": [
+        "perquè"
+    ],
+    "∶": [
+        "relació"
+    ],
+    "∷": [
+        "proporció"
+    ],
+    "∼": [
+        "operador titlla"
+    ],
+    "∽": [
+        "titlla invertida"
+    ],
+    "∾": [
+        "s inclinada invertida"
+    ],
+    "≃": [
+        "igual asimptòtic"
+    ],
+    "≅": [
+        "igual aproximat"
+    ],
+    "≈": [
+        "aproximació",
+        "aproximadament igual a"
+    ],
+    "≌": [
+        "tot igual a"
+    ],
+    "≒": [
+        "aproximadament igual que la imatge"
+    ],
+    "≖": [
+        "anell dintre del signe d’igual"
+    ],
+    "≡": [
+        "exacte",
+        "idèntic",
+        "idèntic a",
+        "triple"
+    ],
+    "≣": [
+        "estrictament equivalent"
+    ],
+    "≤": [
+        "angle",
+        "antilambda",
+        "desigualtat",
+        "igual",
+        "inferior",
+        "menor o igual a",
+        "menor que",
+        "més petit que"
+    ],
+    "≥": [
+        "angle",
+        "antilambda",
+        "desigualtat",
+        "igual",
+        "major o igual a",
+        "major que",
+        "més gran que",
+        "superior"
+    ],
+    "≦": [
+        "menor que a sobre del signe d’igual"
+    ],
+    "≧": [
+        "major que a sobre del signe d’igual"
+    ],
+    "≪": [
+        "molt menor que"
+    ],
+    "≫": [
+        "molt major que"
+    ],
+    "≬": [
+        "entre"
+    ],
+    "≳": [
+        "major que equivalent"
+    ],
+    "≺": [
+        "precedeix"
+    ],
+    "≻": [
+        "succeeix"
+    ],
+    "⊁": [
+        "no succeeix"
+    ],
+    "⊂": [
+        "conjunt",
+        "subconjunt",
+        "subconjunt de"
+    ],
+    "⊃": [
+        "supraconjunt"
+    ],
+    "⊆": [
+        "subconjunt igual"
+    ],
+    "⊇": [
+        "supraconjunt igual"
+    ],
+    "⊕": [
+        "signe més encerclat"
+    ],
+    "⊖": [
+        "signe menys encerclat"
+    ],
+    "⊗": [
+        "signe de multiplicació encerclat"
+    ],
+    "⊘": [
+        "barra de divisió encerclada"
+    ],
+    "⊙": [
+        "operador punt encerclat"
+    ],
+    "⊚": [
+        "operador anell encerclat"
+    ],
+    "⊛": [
+        "operador asterisc encerclat"
+    ],
+    "⊞": [
+        "signe més en un quadrat"
+    ],
+    "⊟": [
+        "signe menys en un quadrat"
+    ],
+    "⊥": [
+        "tatxa cap amunt"
+    ],
+    "⊮": [
+        "no força"
+    ],
+    "⊰": [
+        "precedeix en la relació"
+    ],
+    "⊱": [
+        "succeeix en la relació"
+    ],
+    "⋭": [
+        "no conté com un subgrup normal igual"
+    ],
+    "⊶": [
+        "original"
+    ],
+    "⊹": [
+        "matriu hermítica conjugada"
+    ],
+    "⊿": [
+        "triangle rectangle"
+    ],
+    "⋁": [
+        "O lògic d’operador n"
+    ],
+    "⋂": [
+        "intersecció d’operador n"
+    ],
+    "⋃": [
+        "unió d’operador n"
+    ],
+    "⋅": [
+        "operador punt"
+    ],
+    "⋆": [
+        "operador estrella"
+    ],
+    "⋈": [
+        "unió natural"
+    ],
+    "⋒": [
+        "intersecció doble"
+    ],
+    "⋘": [
+        "considerablement menor que"
+    ],
+    "⋙": [
+        "considerablement major que"
+    ],
+    "⋮": [
+        "el·lipsi vertical"
+    ],
+    "⋯": [
+        "el·lipsi horitzontal volada"
+    ],
+    "⋰": [
+        "el·lipsi diagonal cap amunt a la dreta"
+    ],
+    "⋱": [
+        "el·lipsi diagonal cap avall a la dreta"
+    ],
+    "■": [
+        "quadrat ple"
+    ],
+    "□": [
+        "quadrat buit"
+    ],
+    "▢": [
+        "quadrat buit amb els angles arrodonits"
+    ],
+    "▣": [
+        "quadrat buit amb un quadrat ple a l’interior"
+    ],
+    "▤": [
+        "quadrat amb ratlles horitzontals"
+    ],
+    "▥": [
+        "quadrat amb ratlles verticals"
+    ],
+    "▦": [
+        "quadrat quadriculat perpendicularment"
+    ],
+    "▧": [
+        "quadrat ratllat de dalt esquerra a baix dreta"
+    ],
+    "▨": [
+        "quadrat ratllat de baix esquerra a dalt dreta"
+    ],
+    "▩": [
+        "quadrat quadriculat diagonalment"
+    ],
+    "▬": [
+        "rectangle ple"
+    ],
+    "▭": [
+        "rectangle buit"
+    ],
+    "▮": [
+        "rectangle vertical ple"
+    ],
+    "▰": [
+        "paral·lelogram ple"
+    ],
+    "▲": [
+        "amunt",
+        "fletxa",
+        "ple",
+        "triangle",
+        "triangle ple que apunta cap amunt"
+    ],
+    "△": [
+        "triangle buit cap amunt"
+    ],
+    "▴": [
+        "triangle petit ple cap amunt"
+    ],
+    "▵": [
+        "triangle petit buit cap amunt"
+    ],
+    "▷": [
+        "triangle buit cap a la dreta"
+    ],
+    "▸": [
+        "triangle petit ple cap a la dreta"
+    ],
+    "▹": [
+        "triangle petit buit cap a la dreta"
+    ],
+    "►": [
+        "punter ple cap a la dreta"
+    ],
+    "▻": [
+        "punter buit cap a la dreta"
+    ],
+    "▼": [
+        "avall",
+        "fletxa",
+        "ple",
+        "triangle",
+        "triangle ple que apunta cap avall"
+    ],
+    "▽": [
+        "triangle buit cap avall"
+    ],
+    "▾": [
+        "triangle petit ple cap avall"
+    ],
+    "▿": [
+        "triangle petit buit cap avall"
+    ],
+    "◁": [
+        "triangle buit cap a l’esquerra"
+    ],
+    "◂": [
+        "triangle petit ple cap a l’esquerra"
+    ],
+    "◃": [
+        "triangle petit buit cap a l’esquerra"
+    ],
+    "◄": [
+        "punter ple cap a l’esquerra"
+    ],
+    "◅": [
+        "punter buit cap a l’esquerra"
+    ],
+    "◆": [
+        "rombe ple"
+    ],
+    "◇": [
+        "rombe buit"
+    ],
+    "◈": [
+        "rombe buit amb un rombe ple a l’interior"
+    ],
+    "◉": [
+        "cercle buit amb un cercle ple a l’interior"
+    ],
+    "◊": [
+        "diamant",
+        "píndola",
+        "rombe"
+    ],
+    "○": [
+        "anell",
+        "cercle",
+        "cercle buit"
+    ],
+    "◌": [
+        "cercle puntejat"
+    ],
+    "◍": [
+        "cercle amb ratlles verticals"
+    ],
+    "◎": [
+        "cercles concèntrics"
+    ],
+    "●": [
+        "cercle",
+        "cercle ple"
+    ],
+    "◐": [
+        "cercle amb la meitat esquerra plena"
+    ],
+    "◑": [
+        "cercle amb la meitat dreta plena"
+    ],
+    "◒": [
+        "cercle amb la meitat inferior plena"
+    ],
+    "◓": [
+        "cercle amb la meitat superior plena"
+    ],
+    "◔": [
+        "cercle amb el quadrant superior dret ple"
+    ],
+    "◕": [
+        "cercle amb quadrat superior esquerre buit"
+    ],
+    "◖": [
+        "semicercle esquerre ple"
+    ],
+    "◗": [
+        "semicercle dret ple"
+    ],
+    "◘": [
+        "vinyeta invertida"
+    ],
+    "◙": [
+        "quadrat ple amb un cercle buit a l’interior"
+    ],
+    "◜": [
+        "arc circular en quadrant superior esquerre"
+    ],
+    "◝": [
+        "arc circular en el quadrant superior dret"
+    ],
+    "◞": [
+        "arc circular en el quadrant inferior dret"
+    ],
+    "◟": [
+        "arc circular en el quadrant inferior esquerre"
+    ],
+    "◠": [
+        "semicercle superior"
+    ],
+    "◡": [
+        "semicercle inferior"
+    ],
+    "◢": [
+        "triangle inferior dret ple"
+    ],
+    "◣": [
+        "triangle inferior esquerre ple"
+    ],
+    "◤": [
+        "triangle superior esquerre ple"
+    ],
+    "◥": [
+        "triangle superior dret ple"
+    ],
+    "◦": [
+        "vinyeta buida"
+    ],
+    "◯": [
+        "anell",
+        "cercle",
+        "cercle buit gran"
+    ],
+    "◳": [
+        "quadrat buit amb quadrant superior dret"
+    ],
+    "◷": [
+        "cercle buit amb quadrant superior dret"
+    ],
+    "◿": [
+        "triangle inferior dret"
+    ],
+    "♪": [
+        "corxera",
+        "música",
+        "nota"
+    ],
+    "⨧": [
+        "signe més amb el nombre dos en subíndex"
+    ],
+    "⨯": [
+        "producte creuat vector"
+    ],
+    "⨼": [
+        "producte interior"
+    ],
+    "⩣": [
+        "O lògic amb barra inferior doble"
+    ],
+    "⩽": [
+        "menor que o igual inclinat"
+    ],
+    "⪍": [
+        "menor que sobre igual similar"
+    ],
+    "⪚": [
+        "major que o igual de doble línia"
+    ],
+    "⪺": [
+        "succeeix a sobre de no gairebé igual a"
+    ],
+    "♭": [
+        "bemoll",
+        "música",
+        "nota"
+    ],
+    "♯": [
+        "diesi",
+        "música",
+        "nota",
+        "sostingut"
+    ],
     "😀": [
         "cara",
         "cara molt somrient",
@@ -60,6 +1369,14 @@
         "cara",
         "cara de cap per avall",
         "revés"
+    ],
+    "🫠": [
+        "cara que es desfà",
+        "desaparèixer",
+        "desfer-se",
+        "dissoldre’s",
+        "fondre’s",
+        "líquid"
     ],
     "😉": [
         "cara",
@@ -196,6 +1513,20 @@
         "tapant-se la boca",
         "ups"
     ],
+    "🫢": [
+        "al·lucinar",
+        "cara amb els ulls oberts i la mà sobre la boca",
+        "increïble",
+        "sorpresa",
+        "vergonya"
+    ],
+    "🫣": [
+        "cara tapada que espia amb un ull",
+        "espiar",
+        "fascinació",
+        "mirada",
+        "mirar"
+    ],
     "🤫": [
         "callar",
         "cara que demana silenci",
@@ -207,6 +1538,14 @@
         "pensant",
         "pensatiu",
         "pensativa"
+    ],
+    "🫡": [
+        "cara que saluda",
+        "exèrcit",
+        "ordre",
+        "salutació",
+        "sí",
+        "val"
     ],
     "🤐": [
         "boca",
@@ -242,6 +1581,20 @@
         "sense boca",
         "silenci"
     ],
+    "🫥": [
+        "amagar-se",
+        "cara amb línia de punts",
+        "depressió",
+        "desaparèixer",
+        "introversió",
+        "invisible"
+    ],
+    "😶‍🌫": [
+        "cap als núvols",
+        "cara entre núvols",
+        "distracció",
+        "distret"
+    ],
     "😏": [
         "cara",
         "cara somrient amb superioritat",
@@ -264,6 +1617,13 @@
         "cara que fa una ganyota amb les dents",
         "dents",
         "ganyota"
+    ],
+    "😮‍💨": [
+        "alleujament",
+        "cara que exhala",
+        "exhalar",
+        "xiulet",
+        "xiuxiueig"
     ],
     "🤥": [
         "Pinotxo",
@@ -368,15 +1728,20 @@
         "cara de mareig",
         "embriac",
         "embriaga",
-        "marejada",
-        "marejat",
-        "ulls desiguals"
+        "mareig"
     ],
     "😵": [
         "cara",
         "cara marejada",
         "marejada",
         "marejat"
+    ],
+    "😵‍💫": [
+        "cara amb ulls d’espiral",
+        "espiral",
+        "hipnosi",
+        "mareig",
+        "problema"
     ],
     "🤯": [
         "cap que explota",
@@ -433,6 +1798,16 @@
         "confusió",
         "confós"
     ],
+    "🫤": [
+        "cara amb la boca en diagonal",
+        "cara de decepció",
+        "cara d’escepticisme",
+        "cara d’inseguretat",
+        "decepcionat",
+        "escèptic",
+        "insegur",
+        "meh"
+    ],
     "😟": [
         "cara",
         "cara de preocupació",
@@ -482,6 +1857,15 @@
         "pietat",
         "súplica",
         "ulls de cadell"
+    ],
+    "🥹": [
+        "cara que s’aguanta les llàgrimes",
+        "dolor",
+        "emoció",
+        "enuig",
+        "orgull",
+        "resistir",
+        "tristesa"
     ],
     "😦": [
         "boca oberta",
@@ -770,11 +2154,6 @@
         "mona",
         "mona que no parla"
     ],
-    "💋": [
-        "marca",
-        "marca de petó",
-        "petó"
-    ],
     "💌": [
         "amor",
         "carta",
@@ -836,6 +2215,22 @@
         "trencar",
         "trencat"
     ],
+    "❤‍🔥": [
+        "amor",
+        "cor",
+        "cor en flames",
+        "cor sagrat",
+        "foc",
+        "luxúria"
+    ],
+    "❤‍🩹": [
+        "cor",
+        "cor embenat",
+        "millor",
+        "millora",
+        "recuperació",
+        "salut"
+    ],
     "❤️": [
         "cor",
         "cor vermell"
@@ -874,6 +2269,11 @@
         "cor",
         "cor blanc"
     ],
+    "💋": [
+        "marca",
+        "marca de petó",
+        "petó"
+    ],
     "💯": [
         "100",
         "100 punts",
@@ -911,10 +2311,6 @@
     ],
     "🕳️": [
         "forat"
-    ],
-    "💣️": [
-        "bomba",
-        "còmic"
     ],
     "💬": [
         "bafarada",
@@ -1176,6 +2572,402 @@
         "salutació vulcaniana: pell molt fosca",
         "vulcanià"
     ],
+    "🫱": [
+        "a la dreta",
+        "dreta",
+        "mà",
+        "mà cap a la dreta"
+    ],
+    "🫱🏻": [
+        "a la dreta",
+        "dreta",
+        "mà",
+        "mà cap a la dreta",
+        "mà cap a la dreta: pell molt clara",
+        "pell molt clara"
+    ],
+    "🫱🏼": [
+        "a la dreta",
+        "dreta",
+        "mà",
+        "mà cap a la dreta",
+        "mà cap a la dreta: pell bastant clara",
+        "pell bastant clara"
+    ],
+    "🫱🏽": [
+        "a la dreta",
+        "dreta",
+        "mà",
+        "mà cap a la dreta",
+        "mà cap a la dreta: pell morena",
+        "pell morena"
+    ],
+    "🫱🏾": [
+        "a la dreta",
+        "dreta",
+        "mà",
+        "mà cap a la dreta",
+        "mà cap a la dreta: pell fosca",
+        "pell fosca"
+    ],
+    "🫱🏿": [
+        "a la dreta",
+        "dreta",
+        "mà",
+        "mà cap a la dreta",
+        "mà cap a la dreta: pell molt fosca",
+        "pell molt fosca"
+    ],
+    "🫱🏻‍🫲🏼": [
+        "acord",
+        "encaixada",
+        "encaixada de mans",
+        "encaixada de mans: pell molt clara i pell bastant clara",
+        "mans",
+        "pell bastant clara",
+        "pell molt clara",
+        "salutació"
+    ],
+    "🫱🏻‍🫲🏽": [
+        "acord",
+        "encaixada",
+        "encaixada de mans",
+        "encaixada de mans: pell molt clara i pell morena",
+        "mans",
+        "pell molt clara",
+        "pell morena",
+        "salutació"
+    ],
+    "🫱🏻‍🫲🏾": [
+        "acord",
+        "encaixada",
+        "encaixada de mans",
+        "encaixada de mans: pell molt clara i pell fosca",
+        "mans",
+        "pell fosca",
+        "pell molt clara",
+        "salutació"
+    ],
+    "🫱🏻‍🫲🏿": [
+        "acord",
+        "encaixada",
+        "encaixada de mans",
+        "encaixada de mans: pell molt clara i pell molt fosca",
+        "mans",
+        "pell molt clara",
+        "pell molt fosca",
+        "salutació"
+    ],
+    "🫱🏼‍🫲🏻": [
+        "acord",
+        "encaixada",
+        "encaixada de mans",
+        "encaixada de mans: pell bastant clara i pell molt clara",
+        "mans",
+        "pell bastant clara",
+        "pell molt clara",
+        "salutació"
+    ],
+    "🫱🏼‍🫲🏽": [
+        "acord",
+        "encaixada",
+        "encaixada de mans",
+        "encaixada de mans: pell bastant clara i pell morena",
+        "mans",
+        "pell bastant clara",
+        "pell morena",
+        "salutació"
+    ],
+    "🫱🏼‍🫲🏾": [
+        "acord",
+        "encaixada",
+        "encaixada de mans",
+        "encaixada de mans: pell bastant clara i pell fosca",
+        "mans",
+        "pell bastant clara",
+        "pell fosca",
+        "salutació"
+    ],
+    "🫱🏼‍🫲🏿": [
+        "acord",
+        "encaixada",
+        "encaixada de mans",
+        "encaixada de mans: pell bastant clara i pell molt fosca",
+        "mans",
+        "pell bastant clara",
+        "pell molt fosca",
+        "salutació"
+    ],
+    "🫱🏽‍🫲🏻": [
+        "acord",
+        "encaixada",
+        "encaixada de mans",
+        "encaixada de mans: pell morena i pell molt clara",
+        "mans",
+        "pell molt clara",
+        "pell morena",
+        "salutació"
+    ],
+    "🫱🏽‍🫲🏼": [
+        "acord",
+        "encaixada",
+        "encaixada de mans",
+        "encaixada de mans: pell morena i pell bastant clara",
+        "mans",
+        "pell bastant clara",
+        "pell morena",
+        "salutació"
+    ],
+    "🫱🏽‍🫲🏾": [
+        "acord",
+        "encaixada",
+        "encaixada de mans",
+        "encaixada de mans: pell morena i pell fosca",
+        "mans",
+        "pell fosca",
+        "pell morena",
+        "salutació"
+    ],
+    "🫱🏽‍🫲🏿": [
+        "acord",
+        "encaixada",
+        "encaixada de mans",
+        "encaixada de mans: pell morena i pell molt fosca",
+        "mans",
+        "pell molt fosca",
+        "pell morena",
+        "salutació"
+    ],
+    "🫱🏾‍🫲🏻": [
+        "acord",
+        "encaixada",
+        "encaixada de mans",
+        "encaixada de mans: pell fosca i pell molt clara",
+        "mans",
+        "pell fosca",
+        "pell molt clara",
+        "salutació"
+    ],
+    "🫱🏾‍🫲🏼": [
+        "acord",
+        "encaixada",
+        "encaixada de mans",
+        "encaixada de mans: pell fosca i pell bastant clara",
+        "mans",
+        "pell bastant clara",
+        "pell fosca",
+        "salutació"
+    ],
+    "🫱🏾‍🫲🏽": [
+        "acord",
+        "encaixada",
+        "encaixada de mans",
+        "encaixada de mans: pell fosca i pell morena",
+        "mans",
+        "pell fosca",
+        "pell morena",
+        "salutació"
+    ],
+    "🫱🏾‍🫲🏿": [
+        "acord",
+        "encaixada",
+        "encaixada de mans",
+        "encaixada de mans: pell fosca i pell molt fosca",
+        "mans",
+        "pell fosca",
+        "pell molt fosca",
+        "salutació"
+    ],
+    "🫱🏿‍🫲🏻": [
+        "acord",
+        "encaixada",
+        "encaixada de mans",
+        "encaixada de mans: pell molt fosca i pell molt clara",
+        "mans",
+        "pell molt clara",
+        "pell molt fosca",
+        "salutació"
+    ],
+    "🫱🏿‍🫲🏼": [
+        "acord",
+        "encaixada",
+        "encaixada de mans",
+        "encaixada de mans: pell molt fosca i pell bastant clara",
+        "mans",
+        "pell bastant clara",
+        "pell molt fosca",
+        "salutació"
+    ],
+    "🫱🏿‍🫲🏽": [
+        "acord",
+        "encaixada",
+        "encaixada de mans",
+        "encaixada de mans: pell molt fosca i pell morena",
+        "mans",
+        "pell molt fosca",
+        "pell morena",
+        "salutació"
+    ],
+    "🫱🏿‍🫲🏾": [
+        "acord",
+        "encaixada",
+        "encaixada de mans",
+        "encaixada de mans: pell molt fosca i pell fosca",
+        "mans",
+        "pell fosca",
+        "pell molt fosca",
+        "salutació"
+    ],
+    "🫲": [
+        "a l’esquerra",
+        "esquerra",
+        "mà",
+        "mà cap a l’esquerra"
+    ],
+    "🫲🏻": [
+        "a l’esquerra",
+        "esquerra",
+        "mà",
+        "mà cap a l’esquerra",
+        "mà cap a l’esquerra: pell molt clara",
+        "pell molt clara"
+    ],
+    "🫲🏼": [
+        "a l’esquerra",
+        "esquerra",
+        "mà",
+        "mà cap a l’esquerra",
+        "mà cap a l’esquerra: pell bastant clara",
+        "pell bastant clara"
+    ],
+    "🫲🏽": [
+        "a l’esquerra",
+        "esquerra",
+        "mà",
+        "mà cap a l’esquerra",
+        "mà cap a l’esquerra: pell morena",
+        "pell morena"
+    ],
+    "🫲🏾": [
+        "a l’esquerra",
+        "esquerra",
+        "mà",
+        "mà cap a l’esquerra",
+        "mà cap a l’esquerra: pell fosca",
+        "pell fosca"
+    ],
+    "🫲🏿": [
+        "a l’esquerra",
+        "esquerra",
+        "mà",
+        "mà cap a l’esquerra",
+        "mà cap a l’esquerra: pell molt fosca",
+        "pell molt fosca"
+    ],
+    "🫳": [
+        "abaixa",
+        "descarta",
+        "mà amb el palmell cap avall",
+        "no",
+        "rebutja"
+    ],
+    "🫳🏻": [
+        "abaixa",
+        "descarta",
+        "mà amb el palmell cap avall",
+        "mà amb el palmell cap avall: pell molt clara",
+        "no",
+        "pell molt clara",
+        "rebutja"
+    ],
+    "🫳🏼": [
+        "abaixa",
+        "descarta",
+        "mà amb el palmell cap avall",
+        "mà amb el palmell cap avall: pell bastant clara",
+        "no",
+        "pell bastant clara",
+        "rebutja"
+    ],
+    "🫳🏽": [
+        "abaixa",
+        "descarta",
+        "mà amb el palmell cap avall",
+        "mà amb el palmell cap avall: pell morena",
+        "no",
+        "pell morena",
+        "rebutja"
+    ],
+    "🫳🏾": [
+        "abaixa",
+        "descarta",
+        "mà amb el palmell cap avall",
+        "mà amb el palmell cap avall: pell fosca",
+        "no",
+        "pell fosca",
+        "rebutja"
+    ],
+    "🫳🏿": [
+        "abaixa",
+        "descarta",
+        "mà amb el palmell cap avall",
+        "mà amb el palmell cap avall: pell molt fosca",
+        "no",
+        "pell molt fosca",
+        "rebutja"
+    ],
+    "🫴": [
+        "acosta’t",
+        "dona’m",
+        "mà amb el palmell cap amunt",
+        "ofereix",
+        "vine"
+    ],
+    "🫴🏻": [
+        "acosta’t",
+        "dona’m",
+        "mà amb el palmell cap amunt",
+        "mà amb el palmell cap amunt: pell molt clara",
+        "ofereix",
+        "pell molt clara",
+        "vine"
+    ],
+    "🫴🏼": [
+        "acosta’t",
+        "dona’m",
+        "mà amb el palmell cap amunt",
+        "mà amb el palmell cap amunt: pell bastant clara",
+        "ofereix",
+        "pell bastant clara",
+        "vine"
+    ],
+    "🫴🏽": [
+        "acosta’t",
+        "dona’m",
+        "mà amb el palmell cap amunt",
+        "mà amb el palmell cap amunt: pell morena",
+        "ofereix",
+        "pell morena",
+        "vine"
+    ],
+    "🫴🏾": [
+        "acosta’t",
+        "dona’m",
+        "mà amb el palmell cap amunt",
+        "mà amb el palmell cap amunt: pell fosca",
+        "ofereix",
+        "pell fosca",
+        "vine"
+    ],
+    "🫴🏿": [
+        "acosta’t",
+        "dona’m",
+        "mà amb el palmell cap amunt",
+        "mà amb el palmell cap amunt: pell molt fosca",
+        "ofereix",
+        "pell molt fosca",
+        "vine"
+    ],
     "👌": [
         "acceptació",
         "mà",
@@ -1400,6 +3192,58 @@
         "dits creuats: pell molt fosca",
         "pell molt fosca",
         "sort"
+    ],
+    "🫰": [
+        "car",
+        "diners",
+        "fregar els dits",
+        "mà amb el dit índex i el polze creuats",
+        "petar els dits"
+    ],
+    "🫰🏻": [
+        "car",
+        "diners",
+        "fregar els dits",
+        "mà amb el dit índex i el polze creuats",
+        "mà amb el dit índex i el polze creuats: pell molt clara",
+        "pell molt clara",
+        "petar els dits"
+    ],
+    "🫰🏼": [
+        "car",
+        "diners",
+        "fregar els dits",
+        "mà amb el dit índex i el polze creuats",
+        "mà amb el dit índex i el polze creuats: pell bastant clara",
+        "pell bastant clara",
+        "petar els dits"
+    ],
+    "🫰🏽": [
+        "car",
+        "diners",
+        "fregar els dits",
+        "mà amb el dit índex i el polze creuats",
+        "mà amb el dit índex i el polze creuats: pell morena",
+        "pell morena",
+        "petar els dits"
+    ],
+    "🫰🏾": [
+        "car",
+        "diners",
+        "fregar els dits",
+        "mà amb el dit índex i el polze creuats",
+        "mà amb el dit índex i el polze creuats: pell fosca",
+        "pell fosca",
+        "petar els dits"
+    ],
+    "🫰🏿": [
+        "car",
+        "diners",
+        "fregar els dits",
+        "mà amb el dit índex i el polze creuats",
+        "mà amb el dit índex i el polze creuats: pell molt fosca",
+        "pell molt fosca",
+        "petar els dits"
     ],
     "🤟": [
         "dits",
@@ -1785,6 +3629,52 @@
         "índex que apunta cap amunt",
         "índex que apunta cap amunt: pell molt fosca"
     ],
+    "🫵": [
+        "apuntar",
+        "assenyalar",
+        "tu",
+        "índex que assenyala l’espectador"
+    ],
+    "🫵🏻": [
+        "apuntar",
+        "assenyalar",
+        "pell molt clara",
+        "tu",
+        "índex que assenyala l’espectador",
+        "índex que assenyala l’espectador: pell molt clara"
+    ],
+    "🫵🏼": [
+        "apuntar",
+        "assenyalar",
+        "pell bastant clara",
+        "tu",
+        "índex que assenyala l’espectador",
+        "índex que assenyala l’espectador: pell bastant clara"
+    ],
+    "🫵🏽": [
+        "apuntar",
+        "assenyalar",
+        "pell morena",
+        "tu",
+        "índex que assenyala l’espectador",
+        "índex que assenyala l’espectador: pell morena"
+    ],
+    "🫵🏾": [
+        "apuntar",
+        "assenyalar",
+        "pell fosca",
+        "tu",
+        "índex que assenyala l’espectador",
+        "índex que assenyala l’espectador: pell fosca"
+    ],
+    "🫵🏿": [
+        "apuntar",
+        "assenyalar",
+        "pell molt fosca",
+        "tu",
+        "índex que assenyala l’espectador",
+        "índex que assenyala l’espectador: pell molt fosca"
+    ],
     "👍️": [
         "amunt",
         "polze",
@@ -2131,6 +4021,40 @@
         "mans enlaire: pell molt fosca",
         "pell molt fosca"
     ],
+    "🫶": [
+        "amor",
+        "mans que formen un cor"
+    ],
+    "🫶🏻": [
+        "amor",
+        "mans que formen un cor",
+        "mans que formen un cor: pell molt clara",
+        "pell molt clara"
+    ],
+    "🫶🏼": [
+        "amor",
+        "mans que formen un cor",
+        "mans que formen un cor: pell bastant clara",
+        "pell bastant clara"
+    ],
+    "🫶🏽": [
+        "amor",
+        "mans que formen un cor",
+        "mans que formen un cor: pell morena",
+        "pell morena"
+    ],
+    "🫶🏾": [
+        "amor",
+        "mans que formen un cor",
+        "mans que formen un cor: pell fosca",
+        "pell fosca"
+    ],
+    "🫶🏿": [
+        "amor",
+        "mans que formen un cor",
+        "mans que formen un cor: pell molt fosca",
+        "pell molt fosca"
+    ],
     "👐": [
         "cos",
         "mans obertes",
@@ -2216,6 +4140,51 @@
         "encaixada",
         "encaixada de mans",
         "mans",
+        "salutació"
+    ],
+    "🤝🏻": [
+        "acord",
+        "encaixada",
+        "encaixada de mans",
+        "encaixada de mans: pell molt clara",
+        "mans",
+        "pell molt clara",
+        "salutació"
+    ],
+    "🤝🏼": [
+        "acord",
+        "encaixada",
+        "encaixada de mans",
+        "encaixada de mans: pell bastant clara",
+        "mans",
+        "pell bastant clara",
+        "salutació"
+    ],
+    "🤝🏽": [
+        "acord",
+        "encaixada",
+        "encaixada de mans",
+        "encaixada de mans: pell morena",
+        "mans",
+        "pell morena",
+        "salutació"
+    ],
+    "🤝🏾": [
+        "acord",
+        "encaixada",
+        "encaixada de mans",
+        "encaixada de mans: pell fosca",
+        "mans",
+        "pell fosca",
+        "salutació"
+    ],
+    "🤝🏿": [
+        "acord",
+        "encaixada",
+        "encaixada de mans",
+        "encaixada de mans: pell molt fosca",
+        "mans",
+        "pell molt fosca",
         "salutació"
     ],
     "🙏": [
@@ -2671,7 +4640,6 @@
     "🫀": [
         "batec",
         "cardiologia",
-        "centre",
         "cor",
         "pols",
         "òrgan"
@@ -2710,6 +4678,14 @@
         "boca",
         "cos",
         "llavis"
+    ],
+    "🫦": [
+        "boca que es mossega el llavi",
+        "flirteig",
+        "incomoditat",
+        "nervis",
+        "por",
+        "preocupació"
     ],
     "👶": [
         "bebè",
@@ -2950,6 +4926,346 @@
         "persona: pell molt fosca i cabells rossos",
         "ros"
     ],
+    "🧑🏻‍❤‍💋‍🧑🏼": [
+        "parella",
+        "pell bastant clara",
+        "pell molt clara",
+        "persona",
+        "petó",
+        "petó: persona, persona, pell molt clara i pell bastant clara"
+    ],
+    "🧑🏻‍❤‍💋‍🧑🏽": [
+        "parella",
+        "pell molt clara",
+        "pell morena",
+        "persona",
+        "petó",
+        "petó: persona, persona, pell molt clara i pell morena"
+    ],
+    "🧑🏻‍❤‍💋‍🧑🏾": [
+        "parella",
+        "pell fosca",
+        "pell molt clara",
+        "persona",
+        "petó",
+        "petó: persona, persona, pell molt clara i pell fosca"
+    ],
+    "🧑🏻‍❤‍💋‍🧑🏿": [
+        "parella",
+        "pell molt clara",
+        "pell molt fosca",
+        "persona",
+        "petó",
+        "petó: persona, persona, pell molt clara i pell molt fosca"
+    ],
+    "🧑🏼‍❤‍💋‍🧑🏻": [
+        "parella",
+        "pell bastant clara",
+        "pell molt clara",
+        "persona",
+        "petó",
+        "petó: persona, persona, pell bastant clara i pell molt clara"
+    ],
+    "🧑🏼‍❤‍💋‍🧑🏽": [
+        "parella",
+        "pell bastant clara",
+        "pell morena",
+        "persona",
+        "petó",
+        "petó: persona, persona, pell bastant clara i pell morena"
+    ],
+    "🧑🏼‍❤‍💋‍🧑🏾": [
+        "parella",
+        "pell bastant clara",
+        "pell fosca",
+        "persona",
+        "petó",
+        "petó: persona, persona, pell bastant clara i pell fosca"
+    ],
+    "🧑🏼‍❤‍💋‍🧑🏿": [
+        "parella",
+        "pell bastant clara",
+        "pell molt fosca",
+        "persona",
+        "petó",
+        "petó: persona, persona, pell bastant clara i pell molt fosca"
+    ],
+    "🧑🏽‍❤‍💋‍🧑🏻": [
+        "parella",
+        "pell molt clara",
+        "pell morena",
+        "persona",
+        "petó",
+        "petó: persona, persona, pell morena i pell molt clara"
+    ],
+    "🧑🏽‍❤‍💋‍🧑🏼": [
+        "parella",
+        "pell bastant clara",
+        "pell morena",
+        "persona",
+        "petó",
+        "petó: persona, persona, pell morena i pell bastant clara"
+    ],
+    "🧑🏽‍❤‍💋‍🧑🏾": [
+        "parella",
+        "pell fosca",
+        "pell morena",
+        "persona",
+        "petó",
+        "petó: persona, persona, pell morena i pell fosca"
+    ],
+    "🧑🏽‍❤‍💋‍🧑🏿": [
+        "parella",
+        "pell molt fosca",
+        "pell morena",
+        "persona",
+        "petó",
+        "petó: persona, persona, pell morena i pell molt fosca"
+    ],
+    "🧑🏾‍❤‍💋‍🧑🏻": [
+        "parella",
+        "pell fosca",
+        "pell molt clara",
+        "persona",
+        "petó",
+        "petó: persona, persona, pell fosca i pell molt clara"
+    ],
+    "🧑🏾‍❤‍💋‍🧑🏼": [
+        "parella",
+        "pell bastant clara",
+        "pell fosca",
+        "persona",
+        "petó",
+        "petó: persona, persona, pell fosca i pell bastant clara"
+    ],
+    "🧑🏾‍❤‍💋‍🧑🏽": [
+        "parella",
+        "pell fosca",
+        "pell morena",
+        "persona",
+        "petó",
+        "petó: persona, persona, pell fosca i pell morena"
+    ],
+    "🧑🏾‍❤‍💋‍🧑🏿": [
+        "parella",
+        "pell fosca",
+        "pell molt fosca",
+        "persona",
+        "petó",
+        "petó: persona, persona, pell fosca i pell molt fosca"
+    ],
+    "🧑🏿‍❤‍💋‍🧑🏻": [
+        "parella",
+        "pell molt clara",
+        "pell molt fosca",
+        "persona",
+        "petó",
+        "petó: persona, persona, pell molt fosca i pell molt clara"
+    ],
+    "🧑🏿‍❤‍💋‍🧑🏼": [
+        "parella",
+        "pell bastant clara",
+        "pell molt fosca",
+        "persona",
+        "petó",
+        "petó: persona, persona, pell molt fosca i pell bastant clara"
+    ],
+    "🧑🏿‍❤‍💋‍🧑🏽": [
+        "parella",
+        "pell molt fosca",
+        "pell morena",
+        "persona",
+        "petó",
+        "petó: persona, persona, pell molt fosca i pell morena"
+    ],
+    "🧑🏿‍❤‍💋‍🧑🏾": [
+        "parella",
+        "pell fosca",
+        "pell molt fosca",
+        "persona",
+        "petó",
+        "petó: persona, persona, pell molt fosca i pell fosca"
+    ],
+    "🧑🏻‍❤‍🧑🏼": [
+        "cor",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: persona, persona, pell molt clara i pell bastant clara",
+        "pell bastant clara",
+        "pell molt clara",
+        "persona"
+    ],
+    "🧑🏻‍❤‍🧑🏽": [
+        "cor",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: persona, persona, pell molt clara i pell morena",
+        "pell molt clara",
+        "pell morena",
+        "persona"
+    ],
+    "🧑🏻‍❤‍🧑🏾": [
+        "cor",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: persona, persona, pell molt clara i pell fosca",
+        "pell fosca",
+        "pell molt clara",
+        "persona"
+    ],
+    "🧑🏻‍❤‍🧑🏿": [
+        "cor",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: persona, persona, pell molt clara i pell molt fosca",
+        "pell molt clara",
+        "pell molt fosca",
+        "persona"
+    ],
+    "🧑🏼‍❤‍🧑🏻": [
+        "cor",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: persona, persona, pell bastant clara i pell molt clara",
+        "pell bastant clara",
+        "pell molt clara",
+        "persona"
+    ],
+    "🧑🏼‍❤‍🧑🏽": [
+        "cor",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: persona, persona, pell bastant clara i pell morena",
+        "pell bastant clara",
+        "pell morena",
+        "persona"
+    ],
+    "🧑🏼‍❤‍🧑🏾": [
+        "cor",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: persona, persona, pell bastant clara i pell fosca",
+        "pell bastant clara",
+        "pell fosca",
+        "persona"
+    ],
+    "🧑🏼‍❤‍🧑🏿": [
+        "cor",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: persona, persona, pell bastant clara i pell molt fosca",
+        "pell bastant clara",
+        "pell molt fosca",
+        "persona"
+    ],
+    "🧑🏽‍❤‍🧑🏻": [
+        "cor",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: persona, persona, pell morena i pell molt clara",
+        "pell molt clara",
+        "pell morena",
+        "persona"
+    ],
+    "🧑🏽‍❤‍🧑🏼": [
+        "cor",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: persona, persona, pell morena i pell bastant clara",
+        "pell bastant clara",
+        "pell morena",
+        "persona"
+    ],
+    "🧑🏽‍❤‍🧑🏾": [
+        "cor",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: persona, persona, pell morena i pell fosca",
+        "pell fosca",
+        "pell morena",
+        "persona"
+    ],
+    "🧑🏽‍❤‍🧑🏿": [
+        "cor",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: persona, persona, pell morena i pell molt fosca",
+        "pell molt fosca",
+        "pell morena",
+        "persona"
+    ],
+    "🧑🏾‍❤‍🧑🏻": [
+        "cor",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: persona, persona, pell fosca i pell molt clara",
+        "pell fosca",
+        "pell molt clara",
+        "persona"
+    ],
+    "🧑🏾‍❤‍🧑🏼": [
+        "cor",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: persona, persona, pell fosca i pell bastant clara",
+        "pell bastant clara",
+        "pell fosca",
+        "persona"
+    ],
+    "🧑🏾‍❤‍🧑🏽": [
+        "cor",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: persona, persona, pell fosca i pell morena",
+        "pell fosca",
+        "pell morena",
+        "persona"
+    ],
+    "🧑🏾‍❤‍🧑🏿": [
+        "cor",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: persona, persona, pell fosca i pell molt fosca",
+        "pell fosca",
+        "pell molt fosca",
+        "persona"
+    ],
+    "🧑🏿‍❤‍🧑🏻": [
+        "cor",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: persona, persona, pell molt fosca i pell molt clara",
+        "pell molt clara",
+        "pell molt fosca",
+        "persona"
+    ],
+    "🧑🏿‍❤‍🧑🏼": [
+        "cor",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: persona, persona, pell molt fosca i pell bastant clara",
+        "pell bastant clara",
+        "pell molt fosca",
+        "persona"
+    ],
+    "🧑🏿‍❤‍🧑🏽": [
+        "cor",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: persona, persona, pell molt fosca i pell morena",
+        "pell molt fosca",
+        "pell morena",
+        "persona"
+    ],
+    "🧑🏿‍❤‍🧑🏾": [
+        "cor",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: persona, persona, pell molt fosca i pell fosca",
+        "pell fosca",
+        "pell molt fosca",
+        "persona"
+    ],
     "🧑‍🦰": [
         "adult",
         "cabells vermells",
@@ -3150,49 +5466,83 @@
     ],
     "🧔": [
         "barba",
-        "home",
-        "home: barba",
-        "persona"
+        "persona",
+        "persona: barba"
     ],
     "🧔🏻": [
+        "barba",
+        "pell molt clara",
+        "persona",
+        "persona: barba",
+        "persona: pell molt clara i barba"
+    ],
+    "🧔🏼": [
+        "barba",
+        "pell bastant clara",
+        "persona",
+        "persona: barba",
+        "persona: pell bastant clara i barba"
+    ],
+    "🧔🏽": [
+        "barba",
+        "pell morena",
+        "persona",
+        "persona: barba",
+        "persona: pell morena i barba"
+    ],
+    "🧔🏾": [
+        "barba",
+        "pell fosca",
+        "persona",
+        "persona: barba",
+        "persona: pell fosca i barba"
+    ],
+    "🧔🏿": [
+        "barba",
+        "pell molt fosca",
+        "persona",
+        "persona: barba",
+        "persona: pell molt fosca i barba"
+    ],
+    "🧔‍♂": [
+        "barba",
+        "home",
+        "home: barba"
+    ],
+    "🧔🏻‍♂": [
         "barba",
         "home",
         "home: barba",
         "home: pell molt clara i barba",
-        "pell molt clara",
-        "persona"
+        "pell molt clara"
     ],
-    "🧔🏼": [
+    "🧔🏼‍♂": [
         "barba",
         "home",
         "home: barba",
         "home: pell bastant clara i barba",
-        "pell bastant clara",
-        "persona"
+        "pell bastant clara"
     ],
-    "🧔🏽": [
+    "🧔🏽‍♂": [
         "barba",
         "home",
         "home: barba",
         "home: pell morena i barba",
-        "pell morena",
-        "persona"
+        "pell morena"
     ],
-    "🧔🏾": [
+    "🧔🏾‍♂": [
         "barba",
         "home",
         "home: barba",
         "home: pell fosca i barba",
-        "pell fosca",
-        "persona"
+        "pell fosca"
     ],
-    "🧔🏿": [
+    "🧔🏿‍♂": [
         "barba",
         "home",
         "home: barba",
         "home: pell molt fosca i barba",
-        "pell molt fosca",
-        "persona"
+        "pell molt fosca"
     ],
     "👱‍♂": [
         "cabell",
@@ -3239,6 +5589,421 @@
         "home: pell molt fosca i cabell ros",
         "pell molt fosca",
         "ros"
+    ],
+    "👨🏻‍❤‍💋‍👨🏻": [
+        "home",
+        "parella",
+        "pell molt clara",
+        "petó",
+        "petó: home, home i pell molt clara"
+    ],
+    "👨🏻‍❤‍💋‍👨🏼": [
+        "home",
+        "parella",
+        "pell bastant clara",
+        "pell molt clara",
+        "petó",
+        "petó: home, home, pell molt clara i pell bastant clara"
+    ],
+    "👨🏻‍❤‍💋‍👨🏽": [
+        "home",
+        "parella",
+        "pell molt clara",
+        "pell morena",
+        "petó",
+        "petó: home, home, pell molt clara i pell morena"
+    ],
+    "👨🏻‍❤‍💋‍👨🏾": [
+        "home",
+        "parella",
+        "pell fosca",
+        "pell molt clara",
+        "petó",
+        "petó: home, home, pell molt clara i pell fosca"
+    ],
+    "👨🏻‍❤‍💋‍👨🏿": [
+        "home",
+        "parella",
+        "pell molt clara",
+        "pell molt fosca",
+        "petó",
+        "petó: home, home, pell molt clara i pell molt fosca"
+    ],
+    "👨🏼‍❤‍💋‍👨🏻": [
+        "home",
+        "parella",
+        "pell bastant clara",
+        "pell molt clara",
+        "petó",
+        "petó: home, home, pell bastant clara i pell molt clara"
+    ],
+    "👨🏼‍❤‍💋‍👨🏼": [
+        "home",
+        "parella",
+        "pell bastant clara",
+        "petó",
+        "petó: home, home i pell bastant clara"
+    ],
+    "👨🏼‍❤‍💋‍👨🏽": [
+        "home",
+        "parella",
+        "pell bastant clara",
+        "pell morena",
+        "petó",
+        "petó: home, home, pell bastant clara i pell morena"
+    ],
+    "👨🏼‍❤‍💋‍👨🏾": [
+        "home",
+        "parella",
+        "pell bastant clara",
+        "pell fosca",
+        "petó",
+        "petó: home, home, pell bastant clara i pell fosca"
+    ],
+    "👨🏼‍❤‍💋‍👨🏿": [
+        "home",
+        "parella",
+        "pell bastant clara",
+        "pell molt fosca",
+        "petó",
+        "petó: home, home, pell bastant clara i pell molt fosca"
+    ],
+    "👨🏽‍❤‍💋‍👨🏻": [
+        "home",
+        "parella",
+        "pell molt clara",
+        "pell morena",
+        "petó",
+        "petó: home, home, pell morena i pell molt clara"
+    ],
+    "👨🏽‍❤‍💋‍👨🏼": [
+        "home",
+        "parella",
+        "pell bastant clara",
+        "pell morena",
+        "petó",
+        "petó: home, home, pell morena i pell bastant clara"
+    ],
+    "👨🏽‍❤‍💋‍👨🏽": [
+        "home",
+        "parella",
+        "pell morena",
+        "petó",
+        "petó: home, home i pell morena"
+    ],
+    "👨🏽‍❤‍💋‍👨🏾": [
+        "home",
+        "parella",
+        "pell fosca",
+        "pell morena",
+        "petó",
+        "petó: home, home, pell morena i pell fosca"
+    ],
+    "👨🏽‍❤‍💋‍👨🏿": [
+        "home",
+        "parella",
+        "pell molt fosca",
+        "pell morena",
+        "petó",
+        "petó: home, home, pell morena i pell molt fosca"
+    ],
+    "👨🏾‍❤‍💋‍👨🏻": [
+        "home",
+        "parella",
+        "pell fosca",
+        "pell molt clara",
+        "petó",
+        "petó: home, home, pell fosca i pell molt clara"
+    ],
+    "👨🏾‍❤‍💋‍👨🏼": [
+        "home",
+        "parella",
+        "pell bastant clara",
+        "pell fosca",
+        "petó",
+        "petó: home, home, pell fosca i pell bastant clara"
+    ],
+    "👨🏾‍❤‍💋‍👨🏽": [
+        "home",
+        "parella",
+        "pell fosca",
+        "pell morena",
+        "petó",
+        "petó: home, home, pell fosca i pell morena"
+    ],
+    "👨🏾‍❤‍💋‍👨🏾": [
+        "home",
+        "parella",
+        "pell fosca",
+        "petó",
+        "petó: home, home i pell fosca"
+    ],
+    "👨🏾‍❤‍💋‍👨🏿": [
+        "home",
+        "parella",
+        "pell fosca",
+        "pell molt fosca",
+        "petó",
+        "petó: home, home, pell fosca i pell molt fosca"
+    ],
+    "👨🏿‍❤‍💋‍👨🏻": [
+        "home",
+        "parella",
+        "pell molt clara",
+        "pell molt fosca",
+        "petó",
+        "petó: home, home, pell molt fosca i pell molt clara"
+    ],
+    "👨🏿‍❤‍💋‍👨🏼": [
+        "home",
+        "parella",
+        "pell bastant clara",
+        "pell molt fosca",
+        "petó",
+        "petó: home, home, pell molt fosca i pell bastant clara"
+    ],
+    "👨🏿‍❤‍💋‍👨🏽": [
+        "home",
+        "parella",
+        "pell molt fosca",
+        "pell morena",
+        "petó",
+        "petó: home, home, pell molt fosca i pell morena"
+    ],
+    "👨🏿‍❤‍💋‍👨🏾": [
+        "home",
+        "parella",
+        "pell fosca",
+        "pell molt fosca",
+        "petó",
+        "petó: home, home, pell molt fosca i pell fosca"
+    ],
+    "👨🏿‍❤‍💋‍👨🏿": [
+        "home",
+        "parella",
+        "pell molt fosca",
+        "petó",
+        "petó: home, home i pell molt fosca"
+    ],
+    "👨🏻‍❤‍👨🏻": [
+        "cor",
+        "home",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: home, home i pell molt clara",
+        "pell molt clara"
+    ],
+    "👨🏻‍❤‍👨🏼": [
+        "cor",
+        "home",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: home, home, pell molt clara i pell bastant clara",
+        "pell bastant clara",
+        "pell molt clara"
+    ],
+    "👨🏻‍❤‍👨🏽": [
+        "cor",
+        "home",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: home, home, pell molt clara i pell morena",
+        "pell molt clara",
+        "pell morena"
+    ],
+    "👨🏻‍❤‍👨🏾": [
+        "cor",
+        "home",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: home, home, pell molt clara i pell fosca",
+        "pell fosca",
+        "pell molt clara"
+    ],
+    "👨🏻‍❤‍👨🏿": [
+        "cor",
+        "home",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: home, home, pell molt clara i pell molt fosca",
+        "pell molt clara",
+        "pell molt fosca"
+    ],
+    "👨🏼‍❤‍👨🏻": [
+        "cor",
+        "home",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: home, home, pell bastant clara i pell molt clara",
+        "pell bastant clara",
+        "pell molt clara"
+    ],
+    "👨🏼‍❤‍👨🏼": [
+        "cor",
+        "home",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: home, home i pell bastant clara",
+        "pell bastant clara"
+    ],
+    "👨🏼‍❤‍👨🏽": [
+        "cor",
+        "home",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: home, home, pell bastant clara i pell morena",
+        "pell bastant clara",
+        "pell morena"
+    ],
+    "👨🏼‍❤‍👨🏾": [
+        "cor",
+        "home",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: home, home, pell bastant clara i pell fosca",
+        "pell bastant clara",
+        "pell fosca"
+    ],
+    "👨🏼‍❤‍👨🏿": [
+        "cor",
+        "home",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: home, home, pell bastant clara i pell molt fosca",
+        "pell bastant clara",
+        "pell molt fosca"
+    ],
+    "👨🏽‍❤‍👨🏻": [
+        "cor",
+        "home",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: home, home, pell morena i pell molt clara",
+        "pell molt clara",
+        "pell morena"
+    ],
+    "👨🏽‍❤‍👨🏼": [
+        "cor",
+        "home",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: home, home, pell morena i pell bastant clara",
+        "pell bastant clara",
+        "pell morena"
+    ],
+    "👨🏽‍❤‍👨🏽": [
+        "cor",
+        "home",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: home, home i pell morena",
+        "pell morena"
+    ],
+    "👨🏽‍❤‍👨🏾": [
+        "cor",
+        "home",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: home, home, pell morena i pell fosca",
+        "pell fosca",
+        "pell morena"
+    ],
+    "👨🏽‍❤‍👨🏿": [
+        "cor",
+        "home",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: home, home, pell morena i pell molt fosca",
+        "pell molt fosca",
+        "pell morena"
+    ],
+    "👨🏾‍❤‍👨🏻": [
+        "cor",
+        "home",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: home, home, pell fosca i pell molt clara",
+        "pell fosca",
+        "pell molt clara"
+    ],
+    "👨🏾‍❤‍👨🏼": [
+        "cor",
+        "home",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: home, home, pell fosca i pell bastant clara",
+        "pell bastant clara",
+        "pell fosca"
+    ],
+    "👨🏾‍❤‍👨🏽": [
+        "cor",
+        "home",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: home, home, pell fosca i pell morena",
+        "pell fosca",
+        "pell morena"
+    ],
+    "👨🏾‍❤‍👨🏾": [
+        "cor",
+        "home",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: home, home i pell fosca",
+        "pell fosca"
+    ],
+    "👨🏾‍❤‍👨🏿": [
+        "cor",
+        "home",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: home, home, pell fosca i pell molt fosca",
+        "pell fosca",
+        "pell molt fosca"
+    ],
+    "👨🏿‍❤‍👨🏻": [
+        "cor",
+        "home",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: home, home, pell molt fosca i pell molt clara",
+        "pell molt clara",
+        "pell molt fosca"
+    ],
+    "👨🏿‍❤‍👨🏼": [
+        "cor",
+        "home",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: home, home, pell molt fosca i pell bastant clara",
+        "pell bastant clara",
+        "pell molt fosca"
+    ],
+    "👨🏿‍❤‍👨🏽": [
+        "cor",
+        "home",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: home, home, pell molt fosca i pell morena",
+        "pell molt fosca",
+        "pell morena"
+    ],
+    "👨🏿‍❤‍👨🏾": [
+        "cor",
+        "home",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: home, home, pell molt fosca i pell fosca",
+        "pell fosca",
+        "pell molt fosca"
+    ],
+    "👨🏿‍❤‍👨🏿": [
+        "cor",
+        "home",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: home, home i pell molt fosca",
+        "pell molt fosca"
     ],
     "👨‍🦰": [
         "cabells vermells",
@@ -3438,6 +6203,46 @@
         "femení",
         "pell molt fosca"
     ],
+    "🧔‍♀": [
+        "barba",
+        "dona",
+        "dona: barba"
+    ],
+    "🧔🏻‍♀": [
+        "barba",
+        "dona",
+        "dona: barba",
+        "dona: pell molt clara i barba",
+        "pell molt clara"
+    ],
+    "🧔🏼‍♀": [
+        "barba",
+        "dona",
+        "dona: barba",
+        "dona: pell bastant clara i barba",
+        "pell bastant clara"
+    ],
+    "🧔🏽‍♀": [
+        "barba",
+        "dona",
+        "dona: barba",
+        "dona: pell morena i barba",
+        "pell morena"
+    ],
+    "🧔🏾‍♀": [
+        "barba",
+        "dona",
+        "dona: barba",
+        "dona: pell fosca i barba",
+        "pell fosca"
+    ],
+    "🧔🏿‍♀": [
+        "barba",
+        "dona",
+        "dona: barba",
+        "dona: pell molt fosca i barba",
+        "pell molt fosca"
+    ],
     "👱‍♀": [
         "cabell",
         "dona",
@@ -3488,6 +6293,886 @@
         "dona: pell molt fosca i cabell ros",
         "pell molt fosca",
         "rossa"
+    ],
+    "👩🏻‍❤‍💋‍👨🏻": [
+        "dona",
+        "home",
+        "parella",
+        "pell molt clara",
+        "petó",
+        "petó: dona, home i pell molt clara"
+    ],
+    "👩🏻‍❤‍💋‍👨🏼": [
+        "dona",
+        "home",
+        "parella",
+        "pell bastant clara",
+        "pell molt clara",
+        "petó",
+        "petó: dona, home, pell molt clara i pell bastant clara"
+    ],
+    "👩🏻‍❤‍💋‍👨🏽": [
+        "dona",
+        "home",
+        "parella",
+        "pell molt clara",
+        "pell morena",
+        "petó",
+        "petó: dona, home, pell molt clara i pell morena"
+    ],
+    "👩🏻‍❤‍💋‍👨🏾": [
+        "dona",
+        "home",
+        "parella",
+        "pell fosca",
+        "pell molt clara",
+        "petó",
+        "petó: dona, home, pell molt clara i pell fosca"
+    ],
+    "👩🏻‍❤‍💋‍👨🏿": [
+        "dona",
+        "home",
+        "parella",
+        "pell molt clara",
+        "pell molt fosca",
+        "petó",
+        "petó: dona, home, pell molt clara i pell molt fosca"
+    ],
+    "👩🏼‍❤‍💋‍👨🏻": [
+        "dona",
+        "home",
+        "parella",
+        "pell bastant clara",
+        "pell molt clara",
+        "petó",
+        "petó: dona, home, pell bastant clara i pell molt clara"
+    ],
+    "👩🏼‍❤‍💋‍👨🏼": [
+        "dona",
+        "home",
+        "parella",
+        "pell bastant clara",
+        "petó",
+        "petó: dona, home i pell bastant clara"
+    ],
+    "👩🏼‍❤‍💋‍👨🏽": [
+        "dona",
+        "home",
+        "parella",
+        "pell bastant clara",
+        "pell morena",
+        "petó",
+        "petó: dona, home, pell bastant clara i pell morena"
+    ],
+    "👩🏼‍❤‍💋‍👨🏾": [
+        "dona",
+        "home",
+        "parella",
+        "pell bastant clara",
+        "pell fosca",
+        "petó",
+        "petó: dona, home, pell bastant clara i pell fosca"
+    ],
+    "👩🏼‍❤‍💋‍👨🏿": [
+        "dona",
+        "home",
+        "parella",
+        "pell bastant clara",
+        "pell molt fosca",
+        "petó",
+        "petó: dona, home, pell bastant clara i pell molt fosca"
+    ],
+    "👩🏽‍❤‍💋‍👨🏻": [
+        "dona",
+        "home",
+        "parella",
+        "pell molt clara",
+        "pell morena",
+        "petó",
+        "petó: dona, home, pell morena i pell molt clara"
+    ],
+    "👩🏽‍❤‍💋‍👨🏼": [
+        "dona",
+        "home",
+        "parella",
+        "pell bastant clara",
+        "pell morena",
+        "petó",
+        "petó: dona, home, pell morena i pell bastant clara"
+    ],
+    "👩🏽‍❤‍💋‍👨🏽": [
+        "dona",
+        "home",
+        "parella",
+        "pell morena",
+        "petó",
+        "petó: dona, home i pell morena"
+    ],
+    "👩🏽‍❤‍💋‍👨🏾": [
+        "dona",
+        "home",
+        "parella",
+        "pell fosca",
+        "pell morena",
+        "petó",
+        "petó: dona, home, pell morena i pell fosca"
+    ],
+    "👩🏽‍❤‍💋‍👨🏿": [
+        "dona",
+        "home",
+        "parella",
+        "pell molt fosca",
+        "pell morena",
+        "petó",
+        "petó: dona, home, pell morena i pell molt fosca"
+    ],
+    "👩🏾‍❤‍💋‍👨🏻": [
+        "dona",
+        "home",
+        "parella",
+        "pell fosca",
+        "pell molt clara",
+        "petó",
+        "petó: dona, home, pell fosca i pell molt clara"
+    ],
+    "👩🏾‍❤‍💋‍👨🏼": [
+        "dona",
+        "home",
+        "parella",
+        "pell bastant clara",
+        "pell fosca",
+        "petó",
+        "petó: dona, home, pell fosca i pell bastant clara"
+    ],
+    "👩🏾‍❤‍💋‍👨🏽": [
+        "dona",
+        "home",
+        "parella",
+        "pell fosca",
+        "pell morena",
+        "petó",
+        "petó: dona, home, pell fosca i pell morena"
+    ],
+    "👩🏾‍❤‍💋‍👨🏾": [
+        "dona",
+        "home",
+        "parella",
+        "pell fosca",
+        "petó",
+        "petó: dona, home i pell fosca"
+    ],
+    "👩🏾‍❤‍💋‍👨🏿": [
+        "dona",
+        "home",
+        "parella",
+        "pell fosca",
+        "pell molt fosca",
+        "petó",
+        "petó: dona, home, pell fosca i pell molt fosca"
+    ],
+    "👩🏿‍❤‍💋‍👨🏻": [
+        "dona",
+        "home",
+        "parella",
+        "pell molt clara",
+        "pell molt fosca",
+        "petó",
+        "petó: dona, home, pell molt fosca i pell molt clara"
+    ],
+    "👩🏿‍❤‍💋‍👨🏼": [
+        "dona",
+        "home",
+        "parella",
+        "pell bastant clara",
+        "pell molt fosca",
+        "petó",
+        "petó: dona, home, pell molt fosca i pell bastant clara"
+    ],
+    "👩🏿‍❤‍💋‍👨🏽": [
+        "dona",
+        "home",
+        "parella",
+        "pell molt fosca",
+        "pell morena",
+        "petó",
+        "petó: dona, home, pell molt fosca i pell morena"
+    ],
+    "👩🏿‍❤‍💋‍👨🏾": [
+        "dona",
+        "home",
+        "parella",
+        "pell fosca",
+        "pell molt fosca",
+        "petó",
+        "petó: dona, home, pell molt fosca i pell fosca"
+    ],
+    "👩🏿‍❤‍💋‍👨🏿": [
+        "dona",
+        "home",
+        "parella",
+        "pell molt fosca",
+        "petó",
+        "petó: dona, home i pell molt fosca"
+    ],
+    "👩🏻‍❤‍💋‍👩🏻": [
+        "dona",
+        "parella",
+        "pell molt clara",
+        "petó",
+        "petó: dona, dona i pell molt clara"
+    ],
+    "👩🏻‍❤‍💋‍👩🏼": [
+        "dona",
+        "parella",
+        "pell bastant clara",
+        "pell molt clara",
+        "petó",
+        "petó: dona, dona, pell molt clara i pell bastant clara"
+    ],
+    "👩🏻‍❤‍💋‍👩🏽": [
+        "dona",
+        "parella",
+        "pell molt clara",
+        "pell morena",
+        "petó",
+        "petó: dona, dona, pell molt clara i pell morena"
+    ],
+    "👩🏻‍❤‍💋‍👩🏾": [
+        "dona",
+        "parella",
+        "pell fosca",
+        "pell molt clara",
+        "petó",
+        "petó: dona, dona, pell molt clara i pell fosca"
+    ],
+    "👩🏻‍❤‍💋‍👩🏿": [
+        "dona",
+        "parella",
+        "pell molt clara",
+        "pell molt fosca",
+        "petó",
+        "petó: dona, dona, pell molt clara i pell molt fosca"
+    ],
+    "👩🏼‍❤‍💋‍👩🏻": [
+        "dona",
+        "parella",
+        "pell bastant clara",
+        "pell molt clara",
+        "petó",
+        "petó: dona, dona, pell bastant clara i pell molt clara"
+    ],
+    "👩🏼‍❤‍💋‍👩🏼": [
+        "dona",
+        "parella",
+        "pell bastant clara",
+        "petó",
+        "petó: dona, dona i pell bastant clara"
+    ],
+    "👩🏼‍❤‍💋‍👩🏽": [
+        "dona",
+        "parella",
+        "pell bastant clara",
+        "pell morena",
+        "petó",
+        "petó: dona, dona, pell bastant clara i pell morena"
+    ],
+    "👩🏼‍❤‍💋‍👩🏾": [
+        "dona",
+        "parella",
+        "pell bastant clara",
+        "pell fosca",
+        "petó",
+        "petó: dona, dona, pell bastant clara i pell fosca"
+    ],
+    "👩🏼‍❤‍💋‍👩🏿": [
+        "dona",
+        "parella",
+        "pell bastant clara",
+        "pell molt fosca",
+        "petó",
+        "petó: dona, dona, pell bastant clara i pell molt fosca"
+    ],
+    "👩🏽‍❤‍💋‍👩🏻": [
+        "dona",
+        "parella",
+        "pell molt clara",
+        "pell morena",
+        "petó",
+        "petó: dona, dona, pell morena i pell molt clara"
+    ],
+    "👩🏽‍❤‍💋‍👩🏼": [
+        "dona",
+        "parella",
+        "pell bastant clara",
+        "pell morena",
+        "petó",
+        "petó: dona, dona, pell morena i pell bastant clara"
+    ],
+    "👩🏽‍❤‍💋‍👩🏽": [
+        "dona",
+        "parella",
+        "pell morena",
+        "petó",
+        "petó: dona, dona i pell morena"
+    ],
+    "👩🏽‍❤‍💋‍👩🏾": [
+        "dona",
+        "parella",
+        "pell fosca",
+        "pell morena",
+        "petó",
+        "petó: dona, dona, pell morena i pell fosca"
+    ],
+    "👩🏽‍❤‍💋‍👩🏿": [
+        "dona",
+        "parella",
+        "pell molt fosca",
+        "pell morena",
+        "petó",
+        "petó: dona, dona, pell morena i pell molt fosca"
+    ],
+    "👩🏾‍❤‍💋‍👩🏻": [
+        "dona",
+        "parella",
+        "pell fosca",
+        "pell molt clara",
+        "petó",
+        "petó: dona, dona, pell fosca i pell molt clara"
+    ],
+    "👩🏾‍❤‍💋‍👩🏼": [
+        "dona",
+        "parella",
+        "pell bastant clara",
+        "pell fosca",
+        "petó",
+        "petó: dona, dona, pell fosca i pell bastant clara"
+    ],
+    "👩🏾‍❤‍💋‍👩🏽": [
+        "dona",
+        "parella",
+        "pell fosca",
+        "pell morena",
+        "petó",
+        "petó: dona, dona, pell fosca i pell morena"
+    ],
+    "👩🏾‍❤‍💋‍👩🏾": [
+        "dona",
+        "parella",
+        "pell fosca",
+        "petó",
+        "petó: dona, dona i pell fosca"
+    ],
+    "👩🏾‍❤‍💋‍👩🏿": [
+        "dona",
+        "parella",
+        "pell fosca",
+        "pell molt fosca",
+        "petó",
+        "petó: dona, dona, pell fosca i pell molt fosca"
+    ],
+    "👩🏿‍❤‍💋‍👩🏻": [
+        "dona",
+        "parella",
+        "pell molt clara",
+        "pell molt fosca",
+        "petó",
+        "petó: dona, dona, pell molt fosca i pell molt clara"
+    ],
+    "👩🏿‍❤‍💋‍👩🏼": [
+        "dona",
+        "parella",
+        "pell bastant clara",
+        "pell molt fosca",
+        "petó",
+        "petó: dona, dona, pell molt fosca i pell bastant clara"
+    ],
+    "👩🏿‍❤‍💋‍👩🏽": [
+        "dona",
+        "parella",
+        "pell molt fosca",
+        "pell morena",
+        "petó",
+        "petó: dona, dona, pell molt fosca i pell morena"
+    ],
+    "👩🏿‍❤‍💋‍👩🏾": [
+        "dona",
+        "parella",
+        "pell fosca",
+        "pell molt fosca",
+        "petó",
+        "petó: dona, dona, pell molt fosca i pell fosca"
+    ],
+    "👩🏿‍❤‍💋‍👩🏿": [
+        "dona",
+        "parella",
+        "pell molt fosca",
+        "petó",
+        "petó: dona, dona i pell molt fosca"
+    ],
+    "👩🏻‍❤‍👨🏻": [
+        "cor",
+        "dona",
+        "home",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: dona, home i pell molt clara",
+        "pell molt clara"
+    ],
+    "👩🏻‍❤‍👨🏼": [
+        "cor",
+        "dona",
+        "home",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: dona, home, pell molt clara i pell bastant clara",
+        "pell bastant clara",
+        "pell molt clara"
+    ],
+    "👩🏻‍❤‍👨🏽": [
+        "cor",
+        "dona",
+        "home",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: dona, home, pell molt clara i pell morena",
+        "pell molt clara",
+        "pell morena"
+    ],
+    "👩🏻‍❤‍👨🏾": [
+        "cor",
+        "dona",
+        "home",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: dona, home, pell molt clara i pell fosca",
+        "pell fosca",
+        "pell molt clara"
+    ],
+    "👩🏻‍❤‍👨🏿": [
+        "cor",
+        "dona",
+        "home",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: dona, home, pell molt clara i pell molt fosca",
+        "pell molt clara",
+        "pell molt fosca"
+    ],
+    "👩🏼‍❤‍👨🏻": [
+        "cor",
+        "dona",
+        "home",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: dona, home, pell bastant clara i pell molt clara",
+        "pell bastant clara",
+        "pell molt clara"
+    ],
+    "👩🏼‍❤‍👨🏼": [
+        "cor",
+        "dona",
+        "home",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: dona, home i pell bastant clara",
+        "pell bastant clara"
+    ],
+    "👩🏼‍❤‍👨🏽": [
+        "cor",
+        "dona",
+        "home",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: dona, home, pell bastant clara i pell morena",
+        "pell bastant clara",
+        "pell morena"
+    ],
+    "👩🏼‍❤‍👨🏾": [
+        "cor",
+        "dona",
+        "home",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: dona, home, pell bastant clara i pell fosca",
+        "pell bastant clara",
+        "pell fosca"
+    ],
+    "👩🏼‍❤‍👨🏿": [
+        "cor",
+        "dona",
+        "home",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: dona, home, pell bastant clara i pell molt fosca",
+        "pell bastant clara",
+        "pell molt fosca"
+    ],
+    "👩🏽‍❤‍👨🏻": [
+        "cor",
+        "dona",
+        "home",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: dona, home, pell morena i pell molt clara",
+        "pell molt clara",
+        "pell morena"
+    ],
+    "👩🏽‍❤‍👨🏼": [
+        "cor",
+        "dona",
+        "home",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: dona, home, pell morena i pell bastant clara",
+        "pell bastant clara",
+        "pell morena"
+    ],
+    "👩🏽‍❤‍👨🏽": [
+        "cor",
+        "dona",
+        "home",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: dona, home i pell morena",
+        "pell morena"
+    ],
+    "👩🏽‍❤‍👨🏾": [
+        "cor",
+        "dona",
+        "home",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: dona, home, pell morena i pell fosca",
+        "pell fosca",
+        "pell morena"
+    ],
+    "👩🏽‍❤‍👨🏿": [
+        "cor",
+        "dona",
+        "home",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: dona, home, pell morena i pell molt fosca",
+        "pell molt fosca",
+        "pell morena"
+    ],
+    "👩🏾‍❤‍👨🏻": [
+        "cor",
+        "dona",
+        "home",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: dona, home, pell fosca i pell molt clara",
+        "pell fosca",
+        "pell molt clara"
+    ],
+    "👩🏾‍❤‍👨🏼": [
+        "cor",
+        "dona",
+        "home",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: dona, home, pell fosca i pell bastant clara",
+        "pell bastant clara",
+        "pell fosca"
+    ],
+    "👩🏾‍❤‍👨🏽": [
+        "cor",
+        "dona",
+        "home",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: dona, home, pell fosca i pell morena",
+        "pell fosca",
+        "pell morena"
+    ],
+    "👩🏾‍❤‍👨🏾": [
+        "cor",
+        "dona",
+        "home",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: dona, home i pell fosca",
+        "pell fosca"
+    ],
+    "👩🏾‍❤‍👨🏿": [
+        "cor",
+        "dona",
+        "home",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: dona, home, pell fosca i pell molt fosca",
+        "pell fosca",
+        "pell molt fosca"
+    ],
+    "👩🏿‍❤‍👨🏻": [
+        "cor",
+        "dona",
+        "home",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: dona, home, pell molt fosca i pell molt clara",
+        "pell molt clara",
+        "pell molt fosca"
+    ],
+    "👩🏿‍❤‍👨🏼": [
+        "cor",
+        "dona",
+        "home",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: dona, home, pell molt fosca i pell bastant clara",
+        "pell bastant clara",
+        "pell molt fosca"
+    ],
+    "👩🏿‍❤‍👨🏽": [
+        "cor",
+        "dona",
+        "home",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: dona, home, pell molt fosca i pell morena",
+        "pell molt fosca",
+        "pell morena"
+    ],
+    "👩🏿‍❤‍👨🏾": [
+        "cor",
+        "dona",
+        "home",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: dona, home, pell molt fosca i pell fosca",
+        "pell fosca",
+        "pell molt fosca"
+    ],
+    "👩🏿‍❤‍👨🏿": [
+        "cor",
+        "dona",
+        "home",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: dona, home i pell molt fosca",
+        "pell molt fosca"
+    ],
+    "👩🏻‍❤‍👩🏻": [
+        "cor",
+        "dona",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: dona, dona i pell molt clara",
+        "pell molt clara"
+    ],
+    "👩🏻‍❤‍👩🏼": [
+        "cor",
+        "dona",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: dona, dona, pell molt clara i pell bastant clara",
+        "pell bastant clara",
+        "pell molt clara"
+    ],
+    "👩🏻‍❤‍👩🏽": [
+        "cor",
+        "dona",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: dona, dona, pell molt clara i pell morena",
+        "pell molt clara",
+        "pell morena"
+    ],
+    "👩🏻‍❤‍👩🏾": [
+        "cor",
+        "dona",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: dona, dona, pell molt clara i pell fosca",
+        "pell fosca",
+        "pell molt clara"
+    ],
+    "👩🏻‍❤‍👩🏿": [
+        "cor",
+        "dona",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: dona, dona, pell molt clara i pell molt fosca",
+        "pell molt clara",
+        "pell molt fosca"
+    ],
+    "👩🏼‍❤‍👩🏻": [
+        "cor",
+        "dona",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: dona, dona, pell bastant clara i pell molt clara",
+        "pell bastant clara",
+        "pell molt clara"
+    ],
+    "👩🏼‍❤‍👩🏼": [
+        "cor",
+        "dona",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: dona, dona i pell bastant clara",
+        "pell bastant clara"
+    ],
+    "👩🏼‍❤‍👩🏽": [
+        "cor",
+        "dona",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: dona, dona, pell bastant clara i pell morena",
+        "pell bastant clara",
+        "pell morena"
+    ],
+    "👩🏼‍❤‍👩🏾": [
+        "cor",
+        "dona",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: dona, dona, pell bastant clara i pell fosca",
+        "pell bastant clara",
+        "pell fosca"
+    ],
+    "👩🏼‍❤‍👩🏿": [
+        "cor",
+        "dona",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: dona, dona, pell bastant clara i pell molt fosca",
+        "pell bastant clara",
+        "pell molt fosca"
+    ],
+    "👩🏽‍❤‍👩🏻": [
+        "cor",
+        "dona",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: dona, dona, pell morena i pell molt clara",
+        "pell molt clara",
+        "pell morena"
+    ],
+    "👩🏽‍❤‍👩🏼": [
+        "cor",
+        "dona",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: dona, dona, pell morena i pell bastant clara",
+        "pell bastant clara",
+        "pell morena"
+    ],
+    "👩🏽‍❤‍👩🏽": [
+        "cor",
+        "dona",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: dona, dona i pell morena",
+        "pell morena"
+    ],
+    "👩🏽‍❤‍👩🏾": [
+        "cor",
+        "dona",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: dona, dona, pell morena i pell fosca",
+        "pell fosca",
+        "pell morena"
+    ],
+    "👩🏽‍❤‍👩🏿": [
+        "cor",
+        "dona",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: dona, dona, pell morena i pell molt fosca",
+        "pell molt fosca",
+        "pell morena"
+    ],
+    "👩🏾‍❤‍👩🏻": [
+        "cor",
+        "dona",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: dona, dona, pell fosca i pell molt clara",
+        "pell fosca",
+        "pell molt clara"
+    ],
+    "👩🏾‍❤‍👩🏼": [
+        "cor",
+        "dona",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: dona, dona, pell fosca i pell bastant clara",
+        "pell bastant clara",
+        "pell fosca"
+    ],
+    "👩🏾‍❤‍👩🏽": [
+        "cor",
+        "dona",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: dona, dona, pell fosca i pell morena",
+        "pell fosca",
+        "pell morena"
+    ],
+    "👩🏾‍❤‍👩🏾": [
+        "cor",
+        "dona",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: dona, dona i pell fosca",
+        "pell fosca"
+    ],
+    "👩🏾‍❤‍👩🏿": [
+        "cor",
+        "dona",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: dona, dona, pell fosca i pell molt fosca",
+        "pell fosca",
+        "pell molt fosca"
+    ],
+    "👩🏿‍❤‍👩🏻": [
+        "cor",
+        "dona",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: dona, dona, pell molt fosca i pell molt clara",
+        "pell molt clara",
+        "pell molt fosca"
+    ],
+    "👩🏿‍❤‍👩🏼": [
+        "cor",
+        "dona",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: dona, dona, pell molt fosca i pell bastant clara",
+        "pell bastant clara",
+        "pell molt fosca"
+    ],
+    "👩🏿‍❤‍👩🏽": [
+        "cor",
+        "dona",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: dona, dona, pell molt fosca i pell morena",
+        "pell molt fosca",
+        "pell morena"
+    ],
+    "👩🏿‍❤‍👩🏾": [
+        "cor",
+        "dona",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: dona, dona, pell molt fosca i pell fosca",
+        "pell fosca",
+        "pell molt fosca"
+    ],
+    "👩🏿‍❤‍👩🏿": [
+        "cor",
+        "dona",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: dona, dona i pell molt fosca",
+        "pell molt fosca"
     ],
     "👩‍🦰": [
         "cabells vermells",
@@ -6329,7 +10014,6 @@
         "fàbrica",
         "home operari",
         "industrial",
-        "masculí",
         "operari",
         "treballador"
     ],
@@ -6338,7 +10022,6 @@
         "home operari",
         "home operari: pell molt clara",
         "industrial",
-        "masculí",
         "operari",
         "pell molt clara",
         "treballador"
@@ -6348,7 +10031,6 @@
         "home operari",
         "home operari: pell bastant clara",
         "industrial",
-        "masculí",
         "operari",
         "pell bastant clara",
         "treballador"
@@ -6358,7 +10040,6 @@
         "home operari",
         "home operari: pell morena",
         "industrial",
-        "masculí",
         "operari",
         "pell morena",
         "treballador"
@@ -6368,7 +10049,6 @@
         "home operari",
         "home operari: pell fosca",
         "industrial",
-        "masculí",
         "operari",
         "pell fosca",
         "treballador"
@@ -6378,20 +10058,17 @@
         "home operari",
         "home operari: pell molt fosca",
         "industrial",
-        "masculí",
         "operari",
         "pell molt fosca",
         "treballador"
     ],
     "👩‍🏭": [
-        "femení",
         "fàbrica",
         "industrial",
         "operària",
         "treballadora"
     ],
     "👩🏻‍🏭": [
-        "femení",
         "fàbrica",
         "industrial",
         "operària",
@@ -6400,7 +10077,6 @@
         "treballadora"
     ],
     "👩🏼‍🏭": [
-        "femení",
         "fàbrica",
         "industrial",
         "operària",
@@ -6409,7 +10085,6 @@
         "treballadora"
     ],
     "👩🏽‍🏭": [
-        "femení",
         "fàbrica",
         "industrial",
         "operària",
@@ -6418,7 +10093,6 @@
         "treballadora"
     ],
     "👩🏾‍🏭": [
-        "femení",
         "fàbrica",
         "industrial",
         "operària",
@@ -6427,7 +10101,6 @@
         "treballadora"
     ],
     "👩🏿‍🏭": [
-        "femení",
         "fàbrica",
         "industrial",
         "operària",
@@ -7972,6 +11645,51 @@
         "ocult",
         "sigilós"
     ],
+    "🥷🏻": [
+        "guerrer",
+        "lluitador",
+        "ninja",
+        "ninja: pell molt clara",
+        "ocult",
+        "pell molt clara",
+        "sigilós"
+    ],
+    "🥷🏼": [
+        "guerrer",
+        "lluitador",
+        "ninja",
+        "ninja: pell bastant clara",
+        "ocult",
+        "pell bastant clara",
+        "sigilós"
+    ],
+    "🥷🏽": [
+        "guerrer",
+        "lluitador",
+        "ninja",
+        "ninja: pell morena",
+        "ocult",
+        "pell morena",
+        "sigilós"
+    ],
+    "🥷🏾": [
+        "guerrer",
+        "lluitador",
+        "ninja",
+        "ninja: pell fosca",
+        "ocult",
+        "pell fosca",
+        "sigilós"
+    ],
+    "🥷🏿": [
+        "guerrer",
+        "lluitador",
+        "ninja",
+        "ninja: pell molt fosca",
+        "ocult",
+        "pell molt fosca",
+        "sigilós"
+    ],
     "👷": [
         "construcció",
         "paleta",
@@ -8121,6 +11839,58 @@
         "femení",
         "pell molt fosca",
         "treballadora"
+    ],
+    "🫅": [
+        "monarca",
+        "noble",
+        "noblesa",
+        "persona amb corona",
+        "reialesa"
+    ],
+    "🫅🏻": [
+        "monarca",
+        "noble",
+        "noblesa",
+        "pell molt clara",
+        "persona amb corona",
+        "persona amb corona: pell molt clara",
+        "reialesa"
+    ],
+    "🫅🏼": [
+        "monarca",
+        "noble",
+        "noblesa",
+        "pell bastant clara",
+        "persona amb corona",
+        "persona amb corona: pell bastant clara",
+        "reialesa"
+    ],
+    "🫅🏽": [
+        "monarca",
+        "noble",
+        "noblesa",
+        "pell morena",
+        "persona amb corona",
+        "persona amb corona: pell morena",
+        "reialesa"
+    ],
+    "🫅🏾": [
+        "monarca",
+        "noble",
+        "noblesa",
+        "pell fosca",
+        "persona amb corona",
+        "persona amb corona: pell fosca",
+        "reialesa"
+    ],
+    "🫅🏿": [
+        "monarca",
+        "noble",
+        "noblesa",
+        "pell molt fosca",
+        "persona amb corona",
+        "persona amb corona: pell molt fosca",
+        "reialesa"
     ],
     "🤴": [
         "príncep"
@@ -8680,49 +12450,166 @@
     ],
     "🤰": [
         "dona",
+        "dona embarassada",
         "embarassada",
         "embaràs",
         "prenyada"
     ],
     "🤰🏻": [
         "dona",
+        "dona embarassada: pell molt clara",
         "embarassada",
-        "embarassada: pell molt clara",
         "embaràs",
         "pell molt clara",
         "prenyada"
     ],
     "🤰🏼": [
         "dona",
+        "dona embarassada: pell bastant clara",
         "embarassada",
-        "embarassada: pell bastant clara",
         "embaràs",
         "pell bastant clara",
         "prenyada"
     ],
     "🤰🏽": [
         "dona",
+        "dona embarassada: pell morena",
         "embarassada",
-        "embarassada: pell morena",
         "embaràs",
         "pell morena",
         "prenyada"
     ],
     "🤰🏾": [
         "dona",
+        "dona embarassada: pell fosca",
         "embarassada",
-        "embarassada: pell fosca",
         "embaràs",
         "pell fosca",
         "prenyada"
     ],
     "🤰🏿": [
         "dona",
+        "dona embarassada: pell molt fosca",
         "embarassada",
-        "embarassada: pell molt fosca",
         "embaràs",
         "pell molt fosca",
         "prenyada"
+    ],
+    "🫃": [
+        "embarassat",
+        "embaràs",
+        "home embarassat",
+        "panxa",
+        "prenyat"
+    ],
+    "🫃🏻": [
+        "embarassat",
+        "embaràs",
+        "home embarassat",
+        "home embarassat: pell molt clara",
+        "panxa",
+        "pell molt clara",
+        "prenyat"
+    ],
+    "🫃🏼": [
+        "embarassat",
+        "embaràs",
+        "home embarassat",
+        "home embarassat: pell bastant clara",
+        "panxa",
+        "pell bastant clara",
+        "prenyat"
+    ],
+    "🫃🏽": [
+        "embarassat",
+        "embaràs",
+        "home embarassat",
+        "home embarassat: pell morena",
+        "panxa",
+        "pell morena",
+        "prenyat"
+    ],
+    "🫃🏾": [
+        "embarassat",
+        "embaràs",
+        "home embarassat",
+        "home embarassat: pell fosca",
+        "panxa",
+        "pell fosca",
+        "prenyat"
+    ],
+    "🫃🏿": [
+        "embarassat",
+        "embaràs",
+        "home embarassat",
+        "home embarassat: pell molt fosca",
+        "panxa",
+        "pell molt fosca",
+        "prenyat"
+    ],
+    "🫄": [
+        "embarassada",
+        "embarassat",
+        "embaràs",
+        "panxa",
+        "persona embarassada",
+        "prenyada",
+        "prenyat"
+    ],
+    "🫄🏻": [
+        "embarassada",
+        "embarassat",
+        "embaràs",
+        "panxa",
+        "pell molt clara",
+        "persona embarassada",
+        "persona embarassada: pell molt clara",
+        "prenyada",
+        "prenyat"
+    ],
+    "🫄🏼": [
+        "embarassada",
+        "embarassat",
+        "embaràs",
+        "panxa",
+        "pell bastant clara",
+        "persona embarassada",
+        "persona embarassada: pell bastant clara",
+        "prenyada",
+        "prenyat"
+    ],
+    "🫄🏽": [
+        "embarassada",
+        "embarassat",
+        "embaràs",
+        "panxa",
+        "pell morena",
+        "persona embarassada",
+        "persona embarassada: pell morena",
+        "prenyada",
+        "prenyat"
+    ],
+    "🫄🏾": [
+        "embarassada",
+        "embarassat",
+        "embaràs",
+        "panxa",
+        "pell fosca",
+        "persona embarassada",
+        "persona embarassada: pell fosca",
+        "prenyada",
+        "prenyat"
+    ],
+    "🫄🏿": [
+        "embarassada",
+        "embarassat",
+        "embaràs",
+        "panxa",
+        "pell molt fosca",
+        "persona embarassada",
+        "persona embarassada: pell molt fosca",
+        "prenyada",
+        "prenyat"
     ],
     "🤱": [
         "alletar",
@@ -8826,14 +12713,14 @@
         "alimentar",
         "alletar",
         "bebè",
-        "dona",
+        "home",
         "home que alleta un bebè"
     ],
     "👨🏻‍🍼": [
         "alimentar",
         "alletar",
         "bebè",
-        "dona",
+        "home",
         "home que alleta un bebè",
         "home que alleta un bebè: pell molt clara",
         "pell molt clara"
@@ -8842,7 +12729,7 @@
         "alimentar",
         "alletar",
         "bebè",
-        "dona",
+        "home",
         "home que alleta un bebè",
         "home que alleta un bebè: pell bastant clara",
         "pell bastant clara"
@@ -8851,7 +12738,7 @@
         "alimentar",
         "alletar",
         "bebè",
-        "dona",
+        "home",
         "home que alleta un bebè",
         "home que alleta un bebè: pell morena",
         "pell morena"
@@ -8860,7 +12747,7 @@
         "alimentar",
         "alletar",
         "bebè",
-        "dona",
+        "home",
         "home que alleta un bebè",
         "home que alleta un bebè: pell fosca",
         "pell fosca"
@@ -8869,7 +12756,7 @@
         "alimentar",
         "alletar",
         "bebè",
-        "dona",
+        "home",
         "home que alleta un bebè",
         "home que alleta un bebè: pell molt fosca",
         "pell molt fosca"
@@ -10054,6 +13941,13 @@
         "dona zombi",
         "morta vivent"
     ],
+    "🧌": [
+        "conte",
+        "fades",
+        "fantasia",
+        "monstre",
+        "trol"
+    ],
     "💆": [
         "cara",
         "massatge",
@@ -10924,41 +14818,53 @@
     ],
     "🧑‍🦼": [
         "accessibilitat",
+        "cadira de rodes amb motor",
         "cadira de rodes elèctrica",
+        "persona amb una cadira de rodes amb motor",
         "persona amb una cadira de rodes elèctrica"
     ],
     "🧑🏻‍🦼": [
         "accessibilitat",
+        "cadira de rodes amb motor",
         "cadira de rodes elèctrica",
         "pell molt clara",
+        "persona amb una cadira de rodes amb motor",
         "persona amb una cadira de rodes elèctrica",
         "persona amb una cadira de rodes elèctrica: pell molt clara"
     ],
     "🧑🏼‍🦼": [
         "accessibilitat",
+        "cadira de rodes amb motor",
         "cadira de rodes elèctrica",
         "pell bastant clara",
+        "persona amb una cadira de rodes amb motor",
         "persona amb una cadira de rodes elèctrica",
         "persona amb una cadira de rodes elèctrica: pell bastant clara"
     ],
     "🧑🏽‍🦼": [
         "accessibilitat",
+        "cadira de rodes amb motor",
         "cadira de rodes elèctrica",
         "pell morena",
+        "persona amb una cadira de rodes amb motor",
         "persona amb una cadira de rodes elèctrica",
         "persona amb una cadira de rodes elèctrica: pell morena"
     ],
     "🧑🏾‍🦼": [
         "accessibilitat",
+        "cadira de rodes amb motor",
         "cadira de rodes elèctrica",
         "pell fosca",
+        "persona amb una cadira de rodes amb motor",
         "persona amb una cadira de rodes elèctrica",
         "persona amb una cadira de rodes elèctrica: pell fosca"
     ],
     "🧑🏿‍🦼": [
         "accessibilitat",
+        "cadira de rodes amb motor",
         "cadira de rodes elèctrica",
         "pell molt fosca",
+        "persona amb una cadira de rodes amb motor",
         "persona amb una cadira de rodes elèctrica",
         "persona amb una cadira de rodes elèctrica: pell molt fosca"
     ],
@@ -10966,12 +14872,14 @@
         "accessibilitat",
         "cadira de rodes",
         "home",
+        "home amb una cadira de rodes amb motor",
         "home amb una cadira de rodes elèctrica"
     ],
     "👨🏻‍🦼": [
         "accessibilitat",
         "cadira de rodes",
         "home",
+        "home amb una cadira de rodes amb motor",
         "home amb una cadira de rodes elèctrica",
         "home amb una cadira de rodes elèctrica: pell molt clara",
         "pell molt clara"
@@ -10980,6 +14888,7 @@
         "accessibilitat",
         "cadira de rodes",
         "home",
+        "home amb una cadira de rodes amb motor",
         "home amb una cadira de rodes elèctrica",
         "home amb una cadira de rodes elèctrica: pell bastant clara",
         "pell bastant clara"
@@ -10988,6 +14897,7 @@
         "accessibilitat",
         "cadira de rodes",
         "home",
+        "home amb una cadira de rodes amb motor",
         "home amb una cadira de rodes elèctrica",
         "home amb una cadira de rodes elèctrica: pell morena",
         "pell morena"
@@ -10996,6 +14906,7 @@
         "accessibilitat",
         "cadira de rodes",
         "home",
+        "home amb una cadira de rodes amb motor",
         "home amb una cadira de rodes elèctrica",
         "home amb una cadira de rodes elèctrica: pell fosca",
         "pell fosca"
@@ -11004,6 +14915,7 @@
         "accessibilitat",
         "cadira de rodes",
         "home",
+        "home amb una cadira de rodes amb motor",
         "home amb una cadira de rodes elèctrica",
         "home amb una cadira de rodes elèctrica: pell molt fosca",
         "pell molt fosca"
@@ -11012,12 +14924,14 @@
         "accessibilitat",
         "cadira de rodes",
         "dona",
+        "dona amb una cadira de rodes amb motor",
         "dona amb una cadira de rodes elèctrica"
     ],
     "👩🏻‍🦼": [
         "accessibilitat",
         "cadira de rodes",
         "dona",
+        "dona amb una cadira de rodes amb motor",
         "dona amb una cadira de rodes elèctrica",
         "dona amb una cadira de rodes elèctrica: pell molt clara",
         "pell molt clara"
@@ -11026,6 +14940,7 @@
         "accessibilitat",
         "cadira de rodes",
         "dona",
+        "dona amb una cadira de rodes amb motor",
         "dona amb una cadira de rodes elèctrica",
         "dona amb una cadira de rodes elèctrica: pell bastant clara",
         "pell bastant clara"
@@ -11034,6 +14949,7 @@
         "accessibilitat",
         "cadira de rodes",
         "dona",
+        "dona amb una cadira de rodes amb motor",
         "dona amb una cadira de rodes elèctrica",
         "dona amb una cadira de rodes elèctrica: pell morena",
         "pell morena"
@@ -11042,6 +14958,7 @@
         "accessibilitat",
         "cadira de rodes",
         "dona",
+        "dona amb una cadira de rodes amb motor",
         "dona amb una cadira de rodes elèctrica",
         "dona amb una cadira de rodes elèctrica: pell fosca",
         "pell fosca"
@@ -11050,6 +14967,7 @@
         "accessibilitat",
         "cadira de rodes",
         "dona",
+        "dona amb una cadira de rodes amb motor",
         "dona amb una cadira de rodes elèctrica",
         "dona amb una cadira de rodes elèctrica: pell molt fosca",
         "pell molt fosca"
@@ -14692,7 +18610,6 @@
         "Gèmini",
         "bessons",
         "home",
-        "homes",
         "homes que s’agafen de la mà",
         "mans agafades",
         "parella",
@@ -14702,7 +18619,6 @@
         "Gèmini",
         "bessons",
         "home",
-        "homes",
         "homes que s’agafen de la mà",
         "homes que s’agafen de la mà: pell molt clara",
         "mans agafades",
@@ -14714,7 +18630,6 @@
         "Gèmini",
         "bessons",
         "home",
-        "homes",
         "homes que s’agafen de la mà",
         "homes que s’agafen de la mà: pell molt clara i pell bastant clara",
         "mans agafades",
@@ -14727,7 +18642,6 @@
         "Gèmini",
         "bessons",
         "home",
-        "homes",
         "homes que s’agafen de la mà",
         "homes que s’agafen de la mà: pell molt clara i pell morena",
         "mans agafades",
@@ -14740,7 +18654,6 @@
         "Gèmini",
         "bessons",
         "home",
-        "homes",
         "homes que s’agafen de la mà",
         "homes que s’agafen de la mà: pell molt clara i pell fosca",
         "mans agafades",
@@ -14753,7 +18666,6 @@
         "Gèmini",
         "bessons",
         "home",
-        "homes",
         "homes que s’agafen de la mà",
         "homes que s’agafen de la mà: pell molt clara i pell molt fosca",
         "mans agafades",
@@ -14766,7 +18678,6 @@
         "Gèmini",
         "bessons",
         "home",
-        "homes",
         "homes que s’agafen de la mà",
         "homes que s’agafen de la mà: pell bastant clara i pell molt clara",
         "mans agafades",
@@ -14779,7 +18690,6 @@
         "Gèmini",
         "bessons",
         "home",
-        "homes",
         "homes que s’agafen de la mà",
         "homes que s’agafen de la mà: pell bastant clara",
         "mans agafades",
@@ -14791,7 +18701,6 @@
         "Gèmini",
         "bessons",
         "home",
-        "homes",
         "homes que s’agafen de la mà",
         "homes que s’agafen de la mà: pell bastant clara i pell morena",
         "mans agafades",
@@ -14804,7 +18713,6 @@
         "Gèmini",
         "bessons",
         "home",
-        "homes",
         "homes que s’agafen de la mà",
         "homes que s’agafen de la mà: pell bastant clara i pell fosca",
         "mans agafades",
@@ -14817,7 +18725,6 @@
         "Gèmini",
         "bessons",
         "home",
-        "homes",
         "homes que s’agafen de la mà",
         "homes que s’agafen de la mà: pell bastant clara i pell molt fosca",
         "mans agafades",
@@ -14830,7 +18737,6 @@
         "Gèmini",
         "bessons",
         "home",
-        "homes",
         "homes que s’agafen de la mà",
         "homes que s’agafen de la mà: pell morena i pell molt clara",
         "mans agafades",
@@ -14843,7 +18749,6 @@
         "Gèmini",
         "bessons",
         "home",
-        "homes",
         "homes que s’agafen de la mà",
         "homes que s’agafen de la mà: pell morena i pell bastant clara",
         "mans agafades",
@@ -14856,7 +18761,6 @@
         "Gèmini",
         "bessons",
         "home",
-        "homes",
         "homes que s’agafen de la mà",
         "homes que s’agafen de la mà: pell morena",
         "mans agafades",
@@ -14868,7 +18772,6 @@
         "Gèmini",
         "bessons",
         "home",
-        "homes",
         "homes que s’agafen de la mà",
         "homes que s’agafen de la mà: pell morena i pell fosca",
         "mans agafades",
@@ -14881,7 +18784,6 @@
         "Gèmini",
         "bessons",
         "home",
-        "homes",
         "homes que s’agafen de la mà",
         "homes que s’agafen de la mà: pell morena i pell molt fosca",
         "mans agafades",
@@ -14894,7 +18796,6 @@
         "Gèmini",
         "bessons",
         "home",
-        "homes",
         "homes que s’agafen de la mà",
         "homes que s’agafen de la mà: pell fosca i pell molt clara",
         "mans agafades",
@@ -14907,7 +18808,6 @@
         "Gèmini",
         "bessons",
         "home",
-        "homes",
         "homes que s’agafen de la mà",
         "homes que s’agafen de la mà: pell fosca i pell bastant clara",
         "mans agafades",
@@ -14920,7 +18820,6 @@
         "Gèmini",
         "bessons",
         "home",
-        "homes",
         "homes que s’agafen de la mà",
         "homes que s’agafen de la mà: pell fosca i pell morena",
         "mans agafades",
@@ -14933,7 +18832,6 @@
         "Gèmini",
         "bessons",
         "home",
-        "homes",
         "homes que s’agafen de la mà",
         "homes que s’agafen de la mà: pell fosca",
         "mans agafades",
@@ -14945,7 +18843,6 @@
         "Gèmini",
         "bessons",
         "home",
-        "homes",
         "homes que s’agafen de la mà",
         "homes que s’agafen de la mà: pell fosca i pell molt fosca",
         "mans agafades",
@@ -14958,7 +18855,6 @@
         "Gèmini",
         "bessons",
         "home",
-        "homes",
         "homes que s’agafen de la mà",
         "homes que s’agafen de la mà: pell molt fosca i pell molt clara",
         "mans agafades",
@@ -14971,7 +18867,6 @@
         "Gèmini",
         "bessons",
         "home",
-        "homes",
         "homes que s’agafen de la mà",
         "homes que s’agafen de la mà: pell molt fosca i pell bastant clara",
         "mans agafades",
@@ -14984,7 +18879,6 @@
         "Gèmini",
         "bessons",
         "home",
-        "homes",
         "homes que s’agafen de la mà",
         "homes que s’agafen de la mà: pell molt fosca i pell morena",
         "mans agafades",
@@ -14997,7 +18891,6 @@
         "Gèmini",
         "bessons",
         "home",
-        "homes",
         "homes que s’agafen de la mà",
         "homes que s’agafen de la mà: pell molt fosca i pell fosca",
         "mans agafades",
@@ -15010,7 +18903,6 @@
         "Gèmini",
         "bessons",
         "home",
-        "homes",
         "homes que s’agafen de la mà",
         "homes que s’agafen de la mà: pell molt fosca",
         "mans agafades",
@@ -15021,6 +18913,36 @@
     "💏": [
         "parella",
         "petó"
+    ],
+    "💏🏻": [
+        "parella",
+        "pell molt clara",
+        "petó",
+        "petó: pell molt clara"
+    ],
+    "💏🏼": [
+        "parella",
+        "pell bastant clara",
+        "petó",
+        "petó: pell bastant clara"
+    ],
+    "💏🏽": [
+        "parella",
+        "pell morena",
+        "petó",
+        "petó: pell morena"
+    ],
+    "💏🏾": [
+        "parella",
+        "pell fosca",
+        "petó",
+        "petó: pell fosca"
+    ],
+    "💏🏿": [
+        "parella",
+        "pell molt fosca",
+        "petó",
+        "petó: pell molt fosca"
     ],
     "👩‍❤‍💋‍👨": [
         "dona",
@@ -15045,6 +18967,41 @@
         "cor",
         "parella",
         "parella amb un cor"
+    ],
+    "💑🏻": [
+        "cor",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: pell molt clara",
+        "pell molt clara"
+    ],
+    "💑🏼": [
+        "cor",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: pell bastant clara",
+        "pell bastant clara"
+    ],
+    "💑🏽": [
+        "cor",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: pell morena",
+        "pell morena"
+    ],
+    "💑🏾": [
+        "cor",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: pell fosca",
+        "pell fosca"
+    ],
+    "💑🏿": [
+        "cor",
+        "parella",
+        "parella amb un cor",
+        "parella amb un cor: pell molt fosca",
+        "pell molt fosca"
     ],
     "👩‍❤‍👨": [
         "cor",
@@ -15563,7 +19520,7 @@
         "elefant"
     ],
     "🦣": [
-        "extició",
+        "extinció",
         "gran",
         "llanut",
         "mamut",
@@ -15858,6 +19815,13 @@
         "cargol de mar",
         "mar"
     ],
+    "🪸": [
+        "corall",
+        "escull",
+        "escullera",
+        "mar",
+        "oceà"
+    ],
     "🐌": [
         "cargol"
     ],
@@ -15894,7 +19858,6 @@
     ],
     "🪳": [
         "ballarola",
-        "corredora",
         "cuca molla",
         "cuca panissera",
         "escarabat de cuina",
@@ -15957,6 +19920,15 @@
         "blanca",
         "flor",
         "flor blanca"
+    ],
+    "🪷": [
+        "Vietnam",
+        "budisme",
+        "flor",
+        "hinduisme",
+        "lotus",
+        "puresa",
+        "Índia"
     ],
     "🏵️": [
         "planta",
@@ -16064,6 +20036,21 @@
         "fulla",
         "fulla que vola amb el vent",
         "vent"
+    ],
+    "🪹": [
+        "covar",
+        "niu",
+        "niu buit"
+    ],
+    "🪺": [
+        "covar",
+        "niu",
+        "niu amb ous",
+        "ous"
+    ],
+    "🍄": [
+        "bolet",
+        "planta"
     ],
     "🍇": [
         "fruita",
@@ -16239,10 +20226,6 @@
         "aromatitzant",
         "ceba"
     ],
-    "🍄": [
-        "bolet",
-        "planta"
-    ],
     "🥜": [
         "cacauet",
         "cacauets",
@@ -16250,6 +20233,14 @@
         "llegum",
         "menjar",
         "sec"
+    ],
+    "🫘": [
+        "fesols",
+        "llegum",
+        "menjar",
+        "monget",
+        "mongeta",
+        "ronyó"
     ],
     "🌰": [
         "castanya",
@@ -16748,6 +20739,15 @@
         "licor",
         "whisky"
     ],
+    "🫗": [
+        "abocar",
+        "beguda",
+        "buit",
+        "got",
+        "got que aboca un líquid",
+        "rajar",
+        "vessar"
+    ],
     "🥤": [
         "beguda",
         "canya",
@@ -16803,6 +20803,15 @@
         "cuina",
         "ganivet",
         "ganivet de cuina"
+    ],
+    "🫙": [
+        "buit",
+        "condiment",
+        "contenidor",
+        "emmagatzemar",
+        "pot",
+        "salsa",
+        "vidre"
     ],
     "🏺": [
         "aquari",
@@ -17136,6 +21145,13 @@
         "atraccions",
         "cavallets"
     ],
+    "🛝": [
+        "divertit",
+        "jugar",
+        "lliscar",
+        "parc",
+        "togoban"
+    ],
     "🎡": [
         "fira",
         "roda",
@@ -17407,6 +21423,13 @@
         "combustible",
         "gasolina"
     ],
+    "🛞": [
+        "cercle",
+        "girar",
+        "pneumàtic",
+        "roda",
+        "rodar"
+    ],
     "🚨": [
         "cotxe",
         "llum",
@@ -17444,6 +21467,14 @@
         "eina",
         "vaixell",
         "àncora"
+    ],
+    "🛟": [
+        "cèrcol",
+        "flotador",
+        "rescat",
+        "salvament",
+        "salvavides",
+        "seguretat"
     ],
     "⛵️": [
         "iot",
@@ -17648,7 +21679,6 @@
         "14",
         "14.00",
         "2",
-        "2.00",
         "dues",
         "en punt",
         "les dues en punt",
@@ -17665,7 +21695,6 @@
         "15",
         "15.00",
         "3",
-        "3.00",
         "en punt",
         "les tres en punt",
         "rellotge",
@@ -17682,7 +21711,6 @@
         "16",
         "16.00",
         "4",
-        "4.00",
         "en punt",
         "les quatre en punt",
         "quatre",
@@ -17699,7 +21727,6 @@
         "17",
         "17.00",
         "5",
-        "5.00",
         "cinc",
         "en punt",
         "les cinc en punt",
@@ -17716,7 +21743,6 @@
         "18",
         "18.00",
         "6",
-        "6.00",
         "en punt",
         "les sis en punt",
         "rellotge",
@@ -17733,7 +21759,6 @@
         "19",
         "19.00",
         "7",
-        "7.00",
         "en punt",
         "les set en punt",
         "rellotge",
@@ -17750,7 +21775,6 @@
         "20",
         "20.00",
         "8",
-        "8.00",
         "en punt",
         "les vuit en punt",
         "rellotge",
@@ -17767,7 +21791,6 @@
         "21",
         "21.00",
         "9",
-        "9.00",
         "en punt",
         "les nou en punt",
         "nou",
@@ -17784,7 +21807,6 @@
         "10",
         "10.00",
         "22",
-        "22.00",
         "deu",
         "en punt",
         "les deu en punt",
@@ -17801,7 +21823,6 @@
         "11",
         "11.00",
         "23",
-        "23.00",
         "en punt",
         "les onze en punt",
         "onze",
@@ -18428,6 +22449,14 @@
         "estel",
         "volar"
     ],
+    "🔫": [
+        "arma",
+        "arma de foc",
+        "eina",
+        "pistola",
+        "pistola d’aigua",
+        "revòlver"
+    ],
     "🎱": [
         "8",
         "billar",
@@ -18447,12 +22476,6 @@
         "bruixot",
         "màgia",
         "vareta màgica"
-    ],
-    "🧿": [
-        "amulet",
-        "nazar",
-        "pedra del mal d’ull",
-        "talismà"
     ],
     "🎮️": [
         "comandament de consola",
@@ -18498,6 +22521,13 @@
         "celebració",
         "festa",
         "pinyata"
+    ],
+    "🪩": [
+        "ballar",
+        "bola de miralls",
+        "brillant",
+        "discoteca",
+        "festa"
     ],
     "🪆": [
         "matrioixca",
@@ -18572,7 +22602,8 @@
         "marc amb quadre",
         "museu",
         "pintura",
-        "quadre"
+        "quadre",
+        "quadre emmarcat"
     ],
     "🎨": [
         "artista",
@@ -19038,6 +23069,11 @@
         "bateria",
         "càrrega"
     ],
+    "🪫": [
+        "bateria baixa",
+        "electrònica",
+        "poca bateria"
+    ],
     "🔌": [
         "connexió",
         "electricitat",
@@ -19399,7 +23435,7 @@
     "📬️": [
         "bandera aixecada",
         "bústia",
-        "bústia oberta amb la bandera aixecada",
+        "bústia plena amb la bandera aixecada",
         "oberta"
     ],
     "📭️": [
@@ -19645,12 +23681,9 @@
         "espases",
         "espases creuades"
     ],
-    "🔫": [
-        "arma",
-        "arma de foc",
-        "eina",
-        "pistola",
-        "revòlver"
+    "💣️": [
+        "bomba",
+        "còmic"
     ],
     "🪃": [
         "Austràlia",
@@ -19823,11 +23856,25 @@
         "bena",
         "tireta"
     ],
+    "🩼": [
+        "ajuda a la mobilitat",
+        "bastó",
+        "crossa",
+        "discapacitat",
+        "lesió"
+    ],
     "🩺": [
         "cor",
         "doctor",
         "estetoscopi",
         "medicina"
+    ],
+    "🩻": [
+        "diagnòstic",
+        "esquelet",
+        "medicina",
+        "ossos",
+        "radiografia"
     ],
     "🚪": [
         "porta"
@@ -19942,6 +23989,13 @@
         "sabonera",
         "sabó"
     ],
+    "🫧": [
+        "bombolles",
+        "net",
+        "sabó",
+        "subaquàtic",
+        "submarí"
+    ],
     "🪥": [
         "dental",
         "dents",
@@ -19986,6 +24040,19 @@
         "urna",
         "urna funerària"
     ],
+    "🧿": [
+        "amulet",
+        "nazar",
+        "pedra del mal d’ull",
+        "talismà"
+    ],
+    "🪬": [
+        "amulet",
+        "mà",
+        "mà de Fàtima",
+        "mà de Míriam",
+        "protecció"
+    ],
     "🗿": [
         "cara",
         "estàtua",
@@ -19997,6 +24064,14 @@
         "pancarta",
         "protesta",
         "senyal"
+    ],
+    "🪪": [
+        "carnet",
+        "credencials",
+        "identificació",
+        "seguretat",
+        "targeta",
+        "targeta d’identificació"
     ],
     "🏧": [
         "atm",
@@ -20044,6 +24119,7 @@
     ],
     "🚼️": [
         "bebè",
+        "canviador per a nadons",
         "nadó",
         "símbol de bebè",
         "símbol de nadó"
@@ -20219,6 +24295,9 @@
         "esquerra",
         "fletxa",
         "fletxa cap a l’esquerra i cap a la dreta"
+    ],
+    "↮": [
+        "fletxa esquerra i dreta amb traç"
     ],
     "↩️": [
         "dreta",
@@ -20641,6 +24720,11 @@
         "signe de dividir",
         "÷"
     ],
+    "🟰": [
+        "igualtat",
+        "matemàtiques",
+        "signe d’igual gran"
+    ],
     "♾️": [
         "il·limitat",
         "infinit",
@@ -20670,7 +24754,8 @@
         "interrogació",
         "puntuació",
         "signe",
-        "signe d’interrogació"
+        "signe d’interrogació",
+        "signe d’interrogació vermell"
     ],
     "❔": [
         "?",
@@ -20693,7 +24778,8 @@
         "exclamació",
         "puntuació",
         "signe",
-        "signe d’exclamació"
+        "signe d’exclamació",
+        "signe d’exclamació vermell"
     ],
     "〰️": [
         "guió",
@@ -20757,18 +24843,21 @@
         "botó",
         "botó de marca de verificació",
         "marca",
+        "selecció",
         "verificació",
         "✓"
     ],
     "☑️": [
         "casella",
         "casella amb marca de verificació",
+        "selecció",
         "verificació",
         "✓"
     ],
     "✔️": [
         "marca",
         "marca de verificació",
+        "selecció",
         "verificació",
         "✓"
     ],
@@ -21462,7 +25551,7 @@
     ],
     "🇦🇽": [
         "bandera",
-        "bandera: Illes Åland"
+        "bandera: Illes Aland"
     ],
     "🇦🇿": [
         "bandera",
@@ -21506,7 +25595,7 @@
     ],
     "🇧🇱": [
         "bandera",
-        "bandera: Saint Barthélemy"
+        "bandera: Saint-Barthélemy"
     ],
     "🇧🇲": [
         "bandera",
@@ -21522,7 +25611,7 @@
     ],
     "🇧🇶": [
         "bandera",
-        "bandera: Carib Neerlandès"
+        "bandera: Antilles Neerlandeses"
     ],
     "🇧🇷": [
         "bandera",
@@ -21766,7 +25855,7 @@
     ],
     "🇬🇵": [
         "bandera",
-        "bandera: Guadeloupe"
+        "bandera: Guadalupe"
     ],
     "🇬🇶": [
         "bandera",
@@ -21902,7 +25991,7 @@
     ],
     "🇰🇳": [
         "bandera",
-        "bandera: Saint Christopher i Nevis"
+        "bandera: Saint Kitts i Nevis"
     ],
     "🇰🇵": [
         "bandera",
@@ -22218,7 +26307,7 @@
     ],
     "🇸🇭": [
         "bandera",
-        "bandera: Saint Helena"
+        "bandera: Santa Helena"
     ],
     "🇸🇮": [
         "bandera",
@@ -22386,11 +26475,11 @@
     ],
     "🇻🇬": [
         "bandera",
-        "bandera: Illes Verges Britàniques"
+        "bandera: Illes Verges britàniques"
     ],
     "🇻🇮": [
         "bandera",
-        "bandera: Illes Verges Nord-americanes"
+        "bandera: Illes Verges nord-americanes"
     ],
     "🇻🇳": [
         "bandera",
@@ -22443,6 +26532,169 @@
     "🏴󠁧󠁢󠁷󠁬󠁳󠁿": [
         "bandera",
         "bandera: Gal·les"
+    ],
+    "¤": [
+        "moneda desconeguda"
+    ],
+    "¢": [
+        "centau"
+    ],
+    "$": [
+        "USD",
+        "diners",
+        "dòlar",
+        "peso"
+    ],
+    "£": [
+        "EGP",
+        "GBP",
+        "divisa",
+        "esterlina",
+        "lliura",
+        "moneda"
+    ],
+    "¥": [
+        "CNY",
+        "JPY",
+        "ien",
+        "iuan",
+        "moneda"
+    ],
+    "֏": [
+        "dram"
+    ],
+    "؋": [
+        "afgani afganès"
+    ],
+    "৳": [
+        "taka"
+    ],
+    "฿": [
+        "baht"
+    ],
+    "៛": [
+        "riel cambodjà"
+    ],
+    "₡": [
+        "colon costa-riqueny"
+    ],
+    "₢": [
+        "cruzeiro"
+    ],
+    "₣": [
+        "franc francès"
+    ],
+    "₤": [
+        "lira"
+    ],
+    "₥": [
+        "M",
+        "milió"
+    ],
+    "₦": [
+        "naira nigerià"
+    ],
+    "₧": [
+        "pesseta espanyola"
+    ],
+    "₩": [
+        "KPW",
+        "KRW",
+        "won"
+    ],
+    "₪": [
+        "nou xéquel israelià"
+    ],
+    "₫": [
+        "dong vietnamita"
+    ],
+    "€": [
+        "EUR",
+        "divisa",
+        "euro",
+        "moneda"
+    ],
+    "₭": [
+        "kip laosià"
+    ],
+    "₮": [
+        "tögrög mongol"
+    ],
+    "₰": [
+        "penic alemany"
+    ],
+    "₱": [
+        "peso"
+    ],
+    "₲": [
+        "guaraní"
+    ],
+    "₳": [
+        "austral"
+    ],
+    "₴": [
+        "hrívnia"
+    ],
+    "₵": [
+        "cedi ghanès"
+    ],
+    "₶": [
+        "lliura tornesa"
+    ],
+    "₷": [
+        "spesmilo"
+    ],
+    "₸": [
+        "tenge"
+    ],
+    "₹": [
+        "moneda",
+        "rupia",
+        "rupia índia"
+    ],
+    "₺": [
+        "lira turca"
+    ],
+    "₼": [
+        "manat azerbaidjanès"
+    ],
+    "₽": [
+        "moneda",
+        "ruble"
+    ],
+    "₾": [
+        "lari"
+    ],
+    "₿": [
+        "BTC",
+        "bitcoin"
+    ],
+    "₨": [
+        "rupia"
+    ],
+    "﷼": [
+        "rial"
+    ],
+    "¹": [
+        "superíndex",
+        "superíndex u",
+        "u"
+    ],
+    "²": [
+        "al quadrat",
+        "dos",
+        "superíndex",
+        "superíndex dos"
+    ],
+    "³": [
+        "al cub",
+        "superíndex",
+        "superíndex tres",
+        "tres"
+    ],
+    "µ": [
+        "mesura",
+        "signe de micró"
     ],
     "🏻": [
         "clara",

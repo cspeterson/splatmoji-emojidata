@@ -1,15 +1,634 @@
 {
+    "_": [
+        "kistari",
+        "kistari chini",
+        "mstari",
+        "mstari chini",
+        "mstari wa chini"
+    ],
+    "-": [
+        "alama ya kutoa",
+        "kistari",
+        "kistariungio",
+        "kistariungio-alama ya kutoa"
+    ],
+    "‐": [
+        "kistari",
+        "kistariungio"
+    ],
+    "–": [
+        "kirefu",
+        "kistari",
+        "kistari kirefu"
+    ],
+    "—": [
+        "kistari",
+        "kistari kirefu zaidi"
+    ],
+    "―": [
+        "kistari",
+        "mstari",
+        "upau",
+        "upau mlalo"
+    ],
+    "・": [
+        "katakana",
+        "nukta",
+        "nukta ya kati",
+        "nukta ya kati ya katakana"
+    ],
+    ",": [
+        "koma"
+    ],
+    "،": [
+        "kiarabu",
+        "koma",
+        "koma ya kiarabu"
+    ],
+    "、": [
+        "idiografia",
+        "koma",
+        "koma ya idiografia"
+    ],
+    ";": [
+        "nukta-mkato",
+        "nuktamkato"
+    ],
+    "؛": [
+        "kiarabu",
+        "nukta-mkato",
+        "nuktamkato ya kiarabu"
+    ],
+    ":": [
+        "nuktapacha"
+    ],
+    "!": [
+        "alama ya mshangao",
+        "mshindo",
+        "shangaa"
+    ],
+    "¡": [
+        "alama ya mshangao",
+        "alama ya mshangao iliyopinduliwa",
+        "iliyopinduliwa",
+        "mshangao",
+        "mshindo",
+        "shangaa"
+    ],
+    "?": [
+        "alama ya kuuliza",
+        "swali"
+    ],
+    "¿": [
+        "alama ya kuuliza",
+        "alama ya kuuliza iliyopinduliwa",
+        "iliyopinduliwa",
+        "swali"
+    ],
+    "؟": [
+        "alama ya kuuliza",
+        "alama ya kuuliza ya kiarabu",
+        "kiarabu",
+        "swali"
+    ],
+    ".": [
+        "alama ya kikomo",
+        "kikomo",
+        "nukta"
+    ],
+    "…": [
+        "alama ya dukuduku",
+        "nukta",
+        "nukta ya dukuduku",
+        "ruko"
+    ],
+    "。": [
+        "alama ya kikomo",
+        "idiografia",
+        "kikomo",
+        "kikomo cha idiografia"
+    ],
+    "·": [
+        "alama ya kitone",
+        "kati",
+        "kitone",
+        "kitone cha kati"
+    ],
+    "'": [
+        "apostrofi",
+        "apostrofi ya taipureta",
+        "nukuu",
+        "nukuu moja"
+    ],
+    "‘": [
+        "alama ya nukuu",
+        "apostrofi",
+        "apostrofi ya kushoto",
+        "nukuu",
+        "nukuu moja"
+    ],
+    "’": [
+        "alama ya nukuu",
+        "apostrofi",
+        "apostrofi ya kulia",
+        "nukuu",
+        "nukuu moja"
+    ],
+    "‚": [
+        "apostrofi",
+        "apostrofi ya chini kulia",
+        "nukuu",
+        "nukuu ya chini"
+    ],
+    "“": [
+        "alama ya kunukuu",
+        "alama ya kunukuu ya kushoto",
+        "manukuu",
+        "nukuu",
+        "nukuu mbili"
+    ],
+    "”": [
+        "alama ya kunukuu",
+        "alama ya kunukuu ya kulia",
+        "manukuu",
+        "nukuu",
+        "nukuu mbili"
+    ],
+    "„": [
+        "alama ya kunukuu",
+        "alama ya kunukuu ya chini",
+        "alama ya kunukuu ya chini kushoto",
+        "manukuu",
+        "nukuu",
+        "nukuu mbili"
+    ],
+    "«": [
+        "dondoa",
+        "kareti",
+        "kushoto",
+        "mwango",
+        "pembe",
+        "tepe",
+        "vishale viwili vinavyoelekea kushoto"
+    ],
+    "»": [
+        "dondoa",
+        "kareti",
+        "kulia",
+        "mwango",
+        "pembe",
+        "tepe",
+        "vishale viwili vinavyoelekea kulia"
+    ],
+    ")": [
+        "funga mabano",
+        "mabano",
+        "mabano ya mduara"
+    ],
+    "[": [
+        "fungua mabano ya mraba",
+        "mabano",
+        "mabano mraba",
+        "robo"
+    ],
+    "]": [
+        "funga mabano mraba",
+        "mabano",
+        "mabano mraba",
+        "robo"
+    ],
+    "{": [
+        "fungua mabano yaliyokunjwa",
+        "mabano",
+        "mabano yaliyokunjwa"
+    ],
+    "}": [
+        "funga mabano yaliyokujwa",
+        "mabano",
+        "mabano yaliyokunjwa"
+    ],
+    "〈": [
+        "chevron",
+        "fungua mabano ya pembe",
+        "mabano",
+        "mabano makali",
+        "mabano ya almasi",
+        "mabano ya pembe"
+    ],
+    "〉": [
+        "chevron",
+        "funga mabano ya pembe",
+        "mabano",
+        "mabano makali",
+        "mabano ya almasi",
+        "mabano ya pembe"
+    ],
+    "《": [
+        "fungua mabano ya pembe mbili",
+        "mabano",
+        "mabano ya pembe mbili"
+    ],
+    "》": [
+        "funga mabano ya pembe mbili",
+        "mabano",
+        "mabano ya pembe mbili"
+    ],
+    "「": [
+        "fungua mabano ya kona",
+        "mabano",
+        "mabano ya kona"
+    ],
+    "」": [
+        "funga mabano ya kona",
+        "mabano",
+        "mabano ya kona"
+    ],
+    "『": [
+        "fungua mabano ya kona wazi",
+        "mabano",
+        "mabano ya kona wazi"
+    ],
+    "』": [
+        "funga mabano ya kona wazi",
+        "mabano",
+        "mabano ya kona wazi"
+    ],
+    "【": [
+        "fungua mabano ya lenzi nyeusi",
+        "mabano",
+        "mabano ya lenzi"
+    ],
+    "】": [
+        "funga mabano ya lenzi nyeusi",
+        "mabano",
+        "mabano ya lenzi"
+    ],
+    "〔": [
+        "fungua mabano ya kombe",
+        "mabano",
+        "mabano ya kombe"
+    ],
+    "〕": [
+        "funga mabano ya kombe",
+        "mabano",
+        "mabano ya kombe"
+    ],
+    "〖": [
+        "fungua mabano ya lenzi wazi",
+        "mabano",
+        "mabano ya lenzi wazi"
+    ],
+    "〗": [
+        "funga mabano ya lenzi wazi",
+        "mabano",
+        "mabano ya lenzi wazi"
+    ],
+    "§": [
+        "alama ya kifungu",
+        "aya",
+        "kifungu",
+        "sehemu"
+    ],
+    "¶": [
+        "alama ya aya",
+        "alinea",
+        "aya"
+    ],
+    "@": [
+        "alama ya ‘kwa’"
+    ],
+    "*️": [
+        "herufi wakilishi",
+        "kinyota",
+        "nyota"
+    ],
+    "/": [
+        "mgawo",
+        "mkwaju",
+        "mkwaju mbele",
+        "mshazari",
+        "mstari"
+    ],
+    "\\": [
+        "mgawo",
+        "mkwaji nyuma",
+        "mkwaju nyuma"
+    ],
+    "&": [
+        "alama ya na",
+        "na"
+    ],
+    "#️": [
+        "alama ya reli",
+        "nambari",
+        "pauni",
+        "reli"
+    ],
+    "%": [
+        "asili mia",
+        "asili-mia",
+        "asilimia"
+    ],
+    "‰": [
+        "kwa elfu"
+    ],
+    "†": [
+        "alama iliyotumika zamani katika maandishi",
+        "alama ya kurejea"
+    ],
+    "‡": [
+        "alama iliyotumika zamani katika maandishi",
+        "alama mbili za kurejea",
+        "alama ya kurejea",
+        "mara mbili"
+    ],
+    "•": [
+        "kitone",
+        "tobo"
+    ],
+    "‧": [
+        "kistari",
+        "kistariungio",
+        "sehemu",
+        "sehemu ya kistariungio"
+    ],
+    "′": [
+        "tasa"
+    ],
+    "″": [
+        "tasa",
+        "tasa mbili"
+    ],
+    "‴": [
+        "tasa",
+        "tasa tatu"
+    ],
+    "※": [
+        "alama ya kurejelea"
+    ],
+    "`": [
+        "lafudhi",
+        "lafudhi ya kuu",
+        "toni"
+    ],
+    "´": [
+        "kali",
+        "lafudhi",
+        "lafudhi kali",
+        "toni"
+    ],
+    "^": [
+        "alama ya xor",
+        "chevron",
+        "juu na kali",
+        "kali",
+        "kareti",
+        "lafudhi",
+        "lafudhi ya juu na kali",
+        "mshale",
+        "nguvu",
+        "udhibiti"
+    ],
+    "¨": [
+        "alama ya kutofautisha irabu mbili",
+        "trema",
+        "umlati"
+    ],
+    "°": [
+        "digrii",
+        "saa",
+        "thibitisho"
+    ],
+    "℗": [
+        "hakimiliki",
+        "hakimiliki ya rekodi ya sauti",
+        "rekodi",
+        "sauti"
+    ],
+    "←": [
+        "kushoto",
+        "mshale",
+        "mshale unaoelekea kushoto"
+    ],
+    "→": [
+        "kulia",
+        "mshale",
+        "mshale unaoelekea kulia"
+    ],
+    "↑": [
+        "juu",
+        "mshale",
+        "mshale unaoelekea juu"
+    ],
+    "↓": [
+        "chini",
+        "mshale",
+        "mshale unaoelekea chini"
+    ],
+    "⇅": [
+        "chini",
+        "juu",
+        "mshale",
+        "mshale unaoelekea juu na mwingine chini"
+    ],
+    "⇆": [
+        "kulia",
+        "kushoto",
+        "mshale",
+        "mshale unaoelekea kushoto juu ya mshale unaoelekea kulia"
+    ],
+    "∆": [
+        "nyongeza",
+        "pembetatu"
+    ],
+    "∇": [
+        "nabla",
+        "pembetatu"
+    ],
+    "∈": [
+        "inajumuisha",
+        "memba",
+        "memba ya",
+        "seti",
+        "umemba"
+    ],
+    "+": [
+        "alama ya kujumlisha",
+        "jumlisha",
+        "ongeza"
+    ],
+    "±": [
+        "jumlisha-toa"
+    ],
+    "÷": [
+        "alama iliyoashiria maandishi ya kutiliwa shaka",
+        "alama ya kugawanya",
+        "gawanya",
+        "kugawanya"
+    ],
+    "×": [
+        "alama ya kuzidisha",
+        "kuzidisha",
+        "mara nyingi",
+        "zidisha"
+    ],
+    "<": [
+        "chini ya",
+        "lebo",
+        "lebo ya kufungua"
+    ],
+    "=": [
+        "inalingana na",
+        "lingana"
+    ],
+    "≠": [
+        "hailingani",
+        "isiyolingana",
+        "kutokuwa sawa"
+    ],
+    ">": [
+        "lebo",
+        "lebo ya kufunga",
+        "zaidi ya"
+    ],
+    "¬": [
+        "sio",
+        "uhasi"
+    ],
+    "|": [
+        "alama",
+        "alama ya upau wima",
+        "mstari",
+        "mstari wima",
+        "upau",
+        "upau wima"
+    ],
+    "~": [
+        "kiwimbi"
+    ],
+    "−": [
+        "alama ya kutoa",
+        "ondoa",
+        "toa"
+    ],
+    "⁻": [
+        "alama ya kutoa",
+        "alama ya kutoa ya juu",
+        "juu"
+    ],
+    "√": [
+        "isiyoeleweka",
+        "kipeo",
+        "kipeo cha pili",
+        "mraba",
+        "mzizi"
+    ],
+    "∞": [
+        "alama ya isiyokoma",
+        "isiyokoma"
+    ],
+    "∩": [
+        "seti",
+        "ungano"
+    ],
+    "∪": [
+        "mkusanyiko",
+        "muungano",
+        "seti"
+    ],
+    "≈": [
+        "kadirio",
+        "karibia",
+        "karibu inalingana"
+    ],
+    "≡": [
+        "hasa",
+        "inafanana",
+        "inafanana na",
+        "mara tatu"
+    ],
+    "≤": [
+        "chini ya",
+        "chini ya au lingana",
+        "inalingana",
+        "kutokuwa sawa",
+        "lingana"
+    ],
+    "≥": [
+        "inalingana",
+        "kutokuwa sawa",
+        "lingana",
+        "zaidi ya",
+        "zaidi ya au lingana"
+    ],
+    "⊂": [
+        "seti",
+        "seti ndogo",
+        "seti ndogo ya"
+    ],
+    "▲": [
+        "juu",
+        "mshale",
+        "pembetatu",
+        "pembetatu iliyojazwa inayoelekea juu",
+        "uliojazwa"
+    ],
+    "▼": [
+        "chini",
+        "iliyojazwa",
+        "mshale",
+        "pembetatu",
+        "pembetatu iliyojazwa inayoelekea chini"
+    ],
+    "◊": [
+        "almasi",
+        "msambamba",
+        "msambamba sawa"
+    ],
+    "○": [
+        "mduara",
+        "mduara wazi",
+        "pete"
+    ],
+    "●": [
+        "mduara",
+        "mduara uliojazwa"
+    ],
+    "◯": [
+        "mduara",
+        "mduara mkubwa wazi",
+        "pete"
+    ],
+    "♪": [
+        "muziki",
+        "nane",
+        "noti",
+        "noti ya nane"
+    ],
+    "♭": [
+        "bemolle",
+        "kishukisho",
+        "muziki",
+        "noti"
+    ],
+    "♯": [
+        "diese",
+        "diesis",
+        "kipandisho",
+        "muziki",
+        "noti"
+    ],
     "😀": [
         "kenua",
-        "sura inayokenua",
-        "uso"
+        "uso",
+        "uso unaokenua"
     ],
     "😃": [
         "funguliwa",
         "mdomo",
         "tabasamu",
         "uso",
-        "uso unaotabasamu na mdomo uliofunguliwa",
+        "uso unaokenua wenye macho makubwa",
         "uso unaotabasamu wenye macho makubwa"
     ],
     "😄": [
@@ -18,8 +637,8 @@
         "mdomo",
         "tabasamu",
         "uso",
-        "uso unaotabasamu wenye macho ya tabasamu",
-        "uso unaotabasamu wenye mdomo uliofunguliwa na macho yanayotabasamu"
+        "uso unaokenua wenye macho ya tabasamu",
+        "uso unaotabasamu wenye macho ya tabasamu"
     ],
     "😁": [
         "kenua",
@@ -30,7 +649,6 @@
     ],
     "😆": [
         "cheka",
-        "funguliwa",
         "mdomo",
         "ridhika",
         "tabasamu",
@@ -38,12 +656,12 @@
         "uso unaotabasamu wenye mdomo wazi na macho yaliyofungwa"
     ],
     "😅": [
+        "aridi",
         "funguliwa",
         "jasho",
-        "jembamba",
         "tabasamu",
         "uso",
-        "uso unaotabasamu wenye tone la jasho na mdomo uliofunguliwa"
+        "uso unaotabasamu wenye tone la jasho"
     ],
     "🤣": [
         "angua kicheko",
@@ -69,6 +687,13 @@
         "uso",
         "uso uliogeuzwa juu chini"
     ],
+    "🫠": [
+        "didimia",
+        "fifia",
+        "toweka",
+        "uso unaoyeyuka",
+        "yeyuka"
+    ],
     "😉": [
         "konyeza",
         "uso",
@@ -84,9 +709,9 @@
     "😇": [
         "asiye na hatia",
         "duara ya mwangaza",
-        "kichimbakazi",
         "malaika",
         "njozi",
+        "tabasamu",
         "uso unaotabasamu ulio na mduara wa mwangaza juu yake"
     ],
     "🥰": [
@@ -97,7 +722,6 @@
     ],
     "😍": [
         "jicho",
-        "moyo",
         "tabasamu",
         "upendo",
         "uso",
@@ -112,7 +736,6 @@
     ],
     "😘": [
         "busu",
-        "moyo",
         "uso",
         "uso unaotoa busu"
     ],
@@ -203,6 +826,21 @@
         "lo!",
         "uso uliofunika mdomo kwa mkono"
     ],
+    "🫢": [
+        "aibu",
+        "kushangaa",
+        "kustaajabu",
+        "kutoamini",
+        "mshangao",
+        "uso wenye macho wazi na mkono kwenye mdomo",
+        "woga"
+    ],
+    "🫣": [
+        "chungulia",
+        "kodolea",
+        "uso wenye macho yanayochungulia",
+        "vutiwa"
+    ],
     "🤫": [
         "kimya",
         "nyamaza",
@@ -212,6 +850,14 @@
         "kufikiri",
         "uso",
         "uso unaotafakari"
+    ],
+    "🫡": [
+        "jeshi",
+        "ndiyo",
+        "saluti",
+        "sawa",
+        "uchangamfu",
+        "uso unaopiga saluti"
     ],
     "🤐": [
         "mdomo",
@@ -244,6 +890,21 @@
         "uso",
         "uso bila mdomo"
     ],
+    "🫥": [
+        "kujificha",
+        "kutoonekana",
+        "kutoweka",
+        "mfadhaiko",
+        "mndani",
+        "uso uliochorwa kwa vitone"
+    ],
+    "😶‍🌫": [
+        "fikra za mbali",
+        "kichwa katika mawingu",
+        "uso katika mawingu",
+        "uso kwa ukungu",
+        "uso kwenye mawingu"
+    ],
     "😏": [
         "beza",
         "uso",
@@ -252,23 +913,34 @@
     "😒": [
         "kukosa furaha",
         "kutofurahi",
-        "uso",
         "uso usio na furaha"
     ],
     "🙄": [
+        "kubiringika",
         "kurembua",
         "macho",
         "usio wenye macho yanayorembua",
-        "uso"
+        "uso",
+        "uso wenye macho yanayorembua"
     ],
     "😬": [
         "kunja",
         "uso",
         "uso uliokunjwa"
     ],
+    "😮‍💨": [
+        "binja",
+        "farijika",
+        "kite",
+        "kukamata",
+        "nong’ona",
+        "pumua",
+        "uso unaopumua"
+    ],
     "🤥": [
         "kudanganya",
         "pinocchio",
+        "uso unaodanganya",
         "uwongo"
     ],
     "😌": [
@@ -365,6 +1037,14 @@
         "uso",
         "uso unaoonyesha kuwa na kizunguzungu"
     ],
+    "😵‍💫": [
+        "hiponozi",
+        "kilevilevi",
+        "kuzunguka",
+        "tatizo",
+        "uso wenye macho yanayozunguka",
+        "whoa"
+    ],
     "🤯": [
         "kichwa kinacholipuka",
         "mshtuko"
@@ -412,6 +1092,13 @@
         "kuchanganyikiwa",
         "uso",
         "uso uliochanganyikiwa"
+    ],
+    "🫤": [
+        "kushuku",
+        "kusikitika",
+        "kutokuwa na uhakika",
+        "kutovutiwa",
+        "uso wenye mdomo uliopinda"
     ],
     "😟": [
         "uso",
@@ -461,6 +1148,14 @@
         "sihi",
         "uso unaosihi"
     ],
+    "🥹": [
+        "huzuni",
+        "kasirika",
+        "kiburi",
+        "lia",
+        "uso unaolengwalengwa na machozi",
+        "zuia"
+    ],
     "😦": [
         "funguliwa",
         "kununa",
@@ -493,8 +1188,7 @@
         "faraja",
         "kufarijika",
         "kusikitika",
-        "uso",
-        "uso uliosikitika lakini unaoonyesha kufarijika"
+        "uso"
     ],
     "😢": [
         "chozi",
@@ -763,18 +1457,9 @@
         "kuzungumza",
         "marufuku",
         "nyani",
-        "nyani alifunika mdomo kwa mikono",
         "nyani aliyefunika mdomo kwa mikono",
         "uovu",
         "uso"
-    ],
-    "💋": [
-        "alama",
-        "alama ya busu",
-        "busu",
-        "mapenzi",
-        "midomo",
-        "moyo"
     ],
     "💌": [
         "barua",
@@ -843,6 +1528,23 @@
         "vunja",
         "vunjika"
     ],
+    "❤‍🔥": [
+        "chomeka",
+        "moyo",
+        "moyo mtakatifu",
+        "moyo unaochomeka",
+        "penda",
+        "tamaa"
+    ],
+    "❤‍🩹": [
+        "anaimarika",
+        "anapata nafuu",
+        "anapona",
+        "kurekebisha moyo",
+        "mwenye afya",
+        "rekebisha",
+        "vizuri"
+    ],
     "❤️": [
         "moyo",
         "moyo mwekundu"
@@ -877,14 +1579,23 @@
         "moyo wa hudhurungi"
     ],
     "🖤": [
-        "moyo",
         "moyo mweusi",
-        "umbo nyeusi la moyo"
+        "nyeusi",
+        "umbo nyeusi la moyo",
+        "uovu"
     ],
     "🤍": [
         "moyo",
         "moyo mweupe",
         "nyeupe"
+    ],
+    "💋": [
+        "alama",
+        "alama ya busu",
+        "busu",
+        "mapenzi",
+        "midomo",
+        "moyo"
     ],
     "💯": [
         "100",
@@ -923,10 +1634,6 @@
     ],
     "🕳️": [
         "shimo"
-    ],
-    "💣️": [
-        "bomu",
-        "kibonzo"
     ],
     "💬": [
         "ishara",
@@ -1055,7 +1762,6 @@
         "kidole",
         "mkono",
         "mkono ulioinuliwa wenye vidole vilivyotanuliwa",
-        "mwili",
         "tanuliwa"
     ],
     "🖐🏻": [
@@ -1063,7 +1769,6 @@
         "mkono",
         "mkono ulioinuliwa wenye vidole vilivyotanuliwa",
         "mkono ulioinuliwa wenye vidole vilivyotanuliwa: ngozi nyeupe",
-        "mwili",
         "ngozi nyeupe",
         "tanuliwa"
     ],
@@ -1072,7 +1777,6 @@
         "mkono",
         "mkono ulioinuliwa wenye vidole vilivyotanuliwa",
         "mkono ulioinuliwa wenye vidole vilivyotanuliwa: ngozi nyeupe kiasi",
-        "mwili",
         "ngozi nyeupe kiasi",
         "tanuliwa"
     ],
@@ -1081,7 +1785,6 @@
         "mkono",
         "mkono ulioinuliwa wenye vidole vilivyotanuliwa",
         "mkono ulioinuliwa wenye vidole vilivyotanuliwa: ngozi ya kahawia",
-        "mwili",
         "ngozi ya kahawia",
         "tanuliwa"
     ],
@@ -1090,7 +1793,6 @@
         "mkono",
         "mkono ulioinuliwa wenye vidole vilivyotanuliwa",
         "mkono ulioinuliwa wenye vidole vilivyotanuliwa: ngozi nyeusi kiasi",
-        "mwili",
         "ngozi nyeusi kiasi",
         "tanuliwa"
     ],
@@ -1099,48 +1801,41 @@
         "mkono",
         "mkono ulioinuliwa wenye vidole vilivyotanuliwa",
         "mkono ulioinuliwa wenye vidole vilivyotanuliwa: ngozi nyeusi",
-        "mwili",
         "ngozi nyeusi",
         "tanuliwa"
     ],
     "✋": [
         "mkono",
-        "mkono ulioinuliwa",
-        "mwili"
+        "mkono ulioinuliwa"
     ],
     "✋🏻": [
         "mkono",
         "mkono ulioinuliwa",
         "mkono ulioinuliwa: ngozi nyeupe",
-        "mwili",
         "ngozi nyeupe"
     ],
     "✋🏼": [
         "mkono",
         "mkono ulioinuliwa",
         "mkono ulioinuliwa: ngozi nyeupe kiasi",
-        "mwili",
         "ngozi nyeupe kiasi"
     ],
     "✋🏽": [
         "mkono",
         "mkono ulioinuliwa",
         "mkono ulioinuliwa: ngozi ya kahawia",
-        "mwili",
         "ngozi ya kahawia"
     ],
     "✋🏾": [
         "mkono",
         "mkono ulioinuliwa",
         "mkono ulioinuliwa: ngozi nyeusi kiasi",
-        "mwili",
         "ngozi nyeusi kiasi"
     ],
     "✋🏿": [
         "mkono",
         "mkono ulioinuliwa",
         "mkono ulioinuliwa: ngozi nyeusi",
-        "mwili",
         "ngozi nyeusi"
     ],
     "🖖": [
@@ -1200,6 +1895,376 @@
         "ngozi nyeusi",
         "spoku",
         "vulkani"
+    ],
+    "🫱": [
+        "kuelekea kulia",
+        "kulia",
+        "mkono",
+        "mkono unaoelekea kulia"
+    ],
+    "🫱🏻": [
+        "kuelekea kulia",
+        "kulia",
+        "mkono",
+        "mkono unaoelekea kulia",
+        "mkono unaoelekea kulia: ngozi nyeupe",
+        "ngozi nyeupe"
+    ],
+    "🫱🏼": [
+        "kuelekea kulia",
+        "kulia",
+        "mkono",
+        "mkono unaoelekea kulia",
+        "mkono unaoelekea kulia: ngozi nyeupe kiasi",
+        "ngozi nyeupe kiasi"
+    ],
+    "🫱🏽": [
+        "kuelekea kulia",
+        "kulia",
+        "mkono",
+        "mkono unaoelekea kulia",
+        "mkono unaoelekea kulia: ngozi ya kahawia",
+        "ngozi ya kahawia"
+    ],
+    "🫱🏾": [
+        "kuelekea kulia",
+        "kulia",
+        "mkono",
+        "mkono unaoelekea kulia",
+        "mkono unaoelekea kulia: ngozi nyeusi kiasi",
+        "ngozi nyeusi kiasi"
+    ],
+    "🫱🏿": [
+        "kuelekea kulia",
+        "kulia",
+        "mkono",
+        "mkono unaoelekea kulia",
+        "mkono unaoelekea kulia: ngozi nyeusi",
+        "ngozi nyeusi"
+    ],
+    "🫱🏻‍🫲🏼": [
+        "kusalimiana",
+        "kusalimiana: ngozi nyeupe na ngozi nyeupe kiasi",
+        "maafikiano",
+        "makubaliano",
+        "ngozi nyeupe",
+        "ngozi nyeupe kiasi",
+        "salamu"
+    ],
+    "🫱🏻‍🫲🏽": [
+        "kusalimiana",
+        "kusalimiana: ngozi nyeupe na ngozi ya kahawia",
+        "maafikiano",
+        "makubaliano",
+        "ngozi nyeupe",
+        "ngozi ya kahawia",
+        "salamu"
+    ],
+    "🫱🏻‍🫲🏾": [
+        "kusalimiana",
+        "kusalimiana: ngozi nyeupe na ngozi nyeusi kiasi",
+        "maafikiano",
+        "makubaliano",
+        "ngozi nyeupe",
+        "ngozi nyeusi kiasi",
+        "salamu"
+    ],
+    "🫱🏻‍🫲🏿": [
+        "kusalimiana",
+        "kusalimiana: ngozi nyeupe na ngozi nyeusi",
+        "maafikiano",
+        "makubaliano",
+        "ngozi nyeupe",
+        "ngozi nyeusi",
+        "salamu"
+    ],
+    "🫱🏼‍🫲🏻": [
+        "kusalimiana",
+        "kusalimiana: ngozi nyeupe kiasi na ngozi nyeupe",
+        "maafikiano",
+        "makubaliano",
+        "ngozi nyeupe",
+        "ngozi nyeupe kiasi",
+        "salamu"
+    ],
+    "🫱🏼‍🫲🏽": [
+        "kusalimiana",
+        "kusalimiana: ngozi nyeupe kiasi na ngozi ya kahawia",
+        "maafikiano",
+        "makubaliano",
+        "ngozi nyeupe kiasi",
+        "ngozi ya kahawia",
+        "salamu"
+    ],
+    "🫱🏼‍🫲🏾": [
+        "kusalimiana",
+        "kusalimiana: ngozi nyeupe kiasi na ngozi nyeusi kiasi",
+        "maafikiano",
+        "makubaliano",
+        "ngozi nyeupe kiasi",
+        "ngozi nyeusi kiasi",
+        "salamu"
+    ],
+    "🫱🏼‍🫲🏿": [
+        "kusalimiana",
+        "kusalimiana: ngozi nyeupe kiasi na ngozi nyeusi",
+        "maafikiano",
+        "makubaliano",
+        "ngozi nyeupe kiasi",
+        "ngozi nyeusi",
+        "salamu"
+    ],
+    "🫱🏽‍🫲🏻": [
+        "kusalimiana",
+        "kusalimiana: ngozi ya kahawia na ngozi nyeupe",
+        "maafikiano",
+        "makubaliano",
+        "ngozi nyeupe",
+        "ngozi ya kahawia",
+        "salamu"
+    ],
+    "🫱🏽‍🫲🏼": [
+        "kusalimiana",
+        "kusalimiana: ngozi ya kahawia na ngozi nyeupe kiasi",
+        "maafikiano",
+        "makubaliano",
+        "ngozi nyeupe kiasi",
+        "ngozi ya kahawia",
+        "salamu"
+    ],
+    "🫱🏽‍🫲🏾": [
+        "kusalimiana",
+        "kusalimiana: ngozi ya kahawia na ngozi nyeusi kiasi",
+        "maafikiano",
+        "makubaliano",
+        "ngozi nyeusi kiasi",
+        "ngozi ya kahawia",
+        "salamu"
+    ],
+    "🫱🏽‍🫲🏿": [
+        "kusalimiana",
+        "kusalimiana: ngozi ya kahawia na ngozi nyeusi",
+        "maafikiano",
+        "makubaliano",
+        "ngozi nyeusi",
+        "ngozi ya kahawia",
+        "salamu"
+    ],
+    "🫱🏾‍🫲🏻": [
+        "kusalimiana",
+        "kusalimiana: ngozi nyeusi kiasi na ngozi nyeupe",
+        "maafikiano",
+        "makubaliano",
+        "ngozi nyeupe",
+        "ngozi nyeusi kiasi",
+        "salamu"
+    ],
+    "🫱🏾‍🫲🏼": [
+        "kusalimiana",
+        "kusalimiana: ngozi nyeusi kiasi na ngozi nyeupe kiasi",
+        "maafikiano",
+        "makubaliano",
+        "ngozi nyeupe kiasi",
+        "ngozi nyeusi kiasi",
+        "salamu"
+    ],
+    "🫱🏾‍🫲🏽": [
+        "kusalimiana",
+        "kusalimiana: ngozi nyeusi kiasi na ngozi ya kahawia",
+        "maafikiano",
+        "makubaliano",
+        "ngozi nyeusi kiasi",
+        "ngozi ya kahawia",
+        "salamu"
+    ],
+    "🫱🏾‍🫲🏿": [
+        "kusalimiana",
+        "kusalimiana: ngozi nyeusi kiasi na ngozi nyeusi",
+        "maafikiano",
+        "makubaliano",
+        "ngozi nyeusi",
+        "ngozi nyeusi kiasi",
+        "salamu"
+    ],
+    "🫱🏿‍🫲🏻": [
+        "kusalimiana",
+        "kusalimiana: ngozi nyeusi na ngozi nyeupe",
+        "maafikiano",
+        "makubaliano",
+        "ngozi nyeupe",
+        "ngozi nyeusi",
+        "salamu"
+    ],
+    "🫱🏿‍🫲🏼": [
+        "kusalimiana",
+        "kusalimiana: ngozi nyeusi na ngozi nyeupe kiasi",
+        "maafikiano",
+        "makubaliano",
+        "ngozi nyeupe kiasi",
+        "ngozi nyeusi",
+        "salamu"
+    ],
+    "🫱🏿‍🫲🏽": [
+        "kusalimiana",
+        "kusalimiana: ngozi nyeusi na ngozi ya kahawia",
+        "maafikiano",
+        "makubaliano",
+        "ngozi nyeusi",
+        "ngozi ya kahawia",
+        "salamu"
+    ],
+    "🫱🏿‍🫲🏾": [
+        "kusalimiana",
+        "kusalimiana: ngozi nyeusi na ngozi nyeusi kiasi",
+        "maafikiano",
+        "makubaliano",
+        "ngozi nyeusi",
+        "ngozi nyeusi kiasi",
+        "salamu"
+    ],
+    "🫲": [
+        "kuelekea kushoto",
+        "kushoto",
+        "mkono",
+        "mkono unaoelekea kushoto"
+    ],
+    "🫲🏻": [
+        "kuelekea kushoto",
+        "kushoto",
+        "mkono",
+        "mkono unaoelekea kushoto",
+        "mkono unaoelekea kushoto: ngozi nyeupe",
+        "ngozi nyeupe"
+    ],
+    "🫲🏼": [
+        "kuelekea kushoto",
+        "kushoto",
+        "mkono",
+        "mkono unaoelekea kushoto",
+        "mkono unaoelekea kushoto: ngozi nyeupe kiasi",
+        "ngozi nyeupe kiasi"
+    ],
+    "🫲🏽": [
+        "kuelekea kushoto",
+        "kushoto",
+        "mkono",
+        "mkono unaoelekea kushoto",
+        "mkono unaoelekea kushoto: ngozi ya kahawia",
+        "ngozi ya kahawia"
+    ],
+    "🫲🏾": [
+        "kuelekea kushoto",
+        "kushoto",
+        "mkono",
+        "mkono unaoelekea kushoto",
+        "mkono unaoelekea kushoto: ngozi nyeusi kiasi",
+        "ngozi nyeusi kiasi"
+    ],
+    "🫲🏿": [
+        "kuelekea kushoto",
+        "kushoto",
+        "mkono",
+        "mkono unaoelekea kushoto",
+        "mkono unaoelekea kushoto: ngozi nyeusi",
+        "ngozi nyeusi"
+    ],
+    "🫳": [
+        "angusha",
+        "fukuza",
+        "mkono wenye kiganja kinachoelekea chini",
+        "puuza"
+    ],
+    "🫳🏻": [
+        "angusha",
+        "fukuza",
+        "mkono wenye kiganja kinachoelekea chini",
+        "mkono wenye kiganja kinachoelekea chini: ngozi nyeupe",
+        "ngozi nyeupe",
+        "puuza"
+    ],
+    "🫳🏼": [
+        "angusha",
+        "fukuza",
+        "mkono wenye kiganja kinachoelekea chini",
+        "mkono wenye kiganja kinachoelekea chini: ngozi nyeupe kiasi",
+        "ngozi nyeupe kiasi",
+        "puuza"
+    ],
+    "🫳🏽": [
+        "angusha",
+        "fukuza",
+        "mkono wenye kiganja kinachoelekea chini",
+        "mkono wenye kiganja kinachoelekea chini: ngozi ya kahawia",
+        "ngozi ya kahawia",
+        "puuza"
+    ],
+    "🫳🏾": [
+        "angusha",
+        "fukuza",
+        "mkono wenye kiganja kinachoelekea chini",
+        "mkono wenye kiganja kinachoelekea chini: ngozi nyeusi kiasi",
+        "ngozi nyeusi kiasi",
+        "puuza"
+    ],
+    "🫳🏿": [
+        "angusha",
+        "fukuza",
+        "mkono wenye kiganja kinachoelekea chini",
+        "mkono wenye kiganja kinachoelekea chini: ngozi nyeusi",
+        "ngozi nyeusi",
+        "puuza"
+    ],
+    "🫴": [
+        "ita",
+        "mkono wenye kiganja kinachoelekea juu",
+        "njoo",
+        "patia",
+        "shika"
+    ],
+    "🫴🏻": [
+        "ita",
+        "mkono wenye kiganja kinachoelekea juu",
+        "mkono wenye kiganja kinachoelekea juu: ngozi nyeupe",
+        "ngozi nyeupe",
+        "njoo",
+        "patia",
+        "shika"
+    ],
+    "🫴🏼": [
+        "ita",
+        "mkono wenye kiganja kinachoelekea juu",
+        "mkono wenye kiganja kinachoelekea juu: ngozi nyeupe kiasi",
+        "ngozi nyeupe kiasi",
+        "njoo",
+        "patia",
+        "shika"
+    ],
+    "🫴🏽": [
+        "ita",
+        "mkono wenye kiganja kinachoelekea juu",
+        "mkono wenye kiganja kinachoelekea juu: ngozi ya kahawia",
+        "ngozi ya kahawia",
+        "njoo",
+        "patia",
+        "shika"
+    ],
+    "🫴🏾": [
+        "ita",
+        "mkono wenye kiganja kinachoelekea juu",
+        "mkono wenye kiganja kinachoelekea juu: ngozi nyeusi kiasi",
+        "ngozi nyeusi kiasi",
+        "njoo",
+        "patia",
+        "shika"
+    ],
+    "🫴🏿": [
+        "ita",
+        "mkono wenye kiganja kinachoelekea juu",
+        "mkono wenye kiganja kinachoelekea juu: ngozi nyeusi",
+        "ngozi nyeusi",
+        "njoo",
+        "patia",
+        "shika"
     ],
     "👌": [
         "mkono",
@@ -1430,6 +2495,64 @@
         "kubahatisha",
         "mkono",
         "ngozi nyeusi"
+    ],
+    "🫰": [
+        "ghali",
+        "moyo",
+        "mwaliko",
+        "pesa",
+        "upendo",
+        "vidole vya shahada na gumba vinavyopitana"
+    ],
+    "🫰🏻": [
+        "ghali",
+        "moyo",
+        "mwaliko",
+        "ngozi nyeupe",
+        "pesa",
+        "upendo",
+        "vidole vya shahada na gumba vinavyopitana",
+        "vidole vya shahada na gumba vinavyopitana: ngozi nyeupe"
+    ],
+    "🫰🏼": [
+        "ghali",
+        "moyo",
+        "mwaliko",
+        "ngozi nyeupe kiasi",
+        "pesa",
+        "upendo",
+        "vidole vya shahada na gumba vinavyopitana",
+        "vidole vya shahada na gumba vinavyopitana: ngozi nyeupe kiasi"
+    ],
+    "🫰🏽": [
+        "ghali",
+        "moyo",
+        "mwaliko",
+        "ngozi ya kahawia",
+        "pesa",
+        "upendo",
+        "vidole vya shahada na gumba vinavyopitana",
+        "vidole vya shahada na gumba vinavyopitana: ngozi ya kahawia"
+    ],
+    "🫰🏾": [
+        "ghali",
+        "moyo",
+        "mwaliko",
+        "ngozi nyeusi kiasi",
+        "pesa",
+        "upendo",
+        "vidole vya shahada na gumba vinavyopitana",
+        "vidole vya shahada na gumba vinavyopitana: ngozi nyeusi kiasi"
+    ],
+    "🫰🏿": [
+        "ghali",
+        "moyo",
+        "mwaliko",
+        "ngozi nyeusi",
+        "pesa",
+        "upendo",
+        "vidole vya shahada na gumba vinavyopitana",
+        "vidole vya shahada na gumba vinavyopitana: ngozi nyeusi"
     ],
     "🤟": [
         "ishara ya \"nakupenda\"",
@@ -1917,6 +3040,46 @@
         "mkono",
         "ngozi nyeusi"
     ],
+    "🫵": [
+        "kidole cha shahada kinachomwelekea mtazamaji",
+        "kuelekezea kidole",
+        "wewe"
+    ],
+    "🫵🏻": [
+        "kidole cha shahada kinachomwelekea mtazamaji",
+        "kidole cha shahada kinachomwelekea mtazamaji: ngozi nyeupe",
+        "kuelekezea kidole",
+        "ngozi nyeupe",
+        "wewe"
+    ],
+    "🫵🏼": [
+        "kidole cha shahada kinachomwelekea mtazamaji",
+        "kidole cha shahada kinachomwelekea mtazamaji: ngozi nyeupe kiasi",
+        "kuelekezea kidole",
+        "ngozi nyeupe kiasi",
+        "wewe"
+    ],
+    "🫵🏽": [
+        "kidole cha shahada kinachomwelekea mtazamaji",
+        "kidole cha shahada kinachomwelekea mtazamaji: ngozi ya kahawia",
+        "kuelekezea kidole",
+        "ngozi ya kahawia",
+        "wewe"
+    ],
+    "🫵🏾": [
+        "kidole cha shahada kinachomwelekea mtazamaji",
+        "kidole cha shahada kinachomwelekea mtazamaji: ngozi nyeusi kiasi",
+        "kuelekezea kidole",
+        "ngozi nyeusi kiasi",
+        "wewe"
+    ],
+    "🫵🏿": [
+        "kidole cha shahada kinachomwelekea mtazamaji",
+        "kidole cha shahada kinachomwelekea mtazamaji: ngozi nyeusi",
+        "kuelekezea kidole",
+        "ngozi nyeusi",
+        "wewe"
+    ],
     "👍️": [
         "1",
         "dole gumba juu",
@@ -2315,6 +3478,40 @@
         "ngozi nyeusi",
         "shangwe"
     ],
+    "🫶": [
+        "mikono inayoonyesha ishara ya moyo",
+        "upendo"
+    ],
+    "🫶🏻": [
+        "mikono inayoonyesha ishara ya moyo",
+        "mikono inayoonyesha ishara ya moyo: ngozi nyeupe",
+        "ngozi nyeupe",
+        "upendo"
+    ],
+    "🫶🏼": [
+        "mikono inayoonyesha ishara ya moyo",
+        "mikono inayoonyesha ishara ya moyo: ngozi nyeupe kiasi",
+        "ngozi nyeupe kiasi",
+        "upendo"
+    ],
+    "🫶🏽": [
+        "mikono inayoonyesha ishara ya moyo",
+        "mikono inayoonyesha ishara ya moyo: ngozi ya kahawia",
+        "ngozi ya kahawia",
+        "upendo"
+    ],
+    "🫶🏾": [
+        "mikono inayoonyesha ishara ya moyo",
+        "mikono inayoonyesha ishara ya moyo: ngozi nyeusi kiasi",
+        "ngozi nyeusi kiasi",
+        "upendo"
+    ],
+    "🫶🏿": [
+        "mikono inayoonyesha ishara ya moyo",
+        "mikono inayoonyesha ishara ya moyo: ngozi nyeusi",
+        "ngozi nyeusi",
+        "upendo"
+    ],
     "👐": [
         "mikono iliyowazi",
         "mkono",
@@ -2399,6 +3596,46 @@
         "kusalimiana",
         "maafikiano",
         "makubaliano",
+        "salamu"
+    ],
+    "🤝🏻": [
+        "kusalimiana",
+        "kusalimiana: ngozi nyeupe",
+        "maafikiano",
+        "makubaliano",
+        "ngozi nyeupe",
+        "salamu"
+    ],
+    "🤝🏼": [
+        "kusalimiana",
+        "kusalimiana: ngozi nyeupe kiasi",
+        "maafikiano",
+        "makubaliano",
+        "ngozi nyeupe kiasi",
+        "salamu"
+    ],
+    "🤝🏽": [
+        "kusalimiana",
+        "kusalimiana: ngozi ya kahawia",
+        "maafikiano",
+        "makubaliano",
+        "ngozi ya kahawia",
+        "salamu"
+    ],
+    "🤝🏾": [
+        "kusalimiana",
+        "kusalimiana: ngozi nyeusi kiasi",
+        "maafikiano",
+        "makubaliano",
+        "ngozi nyeusi kiasi",
+        "salamu"
+    ],
+    "🤝🏿": [
+        "kusalimiana",
+        "kusalimiana: ngozi nyeusi",
+        "maafikiano",
+        "makubaliano",
+        "ngozi nyeusi",
         "salamu"
     ],
     "🙏": [
@@ -2577,42 +3814,42 @@
     ],
     "🤳": [
         "kamera",
-        "selfie",
+        "selfi",
         "simu"
     ],
     "🤳🏻": [
         "kamera",
         "ngozi nyeupe",
-        "selfie",
-        "selfie: ngozi nyeupe",
+        "selfi",
+        "selfi: ngozi nyeupe",
         "simu"
     ],
     "🤳🏼": [
         "kamera",
         "ngozi nyeupe kiasi",
-        "selfie",
-        "selfie: ngozi nyeupe kiasi",
+        "selfi",
+        "selfi: ngozi nyeupe kiasi",
         "simu"
     ],
     "🤳🏽": [
         "kamera",
         "ngozi ya kahawia",
-        "selfie",
-        "selfie: ngozi ya kahawia",
+        "selfi",
+        "selfi: ngozi ya kahawia",
         "simu"
     ],
     "🤳🏾": [
         "kamera",
         "ngozi nyeusi kiasi",
-        "selfie",
-        "selfie: ngozi nyeusi kiasi",
+        "selfi",
+        "selfi: ngozi nyeusi kiasi",
         "simu"
     ],
     "🤳🏿": [
         "kamera",
         "ngozi nyeusi",
-        "selfie",
-        "selfie: ngozi nyeusi",
+        "selfi",
+        "selfi: ngozi nyeusi",
         "simu"
     ],
     "💪": [
@@ -2910,6 +4147,15 @@
         "midomo",
         "mwili"
     ],
+    "🫦": [
+        "hofu",
+        "kuchezea",
+        "kufadhaika",
+        "kuogopa",
+        "kuuma mdomo",
+        "wasi wasi",
+        "woga"
+    ],
     "👶": [
         "mchanga",
         "mtoto"
@@ -3150,6 +4396,406 @@
         "nywele",
         "rangi ya shaba"
     ],
+    "🧑🏻‍❤‍💋‍🧑🏼": [
+        "busu",
+        "busu: mtu mzima, mtu mzima, ngozi nyeupe na ngozi nyeupe kiasi",
+        "mapenzi",
+        "mtu mzima",
+        "mume na mke",
+        "ngozi nyeupe",
+        "ngozi nyeupe kiasi"
+    ],
+    "🧑🏻‍❤‍💋‍🧑🏽": [
+        "busu",
+        "busu: mtu mzima, mtu mzima, ngozi nyeupe na ngozi ya kahawia",
+        "mapenzi",
+        "mtu mzima",
+        "mume na mke",
+        "ngozi nyeupe",
+        "ngozi ya kahawia"
+    ],
+    "🧑🏻‍❤‍💋‍🧑🏾": [
+        "busu",
+        "busu: mtu mzima, mtu mzima, ngozi nyeupe na ngozi nyeusi kiasi",
+        "mapenzi",
+        "mtu mzima",
+        "mume na mke",
+        "ngozi nyeupe",
+        "ngozi nyeusi kiasi"
+    ],
+    "🧑🏻‍❤‍💋‍🧑🏿": [
+        "busu",
+        "busu: mtu mzima, mtu mzima, ngozi nyeupe na ngozi nyeusi",
+        "mapenzi",
+        "mtu mzima",
+        "mume na mke",
+        "ngozi nyeupe",
+        "ngozi nyeusi"
+    ],
+    "🧑🏼‍❤‍💋‍🧑🏻": [
+        "busu",
+        "busu: mtu mzima, mtu mzima, ngozi nyeupe kiasi na ngozi nyeupe",
+        "mapenzi",
+        "mtu mzima",
+        "mume na mke",
+        "ngozi nyeupe",
+        "ngozi nyeupe kiasi"
+    ],
+    "🧑🏼‍❤‍💋‍🧑🏽": [
+        "busu",
+        "busu: mtu mzima, mtu mzima, ngozi nyeupe kiasi na ngozi ya kahawia",
+        "mapenzi",
+        "mtu mzima",
+        "mume na mke",
+        "ngozi nyeupe kiasi",
+        "ngozi ya kahawia"
+    ],
+    "🧑🏼‍❤‍💋‍🧑🏾": [
+        "busu",
+        "busu: mtu mzima, mtu mzima, ngozi nyeupe kiasi na ngozi nyeusi kiasi",
+        "mapenzi",
+        "mtu mzima",
+        "mume na mke",
+        "ngozi nyeupe kiasi",
+        "ngozi nyeusi kiasi"
+    ],
+    "🧑🏼‍❤‍💋‍🧑🏿": [
+        "busu",
+        "busu: mtu mzima, mtu mzima, ngozi nyeupe kiasi na ngozi nyeusi",
+        "mapenzi",
+        "mtu mzima",
+        "mume na mke",
+        "ngozi nyeupe kiasi",
+        "ngozi nyeusi"
+    ],
+    "🧑🏽‍❤‍💋‍🧑🏻": [
+        "busu",
+        "busu: mtu mzima, mtu mzima, ngozi ya kahawia na ngozi nyeupe",
+        "mapenzi",
+        "mtu mzima",
+        "mume na mke",
+        "ngozi nyeupe",
+        "ngozi ya kahawia"
+    ],
+    "🧑🏽‍❤‍💋‍🧑🏼": [
+        "busu",
+        "busu: mtu mzima, mtu mzima, ngozi ya kahawia na ngozi nyeupe kiasi",
+        "mapenzi",
+        "mtu mzima",
+        "mume na mke",
+        "ngozi nyeupe kiasi",
+        "ngozi ya kahawia"
+    ],
+    "🧑🏽‍❤‍💋‍🧑🏾": [
+        "busu",
+        "busu: mtu mzima, mtu mzima, ngozi ya kahawia na ngozi nyeusi kiasi",
+        "mapenzi",
+        "mtu mzima",
+        "mume na mke",
+        "ngozi nyeusi kiasi",
+        "ngozi ya kahawia"
+    ],
+    "🧑🏽‍❤‍💋‍🧑🏿": [
+        "busu",
+        "busu: mtu mzima, mtu mzima, ngozi ya kahawia na ngozi nyeusi",
+        "mapenzi",
+        "mtu mzima",
+        "mume na mke",
+        "ngozi nyeusi",
+        "ngozi ya kahawia"
+    ],
+    "🧑🏾‍❤‍💋‍🧑🏻": [
+        "busu",
+        "busu: mtu mzima, mtu mzima, ngozi nyeusi kiasi na ngozi nyeupe",
+        "mapenzi",
+        "mtu mzima",
+        "mume na mke",
+        "ngozi nyeupe",
+        "ngozi nyeusi kiasi"
+    ],
+    "🧑🏾‍❤‍💋‍🧑🏼": [
+        "busu",
+        "busu: mtu mzima, mtu mzima, ngozi nyeusi kiasi na ngozi nyeupe kiasi",
+        "mapenzi",
+        "mtu mzima",
+        "mume na mke",
+        "ngozi nyeupe kiasi",
+        "ngozi nyeusi kiasi"
+    ],
+    "🧑🏾‍❤‍💋‍🧑🏽": [
+        "busu",
+        "busu: mtu mzima, mtu mzima, ngozi nyeusi kiasi na ngozi ya kahawia",
+        "mapenzi",
+        "mtu mzima",
+        "mume na mke",
+        "ngozi nyeusi kiasi",
+        "ngozi ya kahawia"
+    ],
+    "🧑🏾‍❤‍💋‍🧑🏿": [
+        "busu",
+        "busu: mtu mzima, mtu mzima, ngozi nyeusi kiasi na ngozi nyeusi",
+        "mapenzi",
+        "mtu mzima",
+        "mume na mke",
+        "ngozi nyeusi",
+        "ngozi nyeusi kiasi"
+    ],
+    "🧑🏿‍❤‍💋‍🧑🏻": [
+        "busu",
+        "busu: mtu mzima, mtu mzima, ngozi nyeusi na ngozi nyeupe",
+        "mapenzi",
+        "mtu mzima",
+        "mume na mke",
+        "ngozi nyeupe",
+        "ngozi nyeusi"
+    ],
+    "🧑🏿‍❤‍💋‍🧑🏼": [
+        "busu",
+        "busu: mtu mzima, mtu mzima, ngozi nyeusi na ngozi nyeupe kiasi",
+        "mapenzi",
+        "mtu mzima",
+        "mume na mke",
+        "ngozi nyeupe kiasi",
+        "ngozi nyeusi"
+    ],
+    "🧑🏿‍❤‍💋‍🧑🏽": [
+        "busu",
+        "busu: mtu mzima, mtu mzima, ngozi nyeusi na ngozi ya kahawia",
+        "mapenzi",
+        "mtu mzima",
+        "mume na mke",
+        "ngozi nyeusi",
+        "ngozi ya kahawia"
+    ],
+    "🧑🏿‍❤‍💋‍🧑🏾": [
+        "busu",
+        "busu: mtu mzima, mtu mzima, ngozi nyeusi na ngozi nyeusi kiasi",
+        "mapenzi",
+        "mtu mzima",
+        "mume na mke",
+        "ngozi nyeusi",
+        "ngozi nyeusi kiasi"
+    ],
+    "🧑🏻‍❤‍🧑🏼": [
+        "mapenzi",
+        "moyo",
+        "mtu mzima",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mtu mzima, mtu mzima, ngozi nyeupe na ngozi nyeupe kiasi",
+        "ngozi nyeupe",
+        "ngozi nyeupe kiasi",
+        "upendo"
+    ],
+    "🧑🏻‍❤‍🧑🏽": [
+        "mapenzi",
+        "moyo",
+        "mtu mzima",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mtu mzima, mtu mzima, ngozi nyeupe na ngozi ya kahawia",
+        "ngozi nyeupe",
+        "ngozi ya kahawia",
+        "upendo"
+    ],
+    "🧑🏻‍❤‍🧑🏾": [
+        "mapenzi",
+        "moyo",
+        "mtu mzima",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mtu mzima, mtu mzima, ngozi nyeupe na ngozi nyeusi kiasi",
+        "ngozi nyeupe",
+        "ngozi nyeusi kiasi",
+        "upendo"
+    ],
+    "🧑🏻‍❤‍🧑🏿": [
+        "mapenzi",
+        "moyo",
+        "mtu mzima",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mtu mzima, mtu mzima, ngozi nyeupe na ngozi nyeusi",
+        "ngozi nyeupe",
+        "ngozi nyeusi",
+        "upendo"
+    ],
+    "🧑🏼‍❤‍🧑🏻": [
+        "mapenzi",
+        "moyo",
+        "mtu mzima",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mtu mzima, mtu mzima, ngozi nyeupe kiasi na ngozi nyeupe",
+        "ngozi nyeupe",
+        "ngozi nyeupe kiasi",
+        "upendo"
+    ],
+    "🧑🏼‍❤‍🧑🏽": [
+        "mapenzi",
+        "moyo",
+        "mtu mzima",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mtu mzima, mtu mzima, ngozi nyeupe kiasi na ngozi ya kahawia",
+        "ngozi nyeupe kiasi",
+        "ngozi ya kahawia",
+        "upendo"
+    ],
+    "🧑🏼‍❤‍🧑🏾": [
+        "mapenzi",
+        "moyo",
+        "mtu mzima",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mtu mzima, mtu mzima, ngozi nyeupe kiasi na ngozi nyeusi kiasi",
+        "ngozi nyeupe kiasi",
+        "ngozi nyeusi kiasi",
+        "upendo"
+    ],
+    "🧑🏼‍❤‍🧑🏿": [
+        "mapenzi",
+        "moyo",
+        "mtu mzima",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mtu mzima, mtu mzima, ngozi nyeupe kiasi na ngozi nyeusi",
+        "ngozi nyeupe kiasi",
+        "ngozi nyeusi",
+        "upendo"
+    ],
+    "🧑🏽‍❤‍🧑🏻": [
+        "mapenzi",
+        "moyo",
+        "mtu mzima",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mtu mzima, mtu mzima, ngozi ya kahawia na ngozi nyeupe",
+        "ngozi nyeupe",
+        "ngozi ya kahawia",
+        "upendo"
+    ],
+    "🧑🏽‍❤‍🧑🏼": [
+        "mapenzi",
+        "moyo",
+        "mtu mzima",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mtu mzima, mtu mzima, ngozi ya kahawia na ngozi nyeupe kiasi",
+        "ngozi nyeupe kiasi",
+        "ngozi ya kahawia",
+        "upendo"
+    ],
+    "🧑🏽‍❤‍🧑🏾": [
+        "mapenzi",
+        "moyo",
+        "mtu mzima",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mtu mzima, mtu mzima, ngozi ya kahawia na ngozi nyeusi kiasi",
+        "ngozi nyeusi kiasi",
+        "ngozi ya kahawia",
+        "upendo"
+    ],
+    "🧑🏽‍❤‍🧑🏿": [
+        "mapenzi",
+        "moyo",
+        "mtu mzima",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mtu mzima, mtu mzima, ngozi ya kahawia na ngozi nyeusi",
+        "ngozi nyeusi",
+        "ngozi ya kahawia",
+        "upendo"
+    ],
+    "🧑🏾‍❤‍🧑🏻": [
+        "mapenzi",
+        "moyo",
+        "mtu mzima",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mtu mzima, mtu mzima, ngozi nyeusi kiasi na ngozi nyeupe",
+        "ngozi nyeupe",
+        "ngozi nyeusi kiasi",
+        "upendo"
+    ],
+    "🧑🏾‍❤‍🧑🏼": [
+        "mapenzi",
+        "moyo",
+        "mtu mzima",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mtu mzima, mtu mzima, ngozi nyeusi kiasi na ngozi nyeupe kiasi",
+        "ngozi nyeupe kiasi",
+        "ngozi nyeusi kiasi",
+        "upendo"
+    ],
+    "🧑🏾‍❤‍🧑🏽": [
+        "mapenzi",
+        "moyo",
+        "mtu mzima",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mtu mzima, mtu mzima, ngozi nyeusi kiasi na ngozi ya kahawia",
+        "ngozi nyeusi kiasi",
+        "ngozi ya kahawia",
+        "upendo"
+    ],
+    "🧑🏾‍❤‍🧑🏿": [
+        "mapenzi",
+        "moyo",
+        "mtu mzima",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mtu mzima, mtu mzima, ngozi nyeusi kiasi na ngozi nyeusi",
+        "ngozi nyeusi",
+        "ngozi nyeusi kiasi",
+        "upendo"
+    ],
+    "🧑🏿‍❤‍🧑🏻": [
+        "mapenzi",
+        "moyo",
+        "mtu mzima",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mtu mzima, mtu mzima, ngozi nyeusi na ngozi nyeupe",
+        "ngozi nyeupe",
+        "ngozi nyeusi",
+        "upendo"
+    ],
+    "🧑🏿‍❤‍🧑🏼": [
+        "mapenzi",
+        "moyo",
+        "mtu mzima",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mtu mzima, mtu mzima, ngozi nyeusi na ngozi nyeupe kiasi",
+        "ngozi nyeupe kiasi",
+        "ngozi nyeusi",
+        "upendo"
+    ],
+    "🧑🏿‍❤‍🧑🏽": [
+        "mapenzi",
+        "moyo",
+        "mtu mzima",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mtu mzima, mtu mzima, ngozi nyeusi na ngozi ya kahawia",
+        "ngozi nyeusi",
+        "ngozi ya kahawia",
+        "upendo"
+    ],
+    "🧑🏿‍❤‍🧑🏾": [
+        "mapenzi",
+        "moyo",
+        "mtu mzima",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mtu mzima, mtu mzima, ngozi nyeusi na ngozi nyeusi kiasi",
+        "ngozi nyeusi",
+        "ngozi nyeusi kiasi",
+        "upendo"
+    ],
     "🧑‍🦰": [
         "asiyejitambulisha na jinsia yoyote",
         "mtu mzima",
@@ -3351,16 +4997,14 @@
     "🧔": [
         "mtu",
         "mtu mwenye ndevu",
-        "mwanamume",
-        "mwanamume mwenye ndevu",
+        "mtu: ndevu",
         "ndevu"
     ],
     "🧔🏻": [
         "mtu",
         "mtu mwenye ndevu",
         "mtu mwenye ndevu: ngozi nyeupe",
-        "mwanamume",
-        "mwanamume mwenye ndevu",
+        "mtu: ndevu",
         "ndevu",
         "ngozi nyeupe"
     ],
@@ -3368,8 +5012,7 @@
         "mtu",
         "mtu mwenye ndevu",
         "mtu mwenye ndevu: ngozi nyeupe kiasi",
-        "mwanamume",
-        "mwanamume mwenye ndevu",
+        "mtu: ndevu",
         "ndevu",
         "ngozi nyeupe kiasi"
     ],
@@ -3377,8 +5020,7 @@
         "mtu",
         "mtu mwenye ndevu",
         "mtu mwenye ndevu: ngozi ya kahawia",
-        "mwanamume",
-        "mwanamume mwenye ndevu",
+        "mtu: ndevu",
         "ndevu",
         "ngozi ya kahawia"
     ],
@@ -3386,8 +5028,7 @@
         "mtu",
         "mtu mwenye ndevu",
         "mtu mwenye ndevu: ngozi nyeusi kiasi",
-        "mwanamume",
-        "mwanamume mwenye ndevu",
+        "mtu: ndevu",
         "ndevu",
         "ngozi nyeusi kiasi"
     ],
@@ -3395,8 +5036,47 @@
         "mtu",
         "mtu mwenye ndevu",
         "mtu mwenye ndevu: ngozi nyeusi",
+        "mtu: ndevu",
+        "ndevu",
+        "ngozi nyeusi"
+    ],
+    "🧔‍♂": [
         "mwanamume",
-        "mwanamume mwenye ndevu",
+        "mwanamume: ndevu",
+        "ndevu"
+    ],
+    "🧔🏻‍♂": [
+        "mwanamume",
+        "mwanamume: ndevu",
+        "mwanamume: ngozi nyeupe na ndevu",
+        "ndevu",
+        "ngozi nyeupe"
+    ],
+    "🧔🏼‍♂": [
+        "mwanamume",
+        "mwanamume: ndevu",
+        "mwanamume: ngozi nyeupe kiasi na ndevu",
+        "ndevu",
+        "ngozi nyeupe kiasi"
+    ],
+    "🧔🏽‍♂": [
+        "mwanamume",
+        "mwanamume: ndevu",
+        "mwanamume: ngozi ya kahawia na ndevu",
+        "ndevu",
+        "ngozi ya kahawia"
+    ],
+    "🧔🏾‍♂": [
+        "mwanamume",
+        "mwanamume: ndevu",
+        "mwanamume: ngozi nyeusi kiasi na ndevu",
+        "ndevu",
+        "ngozi nyeusi kiasi"
+    ],
+    "🧔🏿‍♂": [
+        "mwanamume",
+        "mwanamume: ndevu",
+        "mwanamume: ngozi nyeusi na ndevu",
         "ndevu",
         "ngozi nyeusi"
     ],
@@ -3445,6 +5125,496 @@
         "mwanamume mwenye nywele ya kimanjano: ngozi nyeusi",
         "ngozi nyeusi",
         "nywele"
+    ],
+    "👨🏻‍❤‍💋‍👨🏻": [
+        "busu",
+        "busu: mwanamume, mwanamume na ngozi nyeupe",
+        "mapenzi",
+        "mume na mke",
+        "mwanamume",
+        "ngozi nyeupe"
+    ],
+    "👨🏻‍❤‍💋‍👨🏼": [
+        "busu",
+        "busu: mwanamume, mwanamume, ngozi nyeupe na ngozi nyeupe kiasi",
+        "mapenzi",
+        "mume na mke",
+        "mwanamume",
+        "ngozi nyeupe",
+        "ngozi nyeupe kiasi"
+    ],
+    "👨🏻‍❤‍💋‍👨🏽": [
+        "busu",
+        "busu: mwanamume, mwanamume, ngozi nyeupe na ngozi ya kahawia",
+        "mapenzi",
+        "mume na mke",
+        "mwanamume",
+        "ngozi nyeupe",
+        "ngozi ya kahawia"
+    ],
+    "👨🏻‍❤‍💋‍👨🏾": [
+        "busu",
+        "busu: mwanamume, mwanamume, ngozi nyeupe na ngozi nyeusi kiasi",
+        "mapenzi",
+        "mume na mke",
+        "mwanamume",
+        "ngozi nyeupe",
+        "ngozi nyeusi kiasi"
+    ],
+    "👨🏻‍❤‍💋‍👨🏿": [
+        "busu",
+        "busu: mwanamume, mwanamume, ngozi nyeupe na ngozi nyeusi",
+        "mapenzi",
+        "mume na mke",
+        "mwanamume",
+        "ngozi nyeupe",
+        "ngozi nyeusi"
+    ],
+    "👨🏼‍❤‍💋‍👨🏻": [
+        "busu",
+        "busu: mwanamume, mwanamume, ngozi nyeupe kiasi na ngozi nyeupe",
+        "mapenzi",
+        "mume na mke",
+        "mwanamume",
+        "ngozi nyeupe",
+        "ngozi nyeupe kiasi"
+    ],
+    "👨🏼‍❤‍💋‍👨🏼": [
+        "busu",
+        "busu: mwanamume, mwanamume na ngozi nyeupe kiasi",
+        "mapenzi",
+        "mume na mke",
+        "mwanamume",
+        "ngozi nyeupe kiasi"
+    ],
+    "👨🏼‍❤‍💋‍👨🏽": [
+        "busu",
+        "busu: mwanamume, mwanamume, ngozi nyeupe kiasi na ngozi ya kahawia",
+        "mapenzi",
+        "mume na mke",
+        "mwanamume",
+        "ngozi nyeupe kiasi",
+        "ngozi ya kahawia"
+    ],
+    "👨🏼‍❤‍💋‍👨🏾": [
+        "busu",
+        "busu: mwanamume, mwanamume, ngozi nyeupe kiasi na ngozi nyeusi kiasi",
+        "mapenzi",
+        "mume na mke",
+        "mwanamume",
+        "ngozi nyeupe kiasi",
+        "ngozi nyeusi kiasi"
+    ],
+    "👨🏼‍❤‍💋‍👨🏿": [
+        "busu",
+        "busu: mwanamume, mwanamume, ngozi nyeupe kiasi na ngozi nyeusi",
+        "mapenzi",
+        "mume na mke",
+        "mwanamume",
+        "ngozi nyeupe kiasi",
+        "ngozi nyeusi"
+    ],
+    "👨🏽‍❤‍💋‍👨🏻": [
+        "busu",
+        "busu: mwanamume, mwanamume, ngozi ya kahawia na ngozi nyeupe",
+        "mapenzi",
+        "mume na mke",
+        "mwanamume",
+        "ngozi nyeupe",
+        "ngozi ya kahawia"
+    ],
+    "👨🏽‍❤‍💋‍👨🏼": [
+        "busu",
+        "busu: mwanamume, mwanamume, ngozi ya kahawia na ngozi nyeupe kiasi",
+        "mapenzi",
+        "mume na mke",
+        "mwanamume",
+        "ngozi nyeupe kiasi",
+        "ngozi ya kahawia"
+    ],
+    "👨🏽‍❤‍💋‍👨🏽": [
+        "busu",
+        "busu: mwanamume, mwanamume na ngozi ya kahawia",
+        "mapenzi",
+        "mume na mke",
+        "mwanamume",
+        "ngozi ya kahawia"
+    ],
+    "👨🏽‍❤‍💋‍👨🏾": [
+        "busu",
+        "busu: mwanamume, mwanamume, ngozi ya kahawia na ngozi nyeusi kiasi",
+        "mapenzi",
+        "mume na mke",
+        "mwanamume",
+        "ngozi nyeusi kiasi",
+        "ngozi ya kahawia"
+    ],
+    "👨🏽‍❤‍💋‍👨🏿": [
+        "busu",
+        "busu: mwanamume, mwanamume, ngozi ya kahawia na ngozi nyeusi",
+        "mapenzi",
+        "mume na mke",
+        "mwanamume",
+        "ngozi nyeusi",
+        "ngozi ya kahawia"
+    ],
+    "👨🏾‍❤‍💋‍👨🏻": [
+        "busu",
+        "busu: mwanamume, mwanamume, ngozi nyeusi kiasi na ngozi nyeupe",
+        "mapenzi",
+        "mume na mke",
+        "mwanamume",
+        "ngozi nyeupe",
+        "ngozi nyeusi kiasi"
+    ],
+    "👨🏾‍❤‍💋‍👨🏼": [
+        "busu",
+        "busu: mwanamume, mwanamume, ngozi nyeusi kiasi na ngozi nyeupe kiasi",
+        "mapenzi",
+        "mume na mke",
+        "mwanamume",
+        "ngozi nyeupe kiasi",
+        "ngozi nyeusi kiasi"
+    ],
+    "👨🏾‍❤‍💋‍👨🏽": [
+        "busu",
+        "busu: mwanamume, mwanamume, ngozi nyeusi kiasi na ngozi ya kahawia",
+        "mapenzi",
+        "mume na mke",
+        "mwanamume",
+        "ngozi nyeusi kiasi",
+        "ngozi ya kahawia"
+    ],
+    "👨🏾‍❤‍💋‍👨🏾": [
+        "busu",
+        "busu: mwanamume, mwanamume na ngozi nyeusi kiasi",
+        "mapenzi",
+        "mume na mke",
+        "mwanamume",
+        "ngozi nyeusi kiasi"
+    ],
+    "👨🏾‍❤‍💋‍👨🏿": [
+        "busu",
+        "busu: mwanamume, mwanamume, ngozi nyeusi kiasi na ngozi nyeusi",
+        "mapenzi",
+        "mume na mke",
+        "mwanamume",
+        "ngozi nyeusi",
+        "ngozi nyeusi kiasi"
+    ],
+    "👨🏿‍❤‍💋‍👨🏻": [
+        "busu",
+        "busu: mwanamume, mwanamume, ngozi nyeusi na ngozi nyeupe",
+        "mapenzi",
+        "mume na mke",
+        "mwanamume",
+        "ngozi nyeupe",
+        "ngozi nyeusi"
+    ],
+    "👨🏿‍❤‍💋‍👨🏼": [
+        "busu",
+        "busu: mwanamume, mwanamume, ngozi nyeusi na ngozi nyeupe kiasi",
+        "mapenzi",
+        "mume na mke",
+        "mwanamume",
+        "ngozi nyeupe kiasi",
+        "ngozi nyeusi"
+    ],
+    "👨🏿‍❤‍💋‍👨🏽": [
+        "busu",
+        "busu: mwanamume, mwanamume, ngozi nyeusi na ngozi ya kahawia",
+        "mapenzi",
+        "mume na mke",
+        "mwanamume",
+        "ngozi nyeusi",
+        "ngozi ya kahawia"
+    ],
+    "👨🏿‍❤‍💋‍👨🏾": [
+        "busu",
+        "busu: mwanamume, mwanamume, ngozi nyeusi na ngozi nyeusi kiasi",
+        "mapenzi",
+        "mume na mke",
+        "mwanamume",
+        "ngozi nyeusi",
+        "ngozi nyeusi kiasi"
+    ],
+    "👨🏿‍❤‍💋‍👨🏿": [
+        "busu",
+        "busu: mwanamume, mwanamume na ngozi nyeusi",
+        "mapenzi",
+        "mume na mke",
+        "mwanamume",
+        "ngozi nyeusi"
+    ],
+    "👨🏻‍❤‍👨🏻": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamume, mwanamume na ngozi nyeupe",
+        "mwanamume",
+        "ngozi nyeupe",
+        "upendo"
+    ],
+    "👨🏻‍❤‍👨🏼": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamume, mwanamume, ngozi nyeupe na ngozi nyeupe kiasi",
+        "mwanamume",
+        "ngozi nyeupe",
+        "ngozi nyeupe kiasi",
+        "upendo"
+    ],
+    "👨🏻‍❤‍👨🏽": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamume, mwanamume, ngozi nyeupe na ngozi ya kahawia",
+        "mwanamume",
+        "ngozi nyeupe",
+        "ngozi ya kahawia",
+        "upendo"
+    ],
+    "👨🏻‍❤‍👨🏾": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamume, mwanamume, ngozi nyeupe na ngozi nyeusi kiasi",
+        "mwanamume",
+        "ngozi nyeupe",
+        "ngozi nyeusi kiasi",
+        "upendo"
+    ],
+    "👨🏻‍❤‍👨🏿": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamume, mwanamume, ngozi nyeupe na ngozi nyeusi",
+        "mwanamume",
+        "ngozi nyeupe",
+        "ngozi nyeusi",
+        "upendo"
+    ],
+    "👨🏼‍❤‍👨🏻": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamume, mwanamume, ngozi nyeupe kiasi na ngozi nyeupe",
+        "mwanamume",
+        "ngozi nyeupe",
+        "ngozi nyeupe kiasi",
+        "upendo"
+    ],
+    "👨🏼‍❤‍👨🏼": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamume, mwanamume na ngozi nyeupe kiasi",
+        "mwanamume",
+        "ngozi nyeupe kiasi",
+        "upendo"
+    ],
+    "👨🏼‍❤‍👨🏽": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamume, mwanamume, ngozi nyeupe kiasi na ngozi ya kahawia",
+        "mwanamume",
+        "ngozi nyeupe kiasi",
+        "ngozi ya kahawia",
+        "upendo"
+    ],
+    "👨🏼‍❤‍👨🏾": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamume, mwanamume, ngozi nyeupe kiasi na ngozi nyeusi kiasi",
+        "mwanamume",
+        "ngozi nyeupe kiasi",
+        "ngozi nyeusi kiasi",
+        "upendo"
+    ],
+    "👨🏼‍❤‍👨🏿": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamume, mwanamume, ngozi nyeupe kiasi na ngozi nyeusi",
+        "mwanamume",
+        "ngozi nyeupe kiasi",
+        "ngozi nyeusi",
+        "upendo"
+    ],
+    "👨🏽‍❤‍👨🏻": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamume, mwanamume, ngozi ya kahawia na ngozi nyeupe",
+        "mwanamume",
+        "ngozi nyeupe",
+        "ngozi ya kahawia",
+        "upendo"
+    ],
+    "👨🏽‍❤‍👨🏼": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamume, mwanamume, ngozi ya kahawia na ngozi nyeupe kiasi",
+        "mwanamume",
+        "ngozi nyeupe kiasi",
+        "ngozi ya kahawia",
+        "upendo"
+    ],
+    "👨🏽‍❤‍👨🏽": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamume, mwanamume na ngozi ya kahawia",
+        "mwanamume",
+        "ngozi ya kahawia",
+        "upendo"
+    ],
+    "👨🏽‍❤‍👨🏾": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamume, mwanamume, ngozi ya kahawia na ngozi nyeusi kiasi",
+        "mwanamume",
+        "ngozi nyeusi kiasi",
+        "ngozi ya kahawia",
+        "upendo"
+    ],
+    "👨🏽‍❤‍👨🏿": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamume, mwanamume, ngozi ya kahawia na ngozi nyeusi",
+        "mwanamume",
+        "ngozi nyeusi",
+        "ngozi ya kahawia",
+        "upendo"
+    ],
+    "👨🏾‍❤‍👨🏻": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamume, mwanamume, ngozi nyeusi kiasi na ngozi nyeupe",
+        "mwanamume",
+        "ngozi nyeupe",
+        "ngozi nyeusi kiasi",
+        "upendo"
+    ],
+    "👨🏾‍❤‍👨🏼": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamume, mwanamume, ngozi nyeusi kiasi na ngozi nyeupe kiasi",
+        "mwanamume",
+        "ngozi nyeupe kiasi",
+        "ngozi nyeusi kiasi",
+        "upendo"
+    ],
+    "👨🏾‍❤‍👨🏽": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamume, mwanamume, ngozi nyeusi kiasi na ngozi ya kahawia",
+        "mwanamume",
+        "ngozi nyeusi kiasi",
+        "ngozi ya kahawia",
+        "upendo"
+    ],
+    "👨🏾‍❤‍👨🏾": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamume, mwanamume na ngozi nyeusi kiasi",
+        "mwanamume",
+        "ngozi nyeusi kiasi",
+        "upendo"
+    ],
+    "👨🏾‍❤‍👨🏿": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamume, mwanamume, ngozi nyeusi kiasi na ngozi nyeusi",
+        "mwanamume",
+        "ngozi nyeusi",
+        "ngozi nyeusi kiasi",
+        "upendo"
+    ],
+    "👨🏿‍❤‍👨🏻": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamume, mwanamume, ngozi nyeusi na ngozi nyeupe",
+        "mwanamume",
+        "ngozi nyeupe",
+        "ngozi nyeusi",
+        "upendo"
+    ],
+    "👨🏿‍❤‍👨🏼": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamume, mwanamume, ngozi nyeusi na ngozi nyeupe kiasi",
+        "mwanamume",
+        "ngozi nyeupe kiasi",
+        "ngozi nyeusi",
+        "upendo"
+    ],
+    "👨🏿‍❤‍👨🏽": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamume, mwanamume, ngozi nyeusi na ngozi ya kahawia",
+        "mwanamume",
+        "ngozi nyeusi",
+        "ngozi ya kahawia",
+        "upendo"
+    ],
+    "👨🏿‍❤‍👨🏾": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamume, mwanamume, ngozi nyeusi na ngozi nyeusi kiasi",
+        "mwanamume",
+        "ngozi nyeusi",
+        "ngozi nyeusi kiasi",
+        "upendo"
+    ],
+    "👨🏿‍❤‍👨🏿": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamume, mwanamume na ngozi nyeusi",
+        "mwanamume",
+        "ngozi nyeusi",
+        "upendo"
     ],
     "👨‍🦰": [
         "mtu mzima",
@@ -3644,6 +5814,46 @@
         "mwanamke: ngozi nyeusi",
         "ngozi nyeusi"
     ],
+    "🧔‍♀": [
+        "mwanamke",
+        "mwanamke: ndevu",
+        "ndevu"
+    ],
+    "🧔🏻‍♀": [
+        "mwanamke",
+        "mwanamke: ndevu",
+        "mwanamke: ngozi nyeupe na ndevu",
+        "ndevu",
+        "ngozi nyeupe"
+    ],
+    "🧔🏼‍♀": [
+        "mwanamke",
+        "mwanamke: ndevu",
+        "mwanamke: ngozi nyeupe kiasi na ndevu",
+        "ndevu",
+        "ngozi nyeupe kiasi"
+    ],
+    "🧔🏽‍♀": [
+        "mwanamke",
+        "mwanamke: ndevu",
+        "mwanamke: ngozi ya kahawia na ndevu",
+        "ndevu",
+        "ngozi ya kahawia"
+    ],
+    "🧔🏾‍♀": [
+        "mwanamke",
+        "mwanamke: ndevu",
+        "mwanamke: ngozi nyeusi kiasi na ndevu",
+        "ndevu",
+        "ngozi nyeusi kiasi"
+    ],
+    "🧔🏿‍♀": [
+        "mwanamke",
+        "mwanamke: ndevu",
+        "mwanamke: ngozi nyeusi na ndevu",
+        "ndevu",
+        "ngozi nyeusi"
+    ],
     "👱‍♀": [
         "manjano",
         "mwanamke",
@@ -3689,6 +5899,1036 @@
         "mwanamke mwenye nywele ya kimanjano: ngozi nyeusi",
         "ngozi nyeusi",
         "nywele"
+    ],
+    "👩🏻‍❤‍💋‍👨🏻": [
+        "busu",
+        "busu: mwanamke, mwanamume na ngozi nyeupe",
+        "mapenzi",
+        "mume na mke",
+        "mwanamke",
+        "mwanamume",
+        "ngozi nyeupe"
+    ],
+    "👩🏻‍❤‍💋‍👨🏼": [
+        "busu",
+        "busu: mwanamke, mwanamume, ngozi nyeupe na ngozi nyeupe kiasi",
+        "mapenzi",
+        "mume na mke",
+        "mwanamke",
+        "mwanamume",
+        "ngozi nyeupe",
+        "ngozi nyeupe kiasi"
+    ],
+    "👩🏻‍❤‍💋‍👨🏽": [
+        "busu",
+        "busu: mwanamke, mwanamume, ngozi nyeupe na ngozi ya kahawia",
+        "mapenzi",
+        "mume na mke",
+        "mwanamke",
+        "mwanamume",
+        "ngozi nyeupe",
+        "ngozi ya kahawia"
+    ],
+    "👩🏻‍❤‍💋‍👨🏾": [
+        "busu",
+        "busu: mwanamke, mwanamume, ngozi nyeupe na ngozi nyeusi kiasi",
+        "mapenzi",
+        "mume na mke",
+        "mwanamke",
+        "mwanamume",
+        "ngozi nyeupe",
+        "ngozi nyeusi kiasi"
+    ],
+    "👩🏻‍❤‍💋‍👨🏿": [
+        "busu",
+        "busu: mwanamke, mwanamume, ngozi nyeupe na ngozi nyeusi",
+        "mapenzi",
+        "mume na mke",
+        "mwanamke",
+        "mwanamume",
+        "ngozi nyeupe",
+        "ngozi nyeusi"
+    ],
+    "👩🏼‍❤‍💋‍👨🏻": [
+        "busu",
+        "busu: mwanamke, mwanamume, ngozi nyeupe kiasi na ngozi nyeupe",
+        "mapenzi",
+        "mume na mke",
+        "mwanamke",
+        "mwanamume",
+        "ngozi nyeupe",
+        "ngozi nyeupe kiasi"
+    ],
+    "👩🏼‍❤‍💋‍👨🏼": [
+        "busu",
+        "busu: mwanamke, mwanamume na ngozi nyeupe kiasi",
+        "mapenzi",
+        "mume na mke",
+        "mwanamke",
+        "mwanamume",
+        "ngozi nyeupe kiasi"
+    ],
+    "👩🏼‍❤‍💋‍👨🏽": [
+        "busu",
+        "busu: mwanamke, mwanamume, ngozi nyeupe kiasi na ngozi ya kahawia",
+        "mapenzi",
+        "mume na mke",
+        "mwanamke",
+        "mwanamume",
+        "ngozi nyeupe kiasi",
+        "ngozi ya kahawia"
+    ],
+    "👩🏼‍❤‍💋‍👨🏾": [
+        "busu",
+        "busu: mwanamke, mwanamume, ngozi nyeupe kiasi na ngozi nyeusi kiasi",
+        "mapenzi",
+        "mume na mke",
+        "mwanamke",
+        "mwanamume",
+        "ngozi nyeupe kiasi",
+        "ngozi nyeusi kiasi"
+    ],
+    "👩🏼‍❤‍💋‍👨🏿": [
+        "busu",
+        "busu: mwanamke, mwanamume, ngozi nyeupe kiasi na ngozi nyeusi",
+        "mapenzi",
+        "mume na mke",
+        "mwanamke",
+        "mwanamume",
+        "ngozi nyeupe kiasi",
+        "ngozi nyeusi"
+    ],
+    "👩🏽‍❤‍💋‍👨🏻": [
+        "busu",
+        "busu: mwanamke, mwanamume, ngozi ya kahawia na ngozi nyeupe",
+        "mapenzi",
+        "mume na mke",
+        "mwanamke",
+        "mwanamume",
+        "ngozi nyeupe",
+        "ngozi ya kahawia"
+    ],
+    "👩🏽‍❤‍💋‍👨🏼": [
+        "busu",
+        "busu: mwanamke, mwanamume, ngozi ya kahawia na ngozi nyeupe kiasi",
+        "mapenzi",
+        "mume na mke",
+        "mwanamke",
+        "mwanamume",
+        "ngozi nyeupe kiasi",
+        "ngozi ya kahawia"
+    ],
+    "👩🏽‍❤‍💋‍👨🏽": [
+        "busu",
+        "busu: mwanamke, mwanamume na ngozi ya kahawia",
+        "mapenzi",
+        "mume na mke",
+        "mwanamke",
+        "mwanamume",
+        "ngozi ya kahawia"
+    ],
+    "👩🏽‍❤‍💋‍👨🏾": [
+        "busu",
+        "busu: mwanamke, mwanamume, ngozi ya kahawia na ngozi nyeusi kiasi",
+        "mapenzi",
+        "mume na mke",
+        "mwanamke",
+        "mwanamume",
+        "ngozi nyeusi kiasi",
+        "ngozi ya kahawia"
+    ],
+    "👩🏽‍❤‍💋‍👨🏿": [
+        "busu",
+        "busu: mwanamke, mwanamume, ngozi ya kahawia na ngozi nyeusi",
+        "mapenzi",
+        "mume na mke",
+        "mwanamke",
+        "mwanamume",
+        "ngozi nyeusi",
+        "ngozi ya kahawia"
+    ],
+    "👩🏾‍❤‍💋‍👨🏻": [
+        "busu",
+        "busu: mwanamke, mwanamume, ngozi nyeusi kiasi na ngozi nyeupe",
+        "mapenzi",
+        "mume na mke",
+        "mwanamke",
+        "mwanamume",
+        "ngozi nyeupe",
+        "ngozi nyeusi kiasi"
+    ],
+    "👩🏾‍❤‍💋‍👨🏼": [
+        "busu",
+        "busu: mwanamke, mwanamume, ngozi nyeusi kiasi na ngozi nyeupe kiasi",
+        "mapenzi",
+        "mume na mke",
+        "mwanamke",
+        "mwanamume",
+        "ngozi nyeupe kiasi",
+        "ngozi nyeusi kiasi"
+    ],
+    "👩🏾‍❤‍💋‍👨🏽": [
+        "busu",
+        "busu: mwanamke, mwanamume, ngozi nyeusi kiasi na ngozi ya kahawia",
+        "mapenzi",
+        "mume na mke",
+        "mwanamke",
+        "mwanamume",
+        "ngozi nyeusi kiasi",
+        "ngozi ya kahawia"
+    ],
+    "👩🏾‍❤‍💋‍👨🏾": [
+        "busu",
+        "busu: mwanamke, mwanamume na ngozi nyeusi kiasi",
+        "mapenzi",
+        "mume na mke",
+        "mwanamke",
+        "mwanamume",
+        "ngozi nyeusi kiasi"
+    ],
+    "👩🏾‍❤‍💋‍👨🏿": [
+        "busu",
+        "busu: mwanamke, mwanamume, ngozi nyeusi kiasi na ngozi nyeusi",
+        "mapenzi",
+        "mume na mke",
+        "mwanamke",
+        "mwanamume",
+        "ngozi nyeusi",
+        "ngozi nyeusi kiasi"
+    ],
+    "👩🏿‍❤‍💋‍👨🏻": [
+        "busu",
+        "busu: mwanamke, mwanamume, ngozi nyeusi na ngozi nyeupe",
+        "mapenzi",
+        "mume na mke",
+        "mwanamke",
+        "mwanamume",
+        "ngozi nyeupe",
+        "ngozi nyeusi"
+    ],
+    "👩🏿‍❤‍💋‍👨🏼": [
+        "busu",
+        "busu: mwanamke, mwanamume, ngozi nyeusi na ngozi nyeupe kiasi",
+        "mapenzi",
+        "mume na mke",
+        "mwanamke",
+        "mwanamume",
+        "ngozi nyeupe kiasi",
+        "ngozi nyeusi"
+    ],
+    "👩🏿‍❤‍💋‍👨🏽": [
+        "busu",
+        "busu: mwanamke, mwanamume, ngozi nyeusi na ngozi ya kahawia",
+        "mapenzi",
+        "mume na mke",
+        "mwanamke",
+        "mwanamume",
+        "ngozi nyeusi",
+        "ngozi ya kahawia"
+    ],
+    "👩🏿‍❤‍💋‍👨🏾": [
+        "busu",
+        "busu: mwanamke, mwanamume, ngozi nyeusi na ngozi nyeusi kiasi",
+        "mapenzi",
+        "mume na mke",
+        "mwanamke",
+        "mwanamume",
+        "ngozi nyeusi",
+        "ngozi nyeusi kiasi"
+    ],
+    "👩🏿‍❤‍💋‍👨🏿": [
+        "busu",
+        "busu: mwanamke, mwanamume na ngozi nyeusi",
+        "mapenzi",
+        "mume na mke",
+        "mwanamke",
+        "mwanamume",
+        "ngozi nyeusi"
+    ],
+    "👩🏻‍❤‍💋‍👩🏻": [
+        "busu",
+        "busu: mwanamke, mwanamke na ngozi nyeupe",
+        "mapenzi",
+        "mume na mke",
+        "mwanamke",
+        "ngozi nyeupe"
+    ],
+    "👩🏻‍❤‍💋‍👩🏼": [
+        "busu",
+        "busu: mwanamke, mwanamke, ngozi nyeupe na ngozi nyeupe kiasi",
+        "mapenzi",
+        "mume na mke",
+        "mwanamke",
+        "ngozi nyeupe",
+        "ngozi nyeupe kiasi"
+    ],
+    "👩🏻‍❤‍💋‍👩🏽": [
+        "busu",
+        "busu: mwanamke, mwanamke, ngozi nyeupe na ngozi ya kahawia",
+        "mapenzi",
+        "mume na mke",
+        "mwanamke",
+        "ngozi nyeupe",
+        "ngozi ya kahawia"
+    ],
+    "👩🏻‍❤‍💋‍👩🏾": [
+        "busu",
+        "busu: mwanamke, mwanamke, ngozi nyeupe na ngozi nyeusi kiasi",
+        "mapenzi",
+        "mume na mke",
+        "mwanamke",
+        "ngozi nyeupe",
+        "ngozi nyeusi kiasi"
+    ],
+    "👩🏻‍❤‍💋‍👩🏿": [
+        "busu",
+        "busu: mwanamke, mwanamke, ngozi nyeupe na ngozi nyeusi",
+        "mapenzi",
+        "mume na mke",
+        "mwanamke",
+        "ngozi nyeupe",
+        "ngozi nyeusi"
+    ],
+    "👩🏼‍❤‍💋‍👩🏻": [
+        "busu",
+        "busu: mwanamke, mwanamke, ngozi nyeupe kiasi na ngozi nyeupe",
+        "mapenzi",
+        "mume na mke",
+        "mwanamke",
+        "ngozi nyeupe",
+        "ngozi nyeupe kiasi"
+    ],
+    "👩🏼‍❤‍💋‍👩🏼": [
+        "busu",
+        "busu: mwanamke, mwanamke na ngozi nyeupe kiasi",
+        "mapenzi",
+        "mume na mke",
+        "mwanamke",
+        "ngozi nyeupe kiasi"
+    ],
+    "👩🏼‍❤‍💋‍👩🏽": [
+        "busu",
+        "busu: mwanamke, mwanamke, ngozi nyeupe kiasi na ngozi ya kahawia",
+        "mapenzi",
+        "mume na mke",
+        "mwanamke",
+        "ngozi nyeupe kiasi",
+        "ngozi ya kahawia"
+    ],
+    "👩🏼‍❤‍💋‍👩🏾": [
+        "busu",
+        "busu: mwanamke, mwanamke, ngozi nyeupe kiasi na ngozi nyeusi kiasi",
+        "mapenzi",
+        "mume na mke",
+        "mwanamke",
+        "ngozi nyeupe kiasi",
+        "ngozi nyeusi kiasi"
+    ],
+    "👩🏼‍❤‍💋‍👩🏿": [
+        "busu",
+        "busu: mwanamke, mwanamke, ngozi nyeupe kiasi na ngozi nyeusi",
+        "mapenzi",
+        "mume na mke",
+        "mwanamke",
+        "ngozi nyeupe kiasi",
+        "ngozi nyeusi"
+    ],
+    "👩🏽‍❤‍💋‍👩🏻": [
+        "busu",
+        "busu: mwanamke, mwanamke, ngozi ya kahawia na ngozi nyeupe",
+        "mapenzi",
+        "mume na mke",
+        "mwanamke",
+        "ngozi nyeupe",
+        "ngozi ya kahawia"
+    ],
+    "👩🏽‍❤‍💋‍👩🏼": [
+        "busu",
+        "busu: mwanamke, mwanamke, ngozi ya kahawia na ngozi nyeupe kiasi",
+        "mapenzi",
+        "mume na mke",
+        "mwanamke",
+        "ngozi nyeupe kiasi",
+        "ngozi ya kahawia"
+    ],
+    "👩🏽‍❤‍💋‍👩🏽": [
+        "busu",
+        "busu: mwanamke, mwanamke na ngozi ya kahawia",
+        "mapenzi",
+        "mume na mke",
+        "mwanamke",
+        "ngozi ya kahawia"
+    ],
+    "👩🏽‍❤‍💋‍👩🏾": [
+        "busu",
+        "busu: mwanamke, mwanamke, ngozi ya kahawia na ngozi nyeusi kiasi",
+        "mapenzi",
+        "mume na mke",
+        "mwanamke",
+        "ngozi nyeusi kiasi",
+        "ngozi ya kahawia"
+    ],
+    "👩🏽‍❤‍💋‍👩🏿": [
+        "busu",
+        "busu: mwanamke, mwanamke, ngozi ya kahawia na ngozi nyeusi",
+        "mapenzi",
+        "mume na mke",
+        "mwanamke",
+        "ngozi nyeusi",
+        "ngozi ya kahawia"
+    ],
+    "👩🏾‍❤‍💋‍👩🏻": [
+        "busu",
+        "busu: mwanamke, mwanamke, ngozi nyeusi kiasi na ngozi nyeupe",
+        "mapenzi",
+        "mume na mke",
+        "mwanamke",
+        "ngozi nyeupe",
+        "ngozi nyeusi kiasi"
+    ],
+    "👩🏾‍❤‍💋‍👩🏼": [
+        "busu",
+        "busu: mwanamke, mwanamke, ngozi nyeusi kiasi na ngozi nyeupe kiasi",
+        "mapenzi",
+        "mume na mke",
+        "mwanamke",
+        "ngozi nyeupe kiasi",
+        "ngozi nyeusi kiasi"
+    ],
+    "👩🏾‍❤‍💋‍👩🏽": [
+        "busu",
+        "busu: mwanamke, mwanamke, ngozi nyeusi kiasi na ngozi ya kahawia",
+        "mapenzi",
+        "mume na mke",
+        "mwanamke",
+        "ngozi nyeusi kiasi",
+        "ngozi ya kahawia"
+    ],
+    "👩🏾‍❤‍💋‍👩🏾": [
+        "busu",
+        "busu: mwanamke, mwanamke na ngozi nyeusi kiasi",
+        "mapenzi",
+        "mume na mke",
+        "mwanamke",
+        "ngozi nyeusi kiasi"
+    ],
+    "👩🏾‍❤‍💋‍👩🏿": [
+        "busu",
+        "busu: mwanamke, mwanamke, ngozi nyeusi kiasi na ngozi nyeusi",
+        "mapenzi",
+        "mume na mke",
+        "mwanamke",
+        "ngozi nyeusi",
+        "ngozi nyeusi kiasi"
+    ],
+    "👩🏿‍❤‍💋‍👩🏻": [
+        "busu",
+        "busu: mwanamke, mwanamke, ngozi nyeusi na ngozi nyeupe",
+        "mapenzi",
+        "mume na mke",
+        "mwanamke",
+        "ngozi nyeupe",
+        "ngozi nyeusi"
+    ],
+    "👩🏿‍❤‍💋‍👩🏼": [
+        "busu",
+        "busu: mwanamke, mwanamke, ngozi nyeusi na ngozi nyeupe kiasi",
+        "mapenzi",
+        "mume na mke",
+        "mwanamke",
+        "ngozi nyeupe kiasi",
+        "ngozi nyeusi"
+    ],
+    "👩🏿‍❤‍💋‍👩🏽": [
+        "busu",
+        "busu: mwanamke, mwanamke, ngozi nyeusi na ngozi ya kahawia",
+        "mapenzi",
+        "mume na mke",
+        "mwanamke",
+        "ngozi nyeusi",
+        "ngozi ya kahawia"
+    ],
+    "👩🏿‍❤‍💋‍👩🏾": [
+        "busu",
+        "busu: mwanamke, mwanamke, ngozi nyeusi na ngozi nyeusi kiasi",
+        "mapenzi",
+        "mume na mke",
+        "mwanamke",
+        "ngozi nyeusi",
+        "ngozi nyeusi kiasi"
+    ],
+    "👩🏿‍❤‍💋‍👩🏿": [
+        "busu",
+        "busu: mwanamke, mwanamke na ngozi nyeusi",
+        "mapenzi",
+        "mume na mke",
+        "mwanamke",
+        "ngozi nyeusi"
+    ],
+    "👩🏻‍❤‍👨🏻": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamke, mwanamume na ngozi nyeupe",
+        "mwanamke",
+        "mwanamume",
+        "ngozi nyeupe",
+        "upendo"
+    ],
+    "👩🏻‍❤‍👨🏼": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamke, mwanamume, ngozi nyeupe na ngozi nyeupe kiasi",
+        "mwanamke",
+        "mwanamume",
+        "ngozi nyeupe",
+        "ngozi nyeupe kiasi",
+        "upendo"
+    ],
+    "👩🏻‍❤‍👨🏽": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamke, mwanamume, ngozi nyeupe na ngozi ya kahawia",
+        "mwanamke",
+        "mwanamume",
+        "ngozi nyeupe",
+        "ngozi ya kahawia",
+        "upendo"
+    ],
+    "👩🏻‍❤‍👨🏾": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamke, mwanamume, ngozi nyeupe na ngozi nyeusi kiasi",
+        "mwanamke",
+        "mwanamume",
+        "ngozi nyeupe",
+        "ngozi nyeusi kiasi",
+        "upendo"
+    ],
+    "👩🏻‍❤‍👨🏿": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamke, mwanamume, ngozi nyeupe na ngozi nyeusi",
+        "mwanamke",
+        "mwanamume",
+        "ngozi nyeupe",
+        "ngozi nyeusi",
+        "upendo"
+    ],
+    "👩🏼‍❤‍👨🏻": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamke, mwanamume, ngozi nyeupe kiasi na ngozi nyeupe",
+        "mwanamke",
+        "mwanamume",
+        "ngozi nyeupe",
+        "ngozi nyeupe kiasi",
+        "upendo"
+    ],
+    "👩🏼‍❤‍👨🏼": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamke, mwanamume na ngozi nyeupe kiasi",
+        "mwanamke",
+        "mwanamume",
+        "ngozi nyeupe kiasi",
+        "upendo"
+    ],
+    "👩🏼‍❤‍👨🏽": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamke, mwanamume, ngozi nyeupe kiasi na ngozi ya kahawia",
+        "mwanamke",
+        "mwanamume",
+        "ngozi nyeupe kiasi",
+        "ngozi ya kahawia",
+        "upendo"
+    ],
+    "👩🏼‍❤‍👨🏾": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamke, mwanamume, ngozi nyeupe kiasi na ngozi nyeusi kiasi",
+        "mwanamke",
+        "mwanamume",
+        "ngozi nyeupe kiasi",
+        "ngozi nyeusi kiasi",
+        "upendo"
+    ],
+    "👩🏼‍❤‍👨🏿": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamke, mwanamume, ngozi nyeupe kiasi na ngozi nyeusi",
+        "mwanamke",
+        "mwanamume",
+        "ngozi nyeupe kiasi",
+        "ngozi nyeusi",
+        "upendo"
+    ],
+    "👩🏽‍❤‍👨🏻": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamke, mwanamume, ngozi ya kahawia na ngozi nyeupe",
+        "mwanamke",
+        "mwanamume",
+        "ngozi nyeupe",
+        "ngozi ya kahawia",
+        "upendo"
+    ],
+    "👩🏽‍❤‍👨🏼": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamke, mwanamume, ngozi ya kahawia na ngozi nyeupe kiasi",
+        "mwanamke",
+        "mwanamume",
+        "ngozi nyeupe kiasi",
+        "ngozi ya kahawia",
+        "upendo"
+    ],
+    "👩🏽‍❤‍👨🏽": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamke, mwanamume na ngozi ya kahawia",
+        "mwanamke",
+        "mwanamume",
+        "ngozi ya kahawia",
+        "upendo"
+    ],
+    "👩🏽‍❤‍👨🏾": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamke, mwanamume, ngozi ya kahawia na ngozi nyeusi kiasi",
+        "mwanamke",
+        "mwanamume",
+        "ngozi nyeusi kiasi",
+        "ngozi ya kahawia",
+        "upendo"
+    ],
+    "👩🏽‍❤‍👨🏿": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamke, mwanamume, ngozi ya kahawia na ngozi nyeusi",
+        "mwanamke",
+        "mwanamume",
+        "ngozi nyeusi",
+        "ngozi ya kahawia",
+        "upendo"
+    ],
+    "👩🏾‍❤‍👨🏻": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamke, mwanamume, ngozi nyeusi kiasi na ngozi nyeupe",
+        "mwanamke",
+        "mwanamume",
+        "ngozi nyeupe",
+        "ngozi nyeusi kiasi",
+        "upendo"
+    ],
+    "👩🏾‍❤‍👨🏼": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamke, mwanamume, ngozi nyeusi kiasi na ngozi nyeupe kiasi",
+        "mwanamke",
+        "mwanamume",
+        "ngozi nyeupe kiasi",
+        "ngozi nyeusi kiasi",
+        "upendo"
+    ],
+    "👩🏾‍❤‍👨🏽": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamke, mwanamume, ngozi nyeusi kiasi na ngozi ya kahawia",
+        "mwanamke",
+        "mwanamume",
+        "ngozi nyeusi kiasi",
+        "ngozi ya kahawia",
+        "upendo"
+    ],
+    "👩🏾‍❤‍👨🏾": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamke, mwanamume na ngozi nyeusi kiasi",
+        "mwanamke",
+        "mwanamume",
+        "ngozi nyeusi kiasi",
+        "upendo"
+    ],
+    "👩🏾‍❤‍👨🏿": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamke, mwanamume, ngozi nyeusi kiasi na ngozi nyeusi",
+        "mwanamke",
+        "mwanamume",
+        "ngozi nyeusi",
+        "ngozi nyeusi kiasi",
+        "upendo"
+    ],
+    "👩🏿‍❤‍👨🏻": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamke, mwanamume, ngozi nyeusi na ngozi nyeupe",
+        "mwanamke",
+        "mwanamume",
+        "ngozi nyeupe",
+        "ngozi nyeusi",
+        "upendo"
+    ],
+    "👩🏿‍❤‍👨🏼": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamke, mwanamume, ngozi nyeusi na ngozi nyeupe kiasi",
+        "mwanamke",
+        "mwanamume",
+        "ngozi nyeupe kiasi",
+        "ngozi nyeusi",
+        "upendo"
+    ],
+    "👩🏿‍❤‍👨🏽": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamke, mwanamume, ngozi nyeusi na ngozi ya kahawia",
+        "mwanamke",
+        "mwanamume",
+        "ngozi nyeusi",
+        "ngozi ya kahawia",
+        "upendo"
+    ],
+    "👩🏿‍❤‍👨🏾": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamke, mwanamume, ngozi nyeusi na ngozi nyeusi kiasi",
+        "mwanamke",
+        "mwanamume",
+        "ngozi nyeusi",
+        "ngozi nyeusi kiasi",
+        "upendo"
+    ],
+    "👩🏿‍❤‍👨🏿": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamke, mwanamume na ngozi nyeusi",
+        "mwanamke",
+        "mwanamume",
+        "ngozi nyeusi",
+        "upendo"
+    ],
+    "👩🏻‍❤‍👩🏻": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamke, mwanamke na ngozi nyeupe",
+        "mwanamke",
+        "ngozi nyeupe",
+        "upendo"
+    ],
+    "👩🏻‍❤‍👩🏼": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamke, mwanamke, ngozi nyeupe na ngozi nyeupe kiasi",
+        "mwanamke",
+        "ngozi nyeupe",
+        "ngozi nyeupe kiasi",
+        "upendo"
+    ],
+    "👩🏻‍❤‍👩🏽": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamke, mwanamke, ngozi nyeupe na ngozi ya kahawia",
+        "mwanamke",
+        "ngozi nyeupe",
+        "ngozi ya kahawia",
+        "upendo"
+    ],
+    "👩🏻‍❤‍👩🏾": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamke, mwanamke, ngozi nyeupe na ngozi nyeusi kiasi",
+        "mwanamke",
+        "ngozi nyeupe",
+        "ngozi nyeusi kiasi",
+        "upendo"
+    ],
+    "👩🏻‍❤‍👩🏿": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamke, mwanamke, ngozi nyeupe na ngozi nyeusi",
+        "mwanamke",
+        "ngozi nyeupe",
+        "ngozi nyeusi",
+        "upendo"
+    ],
+    "👩🏼‍❤‍👩🏻": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamke, mwanamke, ngozi nyeupe kiasi na ngozi nyeupe",
+        "mwanamke",
+        "ngozi nyeupe",
+        "ngozi nyeupe kiasi",
+        "upendo"
+    ],
+    "👩🏼‍❤‍👩🏼": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamke, mwanamke na ngozi nyeupe kiasi",
+        "mwanamke",
+        "ngozi nyeupe kiasi",
+        "upendo"
+    ],
+    "👩🏼‍❤‍👩🏽": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamke, mwanamke, ngozi nyeupe kiasi na ngozi ya kahawia",
+        "mwanamke",
+        "ngozi nyeupe kiasi",
+        "ngozi ya kahawia",
+        "upendo"
+    ],
+    "👩🏼‍❤‍👩🏾": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamke, mwanamke, ngozi nyeupe kiasi na ngozi nyeusi kiasi",
+        "mwanamke",
+        "ngozi nyeupe kiasi",
+        "ngozi nyeusi kiasi",
+        "upendo"
+    ],
+    "👩🏼‍❤‍👩🏿": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamke, mwanamke, ngozi nyeupe kiasi na ngozi nyeusi",
+        "mwanamke",
+        "ngozi nyeupe kiasi",
+        "ngozi nyeusi",
+        "upendo"
+    ],
+    "👩🏽‍❤‍👩🏻": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamke, mwanamke, ngozi ya kahawia na ngozi nyeupe",
+        "mwanamke",
+        "ngozi nyeupe",
+        "ngozi ya kahawia",
+        "upendo"
+    ],
+    "👩🏽‍❤‍👩🏼": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamke, mwanamke, ngozi ya kahawia na ngozi nyeupe kiasi",
+        "mwanamke",
+        "ngozi nyeupe kiasi",
+        "ngozi ya kahawia",
+        "upendo"
+    ],
+    "👩🏽‍❤‍👩🏽": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamke, mwanamke na ngozi ya kahawia",
+        "mwanamke",
+        "ngozi ya kahawia",
+        "upendo"
+    ],
+    "👩🏽‍❤‍👩🏾": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamke, mwanamke, ngozi ya kahawia na ngozi nyeusi kiasi",
+        "mwanamke",
+        "ngozi nyeusi kiasi",
+        "ngozi ya kahawia",
+        "upendo"
+    ],
+    "👩🏽‍❤‍👩🏿": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamke, mwanamke, ngozi ya kahawia na ngozi nyeusi",
+        "mwanamke",
+        "ngozi nyeusi",
+        "ngozi ya kahawia",
+        "upendo"
+    ],
+    "👩🏾‍❤‍👩🏻": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamke, mwanamke, ngozi nyeusi kiasi na ngozi nyeupe",
+        "mwanamke",
+        "ngozi nyeupe",
+        "ngozi nyeusi kiasi",
+        "upendo"
+    ],
+    "👩🏾‍❤‍👩🏼": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamke, mwanamke, ngozi nyeusi kiasi na ngozi nyeupe kiasi",
+        "mwanamke",
+        "ngozi nyeupe kiasi",
+        "ngozi nyeusi kiasi",
+        "upendo"
+    ],
+    "👩🏾‍❤‍👩🏽": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamke, mwanamke, ngozi nyeusi kiasi na ngozi ya kahawia",
+        "mwanamke",
+        "ngozi nyeusi kiasi",
+        "ngozi ya kahawia",
+        "upendo"
+    ],
+    "👩🏾‍❤‍👩🏾": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamke, mwanamke na ngozi nyeusi kiasi",
+        "mwanamke",
+        "ngozi nyeusi kiasi",
+        "upendo"
+    ],
+    "👩🏾‍❤‍👩🏿": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamke, mwanamke, ngozi nyeusi kiasi na ngozi nyeusi",
+        "mwanamke",
+        "ngozi nyeusi",
+        "ngozi nyeusi kiasi",
+        "upendo"
+    ],
+    "👩🏿‍❤‍👩🏻": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamke, mwanamke, ngozi nyeusi na ngozi nyeupe",
+        "mwanamke",
+        "ngozi nyeupe",
+        "ngozi nyeusi",
+        "upendo"
+    ],
+    "👩🏿‍❤‍👩🏼": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamke, mwanamke, ngozi nyeusi na ngozi nyeupe kiasi",
+        "mwanamke",
+        "ngozi nyeupe kiasi",
+        "ngozi nyeusi",
+        "upendo"
+    ],
+    "👩🏿‍❤‍👩🏽": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamke, mwanamke, ngozi nyeusi na ngozi ya kahawia",
+        "mwanamke",
+        "ngozi nyeusi",
+        "ngozi ya kahawia",
+        "upendo"
+    ],
+    "👩🏿‍❤‍👩🏾": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamke, mwanamke, ngozi nyeusi na ngozi nyeusi kiasi",
+        "mwanamke",
+        "ngozi nyeusi",
+        "ngozi nyeusi kiasi",
+        "upendo"
+    ],
+    "👩🏿‍❤‍👩🏿": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: mwanamke, mwanamke na ngozi nyeusi",
+        "mwanamke",
+        "ngozi nyeusi",
+        "upendo"
     ],
     "👩‍🦰": [
         "msichana",
@@ -7924,6 +11164,46 @@
         "ninja",
         "siri"
     ],
+    "🥷🏻": [
+        "chinichini",
+        "mpiganaji",
+        "ngozi nyeupe",
+        "ninja",
+        "ninja: ngozi nyeupe",
+        "siri"
+    ],
+    "🥷🏼": [
+        "chinichini",
+        "mpiganaji",
+        "ngozi nyeupe kiasi",
+        "ninja",
+        "ninja: ngozi nyeupe kiasi",
+        "siri"
+    ],
+    "🥷🏽": [
+        "chinichini",
+        "mpiganaji",
+        "ngozi ya kahawia",
+        "ninja",
+        "ninja: ngozi ya kahawia",
+        "siri"
+    ],
+    "🥷🏾": [
+        "chinichini",
+        "mpiganaji",
+        "ngozi nyeusi kiasi",
+        "ninja",
+        "ninja: ngozi nyeusi kiasi",
+        "siri"
+    ],
+    "🥷🏿": [
+        "chinichini",
+        "mpiganaji",
+        "ngozi nyeusi",
+        "ninja",
+        "ninja: ngozi nyeusi",
+        "siri"
+    ],
     "👷": [
         "kofia",
         "mfanyakazi",
@@ -8061,6 +11341,58 @@
         "mjenzi wa kike: ngozi nyeusi",
         "ngozi nyeusi",
         "ujenzi"
+    ],
+    "🫅": [
+        "hadhi",
+        "kichwa chenye taji",
+        "kifalme",
+        "lodi",
+        "mfalme"
+    ],
+    "🫅🏻": [
+        "hadhi",
+        "kichwa chenye taji",
+        "kichwa chenye taji: ngozi nyeupe",
+        "kifalme",
+        "lodi",
+        "mfalme",
+        "ngozi nyeupe"
+    ],
+    "🫅🏼": [
+        "hadhi",
+        "kichwa chenye taji",
+        "kichwa chenye taji: ngozi nyeupe kiasi",
+        "kifalme",
+        "lodi",
+        "mfalme",
+        "ngozi nyeupe kiasi"
+    ],
+    "🫅🏽": [
+        "hadhi",
+        "kichwa chenye taji",
+        "kichwa chenye taji: ngozi ya kahawia",
+        "kifalme",
+        "lodi",
+        "mfalme",
+        "ngozi ya kahawia"
+    ],
+    "🫅🏾": [
+        "hadhi",
+        "kichwa chenye taji",
+        "kichwa chenye taji: ngozi nyeusi kiasi",
+        "kifalme",
+        "lodi",
+        "mfalme",
+        "ngozi nyeusi kiasi"
+    ],
+    "🫅🏿": [
+        "hadhi",
+        "kichwa chenye taji",
+        "kichwa chenye taji: ngozi nyeusi",
+        "kifalme",
+        "lodi",
+        "mfalme",
+        "ngozi nyeusi"
     ],
     "🤴": [
         "mwana wa mfalme"
@@ -8350,41 +11682,41 @@
     ],
     "🤵": [
         "bwana harusi",
-        "mwanamume mwenye tuxedo",
+        "mtu aliyevaa tuxedo",
         "tuxedo"
     ],
     "🤵🏻": [
         "bwana harusi",
-        "mwanamume mwenye tuxedo",
-        "mwanamume mwenye tuxedo: ngozi nyeupe",
+        "mtu aliyevaa tuxedo",
+        "mtu aliyevaa tuxedo: ngozi nyeupe",
         "ngozi nyeupe",
         "tuxedo"
     ],
     "🤵🏼": [
         "bwana harusi",
-        "mwanamume mwenye tuxedo",
-        "mwanamume mwenye tuxedo: ngozi nyeupe kiasi",
+        "mtu aliyevaa tuxedo",
+        "mtu aliyevaa tuxedo: ngozi nyeupe kiasi",
         "ngozi nyeupe kiasi",
         "tuxedo"
     ],
     "🤵🏽": [
         "bwana harusi",
-        "mwanamume mwenye tuxedo",
-        "mwanamume mwenye tuxedo: ngozi ya kahawia",
+        "mtu aliyevaa tuxedo",
+        "mtu aliyevaa tuxedo: ngozi ya kahawia",
         "ngozi ya kahawia",
         "tuxedo"
     ],
     "🤵🏾": [
         "bwana harusi",
-        "mwanamume mwenye tuxedo",
-        "mwanamume mwenye tuxedo: ngozi nyeusi kiasi",
+        "mtu aliyevaa tuxedo",
+        "mtu aliyevaa tuxedo: ngozi nyeusi kiasi",
         "ngozi nyeusi kiasi",
         "tuxedo"
     ],
     "🤵🏿": [
         "bwana harusi",
-        "mwanamume mwenye tuxedo",
-        "mwanamume mwenye tuxedo: ngozi nyeusi",
+        "mtu aliyevaa tuxedo",
+        "mtu aliyevaa tuxedo: ngozi nyeusi",
         "ngozi nyeusi",
         "tuxedo"
     ],
@@ -8470,47 +11802,47 @@
     ],
     "👰": [
         "bi harusi",
-        "bi harusi aliyevaa shela",
         "harusi",
+        "mtu aliyevaa shela",
         "shela"
     ],
     "👰🏻": [
         "bi harusi",
-        "bi harusi aliyevaa shela",
-        "bi harusi aliyevaa shela: ngozi nyeupe",
         "harusi",
+        "mtu aliyevaa shela",
+        "mtu aliyevaa shela: ngozi nyeupe",
         "ngozi nyeupe",
         "shela"
     ],
     "👰🏼": [
         "bi harusi",
-        "bi harusi aliyevaa shela",
-        "bi harusi aliyevaa shela: ngozi nyeupe kiasi",
         "harusi",
+        "mtu aliyevaa shela",
+        "mtu aliyevaa shela: ngozi nyeupe kiasi",
         "ngozi nyeupe kiasi",
         "shela"
     ],
     "👰🏽": [
         "bi harusi",
-        "bi harusi aliyevaa shela",
-        "bi harusi aliyevaa shela: ngozi ya kahawia",
         "harusi",
+        "mtu aliyevaa shela",
+        "mtu aliyevaa shela: ngozi ya kahawia",
         "ngozi ya kahawia",
         "shela"
     ],
     "👰🏾": [
         "bi harusi",
-        "bi harusi aliyevaa shela",
-        "bi harusi aliyevaa shela: ngozi nyeusi kiasi",
         "harusi",
+        "mtu aliyevaa shela",
+        "mtu aliyevaa shela: ngozi nyeusi kiasi",
         "ngozi nyeusi kiasi",
         "shela"
     ],
     "👰🏿": [
         "bi harusi",
-        "bi harusi aliyevaa shela",
-        "bi harusi aliyevaa shela: ngozi nyeusi",
         "harusi",
+        "mtu aliyevaa shela",
+        "mtu aliyevaa shela: ngozi nyeusi",
         "ngozi nyeusi",
         "shela"
     ],
@@ -8621,6 +11953,110 @@
         "mwanamke mjamzito",
         "mwanamke mjamzito: ngozi nyeusi",
         "ngozi nyeusi"
+    ],
+    "🫃": [
+        "kitambi",
+        "kuvimba",
+        "mimba",
+        "mwanamume mwenye kitambi",
+        "tumbo lililojaa"
+    ],
+    "🫃🏻": [
+        "kitambi",
+        "kuvimba",
+        "mimba",
+        "mwanamume mwenye kitambi",
+        "mwanamume mwenye kitambi: ngozi nyeupe",
+        "ngozi nyeupe",
+        "tumbo lililojaa"
+    ],
+    "🫃🏼": [
+        "kitambi",
+        "kuvimba",
+        "mimba",
+        "mwanamume mwenye kitambi",
+        "mwanamume mwenye kitambi: ngozi nyeupe kiasi",
+        "ngozi nyeupe kiasi",
+        "tumbo lililojaa"
+    ],
+    "🫃🏽": [
+        "kitambi",
+        "kuvimba",
+        "mimba",
+        "mwanamume mwenye kitambi",
+        "mwanamume mwenye kitambi: ngozi ya kahawia",
+        "ngozi ya kahawia",
+        "tumbo lililojaa"
+    ],
+    "🫃🏾": [
+        "kitambi",
+        "kuvimba",
+        "mimba",
+        "mwanamume mwenye kitambi",
+        "mwanamume mwenye kitambi: ngozi nyeusi kiasi",
+        "ngozi nyeusi kiasi",
+        "tumbo lililojaa"
+    ],
+    "🫃🏿": [
+        "kitambi",
+        "kuvimba",
+        "mimba",
+        "mwanamume mwenye kitambi",
+        "mwanamume mwenye kitambi: ngozi nyeusi",
+        "ngozi nyeusi",
+        "tumbo lililojaa"
+    ],
+    "🫄": [
+        "kitambi",
+        "kuvimba",
+        "mimba",
+        "mtu mwenye mimba",
+        "tumbo lililojaa"
+    ],
+    "🫄🏻": [
+        "kitambi",
+        "kuvimba",
+        "mimba",
+        "mtu mwenye mimba",
+        "mtu mwenye mimba: ngozi nyeupe",
+        "ngozi nyeupe",
+        "tumbo lililojaa"
+    ],
+    "🫄🏼": [
+        "kitambi",
+        "kuvimba",
+        "mimba",
+        "mtu mwenye mimba",
+        "mtu mwenye mimba: ngozi nyeupe kiasi",
+        "ngozi nyeupe kiasi",
+        "tumbo lililojaa"
+    ],
+    "🫄🏽": [
+        "kitambi",
+        "kuvimba",
+        "mimba",
+        "mtu mwenye mimba",
+        "mtu mwenye mimba: ngozi ya kahawia",
+        "ngozi ya kahawia",
+        "tumbo lililojaa"
+    ],
+    "🫄🏾": [
+        "kitambi",
+        "kuvimba",
+        "mimba",
+        "mtu mwenye mimba",
+        "mtu mwenye mimba: ngozi nyeusi kiasi",
+        "ngozi nyeusi kiasi",
+        "tumbo lililojaa"
+    ],
+    "🫄🏿": [
+        "kitambi",
+        "kuvimba",
+        "mimba",
+        "mtu mwenye mimba",
+        "mtu mwenye mimba: ngozi nyeusi",
+        "ngozi nyeusi",
+        "tumbo lililojaa"
     ],
     "🤱": [
         "kunyonyesha",
@@ -8780,6 +12216,7 @@
         "kutunza",
         "mtoto",
         "mtu",
+        "mtu anamyelisha mtoto",
         "mtu anamyelisha mtoto: ngozi nyeupe",
         "mtu anayemlisha mtoto",
         "ngozi nyeupe"
@@ -8789,6 +12226,7 @@
         "kutunza",
         "mtoto",
         "mtu",
+        "mtu anamyelisha mtoto",
         "mtu anamyelisha mtoto: ngozi nyeupe kiasi",
         "mtu anayemlisha mtoto",
         "ngozi nyeupe kiasi"
@@ -8798,6 +12236,7 @@
         "kutunza",
         "mtoto",
         "mtu",
+        "mtu anamyelisha mtoto",
         "mtu anamyelisha mtoto: ngozi ya kahawia",
         "mtu anayemlisha mtoto",
         "ngozi ya kahawia"
@@ -8807,6 +12246,7 @@
         "kutunza",
         "mtoto",
         "mtu",
+        "mtu anamyelisha mtoto",
         "mtu anamyelisha mtoto: ngozi nyeusi kiasi",
         "mtu anayemlisha mtoto",
         "ngozi nyeusi kiasi"
@@ -8816,6 +12256,7 @@
         "kutunza",
         "mtoto",
         "mtu",
+        "mtu anamyelisha mtoto",
         "mtu anamyelisha mtoto: ngozi nyeusi",
         "mtu anayemlisha mtoto",
         "ngozi nyeusi"
@@ -9919,6 +13360,12 @@
     "🧟‍♀": [
         "dubwana jike",
         "mazimwi",
+        "zimwi"
+    ],
+    "🧌": [
+        "hekaya",
+        "jitu",
+        "njozi",
         "zimwi"
     ],
     "💆": [
@@ -14116,7 +17563,6 @@
         "mwanamume",
         "wanaume",
         "wanaume walioshikana mikono",
-        "wanaume wawili",
         "zodiaki"
     ],
     "👬🏻": [
@@ -14128,7 +17574,6 @@
         "wanaume",
         "wanaume walioshikana mikono",
         "wanaume walioshikana mikono: ngozi nyeupe",
-        "wanaume wawili",
         "zodiaki"
     ],
     "👨🏻‍🤝‍👨🏼": [
@@ -14141,7 +17586,6 @@
         "wanaume",
         "wanaume walioshikana mikono",
         "wanaume walioshikana mikono: ngozi nyeupe na ngozi nyeupe kiasi",
-        "wanaume wawili",
         "zodiaki"
     ],
     "👨🏻‍🤝‍👨🏽": [
@@ -14154,7 +17598,6 @@
         "wanaume",
         "wanaume walioshikana mikono",
         "wanaume walioshikana mikono: ngozi nyeupe na ngozi ya kahawia",
-        "wanaume wawili",
         "zodiaki"
     ],
     "👨🏻‍🤝‍👨🏾": [
@@ -14167,7 +17610,6 @@
         "wanaume",
         "wanaume walioshikana mikono",
         "wanaume walioshikana mikono: ngozi nyeupe na ngozi nyeusi kiasi",
-        "wanaume wawili",
         "zodiaki"
     ],
     "👨🏻‍🤝‍👨🏿": [
@@ -14180,7 +17622,6 @@
         "wanaume",
         "wanaume walioshikana mikono",
         "wanaume walioshikana mikono: ngozi nyeupe na ngozi nyeusi",
-        "wanaume wawili",
         "zodiaki"
     ],
     "👨🏼‍🤝‍👨🏻": [
@@ -14193,7 +17634,6 @@
         "wanaume",
         "wanaume walioshikana mikono",
         "wanaume walioshikana mikono: ngozi nyeupe kiasi na ngozi nyeupe",
-        "wanaume wawili",
         "zodiaki"
     ],
     "👬🏼": [
@@ -14205,7 +17645,6 @@
         "wanaume",
         "wanaume walioshikana mikono",
         "wanaume walioshikana mikono: ngozi nyeupe kiasi",
-        "wanaume wawili",
         "zodiaki"
     ],
     "👨🏼‍🤝‍👨🏽": [
@@ -14218,7 +17657,6 @@
         "wanaume",
         "wanaume walioshikana mikono",
         "wanaume walioshikana mikono: ngozi nyeupe kiasi na ngozi ya kahawia",
-        "wanaume wawili",
         "zodiaki"
     ],
     "👨🏼‍🤝‍👨🏾": [
@@ -14231,7 +17669,6 @@
         "wanaume",
         "wanaume walioshikana mikono",
         "wanaume walioshikana mikono: ngozi nyeupe kiasi na ngozi nyeusi kiasi",
-        "wanaume wawili",
         "zodiaki"
     ],
     "👨🏼‍🤝‍👨🏿": [
@@ -14244,7 +17681,6 @@
         "wanaume",
         "wanaume walioshikana mikono",
         "wanaume walioshikana mikono: ngozi nyeupe kiasi na ngozi nyeusi",
-        "wanaume wawili",
         "zodiaki"
     ],
     "👨🏽‍🤝‍👨🏻": [
@@ -14257,7 +17693,6 @@
         "wanaume",
         "wanaume walioshikana mikono",
         "wanaume walioshikana mikono: ngozi ya kahawia na ngozi nyeupe",
-        "wanaume wawili",
         "zodiaki"
     ],
     "👨🏽‍🤝‍👨🏼": [
@@ -14270,7 +17705,6 @@
         "wanaume",
         "wanaume walioshikana mikono",
         "wanaume walioshikana mikono: ngozi ya kahawia na ngozi nyeupe kiasi",
-        "wanaume wawili",
         "zodiaki"
     ],
     "👬🏽": [
@@ -14282,7 +17716,6 @@
         "wanaume",
         "wanaume walioshikana mikono",
         "wanaume walioshikana mikono: ngozi ya kahawia",
-        "wanaume wawili",
         "zodiaki"
     ],
     "👨🏽‍🤝‍👨🏾": [
@@ -14295,7 +17728,6 @@
         "wanaume",
         "wanaume walioshikana mikono",
         "wanaume walioshikana mikono: ngozi ya kahawia na ngozi nyeusi kiasi",
-        "wanaume wawili",
         "zodiaki"
     ],
     "👨🏽‍🤝‍👨🏿": [
@@ -14308,7 +17740,6 @@
         "wanaume",
         "wanaume walioshikana mikono",
         "wanaume walioshikana mikono: ngozi ya kahawia na ngozi nyeusi",
-        "wanaume wawili",
         "zodiaki"
     ],
     "👨🏾‍🤝‍👨🏻": [
@@ -14321,7 +17752,6 @@
         "wanaume",
         "wanaume walioshikana mikono",
         "wanaume walioshikana mikono: ngozi nyeusi kiasi na ngozi nyeupe",
-        "wanaume wawili",
         "zodiaki"
     ],
     "👨🏾‍🤝‍👨🏼": [
@@ -14334,7 +17764,6 @@
         "wanaume",
         "wanaume walioshikana mikono",
         "wanaume walioshikana mikono: ngozi nyeusi kiasi na ngozi nyeupe kiasi",
-        "wanaume wawili",
         "zodiaki"
     ],
     "👨🏾‍🤝‍👨🏽": [
@@ -14347,7 +17776,6 @@
         "wanaume",
         "wanaume walioshikana mikono",
         "wanaume walioshikana mikono: ngozi nyeusi kiasi na ngozi ya kahawia",
-        "wanaume wawili",
         "zodiaki"
     ],
     "👬🏾": [
@@ -14359,7 +17787,6 @@
         "wanaume",
         "wanaume walioshikana mikono",
         "wanaume walioshikana mikono: ngozi nyeusi kiasi",
-        "wanaume wawili",
         "zodiaki"
     ],
     "👨🏾‍🤝‍👨🏿": [
@@ -14372,7 +17799,6 @@
         "wanaume",
         "wanaume walioshikana mikono",
         "wanaume walioshikana mikono: ngozi nyeusi kiasi na ngozi nyeusi",
-        "wanaume wawili",
         "zodiaki"
     ],
     "👨🏿‍🤝‍👨🏻": [
@@ -14385,7 +17811,6 @@
         "wanaume",
         "wanaume walioshikana mikono",
         "wanaume walioshikana mikono: ngozi nyeusi na ngozi nyeupe",
-        "wanaume wawili",
         "zodiaki"
     ],
     "👨🏿‍🤝‍👨🏼": [
@@ -14398,7 +17823,6 @@
         "wanaume",
         "wanaume walioshikana mikono",
         "wanaume walioshikana mikono: ngozi nyeusi na ngozi nyeupe kiasi",
-        "wanaume wawili",
         "zodiaki"
     ],
     "👨🏿‍🤝‍👨🏽": [
@@ -14411,7 +17835,6 @@
         "wanaume",
         "wanaume walioshikana mikono",
         "wanaume walioshikana mikono: ngozi nyeusi na ngozi ya kahawia",
-        "wanaume wawili",
         "zodiaki"
     ],
     "👨🏿‍🤝‍👨🏾": [
@@ -14424,7 +17847,6 @@
         "wanaume",
         "wanaume walioshikana mikono",
         "wanaume walioshikana mikono: ngozi nyeusi na ngozi nyeusi kiasi",
-        "wanaume wawili",
         "zodiaki"
     ],
     "👬🏿": [
@@ -14436,13 +17858,47 @@
         "wanaume",
         "wanaume walioshikana mikono",
         "wanaume walioshikana mikono: ngozi nyeusi",
-        "wanaume wawili",
         "zodiaki"
     ],
     "💏": [
         "busu",
         "mapenzi",
         "mume na mke"
+    ],
+    "💏🏻": [
+        "busu",
+        "busu: ngozi nyeupe",
+        "mapenzi",
+        "mume na mke",
+        "ngozi nyeupe"
+    ],
+    "💏🏼": [
+        "busu",
+        "busu: ngozi nyeupe kiasi",
+        "mapenzi",
+        "mume na mke",
+        "ngozi nyeupe kiasi"
+    ],
+    "💏🏽": [
+        "busu",
+        "busu: ngozi ya kahawia",
+        "mapenzi",
+        "mume na mke",
+        "ngozi ya kahawia"
+    ],
+    "💏🏾": [
+        "busu",
+        "busu: ngozi nyeusi kiasi",
+        "mapenzi",
+        "mume na mke",
+        "ngozi nyeusi kiasi"
+    ],
+    "💏🏿": [
+        "busu",
+        "busu: ngozi nyeusi",
+        "mapenzi",
+        "mume na mke",
+        "ngozi nyeusi"
     ],
     "👩‍❤‍💋‍👨": [
         "busu",
@@ -14471,6 +17927,51 @@
         "moyo",
         "mume na mke",
         "mume na mke na ishara ya moyo",
+        "upendo"
+    ],
+    "💑🏻": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: ngozi nyeupe",
+        "ngozi nyeupe",
+        "upendo"
+    ],
+    "💑🏼": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: ngozi nyeupe kiasi",
+        "ngozi nyeupe kiasi",
+        "upendo"
+    ],
+    "💑🏽": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: ngozi ya kahawia",
+        "ngozi ya kahawia",
+        "upendo"
+    ],
+    "💑🏾": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: ngozi nyeusi kiasi",
+        "ngozi nyeusi kiasi",
+        "upendo"
+    ],
+    "💑🏿": [
+        "mapenzi",
+        "moyo",
+        "mume na mke",
+        "mume na mke na ishara ya moyo",
+        "mume na mke na ishara ya moyo: ngozi nyeusi",
+        "ngozi nyeusi",
         "upendo"
     ],
     "👩‍❤‍👨": [
@@ -14753,12 +18254,10 @@
     "👤": [
         "kivuli",
         "kivuli cha kichwa na mabega ya mtu",
-        "sanamu ya kichwa na mabega ya mtu",
-        "sanamu ya kichwa na mabega ya mtu katika kivuli"
+        "sanamu ya kichwa na mabega ya mtu"
     ],
     "👥": [
         "kivuli",
-        "sanamu ya kichwa na mabega ya mtu",
         "sanamu za kichwa na mabega ya mtu katika kivuli",
         "vivuli vya vichwa na mabega ya watu"
     ],
@@ -14973,7 +18472,6 @@
     "🐫": [
         "ngamia",
         "ngamia mwenye nundu mbili",
-        "ngamia mwenye vibyongo viwili",
         "nundu"
     ],
     "🦙": [
@@ -14981,7 +18479,7 @@
         "guanaco",
         "ilama",
         "sufu",
-        "vicuña"
+        "vicuna"
     ],
     "🦒": [
         "madoa",
@@ -15159,7 +18657,7 @@
         "Morisi",
         "dodo",
         "kubwa",
-        "kutokomea"
+        "kutoweka"
     ],
     "🪶": [
         "kuruka",
@@ -15271,6 +18769,10 @@
         "kombe la mzunguko",
         "mzunguko"
     ],
+    "🪸": [
+        "bahari",
+        "matumbawe"
+    ],
     "🐌": [
         "konokono"
     ],
@@ -15296,10 +18798,9 @@
         "mende"
     ],
     "🐞": [
-        "kombamwiko",
+        "bimbirisa kimba",
         "kombamwiko mwenye madoa",
-        "mdudu",
-        "mende"
+        "mdudu"
     ],
     "🦗": [
         "nyenje",
@@ -15365,6 +18866,15 @@
     "💮": [
         "ua",
         "ua jeupe"
+    ],
+    "🪷": [
+        "India",
+        "Kihindu",
+        "Ubudha",
+        "Vietinamu",
+        "ua",
+        "usafi",
+        "yungiyungi"
     ],
     "🏵️": [
         "mmea",
@@ -15478,6 +18988,18 @@
         "tawi",
         "upepo"
     ],
+    "🪹": [
+        "kiota",
+        "kiota tupu"
+    ],
+    "🪺": [
+        "kiota chenye mayai",
+        "kiota kilicho na mayai"
+    ],
+    "🍄": [
+        "mmea",
+        "uyoga"
+    ],
     "🍇": [
         "mmea",
         "tunda",
@@ -15576,7 +19098,7 @@
     "🥥": [
         "mnazi",
         "nazi",
-        "piña colada"
+        "pina kolada"
     ],
     "🥑": [
         "chakula",
@@ -15641,14 +19163,15 @@
         "kitunguu",
         "ladha"
     ],
-    "🍄": [
-        "mmea",
-        "uyoga"
-    ],
     "🥜": [
         "chakula",
         "njugu",
         "njugu karanga"
+    ],
+    "🫘": [
+        "chakula",
+        "kunde",
+        "maharagwe"
     ],
     "🌰": [
         "aina ya njugu",
@@ -15824,6 +19347,7 @@
         "boksi ya kuweka chakula"
     ],
     "🍘": [
+        "biskuti za mchele",
         "chakula kilichotengenezwa kutoka kwa mchele",
         "mchele"
     ],
@@ -15888,7 +19412,7 @@
         "mapukutiko",
         "mkate wa sinia",
         "sherehe",
-        "yuèbǐng"
+        "yuebing"
     ],
     "🍡": [
         "dango",
@@ -15900,7 +19424,7 @@
     ],
     "🥟": [
         "empanada",
-        "gyōza",
+        "gyoza",
         "jiaozi",
         "pierogi",
         "potsticker",
@@ -15949,7 +19473,7 @@
         "tamu"
     ],
     "🍧": [
-        "aisikrimu iliyotengenezwa kwa barafu iliyokatwakatwa",
+        "aisikrimu",
         "barafu",
         "barafu iliyochongwa",
         "katwakatwa",
@@ -16064,8 +19588,8 @@
         "chupa",
         "kikombe",
         "kinywaji",
-        "kinywaji cha kijapani kinachotengenezwa kwa kuvundika mchele",
-        "mvinyo wa kijapani unaotokana na mchele"
+        "mvinyo wa kijapani unaotokana na mchele",
+        "sake"
     ],
     "🍾": [
         "baa",
@@ -16118,6 +19642,13 @@
     "🥃": [
         "glasi",
         "mvinyo"
+    ],
+    "🫗": [
+        "glasi",
+        "kinywaji",
+        "kinywaji kinachomiminika",
+        "kumwagika",
+        "tupu"
     ],
     "🥤": [
         "kikombe chenye mrija",
@@ -16174,6 +19705,14 @@
         "kupika",
         "silaha",
         "zana"
+    ],
+    "🫙": [
+        "chupa",
+        "chupa kubwa",
+        "kiungo",
+        "kuhifadhi",
+        "rojo",
+        "tupu"
     ],
     "🏺": [
         "birika",
@@ -16287,10 +19826,10 @@
     ],
     "🧱": [
         "matofali",
-        "mota",
         "tofali",
         "udongo",
-        "ukuta"
+        "ukuta",
+        "zege"
     ],
     "🪨": [
         "jabali",
@@ -16306,7 +19845,7 @@
         "mbao"
     ],
     "🛖": [
-        "hema",
+        "kibanda",
         "kibanda cha mviringo",
         "nyumba",
         "nyumba ya mviringo"
@@ -16520,6 +20059,11 @@
         "farasi inayozunguka",
         "kuzunguka"
     ],
+    "🛝": [
+        "bustani ya burudani",
+        "kucheza",
+        "mtelezo wa watoto"
+    ],
     "🎡": [
         "ferris",
         "gurudumu",
@@ -16600,7 +20144,7 @@
     ],
     "🚊": [
         "basi la tramu",
-        "gari",
+        "mwendokasi",
         "tramu"
     ],
     "🚝": [
@@ -16777,6 +20321,12 @@
         "pampu",
         "pampu ya mafuta"
     ],
+    "🛞": [
+        "gurudumu",
+        "mviringo",
+        "mzunguko",
+        "tairi"
+    ],
     "🚨": [
         "gari",
         "kuzunguka",
@@ -16810,6 +20360,14 @@
         "nanga",
         "zana"
     ],
+    "🛟": [
+        "boya",
+        "boya okozi",
+        "kihifadhi maisha",
+        "kiokoa maisha",
+        "okoa",
+        "usalama"
+    ],
     "⛵️": [
         "bahari",
         "boti",
@@ -16829,7 +20387,6 @@
     ],
     "🛳️": [
         "abiria",
-        "gari",
         "meli",
         "meli ya abiria"
     ],
@@ -16843,12 +20400,13 @@
         "motaboti"
     ],
     "🚢": [
-        "gari",
+        "abiria",
+        "mashua",
         "meli"
     ],
     "✈️": [
         "eropleni",
-        "gari"
+        "ndege"
     ],
     "🛩️": [
         "gari",
@@ -17188,10 +20746,7 @@
     ],
     "🌔": [
         "anga",
-        "hali ya hewa",
-        "kuanza",
         "mwezi",
-        "mwezi ulioangazwa zaidi ya nusu",
         "mwezi ulioangazwa zaidi ya nusu unaopevuka",
         "mwezi ulioangazwa zaidi ya nusu unaotanda"
     ],
@@ -17564,7 +21119,7 @@
     ],
     "🧧": [
         "bahasha nyekundu",
-        "hóngbāo",
+        "hongbao",
         "kila la heri",
         "lai see",
         "pesa",
@@ -17753,7 +21308,7 @@
         "samaki"
     ],
     "🤿": [
-        "barakoa la kupiga mbizi",
+        "barakoa ya kupiga mbizi",
         "kupiga mbizi",
         "kuzamia majini",
         "skuba"
@@ -17762,10 +21317,11 @@
         "kukimbia",
         "mshipi",
         "shati",
-        "shati ya kukimbia"
+        "shati la kukimbia"
     ],
     "🎿": [
-        "ski",
+        "relitheluji",
+        "skii",
         "theluji"
     ],
     "🛷": [
@@ -17795,6 +21351,14 @@
         "paa",
         "ruka"
     ],
+    "🔫": [
+        "bastola",
+        "bastola ya maji",
+        "bunduki",
+        "maji",
+        "silaha",
+        "zana"
+    ],
     "🎱": [
         "8",
         "biliadi",
@@ -17816,13 +21380,6 @@
         "mazingaombwe",
         "mlozi wa kike",
         "mlozi wa kiume"
-    ],
-    "🧿": [
-        "hirizi",
-        "kago",
-        "pepo",
-        "shanga",
-        "talasimu"
     ],
     "🎮️": [
         "kidhibiti",
@@ -17860,6 +21417,13 @@
         "dhifa",
         "pinata",
         "sherehe"
+    ],
+    "🪩": [
+        "densi",
+        "disko",
+        "karamu",
+        "kimeto",
+        "tufe la vioo"
     ],
     "🪆": [
         "kutunza",
@@ -17997,7 +21561,6 @@
     "🦺": [
         "dharura",
         "jaketi la usalama",
-        "jaketi ya usalama",
         "usalama"
     ],
     "👔": [
@@ -18086,6 +21649,7 @@
     "🛍️": [
         "hoteli",
         "mifuko ya kubeba bidhaa baada ya kununua",
+        "mifuko ya kubebea bidhaa",
         "mkoba",
         "ununuzi"
     ],
@@ -18099,7 +21663,7 @@
         "kandambili",
         "ndara",
         "sapatu",
-        "zōri"
+        "zori"
     ],
     "👞": [
         "kiatu",
@@ -18174,12 +21738,12 @@
     "🎓️": [
         "hitimu",
         "kofia",
-        "kofia inayovaliwa kwenye sherehe za kuhitimu masomo",
+        "kofia ya mahafali",
         "kusherehekea",
         "mavazi"
     ],
     "🧢": [
-        "kofia iliyochorwa emoji",
+        "chepeo",
         "kofia ya besiboli"
     ],
     "🪖": [
@@ -18392,6 +21956,10 @@
     ],
     "🔋": [
         "betri"
+    ],
+    "🪫": [
+        "betri iliyopungua chaji",
+        "elektroniki"
     ],
     "🔌": [
         "nguvu za umeme",
@@ -19013,11 +22581,9 @@
         "silaha",
         "sime"
     ],
-    "🔫": [
-        "bastola",
-        "bunduki",
-        "silaha",
-        "zana"
+    "💣️": [
+        "bomu",
+        "kibonzo"
     ],
     "🪃": [
         "australia",
@@ -19185,11 +22751,26 @@
         "bendeji",
         "bendeji inayonata"
     ],
+    "🩼": [
+        "gongo",
+        "jeraha",
+        "kifaa cha kutembea",
+        "mkongojo",
+        "mkwaju",
+        "ulemavu"
+    ],
     "🩺": [
         "daktari",
         "dawa",
         "moyo",
         "stetoskopu"
+    ],
+    "🩻": [
+        "daktari",
+        "eksirei",
+        "kiunzi cha mifupa",
+        "mifupa",
+        "tiba"
     ],
     "🚪": [
         "mlango"
@@ -19297,6 +22878,13 @@
         "kusafisha",
         "sabuni"
     ],
+    "🫧": [
+        "chini ya maji",
+        "sabuni",
+        "safi",
+        "teuka",
+        "viputo"
+    ],
     "🪥": [
         "bafu",
         "meno",
@@ -19340,6 +22928,22 @@
         "kifo",
         "msiba"
     ],
+    "🧿": [
+        "hirizi",
+        "kago",
+        "pepo",
+        "shanga",
+        "talasimu"
+    ],
+    "🪬": [
+        "Fatima",
+        "Mary",
+        "Miriam",
+        "hirizi",
+        "ishara ya hamsa",
+        "mkono",
+        "ulinzi"
+    ],
     "🗿": [
         "kinyago",
         "moyai",
@@ -19351,6 +22955,12 @@
         "kuandamana",
         "kupinga",
         "maandamano"
+    ],
+    "🪪": [
+        "kitambulisho",
+        "leseni",
+        "usalama",
+        "uthibitisho"
     ],
     "🏧": [
         "alama ya ATM",
@@ -19470,7 +23080,6 @@
         "siyo"
     ],
     "🚱": [
-        "isiyo bebeka",
         "maji",
         "maji hayafai kwa matumizi ya kunywa",
         "si ya kunywa"
@@ -19542,7 +23151,6 @@
         "kusini",
         "mshale",
         "mshale unaoangalia chini",
-        "mshale unaoelekea chini",
         "sehemu kuu ya dira",
         "uelekeo"
     ],
@@ -19941,25 +23549,27 @@
     "➕": [
         "+",
         "alama",
-        "alama ya kuongeza",
         "hisabati",
         "kuongeza"
     ],
     "➖": [
         "-",
         "alama",
-        "alama ya kutoa",
         "hisabati",
         "kutoa",
         "−"
     ],
     "➗": [
         "alama",
-        "alama ya kugawanya",
         "gawanya",
         "hisabati",
         "kugawanya",
         "÷"
+    ],
+    "🟰": [
+        "hisabati",
+        "ishara ya usawa",
+        "usawa"
     ],
     "♾️": [
         "bila kikomo",
@@ -19987,7 +23597,7 @@
     "❓️": [
         "?",
         "alama",
-        "alama ya kuuliza",
+        "alama nyekundu ya kuuliza",
         "swali",
         "uakifishaji"
     ],
@@ -20010,7 +23620,7 @@
     "❗️": [
         "!",
         "alama",
-        "alama ya mshangao",
+        "alama nyekundu ya mshangao",
         "mshangao",
         "uakifishaji"
     ],
@@ -20053,7 +23663,6 @@
         "nanga",
         "nembo",
         "nembo ya chusa chenye ncha tatu",
-        "nembo ya chusa chenye ncha tatu, mkuki wa vyembe vitatu",
         "nembo ya ncha tatu",
         "zana"
     ],
@@ -20092,7 +23701,7 @@
     "✔️": [
         "alama ya tiki",
         "tia tiki",
-        "tiki nyeupe",
+        "tiki ya kijani",
         "✓"
     ],
     "❌": [
@@ -20207,6 +23816,7 @@
         "kitufe: 10"
     ],
     "🔠": [
+        "ABCD",
         "herufi",
         "herufi kubwa",
         "latini",
@@ -20824,7 +24434,7 @@
     ],
     "🇨🇺": [
         "bendera",
-        "bendera: Cuba"
+        "bendera: Kuba"
     ],
     "🇨🇻": [
         "bendera",
@@ -20840,7 +24450,7 @@
     ],
     "🇨🇾": [
         "bendera",
-        "bendera: Cyprus"
+        "bendera: Saiprasi"
     ],
     "🇨🇿": [
         "bendera",
@@ -20860,7 +24470,7 @@
     ],
     "🇩🇰": [
         "bendera",
-        "bendera: Denmark"
+        "bendera: Denmaki"
     ],
     "🇩🇲": [
         "bendera",
@@ -20924,7 +24534,7 @@
     ],
     "🇫🇲": [
         "bendera",
-        "bendera: Micronesia"
+        "bendera: Mikronesia"
     ],
     "🇫🇴": [
         "bendera",
@@ -21256,7 +24866,7 @@
     ],
     "🇲🇻": [
         "bendera",
-        "bendera: Maldives"
+        "bendera: Maldivi"
     ],
     "🇲🇼": [
         "bendera",
@@ -21472,7 +25082,7 @@
     ],
     "🇸🇹": [
         "bendera",
-        "bendera: São Tomé na Príncipe"
+        "bendera: Sao Tome na Principe"
     ],
     "🇸🇻": [
         "bendera",
@@ -21488,7 +25098,7 @@
     ],
     "🇸🇿": [
         "bendera",
-        "bendera: Uswazi"
+        "bendera: Eswatini"
     ],
     "🇹🇦": [
         "bendera",
@@ -21608,7 +25218,7 @@
     ],
     "🇻🇳": [
         "bendera",
-        "bendera: Vietnam"
+        "bendera: Vietnamu"
     ],
     "🇻🇺": [
         "bendera",
@@ -21657,6 +25267,136 @@
     "🏴󠁧󠁢󠁷󠁬󠁳󠁿": [
         "bendera",
         "bendera: Welisi"
+    ],
+    "¤": [
+        "Sarafu isiyojulikana"
+    ],
+    "¢": [
+        "senti"
+    ],
+    "$": [
+        "USD",
+        "dola",
+        "pesa",
+        "peso"
+    ],
+    "£": [
+        "EGP",
+        "GBP",
+        "pauni",
+        "sarafu"
+    ],
+    "¥": [
+        "CNY",
+        "JPY",
+        "sarafu",
+        "yeni",
+        "yuani"
+    ],
+    "֏": [
+        "Dram ya Armenia"
+    ],
+    "؋": [
+        "Afghani ya Afghanistan"
+    ],
+    "৳": [
+        "Taka ya Bangladesh"
+    ],
+    "฿": [
+        "Baht ya Tailandi"
+    ],
+    "៛": [
+        "Riel ya Kambodia"
+    ],
+    "₡": [
+        "Colon ya Kostarika"
+    ],
+    "₥": [
+        "mil",
+        "mill"
+    ],
+    "₦": [
+        "Naira ya Nigeria"
+    ],
+    "₩": [
+        "KPW",
+        "KRW",
+        "won"
+    ],
+    "₪": [
+        "Shekeli Mpya ya Israel"
+    ],
+    "₫": [
+        "Dong ya Vietnam"
+    ],
+    "€": [
+        "EUR",
+        "sarafu",
+        "yuro"
+    ],
+    "₭": [
+        "Kip ya Laosi"
+    ],
+    "₮": [
+        "Tugrik ya Mongolia"
+    ],
+    "₱": [
+        "peso"
+    ],
+    "₲": [
+        "Guarani ya Paragwai"
+    ],
+    "₴": [
+        "Hryvnia ya Ukraine"
+    ],
+    "₵": [
+        "Cedi ya Ghana"
+    ],
+    "₸": [
+        "Tenge ya Kazakhstan"
+    ],
+    "₹": [
+        "rupia",
+        "rupia ya india",
+        "sarafu"
+    ],
+    "₺": [
+        "Lira ya Uturuki"
+    ],
+    "₼": [
+        "Manat ya Azerbaijan"
+    ],
+    "₽": [
+        "rubo",
+        "sarafu"
+    ],
+    "₾": [
+        "Lari ya Jojia"
+    ],
+    "₿": [
+        "BTC",
+        "bitcoin"
+    ],
+    "¹": [
+        "herufijuu",
+        "moja",
+        "weka moja juu"
+    ],
+    "²": [
+        "herufijuu",
+        "mbili",
+        "mraba",
+        "weka mbili juu"
+    ],
+    "³": [
+        "herufijuu",
+        "mchemraba",
+        "tatu",
+        "weka tatu juu"
+    ],
+    "µ": [
+        "alama ya mikro",
+        "kipimo"
     ],
     "🏻": [
         "kibadilisha emoji",

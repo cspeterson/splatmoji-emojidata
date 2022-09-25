@@ -1,3 +1,976 @@
+‾:
+  - đường trên đầu
+_:
+  - dòng
+  - dấu gạch dưới
+  - gạch chân
+  - gạch dưới
+'-':
+  - dấu gạch ngang
+  - dấu gạch nối
+  - dấu gạch nối-dấu trừ
+  - dấu trừ
+‐:
+  - dấu gạch ngang
+  - dấu gạch nối
+–:
+  - dấu gạch ngang
+  - dấu gạch ngắn
+  - ngắn
+—:
+  - dài
+  - dấu gạch dài
+  - dấu gạch ngang
+―:
+  - dòng
+  - dấu gạch ngang dài
+  - gạch ngang
+  - gạch ngang dài
+  - thanh
+・:
+  - chấm
+  - dấu chấm giữa
+  - dấu chấm giữa katakana
+  - dấu chấm ở giữa
+  - katakana
+  - điểm trung gian
+',':
+  - dấu phẩy
+،:
+  - dấu phẩy
+  - dấu phẩy ả rập
+  - ả rập
+、:
+  - dấu phẩy
+  - dấu phẩy tượng hình
+  - tượng hình
+;:
+  - dấu chấm phẩy
+؛:
+  - dấu chấm phẩy
+  - dấu chấm phẩy ả rập
+  - ả rập
+':':
+  - dấu hai chấm
+'!':
+  - chấm than
+  - dấu chấm than
+  - dấu cảm
+¡:
+  - chấm than
+  - dấu chấm than
+  - dấu chấm than ngược
+  - dấu cảm
+  - ngược
+'?':
+  - dấu hỏi
+¿:
+  - dấu hỏi
+  - dấu hỏi ngược
+  - ngược
+؟:
+  - dấu hỏi
+  - dấu hỏi ả rập
+  - ả rập
+‽:
+  - dấu hỏi than
+.:
+  - chấm câu
+  - chấm hết
+  - dấu chấm
+…:
+  - chấm chấm
+  - dấu ba chấm
+  - dấu chấm lửng
+  - dấu lửng
+。:
+  - chấm câu
+  - chấm hết
+  - dấu chấm
+  - dấu chấm tượng hình
+  - tượng hình
+·:
+  - chấm
+  - dấu chấm giữa
+  - dấu chấm giữa dòng
+  - dấu chấm ở giữa dòng
+  - giữa
+"'":
+  - dấu móc lửng
+  - dấu móc lửng máy chữ
+  - dấu nháy
+  - dấu nháy đơn
+‘:
+  - dấu móc lửng
+  - dấu móc lửng trái
+  - dấu nháy
+  - dấu nháy thông minh
+  - dấu nháy đơn
+’:
+  - dấu móc lửng
+  - dấu móc lửng phải
+  - dấu nháy
+  - dấu nháy thông minh
+  - dấu nháy đơn
+‚:
+  - dấu móc dưới
+  - dấu móc dưới phải
+  - dấu nháy
+  - dấu nháy dưới
+“:
+  - dấu nháy
+  - dấu nháy kép
+  - dấu nháy kép trái
+  - dấu nháy thông minh
+”:
+  - dấu nháy
+  - dấu nháy kép
+  - dấu nháy kép phải
+  - dấu nháy thông minh
+„:
+  - dấu nháy
+  - dấu nháy dưới
+  - dấu nháy kép
+  - dấu nháy kép dưới phải
+  - dấu nháy thông minh
+«:
+  - dấu chữ V
+  - dấu ngoặc góc
+  - dấu ngoặc kép
+  - dấu ngoặc kép trái
+  - dấu ngoặc đơn
+  - dấu sót
+  - trái
+»:
+  - dấu chữ V
+  - dấu ngoặc góc
+  - dấu ngoặc kép
+  - dấu ngoặc kép phải
+  - dấu ngoặc đơn
+  - dấu sót
+  - phải
+):
+  - dấu ngoặc
+  - dấu ngoặc đơn
+  - dấu ngoặc đơn đóng
+  - ngoặc tròn
+'[':
+  - dấu móc
+  - dấu ngoặc
+  - dấu ngoặc vuông
+  - dấu ngoặc vuông mở
+']':
+  - dấu móc
+  - dấu ngoặc
+  - dấu ngoặc vuông
+  - dấu ngoặc vuông đóng
+'{':
+  - dấu ngoặc
+  - dấu ngoặc nhọn
+  - dấu ngoặc nhọn mở
+'}':
+  - dấu ngoặc
+  - dấu ngoặc nhọn
+  - dấu ngoặc nhọn đóng
+〈:
+  - dấu ngoặc
+  - dấu ngoặc góc
+  - dấu ngoặc góc mở
+  - dấu ngoặc kim cương
+  - dấu ngoặc nhọn
+〉:
+  - dấu ngoặc
+  - dấu ngoặc góc
+  - dấu ngoặc góc đóng
+  - dấu ngoặc kim cương
+  - dấu ngoặc nhọn
+《:
+  - dấu ngoặc
+  - dấu ngoặc góc kép
+  - dấu ngoặc góc kép mở
+》:
+  - dấu ngoặc
+  - dấu ngoặc góc kép
+  - dấu ngoặc góc kép đóng
+「:
+  - dấu ngoặc
+  - dấu ngoặc chữ L
+  - dấu ngoặc chữ L mở
+」:
+  - dấu ngoặc
+  - dấu ngoặc chữ L
+  - dấu ngoặc chữ L đóng
+『:
+  - dấu ngoặc
+  - dấu ngoặc chữ L rỗng
+  - dấu ngoặc chữ L rỗng mở
+』:
+  - dấu ngoặc
+  - dấu ngoặc chữ L rỗng
+  - dấu ngoặc chữ L rỗng đóng
+【:
+  - dấu ngoặc
+  - dấu ngoặc thấu kính
+  - dấu ngoặc thấu kính đen mở
+】:
+  - dấu ngoặc
+  - dấu ngoặc thấu kính
+  - dấu ngoặc thấu kính đen đóng
+〔:
+  - dấu ngoặc
+  - dấu ngoặc hình mai rùa
+  - dấu ngoặc mai rùa
+  - dấu ngoặc mai rùa mở
+〕:
+  - dấu ngoặc
+  - dấu ngoặc hình mai rùa
+  - dấu ngoặc mai rùa
+  - dấu ngoặc mai rùa đóng
+〖:
+  - dấu ngoặc
+  - dấu ngoặc thấu kính rỗng
+  - dấu ngoặc thấu kính rỗng mở
+〗:
+  - dấu ngoặc
+  - dấu ngoặc thấu kính rỗng
+  - dấu ngoặc thấu kính rỗng đóng
+§:
+  - biểu tượng chương mục
+  - mục
+  - phần
+  - đoạn
+¶:
+  - dấu ngắt đoạn
+  - ký hiệu
+  - đoạn
+  - đoạn văn
+'@':
+  - a còng
+  - ký hiệu a còng
+  - ký hiệu a móc
+'*️':
+  - dấu hoa thị
+  - dấu sao
+  - ký tự đại diện
+/:
+  - chéo
+  - dấu sổ chéo
+  - gạch chéo
+  - xiên
+\:
+  - dấu sổ ngược
+  - gạch chéo ngược
+  - xiên ngược
+'&':
+  - dấu và
+  - và
+'#️':
+  - dấu thăng
+  - hashtag
+  - số
+  - thăng
+'%':
+  - dấu phần trăm
+  - phần trăm
+‰:
+  - dấu phần nghìn
+  - phần nghìn
+†:
+  - biểu tượng kiếm ngược
+  - dao găm
+  - dấu thập giá
+  - kiếm ngược
+‡:
+  - biểu tượng song kiếm
+  - dao găm
+  - dấu thập giá
+  - kiếm ngược
+  - song
+•:
+  - chấm
+  - dấu đầu câu
+‧:
+  - chấm
+  - dấu chấm nối
+  - nối
+′:
+  - dấu nháy
+″:
+  - dấu nháy
+  - dấu nháy kép
+  - nháy
+‴:
+  - dấu nháy
+  - dấu nháy ba
+‸:
+  - dấu sót
+※:
+  - dấu tham chiếu
+  - ký hiệu tham chiếu
+⁂:
+  - dấu chia văn bản
+'`':
+  - dấu
+  - dấu huyền
+  - huyền
+  - nốt
+´:
+  - dấu
+  - dấu sắc
+  - nốt
+  - sắc
+^:
+  - con trỏ
+  - dấu
+  - dấu mũ
+  - dấu tuyển loại trừ
+  - lũy thừa
+  - mũ
+  - nêm
+  - nón
+  - điều khiển
+¨:
+  - dấu tách đôi
+°:
+  - chứng minh
+  - giờ
+  - độ
+℗:
+  - bản quyền
+  - bản quyền ghi âm
+  - ghi
+  - âm thanh
+←:
+  - bên trái
+  - mũi tên
+  - mũi tên hướng trái
+↚:
+  - mũi tên trái có dấu gạch chéo
+→:
+  - bên phải
+  - mũi tên
+  - mũi tên hướng phải
+↛:
+  - mũi tên phải có dấu gạch chéo
+↑:
+  - lên
+  - mũi tên
+  - mũi tên hướng lên
+↓:
+  - mũi tên
+  - mũi tên hướng xuống
+  - xuống
+↜:
+  - mũi tên sóng trái
+↝:
+  - mũi tên sóng phải
+↞:
+  - mũi tên trái hai đầu
+↟:
+  - mũi tên hướng lên hai đầu
+↠:
+  - mũi tên phải hai đầu
+↡:
+  - mũi tên hướng xuống hai đầu
+↢:
+  - mũi tên trái có đuôi
+↣:
+  - mũi tên phải có đuôi
+↤:
+  - mũi tên trái từ thanh
+↥:
+  - mũi tên hướng lên từ thanh
+↦:
+  - mũi tên phải từ thanh
+↧:
+  - mũi tên hướng xuống từ thanh
+↨:
+  - mũi tên lên xuống có nét ngang
+↫:
+  - mũi tên trái có vòng tròn nhỏ
+↬:
+  - mũi tên phải có vòng tròn nhỏ
+↭:
+  - mũi tên sóng trái phải
+↯:
+  - mũi tên xuống hình dích dắc
+↰:
+  - mũi tên hướng lên có đầu sang trái
+↱:
+  - mũi tên hướng lên có đầu sang phải
+↲:
+  - mũi tên hướng xuống có đầu sang trái
+↳:
+  - mũi tên hướng xuống có đầu sang phải
+↴:
+  - mũi tên phải có góc hướng xuống
+↵:
+  - mũi tên hướng xuống có góc sang trái
+↶:
+  - mũi tên hình bán nguyệt đầu ngược chiều kim đồng hồ
+↷:
+  - mũi tên hình bán nguyệt đầu theo chiều kim đồng hồ
+↸:
+  - mũi tên tây bắc đến thanh dài
+↹:
+  - mũi tên trái đến thanh trên mũi tên phải đến thanh
+↺:
+  - mũi tên mở tròn ngược chiều kim đồng hồ
+↻:
+  - mũi tên mở tròn theo chiều kim đồng hồ
+↼:
+  - nét thẳng trái có ngạnh hướng lên
+↽:
+  - nét thẳng trái có ngạnh hướng xuống
+↾:
+  - nét thẳng hướng lên có ngạnh sang phải
+↿:
+  - nét thẳng hướng lên có ngạnh sang trái
+⇀:
+  - nét thẳng phải có ngạnh hướng lên
+⇁:
+  - nét thẳng phải có ngạnh hướng xuống
+⇂:
+  - nét thẳng hướng xuống có ngạnh sang phải
+⇃:
+  - nét thẳng hướng xuống có ngạnh sang trái
+⇄:
+  - mũi tên phải trên mũi tên trái
+⇅:
+  - lên
+  - mũi tên
+  - mũi tên lên/xuống
+  - xuống
+⇆:
+  - mũi tên
+  - mũi tên trái/phải
+  - phải
+  - trái
+⇇:
+  - mũi tên ghép trái
+⇈:
+  - mũi tên ghép hướng lên
+⇉:
+  - mũi tên ghép phải
+⇊:
+  - mũi tên ghép hướng xuống
+⇋:
+  - nét thẳng có ngạnh trái trên nét thẳng có ngạnh phải
+⇌:
+  - nét thẳng có ngạnh phải trên nét thẳng có ngạnh trái
+⇐:
+  - mũi tên kép trái
+⇍:
+  - mũi tên kép trái có dấu gạch chéo
+⇑:
+  - mũi tên kép hướng lên
+⇒:
+  - mũi tên kép phải
+⇏:
+  - mũi tên kép phải có dấu gạch chéo
+⇓:
+  - mũi tên kép xuống
+⇔:
+  - mũi tên kép trái phải
+⇎:
+  - mũi tên kép trái phải có dấu gạch chéo
+⇖:
+  - mũi tên kép tây bắc
+⇗:
+  - mũi tên kép đông bắc
+⇘:
+  - mũi tên kép đông nam
+⇙:
+  - mũi tên kép tây nam
+⇚:
+  - mũi tên ba trái
+⇛:
+  - mũi tên ba phải
+⇜:
+  - mũi tên ngoằn ngoèo trái
+⇝:
+  - mũi tên ngoằn ngoèo phải
+⇞:
+  - mũi tên hướng lên có hai nét gạch
+⇟:
+  - mũi tên hướng xuống có hai nét gạch
+⇠:
+  - mũi tên trái nét đứt
+⇡:
+  - mũi tên hướng lên nét đứt
+⇢:
+  - mũi tên phải nét đứt
+⇣:
+  - mũi tên hướng xuống nét đứt
+⇤:
+  - mũi tên trái đến thanh
+⇥:
+  - mũi tên phải đến thanh
+⇦:
+  - mũi tên rỗng trái
+⇧:
+  - mũi tên rỗng hướng lên
+⇨:
+  - mũi tên rỗng phải
+⇩:
+  - mũi tên rỗng hướng xuống
+⇪:
+  - mũi tên rỗng hướng lên từ thanh
+⇵:
+  - mũi tên hướng xuống bên trái mũi tên hướng lên
+∀:
+  - với mọi
+∂:
+  - vi phân riêng phần
+∃:
+  - tồn tại
+∅:
+  - tập hợp rỗng
+∆:
+  - hình tam giác
+  - số gia
+∇:
+  - hình tam giác
+  - nabla
+∈:
+  - chứa
+  - phần tử
+  - phần tử của
+  - thuộc
+  - tập hợp
+∉:
+  - không thuộc
+∋:
+  - chứa
+∎:
+  - chứng minh kết thúc
+∏:
+  - tích đa phân
+∑:
+  - tổng đa phân
++:
+  - cộng
+  - dấu cộng
+  - thêm
+±:
+  - dấu cộng trừ
+÷:
+  - biểu tượng dấu chia
+  - chia
+  - dấu chia
+  - phép chia
+×:
+  - biểu tượng dấu nhân
+  - dấu nhân
+  - lần
+  - nhân
+  - phép nhân
+<:
+  - dấu nhỏ hơn
+  - nhỏ hơn
+  - thẻ
+  - thẻ mở
+≮:
+  - không nhỏ hơn
+'=':
+  - dấu bằng
+≠:
+  - dấu khác
+  - khác
+  - không bằng
+  - không giống
+'>':
+  - dấu lớn hơn
+  - lớn hơn
+  - thẻ
+  - thẻ đóng
+≯:
+  - không lớn hơn
+¬:
+  - dấu phủ định
+  - không
+  - phủ định
+'|':
+  - dấu sổ dọc
+  - dấu sổ thẳng
+  - thanh
+  - ống
+'~':
+  - dấu ngã
+−:
+  - dấu trừ
+  - trừ
+⁻:
+  - chỉ số trên
+  - dấu trừ
+  - dấu trừ trên
+∓:
+  - trừ hoặc cộng
+∕:
+  - dấu gạch chéo phân chia
+⁄:
+  - dấu gạch chéo phân số
+∗:
+  - toán tử dấu hoa thị
+∘:
+  - vòng toán tử
+∙:
+  - toán tử dấu đầu dòng
+√:
+  - bậc hai
+  - căn
+  - căn bậc hai
+  - căn số
+  - cơ số
+  - vô tỷ
+∝:
+  - tỷ lệ
+∞:
+  - biểu tượng vô cực
+  - vô cực
+∟:
+  - góc vuông
+∠:
+  - góc
+∣:
+  - chia ra
+∥:
+  - song song
+∧:
+  - logic và
+∩:
+  - giao
+  - tập hợp
+∪:
+  - hợp
+  - sự tụ tập
+  - tập hợp
+∫:
+  - tích phân
+∬:
+  - tích phân kép
+∮:
+  - tích phân theo chu tuyến
+∴:
+  - do đó
+∵:
+  - vì
+∶:
+  - tỉ số
+∷:
+  - tỷ lệ thức
+∼:
+  - toán tử tương ứng
+∽:
+  - dấu ngã ngược
+∾:
+  - cực thuận
+≃:
+  - gần bằng
+≅:
+  - xấp xỉ bằng
+≈:
+  - dấu xấp xỉ
+  - gần bằng
+  - khoảng
+  - xấp xỉ
+≌:
+  - như nhau
+≒:
+  - xấp xỉ
+≖:
+  - tương đương
+≡:
+  - bằng
+  - bằng nhau
+  - dấu bằng
+  - giống
+  - gấp ba
+≣:
+  - tương đồng
+≤:
+  - bằng
+  - dấu nhỏ hơn hoặc bằng
+  - không bằng
+  - nhỏ hơn hoặc bằng
+≥:
+  - bằng
+  - dấu lớn hơn hoặc bằng
+  - không bằng
+  - lớn hơn
+≦:
+  - nhỏ hơn bằng
+≧:
+  - lớn hơn bằng
+≪:
+  - ít hơn rất nhiều so với
+≫:
+  - lớn hơn nhiều
+≬:
+  - trong khoảng
+≳:
+  - lớn hơn tương đương
+≺:
+  - đứng trước
+≻:
+  - đứng sau
+⊁:
+  - không đứng saau
+⊂:
+  - tập hợp
+  - tập hợp con
+  - tập hợp con của
+⊃:
+  - tập cha
+⊆:
+  - tập con bằng
+⊇:
+  - tập cha bằng
+⊕:
+  - tổng trực tiếp
+⊖:
+  - hiệu số đối xứng
+⊗:
+  - tích tenxơ
+⊘:
+  - dấu chia
+  - dấu chia trong vòng tròn
+  - giống phép chia
+  - toán học
+⊙:
+  - toán tử chấm tròn
+⊚:
+  - toán tử vòng tròn
+⊛:
+  - toán tử hoa thị tròn
+⊞:
+  - phép cộng
+⊟:
+  - phép trừ
+⊥:
+  - chữ T lộn ngược
+⊮:
+  - không bắt buộc
+⊰:
+  - đứng trước trong hệ thức
+⊱:
+  - đứng sau trong hệ thức
+⋭:
+  - không chứa như nhóm con bình thường bằng
+⊶:
+  - gốc
+⊹:
+  - ma trận liên hợp hermitian
+⊿:
+  - tam giác vuông
+⋁:
+  - logic hoặc đa phân
+⋂:
+  - giao đa phân
+⋃:
+  - hợp đa phân
+⋅:
+  - toán tử dấu chấm
+⋆:
+  - toán tử nhân
+⋈:
+  - phép nối tự nhiên
+⋒:
+  - giao kép
+⋘:
+  - ít hơn rất nhiều
+⋙:
+  - lớn hơn rất nhiều
+⋮:
+  - dấu ba chấm dọc
+⋯:
+  - dấu ba chấm ngang đường trung tuyến
+⋰:
+  - dấu ba chấm chéo phải trên
+⋱:
+  - dấu ba chấm chéo phải xuống
+■:
+  - hình vuông đặc
+□:
+  - hình vuông rỗng
+▢:
+  - hình vuông rỗng có góc bo tròn
+▣:
+  - hình vuông rỗng chứa hình vuông đặc
+▤:
+  - hình vuông có sọc ngang
+▥:
+  - hình vuông có sọc dọc
+▦:
+  - hình vuông có sọc ngang dọc thẳng góc
+▧:
+  - hình vuông có sọc chéo từ trái trên xuống phải dưới
+▨:
+  - hình vuông có sọc chéo từ phải trên xuống trái dưới
+▩:
+  - hình vuông có sọc chéo song song
+▬:
+  - hình chữ nhật đặc
+▭:
+  - hình chữ nhật rỗng
+▮:
+  - hình chữ nhật dọc đặc
+▰:
+  - hình bình hành đặc
+▲:
+  - kín
+  - lên
+  - mũi tên
+  - tam giác
+  - tam giác hướng lên
+△:
+  - hình tam giác rỗng hướng lên
+▴:
+  - hình tam giác nhỏ đặc hướng lên
+▵:
+  - hình tam giác nhỏ rỗng hướng lên
+▷:
+  - hình tam giác rỗng hướng sang phải
+▸:
+  - hình tam giác nhỏ đặc hướng sang phải
+▹:
+  - hình tam giác nhỏ rỗng hướng sang phải
+►:
+  - con trỏ đặc hướng sang phải
+▻:
+  - con trỏ rỗng hướng sang phải
+▼:
+  - kín
+  - mũi tên
+  - tam giác
+  - tam giác hướng xuống
+  - xuống
+▽:
+  - hình tam giác rỗng hướng xuống
+▾:
+  - hình tam giác nhỏ đặc hướng xuống
+▿:
+  - hình tam giác nhỏ rỗng hướng xuống
+◁:
+  - hình tam giác rỗng hướng sang trái
+◂:
+  - hình tam giác nhỏ đặc hướng sang trái
+◃:
+  - hình tam giác nhỏ rỗng hướng sang trái
+◄:
+  - con trỏ đặc hướng sang trái
+◅:
+  - con trỏ rỗng hướng sang trái
+◆:
+  - hình kim cương đặc
+◇:
+  - hình kim cương rỗng
+◈:
+  - hình kim cương rỗng chứa hình kim cương đặc
+◉:
+  - hình tròn rỗng chứa hình tròn đặc
+◊:
+  - hình quả trám
+  - hình thoi
+  - kim cương
+○:
+  - chấm rỗng
+  - hình tròn
+  - vòng tròn
+◌:
+  - hình tròn chấm chấm
+◍:
+  - hình tròn có sọc dọc
+◎:
+  - hình tròn đồng tâm
+●:
+  - chấm tròn
+  - hình tròn
+◐:
+  - hình tròn nửa trái đặc
+◑:
+  - hình tròn nửa phải đặc
+◒:
+  - hình tròn nửa dưới đặc
+◓:
+  - hình tròn nửa trên đặc
+◔:
+  - hình tròn góc phần tư phía trên bên phải đặc
+◕:
+  - hình tròn góc phần tư phía trên bên trái rỗng
+◖:
+  - nửa hình tròn bên trái đặc
+◗:
+  - nửa hình tròn bên phải đặc
+◘:
+  - dấu đầu dòng ngược
+◙:
+  - hình vuông đặc chứa hình tròn rỗng
+◜:
+  - cung tròn góc phần tư phía trên bên trái
+◝:
+  - cung tròn góc phần tư phía trên bên phải
+◞:
+  - cung tròn góc phần tư phía dưới bên phải
+◟:
+  - cung tròn góc phần tư phía dưới bên trái
+◠:
+  - nửa hình tròn trên
+◡:
+  - nửa hình tròn dưới
+◢:
+  - hình tam giác phia dưới bên phải đặc
+◣:
+  - hình tam giác phia dưới bên trái đặc
+◤:
+  - hình tam giác phía trên bên trái đặc
+◥:
+  - hình tam giác phía trên bên phải đặc
+◦:
+  - dấu đầu dòng rỗng
+◯:
+  - chấm rỗng lớn
+  - hình tròn
+  - vòng tròn
+◳:
+  - hình vuông rỗng góc phần tư phía trên bên phải
+◷:
+  - hình tròn rỗng với góc phần tư phía trên bên phải
+◿:
+  - hình tam giác dưới bên phải
+♪:
+  - móc đơn
+  - nốt
+  - nốt móc đơn
+  - phần tám
+  - âm nhạc
+⨧:
+  - dấu cộng với chỉ số dưới hai
+⨯:
+  - tích vectơ hữu hướng
+⨼:
+  - tích tự đẳng cấu trong
+⩣:
+  - logic hoặc gạch dưới kép
+⩽:
+  - nhỏ hơn hoặc nghiêng bằng
+⪍:
+  - nhỏ hơn hoặc đồng dạng bằng
+⪚:
+  - dấu bằng kép hoặc lớn hơn
+⪺:
+  - đứng sau hoặc gần như không bằng
+♭:
+  - giáng
+  - nốt
+  - nốt giáng
+  - âm nhạc
+♯:
+  - cao
+  - nốt
+  - nốt thăng
+  - thăng
+  - âm nhạc
 😀:
   - mặt
   - mặt cười toét
@@ -56,6 +1029,12 @@
   - lộn ngược
   - mặt
   - mặt lộn ngược
+🫠:
+  - biến mất
+  - chất lỏng
+  - hòa tan
+  - mặt tan chảy
+  - tan chảy
 😉:
   - mặt
   - mặt nháy mắt
@@ -167,6 +1146,20 @@
 🤭:
   - mặt với tay che miệng
   - xin lỗi
+🫢:
+  - hoài nghi
+  - kinh ngạc
+  - kính nể
+  - mặt với cặp mắt mở to và tay che miệng
+  - ngạc nhiên
+  - sợ hãi
+  - xấu hổ
+🫣:
+  - mặt hé mắt nhìn trộm
+  - nhìn chằm chằm
+  - nhìn lén
+  - nhìn trộm
+  - quyến rũ
 🤫:
   - im lặng
   - mặt ra dấu suỵt
@@ -175,6 +1168,14 @@
   - mặt
   - mặt suy nghĩ
   - đang suy nghĩ
+🫡:
+  - chào
+  - mặt chào
+  - nhà binh
+  - nắng
+  - ok
+  - quân đội
+  - vâng
 🤐:
   - khóa kéo
   - miệng
@@ -201,6 +1202,19 @@
   - mặt không có miệng
   - yên lặng
   - ít nói
+🫥:
+  - biến mất
+  - chán nản
+  - hướng nội
+  - mặt có đường viền chấm chấm
+  - thất vọng
+  - vô hình
+  - ẩn
+😶‍🌫:
+  - mặt trong sương mù
+  - mặt trong đám mây
+  - đãng trí
+  - đầu trong đám mây
 😏:
   - cười khẩy
   - mặt
@@ -219,6 +1233,13 @@
   - mặt
   - mặt nhăn nhó
   - nhăn nhó
+😮‍💨:
+  - huýt sáo
+  - mặt thở ra
+  - rên rỉ
+  - thì thầm
+  - thở hổn hển
+  - thở ra
 🤥:
   - mặt
   - mặt nói dối
@@ -304,6 +1325,12 @@
   - chóng mặt
   - mặt
   - mặt chóng mặt
+😵‍💫:
+  - chóng mặt
+  - mặt có đôi mắt xoắn ốc
+  - rắc rối
+  - thôi miên
+  - xoắn ốc
 🤯:
   - bị sốc
   - đầu nổ tung
@@ -345,6 +1372,12 @@
   - bối rối
   - mặt
   - mặt bối rối
+🫤:
+  - buồn chán
+  - hoài nghi
+  - không chắc chắn
+  - mặt có miệng xiên
+  - thất vọng
 😟:
   - lo lắng
   - mặt
@@ -385,6 +1418,13 @@
   - mắt cún con
   - mặt cầu xin
   - xin xỏ
+🥹:
+  - buồn
+  - chịu đựng
+  - giận giữ
+  - khóc
+  - mặt kìm nén nước mắt
+  - tự hào
 😦:
   - miệng
   - mặt
@@ -650,10 +1690,6 @@
   - mặt
   - nói
   - điều xấu
-💋:
-  - dấu nụ hôn
-  - hôn
-  - môi
 💌:
   - lá thư
   - thư
@@ -702,6 +1738,21 @@
   - bị vỡ
   - trái tim tan vỡ
   - vỡ
+❤‍🔥:
+  - bốc lửa
+  - cháy
+  - thèm khát
+  - trái tim
+  - trái tim bốc lửa
+  - trái tim linh thiêng
+  - tình yêu
+❤‍🩹:
+  - cải thiện
+  - hồi phục
+  - khỏe mạnh hơn
+  - phục hồi
+  - trái tim đang lành
+  - đang lành
 ❤️:
   - trái tim
   - trái tim màu đỏ
@@ -733,6 +1784,10 @@
   - màu trắng
   - trái tim
   - trái tim màu trắng
+💋:
+  - dấu nụ hôn
+  - hôn
+  - môi
 💯:
   - '100'
   - 100 điểm
@@ -765,9 +1820,6 @@
   - lao đi
 🕳️:
   - lỗ
-💣️:
-  - bom
-  - hài hước
 💬:
   - bong bóng
   - bong bóng lời nói
@@ -983,6 +2035,358 @@
   - tay thần lửa
   - 'tay thần lửa: màu da tối'
   - thần lửa
+🫱:
+  - bàn tay
+  - bàn tay hướng sang bên phải
+  - bên phải
+  - sang phải
+🫱🏻:
+  - bàn tay
+  - bàn tay hướng sang bên phải
+  - 'bàn tay hướng sang bên phải: màu da sáng'
+  - bên phải
+  - màu da sáng
+  - sang phải
+🫱🏼:
+  - bàn tay
+  - bàn tay hướng sang bên phải
+  - 'bàn tay hướng sang bên phải: màu da sáng trung bình'
+  - bên phải
+  - màu da sáng trung bình
+  - sang phải
+🫱🏽:
+  - bàn tay
+  - bàn tay hướng sang bên phải
+  - 'bàn tay hướng sang bên phải: màu da trung bình'
+  - bên phải
+  - màu da trung bình
+  - sang phải
+🫱🏾:
+  - bàn tay
+  - bàn tay hướng sang bên phải
+  - 'bàn tay hướng sang bên phải: màu da tối trung bình'
+  - bên phải
+  - màu da tối trung bình
+  - sang phải
+🫱🏿:
+  - bàn tay
+  - bàn tay hướng sang bên phải
+  - 'bàn tay hướng sang bên phải: màu da tối'
+  - bên phải
+  - màu da tối
+  - sang phải
+🫱🏻‍🫲🏼:
+  - bắt tay
+  - 'bắt tay: màu da sáng, màu da sáng trung bình'
+  - gặp mặt
+  - màu da sáng
+  - màu da sáng trung bình
+  - rung
+  - tay
+  - đồng ý
+🫱🏻‍🫲🏽:
+  - bắt tay
+  - 'bắt tay: màu da sáng, màu da trung bình'
+  - gặp mặt
+  - màu da sáng
+  - màu da trung bình
+  - rung
+  - tay
+  - đồng ý
+🫱🏻‍🫲🏾:
+  - bắt tay
+  - 'bắt tay: màu da sáng, màu da tối trung bình'
+  - gặp mặt
+  - màu da sáng
+  - màu da tối trung bình
+  - rung
+  - tay
+  - đồng ý
+🫱🏻‍🫲🏿:
+  - bắt tay
+  - 'bắt tay: màu da sáng, màu da tối'
+  - gặp mặt
+  - màu da sáng
+  - màu da tối
+  - rung
+  - tay
+  - đồng ý
+🫱🏼‍🫲🏻:
+  - bắt tay
+  - 'bắt tay: màu da sáng trung bình, màu da sáng'
+  - gặp mặt
+  - màu da sáng
+  - màu da sáng trung bình
+  - rung
+  - tay
+  - đồng ý
+🫱🏼‍🫲🏽:
+  - bắt tay
+  - 'bắt tay: màu da sáng trung bình, màu da trung bình'
+  - gặp mặt
+  - màu da sáng trung bình
+  - màu da trung bình
+  - rung
+  - tay
+  - đồng ý
+🫱🏼‍🫲🏾:
+  - bắt tay
+  - 'bắt tay: màu da sáng trung bình, màu da tối trung bình'
+  - gặp mặt
+  - màu da sáng trung bình
+  - màu da tối trung bình
+  - rung
+  - tay
+  - đồng ý
+🫱🏼‍🫲🏿:
+  - bắt tay
+  - 'bắt tay: màu da sáng trung bình, màu da tối'
+  - gặp mặt
+  - màu da sáng trung bình
+  - màu da tối
+  - rung
+  - tay
+  - đồng ý
+🫱🏽‍🫲🏻:
+  - bắt tay
+  - 'bắt tay: màu da trung bình, màu da sáng'
+  - gặp mặt
+  - màu da sáng
+  - màu da trung bình
+  - rung
+  - tay
+  - đồng ý
+🫱🏽‍🫲🏼:
+  - bắt tay
+  - 'bắt tay: màu da trung bình, màu da sáng trung bình'
+  - gặp mặt
+  - màu da sáng trung bình
+  - màu da trung bình
+  - rung
+  - tay
+  - đồng ý
+🫱🏽‍🫲🏾:
+  - bắt tay
+  - 'bắt tay: màu da trung bình, màu da tối trung bình'
+  - gặp mặt
+  - màu da trung bình
+  - màu da tối trung bình
+  - rung
+  - tay
+  - đồng ý
+🫱🏽‍🫲🏿:
+  - bắt tay
+  - 'bắt tay: màu da trung bình, màu da tối'
+  - gặp mặt
+  - màu da trung bình
+  - màu da tối
+  - rung
+  - tay
+  - đồng ý
+🫱🏾‍🫲🏻:
+  - bắt tay
+  - 'bắt tay: màu da tối trung bình, màu da sáng'
+  - gặp mặt
+  - màu da sáng
+  - màu da tối trung bình
+  - rung
+  - tay
+  - đồng ý
+🫱🏾‍🫲🏼:
+  - bắt tay
+  - 'bắt tay: màu da tối trung bình, màu da sáng trung bình'
+  - gặp mặt
+  - màu da sáng trung bình
+  - màu da tối trung bình
+  - rung
+  - tay
+  - đồng ý
+🫱🏾‍🫲🏽:
+  - bắt tay
+  - 'bắt tay: màu da tối trung bình, màu da trung bình'
+  - gặp mặt
+  - màu da trung bình
+  - màu da tối trung bình
+  - rung
+  - tay
+  - đồng ý
+🫱🏾‍🫲🏿:
+  - bắt tay
+  - 'bắt tay: màu da tối trung bình, màu da tối'
+  - gặp mặt
+  - màu da tối
+  - màu da tối trung bình
+  - rung
+  - tay
+  - đồng ý
+🫱🏿‍🫲🏻:
+  - bắt tay
+  - 'bắt tay: màu da tối, màu da sáng'
+  - gặp mặt
+  - màu da sáng
+  - màu da tối
+  - rung
+  - tay
+  - đồng ý
+🫱🏿‍🫲🏼:
+  - bắt tay
+  - 'bắt tay: màu da tối, màu da sáng trung bình'
+  - gặp mặt
+  - màu da sáng trung bình
+  - màu da tối
+  - rung
+  - tay
+  - đồng ý
+🫱🏿‍🫲🏽:
+  - bắt tay
+  - 'bắt tay: màu da tối, màu da trung bình'
+  - gặp mặt
+  - màu da trung bình
+  - màu da tối
+  - rung
+  - tay
+  - đồng ý
+🫱🏿‍🫲🏾:
+  - bắt tay
+  - 'bắt tay: màu da tối, màu da tối trung bình'
+  - gặp mặt
+  - màu da tối
+  - màu da tối trung bình
+  - rung
+  - tay
+  - đồng ý
+🫲:
+  - bàn tay
+  - bàn tay hướng sang bên trái
+  - bên trái
+  - sang trái
+🫲🏻:
+  - bàn tay
+  - bàn tay hướng sang bên trái
+  - 'bàn tay hướng sang bên trái: màu da sáng'
+  - bên trái
+  - màu da sáng
+  - sang trái
+🫲🏼:
+  - bàn tay
+  - bàn tay hướng sang bên trái
+  - 'bàn tay hướng sang bên trái: màu da sáng trung bình'
+  - bên trái
+  - màu da sáng trung bình
+  - sang trái
+🫲🏽:
+  - bàn tay
+  - bàn tay hướng sang bên trái
+  - 'bàn tay hướng sang bên trái: màu da trung bình'
+  - bên trái
+  - màu da trung bình
+  - sang trái
+🫲🏾:
+  - bàn tay
+  - bàn tay hướng sang bên trái
+  - 'bàn tay hướng sang bên trái: màu da tối trung bình'
+  - bên trái
+  - màu da tối trung bình
+  - sang trái
+🫲🏿:
+  - bàn tay
+  - bàn tay hướng sang bên trái
+  - 'bàn tay hướng sang bên trái: màu da tối'
+  - bên trái
+  - màu da tối
+  - sang trái
+🫳:
+  - bàn tay có lòng bàn tay hướng xuống
+  - thả
+  - xua
+  - xuỵt
+  - đuổi
+🫳🏻:
+  - bàn tay có lòng bàn tay hướng xuống
+  - 'bàn tay có lòng bàn tay hướng xuống: màu da sáng'
+  - màu da sáng
+  - thả
+  - xua
+  - xuỵt
+  - đuổi
+🫳🏼:
+  - bàn tay có lòng bàn tay hướng xuống
+  - 'bàn tay có lòng bàn tay hướng xuống: màu da sáng trung bình'
+  - màu da sáng trung bình
+  - thả
+  - xua
+  - xuỵt
+  - đuổi
+🫳🏽:
+  - bàn tay có lòng bàn tay hướng xuống
+  - 'bàn tay có lòng bàn tay hướng xuống: màu da trung bình'
+  - màu da trung bình
+  - thả
+  - xua
+  - xuỵt
+  - đuổi
+🫳🏾:
+  - bàn tay có lòng bàn tay hướng xuống
+  - 'bàn tay có lòng bàn tay hướng xuống: màu da tối trung bình'
+  - màu da tối trung bình
+  - thả
+  - xua
+  - xuỵt
+  - đuổi
+🫳🏿:
+  - bàn tay có lòng bàn tay hướng xuống
+  - 'bàn tay có lòng bàn tay hướng xuống: màu da tối'
+  - màu da tối
+  - thả
+  - xua
+  - xuỵt
+  - đuổi
+🫴:
+  - bàn tay có lòng bàn tay hướng lên
+  - bắt
+  - mời gọi
+  - vẫy gọi
+  - đến
+🫴🏻:
+  - bàn tay có lòng bàn tay hướng lên
+  - 'bàn tay có lòng bàn tay hướng lên: màu da sáng'
+  - bắt
+  - màu da sáng
+  - mời gọi
+  - vẫy gọi
+  - đến
+🫴🏼:
+  - bàn tay có lòng bàn tay hướng lên
+  - 'bàn tay có lòng bàn tay hướng lên: màu da sáng trung bình'
+  - bắt
+  - màu da sáng trung bình
+  - mời gọi
+  - vẫy gọi
+  - đến
+🫴🏽:
+  - bàn tay có lòng bàn tay hướng lên
+  - 'bàn tay có lòng bàn tay hướng lên: màu da trung bình'
+  - bắt
+  - màu da trung bình
+  - mời gọi
+  - vẫy gọi
+  - đến
+🫴🏾:
+  - bàn tay có lòng bàn tay hướng lên
+  - 'bàn tay có lòng bàn tay hướng lên: màu da tối trung bình'
+  - bắt
+  - màu da tối trung bình
+  - mời gọi
+  - vẫy gọi
+  - đến
+🫴🏿:
+  - bàn tay có lòng bàn tay hướng lên
+  - 'bàn tay có lòng bàn tay hướng lên: màu da tối'
+  - bắt
+  - màu da tối
+  - mời gọi
+  - vẫy gọi
+  - đến
 👌:
   - bàn tay làm dấu OK
   - ok
@@ -1183,6 +2587,58 @@
   - may mắn
   - màu da tối
   - ngón tay
+🫰:
+  - bàn tay với ngón trỏ và ngón cái bắt chéo
+  - búng tay
+  - tiền bạc
+  - trái tim
+  - tình yêu
+  - đắt tiền
+🫰🏻:
+  - bàn tay với ngón trỏ và ngón cái bắt chéo
+  - 'bàn tay với ngón trỏ và ngón cái bắt chéo: màu da sáng'
+  - búng tay
+  - màu da sáng
+  - tiền bạc
+  - trái tim
+  - tình yêu
+  - đắt tiền
+🫰🏼:
+  - bàn tay với ngón trỏ và ngón cái bắt chéo
+  - 'bàn tay với ngón trỏ và ngón cái bắt chéo: màu da sáng trung bình'
+  - búng tay
+  - màu da sáng trung bình
+  - tiền bạc
+  - trái tim
+  - tình yêu
+  - đắt tiền
+🫰🏽:
+  - bàn tay với ngón trỏ và ngón cái bắt chéo
+  - 'bàn tay với ngón trỏ và ngón cái bắt chéo: màu da trung bình'
+  - búng tay
+  - màu da trung bình
+  - tiền bạc
+  - trái tim
+  - tình yêu
+  - đắt tiền
+🫰🏾:
+  - bàn tay với ngón trỏ và ngón cái bắt chéo
+  - 'bàn tay với ngón trỏ và ngón cái bắt chéo: màu da tối trung bình'
+  - búng tay
+  - màu da tối trung bình
+  - tiền bạc
+  - trái tim
+  - tình yêu
+  - đắt tiền
+🫰🏿:
+  - bàn tay với ngón trỏ và ngón cái bắt chéo
+  - 'bàn tay với ngón trỏ và ngón cái bắt chéo: màu da tối'
+  - búng tay
+  - màu da tối
+  - tiền bạc
+  - trái tim
+  - tình yêu
+  - đắt tiền
 🤟:
   - anh yêu em
   - cử chỉ yêu nhau
@@ -1591,6 +3047,40 @@
   - ngón trỏ chỉ lên trên
   - 'ngón trỏ chỉ lên trên: màu da tối'
   - tay
+🫵:
+  - bạn
+  - ngón trỏ chỉ vào người xem
+  - trỏ
+🫵🏻:
+  - bạn
+  - màu da sáng
+  - ngón trỏ chỉ vào người xem
+  - 'ngón trỏ chỉ vào người xem: màu da sáng'
+  - trỏ
+🫵🏼:
+  - bạn
+  - màu da sáng trung bình
+  - ngón trỏ chỉ vào người xem
+  - 'ngón trỏ chỉ vào người xem: màu da sáng trung bình'
+  - trỏ
+🫵🏽:
+  - bạn
+  - màu da trung bình
+  - ngón trỏ chỉ vào người xem
+  - 'ngón trỏ chỉ vào người xem: màu da trung bình'
+  - trỏ
+🫵🏾:
+  - bạn
+  - màu da tối trung bình
+  - ngón trỏ chỉ vào người xem
+  - 'ngón trỏ chỉ vào người xem: màu da tối trung bình'
+  - trỏ
+🫵🏿:
+  - bạn
+  - màu da tối
+  - ngón trỏ chỉ vào người xem
+  - 'ngón trỏ chỉ vào người xem: màu da tối'
+  - trỏ
 👍️:
   - '+1'
   - dấu ra hiệu đồng ý
@@ -1929,6 +3419,34 @@
   - màu da tối
   - nâng lên
   - tay
+🫶:
+  - hai bàn tay tạo hình trái tim
+  - yêu
+🫶🏻:
+  - hai bàn tay tạo hình trái tim
+  - 'hai bàn tay tạo hình trái tim: màu da sáng'
+  - màu da sáng
+  - yêu
+🫶🏼:
+  - hai bàn tay tạo hình trái tim
+  - 'hai bàn tay tạo hình trái tim: màu da sáng trung bình'
+  - màu da sáng trung bình
+  - yêu
+🫶🏽:
+  - hai bàn tay tạo hình trái tim
+  - 'hai bàn tay tạo hình trái tim: màu da trung bình'
+  - màu da trung bình
+  - yêu
+🫶🏾:
+  - hai bàn tay tạo hình trái tim
+  - 'hai bàn tay tạo hình trái tim: màu da tối trung bình'
+  - màu da tối trung bình
+  - yêu
+🫶🏿:
+  - hai bàn tay tạo hình trái tim
+  - 'hai bàn tay tạo hình trái tim: màu da tối'
+  - màu da tối
+  - yêu
 👐:
   - hai bàn tay đang xòe
   - mở ra
@@ -1994,6 +3512,46 @@
 🤝:
   - bắt tay
   - gặp mặt
+  - rung
+  - tay
+  - đồng ý
+🤝🏻:
+  - bắt tay
+  - 'bắt tay: màu da sáng'
+  - gặp mặt
+  - màu da sáng
+  - rung
+  - tay
+  - đồng ý
+🤝🏼:
+  - bắt tay
+  - 'bắt tay: màu da sáng trung bình'
+  - gặp mặt
+  - màu da sáng trung bình
+  - rung
+  - tay
+  - đồng ý
+🤝🏽:
+  - bắt tay
+  - 'bắt tay: màu da trung bình'
+  - gặp mặt
+  - màu da trung bình
+  - rung
+  - tay
+  - đồng ý
+🤝🏾:
+  - bắt tay
+  - 'bắt tay: màu da tối trung bình'
+  - gặp mặt
+  - màu da tối trung bình
+  - rung
+  - tay
+  - đồng ý
+🤝🏿:
+  - bắt tay
+  - 'bắt tay: màu da tối'
+  - gặp mặt
+  - màu da tối
   - rung
   - tay
   - đồng ý
@@ -2430,6 +3988,14 @@
 👄:
   - miệng
   - môi
+🫦:
+  - cắn môi
+  - hồi hộp
+  - khó chịu
+  - lo lắng
+  - lo âu
+  - sợ hãi
+  - tán tỉnh
 👶:
   - trẻ con
   - trẻ em
@@ -2646,6 +4212,308 @@
   - 'người tóc vàng hoe: màu da tối'
   - 'người: tóc vàng hoe'
   - tóc vàng hoe
+🧑🏻‍❤‍💋‍🧑🏼:
+  - cặp đôi
+  - màu da sáng
+  - màu da sáng trung bình
+  - người
+  - nụ hôn
+  - 'nụ hôn: người, người, màu da sáng, màu da sáng trung bình'
+🧑🏻‍❤‍💋‍🧑🏽:
+  - cặp đôi
+  - màu da sáng
+  - màu da trung bình
+  - người
+  - nụ hôn
+  - 'nụ hôn: người, người, màu da sáng, màu da trung bình'
+🧑🏻‍❤‍💋‍🧑🏾:
+  - cặp đôi
+  - màu da sáng
+  - màu da tối trung bình
+  - người
+  - nụ hôn
+  - 'nụ hôn: người, người, màu da sáng, màu da tối trung bình'
+🧑🏻‍❤‍💋‍🧑🏿:
+  - cặp đôi
+  - màu da sáng
+  - màu da tối
+  - người
+  - nụ hôn
+  - 'nụ hôn: người, người, màu da sáng, màu da tối'
+🧑🏼‍❤‍💋‍🧑🏻:
+  - cặp đôi
+  - màu da sáng
+  - màu da sáng trung bình
+  - người
+  - nụ hôn
+  - 'nụ hôn: người, người, màu da sáng trung bình, màu da sáng'
+🧑🏼‍❤‍💋‍🧑🏽:
+  - cặp đôi
+  - màu da sáng trung bình
+  - màu da trung bình
+  - người
+  - nụ hôn
+  - 'nụ hôn: người, người, màu da sáng trung bình, màu da trung bình'
+🧑🏼‍❤‍💋‍🧑🏾:
+  - cặp đôi
+  - màu da sáng trung bình
+  - màu da tối trung bình
+  - người
+  - nụ hôn
+  - 'nụ hôn: người, người, màu da sáng trung bình, màu da tối trung bình'
+🧑🏼‍❤‍💋‍🧑🏿:
+  - cặp đôi
+  - màu da sáng trung bình
+  - màu da tối
+  - người
+  - nụ hôn
+  - 'nụ hôn: người, người, màu da sáng trung bình, màu da tối'
+🧑🏽‍❤‍💋‍🧑🏻:
+  - cặp đôi
+  - màu da sáng
+  - màu da trung bình
+  - người
+  - nụ hôn
+  - 'nụ hôn: người, người, màu da trung bình, màu da sáng'
+🧑🏽‍❤‍💋‍🧑🏼:
+  - cặp đôi
+  - màu da sáng trung bình
+  - màu da trung bình
+  - người
+  - nụ hôn
+  - 'nụ hôn: người, người, màu da trung bình, màu da sáng trung bình'
+🧑🏽‍❤‍💋‍🧑🏾:
+  - cặp đôi
+  - màu da trung bình
+  - màu da tối trung bình
+  - người
+  - nụ hôn
+  - 'nụ hôn: người, người, màu da trung bình, màu da tối trung bình'
+🧑🏽‍❤‍💋‍🧑🏿:
+  - cặp đôi
+  - màu da trung bình
+  - màu da tối
+  - người
+  - nụ hôn
+  - 'nụ hôn: người, người, màu da trung bình, màu da tối'
+🧑🏾‍❤‍💋‍🧑🏻:
+  - cặp đôi
+  - màu da sáng
+  - màu da tối trung bình
+  - người
+  - nụ hôn
+  - 'nụ hôn: người, người, màu da tối trung bình, màu da sáng'
+🧑🏾‍❤‍💋‍🧑🏼:
+  - cặp đôi
+  - màu da sáng trung bình
+  - màu da tối trung bình
+  - người
+  - nụ hôn
+  - 'nụ hôn: người, người, màu da tối trung bình, màu da sáng trung bình'
+🧑🏾‍❤‍💋‍🧑🏽:
+  - cặp đôi
+  - màu da trung bình
+  - màu da tối trung bình
+  - người
+  - nụ hôn
+  - 'nụ hôn: người, người, màu da tối trung bình, màu da trung bình'
+🧑🏾‍❤‍💋‍🧑🏿:
+  - cặp đôi
+  - màu da tối
+  - màu da tối trung bình
+  - người
+  - nụ hôn
+  - 'nụ hôn: người, người, màu da tối trung bình, màu da tối'
+🧑🏿‍❤‍💋‍🧑🏻:
+  - cặp đôi
+  - màu da sáng
+  - màu da tối
+  - người
+  - nụ hôn
+  - 'nụ hôn: người, người, màu da tối, màu da sáng'
+🧑🏿‍❤‍💋‍🧑🏼:
+  - cặp đôi
+  - màu da sáng trung bình
+  - màu da tối
+  - người
+  - nụ hôn
+  - 'nụ hôn: người, người, màu da tối, màu da sáng trung bình'
+🧑🏿‍❤‍💋‍🧑🏽:
+  - cặp đôi
+  - màu da trung bình
+  - màu da tối
+  - người
+  - nụ hôn
+  - 'nụ hôn: người, người, màu da tối, màu da trung bình'
+🧑🏿‍❤‍💋‍🧑🏾:
+  - cặp đôi
+  - màu da tối
+  - màu da tối trung bình
+  - người
+  - nụ hôn
+  - 'nụ hôn: người, người, màu da tối, màu da tối trung bình'
+🧑🏻‍❤‍🧑🏼:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: người, người, màu da sáng, màu da sáng trung bình'
+  - màu da sáng
+  - màu da sáng trung bình
+  - người
+  - yêu
+🧑🏻‍❤‍🧑🏽:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: người, người, màu da sáng, màu da trung bình'
+  - màu da sáng
+  - màu da trung bình
+  - người
+  - yêu
+🧑🏻‍❤‍🧑🏾:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: người, người, màu da sáng, màu da tối trung bình'
+  - màu da sáng
+  - màu da tối trung bình
+  - người
+  - yêu
+🧑🏻‍❤‍🧑🏿:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: người, người, màu da sáng, màu da tối'
+  - màu da sáng
+  - màu da tối
+  - người
+  - yêu
+🧑🏼‍❤‍🧑🏻:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: người, người, màu da sáng trung bình, màu da sáng'
+  - màu da sáng
+  - màu da sáng trung bình
+  - người
+  - yêu
+🧑🏼‍❤‍🧑🏽:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: người, người, màu da sáng trung bình, màu da trung bình'
+  - màu da sáng trung bình
+  - màu da trung bình
+  - người
+  - yêu
+🧑🏼‍❤‍🧑🏾:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: người, người, màu da sáng trung bình, màu da tối trung
+    bình'
+  - màu da sáng trung bình
+  - màu da tối trung bình
+  - người
+  - yêu
+🧑🏼‍❤‍🧑🏿:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: người, người, màu da sáng trung bình, màu da tối'
+  - màu da sáng trung bình
+  - màu da tối
+  - người
+  - yêu
+🧑🏽‍❤‍🧑🏻:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: người, người, màu da trung bình, màu da sáng'
+  - màu da sáng
+  - màu da trung bình
+  - người
+  - yêu
+🧑🏽‍❤‍🧑🏼:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: người, người, màu da trung bình, màu da sáng trung bình'
+  - màu da sáng trung bình
+  - màu da trung bình
+  - người
+  - yêu
+🧑🏽‍❤‍🧑🏾:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: người, người, màu da trung bình, màu da tối trung bình'
+  - màu da trung bình
+  - màu da tối trung bình
+  - người
+  - yêu
+🧑🏽‍❤‍🧑🏿:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: người, người, màu da trung bình, màu da tối'
+  - màu da trung bình
+  - màu da tối
+  - người
+  - yêu
+🧑🏾‍❤‍🧑🏻:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: người, người, màu da tối trung bình, màu da sáng'
+  - màu da sáng
+  - màu da tối trung bình
+  - người
+  - yêu
+🧑🏾‍❤‍🧑🏼:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: người, người, màu da tối trung bình, màu da sáng trung
+    bình'
+  - màu da sáng trung bình
+  - màu da tối trung bình
+  - người
+  - yêu
+🧑🏾‍❤‍🧑🏽:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: người, người, màu da tối trung bình, màu da trung bình'
+  - màu da trung bình
+  - màu da tối trung bình
+  - người
+  - yêu
+🧑🏾‍❤‍🧑🏿:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: người, người, màu da tối trung bình, màu da tối'
+  - màu da tối
+  - màu da tối trung bình
+  - người
+  - yêu
+🧑🏿‍❤‍🧑🏻:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: người, người, màu da tối, màu da sáng'
+  - màu da sáng
+  - màu da tối
+  - người
+  - yêu
+🧑🏿‍❤‍🧑🏼:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: người, người, màu da tối, màu da sáng trung bình'
+  - màu da sáng trung bình
+  - màu da tối
+  - người
+  - yêu
+🧑🏿‍❤‍🧑🏽:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: người, người, màu da tối, màu da trung bình'
+  - màu da trung bình
+  - màu da tối
+  - người
+  - yêu
+🧑🏿‍❤‍🧑🏾:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: người, người, màu da tối, màu da tối trung bình'
+  - màu da tối
+  - màu da tối trung bình
+  - người
+  - yêu
 🧑‍🦰:
   - giới tính chung
   - giới tính không xác định
@@ -2659,7 +4527,7 @@
   - màu da sáng
   - người
   - người lớn
-  - 'người: màu da sáng và tóc đỏ'
+  - 'người: màu da sáng, tóc đỏ'
   - tóc đỏ
 🧑🏼‍🦰:
   - giới tính chung
@@ -2667,7 +4535,7 @@
   - màu da sáng trung bình
   - người
   - người lớn
-  - 'người: màu da sáng trung bình và tóc đỏ'
+  - 'người: màu da sáng trung bình, tóc đỏ'
   - tóc đỏ
 🧑🏽‍🦰:
   - giới tính chung
@@ -2675,7 +4543,7 @@
   - màu da trung bình
   - người
   - người lớn
-  - 'người: màu da trung bình và tóc đỏ'
+  - 'người: màu da trung bình, tóc đỏ'
   - tóc đỏ
 🧑🏾‍🦰:
   - giới tính chung
@@ -2683,7 +4551,7 @@
   - màu da tối trung bình
   - người
   - người lớn
-  - 'người: màu da tối trung bình và tóc đỏ'
+  - 'người: màu da tối trung bình, tóc đỏ'
   - tóc đỏ
 🧑🏿‍🦰:
   - giới tính chung
@@ -2691,7 +4559,7 @@
   - màu da tối
   - người
   - người lớn
-  - 'người: màu da tối và tóc đỏ'
+  - 'người: màu da tối, tóc đỏ'
   - tóc đỏ
 🧑‍🦱:
   - giới tính chung
@@ -2706,7 +4574,7 @@
   - màu da sáng
   - người
   - người lớn
-  - 'người: màu da sáng và tóc xoăn'
+  - 'người: màu da sáng, tóc xoăn'
   - tóc xoăn
 🧑🏼‍🦱:
   - giới tính chung
@@ -2714,7 +4582,7 @@
   - màu da sáng trung bình
   - người
   - người lớn
-  - 'người: màu da sáng trung bình và tóc xoăn'
+  - 'người: màu da sáng trung bình, tóc xoăn'
   - tóc xoăn
 🧑🏽‍🦱:
   - giới tính chung
@@ -2722,7 +4590,7 @@
   - màu da trung bình
   - người
   - người lớn
-  - 'người: màu da trung bình và tóc xoăn'
+  - 'người: màu da trung bình, tóc xoăn'
   - tóc xoăn
 🧑🏾‍🦱:
   - giới tính chung
@@ -2730,7 +4598,7 @@
   - màu da tối trung bình
   - người
   - người lớn
-  - 'người: màu da tối trung bình và tóc xoăn'
+  - 'người: màu da tối trung bình, tóc xoăn'
   - tóc xoăn
 🧑🏿‍🦱:
   - giới tính chung
@@ -2738,7 +4606,7 @@
   - màu da tối
   - người
   - người lớn
-  - 'người: màu da tối và tóc xoăn'
+  - 'người: màu da tối, tóc xoăn'
   - tóc xoăn
 🧑‍🦳:
   - giới tính chung
@@ -2753,7 +4621,7 @@
   - màu da sáng
   - người
   - người lớn
-  - 'người: màu da sáng và tóc trắng'
+  - 'người: màu da sáng, tóc trắng'
   - tóc trắng
 🧑🏼‍🦳:
   - giới tính chung
@@ -2761,7 +4629,7 @@
   - màu da sáng trung bình
   - người
   - người lớn
-  - 'người: màu da sáng trung bình và tóc trắng'
+  - 'người: màu da sáng trung bình, tóc trắng'
   - tóc trắng
 🧑🏽‍🦳:
   - giới tính chung
@@ -2769,7 +4637,7 @@
   - màu da trung bình
   - người
   - người lớn
-  - 'người: màu da trung bình và tóc trắng'
+  - 'người: màu da trung bình, tóc trắng'
   - tóc trắng
 🧑🏾‍🦳:
   - giới tính chung
@@ -2777,7 +4645,7 @@
   - màu da tối trung bình
   - người
   - người lớn
-  - 'người: màu da tối trung bình và tóc trắng'
+  - 'người: màu da tối trung bình, tóc trắng'
   - tóc trắng
 🧑🏿‍🦳:
   - giới tính chung
@@ -2785,7 +4653,7 @@
   - màu da tối
   - người
   - người lớn
-  - 'người: màu da tối và tóc trắng'
+  - 'người: màu da tối, tóc trắng'
   - tóc trắng
 🧑‍🦲:
   - giới tính chung
@@ -2801,7 +4669,7 @@
   - màu da sáng
   - người
   - người lớn
-  - 'người: màu da sáng và hói'
+  - 'người: màu da sáng, hói'
 🧑🏼‍🦲:
   - giới tính chung
   - giới tính không xác định
@@ -2809,7 +4677,7 @@
   - màu da sáng trung bình
   - người
   - người lớn
-  - 'người: màu da sáng trung bình và hói'
+  - 'người: màu da sáng trung bình, hói'
 🧑🏽‍🦲:
   - giới tính chung
   - giới tính không xác định
@@ -2817,7 +4685,7 @@
   - màu da trung bình
   - người
   - người lớn
-  - 'người: màu da trung bình và hói'
+  - 'người: màu da trung bình, hói'
 🧑🏾‍🦲:
   - giới tính chung
   - giới tính không xác định
@@ -2825,7 +4693,7 @@
   - màu da tối trung bình
   - người
   - người lớn
-  - 'người: màu da tối trung bình và hói'
+  - 'người: màu da tối trung bình, hói'
 🧑🏿‍🦲:
   - giới tính chung
   - giới tính không xác định
@@ -2833,7 +4701,7 @@
   - màu da tối
   - người
   - người lớn
-  - 'người: màu da tối và hói'
+  - 'người: màu da tối, hói'
 👨:
   - người lớn
   - đàn ông
@@ -2864,35 +4732,75 @@
   - 'đàn ông: màu da tối'
 🧔:
   - người
-  - người đàn ông có râu
+  - người có râu
+  - 'người: râu'
   - râu
 🧔🏻:
   - màu da sáng
   - người
-  - người đàn ông có râu
-  - 'người đàn ông có râu: màu da sáng'
+  - người có râu
+  - 'người có râu: màu da sáng'
+  - 'người: râu'
   - râu
 🧔🏼:
   - màu da sáng trung bình
   - người
-  - người đàn ông có râu
-  - 'người đàn ông có râu: màu da sáng trung bình'
+  - người có râu
+  - 'người có râu: màu da sáng trung bình'
+  - 'người: râu'
   - râu
 🧔🏽:
   - màu da trung bình
   - người
-  - người đàn ông có râu
-  - 'người đàn ông có râu: màu da trung bình'
+  - người có râu
+  - 'người có râu: màu da trung bình'
+  - 'người: râu'
   - râu
 🧔🏾:
   - màu da tối trung bình
   - người
-  - người đàn ông có râu
-  - 'người đàn ông có râu: màu da tối trung bình'
+  - người có râu
+  - 'người có râu: màu da tối trung bình'
+  - 'người: râu'
   - râu
 🧔🏿:
   - màu da tối
   - người
+  - người có râu
+  - 'người có râu: màu da tối'
+  - 'người: râu'
+  - râu
+🧔‍♂:
+  - người đàn ông
+  - người đàn ông có râu
+  - râu
+🧔🏻‍♂:
+  - màu da sáng
+  - người đàn ông
+  - người đàn ông có râu
+  - 'người đàn ông có râu: màu da sáng'
+  - râu
+🧔🏼‍♂:
+  - màu da sáng trung bình
+  - người đàn ông
+  - người đàn ông có râu
+  - 'người đàn ông có râu: màu da sáng trung bình'
+  - râu
+🧔🏽‍♂:
+  - màu da trung bình
+  - người đàn ông
+  - người đàn ông có râu
+  - 'người đàn ông có râu: màu da trung bình'
+  - râu
+🧔🏾‍♂:
+  - màu da tối trung bình
+  - người đàn ông
+  - người đàn ông có râu
+  - 'người đàn ông có râu: màu da tối trung bình'
+  - râu
+🧔🏿‍♂:
+  - màu da tối
+  - người đàn ông
   - người đàn ông có râu
   - 'người đàn ông có râu: màu da tối'
   - râu
@@ -2936,6 +4844,375 @@
   - tóc vàng hoe
   - đàn ông
   - 'đàn ông: tóc vàng hoe'
+👨🏻‍❤‍💋‍👨🏻:
+  - cặp đôi
+  - màu da sáng
+  - nụ hôn
+  - 'nụ hôn: đàn ông, đàn ông, màu da sáng'
+  - đàn ông
+👨🏻‍❤‍💋‍👨🏼:
+  - cặp đôi
+  - màu da sáng
+  - màu da sáng trung bình
+  - nụ hôn
+  - 'nụ hôn: đàn ông, đàn ông, màu da sáng, màu da sáng trung bình'
+  - đàn ông
+👨🏻‍❤‍💋‍👨🏽:
+  - cặp đôi
+  - màu da sáng
+  - màu da trung bình
+  - nụ hôn
+  - 'nụ hôn: đàn ông, đàn ông, màu da sáng, màu da trung bình'
+  - đàn ông
+👨🏻‍❤‍💋‍👨🏾:
+  - cặp đôi
+  - màu da sáng
+  - màu da tối trung bình
+  - nụ hôn
+  - 'nụ hôn: đàn ông, đàn ông, màu da sáng, màu da tối trung bình'
+  - đàn ông
+👨🏻‍❤‍💋‍👨🏿:
+  - cặp đôi
+  - màu da sáng
+  - màu da tối
+  - nụ hôn
+  - 'nụ hôn: đàn ông, đàn ông, màu da sáng, màu da tối'
+  - đàn ông
+👨🏼‍❤‍💋‍👨🏻:
+  - cặp đôi
+  - màu da sáng
+  - màu da sáng trung bình
+  - nụ hôn
+  - 'nụ hôn: đàn ông, đàn ông, màu da sáng trung bình, màu da sáng'
+  - đàn ông
+👨🏼‍❤‍💋‍👨🏼:
+  - cặp đôi
+  - màu da sáng trung bình
+  - nụ hôn
+  - 'nụ hôn: đàn ông, đàn ông, màu da sáng trung bình'
+  - đàn ông
+👨🏼‍❤‍💋‍👨🏽:
+  - cặp đôi
+  - màu da sáng trung bình
+  - màu da trung bình
+  - nụ hôn
+  - 'nụ hôn: đàn ông, đàn ông, màu da sáng trung bình, màu da trung bình'
+  - đàn ông
+👨🏼‍❤‍💋‍👨🏾:
+  - cặp đôi
+  - màu da sáng trung bình
+  - màu da tối trung bình
+  - nụ hôn
+  - 'nụ hôn: đàn ông, đàn ông, màu da sáng trung bình, màu da tối trung bình'
+  - đàn ông
+👨🏼‍❤‍💋‍👨🏿:
+  - cặp đôi
+  - màu da sáng trung bình
+  - màu da tối
+  - nụ hôn
+  - 'nụ hôn: đàn ông, đàn ông, màu da sáng trung bình, màu da tối'
+  - đàn ông
+👨🏽‍❤‍💋‍👨🏻:
+  - cặp đôi
+  - màu da sáng
+  - màu da trung bình
+  - nụ hôn
+  - 'nụ hôn: đàn ông, đàn ông, màu da trung bình, màu da sáng'
+  - đàn ông
+👨🏽‍❤‍💋‍👨🏼:
+  - cặp đôi
+  - màu da sáng trung bình
+  - màu da trung bình
+  - nụ hôn
+  - 'nụ hôn: đàn ông, đàn ông, màu da trung bình, màu da sáng trung bình'
+  - đàn ông
+👨🏽‍❤‍💋‍👨🏽:
+  - cặp đôi
+  - màu da trung bình
+  - nụ hôn
+  - 'nụ hôn: đàn ông, đàn ông, màu da trung bình'
+  - đàn ông
+👨🏽‍❤‍💋‍👨🏾:
+  - cặp đôi
+  - màu da trung bình
+  - màu da tối trung bình
+  - nụ hôn
+  - 'nụ hôn: đàn ông, đàn ông, màu da trung bình, màu da tối trung bình'
+  - đàn ông
+👨🏽‍❤‍💋‍👨🏿:
+  - cặp đôi
+  - màu da trung bình
+  - màu da tối
+  - nụ hôn
+  - 'nụ hôn: đàn ông, đàn ông, màu da trung bình, màu da tối'
+  - đàn ông
+👨🏾‍❤‍💋‍👨🏻:
+  - cặp đôi
+  - màu da sáng
+  - màu da tối trung bình
+  - nụ hôn
+  - 'nụ hôn: đàn ông, đàn ông, màu da tối trung bình, màu da sáng'
+  - đàn ông
+👨🏾‍❤‍💋‍👨🏼:
+  - cặp đôi
+  - màu da sáng trung bình
+  - màu da tối trung bình
+  - nụ hôn
+  - 'nụ hôn: đàn ông, đàn ông, màu da tối trung bình, màu da sáng trung bình'
+  - đàn ông
+👨🏾‍❤‍💋‍👨🏽:
+  - cặp đôi
+  - màu da trung bình
+  - màu da tối trung bình
+  - nụ hôn
+  - 'nụ hôn: đàn ông, đàn ông, màu da tối trung bình, màu da trung bình'
+  - đàn ông
+👨🏾‍❤‍💋‍👨🏾:
+  - cặp đôi
+  - màu da tối trung bình
+  - nụ hôn
+  - 'nụ hôn: đàn ông, đàn ông, màu da tối trung bình'
+  - đàn ông
+👨🏾‍❤‍💋‍👨🏿:
+  - cặp đôi
+  - màu da tối
+  - màu da tối trung bình
+  - nụ hôn
+  - 'nụ hôn: đàn ông, đàn ông, màu da tối trung bình, màu da tối'
+  - đàn ông
+👨🏿‍❤‍💋‍👨🏻:
+  - cặp đôi
+  - màu da sáng
+  - màu da tối
+  - nụ hôn
+  - 'nụ hôn: đàn ông, đàn ông, màu da tối, màu da sáng'
+  - đàn ông
+👨🏿‍❤‍💋‍👨🏼:
+  - cặp đôi
+  - màu da sáng trung bình
+  - màu da tối
+  - nụ hôn
+  - 'nụ hôn: đàn ông, đàn ông, màu da tối, màu da sáng trung bình'
+  - đàn ông
+👨🏿‍❤‍💋‍👨🏽:
+  - cặp đôi
+  - màu da trung bình
+  - màu da tối
+  - nụ hôn
+  - 'nụ hôn: đàn ông, đàn ông, màu da tối, màu da trung bình'
+  - đàn ông
+👨🏿‍❤‍💋‍👨🏾:
+  - cặp đôi
+  - màu da tối
+  - màu da tối trung bình
+  - nụ hôn
+  - 'nụ hôn: đàn ông, đàn ông, màu da tối, màu da tối trung bình'
+  - đàn ông
+👨🏿‍❤‍💋‍👨🏿:
+  - cặp đôi
+  - màu da tối
+  - nụ hôn
+  - 'nụ hôn: đàn ông, đàn ông, màu da tối'
+  - đàn ông
+👨🏻‍❤‍👨🏻:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: đàn ông, đàn ông, màu da sáng'
+  - màu da sáng
+  - yêu
+  - đàn ông
+👨🏻‍❤‍👨🏼:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: đàn ông, đàn ông, màu da sáng, màu da sáng trung bình'
+  - màu da sáng
+  - màu da sáng trung bình
+  - yêu
+  - đàn ông
+👨🏻‍❤‍👨🏽:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: đàn ông, đàn ông, màu da sáng, màu da trung bình'
+  - màu da sáng
+  - màu da trung bình
+  - yêu
+  - đàn ông
+👨🏻‍❤‍👨🏾:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: đàn ông, đàn ông, màu da sáng, màu da tối trung bình'
+  - màu da sáng
+  - màu da tối trung bình
+  - yêu
+  - đàn ông
+👨🏻‍❤‍👨🏿:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: đàn ông, đàn ông, màu da sáng, màu da tối'
+  - màu da sáng
+  - màu da tối
+  - yêu
+  - đàn ông
+👨🏼‍❤‍👨🏻:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: đàn ông, đàn ông, màu da sáng trung bình, màu da sáng'
+  - màu da sáng
+  - màu da sáng trung bình
+  - yêu
+  - đàn ông
+👨🏼‍❤‍👨🏼:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: đàn ông, đàn ông, màu da sáng trung bình'
+  - màu da sáng trung bình
+  - yêu
+  - đàn ông
+👨🏼‍❤‍👨🏽:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: đàn ông, đàn ông, màu da sáng trung bình, màu da trung
+    bình'
+  - màu da sáng trung bình
+  - màu da trung bình
+  - yêu
+  - đàn ông
+👨🏼‍❤‍👨🏾:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: đàn ông, đàn ông, màu da sáng trung bình, màu da tối trung
+    bình'
+  - màu da sáng trung bình
+  - màu da tối trung bình
+  - yêu
+  - đàn ông
+👨🏼‍❤‍👨🏿:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: đàn ông, đàn ông, màu da sáng trung bình, màu da tối'
+  - màu da sáng trung bình
+  - màu da tối
+  - yêu
+  - đàn ông
+👨🏽‍❤‍👨🏻:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: đàn ông, đàn ông, màu da trung bình, màu da sáng'
+  - màu da sáng
+  - màu da trung bình
+  - yêu
+  - đàn ông
+👨🏽‍❤‍👨🏼:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: đàn ông, đàn ông, màu da trung bình, màu da sáng trung
+    bình'
+  - màu da sáng trung bình
+  - màu da trung bình
+  - yêu
+  - đàn ông
+👨🏽‍❤‍👨🏽:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: đàn ông, đàn ông, màu da trung bình'
+  - màu da trung bình
+  - yêu
+  - đàn ông
+👨🏽‍❤‍👨🏾:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: đàn ông, đàn ông, màu da trung bình, màu da tối trung bình'
+  - màu da trung bình
+  - màu da tối trung bình
+  - yêu
+  - đàn ông
+👨🏽‍❤‍👨🏿:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: đàn ông, đàn ông, màu da trung bình, màu da tối'
+  - màu da trung bình
+  - màu da tối
+  - yêu
+  - đàn ông
+👨🏾‍❤‍👨🏻:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: đàn ông, đàn ông, màu da tối trung bình, màu da sáng'
+  - màu da sáng
+  - màu da tối trung bình
+  - yêu
+  - đàn ông
+👨🏾‍❤‍👨🏼:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: đàn ông, đàn ông, màu da tối trung bình, màu da sáng trung
+    bình'
+  - màu da sáng trung bình
+  - màu da tối trung bình
+  - yêu
+  - đàn ông
+👨🏾‍❤‍👨🏽:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: đàn ông, đàn ông, màu da tối trung bình, màu da trung bình'
+  - màu da trung bình
+  - màu da tối trung bình
+  - yêu
+  - đàn ông
+👨🏾‍❤‍👨🏾:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: đàn ông, đàn ông, màu da tối trung bình'
+  - màu da tối trung bình
+  - yêu
+  - đàn ông
+👨🏾‍❤‍👨🏿:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: đàn ông, đàn ông, màu da tối trung bình, màu da tối'
+  - màu da tối
+  - màu da tối trung bình
+  - yêu
+  - đàn ông
+👨🏿‍❤‍👨🏻:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: đàn ông, đàn ông, màu da tối, màu da sáng'
+  - màu da sáng
+  - màu da tối
+  - yêu
+  - đàn ông
+👨🏿‍❤‍👨🏼:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: đàn ông, đàn ông, màu da tối, màu da sáng trung bình'
+  - màu da sáng trung bình
+  - màu da tối
+  - yêu
+  - đàn ông
+👨🏿‍❤‍👨🏽:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: đàn ông, đàn ông, màu da tối, màu da trung bình'
+  - màu da trung bình
+  - màu da tối
+  - yêu
+  - đàn ông
+👨🏿‍❤‍👨🏾:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: đàn ông, đàn ông, màu da tối, màu da tối trung bình'
+  - màu da tối
+  - màu da tối trung bình
+  - yêu
+  - đàn ông
+👨🏿‍❤‍👨🏿:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: đàn ông, đàn ông, màu da tối'
+  - màu da tối
+  - yêu
+  - đàn ông
 👨‍🦰:
   - người lớn
   - tóc đỏ
@@ -2946,31 +5223,31 @@
   - người lớn
   - tóc đỏ
   - đàn ông
-  - 'đàn ông: màu da sáng và tóc đỏ'
+  - 'đàn ông: màu da sáng, tóc đỏ'
 👨🏼‍🦰:
   - màu da sáng trung bình
   - người lớn
   - tóc đỏ
   - đàn ông
-  - 'đàn ông: màu da sáng trung bình và tóc đỏ'
+  - 'đàn ông: màu da sáng trung bình, tóc đỏ'
 👨🏽‍🦰:
   - màu da trung bình
   - người lớn
   - tóc đỏ
   - đàn ông
-  - 'đàn ông: màu da trung bình và tóc đỏ'
+  - 'đàn ông: màu da trung bình, tóc đỏ'
 👨🏾‍🦰:
   - màu da tối trung bình
   - người lớn
   - tóc đỏ
   - đàn ông
-  - 'đàn ông: màu da tối trung bình và tóc đỏ'
+  - 'đàn ông: màu da tối trung bình, tóc đỏ'
 👨🏿‍🦰:
   - màu da tối
   - người lớn
   - tóc đỏ
   - đàn ông
-  - 'đàn ông: màu da tối và tóc đỏ'
+  - 'đàn ông: màu da tối, tóc đỏ'
 👨‍🦱:
   - người lớn
   - tóc xoăn
@@ -2981,31 +5258,31 @@
   - người lớn
   - tóc xoăn
   - đàn ông
-  - 'đàn ông: màu da sáng và tóc xoăn'
+  - 'đàn ông: màu da sáng, tóc xoăn'
 👨🏼‍🦱:
   - màu da sáng trung bình
   - người lớn
   - tóc xoăn
   - đàn ông
-  - 'đàn ông: màu da sáng trung bình và tóc xoăn'
+  - 'đàn ông: màu da sáng trung bình, tóc xoăn'
 👨🏽‍🦱:
   - màu da trung bình
   - người lớn
   - tóc xoăn
   - đàn ông
-  - 'đàn ông: màu da trung bình và tóc xoăn'
+  - 'đàn ông: màu da trung bình, tóc xoăn'
 👨🏾‍🦱:
   - màu da tối trung bình
   - người lớn
   - tóc xoăn
   - đàn ông
-  - 'đàn ông: màu da tối trung bình và tóc xoăn'
+  - 'đàn ông: màu da tối trung bình, tóc xoăn'
 👨🏿‍🦱:
   - màu da tối
   - người lớn
   - tóc xoăn
   - đàn ông
-  - 'đàn ông: màu da tối và tóc xoăn'
+  - 'đàn ông: màu da tối, tóc xoăn'
 👨‍🦳:
   - người lớn
   - tóc trắng
@@ -3016,31 +5293,31 @@
   - người lớn
   - tóc trắng
   - đàn ông
-  - 'đàn ông: màu da sáng và tóc trắng'
+  - 'đàn ông: màu da sáng, tóc trắng'
 👨🏼‍🦳:
   - màu da sáng trung bình
   - người lớn
   - tóc trắng
   - đàn ông
-  - 'đàn ông: màu da sáng trung bình và tóc trắng'
+  - 'đàn ông: màu da sáng trung bình, tóc trắng'
 👨🏽‍🦳:
   - màu da trung bình
   - người lớn
   - tóc trắng
   - đàn ông
-  - 'đàn ông: màu da trung bình và tóc trắng'
+  - 'đàn ông: màu da trung bình, tóc trắng'
 👨🏾‍🦳:
   - màu da tối trung bình
   - người lớn
   - tóc trắng
   - đàn ông
-  - 'đàn ông: màu da tối trung bình và tóc trắng'
+  - 'đàn ông: màu da tối trung bình, tóc trắng'
 👨🏿‍🦳:
   - màu da tối
   - người lớn
   - tóc trắng
   - đàn ông
-  - 'đàn ông: màu da tối và tóc trắng'
+  - 'đàn ông: màu da tối, tóc trắng'
 👨‍🦲:
   - hói
   - người lớn
@@ -3051,31 +5328,31 @@
   - màu da sáng
   - người lớn
   - đàn ông
-  - 'đàn ông: màu da sáng và hói'
+  - 'đàn ông: màu da sáng, hói'
 👨🏼‍🦲:
   - hói
   - màu da sáng trung bình
   - người lớn
   - đàn ông
-  - 'đàn ông: màu da sáng trung bình và hói'
+  - 'đàn ông: màu da sáng trung bình, hói'
 👨🏽‍🦲:
   - hói
   - màu da trung bình
   - người lớn
   - đàn ông
-  - 'đàn ông: màu da trung bình và hói'
+  - 'đàn ông: màu da trung bình, hói'
 👨🏾‍🦲:
   - hói
   - màu da tối trung bình
   - người lớn
   - đàn ông
-  - 'đàn ông: màu da tối trung bình và hói'
+  - 'đàn ông: màu da tối trung bình, hói'
 👨🏿‍🦲:
   - hói
   - màu da tối
   - người lớn
   - đàn ông
-  - 'đàn ông: màu da tối và hói'
+  - 'đàn ông: màu da tối, hói'
 👩:
   - người lớn
   - phụ nữ
@@ -3104,6 +5381,40 @@
   - người lớn
   - phụ nữ
   - 'phụ nữ: màu da tối'
+🧔‍♀:
+  - người phụ nữ
+  - người phụ nữ có râu
+  - râu
+🧔🏻‍♀:
+  - màu da sáng
+  - người phụ nữ
+  - người phụ nữ có râu
+  - 'người phụ nữ có râu: màu da sáng'
+  - râu
+🧔🏼‍♀:
+  - màu da sáng trung bình
+  - người phụ nữ
+  - người phụ nữ có râu
+  - 'người phụ nữ có râu: màu da sáng trung bình'
+  - râu
+🧔🏽‍♀:
+  - màu da trung bình
+  - người phụ nữ
+  - người phụ nữ có râu
+  - 'người phụ nữ có râu: màu da trung bình'
+  - râu
+🧔🏾‍♀:
+  - màu da tối trung bình
+  - người phụ nữ
+  - người phụ nữ có râu
+  - 'người phụ nữ có râu: màu da tối trung bình'
+  - râu
+🧔🏿‍♀:
+  - màu da tối
+  - người phụ nữ
+  - người phụ nữ có râu
+  - 'người phụ nữ có râu: màu da tối'
+  - râu
 👱‍♀:
   - người phụ nữ tóc vàng hoe
   - nữ
@@ -3144,6 +5455,790 @@
   - nữ
   - phụ nữ
   - tóc vàng hoe
+👩🏻‍❤‍💋‍👨🏻:
+  - cặp đôi
+  - màu da sáng
+  - nụ hôn
+  - 'nụ hôn: phụ nữ, đàn ông, màu da sáng'
+  - phụ nữ
+  - đàn ông
+👩🏻‍❤‍💋‍👨🏼:
+  - cặp đôi
+  - màu da sáng
+  - màu da sáng trung bình
+  - nụ hôn
+  - 'nụ hôn: phụ nữ, đàn ông, màu da sáng, màu da sáng trung bình'
+  - phụ nữ
+  - đàn ông
+👩🏻‍❤‍💋‍👨🏽:
+  - cặp đôi
+  - màu da sáng
+  - màu da trung bình
+  - nụ hôn
+  - 'nụ hôn: phụ nữ, đàn ông, màu da sáng, màu da trung bình'
+  - phụ nữ
+  - đàn ông
+👩🏻‍❤‍💋‍👨🏾:
+  - cặp đôi
+  - màu da sáng
+  - màu da tối trung bình
+  - nụ hôn
+  - 'nụ hôn: phụ nữ, đàn ông, màu da sáng, màu da tối trung bình'
+  - phụ nữ
+  - đàn ông
+👩🏻‍❤‍💋‍👨🏿:
+  - cặp đôi
+  - màu da sáng
+  - màu da tối
+  - nụ hôn
+  - 'nụ hôn: phụ nữ, đàn ông, màu da sáng, màu da tối'
+  - phụ nữ
+  - đàn ông
+👩🏼‍❤‍💋‍👨🏻:
+  - cặp đôi
+  - màu da sáng
+  - màu da sáng trung bình
+  - nụ hôn
+  - 'nụ hôn: phụ nữ, đàn ông, màu da sáng trung bình, màu da sáng'
+  - phụ nữ
+  - đàn ông
+👩🏼‍❤‍💋‍👨🏼:
+  - cặp đôi
+  - màu da sáng trung bình
+  - nụ hôn
+  - 'nụ hôn: phụ nữ, đàn ông, màu da sáng trung bình'
+  - phụ nữ
+  - đàn ông
+👩🏼‍❤‍💋‍👨🏽:
+  - cặp đôi
+  - màu da sáng trung bình
+  - màu da trung bình
+  - nụ hôn
+  - 'nụ hôn: phụ nữ, đàn ông, màu da sáng trung bình, màu da trung bình'
+  - phụ nữ
+  - đàn ông
+👩🏼‍❤‍💋‍👨🏾:
+  - cặp đôi
+  - màu da sáng trung bình
+  - màu da tối trung bình
+  - nụ hôn
+  - 'nụ hôn: phụ nữ, đàn ông, màu da sáng trung bình, màu da tối trung bình'
+  - phụ nữ
+  - đàn ông
+👩🏼‍❤‍💋‍👨🏿:
+  - cặp đôi
+  - màu da sáng trung bình
+  - màu da tối
+  - nụ hôn
+  - 'nụ hôn: phụ nữ, đàn ông, màu da sáng trung bình, màu da tối'
+  - phụ nữ
+  - đàn ông
+👩🏽‍❤‍💋‍👨🏻:
+  - cặp đôi
+  - màu da sáng
+  - màu da trung bình
+  - nụ hôn
+  - 'nụ hôn: phụ nữ, đàn ông, màu da trung bình, màu da sáng'
+  - phụ nữ
+  - đàn ông
+👩🏽‍❤‍💋‍👨🏼:
+  - cặp đôi
+  - màu da sáng trung bình
+  - màu da trung bình
+  - nụ hôn
+  - 'nụ hôn: phụ nữ, đàn ông, màu da trung bình, màu da sáng trung bình'
+  - phụ nữ
+  - đàn ông
+👩🏽‍❤‍💋‍👨🏽:
+  - cặp đôi
+  - màu da trung bình
+  - nụ hôn
+  - 'nụ hôn: phụ nữ, đàn ông, màu da trung bình'
+  - phụ nữ
+  - đàn ông
+👩🏽‍❤‍💋‍👨🏾:
+  - cặp đôi
+  - màu da trung bình
+  - màu da tối trung bình
+  - nụ hôn
+  - 'nụ hôn: phụ nữ, đàn ông, màu da trung bình, màu da tối trung bình'
+  - phụ nữ
+  - đàn ông
+👩🏽‍❤‍💋‍👨🏿:
+  - cặp đôi
+  - màu da trung bình
+  - màu da tối
+  - nụ hôn
+  - 'nụ hôn: phụ nữ, đàn ông, màu da trung bình, màu da tối'
+  - phụ nữ
+  - đàn ông
+👩🏾‍❤‍💋‍👨🏻:
+  - cặp đôi
+  - màu da sáng
+  - màu da tối trung bình
+  - nụ hôn
+  - 'nụ hôn: phụ nữ, đàn ông, màu da tối trung bình, màu da sáng'
+  - phụ nữ
+  - đàn ông
+👩🏾‍❤‍💋‍👨🏼:
+  - cặp đôi
+  - màu da sáng trung bình
+  - màu da tối trung bình
+  - nụ hôn
+  - 'nụ hôn: phụ nữ, đàn ông, màu da tối trung bình, màu da sáng trung bình'
+  - phụ nữ
+  - đàn ông
+👩🏾‍❤‍💋‍👨🏽:
+  - cặp đôi
+  - màu da trung bình
+  - màu da tối trung bình
+  - nụ hôn
+  - 'nụ hôn: phụ nữ, đàn ông, màu da tối trung bình, màu da trung bình'
+  - phụ nữ
+  - đàn ông
+👩🏾‍❤‍💋‍👨🏾:
+  - cặp đôi
+  - màu da tối trung bình
+  - nụ hôn
+  - 'nụ hôn: phụ nữ, đàn ông, màu da tối trung bình'
+  - phụ nữ
+  - đàn ông
+👩🏾‍❤‍💋‍👨🏿:
+  - cặp đôi
+  - màu da tối
+  - màu da tối trung bình
+  - nụ hôn
+  - 'nụ hôn: phụ nữ, đàn ông, màu da tối trung bình, màu da tối'
+  - phụ nữ
+  - đàn ông
+👩🏿‍❤‍💋‍👨🏻:
+  - cặp đôi
+  - màu da sáng
+  - màu da tối
+  - nụ hôn
+  - 'nụ hôn: phụ nữ, đàn ông, màu da tối, màu da sáng'
+  - phụ nữ
+  - đàn ông
+👩🏿‍❤‍💋‍👨🏼:
+  - cặp đôi
+  - màu da sáng trung bình
+  - màu da tối
+  - nụ hôn
+  - 'nụ hôn: phụ nữ, đàn ông, màu da tối, màu da sáng trung bình'
+  - phụ nữ
+  - đàn ông
+👩🏿‍❤‍💋‍👨🏽:
+  - cặp đôi
+  - màu da trung bình
+  - màu da tối
+  - nụ hôn
+  - 'nụ hôn: phụ nữ, đàn ông, màu da tối, màu da trung bình'
+  - phụ nữ
+  - đàn ông
+👩🏿‍❤‍💋‍👨🏾:
+  - cặp đôi
+  - màu da tối
+  - màu da tối trung bình
+  - nụ hôn
+  - 'nụ hôn: phụ nữ, đàn ông, màu da tối, màu da tối trung bình'
+  - phụ nữ
+  - đàn ông
+👩🏿‍❤‍💋‍👨🏿:
+  - cặp đôi
+  - màu da tối
+  - nụ hôn
+  - 'nụ hôn: phụ nữ, đàn ông, màu da tối'
+  - phụ nữ
+  - đàn ông
+👩🏻‍❤‍💋‍👩🏻:
+  - cặp đôi
+  - màu da sáng
+  - nụ hôn
+  - 'nụ hôn: phụ nữ, phụ nữ, màu da sáng'
+  - phụ nữ
+👩🏻‍❤‍💋‍👩🏼:
+  - cặp đôi
+  - màu da sáng
+  - màu da sáng trung bình
+  - nụ hôn
+  - 'nụ hôn: phụ nữ, phụ nữ, màu da sáng, màu da sáng trung bình'
+  - phụ nữ
+👩🏻‍❤‍💋‍👩🏽:
+  - cặp đôi
+  - màu da sáng
+  - màu da trung bình
+  - nụ hôn
+  - 'nụ hôn: phụ nữ, phụ nữ, màu da sáng, màu da trung bình'
+  - phụ nữ
+👩🏻‍❤‍💋‍👩🏾:
+  - cặp đôi
+  - màu da sáng
+  - màu da tối trung bình
+  - nụ hôn
+  - 'nụ hôn: phụ nữ, phụ nữ, màu da sáng, màu da tối trung bình'
+  - phụ nữ
+👩🏻‍❤‍💋‍👩🏿:
+  - cặp đôi
+  - màu da sáng
+  - màu da tối
+  - nụ hôn
+  - 'nụ hôn: phụ nữ, phụ nữ, màu da sáng, màu da tối'
+  - phụ nữ
+👩🏼‍❤‍💋‍👩🏻:
+  - cặp đôi
+  - màu da sáng
+  - màu da sáng trung bình
+  - nụ hôn
+  - 'nụ hôn: phụ nữ, phụ nữ, màu da sáng trung bình, màu da sáng'
+  - phụ nữ
+👩🏼‍❤‍💋‍👩🏼:
+  - cặp đôi
+  - màu da sáng trung bình
+  - nụ hôn
+  - 'nụ hôn: phụ nữ, phụ nữ, màu da sáng trung bình'
+  - phụ nữ
+👩🏼‍❤‍💋‍👩🏽:
+  - cặp đôi
+  - màu da sáng trung bình
+  - màu da trung bình
+  - nụ hôn
+  - 'nụ hôn: phụ nữ, phụ nữ, màu da sáng trung bình, màu da trung bình'
+  - phụ nữ
+👩🏼‍❤‍💋‍👩🏾:
+  - cặp đôi
+  - màu da sáng trung bình
+  - màu da tối trung bình
+  - nụ hôn
+  - 'nụ hôn: phụ nữ, phụ nữ, màu da sáng trung bình, màu da tối trung bình'
+  - phụ nữ
+👩🏼‍❤‍💋‍👩🏿:
+  - cặp đôi
+  - màu da sáng trung bình
+  - màu da tối
+  - nụ hôn
+  - 'nụ hôn: phụ nữ, phụ nữ, màu da sáng trung bình, màu da tối'
+  - phụ nữ
+👩🏽‍❤‍💋‍👩🏻:
+  - cặp đôi
+  - màu da sáng
+  - màu da trung bình
+  - nụ hôn
+  - 'nụ hôn: phụ nữ, phụ nữ, màu da trung bình, màu da sáng'
+  - phụ nữ
+👩🏽‍❤‍💋‍👩🏼:
+  - cặp đôi
+  - màu da sáng trung bình
+  - màu da trung bình
+  - nụ hôn
+  - 'nụ hôn: phụ nữ, phụ nữ, màu da trung bình, màu da sáng trung bình'
+  - phụ nữ
+👩🏽‍❤‍💋‍👩🏽:
+  - cặp đôi
+  - màu da trung bình
+  - nụ hôn
+  - 'nụ hôn: phụ nữ, phụ nữ, màu da trung bình'
+  - phụ nữ
+👩🏽‍❤‍💋‍👩🏾:
+  - cặp đôi
+  - màu da trung bình
+  - màu da tối trung bình
+  - nụ hôn
+  - 'nụ hôn: phụ nữ, phụ nữ, màu da trung bình, màu da tối trung bình'
+  - phụ nữ
+👩🏽‍❤‍💋‍👩🏿:
+  - cặp đôi
+  - màu da trung bình
+  - màu da tối
+  - nụ hôn
+  - 'nụ hôn: phụ nữ, phụ nữ, màu da trung bình, màu da tối'
+  - phụ nữ
+👩🏾‍❤‍💋‍👩🏻:
+  - cặp đôi
+  - màu da sáng
+  - màu da tối trung bình
+  - nụ hôn
+  - 'nụ hôn: phụ nữ, phụ nữ, màu da tối trung bình, màu da sáng'
+  - phụ nữ
+👩🏾‍❤‍💋‍👩🏼:
+  - cặp đôi
+  - màu da sáng trung bình
+  - màu da tối trung bình
+  - nụ hôn
+  - 'nụ hôn: phụ nữ, phụ nữ, màu da tối trung bình, màu da sáng trung bình'
+  - phụ nữ
+👩🏾‍❤‍💋‍👩🏽:
+  - cặp đôi
+  - màu da trung bình
+  - màu da tối trung bình
+  - nụ hôn
+  - 'nụ hôn: phụ nữ, phụ nữ, màu da tối trung bình, màu da trung bình'
+  - phụ nữ
+👩🏾‍❤‍💋‍👩🏾:
+  - cặp đôi
+  - màu da tối trung bình
+  - nụ hôn
+  - 'nụ hôn: phụ nữ, phụ nữ, màu da tối trung bình'
+  - phụ nữ
+👩🏾‍❤‍💋‍👩🏿:
+  - cặp đôi
+  - màu da tối
+  - màu da tối trung bình
+  - nụ hôn
+  - 'nụ hôn: phụ nữ, phụ nữ, màu da tối trung bình, màu da tối'
+  - phụ nữ
+👩🏿‍❤‍💋‍👩🏻:
+  - cặp đôi
+  - màu da sáng
+  - màu da tối
+  - nụ hôn
+  - 'nụ hôn: phụ nữ, phụ nữ, màu da tối, màu da sáng'
+  - phụ nữ
+👩🏿‍❤‍💋‍👩🏼:
+  - cặp đôi
+  - màu da sáng trung bình
+  - màu da tối
+  - nụ hôn
+  - 'nụ hôn: phụ nữ, phụ nữ, màu da tối, màu da sáng trung bình'
+  - phụ nữ
+👩🏿‍❤‍💋‍👩🏽:
+  - cặp đôi
+  - màu da trung bình
+  - màu da tối
+  - nụ hôn
+  - 'nụ hôn: phụ nữ, phụ nữ, màu da tối, màu da trung bình'
+  - phụ nữ
+👩🏿‍❤‍💋‍👩🏾:
+  - cặp đôi
+  - màu da tối
+  - màu da tối trung bình
+  - nụ hôn
+  - 'nụ hôn: phụ nữ, phụ nữ, màu da tối, màu da tối trung bình'
+  - phụ nữ
+👩🏿‍❤‍💋‍👩🏿:
+  - cặp đôi
+  - màu da tối
+  - nụ hôn
+  - 'nụ hôn: phụ nữ, phụ nữ, màu da tối'
+  - phụ nữ
+👩🏻‍❤‍👨🏻:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: phụ nữ, đàn ông, màu da sáng'
+  - màu da sáng
+  - phụ nữ
+  - yêu
+  - đàn ông
+👩🏻‍❤‍👨🏼:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: phụ nữ, đàn ông, màu da sáng, màu da sáng trung bình'
+  - màu da sáng
+  - màu da sáng trung bình
+  - phụ nữ
+  - yêu
+  - đàn ông
+👩🏻‍❤‍👨🏽:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: phụ nữ, đàn ông, màu da sáng, màu da trung bình'
+  - màu da sáng
+  - màu da trung bình
+  - phụ nữ
+  - yêu
+  - đàn ông
+👩🏻‍❤‍👨🏾:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: phụ nữ, đàn ông, màu da sáng, màu da tối trung bình'
+  - màu da sáng
+  - màu da tối trung bình
+  - phụ nữ
+  - yêu
+  - đàn ông
+👩🏻‍❤‍👨🏿:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: phụ nữ, đàn ông, màu da sáng, màu da tối'
+  - màu da sáng
+  - màu da tối
+  - phụ nữ
+  - yêu
+  - đàn ông
+👩🏼‍❤‍👨🏻:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: phụ nữ, đàn ông, màu da sáng trung bình, màu da sáng'
+  - màu da sáng
+  - màu da sáng trung bình
+  - phụ nữ
+  - yêu
+  - đàn ông
+👩🏼‍❤‍👨🏼:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: phụ nữ, đàn ông, màu da sáng trung bình'
+  - màu da sáng trung bình
+  - phụ nữ
+  - yêu
+  - đàn ông
+👩🏼‍❤‍👨🏽:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: phụ nữ, đàn ông, màu da sáng trung bình, màu da trung bình'
+  - màu da sáng trung bình
+  - màu da trung bình
+  - phụ nữ
+  - yêu
+  - đàn ông
+👩🏼‍❤‍👨🏾:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: phụ nữ, đàn ông, màu da sáng trung bình, màu da tối trung
+    bình'
+  - màu da sáng trung bình
+  - màu da tối trung bình
+  - phụ nữ
+  - yêu
+  - đàn ông
+👩🏼‍❤‍👨🏿:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: phụ nữ, đàn ông, màu da sáng trung bình, màu da tối'
+  - màu da sáng trung bình
+  - màu da tối
+  - phụ nữ
+  - yêu
+  - đàn ông
+👩🏽‍❤‍👨🏻:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: phụ nữ, đàn ông, màu da trung bình, màu da sáng'
+  - màu da sáng
+  - màu da trung bình
+  - phụ nữ
+  - yêu
+  - đàn ông
+👩🏽‍❤‍👨🏼:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: phụ nữ, đàn ông, màu da trung bình, màu da sáng trung bình'
+  - màu da sáng trung bình
+  - màu da trung bình
+  - phụ nữ
+  - yêu
+  - đàn ông
+👩🏽‍❤‍👨🏽:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: phụ nữ, đàn ông, màu da trung bình'
+  - màu da trung bình
+  - phụ nữ
+  - yêu
+  - đàn ông
+👩🏽‍❤‍👨🏾:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: phụ nữ, đàn ông, màu da trung bình, màu da tối trung bình'
+  - màu da trung bình
+  - màu da tối trung bình
+  - phụ nữ
+  - yêu
+  - đàn ông
+👩🏽‍❤‍👨🏿:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: phụ nữ, đàn ông, màu da trung bình, màu da tối'
+  - màu da trung bình
+  - màu da tối
+  - phụ nữ
+  - yêu
+  - đàn ông
+👩🏾‍❤‍👨🏻:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: phụ nữ, đàn ông, màu da tối trung bình, màu da sáng'
+  - màu da sáng
+  - màu da tối trung bình
+  - phụ nữ
+  - yêu
+  - đàn ông
+👩🏾‍❤‍👨🏼:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: phụ nữ, đàn ông, màu da tối trung bình, màu da sáng trung
+    bình'
+  - màu da sáng trung bình
+  - màu da tối trung bình
+  - phụ nữ
+  - yêu
+  - đàn ông
+👩🏾‍❤‍👨🏽:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: phụ nữ, đàn ông, màu da tối trung bình, màu da trung bình'
+  - màu da trung bình
+  - màu da tối trung bình
+  - phụ nữ
+  - yêu
+  - đàn ông
+👩🏾‍❤‍👨🏾:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: phụ nữ, đàn ông, màu da tối trung bình'
+  - màu da tối trung bình
+  - phụ nữ
+  - yêu
+  - đàn ông
+👩🏾‍❤‍👨🏿:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: phụ nữ, đàn ông, màu da tối trung bình, màu da tối'
+  - màu da tối
+  - màu da tối trung bình
+  - phụ nữ
+  - yêu
+  - đàn ông
+👩🏿‍❤‍👨🏻:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: phụ nữ, đàn ông, màu da tối, màu da sáng'
+  - màu da sáng
+  - màu da tối
+  - phụ nữ
+  - yêu
+  - đàn ông
+👩🏿‍❤‍👨🏼:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: phụ nữ, đàn ông, màu da tối, màu da sáng trung bình'
+  - màu da sáng trung bình
+  - màu da tối
+  - phụ nữ
+  - yêu
+  - đàn ông
+👩🏿‍❤‍👨🏽:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: phụ nữ, đàn ông, màu da tối, màu da trung bình'
+  - màu da trung bình
+  - màu da tối
+  - phụ nữ
+  - yêu
+  - đàn ông
+👩🏿‍❤‍👨🏾:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: phụ nữ, đàn ông, màu da tối, màu da tối trung bình'
+  - màu da tối
+  - màu da tối trung bình
+  - phụ nữ
+  - yêu
+  - đàn ông
+👩🏿‍❤‍👨🏿:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: phụ nữ, đàn ông, màu da tối'
+  - màu da tối
+  - phụ nữ
+  - yêu
+  - đàn ông
+👩🏻‍❤‍👩🏻:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: phụ nữ, phụ nữ, màu da sáng'
+  - màu da sáng
+  - phụ nữ
+  - yêu
+👩🏻‍❤‍👩🏼:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: phụ nữ, phụ nữ, màu da sáng, màu da sáng trung bình'
+  - màu da sáng
+  - màu da sáng trung bình
+  - phụ nữ
+  - yêu
+👩🏻‍❤‍👩🏽:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: phụ nữ, phụ nữ, màu da sáng, màu da trung bình'
+  - màu da sáng
+  - màu da trung bình
+  - phụ nữ
+  - yêu
+👩🏻‍❤‍👩🏾:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: phụ nữ, phụ nữ, màu da sáng, màu da tối trung bình'
+  - màu da sáng
+  - màu da tối trung bình
+  - phụ nữ
+  - yêu
+👩🏻‍❤‍👩🏿:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: phụ nữ, phụ nữ, màu da sáng, màu da tối'
+  - màu da sáng
+  - màu da tối
+  - phụ nữ
+  - yêu
+👩🏼‍❤‍👩🏻:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: phụ nữ, phụ nữ, màu da sáng trung bình, màu da sáng'
+  - màu da sáng
+  - màu da sáng trung bình
+  - phụ nữ
+  - yêu
+👩🏼‍❤‍👩🏼:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: phụ nữ, phụ nữ, màu da sáng trung bình'
+  - màu da sáng trung bình
+  - phụ nữ
+  - yêu
+👩🏼‍❤‍👩🏽:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: phụ nữ, phụ nữ, màu da sáng trung bình, màu da trung bình'
+  - màu da sáng trung bình
+  - màu da trung bình
+  - phụ nữ
+  - yêu
+👩🏼‍❤‍👩🏾:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: phụ nữ, phụ nữ, màu da sáng trung bình, màu da tối trung
+    bình'
+  - màu da sáng trung bình
+  - màu da tối trung bình
+  - phụ nữ
+  - yêu
+👩🏼‍❤‍👩🏿:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: phụ nữ, phụ nữ, màu da sáng trung bình, màu da tối'
+  - màu da sáng trung bình
+  - màu da tối
+  - phụ nữ
+  - yêu
+👩🏽‍❤‍👩🏻:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: phụ nữ, phụ nữ, màu da trung bình, màu da sáng'
+  - màu da sáng
+  - màu da trung bình
+  - phụ nữ
+  - yêu
+👩🏽‍❤‍👩🏼:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: phụ nữ, phụ nữ, màu da trung bình, màu da sáng trung bình'
+  - màu da sáng trung bình
+  - màu da trung bình
+  - phụ nữ
+  - yêu
+👩🏽‍❤‍👩🏽:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: phụ nữ, phụ nữ, màu da trung bình'
+  - màu da trung bình
+  - phụ nữ
+  - yêu
+👩🏽‍❤‍👩🏾:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: phụ nữ, phụ nữ, màu da trung bình, màu da tối trung bình'
+  - màu da trung bình
+  - màu da tối trung bình
+  - phụ nữ
+  - yêu
+👩🏽‍❤‍👩🏿:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: phụ nữ, phụ nữ, màu da trung bình, màu da tối'
+  - màu da trung bình
+  - màu da tối
+  - phụ nữ
+  - yêu
+👩🏾‍❤‍👩🏻:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: phụ nữ, phụ nữ, màu da tối trung bình, màu da sáng'
+  - màu da sáng
+  - màu da tối trung bình
+  - phụ nữ
+  - yêu
+👩🏾‍❤‍👩🏼:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: phụ nữ, phụ nữ, màu da tối trung bình, màu da sáng trung
+    bình'
+  - màu da sáng trung bình
+  - màu da tối trung bình
+  - phụ nữ
+  - yêu
+👩🏾‍❤‍👩🏽:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: phụ nữ, phụ nữ, màu da tối trung bình, màu da trung bình'
+  - màu da trung bình
+  - màu da tối trung bình
+  - phụ nữ
+  - yêu
+👩🏾‍❤‍👩🏾:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: phụ nữ, phụ nữ, màu da tối trung bình'
+  - màu da tối trung bình
+  - phụ nữ
+  - yêu
+👩🏾‍❤‍👩🏿:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: phụ nữ, phụ nữ, màu da tối trung bình, màu da tối'
+  - màu da tối
+  - màu da tối trung bình
+  - phụ nữ
+  - yêu
+👩🏿‍❤‍👩🏻:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: phụ nữ, phụ nữ, màu da tối, màu da sáng'
+  - màu da sáng
+  - màu da tối
+  - phụ nữ
+  - yêu
+👩🏿‍❤‍👩🏼:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: phụ nữ, phụ nữ, màu da tối, màu da sáng trung bình'
+  - màu da sáng trung bình
+  - màu da tối
+  - phụ nữ
+  - yêu
+👩🏿‍❤‍👩🏽:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: phụ nữ, phụ nữ, màu da tối, màu da trung bình'
+  - màu da trung bình
+  - màu da tối
+  - phụ nữ
+  - yêu
+👩🏿‍❤‍👩🏾:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: phụ nữ, phụ nữ, màu da tối, màu da tối trung bình'
+  - màu da tối
+  - màu da tối trung bình
+  - phụ nữ
+  - yêu
+👩🏿‍❤‍👩🏿:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: phụ nữ, phụ nữ, màu da tối'
+  - màu da tối
+  - phụ nữ
+  - yêu
 👩‍🦰:
   - người lớn
   - phụ nữ
@@ -3153,31 +6248,31 @@
   - màu da sáng
   - người lớn
   - phụ nữ
-  - 'phụ nữ: màu da sáng và tóc đỏ'
+  - 'phụ nữ: màu da sáng, tóc đỏ'
   - tóc đỏ
 👩🏼‍🦰:
   - màu da sáng trung bình
   - người lớn
   - phụ nữ
-  - 'phụ nữ: màu da sáng trung bình và tóc đỏ'
+  - 'phụ nữ: màu da sáng trung bình, tóc đỏ'
   - tóc đỏ
 👩🏽‍🦰:
   - màu da trung bình
   - người lớn
   - phụ nữ
-  - 'phụ nữ: màu da trung bình và tóc đỏ'
+  - 'phụ nữ: màu da trung bình, tóc đỏ'
   - tóc đỏ
 👩🏾‍🦰:
   - màu da tối trung bình
   - người lớn
   - phụ nữ
-  - 'phụ nữ: màu da tối trung bình và tóc đỏ'
+  - 'phụ nữ: màu da tối trung bình, tóc đỏ'
   - tóc đỏ
 👩🏿‍🦰:
   - màu da tối
   - người lớn
   - phụ nữ
-  - 'phụ nữ: màu da tối và tóc đỏ'
+  - 'phụ nữ: màu da tối, tóc đỏ'
   - tóc đỏ
 👩‍🦱:
   - người lớn
@@ -3188,31 +6283,31 @@
   - màu da sáng
   - người lớn
   - phụ nữ
-  - 'phụ nữ: màu da sáng và tóc xoăn'
+  - 'phụ nữ: màu da sáng, tóc xoăn'
   - tóc xoăn
 👩🏼‍🦱:
   - màu da sáng trung bình
   - người lớn
   - phụ nữ
-  - 'phụ nữ: màu da sáng trung bình và tóc xoăn'
+  - 'phụ nữ: màu da sáng trung bình, tóc xoăn'
   - tóc xoăn
 👩🏽‍🦱:
   - màu da trung bình
   - người lớn
   - phụ nữ
-  - 'phụ nữ: màu da trung bình và tóc xoăn'
+  - 'phụ nữ: màu da trung bình, tóc xoăn'
   - tóc xoăn
 👩🏾‍🦱:
   - màu da tối trung bình
   - người lớn
   - phụ nữ
-  - 'phụ nữ: màu da tối trung bình và tóc xoăn'
+  - 'phụ nữ: màu da tối trung bình, tóc xoăn'
   - tóc xoăn
 👩🏿‍🦱:
   - màu da tối
   - người lớn
   - phụ nữ
-  - 'phụ nữ: màu da tối và tóc xoăn'
+  - 'phụ nữ: màu da tối, tóc xoăn'
   - tóc xoăn
 👩‍🦳:
   - người lớn
@@ -3223,31 +6318,31 @@
   - màu da sáng
   - người lớn
   - phụ nữ
-  - 'phụ nữ: màu da sáng và tóc trắng'
+  - 'phụ nữ: màu da sáng, tóc trắng'
   - tóc trắng
 👩🏼‍🦳:
   - màu da sáng trung bình
   - người lớn
   - phụ nữ
-  - 'phụ nữ: màu da sáng trung bình và tóc trắng'
+  - 'phụ nữ: màu da sáng trung bình, tóc trắng'
   - tóc trắng
 👩🏽‍🦳:
   - màu da trung bình
   - người lớn
   - phụ nữ
-  - 'phụ nữ: màu da trung bình và tóc trắng'
+  - 'phụ nữ: màu da trung bình, tóc trắng'
   - tóc trắng
 👩🏾‍🦳:
   - màu da tối trung bình
   - người lớn
   - phụ nữ
-  - 'phụ nữ: màu da tối trung bình và tóc trắng'
+  - 'phụ nữ: màu da tối trung bình, tóc trắng'
   - tóc trắng
 👩🏿‍🦳:
   - màu da tối
   - người lớn
   - phụ nữ
-  - 'phụ nữ: màu da tối và tóc trắng'
+  - 'phụ nữ: màu da tối, tóc trắng'
   - tóc trắng
 👩‍🦲:
   - hói
@@ -3259,31 +6354,31 @@
   - màu da sáng
   - người lớn
   - phụ nữ
-  - 'phụ nữ: màu da sáng và hói'
+  - 'phụ nữ: màu da sáng, hói'
 👩🏼‍🦲:
   - hói
   - màu da sáng trung bình
   - người lớn
   - phụ nữ
-  - 'phụ nữ: màu da sáng trung bình và hói'
+  - 'phụ nữ: màu da sáng trung bình, hói'
 👩🏽‍🦲:
   - hói
   - màu da trung bình
   - người lớn
   - phụ nữ
-  - 'phụ nữ: màu da trung bình và hói'
+  - 'phụ nữ: màu da trung bình, hói'
 👩🏾‍🦲:
   - hói
   - màu da tối trung bình
   - người lớn
   - phụ nữ
-  - 'phụ nữ: màu da tối trung bình và hói'
+  - 'phụ nữ: màu da tối trung bình, hói'
 👩🏿‍🦲:
   - hói
   - màu da tối
   - người lớn
   - phụ nữ
-  - 'phụ nữ: màu da tối và hói'
+  - 'phụ nữ: màu da tối, hói'
 🧓:
   - già
   - giới tính không xác định
@@ -5817,51 +8912,51 @@
   - nhà máy
   - nữ
 🧑‍💼:
+  - công việc văn phòng
   - kinh doanh
   - kiến trúc sư
   - người quản lý
   - nhân viên văn phòng
-  - ông việc văn phòng
 🧑🏻‍💼:
+  - công việc văn phòng
   - kinh doanh
   - kiến trúc sư
   - màu da sáng
   - người quản lý
   - nhân viên văn phòng
   - 'nhân viên văn phòng: màu da sáng'
-  - ông việc văn phòng
 🧑🏼‍💼:
+  - công việc văn phòng
   - kinh doanh
   - kiến trúc sư
   - màu da sáng trung bình
   - người quản lý
   - nhân viên văn phòng
   - 'nhân viên văn phòng: màu da sáng trung bình'
-  - ông việc văn phòng
 🧑🏽‍💼:
+  - công việc văn phòng
   - kinh doanh
   - kiến trúc sư
   - màu da trung bình
   - người quản lý
   - nhân viên văn phòng
   - 'nhân viên văn phòng: màu da trung bình'
-  - ông việc văn phòng
 🧑🏾‍💼:
+  - công việc văn phòng
   - kinh doanh
   - kiến trúc sư
   - màu da tối trung bình
   - người quản lý
   - nhân viên văn phòng
   - 'nhân viên văn phòng: màu da tối trung bình'
-  - ông việc văn phòng
 🧑🏿‍💼:
+  - công việc văn phòng
   - kinh doanh
   - kiến trúc sư
   - màu da tối
   - người quản lý
   - nhân viên văn phòng
   - 'nhân viên văn phòng: màu da tối'
-  - ông việc văn phòng
 👨‍💼:
   - công việc văn phòng
   - kinh doanh
@@ -7231,6 +10326,41 @@
   - tàng hình
   - đấu sĩ
   - ẩn
+🥷🏻:
+  - màu da sáng
+  - ninja
+  - 'ninja: màu da sáng'
+  - tàng hình
+  - đấu sĩ
+  - ẩn
+🥷🏼:
+  - màu da sáng trung bình
+  - ninja
+  - 'ninja: màu da sáng trung bình'
+  - tàng hình
+  - đấu sĩ
+  - ẩn
+🥷🏽:
+  - màu da trung bình
+  - ninja
+  - 'ninja: màu da trung bình'
+  - tàng hình
+  - đấu sĩ
+  - ẩn
+🥷🏾:
+  - màu da tối trung bình
+  - ninja
+  - 'ninja: màu da tối trung bình'
+  - tàng hình
+  - đấu sĩ
+  - ẩn
+🥷🏿:
+  - màu da tối
+  - ninja
+  - 'ninja: màu da tối'
+  - tàng hình
+  - đấu sĩ
+  - ẩn
 👷:
   - công nhân
   - công nhân xây dựng
@@ -7351,6 +10481,52 @@
   - màu da tối
   - nữ
   - xây dựng
+🫅:
+  - cao quý
+  - hoàng gia
+  - người đội vương miện
+  - quân vương
+  - vương giả
+🫅🏻:
+  - cao quý
+  - hoàng gia
+  - màu da sáng
+  - người đội vương miện
+  - 'người đội vương miện: màu da sáng'
+  - quân vương
+  - vương giả
+🫅🏼:
+  - cao quý
+  - hoàng gia
+  - màu da sáng trung bình
+  - người đội vương miện
+  - 'người đội vương miện: màu da sáng trung bình'
+  - quân vương
+  - vương giả
+🫅🏽:
+  - cao quý
+  - hoàng gia
+  - màu da trung bình
+  - người đội vương miện
+  - 'người đội vương miện: màu da trung bình'
+  - quân vương
+  - vương giả
+🫅🏾:
+  - cao quý
+  - hoàng gia
+  - màu da tối trung bình
+  - người đội vương miện
+  - 'người đội vương miện: màu da tối trung bình'
+  - quân vương
+  - vương giả
+🫅🏿:
+  - cao quý
+  - hoàng gia
+  - màu da tối
+  - người đội vương miện
+  - 'người đội vương miện: màu da tối'
+  - quân vương
+  - vương giả
 🤴:
   - hoàng tử
 🤴🏻:
@@ -7598,77 +10774,77 @@
 🤵:
   - bộ vest
   - chú rể
-  - người đàn ông
-  - người đàn ông mặc bộ vest
+  - người
+  - người mặc bộ vest
 🤵🏻:
   - bộ vest
   - chú rể
   - màu da sáng
-  - người đàn ông
-  - người đàn ông mặc bộ vest
-  - 'người đàn ông mặc bộ vest: màu da sáng'
+  - người
+  - người mặc bộ vest
+  - 'người mặc bộ vest: màu da sáng'
 🤵🏼:
   - bộ vest
   - chú rể
   - màu da sáng trung bình
-  - người đàn ông
-  - người đàn ông mặc bộ vest
-  - 'người đàn ông mặc bộ vest: màu da sáng trung bình'
+  - người
+  - người mặc bộ vest
+  - 'người mặc bộ vest: màu da sáng trung bình'
 🤵🏽:
   - bộ vest
   - chú rể
   - màu da trung bình
-  - người đàn ông
-  - người đàn ông mặc bộ vest
-  - 'người đàn ông mặc bộ vest: màu da trung bình'
+  - người
+  - người mặc bộ vest
+  - 'người mặc bộ vest: màu da trung bình'
 🤵🏾:
   - bộ vest
   - chú rể
   - màu da tối trung bình
-  - người đàn ông
-  - người đàn ông mặc bộ vest
-  - 'người đàn ông mặc bộ vest: màu da tối trung bình'
+  - người
+  - người mặc bộ vest
+  - 'người mặc bộ vest: màu da tối trung bình'
 🤵🏿:
   - bộ vest
   - chú rể
   - màu da tối
+  - người
+  - người mặc bộ vest
+  - 'người mặc bộ vest: màu da tối'
+🤵‍♂:
+  - bộ vest
+  - người đàn ông
+  - người đàn ông mặc bộ vest
+🤵🏻‍♂:
+  - bộ vest
+  - màu da sáng
+  - người đàn ông
+  - người đàn ông mặc bộ vest
+  - 'người đàn ông mặc bộ vest: màu da sáng'
+🤵🏼‍♂:
+  - bộ vest
+  - màu da sáng trung bình
+  - người đàn ông
+  - người đàn ông mặc bộ vest
+  - 'người đàn ông mặc bộ vest: màu da sáng trung bình'
+🤵🏽‍♂:
+  - bộ vest
+  - màu da trung bình
+  - người đàn ông
+  - người đàn ông mặc bộ vest
+  - 'người đàn ông mặc bộ vest: màu da trung bình'
+🤵🏾‍♂:
+  - bộ vest
+  - màu da tối trung bình
+  - người đàn ông
+  - người đàn ông mặc bộ vest
+  - 'người đàn ông mặc bộ vest: màu da tối trung bình'
+🤵🏿‍♂:
+  - bộ vest
+  - màu da tối
   - người đàn ông
   - người đàn ông mặc bộ vest
   - 'người đàn ông mặc bộ vest: màu da tối'
-🤵‍♂:
-  - người đàn ông
-  - người đàn ông mặc tuxedo
-  - tuxedo
-🤵🏻‍♂:
-  - màu da sáng
-  - người đàn ông
-  - người đàn ông mặc tuxedo
-  - 'người đàn ông mặc tuxedo: màu da sáng'
-  - tuxedo
-🤵🏼‍♂:
-  - màu da sáng trung bình
-  - người đàn ông
-  - người đàn ông mặc tuxedo
-  - 'người đàn ông mặc tuxedo: màu da sáng trung bình'
-  - tuxedo
-🤵🏽‍♂:
-  - màu da trung bình
-  - người đàn ông
-  - người đàn ông mặc tuxedo
-  - 'người đàn ông mặc tuxedo: màu da trung bình'
-  - tuxedo
-🤵🏾‍♂:
-  - màu da tối trung bình
-  - người đàn ông
-  - người đàn ông mặc tuxedo
-  - 'người đàn ông mặc tuxedo: màu da tối trung bình'
-  - tuxedo
-🤵🏿‍♂:
-  - màu da tối
-  - người đàn ông
-  - người đàn ông mặc tuxedo
-  - 'người đàn ông mặc tuxedo: màu da tối'
-  - tuxedo
 🤵‍♀:
   - người phụ nữ
   - người phụ nữ mặc tuxedo
@@ -7705,112 +10881,118 @@
   - tuxedo
 👰:
   - cô dâu
-  - cô dâu với khăn voan
   - cưới
-  - mạng che mặt
+  - khăn voan
+  - người
+  - người đội khăn voan
 👰🏻:
   - cô dâu
-  - cô dâu với khăn voan
-  - 'cô dâu với khăn voan: màu da sáng'
   - cưới
+  - khăn voan
   - màu da sáng
-  - mạng che mặt
+  - người
+  - người đội khăn voan
+  - 'người đội khăn voan: màu da sáng'
 👰🏼:
   - cô dâu
-  - cô dâu với khăn voan
-  - 'cô dâu với khăn voan: màu da sáng trung bình'
   - cưới
+  - khăn voan
   - màu da sáng trung bình
-  - mạng che mặt
+  - người
+  - người đội khăn voan
+  - 'người đội khăn voan: màu da sáng trung bình'
 👰🏽:
   - cô dâu
-  - cô dâu với khăn voan
-  - 'cô dâu với khăn voan: màu da trung bình'
   - cưới
+  - khăn voan
   - màu da trung bình
-  - mạng che mặt
+  - người
+  - người đội khăn voan
+  - 'người đội khăn voan: màu da trung bình'
 👰🏾:
   - cô dâu
-  - cô dâu với khăn voan
-  - 'cô dâu với khăn voan: màu da tối trung bình'
   - cưới
+  - khăn voan
   - màu da tối trung bình
-  - mạng che mặt
+  - người
+  - người đội khăn voan
+  - 'người đội khăn voan: màu da tối trung bình'
 👰🏿:
   - cô dâu
-  - cô dâu với khăn voan
-  - 'cô dâu với khăn voan: màu da tối'
   - cưới
+  - khăn voan
   - màu da tối
-  - mạng che mặt
+  - người
+  - người đội khăn voan
+  - 'người đội khăn voan: màu da tối'
 👰‍♂:
-  - lúp cưới
+  - khăn voan
   - người đàn ông
-  - người đàn ông đội lúp cưới
+  - người đàn ông đội khăn voan
 👰🏻‍♂:
-  - lúp cưới
+  - khăn voan
   - màu da sáng
   - người đàn ông
-  - người đàn ông đội lúp cưới
-  - 'người đàn ông đội lúp cưới: màu da sáng'
+  - người đàn ông đội khăn voan
+  - 'người đàn ông đội khăn voan: màu da sáng'
 👰🏼‍♂:
-  - lúp cưới
+  - khăn voan
   - màu da sáng trung bình
   - người đàn ông
-  - người đàn ông đội lúp cưới
-  - 'người đàn ông đội lúp cưới: màu da sáng trung bình'
+  - người đàn ông đội khăn voan
+  - 'người đàn ông đội khăn voan: màu da sáng trung bình'
 👰🏽‍♂:
-  - lúp cưới
+  - khăn voan
   - màu da trung bình
   - người đàn ông
-  - người đàn ông đội lúp cưới
-  - 'người đàn ông đội lúp cưới: màu da trung bình'
+  - người đàn ông đội khăn voan
+  - 'người đàn ông đội khăn voan: màu da trung bình'
 👰🏾‍♂:
-  - lúp cưới
+  - khăn voan
   - màu da tối trung bình
   - người đàn ông
-  - người đàn ông đội lúp cưới
-  - 'người đàn ông đội lúp cưới: màu da tối trung bình'
+  - người đàn ông đội khăn voan
+  - 'người đàn ông đội khăn voan: màu da tối trung bình'
 👰🏿‍♂:
-  - lúp cưới
+  - khăn voan
   - màu da tối
   - người đàn ông
-  - người đàn ông đội lúp cưới
-  - 'người đàn ông đội lúp cưới: màu da tối'
+  - người đàn ông đội khăn voan
+  - 'người đàn ông đội khăn voan: màu da tối'
 👰‍♀:
-  - lúp cưới
+  - khăn voan
   - người phụ nữ
-  - người phụ nữ đội lúp cưới
+  - người phụ nữ đội khăn voan
 👰🏻‍♀:
-  - lúp cưới
+  - khăn voan
   - màu da sáng
   - người phụ nữ
-  - người phụ nữ đội lúp cưới
-  - 'người phụ nữ đội lúp cưới: màu da sáng'
+  - người phụ nữ đội khăn voan
+  - 'người phụ nữ đội khăn voan: màu da sáng'
 👰🏼‍♀:
-  - lúp cưới
+  - khăn voan
   - màu da sáng trung bình
   - người phụ nữ
-  - người phụ nữ đội lúp cưới
-  - 'người phụ nữ đội lúp cưới: màu da sáng trung bình'
+  - người phụ nữ đội khăn voan
+  - 'người phụ nữ đội khăn voan: màu da sáng trung bình'
 👰🏽‍♀:
-  - lúp cưới
+  - khăn voan
   - màu da trung bình
   - người phụ nữ
-  - người phụ nữ đội lúp cưới
-  - 'người phụ nữ đội lúp cưới: màu da trung bình'
+  - người phụ nữ đội khăn voan
+  - 'người phụ nữ đội khăn voan: màu da trung bình'
 👰🏾‍♀:
-  - lúp cưới
+  - khăn voan
   - màu da tối trung bình
   - người phụ nữ
-  - người phụ nữ đội lúp cưới
-  - 'người phụ nữ đội lúp cưới: màu da tối trung bình'
+  - người phụ nữ đội khăn voan
+  - 'người phụ nữ đội khăn voan: màu da tối trung bình'
 👰🏿‍♀:
-  - lúp cưới
+  - khăn voan
   - màu da tối
   - người phụ nữ
-  - người phụ nữ đội lúp cưới
-  - 'người phụ nữ đội lúp cưới: màu da tối'
+  - người phụ nữ đội khăn voan
+  - 'người phụ nữ đội khăn voan: màu da tối'
 🤰:
   - mang thai
   - người phụ nữ có thai
@@ -7845,6 +11027,98 @@
   - người phụ nữ có thai
   - 'người phụ nữ có thai: màu da tối'
   - phụ nữ
+🫃:
+  - bụng bầu
+  - có thai
+  - căng phồng
+  - người đàn ông mang bầu
+  - no đủ
+🫃🏻:
+  - bụng bầu
+  - có thai
+  - căng phồng
+  - màu da sáng
+  - người đàn ông mang bầu
+  - 'người đàn ông mang bầu: màu da sáng'
+  - no đủ
+🫃🏼:
+  - bụng bầu
+  - có thai
+  - căng phồng
+  - màu da sáng trung bình
+  - người đàn ông mang bầu
+  - 'người đàn ông mang bầu: màu da sáng trung bình'
+  - no đủ
+🫃🏽:
+  - bụng bầu
+  - có thai
+  - căng phồng
+  - màu da trung bình
+  - người đàn ông mang bầu
+  - 'người đàn ông mang bầu: màu da trung bình'
+  - no đủ
+🫃🏾:
+  - bụng bầu
+  - có thai
+  - căng phồng
+  - màu da tối trung bình
+  - người đàn ông mang bầu
+  - 'người đàn ông mang bầu: màu da tối trung bình'
+  - no đủ
+🫃🏿:
+  - bụng bầu
+  - có thai
+  - căng phồng
+  - màu da tối
+  - người đàn ông mang bầu
+  - 'người đàn ông mang bầu: màu da tối'
+  - no đủ
+🫄:
+  - bụng bầu
+  - có thai
+  - căng phồng
+  - người mang bầu
+  - no đủ
+🫄🏻:
+  - bụng bầu
+  - có thai
+  - căng phồng
+  - màu da sáng
+  - người mang bầu
+  - 'người mang bầu: màu da sáng'
+  - no đủ
+🫄🏼:
+  - bụng bầu
+  - có thai
+  - căng phồng
+  - màu da sáng trung bình
+  - người mang bầu
+  - 'người mang bầu: màu da sáng trung bình'
+  - no đủ
+🫄🏽:
+  - bụng bầu
+  - có thai
+  - căng phồng
+  - màu da trung bình
+  - người mang bầu
+  - 'người mang bầu: màu da trung bình'
+  - no đủ
+🫄🏾:
+  - bụng bầu
+  - có thai
+  - căng phồng
+  - màu da tối trung bình
+  - người mang bầu
+  - 'người mang bầu: màu da tối trung bình'
+  - no đủ
+🫄🏿:
+  - bụng bầu
+  - có thai
+  - căng phồng
+  - màu da tối
+  - người mang bầu
+  - 'người mang bầu: màu da tối'
+  - no đủ
 🤱:
   - cho bú
   - cho con bú
@@ -7991,6 +11265,7 @@
   - màu da sáng
   - người
   - người cho con bú
+  - người cho em bé bú
   - 'người cho em bé bú: màu da sáng'
 🧑🏼‍🍼:
   - cho bú
@@ -7999,6 +11274,7 @@
   - màu da sáng trung bình
   - người
   - người cho con bú
+  - người cho em bé bú
   - 'người cho em bé bú: màu da sáng trung bình'
 🧑🏽‍🍼:
   - cho bú
@@ -8007,6 +11283,7 @@
   - màu da trung bình
   - người
   - người cho con bú
+  - người cho em bé bú
   - 'người cho em bé bú: màu da trung bình'
 🧑🏾‍🍼:
   - cho bú
@@ -8015,6 +11292,7 @@
   - màu da tối trung bình
   - người
   - người cho con bú
+  - người cho em bé bú
   - 'người cho em bé bú: màu da tối trung bình'
 🧑🏿‍🍼:
   - cho bú
@@ -8023,6 +11301,7 @@
   - màu da tối
   - người
   - người cho con bú
+  - người cho em bé bú
   - 'người cho em bé bú: màu da tối'
 👼:
   - bé con
@@ -9008,6 +12287,11 @@
   - xác chết nữ sống lại
   - xác chết sống lại
   - xác sống
+🧌:
+  - giả tưởng
+  - người khổng lồ độc ác
+  - quái vật
+  - truyện cổ tích
 💆:
   - mặt
   - người được xoa bóp mặt
@@ -12018,7 +15302,7 @@
   - cặp đôi
   - giữ
   - hai người nắm tay
-  - 'hai người nắm tay: màu da sáng và màu da sáng trung bình'
+  - 'hai người nắm tay: màu da sáng, màu da sáng trung bình'
   - màu da sáng
   - màu da sáng trung bình
   - người
@@ -12029,7 +15313,7 @@
   - cặp đôi
   - giữ
   - hai người nắm tay
-  - 'hai người nắm tay: màu da sáng và màu da trung bình'
+  - 'hai người nắm tay: màu da sáng, màu da trung bình'
   - màu da sáng
   - màu da trung bình
   - người
@@ -12040,7 +15324,7 @@
   - cặp đôi
   - giữ
   - hai người nắm tay
-  - 'hai người nắm tay: màu da sáng và màu da tối trung bình'
+  - 'hai người nắm tay: màu da sáng, màu da tối trung bình'
   - màu da sáng
   - màu da tối trung bình
   - người
@@ -12051,7 +15335,7 @@
   - cặp đôi
   - giữ
   - hai người nắm tay
-  - 'hai người nắm tay: màu da sáng và màu da tối'
+  - 'hai người nắm tay: màu da sáng, màu da tối'
   - màu da sáng
   - màu da tối
   - người
@@ -12062,7 +15346,7 @@
   - cặp đôi
   - giữ
   - hai người nắm tay
-  - 'hai người nắm tay: màu da sáng trung bình và màu da sáng'
+  - 'hai người nắm tay: màu da sáng trung bình, màu da sáng'
   - màu da sáng
   - màu da sáng trung bình
   - người
@@ -12083,7 +15367,7 @@
   - cặp đôi
   - giữ
   - hai người nắm tay
-  - 'hai người nắm tay: màu da sáng trung bình và màu da trung bình'
+  - 'hai người nắm tay: màu da sáng trung bình, màu da trung bình'
   - màu da sáng trung bình
   - màu da trung bình
   - người
@@ -12094,7 +15378,7 @@
   - cặp đôi
   - giữ
   - hai người nắm tay
-  - 'hai người nắm tay: màu da sáng trung bình và màu da tối trung bình'
+  - 'hai người nắm tay: màu da sáng trung bình, màu da tối trung bình'
   - màu da sáng trung bình
   - màu da tối trung bình
   - người
@@ -12105,7 +15389,7 @@
   - cặp đôi
   - giữ
   - hai người nắm tay
-  - 'hai người nắm tay: màu da sáng trung bình và màu da tối'
+  - 'hai người nắm tay: màu da sáng trung bình, màu da tối'
   - màu da sáng trung bình
   - màu da tối
   - người
@@ -12116,7 +15400,7 @@
   - cặp đôi
   - giữ
   - hai người nắm tay
-  - 'hai người nắm tay: màu da trung bình và màu da sáng'
+  - 'hai người nắm tay: màu da trung bình, màu da sáng'
   - màu da sáng
   - màu da trung bình
   - người
@@ -12127,7 +15411,7 @@
   - cặp đôi
   - giữ
   - hai người nắm tay
-  - 'hai người nắm tay: màu da trung bình và màu da sáng trung bình'
+  - 'hai người nắm tay: màu da trung bình, màu da sáng trung bình'
   - màu da sáng trung bình
   - màu da trung bình
   - người
@@ -12148,7 +15432,7 @@
   - cặp đôi
   - giữ
   - hai người nắm tay
-  - 'hai người nắm tay: màu da trung bình và màu da tối trung bình'
+  - 'hai người nắm tay: màu da trung bình, màu da tối trung bình'
   - màu da trung bình
   - màu da tối trung bình
   - người
@@ -12159,7 +15443,7 @@
   - cặp đôi
   - giữ
   - hai người nắm tay
-  - 'hai người nắm tay: màu da trung bình và màu da tối'
+  - 'hai người nắm tay: màu da trung bình, màu da tối'
   - màu da trung bình
   - màu da tối
   - người
@@ -12170,7 +15454,7 @@
   - cặp đôi
   - giữ
   - hai người nắm tay
-  - 'hai người nắm tay: màu da tối trung bình và màu da sáng'
+  - 'hai người nắm tay: màu da tối trung bình, màu da sáng'
   - màu da sáng
   - màu da tối trung bình
   - người
@@ -12181,7 +15465,7 @@
   - cặp đôi
   - giữ
   - hai người nắm tay
-  - 'hai người nắm tay: màu da tối trung bình và màu da sáng trung bình'
+  - 'hai người nắm tay: màu da tối trung bình, màu da sáng trung bình'
   - màu da sáng trung bình
   - màu da tối trung bình
   - người
@@ -12192,7 +15476,7 @@
   - cặp đôi
   - giữ
   - hai người nắm tay
-  - 'hai người nắm tay: màu da tối trung bình và màu da trung bình'
+  - 'hai người nắm tay: màu da tối trung bình, màu da trung bình'
   - màu da trung bình
   - màu da tối trung bình
   - người
@@ -12213,7 +15497,7 @@
   - cặp đôi
   - giữ
   - hai người nắm tay
-  - 'hai người nắm tay: màu da tối trung bình và màu da tối'
+  - 'hai người nắm tay: màu da tối trung bình, màu da tối'
   - màu da tối
   - màu da tối trung bình
   - người
@@ -12224,7 +15508,7 @@
   - cặp đôi
   - giữ
   - hai người nắm tay
-  - 'hai người nắm tay: màu da tối và màu da sáng'
+  - 'hai người nắm tay: màu da tối, màu da sáng'
   - màu da sáng
   - màu da tối
   - người
@@ -12235,7 +15519,7 @@
   - cặp đôi
   - giữ
   - hai người nắm tay
-  - 'hai người nắm tay: màu da tối và màu da sáng trung bình'
+  - 'hai người nắm tay: màu da tối, màu da sáng trung bình'
   - màu da sáng trung bình
   - màu da tối
   - người
@@ -12246,7 +15530,7 @@
   - cặp đôi
   - giữ
   - hai người nắm tay
-  - 'hai người nắm tay: màu da tối và màu da trung bình'
+  - 'hai người nắm tay: màu da tối, màu da trung bình'
   - màu da trung bình
   - màu da tối
   - người
@@ -12257,7 +15541,7 @@
   - cặp đôi
   - giữ
   - hai người nắm tay
-  - 'hai người nắm tay: màu da tối và màu da tối trung bình'
+  - 'hai người nắm tay: màu da tối, màu da tối trung bình'
   - màu da tối
   - màu da tối trung bình
   - người
@@ -12289,7 +15573,7 @@
 👩🏻‍🤝‍👩🏼:
   - cặp đôi
   - hai người phụ nữ nắm tay
-  - 'hai người phụ nữ nắm tay: màu da sáng và màu da sáng trung bình'
+  - 'hai người phụ nữ nắm tay: màu da sáng, màu da sáng trung bình'
   - màu da sáng
   - màu da sáng trung bình
   - phụ nữ
@@ -12297,7 +15581,7 @@
 👩🏻‍🤝‍👩🏽:
   - cặp đôi
   - hai người phụ nữ nắm tay
-  - 'hai người phụ nữ nắm tay: màu da sáng và màu da trung bình'
+  - 'hai người phụ nữ nắm tay: màu da sáng, màu da trung bình'
   - màu da sáng
   - màu da trung bình
   - phụ nữ
@@ -12305,7 +15589,7 @@
 👩🏻‍🤝‍👩🏾:
   - cặp đôi
   - hai người phụ nữ nắm tay
-  - 'hai người phụ nữ nắm tay: màu da sáng và màu da tối trung bình'
+  - 'hai người phụ nữ nắm tay: màu da sáng, màu da tối trung bình'
   - màu da sáng
   - màu da tối trung bình
   - phụ nữ
@@ -12313,7 +15597,7 @@
 👩🏻‍🤝‍👩🏿:
   - cặp đôi
   - hai người phụ nữ nắm tay
-  - 'hai người phụ nữ nắm tay: màu da sáng và màu da tối'
+  - 'hai người phụ nữ nắm tay: màu da sáng, màu da tối'
   - màu da sáng
   - màu da tối
   - phụ nữ
@@ -12321,7 +15605,7 @@
 👩🏼‍🤝‍👩🏻:
   - cặp đôi
   - hai người phụ nữ nắm tay
-  - 'hai người phụ nữ nắm tay: màu da sáng trung bình và màu da sáng'
+  - 'hai người phụ nữ nắm tay: màu da sáng trung bình, màu da sáng'
   - màu da sáng
   - màu da sáng trung bình
   - phụ nữ
@@ -12336,7 +15620,7 @@
 👩🏼‍🤝‍👩🏽:
   - cặp đôi
   - hai người phụ nữ nắm tay
-  - 'hai người phụ nữ nắm tay: màu da sáng trung bình và màu da trung bình'
+  - 'hai người phụ nữ nắm tay: màu da sáng trung bình, màu da trung bình'
   - màu da sáng trung bình
   - màu da trung bình
   - phụ nữ
@@ -12344,7 +15628,7 @@
 👩🏼‍🤝‍👩🏾:
   - cặp đôi
   - hai người phụ nữ nắm tay
-  - 'hai người phụ nữ nắm tay: màu da sáng trung bình và màu da tối trung bình'
+  - 'hai người phụ nữ nắm tay: màu da sáng trung bình, màu da tối trung bình'
   - màu da sáng trung bình
   - màu da tối trung bình
   - phụ nữ
@@ -12352,7 +15636,7 @@
 👩🏼‍🤝‍👩🏿:
   - cặp đôi
   - hai người phụ nữ nắm tay
-  - 'hai người phụ nữ nắm tay: màu da sáng trung bình và màu da tối'
+  - 'hai người phụ nữ nắm tay: màu da sáng trung bình, màu da tối'
   - màu da sáng trung bình
   - màu da tối
   - phụ nữ
@@ -12360,7 +15644,7 @@
 👩🏽‍🤝‍👩🏻:
   - cặp đôi
   - hai người phụ nữ nắm tay
-  - 'hai người phụ nữ nắm tay: màu da trung bình và màu da sáng'
+  - 'hai người phụ nữ nắm tay: màu da trung bình, màu da sáng'
   - màu da sáng
   - màu da trung bình
   - phụ nữ
@@ -12368,7 +15652,7 @@
 👩🏽‍🤝‍👩🏼:
   - cặp đôi
   - hai người phụ nữ nắm tay
-  - 'hai người phụ nữ nắm tay: màu da trung bình và màu da sáng trung bình'
+  - 'hai người phụ nữ nắm tay: màu da trung bình, màu da sáng trung bình'
   - màu da sáng trung bình
   - màu da trung bình
   - phụ nữ
@@ -12383,7 +15667,7 @@
 👩🏽‍🤝‍👩🏾:
   - cặp đôi
   - hai người phụ nữ nắm tay
-  - 'hai người phụ nữ nắm tay: màu da trung bình và màu da tối trung bình'
+  - 'hai người phụ nữ nắm tay: màu da trung bình, màu da tối trung bình'
   - màu da trung bình
   - màu da tối trung bình
   - phụ nữ
@@ -12391,7 +15675,7 @@
 👩🏽‍🤝‍👩🏿:
   - cặp đôi
   - hai người phụ nữ nắm tay
-  - 'hai người phụ nữ nắm tay: màu da trung bình và màu da tối'
+  - 'hai người phụ nữ nắm tay: màu da trung bình, màu da tối'
   - màu da trung bình
   - màu da tối
   - phụ nữ
@@ -12399,7 +15683,7 @@
 👩🏾‍🤝‍👩🏻:
   - cặp đôi
   - hai người phụ nữ nắm tay
-  - 'hai người phụ nữ nắm tay: màu da tối trung bình và màu da sáng'
+  - 'hai người phụ nữ nắm tay: màu da tối trung bình, màu da sáng'
   - màu da sáng
   - màu da tối trung bình
   - phụ nữ
@@ -12407,7 +15691,7 @@
 👩🏾‍🤝‍👩🏼:
   - cặp đôi
   - hai người phụ nữ nắm tay
-  - 'hai người phụ nữ nắm tay: màu da tối trung bình và màu da sáng trung bình'
+  - 'hai người phụ nữ nắm tay: màu da tối trung bình, màu da sáng trung bình'
   - màu da sáng trung bình
   - màu da tối trung bình
   - phụ nữ
@@ -12415,7 +15699,7 @@
 👩🏾‍🤝‍👩🏽:
   - cặp đôi
   - hai người phụ nữ nắm tay
-  - 'hai người phụ nữ nắm tay: màu da tối trung bình và màu da trung bình'
+  - 'hai người phụ nữ nắm tay: màu da tối trung bình, màu da trung bình'
   - màu da trung bình
   - màu da tối trung bình
   - phụ nữ
@@ -12430,7 +15714,7 @@
 👩🏾‍🤝‍👩🏿:
   - cặp đôi
   - hai người phụ nữ nắm tay
-  - 'hai người phụ nữ nắm tay: màu da tối trung bình và màu da tối'
+  - 'hai người phụ nữ nắm tay: màu da tối trung bình, màu da tối'
   - màu da tối
   - màu da tối trung bình
   - phụ nữ
@@ -12438,7 +15722,7 @@
 👩🏿‍🤝‍👩🏻:
   - cặp đôi
   - hai người phụ nữ nắm tay
-  - 'hai người phụ nữ nắm tay: màu da tối và màu da sáng'
+  - 'hai người phụ nữ nắm tay: màu da tối, màu da sáng'
   - màu da sáng
   - màu da tối
   - phụ nữ
@@ -12446,7 +15730,7 @@
 👩🏿‍🤝‍👩🏼:
   - cặp đôi
   - hai người phụ nữ nắm tay
-  - 'hai người phụ nữ nắm tay: màu da tối và màu da sáng trung bình'
+  - 'hai người phụ nữ nắm tay: màu da tối, màu da sáng trung bình'
   - màu da sáng trung bình
   - màu da tối
   - phụ nữ
@@ -12454,7 +15738,7 @@
 👩🏿‍🤝‍👩🏽:
   - cặp đôi
   - hai người phụ nữ nắm tay
-  - 'hai người phụ nữ nắm tay: màu da tối và màu da trung bình'
+  - 'hai người phụ nữ nắm tay: màu da tối, màu da trung bình'
   - màu da trung bình
   - màu da tối
   - phụ nữ
@@ -12462,7 +15746,7 @@
 👩🏿‍🤝‍👩🏾:
   - cặp đôi
   - hai người phụ nữ nắm tay
-  - 'hai người phụ nữ nắm tay: màu da tối và màu da tối trung bình'
+  - 'hai người phụ nữ nắm tay: màu da tối, màu da tối trung bình'
   - màu da tối
   - màu da tối trung bình
   - phụ nữ
@@ -12496,7 +15780,7 @@
   - màu da sáng
   - màu da sáng trung bình
   - người đàn ông và phụ nữ nắm tay
-  - 'người đàn ông và phụ nữ nắm tay: màu da sáng và màu da sáng trung bình'
+  - 'người đàn ông và phụ nữ nắm tay: màu da sáng, màu da sáng trung bình'
   - phụ nữ
   - tay
   - đàn ông
@@ -12506,7 +15790,7 @@
   - màu da sáng
   - màu da trung bình
   - người đàn ông và phụ nữ nắm tay
-  - 'người đàn ông và phụ nữ nắm tay: màu da sáng và màu da trung bình'
+  - 'người đàn ông và phụ nữ nắm tay: màu da sáng, màu da trung bình'
   - phụ nữ
   - tay
   - đàn ông
@@ -12516,7 +15800,7 @@
   - màu da sáng
   - màu da tối trung bình
   - người đàn ông và phụ nữ nắm tay
-  - 'người đàn ông và phụ nữ nắm tay: màu da sáng và màu da tối trung bình'
+  - 'người đàn ông và phụ nữ nắm tay: màu da sáng, màu da tối trung bình'
   - phụ nữ
   - tay
   - đàn ông
@@ -12526,7 +15810,7 @@
   - màu da sáng
   - màu da tối
   - người đàn ông và phụ nữ nắm tay
-  - 'người đàn ông và phụ nữ nắm tay: màu da sáng và màu da tối'
+  - 'người đàn ông và phụ nữ nắm tay: màu da sáng, màu da tối'
   - phụ nữ
   - tay
   - đàn ông
@@ -12536,7 +15820,7 @@
   - màu da sáng
   - màu da sáng trung bình
   - người đàn ông và phụ nữ nắm tay
-  - 'người đàn ông và phụ nữ nắm tay: màu da sáng trung bình và màu da sáng'
+  - 'người đàn ông và phụ nữ nắm tay: màu da sáng trung bình, màu da sáng'
   - phụ nữ
   - tay
   - đàn ông
@@ -12555,7 +15839,7 @@
   - màu da sáng trung bình
   - màu da trung bình
   - người đàn ông và phụ nữ nắm tay
-  - 'người đàn ông và phụ nữ nắm tay: màu da sáng trung bình và màu da trung bình'
+  - 'người đàn ông và phụ nữ nắm tay: màu da sáng trung bình, màu da trung bình'
   - phụ nữ
   - tay
   - đàn ông
@@ -12565,7 +15849,7 @@
   - màu da sáng trung bình
   - màu da tối trung bình
   - người đàn ông và phụ nữ nắm tay
-  - 'người đàn ông và phụ nữ nắm tay: màu da sáng trung bình và màu da tối trung bình'
+  - 'người đàn ông và phụ nữ nắm tay: màu da sáng trung bình, màu da tối trung bình'
   - phụ nữ
   - tay
   - đàn ông
@@ -12575,7 +15859,7 @@
   - màu da sáng trung bình
   - màu da tối
   - người đàn ông và phụ nữ nắm tay
-  - 'người đàn ông và phụ nữ nắm tay: màu da sáng trung bình và màu da tối'
+  - 'người đàn ông và phụ nữ nắm tay: màu da sáng trung bình, màu da tối'
   - phụ nữ
   - tay
   - đàn ông
@@ -12585,7 +15869,7 @@
   - màu da sáng
   - màu da trung bình
   - người đàn ông và phụ nữ nắm tay
-  - 'người đàn ông và phụ nữ nắm tay: màu da trung bình và màu da sáng'
+  - 'người đàn ông và phụ nữ nắm tay: màu da trung bình, màu da sáng'
   - phụ nữ
   - tay
   - đàn ông
@@ -12595,7 +15879,7 @@
   - màu da sáng trung bình
   - màu da trung bình
   - người đàn ông và phụ nữ nắm tay
-  - 'người đàn ông và phụ nữ nắm tay: màu da trung bình và màu da sáng trung bình'
+  - 'người đàn ông và phụ nữ nắm tay: màu da trung bình, màu da sáng trung bình'
   - phụ nữ
   - tay
   - đàn ông
@@ -12614,7 +15898,7 @@
   - màu da trung bình
   - màu da tối trung bình
   - người đàn ông và phụ nữ nắm tay
-  - 'người đàn ông và phụ nữ nắm tay: màu da trung bình và màu da tối trung bình'
+  - 'người đàn ông và phụ nữ nắm tay: màu da trung bình, màu da tối trung bình'
   - phụ nữ
   - tay
   - đàn ông
@@ -12624,7 +15908,7 @@
   - màu da trung bình
   - màu da tối
   - người đàn ông và phụ nữ nắm tay
-  - 'người đàn ông và phụ nữ nắm tay: màu da trung bình và màu da tối'
+  - 'người đàn ông và phụ nữ nắm tay: màu da trung bình, màu da tối'
   - phụ nữ
   - tay
   - đàn ông
@@ -12634,7 +15918,7 @@
   - màu da sáng
   - màu da tối trung bình
   - người đàn ông và phụ nữ nắm tay
-  - 'người đàn ông và phụ nữ nắm tay: màu da tối trung bình và màu da sáng'
+  - 'người đàn ông và phụ nữ nắm tay: màu da tối trung bình, màu da sáng'
   - phụ nữ
   - tay
   - đàn ông
@@ -12644,7 +15928,7 @@
   - màu da sáng trung bình
   - màu da tối trung bình
   - người đàn ông và phụ nữ nắm tay
-  - 'người đàn ông và phụ nữ nắm tay: màu da tối trung bình và màu da sáng trung bình'
+  - 'người đàn ông và phụ nữ nắm tay: màu da tối trung bình, màu da sáng trung bình'
   - phụ nữ
   - tay
   - đàn ông
@@ -12654,7 +15938,7 @@
   - màu da trung bình
   - màu da tối trung bình
   - người đàn ông và phụ nữ nắm tay
-  - 'người đàn ông và phụ nữ nắm tay: màu da tối trung bình và màu da trung bình'
+  - 'người đàn ông và phụ nữ nắm tay: màu da tối trung bình, màu da trung bình'
   - phụ nữ
   - tay
   - đàn ông
@@ -12673,7 +15957,7 @@
   - màu da tối
   - màu da tối trung bình
   - người đàn ông và phụ nữ nắm tay
-  - 'người đàn ông và phụ nữ nắm tay: màu da tối trung bình và màu da tối'
+  - 'người đàn ông và phụ nữ nắm tay: màu da tối trung bình, màu da tối'
   - phụ nữ
   - tay
   - đàn ông
@@ -12683,7 +15967,7 @@
   - màu da sáng
   - màu da tối
   - người đàn ông và phụ nữ nắm tay
-  - 'người đàn ông và phụ nữ nắm tay: màu da tối và màu da sáng'
+  - 'người đàn ông và phụ nữ nắm tay: màu da tối, màu da sáng'
   - phụ nữ
   - tay
   - đàn ông
@@ -12693,7 +15977,7 @@
   - màu da sáng trung bình
   - màu da tối
   - người đàn ông và phụ nữ nắm tay
-  - 'người đàn ông và phụ nữ nắm tay: màu da tối và màu da sáng trung bình'
+  - 'người đàn ông và phụ nữ nắm tay: màu da tối, màu da sáng trung bình'
   - phụ nữ
   - tay
   - đàn ông
@@ -12703,7 +15987,7 @@
   - màu da trung bình
   - màu da tối
   - người đàn ông và phụ nữ nắm tay
-  - 'người đàn ông và phụ nữ nắm tay: màu da tối và màu da trung bình'
+  - 'người đàn ông và phụ nữ nắm tay: màu da tối, màu da trung bình'
   - phụ nữ
   - tay
   - đàn ông
@@ -12713,7 +15997,7 @@
   - màu da tối
   - màu da tối trung bình
   - người đàn ông và phụ nữ nắm tay
-  - 'người đàn ông và phụ nữ nắm tay: màu da tối và màu da tối trung bình'
+  - 'người đàn ông và phụ nữ nắm tay: màu da tối, màu da tối trung bình'
   - phụ nữ
   - tay
   - đàn ông
@@ -12749,7 +16033,7 @@
   - cặp đôi
   - hai người đàn ông nắm tay
   - hai người đàn ông nắm tay nhau
-  - 'hai người đàn ông nắm tay: màu da sáng và màu da sáng trung bình'
+  - 'hai người đàn ông nắm tay: màu da sáng, màu da sáng trung bình'
   - hoàng đạo
   - màu da sáng
   - màu da sáng trung bình
@@ -12760,7 +16044,7 @@
   - cặp đôi
   - hai người đàn ông nắm tay
   - hai người đàn ông nắm tay nhau
-  - 'hai người đàn ông nắm tay: màu da sáng và màu da trung bình'
+  - 'hai người đàn ông nắm tay: màu da sáng, màu da trung bình'
   - hoàng đạo
   - màu da sáng
   - màu da trung bình
@@ -12771,7 +16055,7 @@
   - cặp đôi
   - hai người đàn ông nắm tay
   - hai người đàn ông nắm tay nhau
-  - 'hai người đàn ông nắm tay: màu da sáng và màu da tối trung bình'
+  - 'hai người đàn ông nắm tay: màu da sáng, màu da tối trung bình'
   - hoàng đạo
   - màu da sáng
   - màu da tối trung bình
@@ -12782,7 +16066,7 @@
   - cặp đôi
   - hai người đàn ông nắm tay
   - hai người đàn ông nắm tay nhau
-  - 'hai người đàn ông nắm tay: màu da sáng và màu da tối'
+  - 'hai người đàn ông nắm tay: màu da sáng, màu da tối'
   - hoàng đạo
   - màu da sáng
   - màu da tối
@@ -12793,7 +16077,7 @@
   - cặp đôi
   - hai người đàn ông nắm tay
   - hai người đàn ông nắm tay nhau
-  - 'hai người đàn ông nắm tay: màu da sáng trung bình và màu da sáng'
+  - 'hai người đàn ông nắm tay: màu da sáng trung bình, màu da sáng'
   - hoàng đạo
   - màu da sáng
   - màu da sáng trung bình
@@ -12814,7 +16098,7 @@
   - cặp đôi
   - hai người đàn ông nắm tay
   - hai người đàn ông nắm tay nhau
-  - 'hai người đàn ông nắm tay: màu da sáng trung bình và màu da trung bình'
+  - 'hai người đàn ông nắm tay: màu da sáng trung bình, màu da trung bình'
   - hoàng đạo
   - màu da sáng trung bình
   - màu da trung bình
@@ -12825,7 +16109,7 @@
   - cặp đôi
   - hai người đàn ông nắm tay
   - hai người đàn ông nắm tay nhau
-  - 'hai người đàn ông nắm tay: màu da sáng trung bình và màu da tối trung bình'
+  - 'hai người đàn ông nắm tay: màu da sáng trung bình, màu da tối trung bình'
   - hoàng đạo
   - màu da sáng trung bình
   - màu da tối trung bình
@@ -12836,7 +16120,7 @@
   - cặp đôi
   - hai người đàn ông nắm tay
   - hai người đàn ông nắm tay nhau
-  - 'hai người đàn ông nắm tay: màu da sáng trung bình và màu da tối'
+  - 'hai người đàn ông nắm tay: màu da sáng trung bình, màu da tối'
   - hoàng đạo
   - màu da sáng trung bình
   - màu da tối
@@ -12847,7 +16131,7 @@
   - cặp đôi
   - hai người đàn ông nắm tay
   - hai người đàn ông nắm tay nhau
-  - 'hai người đàn ông nắm tay: màu da trung bình và màu da sáng'
+  - 'hai người đàn ông nắm tay: màu da trung bình, màu da sáng'
   - hoàng đạo
   - màu da sáng
   - màu da trung bình
@@ -12858,7 +16142,7 @@
   - cặp đôi
   - hai người đàn ông nắm tay
   - hai người đàn ông nắm tay nhau
-  - 'hai người đàn ông nắm tay: màu da trung bình và màu da sáng trung bình'
+  - 'hai người đàn ông nắm tay: màu da trung bình, màu da sáng trung bình'
   - hoàng đạo
   - màu da sáng trung bình
   - màu da trung bình
@@ -12879,7 +16163,7 @@
   - cặp đôi
   - hai người đàn ông nắm tay
   - hai người đàn ông nắm tay nhau
-  - 'hai người đàn ông nắm tay: màu da trung bình và màu da tối trung bình'
+  - 'hai người đàn ông nắm tay: màu da trung bình, màu da tối trung bình'
   - hoàng đạo
   - màu da trung bình
   - màu da tối trung bình
@@ -12890,7 +16174,7 @@
   - cặp đôi
   - hai người đàn ông nắm tay
   - hai người đàn ông nắm tay nhau
-  - 'hai người đàn ông nắm tay: màu da trung bình và màu da tối'
+  - 'hai người đàn ông nắm tay: màu da trung bình, màu da tối'
   - hoàng đạo
   - màu da trung bình
   - màu da tối
@@ -12901,7 +16185,7 @@
   - cặp đôi
   - hai người đàn ông nắm tay
   - hai người đàn ông nắm tay nhau
-  - 'hai người đàn ông nắm tay: màu da tối trung bình và màu da sáng'
+  - 'hai người đàn ông nắm tay: màu da tối trung bình, màu da sáng'
   - hoàng đạo
   - màu da sáng
   - màu da tối trung bình
@@ -12912,7 +16196,7 @@
   - cặp đôi
   - hai người đàn ông nắm tay
   - hai người đàn ông nắm tay nhau
-  - 'hai người đàn ông nắm tay: màu da tối trung bình và màu da sáng trung bình'
+  - 'hai người đàn ông nắm tay: màu da tối trung bình, màu da sáng trung bình'
   - hoàng đạo
   - màu da sáng trung bình
   - màu da tối trung bình
@@ -12923,7 +16207,7 @@
   - cặp đôi
   - hai người đàn ông nắm tay
   - hai người đàn ông nắm tay nhau
-  - 'hai người đàn ông nắm tay: màu da tối trung bình và màu da trung bình'
+  - 'hai người đàn ông nắm tay: màu da tối trung bình, màu da trung bình'
   - hoàng đạo
   - màu da trung bình
   - màu da tối trung bình
@@ -12944,7 +16228,7 @@
   - cặp đôi
   - hai người đàn ông nắm tay
   - hai người đàn ông nắm tay nhau
-  - 'hai người đàn ông nắm tay: màu da tối trung bình và màu da tối'
+  - 'hai người đàn ông nắm tay: màu da tối trung bình, màu da tối'
   - hoàng đạo
   - màu da tối
   - màu da tối trung bình
@@ -12955,7 +16239,7 @@
   - cặp đôi
   - hai người đàn ông nắm tay
   - hai người đàn ông nắm tay nhau
-  - 'hai người đàn ông nắm tay: màu da tối và màu da sáng'
+  - 'hai người đàn ông nắm tay: màu da tối, màu da sáng'
   - hoàng đạo
   - màu da sáng
   - màu da tối
@@ -12966,7 +16250,7 @@
   - cặp đôi
   - hai người đàn ông nắm tay
   - hai người đàn ông nắm tay nhau
-  - 'hai người đàn ông nắm tay: màu da tối và màu da sáng trung bình'
+  - 'hai người đàn ông nắm tay: màu da tối, màu da sáng trung bình'
   - hoàng đạo
   - màu da sáng trung bình
   - màu da tối
@@ -12977,7 +16261,7 @@
   - cặp đôi
   - hai người đàn ông nắm tay
   - hai người đàn ông nắm tay nhau
-  - 'hai người đàn ông nắm tay: màu da tối và màu da trung bình'
+  - 'hai người đàn ông nắm tay: màu da tối, màu da trung bình'
   - hoàng đạo
   - màu da trung bình
   - màu da tối
@@ -12988,7 +16272,7 @@
   - cặp đôi
   - hai người đàn ông nắm tay
   - hai người đàn ông nắm tay nhau
-  - 'hai người đàn ông nắm tay: màu da tối và màu da tối trung bình'
+  - 'hai người đàn ông nắm tay: màu da tối, màu da tối trung bình'
   - hoàng đạo
   - màu da tối
   - màu da tối trung bình
@@ -13007,43 +16291,98 @@
 💏:
   - cặp đôi
   - nụ hôn
+💏🏻:
+  - cặp đôi
+  - màu da sáng
+  - nụ hôn
+  - 'nụ hôn: màu da sáng'
+💏🏼:
+  - cặp đôi
+  - màu da sáng trung bình
+  - nụ hôn
+  - 'nụ hôn: màu da sáng trung bình'
+💏🏽:
+  - cặp đôi
+  - màu da trung bình
+  - nụ hôn
+  - 'nụ hôn: màu da trung bình'
+💏🏾:
+  - cặp đôi
+  - màu da tối trung bình
+  - nụ hôn
+  - 'nụ hôn: màu da tối trung bình'
+💏🏿:
+  - cặp đôi
+  - màu da tối
+  - nụ hôn
+  - 'nụ hôn: màu da tối'
 👩‍❤‍💋‍👨:
   - cặp đôi
   - nụ hôn
-  - 'nụ hôn: phụ nữ và đàn ông'
+  - 'nụ hôn: phụ nữ, đàn ông'
   - phụ nữ
   - đàn ông
 👨‍❤‍💋‍👨:
   - cặp đôi
   - nụ hôn
-  - 'nụ hôn: đàn ông và đàn ông'
+  - 'nụ hôn: đàn ông, đàn ông'
   - đàn ông
 👩‍❤‍💋‍👩:
   - cặp đôi
   - nụ hôn
-  - 'nụ hôn: phụ nữ và phụ nữ'
+  - 'nụ hôn: phụ nữ, phụ nữ'
   - phụ nữ
 💑:
   - cặp đôi
   - cặp đôi với trái tim
   - yêu
+💑🏻:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: màu da sáng'
+  - màu da sáng
+  - yêu
+💑🏼:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: màu da sáng trung bình'
+  - màu da sáng trung bình
+  - yêu
+💑🏽:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: màu da trung bình'
+  - màu da trung bình
+  - yêu
+💑🏾:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: màu da tối trung bình'
+  - màu da tối trung bình
+  - yêu
+💑🏿:
+  - cặp đôi
+  - cặp đôi với trái tim
+  - 'cặp đôi với trái tim: màu da tối'
+  - màu da tối
+  - yêu
 👩‍❤‍👨:
   - cặp đôi
   - cặp đôi với trái tim
-  - 'cặp đôi với trái tim: phụ nữ và đàn ông'
+  - 'cặp đôi với trái tim: phụ nữ, đàn ông'
   - phụ nữ
   - yêu
   - đàn ông
 👨‍❤‍👨:
   - cặp đôi
   - cặp đôi với trái tim
-  - 'cặp đôi với trái tim: đàn ông và đàn ông'
+  - 'cặp đôi với trái tim: đàn ông, đàn ông'
   - yêu
   - đàn ông
 👩‍❤‍👩:
   - cặp đôi
   - cặp đôi với trái tim
-  - 'cặp đôi với trái tim: phụ nữ và phụ nữ'
+  - 'cặp đôi với trái tim: phụ nữ, phụ nữ'
   - phụ nữ
   - yêu
 👪️:
@@ -13051,137 +16390,137 @@
 👨‍👩‍👦:
   - con trai
   - gia đình
-  - 'gia đình: đàn ông, phụ nữ và con trai'
+  - 'gia đình: đàn ông, phụ nữ, con trai'
   - phụ nữ
   - đàn ông
 👨‍👩‍👧:
   - con gái
   - gia đình
-  - 'gia đình: đàn ông, phụ nữ và con gái'
+  - 'gia đình: đàn ông, phụ nữ, con gái'
   - phụ nữ
   - đàn ông
 👨‍👩‍👧‍👦:
   - con gái
   - con trai
   - gia đình
-  - 'gia đình: đàn ông, phụ nữ, con gái và con trai'
+  - 'gia đình: đàn ông, phụ nữ, con gái, con trai'
   - phụ nữ
   - đàn ông
 👨‍👩‍👦‍👦:
   - con trai
   - gia đình
-  - 'gia đình: đàn ông, phụ nữ, con trai và con trai'
+  - 'gia đình: đàn ông, phụ nữ, con trai, con trai'
   - phụ nữ
   - đàn ông
 👨‍👩‍👧‍👧:
   - con gái
   - gia đình
-  - 'gia đình: đàn ông, phụ nữ, con gái và con gái'
+  - 'gia đình: đàn ông, phụ nữ, con gái, con gái'
   - phụ nữ
   - đàn ông
 👨‍👨‍👦:
   - con trai
   - gia đình
-  - 'gia đình: đàn ông, đàn ông và con trai'
+  - 'gia đình: đàn ông, đàn ông, con trai'
   - đàn ông
 👨‍👨‍👧:
   - con gái
   - gia đình
-  - 'gia đình: đàn ông, đàn ông và con gái'
+  - 'gia đình: đàn ông, đàn ông, con gái'
   - đàn ông
 👨‍👨‍👧‍👦:
   - con gái
   - con trai
   - gia đình
-  - 'gia đình: đàn ông, đàn ông, con gái và con trai'
+  - 'gia đình: đàn ông, đàn ông, con gái, con trai'
   - đàn ông
 👨‍👨‍👦‍👦:
   - con trai
   - gia đình
-  - 'gia đình: đàn ông, đàn ông, con trai và con trai'
+  - 'gia đình: đàn ông, đàn ông, con trai, con trai'
   - đàn ông
 👨‍👨‍👧‍👧:
   - con gái
   - gia đình
-  - 'gia đình: đàn ông, đàn ông, con gái và con gái'
+  - 'gia đình: đàn ông, đàn ông, con gái, con gái'
   - đàn ông
 👩‍👩‍👦:
   - con trai
   - gia đình
-  - 'gia đình: phụ nữ, phụ nữ và con trai'
+  - 'gia đình: phụ nữ, phụ nữ, con trai'
   - phụ nữ
 👩‍👩‍👧:
   - con gái
   - gia đình
-  - 'gia đình: phụ nữ, phụ nữ và con gái'
+  - 'gia đình: phụ nữ, phụ nữ, con gái'
   - phụ nữ
 👩‍👩‍👧‍👦:
   - con gái
   - con trai
   - gia đình
-  - 'gia đình: phụ nữ, phụ nữ, con gái và con trai'
+  - 'gia đình: phụ nữ, phụ nữ, con gái, con trai'
   - phụ nữ
 👩‍👩‍👦‍👦:
   - con trai
   - gia đình
-  - 'gia đình: phụ nữ, phụ nữ, con trai và con trai'
+  - 'gia đình: phụ nữ, phụ nữ, con trai, con trai'
   - phụ nữ
 👩‍👩‍👧‍👧:
   - con gái
   - gia đình
-  - 'gia đình: phụ nữ, phụ nữ, con gái và con gái'
+  - 'gia đình: phụ nữ, phụ nữ, con gái, con gái'
   - phụ nữ
 👨‍👦:
   - con trai
   - gia đình
-  - 'gia đình: đàn ông và con trai'
+  - 'gia đình: đàn ông, con trai'
   - đàn ông
 👨‍👦‍👦:
   - con trai
   - gia đình
-  - 'gia đình: đàn ông, con trai và con trai'
+  - 'gia đình: đàn ông, con trai, con trai'
   - đàn ông
 👨‍👧:
   - con gái
   - gia đình
-  - 'gia đình: đàn ông và con gái'
+  - 'gia đình: đàn ông, con gái'
   - đàn ông
 👨‍👧‍👦:
   - con gái
   - con trai
   - gia đình
-  - 'gia đình: đàn ông, con gái và con trai'
+  - 'gia đình: đàn ông, con gái, con trai'
   - đàn ông
 👨‍👧‍👧:
   - con gái
   - gia đình
-  - 'gia đình: đàn ông, con gái và con gái'
+  - 'gia đình: đàn ông, con gái, con gái'
   - đàn ông
 👩‍👦:
   - con trai
   - gia đình
-  - 'gia đình: phụ nữ và con trai'
+  - 'gia đình: phụ nữ, con trai'
   - phụ nữ
 👩‍👦‍👦:
   - con trai
   - gia đình
-  - 'gia đình: phụ nữ, con trai và con trai'
+  - 'gia đình: phụ nữ, con trai, con trai'
   - phụ nữ
 👩‍👧:
   - con gái
   - gia đình
-  - 'gia đình: phụ nữ và con gái'
+  - 'gia đình: phụ nữ, con gái'
   - phụ nữ
 👩‍👧‍👦:
   - con gái
   - con trai
   - gia đình
-  - 'gia đình: phụ nữ, con gái và con trai'
+  - 'gia đình: phụ nữ, con gái, con trai'
   - phụ nữ
 👩‍👧‍👧:
   - con gái
   - gia đình
-  - 'gia đình: phụ nữ, con gái và con gái'
+  - 'gia đình: phụ nữ, con gái, con gái'
   - phụ nữ
 🗣️:
   - cái đầu
@@ -13619,6 +16958,10 @@
   - vỏ
   - vỏ xoắn ốc
   - xoắn ốc
+🪸:
+  - rặng
+  - san hô
+  - đại dương
 🐌:
   - ốc sên
 🦋:
@@ -13696,6 +17039,14 @@
 💮:
   - hoa
   - hoa trắng
+🪷:
+  - Phật giáo
+  - Việt Nam
+  - hoa
+  - hoa sen
+  - sự tinh khiết
+  - Ấn Độ
+  - Ấn Độ giáo
 🏵️:
   - nơ hoa hồng
   - thực vật
@@ -13777,6 +17128,15 @@
   - lá rung rinh trong gió
   - rung
   - thổi
+🪹:
+  - làm tổ
+  - tổ trống rỗng
+🪺:
+  - làm tổ
+  - tổ có trứng
+🍄:
+  - nấm
+  - thực vật
 🍇:
   - chùm nho
   - hoa quả
@@ -13823,8 +17183,9 @@
   - đào
 🍒:
   - anh đào
-  - hoa quả
-  - thực vật
+  - màu đỏ
+  - quả mọng
+  - trái cây
 🍓:
   - dâu tây
   - quả mọng
@@ -13897,14 +17258,16 @@
 🧅:
   - gia vị
   - hành
-🍄:
-  - nấm
-  - thực vật
 🥜:
   - quả hạch
   - rau củ
   - thức ăn
   - đậu phộng
+🫘:
+  - cây họ đậu
+  - hạt đậu
+  - thận
+  - thức ăn
 🌰:
   - hạt dẻ
   - thực vật
@@ -13934,6 +17297,7 @@
 🥯:
   - bánh mỳ vòng
   - bánh vòng
+  - bữa sáng
   - phết
   - tiệm bánh
 🥞:
@@ -13999,6 +17363,7 @@
   - bánh mỳ kẹp thịt nướng
   - nhồi
   - viên bột đậu rán
+  - đồ ăn
 🧆:
   - bánh rán nhân gà
   - thịt viên
@@ -14305,6 +17670,12 @@
   - ngụm
   - rượu
   - rượu whisky
+🫗:
+  - ly thủy tinh
+  - tràn
+  - trống rỗng
+  - đồ uống
+  - đổ chất lỏng
 🥤:
   - cốc và ống hút
   - nước ép
@@ -14352,6 +17723,13 @@
   - hocho
   - nấu nướng
   - vũ khí
+🫙:
+  - bình đựng
+  - cửa hàng
+  - gia vị
+  - nước sốt
+  - thùng chứa
+  - trống rỗng
 🏺:
   - Bảo Bình
   - bình
@@ -14365,26 +17743,26 @@
   - thế giới
   - trái đất
   - địa cầu
-  - địa cầu hiển thị Châu Âu-Châu Phi
+  - địa cầu thể hiện Châu Âu-Châu Phi
 🌎️:
   - Châu Mỹ
   - thế giới
   - trái đất
   - địa cầu
-  - địa cầu hiển thị Châu Mỹ
+  - địa cầu thể hiện Châu Mỹ
 🌏:
   - Châu Á
   - Châu Úc
   - thế giới
   - trái đất
   - địa cầu
-  - địa cầu hiển thị Châu Á-Châu Úc
+  - địa cầu thể hiện Châu Á-Châu Úc
 🌐:
   - kinh tuyến
   - quả địa cầu
   - thế giới
   - trái đất
-  - địa cầu với kinh tuyến
+  - địa cầu có đường kinh tuyến
 🗺️:
   - bản đồ
   - bản đồ thế giới
@@ -14496,7 +17874,7 @@
   - tình yêu
 🏪:
   - cửa hàng
-  - cửa hàng tiện dụng
+  - cửa hàng tiện lợi
   - tiện lợi
 🏫:
   - trường học
@@ -14523,14 +17901,14 @@
   - tháp
   - tháp Tokyo
 🗽:
-  - Tượng nữ thần Tự do
+  - Tượng Nữ thần Tự do
   - bức tượng
   - tự do
 ⛪️:
-  - chữ thập
+  - cây thánh giá
   - nhà thờ
   - tôn giáo
-  - đạo cơ đốc
+  - Đạo cơ đốc
 🕌:
   - hồi giáo
   - nhà thờ hồi giáo
@@ -14606,6 +17984,10 @@
   - ngựa
   - ngựa đu quay
   - đu quay ngựa
+🛝:
+  - chơi
+  - cầu trượt
+  - khu vui chơi
 🎡:
   - bánh xe
   - công viên giải trí
@@ -14656,7 +18038,7 @@
   - đường sắt
 🚇️:
   - tàu điện ngầm
-  - xe cộ
+  - xe điện ngầm
 🚈:
   - tàu điện nhẹ
   - xe cộ
@@ -14791,7 +18173,7 @@
   - đường cao tốc
 🛤️:
   - tàu hỏa
-  - đường sắt
+  - đường ray
 🛢️:
   - dầu
   - thùng
@@ -14802,6 +18184,11 @@
   - khí
   - nhiên liệu
   - trạm
+🛞:
+  - bánh xe
+  - hình tròn
+  - lốp xe
+  - xoay
 🚨:
   - cảnh sát
   - quay vòng
@@ -14831,6 +18218,13 @@
   - dụng cụ
   - mỏ neo
   - tàu
+🛟:
+  - an toàn
+  - cấp cứu
+  - cứu hộ
+  - phao cứu sinh
+  - phao nổi
+  - phương tiện cứu hộ
 ⛵️:
   - biển
   - du thuyền
@@ -14867,11 +18261,11 @@
   - xe cộ
 🛫:
   - khởi hành
+  - làm thủ tục
   - máy bay
   - máy bay khởi hành
   - tàu bay
   - điểm khởi hành
-  - đăng ký
 🛬:
   - hạ cánh
   - máy bay
@@ -15192,7 +18586,7 @@
   - mặt trời có hình mặt người
   - sáng
 🪐:
-  - hành tính có vành đai bao quanh
+  - hành tinh có vành đai bao quanh
   - sao thổ
   - thần nông
   - thổ tinh
@@ -15223,7 +18617,7 @@
   - mây
   - mưa
   - sấm
-  - đám mây với tia chớp và mưa
+  - đám mây kèm chớp và mưa
 🌤️:
   - mây
   - mặt trời
@@ -15330,7 +18724,7 @@
   - đại dương
 🎃:
   - halloween
-  - lễ kỷ niệm
+  - lễ hội
   - lồng
   - lồng đèn bí ngô
   - đèn lồng
@@ -15593,6 +18987,14 @@
   - bay lên
   - bay lượn
   - diều
+🔫:
+  - dụng cụ
+  - súng
+  - súng gắn
+  - súng lục
+  - súng lục ổ quay
+  - súng nước
+  - vũ khí
 🎱:
   - '8'
   - bi-a 8 bóng
@@ -15613,15 +19015,8 @@
   - ma thuật
   - phù thủy
   - thầy phù thủy
-🧿:
-  - bùa
-  - bùa may mắn nazar
-  - hạt
-  - mê hoặc
-  - mắt ác
-  - nhìn
 🎮️:
-  - thiết bị điều khiển
+  - tay điều khiển
   - trò chơi
   - trò chơi điện tử
 🕹️:
@@ -15651,6 +19046,13 @@
   - buổi tiệc
   - lễ kỷ niệm
   - piñata
+🪩:
+  - buổi tiệc
+  - disco
+  - khiêu vũ
+  - long lanh
+  - quả cầu gương
+  - sàn nhảy
 🪆:
   - búp bê
   - búp bê matryoshka
@@ -15678,9 +19080,9 @@
   - trò chơi
 ♟️:
   - bịp
-  - có thể mở rộng
   - cờ
   - quân tốt
+  - thí tốt
   - tốt
 🃏:
   - lá bài
@@ -16092,6 +19494,10 @@
   - máy fax
 🔋:
   - pin
+🪫:
+  - năng lượng thấp
+  - pin yếu
+  - điện tử
 🔌:
   - phích cắm điện
   - điện
@@ -16595,13 +20001,9 @@
   - kiếm
   - kiếm bắt chéo
   - vũ khí
-🔫:
-  - dụng cụ
-  - súng
-  - súng gắn
-  - súng lục
-  - súng lục ổ quay
-  - vũ khí
+💣️:
+  - bom
+  - hài hước
 🪃:
   - australia
   - bumơrang
@@ -16741,11 +20143,24 @@
 🩹:
   - băng dán y tế
   - băng dính
+🩼:
+  - gậy
+  - gậy chống
+  - hỗ trợ di chuyển
+  - khuyết tật
+  - nạng
+  - đau
 🩺:
   - bác sĩ
   - tim
   - y tế
   - ống nghe
+🩻:
+  - bác sĩ
+  - bộ xương
+  - x-quang
+  - xương
+  - y tế
 🚪:
   - cửa
 🛗:
@@ -16837,6 +20252,12 @@
   - xà phòng
   - xà phòng bánh
   - xát xà phòng
+🫧:
+  - bong bóng
+  - dưới nước
+  - sạch sẽ
+  - xà phòng
+  - ợ hơi
 🪥:
   - bàn chải
   - bàn chải răng
@@ -16879,6 +20300,21 @@
   - bình đựng tro cốt
   - cái chết
   - tang lễ
+🧿:
+  - bùa
+  - bùa may mắn nazar
+  - hạt
+  - mê hoặc
+  - mắt ác
+  - nhìn
+🪬:
+  - Fatima
+  - Mary
+  - Miriam
+  - bùa hộ mệnh
+  - hamsa
+  - sự bảo vệ
+  - tay
 🗿:
   - bức tượng
   - khuôn mặt
@@ -16890,6 +20326,14 @@
   - cọc
   - phản đối
   - thể hiện
+🪪:
+  - bảo mật
+  - cccd
+  - chứng minh nhân dân
+  - cmnd
+  - căn cước công dân
+  - giấy phép
+  - thẻ nhận dạng
 🏧:
   - atm
   - ký hiệu ATM
@@ -17073,6 +20517,8 @@
 ↔️:
   - mũi tên
   - mũi tên trái phải
+↮:
+  - mũi tên trái phải có dấu gạch chéo
 ↩️:
   - mũi tên
   - mũi tên phải cong sang trái
@@ -17206,6 +20652,7 @@
   - cân đối
   - công bằng
 ♏️:
+  - Thiên Yết
   - bọ cạp
   - cung bọ cạp
   - cung hoàng đạo
@@ -17223,6 +20670,7 @@
   - người mang
   - nước
 ♓️:
+  - Song Ngư
   - con cá
   - cung hoàng đạo
   - song ngư
@@ -17375,19 +20823,25 @@
   - x
   - ×
 ➕:
+  - +
   - cộng
   - dấu
-  - dấu cộng
   - toán
 ➖:
+  - '-'
   - dấu
-  - dấu trừ
   - toán
   - trừ
+  - −
 ➗:
   - chia
   - dấu
   - dấu chia
+  - toán
+  - ÷
+🟰:
+  - bằng
+  - dấu bằng đậm
   - toán
 ♾️:
   - mãi mãi
@@ -17423,10 +20877,12 @@
   - dấu chấm than màu trắng
   - mờ
 ❗️:
+  - '!'
   - chấm
   - cảm thán
   - dấu
   - dấu chấm than
+  - dấu chấm than đỏ
 〰️:
   - dấu
   - dấu gạch ngang
@@ -18244,7 +21700,7 @@
   - 'cờ: Guyana'
 🇭🇰:
   - cờ
-  - 'cờ: Hồng Kông, Trung Quốc'
+  - 'cờ: Đặc khu Hành chính Hồng Kông, Trung Quốc'
 🇭🇲:
   - cờ
   - 'cờ: Quần đảo Heard và McDonald'
@@ -18406,7 +21862,7 @@
   - 'cờ: Mông Cổ'
 🇲🇴:
   - cờ
-  - 'cờ: Macao, Trung Quốc'
+  - 'cờ: Đặc khu Hành chính Macao, Trung Quốc'
 🇲🇵:
   - cờ
   - 'cờ: Quần đảo Bắc Mariana'
@@ -18601,7 +22057,7 @@
   - 'cờ: Syria'
 🇸🇿:
   - cờ
-  - 'cờ: Swaziland'
+  - 'cờ: Eswatini'
 🇹🇦:
   - cờ
   - 'cờ: Tristan da Cunha'
@@ -18688,7 +22144,7 @@
   - 'cờ: Quần đảo Virgin thuộc Anh'
 🇻🇮:
   - cờ
-  - 'cờ: Quần đảo Virgin thuộc Mỹ'
+  - 'cờ: Quần đảo Virgin thuộc Hoa Kỳ'
 🇻🇳:
   - cờ
   - 'cờ: Việt Nam'
@@ -18728,6 +22184,123 @@
 🏴󠁧󠁢󠁷󠁬󠁳󠁿:
   - cờ
   - 'cờ: Xứ Wales'
+¤:
+  - Tiền tệ chưa biết
+¢:
+  - cent
+  - xu
+$:
+  - USD
+  - peso
+  - tiền
+  - đô la
+£:
+  - EGP
+  - GBP
+  - bảng Anh
+  - tiền tệ
+¥:
+  - CNY
+  - JPY
+  - Yên Nhật
+  - tiền tệ
+  - yuan
+֏:
+  - Dram Armenia
+؋:
+  - Afghani Afghanistan
+৳:
+  - Taka Bangladesh
+฿:
+  - Bạt Thái Lan
+៛:
+  - Riel Campuchia
+₡:
+  - Colón Costa Rica
+₢:
+  - cruzeiro
+₣:
+  - đồng franc Pháp
+₤:
+  - lia
+₥:
+  - mil
+  - mill
+₦:
+  - Naira Nigeria
+₧:
+  - Đồng Peseta Tây Ban Nha
+₩:
+  - KPW
+  - KRW
+  - won
+₪:
+  - Sheqel Israel mới
+₫:
+  - Đồng Việt Nam
+€:
+  - EUR
+  - euro
+  - tiền tệ
+₭:
+  - Kip Lào
+₮:
+  - Tugrik Mông Cổ
+₰:
+  - xu Đức
+₱:
+  - peso
+₲:
+  - Guarani Paraguay
+₳:
+  - austral
+₴:
+  - Hryvnia Ukraina
+₵:
+  - Cedi Ghana
+₶:
+  - đồng livre
+₷:
+  - đồng spesmilo
+₸:
+  - Tenge Kazakhstan
+₹:
+  - rupee
+  - rupee Ấn Độ
+  - tiền tệ
+₺:
+  - Lia Thổ Nhĩ Kỳ
+₼:
+  - Manat Azerbaijan
+₽:
+  - rúp
+  - tiền tệ
+₾:
+  - Lari Georgia
+₿:
+  - BTC
+  - bitcoin
+₨:
+  - rupee
+﷼:
+  - rial
+¹:
+  - mũ
+  - mũ một
+  - một
+²:
+  - bình phương
+  - hai
+  - mũ hai
+  - số mũ
+³:
+  - ba
+  - lũy thừa ba
+  - mũ ba
+  - số mũ
+µ:
+  - ký hiệu micro
+  - đo lường
 🏻:
   - loại 1–2
   - màu da
