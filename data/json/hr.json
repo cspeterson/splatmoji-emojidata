@@ -1,4 +1,1300 @@
 {
+    "‾": [
+        "nadcrta"
+    ],
+    "_": [
+        "crta",
+        "donja crta"
+    ],
+    "-": [
+        "crtica",
+        "minus",
+        "spojnica",
+        "spojnica-minus"
+    ],
+    "‐": [
+        "crtica",
+        "spojnica"
+    ],
+    "–": [
+        "crtica",
+        "pravopisni znak"
+    ],
+    "—": [
+        "crta",
+        "pravopisni znak"
+    ],
+    "―": [
+        "crta",
+        "crtica",
+        "vodoravna crta"
+    ],
+    "・": [
+        "katakana",
+        "srednja točka",
+        "srednja točka u katakana pismu",
+        "točke"
+    ],
+    ",": [
+        "zarez"
+    ],
+    "،": [
+        "zarez",
+        "zarez u arapskom pismu"
+    ],
+    "、": [
+        "ideografsko pismo",
+        "zarez",
+        "zarez u ideografskom pismu"
+    ],
+    ";": [
+        "točka sa zarezom"
+    ],
+    "؛": [
+        "arapsko pismo",
+        "točka sa zarezom",
+        "točka sa zarezom u arapskom pismu"
+    ],
+    ":": [
+        "dvotočka"
+    ],
+    "!": [
+        "usklik",
+        "uskličnik"
+    ],
+    "¡": [
+        "obrnuti",
+        "obrnuti uskličnik",
+        "usklik",
+        "uskličnik"
+    ],
+    "?": [
+        "pitanje",
+        "upitnik"
+    ],
+    "¿": [
+        "obrnuti",
+        "obrnuti upitnik",
+        "pitanje",
+        "upitnik"
+    ],
+    "؟": [
+        "arapsko pismo",
+        "pitanje",
+        "upitnik",
+        "upitnik u arapskom pismu"
+    ],
+    "‽": [
+        "upitnik s uskličnikom",
+        "uskličnik-upitnik"
+    ],
+    ".": [
+        "točka",
+        "točka na kraju rečenice",
+        "završna točka"
+    ],
+    "…": [
+        "izostavljanje",
+        "točke",
+        "trotočka"
+    ],
+    "。": [
+        "ideografsko pismo",
+        "točka",
+        "točka u ideografskom pismu"
+    ],
+    "·": [
+        "sredina",
+        "srednja točka",
+        "točka"
+    ],
+    "'": [
+        "apostrof",
+        "jednostruki navodnik",
+        "navodnik",
+        "polunavodnik na pisaćem stroju"
+    ],
+    "‘": [
+        "apostrof",
+        "jednostruki",
+        "lijevi polunavodnik",
+        "navodnik",
+        "polunavodnik"
+    ],
+    "’": [
+        "apostrof",
+        "desni polunavodnik",
+        "jednostruki",
+        "navodnik",
+        "polunavodnik"
+    ],
+    "‚": [
+        "apostrof",
+        "donji desni polunavodnik",
+        "donji navodnik",
+        "polunavodnik"
+    ],
+    "“": [
+        "dvostruki navodnici",
+        "lijevi navodnik",
+        "navodnik"
+    ],
+    "”": [
+        "desni navodnik",
+        "dvostruki navodnici",
+        "navodnik"
+    ],
+    "„": [
+        "donji desni navodnik",
+        "dvostruki navodnici",
+        "navodnik",
+        "polunavodnik"
+    ],
+    "«": [
+        "kareti",
+        "lijevo",
+        "lijevo usmjereni šiljasti navodnik",
+        "navodnik",
+        "ukošeno",
+        "zagrade",
+        "ševron"
+    ],
+    "»": [
+        "desno",
+        "desno usmjereni šiljasti navodnik",
+        "kareti",
+        "navodnik",
+        "ukošeno",
+        "zagrade",
+        "ševron"
+    ],
+    ")": [
+        "desna zagrada",
+        "okrugla zagrada",
+        "zagrada"
+    ],
+    "[": [
+        "lijeva uglata zagrada",
+        "uglata zagrada",
+        "zagrada"
+    ],
+    "]": [
+        "desna uglata zagrada",
+        "uglata zagrada",
+        "zagrada"
+    ],
+    "{": [
+        "lijeva vitičasta zagrada",
+        "vitica",
+        "vitičasta zagrada",
+        "zagrada"
+    ],
+    "}": [
+        "desna vitičasta zagrada",
+        "vitica",
+        "vitičasta zagrada",
+        "zagrada"
+    ],
+    "〈": [
+        "dijamantne zagrade",
+        "izlomljena zagrada",
+        "lijeva izlomljena zagrada",
+        "zagrada",
+        "šiljasta zagrada"
+    ],
+    "〉": [
+        "desna izlomljena zagrada",
+        "dijamantne zagrade",
+        "izlomljena zagrada",
+        "zagrada",
+        "šiljasta zagrada"
+    ],
+    "《": [
+        "dvostruka izlomljena zagrada",
+        "lijeva dvostruka izlomljena zagrada",
+        "zagrada"
+    ],
+    "》": [
+        "desna dvostruka izlomljena zagrada",
+        "dvostruka izlomljena zagrada",
+        "zagrada"
+    ],
+    "「": [
+        "jednouglata zagrada",
+        "lijeva jednouglata zagrada",
+        "zagrada"
+    ],
+    "」": [
+        "desna jednouglata zagrada",
+        "jednouglata zagrada",
+        "zagrada"
+    ],
+    "『": [
+        "jednouglata zagrada bez ispune",
+        "lijeva jednouglata zagrada bez ispune",
+        "zagrada"
+    ],
+    "』": [
+        "desna jednouglata zagrada bez ispune",
+        "jednouglata zagrada bez ispune",
+        "zagrada"
+    ],
+    "【": [
+        "crna lijeva konkavna zagrada",
+        "lentikularna zagrada",
+        "lećasta zagrada",
+        "zagrada"
+    ],
+    "】": [
+        "crna desna konkavna zagrada",
+        "lentikularna zagrada",
+        "lećasta zagrada",
+        "zagrada"
+    ],
+    "〔": [
+        "lijeva saćasta zagrada",
+        "saćasta zagrada",
+        "zagrada"
+    ],
+    "〕": [
+        "desna saćasta zagrada",
+        "saćasta zagrada",
+        "zagrada"
+    ],
+    "〖": [
+        "konkavna zagrada bez ispune",
+        "lećasta zagrada bez ispune",
+        "lijeva konkavna zagrada bez ispune",
+        "zagrada"
+    ],
+    "〗": [
+        "desna konkavna zagrada bez ispune",
+        "konkavna zagrada bez ispune",
+        "lećasta zagrada bez ispune",
+        "zagrada"
+    ],
+    "§": [
+        "dio",
+        "odjeljak",
+        "odlomak",
+        "znak za odjeljak"
+    ],
+    "¶": [
+        "alineja",
+        "odjeljak",
+        "odlomak",
+        "prijelom odlomka",
+        "znak prijeloma"
+    ],
+    "@": [
+        "monkey",
+        "vitičnik",
+        "znak „at“",
+        "znak „at”"
+    ],
+    "*️": [
+        "asterisk",
+        "zamjenski znak",
+        "zvjezdica"
+    ],
+    "/": [
+        "kosa crta",
+        "kosina"
+    ],
+    "\\": [
+        "obrnuta kosa crta",
+        "obrnuti solidus"
+    ],
+    "&": [
+        "et",
+        "i",
+        "znak &"
+    ],
+    "#️": [
+        "broj",
+        "funta",
+        "hashtag",
+        "lb",
+        "ljestve",
+        "znak ljestve",
+        "znak ljestvi"
+    ],
+    "%": [
+        "posto",
+        "postotak"
+    ],
+    "‰": [
+        "potisućak",
+        "promil"
+    ],
+    "†": [
+        "bodež",
+        "obelisk",
+        "znak bodeža"
+    ],
+    "‡": [
+        "bodež",
+        "dvostruko",
+        "obelisk",
+        "znak dvostrukog bodeža"
+    ],
+    "•": [
+        "grafička oznaka",
+        "točka"
+    ],
+    "‧": [
+        "crtica",
+        "spojnica",
+        "točka",
+        "točka za rastavljanje riječi"
+    ],
+    "′": [
+        "izostavnik"
+    ],
+    "″": [
+        "dvostruki navodnik",
+        "navodnik"
+    ],
+    "‴": [
+        "navodnik",
+        "trostruki navodnik"
+    ],
+    "‸": [
+        "karet"
+    ],
+    "※": [
+        "oznaka za referencu",
+        "referenca"
+    ],
+    "⁂": [
+        "asterizam"
+    ],
+    "`": [
+        "kratkouzlazni",
+        "kratkouzlazni naglasak",
+        "naglasak",
+        "ton"
+    ],
+    "´": [
+        "dugouzlazni",
+        "dugouzlazni naglasak",
+        "naglasak",
+        "ton"
+    ],
+    "^": [
+        "cirkumfleks",
+        "dugosilazni",
+        "dugosilazni naglasak",
+        "naglasak",
+        "vrh"
+    ],
+    "¨": [
+        "dijereza",
+        "prijeglas",
+        "trema"
+    ],
+    "°": [
+        "satni kut",
+        "stupanj",
+        "udio"
+    ],
+    "℗": [
+        "autorsko pravo",
+        "simbol autorskog prava za snimanje zvuka",
+        "snimanje",
+        "zvuk"
+    ],
+    "←": [
+        "lijevo",
+        "strelica",
+        "strelica koja pokazuje ulijevo"
+    ],
+    "↚": [
+        "kosa crta sa strelicom ulijevo"
+    ],
+    "→": [
+        "desno",
+        "strelica",
+        "strelica koja pokazuje udesno"
+    ],
+    "↛": [
+        "kosa crta sa strelicom udesno"
+    ],
+    "↑": [
+        "gore",
+        "strelica",
+        "strelica koja pokazuje prema gore"
+    ],
+    "↓": [
+        "dolje",
+        "strelica",
+        "strelica koja pokazuje prema dolje"
+    ],
+    "↜": [
+        "valovita strelica ulijevo"
+    ],
+    "↝": [
+        "valovita strelica udesno"
+    ],
+    "↞": [
+        "strelica s dva vrha ulijevo"
+    ],
+    "↟": [
+        "strelica s dva vrha prema gore"
+    ],
+    "↠": [
+        "strelica s dva vrha udesno"
+    ],
+    "↡": [
+        "strelica s dva vrha prema dolje"
+    ],
+    "↢": [
+        "strelica s repom ulijevo"
+    ],
+    "↣": [
+        "strelica s repom udesno"
+    ],
+    "↤": [
+        "strelica s crtom ulijevo"
+    ],
+    "↥": [
+        "strelica s crtom prema gore"
+    ],
+    "↦": [
+        "strelica s crtom udesno"
+    ],
+    "↧": [
+        "strelica s crtom prema dolje"
+    ],
+    "↨": [
+        "strelica prema gore i prema dolje s bazom"
+    ],
+    "↫": [
+        "strelica s petljom ulijevo"
+    ],
+    "↬": [
+        "strelica s petljom udesno"
+    ],
+    "↭": [
+        "valovita strelica s vrhom ulijevo i vrhom udesno"
+    ],
+    "↯": [
+        "cik-cak strelica prema dolje"
+    ],
+    "↰": [
+        "strelica prema gore s vrhom ulijevo"
+    ],
+    "↱": [
+        "strelica prema gore s vrhom udesno"
+    ],
+    "↲": [
+        "strelica prema dolje s vrhom ulijevo"
+    ],
+    "↳": [
+        "strelica prema dolje s vrhom udesno"
+    ],
+    "↴": [
+        "strelica udesno s kutom prema dolje"
+    ],
+    "↵": [
+        "strelica prema dolje s kutom ulijevom"
+    ],
+    "↶": [
+        "polukružna strelica u smjeru suprotnom od kazaljke na satu"
+    ],
+    "↷": [
+        "polukružna strelica u smjeru kazaljke na satu"
+    ],
+    "↸": [
+        "strelica s dugom crtom u smjeru sjeverozapada"
+    ],
+    "↹": [
+        "strelica s crtom ulijevo iznad strelice s crtom udesno"
+    ],
+    "↺": [
+        "otvorena kružna strelica u smjeru suprotnom od kazaljke na satu"
+    ],
+    "↻": [
+        "otvorena kružna strelica u smjeru kazaljke na satu"
+    ],
+    "↼": [
+        "harpun ulijevo sa šiljkom prema gore"
+    ],
+    "↽": [
+        "harpun ulijevo sa šiljkom prema dolje"
+    ],
+    "↾": [
+        "harpun prema gore sa šiljkom udesno"
+    ],
+    "↿": [
+        "harpun prema gore sa šiljkom ulijevo"
+    ],
+    "⇀": [
+        "harpun udesno sa šiljkom prema gore"
+    ],
+    "⇁": [
+        "harpun udesno sa šiljkom prema dolje"
+    ],
+    "⇂": [
+        "harpun prema dolje sa šiljkom udesno"
+    ],
+    "⇃": [
+        "harpun prema dolje sa šiljkom ulijevo"
+    ],
+    "⇄": [
+        "strelica udesno iznad strelice ulijevo"
+    ],
+    "⇅": [
+        "dolje",
+        "gore",
+        "strelica",
+        "strelica prema gore i strelica prema dolje"
+    ],
+    "⇆": [
+        "desno",
+        "lijevo",
+        "strelica",
+        "strelica ulijevo iznad strelice udesno"
+    ],
+    "⇇": [
+        "uparene strelice ulijevo"
+    ],
+    "⇈": [
+        "uparene strelice prema gore"
+    ],
+    "⇉": [
+        "uparene strelice udesno"
+    ],
+    "⇊": [
+        "uparene strelice prema dolje"
+    ],
+    "⇋": [
+        "harpun ulijevo iznad harpuna udesno"
+    ],
+    "⇌": [
+        "harpun udesno iznad harpuna ulijevo"
+    ],
+    "⇐": [
+        "dvostruka strelica ulijevo"
+    ],
+    "⇍": [
+        "precrtana dvostruka strelica ulijevo"
+    ],
+    "⇑": [
+        "dvostruka strelica prema gore"
+    ],
+    "⇒": [
+        "dvostruka strelica udesno"
+    ],
+    "⇏": [
+        "precrtana dvostruka strelica udesno"
+    ],
+    "⇓": [
+        "dvostruka strelica prema dolje"
+    ],
+    "⇔": [
+        "dvostruka strelica ulijevo i udesno"
+    ],
+    "⇎": [
+        "precrtana dvostruka strelica ulijevo i udesno"
+    ],
+    "⇖": [
+        "dvostruka strelica prema gore-lijevo"
+    ],
+    "⇗": [
+        "dvostruka strelica prema gore-desno"
+    ],
+    "⇘": [
+        "dvostruka strelica prema dolje-desno"
+    ],
+    "⇙": [
+        "dvostruka strelica prema dolje-lijevo"
+    ],
+    "⇚": [
+        "trostruka strelica ulijevo"
+    ],
+    "⇛": [
+        "trostruka strelica udesno"
+    ],
+    "⇜": [
+        "vijugava strelica ulijevo"
+    ],
+    "⇝": [
+        "vijugava strelica udesno"
+    ],
+    "⇞": [
+        "dvostruko precrtana strelica prema gore"
+    ],
+    "⇟": [
+        "dvostruko precrtana strelica prema dolje"
+    ],
+    "⇠": [
+        "iscrtkana strelica ulijevo"
+    ],
+    "⇡": [
+        "iscrtkana strelica prema gore"
+    ],
+    "⇢": [
+        "iscrtkana strelica udesno"
+    ],
+    "⇣": [
+        "iscrtkana strelica prema dolje"
+    ],
+    "⇤": [
+        "strelica ulijevo s crtom"
+    ],
+    "⇥": [
+        "strelica udesno s crtom"
+    ],
+    "⇦": [
+        "neispunjena strelica ulijevo"
+    ],
+    "⇧": [
+        "neispunjena strelica prema gore"
+    ],
+    "⇨": [
+        "neispunjena strelica udesno"
+    ],
+    "⇩": [
+        "neispunjena strelica prema dolje"
+    ],
+    "⇪": [
+        "neispunjena strelica s crtom prema gore"
+    ],
+    "⇵": [
+        "strelica prema dolje i strelica prema gore"
+    ],
+    "∀": [
+        "za sve"
+    ],
+    "∂": [
+        "parcijalni diferencijal"
+    ],
+    "∃": [
+        "kvantifikator egzistencije"
+    ],
+    "∅": [
+        "prazan skup"
+    ],
+    "∆": [
+        "inkrement",
+        "trokut"
+    ],
+    "∇": [
+        "nabla",
+        "trokut"
+    ],
+    "∈": [
+        "element",
+        "je element",
+        "sadrži",
+        "skup",
+        "članstvo"
+    ],
+    "∉": [
+        "nije element"
+    ],
+    "∋": [
+        "sadrži član"
+    ],
+    "∎": [
+        "kraj dokaza"
+    ],
+    "∏": [
+        "Kartezijev umnožak"
+    ],
+    "∑": [
+        "zbroj neograničenog broja operanada"
+    ],
+    "+": [
+        "plus",
+        "zbrajanje",
+        "znak plusa"
+    ],
+    "±": [
+        "plus-minus"
+    ],
+    "÷": [
+        "dijeljenje",
+        "podijeli",
+        "znak dijeljenja",
+        "znak za dijeljenje"
+    ],
+    "×": [
+        "množenje",
+        "pomnoži",
+        "puta",
+        "znak za množenje"
+    ],
+    "<": [
+        "manje",
+        "manje od",
+        "oznaka",
+        "početna oznaka"
+    ],
+    "≮": [
+        "ne manje od"
+    ],
+    "=": [
+        "jednako",
+        "jednako je"
+    ],
+    "≠": [
+        "nije jednako",
+        "različito",
+        "različito od"
+    ],
+    ">": [
+        "oznaka",
+        "veće",
+        "veće od",
+        "završna oznaka"
+    ],
+    "≯": [
+        "ne veće od"
+    ],
+    "¬": [
+        "ne",
+        "negacija"
+    ],
+    "|": [
+        "crta",
+        "linija",
+        "okomita crta",
+        "potez",
+        "uspravna crta",
+        "v crta",
+        "vertikalna crta",
+        "vrh",
+        "šeferova crta"
+    ],
+    "~": [
+        "tilda"
+    ],
+    "−": [
+        "minus",
+        "oduzimanje",
+        "znak minusa"
+    ],
+    "⁻": [
+        "eksponent",
+        "minus",
+        "minus u eksponentu"
+    ],
+    "∓": [
+        "minus ili plus"
+    ],
+    "∕": [
+        "kosa crta za dijeljenje"
+    ],
+    "⁄": [
+        "razlomačka kosa crta"
+    ],
+    "∗": [
+        "operator u obliku zvjezdice"
+    ],
+    "∘": [
+        "operator u obliku prstena"
+    ],
+    "∙": [
+        "operator u obliku grafičke oznake"
+    ],
+    "√": [
+        "korijen",
+        "kvadratni",
+        "kvadratni korijen",
+        "radikal",
+        "surd"
+    ],
+    "∝": [
+        "razmjerno"
+    ],
+    "∞": [
+        "beskonačno"
+    ],
+    "∟": [
+        "desni kut"
+    ],
+    "∠": [
+        "kut"
+    ],
+    "∣": [
+        "dijeljenje"
+    ],
+    "∥": [
+        "paralelno"
+    ],
+    "∧": [
+        "logičko „i”"
+    ],
+    "∩": [
+        "presjek skupova",
+        "skup"
+    ],
+    "∪": [
+        "skup",
+        "unija skupova",
+        "zbirka"
+    ],
+    "∫": [
+        "integral"
+    ],
+    "∬": [
+        "dvostruki integral"
+    ],
+    "∮": [
+        "konturni integral"
+    ],
+    "∴": [
+        "zato"
+    ],
+    "∵": [
+        "zbog toga"
+    ],
+    "∶": [
+        "omjer"
+    ],
+    "∷": [
+        "udio"
+    ],
+    "∼": [
+        "operator u obliku tilde"
+    ],
+    "∽": [
+        "obrnuta tilda"
+    ],
+    "∾": [
+        "obrnuto polegnuto „s”"
+    ],
+    "≃": [
+        "asimptotski jednako"
+    ],
+    "≅": [
+        "otprilike jednako"
+    ],
+    "≈": [
+        "aproksimativno",
+        "približno",
+        "približno jednako"
+    ],
+    "≌": [
+        "sve jednako"
+    ],
+    "≒": [
+        "otprilike jednako slici"
+    ],
+    "≖": [
+        "prsten u jednakosti"
+    ],
+    "≡": [
+        "identično",
+        "identično jednako",
+        "jednako",
+        "trostruko"
+    ],
+    "≣": [
+        "strogo jednako"
+    ],
+    "≤": [
+        "jednako",
+        "jednakost",
+        "manje ili jednako",
+        "manje od",
+        "nejednakost"
+    ],
+    "≥": [
+        "jednako",
+        "jednakost",
+        "nejednakost",
+        "veće ili jednako",
+        "veće od"
+    ],
+    "≦": [
+        "manje od iznad jednako"
+    ],
+    "≧": [
+        "više od iznad jednako"
+    ],
+    "≪": [
+        "puno manje od"
+    ],
+    "≫": [
+        "puno veće od"
+    ],
+    "≬": [
+        "između"
+    ],
+    "≳": [
+        "veće od ekvivalenta"
+    ],
+    "≺": [
+        "prethodi"
+    ],
+    "≻": [
+        "slijedi"
+    ],
+    "⊁": [
+        "ne slijedi"
+    ],
+    "⊂": [
+        "je pravi podskup od",
+        "podskup",
+        "skup"
+    ],
+    "⊃": [
+        "nadskup"
+    ],
+    "⊆": [
+        "podskup jedna"
+    ],
+    "⊇": [
+        "nadskup jednak"
+    ],
+    "⊕": [
+        "zaokruženi plus"
+    ],
+    "⊖": [
+        "zaokruženi minus"
+    ],
+    "⊗": [
+        "zaokruženi znak množenja"
+    ],
+    "⊘": [
+        "zaokruženi znak dijeljenja"
+    ],
+    "⊙": [
+        "operator u obliku zaokružene točke"
+    ],
+    "⊚": [
+        "operator u obliku zaokruženog prstena"
+    ],
+    "⊛": [
+        "operator u obliku zaokružene zvjezdice"
+    ],
+    "⊞": [
+        "plus u kvadratu"
+    ],
+    "⊟": [
+        "minus u kvadratu"
+    ],
+    "⊥": [
+        "netočno"
+    ],
+    "⊮": [
+        "ne forsira"
+    ],
+    "⊰": [
+        "prethodi ispod relacije"
+    ],
+    "⊱": [
+        "slijedi ispod relacije"
+    ],
+    "⋭": [
+        "ne sadrži kao normalnu podgrupu jednaku"
+    ],
+    "⊶": [
+        "original"
+    ],
+    "⊹": [
+        "hermitska matrica"
+    ],
+    "⊿": [
+        "pravokutni trokut"
+    ],
+    "⋁": [
+        "n-arni logički simbol „ili”"
+    ],
+    "⋂": [
+        "presjek neograničenog broja operanada"
+    ],
+    "⋃": [
+        "unija neograničenog broja operanada"
+    ],
+    "⋅": [
+        "operator u obliku točke"
+    ],
+    "⋆": [
+        "operator u obliku zvijezde"
+    ],
+    "⋈": [
+        "prirodni spoj"
+    ],
+    "⋒": [
+        "dvostruki presjek"
+    ],
+    "⋘": [
+        "izrazito manje od"
+    ],
+    "⋙": [
+        "izrazito veće od"
+    ],
+    "⋮": [
+        "okomita trotočka"
+    ],
+    "⋯": [
+        "srednja vodoravna trotočka"
+    ],
+    "⋰": [
+        "dijagonalna trotočka gore udesno"
+    ],
+    "⋱": [
+        "dijagonalna trotočka dolje udesno"
+    ],
+    "■": [
+        "ispunjeni kvadrat"
+    ],
+    "□": [
+        "neispunjeni kvadrat"
+    ],
+    "▢": [
+        "neispunjeni kvadrat sa zaokruženim kutovima"
+    ],
+    "▣": [
+        "neispunjeni kvadrat koji sadrži ispunjeni kvadrat"
+    ],
+    "▤": [
+        "kvadrat s vodoravnom ispunom"
+    ],
+    "▥": [
+        "kvadrat s okomitom ispunom"
+    ],
+    "▦": [
+        "kvadrat s ortogonalno iscrtanom ispunom"
+    ],
+    "▧": [
+        "kvadrat s ispunom od gore lijevo prema dolje desno"
+    ],
+    "▨": [
+        "kvadrat s ispunom od gore desno prema dolje lijevo"
+    ],
+    "▩": [
+        "kvadrat s dijagonalno iscrtanom ispunom"
+    ],
+    "▬": [
+        "ispunjeni pravokutnik"
+    ],
+    "▭": [
+        "neispunjeni pravokutnik"
+    ],
+    "▮": [
+        "ispunjeni okomiti pravokutnik"
+    ],
+    "▰": [
+        "ispunjeni paralelogram"
+    ],
+    "▲": [
+        "gore",
+        "ispunjen trokut usmjeren prema gore",
+        "ispunjeno",
+        "strelica",
+        "trokut"
+    ],
+    "△": [
+        "neispunjeni trokut okrenut prema gore"
+    ],
+    "▴": [
+        "mali ispunjeni trokut okrenut prema gore"
+    ],
+    "▵": [
+        "mali neispunjeni trokut okrenut prema gore"
+    ],
+    "▷": [
+        "neispunjeni trokut okrenut udesno"
+    ],
+    "▸": [
+        "mali ispunjeni trokut okrenut udesno"
+    ],
+    "▹": [
+        "mali neispunjeni trokut okrenut udesno"
+    ],
+    "►": [
+        "ispunjeni pokazivač udesno"
+    ],
+    "▻": [
+        "neispunjeni pokazivač udesno"
+    ],
+    "▼": [
+        "dolje",
+        "ispunjen trokut usmjeren prema dolje",
+        "ispunjeno",
+        "strelica",
+        "trokut"
+    ],
+    "▽": [
+        "neispunjeni pokazivač prema dolje"
+    ],
+    "▾": [
+        "mali ispunjeni trokut okrenut prema dolje"
+    ],
+    "▿": [
+        "mali neispunjeni trokut okrenut prema dolje"
+    ],
+    "◁": [
+        "neispunjeni trokut okrenut ulijevo"
+    ],
+    "◂": [
+        "mali ispunjeni trokut okrenut ulijevo"
+    ],
+    "◃": [
+        "mali neispunjeni trokut okrenut ulijevo"
+    ],
+    "◄": [
+        "ispunjeni pokazivač ulijevo"
+    ],
+    "◅": [
+        "neispunjeni pokazivač ulijevo"
+    ],
+    "◆": [
+        "ispunjeni romb"
+    ],
+    "◇": [
+        "neispunjeni romb"
+    ],
+    "◈": [
+        "ispunjeni romb unutar neispunjenog romba"
+    ],
+    "◉": [
+        "ispunjeni krug unutar neispunjenog kruga"
+    ],
+    "◊": [
+        "dijamant",
+        "romb",
+        "znak romba"
+    ],
+    "○": [
+        "krug",
+        "prazan krug",
+        "prsten"
+    ],
+    "◌": [
+        "točkasti krug"
+    ],
+    "◍": [
+        "krug s okomitom ispunom"
+    ],
+    "◎": [
+        "koncentrični krugovi"
+    ],
+    "●": [
+        "ispunjen krug",
+        "krug"
+    ],
+    "◐": [
+        "krug s ispunjenom lijevom polovicom"
+    ],
+    "◑": [
+        "krug s ispunjenom desnom polovicom"
+    ],
+    "◒": [
+        "krug s ispunjenom donjom polovicom"
+    ],
+    "◓": [
+        "krug s ispunjenom gornjom polovicom"
+    ],
+    "◔": [
+        "krug s ispunjenom gornjom desnom četvrtinom"
+    ],
+    "◕": [
+        "krug s neispunjenom gornjom lijevom četvrtinom"
+    ],
+    "◖": [
+        "lijeva ispunjena polovica kruga"
+    ],
+    "◗": [
+        "desna ispunjena polovica kruga"
+    ],
+    "◘": [
+        "obrnuta grafička oznaka"
+    ],
+    "◙": [
+        "neispunjeni krug u ispunjenom kvadratu"
+    ],
+    "◜": [
+        "kružni luk gornje lijeve četvrtine"
+    ],
+    "◝": [
+        "kružni luk gornje desne četvrtine"
+    ],
+    "◞": [
+        "kružni luk donje desne četvrtine"
+    ],
+    "◟": [
+        "kružni luk donje lijeve četvrtine"
+    ],
+    "◠": [
+        "gornji polukrug"
+    ],
+    "◡": [
+        "donji polukrug"
+    ],
+    "◢": [
+        "ispunjeni trokut okrenut dolje desno"
+    ],
+    "◣": [
+        "ispunjeni trokut okrenut dolje lijevo"
+    ],
+    "◤": [
+        "ispunjeni trokut okrenut gore lijevo"
+    ],
+    "◥": [
+        "ispunjeni trokut okrenut gore desno"
+    ],
+    "◦": [
+        "neispunjena grafička oznaka"
+    ],
+    "◯": [
+        "krug",
+        "prsten",
+        "velik prazni krug"
+    ],
+    "◳": [
+        "neispunjeni kvadrat s gornjom desnom četvrtinom"
+    ],
+    "◷": [
+        "neispunjeni krug s gornjom desnom četvrtinom"
+    ],
+    "◿": [
+        "trokut okrenut dolje desno"
+    ],
+    "♪": [
+        "glazba",
+        "nota",
+        "osminka"
+    ],
+    "⨧": [
+        "plus i broj 2 u indeksu"
+    ],
+    "⨯": [
+        "vektorski proizvod"
+    ],
+    "⨼": [
+        "interni proizvod"
+    ],
+    "⩣": [
+        "logičko „ili” s dvostrukom podcrtom"
+    ],
+    "⩽": [
+        "ukošeno manje od jednako"
+    ],
+    "⪍": [
+        "manje od iznad slično jednakom"
+    ],
+    "⪚": [
+        "dvostruka linija jednaka veće od"
+    ],
+    "⪺": [
+        "slijedi iznad nije približno jednako"
+    ],
+    "♭": [
+        "glazba",
+        "nota",
+        "snizilica"
+    ],
+    "♯": [
+        "glazba",
+        "nota",
+        "povisilica"
+    ],
     "😀": [
         "lice",
         "nasmijano lice",
@@ -63,6 +1359,13 @@
         "gore-dolje",
         "lice",
         "naopačke okrenuto lice"
+    ],
+    "🫠": [
+        "lice koje se topi",
+        "nestajanje",
+        "razgrađivanje",
+        "tekućina",
+        "topljenje"
     ],
     "😉": [
         "lice",
@@ -198,6 +1501,21 @@
         "lice s rukom preko usta",
         "ups"
     ],
+    "🫢": [
+        "divljenje",
+        "iznenađenje",
+        "lice s otvorenim očima i rukom preko usta",
+        "nevjerica",
+        "stid",
+        "strah",
+        "čuđenje"
+    ],
+    "🫣": [
+        "očaranost",
+        "virenje",
+        "virenje na jedno oko",
+        "zurenje"
+    ],
     "🤫": [
         "lice koje ušutkava",
         "tišina",
@@ -207,6 +1525,14 @@
         "lice",
         "lice koje razmišlja",
         "razmišljanje"
+    ],
+    "🫡": [
+        "da",
+        "lice koje salutira",
+        "salutiranje",
+        "sunčano",
+        "u redu",
+        "vojska"
     ],
     "🤐": [
         "lice",
@@ -239,6 +1565,20 @@
         "tiho",
         "usta"
     ],
+    "🫥": [
+        "depresivno",
+        "introvert",
+        "lice obrubljeno točkastom crtom",
+        "nestajanje",
+        "nevidljivo",
+        "sakrivanje"
+    ],
+    "😶‍🌫": [
+        "glava u oblacima",
+        "lice u magli",
+        "lice u oblacima",
+        "zaboravnost"
+    ],
     "😏": [
         "lice",
         "lice koje se smijulji",
@@ -260,6 +1600,15 @@
         "grimasa",
         "lice",
         "lice s grimasom"
+    ],
+    "😮‍💨": [
+        "izdisaj",
+        "lice koje izdiše",
+        "olakšanje",
+        "stenjanje",
+        "uzdah",
+        "zvižduk",
+        "šapat"
     ],
     "🤥": [
         "laganje",
@@ -360,6 +1709,14 @@
         "lice s vrtoglavicom",
         "vrtoglavica"
     ],
+    "😵‍💫": [
+        "hipnotizirano",
+        "iznenađenje",
+        "lice sa spiralnim očima",
+        "nevolja",
+        "spiralno",
+        "vrtoglavica"
+    ],
     "🤯": [
         "eksplodirajuća glava",
         "šok"
@@ -408,6 +1765,13 @@
         "zbunjeno lice",
         "zbunjenost"
     ],
+    "🫤": [
+        "lice s nakošenim ustima",
+        "meh",
+        "nesigurno",
+        "razočarano",
+        "skeptično"
+    ],
     "😟": [
         "briga",
         "lice",
@@ -453,6 +1817,14 @@
         "milost",
         "molećivo lice",
         "pseći pogled"
+    ],
+    "🥹": [
+        "lice koje se suzdržava od suza",
+        "ljutito",
+        "otpor",
+        "plač",
+        "ponos",
+        "tuga"
     ],
     "😦": [
         "lice",
@@ -740,12 +2112,6 @@
         "zabranjeno",
         "zlo"
     ],
-    "💋": [
-        "otisak usana",
-        "poljubac",
-        "trag",
-        "usne"
-    ],
     "💌": [
         "ljubav",
         "ljubavno pismo",
@@ -811,6 +2177,23 @@
         "slomljeno srce",
         "srce"
     ],
+    "❤‍🔥": [
+        "ljubav",
+        "požuda",
+        "srce",
+        "srce u plamenu",
+        "sveto srce",
+        "vatra"
+    ],
+    "❤‍🩹": [
+        "dobro",
+        "obnavljanje",
+        "oporavak",
+        "poboljšanje",
+        "srce koje se liječi",
+        "zarastanje",
+        "zdravije"
+    ],
     "❤️": [
         "crveno srce",
         "srce"
@@ -857,6 +2240,12 @@
         "bijelo srce",
         "srce"
     ],
+    "💋": [
+        "otisak usana",
+        "poljubac",
+        "trag",
+        "usne"
+    ],
     "💯": [
         "100",
         "potpuno",
@@ -895,12 +2284,6 @@
     ],
     "🕳️": [
         "rupa"
-    ],
-    "💣️": [
-        "bomba",
-        "eksplozija",
-        "karikatura",
-        "uskoro"
     ],
     "💬": [
         "dijalog",
@@ -1183,6 +2566,396 @@
         "vulkanski pozdrav: tamno smeđa boja kože",
         "šaka"
     ],
+    "🫱": [
+        "desno",
+        "ruka",
+        "ruka okrenuta udesno",
+        "udesno"
+    ],
+    "🫱🏻": [
+        "desno",
+        "ruka",
+        "ruka okrenuta udesno",
+        "ruka okrenuta udesno: svijetla boja kože",
+        "svijetla boja kože",
+        "udesno"
+    ],
+    "🫱🏼": [
+        "desno",
+        "ruka",
+        "ruka okrenuta udesno",
+        "ruka okrenuta udesno: svijetlo maslinasta boja kože",
+        "svijetlo maslinasta boja kože",
+        "udesno"
+    ],
+    "🫱🏽": [
+        "desno",
+        "maslinasta boja kože",
+        "ruka",
+        "ruka okrenuta udesno",
+        "ruka okrenuta udesno: maslinasta boja kože",
+        "udesno"
+    ],
+    "🫱🏾": [
+        "desno",
+        "ruka",
+        "ruka okrenuta udesno",
+        "ruka okrenuta udesno: smeđa boja kože",
+        "smeđa boja kože",
+        "udesno"
+    ],
+    "🫱🏿": [
+        "desno",
+        "ruka",
+        "ruka okrenuta udesno",
+        "ruka okrenuta udesno: tamno smeđa boja kože",
+        "tamno smeđa boja kože",
+        "udesno"
+    ],
+    "🫱🏻‍🫲🏼": [
+        "dogovor",
+        "ruka",
+        "rukovanje",
+        "rukovanje: svijetla boja kože i svijetlo maslinasta boja kože",
+        "sastanak",
+        "stisak ruke",
+        "svijetla boja kože",
+        "svijetlo maslinasta boja kože"
+    ],
+    "🫱🏻‍🫲🏽": [
+        "dogovor",
+        "maslinasta boja kože",
+        "ruka",
+        "rukovanje",
+        "rukovanje: svijetla boja kože i maslinasta boja kože",
+        "sastanak",
+        "stisak ruke",
+        "svijetla boja kože"
+    ],
+    "🫱🏻‍🫲🏾": [
+        "dogovor",
+        "ruka",
+        "rukovanje",
+        "rukovanje: svijetla boja kože i smeđa boja kože",
+        "sastanak",
+        "smeđa boja kože",
+        "stisak ruke",
+        "svijetla boja kože"
+    ],
+    "🫱🏻‍🫲🏿": [
+        "dogovor",
+        "ruka",
+        "rukovanje",
+        "rukovanje: svijetla boja kože i tamno smeđa boja kože",
+        "sastanak",
+        "stisak ruke",
+        "svijetla boja kože",
+        "tamno smeđa boja kože"
+    ],
+    "🫱🏼‍🫲🏻": [
+        "dogovor",
+        "ruka",
+        "rukovanje",
+        "rukovanje: svijetlo maslinasta boja kože i svijetla boja kože",
+        "sastanak",
+        "stisak ruke",
+        "svijetla boja kože",
+        "svijetlo maslinasta boja kože"
+    ],
+    "🫱🏼‍🫲🏽": [
+        "dogovor",
+        "maslinasta boja kože",
+        "ruka",
+        "rukovanje",
+        "rukovanje: svijetlo maslinasta boja kože i maslinasta boja kože",
+        "sastanak",
+        "stisak ruke",
+        "svijetlo maslinasta boja kože"
+    ],
+    "🫱🏼‍🫲🏾": [
+        "dogovor",
+        "ruka",
+        "rukovanje",
+        "rukovanje: svijetlo maslinasta boja kože i smeđa boja kože",
+        "sastanak",
+        "smeđa boja kože",
+        "stisak ruke",
+        "svijetlo maslinasta boja kože"
+    ],
+    "🫱🏼‍🫲🏿": [
+        "dogovor",
+        "ruka",
+        "rukovanje",
+        "rukovanje: svijetlo maslinasta boja kože i tamno smeđa boja kože",
+        "sastanak",
+        "stisak ruke",
+        "svijetlo maslinasta boja kože",
+        "tamno smeđa boja kože"
+    ],
+    "🫱🏽‍🫲🏻": [
+        "dogovor",
+        "maslinasta boja kože",
+        "ruka",
+        "rukovanje",
+        "rukovanje: maslinasta boja kože i svijetla boja kože",
+        "sastanak",
+        "stisak ruke",
+        "svijetla boja kože"
+    ],
+    "🫱🏽‍🫲🏼": [
+        "dogovor",
+        "maslinasta boja kože",
+        "ruka",
+        "rukovanje",
+        "rukovanje: maslinasta boja kože i svijetlo maslinasta boja kože",
+        "sastanak",
+        "stisak ruke",
+        "svijetlo maslinasta boja kože"
+    ],
+    "🫱🏽‍🫲🏾": [
+        "dogovor",
+        "maslinasta boja kože",
+        "ruka",
+        "rukovanje",
+        "rukovanje: maslinasta boja kože i smeđa boja kože",
+        "sastanak",
+        "smeđa boja kože",
+        "stisak ruke"
+    ],
+    "🫱🏽‍🫲🏿": [
+        "dogovor",
+        "maslinasta boja kože",
+        "ruka",
+        "rukovanje",
+        "rukovanje: maslinasta boja kože i tamno smeđa boja kože",
+        "sastanak",
+        "stisak ruke",
+        "tamno smeđa boja kože"
+    ],
+    "🫱🏾‍🫲🏻": [
+        "dogovor",
+        "ruka",
+        "rukovanje",
+        "rukovanje: smeđa boja kože i svijetla boja kože",
+        "sastanak",
+        "smeđa boja kože",
+        "stisak ruke",
+        "svijetla boja kože"
+    ],
+    "🫱🏾‍🫲🏼": [
+        "dogovor",
+        "ruka",
+        "rukovanje",
+        "rukovanje: smeđa boja kože i svijetlo maslinasta boja kože",
+        "sastanak",
+        "smeđa boja kože",
+        "stisak ruke",
+        "svijetlo maslinasta boja kože"
+    ],
+    "🫱🏾‍🫲🏽": [
+        "dogovor",
+        "maslinasta boja kože",
+        "ruka",
+        "rukovanje",
+        "rukovanje: smeđa boja kože i maslinasta boja kože",
+        "sastanak",
+        "smeđa boja kože",
+        "stisak ruke"
+    ],
+    "🫱🏾‍🫲🏿": [
+        "dogovor",
+        "ruka",
+        "rukovanje",
+        "rukovanje: smeđa boja kože i tamno smeđa boja kože",
+        "sastanak",
+        "smeđa boja kože",
+        "stisak ruke",
+        "tamno smeđa boja kože"
+    ],
+    "🫱🏿‍🫲🏻": [
+        "dogovor",
+        "ruka",
+        "rukovanje",
+        "rukovanje: tamno smeđa boja kože i svijetla boja kože",
+        "sastanak",
+        "stisak ruke",
+        "svijetla boja kože",
+        "tamno smeđa boja kože"
+    ],
+    "🫱🏿‍🫲🏼": [
+        "dogovor",
+        "ruka",
+        "rukovanje",
+        "rukovanje: tamno smeđa boja kože i svijetlo maslinasta boja kože",
+        "sastanak",
+        "stisak ruke",
+        "svijetlo maslinasta boja kože",
+        "tamno smeđa boja kože"
+    ],
+    "🫱🏿‍🫲🏽": [
+        "dogovor",
+        "maslinasta boja kože",
+        "ruka",
+        "rukovanje",
+        "rukovanje: tamno smeđa boja kože i maslinasta boja kože",
+        "sastanak",
+        "stisak ruke",
+        "tamno smeđa boja kože"
+    ],
+    "🫱🏿‍🫲🏾": [
+        "dogovor",
+        "ruka",
+        "rukovanje",
+        "rukovanje: tamno smeđa boja kože i smeđa boja kože",
+        "sastanak",
+        "smeđa boja kože",
+        "stisak ruke",
+        "tamno smeđa boja kože"
+    ],
+    "🫲": [
+        "lijevo",
+        "ruka",
+        "ruka okrenuta ulijevo",
+        "ulijevo"
+    ],
+    "🫲🏻": [
+        "lijevo",
+        "ruka",
+        "ruka okrenuta ulijevo",
+        "ruka okrenuta ulijevo: svijetla boja kože",
+        "svijetla boja kože",
+        "ulijevo"
+    ],
+    "🫲🏼": [
+        "lijevo",
+        "ruka",
+        "ruka okrenuta ulijevo",
+        "ruka okrenuta ulijevo: svijetlo maslinasta boja kože",
+        "svijetlo maslinasta boja kože",
+        "ulijevo"
+    ],
+    "🫲🏽": [
+        "lijevo",
+        "maslinasta boja kože",
+        "ruka",
+        "ruka okrenuta ulijevo",
+        "ruka okrenuta ulijevo: maslinasta boja kože",
+        "ulijevo"
+    ],
+    "🫲🏾": [
+        "lijevo",
+        "ruka",
+        "ruka okrenuta ulijevo",
+        "ruka okrenuta ulijevo: smeđa boja kože",
+        "smeđa boja kože",
+        "ulijevo"
+    ],
+    "🫲🏿": [
+        "lijevo",
+        "ruka",
+        "ruka okrenuta ulijevo",
+        "ruka okrenuta ulijevo: tamno smeđa boja kože",
+        "tamno smeđa boja kože",
+        "ulijevo"
+    ],
+    "🫳": [
+        "potjerati",
+        "pustiti",
+        "ruka s dlanom okrenutim prema dolje",
+        "zanemariti"
+    ],
+    "🫳🏻": [
+        "potjerati",
+        "pustiti",
+        "ruka s dlanom okrenutim prema dolje",
+        "ruka s dlanom okrenutim prema dolje: svijetla boja kože",
+        "svijetla boja kože",
+        "zanemariti"
+    ],
+    "🫳🏼": [
+        "potjerati",
+        "pustiti",
+        "ruka s dlanom okrenutim prema dolje",
+        "ruka s dlanom okrenutim prema dolje: svijetlo maslinasta boja kože",
+        "svijetlo maslinasta boja kože",
+        "zanemariti"
+    ],
+    "🫳🏽": [
+        "maslinasta boja kože",
+        "potjerati",
+        "pustiti",
+        "ruka s dlanom okrenutim prema dolje",
+        "ruka s dlanom okrenutim prema dolje: maslinasta boja kože",
+        "zanemariti"
+    ],
+    "🫳🏾": [
+        "potjerati",
+        "pustiti",
+        "ruka s dlanom okrenutim prema dolje",
+        "ruka s dlanom okrenutim prema dolje: smeđa boja kože",
+        "smeđa boja kože",
+        "zanemariti"
+    ],
+    "🫳🏿": [
+        "potjerati",
+        "pustiti",
+        "ruka s dlanom okrenutim prema dolje",
+        "ruka s dlanom okrenutim prema dolje: tamno smeđa boja kože",
+        "tamno smeđa boja kože",
+        "zanemariti"
+    ],
+    "🫴": [
+        "dozivati",
+        "ponuda",
+        "poziv",
+        "ruka s dlanom okrenutim prema gore",
+        "uhvatiti"
+    ],
+    "🫴🏻": [
+        "dozivati",
+        "ponuda",
+        "poziv",
+        "ruka s dlanom okrenutim prema gore",
+        "ruka s dlanom okrenutim prema gore: svijetla boja kože",
+        "svijetla boja kože",
+        "uhvatiti"
+    ],
+    "🫴🏼": [
+        "dozivati",
+        "ponuda",
+        "poziv",
+        "ruka s dlanom okrenutim prema gore",
+        "ruka s dlanom okrenutim prema gore: svijetlo maslinasta boja kože",
+        "svijetlo maslinasta boja kože",
+        "uhvatiti"
+    ],
+    "🫴🏽": [
+        "dozivati",
+        "maslinasta boja kože",
+        "ponuda",
+        "poziv",
+        "ruka s dlanom okrenutim prema gore",
+        "ruka s dlanom okrenutim prema gore: maslinasta boja kože",
+        "uhvatiti"
+    ],
+    "🫴🏾": [
+        "dozivati",
+        "ponuda",
+        "poziv",
+        "ruka s dlanom okrenutim prema gore",
+        "ruka s dlanom okrenutim prema gore: smeđa boja kože",
+        "smeđa boja kože",
+        "uhvatiti"
+    ],
+    "🫴🏿": [
+        "dozivati",
+        "ponuda",
+        "poziv",
+        "ruka s dlanom okrenutim prema gore",
+        "ruka s dlanom okrenutim prema gore: tamno smeđa boja kože",
+        "tamno smeđa boja kože",
+        "uhvatiti"
+    ],
     "👌": [
         "ruka",
         "tijelo",
@@ -1240,8 +3013,7 @@
         "ispitivanje",
         "prsti",
         "sarkastično",
-        "skupljeni prsti",
-        "uštipnuti"
+        "skupljeni prsti"
     ],
     "🤌🏻": [
         "gesta rukom",
@@ -1250,8 +3022,7 @@
         "sarkastično",
         "skupljeni prsti",
         "skupljeni prsti: svijetla boja kože",
-        "svijetla boja kože",
-        "uštipnuti"
+        "svijetla boja kože"
     ],
     "🤌🏼": [
         "gesta rukom",
@@ -1260,8 +3031,7 @@
         "sarkastično",
         "skupljeni prsti",
         "skupljeni prsti: svijetlo maslinasta boja kože",
-        "svijetlo maslinasta boja kože",
-        "uštipnuti"
+        "svijetlo maslinasta boja kože"
     ],
     "🤌🏽": [
         "gesta rukom",
@@ -1270,8 +3040,7 @@
         "prsti",
         "sarkastično",
         "skupljeni prsti",
-        "skupljeni prsti: maslinasta boja kože",
-        "uštipnuti"
+        "skupljeni prsti: maslinasta boja kože"
     ],
     "🤌🏾": [
         "gesta rukom",
@@ -1280,8 +3049,7 @@
         "sarkastično",
         "skupljeni prsti",
         "skupljeni prsti: smeđa boja kože",
-        "smeđa boja kože",
-        "uštipnuti"
+        "smeđa boja kože"
     ],
     "🤌🏿": [
         "gesta rukom",
@@ -1290,8 +3058,7 @@
         "sarkastično",
         "skupljeni prsti",
         "skupljeni prsti: tamno smeđa boja kože",
-        "tamno smeđa boja kože",
-        "uštipnuti"
+        "tamno smeđa boja kože"
     ],
     "🤏": [
         "mala količina",
@@ -1423,6 +3190,64 @@
         "prekriženi prsti",
         "prekriženi prsti: tamno smeđa boja kože",
         "sreća",
+        "tamno smeđa boja kože"
+    ],
+    "🫰": [
+        "ljubav",
+        "novac",
+        "pucketanje prstima",
+        "ruka s prekriženim palcem i kažiprstom",
+        "skupo",
+        "srce"
+    ],
+    "🫰🏻": [
+        "ljubav",
+        "novac",
+        "pucketanje prstima",
+        "ruka s prekriženim palcem i kažiprstom",
+        "ruka s prekriženim palcem i kažiprstom: svijetla boja kože",
+        "skupo",
+        "srce",
+        "svijetla boja kože"
+    ],
+    "🫰🏼": [
+        "ljubav",
+        "novac",
+        "pucketanje prstima",
+        "ruka s prekriženim palcem i kažiprstom",
+        "ruka s prekriženim palcem i kažiprstom: svijetlo maslinasta boja kože",
+        "skupo",
+        "srce",
+        "svijetlo maslinasta boja kože"
+    ],
+    "🫰🏽": [
+        "ljubav",
+        "maslinasta boja kože",
+        "novac",
+        "pucketanje prstima",
+        "ruka s prekriženim palcem i kažiprstom",
+        "ruka s prekriženim palcem i kažiprstom: maslinasta boja kože",
+        "skupo",
+        "srce"
+    ],
+    "🫰🏾": [
+        "ljubav",
+        "novac",
+        "pucketanje prstima",
+        "ruka s prekriženim palcem i kažiprstom",
+        "ruka s prekriženim palcem i kažiprstom: smeđa boja kože",
+        "skupo",
+        "smeđa boja kože",
+        "srce"
+    ],
+    "🫰🏿": [
+        "ljubav",
+        "novac",
+        "pucketanje prstima",
+        "ruka s prekriženim palcem i kažiprstom",
+        "ruka s prekriženim palcem i kažiprstom: tamno smeđa boja kože",
+        "skupo",
+        "srce",
         "tamno smeđa boja kože"
     ],
     "🤟": [
@@ -1887,6 +3712,46 @@
         "tamno smeđa boja kože",
         "šaka"
     ],
+    "🫵": [
+        "kažiprst uperen prema gledatelju",
+        "pokazivati",
+        "vi"
+    ],
+    "🫵🏻": [
+        "kažiprst uperen prema gledatelju",
+        "kažiprst uperen prema gledatelju: svijetla boja kože",
+        "pokazivati",
+        "svijetla boja kože",
+        "vi"
+    ],
+    "🫵🏼": [
+        "kažiprst uperen prema gledatelju",
+        "kažiprst uperen prema gledatelju: svijetlo maslinasta boja kože",
+        "pokazivati",
+        "svijetlo maslinasta boja kože",
+        "vi"
+    ],
+    "🫵🏽": [
+        "kažiprst uperen prema gledatelju",
+        "kažiprst uperen prema gledatelju: maslinasta boja kože",
+        "maslinasta boja kože",
+        "pokazivati",
+        "vi"
+    ],
+    "🫵🏾": [
+        "kažiprst uperen prema gledatelju",
+        "kažiprst uperen prema gledatelju: smeđa boja kože",
+        "pokazivati",
+        "smeđa boja kože",
+        "vi"
+    ],
+    "🫵🏿": [
+        "kažiprst uperen prema gledatelju",
+        "kažiprst uperen prema gledatelju: tamno smeđa boja kože",
+        "pokazivati",
+        "tamno smeđa boja kože",
+        "vi"
+    ],
     "👍️": [
         "+1",
         "dobro",
@@ -2271,6 +4136,40 @@
         "slavlje",
         "tamno smeđa boja kože"
     ],
+    "🫶": [
+        "ljubav",
+        "ruke koje tvore srce"
+    ],
+    "🫶🏻": [
+        "ljubav",
+        "ruke koje tvore srce",
+        "ruke koje tvore srce: svijetla boja kože",
+        "svijetla boja kože"
+    ],
+    "🫶🏼": [
+        "ljubav",
+        "ruke koje tvore srce",
+        "ruke koje tvore srce: svijetlo maslinasta boja kože",
+        "svijetlo maslinasta boja kože"
+    ],
+    "🫶🏽": [
+        "ljubav",
+        "maslinasta boja kože",
+        "ruke koje tvore srce",
+        "ruke koje tvore srce: maslinasta boja kože"
+    ],
+    "🫶🏾": [
+        "ljubav",
+        "ruke koje tvore srce",
+        "ruke koje tvore srce: smeđa boja kože",
+        "smeđa boja kože"
+    ],
+    "🫶🏿": [
+        "ljubav",
+        "ruke koje tvore srce",
+        "ruke koje tvore srce: tamno smeđa boja kože",
+        "tamno smeđa boja kože"
+    ],
     "👐": [
         "otvorene ruke",
         "otvoreno",
@@ -2357,6 +4256,51 @@
         "rukovanje",
         "sastanak",
         "stisak ruke"
+    ],
+    "🤝🏻": [
+        "dogovor",
+        "ruka",
+        "rukovanje",
+        "rukovanje: svijetla boja kože",
+        "sastanak",
+        "stisak ruke",
+        "svijetla boja kože"
+    ],
+    "🤝🏼": [
+        "dogovor",
+        "ruka",
+        "rukovanje",
+        "rukovanje: svijetlo maslinasta boja kože",
+        "sastanak",
+        "stisak ruke",
+        "svijetlo maslinasta boja kože"
+    ],
+    "🤝🏽": [
+        "dogovor",
+        "maslinasta boja kože",
+        "ruka",
+        "rukovanje",
+        "rukovanje: maslinasta boja kože",
+        "sastanak",
+        "stisak ruke"
+    ],
+    "🤝🏾": [
+        "dogovor",
+        "ruka",
+        "rukovanje",
+        "rukovanje: smeđa boja kože",
+        "sastanak",
+        "smeđa boja kože",
+        "stisak ruke"
+    ],
+    "🤝🏿": [
+        "dogovor",
+        "ruka",
+        "rukovanje",
+        "rukovanje: tamno smeđa boja kože",
+        "sastanak",
+        "stisak ruke",
+        "tamno smeđa boja kože"
     ],
     "🙏": [
         "molitva",
@@ -2815,10 +4759,10 @@
         "mozak"
     ],
     "🫀": [
+        "anatomski",
+        "anatomsko srce",
         "kardiologija",
-        "kucanje",
         "organ",
-        "otkucaj",
         "puls",
         "srce"
     ],
@@ -2856,6 +4800,15 @@
         "tijelo",
         "usne",
         "usta"
+    ],
+    "🫦": [
+        "anksiozno",
+        "flert",
+        "nervozno",
+        "neugodno",
+        "strah",
+        "ugriz usne",
+        "zabrinuto"
     ],
     "👶": [
         "beba",
@@ -3103,6 +5056,406 @@
         "plavokosa osoba: tamno smeđa boja kože",
         "tamno smeđa boja kože"
     ],
+    "🧑🏻‍❤‍💋‍🧑🏼": [
+        "odrasla osoba",
+        "par",
+        "poljubac",
+        "poljubac: odrasla osoba, odrasla osoba, svijetla boja kože i svijetlo maslinasta boja kože",
+        "romantika",
+        "svijetla boja kože",
+        "svijetlo maslinasta boja kože"
+    ],
+    "🧑🏻‍❤‍💋‍🧑🏽": [
+        "maslinasta boja kože",
+        "odrasla osoba",
+        "par",
+        "poljubac",
+        "poljubac: odrasla osoba, odrasla osoba, svijetla boja kože i maslinasta boja kože",
+        "romantika",
+        "svijetla boja kože"
+    ],
+    "🧑🏻‍❤‍💋‍🧑🏾": [
+        "odrasla osoba",
+        "par",
+        "poljubac",
+        "poljubac: odrasla osoba, odrasla osoba, svijetla boja kože i smeđa boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "svijetla boja kože"
+    ],
+    "🧑🏻‍❤‍💋‍🧑🏿": [
+        "odrasla osoba",
+        "par",
+        "poljubac",
+        "poljubac: odrasla osoba, odrasla osoba, svijetla boja kože i tamno smeđa boja kože",
+        "romantika",
+        "svijetla boja kože",
+        "tamno smeđa boja kože"
+    ],
+    "🧑🏼‍❤‍💋‍🧑🏻": [
+        "odrasla osoba",
+        "par",
+        "poljubac",
+        "poljubac: odrasla osoba, odrasla osoba, svijetlo maslinasta boja kože i svijetla boja kože",
+        "romantika",
+        "svijetla boja kože",
+        "svijetlo maslinasta boja kože"
+    ],
+    "🧑🏼‍❤‍💋‍🧑🏽": [
+        "maslinasta boja kože",
+        "odrasla osoba",
+        "par",
+        "poljubac",
+        "poljubac: odrasla osoba, odrasla osoba, svijetlo maslinasta boja kože i maslinasta boja kože",
+        "romantika",
+        "svijetlo maslinasta boja kože"
+    ],
+    "🧑🏼‍❤‍💋‍🧑🏾": [
+        "odrasla osoba",
+        "par",
+        "poljubac",
+        "poljubac: odrasla osoba, odrasla osoba, svijetlo maslinasta boja kože i smeđa boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "svijetlo maslinasta boja kože"
+    ],
+    "🧑🏼‍❤‍💋‍🧑🏿": [
+        "odrasla osoba",
+        "par",
+        "poljubac",
+        "poljubac: odrasla osoba, odrasla osoba, svijetlo maslinasta boja kože i tamno smeđa boja kože",
+        "romantika",
+        "svijetlo maslinasta boja kože",
+        "tamno smeđa boja kože"
+    ],
+    "🧑🏽‍❤‍💋‍🧑🏻": [
+        "maslinasta boja kože",
+        "odrasla osoba",
+        "par",
+        "poljubac",
+        "poljubac: odrasla osoba, odrasla osoba, maslinasta boja kože i svijetla boja kože",
+        "romantika",
+        "svijetla boja kože"
+    ],
+    "🧑🏽‍❤‍💋‍🧑🏼": [
+        "maslinasta boja kože",
+        "odrasla osoba",
+        "par",
+        "poljubac",
+        "poljubac: odrasla osoba, odrasla osoba, maslinasta boja kože i svijetlo maslinasta boja kože",
+        "romantika",
+        "svijetlo maslinasta boja kože"
+    ],
+    "🧑🏽‍❤‍💋‍🧑🏾": [
+        "maslinasta boja kože",
+        "odrasla osoba",
+        "par",
+        "poljubac",
+        "poljubac: odrasla osoba, odrasla osoba, maslinasta boja kože i smeđa boja kože",
+        "romantika",
+        "smeđa boja kože"
+    ],
+    "🧑🏽‍❤‍💋‍🧑🏿": [
+        "maslinasta boja kože",
+        "odrasla osoba",
+        "par",
+        "poljubac",
+        "poljubac: odrasla osoba, odrasla osoba, maslinasta boja kože i tamno smeđa boja kože",
+        "romantika",
+        "tamno smeđa boja kože"
+    ],
+    "🧑🏾‍❤‍💋‍🧑🏻": [
+        "odrasla osoba",
+        "par",
+        "poljubac",
+        "poljubac: odrasla osoba, odrasla osoba, smeđa boja kože i svijetla boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "svijetla boja kože"
+    ],
+    "🧑🏾‍❤‍💋‍🧑🏼": [
+        "odrasla osoba",
+        "par",
+        "poljubac",
+        "poljubac: odrasla osoba, odrasla osoba, smeđa boja kože i svijetlo maslinasta boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "svijetlo maslinasta boja kože"
+    ],
+    "🧑🏾‍❤‍💋‍🧑🏽": [
+        "maslinasta boja kože",
+        "odrasla osoba",
+        "par",
+        "poljubac",
+        "poljubac: odrasla osoba, odrasla osoba, smeđa boja kože i maslinasta boja kože",
+        "romantika",
+        "smeđa boja kože"
+    ],
+    "🧑🏾‍❤‍💋‍🧑🏿": [
+        "odrasla osoba",
+        "par",
+        "poljubac",
+        "poljubac: odrasla osoba, odrasla osoba, smeđa boja kože i tamno smeđa boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "tamno smeđa boja kože"
+    ],
+    "🧑🏿‍❤‍💋‍🧑🏻": [
+        "odrasla osoba",
+        "par",
+        "poljubac",
+        "poljubac: odrasla osoba, odrasla osoba, tamno smeđa boja kože i svijetla boja kože",
+        "romantika",
+        "svijetla boja kože",
+        "tamno smeđa boja kože"
+    ],
+    "🧑🏿‍❤‍💋‍🧑🏼": [
+        "odrasla osoba",
+        "par",
+        "poljubac",
+        "poljubac: odrasla osoba, odrasla osoba, tamno smeđa boja kože i svijetlo maslinasta boja kože",
+        "romantika",
+        "svijetlo maslinasta boja kože",
+        "tamno smeđa boja kože"
+    ],
+    "🧑🏿‍❤‍💋‍🧑🏽": [
+        "maslinasta boja kože",
+        "odrasla osoba",
+        "par",
+        "poljubac",
+        "poljubac: odrasla osoba, odrasla osoba, tamno smeđa boja kože i maslinasta boja kože",
+        "romantika",
+        "tamno smeđa boja kože"
+    ],
+    "🧑🏿‍❤‍💋‍🧑🏾": [
+        "odrasla osoba",
+        "par",
+        "poljubac",
+        "poljubac: odrasla osoba, odrasla osoba, tamno smeđa boja kože i smeđa boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "tamno smeđa boja kože"
+    ],
+    "🧑🏻‍❤‍🧑🏼": [
+        "ljubav",
+        "odrasla osoba",
+        "par",
+        "par sa srcem",
+        "par sa srcem: odrasla osoba, odrasla osoba, svijetla boja kože i svijetlo maslinasta boja kože",
+        "romantika",
+        "srce",
+        "svijetla boja kože",
+        "svijetlo maslinasta boja kože"
+    ],
+    "🧑🏻‍❤‍🧑🏽": [
+        "ljubav",
+        "maslinasta boja kože",
+        "odrasla osoba",
+        "par",
+        "par sa srcem",
+        "par sa srcem: odrasla osoba, odrasla osoba, svijetla boja kože i maslinasta boja kože",
+        "romantika",
+        "srce",
+        "svijetla boja kože"
+    ],
+    "🧑🏻‍❤‍🧑🏾": [
+        "ljubav",
+        "odrasla osoba",
+        "par",
+        "par sa srcem",
+        "par sa srcem: odrasla osoba, odrasla osoba, svijetla boja kože i smeđa boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "srce",
+        "svijetla boja kože"
+    ],
+    "🧑🏻‍❤‍🧑🏿": [
+        "ljubav",
+        "odrasla osoba",
+        "par",
+        "par sa srcem",
+        "par sa srcem: odrasla osoba, odrasla osoba, svijetla boja kože i tamno smeđa boja kože",
+        "romantika",
+        "srce",
+        "svijetla boja kože",
+        "tamno smeđa boja kože"
+    ],
+    "🧑🏼‍❤‍🧑🏻": [
+        "ljubav",
+        "odrasla osoba",
+        "par",
+        "par sa srcem",
+        "par sa srcem: odrasla osoba, odrasla osoba, svijetlo maslinasta boja kože i svijetla boja kože",
+        "romantika",
+        "srce",
+        "svijetla boja kože",
+        "svijetlo maslinasta boja kože"
+    ],
+    "🧑🏼‍❤‍🧑🏽": [
+        "ljubav",
+        "maslinasta boja kože",
+        "odrasla osoba",
+        "par",
+        "par sa srcem",
+        "par sa srcem: odrasla osoba, odrasla osoba, svijetlo maslinasta boja kože i maslinasta boja kože",
+        "romantika",
+        "srce",
+        "svijetlo maslinasta boja kože"
+    ],
+    "🧑🏼‍❤‍🧑🏾": [
+        "ljubav",
+        "odrasla osoba",
+        "par",
+        "par sa srcem",
+        "par sa srcem: odrasla osoba, odrasla osoba, svijetlo maslinasta boja kože i smeđa boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "srce",
+        "svijetlo maslinasta boja kože"
+    ],
+    "🧑🏼‍❤‍🧑🏿": [
+        "ljubav",
+        "odrasla osoba",
+        "par",
+        "par sa srcem",
+        "par sa srcem: odrasla osoba, odrasla osoba, svijetlo maslinasta boja kože i tamno smeđa boja kože",
+        "romantika",
+        "srce",
+        "svijetlo maslinasta boja kože",
+        "tamno smeđa boja kože"
+    ],
+    "🧑🏽‍❤‍🧑🏻": [
+        "ljubav",
+        "maslinasta boja kože",
+        "odrasla osoba",
+        "par",
+        "par sa srcem",
+        "par sa srcem: odrasla osoba, odrasla osoba, maslinasta boja kože i svijetla boja kože",
+        "romantika",
+        "srce",
+        "svijetla boja kože"
+    ],
+    "🧑🏽‍❤‍🧑🏼": [
+        "ljubav",
+        "maslinasta boja kože",
+        "odrasla osoba",
+        "par",
+        "par sa srcem",
+        "par sa srcem: odrasla osoba, odrasla osoba, maslinasta boja kože i svijetlo maslinasta boja kože",
+        "romantika",
+        "srce",
+        "svijetlo maslinasta boja kože"
+    ],
+    "🧑🏽‍❤‍🧑🏾": [
+        "ljubav",
+        "maslinasta boja kože",
+        "odrasla osoba",
+        "par",
+        "par sa srcem",
+        "par sa srcem: odrasla osoba, odrasla osoba, maslinasta boja kože i smeđa boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "srce"
+    ],
+    "🧑🏽‍❤‍🧑🏿": [
+        "ljubav",
+        "maslinasta boja kože",
+        "odrasla osoba",
+        "par",
+        "par sa srcem",
+        "par sa srcem: odrasla osoba, odrasla osoba, maslinasta boja kože i tamno smeđa boja kože",
+        "romantika",
+        "srce",
+        "tamno smeđa boja kože"
+    ],
+    "🧑🏾‍❤‍🧑🏻": [
+        "ljubav",
+        "odrasla osoba",
+        "par",
+        "par sa srcem",
+        "par sa srcem: odrasla osoba, odrasla osoba, smeđa boja kože i svijetla boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "srce",
+        "svijetla boja kože"
+    ],
+    "🧑🏾‍❤‍🧑🏼": [
+        "ljubav",
+        "odrasla osoba",
+        "par",
+        "par sa srcem",
+        "par sa srcem: odrasla osoba, odrasla osoba, smeđa boja kože i svijetlo maslinasta boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "srce",
+        "svijetlo maslinasta boja kože"
+    ],
+    "🧑🏾‍❤‍🧑🏽": [
+        "ljubav",
+        "maslinasta boja kože",
+        "odrasla osoba",
+        "par",
+        "par sa srcem",
+        "par sa srcem: odrasla osoba, odrasla osoba, smeđa boja kože i maslinasta boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "srce"
+    ],
+    "🧑🏾‍❤‍🧑🏿": [
+        "ljubav",
+        "odrasla osoba",
+        "par",
+        "par sa srcem",
+        "par sa srcem: odrasla osoba, odrasla osoba, smeđa boja kože i tamno smeđa boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "srce",
+        "tamno smeđa boja kože"
+    ],
+    "🧑🏿‍❤‍🧑🏻": [
+        "ljubav",
+        "odrasla osoba",
+        "par",
+        "par sa srcem",
+        "par sa srcem: odrasla osoba, odrasla osoba, tamno smeđa boja kože i svijetla boja kože",
+        "romantika",
+        "srce",
+        "svijetla boja kože",
+        "tamno smeđa boja kože"
+    ],
+    "🧑🏿‍❤‍🧑🏼": [
+        "ljubav",
+        "odrasla osoba",
+        "par",
+        "par sa srcem",
+        "par sa srcem: odrasla osoba, odrasla osoba, tamno smeđa boja kože i svijetlo maslinasta boja kože",
+        "romantika",
+        "srce",
+        "svijetlo maslinasta boja kože",
+        "tamno smeđa boja kože"
+    ],
+    "🧑🏿‍❤‍🧑🏽": [
+        "ljubav",
+        "maslinasta boja kože",
+        "odrasla osoba",
+        "par",
+        "par sa srcem",
+        "par sa srcem: odrasla osoba, odrasla osoba, tamno smeđa boja kože i maslinasta boja kože",
+        "romantika",
+        "srce",
+        "tamno smeđa boja kože"
+    ],
+    "🧑🏿‍❤‍🧑🏾": [
+        "ljubav",
+        "odrasla osoba",
+        "par",
+        "par sa srcem",
+        "par sa srcem: odrasla osoba, odrasla osoba, tamno smeđa boja kože i smeđa boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "srce",
+        "tamno smeđa boja kože"
+    ],
     "🧑‍🦰": [
         "crvena kosa",
         "odrasla osoba",
@@ -3347,6 +5700,46 @@
         "osoba",
         "tamno smeđa boja kože"
     ],
+    "🧔‍♂": [
+        "brada",
+        "muškarac",
+        "muškarac: brada"
+    ],
+    "🧔🏻‍♂": [
+        "brada",
+        "muškarac",
+        "muškarac: brada",
+        "muškarac: svijetla boja kože i brada",
+        "svijetla boja kože"
+    ],
+    "🧔🏼‍♂": [
+        "brada",
+        "muškarac",
+        "muškarac: brada",
+        "muškarac: svijetlo maslinasta boja kože i brada",
+        "svijetlo maslinasta boja kože"
+    ],
+    "🧔🏽‍♂": [
+        "brada",
+        "maslinasta boja kože",
+        "muškarac",
+        "muškarac: brada",
+        "muškarac: maslinasta boja kože i brada"
+    ],
+    "🧔🏾‍♂": [
+        "brada",
+        "muškarac",
+        "muškarac: brada",
+        "muškarac: smeđa boja kože i brada",
+        "smeđa boja kože"
+    ],
+    "🧔🏿‍♂": [
+        "brada",
+        "muškarac",
+        "muškarac: brada",
+        "muškarac: tamno smeđa boja kože i brada",
+        "tamno smeđa boja kože"
+    ],
     "👱‍♂": [
         "kosa",
         "muškarac",
@@ -3391,6 +5784,496 @@
         "plava kosa",
         "plavokosi muškarac",
         "plavokosi muškarac: tamno smeđa boja kože",
+        "tamno smeđa boja kože"
+    ],
+    "👨🏻‍❤‍💋‍👨🏻": [
+        "muškarac",
+        "par",
+        "poljubac",
+        "poljubac: muškarac, muškarac i svijetla boja kože",
+        "romantika",
+        "svijetla boja kože"
+    ],
+    "👨🏻‍❤‍💋‍👨🏼": [
+        "muškarac",
+        "par",
+        "poljubac",
+        "poljubac: muškarac, muškarac, svijetla boja kože i svijetlo maslinasta boja kože",
+        "romantika",
+        "svijetla boja kože",
+        "svijetlo maslinasta boja kože"
+    ],
+    "👨🏻‍❤‍💋‍👨🏽": [
+        "maslinasta boja kože",
+        "muškarac",
+        "par",
+        "poljubac",
+        "poljubac: muškarac, muškarac, svijetla boja kože i maslinasta boja kože",
+        "romantika",
+        "svijetla boja kože"
+    ],
+    "👨🏻‍❤‍💋‍👨🏾": [
+        "muškarac",
+        "par",
+        "poljubac",
+        "poljubac: muškarac, muškarac, svijetla boja kože i smeđa boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "svijetla boja kože"
+    ],
+    "👨🏻‍❤‍💋‍👨🏿": [
+        "muškarac",
+        "par",
+        "poljubac",
+        "poljubac: muškarac, muškarac, svijetla boja kože i tamno smeđa boja kože",
+        "romantika",
+        "svijetla boja kože",
+        "tamno smeđa boja kože"
+    ],
+    "👨🏼‍❤‍💋‍👨🏻": [
+        "muškarac",
+        "par",
+        "poljubac",
+        "poljubac: muškarac, muškarac, svijetlo maslinasta boja kože i svijetla boja kože",
+        "romantika",
+        "svijetla boja kože",
+        "svijetlo maslinasta boja kože"
+    ],
+    "👨🏼‍❤‍💋‍👨🏼": [
+        "muškarac",
+        "par",
+        "poljubac",
+        "poljubac: muškarac, muškarac i svijetlo maslinasta boja kože",
+        "romantika",
+        "svijetlo maslinasta boja kože"
+    ],
+    "👨🏼‍❤‍💋‍👨🏽": [
+        "maslinasta boja kože",
+        "muškarac",
+        "par",
+        "poljubac",
+        "poljubac: muškarac, muškarac, svijetlo maslinasta boja kože i maslinasta boja kože",
+        "romantika",
+        "svijetlo maslinasta boja kože"
+    ],
+    "👨🏼‍❤‍💋‍👨🏾": [
+        "muškarac",
+        "par",
+        "poljubac",
+        "poljubac: muškarac, muškarac, svijetlo maslinasta boja kože i smeđa boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "svijetlo maslinasta boja kože"
+    ],
+    "👨🏼‍❤‍💋‍👨🏿": [
+        "muškarac",
+        "par",
+        "poljubac",
+        "poljubac: muškarac, muškarac, svijetlo maslinasta boja kože i tamno smeđa boja kože",
+        "romantika",
+        "svijetlo maslinasta boja kože",
+        "tamno smeđa boja kože"
+    ],
+    "👨🏽‍❤‍💋‍👨🏻": [
+        "maslinasta boja kože",
+        "muškarac",
+        "par",
+        "poljubac",
+        "poljubac: muškarac, muškarac, maslinasta boja kože i svijetla boja kože",
+        "romantika",
+        "svijetla boja kože"
+    ],
+    "👨🏽‍❤‍💋‍👨🏼": [
+        "maslinasta boja kože",
+        "muškarac",
+        "par",
+        "poljubac",
+        "poljubac: muškarac, muškarac, maslinasta boja kože i svijetlo maslinasta boja kože",
+        "romantika",
+        "svijetlo maslinasta boja kože"
+    ],
+    "👨🏽‍❤‍💋‍👨🏽": [
+        "maslinasta boja kože",
+        "muškarac",
+        "par",
+        "poljubac",
+        "poljubac: muškarac, muškarac i maslinasta boja kože",
+        "romantika"
+    ],
+    "👨🏽‍❤‍💋‍👨🏾": [
+        "maslinasta boja kože",
+        "muškarac",
+        "par",
+        "poljubac",
+        "poljubac: muškarac, muškarac, maslinasta boja kože i smeđa boja kože",
+        "romantika",
+        "smeđa boja kože"
+    ],
+    "👨🏽‍❤‍💋‍👨🏿": [
+        "maslinasta boja kože",
+        "muškarac",
+        "par",
+        "poljubac",
+        "poljubac: muškarac, muškarac, maslinasta boja kože i tamno smeđa boja kože",
+        "romantika",
+        "tamno smeđa boja kože"
+    ],
+    "👨🏾‍❤‍💋‍👨🏻": [
+        "muškarac",
+        "par",
+        "poljubac",
+        "poljubac: muškarac, muškarac, smeđa boja kože i svijetla boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "svijetla boja kože"
+    ],
+    "👨🏾‍❤‍💋‍👨🏼": [
+        "muškarac",
+        "par",
+        "poljubac",
+        "poljubac: muškarac, muškarac, smeđa boja kože i svijetlo maslinasta boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "svijetlo maslinasta boja kože"
+    ],
+    "👨🏾‍❤‍💋‍👨🏽": [
+        "maslinasta boja kože",
+        "muškarac",
+        "par",
+        "poljubac",
+        "poljubac: muškarac, muškarac, smeđa boja kože i maslinasta boja kože",
+        "romantika",
+        "smeđa boja kože"
+    ],
+    "👨🏾‍❤‍💋‍👨🏾": [
+        "muškarac",
+        "par",
+        "poljubac",
+        "poljubac: muškarac, muškarac i smeđa boja kože",
+        "romantika",
+        "smeđa boja kože"
+    ],
+    "👨🏾‍❤‍💋‍👨🏿": [
+        "muškarac",
+        "par",
+        "poljubac",
+        "poljubac: muškarac, muškarac, smeđa boja kože i tamno smeđa boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "tamno smeđa boja kože"
+    ],
+    "👨🏿‍❤‍💋‍👨🏻": [
+        "muškarac",
+        "par",
+        "poljubac",
+        "poljubac: muškarac, muškarac, tamno smeđa boja kože i svijetla boja kože",
+        "romantika",
+        "svijetla boja kože",
+        "tamno smeđa boja kože"
+    ],
+    "👨🏿‍❤‍💋‍👨🏼": [
+        "muškarac",
+        "par",
+        "poljubac",
+        "poljubac: muškarac, muškarac, tamno smeđa boja kože i svijetlo maslinasta boja kože",
+        "romantika",
+        "svijetlo maslinasta boja kože",
+        "tamno smeđa boja kože"
+    ],
+    "👨🏿‍❤‍💋‍👨🏽": [
+        "maslinasta boja kože",
+        "muškarac",
+        "par",
+        "poljubac",
+        "poljubac: muškarac, muškarac, tamno smeđa boja kože i maslinasta boja kože",
+        "romantika",
+        "tamno smeđa boja kože"
+    ],
+    "👨🏿‍❤‍💋‍👨🏾": [
+        "muškarac",
+        "par",
+        "poljubac",
+        "poljubac: muškarac, muškarac, tamno smeđa boja kože i smeđa boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "tamno smeđa boja kože"
+    ],
+    "👨🏿‍❤‍💋‍👨🏿": [
+        "muškarac",
+        "par",
+        "poljubac",
+        "poljubac: muškarac, muškarac i tamno smeđa boja kože",
+        "romantika",
+        "tamno smeđa boja kože"
+    ],
+    "👨🏻‍❤‍👨🏻": [
+        "ljubav",
+        "muškarac",
+        "par",
+        "par sa srcem",
+        "par sa srcem: muškarac, muškarac i svijetla boja kože",
+        "romantika",
+        "srce",
+        "svijetla boja kože"
+    ],
+    "👨🏻‍❤‍👨🏼": [
+        "ljubav",
+        "muškarac",
+        "par",
+        "par sa srcem",
+        "par sa srcem: muškarac, muškarac, svijetla boja kože i svijetlo maslinasta boja kože",
+        "romantika",
+        "srce",
+        "svijetla boja kože",
+        "svijetlo maslinasta boja kože"
+    ],
+    "👨🏻‍❤‍👨🏽": [
+        "ljubav",
+        "maslinasta boja kože",
+        "muškarac",
+        "par",
+        "par sa srcem",
+        "par sa srcem: muškarac, muškarac, svijetla boja kože i maslinasta boja kože",
+        "romantika",
+        "srce",
+        "svijetla boja kože"
+    ],
+    "👨🏻‍❤‍👨🏾": [
+        "ljubav",
+        "muškarac",
+        "par",
+        "par sa srcem",
+        "par sa srcem: muškarac, muškarac, svijetla boja kože i smeđa boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "srce",
+        "svijetla boja kože"
+    ],
+    "👨🏻‍❤‍👨🏿": [
+        "ljubav",
+        "muškarac",
+        "par",
+        "par sa srcem",
+        "par sa srcem: muškarac, muškarac, svijetla boja kože i tamno smeđa boja kože",
+        "romantika",
+        "srce",
+        "svijetla boja kože",
+        "tamno smeđa boja kože"
+    ],
+    "👨🏼‍❤‍👨🏻": [
+        "ljubav",
+        "muškarac",
+        "par",
+        "par sa srcem",
+        "par sa srcem: muškarac, muškarac, svijetlo maslinasta boja kože i svijetla boja kože",
+        "romantika",
+        "srce",
+        "svijetla boja kože",
+        "svijetlo maslinasta boja kože"
+    ],
+    "👨🏼‍❤‍👨🏼": [
+        "ljubav",
+        "muškarac",
+        "par",
+        "par sa srcem",
+        "par sa srcem: muškarac, muškarac i svijetlo maslinasta boja kože",
+        "romantika",
+        "srce",
+        "svijetlo maslinasta boja kože"
+    ],
+    "👨🏼‍❤‍👨🏽": [
+        "ljubav",
+        "maslinasta boja kože",
+        "muškarac",
+        "par",
+        "par sa srcem",
+        "par sa srcem: muškarac, muškarac, svijetlo maslinasta boja kože i maslinasta boja kože",
+        "romantika",
+        "srce",
+        "svijetlo maslinasta boja kože"
+    ],
+    "👨🏼‍❤‍👨🏾": [
+        "ljubav",
+        "muškarac",
+        "par",
+        "par sa srcem",
+        "par sa srcem: muškarac, muškarac, svijetlo maslinasta boja kože i smeđa boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "srce",
+        "svijetlo maslinasta boja kože"
+    ],
+    "👨🏼‍❤‍👨🏿": [
+        "ljubav",
+        "muškarac",
+        "par",
+        "par sa srcem",
+        "par sa srcem: muškarac, muškarac, svijetlo maslinasta boja kože i tamno smeđa boja kože",
+        "romantika",
+        "srce",
+        "svijetlo maslinasta boja kože",
+        "tamno smeđa boja kože"
+    ],
+    "👨🏽‍❤‍👨🏻": [
+        "ljubav",
+        "maslinasta boja kože",
+        "muškarac",
+        "par",
+        "par sa srcem",
+        "par sa srcem: muškarac, muškarac, maslinasta boja kože i svijetla boja kože",
+        "romantika",
+        "srce",
+        "svijetla boja kože"
+    ],
+    "👨🏽‍❤‍👨🏼": [
+        "ljubav",
+        "maslinasta boja kože",
+        "muškarac",
+        "par",
+        "par sa srcem",
+        "par sa srcem: muškarac, muškarac, maslinasta boja kože i svijetlo maslinasta boja kože",
+        "romantika",
+        "srce",
+        "svijetlo maslinasta boja kože"
+    ],
+    "👨🏽‍❤‍👨🏽": [
+        "ljubav",
+        "maslinasta boja kože",
+        "muškarac",
+        "par",
+        "par sa srcem",
+        "par sa srcem: muškarac, muškarac i maslinasta boja kože",
+        "romantika",
+        "srce"
+    ],
+    "👨🏽‍❤‍👨🏾": [
+        "ljubav",
+        "maslinasta boja kože",
+        "muškarac",
+        "par",
+        "par sa srcem",
+        "par sa srcem: muškarac, muškarac, maslinasta boja kože i smeđa boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "srce"
+    ],
+    "👨🏽‍❤‍👨🏿": [
+        "ljubav",
+        "maslinasta boja kože",
+        "muškarac",
+        "par",
+        "par sa srcem",
+        "par sa srcem: muškarac, muškarac, maslinasta boja kože i tamno smeđa boja kože",
+        "romantika",
+        "srce",
+        "tamno smeđa boja kože"
+    ],
+    "👨🏾‍❤‍👨🏻": [
+        "ljubav",
+        "muškarac",
+        "par",
+        "par sa srcem",
+        "par sa srcem: muškarac, muškarac, smeđa boja kože i svijetla boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "srce",
+        "svijetla boja kože"
+    ],
+    "👨🏾‍❤‍👨🏼": [
+        "ljubav",
+        "muškarac",
+        "par",
+        "par sa srcem",
+        "par sa srcem: muškarac, muškarac, smeđa boja kože i svijetlo maslinasta boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "srce",
+        "svijetlo maslinasta boja kože"
+    ],
+    "👨🏾‍❤‍👨🏽": [
+        "ljubav",
+        "maslinasta boja kože",
+        "muškarac",
+        "par",
+        "par sa srcem",
+        "par sa srcem: muškarac, muškarac, smeđa boja kože i maslinasta boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "srce"
+    ],
+    "👨🏾‍❤‍👨🏾": [
+        "ljubav",
+        "muškarac",
+        "par",
+        "par sa srcem",
+        "par sa srcem: muškarac, muškarac i smeđa boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "srce"
+    ],
+    "👨🏾‍❤‍👨🏿": [
+        "ljubav",
+        "muškarac",
+        "par",
+        "par sa srcem",
+        "par sa srcem: muškarac, muškarac, smeđa boja kože i tamno smeđa boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "srce",
+        "tamno smeđa boja kože"
+    ],
+    "👨🏿‍❤‍👨🏻": [
+        "ljubav",
+        "muškarac",
+        "par",
+        "par sa srcem",
+        "par sa srcem: muškarac, muškarac, tamno smeđa boja kože i svijetla boja kože",
+        "romantika",
+        "srce",
+        "svijetla boja kože",
+        "tamno smeđa boja kože"
+    ],
+    "👨🏿‍❤‍👨🏼": [
+        "ljubav",
+        "muškarac",
+        "par",
+        "par sa srcem",
+        "par sa srcem: muškarac, muškarac, tamno smeđa boja kože i svijetlo maslinasta boja kože",
+        "romantika",
+        "srce",
+        "svijetlo maslinasta boja kože",
+        "tamno smeđa boja kože"
+    ],
+    "👨🏿‍❤‍👨🏽": [
+        "ljubav",
+        "maslinasta boja kože",
+        "muškarac",
+        "par",
+        "par sa srcem",
+        "par sa srcem: muškarac, muškarac, tamno smeđa boja kože i maslinasta boja kože",
+        "romantika",
+        "srce",
+        "tamno smeđa boja kože"
+    ],
+    "👨🏿‍❤‍👨🏾": [
+        "ljubav",
+        "muškarac",
+        "par",
+        "par sa srcem",
+        "par sa srcem: muškarac, muškarac, tamno smeđa boja kože i smeđa boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "srce",
+        "tamno smeđa boja kože"
+    ],
+    "👨🏿‍❤‍👨🏿": [
+        "ljubav",
+        "muškarac",
+        "par",
+        "par sa srcem",
+        "par sa srcem: muškarac, muškarac i tamno smeđa boja kože",
+        "romantika",
+        "srce",
         "tamno smeđa boja kože"
     ],
     "👨‍🦰": [
@@ -3591,6 +6474,46 @@
         "žena: tamno smeđa boja kože",
         "žensko"
     ],
+    "🧔‍♀": [
+        "brada",
+        "žena",
+        "žena: brada"
+    ],
+    "🧔🏻‍♀": [
+        "brada",
+        "svijetla boja kože",
+        "žena",
+        "žena: brada",
+        "žena: svijetla boja kože i brada"
+    ],
+    "🧔🏼‍♀": [
+        "brada",
+        "svijetlo maslinasta boja kože",
+        "žena",
+        "žena: brada",
+        "žena: svijetlo maslinasta boja kože i brada"
+    ],
+    "🧔🏽‍♀": [
+        "brada",
+        "maslinasta boja kože",
+        "žena",
+        "žena: brada",
+        "žena: maslinasta boja kože i brada"
+    ],
+    "🧔🏾‍♀": [
+        "brada",
+        "smeđa boja kože",
+        "žena",
+        "žena: brada",
+        "žena: smeđa boja kože i brada"
+    ],
+    "🧔🏿‍♀": [
+        "brada",
+        "tamno smeđa boja kože",
+        "žena",
+        "žena: brada",
+        "žena: tamno smeđa boja kože i brada"
+    ],
     "👱‍♀": [
         "plavojka",
         "plavokosa žena",
@@ -3630,6 +6553,1036 @@
         "plavokosa žena: tamno smeđa boja kože",
         "plavuša",
         "tamno smeđa boja kože"
+    ],
+    "👩🏻‍❤‍💋‍👨🏻": [
+        "muškarac",
+        "par",
+        "poljubac",
+        "poljubac: žena, muškarac i svijetla boja kože",
+        "romantika",
+        "svijetla boja kože",
+        "žena"
+    ],
+    "👩🏻‍❤‍💋‍👨🏼": [
+        "muškarac",
+        "par",
+        "poljubac",
+        "poljubac: žena, muškarac, svijetla boja kože i svijetlo maslinasta boja kože",
+        "romantika",
+        "svijetla boja kože",
+        "svijetlo maslinasta boja kože",
+        "žena"
+    ],
+    "👩🏻‍❤‍💋‍👨🏽": [
+        "maslinasta boja kože",
+        "muškarac",
+        "par",
+        "poljubac",
+        "poljubac: žena, muškarac, svijetla boja kože i maslinasta boja kože",
+        "romantika",
+        "svijetla boja kože",
+        "žena"
+    ],
+    "👩🏻‍❤‍💋‍👨🏾": [
+        "muškarac",
+        "par",
+        "poljubac",
+        "poljubac: žena, muškarac, svijetla boja kože i smeđa boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "svijetla boja kože",
+        "žena"
+    ],
+    "👩🏻‍❤‍💋‍👨🏿": [
+        "muškarac",
+        "par",
+        "poljubac",
+        "poljubac: žena, muškarac, svijetla boja kože i tamno smeđa boja kože",
+        "romantika",
+        "svijetla boja kože",
+        "tamno smeđa boja kože",
+        "žena"
+    ],
+    "👩🏼‍❤‍💋‍👨🏻": [
+        "muškarac",
+        "par",
+        "poljubac",
+        "poljubac: žena, muškarac, svijetlo maslinasta boja kože i svijetla boja kože",
+        "romantika",
+        "svijetla boja kože",
+        "svijetlo maslinasta boja kože",
+        "žena"
+    ],
+    "👩🏼‍❤‍💋‍👨🏼": [
+        "muškarac",
+        "par",
+        "poljubac",
+        "poljubac: žena, muškarac i svijetlo maslinasta boja kože",
+        "romantika",
+        "svijetlo maslinasta boja kože",
+        "žena"
+    ],
+    "👩🏼‍❤‍💋‍👨🏽": [
+        "maslinasta boja kože",
+        "muškarac",
+        "par",
+        "poljubac",
+        "poljubac: žena, muškarac, svijetlo maslinasta boja kože i maslinasta boja kože",
+        "romantika",
+        "svijetlo maslinasta boja kože",
+        "žena"
+    ],
+    "👩🏼‍❤‍💋‍👨🏾": [
+        "muškarac",
+        "par",
+        "poljubac",
+        "poljubac: žena, muškarac, svijetlo maslinasta boja kože i smeđa boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "svijetlo maslinasta boja kože",
+        "žena"
+    ],
+    "👩🏼‍❤‍💋‍👨🏿": [
+        "muškarac",
+        "par",
+        "poljubac",
+        "poljubac: žena, muškarac, svijetlo maslinasta boja kože i tamno smeđa boja kože",
+        "romantika",
+        "svijetlo maslinasta boja kože",
+        "tamno smeđa boja kože",
+        "žena"
+    ],
+    "👩🏽‍❤‍💋‍👨🏻": [
+        "maslinasta boja kože",
+        "muškarac",
+        "par",
+        "poljubac",
+        "poljubac: žena, muškarac, maslinasta boja kože i svijetla boja kože",
+        "romantika",
+        "svijetla boja kože",
+        "žena"
+    ],
+    "👩🏽‍❤‍💋‍👨🏼": [
+        "maslinasta boja kože",
+        "muškarac",
+        "par",
+        "poljubac",
+        "poljubac: žena, muškarac, maslinasta boja kože i svijetlo maslinasta boja kože",
+        "romantika",
+        "svijetlo maslinasta boja kože",
+        "žena"
+    ],
+    "👩🏽‍❤‍💋‍👨🏽": [
+        "maslinasta boja kože",
+        "muškarac",
+        "par",
+        "poljubac",
+        "poljubac: žena, muškarac i maslinasta boja kože",
+        "romantika",
+        "žena"
+    ],
+    "👩🏽‍❤‍💋‍👨🏾": [
+        "maslinasta boja kože",
+        "muškarac",
+        "par",
+        "poljubac",
+        "poljubac: žena, muškarac, maslinasta boja kože i smeđa boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "žena"
+    ],
+    "👩🏽‍❤‍💋‍👨🏿": [
+        "maslinasta boja kože",
+        "muškarac",
+        "par",
+        "poljubac",
+        "poljubac: žena, muškarac, maslinasta boja kože i tamno smeđa boja kože",
+        "romantika",
+        "tamno smeđa boja kože",
+        "žena"
+    ],
+    "👩🏾‍❤‍💋‍👨🏻": [
+        "muškarac",
+        "par",
+        "poljubac",
+        "poljubac: žena, muškarac, smeđa boja kože i svijetla boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "svijetla boja kože",
+        "žena"
+    ],
+    "👩🏾‍❤‍💋‍👨🏼": [
+        "muškarac",
+        "par",
+        "poljubac",
+        "poljubac: žena, muškarac, smeđa boja kože i svijetlo maslinasta boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "svijetlo maslinasta boja kože",
+        "žena"
+    ],
+    "👩🏾‍❤‍💋‍👨🏽": [
+        "maslinasta boja kože",
+        "muškarac",
+        "par",
+        "poljubac",
+        "poljubac: žena, muškarac, smeđa boja kože i maslinasta boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "žena"
+    ],
+    "👩🏾‍❤‍💋‍👨🏾": [
+        "muškarac",
+        "par",
+        "poljubac",
+        "poljubac: žena, muškarac i smeđa boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "žena"
+    ],
+    "👩🏾‍❤‍💋‍👨🏿": [
+        "muškarac",
+        "par",
+        "poljubac",
+        "poljubac: žena, muškarac, smeđa boja kože i tamno smeđa boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "tamno smeđa boja kože",
+        "žena"
+    ],
+    "👩🏿‍❤‍💋‍👨🏻": [
+        "muškarac",
+        "par",
+        "poljubac",
+        "poljubac: žena, muškarac, tamno smeđa boja kože i svijetla boja kože",
+        "romantika",
+        "svijetla boja kože",
+        "tamno smeđa boja kože",
+        "žena"
+    ],
+    "👩🏿‍❤‍💋‍👨🏼": [
+        "muškarac",
+        "par",
+        "poljubac",
+        "poljubac: žena, muškarac, tamno smeđa boja kože i svijetlo maslinasta boja kože",
+        "romantika",
+        "svijetlo maslinasta boja kože",
+        "tamno smeđa boja kože",
+        "žena"
+    ],
+    "👩🏿‍❤‍💋‍👨🏽": [
+        "maslinasta boja kože",
+        "muškarac",
+        "par",
+        "poljubac",
+        "poljubac: žena, muškarac, tamno smeđa boja kože i maslinasta boja kože",
+        "romantika",
+        "tamno smeđa boja kože",
+        "žena"
+    ],
+    "👩🏿‍❤‍💋‍👨🏾": [
+        "muškarac",
+        "par",
+        "poljubac",
+        "poljubac: žena, muškarac, tamno smeđa boja kože i smeđa boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "tamno smeđa boja kože",
+        "žena"
+    ],
+    "👩🏿‍❤‍💋‍👨🏿": [
+        "muškarac",
+        "par",
+        "poljubac",
+        "poljubac: žena, muškarac i tamno smeđa boja kože",
+        "romantika",
+        "tamno smeđa boja kože",
+        "žena"
+    ],
+    "👩🏻‍❤‍💋‍👩🏻": [
+        "par",
+        "poljubac",
+        "poljubac: žena, žena i svijetla boja kože",
+        "romantika",
+        "svijetla boja kože",
+        "žena"
+    ],
+    "👩🏻‍❤‍💋‍👩🏼": [
+        "par",
+        "poljubac",
+        "poljubac: žena, žena, svijetla boja kože i svijetlo maslinasta boja kože",
+        "romantika",
+        "svijetla boja kože",
+        "svijetlo maslinasta boja kože",
+        "žena"
+    ],
+    "👩🏻‍❤‍💋‍👩🏽": [
+        "maslinasta boja kože",
+        "par",
+        "poljubac",
+        "poljubac: žena, žena, svijetla boja kože i maslinasta boja kože",
+        "romantika",
+        "svijetla boja kože",
+        "žena"
+    ],
+    "👩🏻‍❤‍💋‍👩🏾": [
+        "par",
+        "poljubac",
+        "poljubac: žena, žena, svijetla boja kože i smeđa boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "svijetla boja kože",
+        "žena"
+    ],
+    "👩🏻‍❤‍💋‍👩🏿": [
+        "par",
+        "poljubac",
+        "poljubac: žena, žena, svijetla boja kože i tamno smeđa boja kože",
+        "romantika",
+        "svijetla boja kože",
+        "tamno smeđa boja kože",
+        "žena"
+    ],
+    "👩🏼‍❤‍💋‍👩🏻": [
+        "par",
+        "poljubac",
+        "poljubac: žena, žena, svijetlo maslinasta boja kože i svijetla boja kože",
+        "romantika",
+        "svijetla boja kože",
+        "svijetlo maslinasta boja kože",
+        "žena"
+    ],
+    "👩🏼‍❤‍💋‍👩🏼": [
+        "par",
+        "poljubac",
+        "poljubac: žena, žena i svijetlo maslinasta boja kože",
+        "romantika",
+        "svijetlo maslinasta boja kože",
+        "žena"
+    ],
+    "👩🏼‍❤‍💋‍👩🏽": [
+        "maslinasta boja kože",
+        "par",
+        "poljubac",
+        "poljubac: žena, žena, svijetlo maslinasta boja kože i maslinasta boja kože",
+        "romantika",
+        "svijetlo maslinasta boja kože",
+        "žena"
+    ],
+    "👩🏼‍❤‍💋‍👩🏾": [
+        "par",
+        "poljubac",
+        "poljubac: žena, žena, svijetlo maslinasta boja kože i smeđa boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "svijetlo maslinasta boja kože",
+        "žena"
+    ],
+    "👩🏼‍❤‍💋‍👩🏿": [
+        "par",
+        "poljubac",
+        "poljubac: žena, žena, svijetlo maslinasta boja kože i tamno smeđa boja kože",
+        "romantika",
+        "svijetlo maslinasta boja kože",
+        "tamno smeđa boja kože",
+        "žena"
+    ],
+    "👩🏽‍❤‍💋‍👩🏻": [
+        "maslinasta boja kože",
+        "par",
+        "poljubac",
+        "poljubac: žena, žena, maslinasta boja kože i svijetla boja kože",
+        "romantika",
+        "svijetla boja kože",
+        "žena"
+    ],
+    "👩🏽‍❤‍💋‍👩🏼": [
+        "maslinasta boja kože",
+        "par",
+        "poljubac",
+        "poljubac: žena, žena, maslinasta boja kože i svijetlo maslinasta boja kože",
+        "romantika",
+        "svijetlo maslinasta boja kože",
+        "žena"
+    ],
+    "👩🏽‍❤‍💋‍👩🏽": [
+        "maslinasta boja kože",
+        "par",
+        "poljubac",
+        "poljubac: žena, žena i maslinasta boja kože",
+        "romantika",
+        "žena"
+    ],
+    "👩🏽‍❤‍💋‍👩🏾": [
+        "maslinasta boja kože",
+        "par",
+        "poljubac",
+        "poljubac: žena, žena, maslinasta boja kože i smeđa boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "žena"
+    ],
+    "👩🏽‍❤‍💋‍👩🏿": [
+        "maslinasta boja kože",
+        "par",
+        "poljubac",
+        "poljubac: žena, žena, maslinasta boja kože i tamno smeđa boja kože",
+        "romantika",
+        "tamno smeđa boja kože",
+        "žena"
+    ],
+    "👩🏾‍❤‍💋‍👩🏻": [
+        "par",
+        "poljubac",
+        "poljubac: žena, žena, smeđa boja kože i svijetla boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "svijetla boja kože",
+        "žena"
+    ],
+    "👩🏾‍❤‍💋‍👩🏼": [
+        "par",
+        "poljubac",
+        "poljubac: žena, žena, smeđa boja kože i svijetlo maslinasta boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "svijetlo maslinasta boja kože",
+        "žena"
+    ],
+    "👩🏾‍❤‍💋‍👩🏽": [
+        "maslinasta boja kože",
+        "par",
+        "poljubac",
+        "poljubac: žena, žena, smeđa boja kože i maslinasta boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "žena"
+    ],
+    "👩🏾‍❤‍💋‍👩🏾": [
+        "par",
+        "poljubac",
+        "poljubac: žena, žena i smeđa boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "žena"
+    ],
+    "👩🏾‍❤‍💋‍👩🏿": [
+        "par",
+        "poljubac",
+        "poljubac: žena, žena, smeđa boja kože i tamno smeđa boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "tamno smeđa boja kože",
+        "žena"
+    ],
+    "👩🏿‍❤‍💋‍👩🏻": [
+        "par",
+        "poljubac",
+        "poljubac: žena, žena, tamno smeđa boja kože i svijetla boja kože",
+        "romantika",
+        "svijetla boja kože",
+        "tamno smeđa boja kože",
+        "žena"
+    ],
+    "👩🏿‍❤‍💋‍👩🏼": [
+        "par",
+        "poljubac",
+        "poljubac: žena, žena, tamno smeđa boja kože i svijetlo maslinasta boja kože",
+        "romantika",
+        "svijetlo maslinasta boja kože",
+        "tamno smeđa boja kože",
+        "žena"
+    ],
+    "👩🏿‍❤‍💋‍👩🏽": [
+        "maslinasta boja kože",
+        "par",
+        "poljubac",
+        "poljubac: žena, žena, tamno smeđa boja kože i maslinasta boja kože",
+        "romantika",
+        "tamno smeđa boja kože",
+        "žena"
+    ],
+    "👩🏿‍❤‍💋‍👩🏾": [
+        "par",
+        "poljubac",
+        "poljubac: žena, žena, tamno smeđa boja kože i smeđa boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "tamno smeđa boja kože",
+        "žena"
+    ],
+    "👩🏿‍❤‍💋‍👩🏿": [
+        "par",
+        "poljubac",
+        "poljubac: žena, žena i tamno smeđa boja kože",
+        "romantika",
+        "tamno smeđa boja kože",
+        "žena"
+    ],
+    "👩🏻‍❤‍👨🏻": [
+        "ljubav",
+        "muškarac",
+        "par",
+        "par sa srcem",
+        "par sa srcem: žena, muškarac i svijetla boja kože",
+        "romantika",
+        "srce",
+        "svijetla boja kože",
+        "žena"
+    ],
+    "👩🏻‍❤‍👨🏼": [
+        "ljubav",
+        "muškarac",
+        "par",
+        "par sa srcem",
+        "par sa srcem: žena, muškarac, svijetla boja kože i svijetlo maslinasta boja kože",
+        "romantika",
+        "srce",
+        "svijetla boja kože",
+        "svijetlo maslinasta boja kože",
+        "žena"
+    ],
+    "👩🏻‍❤‍👨🏽": [
+        "ljubav",
+        "maslinasta boja kože",
+        "muškarac",
+        "par",
+        "par sa srcem",
+        "par sa srcem: žena, muškarac, svijetla boja kože i maslinasta boja kože",
+        "romantika",
+        "srce",
+        "svijetla boja kože",
+        "žena"
+    ],
+    "👩🏻‍❤‍👨🏾": [
+        "ljubav",
+        "muškarac",
+        "par",
+        "par sa srcem",
+        "par sa srcem: žena, muškarac, svijetla boja kože i smeđa boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "srce",
+        "svijetla boja kože",
+        "žena"
+    ],
+    "👩🏻‍❤‍👨🏿": [
+        "ljubav",
+        "muškarac",
+        "par",
+        "par sa srcem",
+        "par sa srcem: žena, muškarac, svijetla boja kože i tamno smeđa boja kože",
+        "romantika",
+        "srce",
+        "svijetla boja kože",
+        "tamno smeđa boja kože",
+        "žena"
+    ],
+    "👩🏼‍❤‍👨🏻": [
+        "ljubav",
+        "muškarac",
+        "par",
+        "par sa srcem",
+        "par sa srcem: žena, muškarac, svijetlo maslinasta boja kože i svijetla boja kože",
+        "romantika",
+        "srce",
+        "svijetla boja kože",
+        "svijetlo maslinasta boja kože",
+        "žena"
+    ],
+    "👩🏼‍❤‍👨🏼": [
+        "ljubav",
+        "muškarac",
+        "par",
+        "par sa srcem",
+        "par sa srcem: žena, muškarac i svijetlo maslinasta boja kože",
+        "romantika",
+        "srce",
+        "svijetlo maslinasta boja kože",
+        "žena"
+    ],
+    "👩🏼‍❤‍👨🏽": [
+        "ljubav",
+        "maslinasta boja kože",
+        "muškarac",
+        "par",
+        "par sa srcem",
+        "par sa srcem: žena, muškarac, svijetlo maslinasta boja kože i maslinasta boja kože",
+        "romantika",
+        "srce",
+        "svijetlo maslinasta boja kože",
+        "žena"
+    ],
+    "👩🏼‍❤‍👨🏾": [
+        "ljubav",
+        "muškarac",
+        "par",
+        "par sa srcem",
+        "par sa srcem: žena, muškarac, svijetlo maslinasta boja kože i smeđa boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "srce",
+        "svijetlo maslinasta boja kože",
+        "žena"
+    ],
+    "👩🏼‍❤‍👨🏿": [
+        "ljubav",
+        "muškarac",
+        "par",
+        "par sa srcem",
+        "par sa srcem: žena, muškarac, svijetlo maslinasta boja kože i tamno smeđa boja kože",
+        "romantika",
+        "srce",
+        "svijetlo maslinasta boja kože",
+        "tamno smeđa boja kože",
+        "žena"
+    ],
+    "👩🏽‍❤‍👨🏻": [
+        "ljubav",
+        "maslinasta boja kože",
+        "muškarac",
+        "par",
+        "par sa srcem",
+        "par sa srcem: žena, muškarac, maslinasta boja kože i svijetla boja kože",
+        "romantika",
+        "srce",
+        "svijetla boja kože",
+        "žena"
+    ],
+    "👩🏽‍❤‍👨🏼": [
+        "ljubav",
+        "maslinasta boja kože",
+        "muškarac",
+        "par",
+        "par sa srcem",
+        "par sa srcem: žena, muškarac, maslinasta boja kože i svijetlo maslinasta boja kože",
+        "romantika",
+        "srce",
+        "svijetlo maslinasta boja kože",
+        "žena"
+    ],
+    "👩🏽‍❤‍👨🏽": [
+        "ljubav",
+        "maslinasta boja kože",
+        "muškarac",
+        "par",
+        "par sa srcem",
+        "par sa srcem: žena, muškarac i maslinasta boja kože",
+        "romantika",
+        "srce",
+        "žena"
+    ],
+    "👩🏽‍❤‍👨🏾": [
+        "ljubav",
+        "maslinasta boja kože",
+        "muškarac",
+        "par",
+        "par sa srcem",
+        "par sa srcem: žena, muškarac, maslinasta boja kože i smeđa boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "srce",
+        "žena"
+    ],
+    "👩🏽‍❤‍👨🏿": [
+        "ljubav",
+        "maslinasta boja kože",
+        "muškarac",
+        "par",
+        "par sa srcem",
+        "par sa srcem: žena, muškarac, maslinasta boja kože i tamno smeđa boja kože",
+        "romantika",
+        "srce",
+        "tamno smeđa boja kože",
+        "žena"
+    ],
+    "👩🏾‍❤‍👨🏻": [
+        "ljubav",
+        "muškarac",
+        "par",
+        "par sa srcem",
+        "par sa srcem: žena, muškarac, smeđa boja kože i svijetla boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "srce",
+        "svijetla boja kože",
+        "žena"
+    ],
+    "👩🏾‍❤‍👨🏼": [
+        "ljubav",
+        "muškarac",
+        "par",
+        "par sa srcem",
+        "par sa srcem: žena, muškarac, smeđa boja kože i svijetlo maslinasta boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "srce",
+        "svijetlo maslinasta boja kože",
+        "žena"
+    ],
+    "👩🏾‍❤‍👨🏽": [
+        "ljubav",
+        "maslinasta boja kože",
+        "muškarac",
+        "par",
+        "par sa srcem",
+        "par sa srcem: žena, muškarac, smeđa boja kože i maslinasta boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "srce",
+        "žena"
+    ],
+    "👩🏾‍❤‍👨🏾": [
+        "ljubav",
+        "muškarac",
+        "par",
+        "par sa srcem",
+        "par sa srcem: žena, muškarac i smeđa boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "srce",
+        "žena"
+    ],
+    "👩🏾‍❤‍👨🏿": [
+        "ljubav",
+        "muškarac",
+        "par",
+        "par sa srcem",
+        "par sa srcem: žena, muškarac, smeđa boja kože i tamno smeđa boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "srce",
+        "tamno smeđa boja kože",
+        "žena"
+    ],
+    "👩🏿‍❤‍👨🏻": [
+        "ljubav",
+        "muškarac",
+        "par",
+        "par sa srcem",
+        "par sa srcem: žena, muškarac, tamno smeđa boja kože i svijetla boja kože",
+        "romantika",
+        "srce",
+        "svijetla boja kože",
+        "tamno smeđa boja kože",
+        "žena"
+    ],
+    "👩🏿‍❤‍👨🏼": [
+        "ljubav",
+        "muškarac",
+        "par",
+        "par sa srcem",
+        "par sa srcem: žena, muškarac, tamno smeđa boja kože i svijetlo maslinasta boja kože",
+        "romantika",
+        "srce",
+        "svijetlo maslinasta boja kože",
+        "tamno smeđa boja kože",
+        "žena"
+    ],
+    "👩🏿‍❤‍👨🏽": [
+        "ljubav",
+        "maslinasta boja kože",
+        "muškarac",
+        "par",
+        "par sa srcem",
+        "par sa srcem: žena, muškarac, tamno smeđa boja kože i maslinasta boja kože",
+        "romantika",
+        "srce",
+        "tamno smeđa boja kože",
+        "žena"
+    ],
+    "👩🏿‍❤‍👨🏾": [
+        "ljubav",
+        "muškarac",
+        "par",
+        "par sa srcem",
+        "par sa srcem: žena, muškarac, tamno smeđa boja kože i smeđa boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "srce",
+        "tamno smeđa boja kože",
+        "žena"
+    ],
+    "👩🏿‍❤‍👨🏿": [
+        "ljubav",
+        "muškarac",
+        "par",
+        "par sa srcem",
+        "par sa srcem: žena, muškarac i tamno smeđa boja kože",
+        "romantika",
+        "srce",
+        "tamno smeđa boja kože",
+        "žena"
+    ],
+    "👩🏻‍❤‍👩🏻": [
+        "ljubav",
+        "par",
+        "par sa srcem",
+        "par sa srcem: žena, žena i svijetla boja kože",
+        "romantika",
+        "srce",
+        "svijetla boja kože",
+        "žena"
+    ],
+    "👩🏻‍❤‍👩🏼": [
+        "ljubav",
+        "par",
+        "par sa srcem",
+        "par sa srcem: žena, žena, svijetla boja kože i svijetlo maslinasta boja kože",
+        "romantika",
+        "srce",
+        "svijetla boja kože",
+        "svijetlo maslinasta boja kože",
+        "žena"
+    ],
+    "👩🏻‍❤‍👩🏽": [
+        "ljubav",
+        "maslinasta boja kože",
+        "par",
+        "par sa srcem",
+        "par sa srcem: žena, žena, svijetla boja kože i maslinasta boja kože",
+        "romantika",
+        "srce",
+        "svijetla boja kože",
+        "žena"
+    ],
+    "👩🏻‍❤‍👩🏾": [
+        "ljubav",
+        "par",
+        "par sa srcem",
+        "par sa srcem: žena, žena, svijetla boja kože i smeđa boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "srce",
+        "svijetla boja kože",
+        "žena"
+    ],
+    "👩🏻‍❤‍👩🏿": [
+        "ljubav",
+        "par",
+        "par sa srcem",
+        "par sa srcem: žena, žena, svijetla boja kože i tamno smeđa boja kože",
+        "romantika",
+        "srce",
+        "svijetla boja kože",
+        "tamno smeđa boja kože",
+        "žena"
+    ],
+    "👩🏼‍❤‍👩🏻": [
+        "ljubav",
+        "par",
+        "par sa srcem",
+        "par sa srcem: žena, žena, svijetlo maslinasta boja kože i svijetla boja kože",
+        "romantika",
+        "srce",
+        "svijetla boja kože",
+        "svijetlo maslinasta boja kože",
+        "žena"
+    ],
+    "👩🏼‍❤‍👩🏼": [
+        "ljubav",
+        "par",
+        "par sa srcem",
+        "par sa srcem: žena, žena i svijetlo maslinasta boja kože",
+        "romantika",
+        "srce",
+        "svijetlo maslinasta boja kože",
+        "žena"
+    ],
+    "👩🏼‍❤‍👩🏽": [
+        "ljubav",
+        "maslinasta boja kože",
+        "par",
+        "par sa srcem",
+        "par sa srcem: žena, žena, svijetlo maslinasta boja kože i maslinasta boja kože",
+        "romantika",
+        "srce",
+        "svijetlo maslinasta boja kože",
+        "žena"
+    ],
+    "👩🏼‍❤‍👩🏾": [
+        "ljubav",
+        "par",
+        "par sa srcem",
+        "par sa srcem: žena, žena, svijetlo maslinasta boja kože i smeđa boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "srce",
+        "svijetlo maslinasta boja kože",
+        "žena"
+    ],
+    "👩🏼‍❤‍👩🏿": [
+        "ljubav",
+        "par",
+        "par sa srcem",
+        "par sa srcem: žena, žena, svijetlo maslinasta boja kože i tamno smeđa boja kože",
+        "romantika",
+        "srce",
+        "svijetlo maslinasta boja kože",
+        "tamno smeđa boja kože",
+        "žena"
+    ],
+    "👩🏽‍❤‍👩🏻": [
+        "ljubav",
+        "maslinasta boja kože",
+        "par",
+        "par sa srcem",
+        "par sa srcem: žena, žena, maslinasta boja kože i svijetla boja kože",
+        "romantika",
+        "srce",
+        "svijetla boja kože",
+        "žena"
+    ],
+    "👩🏽‍❤‍👩🏼": [
+        "ljubav",
+        "maslinasta boja kože",
+        "par",
+        "par sa srcem",
+        "par sa srcem: žena, žena, maslinasta boja kože i svijetlo maslinasta boja kože",
+        "romantika",
+        "srce",
+        "svijetlo maslinasta boja kože",
+        "žena"
+    ],
+    "👩🏽‍❤‍👩🏽": [
+        "ljubav",
+        "maslinasta boja kože",
+        "par",
+        "par sa srcem",
+        "par sa srcem: žena, žena i maslinasta boja kože",
+        "romantika",
+        "srce",
+        "žena"
+    ],
+    "👩🏽‍❤‍👩🏾": [
+        "ljubav",
+        "maslinasta boja kože",
+        "par",
+        "par sa srcem",
+        "par sa srcem: žena, žena, maslinasta boja kože i smeđa boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "srce",
+        "žena"
+    ],
+    "👩🏽‍❤‍👩🏿": [
+        "ljubav",
+        "maslinasta boja kože",
+        "par",
+        "par sa srcem",
+        "par sa srcem: žena, žena, maslinasta boja kože i tamno smeđa boja kože",
+        "romantika",
+        "srce",
+        "tamno smeđa boja kože",
+        "žena"
+    ],
+    "👩🏾‍❤‍👩🏻": [
+        "ljubav",
+        "par",
+        "par sa srcem",
+        "par sa srcem: žena, žena, smeđa boja kože i svijetla boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "srce",
+        "svijetla boja kože",
+        "žena"
+    ],
+    "👩🏾‍❤‍👩🏼": [
+        "ljubav",
+        "par",
+        "par sa srcem",
+        "par sa srcem: žena, žena, smeđa boja kože i svijetlo maslinasta boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "srce",
+        "svijetlo maslinasta boja kože",
+        "žena"
+    ],
+    "👩🏾‍❤‍👩🏽": [
+        "ljubav",
+        "maslinasta boja kože",
+        "par",
+        "par sa srcem",
+        "par sa srcem: žena, žena, smeđa boja kože i maslinasta boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "srce",
+        "žena"
+    ],
+    "👩🏾‍❤‍👩🏾": [
+        "ljubav",
+        "par",
+        "par sa srcem",
+        "par sa srcem: žena, žena i smeđa boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "srce",
+        "žena"
+    ],
+    "👩🏾‍❤‍👩🏿": [
+        "ljubav",
+        "par",
+        "par sa srcem",
+        "par sa srcem: žena, žena, smeđa boja kože i tamno smeđa boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "srce",
+        "tamno smeđa boja kože",
+        "žena"
+    ],
+    "👩🏿‍❤‍👩🏻": [
+        "ljubav",
+        "par",
+        "par sa srcem",
+        "par sa srcem: žena, žena, tamno smeđa boja kože i svijetla boja kože",
+        "romantika",
+        "srce",
+        "svijetla boja kože",
+        "tamno smeđa boja kože",
+        "žena"
+    ],
+    "👩🏿‍❤‍👩🏼": [
+        "ljubav",
+        "par",
+        "par sa srcem",
+        "par sa srcem: žena, žena, tamno smeđa boja kože i svijetlo maslinasta boja kože",
+        "romantika",
+        "srce",
+        "svijetlo maslinasta boja kože",
+        "tamno smeđa boja kože",
+        "žena"
+    ],
+    "👩🏿‍❤‍👩🏽": [
+        "ljubav",
+        "maslinasta boja kože",
+        "par",
+        "par sa srcem",
+        "par sa srcem: žena, žena, tamno smeđa boja kože i maslinasta boja kože",
+        "romantika",
+        "srce",
+        "tamno smeđa boja kože",
+        "žena"
+    ],
+    "👩🏿‍❤‍👩🏾": [
+        "ljubav",
+        "par",
+        "par sa srcem",
+        "par sa srcem: žena, žena, tamno smeđa boja kože i smeđa boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "srce",
+        "tamno smeđa boja kože",
+        "žena"
+    ],
+    "👩🏿‍❤‍👩🏿": [
+        "ljubav",
+        "par",
+        "par sa srcem",
+        "par sa srcem: žena, žena i tamno smeđa boja kože",
+        "romantika",
+        "srce",
+        "tamno smeđa boja kože",
+        "žena"
     ],
     "👩‍🦰": [
         "crvena kosa",
@@ -5423,40 +9376,34 @@
         "terapeutkinja"
     ],
     "🧑‍🎓": [
-        "diplomac",
         "diplomant",
         "student"
     ],
     "🧑🏻‍🎓": [
-        "diplomac",
         "diplomant",
         "diplomant: svijetla boja kože",
         "student",
         "svijetla boja kože"
     ],
     "🧑🏼‍🎓": [
-        "diplomac",
         "diplomant",
         "diplomant: svijetlo maslinasta boja kože",
         "student",
         "svijetlo maslinasta boja kože"
     ],
     "🧑🏽‍🎓": [
-        "diplomac",
         "diplomant",
         "diplomant: maslinasta boja kože",
         "maslinasta boja kože",
         "student"
     ],
     "🧑🏾‍🎓": [
-        "diplomac",
         "diplomant",
         "diplomant: smeđa boja kože",
         "smeđa boja kože",
         "student"
     ],
     "🧑🏿‍🎓": [
-        "diplomac",
         "diplomant",
         "diplomant: tamno smeđa boja kože",
         "student",
@@ -5652,43 +9599,43 @@
     ],
     "🧑‍⚖": [
         "arbitar",
-        "pravda",
-        "sudac"
+        "sudac",
+        "vaga"
     ],
     "🧑🏻‍⚖": [
         "arbitar",
         "arbitar: svijetla boja kože",
-        "pravda",
         "sudac",
-        "svijetla boja kože"
+        "svijetla boja kože",
+        "vaga"
     ],
     "🧑🏼‍⚖": [
         "arbitar",
         "arbitar: svijetlo maslinasta boja kože",
-        "pravda",
         "sudac",
-        "svijetlo maslinasta boja kože"
+        "svijetlo maslinasta boja kože",
+        "vaga"
     ],
     "🧑🏽‍⚖": [
         "arbitar",
         "arbitar: maslinasta boja kože",
         "maslinasta boja kože",
-        "pravda",
-        "sudac"
+        "sudac",
+        "vaga"
     ],
     "🧑🏾‍⚖": [
         "arbitar",
         "arbitar: smeđa boja kože",
-        "pravda",
         "smeđa boja kože",
-        "sudac"
+        "sudac",
+        "vaga"
     ],
     "🧑🏿‍⚖": [
         "arbitar",
         "arbitar: tamno smeđa boja kože",
-        "pravda",
         "sudac",
-        "tamno smeđa boja kože"
+        "tamno smeđa boja kože",
+        "vaga"
     ],
     "👨‍⚖": [
         "pravda",
@@ -6147,8 +10094,7 @@
         "radnik",
         "radnik u tvornici",
         "traka",
-        "tvornica",
-        "tvornički radnik"
+        "tvornica"
     ],
     "🧑🏻‍🏭": [
         "industrija",
@@ -6157,8 +10103,7 @@
         "radnik u tvornici: svijetla boja kože",
         "svijetla boja kože",
         "traka",
-        "tvornica",
-        "tvornički radnik"
+        "tvornica"
     ],
     "🧑🏼‍🏭": [
         "industrija",
@@ -6167,8 +10112,7 @@
         "radnik u tvornici: svijetlo maslinasta boja kože",
         "svijetlo maslinasta boja kože",
         "traka",
-        "tvornica",
-        "tvornički radnik"
+        "tvornica"
     ],
     "🧑🏽‍🏭": [
         "industrija",
@@ -6177,8 +10121,7 @@
         "radnik u tvornici",
         "radnik u tvornici: maslinasta boja kože",
         "traka",
-        "tvornica",
-        "tvornički radnik"
+        "tvornica"
     ],
     "🧑🏾‍🏭": [
         "industrija",
@@ -6187,8 +10130,7 @@
         "radnik u tvornici: smeđa boja kože",
         "smeđa boja kože",
         "traka",
-        "tvornica",
-        "tvornički radnik"
+        "tvornica"
     ],
     "🧑🏿‍🏭": [
         "industrija",
@@ -6197,8 +10139,7 @@
         "radnik u tvornici: tamno smeđa boja kože",
         "tamno smeđa boja kože",
         "traka",
-        "tvornica",
-        "tvornički radnik"
+        "tvornica"
     ],
     "👨‍🏭": [
         "industrija",
@@ -6309,7 +10250,6 @@
         "menadžer",
         "poslovni čovjek",
         "službenik",
-        "ured",
         "uredski djelatnik"
     ],
     "🧑🏻‍💼": [
@@ -6318,7 +10258,6 @@
         "poslovni čovjek",
         "službenik",
         "svijetla boja kože",
-        "ured",
         "uredski djelatnik",
         "uredski djelatnik: svijetla boja kože"
     ],
@@ -6328,7 +10267,6 @@
         "poslovni čovjek",
         "službenik",
         "svijetlo maslinasta boja kože",
-        "ured",
         "uredski djelatnik",
         "uredski djelatnik: svijetlo maslinasta boja kože"
     ],
@@ -6338,7 +10276,6 @@
         "menadžer",
         "poslovni čovjek",
         "službenik",
-        "ured",
         "uredski djelatnik",
         "uredski djelatnik: maslinasta boja kože"
     ],
@@ -6348,7 +10285,6 @@
         "poslovni čovjek",
         "službenik",
         "smeđa boja kože",
-        "ured",
         "uredski djelatnik",
         "uredski djelatnik: smeđa boja kože"
     ],
@@ -6358,7 +10294,6 @@
         "poslovni čovjek",
         "službenik",
         "tamno smeđa boja kože",
-        "ured",
         "uredski djelatnik",
         "uredski djelatnik: tamno smeđa boja kože"
     ],
@@ -6794,6 +10729,7 @@
         "glumac",
         "izvođač",
         "pjevač",
+        "rock",
         "zabavljač",
         "zvijezda"
     ],
@@ -6802,6 +10738,7 @@
         "izvođač",
         "izvođač: svijetla boja kože",
         "pjevač",
+        "rock",
         "svijetla boja kože",
         "zabavljač",
         "zvijezda"
@@ -6811,6 +10748,7 @@
         "izvođač",
         "izvođač: svijetlo maslinasta boja kože",
         "pjevač",
+        "rock",
         "svijetlo maslinasta boja kože",
         "zabavljač",
         "zvijezda"
@@ -6821,6 +10759,7 @@
         "izvođač: maslinasta boja kože",
         "maslinasta boja kože",
         "pjevač",
+        "rock",
         "zabavljač",
         "zvijezda"
     ],
@@ -6829,6 +10768,7 @@
         "izvođač",
         "izvođač: smeđa boja kože",
         "pjevač",
+        "rock",
         "smeđa boja kože",
         "zabavljač",
         "zvijezda"
@@ -6838,6 +10778,7 @@
         "izvođač",
         "izvođač: tamno smeđa boja kože",
         "pjevač",
+        "rock",
         "tamno smeđa boja kože",
         "zabavljač",
         "zvijezda"
@@ -6936,43 +10877,37 @@
     ],
     "🧑‍🎨": [
         "paleta",
-        "slikar",
-        "umjetnik"
+        "slikar"
     ],
     "🧑🏻‍🎨": [
         "paleta",
         "slikar",
         "slikar: svijetla boja kože",
-        "svijetla boja kože",
-        "umjetnik"
+        "svijetla boja kože"
     ],
     "🧑🏼‍🎨": [
         "paleta",
         "slikar",
         "slikar: svijetlo maslinasta boja kože",
-        "svijetlo maslinasta boja kože",
-        "umjetnik"
+        "svijetlo maslinasta boja kože"
     ],
     "🧑🏽‍🎨": [
         "maslinasta boja kože",
         "paleta",
         "slikar",
-        "slikar: maslinasta boja kože",
-        "umjetnik"
+        "slikar: maslinasta boja kože"
     ],
     "🧑🏾‍🎨": [
         "paleta",
         "slikar",
         "slikar: smeđa boja kože",
-        "smeđa boja kože",
-        "umjetnik"
+        "smeđa boja kože"
     ],
     "🧑🏿‍🎨": [
         "paleta",
         "slikar",
         "slikar: tamno smeđa boja kože",
-        "tamno smeđa boja kože",
-        "umjetnik"
+        "tamno smeđa boja kože"
     ],
     "👨‍🎨": [
         "paleta",
@@ -7043,46 +10978,34 @@
         "umjetnica: tamno smeđa boja kože"
     ],
     "🧑‍✈": [
-        "avion",
-        "pilot",
         "pilot zrakoplova",
         "zrakoplov"
     ],
     "🧑🏻‍✈": [
-        "avion",
-        "pilot",
         "pilot zrakoplova",
         "pilot zrakoplova: svijetla boja kože",
         "svijetla boja kože",
         "zrakoplov"
     ],
     "🧑🏼‍✈": [
-        "avion",
-        "pilot",
         "pilot zrakoplova",
         "pilot zrakoplova: svijetlo maslinasta boja kože",
         "svijetlo maslinasta boja kože",
         "zrakoplov"
     ],
     "🧑🏽‍✈": [
-        "avion",
         "maslinasta boja kože",
-        "pilot",
         "pilot zrakoplova",
         "pilot zrakoplova: maslinasta boja kože",
         "zrakoplov"
     ],
     "🧑🏾‍✈": [
-        "avion",
-        "pilot",
         "pilot zrakoplova",
         "pilot zrakoplova: smeđa boja kože",
         "smeđa boja kože",
         "zrakoplov"
     ],
     "🧑🏿‍✈": [
-        "avion",
-        "pilot",
         "pilot zrakoplova",
         "pilot zrakoplova: tamno smeđa boja kože",
         "tamno smeđa boja kože",
@@ -7301,41 +11224,35 @@
         "tamno smeđa boja kože"
     ],
     "🧑‍🚒": [
-        "vatrogasac",
         "vatrogasni djelatnik",
         "vatrogasno vozilo"
     ],
     "🧑🏻‍🚒": [
         "svijetla boja kože",
-        "vatrogasac",
         "vatrogasni djelatnik",
         "vatrogasni djelatnik: svijetla boja kože",
         "vatrogasno vozilo"
     ],
     "🧑🏼‍🚒": [
         "svijetlo maslinasta boja kože",
-        "vatrogasac",
         "vatrogasni djelatnik",
         "vatrogasni djelatnik: svijetlo maslinasta boja kože",
         "vatrogasno vozilo"
     ],
     "🧑🏽‍🚒": [
         "maslinasta boja kože",
-        "vatrogasac",
         "vatrogasni djelatnik",
         "vatrogasni djelatnik: maslinasta boja kože",
         "vatrogasno vozilo"
     ],
     "🧑🏾‍🚒": [
         "smeđa boja kože",
-        "vatrogasac",
         "vatrogasni djelatnik",
         "vatrogasni djelatnik: smeđa boja kože",
         "vatrogasno vozilo"
     ],
     "🧑🏿‍🚒": [
         "tamno smeđa boja kože",
-        "vatrogasac",
         "vatrogasni djelatnik",
         "vatrogasni djelatnik: tamno smeđa boja kože",
         "vatrogasno vozilo"
@@ -7798,6 +11715,46 @@
         "prikradanje",
         "skrivanje"
     ],
+    "🥷🏻": [
+        "borac",
+        "nindža",
+        "nindža: svijetla boja kože",
+        "prikradanje",
+        "skrivanje",
+        "svijetla boja kože"
+    ],
+    "🥷🏼": [
+        "borac",
+        "nindža",
+        "nindža: svijetlo maslinasta boja kože",
+        "prikradanje",
+        "skrivanje",
+        "svijetlo maslinasta boja kože"
+    ],
+    "🥷🏽": [
+        "borac",
+        "maslinasta boja kože",
+        "nindža",
+        "nindža: maslinasta boja kože",
+        "prikradanje",
+        "skrivanje"
+    ],
+    "🥷🏾": [
+        "borac",
+        "nindža",
+        "nindža: smeđa boja kože",
+        "prikradanje",
+        "skrivanje",
+        "smeđa boja kože"
+    ],
+    "🥷🏿": [
+        "borac",
+        "nindža",
+        "nindža: tamno smeđa boja kože",
+        "prikradanje",
+        "skrivanje",
+        "tamno smeđa boja kože"
+    ],
     "👷": [
         "gradnja",
         "građevinski radnik",
@@ -7923,6 +11880,58 @@
         "tamno smeđa boja kože",
         "zidarica",
         "zidarica: tamno smeđa boja kože"
+    ],
+    "🫅": [
+        "kraljevski",
+        "monarh",
+        "osoba s krunom",
+        "plemenito",
+        "plemstvo"
+    ],
+    "🫅🏻": [
+        "kraljevski",
+        "monarh",
+        "osoba s krunom",
+        "osoba s krunom: svijetla boja kože",
+        "plemenito",
+        "plemstvo",
+        "svijetla boja kože"
+    ],
+    "🫅🏼": [
+        "kraljevski",
+        "monarh",
+        "osoba s krunom",
+        "osoba s krunom: svijetlo maslinasta boja kože",
+        "plemenito",
+        "plemstvo",
+        "svijetlo maslinasta boja kože"
+    ],
+    "🫅🏽": [
+        "kraljevski",
+        "maslinasta boja kože",
+        "monarh",
+        "osoba s krunom",
+        "osoba s krunom: maslinasta boja kože",
+        "plemenito",
+        "plemstvo"
+    ],
+    "🫅🏾": [
+        "kraljevski",
+        "monarh",
+        "osoba s krunom",
+        "osoba s krunom: smeđa boja kože",
+        "plemenito",
+        "plemstvo",
+        "smeđa boja kože"
+    ],
+    "🫅🏿": [
+        "kraljevski",
+        "monarh",
+        "osoba s krunom",
+        "osoba s krunom: tamno smeđa boja kože",
+        "plemenito",
+        "plemstvo",
+        "tamno smeđa boja kože"
     ],
     "🤴": [
         "princ"
@@ -8194,17 +12203,13 @@
     ],
     "🤵": [
         "mladoženja",
-        "muškarac",
-        "muškarac u smokingu",
-        "odijelo",
+        "osoba",
         "osoba u smokingu",
         "smoking"
     ],
     "🤵🏻": [
         "mladoženja",
-        "muškarac",
-        "muškarac u smokingu",
-        "odijelo",
+        "osoba",
         "osoba u smokingu",
         "osoba u smokingu: svijetla boja kože",
         "smoking",
@@ -8212,9 +12217,7 @@
     ],
     "🤵🏼": [
         "mladoženja",
-        "muškarac",
-        "muškarac u smokingu",
-        "odijelo",
+        "osoba",
         "osoba u smokingu",
         "osoba u smokingu: svijetlo maslinasta boja kože",
         "smoking",
@@ -8223,18 +12226,14 @@
     "🤵🏽": [
         "maslinasta boja kože",
         "mladoženja",
-        "muškarac",
-        "muškarac u smokingu",
-        "odijelo",
+        "osoba",
         "osoba u smokingu",
         "osoba u smokingu: maslinasta boja kože",
         "smoking"
     ],
     "🤵🏾": [
         "mladoženja",
-        "muškarac",
-        "muškarac u smokingu",
-        "odijelo",
+        "osoba",
         "osoba u smokingu",
         "osoba u smokingu: smeđa boja kože",
         "smeđa boja kože",
@@ -8242,9 +12241,7 @@
     ],
     "🤵🏿": [
         "mladoženja",
-        "muškarac",
-        "muškarac u smokingu",
-        "odijelo",
+        "osoba",
         "osoba u smokingu",
         "osoba u smokingu: tamno smeđa boja kože",
         "smoking",
@@ -8489,6 +12486,110 @@
         "trudnica",
         "trudnica: tamno smeđa boja kože",
         "žena"
+    ],
+    "🫃": [
+        "naduto",
+        "puno",
+        "trbuh",
+        "trudni muškarac",
+        "trudnoća"
+    ],
+    "🫃🏻": [
+        "naduto",
+        "puno",
+        "svijetla boja kože",
+        "trbuh",
+        "trudni muškarac",
+        "trudni muškarac: svijetla boja kože",
+        "trudnoća"
+    ],
+    "🫃🏼": [
+        "naduto",
+        "puno",
+        "svijetlo maslinasta boja kože",
+        "trbuh",
+        "trudni muškarac",
+        "trudni muškarac: svijetlo maslinasta boja kože",
+        "trudnoća"
+    ],
+    "🫃🏽": [
+        "maslinasta boja kože",
+        "naduto",
+        "puno",
+        "trbuh",
+        "trudni muškarac",
+        "trudni muškarac: maslinasta boja kože",
+        "trudnoća"
+    ],
+    "🫃🏾": [
+        "naduto",
+        "puno",
+        "smeđa boja kože",
+        "trbuh",
+        "trudni muškarac",
+        "trudni muškarac: smeđa boja kože",
+        "trudnoća"
+    ],
+    "🫃🏿": [
+        "naduto",
+        "puno",
+        "tamno smeđa boja kože",
+        "trbuh",
+        "trudni muškarac",
+        "trudni muškarac: tamno smeđa boja kože",
+        "trudnoća"
+    ],
+    "🫄": [
+        "naduto",
+        "puno",
+        "trbuh",
+        "trudna osoba",
+        "trudnoća"
+    ],
+    "🫄🏻": [
+        "naduto",
+        "puno",
+        "svijetla boja kože",
+        "trbuh",
+        "trudna osoba",
+        "trudna osoba: svijetla boja kože",
+        "trudnoća"
+    ],
+    "🫄🏼": [
+        "naduto",
+        "puno",
+        "svijetlo maslinasta boja kože",
+        "trbuh",
+        "trudna osoba",
+        "trudna osoba: svijetlo maslinasta boja kože",
+        "trudnoća"
+    ],
+    "🫄🏽": [
+        "maslinasta boja kože",
+        "naduto",
+        "puno",
+        "trbuh",
+        "trudna osoba",
+        "trudna osoba: maslinasta boja kože",
+        "trudnoća"
+    ],
+    "🫄🏾": [
+        "naduto",
+        "puno",
+        "smeđa boja kože",
+        "trbuh",
+        "trudna osoba",
+        "trudna osoba: smeđa boja kože",
+        "trudnoća"
+    ],
+    "🫄🏿": [
+        "naduto",
+        "puno",
+        "tamno smeđa boja kože",
+        "trbuh",
+        "trudna osoba",
+        "trudna osoba: tamno smeđa boja kože",
+        "trudnoća"
     ],
     "🤱": [
         "beba",
@@ -9746,6 +13847,12 @@
     "🧟‍♀": [
         "ženski zombi",
         "živi mrtvac"
+    ],
+    "🧌": [
+        "bajka",
+        "fantastika",
+        "trol",
+        "čudovište"
     ],
     "💆": [
         "masaža",
@@ -14183,6 +18290,41 @@
         "poljubac",
         "romantika"
     ],
+    "💏🏻": [
+        "par",
+        "poljubac",
+        "poljubac: svijetla boja kože",
+        "romantika",
+        "svijetla boja kože"
+    ],
+    "💏🏼": [
+        "par",
+        "poljubac",
+        "poljubac: svijetlo maslinasta boja kože",
+        "romantika",
+        "svijetlo maslinasta boja kože"
+    ],
+    "💏🏽": [
+        "maslinasta boja kože",
+        "par",
+        "poljubac",
+        "poljubac: maslinasta boja kože",
+        "romantika"
+    ],
+    "💏🏾": [
+        "par",
+        "poljubac",
+        "poljubac: smeđa boja kože",
+        "romantika",
+        "smeđa boja kože"
+    ],
+    "💏🏿": [
+        "par",
+        "poljubac",
+        "poljubac: tamno smeđa boja kože",
+        "romantika",
+        "tamno smeđa boja kože"
+    ],
     "👩‍❤‍💋‍👨": [
         "muškarac",
         "par",
@@ -14211,6 +18353,51 @@
         "par sa srcem",
         "romantika",
         "srce"
+    ],
+    "💑🏻": [
+        "ljubav",
+        "par",
+        "par sa srcem",
+        "par sa srcem: svijetla boja kože",
+        "romantika",
+        "srce",
+        "svijetla boja kože"
+    ],
+    "💑🏼": [
+        "ljubav",
+        "par",
+        "par sa srcem",
+        "par sa srcem: svijetlo maslinasta boja kože",
+        "romantika",
+        "srce",
+        "svijetlo maslinasta boja kože"
+    ],
+    "💑🏽": [
+        "ljubav",
+        "maslinasta boja kože",
+        "par",
+        "par sa srcem",
+        "par sa srcem: maslinasta boja kože",
+        "romantika",
+        "srce"
+    ],
+    "💑🏾": [
+        "ljubav",
+        "par",
+        "par sa srcem",
+        "par sa srcem: smeđa boja kože",
+        "romantika",
+        "smeđa boja kože",
+        "srce"
+    ],
+    "💑🏿": [
+        "ljubav",
+        "par",
+        "par sa srcem",
+        "par sa srcem: tamno smeđa boja kože",
+        "romantika",
+        "srce",
+        "tamno smeđa boja kože"
     ],
     "👩‍❤‍👨": [
         "ljubav",
@@ -14650,6 +18837,7 @@
     ],
     "🦬": [
         "bizon",
+        "europski bizon",
         "govedo",
         "stado"
     ],
@@ -14982,7 +19170,7 @@
         "dupin"
     ],
     "🦭": [
-        "sredozemna medvjedica",
+        "morski lav",
         "tuljan"
     ],
     "🐟️": [
@@ -15010,6 +19198,11 @@
         "spirala",
         "spiralna školjka",
         "školja"
+    ],
+    "🪸": [
+        "greben",
+        "koralj",
+        "ocean"
     ],
     "🐌": [
         "puž"
@@ -15074,7 +19267,7 @@
     ],
     "🪰": [
         "bolest",
-        "insekt",
+        "crv",
         "muha",
         "nametnik",
         "trulež"
@@ -15082,6 +19275,7 @@
     "🪱": [
         "crv",
         "glista",
+        "kolutićavac",
         "parazit"
     ],
     "🦠": [
@@ -15105,6 +19299,15 @@
     "💮": [
         "bijeli cvijet",
         "cvijet"
+    ],
+    "🪷": [
+        "Indija",
+        "Vijetnam",
+        "budizam",
+        "cvijet",
+        "hinduizam",
+        "lotus",
+        "čistoća"
     ],
     "🏵️": [
         "biljka",
@@ -15215,6 +19418,18 @@
         "puhanje",
         "treperenje",
         "vjetar"
+    ],
+    "🪹": [
+        "gniježđenje",
+        "prazno gnijezdo"
+    ],
+    "🪺": [
+        "gnijezdo s jajima",
+        "gniježđenje"
+    ],
+    "🍄": [
+        "biljka",
+        "gljiva"
     ],
     "🍇": [
         "biljka",
@@ -15353,7 +19568,9 @@
         "papričica"
     ],
     "🫑": [
+        "babura",
         "paprika",
+        "papričica",
         "povrće"
     ],
     "🥒": [
@@ -15383,15 +19600,16 @@
         "luk",
         "povrće"
     ],
-    "🍄": [
-        "biljka",
-        "gljiva"
-    ],
     "🥜": [
         "grickalice",
         "hrana",
         "kikiriki",
         "povrće"
+    ],
+    "🫘": [
+        "grah",
+        "hrana",
+        "mahunarka"
     ],
     "🌰": [
         "biljka",
@@ -15516,8 +19734,8 @@
         "ćufte"
     ],
     "🥚": [
+        "doručak",
         "hrana",
-        "jaja",
         "jaje"
     ],
     "🍳": [
@@ -15536,8 +19754,8 @@
     ],
     "🍲": [
         "gulaš",
-        "zdjela",
-        "zdjela s hranom"
+        "lonac",
+        "lonac s hranom"
     ],
     "🫕": [
         "fondi",
@@ -15887,13 +20105,21 @@
         "žestoko",
         "žestoko piće"
     ],
+    "🫗": [
+        "izlijevanje tekućine",
+        "piće",
+        "prazno",
+        "proliti",
+        "čaša"
+    ],
     "🥤": [
         "sok",
         "čaša sa slamkom"
     ],
     "🧋": [
-        "bubble tea",
-        "kuglice",
+        "kuglica",
+        "mjehurić",
+        "mjehuričasti čaj",
         "mlijeko",
         "čaj"
     ],
@@ -15940,6 +20166,14 @@
         "kuhinjski nož",
         "nož",
         "oružje"
+    ],
+    "🫙": [
+        "pohrana",
+        "posuda",
+        "prazno",
+        "staklenka",
+        "umak",
+        "začin"
     ],
     "🏺": [
         "amfora",
@@ -16138,8 +20372,7 @@
     ],
     "🏪": [
         "trgovina",
-        "trgovina mješovitom robom",
-        "zgrada"
+        "trgovina mješovitom robom"
     ],
     "🏫": [
         "zgrada",
@@ -16147,8 +20380,7 @@
     ],
     "🏬": [
         "robna kuća",
-        "trgovina",
-        "zgrada"
+        "trgovina"
     ],
     "🏭️": [
         "tvornica",
@@ -16157,13 +20389,11 @@
     "🏯": [
         "dvorac",
         "japan",
-        "japanski dvorac",
-        "zgrada"
+        "japanski dvorac"
     ],
     "🏰": [
-        "Europa",
         "dvorac",
-        "zgrada"
+        "europski"
     ],
     "💒": [
         "crkva",
@@ -16261,8 +20491,7 @@
         "panorama grada u sumrak",
         "sumrak",
         "večer",
-        "zalazak",
-        "zgrada"
+        "zalazak"
     ],
     "🌇": [
         "sumrak",
@@ -16274,9 +20503,7 @@
     "🌉": [
         "most",
         "most noću",
-        "noć",
-        "vrijeme",
-        "zvijezde"
+        "noć"
     ],
     "♨️": [
         "izvor",
@@ -16288,6 +20515,11 @@
         "konj",
         "konjić na vrtuljku",
         "vrtuljak"
+    ],
+    "🛝": [
+        "dječji tobogan",
+        "igra",
+        "zabavni park"
     ],
     "🎡": [
         "kotač",
@@ -16314,9 +20546,9 @@
     ],
     "🚂": [
         "lokomotiva",
+        "motor",
         "para",
-        "vlak",
-        "vozilo"
+        "vlak"
     ],
     "🚃": [
         "pruga",
@@ -16327,19 +20559,19 @@
         "željeznica"
     ],
     "🚄": [
-        "Japan",
         "brzi vlak",
         "brzina",
+        "japanski vlak shinkansen",
         "vlak",
         "željeznica"
     ],
     "🚅": [
-        "brzi vlak s lokomotivom u obliku metka",
+        "brzi vlak shinkansen",
         "brzina",
         "japan",
+        "japanski brzi vlak shinkansen",
         "metak",
-        "vlak",
-        "željeznica"
+        "vlak"
     ],
     "🚆": [
         "vlak",
@@ -16513,7 +20745,8 @@
         "romobil"
     ],
     "🛹": [
-        "skateboard"
+        "skateboard",
+        "skejt"
     ],
     "🛼": [
         "koturaljka",
@@ -16545,6 +20778,12 @@
         "postaja",
         "pumpa",
         "pumpa za gorivo"
+    ],
+    "🛞": [
+        "guma",
+        "kotač",
+        "krug",
+        "okret"
     ],
     "🚨": [
         "policija",
@@ -16579,6 +20818,14 @@
         "alat",
         "brod",
         "sidro"
+    ],
+    "🛟": [
+        "kolut za spašavanje",
+        "plutanje",
+        "pojas za spašavanje",
+        "sigurnost",
+        "spasitelj",
+        "spašavanje"
     ],
     "⛵️": [
         "jahta",
@@ -16619,7 +20866,7 @@
         "vozilo"
     ],
     "✈️": [
-        "vozilo",
+        "avion",
         "zrakoplov"
     ],
     "🛩️": [
@@ -16628,17 +20875,16 @@
         "zrakoplov"
     ],
     "🛫": [
-        "odlazak",
+        "avion",
         "polijetanje",
         "polijetanje zrakoplova",
-        "vozilo",
+        "prijava",
         "zrakoplov"
     ],
     "🛬": [
         "dolazak",
         "slijetanje",
         "slijetanje zrakoplova",
-        "vozilo",
         "zrakoplov"
     ],
     "🪂": [
@@ -16933,11 +21179,9 @@
     ],
     "🌒": [
         "mjesec",
-        "polumjesec",
         "polumjesec prve četvrti",
-        "rast",
-        "svemir",
-        "vrijeme"
+        "prva četvrt",
+        "rastući polumjesec"
     ],
     "🌓": [
         "mjesec",
@@ -16948,10 +21192,9 @@
     ],
     "🌔": [
         "mjesec",
-        "mjesec rastuće prve četvrti",
-        "rast",
-        "svemir",
-        "vrijeme"
+        "mjesec prve četvrti",
+        "rastući",
+        "rastući izbočeni mjesec"
     ],
     "🌕️": [
         "mjesec",
@@ -16963,10 +21206,9 @@
     ],
     "🌖": [
         "mjesec",
-        "mjesec opadajuće prve četvrti",
-        "opadanje",
-        "svemir",
-        "vrijeme"
+        "mjesec treće četvrti",
+        "padajući izbočeni mjesec",
+        "padajući mjesec"
     ],
     "🌗": [
         "mjesec",
@@ -17357,9 +21599,8 @@
         "ulaznica"
     ],
     "🎖️": [
-        "medalja",
         "slavlje",
-        "vojna medalja",
+        "vojno odličje",
         "vojska"
     ],
     "🏆️": [
@@ -17558,6 +21799,14 @@
         "let",
         "papirnati zmaj"
     ],
+    "🔫": [
+        "alat",
+        "oružje",
+        "pištolj",
+        "pištolj na vodu",
+        "revolver",
+        "voda"
+    ],
     "🎱": [
         "8",
         "biljarske kugle",
@@ -17577,15 +21826,6 @@
         "vještica",
         "čarobni štapić",
         "čarobnjak"
-    ],
-    "🧿": [
-        "nazar",
-        "nazar perlica",
-        "perlica",
-        "plavo oko",
-        "talisman",
-        "tursko oko",
-        "zlo oko"
     ],
     "🎮️": [
         "igra",
@@ -17623,6 +21863,13 @@
         "pinjata",
         "slavlje",
         "zabava"
+    ],
+    "🪩": [
+        "disko",
+        "disko kugla",
+        "ples",
+        "zabava",
+        "šljokice"
     ],
     "🪆": [
         "Rusija",
@@ -17728,6 +21975,7 @@
     ],
     "👓️": [
         "naočale",
+        "odjeća",
         "oko"
     ],
     "🕶️": [
@@ -17737,9 +21985,9 @@
         "tamno"
     ],
     "🥽": [
+        "naočale za plivanje",
         "plivanje",
         "varenje",
-        "zaštita za oči",
         "zaštitne naočale"
     ],
     "🥼": [
@@ -17752,8 +22000,7 @@
         "hitni slučaj",
         "prsluk",
         "sigurnosni prsluk",
-        "sigurnost",
-        "spašavanje"
+        "sigurnost"
     ],
     "👔": [
         "kravata",
@@ -17852,7 +22099,10 @@
     "🩴": [
         "japanka",
         "japanke",
-        "obuća za plažu"
+        "obuća za plažu",
+        "sandale",
+        "sandale za plažu",
+        "zōri"
     ],
     "👞": [
         "cipela",
@@ -17936,6 +22186,7 @@
     ],
     "🪖": [
         "ratnik",
+        "vojni",
         "vojni šljem",
         "vojnik",
         "vojska",
@@ -18068,9 +22319,10 @@
         "saksofon"
     ],
     "🪗": [
-        "glazba",
         "harmonika",
-        "instrument"
+        "instrument",
+        "mala harmonika",
+        "ručna harmonika"
     ],
     "🎸": [
         "gitara",
@@ -18107,6 +22359,7 @@
         "bubanj",
         "konga",
         "ritam",
+        "udarac",
         "visoki bubanj"
     ],
     "📱": [
@@ -18140,6 +22393,11 @@
     ],
     "🔋": [
         "baterija"
+    ],
+    "🪫": [
+        "baterija s niskom razinom napunjenosti",
+        "elektronika",
+        "niska razina napunjenosti"
     ],
     "🔌": [
         "struja",
@@ -18210,7 +22468,7 @@
     ],
     "🎞️": [
         "film",
-        "filmska traka",
+        "filmska vrpca",
         "kadrovi",
         "kino"
     ],
@@ -18580,9 +22838,8 @@
     ],
     "🗂️": [
         "indeks",
-        "kartice",
-        "razdjelnici kartica",
-        "razdjelnik"
+        "pregradni karton",
+        "razdjelnici"
     ],
     "📅": [
         "datum",
@@ -18745,11 +23002,11 @@
         "prekriženi mačevi",
         "prekriženo"
     ],
-    "🔫": [
-        "alat",
-        "oružje",
-        "pištolj",
-        "revolver"
+    "💣️": [
+        "bomba",
+        "eksplozija",
+        "karikatura",
+        "uskoro"
     ],
     "🪃": [
         "Australija",
@@ -18772,7 +23029,7 @@
     ],
     "🪚": [
         "alat",
-        "drvosječa",
+        "drvo",
         "pila",
         "ručna pila",
         "stolar"
@@ -18822,10 +23079,12 @@
         "lanci"
     ],
     "🪝": [
-        "krivulja",
+        "kuka",
+        "prodajno mjesto",
         "udica",
-        "ulov",
-        "uloviti"
+        "uhvatiti",
+        "uloviti",
+        "zakrivljeno"
     ],
     "🧰": [
         "alat",
@@ -18835,14 +23094,15 @@
     ],
     "🧲": [
         "magnet",
-        "megnetizam",
+        "magnetizam",
         "potkova",
         "privlačenje"
     ],
     "🪜": [
         "ljestve",
         "penjanje",
-        "stube"
+        "prečka",
+        "stuba"
     ],
     "⚗️": [
         "alat",
@@ -18910,17 +23170,32 @@
         "flaster",
         "samoljepivi flaster"
     ],
+    "🩼": [
+        "invaliditet",
+        "ozljeda",
+        "pomagalo za kretanje",
+        "štaka",
+        "štap"
+    ],
     "🩺": [
         "liječnik",
         "medicina",
         "srce",
         "stetoskop"
     ],
+    "🩻": [
+        "kosti",
+        "kostur",
+        "liječnik",
+        "medicina",
+        "rendgenska snimka"
+    ],
     "🚪": [
         "vrata"
     ],
     "🛗": [
         "dizalo",
+        "dizanje",
         "lift",
         "pristupačnost"
     ],
@@ -18963,8 +23238,7 @@
         "odčepljivanje",
         "odčepljivač",
         "vakuum",
-        "vodoinstalater",
-        "začepljenje"
+        "vodoinstalater"
     ],
     "🚿": [
         "tuš",
@@ -18975,8 +23249,10 @@
         "kupanje"
     ],
     "🪤": [
+        "klopka",
         "mamac",
         "mišolovka",
+        "uhvatiti",
         "zamka"
     ],
     "🪒": [
@@ -19015,6 +23291,8 @@
         "toaletni papir"
     ],
     "🪣": [
+        "bačva",
+        "kabao",
         "kanta",
         "vjedro"
     ],
@@ -19024,6 +23302,13 @@
         "pranje",
         "sapun",
         "sapunica"
+    ],
+    "🫧": [
+        "mjehurić",
+        "mjehurići",
+        "pod vodom",
+        "sapun",
+        "čisto"
     ],
     "🪥": [
         "dentalna",
@@ -19070,6 +23355,24 @@
         "smrt",
         "urna"
     ],
+    "🧿": [
+        "nazar",
+        "nazar perlica",
+        "perlica",
+        "plavo oko",
+        "talisman",
+        "tursko oko",
+        "zlo oko"
+    ],
+    "🪬": [
+        "Fatima",
+        "Marija",
+        "Mirjam",
+        "amajlija",
+        "hamsa",
+        "ruka",
+        "zaštita"
+    ],
     "🗿": [
         "kipovi",
         "lice",
@@ -19078,18 +23381,27 @@
     ],
     "🪧": [
         "demonstracije",
+        "prosvjed",
         "protest",
         "transparent",
         "znak"
+    ],
+    "🪪": [
+        "dozvola",
+        "osobna",
+        "osobna iskaznica",
+        "sigurnost",
+        "vjerodajnice"
     ],
     "🏧": [
         "bankomat",
         "znak za bankomat"
     ],
     "🚮": [
-        "koš za otpatke",
+        "koš za smeće",
         "otpad",
-        "znak za koš za otpatke"
+        "smeće",
+        "znak za koš za smeće"
     ],
     "🚰": [
         "pitka",
@@ -19286,6 +23598,9 @@
     "↔️": [
         "strelica",
         "strelica lijevo-desno"
+    ],
+    "↮": [
+        "kosa crta sa strelicom ulijevo i udesno"
     ],
     "↩️": [
         "desna strelica koja se zakrivljuje ulijevo",
@@ -19641,23 +23956,31 @@
         "otkaži",
         "pomnoži",
         "x",
-        "znak množenja",
         "×"
     ],
     "➕": [
+        "+",
         "matematika",
         "plus",
-        "znak plus"
+        "znak"
     ],
     "➖": [
+        "-",
         "matematika",
         "minus",
-        "znak minus"
+        "znak"
     ],
     "➗": [
         "dijeljenje",
         "matematika",
-        "znak dijeljenja"
+        "znak",
+        "znak dijeljenja",
+        "÷"
+    ],
+    "🟰": [
+        "jednako",
+        "matematika",
+        "podebljani znak jednakosti"
     ],
     "♾️": [
         "beskonačnost",
@@ -19680,10 +24003,11 @@
         "znak"
     ],
     "❓️": [
+        "?",
+        "crveni upitnik",
         "interpunkcija",
-        "pitanje",
-        "upitnik",
-        "znak"
+        "oznaka",
+        "pitanje"
     ],
     "❔": [
         "bijeli upitnik",
@@ -19700,9 +24024,11 @@
         "znak"
     ],
     "❗️": [
+        "!",
+        "crveni uskličnik",
         "interpunkcija",
-        "uskličnik",
-        "znak"
+        "oznaka",
+        "uskličnik"
     ],
     "〰️": [
         "crta",
@@ -19718,7 +24044,7 @@
     ],
     "💲": [
         "dolar",
-        "masno otisnuti znak dolara",
+        "masno otisnut znak dolara",
         "novac",
         "valuta"
     ],
@@ -19818,6 +24144,7 @@
         "zvijezda"
     ],
     "❇️": [
+        "iskra",
         "zvjezdica"
     ],
     "©️": [
@@ -20287,7 +24614,7 @@
         "bijela",
         "ružičasta",
         "svjetloplava",
-        "transrodne",
+        "transrodne osobe",
         "zastava",
         "zastava pokreta transrodnih osoba"
     ],
@@ -21340,6 +25667,166 @@
     "🏴󠁧󠁢󠁷󠁬󠁳󠁿": [
         "zastava",
         "zastava: Wales"
+    ],
+    "¤": [
+        "nepoznata valuta"
+    ],
+    "¢": [
+        "cent"
+    ],
+    "$": [
+        "USD",
+        "dolar",
+        "novac",
+        "pezo"
+    ],
+    "£": [
+        "EGP",
+        "GBP",
+        "funta",
+        "valuta"
+    ],
+    "¥": [
+        "CNY",
+        "JPY",
+        "jen",
+        "juan",
+        "valuta"
+    ],
+    "֏": [
+        "armenski dram"
+    ],
+    "؋": [
+        "afganistanski afgani"
+    ],
+    "৳": [
+        "bangladeška taka"
+    ],
+    "฿": [
+        "tajlandski baht"
+    ],
+    "៛": [
+        "kambodžanski rijal"
+    ],
+    "₡": [
+        "kostarikanski kolon"
+    ],
+    "₢": [
+        "cruzeiro"
+    ],
+    "₣": [
+        "francuski franak"
+    ],
+    "₤": [
+        "lira"
+    ],
+    "₥": [
+        "mil",
+        "mill"
+    ],
+    "₦": [
+        "nigerijska naira"
+    ],
+    "₧": [
+        "španjolska pezeta"
+    ],
+    "₩": [
+        "KPW",
+        "sjevernokorejski von",
+        "von"
+    ],
+    "₪": [
+        "novi izraelski šekel"
+    ],
+    "₫": [
+        "vijetnamski dong"
+    ],
+    "€": [
+        "EUR",
+        "euro",
+        "valuta"
+    ],
+    "₭": [
+        "laoski kip"
+    ],
+    "₮": [
+        "mongolski tugrik"
+    ],
+    "₰": [
+        "njemački pfennig"
+    ],
+    "₱": [
+        "pezo"
+    ],
+    "₲": [
+        "paragvajski gvarani"
+    ],
+    "₳": [
+        "austral"
+    ],
+    "₴": [
+        "ukrajinska hrivnja"
+    ],
+    "₵": [
+        "ganski cedi"
+    ],
+    "₶": [
+        "francuska livra"
+    ],
+    "₷": [
+        "spesmilo"
+    ],
+    "₸": [
+        "kazahstanski tenge"
+    ],
+    "₹": [
+        "indijska rupija",
+        "rupija",
+        "valuta"
+    ],
+    "₺": [
+        "turska lira"
+    ],
+    "₼": [
+        "azerbajdžanski manat"
+    ],
+    "₽": [
+        "rubalj",
+        "valuta"
+    ],
+    "₾": [
+        "gruzijski lari"
+    ],
+    "₿": [
+        "BTC",
+        "bitcoin"
+    ],
+    "₨": [
+        "rupija"
+    ],
+    "﷼": [
+        "rijal"
+    ],
+    "¹": [
+        "1",
+        "eksponent",
+        "eksponent 1"
+    ],
+    "²": [
+        "2",
+        "eksponent",
+        "eksponent 2",
+        "kvadratni"
+    ],
+    "³": [
+        "3",
+        "eksponent",
+        "eksponent 3",
+        "kubični"
+    ],
+    "µ": [
+        "mjera",
+        "znak mikro"
     ],
     "🏻": [
         "boja",

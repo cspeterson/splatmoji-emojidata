@@ -1,4 +1,1175 @@
 {
+    "‾": [
+        "lína",
+        "yfirstrik"
+    ],
+    "_": [
+        "lágstrik",
+        "niðurstrik",
+        "strik",
+        "undirstrik"
+    ],
+    "-": [
+        "bandstrik",
+        "bandstrik-mínus",
+        "mínus",
+        "þankastrik"
+    ],
+    "‐": [
+        "bandstrik",
+        "þankastrik"
+    ],
+    "–": [
+        "stutt",
+        "tilstrik",
+        "þankastrik"
+    ],
+    "—": [
+        "langt",
+        "þankastrik"
+    ],
+    "―": [
+        "lárétt rönd",
+        "lína",
+        "rönd",
+        "þankastrik"
+    ],
+    "・": [
+        "katakana",
+        "katakana miðstæður punktur",
+        "miðdepill",
+        "miðpunktur",
+        "punktar"
+    ],
+    ",": [
+        "komma"
+    ],
+    "،": [
+        "arabísk",
+        "arabísk komma",
+        "komma"
+    ],
+    "、": [
+        "komma",
+        "myndletur",
+        "myndleturskomma"
+    ],
+    ";": [
+        "semíkomma"
+    ],
+    "؛": [
+        "arabísk",
+        "arabísk semíkomma",
+        "semíkomma"
+    ],
+    ":": [
+        "tvípunktur"
+    ],
+    "!": [
+        "bang",
+        "hrópmerki",
+        "upphrópun",
+        "upphrópunarmerki"
+    ],
+    "¡": [
+        "bang",
+        "hrópmerki",
+        "upphrópun",
+        "upphrópunarmerki",
+        "öfugt",
+        "öfugt upphrópunarmerki"
+    ],
+    "?": [
+        "spurning",
+        "spurningarmerki"
+    ],
+    "¿": [
+        "spurning",
+        "spurningarmerki",
+        "öfugt",
+        "öfugt spurningarmerki"
+    ],
+    "؟": [
+        "arabískt",
+        "arabískt spurningarmerki",
+        "spurning",
+        "spurningarmerki"
+    ],
+    ".": [
+        "depill",
+        "punktur"
+    ],
+    "…": [
+        "punktar",
+        "úrfelling",
+        "úrfellingarpunktar"
+    ],
+    "。": [
+        "myndpunktur",
+        "punktur"
+    ],
+    "·": [
+        "depill",
+        "millipunktur",
+        "miðdepill",
+        "miðja",
+        "miðjudepill"
+    ],
+    "'": [
+        "einföld gæsalöpp",
+        "gæsalöpp",
+        "prenthögg",
+        "úrfellingarmerki"
+    ],
+    "‘": [
+        "einföld gæsalöpp",
+        "gæsalöpp",
+        "snjallgæsalöpp",
+        "vinstra högg",
+        "vinstra úrfellingarmerki",
+        "úrfellingarmerki"
+    ],
+    "’": [
+        "einföld gæsalöpp",
+        "gæsalöpp",
+        "hægra högg",
+        "hægra úrfellingarmerki",
+        "snjallgæsalöpp",
+        "úrfellingarmerki"
+    ],
+    "‚": [
+        "gæsalöpp",
+        "lágstætt hægra högg",
+        "lágstætt hægra úrfellingarmerkii",
+        "lágstæð gæsalöpp",
+        "úrfellingamerki"
+    ],
+    "“": [
+        "gæsalöpp",
+        "hástætt vinstra tvíhögg",
+        "snjalltilvitnun",
+        "tilvitnun",
+        "tvöföld gæsalöpp",
+        "vinstri gæsalappir"
+    ],
+    "”": [
+        "gæsalöpp",
+        "hástætt hægra tvíhögg",
+        "hægri gæsalappir",
+        "snjalltilvitnun",
+        "tilvitnun",
+        "tvöföld gæsalöpp"
+    ],
+    "„": [
+        "gæsalöpp",
+        "lágstætt hægra tvíhögg",
+        "lágstæð tilvitnun",
+        "lágstæðar hægri gæsalappir",
+        "snjalltilvitnun",
+        "tilvitnun",
+        "tvöföld gæsalöpp"
+    ],
+    "«": [
+        "franskar gæsalappir vinstri",
+        "horn",
+        "hornklofar",
+        "innskotsmerki",
+        "setja í gæsalappir",
+        "tvíoddur",
+        "vinstri"
+    ],
+    "»": [
+        "franskar gæsalappir hægri",
+        "horn",
+        "hornklofar",
+        "hægri",
+        "innskotsmerki",
+        "setja í gæsalappir",
+        "tvíoddur"
+    ],
+    ")": [
+        "hægri svigi",
+        "svigi",
+        "svigi lokast"
+    ],
+    "[": [
+        "hornklofi",
+        "klofi",
+        "vinstri hornklofi"
+    ],
+    "]": [
+        "hornklofi",
+        "hægri hornklofi",
+        "klofi"
+    ],
+    "{": [
+        "oddsvigi",
+        "slaufa",
+        "slaufusvigi",
+        "svigi",
+        "vinstri oddsvigi"
+    ],
+    "}": [
+        "hægri oddsvigi",
+        "oddsvigi",
+        "slaufa",
+        "slaufusvigi",
+        "svigi"
+    ],
+    "〈": [
+        "oddklofi",
+        "oddsvigi",
+        "olnbogasvigi",
+        "vinstri oddklofi"
+    ],
+    "〉": [
+        "hægri oddklofi",
+        "oddklofi",
+        "oddsvigi",
+        "olnbogasvigi"
+    ],
+    "《": [
+        "svigi",
+        "tvöfaldur oddklofi",
+        "tvöfaldur vinstri oddklofi"
+    ],
+    "》": [
+        "svigi",
+        "tvöfaldur hægri oddklofi",
+        "tvöfaldur oddklofi"
+    ],
+    "「": [
+        "hástætt vinstra vinkilmerki",
+        "vinkill",
+        "vinkilmerki"
+    ],
+    "」": [
+        "lágstætt hægra vinkilmerki",
+        "vinkill",
+        "vinkilmerki"
+    ],
+    "『": [
+        "holt vinkilmerki",
+        "hástætt holt vinstra vinkilmerki",
+        "vinkilmerki"
+    ],
+    "』": [
+        "holt vinkilmerki",
+        "lágstætt holt hægra vinkilmerki",
+        "vinkilmerki"
+    ],
+    "【": [
+        "linsusvigi",
+        "svartur linsusvigi",
+        "vinstri svartur linsusvigi"
+    ],
+    "】": [
+        "hægri svartur linsusvigi",
+        "linsusvigi",
+        "svartur linsusvigi"
+    ],
+    "〔": [
+        "skeljarsvigi",
+        "skjaldbökuskel",
+        "svigi",
+        "vinstri skjaldbökuskel"
+    ],
+    "〕": [
+        "hægri skjaldbökuskel",
+        "skeljarsvigi",
+        "skjaldbökuskel",
+        "svigi"
+    ],
+    "〖": [
+        "holur linsusvigi",
+        "linsusvigi",
+        "vinstri holur linsusvigi"
+    ],
+    "〗": [
+        "holur linsusvigi",
+        "hægri holur linsusvigi",
+        "linsusvigi"
+    ],
+    "§": [
+        "efnisgrein",
+        "hluti",
+        "kaflamerki",
+        "silcrow"
+    ],
+    "¶": [
+        "efnisgrein",
+        "efnisgreinarmerki",
+        "greinaskil",
+        "greinaskilamerki"
+    ],
+    "@": [
+        "at-merki",
+        "att-merki",
+        "hjá",
+        "hjá-merki",
+        "vistmerki",
+        "á-merki"
+    ],
+    "*️": [
+        "algildisstafur",
+        "stjarna",
+        "stjörnumerki"
+    ],
+    "/": [
+        "brotastrik",
+        "hallandi",
+        "skástrik",
+        "strik á ská"
+    ],
+    "\\": [
+        "bakstrik",
+        "flástrik",
+        "öfugt skástrik"
+    ],
+    "&": [
+        "og",
+        "og-merki"
+    ],
+    "#️": [
+        "endamerki",
+        "númer",
+        "pund"
+    ],
+    "%": [
+        "af hundraði",
+        "hundraðshluti",
+        "prósent"
+    ],
+    "‰": [
+        "prómil",
+        "prómill",
+        "prómíl",
+        "þúsundasti hluti"
+    ],
+    "†": [
+        "broddsúla",
+        "obelus",
+        "úreldingarmerki"
+    ],
+    "‡": [
+        "broddsúla",
+        "obelus",
+        "tvöfalt",
+        "tvöfalt úreldingarmerki",
+        "úreldingarmerki"
+    ],
+    "•": [
+        "depill",
+        "merkill"
+    ],
+    "‧": [
+        "bandstrik",
+        "miðstæður punktur",
+        "orðskiptingarpunktur",
+        "punktur",
+        "þankastrik"
+    ],
+    "′": [
+        "mínútumerki"
+    ],
+    "″": [
+        "tvíhögg"
+    ],
+    "‴": [
+        "þríhögg"
+    ],
+    "‸": [
+        "innskotsmerki"
+    ],
+    "※": [
+        "tilvísunarmerki"
+    ],
+    "⁂": [
+        "stjörnuþríhyrningur"
+    ],
+    "`": [
+        "broddur",
+        "tónn",
+        "áhersla",
+        "öfugur broddur"
+    ],
+    "´": [
+        "broddur",
+        "frambroddur",
+        "tónn",
+        "áhersla"
+    ],
+    "^": [
+        "hattur",
+        "innskotsmerki",
+        "oddur"
+    ],
+    "¨": [
+        "hljóðvarp",
+        "hljóðvarpshljóð",
+        "tvídepill"
+    ],
+    "°": [
+        "alkóhólstyrkur",
+        "gráða",
+        "klukkustund"
+    ],
+    "℗": [
+        "hljóð",
+        "höfundarréttur",
+        "höfundarréttur hljóðupptöku",
+        "upptaka"
+    ],
+    "←": [
+        "vinstri",
+        "ör",
+        "ör sem vísar til vinstri"
+    ],
+    "→": [
+        "hægri",
+        "ör",
+        "ör sem vísar til hægri"
+    ],
+    "↑": [
+        "upp",
+        "ör",
+        "ör sem vísar upp"
+    ],
+    "↓": [
+        "niður",
+        "ör",
+        "ör sem vísar niður"
+    ],
+    "↜": [
+        "bylgjuör til vinstri"
+    ],
+    "↝": [
+        "bylgjuör til hægri"
+    ],
+    "↞": [
+        "tvihöfða ör til vinstri",
+        "tvíhöfða ör til vinstri"
+    ],
+    "↟": [
+        "tvíhöfða ör upp á við"
+    ],
+    "↠": [
+        "tvíhöfða ör til hægri"
+    ],
+    "↡": [
+        "tvíhöfða ör niður á við"
+    ],
+    "↢": [
+        "örvarendi til vinstri"
+    ],
+    "↣": [
+        "örvarendi til hægri"
+    ],
+    "↭": [
+        "bylgjuör vinstri hægri"
+    ],
+    "↯": [
+        "sikksakk",
+        "sikksakk ör niður á við"
+    ],
+    "↰": [
+        "örvaroddur upp á við til vinstri"
+    ],
+    "↱": [
+        "örvaroddur upp á við til hægri"
+    ],
+    "↲": [
+        "örvaroddur niður á við til vinstri"
+    ],
+    "↳": [
+        "örvaroddur niður á við til hægri"
+    ],
+    "↺": [
+        "opin hringör rangsælis"
+    ],
+    "↻": [
+        "opin hringör réttsælis"
+    ],
+    "↼": [
+        "broddur",
+        "skutull til vinstri með brodd upp á við"
+    ],
+    "↽": [
+        "skutull til vinstri með brodd niður á við"
+    ],
+    "↾": [
+        "broddur",
+        "skutull upp á við með brodd til hægri"
+    ],
+    "↿": [
+        "broddur",
+        "skutull upp á við með brodd til vinstri"
+    ],
+    "⇀": [
+        "broddur",
+        "skutull til hægri með brodd upp á við"
+    ],
+    "⇁": [
+        "broddur",
+        "skutull til hægri með brodd niður á við"
+    ],
+    "⇂": [
+        "broddur",
+        "skutull niður á við með brodd til hægri"
+    ],
+    "⇃": [
+        "broddur",
+        "skutull niður á við með brodd til vinstri"
+    ],
+    "⇄": [
+        "ör til hægri yfir ör til vinstri"
+    ],
+    "⇅": [
+        "niður",
+        "upp",
+        "ör",
+        "ör sem vísar upp og ör sem vísar niður"
+    ],
+    "⇆": [
+        "hægri",
+        "vinstri",
+        "vinstriör yfir hægriör",
+        "ör",
+        "ör sem vísar til vinstri yfir ör sem vísar til hægri"
+    ],
+    "⇇": [
+        "örvapar til vinstri"
+    ],
+    "⇈": [
+        "örvapar upp á við",
+        "örvarpar upp á við"
+    ],
+    "⇉": [
+        "örvarpar til hægri"
+    ],
+    "⇊": [
+        "örvapar niður á við",
+        "örvarpar niður á við"
+    ],
+    "⇋": [
+        "skutull til vinstri yfir skutli til hægri"
+    ],
+    "⇌": [
+        "skutull til hægri yfir skutli til vinstri"
+    ],
+    "⇐": [
+        "tvöföld ör til vinstri"
+    ],
+    "⇑": [
+        "tvöföld ör upp á við"
+    ],
+    "⇒": [
+        "tvöföld ör til hægri"
+    ],
+    "⇓": [
+        "tvöföld ör niður á við"
+    ],
+    "⇔": [
+        "tvöföld ör vinstri hægri"
+    ],
+    "⇖": [
+        "tvöföld ör í norðvestur"
+    ],
+    "⇗": [
+        "tvöföld ör í norðaustur"
+    ],
+    "⇘": [
+        "tvöföld ör í suðaustur"
+    ],
+    "⇙": [
+        "tvöföld ör í suðvestur"
+    ],
+    "⇚": [
+        "þreföld ör til vinstri"
+    ],
+    "⇛": [
+        "þreföld ör til hægri"
+    ],
+    "⇜": [
+        "hlykkjótt ör til vinstri"
+    ],
+    "⇝": [
+        "hlykkjótt ör til hægri"
+    ],
+    "⇞": [
+        "tvístrikuð ör upp á við"
+    ],
+    "⇟": [
+        "tvístrikuð ör niður á við"
+    ],
+    "⇦": [
+        "hol ör til vinstri"
+    ],
+    "⇧": [
+        "hol ör upp á við"
+    ],
+    "⇨": [
+        "hol ör til hægri"
+    ],
+    "⇩": [
+        "hol ör niður á við"
+    ],
+    "⇵": [
+        "ör niður á við vinstra megin við ör upp á við"
+    ],
+    "∅": [
+        "mengjavirkir",
+        "stærðfræði",
+        "tómamengi"
+    ],
+    "∆": [
+        "aukning",
+        "þríhyrningur"
+    ],
+    "∇": [
+        "nafla",
+        "þríhyrningur"
+    ],
+    "∈": [
+        "aðild",
+        "inniheldur",
+        "mengi",
+        "stak",
+        "stak í"
+    ],
+    "∉": [
+        "ekki stak",
+        "stak"
+    ],
+    "∋": [
+        "stak"
+    ],
+    "∏": [
+        "margfeldi",
+        "n-unda-margfeldi",
+        "rökfærsla"
+    ],
+    "∑": [
+        "n-unda-summun",
+        "stærðfræði",
+        "summun"
+    ],
+    "+": [
+        "leggja saman",
+        "plús",
+        "plúsmerki"
+    ],
+    "±": [
+        "plús-mínus"
+    ],
+    "÷": [
+        "deila",
+        "deiling",
+        "deilingarmerki",
+        "obelus"
+    ],
+    "×": [
+        "margfalda",
+        "margföldun",
+        "margföldunarmerki",
+        "sinnum"
+    ],
+    "<": [
+        "lægra en",
+        "minna en",
+        "vinstri fleygur"
+    ],
+    "≮": [
+        "ekki minna en",
+        "stærðfræði",
+        "ójöfnuður"
+    ],
+    "=": [
+        "jafnt",
+        "samasem"
+    ],
+    "≠": [
+        "ekki jafnt",
+        "ójafnt",
+        "ójöfnuður"
+    ],
+    ">": [
+        "hægri fleygur",
+        "meira en",
+        "stærra en"
+    ],
+    "≯": [
+        "ekki stærra en",
+        "stærðfræði",
+        "ójöfnuður"
+    ],
+    "¬": [
+        "ekki",
+        "neitun"
+    ],
+    "|": [
+        "lóðlína",
+        "lóðrétt lína",
+        "lóðrétt strik",
+        "lóðstrik",
+        "stöng"
+    ],
+    "~": [
+        "tilda"
+    ],
+    "−": [
+        "draga frá",
+        "mínus",
+        "mínusmerki"
+    ],
+    "⁻": [
+        "brjóstletur",
+        "brjóstletur mínus",
+        "mínus"
+    ],
+    "∓": [
+        "mínus-eða-plús",
+        "plús-mínus"
+    ],
+    "∕": [
+        "deilingarskástrik"
+    ],
+    "⁄": [
+        "brotaskástrik"
+    ],
+    "∗": [
+        "stjarna"
+    ],
+    "∙": [
+        "virkir"
+    ],
+    "√": [
+        "annað veldi",
+        "kvaðratrót",
+        "rót",
+        "rótarstærð",
+        "stofntala",
+        "óræð tala"
+    ],
+    "∝": [
+        "hlutfallsleiki"
+    ],
+    "∞": [
+        "óendanlegt",
+        "óendanlegt-merki"
+    ],
+    "∟": [
+        "rétt horn",
+        "stærðfræði"
+    ],
+    "∠": [
+        "horn"
+    ],
+    "∣": [
+        "deilir"
+    ],
+    "∥": [
+        "samsíða"
+    ],
+    "∩": [
+        "mengi",
+        "sniðmengi"
+    ],
+    "∪": [
+        "mengi",
+        "sammengi",
+        "samsafn"
+    ],
+    "∫": [
+        "heildi",
+        "örsmæðarreikningur"
+    ],
+    "∬": [
+        "tvöfalt heildi",
+        "örsmæðarreikningur"
+    ],
+    "∮": [
+        "lykkjuheildi"
+    ],
+    "∴": [
+        "rökfræði",
+        "þar af leiðandi"
+    ],
+    "∵": [
+        "rökfræði",
+        "vegna þess"
+    ],
+    "∶": [
+        "hlutfall"
+    ],
+    "∷": [
+        "hlutfallsleiki"
+    ],
+    "∼": [
+        "tilduvirkir",
+        "virkir"
+    ],
+    "∽": [
+        "tilda",
+        "öfug tilda"
+    ],
+    "≈": [
+        "nálgun",
+        "námundun",
+        "næstum jafnt"
+    ],
+    "≌": [
+        "jöfnuður",
+        "stærðfræði"
+    ],
+    "≖": [
+        "jöfnuður",
+        "stærðfræði"
+    ],
+    "≡": [
+        "nákvæmlega eins",
+        "nákvæmlega eins og",
+        "nákvæmur",
+        "þrefalt"
+    ],
+    "≣": [
+        "jöfnuður",
+        "stærðfræði"
+    ],
+    "≤": [
+        "jafnt",
+        "minna en",
+        "minna en eða jafnt",
+        "samasem",
+        "ójöfnuður"
+    ],
+    "≥": [
+        "jafnt",
+        "samasem",
+        "stærra en",
+        "stærra en eða jafnt",
+        "ójöfnuður"
+    ],
+    "≦": [
+        "minna en yfir jafngildi",
+        "stærðfræði",
+        "ójöfnuður"
+    ],
+    "≧": [
+        "stærra en yfir jafngildi",
+        "stærðfræði",
+        "ójöfnuður"
+    ],
+    "≪": [
+        "miklu minna en",
+        "stærðfræði",
+        "ójöfnuður"
+    ],
+    "≫": [
+        "miklu stærra en",
+        "stærðfræði",
+        "´ójöfnuður"
+    ],
+    "≬": [
+        "á milli"
+    ],
+    "≳": [
+        "stærra en jafngildi",
+        "stærðfræði",
+        "ójöfnuður"
+    ],
+    "≺": [
+        "kemur á undan",
+        "mengjavirkir",
+        "stærðfræði"
+    ],
+    "≻": [
+        "kemur á eftir",
+        "mengjavirkir",
+        "stærðfræði"
+    ],
+    "⊁": [
+        "kemur ekki á eftir",
+        "mengjavirkir",
+        "stærðfræði"
+    ],
+    "⊂": [
+        "hlutmengi",
+        "hlutmengi í",
+        "mengi"
+    ],
+    "⊃": [
+        "mengjavirkir",
+        "stærðfræði"
+    ],
+    "⊇": [
+        "jöfnuður",
+        "stærðfræði"
+    ],
+    "⊕": [
+        "plús",
+        "plús í hring"
+    ],
+    "⊖": [
+        "mínus í hring"
+    ],
+    "⊰": [
+        "mengjavirkir",
+        "stærðfræði"
+    ],
+    "⊱": [
+        "mengjavirkir",
+        "stærðfræði"
+    ],
+    "⊿": [
+        "rétthyrndur þríhyrningur",
+        "réttur þríhyrningur",
+        "stærðfræði"
+    ],
+    "⋂": [
+        "mengjavirkir",
+        "n-unda-sniðmengi",
+        "sniðmengi",
+        "stærðfræði"
+    ],
+    "⋅": [
+        "punktavirkir",
+        "virkir"
+    ],
+    "⋆": [
+        "stjörnuvirkir",
+        "virkir"
+    ],
+    "⋘": [
+        "mjög miklu minna en",
+        "stærðfræði",
+        "ójöfnuður"
+    ],
+    "⋙": [
+        "mjög miklu stærra en",
+        "stærðfræði",
+        "ójöfnuður"
+    ],
+    "⋮": [
+        "lóðrétt úrfellingarmerki",
+        "stærðfræði",
+        "úrfellingarmerki"
+    ],
+    "⋯": [
+        "úrfellingarmerki"
+    ],
+    "⋰": [
+        "stærðfræði",
+        "úrfellingarmerki"
+    ],
+    "⋱": [
+        "stærðfræði",
+        "úrfellingarmerki"
+    ],
+    "■": [
+        "fylltur ferningur"
+    ],
+    "□": [
+        "holur ferningur"
+    ],
+    "▢": [
+        "holur ferningur með rúnnuðum hornum"
+    ],
+    "▣": [
+        "fylltur ferningur í holum ferningi"
+    ],
+    "▤": [
+        "ferningur með láréttri fyllingu"
+    ],
+    "▥": [
+        "ferningur með lóðréttri fyllingu"
+    ],
+    "▬": [
+        "fylltur rétthyrningur"
+    ],
+    "▭": [
+        "holur rétthyrningur"
+    ],
+    "▮": [
+        "fylltur lóðréttur rétthyrningur"
+    ],
+    "▰": [
+        "fylltur sams´íðungur",
+        "fylltur samsíðungur"
+    ],
+    "▲": [
+        "fylltur",
+        "fylltur þríhyrningur sem vísar upp",
+        "upp",
+        "ör",
+        "þríhyrningur"
+    ],
+    "△": [
+        "holur þríhyrningur sem vísar upp"
+    ],
+    "▴": [
+        "fylltur lítill þríhyrningur sem vísar upp"
+    ],
+    "▵": [
+        "holur lítill þríhyrningur sem vísar upp"
+    ],
+    "▷": [
+        "holur þríhyrningur sem vísar til hægri"
+    ],
+    "▸": [
+        "fylltur lítill þríhyrningur sem vísar til hægri"
+    ],
+    "▹": [
+        "holur lítill þríhyrningur sem vísar til hægri"
+    ],
+    "►": [
+        "fylltur bendir sem vísar til hægri"
+    ],
+    "▻": [
+        "holur bendir sem vísar til hægri"
+    ],
+    "▼": [
+        "fylltur",
+        "fylltur þríhyrningur sem vísar niður",
+        "niður",
+        "ör",
+        "þríhyrningur"
+    ],
+    "▽": [
+        "holur þríhyrningur sem vísar niður"
+    ],
+    "▾": [
+        "fylltur lítill þríhyrningur sem vísar niður"
+    ],
+    "▿": [
+        "holur lítill þríhyrningur sem vísar niður"
+    ],
+    "◁": [
+        "holur þríhyrningur sem vísar til vinstri"
+    ],
+    "◂": [
+        "fylltur lítill þríhyrningur sem vísar til vinstri"
+    ],
+    "◃": [
+        "holur lítill þríhyrningur sem vísar til vinstri"
+    ],
+    "◄": [
+        "fylltur bendir sem vísar til vinstri"
+    ],
+    "◅": [
+        "holur bendir sem vísar til vinstri"
+    ],
+    "◆": [
+        "fylltur tígull"
+    ],
+    "◇": [
+        "holur tígull"
+    ],
+    "◈": [
+        "fylltur tígull í holum tígli"
+    ],
+    "◉": [
+        "fylltur hringur í holum hring"
+    ],
+    "◊": [
+        "demantur",
+        "rhombus",
+        "tígullaga"
+    ],
+    "○": [
+        "holur hringflötur",
+        "hringflötur",
+        "hringur"
+    ],
+    "◌": [
+        "hringur úr punktum"
+    ],
+    "◍": [
+        "hringur með lóðréttri fyllingu"
+    ],
+    "●": [
+        "fylltur hringflötur",
+        "hringflötur"
+    ],
+    "◐": [
+        "hringur hálffylltur til vinstri"
+    ],
+    "◑": [
+        "hringur hálffylltur til hægri"
+    ],
+    "◒": [
+        "fylltur neðri helmingur hrings"
+    ],
+    "◓": [
+        "fylltur efri helmingur hrings"
+    ],
+    "◔": [
+        "fylltur efri fjórðungsbogi hrings til hægri"
+    ],
+    "◖": [
+        "fylltur vinstri helmingur hrings"
+    ],
+    "◗": [
+        "fylltur hægri helmingur hrings"
+    ],
+    "◠": [
+        "efri helmingur hrings"
+    ],
+    "◡": [
+        "neðri helmingur hrings"
+    ],
+    "◢": [
+        "fylltur neðri þríhyrningur til hægri"
+    ],
+    "◣": [
+        "fylltur neðri þríhyrningur til vinstri"
+    ],
+    "◤": [
+        "fylltu efri þríhyrningur til vinstri",
+        "fylltur efri þríhyrningur til vinstri"
+    ],
+    "◥": [
+        "fylltur efri þríhyrningur til hægri"
+    ],
+    "◦": [
+        "holt áherslumerki"
+    ],
+    "◯": [
+        "hringflötur",
+        "hringur",
+        "stór holur hringflötur"
+    ],
+    "◳": [
+        "holur ferningur með efri fjórðungsgeira til hægri"
+    ],
+    "◷": [
+        "holur hringur með efri fjórðungsboga til hægri"
+    ],
+    "◿": [
+        "neðri þríhyrningur til hægri"
+    ],
+    "♪": [
+        "nóta",
+        "tónlist",
+        "áttundapartsnóta",
+        "áttungur"
+    ],
+    "⪚": [
+        "stærðfræði",
+        "ójöfnuður"
+    ],
+    "♭": [
+        "bemolle",
+        "lækkaður tónn",
+        "nóta",
+        "tónlist"
+    ],
+    "♯": [
+        "hækkaður tónn",
+        "hækkunarmerki",
+        "nóta",
+        "tónlist"
+    ],
     "😀": [
         "andlit",
         "glott",
@@ -57,6 +1228,13 @@
         "andlit",
         "andlit á hvolfi",
         "á hvolfi"
+    ],
+    "🫠": [
+        "andlit að bráðna",
+        "bræða",
+        "hverfa",
+        "leysa upp",
+        "vökvi"
     ],
     "😉": [
         "andlit",
@@ -188,13 +1366,39 @@
         "andlit með hendi fyrir munn",
         "úps"
     ],
+    "🫢": [
+        "andlit með opin augu og hendi yfir munni",
+        "furða",
+        "hræddur",
+        "lotning",
+        "undrun",
+        "vandræðalegur",
+        "vantrú"
+    ],
+    "🫣": [
+        "andlit með auga að kikja",
+        "heillaður",
+        "kíkja",
+        "stara"
+    ],
     "🤫": [
-        "andilt að segja uss"
+        "andilt að segja uss",
+        "suss",
+        "uss",
+        "þögn"
     ],
     "🤔": [
         "andlit",
         "hugsandi",
         "hugsandi andlit"
+    ],
+    "🫡": [
+        "andlit að heilsa",
+        "herlið",
+        "hylla",
+        "já",
+        "sólríkt",
+        "í lagi"
     ],
     "🤐": [
         "andlit",
@@ -223,6 +1427,20 @@
         "andlit án munns",
         "enginn munnur"
     ],
+    "🫥": [
+        "fela",
+        "hverfa",
+        "innhverfur",
+        "punktalínuandlit",
+        "ósýnilegur",
+        "þunglyndur"
+    ],
+    "😶‍🌫": [
+        "andlit í skýjum",
+        "andlit í þoku",
+        "annarshugar",
+        "höfuð í skýjum"
+    ],
     "😏": [
         "andlit",
         "glott",
@@ -244,6 +1462,15 @@
         "andlit",
         "andlit með grettu",
         "gretta"
+    ],
+    "😮‍💨": [
+        "andköf",
+        "andlit að anda frá sér",
+        "blístur",
+        "hvísl",
+        "léttir",
+        "stuna",
+        "útöndun"
     ],
     "🤥": [
         "andlit",
@@ -343,6 +1570,14 @@
         "andlit með svima",
         "svimi"
     ],
+    "😵‍💫": [
+        "andlit með gormaugu",
+        "dáleiddur",
+        "gormur",
+        "hægan",
+        "svimar",
+        "vandræði"
+    ],
     "🤯": [
         "splundrað höfuð"
     ],
@@ -389,6 +1624,13 @@
         "ringlun",
         "ruglingslegt andlit"
     ],
+    "🫤": [
+        "andlit með skáhallan munn",
+        "efins",
+        "vonsvikinn",
+        "óspennandi",
+        "óviss"
+    ],
     "😟": [
         "andlit",
         "áhyggjufullt andlit",
@@ -432,6 +1674,14 @@
         "grátbiðja",
         "hvolpaaugu",
         "miskunn"
+    ],
+    "🥹": [
+        "andlit að berjast við tárin",
+        "dapur",
+        "gráta",
+        "reiður",
+        "stoltur",
+        "streitast á móti"
     ],
     "😦": [
         "andlit",
@@ -698,12 +1948,6 @@
         "illska",
         "má ekki tala"
     ],
-    "💋": [
-        "koss",
-        "kossafar",
-        "rómantík",
-        "varir"
-    ],
     "💌": [
         "bréf",
         "bréf með hjarta",
@@ -774,6 +2018,23 @@
         "hjarta",
         "ástarsorg"
     ],
+    "❤‍🔥": [
+        "brenna",
+        "girnd",
+        "heilagt hjarta",
+        "hjarta",
+        "logandi hjarta",
+        "ást"
+    ],
+    "❤‍🩹": [
+        "heilbrigðari",
+        "hjarta að gróa",
+        "hress",
+        "jafna sig",
+        "lagast",
+        "ná sér",
+        "skána"
+    ],
     "❤️": [
         "hjarta",
         "rautt hjarta"
@@ -824,6 +2085,12 @@
         "hvítt",
         "hvítt hjarta"
     ],
+    "💋": [
+        "koss",
+        "kossafar",
+        "rómantík",
+        "varir"
+    ],
     "💯": [
         "100",
         "fullt hús",
@@ -865,11 +2132,6 @@
     "🕳️": [
         "hola",
         "op"
-    ],
-    "💣️": [
-        "skrípó",
-        "sprengja",
-        "tilfinningar"
     ],
     "💬": [
         "blaðra",
@@ -1133,6 +2395,376 @@
         "vulcan-kveðja: dökkur húðlitur",
         "vúlkan"
     ],
+    "🫱": [
+        "hendi",
+        "hendi hægra megin",
+        "hægra megin",
+        "hægri"
+    ],
+    "🫱🏻": [
+        "hendi",
+        "hendi hægra megin",
+        "hendi hægra megin: ljós húðlitur",
+        "hægra megin",
+        "hægri",
+        "ljós húðlitur"
+    ],
+    "🫱🏼": [
+        "hendi",
+        "hendi hægra megin",
+        "hendi hægra megin: meðalljós húðlitur",
+        "hægra megin",
+        "hægri",
+        "meðalljós húðlitur"
+    ],
+    "🫱🏽": [
+        "hendi",
+        "hendi hægra megin",
+        "hendi hægra megin: millihúðlitur",
+        "hægra megin",
+        "hægri",
+        "millihúðlitur"
+    ],
+    "🫱🏾": [
+        "hendi",
+        "hendi hægra megin",
+        "hendi hægra megin: meðaldökkur húðlitur",
+        "hægra megin",
+        "hægri",
+        "meðaldökkur húðlitur"
+    ],
+    "🫱🏿": [
+        "dökkur húðlitur",
+        "hendi",
+        "hendi hægra megin",
+        "hendi hægra megin: dökkur húðlitur",
+        "hægra megin",
+        "hægri"
+    ],
+    "🫱🏻‍🫲🏼": [
+        "handaband",
+        "handaband: ljós húðlitur og meðalljós húðlitur",
+        "heilsa",
+        "heilsast",
+        "ljós húðlitur",
+        "meðalljós húðlitur",
+        "samkomulag"
+    ],
+    "🫱🏻‍🫲🏽": [
+        "handaband",
+        "handaband: ljós húðlitur og millihúðlitur",
+        "heilsa",
+        "heilsast",
+        "ljós húðlitur",
+        "millihúðlitur",
+        "samkomulag"
+    ],
+    "🫱🏻‍🫲🏾": [
+        "handaband",
+        "handaband: ljós húðlitur og meðaldökkur húðlitur",
+        "heilsa",
+        "heilsast",
+        "ljós húðlitur",
+        "meðaldökkur húðlitur",
+        "samkomulag"
+    ],
+    "🫱🏻‍🫲🏿": [
+        "dökkur húðlitur",
+        "handaband",
+        "handaband: ljós húðlitur og dökkur húðlitur",
+        "heilsa",
+        "heilsast",
+        "ljós húðlitur",
+        "samkomulag"
+    ],
+    "🫱🏼‍🫲🏻": [
+        "handaband",
+        "handaband: meðalljós húðlitur og ljós húðlitur",
+        "heilsa",
+        "heilsast",
+        "ljós húðlitur",
+        "meðalljós húðlitur",
+        "samkomulag"
+    ],
+    "🫱🏼‍🫲🏽": [
+        "handaband",
+        "handaband: meðalljós húðlitur og millihúðlitur",
+        "heilsa",
+        "heilsast",
+        "meðalljós húðlitur",
+        "millihúðlitur",
+        "samkomulag"
+    ],
+    "🫱🏼‍🫲🏾": [
+        "handaband",
+        "handaband: meðalljós húðlitur og meðaldökkur húðlitur",
+        "heilsa",
+        "heilsast",
+        "meðaldökkur húðlitur",
+        "meðalljós húðlitur",
+        "samkomulag"
+    ],
+    "🫱🏼‍🫲🏿": [
+        "dökkur húðlitur",
+        "handaband",
+        "handaband: meðalljós húðlitur og dökkur húðlitur",
+        "heilsa",
+        "heilsast",
+        "meðalljós húðlitur",
+        "samkomulag"
+    ],
+    "🫱🏽‍🫲🏻": [
+        "handaband",
+        "handaband: millihúðlitur og ljós húðlitur",
+        "heilsa",
+        "heilsast",
+        "ljós húðlitur",
+        "millihúðlitur",
+        "samkomulag"
+    ],
+    "🫱🏽‍🫲🏼": [
+        "handaband",
+        "handaband: millihúðlitur og meðalljós húðlitur",
+        "heilsa",
+        "heilsast",
+        "meðalljós húðlitur",
+        "millihúðlitur",
+        "samkomulag"
+    ],
+    "🫱🏽‍🫲🏾": [
+        "handaband",
+        "handaband: millihúðlitur og meðaldökkur húðlitur",
+        "heilsa",
+        "heilsast",
+        "meðaldökkur húðlitur",
+        "millihúðlitur",
+        "samkomulag"
+    ],
+    "🫱🏽‍🫲🏿": [
+        "dökkur húðlitur",
+        "handaband",
+        "handaband: millihúðlitur og dökkur húðlitur",
+        "heilsa",
+        "heilsast",
+        "millihúðlitur",
+        "samkomulag"
+    ],
+    "🫱🏾‍🫲🏻": [
+        "handaband",
+        "handaband: meðaldökkur húðlitur og ljós húðlitur",
+        "heilsa",
+        "heilsast",
+        "ljós húðlitur",
+        "meðaldökkur húðlitur",
+        "samkomulag"
+    ],
+    "🫱🏾‍🫲🏼": [
+        "handaband",
+        "handaband: meðaldökkur húðlitur og meðalljós húðlitur",
+        "heilsa",
+        "heilsast",
+        "meðaldökkur húðlitur",
+        "meðalljós húðlitur",
+        "samkomulag"
+    ],
+    "🫱🏾‍🫲🏽": [
+        "handaband",
+        "handaband: meðaldökkur húðlitur og millihúðlitur",
+        "heilsa",
+        "heilsast",
+        "meðaldökkur húðlitur",
+        "millihúðlitur",
+        "samkomulag"
+    ],
+    "🫱🏾‍🫲🏿": [
+        "dökkur húðlitur",
+        "handaband",
+        "handaband: meðaldökkur húðlitur og dökkur húðlitur",
+        "heilsa",
+        "heilsast",
+        "meðaldökkur húðlitur",
+        "samkomulag"
+    ],
+    "🫱🏿‍🫲🏻": [
+        "dökkur húðlitur",
+        "handaband",
+        "handaband: dökkur húðlitur og ljós húðlitur",
+        "heilsa",
+        "heilsast",
+        "ljós húðlitur",
+        "samkomulag"
+    ],
+    "🫱🏿‍🫲🏼": [
+        "dökkur húðlitur",
+        "handaband",
+        "handaband: dökkur húðlitur og meðalljós húðlitur",
+        "heilsa",
+        "heilsast",
+        "meðalljós húðlitur",
+        "samkomulag"
+    ],
+    "🫱🏿‍🫲🏽": [
+        "dökkur húðlitur",
+        "handaband",
+        "handaband: dökkur húðlitur og millihúðlitur",
+        "heilsa",
+        "heilsast",
+        "millihúðlitur",
+        "samkomulag"
+    ],
+    "🫱🏿‍🫲🏾": [
+        "dökkur húðlitur",
+        "handaband",
+        "handaband: dökkur húðlitur og meðaldökkur húðlitur",
+        "heilsa",
+        "heilsast",
+        "meðaldökkur húðlitur",
+        "samkomulag"
+    ],
+    "🫲": [
+        "hendi",
+        "hendi vinstra megin",
+        "vinstra megin",
+        "vinstri"
+    ],
+    "🫲🏻": [
+        "hendi",
+        "hendi vinstra megin",
+        "hendi vinstra megin: ljós húðlitur",
+        "ljós húðlitur",
+        "vinstra megin",
+        "vinstri"
+    ],
+    "🫲🏼": [
+        "hendi",
+        "hendi vinstra megin",
+        "hendi vinstra megin: meðalljós húðlitur",
+        "meðalljós húðlitur",
+        "vinstra megin",
+        "vinstri"
+    ],
+    "🫲🏽": [
+        "hendi",
+        "hendi vinstra megin",
+        "hendi vinstra megin: millihúðlitur",
+        "millihúðlitur",
+        "vinstra megin",
+        "vinstri"
+    ],
+    "🫲🏾": [
+        "hendi",
+        "hendi vinstra megin",
+        "hendi vinstra megin: meðaldökkur húðlitur",
+        "meðaldökkur húðlitur",
+        "vinstra megin",
+        "vinstri"
+    ],
+    "🫲🏿": [
+        "dökkur húðlitur",
+        "hendi",
+        "hendi vinstra megin",
+        "hendi vinstra megin: dökkur húðlitur",
+        "vinstra megin",
+        "vinstri"
+    ],
+    "🫳": [
+        "bægja frá",
+        "hendi með lófa niður",
+        "sleppa",
+        "stugga við"
+    ],
+    "🫳🏻": [
+        "bægja frá",
+        "hendi með lófa niður",
+        "hendi með lófa niður: ljós húðlitur",
+        "ljós húðlitur",
+        "sleppa",
+        "stugga við"
+    ],
+    "🫳🏼": [
+        "bægja frá",
+        "hendi með lófa niður",
+        "hendi með lófa niður: meðalljós húðlitur",
+        "meðalljós húðlitur",
+        "sleppa",
+        "stugga við"
+    ],
+    "🫳🏽": [
+        "bægja frá",
+        "hendi með lófa niður",
+        "hendi með lófa niður: millihúðlitur",
+        "millihúðlitur",
+        "sleppa",
+        "stugga við"
+    ],
+    "🫳🏾": [
+        "bægja frá",
+        "hendi með lófa niður",
+        "hendi með lófa niður: meðaldökkur húðlitur",
+        "meðaldökkur húðlitur",
+        "sleppa",
+        "stugga við"
+    ],
+    "🫳🏿": [
+        "bægja frá",
+        "dökkur húðlitur",
+        "hendi með lófa niður",
+        "hendi með lófa niður: dökkur húðlitur",
+        "sleppa",
+        "stugga við"
+    ],
+    "🫴": [
+        "benda",
+        "bjóða",
+        "grípa",
+        "hendi með lófa upp",
+        "koma"
+    ],
+    "🫴🏻": [
+        "benda",
+        "bjóða",
+        "grípa",
+        "hendi með lófa upp",
+        "hendi með lófa upp: ljós húðlitur",
+        "koma",
+        "ljós húðlitur"
+    ],
+    "🫴🏼": [
+        "benda",
+        "bjóða",
+        "grípa",
+        "hendi með lófa upp",
+        "hendi með lófa upp: meðalljós húðlitur",
+        "koma",
+        "meðalljós húðlitur"
+    ],
+    "🫴🏽": [
+        "benda",
+        "bjóða",
+        "grípa",
+        "hendi með lófa upp",
+        "hendi með lófa upp: millihúðlitur",
+        "koma",
+        "millihúðlitur"
+    ],
+    "🫴🏾": [
+        "benda",
+        "bjóða",
+        "grípa",
+        "hendi með lófa upp",
+        "hendi með lófa upp: meðaldökkur húðlitur",
+        "koma",
+        "meðaldökkur húðlitur"
+    ],
+    "🫴🏿": [
+        "benda",
+        "bjóða",
+        "dökkur húðlitur",
+        "grípa",
+        "hendi með lófa upp",
+        "hendi með lófa upp: dökkur húðlitur",
+        "koma"
+    ],
     "👌": [
         "OK",
         "bending",
@@ -1374,6 +3006,64 @@
         "krosslagðir fingur",
         "krosslagðir fingur: dökkur húðlitur",
         "lukka"
+    ],
+    "🫰": [
+        "dýr",
+        "hendi með vísifingur og þumal í kross",
+        "hjarta",
+        "peningar",
+        "smella",
+        "ást"
+    ],
+    "🫰🏻": [
+        "dýr",
+        "hendi með vísifingur og þumal í kross",
+        "hendi með vísifingur og þumal í kross: ljós húðlitur",
+        "hjarta",
+        "ljós húðlitur",
+        "peningar",
+        "smella",
+        "ást"
+    ],
+    "🫰🏼": [
+        "dýr",
+        "hendi með vísifingur og þumal í kross",
+        "hendi með vísifingur og þumal í kross: meðalljós húðlitur",
+        "hjarta",
+        "meðalljós húðlitur",
+        "peningar",
+        "smella",
+        "ást"
+    ],
+    "🫰🏽": [
+        "dýr",
+        "hendi með vísifingur og þumal í kross",
+        "hendi með vísifingur og þumal í kross: millihúðlitur",
+        "hjarta",
+        "millihúðlitur",
+        "peningar",
+        "smella",
+        "ást"
+    ],
+    "🫰🏾": [
+        "dýr",
+        "hendi með vísifingur og þumal í kross",
+        "hendi með vísifingur og þumal í kross: meðaldökkur húðlitur",
+        "hjarta",
+        "meðaldökkur húðlitur",
+        "peningar",
+        "smella",
+        "ást"
+    ],
+    "🫰🏿": [
+        "dökkur húðlitur",
+        "dýr",
+        "hendi með vísifingur og þumal í kross",
+        "hendi með vísifingur og þumal í kross: dökkur húðlitur",
+        "hjarta",
+        "peningar",
+        "smella",
+        "ást"
     ],
     "🤟": [
         "ILY",
@@ -1849,6 +3539,46 @@
         "vísifingur bendir upp",
         "vísifingur bendir upp: dökkur húðlitur"
     ],
+    "🫵": [
+        "benda",
+        "vísifingur bendir á áhorfandann",
+        "þú"
+    ],
+    "🫵🏻": [
+        "benda",
+        "ljós húðlitur",
+        "vísifingur bendir á áhorfandann",
+        "vísifingur bendir á áhorfandann: ljós húðlitur",
+        "þú"
+    ],
+    "🫵🏼": [
+        "benda",
+        "meðalljós húðlitur",
+        "vísifingur bendir á áhorfandann",
+        "vísifingur bendir á áhorfandann: meðalljós húðlitur",
+        "þú"
+    ],
+    "🫵🏽": [
+        "benda",
+        "millihúðlitur",
+        "vísifingur bendir á áhorfandann",
+        "vísifingur bendir á áhorfandann: millihúðlitur",
+        "þú"
+    ],
+    "🫵🏾": [
+        "benda",
+        "meðaldökkur húðlitur",
+        "vísifingur bendir á áhorfandann",
+        "vísifingur bendir á áhorfandann: meðaldökkur húðlitur",
+        "þú"
+    ],
+    "🫵🏿": [
+        "benda",
+        "dökkur húðlitur",
+        "vísifingur bendir á áhorfandann",
+        "vísifingur bendir á áhorfandann: dökkur húðlitur",
+        "þú"
+    ],
     "👍️": [
         "bending",
         "hönd",
@@ -2199,6 +3929,40 @@
         "húrra",
         "húrra: dökkur húðlitur"
     ],
+    "🫶": [
+        "hjartahendur",
+        "ást"
+    ],
+    "🫶🏻": [
+        "hjartahendur",
+        "hjartahendur: ljós húðlitur",
+        "ljós húðlitur",
+        "ást"
+    ],
+    "🫶🏼": [
+        "hjartahendur",
+        "hjartahendur: meðalljós húðlitur",
+        "meðalljós húðlitur",
+        "ást"
+    ],
+    "🫶🏽": [
+        "hjartahendur",
+        "hjartahendur: millihúðlitur",
+        "millihúðlitur",
+        "ást"
+    ],
+    "🫶🏾": [
+        "hjartahendur",
+        "hjartahendur: meðaldökkur húðlitur",
+        "meðaldökkur húðlitur",
+        "ást"
+    ],
+    "🫶🏿": [
+        "dökkur húðlitur",
+        "hjartahendur",
+        "hjartahendur: dökkur húðlitur",
+        "ást"
+    ],
     "👐": [
         "hendur",
         "lófar",
@@ -2281,6 +4045,46 @@
     ],
     "🤝": [
         "handaband",
+        "heilsa",
+        "heilsast",
+        "samkomulag"
+    ],
+    "🤝🏻": [
+        "handaband",
+        "handaband: ljós húðlitur",
+        "heilsa",
+        "heilsast",
+        "ljós húðlitur",
+        "samkomulag"
+    ],
+    "🤝🏼": [
+        "handaband",
+        "handaband: meðalljós húðlitur",
+        "heilsa",
+        "heilsast",
+        "meðalljós húðlitur",
+        "samkomulag"
+    ],
+    "🤝🏽": [
+        "handaband",
+        "handaband: millihúðlitur",
+        "heilsa",
+        "heilsast",
+        "millihúðlitur",
+        "samkomulag"
+    ],
+    "🤝🏾": [
+        "handaband",
+        "handaband: meðaldökkur húðlitur",
+        "heilsa",
+        "heilsast",
+        "meðaldökkur húðlitur",
+        "samkomulag"
+    ],
+    "🤝🏿": [
+        "dökkur húðlitur",
+        "handaband",
+        "handaband: dökkur húðlitur",
         "heilsa",
         "heilsast",
         "samkomulag"
@@ -2765,6 +4569,15 @@
         "munnur",
         "varir"
     ],
+    "🫦": [
+        "bítur í vör",
+        "daðrar",
+        "hræðsla",
+        "kvíðinn",
+        "taugaóstyrkur",
+        "uggandi",
+        "áhyggjufullur"
+    ],
     "👶": [
         "fólk",
         "ungbarn"
@@ -3004,6 +4817,426 @@
         "ljóshærð manneskja",
         "ljóshærð manneskja: dökkur húðlitur",
         "ljóst hár"
+    ],
+    "🧑🏻‍❤‍💋‍🧑🏼": [
+        "fólk",
+        "koss",
+        "koss: manneskja, manneskja, ljós húðlitur og meðalljós húðlitur",
+        "kyssast",
+        "ljós húðlitur",
+        "manneskja",
+        "meðalljós húðlitur",
+        "rómantík"
+    ],
+    "🧑🏻‍❤‍💋‍🧑🏽": [
+        "fólk",
+        "koss",
+        "koss: manneskja, manneskja, ljós húðlitur og millihúðlitur",
+        "kyssast",
+        "ljós húðlitur",
+        "manneskja",
+        "millihúðlitur",
+        "rómantík"
+    ],
+    "🧑🏻‍❤‍💋‍🧑🏾": [
+        "fólk",
+        "koss",
+        "koss: manneskja, manneskja, ljós húðlitur og meðaldökkur húðlitur",
+        "kyssast",
+        "ljós húðlitur",
+        "manneskja",
+        "meðaldökkur húðlitur",
+        "rómantík"
+    ],
+    "🧑🏻‍❤‍💋‍🧑🏿": [
+        "dökkur húðlitur",
+        "fólk",
+        "koss",
+        "koss: manneskja, manneskja, ljós húðlitur og dökkur húðlitur",
+        "kyssast",
+        "ljós húðlitur",
+        "manneskja",
+        "rómantík"
+    ],
+    "🧑🏼‍❤‍💋‍🧑🏻": [
+        "fólk",
+        "koss",
+        "koss: manneskja, manneskja, meðalljós húðlitur og ljós húðlitur",
+        "kyssast",
+        "ljós húðlitur",
+        "manneskja",
+        "meðalljós húðlitur",
+        "rómantík"
+    ],
+    "🧑🏼‍❤‍💋‍🧑🏽": [
+        "fólk",
+        "koss",
+        "koss: manneskja, manneskja, meðalljós húðlitur og millihúðlitur",
+        "kyssast",
+        "manneskja",
+        "meðalljós húðlitur",
+        "millihúðlitur",
+        "rómantík"
+    ],
+    "🧑🏼‍❤‍💋‍🧑🏾": [
+        "fólk",
+        "koss",
+        "koss: manneskja, manneskja, meðalljós húðlitur og meðaldökkur húðlitur",
+        "kyssast",
+        "manneskja",
+        "meðaldökkur húðlitur",
+        "meðalljós húðlitur",
+        "rómantík"
+    ],
+    "🧑🏼‍❤‍💋‍🧑🏿": [
+        "dökkur húðlitur",
+        "fólk",
+        "koss",
+        "koss: manneskja, manneskja, meðalljós húðlitur og dökkur húðlitur",
+        "kyssast",
+        "manneskja",
+        "meðalljós húðlitur",
+        "rómantík"
+    ],
+    "🧑🏽‍❤‍💋‍🧑🏻": [
+        "fólk",
+        "koss",
+        "koss: manneskja, manneskja, millihúðlitur og ljós húðlitur",
+        "kyssast",
+        "ljós húðlitur",
+        "manneskja",
+        "millihúðlitur",
+        "rómantík"
+    ],
+    "🧑🏽‍❤‍💋‍🧑🏼": [
+        "fólk",
+        "koss",
+        "koss: manneskja, manneskja, millihúðlitur og meðalljós húðlitur",
+        "kyssast",
+        "manneskja",
+        "meðalljós húðlitur",
+        "millihúðlitur",
+        "rómantík"
+    ],
+    "🧑🏽‍❤‍💋‍🧑🏾": [
+        "fólk",
+        "koss",
+        "koss: manneskja, manneskja, millihúðlitur og meðaldökkur húðlitur",
+        "kyssast",
+        "manneskja",
+        "meðaldökkur húðlitur",
+        "millihúðlitur",
+        "rómantík"
+    ],
+    "🧑🏽‍❤‍💋‍🧑🏿": [
+        "dökkur húðlitur",
+        "fólk",
+        "koss",
+        "koss: manneskja, manneskja, millihúðlitur og dökkur húðlitur",
+        "kyssast",
+        "manneskja",
+        "millihúðlitur",
+        "rómantík"
+    ],
+    "🧑🏾‍❤‍💋‍🧑🏻": [
+        "fólk",
+        "koss",
+        "koss: manneskja, manneskja, meðaldökkur húðlitur og ljós húðlitur",
+        "kyssast",
+        "ljós húðlitur",
+        "manneskja",
+        "meðaldökkur húðlitur",
+        "rómantík"
+    ],
+    "🧑🏾‍❤‍💋‍🧑🏼": [
+        "fólk",
+        "koss",
+        "koss: manneskja, manneskja, meðaldökkur húðlitur og meðalljós húðlitur",
+        "kyssast",
+        "manneskja",
+        "meðaldökkur húðlitur",
+        "meðalljós húðlitur",
+        "rómantík"
+    ],
+    "🧑🏾‍❤‍💋‍🧑🏽": [
+        "fólk",
+        "koss",
+        "koss: manneskja, manneskja, meðaldökkur húðlitur og millihúðlitur",
+        "kyssast",
+        "manneskja",
+        "meðaldökkur húðlitur",
+        "millihúðlitur",
+        "rómantík"
+    ],
+    "🧑🏾‍❤‍💋‍🧑🏿": [
+        "dökkur húðlitur",
+        "fólk",
+        "koss",
+        "koss: manneskja, manneskja, meðaldökkur húðlitur og dökkur húðlitur",
+        "kyssast",
+        "manneskja",
+        "meðaldökkur húðlitur",
+        "rómantík"
+    ],
+    "🧑🏿‍❤‍💋‍🧑🏻": [
+        "dökkur húðlitur",
+        "fólk",
+        "koss",
+        "koss: manneskja, manneskja, dökkur húðlitur og ljós húðlitur",
+        "kyssast",
+        "ljós húðlitur",
+        "manneskja",
+        "rómantík"
+    ],
+    "🧑🏿‍❤‍💋‍🧑🏼": [
+        "dökkur húðlitur",
+        "fólk",
+        "koss",
+        "koss: manneskja, manneskja, dökkur húðlitur og meðalljós húðlitur",
+        "kyssast",
+        "manneskja",
+        "meðalljós húðlitur",
+        "rómantík"
+    ],
+    "🧑🏿‍❤‍💋‍🧑🏽": [
+        "dökkur húðlitur",
+        "fólk",
+        "koss",
+        "koss: manneskja, manneskja, dökkur húðlitur og millihúðlitur",
+        "kyssast",
+        "manneskja",
+        "millihúðlitur",
+        "rómantík"
+    ],
+    "🧑🏿‍❤‍💋‍🧑🏾": [
+        "dökkur húðlitur",
+        "fólk",
+        "koss",
+        "koss: manneskja, manneskja, dökkur húðlitur og meðaldökkur húðlitur",
+        "kyssast",
+        "manneskja",
+        "meðaldökkur húðlitur",
+        "rómantík"
+    ],
+    "🧑🏻‍❤‍🧑🏼": [
+        "fólk",
+        "hjarta",
+        "ljós húðlitur",
+        "manneskja",
+        "meðalljós húðlitur",
+        "par",
+        "par með hjarta",
+        "par: manneskja, manneskja, ljós húðlitur og meðalljós húðlitur",
+        "rómantík"
+    ],
+    "🧑🏻‍❤‍🧑🏽": [
+        "fólk",
+        "hjarta",
+        "ljós húðlitur",
+        "manneskja",
+        "millihúðlitur",
+        "par",
+        "par með hjarta",
+        "par: manneskja, manneskja, ljós húðlitur og millihúðlitur",
+        "rómantík"
+    ],
+    "🧑🏻‍❤‍🧑🏾": [
+        "fólk",
+        "hjarta",
+        "ljós húðlitur",
+        "manneskja",
+        "meðaldökkur húðlitur",
+        "par",
+        "par með hjarta",
+        "par: manneskja, manneskja, ljós húðlitur og meðaldökkur húðlitur",
+        "rómantík"
+    ],
+    "🧑🏻‍❤‍🧑🏿": [
+        "dökkur húðlitur",
+        "fólk",
+        "hjarta",
+        "ljós húðlitur",
+        "manneskja",
+        "par",
+        "par með hjarta",
+        "par: manneskja, manneskja, ljós húðlitur og dökkur húðlitur",
+        "rómantík"
+    ],
+    "🧑🏼‍❤‍🧑🏻": [
+        "fólk",
+        "hjarta",
+        "ljós húðlitur",
+        "manneskja",
+        "meðalljós húðlitur",
+        "par",
+        "par með hjarta",
+        "par: manneskja, manneskja, meðalljós húðlitur og ljós húðlitur",
+        "rómantík"
+    ],
+    "🧑🏼‍❤‍🧑🏽": [
+        "fólk",
+        "hjarta",
+        "manneskja",
+        "meðalljós húðlitur",
+        "millihúðlitur",
+        "par",
+        "par með hjarta",
+        "par: manneskja, manneskja, meðalljós húðlitur og millihúðlitur",
+        "rómantík"
+    ],
+    "🧑🏼‍❤‍🧑🏾": [
+        "fólk",
+        "hjarta",
+        "manneskja",
+        "meðaldökkur húðlitur",
+        "meðalljós húðlitur",
+        "par",
+        "par með hjarta",
+        "par: manneskja, manneskja, meðalljós húðlitur og meðaldökkur húðlitur",
+        "rómantík"
+    ],
+    "🧑🏼‍❤‍🧑🏿": [
+        "dökkur húðlitur",
+        "fólk",
+        "hjarta",
+        "manneskja",
+        "meðalljós húðlitur",
+        "par",
+        "par með hjarta",
+        "par: manneskja, manneskja, meðalljós húðlitur og dökkur húðlitur",
+        "rómantík"
+    ],
+    "🧑🏽‍❤‍🧑🏻": [
+        "fólk",
+        "hjarta",
+        "ljós húðlitur",
+        "manneskja",
+        "millihúðlitur",
+        "par",
+        "par með hjarta",
+        "par: manneskja, manneskja, millihúðlitur og ljós húðlitur",
+        "rómantík"
+    ],
+    "🧑🏽‍❤‍🧑🏼": [
+        "fólk",
+        "hjarta",
+        "manneskja",
+        "meðalljós húðlitur",
+        "millihúðlitur",
+        "par",
+        "par með hjarta",
+        "par: manneskja, manneskja, millihúðlitur og meðalljós húðlitur",
+        "rómantík"
+    ],
+    "🧑🏽‍❤‍🧑🏾": [
+        "fólk",
+        "hjarta",
+        "manneskja",
+        "meðaldökkur húðlitur",
+        "millihúðlitur",
+        "par",
+        "par með hjarta",
+        "par: manneskja, manneskja, millihúðlitur og meðaldökkur húðlitur",
+        "rómantík"
+    ],
+    "🧑🏽‍❤‍🧑🏿": [
+        "dökkur húðlitur",
+        "fólk",
+        "hjarta",
+        "manneskja",
+        "millihúðlitur",
+        "par",
+        "par með hjarta",
+        "par: manneskja, manneskja, millihúðlitur og dökkur húðlitur",
+        "rómantík"
+    ],
+    "🧑🏾‍❤‍🧑🏻": [
+        "fólk",
+        "hjarta",
+        "ljós húðlitur",
+        "manneskja",
+        "meðaldökkur húðlitur",
+        "par",
+        "par með hjarta",
+        "par: manneskja, manneskja, meðaldökkur húðlitur og ljós húðlitur",
+        "rómantík"
+    ],
+    "🧑🏾‍❤‍🧑🏼": [
+        "fólk",
+        "hjarta",
+        "manneskja",
+        "meðaldökkur húðlitur",
+        "meðalljós húðlitur",
+        "par",
+        "par með hjarta",
+        "par: manneskja, manneskja, meðaldökkur húðlitur og meðalljós húðlitur",
+        "rómantík"
+    ],
+    "🧑🏾‍❤‍🧑🏽": [
+        "fólk",
+        "hjarta",
+        "manneskja",
+        "meðaldökkur húðlitur",
+        "millihúðlitur",
+        "par",
+        "par með hjarta",
+        "par: manneskja, manneskja, meðaldökkur húðlitur og millihúðlitur",
+        "rómantík"
+    ],
+    "🧑🏾‍❤‍🧑🏿": [
+        "dökkur húðlitur",
+        "fólk",
+        "hjarta",
+        "manneskja",
+        "meðaldökkur húðlitur",
+        "par",
+        "par með hjarta",
+        "par: manneskja, manneskja, meðaldökkur húðlitur og dökkur húðlitur",
+        "rómantík"
+    ],
+    "🧑🏿‍❤‍🧑🏻": [
+        "dökkur húðlitur",
+        "fólk",
+        "hjarta",
+        "ljós húðlitur",
+        "manneskja",
+        "par",
+        "par með hjarta",
+        "par: manneskja, manneskja, dökkur húðlitur og ljós húðlitur",
+        "rómantík"
+    ],
+    "🧑🏿‍❤‍🧑🏼": [
+        "dökkur húðlitur",
+        "fólk",
+        "hjarta",
+        "manneskja",
+        "meðalljós húðlitur",
+        "par",
+        "par með hjarta",
+        "par: manneskja, manneskja, dökkur húðlitur og meðalljós húðlitur",
+        "rómantík"
+    ],
+    "🧑🏿‍❤‍🧑🏽": [
+        "dökkur húðlitur",
+        "fólk",
+        "hjarta",
+        "manneskja",
+        "millihúðlitur",
+        "par",
+        "par með hjarta",
+        "par: manneskja, manneskja, dökkur húðlitur og millihúðlitur",
+        "rómantík"
+    ],
+    "🧑🏿‍❤‍🧑🏾": [
+        "dökkur húðlitur",
+        "fólk",
+        "hjarta",
+        "manneskja",
+        "meðaldökkur húðlitur",
+        "par",
+        "par með hjarta",
+        "par: manneskja, manneskja, dökkur húðlitur og meðaldökkur húðlitur",
+        "rómantík"
     ],
     "🧑‍🦰": [
         "fullorðinn",
@@ -3267,6 +5500,46 @@
         "maður með skegg: dökkur húðlitur",
         "skegg"
     ],
+    "🧔‍♂": [
+        "karl",
+        "karl: skegg",
+        "skegg"
+    ],
+    "🧔🏻‍♂": [
+        "karl",
+        "karl: ljós húðlitur og skegg",
+        "karl: skegg",
+        "ljós húðlitur",
+        "skegg"
+    ],
+    "🧔🏼‍♂": [
+        "karl",
+        "karl: meðalljós húðlitur og skegg",
+        "karl: skegg",
+        "meðalljós húðlitur",
+        "skegg"
+    ],
+    "🧔🏽‍♂": [
+        "karl",
+        "karl: millihúðlitur og skegg",
+        "karl: skegg",
+        "millihúðlitur",
+        "skegg"
+    ],
+    "🧔🏾‍♂": [
+        "karl",
+        "karl: meðaldökkur húðlitur og skegg",
+        "karl: skegg",
+        "meðaldökkur húðlitur",
+        "skegg"
+    ],
+    "🧔🏿‍♂": [
+        "dökkur húðlitur",
+        "karl",
+        "karl: dökkur húðlitur og skegg",
+        "karl: skegg",
+        "skegg"
+    ],
     "👱‍♂": [
         "ljóshærður",
         "ljóshærður maður",
@@ -3307,6 +5580,521 @@
         "ljóshærður maður: dökkur húðlitur",
         "ljóst hár",
         "maður"
+    ],
+    "👨🏻‍❤‍💋‍👨🏻": [
+        "fólk",
+        "karl",
+        "koss",
+        "koss: karl, karl og ljós húðlitur",
+        "kyssast",
+        "ljós húðlitur",
+        "rómantík"
+    ],
+    "👨🏻‍❤‍💋‍👨🏼": [
+        "fólk",
+        "karl",
+        "koss",
+        "koss: karl, karl, ljós húðlitur og meðalljós húðlitur",
+        "kyssast",
+        "ljós húðlitur",
+        "meðalljós húðlitur",
+        "rómantík"
+    ],
+    "👨🏻‍❤‍💋‍👨🏽": [
+        "fólk",
+        "karl",
+        "koss",
+        "koss: karl, karl, ljós húðlitur og millihúðlitur",
+        "kyssast",
+        "ljós húðlitur",
+        "millihúðlitur",
+        "rómantík"
+    ],
+    "👨🏻‍❤‍💋‍👨🏾": [
+        "fólk",
+        "karl",
+        "koss",
+        "koss: karl, karl, ljós húðlitur og meðaldökkur húðlitur",
+        "kyssast",
+        "ljós húðlitur",
+        "meðaldökkur húðlitur",
+        "rómantík"
+    ],
+    "👨🏻‍❤‍💋‍👨🏿": [
+        "dökkur húðlitur",
+        "fólk",
+        "karl",
+        "koss",
+        "koss: karl, karl, ljós húðlitur og dökkur húðlitur",
+        "kyssast",
+        "ljós húðlitur",
+        "rómantík"
+    ],
+    "👨🏼‍❤‍💋‍👨🏻": [
+        "fólk",
+        "karl",
+        "koss",
+        "koss: karl, karl, meðalljós húðlitur og ljós húðlitur",
+        "kyssast",
+        "ljós húðlitur",
+        "meðalljós húðlitur",
+        "rómantík"
+    ],
+    "👨🏼‍❤‍💋‍👨🏼": [
+        "fólk",
+        "karl",
+        "koss",
+        "koss: karl, karl og meðalljós húðlitur",
+        "kyssast",
+        "meðalljós húðlitur",
+        "rómantík"
+    ],
+    "👨🏼‍❤‍💋‍👨🏽": [
+        "fólk",
+        "karl",
+        "koss",
+        "koss: karl, karl, meðalljós húðlitur og millihúðlitur",
+        "kyssast",
+        "meðalljós húðlitur",
+        "millihúðlitur",
+        "rómantík"
+    ],
+    "👨🏼‍❤‍💋‍👨🏾": [
+        "fólk",
+        "karl",
+        "koss",
+        "koss: karl, karl, meðalljós húðlitur og meðaldökkur húðlitur",
+        "kyssast",
+        "meðaldökkur húðlitur",
+        "meðalljós húðlitur",
+        "rómantík"
+    ],
+    "👨🏼‍❤‍💋‍👨🏿": [
+        "dökkur húðlitur",
+        "fólk",
+        "karl",
+        "koss",
+        "koss: karl, karl, meðalljós húðlitur og dökkur húðlitur",
+        "kyssast",
+        "meðalljós húðlitur",
+        "rómantík"
+    ],
+    "👨🏽‍❤‍💋‍👨🏻": [
+        "fólk",
+        "karl",
+        "koss",
+        "koss: karl, karl, millihúðlitur og ljós húðlitur",
+        "kyssast",
+        "ljós húðlitur",
+        "millihúðlitur",
+        "rómantík"
+    ],
+    "👨🏽‍❤‍💋‍👨🏼": [
+        "fólk",
+        "karl",
+        "koss",
+        "koss: karl, karl, millihúðlitur og meðalljós húðlitur",
+        "kyssast",
+        "meðalljós húðlitur",
+        "millihúðlitur",
+        "rómantík"
+    ],
+    "👨🏽‍❤‍💋‍👨🏽": [
+        "fólk",
+        "karl",
+        "koss",
+        "koss: karl, karl og millihúðlitur",
+        "kyssast",
+        "millihúðlitur",
+        "rómantík"
+    ],
+    "👨🏽‍❤‍💋‍👨🏾": [
+        "fólk",
+        "karl",
+        "koss",
+        "koss: karl, karl, millihúðlitur og meðaldökkur húðlitur",
+        "kyssast",
+        "meðaldökkur húðlitur",
+        "millihúðlitur",
+        "rómantík"
+    ],
+    "👨🏽‍❤‍💋‍👨🏿": [
+        "dökkur húðlitur",
+        "fólk",
+        "karl",
+        "koss",
+        "koss: karl, karl, millihúðlitur og dökkur húðlitur",
+        "kyssast",
+        "millihúðlitur",
+        "rómantík"
+    ],
+    "👨🏾‍❤‍💋‍👨🏻": [
+        "fólk",
+        "karl",
+        "koss",
+        "koss: karl, karl, meðaldökkur húðlitur og ljós húðlitur",
+        "kyssast",
+        "ljós húðlitur",
+        "meðaldökkur húðlitur",
+        "rómantík"
+    ],
+    "👨🏾‍❤‍💋‍👨🏼": [
+        "fólk",
+        "karl",
+        "koss",
+        "koss: karl, karl, meðaldökkur húðlitur og meðalljós húðlitur",
+        "kyssast",
+        "meðaldökkur húðlitur",
+        "meðalljós húðlitur",
+        "rómantík"
+    ],
+    "👨🏾‍❤‍💋‍👨🏽": [
+        "fólk",
+        "karl",
+        "koss",
+        "koss: karl, karl, meðaldökkur húðlitur og millihúðlitur",
+        "kyssast",
+        "meðaldökkur húðlitur",
+        "millihúðlitur",
+        "rómantík"
+    ],
+    "👨🏾‍❤‍💋‍👨🏾": [
+        "fólk",
+        "karl",
+        "koss",
+        "koss: karl, karl og meðaldökkur húðlitur",
+        "kyssast",
+        "meðaldökkur húðlitur",
+        "rómantík"
+    ],
+    "👨🏾‍❤‍💋‍👨🏿": [
+        "dökkur húðlitur",
+        "fólk",
+        "karl",
+        "koss",
+        "koss: karl, karl, meðaldökkur húðlitur og dökkur húðlitur",
+        "kyssast",
+        "meðaldökkur húðlitur",
+        "rómantík"
+    ],
+    "👨🏿‍❤‍💋‍👨🏻": [
+        "dökkur húðlitur",
+        "fólk",
+        "karl",
+        "koss",
+        "koss: karl, karl, dökkur húðlitur og ljós húðlitur",
+        "kyssast",
+        "ljós húðlitur",
+        "rómantík"
+    ],
+    "👨🏿‍❤‍💋‍👨🏼": [
+        "dökkur húðlitur",
+        "fólk",
+        "karl",
+        "koss",
+        "koss: karl, karl, dökkur húðlitur og meðalljós húðlitur",
+        "kyssast",
+        "meðalljós húðlitur",
+        "rómantík"
+    ],
+    "👨🏿‍❤‍💋‍👨🏽": [
+        "dökkur húðlitur",
+        "fólk",
+        "karl",
+        "koss",
+        "koss: karl, karl, dökkur húðlitur og millihúðlitur",
+        "kyssast",
+        "millihúðlitur",
+        "rómantík"
+    ],
+    "👨🏿‍❤‍💋‍👨🏾": [
+        "dökkur húðlitur",
+        "fólk",
+        "karl",
+        "koss",
+        "koss: karl, karl, dökkur húðlitur og meðaldökkur húðlitur",
+        "kyssast",
+        "meðaldökkur húðlitur",
+        "rómantík"
+    ],
+    "👨🏿‍❤‍💋‍👨🏿": [
+        "dökkur húðlitur",
+        "fólk",
+        "karl",
+        "koss",
+        "koss: karl, karl og dökkur húðlitur",
+        "kyssast",
+        "rómantík"
+    ],
+    "👨🏻‍❤‍👨🏻": [
+        "fólk",
+        "hjarta",
+        "karl",
+        "ljós húðlitur",
+        "par",
+        "par með hjarta",
+        "par: karl, karl og ljós húðlitur",
+        "rómantík"
+    ],
+    "👨🏻‍❤‍👨🏼": [
+        "fólk",
+        "hjarta",
+        "karl",
+        "ljós húðlitur",
+        "meðalljós húðlitur",
+        "par",
+        "par með hjarta",
+        "par: karl, karl, ljós húðlitur og meðalljós húðlitur",
+        "rómantík"
+    ],
+    "👨🏻‍❤‍👨🏽": [
+        "fólk",
+        "hjarta",
+        "karl",
+        "ljós húðlitur",
+        "millihúðlitur",
+        "par",
+        "par með hjarta",
+        "par: karl, karl, ljós húðlitur og millihúðlitur",
+        "rómantík"
+    ],
+    "👨🏻‍❤‍👨🏾": [
+        "fólk",
+        "hjarta",
+        "karl",
+        "ljós húðlitur",
+        "meðaldökkur húðlitur",
+        "par",
+        "par með hjarta",
+        "par: karl, karl, ljós húðlitur og meðaldökkur húðlitur",
+        "rómantík"
+    ],
+    "👨🏻‍❤‍👨🏿": [
+        "dökkur húðlitur",
+        "fólk",
+        "hjarta",
+        "karl",
+        "ljós húðlitur",
+        "par",
+        "par með hjarta",
+        "par: karl, karl, ljós húðlitur og dökkur húðlitur",
+        "rómantík"
+    ],
+    "👨🏼‍❤‍👨🏻": [
+        "fólk",
+        "hjarta",
+        "karl",
+        "ljós húðlitur",
+        "meðalljós húðlitur",
+        "par",
+        "par með hjarta",
+        "par: karl, karl, meðalljós húðlitur og ljós húðlitur",
+        "rómantík"
+    ],
+    "👨🏼‍❤‍👨🏼": [
+        "fólk",
+        "hjarta",
+        "karl",
+        "meðalljós húðlitur",
+        "par",
+        "par með hjarta",
+        "par: karl, karl og meðalljós húðlitur",
+        "rómantík"
+    ],
+    "👨🏼‍❤‍👨🏽": [
+        "fólk",
+        "hjarta",
+        "karl",
+        "meðalljós húðlitur",
+        "millihúðlitur",
+        "par",
+        "par með hjarta",
+        "par: karl, karl, meðalljós húðlitur og millihúðlitur",
+        "rómantík"
+    ],
+    "👨🏼‍❤‍👨🏾": [
+        "fólk",
+        "hjarta",
+        "karl",
+        "meðaldökkur húðlitur",
+        "meðalljós húðlitur",
+        "par",
+        "par með hjarta",
+        "par: karl, karl, meðalljós húðlitur og meðaldökkur húðlitur",
+        "rómantík"
+    ],
+    "👨🏼‍❤‍👨🏿": [
+        "dökkur húðlitur",
+        "fólk",
+        "hjarta",
+        "karl",
+        "meðalljós húðlitur",
+        "par",
+        "par með hjarta",
+        "par: karl, karl, meðalljós húðlitur og dökkur húðlitur",
+        "rómantík"
+    ],
+    "👨🏽‍❤‍👨🏻": [
+        "fólk",
+        "hjarta",
+        "karl",
+        "ljós húðlitur",
+        "millihúðlitur",
+        "par",
+        "par með hjarta",
+        "par: karl, karl, millihúðlitur og ljós húðlitur",
+        "rómantík"
+    ],
+    "👨🏽‍❤‍👨🏼": [
+        "fólk",
+        "hjarta",
+        "karl",
+        "meðalljós húðlitur",
+        "millihúðlitur",
+        "par",
+        "par með hjarta",
+        "par: karl, karl, millihúðlitur og meðalljós húðlitur",
+        "rómantík"
+    ],
+    "👨🏽‍❤‍👨🏽": [
+        "fólk",
+        "hjarta",
+        "karl",
+        "millihúðlitur",
+        "par",
+        "par með hjarta",
+        "par: karl, karl og millihúðlitur",
+        "rómantík"
+    ],
+    "👨🏽‍❤‍👨🏾": [
+        "fólk",
+        "hjarta",
+        "karl",
+        "meðaldökkur húðlitur",
+        "millihúðlitur",
+        "par",
+        "par með hjarta",
+        "par: karl, karl, millihúðlitur og meðaldökkur húðlitur",
+        "rómantík"
+    ],
+    "👨🏽‍❤‍👨🏿": [
+        "dökkur húðlitur",
+        "fólk",
+        "hjarta",
+        "karl",
+        "millihúðlitur",
+        "par",
+        "par með hjarta",
+        "par: karl, karl, millihúðlitur og dökkur húðlitur",
+        "rómantík"
+    ],
+    "👨🏾‍❤‍👨🏻": [
+        "fólk",
+        "hjarta",
+        "karl",
+        "ljós húðlitur",
+        "meðaldökkur húðlitur",
+        "par",
+        "par með hjarta",
+        "par: karl, karl, meðaldökkur húðlitur og ljós húðlitur",
+        "rómantík"
+    ],
+    "👨🏾‍❤‍👨🏼": [
+        "fólk",
+        "hjarta",
+        "karl",
+        "meðaldökkur húðlitur",
+        "meðalljós húðlitur",
+        "par",
+        "par með hjarta",
+        "par: karl, karl, meðaldökkur húðlitur og meðalljós húðlitur",
+        "rómantík"
+    ],
+    "👨🏾‍❤‍👨🏽": [
+        "fólk",
+        "hjarta",
+        "karl",
+        "meðaldökkur húðlitur",
+        "millihúðlitur",
+        "par",
+        "par með hjarta",
+        "par: karl, karl, meðaldökkur húðlitur og millihúðlitur",
+        "rómantík"
+    ],
+    "👨🏾‍❤‍👨🏾": [
+        "fólk",
+        "hjarta",
+        "karl",
+        "meðaldökkur húðlitur",
+        "par",
+        "par með hjarta",
+        "par: karl, karl og meðaldökkur húðlitur",
+        "rómantík"
+    ],
+    "👨🏾‍❤‍👨🏿": [
+        "dökkur húðlitur",
+        "fólk",
+        "hjarta",
+        "karl",
+        "meðaldökkur húðlitur",
+        "par",
+        "par með hjarta",
+        "par: karl, karl, meðaldökkur húðlitur og dökkur húðlitur",
+        "rómantík"
+    ],
+    "👨🏿‍❤‍👨🏻": [
+        "dökkur húðlitur",
+        "fólk",
+        "hjarta",
+        "karl",
+        "ljós húðlitur",
+        "par",
+        "par með hjarta",
+        "par: karl, karl, dökkur húðlitur og ljós húðlitur",
+        "rómantík"
+    ],
+    "👨🏿‍❤‍👨🏼": [
+        "dökkur húðlitur",
+        "fólk",
+        "hjarta",
+        "karl",
+        "meðalljós húðlitur",
+        "par",
+        "par með hjarta",
+        "par: karl, karl, dökkur húðlitur og meðalljós húðlitur",
+        "rómantík"
+    ],
+    "👨🏿‍❤‍👨🏽": [
+        "dökkur húðlitur",
+        "fólk",
+        "hjarta",
+        "karl",
+        "millihúðlitur",
+        "par",
+        "par með hjarta",
+        "par: karl, karl, dökkur húðlitur og millihúðlitur",
+        "rómantík"
+    ],
+    "👨🏿‍❤‍👨🏾": [
+        "dökkur húðlitur",
+        "fólk",
+        "hjarta",
+        "karl",
+        "meðaldökkur húðlitur",
+        "par",
+        "par með hjarta",
+        "par: karl, karl, dökkur húðlitur og meðaldökkur húðlitur",
+        "rómantík"
+    ],
+    "👨🏿‍❤‍👨🏿": [
+        "dökkur húðlitur",
+        "fólk",
+        "hjarta",
+        "karl",
+        "par",
+        "par með hjarta",
+        "par: karl, karl og dökkur húðlitur",
+        "rómantík"
     ],
     "👨‍🦰": [
         "fólk",
@@ -3530,6 +6318,46 @@
         "kona",
         "kona: dökkur húðlitur"
     ],
+    "🧔‍♀": [
+        "kona",
+        "kona: skegg",
+        "skegg"
+    ],
+    "🧔🏻‍♀": [
+        "kona",
+        "kona: ljós húðlitur og skegg",
+        "kona: skegg",
+        "ljós húðlitur",
+        "skegg"
+    ],
+    "🧔🏼‍♀": [
+        "kona",
+        "kona: meðalljós húðlitur og skegg",
+        "kona: skegg",
+        "meðalljós húðlitur",
+        "skegg"
+    ],
+    "🧔🏽‍♀": [
+        "kona",
+        "kona: millihúðlitur og skegg",
+        "kona: skegg",
+        "millihúðlitur",
+        "skegg"
+    ],
+    "🧔🏾‍♀": [
+        "kona",
+        "kona: meðaldökkur húðlitur og skegg",
+        "kona: skegg",
+        "meðaldökkur húðlitur",
+        "skegg"
+    ],
+    "🧔🏿‍♀": [
+        "dökkur húðlitur",
+        "kona",
+        "kona: dökkur húðlitur og skegg",
+        "kona: skegg",
+        "skegg"
+    ],
     "👱‍♀": [
         "kona",
         "ljóshærð",
@@ -3570,6 +6398,1086 @@
         "ljóshærð",
         "ljóshærð kona: dökkur húðlitur",
         "ljóst hár"
+    ],
+    "👩🏻‍❤‍💋‍👨🏻": [
+        "fólk",
+        "karl",
+        "kona",
+        "koss",
+        "koss: kona, karl og ljós húðlitur",
+        "kyssast",
+        "ljós húðlitur",
+        "rómantík"
+    ],
+    "👩🏻‍❤‍💋‍👨🏼": [
+        "fólk",
+        "karl",
+        "kona",
+        "koss",
+        "koss: kona, karl, ljós húðlitur og meðalljós húðlitur",
+        "kyssast",
+        "ljós húðlitur",
+        "meðalljós húðlitur",
+        "rómantík"
+    ],
+    "👩🏻‍❤‍💋‍👨🏽": [
+        "fólk",
+        "karl",
+        "kona",
+        "koss",
+        "koss: kona, karl, ljós húðlitur og millihúðlitur",
+        "kyssast",
+        "ljós húðlitur",
+        "millihúðlitur",
+        "rómantík"
+    ],
+    "👩🏻‍❤‍💋‍👨🏾": [
+        "fólk",
+        "karl",
+        "kona",
+        "koss",
+        "koss: kona, karl, ljós húðlitur og meðaldökkur húðlitur",
+        "kyssast",
+        "ljós húðlitur",
+        "meðaldökkur húðlitur",
+        "rómantík"
+    ],
+    "👩🏻‍❤‍💋‍👨🏿": [
+        "dökkur húðlitur",
+        "fólk",
+        "karl",
+        "kona",
+        "koss",
+        "koss: kona, karl, ljós húðlitur og dökkur húðlitur",
+        "kyssast",
+        "ljós húðlitur",
+        "rómantík"
+    ],
+    "👩🏼‍❤‍💋‍👨🏻": [
+        "fólk",
+        "karl",
+        "kona",
+        "koss",
+        "koss: kona, karl, meðalljós húðlitur og ljós húðlitur",
+        "kyssast",
+        "ljós húðlitur",
+        "meðalljós húðlitur",
+        "rómantík"
+    ],
+    "👩🏼‍❤‍💋‍👨🏼": [
+        "fólk",
+        "karl",
+        "kona",
+        "koss",
+        "koss: kona, karl og meðalljós húðlitur",
+        "kyssast",
+        "meðalljós húðlitur",
+        "rómantík"
+    ],
+    "👩🏼‍❤‍💋‍👨🏽": [
+        "fólk",
+        "karl",
+        "kona",
+        "koss",
+        "koss: kona, karl, meðalljós húðlitur og millihúðlitur",
+        "kyssast",
+        "meðalljós húðlitur",
+        "millihúðlitur",
+        "rómantík"
+    ],
+    "👩🏼‍❤‍💋‍👨🏾": [
+        "fólk",
+        "karl",
+        "kona",
+        "koss",
+        "koss: kona, karl, meðalljós húðlitur og meðaldökkur húðlitur",
+        "kyssast",
+        "meðaldökkur húðlitur",
+        "meðalljós húðlitur",
+        "rómantík"
+    ],
+    "👩🏼‍❤‍💋‍👨🏿": [
+        "dökkur húðlitur",
+        "fólk",
+        "karl",
+        "kona",
+        "koss",
+        "koss: kona, karl, meðalljós húðlitur og dökkur húðlitur",
+        "kyssast",
+        "meðalljós húðlitur",
+        "rómantík"
+    ],
+    "👩🏽‍❤‍💋‍👨🏻": [
+        "fólk",
+        "karl",
+        "kona",
+        "koss",
+        "koss: kona, karl, millihúðlitur og ljós húðlitur",
+        "kyssast",
+        "ljós húðlitur",
+        "millihúðlitur",
+        "rómantík"
+    ],
+    "👩🏽‍❤‍💋‍👨🏼": [
+        "fólk",
+        "karl",
+        "kona",
+        "koss",
+        "koss: kona, karl, millihúðlitur og meðalljós húðlitur",
+        "kyssast",
+        "meðalljós húðlitur",
+        "millihúðlitur",
+        "rómantík"
+    ],
+    "👩🏽‍❤‍💋‍👨🏽": [
+        "fólk",
+        "karl",
+        "kona",
+        "koss",
+        "koss: kona, karl og millihúðlitur",
+        "kyssast",
+        "millihúðlitur",
+        "rómantík"
+    ],
+    "👩🏽‍❤‍💋‍👨🏾": [
+        "fólk",
+        "karl",
+        "kona",
+        "koss",
+        "koss: kona, karl, millihúðlitur og meðaldökkur húðlitur",
+        "kyssast",
+        "meðaldökkur húðlitur",
+        "millihúðlitur",
+        "rómantík"
+    ],
+    "👩🏽‍❤‍💋‍👨🏿": [
+        "dökkur húðlitur",
+        "fólk",
+        "karl",
+        "kona",
+        "koss",
+        "koss: kona, karl, millihúðlitur og dökkur húðlitur",
+        "kyssast",
+        "millihúðlitur",
+        "rómantík"
+    ],
+    "👩🏾‍❤‍💋‍👨🏻": [
+        "fólk",
+        "karl",
+        "kona",
+        "koss",
+        "koss: kona, karl, meðaldökkur húðlitur og ljós húðlitur",
+        "kyssast",
+        "ljós húðlitur",
+        "meðaldökkur húðlitur",
+        "rómantík"
+    ],
+    "👩🏾‍❤‍💋‍👨🏼": [
+        "fólk",
+        "karl",
+        "kona",
+        "koss",
+        "koss: kona, karl, meðaldökkur húðlitur og meðalljós húðlitur",
+        "kyssast",
+        "meðaldökkur húðlitur",
+        "meðalljós húðlitur",
+        "rómantík"
+    ],
+    "👩🏾‍❤‍💋‍👨🏽": [
+        "fólk",
+        "karl",
+        "kona",
+        "koss",
+        "koss: kona, karl, meðaldökkur húðlitur og millihúðlitur",
+        "kyssast",
+        "meðaldökkur húðlitur",
+        "millihúðlitur",
+        "rómantík"
+    ],
+    "👩🏾‍❤‍💋‍👨🏾": [
+        "fólk",
+        "karl",
+        "kona",
+        "koss",
+        "koss: kona, karl og meðaldökkur húðlitur",
+        "kyssast",
+        "meðaldökkur húðlitur",
+        "rómantík"
+    ],
+    "👩🏾‍❤‍💋‍👨🏿": [
+        "dökkur húðlitur",
+        "fólk",
+        "karl",
+        "kona",
+        "koss",
+        "koss: kona, karl, meðaldökkur húðlitur og dökkur húðlitur",
+        "kyssast",
+        "meðaldökkur húðlitur",
+        "rómantík"
+    ],
+    "👩🏿‍❤‍💋‍👨🏻": [
+        "dökkur húðlitur",
+        "fólk",
+        "karl",
+        "kona",
+        "koss",
+        "koss: kona, karl, dökkur húðlitur og ljós húðlitur",
+        "kyssast",
+        "ljós húðlitur",
+        "rómantík"
+    ],
+    "👩🏿‍❤‍💋‍👨🏼": [
+        "dökkur húðlitur",
+        "fólk",
+        "karl",
+        "kona",
+        "koss",
+        "koss: kona, karl, dökkur húðlitur og meðalljós húðlitur",
+        "kyssast",
+        "meðalljós húðlitur",
+        "rómantík"
+    ],
+    "👩🏿‍❤‍💋‍👨🏽": [
+        "dökkur húðlitur",
+        "fólk",
+        "karl",
+        "kona",
+        "koss",
+        "koss: kona, karl, dökkur húðlitur og millihúðlitur",
+        "kyssast",
+        "millihúðlitur",
+        "rómantík"
+    ],
+    "👩🏿‍❤‍💋‍👨🏾": [
+        "dökkur húðlitur",
+        "fólk",
+        "karl",
+        "kona",
+        "koss",
+        "koss: kona, karl, dökkur húðlitur og meðaldökkur húðlitur",
+        "kyssast",
+        "meðaldökkur húðlitur",
+        "rómantík"
+    ],
+    "👩🏿‍❤‍💋‍👨🏿": [
+        "dökkur húðlitur",
+        "fólk",
+        "karl",
+        "kona",
+        "koss",
+        "koss: kona, karl og dökkur húðlitur",
+        "kyssast",
+        "rómantík"
+    ],
+    "👩🏻‍❤‍💋‍👩🏻": [
+        "fólk",
+        "kona",
+        "koss",
+        "koss: kona, kona og ljós húðlitur",
+        "kyssast",
+        "ljós húðlitur",
+        "rómantík"
+    ],
+    "👩🏻‍❤‍💋‍👩🏼": [
+        "fólk",
+        "kona",
+        "koss",
+        "koss: kona, kona, ljós húðlitur og meðalljós húðlitur",
+        "kyssast",
+        "ljós húðlitur",
+        "meðalljós húðlitur",
+        "rómantík"
+    ],
+    "👩🏻‍❤‍💋‍👩🏽": [
+        "fólk",
+        "kona",
+        "koss",
+        "koss: kona, kona, ljós húðlitur og millihúðlitur",
+        "kyssast",
+        "ljós húðlitur",
+        "millihúðlitur",
+        "rómantík"
+    ],
+    "👩🏻‍❤‍💋‍👩🏾": [
+        "fólk",
+        "kona",
+        "koss",
+        "koss: kona, kona, ljós húðlitur og meðaldökkur húðlitur",
+        "kyssast",
+        "ljós húðlitur",
+        "meðaldökkur húðlitur",
+        "rómantík"
+    ],
+    "👩🏻‍❤‍💋‍👩🏿": [
+        "dökkur húðlitur",
+        "fólk",
+        "kona",
+        "koss",
+        "koss: kona, kona, ljós húðlitur og dökkur húðlitur",
+        "kyssast",
+        "ljós húðlitur",
+        "rómantík"
+    ],
+    "👩🏼‍❤‍💋‍👩🏻": [
+        "fólk",
+        "kona",
+        "koss",
+        "koss: kona, kona, meðalljós húðlitur og ljós húðlitur",
+        "kyssast",
+        "ljós húðlitur",
+        "meðalljós húðlitur",
+        "rómantík"
+    ],
+    "👩🏼‍❤‍💋‍👩🏼": [
+        "fólk",
+        "kona",
+        "koss",
+        "koss: kona, kona og meðalljós húðlitur",
+        "kyssast",
+        "meðalljós húðlitur",
+        "rómantík"
+    ],
+    "👩🏼‍❤‍💋‍👩🏽": [
+        "fólk",
+        "kona",
+        "koss",
+        "koss: kona, kona, meðalljós húðlitur og millihúðlitur",
+        "kyssast",
+        "meðalljós húðlitur",
+        "millihúðlitur",
+        "rómantík"
+    ],
+    "👩🏼‍❤‍💋‍👩🏾": [
+        "fólk",
+        "kona",
+        "koss",
+        "koss: kona, kona, meðalljós húðlitur og meðaldökkur húðlitur",
+        "kyssast",
+        "meðaldökkur húðlitur",
+        "meðalljós húðlitur",
+        "rómantík"
+    ],
+    "👩🏼‍❤‍💋‍👩🏿": [
+        "dökkur húðlitur",
+        "fólk",
+        "kona",
+        "koss",
+        "koss: kona, kona, meðalljós húðlitur og dökkur húðlitur",
+        "kyssast",
+        "meðalljós húðlitur",
+        "rómantík"
+    ],
+    "👩🏽‍❤‍💋‍👩🏻": [
+        "fólk",
+        "kona",
+        "koss",
+        "koss: kona, kona, millihúðlitur og ljós húðlitur",
+        "kyssast",
+        "ljós húðlitur",
+        "millihúðlitur",
+        "rómantík"
+    ],
+    "👩🏽‍❤‍💋‍👩🏼": [
+        "fólk",
+        "kona",
+        "koss",
+        "koss: kona, kona, millihúðlitur og meðalljós húðlitur",
+        "kyssast",
+        "meðalljós húðlitur",
+        "millihúðlitur",
+        "rómantík"
+    ],
+    "👩🏽‍❤‍💋‍👩🏽": [
+        "fólk",
+        "kona",
+        "koss",
+        "koss: kona, kona og millihúðlitur",
+        "kyssast",
+        "millihúðlitur",
+        "rómantík"
+    ],
+    "👩🏽‍❤‍💋‍👩🏾": [
+        "fólk",
+        "kona",
+        "koss",
+        "koss: kona, kona, millihúðlitur og meðaldökkur húðlitur",
+        "kyssast",
+        "meðaldökkur húðlitur",
+        "millihúðlitur",
+        "rómantík"
+    ],
+    "👩🏽‍❤‍💋‍👩🏿": [
+        "dökkur húðlitur",
+        "fólk",
+        "kona",
+        "koss",
+        "koss: kona, kona, millihúðlitur og dökkur húðlitur",
+        "kyssast",
+        "millihúðlitur",
+        "rómantík"
+    ],
+    "👩🏾‍❤‍💋‍👩🏻": [
+        "fólk",
+        "kona",
+        "koss",
+        "koss: kona, kona, meðaldökkur húðlitur og ljós húðlitur",
+        "kyssast",
+        "ljós húðlitur",
+        "meðaldökkur húðlitur",
+        "rómantík"
+    ],
+    "👩🏾‍❤‍💋‍👩🏼": [
+        "fólk",
+        "kona",
+        "koss",
+        "koss: kona, kona, meðaldökkur húðlitur og meðalljós húðlitur",
+        "kyssast",
+        "meðaldökkur húðlitur",
+        "meðalljós húðlitur",
+        "rómantík"
+    ],
+    "👩🏾‍❤‍💋‍👩🏽": [
+        "fólk",
+        "kona",
+        "koss",
+        "koss: kona, kona, meðaldökkur húðlitur og millihúðlitur",
+        "kyssast",
+        "meðaldökkur húðlitur",
+        "millihúðlitur",
+        "rómantík"
+    ],
+    "👩🏾‍❤‍💋‍👩🏾": [
+        "fólk",
+        "kona",
+        "koss",
+        "koss: kona, kona og meðaldökkur húðlitur",
+        "kyssast",
+        "meðaldökkur húðlitur",
+        "rómantík"
+    ],
+    "👩🏾‍❤‍💋‍👩🏿": [
+        "dökkur húðlitur",
+        "fólk",
+        "kona",
+        "koss",
+        "koss: kona, kona, meðaldökkur húðlitur og dökkur húðlitur",
+        "kyssast",
+        "meðaldökkur húðlitur",
+        "rómantík"
+    ],
+    "👩🏿‍❤‍💋‍👩🏻": [
+        "dökkur húðlitur",
+        "fólk",
+        "kona",
+        "koss",
+        "koss: kona, kona, dökkur húðlitur og ljós húðlitur",
+        "kyssast",
+        "ljós húðlitur",
+        "rómantík"
+    ],
+    "👩🏿‍❤‍💋‍👩🏼": [
+        "dökkur húðlitur",
+        "fólk",
+        "kona",
+        "koss",
+        "koss: kona, kona, dökkur húðlitur og meðalljós húðlitur",
+        "kyssast",
+        "meðalljós húðlitur",
+        "rómantík"
+    ],
+    "👩🏿‍❤‍💋‍👩🏽": [
+        "dökkur húðlitur",
+        "fólk",
+        "kona",
+        "koss",
+        "koss: kona, kona, dökkur húðlitur og millihúðlitur",
+        "kyssast",
+        "millihúðlitur",
+        "rómantík"
+    ],
+    "👩🏿‍❤‍💋‍👩🏾": [
+        "dökkur húðlitur",
+        "fólk",
+        "kona",
+        "koss",
+        "koss: kona, kona, dökkur húðlitur og meðaldökkur húðlitur",
+        "kyssast",
+        "meðaldökkur húðlitur",
+        "rómantík"
+    ],
+    "👩🏿‍❤‍💋‍👩🏿": [
+        "dökkur húðlitur",
+        "fólk",
+        "kona",
+        "koss",
+        "koss: kona, kona og dökkur húðlitur",
+        "kyssast",
+        "rómantík"
+    ],
+    "👩🏻‍❤‍👨🏻": [
+        "fólk",
+        "hjarta",
+        "karl",
+        "kona",
+        "ljós húðlitur",
+        "par",
+        "par með hjarta",
+        "par: kona, karl og ljós húðlitur",
+        "rómantík"
+    ],
+    "👩🏻‍❤‍👨🏼": [
+        "fólk",
+        "hjarta",
+        "karl",
+        "kona",
+        "ljós húðlitur",
+        "meðalljós húðlitur",
+        "par",
+        "par með hjarta",
+        "par: kona, karl, ljós húðlitur og meðalljós húðlitur",
+        "rómantík"
+    ],
+    "👩🏻‍❤‍👨🏽": [
+        "fólk",
+        "hjarta",
+        "karl",
+        "kona",
+        "ljós húðlitur",
+        "millihúðlitur",
+        "par",
+        "par með hjarta",
+        "par: kona, karl, ljós húðlitur og millihúðlitur",
+        "rómantík"
+    ],
+    "👩🏻‍❤‍👨🏾": [
+        "fólk",
+        "hjarta",
+        "karl",
+        "kona",
+        "ljós húðlitur",
+        "meðaldökkur húðlitur",
+        "par",
+        "par með hjarta",
+        "par: kona, karl, ljós húðlitur og meðaldökkur húðlitur",
+        "rómantík"
+    ],
+    "👩🏻‍❤‍👨🏿": [
+        "dökkur húðlitur",
+        "fólk",
+        "hjarta",
+        "karl",
+        "kona",
+        "ljós húðlitur",
+        "par",
+        "par með hjarta",
+        "par: kona, karl, ljós húðlitur og dökkur húðlitur",
+        "rómantík"
+    ],
+    "👩🏼‍❤‍👨🏻": [
+        "fólk",
+        "hjarta",
+        "karl",
+        "kona",
+        "ljós húðlitur",
+        "meðalljós húðlitur",
+        "par",
+        "par með hjarta",
+        "par: kona, karl, meðalljós húðlitur og ljós húðlitur",
+        "rómantík"
+    ],
+    "👩🏼‍❤‍👨🏼": [
+        "fólk",
+        "hjarta",
+        "karl",
+        "kona",
+        "meðalljós húðlitur",
+        "par",
+        "par með hjarta",
+        "par: kona, karl og meðalljós húðlitur",
+        "rómantík"
+    ],
+    "👩🏼‍❤‍👨🏽": [
+        "fólk",
+        "hjarta",
+        "karl",
+        "kona",
+        "meðalljós húðlitur",
+        "millihúðlitur",
+        "par",
+        "par með hjarta",
+        "par: kona, karl, meðalljós húðlitur og millihúðlitur",
+        "rómantík"
+    ],
+    "👩🏼‍❤‍👨🏾": [
+        "fólk",
+        "hjarta",
+        "karl",
+        "kona",
+        "meðaldökkur húðlitur",
+        "meðalljós húðlitur",
+        "par",
+        "par með hjarta",
+        "par: kona, karl, meðalljós húðlitur og meðaldökkur húðlitur",
+        "rómantík"
+    ],
+    "👩🏼‍❤‍👨🏿": [
+        "dökkur húðlitur",
+        "fólk",
+        "hjarta",
+        "karl",
+        "kona",
+        "meðalljós húðlitur",
+        "par",
+        "par með hjarta",
+        "par: kona, karl, meðalljós húðlitur og dökkur húðlitur",
+        "rómantík"
+    ],
+    "👩🏽‍❤‍👨🏻": [
+        "fólk",
+        "hjarta",
+        "karl",
+        "kona",
+        "ljós húðlitur",
+        "millihúðlitur",
+        "par",
+        "par með hjarta",
+        "par: kona, karl, millihúðlitur og ljós húðlitur",
+        "rómantík"
+    ],
+    "👩🏽‍❤‍👨🏼": [
+        "fólk",
+        "hjarta",
+        "karl",
+        "kona",
+        "meðalljós húðlitur",
+        "millihúðlitur",
+        "par",
+        "par með hjarta",
+        "par: kona, karl, millihúðlitur og meðalljós húðlitur",
+        "rómantík"
+    ],
+    "👩🏽‍❤‍👨🏽": [
+        "fólk",
+        "hjarta",
+        "karl",
+        "kona",
+        "millihúðlitur",
+        "par",
+        "par með hjarta",
+        "par: kona, karl og millihúðlitur",
+        "rómantík"
+    ],
+    "👩🏽‍❤‍👨🏾": [
+        "fólk",
+        "hjarta",
+        "karl",
+        "kona",
+        "meðaldökkur húðlitur",
+        "millihúðlitur",
+        "par",
+        "par með hjarta",
+        "par: kona, karl, millihúðlitur og meðaldökkur húðlitur",
+        "rómantík"
+    ],
+    "👩🏽‍❤‍👨🏿": [
+        "dökkur húðlitur",
+        "fólk",
+        "hjarta",
+        "karl",
+        "kona",
+        "millihúðlitur",
+        "par",
+        "par með hjarta",
+        "par: kona, karl, millihúðlitur og dökkur húðlitur",
+        "rómantík"
+    ],
+    "👩🏾‍❤‍👨🏻": [
+        "fólk",
+        "hjarta",
+        "karl",
+        "kona",
+        "ljós húðlitur",
+        "meðaldökkur húðlitur",
+        "par",
+        "par með hjarta",
+        "par: kona, karl, meðaldökkur húðlitur og ljós húðlitur",
+        "rómantík"
+    ],
+    "👩🏾‍❤‍👨🏼": [
+        "fólk",
+        "hjarta",
+        "karl",
+        "kona",
+        "meðaldökkur húðlitur",
+        "meðalljós húðlitur",
+        "par",
+        "par með hjarta",
+        "par: kona, karl, meðaldökkur húðlitur og meðalljós húðlitur",
+        "rómantík"
+    ],
+    "👩🏾‍❤‍👨🏽": [
+        "fólk",
+        "hjarta",
+        "karl",
+        "kona",
+        "meðaldökkur húðlitur",
+        "millihúðlitur",
+        "par",
+        "par með hjarta",
+        "par: kona, karl, meðaldökkur húðlitur og millihúðlitur",
+        "rómantík"
+    ],
+    "👩🏾‍❤‍👨🏾": [
+        "fólk",
+        "hjarta",
+        "karl",
+        "kona",
+        "meðaldökkur húðlitur",
+        "par",
+        "par með hjarta",
+        "par: kona, karl og meðaldökkur húðlitur",
+        "rómantík"
+    ],
+    "👩🏾‍❤‍👨🏿": [
+        "dökkur húðlitur",
+        "fólk",
+        "hjarta",
+        "karl",
+        "kona",
+        "meðaldökkur húðlitur",
+        "par",
+        "par með hjarta",
+        "par: kona, karl, meðaldökkur húðlitur og dökkur húðlitur",
+        "rómantík"
+    ],
+    "👩🏿‍❤‍👨🏻": [
+        "dökkur húðlitur",
+        "fólk",
+        "hjarta",
+        "karl",
+        "kona",
+        "ljós húðlitur",
+        "par",
+        "par með hjarta",
+        "par: kona, karl, dökkur húðlitur og ljós húðlitur",
+        "rómantík"
+    ],
+    "👩🏿‍❤‍👨🏼": [
+        "dökkur húðlitur",
+        "fólk",
+        "hjarta",
+        "karl",
+        "kona",
+        "meðalljós húðlitur",
+        "par",
+        "par með hjarta",
+        "par: kona, karl, dökkur húðlitur og meðalljós húðlitur",
+        "rómantík"
+    ],
+    "👩🏿‍❤‍👨🏽": [
+        "dökkur húðlitur",
+        "fólk",
+        "hjarta",
+        "karl",
+        "kona",
+        "millihúðlitur",
+        "par",
+        "par með hjarta",
+        "par: kona, karl, dökkur húðlitur og millihúðlitur",
+        "rómantík"
+    ],
+    "👩🏿‍❤‍👨🏾": [
+        "dökkur húðlitur",
+        "fólk",
+        "hjarta",
+        "karl",
+        "kona",
+        "meðaldökkur húðlitur",
+        "par",
+        "par með hjarta",
+        "par: kona, karl, dökkur húðlitur og meðaldökkur húðlitur",
+        "rómantík"
+    ],
+    "👩🏿‍❤‍👨🏿": [
+        "dökkur húðlitur",
+        "fólk",
+        "hjarta",
+        "karl",
+        "kona",
+        "par",
+        "par með hjarta",
+        "par: kona, karl og dökkur húðlitur",
+        "rómantík"
+    ],
+    "👩🏻‍❤‍👩🏻": [
+        "fólk",
+        "hjarta",
+        "kona",
+        "ljós húðlitur",
+        "par",
+        "par með hjarta",
+        "par: kona, kona og ljós húðlitur",
+        "rómantík"
+    ],
+    "👩🏻‍❤‍👩🏼": [
+        "fólk",
+        "hjarta",
+        "kona",
+        "ljós húðlitur",
+        "meðalljós húðlitur",
+        "par",
+        "par með hjarta",
+        "par: kona, kona, ljós húðlitur og meðalljós húðlitur",
+        "rómantík"
+    ],
+    "👩🏻‍❤‍👩🏽": [
+        "fólk",
+        "hjarta",
+        "kona",
+        "ljós húðlitur",
+        "millihúðlitur",
+        "par",
+        "par með hjarta",
+        "par: kona, kona, ljós húðlitur og millihúðlitur",
+        "rómantík"
+    ],
+    "👩🏻‍❤‍👩🏾": [
+        "fólk",
+        "hjarta",
+        "kona",
+        "ljós húðlitur",
+        "meðaldökkur húðlitur",
+        "par",
+        "par með hjarta",
+        "par: kona, kona, ljós húðlitur og meðaldökkur húðlitur",
+        "rómantík"
+    ],
+    "👩🏻‍❤‍👩🏿": [
+        "dökkur húðlitur",
+        "fólk",
+        "hjarta",
+        "kona",
+        "ljós húðlitur",
+        "par",
+        "par með hjarta",
+        "par: kona, kona, ljós húðlitur og dökkur húðlitur",
+        "rómantík"
+    ],
+    "👩🏼‍❤‍👩🏻": [
+        "fólk",
+        "hjarta",
+        "kona",
+        "ljós húðlitur",
+        "meðalljós húðlitur",
+        "par",
+        "par með hjarta",
+        "par: kona, kona, meðalljós húðlitur og ljós húðlitur",
+        "rómantík"
+    ],
+    "👩🏼‍❤‍👩🏼": [
+        "fólk",
+        "hjarta",
+        "kona",
+        "meðalljós húðlitur",
+        "par",
+        "par með hjarta",
+        "par: kona, kona og meðalljós húðlitur",
+        "rómantík"
+    ],
+    "👩🏼‍❤‍👩🏽": [
+        "fólk",
+        "hjarta",
+        "kona",
+        "meðalljós húðlitur",
+        "millihúðlitur",
+        "par",
+        "par með hjarta",
+        "par: kona, kona, meðalljós húðlitur og millihúðlitur",
+        "rómantík"
+    ],
+    "👩🏼‍❤‍👩🏾": [
+        "fólk",
+        "hjarta",
+        "kona",
+        "meðaldökkur húðlitur",
+        "meðalljós húðlitur",
+        "par",
+        "par með hjarta",
+        "par: kona, kona, meðalljós húðlitur og meðaldökkur húðlitur",
+        "rómantík"
+    ],
+    "👩🏼‍❤‍👩🏿": [
+        "dökkur húðlitur",
+        "fólk",
+        "hjarta",
+        "kona",
+        "meðalljós húðlitur",
+        "par",
+        "par með hjarta",
+        "par: kona, kona, meðalljós húðlitur og dökkur húðlitur",
+        "rómantík"
+    ],
+    "👩🏽‍❤‍👩🏻": [
+        "fólk",
+        "hjarta",
+        "kona",
+        "ljós húðlitur",
+        "millihúðlitur",
+        "par",
+        "par með hjarta",
+        "par: kona, kona, millihúðlitur og ljós húðlitur",
+        "rómantík"
+    ],
+    "👩🏽‍❤‍👩🏼": [
+        "fólk",
+        "hjarta",
+        "kona",
+        "meðalljós húðlitur",
+        "millihúðlitur",
+        "par",
+        "par með hjarta",
+        "par: kona, kona, millihúðlitur og meðalljós húðlitur",
+        "rómantík"
+    ],
+    "👩🏽‍❤‍👩🏽": [
+        "fólk",
+        "hjarta",
+        "kona",
+        "millihúðlitur",
+        "par",
+        "par með hjarta",
+        "par: kona, kona og millihúðlitur",
+        "rómantík"
+    ],
+    "👩🏽‍❤‍👩🏾": [
+        "fólk",
+        "hjarta",
+        "kona",
+        "meðaldökkur húðlitur",
+        "millihúðlitur",
+        "par",
+        "par með hjarta",
+        "par: kona, kona, millihúðlitur og meðaldökkur húðlitur",
+        "rómantík"
+    ],
+    "👩🏽‍❤‍👩🏿": [
+        "dökkur húðlitur",
+        "fólk",
+        "hjarta",
+        "kona",
+        "millihúðlitur",
+        "par",
+        "par með hjarta",
+        "par: kona, kona, millihúðlitur og dökkur húðlitur",
+        "rómantík"
+    ],
+    "👩🏾‍❤‍👩🏻": [
+        "fólk",
+        "hjarta",
+        "kona",
+        "ljós húðlitur",
+        "meðaldökkur húðlitur",
+        "par",
+        "par með hjarta",
+        "par: kona, kona, meðaldökkur húðlitur og ljós húðlitur",
+        "rómantík"
+    ],
+    "👩🏾‍❤‍👩🏼": [
+        "fólk",
+        "hjarta",
+        "kona",
+        "meðaldökkur húðlitur",
+        "meðalljós húðlitur",
+        "par",
+        "par með hjarta",
+        "par: kona, kona, meðaldökkur húðlitur og meðalljós húðlitur",
+        "rómantík"
+    ],
+    "👩🏾‍❤‍👩🏽": [
+        "fólk",
+        "hjarta",
+        "kona",
+        "meðaldökkur húðlitur",
+        "millihúðlitur",
+        "par",
+        "par með hjarta",
+        "par: kona, kona, meðaldökkur húðlitur og millihúðlitur",
+        "rómantík"
+    ],
+    "👩🏾‍❤‍👩🏾": [
+        "fólk",
+        "hjarta",
+        "kona",
+        "meðaldökkur húðlitur",
+        "par",
+        "par með hjarta",
+        "par: kona, kona og meðaldökkur húðlitur",
+        "rómantík"
+    ],
+    "👩🏾‍❤‍👩🏿": [
+        "dökkur húðlitur",
+        "fólk",
+        "hjarta",
+        "kona",
+        "meðaldökkur húðlitur",
+        "par",
+        "par með hjarta",
+        "par: kona, kona, meðaldökkur húðlitur og dökkur húðlitur",
+        "rómantík"
+    ],
+    "👩🏿‍❤‍👩🏻": [
+        "dökkur húðlitur",
+        "fólk",
+        "hjarta",
+        "kona",
+        "ljós húðlitur",
+        "par",
+        "par með hjarta",
+        "par: kona, kona, dökkur húðlitur og ljós húðlitur",
+        "rómantík"
+    ],
+    "👩🏿‍❤‍👩🏼": [
+        "dökkur húðlitur",
+        "fólk",
+        "hjarta",
+        "kona",
+        "meðalljós húðlitur",
+        "par",
+        "par með hjarta",
+        "par: kona, kona, dökkur húðlitur og meðalljós húðlitur",
+        "rómantík"
+    ],
+    "👩🏿‍❤‍👩🏽": [
+        "dökkur húðlitur",
+        "fólk",
+        "hjarta",
+        "kona",
+        "millihúðlitur",
+        "par",
+        "par með hjarta",
+        "par: kona, kona, dökkur húðlitur og millihúðlitur",
+        "rómantík"
+    ],
+    "👩🏿‍❤‍👩🏾": [
+        "dökkur húðlitur",
+        "fólk",
+        "hjarta",
+        "kona",
+        "meðaldökkur húðlitur",
+        "par",
+        "par með hjarta",
+        "par: kona, kona, dökkur húðlitur og meðaldökkur húðlitur",
+        "rómantík"
+    ],
+    "👩🏿‍❤‍👩🏿": [
+        "dökkur húðlitur",
+        "fólk",
+        "hjarta",
+        "kona",
+        "par",
+        "par með hjarta",
+        "par: kona, kona og dökkur húðlitur",
+        "rómantík"
     ],
     "👩‍🦰": [
         "fólk",
@@ -8008,6 +11916,46 @@
         "laumulegur",
         "ninja"
     ],
+    "🥷🏻": [
+        "bardagamaður",
+        "falinn",
+        "laumulegur",
+        "ljós húðlitur",
+        "ninja",
+        "ninja: ljós húðlitur"
+    ],
+    "🥷🏼": [
+        "bardagamaður",
+        "falinn",
+        "laumulegur",
+        "meðalljós húðlitur",
+        "ninja",
+        "ninja: meðalljós húðlitur"
+    ],
+    "🥷🏽": [
+        "bardagamaður",
+        "falinn",
+        "laumulegur",
+        "millihúðlitur",
+        "ninja",
+        "ninja: millihúðlitur"
+    ],
+    "🥷🏾": [
+        "bardagamaður",
+        "falinn",
+        "laumulegur",
+        "meðaldökkur húðlitur",
+        "ninja",
+        "ninja: meðaldökkur húðlitur"
+    ],
+    "🥷🏿": [
+        "bardagamaður",
+        "dökkur húðlitur",
+        "falinn",
+        "laumulegur",
+        "ninja",
+        "ninja: dökkur húðlitur"
+    ],
     "👷": [
         "fólk",
         "verkamaður"
@@ -8133,6 +12081,58 @@
         "kvenkyns byggingarstarfsmaður",
         "kvenkyns byggingarstarfsmaður: dökkur húðlitur",
         "verkamaður"
+    ],
+    "🫅": [
+        "konunglegt",
+        "kóngafólk",
+        "manneskja með kórónu",
+        "tiginn",
+        "þjóðhöfðingi"
+    ],
+    "🫅🏻": [
+        "konunglegt",
+        "kóngafólk",
+        "ljós húðlitur",
+        "manneskja með kórónu",
+        "manneskja með kórónu: ljós húðlitur",
+        "tiginn",
+        "þjóðhöfðingi"
+    ],
+    "🫅🏼": [
+        "konunglegt",
+        "kóngafólk",
+        "manneskja með kórónu",
+        "manneskja með kórónu: meðalljós húðlitur",
+        "meðalljós húðlitur",
+        "tiginn",
+        "þjóðhöfðingi"
+    ],
+    "🫅🏽": [
+        "konunglegt",
+        "kóngafólk",
+        "manneskja með kórónu",
+        "manneskja með kórónu: millihúðlitur",
+        "millihúðlitur",
+        "tiginn",
+        "þjóðhöfðingi"
+    ],
+    "🫅🏾": [
+        "konunglegt",
+        "kóngafólk",
+        "manneskja með kórónu",
+        "manneskja með kórónu: meðaldökkur húðlitur",
+        "meðaldökkur húðlitur",
+        "tiginn",
+        "þjóðhöfðingi"
+    ],
+    "🫅🏿": [
+        "dökkur húðlitur",
+        "konunglegt",
+        "kóngafólk",
+        "manneskja með kórónu",
+        "manneskja með kórónu: dökkur húðlitur",
+        "tiginn",
+        "þjóðhöfðingi"
     ],
     "🤴": [
         "prins"
@@ -8724,6 +12724,110 @@
         "ófrísk",
         "ólétt",
         "ólétt kona: dökkur húðlitur"
+    ],
+    "🫃": [
+        "barnshafandi",
+        "barnshafandi maður",
+        "fullur",
+        "kviður",
+        "uppblásinn"
+    ],
+    "🫃🏻": [
+        "barnshafandi",
+        "barnshafandi maður",
+        "barnshafandi maður: ljós húðlitur",
+        "fullur",
+        "kviður",
+        "ljós húðlitur",
+        "uppblásinn"
+    ],
+    "🫃🏼": [
+        "barnshafandi",
+        "barnshafandi maður",
+        "barnshafandi maður: meðalljós húðlitur",
+        "fullur",
+        "kviður",
+        "meðalljós húðlitur",
+        "uppblásinn"
+    ],
+    "🫃🏽": [
+        "barnshafandi",
+        "barnshafandi maður",
+        "barnshafandi maður: millihúðlitur",
+        "fullur",
+        "kviður",
+        "millihúðlitur",
+        "uppblásinn"
+    ],
+    "🫃🏾": [
+        "barnshafandi",
+        "barnshafandi maður",
+        "barnshafandi maður: meðaldökkur húðlitur",
+        "fullur",
+        "kviður",
+        "meðaldökkur húðlitur",
+        "uppblásinn"
+    ],
+    "🫃🏿": [
+        "barnshafandi",
+        "barnshafandi maður",
+        "barnshafandi maður: dökkur húðlitur",
+        "dökkur húðlitur",
+        "fullur",
+        "kviður",
+        "uppblásinn"
+    ],
+    "🫄": [
+        "barnshafandi",
+        "barnshafandi manneskja",
+        "fullur",
+        "kviður",
+        "uppblásinn"
+    ],
+    "🫄🏻": [
+        "barnshafandi",
+        "barnshafandi manneskja",
+        "barnshafandi manneskja: ljós húðlitur",
+        "fullur",
+        "kviður",
+        "ljós húðlitur",
+        "uppblásinn"
+    ],
+    "🫄🏼": [
+        "barnshafandi",
+        "barnshafandi manneskja",
+        "barnshafandi manneskja: meðalljós húðlitur",
+        "fullur",
+        "kviður",
+        "meðalljós húðlitur",
+        "uppblásinn"
+    ],
+    "🫄🏽": [
+        "barnshafandi",
+        "barnshafandi manneskja",
+        "barnshafandi manneskja: millihúðlitur",
+        "fullur",
+        "kviður",
+        "millihúðlitur",
+        "uppblásinn"
+    ],
+    "🫄🏾": [
+        "barnshafandi",
+        "barnshafandi manneskja",
+        "barnshafandi manneskja: meðaldökkur húðlitur",
+        "fullur",
+        "kviður",
+        "meðaldökkur húðlitur",
+        "uppblásinn"
+    ],
+    "🫄🏿": [
+        "barnshafandi",
+        "barnshafandi manneskja",
+        "barnshafandi manneskja: dökkur húðlitur",
+        "dökkur húðlitur",
+        "fullur",
+        "kviður",
+        "uppblásinn"
     ],
     "🤱": [
         "barn",
@@ -9990,6 +14094,12 @@
         "hinir ódauðlegu",
         "kvenkyns uppvakningur"
     ],
+    "🧌": [
+        "furðusaga",
+        "jarðálfur",
+        "skrímsli",
+        "ævintýri"
+    ],
     "💆": [
         "andlitsnudd",
         "nudd",
@@ -10650,6 +14760,7 @@
     "🧑‍🦯": [
         "aðgengi",
         "manneskja með blindrastaf",
+        "manneskja með hvítan staf",
         "sjónlaus"
     ],
     "🧑🏻‍🦯": [
@@ -10657,12 +14768,14 @@
         "ljós húðlitur",
         "manneskja með blindrastaf",
         "manneskja með blindrastaf: ljós húðlitur",
+        "manneskja með hvítan staf",
         "sjónlaus"
     ],
     "🧑🏼‍🦯": [
         "aðgengi",
         "manneskja með blindrastaf",
         "manneskja með blindrastaf: meðalljós húðlitur",
+        "manneskja með hvítan staf",
         "meðalljós húðlitur",
         "sjónlaus"
     ],
@@ -10670,6 +14783,7 @@
         "aðgengi",
         "manneskja með blindrastaf",
         "manneskja með blindrastaf: millihúðlitur",
+        "manneskja með hvítan staf",
         "millihúðlitur",
         "sjónlaus"
     ],
@@ -10677,6 +14791,7 @@
         "aðgengi",
         "manneskja með blindrastaf",
         "manneskja með blindrastaf: meðaldökkur húðlitur",
+        "manneskja með hvítan staf",
         "meðaldökkur húðlitur",
         "sjónlaus"
     ],
@@ -10685,6 +14800,7 @@
         "dökkur húðlitur",
         "manneskja með blindrastaf",
         "manneskja með blindrastaf: dökkur húðlitur",
+        "manneskja með hvítan staf",
         "sjónlaus"
     ],
     "👨‍🦯": [
@@ -12416,37 +16532,43 @@
     ],
     "🚴": [
         "hjól",
-        "hjólreiðar"
+        "hjólreiðar",
+        "manneskja á hjóli"
     ],
     "🚴🏻": [
         "hjól",
-        "hjól: ljós húðlitur",
         "hjólreiðar",
-        "ljós húðlitur"
+        "ljós húðlitur",
+        "manneskja á hjóli",
+        "manneskja á hjóli: ljós húðlitur"
     ],
     "🚴🏼": [
         "hjól",
-        "hjól: meðalljós húðlitur",
         "hjólreiðar",
+        "manneskja á hjóli",
+        "manneskja á hjóli: meðalljós húðlitur",
         "meðalljós húðlitur"
     ],
     "🚴🏽": [
         "hjól",
-        "hjól: millihúðlitur",
         "hjólreiðar",
+        "manneskja á hjóli",
+        "manneskja á hjóli: millihúðlitur",
         "millihúðlitur"
     ],
     "🚴🏾": [
         "hjól",
-        "hjól: meðaldökkur húðlitur",
         "hjólreiðar",
+        "manneskja á hjóli",
+        "manneskja á hjóli: meðaldökkur húðlitur",
         "meðaldökkur húðlitur"
     ],
     "🚴🏿": [
         "dökkur húðlitur",
         "hjól",
-        "hjól: dökkur húðlitur",
-        "hjólreiðar"
+        "hjólreiðar",
+        "manneskja á hjóli",
+        "manneskja á hjóli: dökkur húðlitur"
     ],
     "🚴‍♂": [
         "hjól",
@@ -14528,6 +18650,46 @@
         "kyssast",
         "rómantík"
     ],
+    "💏🏻": [
+        "fólk",
+        "koss",
+        "koss: ljós húðlitur",
+        "kyssast",
+        "ljós húðlitur",
+        "rómantík"
+    ],
+    "💏🏼": [
+        "fólk",
+        "koss",
+        "koss: meðalljós húðlitur",
+        "kyssast",
+        "meðalljós húðlitur",
+        "rómantík"
+    ],
+    "💏🏽": [
+        "fólk",
+        "koss",
+        "koss: millihúðlitur",
+        "kyssast",
+        "millihúðlitur",
+        "rómantík"
+    ],
+    "💏🏾": [
+        "fólk",
+        "koss",
+        "koss: meðaldökkur húðlitur",
+        "kyssast",
+        "meðaldökkur húðlitur",
+        "rómantík"
+    ],
+    "💏🏿": [
+        "dökkur húðlitur",
+        "fólk",
+        "koss",
+        "koss: dökkur húðlitur",
+        "kyssast",
+        "rómantík"
+    ],
     "👩‍❤‍💋‍👨": [
         "fólk",
         "karl",
@@ -14558,6 +18720,51 @@
         "hjarta",
         "par",
         "par með hjarta",
+        "rómantík"
+    ],
+    "💑🏻": [
+        "fólk",
+        "hjarta",
+        "ljós húðlitur",
+        "par",
+        "par með hjarta",
+        "par: ljós húðlitur",
+        "rómantík"
+    ],
+    "💑🏼": [
+        "fólk",
+        "hjarta",
+        "meðalljós húðlitur",
+        "par",
+        "par með hjarta",
+        "par: meðalljós húðlitur",
+        "rómantík"
+    ],
+    "💑🏽": [
+        "fólk",
+        "hjarta",
+        "millihúðlitur",
+        "par",
+        "par með hjarta",
+        "par: millihúðlitur",
+        "rómantík"
+    ],
+    "💑🏾": [
+        "fólk",
+        "hjarta",
+        "meðaldökkur húðlitur",
+        "par",
+        "par með hjarta",
+        "par: meðaldökkur húðlitur",
+        "rómantík"
+    ],
+    "💑🏿": [
+        "dökkur húðlitur",
+        "fólk",
+        "hjarta",
+        "par",
+        "par með hjarta",
+        "par: dökkur húðlitur",
         "rómantík"
     ],
     "👩‍❤‍👨": [
@@ -15389,6 +19596,11 @@
     "🐚": [
         "kuðungur"
     ],
+    "🪸": [
+        "kórall",
+        "rif",
+        "úthaf"
+    ],
     "🐌": [
         "snigill"
     ],
@@ -15485,6 +19697,15 @@
         "blóm",
         "hvítt blóm",
         "stimpill"
+    ],
+    "🪷": [
+        "Búddhatrú",
+        "Hindúatrú",
+        "Indland",
+        "Víetnam",
+        "blóm",
+        "hreinleiki",
+        "lótus"
     ],
     "🏵️": [
         "blóm",
@@ -15589,6 +19810,17 @@
         "lauf í vindi",
         "laufblað",
         "vindur"
+    ],
+    "🪹": [
+        "hreiðurgerð",
+        "tómt hreiður"
+    ],
+    "🪺": [
+        "hreiður með eggjum",
+        "hreiðurgerð"
+    ],
+    "🍄": [
+        "sveppur"
     ],
     "🍇": [
         "vínber",
@@ -15735,13 +19967,16 @@
         "bragðefni",
         "laukur"
     ],
-    "🍄": [
-        "sveppur"
-    ],
     "🥜": [
         "grænmeti",
         "jarðhneta",
         "jarðhnetur"
+    ],
+    "🫘": [
+        "baunabelgur",
+        "baunir",
+        "matur",
+        "nýra"
     ],
     "🌰": [
         "hneta",
@@ -15752,9 +19987,12 @@
         "brauðhleifur"
     ],
     "🥐": [
+        "Croissant",
         "brauð",
         "franskt",
-        "horn"
+        "horn",
+        "smjördeigshorn",
+        "snúður"
     ],
     "🥖": [
         "brauð",
@@ -16211,6 +20449,13 @@
         "viskíglas",
         "áfengi"
     ],
+    "🫗": [
+        "drykkur",
+        "glas",
+        "hellir vökva",
+        "sulla",
+        "tómt"
+    ],
     "🥤": [
         "glas og rör",
         "gos",
@@ -16258,6 +20503,14 @@
     "🔪": [
         "eldhúshnífur",
         "hnífur"
+    ],
+    "🫙": [
+        "bragðbætir",
+        "geyma",
+        "krukka",
+        "sósa",
+        "tómt",
+        "ílát"
     ],
     "🏺": [
         "drykkur",
@@ -16520,7 +20773,7 @@
         "trúarbrögð"
     ],
     "🕋": [
-        "kaaba-bygging",
+        "kaaba-byggingin",
         "múslimi",
         "trúarbrögð",
         "íslam"
@@ -16557,7 +20810,8 @@
         "sólarupprás yfir fjöllum"
     ],
     "🌅": [
-        "morgunsól",
+        "morgunn",
+        "sól",
         "sólarupprás"
     ],
     "🌆": [
@@ -16581,15 +20835,20 @@
     ],
     "♨️": [
         "gufa",
-        "heitar laugar",
         "heitt",
-        "uppsprettur"
+        "hverir",
+        "laugar"
     ],
     "🎠": [
         "hestur",
         "hringekja",
         "hringekjuhestur",
         "skemmtun"
+    ],
+    "🛝": [
+        "leika",
+        "rennibraut",
+        "skemmtigarður"
     ],
     "🎡": [
         "parísarhjól",
@@ -16787,14 +21046,13 @@
         "reiðhjól"
     ],
     "🛴": [
-        "farartæki",
         "hjól",
-        "sparka",
-        "sparkhjól"
+        "hlaupa",
+        "hlaupahjól"
     ],
     "🛹": [
         "bretti",
-        "hlaupabretti"
+        "hjólabretti"
     ],
     "🛼": [
         "hjól",
@@ -16824,7 +21082,14 @@
     "⛽️": [
         "bensín",
         "bensíndæla",
-        "bensínstöð"
+        "bensínstöð",
+        "dísil"
+    ],
+    "🛞": [
+        "beygja",
+        "hjól",
+        "hjólbarði",
+        "hringur"
     ],
     "🚨": [
         "lögregla",
@@ -16855,6 +21120,14 @@
         "akkeri",
         "skip",
         "tól"
+    ],
+    "🛟": [
+        "bjargvættur",
+        "björgun",
+        "björgunarbúnaður",
+        "björgunarhringur",
+        "flot",
+        "öryggi"
     ],
     "⛵️": [
         "bátur",
@@ -17271,8 +21544,7 @@
     ],
     "🌌": [
         "geimurinn",
-        "vetrarbrautin",
-        "veður"
+        "vetrarbrautin"
     ],
     "☁️": [
         "ský",
@@ -17412,7 +21684,6 @@
         "snjór"
     ],
     "☄️": [
-        "farartæki",
         "geimur",
         "halastjarna"
     ],
@@ -17539,7 +21810,7 @@
     ],
     "🎟️": [
         "aðgangseyrir",
-        "aðgöngumiði",
+        "aðgöngumiðar",
         "miði"
     ],
     "🎫": [
@@ -17755,6 +22026,10 @@
         "flugdreki",
         "svífa"
     ],
+    "🔫": [
+        "byssa",
+        "skammbyssa"
+    ],
     "🎱": [
         "biljarður",
         "billjard",
@@ -17774,14 +22049,6 @@
         "galdur",
         "norn",
         "töfrasproti"
-    ],
-    "🧿": [
-        "heillagripur",
-        "illt-auga",
-        "nazar",
-        "nazar verndargripur",
-        "perla",
-        "verndargripur"
     ],
     "🎮️": [
         "leikjatölva",
@@ -17812,13 +22079,20 @@
     "🧸": [
         "bangsi",
         "dót",
-        "fínt",
-        "leikfang"
+        "leikfang",
+        "tuskudýr"
     ],
     "🪅": [
         "fögnuður",
         "piñata",
         "slá köttinn úr tunnunni"
+    ],
+    "🪩": [
+        "dans",
+        "diskó",
+        "diskókúla",
+        "glitra",
+        "partý"
     ],
     "🪆": [
         "Rússland",
@@ -17892,8 +22166,8 @@
     ],
     "🎨": [
         "list",
-        "listamaður",
         "litapalletta",
+        "litaspjald",
         "málning",
         "palletta"
     ],
@@ -18353,6 +22627,11 @@
     "🔋": [
         "batterí",
         "rafhlaða"
+    ],
+    "🪫": [
+        "lítil orka",
+        "raflítil rafhlaða",
+        "raftæknilegt"
     ],
     "🔌": [
         "innstunga",
@@ -18949,9 +23228,10 @@
         "sverð",
         "vopn"
     ],
-    "🔫": [
-        "byssa",
-        "skammbyssa"
+    "💣️": [
+        "skrípó",
+        "sprengja",
+        "tilfinningar"
     ],
     "🪃": [
         "búmerang",
@@ -19110,11 +23390,26 @@
     "🩹": [
         "plástur"
     ],
+    "🩼": [
+        "fötlun",
+        "göngustafur",
+        "hreyfanleikaaðstoð",
+        "hækja",
+        "meiddur",
+        "prik"
+    ],
     "🩺": [
         "hjarta",
         "hlustunarpípa",
         "læknir",
         "læknisfræði"
+    ],
+    "🩻": [
+        "bein",
+        "beinagrind",
+        "læknir",
+        "læknisfræðilegt",
+        "röntgengeisli"
     ],
     "🚪": [
         "dyr",
@@ -19227,6 +23522,13 @@
         "sápustykki",
         "þrif"
     ],
+    "🫧": [
+        "hreinsa",
+        "loftbólur",
+        "ropi",
+        "sápa",
+        "undir vatni"
+    ],
     "🪥": [
         "baðherbergi",
         "bursti",
@@ -19275,6 +23577,23 @@
         "duftker",
         "jarðarför"
     ],
+    "🧿": [
+        "heillagripur",
+        "illt auga",
+        "nazar",
+        "nazar verndargripur",
+        "perla",
+        "verndargripur"
+    ],
+    "🪬": [
+        "Fatíma",
+        "María",
+        "Miriam",
+        "hamsa",
+        "hönd",
+        "vernd",
+        "verndargripur"
+    ],
     "🗿": [
         "andlit",
         "moyai",
@@ -19286,6 +23605,13 @@
         "mótmæli",
         "skilti",
         "veggspjald"
+    ],
+    "🪪": [
+        "auðkenni",
+        "persónuskilríki",
+        "skilríki",
+        "skírteini",
+        "öryggi"
     ],
     "🏧": [
         "banki",
@@ -19876,6 +24202,11 @@
         "stærðfræði",
         "÷"
     ],
+    "🟰": [
+        "jöfnuður",
+        "stærðfræði",
+        "þungt jafnaðarmerki"
+    ],
     "♾️": [
         "algilt",
         "eilífð",
@@ -19901,6 +24232,7 @@
     "❓️": [
         "greinarmerki",
         "merki",
+        "rautt spurningarmerki",
         "spurning",
         "spurningarmerki"
     ],
@@ -19920,6 +24252,7 @@
     "❗️": [
         "greinarmerki",
         "merki",
+        "rautt upphrópunarmerki",
         "upphrópun",
         "upphrópunarmerki"
     ],
@@ -21419,7 +25752,7 @@
     ],
     "🇸🇽": [
         "fáni",
-        "fáni: Sankti Martin"
+        "fáni: Sint Maarten"
     ],
     "🇸🇾": [
         "fáni",
@@ -21455,7 +25788,7 @@
     ],
     "🇹🇯": [
         "fáni",
-        "fáni: Tadsjikistan"
+        "fáni: Tadsíkistan"
     ],
     "🇹🇰": [
         "fáni",
@@ -21596,6 +25929,164 @@
     "🏴󠁧󠁢󠁷󠁬󠁳󠁿": [
         "fáni",
         "fáni: Wales"
+    ],
+    "¤": [
+        "óþekktur gjaldmiðill"
+    ],
+    "¢": [
+        "sent"
+    ],
+    "$": [
+        "USD",
+        "dalur",
+        "peningar",
+        "pesi"
+    ],
+    "£": [
+        "EGP",
+        "GBP",
+        "gjaldmiðill",
+        "pund"
+    ],
+    "¥": [
+        "CNY",
+        "JPY",
+        "gjaldmiðill",
+        "jen",
+        "júan"
+    ],
+    "֏": [
+        "armenskt dramm"
+    ],
+    "؋": [
+        "afgani"
+    ],
+    "৳": [
+        "bangladessk taka"
+    ],
+    "฿": [
+        "taílenskt bat"
+    ],
+    "៛": [
+        "kambódískt ríal"
+    ],
+    "₡": [
+        "kostarískt kólon"
+    ],
+    "₣": [
+        "franki",
+        "franskur franki",
+        "gjaldmiðill"
+    ],
+    "₤": [
+        "gjaldmiðill",
+        "líra"
+    ],
+    "₥": [
+        "millidalur",
+        "millitomma"
+    ],
+    "₦": [
+        "nígerísk næra"
+    ],
+    "₧": [
+        "Spænskur peseti"
+    ],
+    "₩": [
+        "KPW",
+        "vonn",
+        "won"
+    ],
+    "₪": [
+        "nýr ísraelskur sikill"
+    ],
+    "₫": [
+        "víetnamskt dong"
+    ],
+    "€": [
+        "EUR",
+        "evra",
+        "gjaldmiðill"
+    ],
+    "₭": [
+        "laoskt kip"
+    ],
+    "₮": [
+        "mongólskur túríkur"
+    ],
+    "₱": [
+        "pesi"
+    ],
+    "₲": [
+        "paragvæskt gvaraní"
+    ],
+    "₳": [
+        "suðlægur"
+    ],
+    "₴": [
+        "úkraínsk hrinja"
+    ],
+    "₵": [
+        "ganverskur sedi"
+    ],
+    "₶": [
+        "gjaldmiðill"
+    ],
+    "₷": [
+        "gjaldmiðill"
+    ],
+    "₸": [
+        "kasakst tengi"
+    ],
+    "₹": [
+        "gjaldmiðill",
+        "indversk rúpía",
+        "rúpía"
+    ],
+    "₺": [
+        "tyrknesk líra"
+    ],
+    "₼": [
+        "aserskt manat"
+    ],
+    "₽": [
+        "gjaldmiðill",
+        "rúbla"
+    ],
+    "₾": [
+        "georgískur lari"
+    ],
+    "₿": [
+        "BTC",
+        "bitcoin"
+    ],
+    "₨": [
+        "gjaldmiðill",
+        "rúpía"
+    ],
+    "﷼": [
+        "gjaldmiðill"
+    ],
+    "¹": [
+        "brjóstletur",
+        "brjóstletur einn",
+        "einn"
+    ],
+    "²": [
+        "brjóstletur",
+        "brjóstletur tveir",
+        "tveir",
+        "í öðru veldi"
+    ],
+    "³": [
+        "brjóstletur",
+        "brjóstletur þrír",
+        "í þriðja veldi",
+        "þrír"
+    ],
+    "µ": [
+        "mál",
+        "míkró-merki"
     ],
     "🏻": [
         "húðlitur",

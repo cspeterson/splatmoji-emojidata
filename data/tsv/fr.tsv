@@ -1,3 +1,347 @@
+‾	trait suscrit
+_	ligne, tiret, tiret bas, trait de soulignement
+-	moins, tiret, trait d’union, trait d’union-moins
+‐	tiret, trait d’union
+–	demi-cadratin, tiret, tiret demi-cadratin
+—	cadratin, tiret, tiret cadratin
+―	barre, barre horizontale, ligne, tiret
+・	katakana, point milieu, point médian, point médian katakana, points
+,	virgule
+،	arabe, virgule, virgule arabe
+、	idéographique, virgule, virgule idéographique
+;	point-virgule
+؛	arabe, point-virgule, point-virgule arabe
+:	deux-points
+!	exclamation, point d’exclamation
+¡	exclamation, inversé, point d’exclamation, point d’exclamation inversé
+?	point d’interrogation, question
+¿	inversé, point d’interrogation, point d’interrogation inversé, question
+؟	arabe, point d’interrogation, point d’interrogation arabe, question
+‽	point exclarrogatif
+.	point, point final
+…	ellipse, points de suspension, suspension
+。	idéographique, point, point final, point idéographique
+·	milieu, médian, point, point médian
+'	apostrophe, apostrophe dactylographique, guillemet, guillemet simple
+‘	apostrophe, apostrophe gauche, guillemet, guillemet simple, guillemet typographique
+’	apostrophe, apostrophe droite, guillemet, guillemet simple, guillemet typographique
+‚	apostrophe, apostrophe droite basse, guillemet, guillemet inférieur
+“	guillemet, guillemet double, guillemet droit gauche, guillemets, guillemets doubles
+”	guillemet, guillemet double, guillemet droit droit, guillemets, guillemets typographiques
+„	guillemet, guillemet double, guillemet droit bas, guillemets, guillemets bas, guillemets typographiques
+«	anti-lambda, chevron, citation, crochet oblique, crochets, gauche, guillemet gauche
+»	anti-lambda, chevron, citation, crochet oblique, crochets, droit, guillemet droit
+)	parenthèse, parenthèse fermante, parenthèses
+[	crochet, crochet ouvrant, crochets
+]	crochet, crochet fermant, crochets
+{	accolade, accolade ouvrante, accolades
+}	accolade, accolade fermante, accolades
+〈	chevron, chevron angulaire, chevron angulaire ouvrant, chevron pointu, crochet, crochets obliques, tuple
+〉	chevron, chevron angulaire, chevron angulaire fermant, chevron pointu, crochet, crochets obliques, tuple
+《	chevron, chevron angulaire double, chevron angulaire ouvrant double
+》	chevron, chevron angulaire double, chevron angulaire fermant double
+「	crochet, crochet de partie entière, crochet de partie entière ouvrant
+」	crochet, crochet de partie entière, crochet de partie entière fermant
+『	crochet, crochet de partie entière creux, crochet de partie entière ouvrant creux
+』	crochet, crochet de partie entière creux, crochet de partie entière fermant creux
+【	crochet, crochet lenticulaire, crochet lenticulaire ouvrant noir
+】	crochet, crochet lenticulaire, crochet lenticulaire fermant noir
+〔	crochet, crochet en écaille, crochet en écaille ouvrant
+〕	crochet, crochet en écaille, crochet en écaille fermant
+〖	crochet, crochet lenticulaire creux, crochet lenticulaire ouvrant creux
+〗	crochet, crochet lenticulaire creux, crochet lenticulaire fermant creux
+§	paragraphe, partie, section, symbole
+¶	alinéa, marque de paragraphe, paragraphe, paraphe, pied-de-mouche
+@	a commercial, arobase, arroba, arrobe, signe at, symbole at
+*️	astérisque, caractère générique, étoile
+/	barre de division, barre de fraction, barre oblique, oblique, slash
+\	antislash, barre oblique inversée, oblique
+&	and, esperluette, et
+#️	croisillon, dièse, hash, numéro, symbole dièse
+%	pour cent, pourcent
+‰	par mille, pour mille
+†	dague, obèle, obélus
+‡	dague, double, double obèle, obèle, obélus
+•	point, puce
+‧	point, point de coupure de mot, tiret, union
+′	prime
+″	double prime, prime
+‴	prime, triple prime
+‸	caret
+※	marque de référence
+⁂	astérisme
+`	accent grave, grave
+´	accent, accent aigu, aigu, ton
+^	accent circonflexe, caret, chapeau, chevron, circonflexe, puissance, symbole xor
+¨	diérèse, tréma, umlaut
+°	degré, heure, preuve
+℗	copyright, copyright phonographique, enregistrement, phonographique
+←	flèche, flèche vers la gauche, gauche
+↚	flèche vers la gauche barrée
+→	droite, flèche, flèche vers la droite
+↛	flèche vers la droite barrée
+↑	flèche, flèche vers le haut, haut
+↓	bas, flèche, flèche vers le bas
+↜	flèche vers la gauche ondulée
+↝	flèche vers la droite ondulée
+↞	flèche à deux pointes vers la gauche
+↟	flèche à deux pointes vers le haut
+↠	flèche à deux pointes vers la droite
+↡	flèche à deux pointes vers le bas
+↢	empenne vers la gauche
+↣	empenne vers la droite
+↤	flèche d’un taquet vers la gauche
+↥	flèche d’un taquet vers le haut
+↦	flèche d’un taquet vers la droite
+↧	flèche d’un taquet vers le bas
+↨	flèche haut-bas sur base
+↫	flèche vers la gauche avec boucle
+↬	flèche vers la droite avec boucle
+↭	flèche gauche-droite ondulée
+↯	flèche vers le bas en zigzag
+↰	flèche vers le haut avec pointe vers la gauche
+↱	flèche vers le haut avec pointe vers la droite
+↲	flèche vers le bas avec pointe vers la gauche
+↳	flèche vers le bas avec pointe vers la droite
+↴	flèche vers la droite avec coin vers le bas
+↵	flèche vers le bas avec coin vers la gauche
+↶	flèche semi-circulaire sens antihoraire en chef
+↷	flèche semi-circulaire sens horaire en chef
+↸	flèche nord-ouest jusqu’à un long taquet
+↹	flèche vers la gauche jusqu’à un taquet sur flèche vers la droite jusqu’à un taquet
+↺	flèche circulaire ouverte sens antihoraire
+↻	flèche circulaire ouverte sens horaire
+↼	harpon vers la gauche avec barbillon vers le haut
+↽	harpon vers la gauche avec barbillon vers le bas
+↾	harpon vers le haut avec barbillon vers la droite
+↿	harpon vers le haut avec barbillon vers la gauche
+⇀	harpon vers la droite avec barbillon vers le haut
+⇁	harpon vers la droite avec barbillon vers le bas
+⇂	harpon vers le bas avec barbillon vers la droite
+⇃	harpon vers le bas avec barbillon vers la gauche
+⇄	flèche vers la droite sur flèche vers la gauche
+⇅	bas, flèche, flèches vers le haut et vers le bas, haut
+⇆	droite, flèche, flèche gauche au-dessus de flèche droite, gauche
+⇇	paire de flèches vers la gauche
+⇈	paire de flèches vers le haut
+⇉	paire de flèches vers la droite
+⇊	paire de flèches vers le bas
+⇋	harpon vers la gauche sur harpon vers la droite
+⇌	harpon vers la droite sur harpon vers la gauche
+⇐	flèche double vers la gauche
+⇍	double flèche vers la gauche barrée
+⇑	flèche double vers le haut
+⇒	flèche double vers la droite
+⇏	double flèche vers la droite barrée
+⇓	flèche double vers le bas
+⇔	flèche double vers la gauche et la droite
+⇎	double flèche gauche​-droite barrée
+⇖	flèche double vers le nord-ouest
+⇗	flèche double vers le nord-est
+⇘	flèche double vers le sud-est
+⇙	flèche double vers le sud-ouest
+⇚	flèche triple vers la gauche
+⇛	flèche triple vers la droite
+⇜	flèche vers la gauche en tire-bouchon
+⇝	flèche vers la droite en tire-bouchon
+⇞	flèche vers le haut avec double barre
+⇟	flèche vers le bas avec double barre
+⇠	flèche pointillée vers la gauche
+⇡	flèche pointillée vers le haut
+⇢	flèche pointillée vers la droite
+⇣	flèche pointillée vers le bas
+⇤	flèche vers la gauche jusqu’à un taquet
+⇥	flèche vers la droite jusqu’à un taquet
+⇦	flèche creuse vers la gauche
+⇧	flèche creuse vers le haut
+⇨	flèche creuse vers la droite
+⇩	flèche creuse vers le bas
+⇪	flèche creuse d’un taquet vers le haut
+⇵	flèche vers le bas à gauche d’une flèche vers le haut
+∀	pour tout
+∂	dérivée partielle
+∃	il existe
+∅	ensemble vide
+∆	incrément, triangle
+∇	nabla, triangle
+∈	appartenance, contient, ensemble, élément, élément de
+∉	n’appartient pas
+∋	appartient
+∎	fin d’article
+∏	produit de la famille
+∑	sommation de la famille
++	ajouter, plus, signe plus
+±	plus-moins
+÷	diviser, division, obélus, signe de division
+×	fois, multiplication, multiplier, signe de multiplication
+<	chevron, chevron ouvrant, inférieur à
+≮	pas inférieur à
+=	est égal, égal
+≠	inégalité, inéquation, non égal
+>	chevron, chevron fermant, supérieur à
+≯	pas supérieur à
+¬	non, négation
+|	barre, barre de Sheffer, barre verticale, ligne verticale, trait, tube
+~	tilde
+−	moins, signe moins, soustraire
+⁻	exposant, exposant moins, moins
+∓	plus ou moins
+∕	barre oblique de division
+⁄	barre oblique de fraction
+∗	opérateur astérisque
+∘	opérateur rond
+∙	opérateur puce
+√	base, carrée, nombre sourd, racine, racine carrée, radical
+∝	proportionnel
+∞	infini, symbole de l’infini
+∟	angle droit
+∠	angle
+∣	est un diviseur de
+∥	parallèle
+∧	et logique
+∩	ensemble, intersection
+∪	collection, ensemble, union
+∫	intégrale
+∬	double intégrale
+∮	intégrale de contour
+∴	par conséquent
+∵	parce que
+∶	rapport
+∷	proportion
+∼	opérateur tilde
+∽	tilde renversé
+∾	s couché renversé
+≃	asymptotiquement égal à
+≅	approximativement égal à
+≈	approximation, environ, presque égal
+≌	entièrement égal à
+≒	approximativement égal à ou image de
+≖	rond dans égal
+≡	exact, identique, identique à, triple
+≣	strictement équivalent à
+≤	est égal, inférieur ou égal, inférieur à, inégalité, égal
+≥	est égal, inégalité, supérieur, supérieur ou égal, égal
+≦	inférieur à sur égal à
+≧	supérieur à sur égal à
+≪	très inférieur à
+≫	très supérieur à
+≬	entre
+≳	supérieur ou équivalent à
+≺	précède
+≻	suit
+⊁	ne suit pas
+⊂	ensemble, sous-ensemble, sous-ensemble de
+⊃	sur-ensemble de
+⊆	sous-ensemble égal à
+⊇	sur-ensemble égal à
+⊕	plus cerclé
+⊖	moins cerclé
+⊗	fois cerclé
+⊘	barre oblique de division cerclée
+⊙	opérateur point cerclé
+⊚	opérateur rond cerclé
+⊛	opérateur astérisque cerclé
+⊞	plus encadré
+⊟	moins encadré
+⊥	taquet vers le haut
+⊮	n’oblige pas
+⊰	précède sous relation
+⊱	suit sous relation
+⋭	ni égal ni contenant comme sous-groupe normal
+⊶	original de
+⊹	matrice hermitienne conjuguée
+⊿	triangle rectangle
+⋁	ou logique de la famille
+⋂	intersection de la famille
+⋃	union de la famille
+⋅	opérateur point
+⋆	opérateur étoile
+⋈	jointure naturelle
+⋒	double intersection
+⋘	considérablement inférieur à
+⋙	considérablement supérieur à
+⋮	trois points suspendus
+⋯	trois points médians
+⋰	trois points diagonaux vers le coin haut à droite
+⋱	trois points diagonaux vers le coin bas à droite
+■	carré plein
+□	carré creux
+▢	carré creux aux angles arrondis
+▣	carré creux contenant un carré plein
+▤	carré hachuré horizontalement
+▥	carré hachuré verticalement
+▦	carré quadrillé
+▧	carré hachuré du haut à droite vers le bas à gauche en diagonale
+▨	carré hachuré du haut à gauche vers le bas à droite
+▩	carré quadrillé en diagonale
+▬	rectangle plein
+▭	rectangle creux
+▮	rectangle vertical plein
+▰	parallélogramme plein
+▲	flèche, haut, plein, triangle, triangle plein vers le haut
+△	triangle creux pointant vers le haut
+▴	petit triangle plein pointant vers le haut
+▵	petit triangle creux pointant vers le haut
+▷	triangle creux pointant vers la droite
+▸	petit triangle plein pointant vers la droite
+▹	petit triangle creux pointant vers la droite
+►	pointe pleine vers la droite
+▻	pointe creuse vers la droite
+▼	bas, flèche, plein, triangle, triangle plein vers le bas
+▽	triangle creux pointant vers le bas
+▾	petit triangle plein pointant vers le bas
+▿	petit triangle creux pointant vers le bas
+◁	triangle creux pointant vers la gauche
+◂	petit triangle plein pointant vers la gauche
+◃	petit triangle creux pointant vers la gauche
+◄	pointe pleine vers la gauche
+◅	pointe creuse vers la gauche
+◆	losange plein
+◇	losange creux
+◈	losange creux contenant un losange plein
+◉	cercle creux contenant un cercle plein
+◊	losange, rhombe
+○	anneau, cercle, cercle vide
+◌	cercle en pointillés
+◍	cercle hachuré verticalement
+◎	cercles concentriques
+●	cercle, cercle plein
+◐	cercle avec moitié gauche pleine
+◑	cercle avec moitié droite pleine
+◒	cercle avec moitié inférieure pleine
+◓	cercle avec moitié supérieure pleine
+◔	cercle avec quadrant supérieur droit plein
+◕	cercle avec quadrant supérieur gauche vide
+◖	demi-cercle gauche plein
+◗	demi-cercle droit plein
+◘	puce noir au blanc
+◙	carré plein contenant un cercle creux
+◜	arc de cercle dans le quadrant supérieur gauche
+◝	arc de cercle dans le quadrant supérieur droit
+◞	arc de cercle dans le quadrant inférieur droit
+◟	arc de cercle dans le quadrant inférieur gauche
+◠	demi-cercle supérieur
+◡	demi-cercle inférieur
+◢	triangle rectangle inférieur droit plein
+◣	triangle rectangle inférieur gauche plein
+◤	triangle rectangle supérieur gauche plein
+◥	triangle rectangle supérieur droit plein
+◦	puce creuse
+◯	anneau, cercle, grand cercle vide
+◳	carré creux avec quadrant supérieur droit
+◷	cercle creux avec quadrant supérieur droit
+◿	triangle rectangle inférieur droit
+♪	croche, musique, note
+⨧	signe plus avec indice deux
+⨯	produit vectoriel
+⨼	produit intérieur
+⩣	ou logique à deux barres souscrites
+⩽	inférieur à ou égal à incliné
+⪍	inférieur à sur similaire ou égal à
+⪚	égal en deux lignes ou supérieur à
+⪺	suit sur non presque égal à
+♭	bémol, musique, note
+♯	dièse, musique, note
 😀	sourire, visage rieur
 😃	sourire, visage souriant avec de grands yeux
 😄	sourire, visage très souriant aux yeux rieurs
@@ -8,10 +352,11 @@
 😂	larmes, sourire, visage riant aux larmes
 🙂	sourire, visage avec un léger sourire
 🙃	renversée, tête, tête à l’envers
+🫠	disparaître, fondre, liquide, liquéfié, se dissoudre, visage qui fond
 😉	clin d’œil, visage, visage faisant un clin d’œil
 😊	rougir, sourire, visage, visage souriant avec yeux rieurs, œil
 😇	ange, visage souriant avec auréole
-🥰	aimer, amour, amoureuse, amoureux, béguin, cœurs, sourire, visage souriant avec cœurs
+🥰	adorer, aimer, amour, amoureux, béguin, cœurs, sourire, visage souriant avec cœurs
 😍	amour, cœur, visage, visage souriant avec yeux en forme de cœur, œil
 🤩	grand sourire, visage, visage avec des étoiles à la place des yeux, yeux, étoile
 😘	bisou, cœur, visage envoyant un bisou
@@ -19,26 +364,32 @@
 ☺️	sourire, visage souriant
 😚	bisou, visage faisant un bisou avec les yeux fermés
 😙	bisou, visage aux yeux rieurs faisant un bisou
-🥲	Visage souriant avec une larme, fier, larme, soulagé, souriant, touché, ému
+🥲	fier, larme, soulagé, souriant, touché, visage souriant avec une larme, ému
 😋	langue, miam
 😛	langue, visage, visage qui tire la langue
 😜	clin d’œil, langue, visage, visage qui tire la langue et fait un clin d’œil, œil
 🤪	grand, petit, tête de fou, œil
-😝	horrible, langue, visage qui tire la langue les yeux plissés, œil
+😝	goût, horrible, langue, visage qui tire la langue les yeux plissés, œil
 🤑	argent, argent dans les yeux et la bouche, bouche, yeux
 🤗	câlin, gentil, visage, visage qui fait un câlin
 🤭	oups, visage avec une main sur la bouche
+🫢	embarrassé, gêné, impressionné, stupéfait, surpris, visage avec yeux ouverts et main sur la bouche, étonné
+🫣	captivé, fasciné, jeter un coup d’œil, regarder fixement, visage qui regarde entre ses doigts
 🤫	chut, silence, visage avec un doigt sur la bouche
 🤔	réflexion, visage, visage en pleine réflexion
+🫡	OK, armée, compris, oui, salut, visage qui fait un salut militaire
 🤐	bouche, fermeture éclair, visage, visage avec bouche fermeture éclair
 🤨	méfiant, sceptique, visage avec les sourcils relevés
 😐️	neutre, visage neutre
 😑	inexpressif, neutre, sans expression, visage, visage sans expression
 😶	muet, visage sans bouche
+🫥	disparaître, déprimé, introverti, invisible, se cacher, visage en pointillés
+😶‍🌫	brouillard, dans les nuages, distrait, visage dans le brouillard, visage dans les nuages
 😏	malin, sourire, visage avec un sourire malin
 😒	blasé, pas content, visage, visage blasé
 🙄	roulement, visage roulant des yeux, yeux
 😬	grimace, visage, visage grimaçant
+😮‍💨	chuchoter, expiration, siffler, soulagement, sursaut, visage expirant
 🤥	mensonge, menteur, pinocchio, visage, visage de menteur
 😌	soulagement, visage, visage soulagé
 😔	déçu, pensif, visage, visage pensif
@@ -51,18 +402,20 @@
 🤢	nausée, visage, visage nauséeux, écœuré
 🤮	malade, visage qui vomit, vomi, vomissure
 🤧	atchoum, rhume, visage, visage qui éternue, éternuement, éternuer
-🥵	chaud, coup de chaleur, fièvre, transpiration, visage rouge, visage rouge et chaud
-🥶	froid, gelure, glacial, glaçon, visage bleu, visage bleu et froid
+🥵	chaud, coup de chaleur, fièvre, transpiration, visage rouge et chaud
+🥶	froid, gelure, glacial, glaçon, visage bleu et froid
 🥴	bouche ondulée, dans les vapes, hébété, pompette, rond, visage éméché
 😵	tournis, visage, visage étourdi
+😵‍💫	confusion, hagard, tête qui tourne, visage aux yeux en spirales, étourdi
 🤯	choqué, tête qui explose
 🤠	chapeau, cowboy, visage, visage avec chapeau de cowboy
 🥳	chapeau, célébration, fête, sifflet, visage festif
-🥸	déguisement, faux nez, incognito, lunettes, postiche, visage, visage déguisé
+🥸	déguisement, faux nez, incognito, lunettes, postiche, visage déguisé
 😎	lunettes de soleil, visage avec lunettes de soleil
 🤓	geek, lunettes, visage, visage de geek
 🧐	collet monté, vieux jeu, visage avec un monocle
 😕	confus, visage, visage confus
+🫤	déçu, euh, incertain, sceptique, visage avec bouche en diagonale
 😟	inquiet, visage, visage inquiet
 🙁	mécontent, visage, visage légèrement mécontent
 ☹️	mécontent, visage, visage mécontent
@@ -71,6 +424,7 @@
 😲	choc, stupéfait, visage, visage stupéfait
 😳	rouge, rougissant, visage, visage qui rougit
 🥺	pitié, supplication, visage implorant, yeux de chiens battus
+🥹	pleurs, retenir ses larmes, triste, visage retenant ses larmes
 😦	bouche, déçu, ouverte, visage, visage mécontent avec bouche ouverte
 😧	angoisse, visage, visage angoissé
 😨	apeuré, effrayé, peur, visage, visage effrayé
@@ -103,18 +457,17 @@
 👾	espace, extraterrestre, monstre, monstre de l’espace
 🤖	androïde, automate, machine, monstre, robot, visage
 😺	chat qui sourit, sourire, visage
-😸	chat qui sourit avec des yeux rieurs, sourire, visage
-😹	chat qui pleure de joie, joie, sourire, visage
+😸	chat qui sourit avec des yeux rieurs, sourire, visage, yeux rieurs
+😹	chat qui pleure de joie, joie, pleurer de rire, sourire, visage
 😻	amoureux, chat souriant aux yeux en cœurs, cœur, sourire, visage, yeux
-😼	chat avec sourire en coin, ironique, narquois, visage
-😽	bisou, chat qui fait un bisou, visage
+😼	chat avec sourire en coin, ironique, narquois, sourire en coin, visage
+😽	bisou, chat qui fait un bisou, embrasser, visage
 🙀	chat fatigué, fatigue, inquiet, oh, surpris, visage
 😿	chat qui pleure, larme, pleurer, triste, visage
 😾	bouder, chat qui boude, colère, désaccord, ennui, visage
 🙈	aveugle, singe, singe ne rien voir
 🙉	singe, singe ne rien entendre, sourd
 🙊	muet, singe, singe ne rien dire
-💋	baiser, lèvres, rouge, trace de rouge à lèvres
 💌	amour, lettre, lettre d’amour
 💘	Cupidon, cœur, cœur et flèche, flèche
 💝	Saint-Valentin, cœur, cœur avec ruban, ruban
@@ -126,6 +479,8 @@
 💟	cœur, décoration avec cœur
 ❣️	cœur, cœur point d’exclamation, exclamation, ponctuation
 💔	cœur, cœur brisé
+❤‍🔥	amour, cœur enflammé, désir, feu, passion
+❤‍🩹	cœur avec bandages, réconforter, réparer, soigner
 ❤️	cœur, cœur rouge
 🧡	cœur orange, orange
 💛	cœur, cœur jaune
@@ -135,6 +490,7 @@
 🤎	brun, cœur marron, marron
 🖤	cœur noir, noir
 🤍	blanc, cœur blanc
+💋	baiser, lèvres, rouge, trace de rouge à lèvres
 💯	cent, cent points
 💢	colère, dessin, furieux, symbole de colère
 💥	collision, explosion
@@ -142,7 +498,6 @@
 💦	gouttes de sueur, sueur, éclaboussures
 💨	décamper, filer
 🕳️	trou
-💣️	bombe, dessin
 💬	bulle, bulle de parole, dialogue
 👁‍🗨	bulle de BD, témoin, œil, œil dans une bulle de BD
 🗨️	bulle, bulle de parole gauche, dialogue
@@ -179,6 +534,50 @@
 🖖🏽	main, peau légèrement mate, salut vulcain, salut vulcain : peau légèrement mate, vulcain
 🖖🏾	main, peau mate, salut vulcain, salut vulcain : peau mate, vulcain
 🖖🏿	main, peau foncée, salut vulcain, salut vulcain : peau foncée, vulcain
+🫱	droite, main vers la droite, vers la droite
+🫱🏻	droite, main vers la droite, main vers la droite : peau claire, peau claire, vers la droite
+🫱🏼	droite, main vers la droite, main vers la droite : peau moyennement claire, peau moyennement claire, vers la droite
+🫱🏽	droite, main vers la droite, main vers la droite : peau légèrement mate, peau légèrement mate, vers la droite
+🫱🏾	droite, main vers la droite, main vers la droite : peau mate, peau mate, vers la droite
+🫱🏿	droite, main vers la droite, main vers la droite : peau foncée, peau foncée, vers la droite
+🫱🏻‍🫲🏼	mains, peau claire, peau moyennement claire, poignée, poignée de main, poignée de main : peau claire et peau moyennement claire, présentation, rencontre
+🫱🏻‍🫲🏽	mains, peau claire, peau légèrement mate, poignée, poignée de main, poignée de main : peau claire et peau légèrement mate, présentation, rencontre
+🫱🏻‍🫲🏾	mains, peau claire, peau mate, poignée, poignée de main, poignée de main : peau claire et peau mate, présentation, rencontre
+🫱🏻‍🫲🏿	mains, peau claire, peau foncée, poignée, poignée de main, poignée de main : peau claire et peau foncée, présentation, rencontre
+🫱🏼‍🫲🏻	mains, peau claire, peau moyennement claire, poignée, poignée de main, poignée de main : peau moyennement claire et peau claire, présentation, rencontre
+🫱🏼‍🫲🏽	mains, peau légèrement mate, peau moyennement claire, poignée, poignée de main, poignée de main : peau moyennement claire et peau légèrement mate, présentation, rencontre
+🫱🏼‍🫲🏾	mains, peau mate, peau moyennement claire, poignée, poignée de main, poignée de main : peau moyennement claire et peau mate, présentation, rencontre
+🫱🏼‍🫲🏿	mains, peau foncée, peau moyennement claire, poignée, poignée de main, poignée de main : peau moyennement claire et peau foncée, présentation, rencontre
+🫱🏽‍🫲🏻	mains, peau claire, peau légèrement mate, poignée, poignée de main, poignée de main : peau légèrement mate et peau claire, présentation, rencontre
+🫱🏽‍🫲🏼	mains, peau légèrement mate, peau moyennement claire, poignée, poignée de main, poignée de main : peau légèrement mate et peau moyennement claire, présentation, rencontre
+🫱🏽‍🫲🏾	mains, peau légèrement mate, peau mate, poignée, poignée de main, poignée de main : peau légèrement mate et peau mate, présentation, rencontre
+🫱🏽‍🫲🏿	mains, peau foncée, peau légèrement mate, poignée, poignée de main, poignée de main : peau légèrement mate et peau foncée, présentation, rencontre
+🫱🏾‍🫲🏻	mains, peau claire, peau mate, poignée, poignée de main, poignée de main : peau mate et peau claire, présentation, rencontre
+🫱🏾‍🫲🏼	mains, peau mate, peau moyennement claire, poignée, poignée de main, poignée de main : peau mate et peau moyennement claire, présentation, rencontre
+🫱🏾‍🫲🏽	mains, peau légèrement mate, peau mate, poignée, poignée de main, poignée de main : peau mate et peau légèrement mate, présentation, rencontre
+🫱🏾‍🫲🏿	mains, peau foncée, peau mate, poignée, poignée de main, poignée de main : peau mate et peau foncée, présentation, rencontre
+🫱🏿‍🫲🏻	mains, peau claire, peau foncée, poignée, poignée de main, poignée de main : peau foncée et peau claire, présentation, rencontre
+🫱🏿‍🫲🏼	mains, peau foncée, peau moyennement claire, poignée, poignée de main, poignée de main : peau foncée et peau moyennement claire, présentation, rencontre
+🫱🏿‍🫲🏽	mains, peau foncée, peau légèrement mate, poignée, poignée de main, poignée de main : peau foncée et peau légèrement mate, présentation, rencontre
+🫱🏿‍🫲🏾	mains, peau foncée, peau mate, poignée, poignée de main, poignée de main : peau foncée et peau mate, présentation, rencontre
+🫲	gauche, main vers la gauche, vers la gauche
+🫲🏻	gauche, main vers la gauche, main vers la gauche : peau claire, peau claire, vers la gauche
+🫲🏼	gauche, main vers la gauche, main vers la gauche : peau moyennement claire, peau moyennement claire, vers la gauche
+🫲🏽	gauche, main vers la gauche, main vers la gauche : peau légèrement mate, peau légèrement mate, vers la gauche
+🫲🏾	gauche, main vers la gauche, main vers la gauche : peau mate, peau mate, vers la gauche
+🫲🏿	gauche, main vers la gauche, main vers la gauche : peau foncée, peau foncée, vers la gauche
+🫳	chasser, faire partir, laisser tomber, main paume vers le bas, ouste, rejeter
+🫳🏻	chasser, faire partir, laisser tomber, main paume vers le bas, main paume vers le bas : peau claire, ouste, peau claire, rejeter
+🫳🏼	chasser, faire partir, laisser tomber, main paume vers le bas, main paume vers le bas : peau moyennement claire, ouste, peau moyennement claire, rejeter
+🫳🏽	chasser, faire partir, laisser tomber, main paume vers le bas, main paume vers le bas : peau légèrement mate, ouste, peau légèrement mate, rejeter
+🫳🏾	chasser, faire partir, laisser tomber, main paume vers le bas, main paume vers le bas : peau mate, ouste, peau mate, rejeter
+🫳🏿	chasser, faire partir, laisser tomber, main paume vers le bas, main paume vers le bas : peau foncée, ouste, peau foncée, rejeter
+🫴	appeler de la main, attirer, faire venir, main paume vers le haut, offre
+🫴🏻	appeler de la main, attirer, faire venir, main paume vers le haut, main paume vers le haut : peau claire, offre, peau claire
+🫴🏼	appeler de la main, attirer, faire venir, main paume vers le haut, main paume vers le haut : peau moyennement claire, offre, peau moyennement claire
+🫴🏽	appeler de la main, attirer, faire venir, main paume vers le haut, main paume vers le haut : peau légèrement mate, offre, peau légèrement mate
+🫴🏾	appeler de la main, attirer, faire venir, main paume vers le haut, main paume vers le haut : peau mate, offre, peau mate
+🫴🏿	appeler de la main, attirer, faire venir, main paume vers le haut, main paume vers le haut : peau foncée, offre, peau foncée
 👌	geste, main, ok
 👌🏻	geste, main, ok, ok : peau claire, peau claire
 👌🏼	geste, main, ok, ok : peau moyennement claire, peau moyennement claire
@@ -209,6 +608,12 @@
 🤞🏽	croisés, doigts, doigts croisés : peau légèrement mate, main, peau légèrement mate
 🤞🏾	croisés, doigts, doigts croisés : peau mate, main, peau mate
 🤞🏿	croisés, doigts, doigts croisés : peau foncée, main, peau foncée
+🫰	amour, argent, cher, claquer des doigts, cœur, main avec index et pouce croisés
+🫰🏻	amour, argent, cher, claquer des doigts, cœur, main avec index et pouce croisés, main avec index et pouce croisés : peau claire, peau claire
+🫰🏼	amour, argent, cher, claquer des doigts, cœur, main avec index et pouce croisés, main avec index et pouce croisés : peau moyennement claire, peau moyennement claire
+🫰🏽	amour, argent, cher, claquer des doigts, cœur, main avec index et pouce croisés, main avec index et pouce croisés : peau légèrement mate, peau légèrement mate
+🫰🏾	amour, argent, cher, claquer des doigts, cœur, main avec index et pouce croisés, main avec index et pouce croisés : peau mate, peau mate
+🫰🏿	amour, argent, cher, claquer des doigts, cœur, main avec index et pouce croisés, main avec index et pouce croisés : peau foncée, peau foncée
 🤟	amour, main, signe je t’aime
 🤟🏻	amour, main, peau claire, signe je t’aime, signe je t’aime : peau claire
 🤟🏼	amour, main, peau moyennement claire, signe je t’aime, signe je t’aime : peau moyennement claire
@@ -263,6 +668,12 @@
 ☝🏽	doigt, index, index pointant vers le haut, index pointant vers le haut : peau légèrement mate, main, peau légèrement mate
 ☝🏾	doigt, index, index pointant vers le haut, index pointant vers le haut : peau mate, main, peau mate
 ☝🏿	doigt, index, index pointant vers le haut, index pointant vers le haut : peau foncée, main, peau foncée
+🫵	index pointant vers l’utilisateur, pointer, toi
+🫵🏻	index pointant vers l’utilisateur, index pointant vers l’utilisateur : peau claire, peau claire, pointer, toi
+🫵🏼	index pointant vers l’utilisateur, index pointant vers l’utilisateur : peau moyennement claire, peau moyennement claire, pointer, toi
+🫵🏽	index pointant vers l’utilisateur, index pointant vers l’utilisateur : peau légèrement mate, peau légèrement mate, pointer, toi
+🫵🏾	index pointant vers l’utilisateur, index pointant vers l’utilisateur : peau mate, peau mate, pointer, toi
+🫵🏿	index pointant vers l’utilisateur, index pointant vers l’utilisateur : peau foncée, peau foncée, pointer, toi
 👍️	main, pouce vers le haut, super
 👍🏻	main, peau claire, pouce vers le haut, pouce vers le haut : peau claire, super
 👍🏼	main, peau moyennement claire, pouce vers le haut, pouce vers le haut : peau moyennement claire, super
@@ -311,6 +722,12 @@
 🙌🏽	air, mains, mains levées, mains levées : peau légèrement mate, peau légèrement mate
 🙌🏾	air, mains, mains levées, mains levées : peau mate, peau mate
 🙌🏿	air, mains, mains levées, mains levées : peau foncée, peau foncée
+🫶	amour, cœur, mains qui forment un cœur
+🫶🏻	amour, cœur, mains qui forment un cœur, mains qui forment un cœur : peau claire, peau claire
+🫶🏼	amour, cœur, mains qui forment un cœur, mains qui forment un cœur : peau moyennement claire, peau moyennement claire
+🫶🏽	amour, cœur, mains qui forment un cœur, mains qui forment un cœur : peau légèrement mate, peau légèrement mate
+🫶🏾	amour, cœur, mains qui forment un cœur, mains qui forment un cœur : peau mate, peau mate
+🫶🏿	amour, cœur, mains qui forment un cœur, mains qui forment un cœur : peau foncée, peau foncée
 👐	main, mains ouvertes, ouvert
 👐🏻	main, mains ouvertes, mains ouvertes : peau claire, ouvert, peau claire
 👐🏼	main, mains ouvertes, mains ouvertes : peau moyennement claire, ouvert, peau moyennement claire
@@ -324,6 +741,11 @@
 🤲🏾	mains, paume contre paume doigts vers le haut, paume contre paume doigts vers le haut : peau mate, peau mate, prière
 🤲🏿	mains, paume contre paume doigts vers le haut, paume contre paume doigts vers le haut : peau foncée, peau foncée, prière
 🤝	mains, poignée, poignée de main, présentation, rencontre
+🤝🏻	mains, peau claire, poignée, poignée de main, poignée de main : peau claire, présentation, rencontre
+🤝🏼	mains, peau moyennement claire, poignée, poignée de main, poignée de main : peau moyennement claire, présentation, rencontre
+🤝🏽	mains, peau légèrement mate, poignée, poignée de main, poignée de main : peau légèrement mate, présentation, rencontre
+🤝🏾	mains, peau mate, poignée, poignée de main, poignée de main : peau mate, présentation, rencontre
+🤝🏿	mains, peau foncée, poignée, poignée de main, poignée de main : peau foncée, présentation, rencontre
 🙏	mains, mains en prière, prière
 🙏🏻	mains, mains en prière, mains en prière : peau claire, peau claire, prière
 🙏🏼	mains, mains en prière, mains en prière : peau moyennement claire, peau moyennement claire, prière
@@ -387,7 +809,7 @@
 👃🏾	corps, nez, nez : peau mate, peau mate
 👃🏿	corps, nez, nez : peau foncée, peau foncée
 🧠	cerveau, intelligent
-🫀	battements, cardiologie, centre, cœur, organe, pouls, pulsation
+🫀	battements, cardiologie, cœur, organe, pouls, pulsation
 🫁	expiration, inspiration, organe, poumons, respiration, souffle
 🦷	dent, dentiste
 🦴	os, squelette
@@ -395,6 +817,7 @@
 👁️	corps, œil
 👅	corps, langue
 👄	bouche, corps, lèvres
+🫦	anxieux, flirt, inquiet, lèvres qui se mordent, mal à l’aise, nerveux
 👶	bébé
 👶🏻	bébé, bébé : peau claire, peau claire
 👶🏼	bébé, bébé : peau moyennement claire, peau moyennement claire
@@ -431,6 +854,46 @@
 👱🏽	blond, cheveux, peau légèrement mate, personne blonde, personne blonde : peau légèrement mate
 👱🏾	blond, cheveux, peau mate, personne blonde, personne blonde : peau mate
 👱🏿	blond, cheveux, peau foncée, personne blonde, personne blonde : peau foncée
+🧑🏻‍❤‍💋‍🧑🏼	adulte, baiser, bisou, bisou : adulte, adulte, peau claire et peau moyennement claire, couple, peau claire, peau moyennement claire
+🧑🏻‍❤‍💋‍🧑🏽	adulte, baiser, bisou, bisou : adulte, adulte, peau claire et peau légèrement mate, couple, peau claire, peau légèrement mate
+🧑🏻‍❤‍💋‍🧑🏾	adulte, baiser, bisou, bisou : adulte, adulte, peau claire et peau mate, couple, peau claire, peau mate
+🧑🏻‍❤‍💋‍🧑🏿	adulte, baiser, bisou, bisou : adulte, adulte, peau claire et peau foncée, couple, peau claire, peau foncée
+🧑🏼‍❤‍💋‍🧑🏻	adulte, baiser, bisou, bisou : adulte, adulte, peau moyennement claire et peau claire, couple, peau claire, peau moyennement claire
+🧑🏼‍❤‍💋‍🧑🏽	adulte, baiser, bisou, bisou : adulte, adulte, peau moyennement claire et peau légèrement mate, couple, peau légèrement mate, peau moyennement claire
+🧑🏼‍❤‍💋‍🧑🏾	adulte, baiser, bisou, bisou : adulte, adulte, peau moyennement claire et peau mate, couple, peau mate, peau moyennement claire
+🧑🏼‍❤‍💋‍🧑🏿	adulte, baiser, bisou, bisou : adulte, adulte, peau moyennement claire et peau foncée, couple, peau foncée, peau moyennement claire
+🧑🏽‍❤‍💋‍🧑🏻	adulte, baiser, bisou, bisou : adulte, adulte, peau légèrement mate et peau claire, couple, peau claire, peau légèrement mate
+🧑🏽‍❤‍💋‍🧑🏼	adulte, baiser, bisou, bisou : adulte, adulte, peau légèrement mate et peau moyennement claire, couple, peau légèrement mate, peau moyennement claire
+🧑🏽‍❤‍💋‍🧑🏾	adulte, baiser, bisou, bisou : adulte, adulte, peau légèrement mate et peau mate, couple, peau légèrement mate, peau mate
+🧑🏽‍❤‍💋‍🧑🏿	adulte, baiser, bisou, bisou : adulte, adulte, peau légèrement mate et peau foncée, couple, peau foncée, peau légèrement mate
+🧑🏾‍❤‍💋‍🧑🏻	adulte, baiser, bisou, bisou : adulte, adulte, peau mate et peau claire, couple, peau claire, peau mate
+🧑🏾‍❤‍💋‍🧑🏼	adulte, baiser, bisou, bisou : adulte, adulte, peau mate et peau moyennement claire, couple, peau mate, peau moyennement claire
+🧑🏾‍❤‍💋‍🧑🏽	adulte, baiser, bisou, bisou : adulte, adulte, peau mate et peau légèrement mate, couple, peau légèrement mate, peau mate
+🧑🏾‍❤‍💋‍🧑🏿	adulte, baiser, bisou, bisou : adulte, adulte, peau mate et peau foncée, couple, peau foncée, peau mate
+🧑🏿‍❤‍💋‍🧑🏻	adulte, baiser, bisou, bisou : adulte, adulte, peau foncée et peau claire, couple, peau claire, peau foncée
+🧑🏿‍❤‍💋‍🧑🏼	adulte, baiser, bisou, bisou : adulte, adulte, peau foncée et peau moyennement claire, couple, peau foncée, peau moyennement claire
+🧑🏿‍❤‍💋‍🧑🏽	adulte, baiser, bisou, bisou : adulte, adulte, peau foncée et peau légèrement mate, couple, peau foncée, peau légèrement mate
+🧑🏿‍❤‍💋‍🧑🏾	adulte, baiser, bisou, bisou : adulte, adulte, peau foncée et peau mate, couple, peau foncée, peau mate
+🧑🏻‍❤‍🧑🏼	adulte, amour, couple, couple avec cœur, couple avec cœur : adulte, adulte, peau claire et peau moyennement claire, cœur, peau claire, peau moyennement claire
+🧑🏻‍❤‍🧑🏽	adulte, amour, couple, couple avec cœur, couple avec cœur : adulte, adulte, peau claire et peau légèrement mate, cœur, peau claire, peau légèrement mate
+🧑🏻‍❤‍🧑🏾	adulte, amour, couple, couple avec cœur, couple avec cœur : adulte, adulte, peau claire et peau mate, cœur, peau claire, peau mate
+🧑🏻‍❤‍🧑🏿	adulte, amour, couple, couple avec cœur, couple avec cœur : adulte, adulte, peau claire et peau foncée, cœur, peau claire, peau foncée
+🧑🏼‍❤‍🧑🏻	adulte, amour, couple, couple avec cœur, couple avec cœur : adulte, adulte, peau moyennement claire et peau claire, cœur, peau claire, peau moyennement claire
+🧑🏼‍❤‍🧑🏽	adulte, amour, couple, couple avec cœur, couple avec cœur : adulte, adulte, peau moyennement claire et peau légèrement mate, cœur, peau légèrement mate, peau moyennement claire
+🧑🏼‍❤‍🧑🏾	adulte, amour, couple, couple avec cœur, couple avec cœur : adulte, adulte, peau moyennement claire et peau mate, cœur, peau mate, peau moyennement claire
+🧑🏼‍❤‍🧑🏿	adulte, amour, couple, couple avec cœur, couple avec cœur : adulte, adulte, peau moyennement claire et peau foncée, cœur, peau foncée, peau moyennement claire
+🧑🏽‍❤‍🧑🏻	adulte, amour, couple, couple avec cœur, couple avec cœur : adulte, adulte, peau légèrement mate et peau claire, cœur, peau claire, peau légèrement mate
+🧑🏽‍❤‍🧑🏼	adulte, amour, couple, couple avec cœur, couple avec cœur : adulte, adulte, peau légèrement mate et peau moyennement claire, cœur, peau légèrement mate, peau moyennement claire
+🧑🏽‍❤‍🧑🏾	adulte, amour, couple, couple avec cœur, couple avec cœur : adulte, adulte, peau légèrement mate et peau mate, cœur, peau légèrement mate, peau mate
+🧑🏽‍❤‍🧑🏿	adulte, amour, couple, couple avec cœur, couple avec cœur : adulte, adulte, peau légèrement mate et peau foncée, cœur, peau foncée, peau légèrement mate
+🧑🏾‍❤‍🧑🏻	adulte, amour, couple, couple avec cœur, couple avec cœur : adulte, adulte, peau mate et peau claire, cœur, peau claire, peau mate
+🧑🏾‍❤‍🧑🏼	adulte, amour, couple, couple avec cœur, couple avec cœur : adulte, adulte, peau mate et peau moyennement claire, cœur, peau mate, peau moyennement claire
+🧑🏾‍❤‍🧑🏽	adulte, amour, couple, couple avec cœur, couple avec cœur : adulte, adulte, peau mate et peau légèrement mate, cœur, peau légèrement mate, peau mate
+🧑🏾‍❤‍🧑🏿	adulte, amour, couple, couple avec cœur, couple avec cœur : adulte, adulte, peau mate et peau foncée, cœur, peau foncée, peau mate
+🧑🏿‍❤‍🧑🏻	adulte, amour, couple, couple avec cœur, couple avec cœur : adulte, adulte, peau foncée et peau claire, cœur, peau claire, peau foncée
+🧑🏿‍❤‍🧑🏼	adulte, amour, couple, couple avec cœur, couple avec cœur : adulte, adulte, peau foncée et peau moyennement claire, cœur, peau foncée, peau moyennement claire
+🧑🏿‍❤‍🧑🏽	adulte, amour, couple, couple avec cœur, couple avec cœur : adulte, adulte, peau foncée et peau légèrement mate, cœur, peau foncée, peau légèrement mate
+🧑🏿‍❤‍🧑🏾	adulte, amour, couple, couple avec cœur, couple avec cœur : adulte, adulte, peau foncée et peau mate, cœur, peau foncée, peau mate
 🧑‍🦰	adulte, adulte : cheveux roux, cheveux roux, genre neutre
 🧑🏻‍🦰	adulte, adulte : peau claire et cheveux roux, cheveux roux, genre neutre, peau claire
 🧑🏼‍🦰	adulte, adulte : peau moyennement claire et cheveux roux, cheveux roux, genre neutre, peau moyennement claire
@@ -461,18 +924,74 @@
 👨🏽	homme, homme : peau légèrement mate, peau légèrement mate
 👨🏾	homme, homme : peau mate, peau mate
 👨🏿	homme, homme : peau foncée, peau foncée
-🧔	barbe, homme barbu, personne barbue
-🧔🏻	barbe, homme barbu, homme barbu : peau claire, peau claire, personne barbue
-🧔🏼	barbe, homme barbu, homme barbu : peau moyennement claire, peau moyennement claire, personne barbue
-🧔🏽	barbe, homme barbu, homme barbu : peau légèrement mate, peau légèrement mate, personne barbue
-🧔🏾	barbe, homme barbu, homme barbu : peau mate, peau mate, personne barbue
-🧔🏿	barbe, homme barbu, homme barbu : peau foncée, peau foncée, personne barbue
+🧔	barbe, personne barbue
+🧔🏻	barbe, peau claire, personne barbue, personne barbue : peau claire
+🧔🏼	barbe, peau moyennement claire, personne barbue, personne barbue : peau moyennement claire
+🧔🏽	barbe, peau légèrement mate, personne barbue, personne barbue : peau légèrement mate
+🧔🏾	barbe, peau mate, personne barbue, personne barbue : peau mate
+🧔🏿	barbe, peau foncée, personne barbue, personne barbue : peau foncée
+🧔‍♂	barbe, homme barbu
+🧔🏻‍♂	barbe, homme barbu, homme barbu : peau claire, peau claire
+🧔🏼‍♂	barbe, homme barbu, homme barbu : peau moyennement claire, peau moyennement claire
+🧔🏽‍♂	barbe, homme barbu, homme barbu : peau légèrement mate, peau légèrement mate
+🧔🏾‍♂	barbe, homme barbu, homme barbu : peau mate, peau mate
+🧔🏿‍♂	barbe, homme barbu, homme barbu : peau foncée, peau foncée
 👱‍♂	blond, cheveux, homme blond
 👱🏻‍♂	blond, cheveux, homme blond, homme blond : peau claire, peau claire
 👱🏼‍♂	blond, cheveux, homme blond, homme blond : peau moyennement claire, peau moyennement claire
 👱🏽‍♂	blond, cheveux, homme blond, homme blond : peau légèrement mate, peau légèrement mate
 👱🏾‍♂	blond, cheveux, homme blond, homme blond : peau mate, peau mate
 👱🏿‍♂	blond, cheveux, homme blond, homme blond : peau foncée, peau foncée
+👨🏻‍❤‍💋‍👨🏻	baiser, bisou, bisou : homme, homme et peau claire, couple, homme, peau claire
+👨🏻‍❤‍💋‍👨🏼	baiser, bisou, bisou : homme, homme, peau claire et peau moyennement claire, couple, homme, peau claire, peau moyennement claire
+👨🏻‍❤‍💋‍👨🏽	baiser, bisou, bisou : homme, homme, peau claire et peau légèrement mate, couple, homme, peau claire, peau légèrement mate
+👨🏻‍❤‍💋‍👨🏾	baiser, bisou, bisou : homme, homme, peau claire et peau mate, couple, homme, peau claire, peau mate
+👨🏻‍❤‍💋‍👨🏿	baiser, bisou, bisou : homme, homme, peau claire et peau foncée, couple, homme, peau claire, peau foncée
+👨🏼‍❤‍💋‍👨🏻	baiser, bisou, bisou : homme, homme, peau moyennement claire et peau claire, couple, homme, peau claire, peau moyennement claire
+👨🏼‍❤‍💋‍👨🏼	baiser, bisou, bisou : homme, homme et peau moyennement claire, couple, homme, peau moyennement claire
+👨🏼‍❤‍💋‍👨🏽	baiser, bisou, bisou : homme, homme, peau moyennement claire et peau légèrement mate, couple, homme, peau légèrement mate, peau moyennement claire
+👨🏼‍❤‍💋‍👨🏾	baiser, bisou, bisou : homme, homme, peau moyennement claire et peau mate, couple, homme, peau mate, peau moyennement claire
+👨🏼‍❤‍💋‍👨🏿	baiser, bisou, bisou : homme, homme, peau moyennement claire et peau foncée, couple, homme, peau foncée, peau moyennement claire
+👨🏽‍❤‍💋‍👨🏻	baiser, bisou, bisou : homme, homme, peau légèrement mate et peau claire, couple, homme, peau claire, peau légèrement mate
+👨🏽‍❤‍💋‍👨🏼	baiser, bisou, bisou : homme, homme, peau légèrement mate et peau moyennement claire, couple, homme, peau légèrement mate, peau moyennement claire
+👨🏽‍❤‍💋‍👨🏽	baiser, bisou, bisou : homme, homme et peau légèrement mate, couple, homme, peau légèrement mate
+👨🏽‍❤‍💋‍👨🏾	baiser, bisou, bisou : homme, homme, peau légèrement mate et peau mate, couple, homme, peau légèrement mate, peau mate
+👨🏽‍❤‍💋‍👨🏿	baiser, bisou, bisou : homme, homme, peau légèrement mate et peau foncée, couple, homme, peau foncée, peau légèrement mate
+👨🏾‍❤‍💋‍👨🏻	baiser, bisou, bisou : homme, homme, peau mate et peau claire, couple, homme, peau claire, peau mate
+👨🏾‍❤‍💋‍👨🏼	baiser, bisou, bisou : homme, homme, peau mate et peau moyennement claire, couple, homme, peau mate, peau moyennement claire
+👨🏾‍❤‍💋‍👨🏽	baiser, bisou, bisou : homme, homme, peau mate et peau légèrement mate, couple, homme, peau légèrement mate, peau mate
+👨🏾‍❤‍💋‍👨🏾	baiser, bisou, bisou : homme, homme et peau mate, couple, homme, peau mate
+👨🏾‍❤‍💋‍👨🏿	baiser, bisou, bisou : homme, homme, peau mate et peau foncée, couple, homme, peau foncée, peau mate
+👨🏿‍❤‍💋‍👨🏻	baiser, bisou, bisou : homme, homme, peau foncée et peau claire, couple, homme, peau claire, peau foncée
+👨🏿‍❤‍💋‍👨🏼	baiser, bisou, bisou : homme, homme, peau foncée et peau moyennement claire, couple, homme, peau foncée, peau moyennement claire
+👨🏿‍❤‍💋‍👨🏽	baiser, bisou, bisou : homme, homme, peau foncée et peau légèrement mate, couple, homme, peau foncée, peau légèrement mate
+👨🏿‍❤‍💋‍👨🏾	baiser, bisou, bisou : homme, homme, peau foncée et peau mate, couple, homme, peau foncée, peau mate
+👨🏿‍❤‍💋‍👨🏿	baiser, bisou, bisou : homme, homme et peau foncée, couple, homme, peau foncée
+👨🏻‍❤‍👨🏻	amour, couple, couple avec cœur, couple avec cœur : homme, homme et peau claire, cœur, homme, peau claire
+👨🏻‍❤‍👨🏼	amour, couple, couple avec cœur, couple avec cœur : homme, homme, peau claire et peau moyennement claire, cœur, homme, peau claire, peau moyennement claire
+👨🏻‍❤‍👨🏽	amour, couple, couple avec cœur, couple avec cœur : homme, homme, peau claire et peau légèrement mate, cœur, homme, peau claire, peau légèrement mate
+👨🏻‍❤‍👨🏾	amour, couple, couple avec cœur, couple avec cœur : homme, homme, peau claire et peau mate, cœur, homme, peau claire, peau mate
+👨🏻‍❤‍👨🏿	amour, couple, couple avec cœur, couple avec cœur : homme, homme, peau claire et peau foncée, cœur, homme, peau claire, peau foncée
+👨🏼‍❤‍👨🏻	amour, couple, couple avec cœur, couple avec cœur : homme, homme, peau moyennement claire et peau claire, cœur, homme, peau claire, peau moyennement claire
+👨🏼‍❤‍👨🏼	amour, couple, couple avec cœur, couple avec cœur : homme, homme et peau moyennement claire, cœur, homme, peau moyennement claire
+👨🏼‍❤‍👨🏽	amour, couple, couple avec cœur, couple avec cœur : homme, homme, peau moyennement claire et peau légèrement mate, cœur, homme, peau légèrement mate, peau moyennement claire
+👨🏼‍❤‍👨🏾	amour, couple, couple avec cœur, couple avec cœur : homme, homme, peau moyennement claire et peau mate, cœur, homme, peau mate, peau moyennement claire
+👨🏼‍❤‍👨🏿	amour, couple, couple avec cœur, couple avec cœur : homme, homme, peau moyennement claire et peau foncée, cœur, homme, peau foncée, peau moyennement claire
+👨🏽‍❤‍👨🏻	amour, couple, couple avec cœur, couple avec cœur : homme, homme, peau légèrement mate et peau claire, cœur, homme, peau claire, peau légèrement mate
+👨🏽‍❤‍👨🏼	amour, couple, couple avec cœur, couple avec cœur : homme, homme, peau légèrement mate et peau moyennement claire, cœur, homme, peau légèrement mate, peau moyennement claire
+👨🏽‍❤‍👨🏽	amour, couple, couple avec cœur, couple avec cœur : homme, homme et peau légèrement mate, cœur, homme, peau légèrement mate
+👨🏽‍❤‍👨🏾	amour, couple, couple avec cœur, couple avec cœur : homme, homme, peau légèrement mate et peau mate, cœur, homme, peau légèrement mate, peau mate
+👨🏽‍❤‍👨🏿	amour, couple, couple avec cœur, couple avec cœur : homme, homme, peau légèrement mate et peau foncée, cœur, homme, peau foncée, peau légèrement mate
+👨🏾‍❤‍👨🏻	amour, couple, couple avec cœur, couple avec cœur : homme, homme, peau mate et peau claire, cœur, homme, peau claire, peau mate
+👨🏾‍❤‍👨🏼	amour, couple, couple avec cœur, couple avec cœur : homme, homme, peau mate et peau moyennement claire, cœur, homme, peau mate, peau moyennement claire
+👨🏾‍❤‍👨🏽	amour, couple, couple avec cœur, couple avec cœur : homme, homme, peau mate et peau légèrement mate, cœur, homme, peau légèrement mate, peau mate
+👨🏾‍❤‍👨🏾	amour, couple, couple avec cœur, couple avec cœur : homme, homme et peau mate, cœur, homme, peau mate
+👨🏾‍❤‍👨🏿	amour, couple, couple avec cœur, couple avec cœur : homme, homme, peau mate et peau foncée, cœur, homme, peau foncée, peau mate
+👨🏿‍❤‍👨🏻	amour, couple, couple avec cœur, couple avec cœur : homme, homme, peau foncée et peau claire, cœur, homme, peau claire, peau foncée
+👨🏿‍❤‍👨🏼	amour, couple, couple avec cœur, couple avec cœur : homme, homme, peau foncée et peau moyennement claire, cœur, homme, peau foncée, peau moyennement claire
+👨🏿‍❤‍👨🏽	amour, couple, couple avec cœur, couple avec cœur : homme, homme, peau foncée et peau légèrement mate, cœur, homme, peau foncée, peau légèrement mate
+👨🏿‍❤‍👨🏾	amour, couple, couple avec cœur, couple avec cœur : homme, homme, peau foncée et peau mate, cœur, homme, peau foncée, peau mate
+👨🏿‍❤‍👨🏿	amour, couple, couple avec cœur, couple avec cœur : homme, homme et peau foncée, cœur, homme, peau foncée
 👨‍🦰	cheveux roux, homme, homme : cheveux roux
 👨🏻‍🦰	cheveux roux, homme, homme : peau claire et cheveux roux, peau claire
 👨🏼‍🦰	cheveux roux, homme, homme : peau moyennement claire et cheveux roux, peau moyennement claire
@@ -503,12 +1022,118 @@
 👩🏽	femme, femme : peau légèrement mate, peau légèrement mate
 👩🏾	femme, femme : peau mate, peau mate
 👩🏿	femme, femme : peau foncée, peau foncée
+🧔‍♀	barbe, femme barbue
+🧔🏻‍♀	barbe, femme barbue, femme barbue : peau claire, peau claire
+🧔🏼‍♀	barbe, femme barbue, femme barbue : peau moyennement claire, peau moyennement claire
+🧔🏽‍♀	barbe, femme barbue, femme barbue : peau légèrement mate, peau légèrement mate
+🧔🏾‍♀	barbe, femme barbue, femme barbue : peau mate, peau mate
+🧔🏿‍♀	barbe, femme barbue, femme barbue : peau foncée, peau foncée
 👱‍♀	blonde, cheveux, femme blonde
 👱🏻‍♀	blonde, cheveux, femme blonde, femme blonde : peau claire, peau claire
 👱🏼‍♀	blonde, cheveux, femme blonde, femme blonde : peau moyennement claire, peau moyennement claire
 👱🏽‍♀	blonde, cheveux, femme blonde, femme blonde : peau légèrement mate, peau légèrement mate
 👱🏾‍♀	blonde, cheveux, femme blonde, femme blonde : peau mate, peau mate
 👱🏿‍♀	blonde, cheveux, femme blonde, femme blonde : peau foncée, peau foncée
+👩🏻‍❤‍💋‍👨🏻	baiser, bisou, bisou : femme, homme et peau claire, couple, femme, homme, peau claire
+👩🏻‍❤‍💋‍👨🏼	baiser, bisou, bisou : femme, homme, peau claire et peau moyennement claire, couple, femme, homme, peau claire, peau moyennement claire
+👩🏻‍❤‍💋‍👨🏽	baiser, bisou, bisou : femme, homme, peau claire et peau légèrement mate, couple, femme, homme, peau claire, peau légèrement mate
+👩🏻‍❤‍💋‍👨🏾	baiser, bisou, bisou : femme, homme, peau claire et peau mate, couple, femme, homme, peau claire, peau mate
+👩🏻‍❤‍💋‍👨🏿	baiser, bisou, bisou : femme, homme, peau claire et peau foncée, couple, femme, homme, peau claire, peau foncée
+👩🏼‍❤‍💋‍👨🏻	baiser, bisou, bisou : femme, homme, peau moyennement claire et peau claire, couple, femme, homme, peau claire, peau moyennement claire
+👩🏼‍❤‍💋‍👨🏼	baiser, bisou, bisou : femme, homme et peau moyennement claire, couple, femme, homme, peau moyennement claire
+👩🏼‍❤‍💋‍👨🏽	baiser, bisou, bisou : femme, homme, peau moyennement claire et peau légèrement mate, couple, femme, homme, peau légèrement mate, peau moyennement claire
+👩🏼‍❤‍💋‍👨🏾	baiser, bisou, bisou : femme, homme, peau moyennement claire et peau mate, couple, femme, homme, peau mate, peau moyennement claire
+👩🏼‍❤‍💋‍👨🏿	baiser, bisou, bisou : femme, homme, peau moyennement claire et peau foncée, couple, femme, homme, peau foncée, peau moyennement claire
+👩🏽‍❤‍💋‍👨🏻	baiser, bisou, bisou : femme, homme, peau légèrement mate et peau claire, couple, femme, homme, peau claire, peau légèrement mate
+👩🏽‍❤‍💋‍👨🏼	baiser, bisou, bisou : femme, homme, peau légèrement mate et peau moyennement claire, couple, femme, homme, peau légèrement mate, peau moyennement claire
+👩🏽‍❤‍💋‍👨🏽	baiser, bisou, bisou : femme, homme et peau légèrement mate, couple, femme, homme, peau légèrement mate
+👩🏽‍❤‍💋‍👨🏾	baiser, bisou, bisou : femme, homme, peau légèrement mate et peau mate, couple, femme, homme, peau légèrement mate, peau mate
+👩🏽‍❤‍💋‍👨🏿	baiser, bisou, bisou : femme, homme, peau légèrement mate et peau foncée, couple, femme, homme, peau foncée, peau légèrement mate
+👩🏾‍❤‍💋‍👨🏻	baiser, bisou, bisou : femme, homme, peau mate et peau claire, couple, femme, homme, peau claire, peau mate
+👩🏾‍❤‍💋‍👨🏼	baiser, bisou, bisou : femme, homme, peau mate et peau moyennement claire, couple, femme, homme, peau mate, peau moyennement claire
+👩🏾‍❤‍💋‍👨🏽	baiser, bisou, bisou : femme, homme, peau mate et peau légèrement mate, couple, femme, homme, peau légèrement mate, peau mate
+👩🏾‍❤‍💋‍👨🏾	baiser, bisou, bisou : femme, homme et peau mate, couple, femme, homme, peau mate
+👩🏾‍❤‍💋‍👨🏿	baiser, bisou, bisou : femme, homme, peau mate et peau foncée, couple, femme, homme, peau foncée, peau mate
+👩🏿‍❤‍💋‍👨🏻	baiser, bisou, bisou : femme, homme, peau foncée et peau claire, couple, femme, homme, peau claire, peau foncée
+👩🏿‍❤‍💋‍👨🏼	baiser, bisou, bisou : femme, homme, peau foncée et peau moyennement claire, couple, femme, homme, peau foncée, peau moyennement claire
+👩🏿‍❤‍💋‍👨🏽	baiser, bisou, bisou : femme, homme, peau foncée et peau légèrement mate, couple, femme, homme, peau foncée, peau légèrement mate
+👩🏿‍❤‍💋‍👨🏾	baiser, bisou, bisou : femme, homme, peau foncée et peau mate, couple, femme, homme, peau foncée, peau mate
+👩🏿‍❤‍💋‍👨🏿	baiser, bisou, bisou : femme, homme et peau foncée, couple, femme, homme, peau foncée
+👩🏻‍❤‍💋‍👩🏻	baiser, bisou, bisou : femme, femme et peau claire, couple, femme, peau claire
+👩🏻‍❤‍💋‍👩🏼	baiser, bisou, bisou : femme, femme, peau claire et peau moyennement claire, couple, femme, peau claire, peau moyennement claire
+👩🏻‍❤‍💋‍👩🏽	baiser, bisou, bisou : femme, femme, peau claire et peau légèrement mate, couple, femme, peau claire, peau légèrement mate
+👩🏻‍❤‍💋‍👩🏾	baiser, bisou, bisou : femme, femme, peau claire et peau mate, couple, femme, peau claire, peau mate
+👩🏻‍❤‍💋‍👩🏿	baiser, bisou, bisou : femme, femme, peau claire et peau foncée, couple, femme, peau claire, peau foncée
+👩🏼‍❤‍💋‍👩🏻	baiser, bisou, bisou : femme, femme, peau moyennement claire et peau claire, couple, femme, peau claire, peau moyennement claire
+👩🏼‍❤‍💋‍👩🏼	baiser, bisou, bisou : femme, femme et peau moyennement claire, couple, femme, peau moyennement claire
+👩🏼‍❤‍💋‍👩🏽	baiser, bisou, bisou : femme, femme, peau moyennement claire et peau légèrement mate, couple, femme, peau légèrement mate, peau moyennement claire
+👩🏼‍❤‍💋‍👩🏾	baiser, bisou, bisou : femme, femme, peau moyennement claire et peau mate, couple, femme, peau mate, peau moyennement claire
+👩🏼‍❤‍💋‍👩🏿	baiser, bisou, bisou : femme, femme, peau moyennement claire et peau foncée, couple, femme, peau foncée, peau moyennement claire
+👩🏽‍❤‍💋‍👩🏻	baiser, bisou, bisou : femme, femme, peau légèrement mate et peau claire, couple, femme, peau claire, peau légèrement mate
+👩🏽‍❤‍💋‍👩🏼	baiser, bisou, bisou : femme, femme, peau légèrement mate et peau moyennement claire, couple, femme, peau légèrement mate, peau moyennement claire
+👩🏽‍❤‍💋‍👩🏽	baiser, bisou, bisou : femme, femme et peau légèrement mate, couple, femme, peau légèrement mate
+👩🏽‍❤‍💋‍👩🏾	baiser, bisou, bisou : femme, femme, peau légèrement mate et peau mate, couple, femme, peau légèrement mate, peau mate
+👩🏽‍❤‍💋‍👩🏿	baiser, bisou, bisou : femme, femme, peau légèrement mate et peau foncée, couple, femme, peau foncée, peau légèrement mate
+👩🏾‍❤‍💋‍👩🏻	baiser, bisou, bisou : femme, femme, peau mate et peau claire, couple, femme, peau claire, peau mate
+👩🏾‍❤‍💋‍👩🏼	baiser, bisou, bisou : femme, femme, peau mate et peau moyennement claire, couple, femme, peau mate, peau moyennement claire
+👩🏾‍❤‍💋‍👩🏽	baiser, bisou, bisou : femme, femme, peau mate et peau légèrement mate, couple, femme, peau légèrement mate, peau mate
+👩🏾‍❤‍💋‍👩🏾	baiser, bisou, bisou : femme, femme et peau mate, couple, femme, peau mate
+👩🏾‍❤‍💋‍👩🏿	baiser, bisou, bisou : femme, femme, peau mate et peau foncée, couple, femme, peau foncée, peau mate
+👩🏿‍❤‍💋‍👩🏻	baiser, bisou, bisou : femme, femme, peau foncée et peau claire, couple, femme, peau claire, peau foncée
+👩🏿‍❤‍💋‍👩🏼	baiser, bisou, bisou : femme, femme, peau foncée et peau moyennement claire, couple, femme, peau foncée, peau moyennement claire
+👩🏿‍❤‍💋‍👩🏽	baiser, bisou, bisou : femme, femme, peau foncée et peau légèrement mate, couple, femme, peau foncée, peau légèrement mate
+👩🏿‍❤‍💋‍👩🏾	baiser, bisou, bisou : femme, femme, peau foncée et peau mate, couple, femme, peau foncée, peau mate
+👩🏿‍❤‍💋‍👩🏿	baiser, bisou, bisou : femme, femme et peau foncée, couple, femme, peau foncée
+👩🏻‍❤‍👨🏻	amour, couple, couple avec cœur, couple avec cœur : femme, homme et peau claire, cœur, femme, homme, peau claire
+👩🏻‍❤‍👨🏼	amour, couple, couple avec cœur, couple avec cœur : femme, homme, peau claire et peau moyennement claire, cœur, femme, homme, peau claire, peau moyennement claire
+👩🏻‍❤‍👨🏽	amour, couple, couple avec cœur, couple avec cœur : femme, homme, peau claire et peau légèrement mate, cœur, femme, homme, peau claire, peau légèrement mate
+👩🏻‍❤‍👨🏾	amour, couple, couple avec cœur, couple avec cœur : femme, homme, peau claire et peau mate, cœur, femme, homme, peau claire, peau mate
+👩🏻‍❤‍👨🏿	amour, couple, couple avec cœur, couple avec cœur : femme, homme, peau claire et peau foncée, cœur, femme, homme, peau claire, peau foncée
+👩🏼‍❤‍👨🏻	amour, couple, couple avec cœur, couple avec cœur : femme, homme, peau moyennement claire et peau claire, cœur, femme, homme, peau claire, peau moyennement claire
+👩🏼‍❤‍👨🏼	amour, couple, couple avec cœur, couple avec cœur : femme, homme et peau moyennement claire, cœur, femme, homme, peau moyennement claire
+👩🏼‍❤‍👨🏽	amour, couple, couple avec cœur, couple avec cœur : femme, homme, peau moyennement claire et peau légèrement mate, cœur, femme, homme, peau légèrement mate, peau moyennement claire
+👩🏼‍❤‍👨🏾	amour, couple, couple avec cœur, couple avec cœur : femme, homme, peau moyennement claire et peau mate, cœur, femme, homme, peau mate, peau moyennement claire
+👩🏼‍❤‍👨🏿	amour, couple, couple avec cœur, couple avec cœur : femme, homme, peau moyennement claire et peau foncée, cœur, femme, homme, peau foncée, peau moyennement claire
+👩🏽‍❤‍👨🏻	amour, couple, couple avec cœur, couple avec cœur : femme, homme, peau légèrement mate et peau claire, cœur, femme, homme, peau claire, peau légèrement mate
+👩🏽‍❤‍👨🏼	amour, couple, couple avec cœur, couple avec cœur : femme, homme, peau légèrement mate et peau moyennement claire, cœur, femme, homme, peau légèrement mate, peau moyennement claire
+👩🏽‍❤‍👨🏽	amour, couple, couple avec cœur, couple avec cœur : femme, homme et peau légèrement mate, cœur, femme, homme, peau légèrement mate
+👩🏽‍❤‍👨🏾	amour, couple, couple avec cœur, couple avec cœur : femme, homme, peau légèrement mate et peau mate, cœur, femme, homme, peau légèrement mate, peau mate
+👩🏽‍❤‍👨🏿	amour, couple, couple avec cœur, couple avec cœur : femme, homme, peau légèrement mate et peau foncée, cœur, femme, homme, peau foncée, peau légèrement mate
+👩🏾‍❤‍👨🏻	amour, couple, couple avec cœur, couple avec cœur : femme, homme, peau mate et peau claire, cœur, femme, homme, peau claire, peau mate
+👩🏾‍❤‍👨🏼	amour, couple, couple avec cœur, couple avec cœur : femme, homme, peau mate et peau moyennement claire, cœur, femme, homme, peau mate, peau moyennement claire
+👩🏾‍❤‍👨🏽	amour, couple, couple avec cœur, couple avec cœur : femme, homme, peau mate et peau légèrement mate, cœur, femme, homme, peau légèrement mate, peau mate
+👩🏾‍❤‍👨🏾	amour, couple, couple avec cœur, couple avec cœur : femme, homme et peau mate, cœur, femme, homme, peau mate
+👩🏾‍❤‍👨🏿	amour, couple, couple avec cœur, couple avec cœur : femme, homme, peau mate et peau foncée, cœur, femme, homme, peau foncée, peau mate
+👩🏿‍❤‍👨🏻	amour, couple, couple avec cœur, couple avec cœur : femme, homme, peau foncée et peau claire, cœur, femme, homme, peau claire, peau foncée
+👩🏿‍❤‍👨🏼	amour, couple, couple avec cœur, couple avec cœur : femme, homme, peau foncée et peau moyennement claire, cœur, femme, homme, peau foncée, peau moyennement claire
+👩🏿‍❤‍👨🏽	amour, couple, couple avec cœur, couple avec cœur : femme, homme, peau foncée et peau légèrement mate, cœur, femme, homme, peau foncée, peau légèrement mate
+👩🏿‍❤‍👨🏾	amour, couple, couple avec cœur, couple avec cœur : femme, homme, peau foncée et peau mate, cœur, femme, homme, peau foncée, peau mate
+👩🏿‍❤‍👨🏿	amour, couple, couple avec cœur, couple avec cœur : femme, homme et peau foncée, cœur, femme, homme, peau foncée
+👩🏻‍❤‍👩🏻	amour, couple, couple avec cœur, couple avec cœur : femme, femme et peau claire, cœur, femme, peau claire
+👩🏻‍❤‍👩🏼	amour, couple, couple avec cœur, couple avec cœur : femme, femme, peau claire et peau moyennement claire, cœur, femme, peau claire, peau moyennement claire
+👩🏻‍❤‍👩🏽	amour, couple, couple avec cœur, couple avec cœur : femme, femme, peau claire et peau légèrement mate, cœur, femme, peau claire, peau légèrement mate
+👩🏻‍❤‍👩🏾	amour, couple, couple avec cœur, couple avec cœur : femme, femme, peau claire et peau mate, cœur, femme, peau claire, peau mate
+👩🏻‍❤‍👩🏿	amour, couple, couple avec cœur, couple avec cœur : femme, femme, peau claire et peau foncée, cœur, femme, peau claire, peau foncée
+👩🏼‍❤‍👩🏻	amour, couple, couple avec cœur, couple avec cœur : femme, femme, peau moyennement claire et peau claire, cœur, femme, peau claire, peau moyennement claire
+👩🏼‍❤‍👩🏼	amour, couple, couple avec cœur, couple avec cœur : femme, femme et peau moyennement claire, cœur, femme, peau moyennement claire
+👩🏼‍❤‍👩🏽	amour, couple, couple avec cœur, couple avec cœur : femme, femme, peau moyennement claire et peau légèrement mate, cœur, femme, peau légèrement mate, peau moyennement claire
+👩🏼‍❤‍👩🏾	amour, couple, couple avec cœur, couple avec cœur : femme, femme, peau moyennement claire et peau mate, cœur, femme, peau mate, peau moyennement claire
+👩🏼‍❤‍👩🏿	amour, couple, couple avec cœur, couple avec cœur : femme, femme, peau moyennement claire et peau foncée, cœur, femme, peau foncée, peau moyennement claire
+👩🏽‍❤‍👩🏻	amour, couple, couple avec cœur, couple avec cœur : femme, femme, peau légèrement mate et peau claire, cœur, femme, peau claire, peau légèrement mate
+👩🏽‍❤‍👩🏼	amour, couple, couple avec cœur, couple avec cœur : femme, femme, peau légèrement mate et peau moyennement claire, cœur, femme, peau légèrement mate, peau moyennement claire
+👩🏽‍❤‍👩🏽	amour, couple, couple avec cœur, couple avec cœur : femme, femme et peau légèrement mate, cœur, femme, peau légèrement mate
+👩🏽‍❤‍👩🏾	amour, couple, couple avec cœur, couple avec cœur : femme, femme, peau légèrement mate et peau mate, cœur, femme, peau légèrement mate, peau mate
+👩🏽‍❤‍👩🏿	amour, couple, couple avec cœur, couple avec cœur : femme, femme, peau légèrement mate et peau foncée, cœur, femme, peau foncée, peau légèrement mate
+👩🏾‍❤‍👩🏻	amour, couple, couple avec cœur, couple avec cœur : femme, femme, peau mate et peau claire, cœur, femme, peau claire, peau mate
+👩🏾‍❤‍👩🏼	amour, couple, couple avec cœur, couple avec cœur : femme, femme, peau mate et peau moyennement claire, cœur, femme, peau mate, peau moyennement claire
+👩🏾‍❤‍👩🏽	amour, couple, couple avec cœur, couple avec cœur : femme, femme, peau mate et peau légèrement mate, cœur, femme, peau légèrement mate, peau mate
+👩🏾‍❤‍👩🏾	amour, couple, couple avec cœur, couple avec cœur : femme, femme et peau mate, cœur, femme, peau mate
+👩🏾‍❤‍👩🏿	amour, couple, couple avec cœur, couple avec cœur : femme, femme, peau mate et peau foncée, cœur, femme, peau foncée, peau mate
+👩🏿‍❤‍👩🏻	amour, couple, couple avec cœur, couple avec cœur : femme, femme, peau foncée et peau claire, cœur, femme, peau claire, peau foncée
+👩🏿‍❤‍👩🏼	amour, couple, couple avec cœur, couple avec cœur : femme, femme, peau foncée et peau moyennement claire, cœur, femme, peau foncée, peau moyennement claire
+👩🏿‍❤‍👩🏽	amour, couple, couple avec cœur, couple avec cœur : femme, femme, peau foncée et peau légèrement mate, cœur, femme, peau foncée, peau légèrement mate
+👩🏿‍❤‍👩🏾	amour, couple, couple avec cœur, couple avec cœur : femme, femme, peau foncée et peau mate, cœur, femme, peau foncée, peau mate
+👩🏿‍❤‍👩🏿	amour, couple, couple avec cœur, couple avec cœur : femme, femme et peau foncée, cœur, femme, peau foncée
 👩‍🦰	cheveux roux, femme, femme : cheveux roux
 👩🏻‍🦰	cheveux roux, femme, femme : peau claire et cheveux roux, peau claire
 👩🏼‍🦰	cheveux roux, femme, femme : peau moyennement claire et cheveux roux, peau moyennement claire
@@ -1074,6 +1699,11 @@
 💂🏾‍♀	femme, garde, garde femme : peau mate, peau mate
 💂🏿‍♀	femme, garde, garde femme : peau foncée, peau foncée
 🥷	furtif, guerrier, masqué, ninja
+🥷🏻	furtif, guerrier, masqué, ninja, ninja : peau claire, peau claire
+🥷🏼	furtif, guerrier, masqué, ninja, ninja : peau moyennement claire, peau moyennement claire
+🥷🏽	furtif, guerrier, masqué, ninja, ninja : peau légèrement mate, peau légèrement mate
+🥷🏾	furtif, guerrier, masqué, ninja, ninja : peau mate, peau mate
+🥷🏿	furtif, guerrier, masqué, ninja, ninja : peau foncée, peau foncée
 👷	bâtiment, casque, ouvrier, personnel du bâtiment
 👷🏻	bâtiment, casque, ouvrier, peau claire, personnel du bâtiment, personnel du bâtiment : peau claire
 👷🏼	bâtiment, casque, ouvrier, peau moyennement claire, personnel du bâtiment, personnel du bâtiment : peau moyennement claire
@@ -1092,6 +1722,12 @@
 👷🏽‍♀	bâtiment, femme, ouvrière, ouvrière du bâtiment, ouvrière du bâtiment : peau légèrement mate, peau légèrement mate
 👷🏾‍♀	bâtiment, femme, ouvrière, ouvrière du bâtiment, ouvrière du bâtiment : peau mate, peau mate
 👷🏿‍♀	bâtiment, femme, ouvrière, ouvrière du bâtiment, ouvrière du bâtiment : peau foncée, peau foncée
+🫅	monarque, noble, personne avec une couronne, royal, royauté
+🫅🏻	monarque, noble, peau claire, personne avec une couronne, personne avec une couronne : peau claire, royal, royauté
+🫅🏼	monarque, noble, peau moyennement claire, personne avec une couronne, personne avec une couronne : peau moyennement claire, royal, royauté
+🫅🏽	monarque, noble, peau légèrement mate, personne avec une couronne, personne avec une couronne : peau légèrement mate, royal, royauté
+🫅🏾	monarque, noble, peau mate, personne avec une couronne, personne avec une couronne : peau mate, royal, royauté
+🫅🏿	monarque, noble, peau foncée, personne avec une couronne, personne avec une couronne : peau foncée, royal, royauté
 🤴	prince
 🤴🏻	peau claire, prince, prince : peau claire
 🤴🏼	peau moyennement claire, prince, prince : peau moyennement claire
@@ -1176,6 +1812,18 @@
 🤰🏽	enceinte, femme, femme enceinte : peau légèrement mate, peau légèrement mate
 🤰🏾	enceinte, femme, femme enceinte : peau mate, peau mate
 🤰🏿	enceinte, femme, femme enceinte : peau foncée, peau foncée
+🫃	enceinte, grossesse, homme enceinte, ventre
+🫃🏻	enceinte, grossesse, homme enceinte, homme enceinte : peau claire, peau claire, ventre
+🫃🏼	enceinte, grossesse, homme enceinte, homme enceinte : peau moyennement claire, peau moyennement claire, ventre
+🫃🏽	enceinte, grossesse, homme enceinte, homme enceinte : peau légèrement mate, peau légèrement mate, ventre
+🫃🏾	enceinte, grossesse, homme enceinte, homme enceinte : peau mate, peau mate, ventre
+🫃🏿	enceinte, grossesse, homme enceinte, homme enceinte : peau foncée, peau foncée, ventre
+🫄	enceinte, grossesse, personne enceinte, ventre
+🫄🏻	enceinte, grossesse, peau claire, personne enceinte, personne enceinte : peau claire, ventre
+🫄🏼	enceinte, grossesse, peau moyennement claire, personne enceinte, personne enceinte : peau moyennement claire, ventre
+🫄🏽	enceinte, grossesse, peau légèrement mate, personne enceinte, personne enceinte : peau légèrement mate, ventre
+🫄🏾	enceinte, grossesse, peau mate, personne enceinte, personne enceinte : peau mate, ventre
+🫄🏿	enceinte, grossesse, peau foncée, personne enceinte, personne enceinte : peau foncée, ventre
 🤱	allaitement, bébé, sein, soins
 🤱🏻	allaitement, allaitement : peau claire, bébé, peau claire, sein, soins
 🤱🏼	allaitement, allaitement : peau moyennement claire, bébé, peau moyennement claire, sein, soins
@@ -1356,6 +2004,7 @@
 🧟	mort-vivant, zombie
 🧟‍♂	mort-vivant, zombie homme
 🧟‍♀	morte-vivante, zombie femme
+🧌	conte de fées, légende, monstre, mythe, troll
 💆	massage, personne qui se fait masser, salon, visage
 💆🏻	massage, peau claire, personne qui se fait masser, personne qui se fait masser : peau claire, salon, visage
 💆🏼	massage, peau moyennement claire, personne qui se fait masser, personne qui se fait masser : peau moyennement claire, salon, visage
@@ -1458,12 +2107,12 @@
 👨🏽‍🦯	accessibilité, aveugle, déficient visuel, homme, homme avec canne blanche, homme avec canne blanche : peau légèrement mate, malvoyant, peau légèrement mate
 👨🏾‍🦯	accessibilité, aveugle, déficient visuel, homme, homme avec canne blanche, homme avec canne blanche : peau mate, malvoyant, peau mate
 👨🏿‍🦯	accessibilité, aveugle, déficient visuel, homme, homme avec canne blanche, homme avec canne blanche : peau foncée, malvoyant, peau foncée
-👩‍🦯	accessibilité, aveugle, déficient visuel, femme, femme avec canne blanche, malvoyant
-👩🏻‍🦯	accessibilité, aveugle, déficient visuel, femme, femme avec canne blanche, femme avec canne blanche : peau claire, malvoyant, peau claire
-👩🏼‍🦯	accessibilité, aveugle, déficient visuel, femme, femme avec canne blanche, femme avec canne blanche : peau moyennement claire, malvoyant, peau moyennement claire
-👩🏽‍🦯	accessibilité, aveugle, déficient visuel, femme, femme avec canne blanche, femme avec canne blanche : peau légèrement mate, malvoyant, peau légèrement mate
-👩🏾‍🦯	accessibilité, aveugle, déficient visuel, femme, femme avec canne blanche, femme avec canne blanche : peau mate, malvoyant, peau mate
-👩🏿‍🦯	accessibilité, aveugle, déficient visuel, femme, femme avec canne blanche, femme avec canne blanche : peau foncée, malvoyant, peau foncée
+👩‍🦯	accessibilité, aveugle, déficiente visuelle, femme, femme avec canne blanche, malvoyante
+👩🏻‍🦯	accessibilité, aveugle, déficiente visuelle, femme, femme avec canne blanche, femme avec canne blanche : peau claire, malvoyante, peau claire
+👩🏼‍🦯	accessibilité, aveugle, déficiente visuelle, femme, femme avec canne blanche, femme avec canne blanche : peau moyennement claire, malvoyante, peau moyennement claire
+👩🏽‍🦯	accessibilité, aveugle, déficiente visuelle, femme, femme avec canne blanche, femme avec canne blanche : peau légèrement mate, malvoyante, peau légèrement mate
+👩🏾‍🦯	accessibilité, aveugle, déficiente visuelle, femme, femme avec canne blanche, femme avec canne blanche : peau mate, malvoyante, peau mate
+👩🏿‍🦯	accessibilité, aveugle, déficiente visuelle, femme, femme avec canne blanche, femme avec canne blanche : peau foncée, malvoyante, peau foncée
 🧑‍🦼	accessibilité, fauteuil roulant, personne en fauteuil motorisé
 🧑🏻‍🦼	accessibilité, fauteuil roulant, peau claire, personne en fauteuil motorisé, personne en fauteuil motorisé : peau claire
 🧑🏼‍🦼	accessibilité, fauteuil roulant, peau moyennement claire, personne en fauteuil motorisé, personne en fauteuil motorisé : peau moyennement claire
@@ -1943,10 +2592,20 @@
 👨🏿‍🤝‍👨🏾	Gémeaux, couple, deux hommes se tenant la main, deux hommes se tenant la main : peau foncée et peau mate, hommes, jumeaux, main dans la main, peau foncée, peau mate, zodiaque
 👬🏿	Gémeaux, couple, deux hommes se tenant la main, deux hommes se tenant la main : peau foncée, hommes, jumeaux, main dans la main, peau foncée, zodiaque
 💏	baiser, bisou, couple
+💏🏻	baiser, bisou, bisou : peau claire, couple, peau claire
+💏🏼	baiser, bisou, bisou : peau moyennement claire, couple, peau moyennement claire
+💏🏽	baiser, bisou, bisou : peau légèrement mate, couple, peau légèrement mate
+💏🏾	baiser, bisou, bisou : peau mate, couple, peau mate
+💏🏿	baiser, bisou, bisou : peau foncée, couple, peau foncée
 👩‍❤‍💋‍👨	baiser, bisou, bisou : femme et homme, couple, femme, homme
 👨‍❤‍💋‍👨	baiser, bisou, bisou : homme et homme, couple, homme
 👩‍❤‍💋‍👩	baiser, bisou, bisou : femme et femme, couple, femme
 💑	amour, couple, couple avec cœur, cœur
+💑🏻	amour, couple, couple avec cœur, couple avec cœur : peau claire, cœur, peau claire
+💑🏼	amour, couple, couple avec cœur, couple avec cœur : peau moyennement claire, cœur, peau moyennement claire
+💑🏽	amour, couple, couple avec cœur, couple avec cœur : peau légèrement mate, cœur, peau légèrement mate
+💑🏾	amour, couple, couple avec cœur, couple avec cœur : peau mate, cœur, peau mate
+💑🏿	amour, couple, couple avec cœur, couple avec cœur : peau foncée, cœur, peau foncée
 👩‍❤‍👨	amour, couple, couple avec cœur, couple avec cœur : femme et homme, cœur, femme, homme
 👨‍❤‍👨	amour, couple, couple avec cœur, couple avec cœur : homme et homme, cœur, homme
 👩‍❤‍👩	amour, couple, couple avec cœur, couple avec cœur : femme et femme, cœur, femme
@@ -2009,7 +2668,7 @@
 🦄	animal, licorne, tête
 🦓	animal, rayure, zèbre, zébrure
 🦌	animal, cerf
-🦬	bison, cornes, herbivore, troupeau
+🦬	bison, buffle, cornes, herbivore, troupeau
 🐮	animal, tête de vache, vache
 🐂	animal, bœuf
 🐃	animal, buffle
@@ -2062,7 +2721,7 @@
 🦆	animal, canard, oiseau
 🦢	animal, cygne, jeune cygne, oiseau, vilain petit canard
 🦉	animal, chouette, oiseau
-🦤	dodo, extinction, grand, île Maurice
+🦤	Maurice, dodo, extinction, grand
 🪶	léger, oiseau, plumage, plume, voler
 🦩	animal, flamant, oiseau, rose, tropical
 🦚	animal, fier, oiseau, paon, paonne, prétentieux
@@ -2086,6 +2745,7 @@
 🦈	animal, poisson, requin
 🐙	animal, mollusque, pieuvre
 🐚	coquille, coquille en spirale, spirale
+🪸	corail, océan, récif
 🐌	animal, escargot
 🦋	insecte, mignon, papillon
 🐛	animal, chenille, insecte
@@ -2105,6 +2765,7 @@
 💐	bouquet, fleur, plante
 🌸	fleur, fleur de cerisier
 💮	fleur, fleur blanche
+🪷	Inde, Viêt Nam, bouddhisme, fleur, hindouisme, lotus, pureté
 🏵️	plante, rosette
 🌹	fleur, rose
 🥀	fanée, fleur, fleur fanée
@@ -2125,6 +2786,9 @@
 🍁	feuille, feuille d’érable
 🍂	feuille, feuille morte
 🍃	feuille, feuille virevoltante, souffle, vent
+🪹	faire son nid, nid vide
+🪺	faire son nid, nid avec œufs
+🍄	champignon, plante
 🍇	fruit, raisin
 🍈	fruit, melon
 🍉	fruit, pastèque
@@ -2153,20 +2817,20 @@
 🫑	légume, piment, poivron
 🥒	concombre, légume
 🥬	chou, chou chinois, chou frisé, chou pommé, laitue, légume à feuilles vertes
-🥦	broccoli, chou sauvage, légume
+🥦	brocoli, chou sauvage, légume
 🧄	ail, assaisonnement, condiment, légume
 🧅	assaisonnement, condiment, légume, oignon
-🍄	champignon, plante
 🥜	arachide, cacahuète, cacahuètes, noisette
+🫘	haricots, légume, nourriture, rognon
 🌰	châtaigne, plante
 🍞	miche, pain
 🥐	croissant, pain, viennoiserie
 🥖	baguette, pain
 🫓	arepa, galette, lavash, naan, pita
 🥨	bretzel, torsade
-🥯	bagel, boulangerie, schmear
+🥯	bagel, boulangerie, petit-déjeuner, schmear
 🥞	crêpe, pancake, pancakes
-🧇	gaufre, gourmandise, moule, pâtisserie
+🧇	gaufre, gourmandise, moule, petit-déjeuner, pâtisserie
 🧀	fromage, part de fromage
 🍖	viande, viande sur un os
 🍗	cuisse de poulet, poulet
@@ -2191,7 +2855,7 @@
 🥗	salade, salade verte, verte
 🍿	pop-corn
 🧈	beurre, gras, produit laitier
-🧂	condiment, sel, shaker
+🧂	condiment, salière, sel
 🥫	aliments en conserve, conserve
 🍱	boîte, boîte déjeuner, déjeuner
 🍘	cracker, galette de riz, riz
@@ -2243,6 +2907,7 @@
 🍻	bière, chopes de bière, trinquer
 🥂	célébrer, fêter, trinquer, verre
 🥃	liqueur, tumbler, verre, verre tumbler, whisky
+🫗	boisson, renverser, verre, verser un liquide, vider
 🥤	gobelet avec paille, jus de fruits, soda
 🧋	bulle, lait, perle, thé aux perles
 🧃	briquette de jus, carton, jus de fruits
@@ -2253,6 +2918,7 @@
 🍴	couteau et fourchette, fourchette et couteau, restaurant
 🥄	couvert, cuillère
 🔪	arme, couteau, couteau de cuisine, cuisine, outil
+🫙	bocal, condiments, conserver, récipient, sauce, vide
 🏺	amphore, cuisine, vase
 🌍	afrique, europe, globe tourné sur l’Afrique et l’Europe
 🌎️	amérique, globe tourné sur les Amériques
@@ -2310,11 +2976,12 @@
 🏙️	bâtiment, ville
 🌄	soleil, soleil levant derrière les montagnes
 🌅	soleil, soleil levant
-🌆	soleil, ville au crépuscule
+🌆	coucher de soleil, crépuscule, immeubles, soir, ville au crépuscule
 🌇	coucher de soleil, soleil
 🌉	pont, pont de nuit
 ♨️	source, sources chaudes
 🎠	cheval, cheval de manège, manège
+🛝	aire de jeu, jouer, toboggan
 🎡	grande roue, roue
 🎢	montagnes, montagnes russes, russes
 💈	barbier, coiffure, enseigne, enseigne de barbier
@@ -2327,7 +2994,7 @@
 🚇️	métro
 🚈	métro, métro léger
 🚉	gare, train
-🚊	tramway
+🚊	tram, tramway, transport, trolley, trolleybus
 🚝	monorail, véhicule
 🚞	train, train de montagne
 🚋	tram, trolleybus, voiture, wagon de tramway
@@ -2356,19 +3023,21 @@
 🛺	rickshaw, taxi, tricycle, tuk tuk
 🚲️	vélo
 🛴	trottinette
-🛹	planche, planche à roulettes
+🛹	glisse, longboard, planche à roulettes, roulettes, skateboard
 🛼	derby, patin à roulettes, roller, roulette
 🚏	arrêt de bus, bus
 🛣️	autoroute, route
 🛤️	train, voie ferrée
 🛢️	baril de pétrole, pétrole
 ⛽️	essence, pompe à essence, station
+🛞	cercle, pneu, roue, tourner
 🚨	gyrophare, lumière, police, voiture
 🚥	feu, feu tricolore horizontal, tricolore
 🚦	feu, feu tricolore vertical, tricolore
 🛑	signe, stop
 🚧	barrière, travaux
 ⚓️	ancre, bateau, outil
+🛟	bouée de sauvetage, flotter, sauver, sauveteur, secours, sécurité
 ⛵️	bateau, mer, voilier, yacht
 🛶	bateau, canoë
 🚤	bateau, hors-bord
@@ -2428,7 +3097,7 @@
 🌔	lune, lune gibbeuse croissante
 🌕️	lune, pleine lune
 🌖	lune, lune gibbeuse décroissante
-🌗	dernier quartier, lune
+🌗	dernier quartier, dernier quartier de lune, lune
 🌘	lune, lune décroissante
 🌙	croissant de lune, lune
 🌚	lune, nouvelle lune avec visage
@@ -2445,23 +3114,23 @@
 🌌	espace, voie lactée
 ☁️	météo, nuage
 ⛅️	nuageux, soleil, soleil derrière les nuages
-⛈️	nuage, nuage avec éclair et pluie
+⛈️	météo, nuage avec éclair et pluie, orage, pluie, éclair
 🌤️	nuage, soleil derrière un petit nuage
 🌥️	nuage, soleil derrière un gros nuage
 🌦️	nuage, soleil derrière un nuage de pluie
-🌧️	nuage, nuage avec pluie
-🌨️	nuage, nuage avec neige
+🌧️	averse, mauvais temps, météo, nuage avec pluie, pluie
+🌨️	flocons, hiver, météo, neige, nuage avec neige
 🌩️	nuage, nuage avec éclair
 🌪️	météo, nuage, tornade, tourbillon
 🌫️	brouillard, météo, nuage
 🌬️	météo, souffle, vent, vent avec visage, visage
 🌀	cyclone, tourbillon
 🌈	arc-en-ciel, météo, pluie
-🌂	parapluie, parapluie fermé
-☂️	parapluie, parapluie ouvert
-☔️	parapluie, parapluie avec gouttes de pluie
-⛱️	météo, parapluie, parasol sur le sol, pluie, soleil
-⚡️	danger, haute tension, symbole de haute tension
+🌂	parapluie fermé, pluie
+☂️	parapluie ouvert, pluie
+☔️	gouttes, météo, parapluie avec gouttes de pluie, pluie
+⛱️	parasol sur le sol, plage, soleil
+⚡️	courant, danger, haute tension, tension, éclair, électricité
 ❄️	flocon, neige
 ☃️	bonhomme de neige, neige
 ⛄️	bonhomme de neige sans neige, neige
@@ -2496,15 +3165,15 @@
 🥇	1er, médaille, médaille d’or, or
 🥈	2e, argent, médaille, médaille d’argent
 🥉	3e, bronze, médaille, médaille de bronze
-⚽️	ballon de football, football, sport
+⚽️	balle, ballon de football, football, sport
 ⚾️	balle, baseball, sport
-🥎	balle, gant, par le dessous, softball
+🥎	balle, gant, softball
 🏀	ballon, basket, panier, sport
 🏐	ballon, match, sport, volley-ball
 🏈	ballon, football américain, sport
 🏉	ballon, rugby, sport
 🎾	balle, sport, tennis
-🥏	disque-volant, sport, ultimate
+🥏	discoplane, disque volant, frisbee, sport, ultimate, ultime-passe
 🎳	boule, bowling, jeu, partie
 🏏	balle, batte, cricket, match, sport
 🏑	balle, crosse, hockey, hockey sur gazon, sport
@@ -2526,10 +3195,10 @@
 🎯	cible, dans le mille
 🪀	descendre, jouet, monter, osciller, yoyo
 🪁	cerf-volant, planer, voler
-🎱	billard, jeu
+🔫	arme, arme à feu, pistolet, pistolet à eau, revolver
+🎱	billard, boule de billard, jeu, pool
 🔮	boule de cristal, cristal
 🪄	baguette magique, magicien, magie, sorcier, sorcière
-🧿	amulette, mauvais œil, nazar, perle, talisman
 🎮️	jeu vidéo, manette
 🕹️	jeu, jeu vidéo, joystick, manette de jeu
 🎰	jeu, machine à sous
@@ -2537,6 +3206,7 @@
 🧩	assemblage, indice, pièce de puzzle, puzzle
 🧸	jeu, jouet, ours en peluche, peluche
 🪅	bonbons, confiseries, fête, piñata
+🪩	boule à facettes, briller, danse, disco, fête
 🪆	emboîté, matriochka, poupées russes, russe
 ♠️	carte, couleur, jeu, pique
 ♥️	couleur, cœur, cœur cartes, jeu
@@ -2557,7 +3227,7 @@
 🕶️	lunettes, lunettes de soleil, soleil
 🥽	lunettes, natation, protection des yeux, soudage
 🥼	blouse blanche, docteur, expérience, scientifique
-🦺	fluo, gilet de sécurité, sécurité, sûreté, visibilité
+🦺	fluo, gilet de sécurité, gilet jaune, sécurité, sûreté, visibilité
 👔	cravate, vêtements
 👕	T-shirt, tee-shirt, vêtements
 👖	jean, pantalon, vêtements
@@ -2581,7 +3251,7 @@
 🩴	claquettes, sandales, sandales de plage, tatanes, tong, tongs
 👞	chaussure, chaussure d’homme, homme, vêtements
 👟	chaussure, chaussure de sport, vêtements
-🥾	camping, chaussure, chaussure de randonnée, marche, randonnée, vêtements
+🥾	camping, chaussure, chaussure de marche, chaussure de randonnée, marche, randonnée, vêtements
 🥿	ballerine, chaussure plate, chaussure sans lacets, mule, vêtements
 👠	chaussure, chaussure à talon haut, vêtements
 👡	chaussure, sandale de femme, vêtements
@@ -2632,6 +3302,7 @@
 📟️	bipeur, pager
 📠	fax, télécopieur
 🔋	pile
+🪫	batterie, déchargé, pile faible, électronique, énergie faible
 🔌	câble avec fiche électrique, prise
 💻️	ordinateur, ordinateur portable
 🖥️	ordinateur, ordinateur de bureau
@@ -2743,7 +3414,7 @@
 🛠️	clé, clé à molette, marteau, marteau et clé à molette, outil
 🗡️	arme, couteau, dague, poignard
 ⚔️	arme, croisées, épées, épées croisées
-🔫	arme, arme à feu, pistolet, revolver
+💣️	bombe, dessin
 🪃	australie, boomerang, répercussion
 🏹	Sagittaire, arc, arc et flèche, archer, flèche
 🛡️	arme, bouclier
@@ -2772,7 +3443,9 @@
 🩸	don du sang, goutte de sang, menstruation, médecine, règles
 💊	docteur, malade, médecine, pilule
 🩹	bandage, médecine, pansement, premiers secours, sparadrap
+🩼	accident, blessé, boiter, béquille, canne, handicap
 🩺	cœur, docteur, médecine, poumons, stéthoscope
+🩻	docteur, médical, os, poumons, radiographie, rayons X, squelette
 🚪	porte
 🛗	accessibilité, ascenseur, monte-personnes
 🪞	glace, miroir, psyché, reflet
@@ -2781,7 +3454,7 @@
 🛋️	canapé, canapé et lampe, lampe
 🪑	assis, chaise, siège
 🚽	toilettes
-🪠	déboucheur, plombier, suction, toilettes, ventouse
+🪠	déboucheur, plombier, succion, toilettes, ventouse
 🚿	douche, eau
 🛁	baignoire, bain
 🪤	appât, piège, piège à souris, tapette, tapette à souris
@@ -2792,7 +3465,8 @@
 🧺	agriculture, linge, panier, pique-nique
 🧻	essuie-tout, papier hygiénique, papier toilette, rouleau de papier
 🪣	conteneur, seau
-🧼	bain, lavage, mousse, pain, savon, soapdish
+🧼	bain, lavage, mousse, pain de savon, porte-savon, savon
+🫧	bulles, propre, savon, sous l’eau
 🪥	brosse, brosse à dents, dentaire, dents, hygiène, laver, salle de bain
 🧽	absorbante, nettoyage, poreuse, éponge
 🧯	extincteur, feu, incendie, éteindre
@@ -2801,8 +3475,11 @@
 ⚰️	cercueil, mort
 🪦	cimetière, pierre tombale, stèle, tombe
 ⚱️	urne, urne funéraire
+🧿	amulette, mauvais œil, nazar, perle, talisman
+🪬	Fatma, Myriam, amulette, hamsa, khamsa, main de Fatma, protection
 🗿	moai, statue
 🪧	grève, manifestation, pancarte, panneau, protestation
+🪪	carte d’identité, justificatif, papiers, permis de conduire, pièce d’identité, sécurité
 🏧	argent, dab, distributeur de billets
 🚮	icône Poubelle, poubelle
 🚰	eau, eau potable
@@ -2839,6 +3516,7 @@
 ↖️	direction, flèche, flèche haut gauche, nord-ouest
 ↕️	flèche, flèche haut bas
 ↔️	flèche, flèche gauche droite
+↮	flèche gauche-droite barrée
 ↩️	flèche, flèche courbe gauche
 ↪️	flèche, flèche courbe droite
 ⤴️	flèche, flèche courbe haut
@@ -2853,7 +3531,7 @@
 🛐	culte, lieu de culte, religion
 ⚛️	athée, atome, symbole de l’atome
 🕉️	hindou, om, religion
-✡️	étoile, étoile de David, étoile de david
+✡️	David, Juif, juif, religion, étoile, étoile de David
 ☸️	bouddhiste, dharma, religion, roue, roue du Dharma
 ☯️	religion, tao, yang, yin, yin yang
 ✝️	chrétien, croix, croix latine, religion
@@ -2882,11 +3560,11 @@
 ⏩	avance, avance rapide, bouton avance rapide, double flèche
 ⏭	bouton piste suivante, piste suivante, scène suivante, suivant, triangle
 ⏯	bouton lecture/pause, flèche, lecture, pause, triangle
-◀	bouton marche arrière, bouton retour, retour
+◀	bouton retour, flèche, gauche, retour, triangle
 ⏪	bouton retour rapide, flèche, retour, retour rapide
 ⏮	bouton piste précédente, piste précédente, précédent, scène précédente, triangle
 🔼	flèche, petit triangle haut
-⏫	double flèche vers le haut, flèche vers le haut, haut
+⏫	double flèche vers le haut, flèche vers le haut
 🔽	flèche, petit triangle bas
 ⏬	bas, double flèche vers le bas, flèche vers le bas
 ⏸️	bouton pause, pause
@@ -2905,17 +3583,18 @@
 ✖️	*, annuler, multiplier, non, signe multiplier, x, ×
 ➕	+, addition, arithmétique, mathématiques, plus, signe plus
 ➖	-, arithmétique, mathématiques, moins, signe moins, soustraction, −
-➗	/, arithmétique, division, mathématiques, signe diviser, ÷
+➗	diviser, division, mathématiques, signe, signe diviser, ÷
+🟰	mathématiques, signe égal gras, égalité
 ♾️	illimité, infini, universel, éternité
-‼️	!!, double point d’exclamation, exclamation, ponctuation
-⁉️	!, ?, exclamation, interrogation, points d’exclamation et d’interrogation, ponctuation, question
-❓️	?, interrogation, point d’interrogation, ponctuation, question
+‼️	!, !!, double point d’exclamation, exclamation, point
+⁉️	!, !?, ?, exclamation, points d’exclamation et d’interrogation, ponctuation, question
+❓️	?, interrogation, point d’interrogation, point d’interrogation rouge, ponctuation, question
 ❔	?, interrogation, point d’interrogation blanc, ponctuation, question
 ❕	!, exclamation, point d’exclamation blanc, ponctuation
-❗️	!, exclamation, point d’exclamation, ponctuation
+❗️	!, exclamation, point d’exclamation, point d’exclamation rouge, ponctuation
 〰️	ligne ondulée, ponctuation, trait d’union ondulé, vague
 💱	argent, banque, change, conversion, conversion de devise, devise
-💲	argent, dollar
+💲	argent, dollar, symbole dollar
 ⚕️	caducée, médecine, personnel
 ♻️	recyclage, symbole Recyclage
 ⚜	fleur de lys
@@ -3059,7 +3738,7 @@
 🇧🇯	drapeau, drapeau : Bénin
 🇧🇱	drapeau, drapeau : Saint-Barthélemy
 🇧🇲	drapeau, drapeau : Bermudes
-🇧🇳	drapeau, drapeau : Brunéi Darussalam
+🇧🇳	drapeau, drapeau : Brunei
 🇧🇴	drapeau, drapeau : Bolivie
 🇧🇶	drapeau, drapeau : Pays-Bas caribéens
 🇧🇷	drapeau, drapeau : Brésil
@@ -3108,7 +3787,7 @@
 🇫🇮	drapeau, drapeau : Finlande
 🇫🇯	drapeau, drapeau : Fidji
 🇫🇰	drapeau, drapeau : Îles Malouines
-🇫🇲	drapeau, drapeau : États fédérés de Micronésie
+🇫🇲	drapeau, drapeau : Micronésie
 🇫🇴	drapeau, drapeau : Îles Féroé
 🇫🇷	drapeau, drapeau : France
 🇬🇦	drapeau, drapeau : Gabon
@@ -3125,13 +3804,13 @@
 🇬🇵	drapeau, drapeau : Guadeloupe
 🇬🇶	drapeau, drapeau : Guinée équatoriale
 🇬🇷	drapeau, drapeau : Grèce
-🇬🇸	drapeau, drapeau : Géorgie du Sud et îles Sandwich du Sud
+🇬🇸	drapeau, drapeau : Géorgie du Sud-et-les Îles Sandwich du Sud
 🇬🇹	drapeau, drapeau : Guatemala
 🇬🇺	drapeau, drapeau : Guam
 🇬🇼	drapeau, drapeau : Guinée-Bissau
 🇬🇾	drapeau, drapeau : Guyana
 🇭🇰	drapeau, drapeau : R.A.S. chinoise de Hong Kong
-🇭🇲	drapeau, drapeau : Îles Heard et McDonald
+🇭🇲	drapeau, drapeau : Îles Heard-et-MacDonald
 🇭🇳	drapeau, drapeau : Honduras
 🇭🇷	drapeau, drapeau : Croatie
 🇭🇹	drapeau, drapeau : Haïti
@@ -3152,7 +3831,7 @@
 🇯🇴	drapeau, drapeau : Jordanie
 🇯🇵	drapeau, drapeau : Japon
 🇰🇪	drapeau, drapeau : Kenya
-🇰🇬	drapeau, drapeau : Kirghizistan
+🇰🇬	drapeau, drapeau : Kirghizstan
 🇰🇭	drapeau, drapeau : Cambodge
 🇰🇮	drapeau, drapeau : Kiribati
 🇰🇲	drapeau, drapeau : Comores
@@ -3167,7 +3846,7 @@
 🇱🇨	drapeau, drapeau : Sainte-Lucie
 🇱🇮	drapeau, drapeau : Liechtenstein
 🇱🇰	drapeau, drapeau : Sri Lanka
-🇱🇷	drapeau, drapeau : Libéria
+🇱🇷	drapeau, drapeau : Liberia
 🇱🇸	drapeau, drapeau : Lesotho
 🇱🇹	drapeau, drapeau : Lituanie
 🇱🇺	drapeau, drapeau : Luxembourg
@@ -3200,7 +3879,7 @@
 🇳🇨	drapeau, drapeau : Nouvelle-Calédonie
 🇳🇪	drapeau, drapeau : Niger
 🇳🇫	drapeau, drapeau : Île Norfolk
-🇳🇬	drapeau, drapeau : Nigéria
+🇳🇬	drapeau, drapeau : Nigeria
 🇳🇮	drapeau, drapeau : Nicaragua
 🇳🇱	drapeau, drapeau : Pays-Bas
 🇳🇴	drapeau, drapeau : Norvège
@@ -3275,11 +3954,11 @@
 🇺🇾	drapeau, drapeau : Uruguay
 🇺🇿	drapeau, drapeau : Ouzbékistan
 🇻🇦	drapeau, drapeau : État de la Cité du Vatican
-🇻🇨	drapeau, drapeau : Saint-Vincent-et-les-Grenadines
+🇻🇨	drapeau, drapeau : Saint-Vincent-et-les Grenadines
 🇻🇪	drapeau, drapeau : Venezuela
 🇻🇬	drapeau, drapeau : Îles Vierges britanniques
 🇻🇮	drapeau, drapeau : Îles Vierges des États-Unis
-🇻🇳	drapeau, drapeau : Vietnam
+🇻🇳	drapeau, drapeau : Viêt Nam
 🇻🇺	drapeau, drapeau : Vanuatu
 🇼🇫	drapeau, drapeau : Wallis-et-Futuna
 🇼🇸	drapeau, drapeau : Samoa
@@ -3292,6 +3971,50 @@
 🏴󠁧󠁢󠁥󠁮󠁧󠁿	drapeau, drapeau : Angleterre
 🏴󠁧󠁢󠁳󠁣󠁴󠁿	drapeau, drapeau : Écosse
 🏴󠁧󠁢󠁷󠁬󠁳󠁿	drapeau, drapeau : Pays de Galles
+¤	devise inconnue ou non valide
+¢	cent
+$	USD, argent, dollar, peso
+£	EGP, GBP, devise, livre
+¥	CNY, JPY, devise, yen, yuan
+֏	dram arménien
+؋	afghani afghan
+৳	taka bangladeshi
+฿	baht thaïlandais
+៛	riel cambodgien
+₡	colón costaricain
+₢	cruzeiro
+₣	franc français
+₤	lire
+₥	mil, mill
+₦	naira nigérian
+₧	peseta espagnole
+₩	KPW, KRW, won
+₪	nouveau shekel israélien
+₫	dông vietnamien
+€	EUR, devise, euro
+₭	kip loatien
+₮	tugrik mongol
+₰	penny allemand
+₱	peso
+₲	guaraní paraguayen
+₳	austral
+₴	hryvnia ukrainienne
+₵	cédi ghanéen
+₶	livre tournois
+₷	spesmilo
+₸	tenge kazakh
+₹	devise, roupie, roupie indienne
+₺	livre turque
+₼	manat azéri
+₽	devise, rouble
+₾	lari géorgien
+₿	BTC, bitcoin
+₨	roupie
+﷼	rial
+¹	exposant, exposant un, un
+²	au carré, deux, exposant, exposant deux
+³	au cube, exposant, exposant trois, trois
+µ	mesure, symbole micro
 🏻	peau, peau claire
 🏼	peau, peau moyennement claire
 🏽	peau, peau légèrement mate

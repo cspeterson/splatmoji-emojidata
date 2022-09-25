@@ -1,4 +1,243 @@
 {
+    "_": [
+        "Unterstrich"
+    ],
+    "”": [
+        "schliessendes doppeltes Anführungszeichen"
+    ],
+    ")": [
+        "Klammer",
+        "Parenthese",
+        "runde Klammer",
+        "schliessende Klammer",
+        "schliessende runde Klammer"
+    ],
+    "]": [
+        "eckige Klammer",
+        "eckige Klammer rechts",
+        "schliessende eckige Klammer"
+    ],
+    "}": [
+        "geschweifte Klammer",
+        "geschweifte Klammer rechts",
+        "geschwungene Klammer",
+        "geschwungene Klammer rechts",
+        "schliessende geschweifte Klammer",
+        "schliessende geschwungene Klammer"
+    ],
+    "〉": [
+        "Pfeilspitze rechts",
+        "Winkelklammer",
+        "schliessende Winkelklammer",
+        "schliessende spitze Klammer",
+        "spitze Klammer",
+        "spitze Klammer rechts"
+    ],
+    "》": [
+        "Klammer",
+        "doppelte spitze Klammer",
+        "schliessende doppelte spitze Klammer"
+    ],
+    "」": [
+        "Eckklammer",
+        "Klammer",
+        "schliessende Eckklammer",
+        "schliessende rechtwinklige Klammer"
+    ],
+    "『": [
+        "Klammer",
+        "weisse Eckklammer",
+        "öffnende weisse Eckklammer"
+    ],
+    "』": [
+        "Klammer",
+        "schliessende rechtwinklige Klammer hohl",
+        "schliessende weisse Eckklammer",
+        "weisse Eckklammer"
+    ],
+    "】": [
+        "Klammer",
+        "konkave Klammer",
+        "schliessende schwarze konkave Klammer",
+        "schwarze konkave Klammer"
+    ],
+    "〕": [
+        "rechte stumpfe Klammer",
+        "schliessende Klammer mit stumpfen Winkeln",
+        "schliessende stumpfe Klammer",
+        "stumpfe Klammer"
+    ],
+    "〗": [
+        "Klammer",
+        "hohle konkave Klammer",
+        "konkave Klammer",
+        "schliessende hohle konkave Klammer",
+        "schliessende linsenförmige Klammer hohl"
+    ],
+    "§": [
+        "Paragraph"
+    ],
+    "@": [
+        "Adresszeichen",
+        "Affenschaukel",
+        "Affenschwanz",
+        "At",
+        "At-Zeichen",
+        "Klammeraffe"
+    ],
+    "`": [
+        "Accent grave",
+        "Akzent",
+        "Betonung",
+        "Gravis"
+    ],
+    "´": [
+        "Accent aigu",
+        "Akut",
+        "Akzent",
+        "Betonung"
+    ],
+    "⇦": [
+        "weisser Pfeil nach links"
+    ],
+    "⇧": [
+        "weisser Pfeil nach oben"
+    ],
+    "⇨": [
+        "weisser Pfeil nach rechts"
+    ],
+    "⇩": [
+        "weisser Pfeil nach unten"
+    ],
+    "⇪": [
+        "weisser Pfeil nach oben von Strich weglaufend"
+    ],
+    "=": [
+        "gleich"
+    ],
+    ">": [
+        "Grösser-als-Zeichen",
+        "grösser als"
+    ],
+    "≯": [
+        "nicht grösser als"
+    ],
+    "|": [
+        "Längsstrich",
+        "Pipe",
+        "Pipe-Symbol",
+        "Pipe-Zeichen",
+        "senkrechter Strich",
+        "vertikaler Strich"
+    ],
+    "≈": [
+        "Näherung",
+        "Ungefähr-Zeichen",
+        "fast gleich wie",
+        "ungefähr gleich"
+    ],
+    "≥": [
+        "Vergleichszeichen",
+        "gleich",
+        "grösser als",
+        "grösser als oder gleich",
+        "ist gleich"
+    ],
+    "≧": [
+        "grösser als über gleich"
+    ],
+    "≫": [
+        "viel grösser als"
+    ],
+    "≳": [
+        "grösser als oder äquivalent"
+    ],
+    "⋙": [
+        "sehr viel grösser als"
+    ],
+    "□": [
+        "weisses Quadrat"
+    ],
+    "▢": [
+        "weisses Quadrat mit abgerundeten Ecken"
+    ],
+    "▣": [
+        "weisses Quadrat mit kleinem schwarzem Quadrat"
+    ],
+    "▭": [
+        "weisses Rechteck"
+    ],
+    "△": [
+        "weisses nach oben weisendes Dreieck"
+    ],
+    "▵": [
+        "weisses nach oben weisendes kleines Dreieck"
+    ],
+    "▷": [
+        "weisses nach rechts weisendes Dreieck"
+    ],
+    "▹": [
+        "weisses nach rechts weisendes kleines Dreieck"
+    ],
+    "▻": [
+        "weisser nach rechts weisender Zeiger"
+    ],
+    "▽": [
+        "weisses nach unten weisendes Dreieck"
+    ],
+    "▿": [
+        "weisses nach unten weisendes kleines Dreieck"
+    ],
+    "◁": [
+        "weisses nach links weisendes Dreieck"
+    ],
+    "◃": [
+        "weisses nach links weisendes kleines Dreieck"
+    ],
+    "◅": [
+        "weisser nach links weisender Zeiger"
+    ],
+    "◇": [
+        "weisses Karo"
+    ],
+    "◈": [
+        "weisses Karo mit kleinem schwarzem Karo"
+    ],
+    "◉": [
+        "weisser Kreis mit kleinem schwarzem Kreis"
+    ],
+    "◕": [
+        "schwarzer Kreis mit weissem Viertel oben links"
+    ],
+    "◙": [
+        "schwarzes Quadrat mit weissem Kreis"
+    ],
+    "◦": [
+        "weisses Aufzählungszeichen"
+    ],
+    "◯": [
+        "Kreis",
+        "Ring",
+        "grosser hohler Kreis"
+    ],
+    "◳": [
+        "weisses Quadrat mit Viertel oben rechts"
+    ],
+    "◷": [
+        "weisser Kreis mit Viertel oben rechts"
+    ],
+    "◿": [
+        "weisses Dreieck unten rechts"
+    ],
+    "♪": [
+        "Achtel",
+        "Achtelsnote",
+        "Musik",
+        "Note"
+    ],
+    "⪚": [
+        "gleich über grösser als"
+    ],
     "😃": [
         "Gesicht",
         "grinsendes Gesicht mit grossen Augen",
@@ -12,8 +251,24 @@
         "lustig",
         "schwitzen"
     ],
+    "🫠": [
+        "auflösen",
+        "schmelzen",
+        "schmelzendes Gesicht",
+        "verflüssigen",
+        "verschwinden"
+    ],
     "🤪": [
         "irres Gesicht"
+    ],
+    "🫡": [
+        "Aye aye",
+        "Gesicht",
+        "Truppen",
+        "grüssendes Gesicht",
+        "jawohl",
+        "ok",
+        "salutieren"
     ],
     "🤐": [
         "Gesicht",
@@ -21,8 +276,22 @@
         "Reissverschluss",
         "Smiley mit Reissverschlussmund"
     ],
+    "😶‍🌫": [
+        "Kopf in den Wolken"
+    ],
+    "😮‍💨": [
+        "ausatmendes Gesicht"
+    ],
     "🥵": [
+        "Fieber",
+        "Hitzschlag",
+        "erhitzt",
+        "heiss",
+        "schwitzen",
         "schwitzendes Gesicht"
+    ],
+    "😵‍💫": [
+        "Gesicht mit Spiralaugen"
     ],
     "🥸": [
         "Brille",
@@ -45,6 +314,10 @@
         "offener Mund"
     ],
     "😥": [
+        "Gesicht",
+        "Schweiss",
+        "enttäuscht",
+        "erleichtert",
         "trauriges aber erleichtertes Gesicht"
     ],
     "😓": [
@@ -59,10 +332,15 @@
         "Gesicht",
         "UFO"
     ],
-    "🤎": [
-        "braunes Herz"
+    "❤‍🔥": [
+        "brennendes Herz"
+    ],
+    "❤‍🩹": [
+        "Herz mit Pflaster"
     ],
     "🤍": [
+        "Herz",
+        "weiss",
         "weisses Herz"
     ],
     "💥": [
@@ -191,76 +469,165 @@
         "Teufelsgruss: dunkle Hautfarbe",
         "dunkle Hautfarbe"
     ],
+    "🙏": [
+        "Gebet",
+        "beten",
+        "betende Hände",
+        "bitten",
+        "danken",
+        "grüssen"
+    ],
+    "🙏🏻": [
+        "Gebet",
+        "beten",
+        "betende Hände",
+        "bitten",
+        "danken",
+        "grüssen",
+        "helle Hautfarbe"
+    ],
+    "🙏🏼": [
+        "Gebet",
+        "beten",
+        "betende Hände",
+        "bitten",
+        "danken",
+        "grüssen",
+        "mittelhelle Hautfarbe"
+    ],
+    "🙏🏽": [
+        "Gebet",
+        "beten",
+        "betende Hände",
+        "bitten",
+        "danken",
+        "grüssen",
+        "mittlere Hautfarbe"
+    ],
+    "🙏🏾": [
+        "Gebet",
+        "beten",
+        "betende Hände",
+        "bitten",
+        "danken",
+        "grüssen",
+        "mitteldunkle Hautfarbe"
+    ],
+    "🙏🏿": [
+        "Gebet",
+        "beten",
+        "betende Hände",
+        "bitten",
+        "danken",
+        "dunkle Hautfarbe",
+        "grüssen"
+    ],
     "🦶": [
-        "Fuss"
+        "Fuss",
+        "Kick",
+        "stampfen"
     ],
     "🦶🏻": [
         "Fuss",
         "Fuss: helle Hautfarbe",
-        "helle Hautfarbe"
+        "Kick",
+        "helle Hautfarbe",
+        "stampfen"
     ],
     "🦶🏼": [
         "Fuss",
         "Fuss: mittelhelle Hautfarbe",
-        "mittelhelle Hautfarbe"
+        "Kick",
+        "mittelhelle Hautfarbe",
+        "stampfen"
     ],
     "🦶🏽": [
         "Fuss",
         "Fuss: mittlere Hautfarbe",
-        "mittlere Hautfarbe"
+        "Kick",
+        "mittlere Hautfarbe",
+        "stampfen"
     ],
     "🦶🏾": [
         "Fuss",
         "Fuss: mitteldunkle Hautfarbe",
-        "mitteldunkle Hautfarbe"
+        "Kick",
+        "mitteldunkle Hautfarbe",
+        "stampfen"
     ],
     "🦶🏿": [
         "Fuss",
         "Fuss: dunkle Hautfarbe",
-        "dunkle Hautfarbe"
+        "Kick",
+        "dunkle Hautfarbe",
+        "stampfen"
     ],
-    "🫁": [
-        "Lungen"
+    "🫦": [
+        "Angst",
+        "Auf Lippe beissen",
+        "besorgt",
+        "flirtend",
+        "nervös",
+        "unbehaglich",
+        "ängstlich"
     ],
     "🧑‍🦳": [
-        "Erwachsener",
-        "Erwachsener: weisses Haar",
+        "Mensch",
+        "Person",
+        "Person: weisses Haar",
+        "erwachsene Person",
         "geschlechtsneutral",
+        "ohne eindeutiges Geschlecht",
         "weisses Haar"
     ],
     "🧑🏻‍🦳": [
-        "Erwachsener",
-        "Erwachsener: helle Hautfarbe, weisses Haar",
+        "Mensch",
+        "Person",
+        "Person: helle Hautfarbe, weisses Haar",
+        "erwachsene Person",
         "geschlechtsneutral",
         "helle Hautfarbe",
+        "ohne eindeutiges Geschlecht",
         "weisses Haar"
     ],
     "🧑🏼‍🦳": [
-        "Erwachsener",
-        "Erwachsener: mittelhelle Hautfarbe, weisses Haar",
+        "Mensch",
+        "Person",
+        "Person: mittelhelle Hautfarbe, weisses Haar",
+        "erwachsene Person",
         "geschlechtsneutral",
         "mittelhelle Hautfarbe",
+        "ohne eindeutiges Geschlecht",
         "weisses Haar"
     ],
     "🧑🏽‍🦳": [
-        "Erwachsener",
-        "Erwachsener: mittlere Hautfarbe, weisses Haar",
+        "Mensch",
+        "Person",
+        "Person: mittlere Hautfarbe, weisses Haar",
+        "erwachsene Person",
         "geschlechtsneutral",
         "mittlere Hautfarbe",
+        "ohne eindeutiges Geschlecht",
         "weisses Haar"
     ],
     "🧑🏾‍🦳": [
-        "Erwachsener",
-        "Erwachsener: mitteldunkle Hautfarbe, weisses Haar",
+        "Mensch",
+        "Person",
+        "Person: mitteldunkle Hautfarbe, weisses Haar",
+        "erwachsene Person",
         "geschlechtsneutral",
         "mitteldunkle Hautfarbe",
+        "ohne eindeutiges Geschlecht",
         "weisses Haar"
     ],
     "🧑🏿‍🦳": [
-        "Erwachsener",
-        "Erwachsener: dunkle Hautfarbe, weisses Haar",
+        "Mensch",
+        "Person",
+        "Person: dunkle Hautfarbe, weisses Haar",
         "dunkle Hautfarbe",
+        "erwachsene Person",
         "geschlechtsneutral",
+        "ohne eindeutiges Geschlecht",
         "weisses Haar"
     ],
     "👨‍🦳": [
@@ -443,8 +810,40 @@
         "Wissenschaftler(in)",
         "dunkle Hautfarbe"
     ],
-    "🥷": [
-        "Ninja"
+    "🎅": [
+        "Samichlaus",
+        "Weihnachten",
+        "Weihnachtsmann"
+    ],
+    "🎅🏻": [
+        "Samichlaus",
+        "Weihnachten",
+        "Weihnachtsmann",
+        "helle Hautfarbe"
+    ],
+    "🎅🏼": [
+        "Samichlaus",
+        "Weihnachten",
+        "Weihnachtsmann",
+        "mittelhelle Hautfarbe"
+    ],
+    "🎅🏽": [
+        "Samichlaus",
+        "Weihnachten",
+        "Weihnachtsmann",
+        "mittlere Hautfarbe"
+    ],
+    "🎅🏾": [
+        "Samichlaus",
+        "Weihnachten",
+        "Weihnachtsmann",
+        "mitteldunkle Hautfarbe"
+    ],
+    "🎅🏿": [
+        "Samichlaus",
+        "Weihnachten",
+        "Weihnachtsmann",
+        "dunkle Hautfarbe"
     ],
     "🧟‍♂": [
         "Zombiemann"
@@ -659,16 +1058,20 @@
         "weisses Haar"
     ],
     "🦣": [
-        "Mammut"
+        "Aussterben",
+        "Mammut",
+        "Stosszahn",
+        "gross",
+        "wollig"
     ],
     "🐻‍❄": [
         "Eisbär"
     ],
     "🦤": [
-        "Dodo"
-    ],
-    "🦭": [
-        "Seehund"
+        "Aussterben",
+        "Dodo",
+        "Mauritius",
+        "gross"
     ],
     "💐": [
         "Blumen",
@@ -683,10 +1086,14 @@
         "Paprika",
         "Peperoni"
     ],
-    "🥨": [
-        "Brezel"
+    "🍗": [
+        "Geflügel",
+        "Poulet",
+        "Pouletschenkel"
     ],
     "🍝": [
+        "Nudeln mit Tomatensaue",
+        "Pasta",
         "Spaghetti"
     ],
     "🍠": [
@@ -695,22 +1102,34 @@
         "geröstet"
     ],
     "🍡": [
-        "Dango"
-    ],
-    "🍧": [
-        "Wassereis"
+        "Dango",
+        "Mochi-Kugeln auf einem Spiess",
+        "Restaurant",
+        "japanisches Gericht"
     ],
     "🧁": [
-        "Cupcake"
+        "Cupcake",
+        "Gebäck",
+        "Konditorei",
+        "Muffin",
+        "süss"
     ],
     "🍬": [
-        "Bonbon"
+        "Bonbon",
+        "Süssigkeit"
     ],
     "🍭": [
-        "Lutscher"
+        "Lolli",
+        "Lutscher",
+        "Süssigkeit"
     ],
     "🍮": [
-        "Pudding"
+        "Dessert",
+        "Nachspeise",
+        "Nachtisch",
+        "Pudding",
+        "Sauce",
+        "Schokolade"
     ],
     "☕️": [
         "Getränk",
@@ -721,17 +1140,42 @@
         "heiss",
         "trinken"
     ],
+    "🫖": [
+        "Kanne",
+        "Tee",
+        "Teekanne",
+        "Teekrug",
+        "trinken"
+    ],
     "🍻": [
-        "Bierkrüge"
+        "Bier",
+        "Bierkrüge",
+        "anstossen"
     ],
     "🥂": [
-        "Sektgläser"
+        "Champagner",
+        "Getränk",
+        "Sekt",
+        "Sektgläser",
+        "anstossen",
+        "feiern"
     ],
-    "🧋": [
-        "Bubble Tea"
+    "🫗": [
+        "Flüssigkeit ausgiessen",
+        "Getränk",
+        "Glas",
+        "ausgiessen",
+        "giessen",
+        "leer",
+        "trinken"
     ],
     "🏺": [
-        "Amphore"
+        "Amphore",
+        "Gefäss",
+        "Krug",
+        "Vase",
+        "Wassermann",
+        "kochen"
     ],
     "♨️": [
         "Dampf",
@@ -742,6 +1186,7 @@
         "heisse Quellen"
     ],
     "🚃": [
+        "Eisenbahnwagen",
         "Fahrzeug",
         "Strassenbahn",
         "Strassenbahnwagen",
@@ -755,10 +1200,14 @@
         "Tram"
     ],
     "🚋": [
+        "Strassenbahn",
+        "Strassenbahnwagen",
+        "Tram",
         "Tramwagen"
     ],
     "🛣️": [
-        "Autobahn"
+        "Autobahn",
+        "Schnellstrasse"
     ],
     "⭐️": [
         "Stern",
@@ -776,10 +1225,15 @@
         "grosse Wolke"
     ],
     "🔥": [
-        "Feuer"
+        "Feuer",
+        "Flamme",
+        "heiss"
     ],
     "💧": [
-        "Tropfen"
+        "Schweiss",
+        "Tropfen",
+        "Wasser",
+        "Wassertropfen"
     ],
     "⚽️": [
         "Ball",
@@ -788,17 +1242,19 @@
     "🥌": [
         "Curlingstein"
     ],
-    "🪄": [
-        "Zauberstab"
-    ],
-    "🪅": [
-        "Piñata"
-    ],
-    "🪆": [
-        "Matroschka"
-    ],
     "🥽": [
-        "Schutzbrille"
+        "Augenschutz",
+        "Schutzbrille",
+        "Schweissen",
+        "Schwimmen"
+    ],
+    "🎒": [
+        "Ranzen",
+        "Rucksack",
+        "Schule",
+        "Schulranzen",
+        "Schulsack",
+        "Tornister"
     ],
     "🩴": [
         "Flipflops",
@@ -811,14 +1267,20 @@
         "Hilfe",
         "Kreuz"
     ],
-    "🪗": [
-        "Akkordeon"
+    "🪫": [
+        "Akku leer",
+        "Batterie leer",
+        "schwache Batterie"
     ],
     "🔍": [
-        "Lupe nach links"
+        "Lupe nach links",
+        "Suche",
+        "Vergrösserungsglas"
     ],
     "🔎": [
-        "Lupe nach rechts"
+        "Lupe nach rechts",
+        "Suche",
+        "Vergrösserungsglas"
     ],
     "📆": [
         "Abreisskalender",
@@ -834,17 +1296,19 @@
         "rund",
         "runde Reisszwecke"
     ],
-    "🪃": [
-        "Bumerang"
+    "🩼": [
+        "Krücke",
+        "Stock",
+        "verletzt"
     ],
-    "🪝": [
-        "Haken"
+    "🩻": [
+        "Arzt",
+        "Bildgebung",
+        "Knochen",
+        "Röntgen"
     ],
     "🛗": [
         "Lift"
-    ],
-    "🪟": [
-        "Fenster"
     ],
     "🪠": [
         "Klempner",
@@ -853,23 +1317,26 @@
         "Saugglocke",
         "WC"
     ],
-    "🪤": [
-        "Mäusefalle"
+    "🫧": [
+        "Schaum",
+        "Seife",
+        "Seifenblasen",
+        "sauber"
     ],
-    "🪦": [
-        "Grabstein"
-    ],
-    "🪧": [
-        "Demonstration",
-        "Plakat",
-        "Protest",
-        "Transparent"
+    "🪪": [
+        "Ausweis",
+        "ID",
+        "Sicheriet"
     ],
     "🚼️": [
-        "Baby-Symbol"
+        "Baby-Symbol",
+        "Symbol „Baby“",
+        "Wickelraum"
     ],
     "🛅": [
-        "Gepäckaufbewahrung"
+        "Gepäck",
+        "Gepäckaufbewahrung",
+        "Schliessfach"
     ],
     "🚸": [
         "Kinder",
@@ -883,6 +1350,12 @@
     "☢️": [
         "radioaktiv"
     ],
+    "➕": [
+        "Plus"
+    ],
+    "➖": [
+        "Minus"
+    ],
     "❔": [
         "Satzzeichen",
         "weiss",
@@ -894,8 +1367,9 @@
         "weisses Ausrufezeichen"
     ],
     "⭕️": [
-        "Grosser Kreis",
         "Kreis",
+        "grosser Kreis",
+        "hohler roter Kreis",
         "o",
         "rot"
     ],
@@ -903,6 +1377,10 @@
         "Weisses Häkchen",
         "abgehakt",
         "erledigt"
+    ],
+    "➰": [
+        "Looping",
+        "Schleife"
     ],
     "🔠": [
         "Eingabesymbol lateinische Grossbuchstaben",
@@ -1057,9 +1535,6 @@
     "🇧🇼": [
         "Flagge: Botswana"
     ],
-    "🇧🇾": [
-        "Flagge: Weissrussland"
-    ],
     "🇨🇻": [
         "Flagge: Kapverden"
     ],
@@ -1074,5 +1549,17 @@
     ],
     "🇿🇼": [
         "Flagge: Zimbabwe"
+    ],
+    "$": [
+        "Dollar",
+        "Dollarzeichen",
+        "Geld",
+        "Peso",
+        "USD"
+    ],
+    "µ": [
+        "Masseinheit",
+        "Mikro-Zeichen",
+        "My"
     ]
 }

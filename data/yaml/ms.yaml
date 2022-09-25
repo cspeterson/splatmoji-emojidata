@@ -1,3 +1,987 @@
+‾:
+  - garis atas
+_:
+  - garis
+  - garis bawah
+  - sengkang
+  - sengkang bawah
+'-':
+  - sempang
+  - sempang tanda tolak
+  - sengkang
+  - tanda tolak
+‐:
+  - sempang
+  - sengkang
+–:
+  - en
+  - sengkang
+  - sengkang en
+—:
+  - em
+  - sengkang
+  - sengkang em
+―:
+  - garisan
+  - palang
+  - palang lintang
+  - sengkang
+・:
+  - katakana
+  - titik
+  - titik tengah
+  - titik tengah katakana
+',':
+  - koma
+،:
+  - arab
+  - koma
+  - koma arab
+、:
+  - ideografik
+  - koma
+  - koma ideografik
+;:
+  - koma bernoktah
+  - koma bertitik
+؛:
+  - arab
+  - koma bernoktah
+  - koma bernoktah arab
+':':
+  - noktah bertindih
+'!':
+  - bang
+  - seruan
+  - tanda seru
+¡:
+  - bang
+  - seruan
+  - tanda seru
+  - tanda seru terbalik
+  - terbalik
+  - titik seru
+'?':
+  - soalan
+  - tanda soalan
+¿:
+  - soalan
+  - tanda soal
+  - tanda soal terbalik
+  - terbalik
+؟:
+  - arab
+  - soalan
+  - tanda soal
+  - tanda soal arab
+‽:
+  - interrobang
+.:
+  - noktah
+  - tanda henti
+  - titik
+…:
+  - elipsis
+  - tanda tinggal
+  - titik
+。:
+  - ideografik
+  - noktah
+  - noktah ideografik
+  - tanda henti
+·:
+  - noktah tengah
+  - tengah
+  - titik
+  - titik tengah
+"'":
+  - koma lurus
+  - petik
+  - tanda petik tunggal
+‘:
+  - koma atas
+  - koma atas kiri
+  - petik
+  - tanda petik
+  - tanda petik tunggal
+’:
+  - koma atas
+  - koma atas kanan
+  - petik
+  - tanda petik
+  - tanda petik tunggal
+‚:
+  - koma bawah
+  - koma bawah kanan
+  - petik
+  - tanda petik bawah
+“:
+  - petik
+  - petikan
+  - tanda petik
+  - tanda petik kiri
+  - tanda petikan
+”:
+  - petik
+  - petikan
+  - tanda petikan
+„:
+  - petikan
+  - tanda petik
+  - tanda petikan
+  - tanda petikan bawah
+«:
+  - chevron
+  - karet
+  - kiri
+  - kurungan
+  - petikan
+  - sudut berganda kiri
+»:
+  - chevron
+  - kanan
+  - karet
+  - kurungan
+  - petikan
+  - sudut
+  - sudut berganda kanan
+):
+  - dakap
+  - kurung
+  - tanda kurung
+'[':
+  - buka kurung siku
+  - krocet
+  - kurung siku
+  - kurungan
+']':
+  - krocet
+  - kurung siku
+  - kurung siku tertutup
+  - kurungan
+'{':
+  - buka kurung dakap
+  - dakap
+  - kurung dakap
+  - sayap camar
+'}':
+  - dakap
+  - kurung dakap
+  - sayap camar
+  - tutup kurung dakap
+〈:
+  - kurung berlian
+  - kurung chevron
+  - kurung sudut
+  - kurung tirus
+  - rangkap
+  - tanda kurung sudut terbuka
+〉:
+  - chevron
+  - kurung
+  - kurung berlian
+  - kurung sudut
+  - kurung tirus
+  - rangkap
+  - tanda kurung sudut tertutup
+《:
+  - kurung sudut berganda
+  - kurung sudut berganda terbuka
+  - kurungan
+》:
+  - kurung sudut berganda
+  - kurung sudut berganda tertutup
+  - kurungan
+「:
+  - kurung penjuru terbuka
+  - tanda kurung
+  - tanda kurung penjuru
+」:
+  - kurung penjuru
+  - kurung penjuru tertutup
+  - kurungan
+『:
+  - kurung penjuru geronggang
+  - kurungan
+  - tanda kurung penjuru geronggang terbuka
+』:
+  - kurung penjuru geronggang
+  - kurungan
+  - tanda kurung penjuru geronggang tertutup
+【:
+  - kurung kanta
+  - kurung kekanta
+  - kurungan
+  - kurungan kanta hitam terbuka
+】:
+  - kurung kanta
+  - kurung kanta hitam tertutup
+  - kurung kekanta
+  - kurungan
+〔:
+  - dakap
+  - kurung siku kura-kura
+  - kurung siku kura-kura terbuka
+  - siku kura-kura
+〕:
+  - dakap
+  - kurung siku kura-kura
+  - kurung siku kura-kura tertutup
+  - siku kura-kura
+〖:
+  - kurung kanta geronggang
+  - kurung kanta geronggang terbuka
+  - kurung kekanta geronggang
+  - kurungan
+〗:
+  - kurung kanta geronggang
+  - kurung kanta geronggang tertutup
+  - kurung kekanta geronggang
+  - kurungan
+§:
+  - bahagian
+  - keratan
+  - perenggan
+  - seksyen
+¶:
+  - alinea
+  - parap
+  - perenggan
+  - pilcrow
+  - tanda perenggan
+'@':
+  - ampersat
+  - arobase
+  - arroba
+  - at komersial
+  - simbol at
+  - strudel
+  - tanda at
+'*️':
+  - asterisk
+  - bintang
+  - kad liar
+/:
+  - garis condong
+  - garis miring
+  - gurisan
+  - leretan
+  - serong
+  - solidus
+\:
+  - garis miring balik
+  - leretan
+  - solidus balik
+'&':
+  - ampersan
+  - dan
+  - et
+'#️':
+  - cencang
+  - lb
+  - nombor
+  - paun
+  - tanda cencang
+  - tanda pagar
+'%':
+  - peratus
+‰:
+  - per mille
+†:
+  - dagger
+  - obelisk
+  - obelus
+  - tanda dagger
+‡:
+  - berganda
+  - dagger
+  - obelisk
+  - obelus
+  - simbol dagger berganda
+•:
+  - bulet
+  - titik
+‧:
+  - sempang
+  - sengkang
+  - titik
+  - titik sempang
+′:
+  - prima
+″:
+  - prima
+  - prima ganda dua
+‴:
+  - prima
+  - prima ganda tiga
+‸:
+  - karet
+※:
+  - tanda rujukan
+⁂:
+  - asterisme
+'`':
+  - aksen
+  - aksen grava
+  - grava
+  - ton
+´:
+  - aksen
+  - aksen tirus
+  - tirus
+  - ton
+^:
+  - aksen
+  - aksen sirkumfleks
+  - baji
+  - hat
+  - karet
+  - kawal
+  - penunjuk
+  - sevron
+  - simbol xor
+  - sirkumfleks
+  - tenaga
+¨:
+  - diaresis
+  - trema
+  - umlaut
+°:
+  - bukti
+  - darjah
+  - jam
+℗:
+  - bunyi
+  - hak cipta
+  - hak cipta rakaman bunyi
+  - rakaman
+←:
+  - anak panah
+  - anak panah menunjuk ke kiri
+  - kiri
+↚:
+  - garis miring anak panah ke kiri
+→:
+  - anak panah
+  - anak panah menunjuk ke kanan
+  - kanan
+↛:
+  - garis miring anak panah ke kanan
+↑:
+  - anak panah
+  - anak panah menunjuk ke atas
+  - atas
+↓:
+  - anak panah
+  - anak panah menunjuk ke bawah
+  - bawah
+↜:
+  - anak panah berombak-ombak ke kiri
+↝:
+  - anak panah berombak-ombak ke kanan
+↞:
+  - anak panah dwikepala ke kiri
+↟:
+  - anak panah dwikepala ke atas
+↠:
+  - anak panah dwikepala ke kanan
+↡:
+  - anak panah dwikepala ke bawah
+↢:
+  - anak panah berekor ke kiri
+↣:
+  - anak panah berekor ke kanan
+↤:
+  - anak panah ke kiri dari palang
+↥:
+  - anak panah ke atas dari palang
+↦:
+  - anak panah ke kanan dari palang
+↧:
+  - anak panah ke bawah dari palang
+↨:
+  - anak panah ke atas ke bawah berdasar
+↫:
+  - anak panah ke kiri bergelung
+↬:
+  - anak panah ke kanan bergelung
+↭:
+  - anak panah kiri kanan berombak-ombak
+↯:
+  - anak panah siku-sika ke bawah
+↰:
+  - anak panah ke atas melencong ke kiri
+↱:
+  - anak panah ke atas melencong ke kanan
+↲:
+  - anak panah ke bawah melencong ke kiri
+↳:
+  - anak panah ke bawah melencong ke kanan
+↴:
+  - anak panah ke kanan menukar arah ke bawah
+↵:
+  - anak panah ke bawah menukar arah ke kiri
+↶:
+  - anak panah separuh bulatan atas arah lawan jam
+↷:
+  - anak panah separuh bulatan atas arah ikut jam
+↸:
+  - palang panjang anak panah barat laut
+↹:
+  - palang anak panah ke kiri di atas palang anak panah ke kanan
+↺:
+  - anak panah bulatan terbuka arah lawan jam
+↻:
+  - anak panah bulatan terbuka arah ikut jam
+↼:
+  - ruit serampang ke kiri menuding ke atas
+↽:
+  - ruit serampang ke kiri menuding ke bawah
+↾:
+  - ruit serampang ke atas menuding ke kanan
+↿:
+  - ruit serampang ke atas menuding ke kiri
+⇀:
+  - ruit serampang ke kanan menuding ke atas
+⇁:
+  - ruit serampang ke kanan menuding ke bawah
+⇂:
+  - ruit serampang ke bawah menuding ke kanan
+⇃:
+  - ruit serampang ke bawah menuding ke kiri
+⇄:
+  - anak panah ke kanan di atas palang anak panah ke kiri
+⇅:
+  - anak panah
+  - anak panah tunjuk atas dan tunjuk bawah
+  - atas
+  - bawah
+⇆:
+  - anak panah
+  - anak panah tunjuk kiri di atas anak panah tunjuk kanan
+  - kanan
+  - kiri
+⇇:
+  - anak panah berpasangan ke kiri
+⇈:
+  - anak panah berpasangan ke atas
+⇉:
+  - anak panah berpasangan ke kanan
+⇊:
+  - anak panah berpasangan ke bawah
+⇋:
+  - serampang ke kiri di atas serampang ke kanan
+⇌:
+  - serampang ke kanan di atas serampang ke kiri
+⇐:
+  - anak panah berganda ke kiri
+⇍:
+  - garis miring anak panah berganda ke kiri
+⇑:
+  - anak panah berganda ke atas
+⇒:
+  - anak panah berganda ke kanan
+⇏:
+  - garis miring anak panah berganda ke kanan
+⇓:
+  - anak panah berganda ke bawah
+⇔:
+  - anak panah berganda kiri kanan
+⇎:
+  - garis miring anak panah berganda kiri kanan
+⇖:
+  - anak panah berganda barat laut
+⇗:
+  - anak panah berganda timur laut
+⇘:
+  - anak panah berganda tenggara
+⇙:
+  - anak panah berganda barat daya
+⇚:
+  - anak panah ganda tiga ke kiri
+⇛:
+  - anak panah ganda tiga ke kanan
+⇜:
+  - anak panah berpintal ke kiri
+⇝:
+  - anak panah berpintal ke kanan
+⇞:
+  - garis berganda anak panah ke atas
+⇟:
+  - garis berganda anak panah ke bawah
+⇠:
+  - anak panah garis berputus-putus ke kiri
+⇡:
+  - anak panah garis berputus-putus ke atas
+⇢:
+  - anak panah garis berputus-putus ke kanan
+⇣:
+  - anak panah garis berputus-putus ke bawah
+⇤:
+  - palang anak panah ke kiri
+⇥:
+  - palang anak panah ke kanan
+⇦:
+  - anak panah geronggang ke kiri
+⇧:
+  - anak panah geronggang ke atas
+⇨:
+  - anak panah geronggang ke kanan
+⇩:
+  - anak panah geronggang ke bawah
+⇪:
+  - anak panah geronggang ke atas dari palang
+⇵:
+  - anak panah ke bawah ke kiri anak panah ke atas
+∀:
+  - untuk semua
+∂:
+  - pembezaan separa
+∃:
+  - wujud
+∅:
+  - set kosong
+∆:
+  - kenaikan
+  - segi tiga
+∇:
+  - nabla
+  - segi tiga
+∈:
+  - keahlian
+  - mengandungi
+  - set
+  - unsur
+  - unsur kepada
+∉:
+  - bukan unsur
+∋:
+  - mengandungi sebagai ahli
+∎:
+  - penamat bukti
+∏:
+  - hasil darab n-ner
+∑:
+  - hasil tambah n-ner
++:
+  - campur
+  - tambah
+  - tanda campur
+±:
+  - campur - tolak
+÷:
+  - bahagi
+  - obelus
+  - pembahagian
+  - simbol pembahagian
+×:
+  - darab
+  - kali
+  - pendaraban
+  - simbol pendaraban
+<:
+  - kurang daripada
+  - tag
+  - tag terbuka
+≮:
+  - tidak kurang daripada
+'=':
+  - sama
+  - sama dengan
+≠:
+  - ketaksamaan
+  - tak samaan
+  - tidak sama dengan
+'>':
+  - lebih besar daripada
+  - tag
+  - tag tertutup
+≯:
+  - tidak besar daripada
+¬:
+  - nafi
+  - penafian
+'|':
+  - bar menegak
+  - bar v
+  - garis
+  - garis sheffer
+  - kayu
+  - paip
+  - tombak
+'~':
+  - lambang tilde
+−:
+  - kurang
+  - tanda tolak
+  - tolak
+⁻:
+  - superskrip
+  - tolak
+  - tolak superskrip
+∓:
+  - tolak atau campur
+∕:
+  - garis condong pembahagian
+⁄:
+  - garis condong pecahan
+∗:
+  - operator asterisk
+∘:
+  - operator gelanggang
+∙:
+  - operator bulet
+√:
+  - kuasa dua
+  - punca
+  - punca kuasa dua
+  - radikal
+  - radiks
+  - surd
+∝:
+  - berkadaran
+∞:
+  - infiniti
+  - simbol infiniti
+∟:
+  - sudut tegak
+∠:
+  - sudut
+∣:
+  - membahagi
+∥:
+  - selari
+∧:
+  - logik dan
+∩:
+  - persilangan
+  - set
+∪:
+  - kesatuan
+  - kumpulan
+  - set
+∫:
+  - kamiran
+∬:
+  - kamiran ganda dua
+∮:
+  - kamiran kontur
+∴:
+  - jadi
+∵:
+  - sebab
+∶:
+  - nisbah
+∷:
+  - perkadaran
+∼:
+  - operator tilde
+∽:
+  - tilde terbalik
+∾:
+  - s malas songsang
+≃:
+  - persamaan asimptot
+≅:
+  - persamaan lebih kurang
+≈:
+  - anggaran
+  - hampir sama dengan
+  - lebih kurang
+≌:
+  - semua sama
+≒:
+  - lebih kurang sama dengan imej
+≖:
+  - gelanggang dalam tanda sama
+≡:
+  - bersamaan
+  - bersamaan dengan
+  - sama
+  - tiga kali ganda
+≣:
+  - setara tegas
+≤:
+  - ketaksamaan
+  - kurang daripada
+  - kurang daripada atau sama dengan
+  - sama
+  - sama dengan
+≥:
+  - ketaksamaan
+  - lebih besar daripada
+  - lebih besar daripada atau sama dengan
+  - sama
+  - sama dengan
+≦:
+  - tanda kurang daripada di atas tanda sama
+≧:
+  - tanda lebih besar daripada di atas tanda sama
+≪:
+  - jauh kurang daripada
+≫:
+  - jauh lebih besar daripada
+≬:
+  - di antara
+≳:
+  - lebih besar atau setara
+≺:
+  - mendahului
+≻:
+  - mengekori
+⊁:
+  - tidak mengekori
+⊂:
+  - set
+  - subset
+  - subset kepada
+⊃:
+  - superset
+⊆:
+  - subset atau sama dengan
+⊇:
+  - superset atau sama dengan
+⊕:
+  - tanda campur berbulat
+⊖:
+  - tanda tolak berbulat
+⊗:
+  - tanda darab berbulat
+⊘:
+  - garis condong pembahagian berbulat
+⊙:
+  - operator titik berbulat
+⊚:
+  - operator gelanggang berbulat
+⊛:
+  - operator asterisk berbulat
+⊞:
+  - tanda campur di dalam persegi
+⊟:
+  - tanda tolak di dalam persegi
+⊥:
+  - paku tekan ke atas
+⊮:
+  - tidak paksa
+⊰:
+  - mendahului dengan hubungan
+⊱:
+  - mengekori dengan hubungan
+⋭:
+  - tanda sama tidak mengandungi sebagai subkumpulan normal
+⊶:
+  - asal
+⊹:
+  - matriks konjugat Hermitian
+⊿:
+  - segi tiga sudut tegak
+⋁:
+  - logik atau n-ner
+⋂:
+  - persilangan n-ner
+⋃:
+  - kesatuan n-ner
+⋅:
+  - operator titik
+⋆:
+  - operator bintang
+⋈:
+  - cantuman asli
+⋒:
+  - persilangan ganda dua
+⋘:
+  - sangat jauh kurang daripada
+⋙:
+  - sangat jauh lebih besar daripada
+⋮:
+  - elipsis menegak
+⋯:
+  - elipsis lintang garis tengah
+⋰:
+  - elipsis pepenjuru atas kanan
+⋱:
+  - elipsis pepenjuru bawah kanan
+■:
+  - persegi berisi
+□:
+  - persegi geronggang
+▢:
+  - persegi geronggang dengan penjuru bulat
+▣:
+  - persegi berisi di dalam persegi geronggang
+▤:
+  - persegi dengan isian lintang
+▥:
+  - persegi dengan isian menegak
+▦:
+  - persegi dengan isian jejaring silang ortogon
+▧:
+  - persegi dengan isian atas kiri dan bawah kanan
+▨:
+  - persegi dengan isian atas kanan dan bawah kiri
+▩:
+  - persegi dengan isian jejaring silang pepenjuru
+▬:
+  - segi empat tepat berisi
+▭:
+  - segi empat tepat geronggang
+▮:
+  - segi empat tepat menegak berisi
+▰:
+  - segi empat selari berisi
+▲:
+  - anak panah
+  - atas
+  - berisi
+  - segi tiga
+  - segi tiga berisi menunjuk ke atas
+△:
+  - segi tiga geronggang menuding ke atas
+▴:
+  - segi tiga kecil berisi menuding ke atas
+▵:
+  - segi tiga kecil geronggang menuding ke atas
+▷:
+  - segi tiga geronggang menuding ke kanan
+▸:
+  - segi tiga kecil berisi menuding ke kanan
+▹:
+  - segi tiga kecil geronggang menuding ke kanan
+►:
+  - penunjuk berisi menuding ke kanan
+▻:
+  - penunjuk geronggang menuding ke kanan
+▼:
+  - anak panah
+  - bawah
+  - berisi
+  - segi tiga
+  - segi tiga berisi menunjuk ke bawah
+▽:
+  - segi tiga geronggang menuding ke bawah
+▾:
+  - segi tiga kecil berisi menuding ke bawah
+▿:
+  - segi tiga kecil geronggang menuding ke bawah
+◁:
+  - segi tiga geronggang menuding ke kiri
+◂:
+  - segi tiga kecil berisi menuding ke kiri
+◃:
+  - segi tiga kecil geronggang menuding ke kiri
+◄:
+  - penunjuk berisi menuding ke kiri
+◅:
+  - penunjuk geronggang menuding ke kiri
+◆:
+  - wajik berisi
+◇:
+  - wajik geronggang
+◈:
+  - wajik berisi di dalam wajik geronggang
+◉:
+  - bulatan berisi di dalam bulatan geronggang
+◊:
+  - daiman
+  - rombus
+  - wajik
+○:
+  - bulatan
+  - bulatan kosong
+  - gelang
+◌:
+  - bulatan berbintik
+◍:
+  - bulatan dengan isian menegak
+◎:
+  - bulatan sepusat
+●:
+  - bulatan
+  - bulatan berisi
+◐:
+  - bulatan dengan bahagian kiri berisi
+◑:
+  - bulatan dengan bahagian kanan berisi
+◒:
+  - bulatan dengan bahagian bawah berisi
+◓:
+  - bulatan dengan bahagian atas berisi
+◔:
+  - bulatan dengan sukuan atas kanan berisi
+◕:
+  - bulatan berisi kecuali sukuan atas kiri
+◖:
+  - bulatan separuh bahagian kiri berisi
+◗:
+  - bulatan separuh bahagian kanan berisi
+◘:
+  - bulet songsang
+◙:
+  - bulatan geronggang di dalam persegi berisi
+◜:
+  - lengkuk sukuan bulat atas kiri
+◝:
+  - lengkuk sukuan bulat atas kanan
+◞:
+  - lengkuk sukuan bulat bawah kanan
+◟:
+  - lengkuk sukuan bulat bawah kiri
+◠:
+  - bulatan separuh bahagian atas
+◡:
+  - bulatan separuh bahagian bawah
+◢:
+  - segi tiga bawah kanan berisi
+◣:
+  - segi tiga bawah kiri berisi
+◤:
+  - segi tiga atas kiri berisi
+◥:
+  - segi tiga atas kanan berisi
+◦:
+  - bulet geronggang
+◯:
+  - bulatan
+  - bulatan kosong besar
+  - gelang
+◳:
+  - persegi geronggang dengan sukuan atas kanan
+◷:
+  - bulatan geronggang dengan sukuan atas kanan
+◿:
+  - segi tiga bawah kanan
+♪:
+  - muzik
+  - not
+  - not perlapan
+  - perlapan
+⨧:
+  - tanda campur dengan subskrip dua
+⨯:
+  - hasil darab silang vektor
+⨼:
+  - hasil darab pedalaman
+⩣:
+  - palang bawah berganda logik atau
+⩽:
+  - tanda sama condong kurang daripada
+⪍:
+  - tanda kurang daripada di atas tanda serupa
+⪚:
+  - tanda sama garis berganda lebih besar daripada
+⪺:
+  - tanda mendahului di atas tanda sama bukan hampir
+♭:
+  - bemolle
+  - flet
+  - muzik
+  - not
+♯:
+  - diese
+  - diesis
+  - muzik
+  - not
+  - syap
 😀:
   - muka
   - muka tersengih
@@ -56,6 +1040,12 @@
   - muka
   - muka terbalik
   - terbalik
+🫠:
+  - cair
+  - cecair
+  - hilang
+  - lenyap
+  - muka mencair
 😉:
   - kenyit mata
   - muka
@@ -93,7 +1083,6 @@
   - tersengih
 😘:
   - cium
-  - hati
   - muka
   - muka melayangkan ciuman
 😗:
@@ -171,6 +1160,19 @@
 🤭:
   - alamak
   - muka dengan tangan atas mulut
+🫢:
+  - kagum
+  - kekaguman
+  - malu
+  - muka dengan mata terbuka dan tangan atas mulut
+  - takut
+  - terkejut
+  - tidak percaya
+🫣:
+  - intai
+  - muka dengan mata mengintai
+  - renung
+  - tertawan
 🤫:
   - diam
   - muka suruh senyap
@@ -179,6 +1181,13 @@
   - berfikir
   - muka
   - muka sedang berfikir
+🫡:
+  - askar
+  - cerah
+  - muka sedang menabik
+  - ok
+  - tabik
+  - ya
 🤐:
   - muka
   - muka mulut berzip
@@ -205,6 +1214,15 @@
   - mulut
   - senyap
   - tenang
+🫥:
+  - halimunan
+  - introvert
+  - lenyap
+  - muka garis putus-putus
+  - murung
+  - sembunyi
+😶‍🌫:
+  - muka dikepung awan
 😏:
   - mata
   - muka tersenyum sinis
@@ -223,6 +1241,8 @@
   - menyeringai
   - muka
   - muka menyeringai
+😮‍💨:
+  - muka menghembuskan nafas
 🤥:
   - bohong
   - muka
@@ -309,6 +1329,8 @@
   - muka
   - muka pening
   - pening
+😵‍💫:
+  - muka dengan mata berpusar
 🤯:
   - kepala meletup
   - terkejut
@@ -349,6 +1371,12 @@
   - keliru
   - muka
   - muka keliru
+🫤:
+  - kecewa
+  - meh
+  - muka dengan mulut serong
+  - ragu-ragu
+  - tidak pasti
 😟:
   - muka
   - muka risau
@@ -389,6 +1417,13 @@
   - memujuk
   - muka merayu
   - sayu
+🥹:
+  - bangga
+  - marah
+  - menahan
+  - menangis
+  - muka menahan air mata
+  - sedih
 😦:
   - berkerut
   - muka
@@ -655,10 +1690,6 @@
   - muka
   - terlarang
   - tidak bercakap yang jahat
-💋:
-  - bibir
-  - cium
-  - tanda ciuman
 💌:
   - cinta
   - hati
@@ -673,7 +1704,6 @@
   - hati ditembusi anak panah
   - percintaan
 💝:
-  - hati
   - hati dengan reben
   - reben
   - valentine
@@ -715,6 +1745,10 @@
   - hati
   - patah hati
   - retak
+❤‍🔥:
+  - hati membara
+❤‍🩹:
+  - hati sembuh
 ❤️:
   - hati
   - hati merah
@@ -724,7 +1758,6 @@
 💛:
   - hati
   - hati kuning
-  - kuning
 💚:
   - hati
   - hati hijau
@@ -742,14 +1775,18 @@
   - hati perang
   - perang
 🖤:
-  - hati
   - hati hitam
   - hitam
   - jahat
+  - kejam
 🤍:
   - hati
   - hati putih
   - putih
+💋:
+  - bibir
+  - cium
+  - tanda ciuman
 💯:
   - '100'
   - penuh
@@ -780,9 +1817,6 @@
   - meluru
 🕳️:
   - lubang
-💣️:
-  - bom
-  - komik
 💬:
   - belon
   - dialog
@@ -816,41 +1850,35 @@
   - tidur
   - zzz
 👋:
-  - badan
   - lambai
   - lambai tangan
   - melambai
   - tangan
 👋🏻:
-  - badan
   - lambai
   - 'lambai tangan: ton kulit cerah'
   - melambai
   - tangan
   - ton kulit cerah
 👋🏼:
-  - badan
   - lambai
   - 'lambai tangan: ton kulit sederhana cerah'
   - melambai
   - tangan
   - ton kulit sederhana cerah
 👋🏽:
-  - badan
   - lambai
   - 'lambai tangan: ton kulit sederhana'
   - melambai
   - tangan
   - ton kulit sederhana
 👋🏾:
-  - badan
   - lambai
   - 'lambai tangan: ton kulit sederhana gelap'
   - melambai
   - tangan
   - ton kulit sederhana gelap
 👋🏿:
-  - badan
   - lambai
   - 'lambai tangan: ton kulit gelap'
   - melambai
@@ -938,36 +1966,30 @@
   - ton kulit gelap
 ✋:
   - angkat tangan
-  - badan
   - tangan
 ✋🏻:
   - angkat tangan
   - 'angkat tangan: ton kulit cerah'
-  - badan
   - tangan
   - ton kulit cerah
 ✋🏼:
   - angkat tangan
   - 'angkat tangan: ton kulit sederhana cerah'
-  - badan
   - tangan
   - ton kulit sederhana cerah
 ✋🏽:
   - angkat tangan
   - 'angkat tangan: ton kulit sederhana'
-  - badan
   - tangan
   - ton kulit sederhana
 ✋🏾:
   - angkat tangan
   - 'angkat tangan: ton kulit sederhana gelap'
-  - badan
   - tangan
   - ton kulit sederhana gelap
 ✋🏿:
   - angkat tangan
   - 'angkat tangan: ton kulit gelap'
-  - badan
   - tangan
   - ton kulit gelap
 🖖:
@@ -1022,6 +2044,322 @@
   - tangan
   - ton kulit gelap
   - valkan
+🫱:
+  - arah kanan
+  - kanan
+  - tangan
+  - tangan kanan
+🫱🏻:
+  - arah kanan
+  - kanan
+  - tangan
+  - 'tangan kanan: ton kulit cerah'
+  - ton kulit cerah
+🫱🏼:
+  - arah kanan
+  - kanan
+  - tangan
+  - 'tangan kanan: ton kulit sederhana cerah'
+  - ton kulit sederhana cerah
+🫱🏽:
+  - arah kanan
+  - kanan
+  - tangan
+  - 'tangan kanan: ton kulit sederhana'
+  - ton kulit sederhana
+🫱🏾:
+  - arah kanan
+  - kanan
+  - tangan
+  - 'tangan kanan: ton kulit sederhana gelap'
+  - ton kulit sederhana gelap
+🫱🏿:
+  - arah kanan
+  - kanan
+  - tangan
+  - 'tangan kanan: ton kulit gelap'
+  - ton kulit gelap
+🫱🏻‍🫲🏼:
+  - berjabat tangan
+  - 'berjabat tangan: ton kulit cerah dan ton kulit sederhana cerah'
+  - perjumpaan
+  - persetujuan
+  - tangan
+  - ton kulit cerah
+  - ton kulit sederhana cerah
+🫱🏻‍🫲🏽:
+  - berjabat tangan
+  - 'berjabat tangan: ton kulit cerah dan ton kulit sederhana'
+  - perjumpaan
+  - persetujuan
+  - tangan
+  - ton kulit cerah
+  - ton kulit sederhana
+🫱🏻‍🫲🏾:
+  - berjabat tangan
+  - 'berjabat tangan: ton kulit cerah dan ton kulit sederhana gelap'
+  - perjumpaan
+  - persetujuan
+  - tangan
+  - ton kulit cerah
+  - ton kulit sederhana gelap
+🫱🏻‍🫲🏿:
+  - berjabat tangan
+  - 'berjabat tangan: ton kulit cerah dan ton kulit gelap'
+  - perjumpaan
+  - persetujuan
+  - tangan
+  - ton kulit cerah
+  - ton kulit gelap
+🫱🏼‍🫲🏻:
+  - berjabat tangan
+  - 'berjabat tangan: ton kulit sederhana cerah dan ton kulit cerah'
+  - perjumpaan
+  - persetujuan
+  - tangan
+  - ton kulit cerah
+  - ton kulit sederhana cerah
+🫱🏼‍🫲🏽:
+  - berjabat tangan
+  - 'berjabat tangan: ton kulit sederhana cerah dan ton kulit sederhana'
+  - perjumpaan
+  - persetujuan
+  - tangan
+  - ton kulit sederhana
+  - ton kulit sederhana cerah
+🫱🏼‍🫲🏾:
+  - berjabat tangan
+  - 'berjabat tangan: ton kulit sederhana cerah dan ton kulit sederhana gelap'
+  - perjumpaan
+  - persetujuan
+  - tangan
+  - ton kulit sederhana cerah
+  - ton kulit sederhana gelap
+🫱🏼‍🫲🏿:
+  - berjabat tangan
+  - 'berjabat tangan: ton kulit sederhana cerah dan ton kulit gelap'
+  - perjumpaan
+  - persetujuan
+  - tangan
+  - ton kulit gelap
+  - ton kulit sederhana cerah
+🫱🏽‍🫲🏻:
+  - berjabat tangan
+  - 'berjabat tangan: ton kulit sederhana dan ton kulit cerah'
+  - perjumpaan
+  - persetujuan
+  - tangan
+  - ton kulit cerah
+  - ton kulit sederhana
+🫱🏽‍🫲🏼:
+  - berjabat tangan
+  - 'berjabat tangan: ton kulit sederhana dan ton kulit sederhana cerah'
+  - perjumpaan
+  - persetujuan
+  - tangan
+  - ton kulit sederhana
+  - ton kulit sederhana cerah
+🫱🏽‍🫲🏾:
+  - berjabat tangan
+  - 'berjabat tangan: ton kulit sederhana dan ton kulit sederhana gelap'
+  - perjumpaan
+  - persetujuan
+  - tangan
+  - ton kulit sederhana
+  - ton kulit sederhana gelap
+🫱🏽‍🫲🏿:
+  - berjabat tangan
+  - 'berjabat tangan: ton kulit sederhana dan ton kulit gelap'
+  - perjumpaan
+  - persetujuan
+  - tangan
+  - ton kulit gelap
+  - ton kulit sederhana
+🫱🏾‍🫲🏻:
+  - berjabat tangan
+  - 'berjabat tangan: ton kulit sederhana gelap dan ton kulit cerah'
+  - perjumpaan
+  - persetujuan
+  - tangan
+  - ton kulit cerah
+  - ton kulit sederhana gelap
+🫱🏾‍🫲🏼:
+  - berjabat tangan
+  - 'berjabat tangan: ton kulit sederhana gelap dan ton kulit sederhana cerah'
+  - perjumpaan
+  - persetujuan
+  - tangan
+  - ton kulit sederhana cerah
+  - ton kulit sederhana gelap
+🫱🏾‍🫲🏽:
+  - berjabat tangan
+  - 'berjabat tangan: ton kulit sederhana gelap dan ton kulit sederhana'
+  - perjumpaan
+  - persetujuan
+  - tangan
+  - ton kulit sederhana
+  - ton kulit sederhana gelap
+🫱🏾‍🫲🏿:
+  - berjabat tangan
+  - 'berjabat tangan: ton kulit sederhana gelap dan ton kulit gelap'
+  - perjumpaan
+  - persetujuan
+  - tangan
+  - ton kulit gelap
+  - ton kulit sederhana gelap
+🫱🏿‍🫲🏻:
+  - berjabat tangan
+  - 'berjabat tangan: ton kulit gelap dan ton kulit cerah'
+  - perjumpaan
+  - persetujuan
+  - tangan
+  - ton kulit cerah
+  - ton kulit gelap
+🫱🏿‍🫲🏼:
+  - berjabat tangan
+  - 'berjabat tangan: ton kulit gelap dan ton kulit sederhana cerah'
+  - perjumpaan
+  - persetujuan
+  - tangan
+  - ton kulit gelap
+  - ton kulit sederhana cerah
+🫱🏿‍🫲🏽:
+  - berjabat tangan
+  - 'berjabat tangan: ton kulit gelap dan ton kulit sederhana'
+  - perjumpaan
+  - persetujuan
+  - tangan
+  - ton kulit gelap
+  - ton kulit sederhana
+🫱🏿‍🫲🏾:
+  - berjabat tangan
+  - 'berjabat tangan: ton kulit gelap dan ton kulit sederhana gelap'
+  - perjumpaan
+  - persetujuan
+  - tangan
+  - ton kulit gelap
+  - ton kulit sederhana gelap
+🫲:
+  - arah kiri
+  - kiri
+  - tangan
+  - tangan kiri
+🫲🏻:
+  - arah kiri
+  - kiri
+  - tangan
+  - 'tangan kiri: ton kulit cerah'
+  - ton kulit cerah
+🫲🏼:
+  - arah kiri
+  - kiri
+  - tangan
+  - 'tangan kiri: ton kulit sederhana cerah'
+  - ton kulit sederhana cerah
+🫲🏽:
+  - arah kiri
+  - kiri
+  - tangan
+  - 'tangan kiri: ton kulit sederhana'
+  - ton kulit sederhana
+🫲🏾:
+  - arah kiri
+  - kiri
+  - tangan
+  - 'tangan kiri: ton kulit sederhana gelap'
+  - ton kulit sederhana gelap
+🫲🏿:
+  - arah kiri
+  - kiri
+  - tangan
+  - 'tangan kiri: ton kulit gelap'
+  - ton kulit gelap
+🫳:
+  - abaikan
+  - jatuhkan
+  - syuh
+  - tapak tangan ke bawah
+🫳🏻:
+  - abaikan
+  - jatuhkan
+  - syuh
+  - tapak tangan ke bawah
+  - 'tapak tangan ke bawah: ton kulit cerah'
+  - ton kulit cerah
+🫳🏼:
+  - abaikan
+  - jatuhkan
+  - syuh
+  - tapak tangan ke bawah
+  - 'tapak tangan ke bawah: ton kulit sederhana cerah'
+  - ton kulit sederhana cerah
+🫳🏽:
+  - abaikan
+  - jatuhkan
+  - syuh
+  - tapak tangan ke bawah
+  - 'tapak tangan ke bawah: ton kulit sederhana'
+  - ton kulit sederhana
+🫳🏾:
+  - abaikan
+  - jatuhkan
+  - syuh
+  - tapak tangan ke bawah
+  - 'tapak tangan ke bawah: ton kulit sederhana gelap'
+  - ton kulit sederhana gelap
+🫳🏿:
+  - abaikan
+  - jatuhkan
+  - syuh
+  - tapak tangan ke bawah
+  - 'tapak tangan ke bawah: ton kulit gelap'
+  - ton kulit gelap
+🫴:
+  - ajak
+  - mari
+  - tangkap
+  - tapak tangan ke atas
+  - tawarkan
+🫴🏻:
+  - ajak
+  - mari
+  - tangkap
+  - tapak tangan ke atas
+  - 'tapak tangan ke atas: ton kulit cerah'
+  - tawarkan
+  - ton kulit cerah
+🫴🏼:
+  - ajak
+  - mari
+  - tangkap
+  - tapak tangan ke atas
+  - 'tapak tangan ke atas: ton kulit sederhana cerah'
+  - tawarkan
+  - ton kulit sederhana cerah
+🫴🏽:
+  - ajak
+  - mari
+  - tangkap
+  - tapak tangan ke atas
+  - 'tapak tangan ke atas: ton kulit sederhana'
+  - tawarkan
+  - ton kulit sederhana
+🫴🏾:
+  - ajak
+  - mari
+  - tangkap
+  - tapak tangan ke atas
+  - 'tapak tangan ke atas: ton kulit sederhana gelap'
+  - tawarkan
+  - ton kulit sederhana gelap
+🫴🏿:
+  - ajak
+  - mari
+  - tangkap
+  - tapak tangan ke atas
+  - 'tapak tangan ke atas: ton kulit gelap'
+  - tawarkan
+  - ton kulit gelap
 👌:
   - okey
   - simbol OK
@@ -1218,6 +2556,58 @@
   - 'silang jari: ton kulit gelap'
   - tangan
   - ton kulit gelap
+🫰:
+  - bentuk hati
+  - mahal
+  - petik
+  - suka
+  - tangan dengan jari telunjuk dan ibu jari bersilang
+  - wang
+🫰🏻:
+  - bentuk hati
+  - mahal
+  - petik
+  - suka
+  - tangan dengan jari telunjuk dan ibu jari bersilang
+  - 'tangan dengan jari telunjuk dan ibu jari bersilang: ton kulit cerah'
+  - ton kulit cerah
+  - wang
+🫰🏼:
+  - bentuk hati
+  - mahal
+  - petik
+  - suka
+  - tangan dengan jari telunjuk dan ibu jari bersilang
+  - 'tangan dengan jari telunjuk dan ibu jari bersilang: ton kulit sederhana cerah'
+  - ton kulit sederhana cerah
+  - wang
+🫰🏽:
+  - bentuk hati
+  - mahal
+  - petik
+  - suka
+  - tangan dengan jari telunjuk dan ibu jari bersilang
+  - 'tangan dengan jari telunjuk dan ibu jari bersilang: ton kulit sederhana'
+  - ton kulit sederhana
+  - wang
+🫰🏾:
+  - bentuk hati
+  - mahal
+  - petik
+  - suka
+  - tangan dengan jari telunjuk dan ibu jari bersilang
+  - 'tangan dengan jari telunjuk dan ibu jari bersilang: ton kulit sederhana gelap'
+  - ton kulit sederhana gelap
+  - wang
+🫰🏿:
+  - bentuk hati
+  - mahal
+  - petik
+  - suka
+  - tangan dengan jari telunjuk dan ibu jari bersilang
+  - 'tangan dengan jari telunjuk dan ibu jari bersilang: ton kulit gelap'
+  - ton kulit gelap
+  - wang
 🤟:
   - ACK
   - gerak isyarat cinta kamu
@@ -1398,66 +2788,54 @@
   - atas
   - belakang tangan
   - jari
-  - jari telunjuk belakang tangan menunjuk ke atas
-  - jari telunjuk menghala ke atas
+  - jari telunjuk belakang tangan tuding ke atas
   - jari telunjuk tunjuk hala ke atas
   - tangan
-  - tunjuk
 👆🏻:
   - atas
   - belakang tangan
   - jari
-  - jari telunjuk belakang tangan menunjuk ke atas
-  - jari telunjuk menghala ke atas
+  - jari telunjuk belakang tangan tuding ke atas
   - jari telunjuk tunjuk hala ke atas
   - 'jari telunjuk tunjuk hala ke atas: ton kulit cerah'
   - tangan
   - ton kulit cerah
-  - tunjuk
 👆🏼:
   - atas
   - belakang tangan
   - jari
-  - jari telunjuk belakang tangan menunjuk ke atas
-  - jari telunjuk menghala ke atas
+  - jari telunjuk belakang tangan tuding ke atas
   - jari telunjuk tunjuk hala ke atas
   - 'jari telunjuk tunjuk hala ke atas: ton kulit sederhana cerah'
   - tangan
   - ton kulit sederhana cerah
-  - tunjuk
 👆🏽:
   - atas
   - belakang tangan
   - jari
-  - jari telunjuk belakang tangan menunjuk ke atas
-  - jari telunjuk menghala ke atas
+  - jari telunjuk belakang tangan tuding ke atas
   - jari telunjuk tunjuk hala ke atas
   - 'jari telunjuk tunjuk hala ke atas: ton kulit sederhana'
   - tangan
   - ton kulit sederhana
-  - tunjuk
 👆🏾:
   - atas
   - belakang tangan
   - jari
-  - jari telunjuk belakang tangan menunjuk ke atas
-  - jari telunjuk menghala ke atas
+  - jari telunjuk belakang tangan tuding ke atas
   - jari telunjuk tunjuk hala ke atas
   - 'jari telunjuk tunjuk hala ke atas: ton kulit sederhana gelap'
   - tangan
   - ton kulit sederhana gelap
-  - tunjuk
 👆🏿:
   - atas
   - belakang tangan
   - jari
-  - jari telunjuk belakang tangan menunjuk ke atas
-  - jari telunjuk menghala ke atas
+  - jari telunjuk belakang tangan tuding ke atas
   - jari telunjuk tunjuk hala ke atas
   - 'jari telunjuk tunjuk hala ke atas: ton kulit gelap'
   - tangan
   - ton kulit gelap
-  - tunjuk
 🖕:
   - badan
   - jari
@@ -1499,67 +2877,61 @@
   - tangan
   - ton kulit gelap
 👇️:
-  - badan
   - bawah
   - belakang tangan
   - jari
   - jari telunjuk belakang tangan menunjuk ke bawah
+  - jari telunjuk belakang tangan tuding ke bawah
   - tangan
-  - telunjuk
   - tunjuk
 👇🏻:
-  - badan
   - bawah
   - belakang tangan
   - jari
   - jari telunjuk belakang tangan menunjuk ke bawah
-  - 'jari telunjuk belakang tangan menunjuk ke bawah: ton kulit cerah'
+  - jari telunjuk belakang tangan tuding ke bawah
+  - 'jari telunjuk belakang tangan tuding ke bawah: ton kulit cerah'
   - tangan
-  - telunjuk
   - ton kulit cerah
   - tunjuk
 👇🏼:
-  - badan
   - bawah
   - belakang tangan
   - jari
   - jari telunjuk belakang tangan menunjuk ke bawah
-  - 'jari telunjuk belakang tangan menunjuk ke bawah: ton kulit sederhana cerah'
+  - jari telunjuk belakang tangan tuding ke bawah
+  - 'jari telunjuk belakang tangan tuding ke bawah: ton kulit sederhana cerah'
   - tangan
-  - telunjuk
   - ton kulit sederhana cerah
   - tunjuk
 👇🏽:
-  - badan
   - bawah
   - belakang tangan
   - jari
   - jari telunjuk belakang tangan menunjuk ke bawah
-  - 'jari telunjuk belakang tangan menunjuk ke bawah: ton kulit sederhana'
+  - jari telunjuk belakang tangan tuding ke bawah
+  - 'jari telunjuk belakang tangan tuding ke bawah: ton kulit sederhana'
   - tangan
-  - telunjuk
   - ton kulit sederhana
   - tunjuk
 👇🏾:
-  - badan
   - bawah
   - belakang tangan
   - jari
   - jari telunjuk belakang tangan menunjuk ke bawah
-  - 'jari telunjuk belakang tangan menunjuk ke bawah: ton kulit sederhana gelap'
+  - jari telunjuk belakang tangan tuding ke bawah
+  - 'jari telunjuk belakang tangan tuding ke bawah: ton kulit sederhana gelap'
   - tangan
-  - telunjuk
   - ton kulit sederhana gelap
   - tunjuk
 👇🏿:
-  - badan
   - bawah
   - belakang tangan
   - jari
   - jari telunjuk belakang tangan menunjuk ke bawah
-  - 'jari telunjuk belakang tangan menunjuk ke bawah: ton kulit gelap'
+  - jari telunjuk belakang tangan tuding ke bawah
+  - 'jari telunjuk belakang tangan tuding ke bawah: ton kulit gelap'
   - tangan
-  - telunjuk
   - ton kulit gelap
   - tunjuk
 ☝️:
@@ -1608,6 +2980,40 @@
   - tangan
   - telunjuk
   - ton kulit gelap
+🫵:
+  - anda
+  - jari telunjuk menunjuk ke arah pemandang
+  - tunjuk
+🫵🏻:
+  - anda
+  - jari telunjuk menunjuk ke arah pemandang
+  - 'jari telunjuk menunjuk ke arah pemandang: ton kulit cerah'
+  - ton kulit cerah
+  - tunjuk
+🫵🏼:
+  - anda
+  - jari telunjuk menunjuk ke arah pemandang
+  - 'jari telunjuk menunjuk ke arah pemandang: ton kulit sederhana cerah'
+  - ton kulit sederhana cerah
+  - tunjuk
+🫵🏽:
+  - anda
+  - jari telunjuk menunjuk ke arah pemandang
+  - 'jari telunjuk menunjuk ke arah pemandang: ton kulit sederhana'
+  - ton kulit sederhana
+  - tunjuk
+🫵🏾:
+  - anda
+  - jari telunjuk menunjuk ke arah pemandang
+  - 'jari telunjuk menunjuk ke arah pemandang: ton kulit sederhana gelap'
+  - ton kulit sederhana gelap
+  - tunjuk
+🫵🏿:
+  - anda
+  - jari telunjuk menunjuk ke arah pemandang
+  - 'jari telunjuk menunjuk ke arah pemandang: ton kulit gelap'
+  - ton kulit gelap
+  - tunjuk
 👍️:
   - '+1'
   - atas
@@ -1982,37 +3388,59 @@
   - perayaan
   - tangan
   - ton kulit gelap
+🫶:
+  - cinta
+  - tangan berbentuk hati
+🫶🏻:
+  - cinta
+  - tangan berbentuk hati
+  - 'tangan berbentuk hati: ton kulit cerah'
+  - ton kulit cerah
+🫶🏼:
+  - cinta
+  - tangan berbentuk hati
+  - 'tangan berbentuk hati: ton kulit sederhana cerah'
+  - ton kulit sederhana cerah
+🫶🏽:
+  - cinta
+  - tangan berbentuk hati
+  - 'tangan berbentuk hati: ton kulit sederhana'
+  - ton kulit sederhana
+🫶🏾:
+  - cinta
+  - tangan berbentuk hati
+  - 'tangan berbentuk hati: ton kulit sederhana gelap'
+  - ton kulit sederhana gelap
+🫶🏿:
+  - cinta
+  - tangan berbentuk hati
+  - 'tangan berbentuk hati: ton kulit gelap'
+  - ton kulit gelap
 👐:
-  - badan
   - tangan
   - tangan terbuka
   - terbuka
 👐🏻:
-  - badan
   - tangan
   - 'tangan terbuka: ton kulit cerah'
   - terbuka
   - ton kulit cerah
 👐🏼:
-  - badan
   - tangan
   - 'tangan terbuka: ton kulit sederhana cerah'
   - terbuka
   - ton kulit sederhana cerah
 👐🏽:
-  - badan
   - tangan
   - 'tangan terbuka: ton kulit sederhana'
   - terbuka
   - ton kulit sederhana
 👐🏾:
-  - badan
   - tangan
   - 'tangan terbuka: ton kulit sederhana gelap'
   - terbuka
   - ton kulit sederhana gelap
 👐🏿:
-  - badan
   - tangan
   - 'tangan terbuka: ton kulit gelap'
   - terbuka
@@ -2050,82 +3478,93 @@
   - perjumpaan
   - persetujuan
   - tangan
+🤝🏻:
+  - berjabat tangan
+  - 'berjabat tangan: ton kulit cerah'
+  - perjumpaan
+  - persetujuan
+  - tangan
+  - ton kulit cerah
+🤝🏼:
+  - berjabat tangan
+  - 'berjabat tangan: ton kulit sederhana cerah'
+  - perjumpaan
+  - persetujuan
+  - tangan
+  - ton kulit sederhana cerah
+🤝🏽:
+  - berjabat tangan
+  - 'berjabat tangan: ton kulit sederhana'
+  - perjumpaan
+  - persetujuan
+  - tangan
+  - ton kulit sederhana
+🤝🏾:
+  - berjabat tangan
+  - 'berjabat tangan: ton kulit sederhana gelap'
+  - perjumpaan
+  - persetujuan
+  - tangan
+  - ton kulit sederhana gelap
+🤝🏿:
+  - berjabat tangan
+  - 'berjabat tangan: ton kulit gelap'
+  - perjumpaan
+  - persetujuan
+  - tangan
+  - ton kulit gelap
 🙏:
-  - badan
   - doa
-  - isyarat
   - menyusun jari
-  - susun
   - tangan
   - tanya
   - terima kasih
   - tolong
-  - tunduk
 🙏🏻:
-  - badan
   - doa
-  - isyarat
   - menyusun jari
   - 'menyusun jari: ton kulit cerah'
-  - susun
   - tangan
   - tanya
   - terima kasih
   - tolong
   - ton kulit cerah
-  - tunduk
 🙏🏼:
-  - badan
   - doa
-  - isyarat
   - menyusun jari
   - 'menyusun jari: ton kulit sederhana cerah'
-  - susun
   - tangan
   - tanya
   - terima kasih
   - tolong
   - ton kulit sederhana cerah
-  - tunduk
 🙏🏽:
-  - badan
   - doa
-  - isyarat
   - menyusun jari
   - 'menyusun jari: ton kulit sederhana'
-  - susun
   - tangan
   - tanya
   - terima kasih
   - tolong
   - ton kulit sederhana
-  - tunduk
 🙏🏾:
-  - badan
   - doa
-  - isyarat
   - menyusun jari
   - 'menyusun jari: ton kulit sederhana gelap'
-  - susun
   - tangan
   - tanya
   - terima kasih
   - tolong
   - ton kulit sederhana gelap
-  - tunduk
 🙏🏿:
-  - badan
   - doa
-  - isyarat
   - menyusun jari
   - 'menyusun jari: ton kulit gelap'
-  - susun
   - tangan
   - tanya
   - terima kasih
   - tolong
   - ton kulit gelap
-  - tunduk
 ✍️:
   - badan
   - tangan
@@ -2463,19 +3902,19 @@
   - otak
   - pintar
 🫀:
-  - degupan jantung
-  - nadi
+  - anatomi
+  - degupan
+  - jantung
+  - kardiolagi
   - organ
   - organ jantung
-  - pusat
 🫁:
-  - nafas
+  - bernafas
+  - menghembus
+  - menyedut
   - organ
   - paru-paru
-  - penghembusan
-  - penyedutan
   - pernafasan
-  - respirasi
 🦷:
   - doktor gigi
   - gigi
@@ -2497,6 +3936,14 @@
   - badan
   - bibir
   - mulut
+🫦:
+  - bimbang
+  - gelisah
+  - menggigit bibir
+  - menggoda
+  - risau
+  - takut
+  - tidak selesa
 👶:
   - bayi
 👶🏻:
@@ -2683,6 +4130,362 @@
   - perang
   - rambut
   - ton kulit gelap
+🧑🏻‍❤‍💋‍🧑🏼:
+  - cium
+  - 'cium: dewasa, dewasa, ton kulit cerah dan ton kulit sederhana cerah'
+  - dewasa
+  - pasangan
+  - ton kulit cerah
+  - ton kulit sederhana cerah
+🧑🏻‍❤‍💋‍🧑🏽:
+  - cium
+  - 'cium: dewasa, dewasa, ton kulit cerah dan ton kulit sederhana'
+  - dewasa
+  - pasangan
+  - ton kulit cerah
+  - ton kulit sederhana
+🧑🏻‍❤‍💋‍🧑🏾:
+  - cium
+  - 'cium: dewasa, dewasa, ton kulit cerah dan ton kulit sederhana gelap'
+  - dewasa
+  - pasangan
+  - ton kulit cerah
+  - ton kulit sederhana gelap
+🧑🏻‍❤‍💋‍🧑🏿:
+  - cium
+  - 'cium: dewasa, dewasa, ton kulit cerah dan ton kulit gelap'
+  - dewasa
+  - pasangan
+  - ton kulit cerah
+  - ton kulit gelap
+🧑🏼‍❤‍💋‍🧑🏻:
+  - cium
+  - 'cium: dewasa, dewasa, ton kulit sederhana cerah dan ton kulit cerah'
+  - dewasa
+  - pasangan
+  - ton kulit cerah
+  - ton kulit sederhana cerah
+🧑🏼‍❤‍💋‍🧑🏽:
+  - cium
+  - 'cium: dewasa, dewasa, ton kulit sederhana cerah dan ton kulit sederhana'
+  - dewasa
+  - pasangan
+  - ton kulit sederhana
+  - ton kulit sederhana cerah
+🧑🏼‍❤‍💋‍🧑🏾:
+  - cium
+  - 'cium: dewasa, dewasa, ton kulit sederhana cerah dan ton kulit sederhana gelap'
+  - dewasa
+  - pasangan
+  - ton kulit sederhana cerah
+  - ton kulit sederhana gelap
+🧑🏼‍❤‍💋‍🧑🏿:
+  - cium
+  - 'cium: dewasa, dewasa, ton kulit sederhana cerah dan ton kulit gelap'
+  - dewasa
+  - pasangan
+  - ton kulit gelap
+  - ton kulit sederhana cerah
+🧑🏽‍❤‍💋‍🧑🏻:
+  - cium
+  - 'cium: dewasa, dewasa, ton kulit sederhana dan ton kulit cerah'
+  - dewasa
+  - pasangan
+  - ton kulit cerah
+  - ton kulit sederhana
+🧑🏽‍❤‍💋‍🧑🏼:
+  - cium
+  - 'cium: dewasa, dewasa, ton kulit sederhana dan ton kulit sederhana cerah'
+  - dewasa
+  - pasangan
+  - ton kulit sederhana
+  - ton kulit sederhana cerah
+🧑🏽‍❤‍💋‍🧑🏾:
+  - cium
+  - 'cium: dewasa, dewasa, ton kulit sederhana dan ton kulit sederhana gelap'
+  - dewasa
+  - pasangan
+  - ton kulit sederhana
+  - ton kulit sederhana gelap
+🧑🏽‍❤‍💋‍🧑🏿:
+  - cium
+  - 'cium: dewasa, dewasa, ton kulit sederhana dan ton kulit gelap'
+  - dewasa
+  - pasangan
+  - ton kulit gelap
+  - ton kulit sederhana
+🧑🏾‍❤‍💋‍🧑🏻:
+  - cium
+  - 'cium: dewasa, dewasa, ton kulit sederhana gelap dan ton kulit cerah'
+  - dewasa
+  - pasangan
+  - ton kulit cerah
+  - ton kulit sederhana gelap
+🧑🏾‍❤‍💋‍🧑🏼:
+  - cium
+  - 'cium: dewasa, dewasa, ton kulit sederhana gelap dan ton kulit sederhana cerah'
+  - dewasa
+  - pasangan
+  - ton kulit sederhana cerah
+  - ton kulit sederhana gelap
+🧑🏾‍❤‍💋‍🧑🏽:
+  - cium
+  - 'cium: dewasa, dewasa, ton kulit sederhana gelap dan ton kulit sederhana'
+  - dewasa
+  - pasangan
+  - ton kulit sederhana
+  - ton kulit sederhana gelap
+🧑🏾‍❤‍💋‍🧑🏿:
+  - cium
+  - 'cium: dewasa, dewasa, ton kulit sederhana gelap dan ton kulit gelap'
+  - dewasa
+  - pasangan
+  - ton kulit gelap
+  - ton kulit sederhana gelap
+🧑🏿‍❤‍💋‍🧑🏻:
+  - cium
+  - 'cium: dewasa, dewasa, ton kulit gelap dan ton kulit cerah'
+  - dewasa
+  - pasangan
+  - ton kulit cerah
+  - ton kulit gelap
+🧑🏿‍❤‍💋‍🧑🏼:
+  - cium
+  - 'cium: dewasa, dewasa, ton kulit gelap dan ton kulit sederhana cerah'
+  - dewasa
+  - pasangan
+  - ton kulit gelap
+  - ton kulit sederhana cerah
+🧑🏿‍❤‍💋‍🧑🏽:
+  - cium
+  - 'cium: dewasa, dewasa, ton kulit gelap dan ton kulit sederhana'
+  - dewasa
+  - pasangan
+  - ton kulit gelap
+  - ton kulit sederhana
+🧑🏿‍❤‍💋‍🧑🏾:
+  - cium
+  - 'cium: dewasa, dewasa, ton kulit gelap dan ton kulit sederhana gelap'
+  - dewasa
+  - pasangan
+  - ton kulit gelap
+  - ton kulit sederhana gelap
+🧑🏻‍❤‍🧑🏼:
+  - cinta
+  - dewasa
+  - hati
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: dewasa, dewasa, ton kulit cerah dan ton kulit sederhana
+    cerah'
+  - percintaan
+  - ton kulit cerah
+  - ton kulit sederhana cerah
+🧑🏻‍❤‍🧑🏽:
+  - cinta
+  - dewasa
+  - hati
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: dewasa, dewasa, ton kulit cerah dan ton kulit sederhana'
+  - percintaan
+  - ton kulit cerah
+  - ton kulit sederhana
+🧑🏻‍❤‍🧑🏾:
+  - cinta
+  - dewasa
+  - hati
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: dewasa, dewasa, ton kulit cerah dan ton kulit sederhana
+    gelap'
+  - percintaan
+  - ton kulit cerah
+  - ton kulit sederhana gelap
+🧑🏻‍❤‍🧑🏿:
+  - cinta
+  - dewasa
+  - hati
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: dewasa, dewasa, ton kulit cerah dan ton kulit gelap'
+  - percintaan
+  - ton kulit cerah
+  - ton kulit gelap
+🧑🏼‍❤‍🧑🏻:
+  - cinta
+  - dewasa
+  - hati
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: dewasa, dewasa, ton kulit sederhana cerah dan ton
+    kulit cerah'
+  - percintaan
+  - ton kulit cerah
+  - ton kulit sederhana cerah
+🧑🏼‍❤‍🧑🏽:
+  - cinta
+  - dewasa
+  - hati
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: dewasa, dewasa, ton kulit sederhana cerah dan ton
+    kulit sederhana'
+  - percintaan
+  - ton kulit sederhana
+  - ton kulit sederhana cerah
+🧑🏼‍❤‍🧑🏾:
+  - cinta
+  - dewasa
+  - hati
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: dewasa, dewasa, ton kulit sederhana cerah dan ton
+    kulit sederhana gelap'
+  - percintaan
+  - ton kulit sederhana cerah
+  - ton kulit sederhana gelap
+🧑🏼‍❤‍🧑🏿:
+  - cinta
+  - dewasa
+  - hati
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: dewasa, dewasa, ton kulit sederhana cerah dan ton
+    kulit gelap'
+  - percintaan
+  - ton kulit gelap
+  - ton kulit sederhana cerah
+🧑🏽‍❤‍🧑🏻:
+  - cinta
+  - dewasa
+  - hati
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: dewasa, dewasa, ton kulit sederhana dan ton kulit
+    cerah'
+  - percintaan
+  - ton kulit cerah
+  - ton kulit sederhana
+🧑🏽‍❤‍🧑🏼:
+  - cinta
+  - dewasa
+  - hati
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: dewasa, dewasa, ton kulit sederhana dan ton kulit
+    sederhana cerah'
+  - percintaan
+  - ton kulit sederhana
+  - ton kulit sederhana cerah
+🧑🏽‍❤‍🧑🏾:
+  - cinta
+  - dewasa
+  - hati
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: dewasa, dewasa, ton kulit sederhana dan ton kulit
+    sederhana gelap'
+  - percintaan
+  - ton kulit sederhana
+  - ton kulit sederhana gelap
+🧑🏽‍❤‍🧑🏿:
+  - cinta
+  - dewasa
+  - hati
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: dewasa, dewasa, ton kulit sederhana dan ton kulit
+    gelap'
+  - percintaan
+  - ton kulit gelap
+  - ton kulit sederhana
+🧑🏾‍❤‍🧑🏻:
+  - cinta
+  - dewasa
+  - hati
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: dewasa, dewasa, ton kulit sederhana gelap dan ton
+    kulit cerah'
+  - percintaan
+  - ton kulit cerah
+  - ton kulit sederhana gelap
+🧑🏾‍❤‍🧑🏼:
+  - cinta
+  - dewasa
+  - hati
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: dewasa, dewasa, ton kulit sederhana gelap dan ton
+    kulit sederhana cerah'
+  - percintaan
+  - ton kulit sederhana cerah
+  - ton kulit sederhana gelap
+🧑🏾‍❤‍🧑🏽:
+  - cinta
+  - dewasa
+  - hati
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: dewasa, dewasa, ton kulit sederhana gelap dan ton
+    kulit sederhana'
+  - percintaan
+  - ton kulit sederhana
+  - ton kulit sederhana gelap
+🧑🏾‍❤‍🧑🏿:
+  - cinta
+  - dewasa
+  - hati
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: dewasa, dewasa, ton kulit sederhana gelap dan ton
+    kulit gelap'
+  - percintaan
+  - ton kulit gelap
+  - ton kulit sederhana gelap
+🧑🏿‍❤‍🧑🏻:
+  - cinta
+  - dewasa
+  - hati
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: dewasa, dewasa, ton kulit gelap dan ton kulit cerah'
+  - percintaan
+  - ton kulit cerah
+  - ton kulit gelap
+🧑🏿‍❤‍🧑🏼:
+  - cinta
+  - dewasa
+  - hati
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: dewasa, dewasa, ton kulit gelap dan ton kulit sederhana
+    cerah'
+  - percintaan
+  - ton kulit gelap
+  - ton kulit sederhana cerah
+🧑🏿‍❤‍🧑🏽:
+  - cinta
+  - dewasa
+  - hati
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: dewasa, dewasa, ton kulit gelap dan ton kulit sederhana'
+  - percintaan
+  - ton kulit gelap
+  - ton kulit sederhana
+🧑🏿‍❤‍🧑🏾:
+  - cinta
+  - dewasa
+  - hati
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: dewasa, dewasa, ton kulit gelap dan ton kulit sederhana
+    gelap'
+  - percintaan
+  - ton kulit gelap
+  - ton kulit sederhana gelap
 🧑‍🦰:
   - dewasa
   - 'dewasa: rambut merah'
@@ -2853,43 +4656,71 @@
   - ton kulit gelap
 🧔:
   - janggut
+  - orang
+  - 'orang: janggut'
+🧔🏻:
+  - janggut
+  - orang
+  - 'orang: janggut'
+  - 'orang: ton kulit cerah dan janggut'
+  - ton kulit cerah
+🧔🏼:
+  - janggut
+  - orang
+  - 'orang: janggut'
+  - 'orang: ton kulit sederhana cerah dan janggut'
+  - ton kulit sederhana cerah
+🧔🏽:
+  - janggut
+  - orang
+  - 'orang: janggut'
+  - 'orang: ton kulit sederhana dan janggut'
+  - ton kulit sederhana
+🧔🏾:
+  - janggut
+  - orang
+  - 'orang: janggut'
+  - 'orang: ton kulit sederhana gelap dan janggut'
+  - ton kulit sederhana gelap
+🧔🏿:
+  - janggut
+  - orang
+  - 'orang: janggut'
+  - 'orang: ton kulit gelap dan janggut'
+  - ton kulit gelap
+🧔‍♂:
+  - janggut
   - lelaki
   - 'lelaki: janggut'
-  - orang
-🧔🏻:
+🧔🏻‍♂:
   - janggut
   - lelaki
   - 'lelaki: janggut'
   - 'lelaki: ton kulit cerah dan janggut'
-  - orang
   - ton kulit cerah
-🧔🏼:
+🧔🏼‍♂:
   - janggut
   - lelaki
   - 'lelaki: janggut'
   - 'lelaki: ton kulit sederhana cerah dan janggut'
-  - orang
   - ton kulit sederhana cerah
-🧔🏽:
+🧔🏽‍♂:
   - janggut
   - lelaki
   - 'lelaki: janggut'
   - 'lelaki: ton kulit sederhana dan janggut'
-  - orang
   - ton kulit sederhana
-🧔🏾:
+🧔🏾‍♂:
   - janggut
   - lelaki
   - 'lelaki: janggut'
   - 'lelaki: ton kulit sederhana gelap dan janggut'
-  - orang
   - ton kulit sederhana gelap
-🧔🏿:
+🧔🏿‍♂:
   - janggut
   - lelaki
   - 'lelaki: janggut'
   - 'lelaki: ton kulit gelap dan janggut'
-  - orang
   - ton kulit gelap
 👱‍♂:
   - lelaki
@@ -2947,6 +4778,437 @@
   - perang muda
   - rambut
   - rambut perang
+  - ton kulit gelap
+👨🏻‍❤‍💋‍👨🏻:
+  - cium
+  - 'cium: lelaki, lelaki dan ton kulit cerah'
+  - lelaki
+  - pasangan
+  - ton kulit cerah
+👨🏻‍❤‍💋‍👨🏼:
+  - cium
+  - 'cium: lelaki, lelaki, ton kulit cerah dan ton kulit sederhana cerah'
+  - lelaki
+  - pasangan
+  - ton kulit cerah
+  - ton kulit sederhana cerah
+👨🏻‍❤‍💋‍👨🏽:
+  - cium
+  - 'cium: lelaki, lelaki, ton kulit cerah dan ton kulit sederhana'
+  - lelaki
+  - pasangan
+  - ton kulit cerah
+  - ton kulit sederhana
+👨🏻‍❤‍💋‍👨🏾:
+  - cium
+  - 'cium: lelaki, lelaki, ton kulit cerah dan ton kulit sederhana gelap'
+  - lelaki
+  - pasangan
+  - ton kulit cerah
+  - ton kulit sederhana gelap
+👨🏻‍❤‍💋‍👨🏿:
+  - cium
+  - 'cium: lelaki, lelaki, ton kulit cerah dan ton kulit gelap'
+  - lelaki
+  - pasangan
+  - ton kulit cerah
+  - ton kulit gelap
+👨🏼‍❤‍💋‍👨🏻:
+  - cium
+  - 'cium: lelaki, lelaki, ton kulit sederhana cerah dan ton kulit cerah'
+  - lelaki
+  - pasangan
+  - ton kulit cerah
+  - ton kulit sederhana cerah
+👨🏼‍❤‍💋‍👨🏼:
+  - cium
+  - 'cium: lelaki, lelaki dan ton kulit sederhana cerah'
+  - lelaki
+  - pasangan
+  - ton kulit sederhana cerah
+👨🏼‍❤‍💋‍👨🏽:
+  - cium
+  - 'cium: lelaki, lelaki, ton kulit sederhana cerah dan ton kulit sederhana'
+  - lelaki
+  - pasangan
+  - ton kulit sederhana
+  - ton kulit sederhana cerah
+👨🏼‍❤‍💋‍👨🏾:
+  - cium
+  - 'cium: lelaki, lelaki, ton kulit sederhana cerah dan ton kulit sederhana gelap'
+  - lelaki
+  - pasangan
+  - ton kulit sederhana cerah
+  - ton kulit sederhana gelap
+👨🏼‍❤‍💋‍👨🏿:
+  - cium
+  - 'cium: lelaki, lelaki, ton kulit sederhana cerah dan ton kulit gelap'
+  - lelaki
+  - pasangan
+  - ton kulit gelap
+  - ton kulit sederhana cerah
+👨🏽‍❤‍💋‍👨🏻:
+  - cium
+  - 'cium: lelaki, lelaki, ton kulit sederhana dan ton kulit cerah'
+  - lelaki
+  - pasangan
+  - ton kulit cerah
+  - ton kulit sederhana
+👨🏽‍❤‍💋‍👨🏼:
+  - cium
+  - 'cium: lelaki, lelaki, ton kulit sederhana dan ton kulit sederhana cerah'
+  - lelaki
+  - pasangan
+  - ton kulit sederhana
+  - ton kulit sederhana cerah
+👨🏽‍❤‍💋‍👨🏽:
+  - cium
+  - 'cium: lelaki, lelaki dan ton kulit sederhana'
+  - lelaki
+  - pasangan
+  - ton kulit sederhana
+👨🏽‍❤‍💋‍👨🏾:
+  - cium
+  - 'cium: lelaki, lelaki, ton kulit sederhana dan ton kulit sederhana gelap'
+  - lelaki
+  - pasangan
+  - ton kulit sederhana
+  - ton kulit sederhana gelap
+👨🏽‍❤‍💋‍👨🏿:
+  - cium
+  - 'cium: lelaki, lelaki, ton kulit sederhana dan ton kulit gelap'
+  - lelaki
+  - pasangan
+  - ton kulit gelap
+  - ton kulit sederhana
+👨🏾‍❤‍💋‍👨🏻:
+  - cium
+  - 'cium: lelaki, lelaki, ton kulit sederhana gelap dan ton kulit cerah'
+  - lelaki
+  - pasangan
+  - ton kulit cerah
+  - ton kulit sederhana gelap
+👨🏾‍❤‍💋‍👨🏼:
+  - cium
+  - 'cium: lelaki, lelaki, ton kulit sederhana gelap dan ton kulit sederhana cerah'
+  - lelaki
+  - pasangan
+  - ton kulit sederhana cerah
+  - ton kulit sederhana gelap
+👨🏾‍❤‍💋‍👨🏽:
+  - cium
+  - 'cium: lelaki, lelaki, ton kulit sederhana gelap dan ton kulit sederhana'
+  - lelaki
+  - pasangan
+  - ton kulit sederhana
+  - ton kulit sederhana gelap
+👨🏾‍❤‍💋‍👨🏾:
+  - cium
+  - 'cium: lelaki, lelaki dan ton kulit sederhana gelap'
+  - lelaki
+  - pasangan
+  - ton kulit sederhana gelap
+👨🏾‍❤‍💋‍👨🏿:
+  - cium
+  - 'cium: lelaki, lelaki, ton kulit sederhana gelap dan ton kulit gelap'
+  - lelaki
+  - pasangan
+  - ton kulit gelap
+  - ton kulit sederhana gelap
+👨🏿‍❤‍💋‍👨🏻:
+  - cium
+  - 'cium: lelaki, lelaki, ton kulit gelap dan ton kulit cerah'
+  - lelaki
+  - pasangan
+  - ton kulit cerah
+  - ton kulit gelap
+👨🏿‍❤‍💋‍👨🏼:
+  - cium
+  - 'cium: lelaki, lelaki, ton kulit gelap dan ton kulit sederhana cerah'
+  - lelaki
+  - pasangan
+  - ton kulit gelap
+  - ton kulit sederhana cerah
+👨🏿‍❤‍💋‍👨🏽:
+  - cium
+  - 'cium: lelaki, lelaki, ton kulit gelap dan ton kulit sederhana'
+  - lelaki
+  - pasangan
+  - ton kulit gelap
+  - ton kulit sederhana
+👨🏿‍❤‍💋‍👨🏾:
+  - cium
+  - 'cium: lelaki, lelaki, ton kulit gelap dan ton kulit sederhana gelap'
+  - lelaki
+  - pasangan
+  - ton kulit gelap
+  - ton kulit sederhana gelap
+👨🏿‍❤‍💋‍👨🏿:
+  - cium
+  - 'cium: lelaki, lelaki dan ton kulit gelap'
+  - lelaki
+  - pasangan
+  - ton kulit gelap
+👨🏻‍❤‍👨🏻:
+  - cinta
+  - hati
+  - lelaki
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: lelaki, lelaki dan ton kulit cerah'
+  - percintaan
+  - ton kulit cerah
+👨🏻‍❤‍👨🏼:
+  - cinta
+  - hati
+  - lelaki
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: lelaki, lelaki, ton kulit cerah dan ton kulit sederhana
+    cerah'
+  - percintaan
+  - ton kulit cerah
+  - ton kulit sederhana cerah
+👨🏻‍❤‍👨🏽:
+  - cinta
+  - hati
+  - lelaki
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: lelaki, lelaki, ton kulit cerah dan ton kulit sederhana'
+  - percintaan
+  - ton kulit cerah
+  - ton kulit sederhana
+👨🏻‍❤‍👨🏾:
+  - cinta
+  - hati
+  - lelaki
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: lelaki, lelaki, ton kulit cerah dan ton kulit sederhana
+    gelap'
+  - percintaan
+  - ton kulit cerah
+  - ton kulit sederhana gelap
+👨🏻‍❤‍👨🏿:
+  - cinta
+  - hati
+  - lelaki
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: lelaki, lelaki, ton kulit cerah dan ton kulit gelap'
+  - percintaan
+  - ton kulit cerah
+  - ton kulit gelap
+👨🏼‍❤‍👨🏻:
+  - cinta
+  - hati
+  - lelaki
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: lelaki, lelaki, ton kulit sederhana cerah dan ton
+    kulit cerah'
+  - percintaan
+  - ton kulit cerah
+  - ton kulit sederhana cerah
+👨🏼‍❤‍👨🏼:
+  - cinta
+  - hati
+  - lelaki
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: lelaki, lelaki dan ton kulit sederhana cerah'
+  - percintaan
+  - ton kulit sederhana cerah
+👨🏼‍❤‍👨🏽:
+  - cinta
+  - hati
+  - lelaki
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: lelaki, lelaki, ton kulit sederhana cerah dan ton
+    kulit sederhana'
+  - percintaan
+  - ton kulit sederhana
+  - ton kulit sederhana cerah
+👨🏼‍❤‍👨🏾:
+  - cinta
+  - hati
+  - lelaki
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: lelaki, lelaki, ton kulit sederhana cerah dan ton
+    kulit sederhana gelap'
+  - percintaan
+  - ton kulit sederhana cerah
+  - ton kulit sederhana gelap
+👨🏼‍❤‍👨🏿:
+  - cinta
+  - hati
+  - lelaki
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: lelaki, lelaki, ton kulit sederhana cerah dan ton
+    kulit gelap'
+  - percintaan
+  - ton kulit gelap
+  - ton kulit sederhana cerah
+👨🏽‍❤‍👨🏻:
+  - cinta
+  - hati
+  - lelaki
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: lelaki, lelaki, ton kulit sederhana dan ton kulit
+    cerah'
+  - percintaan
+  - ton kulit cerah
+  - ton kulit sederhana
+👨🏽‍❤‍👨🏼:
+  - cinta
+  - hati
+  - lelaki
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: lelaki, lelaki, ton kulit sederhana dan ton kulit
+    sederhana cerah'
+  - percintaan
+  - ton kulit sederhana
+  - ton kulit sederhana cerah
+👨🏽‍❤‍👨🏽:
+  - cinta
+  - hati
+  - lelaki
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: lelaki, lelaki dan ton kulit sederhana'
+  - percintaan
+  - ton kulit sederhana
+👨🏽‍❤‍👨🏾:
+  - cinta
+  - hati
+  - lelaki
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: lelaki, lelaki, ton kulit sederhana dan ton kulit
+    sederhana gelap'
+  - percintaan
+  - ton kulit sederhana
+  - ton kulit sederhana gelap
+👨🏽‍❤‍👨🏿:
+  - cinta
+  - hati
+  - lelaki
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: lelaki, lelaki, ton kulit sederhana dan ton kulit
+    gelap'
+  - percintaan
+  - ton kulit gelap
+  - ton kulit sederhana
+👨🏾‍❤‍👨🏻:
+  - cinta
+  - hati
+  - lelaki
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: lelaki, lelaki, ton kulit sederhana gelap dan ton
+    kulit cerah'
+  - percintaan
+  - ton kulit cerah
+  - ton kulit sederhana gelap
+👨🏾‍❤‍👨🏼:
+  - cinta
+  - hati
+  - lelaki
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: lelaki, lelaki, ton kulit sederhana gelap dan ton
+    kulit sederhana cerah'
+  - percintaan
+  - ton kulit sederhana cerah
+  - ton kulit sederhana gelap
+👨🏾‍❤‍👨🏽:
+  - cinta
+  - hati
+  - lelaki
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: lelaki, lelaki, ton kulit sederhana gelap dan ton
+    kulit sederhana'
+  - percintaan
+  - ton kulit sederhana
+  - ton kulit sederhana gelap
+👨🏾‍❤‍👨🏾:
+  - cinta
+  - hati
+  - lelaki
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: lelaki, lelaki dan ton kulit sederhana gelap'
+  - percintaan
+  - ton kulit sederhana gelap
+👨🏾‍❤‍👨🏿:
+  - cinta
+  - hati
+  - lelaki
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: lelaki, lelaki, ton kulit sederhana gelap dan ton
+    kulit gelap'
+  - percintaan
+  - ton kulit gelap
+  - ton kulit sederhana gelap
+👨🏿‍❤‍👨🏻:
+  - cinta
+  - hati
+  - lelaki
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: lelaki, lelaki, ton kulit gelap dan ton kulit cerah'
+  - percintaan
+  - ton kulit cerah
+  - ton kulit gelap
+👨🏿‍❤‍👨🏼:
+  - cinta
+  - hati
+  - lelaki
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: lelaki, lelaki, ton kulit gelap dan ton kulit sederhana
+    cerah'
+  - percintaan
+  - ton kulit gelap
+  - ton kulit sederhana cerah
+👨🏿‍❤‍👨🏽:
+  - cinta
+  - hati
+  - lelaki
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: lelaki, lelaki, ton kulit gelap dan ton kulit sederhana'
+  - percintaan
+  - ton kulit gelap
+  - ton kulit sederhana
+👨🏿‍❤‍👨🏾:
+  - cinta
+  - hati
+  - lelaki
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: lelaki, lelaki, ton kulit gelap dan ton kulit sederhana
+    gelap'
+  - percintaan
+  - ton kulit gelap
+  - ton kulit sederhana gelap
+👨🏿‍❤‍👨🏿:
+  - cinta
+  - hati
+  - lelaki
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: lelaki, lelaki dan ton kulit gelap'
+  - percintaan
   - ton kulit gelap
 👨‍🦰:
   - dewasa
@@ -3116,6 +5378,40 @@
   - 'perempuan: ton kulit gelap'
   - ton kulit gelap
   - wanita
+🧔‍♀:
+  - janggut
+  - wanita
+  - 'wanita: janggut'
+🧔🏻‍♀:
+  - janggut
+  - ton kulit cerah
+  - wanita
+  - 'wanita: janggut'
+  - 'wanita: ton kulit cerah dan janggut'
+🧔🏼‍♀:
+  - janggut
+  - ton kulit sederhana cerah
+  - wanita
+  - 'wanita: janggut'
+  - 'wanita: ton kulit sederhana cerah dan janggut'
+🧔🏽‍♀:
+  - janggut
+  - ton kulit sederhana
+  - wanita
+  - 'wanita: janggut'
+  - 'wanita: ton kulit sederhana dan janggut'
+🧔🏾‍♀:
+  - janggut
+  - ton kulit sederhana gelap
+  - wanita
+  - 'wanita: janggut'
+  - 'wanita: ton kulit sederhana gelap dan janggut'
+🧔🏿‍♀:
+  - janggut
+  - ton kulit gelap
+  - wanita
+  - 'wanita: janggut'
+  - 'wanita: ton kulit gelap dan janggut'
 👱‍♀:
   - perang
   - 'perempuan: rambut perang'
@@ -3161,6 +5457,928 @@
   - ton kulit gelap
   - wanita
   - wanita rambut perang
+👩🏻‍❤‍💋‍👨🏻:
+  - cium
+  - 'cium: perempuan, lelaki dan ton kulit cerah'
+  - lelaki
+  - pasangan
+  - perempuan
+  - ton kulit cerah
+👩🏻‍❤‍💋‍👨🏼:
+  - cium
+  - 'cium: perempuan, lelaki, ton kulit cerah dan ton kulit sederhana cerah'
+  - lelaki
+  - pasangan
+  - perempuan
+  - ton kulit cerah
+  - ton kulit sederhana cerah
+👩🏻‍❤‍💋‍👨🏽:
+  - cium
+  - 'cium: perempuan, lelaki, ton kulit cerah dan ton kulit sederhana'
+  - lelaki
+  - pasangan
+  - perempuan
+  - ton kulit cerah
+  - ton kulit sederhana
+👩🏻‍❤‍💋‍👨🏾:
+  - cium
+  - 'cium: perempuan, lelaki, ton kulit cerah dan ton kulit sederhana gelap'
+  - lelaki
+  - pasangan
+  - perempuan
+  - ton kulit cerah
+  - ton kulit sederhana gelap
+👩🏻‍❤‍💋‍👨🏿:
+  - cium
+  - 'cium: perempuan, lelaki, ton kulit cerah dan ton kulit gelap'
+  - lelaki
+  - pasangan
+  - perempuan
+  - ton kulit cerah
+  - ton kulit gelap
+👩🏼‍❤‍💋‍👨🏻:
+  - cium
+  - 'cium: perempuan, lelaki, ton kulit sederhana cerah dan ton kulit cerah'
+  - lelaki
+  - pasangan
+  - perempuan
+  - ton kulit cerah
+  - ton kulit sederhana cerah
+👩🏼‍❤‍💋‍👨🏼:
+  - cium
+  - 'cium: perempuan, lelaki dan ton kulit sederhana cerah'
+  - lelaki
+  - pasangan
+  - perempuan
+  - ton kulit sederhana cerah
+👩🏼‍❤‍💋‍👨🏽:
+  - cium
+  - 'cium: perempuan, lelaki, ton kulit sederhana cerah dan ton kulit sederhana'
+  - lelaki
+  - pasangan
+  - perempuan
+  - ton kulit sederhana
+  - ton kulit sederhana cerah
+👩🏼‍❤‍💋‍👨🏾:
+  - cium
+  - 'cium: perempuan, lelaki, ton kulit sederhana cerah dan ton kulit sederhana gelap'
+  - lelaki
+  - pasangan
+  - perempuan
+  - ton kulit sederhana cerah
+  - ton kulit sederhana gelap
+👩🏼‍❤‍💋‍👨🏿:
+  - cium
+  - 'cium: perempuan, lelaki, ton kulit sederhana cerah dan ton kulit gelap'
+  - lelaki
+  - pasangan
+  - perempuan
+  - ton kulit gelap
+  - ton kulit sederhana cerah
+👩🏽‍❤‍💋‍👨🏻:
+  - cium
+  - 'cium: perempuan, lelaki, ton kulit sederhana dan ton kulit cerah'
+  - lelaki
+  - pasangan
+  - perempuan
+  - ton kulit cerah
+  - ton kulit sederhana
+👩🏽‍❤‍💋‍👨🏼:
+  - cium
+  - 'cium: perempuan, lelaki, ton kulit sederhana dan ton kulit sederhana cerah'
+  - lelaki
+  - pasangan
+  - perempuan
+  - ton kulit sederhana
+  - ton kulit sederhana cerah
+👩🏽‍❤‍💋‍👨🏽:
+  - cium
+  - 'cium: perempuan, lelaki dan ton kulit sederhana'
+  - lelaki
+  - pasangan
+  - perempuan
+  - ton kulit sederhana
+👩🏽‍❤‍💋‍👨🏾:
+  - cium
+  - 'cium: perempuan, lelaki, ton kulit sederhana dan ton kulit sederhana gelap'
+  - lelaki
+  - pasangan
+  - perempuan
+  - ton kulit sederhana
+  - ton kulit sederhana gelap
+👩🏽‍❤‍💋‍👨🏿:
+  - cium
+  - 'cium: perempuan, lelaki, ton kulit sederhana dan ton kulit gelap'
+  - lelaki
+  - pasangan
+  - perempuan
+  - ton kulit gelap
+  - ton kulit sederhana
+👩🏾‍❤‍💋‍👨🏻:
+  - cium
+  - 'cium: perempuan, lelaki, ton kulit sederhana gelap dan ton kulit cerah'
+  - lelaki
+  - pasangan
+  - perempuan
+  - ton kulit cerah
+  - ton kulit sederhana gelap
+👩🏾‍❤‍💋‍👨🏼:
+  - cium
+  - 'cium: perempuan, lelaki, ton kulit sederhana gelap dan ton kulit sederhana cerah'
+  - lelaki
+  - pasangan
+  - perempuan
+  - ton kulit sederhana cerah
+  - ton kulit sederhana gelap
+👩🏾‍❤‍💋‍👨🏽:
+  - cium
+  - 'cium: perempuan, lelaki, ton kulit sederhana gelap dan ton kulit sederhana'
+  - lelaki
+  - pasangan
+  - perempuan
+  - ton kulit sederhana
+  - ton kulit sederhana gelap
+👩🏾‍❤‍💋‍👨🏾:
+  - cium
+  - 'cium: perempuan, lelaki dan ton kulit sederhana gelap'
+  - lelaki
+  - pasangan
+  - perempuan
+  - ton kulit sederhana gelap
+👩🏾‍❤‍💋‍👨🏿:
+  - cium
+  - 'cium: perempuan, lelaki, ton kulit sederhana gelap dan ton kulit gelap'
+  - lelaki
+  - pasangan
+  - perempuan
+  - ton kulit gelap
+  - ton kulit sederhana gelap
+👩🏿‍❤‍💋‍👨🏻:
+  - cium
+  - 'cium: perempuan, lelaki, ton kulit gelap dan ton kulit cerah'
+  - lelaki
+  - pasangan
+  - perempuan
+  - ton kulit cerah
+  - ton kulit gelap
+👩🏿‍❤‍💋‍👨🏼:
+  - cium
+  - 'cium: perempuan, lelaki, ton kulit gelap dan ton kulit sederhana cerah'
+  - lelaki
+  - pasangan
+  - perempuan
+  - ton kulit gelap
+  - ton kulit sederhana cerah
+👩🏿‍❤‍💋‍👨🏽:
+  - cium
+  - 'cium: perempuan, lelaki, ton kulit gelap dan ton kulit sederhana'
+  - lelaki
+  - pasangan
+  - perempuan
+  - ton kulit gelap
+  - ton kulit sederhana
+👩🏿‍❤‍💋‍👨🏾:
+  - cium
+  - 'cium: perempuan, lelaki, ton kulit gelap dan ton kulit sederhana gelap'
+  - lelaki
+  - pasangan
+  - perempuan
+  - ton kulit gelap
+  - ton kulit sederhana gelap
+👩🏿‍❤‍💋‍👨🏿:
+  - cium
+  - 'cium: perempuan, lelaki dan ton kulit gelap'
+  - lelaki
+  - pasangan
+  - perempuan
+  - ton kulit gelap
+👩🏻‍❤‍💋‍👩🏻:
+  - cium
+  - 'cium: perempuan, perempuan dan ton kulit cerah'
+  - pasangan
+  - perempuan
+  - ton kulit cerah
+👩🏻‍❤‍💋‍👩🏼:
+  - cium
+  - 'cium: perempuan, perempuan, ton kulit cerah dan ton kulit sederhana cerah'
+  - pasangan
+  - perempuan
+  - ton kulit cerah
+  - ton kulit sederhana cerah
+👩🏻‍❤‍💋‍👩🏽:
+  - cium
+  - 'cium: perempuan, perempuan, ton kulit cerah dan ton kulit sederhana'
+  - pasangan
+  - perempuan
+  - ton kulit cerah
+  - ton kulit sederhana
+👩🏻‍❤‍💋‍👩🏾:
+  - cium
+  - 'cium: perempuan, perempuan, ton kulit cerah dan ton kulit sederhana gelap'
+  - pasangan
+  - perempuan
+  - ton kulit cerah
+  - ton kulit sederhana gelap
+👩🏻‍❤‍💋‍👩🏿:
+  - cium
+  - 'cium: perempuan, perempuan, ton kulit cerah dan ton kulit gelap'
+  - pasangan
+  - perempuan
+  - ton kulit cerah
+  - ton kulit gelap
+👩🏼‍❤‍💋‍👩🏻:
+  - cium
+  - 'cium: perempuan, perempuan, ton kulit sederhana cerah dan ton kulit cerah'
+  - pasangan
+  - perempuan
+  - ton kulit cerah
+  - ton kulit sederhana cerah
+👩🏼‍❤‍💋‍👩🏼:
+  - cium
+  - 'cium: perempuan, perempuan dan ton kulit sederhana cerah'
+  - pasangan
+  - perempuan
+  - ton kulit sederhana cerah
+👩🏼‍❤‍💋‍👩🏽:
+  - cium
+  - 'cium: perempuan, perempuan, ton kulit sederhana cerah dan ton kulit sederhana'
+  - pasangan
+  - perempuan
+  - ton kulit sederhana
+  - ton kulit sederhana cerah
+👩🏼‍❤‍💋‍👩🏾:
+  - cium
+  - 'cium: perempuan, perempuan, ton kulit sederhana cerah dan ton kulit sederhana
+    gelap'
+  - pasangan
+  - perempuan
+  - ton kulit sederhana cerah
+  - ton kulit sederhana gelap
+👩🏼‍❤‍💋‍👩🏿:
+  - cium
+  - 'cium: perempuan, perempuan, ton kulit sederhana cerah dan ton kulit gelap'
+  - pasangan
+  - perempuan
+  - ton kulit gelap
+  - ton kulit sederhana cerah
+👩🏽‍❤‍💋‍👩🏻:
+  - cium
+  - 'cium: perempuan, perempuan, ton kulit sederhana dan ton kulit cerah'
+  - pasangan
+  - perempuan
+  - ton kulit cerah
+  - ton kulit sederhana
+👩🏽‍❤‍💋‍👩🏼:
+  - cium
+  - 'cium: perempuan, perempuan, ton kulit sederhana dan ton kulit sederhana cerah'
+  - pasangan
+  - perempuan
+  - ton kulit sederhana
+  - ton kulit sederhana cerah
+👩🏽‍❤‍💋‍👩🏽:
+  - cium
+  - 'cium: perempuan, perempuan dan ton kulit sederhana'
+  - pasangan
+  - perempuan
+  - ton kulit sederhana
+👩🏽‍❤‍💋‍👩🏾:
+  - cium
+  - 'cium: perempuan, perempuan, ton kulit sederhana dan ton kulit sederhana gelap'
+  - pasangan
+  - perempuan
+  - ton kulit sederhana
+  - ton kulit sederhana gelap
+👩🏽‍❤‍💋‍👩🏿:
+  - cium
+  - 'cium: perempuan, perempuan, ton kulit sederhana dan ton kulit gelap'
+  - pasangan
+  - perempuan
+  - ton kulit gelap
+  - ton kulit sederhana
+👩🏾‍❤‍💋‍👩🏻:
+  - cium
+  - 'cium: perempuan, perempuan, ton kulit sederhana gelap dan ton kulit cerah'
+  - pasangan
+  - perempuan
+  - ton kulit cerah
+  - ton kulit sederhana gelap
+👩🏾‍❤‍💋‍👩🏼:
+  - cium
+  - 'cium: perempuan, perempuan, ton kulit sederhana gelap dan ton kulit sederhana
+    cerah'
+  - pasangan
+  - perempuan
+  - ton kulit sederhana cerah
+  - ton kulit sederhana gelap
+👩🏾‍❤‍💋‍👩🏽:
+  - cium
+  - 'cium: perempuan, perempuan, ton kulit sederhana gelap dan ton kulit sederhana'
+  - pasangan
+  - perempuan
+  - ton kulit sederhana
+  - ton kulit sederhana gelap
+👩🏾‍❤‍💋‍👩🏾:
+  - cium
+  - 'cium: perempuan, perempuan dan ton kulit sederhana gelap'
+  - pasangan
+  - perempuan
+  - ton kulit sederhana gelap
+👩🏾‍❤‍💋‍👩🏿:
+  - cium
+  - 'cium: perempuan, perempuan, ton kulit sederhana gelap dan ton kulit gelap'
+  - pasangan
+  - perempuan
+  - ton kulit gelap
+  - ton kulit sederhana gelap
+👩🏿‍❤‍💋‍👩🏻:
+  - cium
+  - 'cium: perempuan, perempuan, ton kulit gelap dan ton kulit cerah'
+  - pasangan
+  - perempuan
+  - ton kulit cerah
+  - ton kulit gelap
+👩🏿‍❤‍💋‍👩🏼:
+  - cium
+  - 'cium: perempuan, perempuan, ton kulit gelap dan ton kulit sederhana cerah'
+  - pasangan
+  - perempuan
+  - ton kulit gelap
+  - ton kulit sederhana cerah
+👩🏿‍❤‍💋‍👩🏽:
+  - cium
+  - 'cium: perempuan, perempuan, ton kulit gelap dan ton kulit sederhana'
+  - pasangan
+  - perempuan
+  - ton kulit gelap
+  - ton kulit sederhana
+👩🏿‍❤‍💋‍👩🏾:
+  - cium
+  - 'cium: perempuan, perempuan, ton kulit gelap dan ton kulit sederhana gelap'
+  - pasangan
+  - perempuan
+  - ton kulit gelap
+  - ton kulit sederhana gelap
+👩🏿‍❤‍💋‍👩🏿:
+  - cium
+  - 'cium: perempuan, perempuan dan ton kulit gelap'
+  - pasangan
+  - perempuan
+  - ton kulit gelap
+👩🏻‍❤‍👨🏻:
+  - cinta
+  - hati
+  - lelaki
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: perempuan, lelaki dan ton kulit cerah'
+  - percintaan
+  - perempuan
+  - ton kulit cerah
+👩🏻‍❤‍👨🏼:
+  - cinta
+  - hati
+  - lelaki
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: perempuan, lelaki, ton kulit cerah dan ton kulit
+    sederhana cerah'
+  - percintaan
+  - perempuan
+  - ton kulit cerah
+  - ton kulit sederhana cerah
+👩🏻‍❤‍👨🏽:
+  - cinta
+  - hati
+  - lelaki
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: perempuan, lelaki, ton kulit cerah dan ton kulit
+    sederhana'
+  - percintaan
+  - perempuan
+  - ton kulit cerah
+  - ton kulit sederhana
+👩🏻‍❤‍👨🏾:
+  - cinta
+  - hati
+  - lelaki
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: perempuan, lelaki, ton kulit cerah dan ton kulit
+    sederhana gelap'
+  - percintaan
+  - perempuan
+  - ton kulit cerah
+  - ton kulit sederhana gelap
+👩🏻‍❤‍👨🏿:
+  - cinta
+  - hati
+  - lelaki
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: perempuan, lelaki, ton kulit cerah dan ton kulit
+    gelap'
+  - percintaan
+  - perempuan
+  - ton kulit cerah
+  - ton kulit gelap
+👩🏼‍❤‍👨🏻:
+  - cinta
+  - hati
+  - lelaki
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: perempuan, lelaki, ton kulit sederhana cerah dan
+    ton kulit cerah'
+  - percintaan
+  - perempuan
+  - ton kulit cerah
+  - ton kulit sederhana cerah
+👩🏼‍❤‍👨🏼:
+  - cinta
+  - hati
+  - lelaki
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: perempuan, lelaki dan ton kulit sederhana cerah'
+  - percintaan
+  - perempuan
+  - ton kulit sederhana cerah
+👩🏼‍❤‍👨🏽:
+  - cinta
+  - hati
+  - lelaki
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: perempuan, lelaki, ton kulit sederhana cerah dan
+    ton kulit sederhana'
+  - percintaan
+  - perempuan
+  - ton kulit sederhana
+  - ton kulit sederhana cerah
+👩🏼‍❤‍👨🏾:
+  - cinta
+  - hati
+  - lelaki
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: perempuan, lelaki, ton kulit sederhana cerah dan
+    ton kulit sederhana gelap'
+  - percintaan
+  - perempuan
+  - ton kulit sederhana cerah
+  - ton kulit sederhana gelap
+👩🏼‍❤‍👨🏿:
+  - cinta
+  - hati
+  - lelaki
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: perempuan, lelaki, ton kulit sederhana cerah dan
+    ton kulit gelap'
+  - percintaan
+  - perempuan
+  - ton kulit gelap
+  - ton kulit sederhana cerah
+👩🏽‍❤‍👨🏻:
+  - cinta
+  - hati
+  - lelaki
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: perempuan, lelaki, ton kulit sederhana dan ton kulit
+    cerah'
+  - percintaan
+  - perempuan
+  - ton kulit cerah
+  - ton kulit sederhana
+👩🏽‍❤‍👨🏼:
+  - cinta
+  - hati
+  - lelaki
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: perempuan, lelaki, ton kulit sederhana dan ton kulit
+    sederhana cerah'
+  - percintaan
+  - perempuan
+  - ton kulit sederhana
+  - ton kulit sederhana cerah
+👩🏽‍❤‍👨🏽:
+  - cinta
+  - hati
+  - lelaki
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: perempuan, lelaki dan ton kulit sederhana'
+  - percintaan
+  - perempuan
+  - ton kulit sederhana
+👩🏽‍❤‍👨🏾:
+  - cinta
+  - hati
+  - lelaki
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: perempuan, lelaki, ton kulit sederhana dan ton kulit
+    sederhana gelap'
+  - percintaan
+  - perempuan
+  - ton kulit sederhana
+  - ton kulit sederhana gelap
+👩🏽‍❤‍👨🏿:
+  - cinta
+  - hati
+  - lelaki
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: perempuan, lelaki, ton kulit sederhana dan ton kulit
+    gelap'
+  - percintaan
+  - perempuan
+  - ton kulit gelap
+  - ton kulit sederhana
+👩🏾‍❤‍👨🏻:
+  - cinta
+  - hati
+  - lelaki
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: perempuan, lelaki, ton kulit sederhana gelap dan
+    ton kulit cerah'
+  - percintaan
+  - perempuan
+  - ton kulit cerah
+  - ton kulit sederhana gelap
+👩🏾‍❤‍👨🏼:
+  - cinta
+  - hati
+  - lelaki
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: perempuan, lelaki, ton kulit sederhana gelap dan
+    ton kulit sederhana cerah'
+  - percintaan
+  - perempuan
+  - ton kulit sederhana cerah
+  - ton kulit sederhana gelap
+👩🏾‍❤‍👨🏽:
+  - cinta
+  - hati
+  - lelaki
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: perempuan, lelaki, ton kulit sederhana gelap dan
+    ton kulit sederhana'
+  - percintaan
+  - perempuan
+  - ton kulit sederhana
+  - ton kulit sederhana gelap
+👩🏾‍❤‍👨🏾:
+  - cinta
+  - hati
+  - lelaki
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: perempuan, lelaki dan ton kulit sederhana gelap'
+  - percintaan
+  - perempuan
+  - ton kulit sederhana gelap
+👩🏾‍❤‍👨🏿:
+  - cinta
+  - hati
+  - lelaki
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: perempuan, lelaki, ton kulit sederhana gelap dan
+    ton kulit gelap'
+  - percintaan
+  - perempuan
+  - ton kulit gelap
+  - ton kulit sederhana gelap
+👩🏿‍❤‍👨🏻:
+  - cinta
+  - hati
+  - lelaki
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: perempuan, lelaki, ton kulit gelap dan ton kulit
+    cerah'
+  - percintaan
+  - perempuan
+  - ton kulit cerah
+  - ton kulit gelap
+👩🏿‍❤‍👨🏼:
+  - cinta
+  - hati
+  - lelaki
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: perempuan, lelaki, ton kulit gelap dan ton kulit
+    sederhana cerah'
+  - percintaan
+  - perempuan
+  - ton kulit gelap
+  - ton kulit sederhana cerah
+👩🏿‍❤‍👨🏽:
+  - cinta
+  - hati
+  - lelaki
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: perempuan, lelaki, ton kulit gelap dan ton kulit
+    sederhana'
+  - percintaan
+  - perempuan
+  - ton kulit gelap
+  - ton kulit sederhana
+👩🏿‍❤‍👨🏾:
+  - cinta
+  - hati
+  - lelaki
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: perempuan, lelaki, ton kulit gelap dan ton kulit
+    sederhana gelap'
+  - percintaan
+  - perempuan
+  - ton kulit gelap
+  - ton kulit sederhana gelap
+👩🏿‍❤‍👨🏿:
+  - cinta
+  - hati
+  - lelaki
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: perempuan, lelaki dan ton kulit gelap'
+  - percintaan
+  - perempuan
+  - ton kulit gelap
+👩🏻‍❤‍👩🏻:
+  - cinta
+  - hati
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: perempuan, perempuan dan ton kulit cerah'
+  - percintaan
+  - perempuan
+  - ton kulit cerah
+👩🏻‍❤‍👩🏼:
+  - cinta
+  - hati
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: perempuan, perempuan, ton kulit cerah dan ton kulit
+    sederhana cerah'
+  - percintaan
+  - perempuan
+  - ton kulit cerah
+  - ton kulit sederhana cerah
+👩🏻‍❤‍👩🏽:
+  - cinta
+  - hati
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: perempuan, perempuan, ton kulit cerah dan ton kulit
+    sederhana'
+  - percintaan
+  - perempuan
+  - ton kulit cerah
+  - ton kulit sederhana
+👩🏻‍❤‍👩🏾:
+  - cinta
+  - hati
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: perempuan, perempuan, ton kulit cerah dan ton kulit
+    sederhana gelap'
+  - percintaan
+  - perempuan
+  - ton kulit cerah
+  - ton kulit sederhana gelap
+👩🏻‍❤‍👩🏿:
+  - cinta
+  - hati
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: perempuan, perempuan, ton kulit cerah dan ton kulit
+    gelap'
+  - percintaan
+  - perempuan
+  - ton kulit cerah
+  - ton kulit gelap
+👩🏼‍❤‍👩🏻:
+  - cinta
+  - hati
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: perempuan, perempuan, ton kulit sederhana cerah
+    dan ton kulit cerah'
+  - percintaan
+  - perempuan
+  - ton kulit cerah
+  - ton kulit sederhana cerah
+👩🏼‍❤‍👩🏼:
+  - cinta
+  - hati
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: perempuan, perempuan dan ton kulit sederhana cerah'
+  - percintaan
+  - perempuan
+  - ton kulit sederhana cerah
+👩🏼‍❤‍👩🏽:
+  - cinta
+  - hati
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: perempuan, perempuan, ton kulit sederhana cerah
+    dan ton kulit sederhana'
+  - percintaan
+  - perempuan
+  - ton kulit sederhana
+  - ton kulit sederhana cerah
+👩🏼‍❤‍👩🏾:
+  - cinta
+  - hati
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: perempuan, perempuan, ton kulit sederhana cerah
+    dan ton kulit sederhana gelap'
+  - percintaan
+  - perempuan
+  - ton kulit sederhana cerah
+  - ton kulit sederhana gelap
+👩🏼‍❤‍👩🏿:
+  - cinta
+  - hati
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: perempuan, perempuan, ton kulit sederhana cerah
+    dan ton kulit gelap'
+  - percintaan
+  - perempuan
+  - ton kulit gelap
+  - ton kulit sederhana cerah
+👩🏽‍❤‍👩🏻:
+  - cinta
+  - hati
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: perempuan, perempuan, ton kulit sederhana dan ton
+    kulit cerah'
+  - percintaan
+  - perempuan
+  - ton kulit cerah
+  - ton kulit sederhana
+👩🏽‍❤‍👩🏼:
+  - cinta
+  - hati
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: perempuan, perempuan, ton kulit sederhana dan ton
+    kulit sederhana cerah'
+  - percintaan
+  - perempuan
+  - ton kulit sederhana
+  - ton kulit sederhana cerah
+👩🏽‍❤‍👩🏽:
+  - cinta
+  - hati
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: perempuan, perempuan dan ton kulit sederhana'
+  - percintaan
+  - perempuan
+  - ton kulit sederhana
+👩🏽‍❤‍👩🏾:
+  - cinta
+  - hati
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: perempuan, perempuan, ton kulit sederhana dan ton
+    kulit sederhana gelap'
+  - percintaan
+  - perempuan
+  - ton kulit sederhana
+  - ton kulit sederhana gelap
+👩🏽‍❤‍👩🏿:
+  - cinta
+  - hati
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: perempuan, perempuan, ton kulit sederhana dan ton
+    kulit gelap'
+  - percintaan
+  - perempuan
+  - ton kulit gelap
+  - ton kulit sederhana
+👩🏾‍❤‍👩🏻:
+  - cinta
+  - hati
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: perempuan, perempuan, ton kulit sederhana gelap
+    dan ton kulit cerah'
+  - percintaan
+  - perempuan
+  - ton kulit cerah
+  - ton kulit sederhana gelap
+👩🏾‍❤‍👩🏼:
+  - cinta
+  - hati
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: perempuan, perempuan, ton kulit sederhana gelap
+    dan ton kulit sederhana cerah'
+  - percintaan
+  - perempuan
+  - ton kulit sederhana cerah
+  - ton kulit sederhana gelap
+👩🏾‍❤‍👩🏽:
+  - cinta
+  - hati
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: perempuan, perempuan, ton kulit sederhana gelap
+    dan ton kulit sederhana'
+  - percintaan
+  - perempuan
+  - ton kulit sederhana
+  - ton kulit sederhana gelap
+👩🏾‍❤‍👩🏾:
+  - cinta
+  - hati
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: perempuan, perempuan dan ton kulit sederhana gelap'
+  - percintaan
+  - perempuan
+  - ton kulit sederhana gelap
+👩🏾‍❤‍👩🏿:
+  - cinta
+  - hati
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: perempuan, perempuan, ton kulit sederhana gelap
+    dan ton kulit gelap'
+  - percintaan
+  - perempuan
+  - ton kulit gelap
+  - ton kulit sederhana gelap
+👩🏿‍❤‍👩🏻:
+  - cinta
+  - hati
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: perempuan, perempuan, ton kulit gelap dan ton kulit
+    cerah'
+  - percintaan
+  - perempuan
+  - ton kulit cerah
+  - ton kulit gelap
+👩🏿‍❤‍👩🏼:
+  - cinta
+  - hati
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: perempuan, perempuan, ton kulit gelap dan ton kulit
+    sederhana cerah'
+  - percintaan
+  - perempuan
+  - ton kulit gelap
+  - ton kulit sederhana cerah
+👩🏿‍❤‍👩🏽:
+  - cinta
+  - hati
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: perempuan, perempuan, ton kulit gelap dan ton kulit
+    sederhana'
+  - percintaan
+  - perempuan
+  - ton kulit gelap
+  - ton kulit sederhana
+👩🏿‍❤‍👩🏾:
+  - cinta
+  - hati
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: perempuan, perempuan, ton kulit gelap dan ton kulit
+    sederhana gelap'
+  - percintaan
+  - perempuan
+  - ton kulit gelap
+  - ton kulit sederhana gelap
+👩🏿‍❤‍👩🏿:
+  - cinta
+  - hati
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: perempuan, perempuan dan ton kulit gelap'
+  - percintaan
+  - perempuan
+  - ton kulit gelap
 👩‍🦰:
   - perempuan
   - 'perempuan: rambut merah'
@@ -7103,6 +10321,41 @@
   - pejuang
   - senyap-senyap
   - tersembunyi
+🥷🏻:
+  - ninja
+  - 'ninja: ton kulit cerah'
+  - pejuang
+  - senyap-senyap
+  - tersembunyi
+  - ton kulit cerah
+🥷🏼:
+  - ninja
+  - 'ninja: ton kulit sederhana cerah'
+  - pejuang
+  - senyap-senyap
+  - tersembunyi
+  - ton kulit sederhana cerah
+🥷🏽:
+  - ninja
+  - 'ninja: ton kulit sederhana'
+  - pejuang
+  - senyap-senyap
+  - tersembunyi
+  - ton kulit sederhana
+🥷🏾:
+  - ninja
+  - 'ninja: ton kulit sederhana gelap'
+  - pejuang
+  - senyap-senyap
+  - tersembunyi
+  - ton kulit sederhana gelap
+🥷🏿:
+  - ninja
+  - 'ninja: ton kulit gelap'
+  - pejuang
+  - senyap-senyap
+  - tersembunyi
+  - ton kulit gelap
 👷:
   - pekerja
   - pekerja pembinaan
@@ -7214,6 +10467,52 @@
   - perempuan
   - ton kulit gelap
   - wanita
+🫅:
+  - agung
+  - kerabat diraja
+  - mulia
+  - orang memakai mahkota
+  - raja
+🫅🏻:
+  - agung
+  - kerabat diraja
+  - mulia
+  - orang memakai mahkota
+  - 'orang memakai mahkota: ton kulit cerah'
+  - raja
+  - ton kulit cerah
+🫅🏼:
+  - agung
+  - kerabat diraja
+  - mulia
+  - orang memakai mahkota
+  - 'orang memakai mahkota: ton kulit sederhana cerah'
+  - raja
+  - ton kulit sederhana cerah
+🫅🏽:
+  - agung
+  - kerabat diraja
+  - mulia
+  - orang memakai mahkota
+  - 'orang memakai mahkota: ton kulit sederhana'
+  - raja
+  - ton kulit sederhana
+🫅🏾:
+  - agung
+  - kerabat diraja
+  - mulia
+  - orang memakai mahkota
+  - 'orang memakai mahkota: ton kulit sederhana gelap'
+  - raja
+  - ton kulit sederhana gelap
+🫅🏿:
+  - agung
+  - kerabat diraja
+  - mulia
+  - orang memakai mahkota
+  - 'orang memakai mahkota: ton kulit gelap'
+  - raja
+  - ton kulit gelap
 🤴:
   - putera
 🤴🏻:
@@ -7467,41 +10766,41 @@
 🤵:
   - orang
   - orang bertuksedo
-  - pengantin
+  - pengantin lelaki
   - tuksedo
 🤵🏻:
   - orang
   - orang bertuksedo
   - 'orang bertuksedo: ton kulit cerah'
-  - pengantin
+  - pengantin lelaki
   - ton kulit cerah
   - tuksedo
 🤵🏼:
   - orang
   - orang bertuksedo
   - 'orang bertuksedo: ton kulit sederhana cerah'
-  - pengantin
+  - pengantin lelaki
   - ton kulit sederhana cerah
   - tuksedo
 🤵🏽:
   - orang
   - orang bertuksedo
   - 'orang bertuksedo: ton kulit sederhana'
-  - pengantin
+  - pengantin lelaki
   - ton kulit sederhana
   - tuksedo
 🤵🏾:
   - orang
   - orang bertuksedo
   - 'orang bertuksedo: ton kulit sederhana gelap'
-  - pengantin
+  - pengantin lelaki
   - ton kulit sederhana gelap
   - tuksedo
 🤵🏿:
   - orang
   - orang bertuksedo
   - 'orang bertuksedo: ton kulit gelap'
-  - pengantin
+  - pengantin lelaki
   - ton kulit gelap
   - tuksedo
 🤵‍♂:
@@ -7733,6 +11032,98 @@
   - ton kulit gelap
   - wanita
   - 'wanita hamil: ton kulit gelap'
+🫃:
+  - berangin
+  - hamil
+  - lelaki bunting
+  - penuh
+  - perut
+🫃🏻:
+  - berangin
+  - hamil
+  - lelaki bunting
+  - 'lelaki bunting: ton kulit cerah'
+  - penuh
+  - perut
+  - ton kulit cerah
+🫃🏼:
+  - berangin
+  - hamil
+  - lelaki bunting
+  - 'lelaki bunting: ton kulit sederhana cerah'
+  - penuh
+  - perut
+  - ton kulit sederhana cerah
+🫃🏽:
+  - berangin
+  - hamil
+  - lelaki bunting
+  - 'lelaki bunting: ton kulit sederhana'
+  - penuh
+  - perut
+  - ton kulit sederhana
+🫃🏾:
+  - berangin
+  - hamil
+  - lelaki bunting
+  - 'lelaki bunting: ton kulit sederhana gelap'
+  - penuh
+  - perut
+  - ton kulit sederhana gelap
+🫃🏿:
+  - berangin
+  - hamil
+  - lelaki bunting
+  - 'lelaki bunting: ton kulit gelap'
+  - penuh
+  - perut
+  - ton kulit gelap
+🫄:
+  - hamil
+  - kembung
+  - kenyang
+  - orang hamil
+  - perut
+🫄🏻:
+  - hamil
+  - kembung
+  - kenyang
+  - orang hamil
+  - 'orang hamil: ton kulit cerah'
+  - perut
+  - ton kulit cerah
+🫄🏼:
+  - hamil
+  - kembung
+  - kenyang
+  - orang hamil
+  - 'orang hamil: ton kulit sederhana cerah'
+  - perut
+  - ton kulit sederhana cerah
+🫄🏽:
+  - hamil
+  - kembung
+  - kenyang
+  - orang hamil
+  - 'orang hamil: ton kulit sederhana'
+  - perut
+  - ton kulit sederhana
+🫄🏾:
+  - hamil
+  - kembung
+  - kenyang
+  - orang hamil
+  - 'orang hamil: ton kulit sederhana gelap'
+  - perut
+  - ton kulit sederhana gelap
+🫄🏿:
+  - hamil
+  - kembung
+  - kenyang
+  - orang hamil
+  - 'orang hamil: ton kulit gelap'
+  - perut
+  - ton kulit gelap
 🤱:
   - bayi
   - menyusu
@@ -8075,14 +11466,12 @@
   - 'orang claus: ton kulit gelap'
   - ton kulit gelap
 🦸:
-  - adi wira
   - adiwira
   - baik
   - sangat berkuasa
   - wira
   - wirawati
 🦸🏻:
-  - adi wira
   - adiwira
   - 'adiwira: ton kulit cerah'
   - baik
@@ -8091,7 +11480,6 @@
   - wira
   - wirawati
 🦸🏼:
-  - adi wira
   - adiwira
   - 'adiwira: ton kulit sederhana cerah'
   - baik
@@ -8100,7 +11488,6 @@
   - wira
   - wirawati
 🦸🏽:
-  - adi wira
   - adiwira
   - 'adiwira: ton kulit sederhana'
   - baik
@@ -8109,7 +11496,6 @@
   - wira
   - wirawati
 🦸🏾:
-  - adi wira
   - adiwira
   - 'adiwira: ton kulit sederhana gelap'
   - baik
@@ -8118,7 +11504,6 @@
   - wira
   - wirawati
 🦸🏿:
-  - adi wira
   - adiwira
   - 'adiwira: ton kulit gelap'
   - baik
@@ -8862,6 +12247,10 @@
   - bangkai bernyawa
   - mayat hidup
   - zombi wanita
+🧌:
+  - fantasi
+  - kisah dongeng
+  - raksasa
 💆:
   - salun
   - urut
@@ -8939,46 +12328,46 @@
 💆‍♀:
   - muka
   - perempuan
-  - perempuan diurut mka
+  - perempuan diurut muka
   - urut
   - wanita
 💆🏻‍♀:
   - muka
   - perempuan
-  - perempuan diurut mka
-  - 'perempuan diurut mka: ton kulit cerah'
+  - perempuan diurut muka
+  - 'perempuan diurut muka: ton kulit cerah'
   - ton kulit cerah
   - urut
   - wanita
 💆🏼‍♀:
   - muka
   - perempuan
-  - perempuan diurut mka
-  - 'perempuan diurut mka: ton kulit sederhana cerah'
+  - perempuan diurut muka
+  - 'perempuan diurut muka: ton kulit sederhana cerah'
   - ton kulit sederhana cerah
   - urut
   - wanita
 💆🏽‍♀:
   - muka
   - perempuan
-  - perempuan diurut mka
-  - 'perempuan diurut mka: ton kulit sederhana'
+  - perempuan diurut muka
+  - 'perempuan diurut muka: ton kulit sederhana'
   - ton kulit sederhana
   - urut
   - wanita
 💆🏾‍♀:
   - muka
   - perempuan
-  - perempuan diurut mka
-  - 'perempuan diurut mka: ton kulit sederhana gelap'
+  - perempuan diurut muka
+  - 'perempuan diurut muka: ton kulit sederhana gelap'
   - ton kulit sederhana gelap
   - urut
   - wanita
 💆🏿‍♀:
   - muka
   - perempuan
-  - perempuan diurut mka
-  - 'perempuan diurut mka: ton kulit gelap'
+  - perempuan diurut muka
+  - 'perempuan diurut muka: ton kulit gelap'
   - ton kulit gelap
   - urut
   - wanita
@@ -9397,116 +12786,116 @@
 🧑‍🦯:
   - buta
   - kebolehsampaian
-  - orang dengan tongkat penduga
+  - orang dengan tongkat putih
 🧑🏻‍🦯:
   - buta
   - kebolehsampaian
-  - orang dengan tongkat penduga
-  - 'orang dengan tongkat penduga: ton kulit cerah'
+  - orang dengan tongkat putih
+  - 'orang dengan tongkat putih: ton kulit cerah'
   - ton kulit cerah
 🧑🏼‍🦯:
   - buta
   - kebolehsampaian
-  - orang dengan tongkat penduga
-  - 'orang dengan tongkat penduga: ton kulit sederhana cerah'
+  - orang dengan tongkat putih
+  - 'orang dengan tongkat putih: ton kulit sederhana cerah'
   - ton kulit sederhana cerah
 🧑🏽‍🦯:
   - buta
   - kebolehsampaian
-  - orang dengan tongkat penduga
-  - 'orang dengan tongkat penduga: ton kulit sederhana'
+  - orang dengan tongkat putih
+  - 'orang dengan tongkat putih: ton kulit sederhana'
   - ton kulit sederhana
 🧑🏾‍🦯:
   - buta
   - kebolehsampaian
-  - orang dengan tongkat penduga
-  - 'orang dengan tongkat penduga: ton kulit sederhana gelap'
+  - orang dengan tongkat putih
+  - 'orang dengan tongkat putih: ton kulit sederhana gelap'
   - ton kulit sederhana gelap
 🧑🏿‍🦯:
   - buta
   - kebolehsampaian
-  - orang dengan tongkat penduga
-  - 'orang dengan tongkat penduga: ton kulit gelap'
+  - orang dengan tongkat putih
+  - 'orang dengan tongkat putih: ton kulit gelap'
   - ton kulit gelap
 👨‍🦯:
   - buta
   - kebolehsampaian
   - lelaki
-  - lelaki dengan tongkat penduga
+  - lelaki dengan tongkat putih
 👨🏻‍🦯:
   - buta
   - kebolehsampaian
   - lelaki
-  - lelaki dengan tongkat penduga
-  - 'lelaki dengan tongkat penduga: ton kulit cerah'
+  - lelaki dengan tongkat putih
+  - 'lelaki dengan tongkat putih: ton kulit cerah'
   - ton kulit cerah
 👨🏼‍🦯:
   - buta
   - kebolehsampaian
   - lelaki
-  - lelaki dengan tongkat penduga
-  - 'lelaki dengan tongkat penduga: ton kulit sederhana cerah'
+  - lelaki dengan tongkat putih
+  - 'lelaki dengan tongkat putih: ton kulit sederhana cerah'
   - ton kulit sederhana cerah
 👨🏽‍🦯:
   - buta
   - kebolehsampaian
   - lelaki
-  - lelaki dengan tongkat penduga
-  - 'lelaki dengan tongkat penduga: ton kulit sederhana'
+  - lelaki dengan tongkat putih
+  - 'lelaki dengan tongkat putih: ton kulit sederhana'
   - ton kulit sederhana
 👨🏾‍🦯:
   - buta
   - kebolehsampaian
   - lelaki
-  - lelaki dengan tongkat penduga
-  - 'lelaki dengan tongkat penduga: ton kulit sederhana gelap'
+  - lelaki dengan tongkat putih
+  - 'lelaki dengan tongkat putih: ton kulit sederhana gelap'
   - ton kulit sederhana gelap
 👨🏿‍🦯:
   - buta
   - kebolehsampaian
   - lelaki
-  - lelaki dengan tongkat penduga
-  - 'lelaki dengan tongkat penduga: ton kulit gelap'
+  - lelaki dengan tongkat putih
+  - 'lelaki dengan tongkat putih: ton kulit gelap'
   - ton kulit gelap
 👩‍🦯:
   - buta
   - kebolehsampaian
   - perempuan
-  - perempuan dengan tongkat penduga
+  - perempuan dengan tongkat putih
 👩🏻‍🦯:
   - buta
   - kebolehsampaian
   - perempuan
-  - perempuan dengan tongkat penduga
-  - 'perempuan dengan tongkat penduga: ton kulit cerah'
+  - perempuan dengan tongkat putih
+  - 'perempuan dengan tongkat putih: ton kulit cerah'
   - ton kulit cerah
 👩🏼‍🦯:
   - buta
   - kebolehsampaian
   - perempuan
-  - perempuan dengan tongkat penduga
-  - 'perempuan dengan tongkat penduga: ton kulit sederhana cerah'
+  - perempuan dengan tongkat putih
+  - 'perempuan dengan tongkat putih: ton kulit sederhana cerah'
   - ton kulit sederhana cerah
 👩🏽‍🦯:
   - buta
   - kebolehsampaian
   - perempuan
-  - perempuan dengan tongkat penduga
-  - 'perempuan dengan tongkat penduga: ton kulit sederhana'
+  - perempuan dengan tongkat putih
+  - 'perempuan dengan tongkat putih: ton kulit sederhana'
   - ton kulit sederhana
 👩🏾‍🦯:
   - buta
   - kebolehsampaian
   - perempuan
-  - perempuan dengan tongkat penduga
-  - 'perempuan dengan tongkat penduga: ton kulit sederhana gelap'
+  - perempuan dengan tongkat putih
+  - 'perempuan dengan tongkat putih: ton kulit sederhana gelap'
   - ton kulit sederhana gelap
 👩🏿‍🦯:
   - buta
   - kebolehsampaian
   - perempuan
-  - perempuan dengan tongkat penduga
-  - 'perempuan dengan tongkat penduga: ton kulit gelap'
+  - perempuan dengan tongkat putih
+  - 'perempuan dengan tongkat putih: ton kulit gelap'
   - ton kulit gelap
 🧑‍🦼:
   - kebolehsampaian
@@ -12919,6 +16308,31 @@
 💏:
   - cium
   - pasangan
+💏🏻:
+  - cium
+  - 'cium: ton kulit cerah'
+  - pasangan
+  - ton kulit cerah
+💏🏼:
+  - cium
+  - 'cium: ton kulit sederhana cerah'
+  - pasangan
+  - ton kulit sederhana cerah
+💏🏽:
+  - cium
+  - 'cium: ton kulit sederhana'
+  - pasangan
+  - ton kulit sederhana
+💏🏾:
+  - cium
+  - 'cium: ton kulit sederhana gelap'
+  - pasangan
+  - ton kulit sederhana gelap
+💏🏿:
+  - cium
+  - 'cium: ton kulit gelap'
+  - pasangan
+  - ton kulit gelap
 👩‍❤‍💋‍👨:
   - cium
   - 'cium: perempuan dan lelaki'
@@ -12941,6 +16355,46 @@
   - pasangan
   - pasangan dengan simbol hati
   - percintaan
+💑🏻:
+  - cinta
+  - hati
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: ton kulit cerah'
+  - percintaan
+  - ton kulit cerah
+💑🏼:
+  - cinta
+  - hati
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: ton kulit sederhana cerah'
+  - percintaan
+  - ton kulit sederhana cerah
+💑🏽:
+  - cinta
+  - hati
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: ton kulit sederhana'
+  - percintaan
+  - ton kulit sederhana
+💑🏾:
+  - cinta
+  - hati
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: ton kulit sederhana gelap'
+  - percintaan
+  - ton kulit sederhana gelap
+💑🏿:
+  - cinta
+  - hati
+  - pasangan
+  - pasangan dengan simbol hati
+  - 'pasangan dengan simbol hati: ton kulit gelap'
+  - percintaan
+  - ton kulit gelap
 👩‍❤‍👨:
   - cinta
   - hati
@@ -13588,6 +17042,10 @@
   - berpilin
   - kulit kerang
   - kulit kerang berpilin
+🪸:
+  - karang
+  - laut
+  - terumbu
 🐌:
   - siput
 🦋:
@@ -13666,6 +17124,14 @@
 💮:
   - bunga
   - bunga putih
+🪷:
+  - Budisme
+  - Hinduisme
+  - India
+  - Vietnam
+  - bunga
+  - kesucian
+  - teratai
 🏵️:
   - roset
   - tumbuhan
@@ -13732,7 +17198,6 @@
 🍀:
   - '4'
   - bunga cengkih
-  - bunga cengkih berdaun empat
   - daun
   - daun bunga cengkih
   - empat
@@ -13752,6 +17217,14 @@
   - daun melayang ditiup angin
   - kibar
   - tiup
+🪹:
+  - petarangan
+  - sarang kosong
+🪺:
+  - petarangan
+  - sarang dengan telur
+🍄:
+  - cendawan
 🍇:
   - anggur
   - buah-buahan
@@ -13840,7 +17313,7 @@
   - sayur
 🌽:
   - jagung
-  - telinga
+  - setongkol
   - tongkol jagung
 🌶️:
   - cili api
@@ -13871,13 +17344,16 @@
 🧅:
   - bawang
   - perisa
-🍄:
-  - cendawan
 🥜:
   - kacang tanah
   - kekacang
   - makanan
   - sayur
+🫘:
+  - kacang
+  - kacang buncis
+  - legum
+  - makanan
 🌰:
   - buah berangan
 🍞:
@@ -14077,7 +17553,7 @@
   - festival
   - kuih bulan
   - musim luruh
-  - yuèbǐng
+  - yuebing
 🍡:
   - dango
   - jepun
@@ -14280,6 +17756,12 @@
   - gelas
   - gelas pendek
   - pendek
+🫗:
+  - gelas
+  - kosong
+  - menuang cecair
+  - minum
+  - tumpah
 🥤:
   - cawan dan straw
   - jus
@@ -14291,9 +17773,12 @@
   - teh
   - teh buih
 🧃:
-  - jus kotak
+  - jus
+  - kotak
+  - manis
+  - minuman
   - minuman air kotak
-  - minuman kotak
+  - straw
 🧉:
   - mate
   - minuman
@@ -14326,6 +17811,13 @@
   - pisau
   - pisau dapur
   - senjata
+🫙:
+  - balang
+  - bekas
+  - kosong
+  - rerempah
+  - simpan
+  - sos
 🏺:
   - amfora
   - aquarius
@@ -14608,6 +18100,10 @@
   - karusel
   - kuda
   - kuda karusel
+🛝:
+  - main
+  - papan gelongsor taman permainan
+  - taman hiburan
 🎡:
   - ferris
   - roda
@@ -14825,6 +18321,11 @@
   - pam bahan api
   - pam minyak
   - stesen
+🛞:
+  - bulatan
+  - putar
+  - roda
+  - tayar
 🚨:
   - berputar
   - kenderaan
@@ -14855,6 +18356,13 @@
   - alat
   - kapal
   - sauh
+🛟:
+  - boya
+  - keselamatan
+  - pemelihara keselamatan
+  - penyelamat
+  - selamatkan
+  - terapung
 ⛵️:
   - bot
   - kapal layar
@@ -15697,6 +19205,14 @@
   - layang-layang
   - melayang
   - terbang
+🔫:
+  - air
+  - alat
+  - pistol
+  - pistol air
+  - revolver
+  - senapang
+  - senjata
 🎱:
   - '8'
   - biliard
@@ -15716,13 +19232,6 @@
   - bestari
   - magik
   - tongkat sakti
-🧿:
-  - azimat nazar
-  - manik
-  - mantera
-  - mata syaitan
-  - nazar
-  - tangkal
 🎮️:
   - alat kawalan
   - permainan
@@ -15757,6 +19266,12 @@
   - parti
   - perayaan
   - pinata
+🪩:
+  - bola cermin
+  - disko
+  - kilauan
+  - menari
+  - parti
 🪆:
   - anak patung
   - anak potong sekelompok
@@ -16209,6 +19724,10 @@
   - mesin faksimili
 🔋:
   - bateri
+🪫:
+  - bateri lemah
+  - elektronik
+  - tenaga rendah
 🔌:
   - elektrik
   - kuasa elektrik
@@ -16725,11 +20244,9 @@
   - pedang
   - pedang bersilang
   - senjata
-🔫:
-  - alat
-  - pistol
-  - revolver
-  - senjata
+💣️:
+  - bom
+  - komik
 🪃:
   - australia
   - bertentangan
@@ -16737,13 +20254,10 @@
   - gema
   - lantun
 🏹:
-  - alat
+  - Sagittarius
   - busar
   - panah
   - panah dan busur
-  - pemanah
-  - sagittarius
-  - senjata
   - zodiak
 🛡️:
   - perisai
@@ -16870,11 +20384,24 @@
 🩹:
   - pembalut
   - pembalut adhesif
+🩼:
+  - alat bantu pergerakan
+  - kayu
+  - kehilangan upaya
+  - sakit
+  - tongkat
+  - topang
 🩺:
   - doktor
   - jantung
   - perubatan
   - stetoskop
+🩻:
+  - doktor
+  - perubatan
+  - rangka
+  - sinar-x
+  - tulang
 🚪:
   - pintu
 🛗:
@@ -16966,6 +20493,12 @@
   - membersih
   - sabun
   - sebuku
+🫧:
+  - bawah air
+  - bersih
+  - buih
+  - sabun
+  - sendawa
 🪥:
   - bersih
   - berus
@@ -17005,6 +20538,21 @@
   - pengebumian
   - takar
   - takar abu mayat
+🧿:
+  - azimat nazar
+  - manik
+  - mantera
+  - mata syaitan
+  - nazar
+  - tangkal
+🪬:
+  - Fatima
+  - Mary
+  - Miriam
+  - azimat
+  - hamsa
+  - perlindungan
+  - tangan
 🗿:
   - moyai
   - muka
@@ -17014,6 +20562,12 @@
   - plakad
   - protes
   - tanda
+🪪:
+  - ID
+  - kad pengenalan
+  - kelayakan
+  - keselamatan
+  - lesen
 🏧:
   - atm
   - automatik
@@ -17201,6 +20755,8 @@
 ↔️:
   - anak panah
   - anak panah ke kiri ke kanan
+↮:
+  - garis miring anak panah kiri kanan
 ↩️:
   - anak panah
   - anak panah ke kanan melengkung ke kiri
@@ -17527,6 +21083,10 @@
   - matematik
   - simbol
   - ÷
+🟰:
+  - kesamaan
+  - matematik
+  - tanda sama dengan tebal
 ♾️:
   - infiniti
   - sejagat
@@ -17570,7 +21130,7 @@
   - seru
   - tanda
   - tanda baca
-  - tanda seru
+  - tanda seru merah
 〰️:
   - berombak-ombak
   - sengkang
@@ -17608,12 +21168,9 @@
   - lencana nama
   - nama
 🔰:
-  - alat
+  - Jepun
   - chevron
   - daun
-  - hijau
-  - jepun
-  - kuning
   - pemula
   - simbol Jepun untuk pemula
 ⭕️:
@@ -17682,6 +21239,7 @@
   - hak cipta
 ®️:
   - berdaftar
+  - r
 ™️:
   - tanda
   - tanda dagangan
@@ -17818,10 +21376,11 @@
   - butang ‘di sini’ Jepun
   - jepun
 🈂️:
+  - '"caj perkhidmatan"'
   - Jepun
+  - butang "caj perkhidmatan" Jepun
   - butang ‘caj perkhidmatan’ Jepun
   - katakana
-  - サ
 🈷:
   - Jepun
   - butang “amaun bulanan” Jepun
@@ -18884,6 +22443,119 @@
 🏴󠁧󠁢󠁷󠁬󠁳󠁿:
   - bendera
   - 'bendera: Wales'
+¤:
+  - Mata Wang Tidak Diketahui
+¢:
+  - sen
+$:
+  - USD
+  - dolar
+  - peso
+  - wang
+£:
+  - EGP
+  - GBP
+  - mata wang
+  - paun
+¥:
+  - CNY
+  - JPY
+  - mata wang
+  - yen
+  - yuan
+֏:
+  - Dram Armenia
+؋:
+  - Afghani Afghanistan
+৳:
+  - Taka Bangladesh
+฿:
+  - Baht Thai
+៛:
+  - Riel Kemboja
+₡:
+  - Colon Costa Rica
+₢:
+  - cruzeiro
+₣:
+  - franc perancis
+₤:
+  - lira
+₥:
+  - juta
+₦:
+  - Naira Nigeria
+₩:
+  - KPW
+  - KRW
+  - won
+₪:
+  - Syekel Baharu Israel
+₫:
+  - Dong Vietnam
+€:
+  - EUR
+  - euro
+  - mata wang
+₭:
+  - Kip Laos
+₮:
+  - Tugrik Mongolia
+₰:
+  - peni jerman
+₱:
+  - peso
+₲:
+  - Guarani Paraguay
+₳:
+  - austral
+₴:
+  - Hryvnia Ukraine
+₵:
+  - Cedi Ghana
+₶:
+  - livre tournois
+₷:
+  - spesmilo
+₸:
+  - Tenge Kazakhstan
+₹:
+  - mata wang
+  - rupee
+  - rupee india
+₺:
+  - Lira Turki
+₼:
+  - Manat Azerbaijan
+₽:
+  - mata wang
+  - rouble
+₾:
+  - Lari Georgia
+₿:
+  - BTC
+  - bitcoin
+₨:
+  - rupee
+﷼:
+  - rial
+¹:
+  - nombor satu superskrip
+  - satu
+  - superskrip
+²:
+  - dua
+  - kuasa dua
+  - nombor dua superskrip
+  - superskrip
+³:
+  - kuasa tiga
+  - nombor tiga superskrip
+  - superskrip
+  - tiga
+µ:
+  - simbol mikro
+  - ukuran
 🏻:
   - jenis 1–2
   - ton kulit

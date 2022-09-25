@@ -1,4 +1,1466 @@
 {
+    "‾": [
+        "bovenlijn"
+    ],
+    "_": [
+        "lijn",
+        "onderstreping",
+        "underscore"
+    ],
+    "-": [
+        "gedachtestreepje",
+        "liggend streepje",
+        "verbindingsstreepje"
+    ],
+    "‐": [
+        "gedachtestreep",
+        "koppelteken",
+        "verbindingsstreepje"
+    ],
+    "–": [
+        "gedachte",
+        "gedachtestreepje",
+        "streepje"
+    ],
+    "—": [
+        "aandacht",
+        "aandachtsstreepje",
+        "streepje"
+    ],
+    "―": [
+        "balk",
+        "gedachtestreep",
+        "horizontale balk",
+        "lijn"
+    ],
+    "・": [
+        "hoge punt",
+        "katakana",
+        "katakana middelste punt",
+        "middenpunt",
+        "puntjes"
+    ],
+    ",": [
+        "komma"
+    ],
+    "،": [
+        "Arabisch",
+        "Arabische komma",
+        "komma"
+    ],
+    "、": [
+        "ideografisch",
+        "ideografische komma",
+        "komma"
+    ],
+    ";": [
+        "puntkomma"
+    ],
+    "؛": [
+        "Arabisch",
+        "Arabische puntkomma",
+        "puntkomma"
+    ],
+    ":": [
+        "dubbele punt"
+    ],
+    "!": [
+        "uitroep",
+        "uitroeppunt",
+        "uitroepteken"
+    ],
+    "¡": [
+        "omgekeerd",
+        "omgekeerd uitroepteken",
+        "uitroep",
+        "uitroeppunt",
+        "uitroepteken"
+    ],
+    "?": [
+        "vraag",
+        "vraagteken"
+    ],
+    "¿": [
+        "omgekeerd",
+        "omgekeerd vraagteken",
+        "vraag",
+        "vraagteken"
+    ],
+    "؟": [
+        "Arabisch",
+        "Arabisch vraagteken",
+        "vraag",
+        "vraagteken"
+    ],
+    "‽": [
+        "interrobang",
+        "vraagteken-uitroepteken"
+    ],
+    ".": [
+        "decimaal teken",
+        "punt"
+    ],
+    "…": [
+        "beletselteken",
+        "puntjes",
+        "weglating"
+    ],
+    "。": [
+        "ideografisch",
+        "ideografische punt",
+        "punt"
+    ],
+    "·": [
+        "hoge",
+        "hoge punt",
+        "interpunct",
+        "punt"
+    ],
+    "'": [
+        "aanhalingsteken",
+        "apostrof",
+        "enkel aanhalingsteken",
+        "recht aanhalingsteken",
+        "rechte apostrof"
+    ],
+    "‘": [
+        "aanhalingsteken",
+        "apostrof",
+        "linker aanhalingsteken",
+        "linker apostrof",
+        "slim aanhalingsteken"
+    ],
+    "’": [
+        "aanhalingsteken",
+        "apostrof",
+        "rechter aanhalingsteken",
+        "rechter apostrof",
+        "slim aanhalingsteken"
+    ],
+    "‚": [
+        "aanhalingsteken",
+        "apostrof",
+        "laag aanhalingsteken",
+        "lage rechter apostrof"
+    ],
+    "“": [
+        "aanhalingsteken",
+        "dubbel aanhalingsteken",
+        "linker dubbel aanhalingsteken",
+        "slim aanhalingsteken"
+    ],
+    "”": [
+        "aanhalingsteken",
+        "dubbel aanhalingsteken",
+        "rechter dubbel aanhalingsteken",
+        "slim aanhalingsteken"
+    ],
+    "„": [
+        "aanhalingsteken",
+        "dubbel aanhalingsteken",
+        "laag aanhalingsteken",
+        "laag rechter dubbel aanhalingsteken",
+        "slim aanhalingsteken"
+    ],
+    "«": [
+        "aanhalingsteken",
+        "guillemet naar links",
+        "haakjes",
+        "hoek",
+        "inlastekens",
+        "links",
+        "onderscheidingsteken"
+    ],
+    "»": [
+        "aanhalingsteken",
+        "guillemet naar rechts",
+        "haakjes",
+        "hoek",
+        "inlastektekens",
+        "onderscheidingsteken",
+        "rechts"
+    ],
+    ")": [
+        "haakje sluiten",
+        "ronde haak",
+        "sluithaakje"
+    ],
+    "[": [
+        "haak",
+        "rechte haak",
+        "rechte haak links",
+        "rechte haak openen"
+    ],
+    "]": [
+        "haak",
+        "rechte haak",
+        "rechte haak rechts",
+        "rechte haak sluiten"
+    ],
+    "{": [
+        "accolade",
+        "accolade links",
+        "accolade openen",
+        "krulhaakje",
+        "krulhaakje link",
+        "krulhaakje openen"
+    ],
+    "}": [
+        "accolade",
+        "accolade rechts",
+        "accolade sluiten",
+        "krulhaakje",
+        "krulhaakje rechts",
+        "krulhaakje sluiten"
+    ],
+    "〈": [
+        "chevron",
+        "haakje",
+        "hoekanker",
+        "punthaakje",
+        "punthaakje openen",
+        "ruithaakjes",
+        "tupel"
+    ],
+    "〉": [
+        "chevron",
+        "haakje",
+        "hoekanker",
+        "punthaakje",
+        "punthaakje sluiten",
+        "ruithaakjes",
+        "tupel"
+    ],
+    "《": [
+        "dubbel punthaakje",
+        "dubbel punthaakje openen",
+        "haakje"
+    ],
+    "》": [
+        "dubbel punthaakje",
+        "dubbel punthaakje sluiten",
+        "haakje"
+    ],
+    "「": [
+        "Oost-Aziatisch aanhalingsteken",
+        "Oost-Aziatisch aanhalingsteken openen",
+        "haakje"
+    ],
+    "」": [
+        "Oost-Aziatisch aanhalingsteken",
+        "Oost-Aziatisch aanhalingsteken sluiten",
+        "haakje"
+    ],
+    "『": [
+        "Aziatisch aanhalingsteken openen",
+        "haakje"
+    ],
+    "』": [
+        "Aziatisch aanhalingsteken sluiten",
+        "haakje"
+    ],
+    "【": [
+        "haakje",
+        "lenshaakje",
+        "lensvormig haakje",
+        "zwart lensvormig haakje openen"
+    ],
+    "】": [
+        "haakje",
+        "lenshaakje",
+        "lensvormig contourhaakje sluiten",
+        "lensvormig haakje"
+    ],
+    "〔": [
+        "haakje",
+        "schildhaakje",
+        "schildhaakje openen",
+        "schildpadhaakje"
+    ],
+    "〕": [
+        "haakje",
+        "schildhaakje",
+        "schildhaakje sluiten",
+        "schildpadhaakje"
+    ],
+    "〖": [
+        "haakje",
+        "lenshaakje",
+        "lensvormig haakje",
+        "lensvormig haakje openen"
+    ],
+    "〗": [
+        "haakje",
+        "lenshaakje",
+        "lensvormig haakje",
+        "lensvormig haakje sluiten"
+    ],
+    "§": [
+        "deel",
+        "paragraaf",
+        "paragraafsymbool"
+    ],
+    "¶": [
+        "alinea",
+        "alineateken",
+        "paraaf",
+        "paragraaf",
+        "paragraafteken"
+    ],
+    "@": [
+        "a-krol",
+        "amfoor",
+        "amfora",
+        "apenstaartje",
+        "at",
+        "slinger-a",
+        "slingeraap"
+    ],
+    "*️": [
+        "asterisk",
+        "jokerteken",
+        "sterretje"
+    ],
+    "/": [
+        "breukstreep",
+        "schrap",
+        "schuine lijn",
+        "schuine streep",
+        "streep"
+    ],
+    "\\": [
+        "backslash",
+        "omgekeerde schuine streep",
+        "terugschrap"
+    ],
+    "&": [
+        "en",
+        "en-teken",
+        "et"
+    ],
+    "#️": [
+        "aantal",
+        "hashtag",
+        "hekje",
+        "lb",
+        "pound"
+    ],
+    "%": [
+        "procent"
+    ],
+    "‰": [
+        "promille"
+    ],
+    "†": [
+        "obelisk",
+        "obelus"
+    ],
+    "‡": [
+        "dubbel",
+        "dubbele obelisk",
+        "obelisk",
+        "obelus"
+    ],
+    "•": [
+        "bullet",
+        "rondje"
+    ],
+    "‧": [
+        "gedachtestreepje",
+        "koppeling",
+        "koppelteken",
+        "punt"
+    ],
+    "′": [
+        "accent",
+        "prime"
+    ],
+    "″": [
+        "accent",
+        "dubbele prime"
+    ],
+    "‴": [
+        "accent",
+        "drievoudige prime"
+    ],
+    "‸": [
+        "inlasteken"
+    ],
+    "※": [
+        "referentieteken"
+    ],
+    "⁂": [
+        "asterisme",
+        "dinkus",
+        "sterren"
+    ],
+    "`": [
+        "accent",
+        "accent grave",
+        "grave",
+        "toon"
+    ],
+    "´": [
+        "accent",
+        "accent aigu",
+        "aigu",
+        "toon"
+    ],
+    "^": [
+        "aan/uit",
+        "aanwijzer",
+        "accent",
+        "accent circonflexe",
+        "caret",
+        "chevron",
+        "circonflexe",
+        "dakje",
+        "logische conjunctie",
+        "wedge"
+    ],
+    "¨": [
+        "trema",
+        "umlaut"
+    ],
+    "°": [
+        "bewijs",
+        "graden",
+        "uur"
+    ],
+    "℗": [
+        "copyright",
+        "copyright geluidsopname",
+        "geluid",
+        "opname"
+    ],
+    "←": [
+        "links",
+        "naar links wijzende pijl",
+        "pijl"
+    ],
+    "↚": [
+        "streep met pijl naar links"
+    ],
+    "→": [
+        "naar rechts wijzende pijl",
+        "pijl",
+        "rechts"
+    ],
+    "↛": [
+        "streep met pijl naar rechts"
+    ],
+    "↑": [
+        "omhoog",
+        "omhoog wijzende pijl",
+        "pijl"
+    ],
+    "↓": [
+        "omlaag",
+        "omlaag wijzende pijl",
+        "pijl"
+    ],
+    "↜": [
+        "golvende pijl naar links"
+    ],
+    "↝": [
+        "golvende pijl naar rechts"
+    ],
+    "↞": [
+        "pijl met twee koppen naar links"
+    ],
+    "↟": [
+        "pijl met twee koppen omhoog"
+    ],
+    "↠": [
+        "pijl met twee koppen naar rechts"
+    ],
+    "↡": [
+        "pijl met twee koppen omlaag"
+    ],
+    "↢": [
+        "pijl met staart naar links"
+    ],
+    "↣": [
+        "pijl met staart naar rechts"
+    ],
+    "↤": [
+        "pijl naar links vanaf balk"
+    ],
+    "↥": [
+        "pijl omhoog vanaf balk"
+    ],
+    "↦": [
+        "pijl naar rechts vanaf balk"
+    ],
+    "↧": [
+        "pijl omlaag vanaf balk"
+    ],
+    "↨": [
+        "pijl omhoog/omlaag met basis"
+    ],
+    "↫": [
+        "pijl met lus naar links"
+    ],
+    "↬": [
+        "pijl met lus naar rechts"
+    ],
+    "↭": [
+        "golvende pijl naar links/rechts"
+    ],
+    "↯": [
+        "zigzagpijl omlaag"
+    ],
+    "↰": [
+        "pijlpunt omhoog en naar links wijzend"
+    ],
+    "↱": [
+        "pijlpunt omhoog en naar rechts wijzend"
+    ],
+    "↲": [
+        "pijlpunt omlaag en naar links wijzend"
+    ],
+    "↳": [
+        "pijlpunt omlaag en naar rechts wijzend"
+    ],
+    "↴": [
+        "hoekpijl omlaag en naar rechts wijzend"
+    ],
+    "↵": [
+        "hoekpijl omlaag en naar links wijzend"
+    ],
+    "↶": [
+        "pijl omhoog tegen de klok in met halve cirkel"
+    ],
+    "↷": [
+        "pijl omhoog met de klok mee met halve cirkel"
+    ],
+    "↸": [
+        "pijl noordwest lange balk"
+    ],
+    "↹": [
+        "pijl naar links naar balk boven pijl naar rechts naar balk"
+    ],
+    "↺": [
+        "pijl met open cirkel tegen de klok in"
+    ],
+    "↻": [
+        "pijl met open cirkel met de klok mee"
+    ],
+    "↼": [
+        "harpoen naar links met weerhaak naar boven"
+    ],
+    "↽": [
+        "harpoen naar links met weerhaak naar beneden"
+    ],
+    "↾": [
+        "harpoen naar boven met weerhaak naar rechts"
+    ],
+    "↿": [
+        "harpoen naar boven met weerhaak naar links"
+    ],
+    "⇀": [
+        "harpoen naar rechts met weerhaak naar boven"
+    ],
+    "⇁": [
+        "harpoen naar rechts met weerhaak naar beneden"
+    ],
+    "⇂": [
+        "harpoen naar beneden met weerhaak naar rechts"
+    ],
+    "⇃": [
+        "harpoen naar beneden met weerhaak naar links"
+    ],
+    "⇄": [
+        "pijl naar rechts boven pijl naar links"
+    ],
+    "⇅": [
+        "omhoog",
+        "omhoog en omlaag wijzende pijlen",
+        "omlaag",
+        "pijl"
+    ],
+    "⇆": [
+        "links",
+        "naar links boven naar rechts wijzende pijlen",
+        "naar links wijzende boven naar rechts wijzende pijlen",
+        "pijl",
+        "rechts"
+    ],
+    "⇇": [
+        "twee pijlen naar links"
+    ],
+    "⇈": [
+        "twee pijlen naar boven"
+    ],
+    "⇉": [
+        "twee pijlen naar rechts"
+    ],
+    "⇊": [
+        "twee pijlen naar beneden"
+    ],
+    "⇋": [
+        "harpoen naar links boven harpoen naar rechts"
+    ],
+    "⇌": [
+        "harpoen naar rechts boven harpoen naar links"
+    ],
+    "⇐": [
+        "dubbele pijl naar links"
+    ],
+    "⇍": [
+        "dubbele doorgestreepte pijl naar links"
+    ],
+    "⇑": [
+        "dubbele pijl omhoog"
+    ],
+    "⇒": [
+        "dubbele pijl naar rechts"
+    ],
+    "⇏": [
+        "dubbele doorgestreepte pijl naar rechts"
+    ],
+    "⇓": [
+        "dubbele pijl omlaag"
+    ],
+    "⇔": [
+        "dubbele pijl links/rechts"
+    ],
+    "⇎": [
+        "dubbele doorgestreepte pijl links/rechts"
+    ],
+    "⇖": [
+        "dubbele pijl noordwest"
+    ],
+    "⇗": [
+        "dubbele pijl noordoost"
+    ],
+    "⇘": [
+        "dubbele pijl zuidoost"
+    ],
+    "⇙": [
+        "dubbele pijl zuidwest"
+    ],
+    "⇚": [
+        "driedubbele pijl naar links"
+    ],
+    "⇛": [
+        "driedubbele pijl naar rechts"
+    ],
+    "⇜": [
+        "kronkelpijl naar links"
+    ],
+    "⇝": [
+        "kronkelpijl naar rechts"
+    ],
+    "⇞": [
+        "pijl naar boven met twee strepen"
+    ],
+    "⇟": [
+        "pijl naar beneden met twee strepen"
+    ],
+    "⇠": [
+        "gestippelde pijl naar links"
+    ],
+    "⇡": [
+        "gestippelde pijl naar boven"
+    ],
+    "⇢": [
+        "gestippelde pijl naar rechts"
+    ],
+    "⇣": [
+        "gestippelde pijl naar beneden"
+    ],
+    "⇤": [
+        "pijl naar links naar balk"
+    ],
+    "⇥": [
+        "pijl naar rechts naar balk"
+    ],
+    "⇦": [
+        "doorzichtige pijl naar linkss"
+    ],
+    "⇧": [
+        "doorzichtige pijl naar boven"
+    ],
+    "⇨": [
+        "doorzichtige pijl naar rechts"
+    ],
+    "⇩": [
+        "doorzichtige pijl naar beneden"
+    ],
+    "⇪": [
+        "doorzichtige pijl naar boven vanaf balk"
+    ],
+    "⇵": [
+        "pijl omlaag links van pijl omhoog"
+    ],
+    "∀": [
+        "alles",
+        "gegeven",
+        "ieder",
+        "universeel",
+        "voor alles"
+    ],
+    "∂": [
+        "afgeleide",
+        "partiële afgeleide"
+    ],
+    "∃": [
+        "bestaat"
+    ],
+    "∅": [
+        "lege verzameling",
+        "verzameling-teken",
+        "wiskunde"
+    ],
+    "∆": [
+        "driehoek",
+        "toename"
+    ],
+    "∇": [
+        "driehoek",
+        "nabla"
+    ],
+    "∈": [
+        "bevat",
+        "element",
+        "element van",
+        "lidmaatschap",
+        "verzameling"
+    ],
+    "∉": [
+        "element",
+        "geen element van"
+    ],
+    "∋": [
+        "bevat als lid",
+        "element"
+    ],
+    "∎": [
+        "qed"
+    ],
+    "∏": [
+        "cartesisch product",
+        "logica",
+        "product"
+    ],
+    "∑": [
+        "productverzameling",
+        "verzameling",
+        "wiskunde"
+    ],
+    "+": [
+        "optellen",
+        "plus",
+        "plusteken"
+    ],
+    "±": [
+        "plusminus"
+    ],
+    "÷": [
+        "deelteken",
+        "delen",
+        "deling",
+        "obelus"
+    ],
+    "×": [
+        "keer",
+        "vermenigvuldigen",
+        "vermenigvuldiging",
+        "vermenigvuldigingsteken"
+    ],
+    "<": [
+        "kleiner dan",
+        "kleiner-danteken",
+        "punthaakje",
+        "punthaakje openen"
+    ],
+    "≮": [
+        "niet minder dan",
+        "ongelijkheid",
+        "wiskunde"
+    ],
+    "=": [
+        "gelijkteken",
+        "is gelijk aan"
+    ],
+    "≠": [
+        "is niet gelijk aan",
+        "niet-gelijkteken",
+        "ongelijkheid"
+    ],
+    ">": [
+        "groter dan",
+        "groter-danteken",
+        "punthaakje",
+        "punthaakje sluiten"
+    ],
+    "≯": [
+        "niet groter dan",
+        "ongelijkheid",
+        "wiskunde"
+    ],
+    "¬": [
+        "negatie",
+        "niet"
+    ],
+    "|": [
+        "baar",
+        "spaak",
+        "spijl",
+        "staaf",
+        "stang",
+        "stok",
+        "verticale lijn"
+    ],
+    "~": [
+        "tilde"
+    ],
+    "−": [
+        "aftrekken",
+        "min",
+        "minteken"
+    ],
+    "⁻": [
+        "min",
+        "superscript",
+        "superscript min"
+    ],
+    "∓": [
+        "min-of-plusteken",
+        "plusminus"
+    ],
+    "∕": [
+        "deelstreep",
+        "lijn",
+        "schuine streep",
+        "streep"
+    ],
+    "⁄": [
+        "breukstreep",
+        "schuine streep",
+        "streep"
+    ],
+    "∗": [
+        "asterisk-teken",
+        "sterretje"
+    ],
+    "∘": [
+        "operator",
+        "operator samenstelling",
+        "samenstelling"
+    ],
+    "∙": [
+        "operator",
+        "puntteken"
+    ],
+    "√": [
+        "onmeetbaar getal",
+        "radix",
+        "vierkant",
+        "vierkantswortel",
+        "wortelvorm"
+    ],
+    "∝": [
+        "evenredig",
+        "evenredigheid"
+    ],
+    "∞": [
+        "oneindig",
+        "oneindig teken"
+    ],
+    "∟": [
+        "rechte hoek",
+        "wiskunde"
+    ],
+    "∠": [
+        "hoek",
+        "scherp"
+    ],
+    "∣": [
+        "deler"
+    ],
+    "∥": [
+        "parallel"
+    ],
+    "∧": [
+        "ac",
+        "atque",
+        "logisch en",
+        "wig"
+    ],
+    "∩": [
+        "doorsnede",
+        "verzameling"
+    ],
+    "∪": [
+        "reeks",
+        "vereniging",
+        "verzameling"
+    ],
+    "∫": [
+        "calculus",
+        "integraal"
+    ],
+    "∬": [
+        "calculus",
+        "dubbele integraal"
+    ],
+    "∮": [
+        "kringintegraal"
+    ],
+    "∴": [
+        "daarom",
+        "logica"
+    ],
+    "∵": [
+        "logica",
+        "omdat"
+    ],
+    "∶": [
+        "ratio"
+    ],
+    "∷": [
+        "proportionaliteit",
+        "verhouding"
+    ],
+    "∼": [
+        "operator",
+        "tilde-teken"
+    ],
+    "∽": [
+        "omgekeerde tilde",
+        "tilde"
+    ],
+    "∾": [
+        "oneindigheid"
+    ],
+    "≃": [
+        "asymptoot",
+        "asymptotisch gelijkwaardig",
+        "asymptotisch gelijkwaardige",
+        "wiskunde"
+    ],
+    "≅": [
+        "ongeveer gelijk"
+    ],
+    "≈": [
+        "benadering",
+        "bijna gelijk aan",
+        "ongeveer gelijk aan",
+        "ongeveerteken"
+    ],
+    "≌": [
+        "alles gelijk",
+        "gelijkwaardigheid",
+        "wiskunde"
+    ],
+    "≒": [
+        "ongeveer gelijk aan de afbeelding"
+    ],
+    "≖": [
+        "gelijkheid",
+        "ring in gelijk",
+        "wiskunde"
+    ],
+    "≡": [
+        "drievoud",
+        "gelijk",
+        "gelijk aan",
+        "is gelijk aan",
+        "precies"
+    ],
+    "≣": [
+        "gelijkheid",
+        "strict gelijk",
+        "wiskunde"
+    ],
+    "≤": [
+        "gelijk aan",
+        "is gelijk aan",
+        "kleiner dan",
+        "kleiner dan of gelijk aan",
+        "ongelijk aan"
+    ],
+    "≥": [
+        "gelijk aan",
+        "groter dan",
+        "groter dan of gelijk aan",
+        "is gelijk aan",
+        "ongelijk aan"
+    ],
+    "≦": [
+        "is minder dan of gelijk aan",
+        "minder dan boven gelijk aan",
+        "ongelijkheid",
+        "wiskunde"
+    ],
+    "≧": [
+        "groter dan boven gelijk aan",
+        "ongelijkheid",
+        "wiskunde"
+    ],
+    "≪": [
+        "ongelijkheid",
+        "veel minder dan",
+        "wiskunde"
+    ],
+    "≫": [
+        "ongelijkheid",
+        "veel groter dan",
+        "wiskunde"
+    ],
+    "≬": [
+        "tussen"
+    ],
+    "≳": [
+        "groter of gelijk dan",
+        "ongelijkheid",
+        "wiskunde"
+    ],
+    "≺": [
+        "is belangrijker dan",
+        "komt voor",
+        "set operator",
+        "wiskunde"
+    ],
+    "≻": [
+        "komt na",
+        "set operator",
+        "wiskunde"
+    ],
+    "⊁": [
+        "komt niet na",
+        "set operator",
+        "wiskunde"
+    ],
+    "⊂": [
+        "deelverzameling",
+        "deelverzameling van",
+        "verzameling"
+    ],
+    "⊃": [
+        "set operator",
+        "superset",
+        "verzameling",
+        "wiskunde"
+    ],
+    "⊆": [
+        "deelverzameling gelijk aan"
+    ],
+    "⊇": [
+        "gelijkheid",
+        "verzameling gelijk aan",
+        "wiskunde"
+    ],
+    "⊕": [
+        "plus",
+        "plusteken in cirkel"
+    ],
+    "⊖": [
+        "erosie",
+        "minteken in cirkel",
+        "symmetrisch verschil"
+    ],
+    "⊗": [
+        "product",
+        "tensor",
+        "vermenigvuldigingsteken in cirkel"
+    ],
+    "⊘": [
+        "schuine streep voorwaarts in cirkel",
+        "wiskunde",
+        "zoals deling"
+    ],
+    "⊙": [
+        "XNOR",
+        "operator",
+        "operator met punt in cirkel"
+    ],
+    "⊚": [
+        "operator met ring in cirkel"
+    ],
+    "⊛": [
+        "asterisk",
+        "operator",
+        "operator met asterisk in cirkel"
+    ],
+    "⊞": [
+        "plusteken in vierkant",
+        "wiskunde",
+        "zoals een optelteken"
+    ],
+    "⊟": [
+        "minteken in vierkant",
+        "wiskunde",
+        "zoals een aftrekteken"
+    ],
+    "⊥": [
+        "falsum"
+    ],
+    "⊮": [
+        "forceert niet"
+    ],
+    "⊰": [
+        "komt voor onder relatie",
+        "set operator",
+        "wiskunde"
+    ],
+    "⊱": [
+        "komt na onder relatie",
+        "set operator",
+        "wiskunde"
+    ],
+    "⋭": [
+        "groepstheorie",
+        "is gelijk aan bevat geen normale deelverzameling",
+        "wiskunde"
+    ],
+    "⊶": [
+        "origineel"
+    ],
+    "⊹": [
+        "geconjugeerde hermitische matrix",
+        "vierkante matrix",
+        "wiskunde",
+        "zelf-geadjungeerde matrix"
+    ],
+    "⊿": [
+        "driehoek met hoek rechts",
+        "driehoek rechts",
+        "wiskunde"
+    ],
+    "⋁": [
+        "disjunctie",
+        "logisch",
+        "n-ary logisch of"
+    ],
+    "⋂": [
+        "doorsnede",
+        "n-ary doorsnede",
+        "n-ary doosnede",
+        "set operator",
+        "wiskunde"
+    ],
+    "⋃": [
+        "n-ary vereniging",
+        "set operator",
+        "vereniging",
+        "wiskunde"
+    ],
+    "⋅": [
+        "operator",
+        "puntoperator"
+    ],
+    "⋆": [
+        "operator",
+        "steroperator"
+    ],
+    "⋈": [
+        "binaire operator",
+        "natuurlijk samenvoegen",
+        "strikje"
+    ],
+    "⋒": [
+        "doorsnede",
+        "dubbele doorsnede",
+        "set operator",
+        "wiskunde"
+    ],
+    "⋘": [
+        "heel veel minder dan",
+        "ongelijkheid",
+        "wiskunde"
+    ],
+    "⋙": [
+        "heel veel groter dan",
+        "ongelijkheid",
+        "wiskunde"
+    ],
+    "⋮": [
+        "ellips",
+        "verticale ellips",
+        "wiskunde"
+    ],
+    "⋯": [
+        "ellips",
+        "horizontale ellips op middellijn"
+    ],
+    "⋰": [
+        "ellips",
+        "ellips diagonaal rechts omhoog",
+        "wiskunde"
+    ],
+    "⋱": [
+        "ellips",
+        "ellips diagonaal rechts omlaag",
+        "wiskunde"
+    ],
+    "■": [
+        "ingevuld vakje"
+    ],
+    "□": [
+        "leeg vakje"
+    ],
+    "▢": [
+        "leeg vakje met afgeronde hoeken"
+    ],
+    "▣": [
+        "leeg vakje met ingevuld vakje"
+    ],
+    "▤": [
+        "vakje met horizontale invulling"
+    ],
+    "▥": [
+        "vakje met verticale invulling"
+    ],
+    "▦": [
+        "vakje met invulling met orthogonale dubbele arcering"
+    ],
+    "▧": [
+        "vakje met invulling linksboven/rechtsonder"
+    ],
+    "▨": [
+        "vakje met invulling linksonder/rechtsboven"
+    ],
+    "▩": [
+        "vakje met invulling met diagonale dubbele arcering"
+    ],
+    "▬": [
+        "rechthoek met invulling"
+    ],
+    "▭": [
+        "holle rechthoek"
+    ],
+    "▮": [
+        "ingevulde verticale rechthoek"
+    ],
+    "▰": [
+        "ingevuld parallellogram"
+    ],
+    "▲": [
+        "driehoek",
+        "gevuld",
+        "gevulde, omhoog wijzende driehoek",
+        "omhoog",
+        "pijl"
+    ],
+    "△": [
+        "holle driehoek die naar boven wijst"
+    ],
+    "▴": [
+        "ingevulde kleine driehoek die naar boven wijst"
+    ],
+    "▵": [
+        "holle kleine driehoek die naar boven wijst"
+    ],
+    "▷": [
+        "holle driehoek die naar rechts wijst"
+    ],
+    "▸": [
+        "ingevulde kleine driehoek die naar rechts wijst"
+    ],
+    "▹": [
+        "holle kleine driehoek die naar rechts wijst"
+    ],
+    "►": [
+        "ingevulde pijl die naar rechts wijst"
+    ],
+    "▻": [
+        "holle pijl die naar rechts wijst"
+    ],
+    "▼": [
+        "driehoek",
+        "gevuld",
+        "gevulde, omlaag wijzende driehoek",
+        "omlaag",
+        "pijl"
+    ],
+    "▽": [
+        "holle pijl die omlaag wijst"
+    ],
+    "▾": [
+        "ingevulde kleine driehoek die omlaag wijst"
+    ],
+    "▿": [
+        "holle kleine driehoek die omlaag wijst"
+    ],
+    "◁": [
+        "holle driehoek die naar links wijst"
+    ],
+    "◂": [
+        "ingevulde kleine driehoek die naar links wijst"
+    ],
+    "◃": [
+        "holle kleine driehoek die naar links wijst"
+    ],
+    "◄": [
+        "ingevulde pijl die naar links wijst"
+    ],
+    "◅": [
+        "holle pijl die naar links wijst"
+    ],
+    "◆": [
+        "ingevulde ruit"
+    ],
+    "◇": [
+        "holle ruit"
+    ],
+    "◈": [
+        "holle ruit met ingevulde ruit"
+    ],
+    "◉": [
+        "concentrische cirkels ingevuld",
+        "holle cirkel met ingevulde cirkel",
+        "punt in cirkel",
+        "vissenoog"
+    ],
+    "◊": [
+        "ruit",
+        "ruitvorm",
+        "ruitvormig"
+    ],
+    "○": [
+        "cirkel",
+        "holle cirkel",
+        "ring"
+    ],
+    "◌": [
+        "gestippelde cirkel"
+    ],
+    "◍": [
+        "cirkel met verticale invulling"
+    ],
+    "◎": [
+        "concentrische cirkels",
+        "doel",
+        "dubbele cirkel"
+    ],
+    "●": [
+        "cirkel",
+        "gevulde cirkel"
+    ],
+    "◐": [
+        "cirkel met ingevulde linker helft"
+    ],
+    "◑": [
+        "cirkel met ingevulde rechter helft"
+    ],
+    "◒": [
+        "cirkel met ingevulde onderste helft"
+    ],
+    "◓": [
+        "cirkel met ingevulde bovenste helft"
+    ],
+    "◔": [
+        "cirkel met bovenste kwadrant rechts ingevuld"
+    ],
+    "◕": [
+        "cirkel met alles ingevuld behalve linker kwadrant"
+    ],
+    "◖": [
+        "cirkel met linker helft ingevuld"
+    ],
+    "◗": [
+        "cirkel met rechter helft ingevuld"
+    ],
+    "◘": [
+        "omgekeerd opsommingsteken"
+    ],
+    "◙": [
+        "ingevuld vakje met holle cirkel",
+        "omgekeerde holle cirkel"
+    ],
+    "◜": [
+        "ronde boog kwadrant linksboven"
+    ],
+    "◝": [
+        "ronde boog kwadrant rechtsboven"
+    ],
+    "◞": [
+        "ronde boog kwadrant rechtsonder"
+    ],
+    "◟": [
+        "ronde boog kwadrant linksonder"
+    ],
+    "◠": [
+        "bovenste halve cirkel"
+    ],
+    "◡": [
+        "onderste halve cirkel"
+    ],
+    "◢": [
+        "ingevulde driehoek rechtsonder"
+    ],
+    "◣": [
+        "ingevulde driehoek linksonder"
+    ],
+    "◤": [
+        "ingevulde driehoek linksboven"
+    ],
+    "◥": [
+        "ingevulde driehoek rechtsboven"
+    ],
+    "◦": [
+        "hol opsommingsteken"
+    ],
+    "◯": [
+        "cirkel",
+        "grote holle cirkel",
+        "ring"
+    ],
+    "◳": [
+        "hol vakje kwadrant rechtsboven"
+    ],
+    "◷": [
+        "holle cirkel met kwadrant rechtsboven"
+    ],
+    "◿": [
+        "driehoek rechtsonder"
+    ],
+    "♪": [
+        "achtste",
+        "achtste noot",
+        "muziek",
+        "noot"
+    ],
+    "⨧": [
+        "plus subscript twee"
+    ],
+    "⨯": [
+        "vectorkruisproduct"
+    ],
+    "⨼": [
+        "inwendig product"
+    ],
+    "⩣": [
+        "logische of dubbele onderbalk"
+    ],
+    "⩽": [
+        "minder dan of gelijk aan"
+    ],
+    "⪍": [
+        "minder dan boven soortgelijk aan"
+    ],
+    "⪚": [
+        "dubbele lijn soortgelijk aan groter dan"
+    ],
+    "⪺": [
+        "komt na boven niet bijna gelijk aan"
+    ],
+    "♭": [
+        "mol",
+        "molteken",
+        "muziek",
+        "noot"
+    ],
+    "♯": [
+        "diesis",
+        "dièse",
+        "kruis",
+        "muziek",
+        "noot"
+    ],
     "😀": [
         "gezicht",
         "grijns",
@@ -68,6 +1530,13 @@
         "ondersteboven",
         "op de kop"
     ],
+    "🫠": [
+        "oplossen",
+        "smelten",
+        "smeltend gezicht",
+        "verdwijnen",
+        "vloeibaar"
+    ],
     "😉": [
         "gezicht",
         "knipogend gezicht",
@@ -84,12 +1553,9 @@
         "engel",
         "fantasie",
         "gezicht",
-        "glimlach",
         "halo",
-        "lach",
         "lachend gezicht met halo",
-        "onschuldig",
-        "sprookje"
+        "onschuldig"
     ],
     "🥰": [
         "dol",
@@ -205,6 +1671,21 @@
         "gezicht met hand over de mond",
         "oeps"
     ],
+    "🫢": [
+        "bang",
+        "gezicht met open ogen en hand over de mond",
+        "ongeloof",
+        "ontzag",
+        "schaamte",
+        "verbazing",
+        "verrassing"
+    ],
+    "🫣": [
+        "geboeid",
+        "gezicht met glurend oog",
+        "gluren",
+        "staren"
+    ],
     "🤫": [
         "gezicht dat tot stilte maant",
         "sst",
@@ -214,6 +1695,14 @@
         "denken",
         "gezicht",
         "nadenkend gezicht"
+    ],
+    "🫡": [
+        "ja",
+        "oké",
+        "saluerend gezicht",
+        "saluut",
+        "troepen",
+        "zonnig"
     ],
     "🤐": [
         "gezicht",
@@ -246,6 +1735,20 @@
         "rustig",
         "stil"
     ],
+    "🫥": [
+        "depressief",
+        "gezicht in stippellijn",
+        "introvert",
+        "onzichtbaar",
+        "verbergen",
+        "verdwijnen"
+    ],
+    "😶‍🌫": [
+        "afwezig",
+        "gezicht in de mist",
+        "gezicht in de wolken",
+        "hoofd in de wolken"
+    ],
     "😏": [
         "gezicht",
         "gniffelen",
@@ -268,6 +1771,15 @@
         "gezicht",
         "gezicht met grimas",
         "grimas"
+    ],
+    "😮‍💨": [
+        "fluisteren",
+        "fluiten",
+        "gezicht dat uitademt",
+        "kreunen",
+        "naar adem snakken",
+        "opgelucht",
+        "uitademen"
     ],
     "🤥": [
         "gezicht",
@@ -373,6 +1885,14 @@
         "duizelig gezicht",
         "gezicht"
     ],
+    "😵‍💫": [
+        "duizelig",
+        "gehypnotiseerd",
+        "gezicht met spiraalvormige ogen",
+        "probleem",
+        "spiraalvormig",
+        "wow"
+    ],
     "🤯": [
         "geschokt",
         "ontploffend hoofd"
@@ -400,19 +1920,12 @@
         "vermomming"
     ],
     "😎": [
-        "bril",
+        "cool",
         "gezicht",
-        "glimlach",
-        "lach",
-        "lachen",
-        "lachend",
         "lachend gezicht met zonnebril",
-        "lachend met zonnebril",
-        "mooi weer",
-        "ogen",
-        "oog",
         "zon",
-        "zonnebril"
+        "zonnebril",
+        "zonnig"
     ],
     "🤓": [
         "geek",
@@ -429,6 +1942,13 @@
         "gezicht",
         "verward",
         "verward gezicht"
+    ],
+    "🫤": [
+        "gezicht met schuine mond",
+        "meh",
+        "onzeker",
+        "sceptisch",
+        "teleurgesteld"
     ],
     "😟": [
         "bezorgd",
@@ -480,6 +2000,14 @@
         "smekend gezicht",
         "zielig gezicht"
     ],
+    "🥹": [
+        "boos",
+        "gezicht dat tranen tegenhoudt",
+        "huilen",
+        "trots",
+        "verdrietig",
+        "verzetten"
+    ],
     "😦": [
         "frons",
         "fronsend gezicht met open mond",
@@ -505,8 +2033,6 @@
         "gehaast",
         "gezicht",
         "koud",
-        "mond",
-        "open",
         "zweet"
     ],
     "😥": [
@@ -648,11 +2174,11 @@
         "gezicht"
     ],
     "👹": [
+        "boeman",
         "fantasie",
         "gezicht",
         "monster",
         "sprookje",
-        "trol",
         "wezen"
     ],
     "👺": [
@@ -685,10 +2211,8 @@
         "alien",
         "buitenaards",
         "buitenaards monster",
-        "fantasie",
         "gezicht",
         "monster",
-        "sprookje",
         "ufo",
         "wezen"
     ],
@@ -769,44 +2293,27 @@
     ],
     "🙈": [
         "aap",
-        "gebaar",
-        "geen",
         "geen kwaad zien",
         "gezicht",
         "kwaad",
-        "niet",
-        "uit den boze",
         "verboden",
-        "zien"
+        "zie"
     ],
     "🙉": [
         "aap",
-        "gebaar",
-        "geen",
         "geen kwaad horen",
         "gezicht",
         "horen",
         "kwaad",
-        "niet",
-        "uit den boze",
         "verboden"
     ],
     "🙊": [
         "aap",
-        "gebaar",
-        "geen",
         "geen kwaad spreken",
         "gezicht",
         "kwaad",
-        "niet",
         "spreken",
-        "uit den boze",
         "verboden"
-    ],
-    "💋": [
-        "kus",
-        "lipafdruk",
-        "lippen"
     ],
     "💌": [
         "brief",
@@ -867,6 +2374,23 @@
         "gebroken",
         "gebroken hart"
     ],
+    "❤‍🔥": [
+        "branden",
+        "hart",
+        "hart in vuur en vlam",
+        "heilig hart",
+        "liefde",
+        "lust"
+    ],
+    "❤‍🩹": [
+        "gezond",
+        "gezonder",
+        "helend",
+        "helend hart",
+        "herstellen",
+        "herstellend",
+        "verbeterend"
+    ],
     "❤️": [
         "hart",
         "rood hart"
@@ -907,6 +2431,11 @@
         "wit",
         "wit hart"
     ],
+    "💋": [
+        "kus",
+        "lipafdruk",
+        "lippen"
+    ],
     "💯": [
         "100",
         "100 punten",
@@ -942,10 +2471,6 @@
     ],
     "🕳️": [
         "gat"
-    ],
-    "💣️": [
-        "bom",
-        "strip"
     ],
     "💬": [
         "ballon",
@@ -1160,7 +2685,6 @@
     "🖖": [
         "Vulcaanse groet",
         "hand",
-        "lichaam",
         "spock",
         "vinger",
         "vulcan"
@@ -1169,7 +2693,6 @@
         "Vulcaanse groet",
         "Vulcaanse groet: lichte huidskleur",
         "hand",
-        "lichaam",
         "lichte huidskleur",
         "spock",
         "vinger",
@@ -1179,7 +2702,6 @@
         "Vulcaanse groet",
         "Vulcaanse groet: lichtgetinte huidskleur",
         "hand",
-        "lichaam",
         "lichtgetinte huidskleur",
         "spock",
         "vinger",
@@ -1190,7 +2712,6 @@
         "Vulcaanse groet: getinte huidskleur",
         "getinte huidskleur",
         "hand",
-        "lichaam",
         "spock",
         "vinger",
         "vulcan"
@@ -1200,7 +2721,6 @@
         "Vulcaanse groet: donkergetinte huidskleur",
         "donkergetinte huidskleur",
         "hand",
-        "lichaam",
         "spock",
         "vinger",
         "vulcan"
@@ -1210,10 +2730,399 @@
         "Vulcaanse groet: donkere huidskleur",
         "donkere huidskleur",
         "hand",
-        "lichaam",
         "spock",
         "vinger",
         "vulcan"
+    ],
+    "🫱": [
+        "hand",
+        "hand naar rechts",
+        "naar rechts",
+        "rechts"
+    ],
+    "🫱🏻": [
+        "hand",
+        "hand naar rechts",
+        "hand naar rechts: lichte huidskleur",
+        "lichte huidskleur",
+        "naar rechts",
+        "rechts"
+    ],
+    "🫱🏼": [
+        "hand",
+        "hand naar rechts",
+        "hand naar rechts: lichtgetinte huidskleur",
+        "lichtgetinte huidskleur",
+        "naar rechts",
+        "rechts"
+    ],
+    "🫱🏽": [
+        "getinte huidskleur",
+        "hand",
+        "hand naar rechts",
+        "hand naar rechts: getinte huidskleur",
+        "naar rechts",
+        "rechts"
+    ],
+    "🫱🏾": [
+        "donkergetinte huidskleur",
+        "hand",
+        "hand naar rechts",
+        "hand naar rechts: donkergetinte huidskleur",
+        "naar rechts",
+        "rechts"
+    ],
+    "🫱🏿": [
+        "donkere huidskleur",
+        "hand",
+        "hand naar rechts",
+        "hand naar rechts: donkere huidskleur",
+        "naar rechts",
+        "rechts"
+    ],
+    "🫱🏻‍🫲🏼": [
+        "deal",
+        "hand",
+        "handdruk",
+        "handdruk: lichte huidskleur, lichtgetinte huidskleur",
+        "lichte huidskleur",
+        "lichtgetinte huidskleur",
+        "ontmoeting",
+        "overeenkomst"
+    ],
+    "🫱🏻‍🫲🏽": [
+        "deal",
+        "getinte huidskleur",
+        "hand",
+        "handdruk",
+        "handdruk: lichte huidskleur, getinte huidskleur",
+        "lichte huidskleur",
+        "ontmoeting",
+        "overeenkomst"
+    ],
+    "🫱🏻‍🫲🏾": [
+        "deal",
+        "donkergetinte huidskleur",
+        "hand",
+        "handdruk",
+        "handdruk: lichte huidskleur, donkergetinte huidskleur",
+        "lichte huidskleur",
+        "ontmoeting",
+        "overeenkomst"
+    ],
+    "🫱🏻‍🫲🏿": [
+        "deal",
+        "donkere huidskleur",
+        "hand",
+        "handdruk",
+        "handdruk: lichte huidskleur, donkere huidskleur",
+        "lichte huidskleur",
+        "ontmoeting",
+        "overeenkomst"
+    ],
+    "🫱🏼‍🫲🏻": [
+        "deal",
+        "hand",
+        "handdruk",
+        "handdruk: lichtgetinte huidskleur, lichte huidskleur",
+        "lichte huidskleur",
+        "lichtgetinte huidskleur",
+        "ontmoeting",
+        "overeenkomst"
+    ],
+    "🫱🏼‍🫲🏽": [
+        "deal",
+        "getinte huidskleur",
+        "hand",
+        "handdruk",
+        "handdruk: lichtgetinte huidskleur, getinte huidskleur",
+        "lichtgetinte huidskleur",
+        "ontmoeting",
+        "overeenkomst"
+    ],
+    "🫱🏼‍🫲🏾": [
+        "deal",
+        "donkergetinte huidskleur",
+        "hand",
+        "handdruk",
+        "handdruk: lichtgetinte huidskleur, donkergetinte huidskleur",
+        "lichtgetinte huidskleur",
+        "ontmoeting",
+        "overeenkomst"
+    ],
+    "🫱🏼‍🫲🏿": [
+        "deal",
+        "donkere huidskleur",
+        "hand",
+        "handdruk",
+        "handdruk: lichtgetinte huidskleur, donkere huidskleur",
+        "lichtgetinte huidskleur",
+        "ontmoeting",
+        "overeenkomst"
+    ],
+    "🫱🏽‍🫲🏻": [
+        "deal",
+        "getinte huidskleur",
+        "hand",
+        "handdruk",
+        "handdruk: getinte huidskleur, lichte huidskleur",
+        "lichte huidskleur",
+        "ontmoeting",
+        "overeenkomst"
+    ],
+    "🫱🏽‍🫲🏼": [
+        "deal",
+        "getinte huidskleur",
+        "hand",
+        "handdruk",
+        "handdruk: getinte huidskleur, lichtgetinte huidskleur",
+        "lichtgetinte huidskleur",
+        "ontmoeting",
+        "overeenkomst"
+    ],
+    "🫱🏽‍🫲🏾": [
+        "deal",
+        "donkergetinte huidskleur",
+        "getinte huidskleur",
+        "hand",
+        "handdruk",
+        "handdruk: getinte huidskleur, donkergetinte huidskleur",
+        "ontmoeting",
+        "overeenkomst"
+    ],
+    "🫱🏽‍🫲🏿": [
+        "deal",
+        "donkere huidskleur",
+        "getinte huidskleur",
+        "hand",
+        "handdruk",
+        "handdruk: getinte huidskleur, donkere huidskleur",
+        "ontmoeting",
+        "overeenkomst"
+    ],
+    "🫱🏾‍🫲🏻": [
+        "deal",
+        "donkergetinte huidskleur",
+        "hand",
+        "handdruk",
+        "handdruk: donkergetinte huidskleur, lichte huidskleur",
+        "lichte huidskleur",
+        "ontmoeting",
+        "overeenkomst"
+    ],
+    "🫱🏾‍🫲🏼": [
+        "deal",
+        "donkergetinte huidskleur",
+        "hand",
+        "handdruk",
+        "handdruk: donkergetinte huidskleur, lichtgetinte huidskleur",
+        "lichtgetinte huidskleur",
+        "ontmoeting",
+        "overeenkomst"
+    ],
+    "🫱🏾‍🫲🏽": [
+        "deal",
+        "donkergetinte huidskleur",
+        "getinte huidskleur",
+        "hand",
+        "handdruk",
+        "handdruk: donkergetinte huidskleur, getinte huidskleur",
+        "ontmoeting",
+        "overeenkomst"
+    ],
+    "🫱🏾‍🫲🏿": [
+        "deal",
+        "donkere huidskleur",
+        "donkergetinte huidskleur",
+        "hand",
+        "handdruk",
+        "handdruk: donkergetinte huidskleur, donkere huidskleur",
+        "ontmoeting",
+        "overeenkomst"
+    ],
+    "🫱🏿‍🫲🏻": [
+        "deal",
+        "donkere huidskleur",
+        "hand",
+        "handdruk",
+        "handdruk: donkere huidskleur, lichte huidskleur",
+        "lichte huidskleur",
+        "ontmoeting",
+        "overeenkomst"
+    ],
+    "🫱🏿‍🫲🏼": [
+        "deal",
+        "donkere huidskleur",
+        "hand",
+        "handdruk",
+        "handdruk: donkere huidskleur, lichtgetinte huidskleur",
+        "lichtgetinte huidskleur",
+        "ontmoeting",
+        "overeenkomst"
+    ],
+    "🫱🏿‍🫲🏽": [
+        "deal",
+        "donkere huidskleur",
+        "getinte huidskleur",
+        "hand",
+        "handdruk",
+        "handdruk: donkere huidskleur, getinte huidskleur",
+        "ontmoeting",
+        "overeenkomst"
+    ],
+    "🫱🏿‍🫲🏾": [
+        "deal",
+        "donkere huidskleur",
+        "donkergetinte huidskleur",
+        "hand",
+        "handdruk",
+        "handdruk: donkere huidskleur, donkergetinte huidskleur",
+        "ontmoeting",
+        "overeenkomst"
+    ],
+    "🫲": [
+        "hand",
+        "hand naar links",
+        "links",
+        "naar links"
+    ],
+    "🫲🏻": [
+        "hand",
+        "hand naar links",
+        "hand naar links: lichte huidskleur",
+        "lichte huidskleur",
+        "links",
+        "naar links"
+    ],
+    "🫲🏼": [
+        "hand",
+        "hand naar links",
+        "hand naar links: lichtgetinte huidskleur",
+        "lichtgetinte huidskleur",
+        "links",
+        "naar links"
+    ],
+    "🫲🏽": [
+        "getinte huidskleur",
+        "hand",
+        "hand naar links",
+        "hand naar links: getinte huidskleur",
+        "links",
+        "naar links"
+    ],
+    "🫲🏾": [
+        "donkergetinte huidskleur",
+        "hand",
+        "hand naar links",
+        "hand naar links: donkergetinte huidskleur",
+        "links",
+        "naar links"
+    ],
+    "🫲🏿": [
+        "donkere huidskleur",
+        "hand",
+        "hand naar links",
+        "hand naar links: donkere huidskleur",
+        "links",
+        "naar links"
+    ],
+    "🫳": [
+        "handpalm omlaag",
+        "laten vallen",
+        "wegjagen",
+        "wegsturen"
+    ],
+    "🫳🏻": [
+        "handpalm omlaag",
+        "handpalm omlaag: lichte huidskleur",
+        "laten vallen",
+        "lichte huidskleur",
+        "wegjagen",
+        "wegsturen"
+    ],
+    "🫳🏼": [
+        "handpalm omlaag",
+        "handpalm omlaag: lichtgetinte huidskleur",
+        "laten vallen",
+        "lichtgetinte huidskleur",
+        "wegjagen",
+        "wegsturen"
+    ],
+    "🫳🏽": [
+        "getinte huidskleur",
+        "handpalm omlaag",
+        "handpalm omlaag: getinte huidskleur",
+        "laten vallen",
+        "wegjagen",
+        "wegsturen"
+    ],
+    "🫳🏾": [
+        "donkergetinte huidskleur",
+        "handpalm omlaag",
+        "handpalm omlaag: donkergetinte huidskleur",
+        "laten vallen",
+        "wegjagen",
+        "wegsturen"
+    ],
+    "🫳🏿": [
+        "donkere huidskleur",
+        "handpalm omlaag",
+        "handpalm omlaag: donkere huidskleur",
+        "laten vallen",
+        "wegjagen",
+        "wegsturen"
+    ],
+    "🫴": [
+        "aanbieden",
+        "handpalm omhoog",
+        "kom",
+        "vangen",
+        "wenken"
+    ],
+    "🫴🏻": [
+        "aanbieden",
+        "handpalm omhoog",
+        "handpalm omhoog: lichte huidskleur",
+        "kom",
+        "lichte huidskleur",
+        "vangen",
+        "wenken"
+    ],
+    "🫴🏼": [
+        "aanbieden",
+        "handpalm omhoog",
+        "handpalm omhoog: lichtgetinte huidskleur",
+        "kom",
+        "lichtgetinte huidskleur",
+        "vangen",
+        "wenken"
+    ],
+    "🫴🏽": [
+        "aanbieden",
+        "getinte huidskleur",
+        "handpalm omhoog",
+        "handpalm omhoog: getinte huidskleur",
+        "kom",
+        "vangen",
+        "wenken"
+    ],
+    "🫴🏾": [
+        "aanbieden",
+        "donkergetinte huidskleur",
+        "handpalm omhoog",
+        "handpalm omhoog: donkergetinte huidskleur",
+        "kom",
+        "vangen",
+        "wenken"
+    ],
+    "🫴🏿": [
+        "aanbieden",
+        "donkere huidskleur",
+        "handpalm omhoog",
+        "handpalm omhoog: donkere huidskleur",
+        "kom",
+        "vangen",
+        "wenken"
     ],
     "👌": [
         "OK",
@@ -1440,6 +3349,64 @@
         "hand",
         "vinger"
     ],
+    "🫰": [
+        "duur",
+        "geld",
+        "hand met wijsvinger en duim gekruist",
+        "hart",
+        "liefde",
+        "vingerknip"
+    ],
+    "🫰🏻": [
+        "duur",
+        "geld",
+        "hand met wijsvinger en duim gekruist",
+        "hand met wijsvinger en duim gekruist: lichte huidskleur",
+        "hart",
+        "lichte huidskleur",
+        "liefde",
+        "vingerknip"
+    ],
+    "🫰🏼": [
+        "duur",
+        "geld",
+        "hand met wijsvinger en duim gekruist",
+        "hand met wijsvinger en duim gekruist: lichtgetinte huidskleur",
+        "hart",
+        "lichtgetinte huidskleur",
+        "liefde",
+        "vingerknip"
+    ],
+    "🫰🏽": [
+        "duur",
+        "geld",
+        "getinte huidskleur",
+        "hand met wijsvinger en duim gekruist",
+        "hand met wijsvinger en duim gekruist: getinte huidskleur",
+        "hart",
+        "liefde",
+        "vingerknip"
+    ],
+    "🫰🏾": [
+        "donkergetinte huidskleur",
+        "duur",
+        "geld",
+        "hand met wijsvinger en duim gekruist",
+        "hand met wijsvinger en duim gekruist: donkergetinte huidskleur",
+        "hart",
+        "liefde",
+        "vingerknip"
+    ],
+    "🫰🏿": [
+        "donkere huidskleur",
+        "duur",
+        "geld",
+        "hand met wijsvinger en duim gekruist",
+        "hand met wijsvinger en duim gekruist: donkere huidskleur",
+        "hart",
+        "liefde",
+        "vingerknip"
+    ],
     "🤟": [
         "ILY",
         "hand",
@@ -1573,144 +3540,132 @@
         "hand"
     ],
     "👈️": [
+        "achterkant van de hand",
+        "achterkant van de hand met naar links wijzende wijsvinger",
         "achterkant van hand met naar links wijzende wijsvinger",
         "hand",
-        "lichaam",
         "vinger",
-        "vinger wijst naar links",
         "wijsvinger",
-        "wijzen",
-        "wijzend"
+        "wijzen"
     ],
     "👈🏻": [
+        "achterkant van de hand",
+        "achterkant van de hand met naar links wijzende wijsvinger",
         "achterkant van hand met naar links wijzende wijsvinger",
         "achterkant van hand met naar links wijzende wijsvinger: lichte huidskleur",
         "hand",
-        "lichaam",
         "lichte huidskleur",
         "vinger",
-        "vinger wijst naar links",
         "wijsvinger",
-        "wijzen",
-        "wijzend"
+        "wijzen"
     ],
     "👈🏼": [
+        "achterkant van de hand",
+        "achterkant van de hand met naar links wijzende wijsvinger",
         "achterkant van hand met naar links wijzende wijsvinger",
         "achterkant van hand met naar links wijzende wijsvinger: lichtgetinte huidskleur",
         "hand",
-        "lichaam",
         "lichtgetinte huidskleur",
         "vinger",
-        "vinger wijst naar links",
         "wijsvinger",
-        "wijzen",
-        "wijzend"
+        "wijzen"
     ],
     "👈🏽": [
+        "achterkant van de hand",
+        "achterkant van de hand met naar links wijzende wijsvinger",
         "achterkant van hand met naar links wijzende wijsvinger",
         "achterkant van hand met naar links wijzende wijsvinger: getinte huidskleur",
         "getinte huidskleur",
         "hand",
-        "lichaam",
         "vinger",
-        "vinger wijst naar links",
         "wijsvinger",
-        "wijzen",
-        "wijzend"
+        "wijzen"
     ],
     "👈🏾": [
+        "achterkant van de hand",
+        "achterkant van de hand met naar links wijzende wijsvinger",
         "achterkant van hand met naar links wijzende wijsvinger",
         "achterkant van hand met naar links wijzende wijsvinger: donkergetinte huidskleur",
         "donkergetinte huidskleur",
         "hand",
-        "lichaam",
         "vinger",
-        "vinger wijst naar links",
         "wijsvinger",
-        "wijzen",
-        "wijzend"
+        "wijzen"
     ],
     "👈🏿": [
+        "achterkant van de hand",
+        "achterkant van de hand met naar links wijzende wijsvinger",
         "achterkant van hand met naar links wijzende wijsvinger",
         "achterkant van hand met naar links wijzende wijsvinger: donkere huidskleur",
         "donkere huidskleur",
         "hand",
-        "lichaam",
         "vinger",
-        "vinger wijst naar links",
         "wijsvinger",
-        "wijzen",
-        "wijzend"
+        "wijzen"
     ],
     "👉️": [
+        "achterkant van de hand",
+        "achterkant van de hand met naar rechts wijzende wijsvinger",
         "achterkant van hand met naar rechts wijzende wijsvinger",
         "hand",
-        "lichaam",
         "vinger",
-        "vinger wijst naar rechts",
         "wijsvinger",
-        "wijzen",
-        "wijzend"
+        "wijzen"
     ],
     "👉🏻": [
+        "achterkant van de hand",
+        "achterkant van de hand met naar rechts wijzende wijsvinger",
         "achterkant van hand met naar rechts wijzende wijsvinger",
         "achterkant van hand met naar rechts wijzende wijsvinger: lichte huidskleur",
         "hand",
-        "lichaam",
         "lichte huidskleur",
         "vinger",
-        "vinger wijst naar rechts",
         "wijsvinger",
-        "wijzen",
-        "wijzend"
+        "wijzen"
     ],
     "👉🏼": [
+        "achterkant van de hand",
+        "achterkant van de hand met naar rechts wijzende wijsvinger",
         "achterkant van hand met naar rechts wijzende wijsvinger",
         "achterkant van hand met naar rechts wijzende wijsvinger: lichtgetinte huidskleur",
         "hand",
-        "lichaam",
         "lichtgetinte huidskleur",
         "vinger",
-        "vinger wijst naar rechts",
         "wijsvinger",
-        "wijzen",
-        "wijzend"
+        "wijzen"
     ],
     "👉🏽": [
+        "achterkant van de hand",
+        "achterkant van de hand met naar rechts wijzende wijsvinger",
         "achterkant van hand met naar rechts wijzende wijsvinger",
         "achterkant van hand met naar rechts wijzende wijsvinger: getinte huidskleur",
         "getinte huidskleur",
         "hand",
-        "lichaam",
         "vinger",
-        "vinger wijst naar rechts",
         "wijsvinger",
-        "wijzen",
-        "wijzend"
+        "wijzen"
     ],
     "👉🏾": [
+        "achterkant van de hand",
+        "achterkant van de hand met naar rechts wijzende wijsvinger",
         "achterkant van hand met naar rechts wijzende wijsvinger",
         "achterkant van hand met naar rechts wijzende wijsvinger: donkergetinte huidskleur",
         "donkergetinte huidskleur",
         "hand",
-        "lichaam",
         "vinger",
-        "vinger wijst naar rechts",
         "wijsvinger",
-        "wijzen",
-        "wijzend"
+        "wijzen"
     ],
     "👉🏿": [
+        "achterkant van de hand",
+        "achterkant van de hand met naar rechts wijzende wijsvinger",
         "achterkant van hand met naar rechts wijzende wijsvinger",
         "achterkant van hand met naar rechts wijzende wijsvinger: donkere huidskleur",
         "donkere huidskleur",
         "hand",
-        "lichaam",
         "vinger",
-        "vinger wijst naar rechts",
         "wijsvinger",
-        "wijzen",
-        "wijzend"
+        "wijzen"
     ],
     "👆️": [
         "achterkant van hand met omhoog wijzende wijsvinger",
@@ -1936,6 +3891,46 @@
         "omhoog wijzende wijsvinger: donkere huidskleur",
         "vinger",
         "wijsvinger",
+        "wijzen"
+    ],
+    "🫵": [
+        "jij",
+        "wijsvinger die naar de kijker wijst",
+        "wijzen"
+    ],
+    "🫵🏻": [
+        "jij",
+        "lichte huidskleur",
+        "wijsvinger die naar de kijker wijst",
+        "wijsvinger die naar de kijker wijst: lichte huidskleur",
+        "wijzen"
+    ],
+    "🫵🏼": [
+        "jij",
+        "lichtgetinte huidskleur",
+        "wijsvinger die naar de kijker wijst",
+        "wijsvinger die naar de kijker wijst: lichtgetinte huidskleur",
+        "wijzen"
+    ],
+    "🫵🏽": [
+        "getinte huidskleur",
+        "jij",
+        "wijsvinger die naar de kijker wijst",
+        "wijsvinger die naar de kijker wijst: getinte huidskleur",
+        "wijzen"
+    ],
+    "🫵🏾": [
+        "donkergetinte huidskleur",
+        "jij",
+        "wijsvinger die naar de kijker wijst",
+        "wijsvinger die naar de kijker wijst: donkergetinte huidskleur",
+        "wijzen"
+    ],
+    "🫵🏿": [
+        "donkere huidskleur",
+        "jij",
+        "wijsvinger die naar de kijker wijst",
+        "wijsvinger die naar de kijker wijst: donkere huidskleur",
         "wijzen"
     ],
     "👍️": [
@@ -2320,6 +4315,40 @@
         "omhoog",
         "viering"
     ],
+    "🫶": [
+        "handen in de vorm van een hart",
+        "liefde"
+    ],
+    "🫶🏻": [
+        "handen in de vorm van een hart",
+        "handen in de vorm van een hart: lichte huidskleur",
+        "lichte huidskleur",
+        "liefde"
+    ],
+    "🫶🏼": [
+        "handen in de vorm van een hart",
+        "handen in de vorm van een hart: lichtgetinte huidskleur",
+        "lichtgetinte huidskleur",
+        "liefde"
+    ],
+    "🫶🏽": [
+        "getinte huidskleur",
+        "handen in de vorm van een hart",
+        "handen in de vorm van een hart: getinte huidskleur",
+        "liefde"
+    ],
+    "🫶🏾": [
+        "donkergetinte huidskleur",
+        "handen in de vorm van een hart",
+        "handen in de vorm van een hart: donkergetinte huidskleur",
+        "liefde"
+    ],
+    "🫶🏿": [
+        "donkere huidskleur",
+        "handen in de vorm van een hart",
+        "handen in de vorm van een hart: donkere huidskleur",
+        "liefde"
+    ],
     "👐": [
         "hand",
         "open",
@@ -2401,13 +4430,55 @@
         "ontmoeting",
         "overeenkomst"
     ],
+    "🤝🏻": [
+        "deal",
+        "hand",
+        "handdruk",
+        "handdruk: lichte huidskleur",
+        "lichte huidskleur",
+        "ontmoeting",
+        "overeenkomst"
+    ],
+    "🤝🏼": [
+        "deal",
+        "hand",
+        "handdruk",
+        "handdruk: lichtgetinte huidskleur",
+        "lichtgetinte huidskleur",
+        "ontmoeting",
+        "overeenkomst"
+    ],
+    "🤝🏽": [
+        "deal",
+        "getinte huidskleur",
+        "hand",
+        "handdruk",
+        "handdruk: getinte huidskleur",
+        "ontmoeting",
+        "overeenkomst"
+    ],
+    "🤝🏾": [
+        "deal",
+        "donkergetinte huidskleur",
+        "hand",
+        "handdruk",
+        "handdruk: donkergetinte huidskleur",
+        "ontmoeting",
+        "overeenkomst"
+    ],
+    "🤝🏿": [
+        "deal",
+        "donkere huidskleur",
+        "hand",
+        "handdruk",
+        "handdruk: donkere huidskleur",
+        "ontmoeting",
+        "overeenkomst"
+    ],
     "🙏": [
         "alsjeblieft",
         "bedankt",
         "bidden",
-        "buigen",
-        "gebaar",
-        "gevouwen",
         "gevouwen handen",
         "hand",
         "vragen"
@@ -2416,9 +4487,6 @@
         "alsjeblieft",
         "bedankt",
         "bidden",
-        "buigen",
-        "gebaar",
-        "gevouwen",
         "gevouwen handen",
         "gevouwen handen: lichte huidskleur",
         "hand",
@@ -2429,9 +4497,6 @@
         "alsjeblieft",
         "bedankt",
         "bidden",
-        "buigen",
-        "gebaar",
-        "gevouwen",
         "gevouwen handen",
         "gevouwen handen: lichtgetinte huidskleur",
         "hand",
@@ -2442,10 +4507,7 @@
         "alsjeblieft",
         "bedankt",
         "bidden",
-        "buigen",
-        "gebaar",
         "getinte huidskleur",
-        "gevouwen",
         "gevouwen handen",
         "gevouwen handen: getinte huidskleur",
         "hand",
@@ -2455,10 +4517,7 @@
         "alsjeblieft",
         "bedankt",
         "bidden",
-        "buigen",
         "donkergetinte huidskleur",
-        "gebaar",
-        "gevouwen",
         "gevouwen handen",
         "gevouwen handen: donkergetinte huidskleur",
         "hand",
@@ -2468,10 +4527,7 @@
         "alsjeblieft",
         "bedankt",
         "bidden",
-        "buigen",
         "donkere huidskleur",
-        "gebaar",
-        "gevouwen",
         "gevouwen handen",
         "gevouwen handen: donkere huidskleur",
         "hand",
@@ -2617,31 +4673,25 @@
     ],
     "💪": [
         "biceps",
-        "lichaam",
         "spannen",
         "spier",
-        "spierbal",
         "spierballen",
         "strip"
     ],
     "💪🏻": [
         "biceps",
-        "lichaam",
         "lichte huidskleur",
         "spannen",
         "spier",
-        "spierbal",
         "spierballen",
         "spierballen: lichte huidskleur",
         "strip"
     ],
     "💪🏼": [
         "biceps",
-        "lichaam",
         "lichtgetinte huidskleur",
         "spannen",
         "spier",
-        "spierbal",
         "spierballen",
         "spierballen: lichtgetinte huidskleur",
         "strip"
@@ -2649,10 +4699,8 @@
     "💪🏽": [
         "biceps",
         "getinte huidskleur",
-        "lichaam",
         "spannen",
         "spier",
-        "spierbal",
         "spierballen",
         "spierballen: getinte huidskleur",
         "strip"
@@ -2660,10 +4708,8 @@
     "💪🏾": [
         "biceps",
         "donkergetinte huidskleur",
-        "lichaam",
         "spannen",
         "spier",
-        "spierbal",
         "spierballen",
         "spierballen: donkergetinte huidskleur",
         "strip"
@@ -2671,10 +4717,8 @@
     "💪🏿": [
         "biceps",
         "donkere huidskleur",
-        "lichaam",
         "spannen",
         "spier",
-        "spierbal",
         "spierballen",
         "spierballen: donkere huidskleur",
         "strip"
@@ -2882,9 +4926,9 @@
         "intelligent"
     ],
     "🫀": [
-        "centrum",
+        "anatomisch",
+        "cardiologie",
         "hart",
-        "hartslag",
         "orgaan",
         "polsslag"
     ],
@@ -2920,6 +4964,15 @@
     "👄": [
         "lippen",
         "mond"
+    ],
+    "🫦": [
+        "angst",
+        "bezorgd",
+        "flirten",
+        "mond die op lip bijt",
+        "nerveus",
+        "ongemakkelijk",
+        "ongerust"
     ],
     "👶": [
         "baby",
@@ -3149,6 +5202,346 @@
         "persoon met blond haar",
         "persoon met blond haar: donkere huidskleur"
     ],
+    "🧑🏻‍❤‍💋‍🧑🏼": [
+        "kus",
+        "kus: volwassene, volwassene, lichte huidskleur, lichtgetinte huidskleur",
+        "lichte huidskleur",
+        "lichtgetinte huidskleur",
+        "stelletje",
+        "volwassene"
+    ],
+    "🧑🏻‍❤‍💋‍🧑🏽": [
+        "getinte huidskleur",
+        "kus",
+        "kus: volwassene, volwassene, lichte huidskleur, getinte huidskleur",
+        "lichte huidskleur",
+        "stelletje",
+        "volwassene"
+    ],
+    "🧑🏻‍❤‍💋‍🧑🏾": [
+        "donkergetinte huidskleur",
+        "kus",
+        "kus: volwassene, volwassene, lichte huidskleur, donkergetinte huidskleur",
+        "lichte huidskleur",
+        "stelletje",
+        "volwassene"
+    ],
+    "🧑🏻‍❤‍💋‍🧑🏿": [
+        "donkere huidskleur",
+        "kus",
+        "kus: volwassene, volwassene, lichte huidskleur, donkere huidskleur",
+        "lichte huidskleur",
+        "stelletje",
+        "volwassene"
+    ],
+    "🧑🏼‍❤‍💋‍🧑🏻": [
+        "kus",
+        "kus: volwassene, volwassene, lichtgetinte huidskleur, lichte huidskleur",
+        "lichte huidskleur",
+        "lichtgetinte huidskleur",
+        "stelletje",
+        "volwassene"
+    ],
+    "🧑🏼‍❤‍💋‍🧑🏽": [
+        "getinte huidskleur",
+        "kus",
+        "kus: volwassene, volwassene, lichtgetinte huidskleur, getinte huidskleur",
+        "lichtgetinte huidskleur",
+        "stelletje",
+        "volwassene"
+    ],
+    "🧑🏼‍❤‍💋‍🧑🏾": [
+        "donkergetinte huidskleur",
+        "kus",
+        "kus: volwassene, volwassene, lichtgetinte huidskleur, donkergetinte huidskleur",
+        "lichtgetinte huidskleur",
+        "stelletje",
+        "volwassene"
+    ],
+    "🧑🏼‍❤‍💋‍🧑🏿": [
+        "donkere huidskleur",
+        "kus",
+        "kus: volwassene, volwassene, lichtgetinte huidskleur, donkere huidskleur",
+        "lichtgetinte huidskleur",
+        "stelletje",
+        "volwassene"
+    ],
+    "🧑🏽‍❤‍💋‍🧑🏻": [
+        "getinte huidskleur",
+        "kus",
+        "kus: volwassene, volwassene, getinte huidskleur, lichte huidskleur",
+        "lichte huidskleur",
+        "stelletje",
+        "volwassene"
+    ],
+    "🧑🏽‍❤‍💋‍🧑🏼": [
+        "getinte huidskleur",
+        "kus",
+        "kus: volwassene, volwassene, getinte huidskleur, lichtgetinte huidskleur",
+        "lichtgetinte huidskleur",
+        "stelletje",
+        "volwassene"
+    ],
+    "🧑🏽‍❤‍💋‍🧑🏾": [
+        "donkergetinte huidskleur",
+        "getinte huidskleur",
+        "kus",
+        "kus: volwassene, volwassene, getinte huidskleur, donkergetinte huidskleur",
+        "stelletje",
+        "volwassene"
+    ],
+    "🧑🏽‍❤‍💋‍🧑🏿": [
+        "donkere huidskleur",
+        "getinte huidskleur",
+        "kus",
+        "kus: volwassene, volwassene, getinte huidskleur, donkere huidskleur",
+        "stelletje",
+        "volwassene"
+    ],
+    "🧑🏾‍❤‍💋‍🧑🏻": [
+        "donkergetinte huidskleur",
+        "kus",
+        "kus: volwassene, volwassene, donkergetinte huidskleur, lichte huidskleur",
+        "lichte huidskleur",
+        "stelletje",
+        "volwassene"
+    ],
+    "🧑🏾‍❤‍💋‍🧑🏼": [
+        "donkergetinte huidskleur",
+        "kus",
+        "kus: volwassene, volwassene, donkergetinte huidskleur, lichtgetinte huidskleur",
+        "lichtgetinte huidskleur",
+        "stelletje",
+        "volwassene"
+    ],
+    "🧑🏾‍❤‍💋‍🧑🏽": [
+        "donkergetinte huidskleur",
+        "getinte huidskleur",
+        "kus",
+        "kus: volwassene, volwassene, donkergetinte huidskleur, getinte huidskleur",
+        "stelletje",
+        "volwassene"
+    ],
+    "🧑🏾‍❤‍💋‍🧑🏿": [
+        "donkere huidskleur",
+        "donkergetinte huidskleur",
+        "kus",
+        "kus: volwassene, volwassene, donkergetinte huidskleur, donkere huidskleur",
+        "stelletje",
+        "volwassene"
+    ],
+    "🧑🏿‍❤‍💋‍🧑🏻": [
+        "donkere huidskleur",
+        "kus",
+        "kus: volwassene, volwassene, donkere huidskleur, lichte huidskleur",
+        "lichte huidskleur",
+        "stelletje",
+        "volwassene"
+    ],
+    "🧑🏿‍❤‍💋‍🧑🏼": [
+        "donkere huidskleur",
+        "kus",
+        "kus: volwassene, volwassene, donkere huidskleur, lichtgetinte huidskleur",
+        "lichtgetinte huidskleur",
+        "stelletje",
+        "volwassene"
+    ],
+    "🧑🏿‍❤‍💋‍🧑🏽": [
+        "donkere huidskleur",
+        "getinte huidskleur",
+        "kus",
+        "kus: volwassene, volwassene, donkere huidskleur, getinte huidskleur",
+        "stelletje",
+        "volwassene"
+    ],
+    "🧑🏿‍❤‍💋‍🧑🏾": [
+        "donkere huidskleur",
+        "donkergetinte huidskleur",
+        "kus",
+        "kus: volwassene, volwassene, donkere huidskleur, donkergetinte huidskleur",
+        "stelletje",
+        "volwassene"
+    ],
+    "🧑🏻‍❤‍🧑🏼": [
+        "lichte huidskleur",
+        "lichtgetinte huidskleur",
+        "liefde",
+        "stel met hart",
+        "stel met hart: volwassene, volwassene, lichte huidskleur, lichtgetinte huidskleur",
+        "stelletje",
+        "volwassene"
+    ],
+    "🧑🏻‍❤‍🧑🏽": [
+        "getinte huidskleur",
+        "lichte huidskleur",
+        "liefde",
+        "stel met hart",
+        "stel met hart: volwassene, volwassene, lichte huidskleur, getinte huidskleur",
+        "stelletje",
+        "volwassene"
+    ],
+    "🧑🏻‍❤‍🧑🏾": [
+        "donkergetinte huidskleur",
+        "lichte huidskleur",
+        "liefde",
+        "stel met hart",
+        "stel met hart: volwassene, volwassene, lichte huidskleur, donkergetinte huidskleur",
+        "stelletje",
+        "volwassene"
+    ],
+    "🧑🏻‍❤‍🧑🏿": [
+        "donkere huidskleur",
+        "lichte huidskleur",
+        "liefde",
+        "stel met hart",
+        "stel met hart: volwassene, volwassene, lichte huidskleur, donkere huidskleur",
+        "stelletje",
+        "volwassene"
+    ],
+    "🧑🏼‍❤‍🧑🏻": [
+        "lichte huidskleur",
+        "lichtgetinte huidskleur",
+        "liefde",
+        "stel met hart",
+        "stel met hart: volwassene, volwassene, lichtgetinte huidskleur, lichte huidskleur",
+        "stelletje",
+        "volwassene"
+    ],
+    "🧑🏼‍❤‍🧑🏽": [
+        "getinte huidskleur",
+        "lichtgetinte huidskleur",
+        "liefde",
+        "stel met hart",
+        "stel met hart: volwassene, volwassene, lichtgetinte huidskleur, getinte huidskleur",
+        "stelletje",
+        "volwassene"
+    ],
+    "🧑🏼‍❤‍🧑🏾": [
+        "donkergetinte huidskleur",
+        "lichtgetinte huidskleur",
+        "liefde",
+        "stel met hart",
+        "stel met hart: volwassene, volwassene, lichtgetinte huidskleur, donkergetinte huidskleur",
+        "stelletje",
+        "volwassene"
+    ],
+    "🧑🏼‍❤‍🧑🏿": [
+        "donkere huidskleur",
+        "lichtgetinte huidskleur",
+        "liefde",
+        "stel met hart",
+        "stel met hart: volwassene, volwassene, lichtgetinte huidskleur, donkere huidskleur",
+        "stelletje",
+        "volwassene"
+    ],
+    "🧑🏽‍❤‍🧑🏻": [
+        "getinte huidskleur",
+        "lichte huidskleur",
+        "liefde",
+        "stel met hart",
+        "stel met hart: volwassene, volwassene, getinte huidskleur, lichte huidskleur",
+        "stelletje",
+        "volwassene"
+    ],
+    "🧑🏽‍❤‍🧑🏼": [
+        "getinte huidskleur",
+        "lichtgetinte huidskleur",
+        "liefde",
+        "stel met hart",
+        "stel met hart: volwassene, volwassene, getinte huidskleur, lichtgetinte huidskleur",
+        "stelletje",
+        "volwassene"
+    ],
+    "🧑🏽‍❤‍🧑🏾": [
+        "donkergetinte huidskleur",
+        "getinte huidskleur",
+        "liefde",
+        "stel met hart",
+        "stel met hart: volwassene, volwassene, getinte huidskleur, donkergetinte huidskleur",
+        "stelletje",
+        "volwassene"
+    ],
+    "🧑🏽‍❤‍🧑🏿": [
+        "donkere huidskleur",
+        "getinte huidskleur",
+        "liefde",
+        "stel met hart",
+        "stel met hart: volwassene, volwassene, getinte huidskleur, donkere huidskleur",
+        "stelletje",
+        "volwassene"
+    ],
+    "🧑🏾‍❤‍🧑🏻": [
+        "donkergetinte huidskleur",
+        "lichte huidskleur",
+        "liefde",
+        "stel met hart",
+        "stel met hart: volwassene, volwassene, donkergetinte huidskleur, lichte huidskleur",
+        "stelletje",
+        "volwassene"
+    ],
+    "🧑🏾‍❤‍🧑🏼": [
+        "donkergetinte huidskleur",
+        "lichtgetinte huidskleur",
+        "liefde",
+        "stel met hart",
+        "stel met hart: volwassene, volwassene, donkergetinte huidskleur, lichtgetinte huidskleur",
+        "stelletje",
+        "volwassene"
+    ],
+    "🧑🏾‍❤‍🧑🏽": [
+        "donkergetinte huidskleur",
+        "getinte huidskleur",
+        "liefde",
+        "stel met hart",
+        "stel met hart: volwassene, volwassene, donkergetinte huidskleur, getinte huidskleur",
+        "stelletje",
+        "volwassene"
+    ],
+    "🧑🏾‍❤‍🧑🏿": [
+        "donkere huidskleur",
+        "donkergetinte huidskleur",
+        "liefde",
+        "stel met hart",
+        "stel met hart: volwassene, volwassene, donkergetinte huidskleur, donkere huidskleur",
+        "stelletje",
+        "volwassene"
+    ],
+    "🧑🏿‍❤‍🧑🏻": [
+        "donkere huidskleur",
+        "lichte huidskleur",
+        "liefde",
+        "stel met hart",
+        "stel met hart: volwassene, volwassene, donkere huidskleur, lichte huidskleur",
+        "stelletje",
+        "volwassene"
+    ],
+    "🧑🏿‍❤‍🧑🏼": [
+        "donkere huidskleur",
+        "lichtgetinte huidskleur",
+        "liefde",
+        "stel met hart",
+        "stel met hart: volwassene, volwassene, donkere huidskleur, lichtgetinte huidskleur",
+        "stelletje",
+        "volwassene"
+    ],
+    "🧑🏿‍❤‍🧑🏽": [
+        "donkere huidskleur",
+        "getinte huidskleur",
+        "liefde",
+        "stel met hart",
+        "stel met hart: volwassene, volwassene, donkere huidskleur, getinte huidskleur",
+        "stelletje",
+        "volwassene"
+    ],
+    "🧑🏿‍❤‍🧑🏾": [
+        "donkere huidskleur",
+        "donkergetinte huidskleur",
+        "liefde",
+        "stel met hart",
+        "stel met hart: volwassene, volwassene, donkere huidskleur, donkergetinte huidskleur",
+        "stelletje",
+        "volwassene"
+    ],
     "🧑‍🦰": [
         "genderneutraal",
         "rood haar",
@@ -3343,49 +5736,83 @@
     ],
     "🧔": [
         "baard",
-        "man",
-        "man met baard",
-        "persoon"
+        "persoon",
+        "persoon: baard"
     ],
     "🧔🏻": [
         "baard",
         "lichte huidskleur",
-        "man",
-        "man met baard",
-        "man met baard: lichte huidskleur",
-        "persoon"
+        "persoon",
+        "persoon: baard",
+        "persoon: lichte huidskleur, baard"
     ],
     "🧔🏼": [
         "baard",
         "lichtgetinte huidskleur",
-        "man",
-        "man met baard",
-        "man met baard: lichtgetinte huidskleur",
-        "persoon"
+        "persoon",
+        "persoon: baard",
+        "persoon: lichtgetinte huidskleur, baard"
     ],
     "🧔🏽": [
         "baard",
         "getinte huidskleur",
-        "man",
-        "man met baard",
-        "man met baard: getinte huidskleur",
-        "persoon"
+        "persoon",
+        "persoon: baard",
+        "persoon: getinte huidskleur, baard"
     ],
     "🧔🏾": [
         "baard",
         "donkergetinte huidskleur",
-        "man",
-        "man met baard",
-        "man met baard: donkergetinte huidskleur",
-        "persoon"
+        "persoon",
+        "persoon: baard",
+        "persoon: donkergetinte huidskleur, baard"
     ],
     "🧔🏿": [
         "baard",
         "donkere huidskleur",
+        "persoon",
+        "persoon: baard",
+        "persoon: donkere huidskleur, baard"
+    ],
+    "🧔‍♂": [
+        "baard",
         "man",
-        "man met baard",
-        "man met baard: donkere huidskleur",
-        "persoon"
+        "man: baard"
+    ],
+    "🧔🏻‍♂": [
+        "baard",
+        "lichte huidskleur",
+        "man",
+        "man: baard",
+        "man: lichte huidskleur, baard"
+    ],
+    "🧔🏼‍♂": [
+        "baard",
+        "lichtgetinte huidskleur",
+        "man",
+        "man: baard",
+        "man: lichtgetinte huidskleur, baard"
+    ],
+    "🧔🏽‍♂": [
+        "baard",
+        "getinte huidskleur",
+        "man",
+        "man: baard",
+        "man: getinte huidskleur, baard"
+    ],
+    "🧔🏾‍♂": [
+        "baard",
+        "donkergetinte huidskleur",
+        "man",
+        "man: baard",
+        "man: donkergetinte huidskleur, baard"
+    ],
+    "🧔🏿‍♂": [
+        "baard",
+        "donkere huidskleur",
+        "man",
+        "man: baard",
+        "man: donkere huidskleur, baard"
     ],
     "👱‍♂": [
         "blond",
@@ -3432,6 +5859,421 @@
         "man",
         "man met blond haar",
         "man met blond haar: donkere huidskleur"
+    ],
+    "👨🏻‍❤‍💋‍👨🏻": [
+        "kus",
+        "kus: man, man, lichte huidskleur",
+        "lichte huidskleur",
+        "man",
+        "stelletje"
+    ],
+    "👨🏻‍❤‍💋‍👨🏼": [
+        "kus",
+        "kus: man, man, lichte huidskleur, lichtgetinte huidskleur",
+        "lichte huidskleur",
+        "lichtgetinte huidskleur",
+        "man",
+        "stelletje"
+    ],
+    "👨🏻‍❤‍💋‍👨🏽": [
+        "getinte huidskleur",
+        "kus",
+        "kus: man, man, lichte huidskleur, getinte huidskleur",
+        "lichte huidskleur",
+        "man",
+        "stelletje"
+    ],
+    "👨🏻‍❤‍💋‍👨🏾": [
+        "donkergetinte huidskleur",
+        "kus",
+        "kus: man, man, lichte huidskleur, donkergetinte huidskleur",
+        "lichte huidskleur",
+        "man",
+        "stelletje"
+    ],
+    "👨🏻‍❤‍💋‍👨🏿": [
+        "donkere huidskleur",
+        "kus",
+        "kus: man, man, lichte huidskleur, donkere huidskleur",
+        "lichte huidskleur",
+        "man",
+        "stelletje"
+    ],
+    "👨🏼‍❤‍💋‍👨🏻": [
+        "kus",
+        "kus: man, man, lichtgetinte huidskleur, lichte huidskleur",
+        "lichte huidskleur",
+        "lichtgetinte huidskleur",
+        "man",
+        "stelletje"
+    ],
+    "👨🏼‍❤‍💋‍👨🏼": [
+        "kus",
+        "kus: man, man, lichtgetinte huidskleur",
+        "lichtgetinte huidskleur",
+        "man",
+        "stelletje"
+    ],
+    "👨🏼‍❤‍💋‍👨🏽": [
+        "getinte huidskleur",
+        "kus",
+        "kus: man, man, lichtgetinte huidskleur, getinte huidskleur",
+        "lichtgetinte huidskleur",
+        "man",
+        "stelletje"
+    ],
+    "👨🏼‍❤‍💋‍👨🏾": [
+        "donkergetinte huidskleur",
+        "kus",
+        "kus: man, man, lichtgetinte huidskleur, donkergetinte huidskleur",
+        "lichtgetinte huidskleur",
+        "man",
+        "stelletje"
+    ],
+    "👨🏼‍❤‍💋‍👨🏿": [
+        "donkere huidskleur",
+        "kus",
+        "kus: man, man, lichtgetinte huidskleur, donkere huidskleur",
+        "lichtgetinte huidskleur",
+        "man",
+        "stelletje"
+    ],
+    "👨🏽‍❤‍💋‍👨🏻": [
+        "getinte huidskleur",
+        "kus",
+        "kus: man, man, getinte huidskleur, lichte huidskleur",
+        "lichte huidskleur",
+        "man",
+        "stelletje"
+    ],
+    "👨🏽‍❤‍💋‍👨🏼": [
+        "getinte huidskleur",
+        "kus",
+        "kus: man, man, getinte huidskleur, lichtgetinte huidskleur",
+        "lichtgetinte huidskleur",
+        "man",
+        "stelletje"
+    ],
+    "👨🏽‍❤‍💋‍👨🏽": [
+        "getinte huidskleur",
+        "kus",
+        "kus: man, man, getinte huidskleur",
+        "man",
+        "stelletje"
+    ],
+    "👨🏽‍❤‍💋‍👨🏾": [
+        "donkergetinte huidskleur",
+        "getinte huidskleur",
+        "kus",
+        "kus: man, man, getinte huidskleur, donkergetinte huidskleur",
+        "man",
+        "stelletje"
+    ],
+    "👨🏽‍❤‍💋‍👨🏿": [
+        "donkere huidskleur",
+        "getinte huidskleur",
+        "kus",
+        "kus: man, man, getinte huidskleur, donkere huidskleur",
+        "man",
+        "stelletje"
+    ],
+    "👨🏾‍❤‍💋‍👨🏻": [
+        "donkergetinte huidskleur",
+        "kus",
+        "kus: man, man, donkergetinte huidskleur, lichte huidskleur",
+        "lichte huidskleur",
+        "man",
+        "stelletje"
+    ],
+    "👨🏾‍❤‍💋‍👨🏼": [
+        "donkergetinte huidskleur",
+        "kus",
+        "kus: man, man, donkergetinte huidskleur, lichtgetinte huidskleur",
+        "lichtgetinte huidskleur",
+        "man",
+        "stelletje"
+    ],
+    "👨🏾‍❤‍💋‍👨🏽": [
+        "donkergetinte huidskleur",
+        "getinte huidskleur",
+        "kus",
+        "kus: man, man, donkergetinte huidskleur, getinte huidskleur",
+        "man",
+        "stelletje"
+    ],
+    "👨🏾‍❤‍💋‍👨🏾": [
+        "donkergetinte huidskleur",
+        "kus",
+        "kus: man, man, donkergetinte huidskleur",
+        "man",
+        "stelletje"
+    ],
+    "👨🏾‍❤‍💋‍👨🏿": [
+        "donkere huidskleur",
+        "donkergetinte huidskleur",
+        "kus",
+        "kus: man, man, donkergetinte huidskleur, donkere huidskleur",
+        "man",
+        "stelletje"
+    ],
+    "👨🏿‍❤‍💋‍👨🏻": [
+        "donkere huidskleur",
+        "kus",
+        "kus: man, man, donkere huidskleur, lichte huidskleur",
+        "lichte huidskleur",
+        "man",
+        "stelletje"
+    ],
+    "👨🏿‍❤‍💋‍👨🏼": [
+        "donkere huidskleur",
+        "kus",
+        "kus: man, man, donkere huidskleur, lichtgetinte huidskleur",
+        "lichtgetinte huidskleur",
+        "man",
+        "stelletje"
+    ],
+    "👨🏿‍❤‍💋‍👨🏽": [
+        "donkere huidskleur",
+        "getinte huidskleur",
+        "kus",
+        "kus: man, man, donkere huidskleur, getinte huidskleur",
+        "man",
+        "stelletje"
+    ],
+    "👨🏿‍❤‍💋‍👨🏾": [
+        "donkere huidskleur",
+        "donkergetinte huidskleur",
+        "kus",
+        "kus: man, man, donkere huidskleur, donkergetinte huidskleur",
+        "man",
+        "stelletje"
+    ],
+    "👨🏿‍❤‍💋‍👨🏿": [
+        "donkere huidskleur",
+        "kus",
+        "kus: man, man, donkere huidskleur",
+        "man",
+        "stelletje"
+    ],
+    "👨🏻‍❤‍👨🏻": [
+        "lichte huidskleur",
+        "liefde",
+        "man",
+        "stel met hart",
+        "stel met hart: man, man, lichte huidskleur",
+        "stelletje"
+    ],
+    "👨🏻‍❤‍👨🏼": [
+        "lichte huidskleur",
+        "lichtgetinte huidskleur",
+        "liefde",
+        "man",
+        "stel met hart",
+        "stel met hart: man, man, lichte huidskleur, lichtgetinte huidskleur",
+        "stelletje"
+    ],
+    "👨🏻‍❤‍👨🏽": [
+        "getinte huidskleur",
+        "lichte huidskleur",
+        "liefde",
+        "man",
+        "stel met hart",
+        "stel met hart: man, man, lichte huidskleur, getinte huidskleur",
+        "stelletje"
+    ],
+    "👨🏻‍❤‍👨🏾": [
+        "donkergetinte huidskleur",
+        "lichte huidskleur",
+        "liefde",
+        "man",
+        "stel met hart",
+        "stel met hart: man, man, lichte huidskleur, donkergetinte huidskleur",
+        "stelletje"
+    ],
+    "👨🏻‍❤‍👨🏿": [
+        "donkere huidskleur",
+        "lichte huidskleur",
+        "liefde",
+        "man",
+        "stel met hart",
+        "stel met hart: man, man, lichte huidskleur, donkere huidskleur",
+        "stelletje"
+    ],
+    "👨🏼‍❤‍👨🏻": [
+        "lichte huidskleur",
+        "lichtgetinte huidskleur",
+        "liefde",
+        "man",
+        "stel met hart",
+        "stel met hart: man, man, lichtgetinte huidskleur, lichte huidskleur",
+        "stelletje"
+    ],
+    "👨🏼‍❤‍👨🏼": [
+        "lichtgetinte huidskleur",
+        "liefde",
+        "man",
+        "stel met hart",
+        "stel met hart: man, man, lichtgetinte huidskleur",
+        "stelletje"
+    ],
+    "👨🏼‍❤‍👨🏽": [
+        "getinte huidskleur",
+        "lichtgetinte huidskleur",
+        "liefde",
+        "man",
+        "stel met hart",
+        "stel met hart: man, man, lichtgetinte huidskleur, getinte huidskleur",
+        "stelletje"
+    ],
+    "👨🏼‍❤‍👨🏾": [
+        "donkergetinte huidskleur",
+        "lichtgetinte huidskleur",
+        "liefde",
+        "man",
+        "stel met hart",
+        "stel met hart: man, man, lichtgetinte huidskleur, donkergetinte huidskleur",
+        "stelletje"
+    ],
+    "👨🏼‍❤‍👨🏿": [
+        "donkere huidskleur",
+        "lichtgetinte huidskleur",
+        "liefde",
+        "man",
+        "stel met hart",
+        "stel met hart: man, man, lichtgetinte huidskleur, donkere huidskleur",
+        "stelletje"
+    ],
+    "👨🏽‍❤‍👨🏻": [
+        "getinte huidskleur",
+        "lichte huidskleur",
+        "liefde",
+        "man",
+        "stel met hart",
+        "stel met hart: man, man, getinte huidskleur, lichte huidskleur",
+        "stelletje"
+    ],
+    "👨🏽‍❤‍👨🏼": [
+        "getinte huidskleur",
+        "lichtgetinte huidskleur",
+        "liefde",
+        "man",
+        "stel met hart",
+        "stel met hart: man, man, getinte huidskleur, lichtgetinte huidskleur",
+        "stelletje"
+    ],
+    "👨🏽‍❤‍👨🏽": [
+        "getinte huidskleur",
+        "liefde",
+        "man",
+        "stel met hart",
+        "stel met hart: man, man, getinte huidskleur",
+        "stelletje"
+    ],
+    "👨🏽‍❤‍👨🏾": [
+        "donkergetinte huidskleur",
+        "getinte huidskleur",
+        "liefde",
+        "man",
+        "stel met hart",
+        "stel met hart: man, man, getinte huidskleur, donkergetinte huidskleur",
+        "stelletje"
+    ],
+    "👨🏽‍❤‍👨🏿": [
+        "donkere huidskleur",
+        "getinte huidskleur",
+        "liefde",
+        "man",
+        "stel met hart",
+        "stel met hart: man, man, getinte huidskleur, donkere huidskleur",
+        "stelletje"
+    ],
+    "👨🏾‍❤‍👨🏻": [
+        "donkergetinte huidskleur",
+        "lichte huidskleur",
+        "liefde",
+        "man",
+        "stel met hart",
+        "stel met hart: man, man, donkergetinte huidskleur, lichte huidskleur",
+        "stelletje"
+    ],
+    "👨🏾‍❤‍👨🏼": [
+        "donkergetinte huidskleur",
+        "lichtgetinte huidskleur",
+        "liefde",
+        "man",
+        "stel met hart",
+        "stel met hart: man, man, donkergetinte huidskleur, lichtgetinte huidskleur",
+        "stelletje"
+    ],
+    "👨🏾‍❤‍👨🏽": [
+        "donkergetinte huidskleur",
+        "getinte huidskleur",
+        "liefde",
+        "man",
+        "stel met hart",
+        "stel met hart: man, man, donkergetinte huidskleur, getinte huidskleur",
+        "stelletje"
+    ],
+    "👨🏾‍❤‍👨🏾": [
+        "donkergetinte huidskleur",
+        "liefde",
+        "man",
+        "stel met hart",
+        "stel met hart: man, man, donkergetinte huidskleur",
+        "stelletje"
+    ],
+    "👨🏾‍❤‍👨🏿": [
+        "donkere huidskleur",
+        "donkergetinte huidskleur",
+        "liefde",
+        "man",
+        "stel met hart",
+        "stel met hart: man, man, donkergetinte huidskleur, donkere huidskleur",
+        "stelletje"
+    ],
+    "👨🏿‍❤‍👨🏻": [
+        "donkere huidskleur",
+        "lichte huidskleur",
+        "liefde",
+        "man",
+        "stel met hart",
+        "stel met hart: man, man, donkere huidskleur, lichte huidskleur",
+        "stelletje"
+    ],
+    "👨🏿‍❤‍👨🏼": [
+        "donkere huidskleur",
+        "lichtgetinte huidskleur",
+        "liefde",
+        "man",
+        "stel met hart",
+        "stel met hart: man, man, donkere huidskleur, lichtgetinte huidskleur",
+        "stelletje"
+    ],
+    "👨🏿‍❤‍👨🏽": [
+        "donkere huidskleur",
+        "getinte huidskleur",
+        "liefde",
+        "man",
+        "stel met hart",
+        "stel met hart: man, man, donkere huidskleur, getinte huidskleur",
+        "stelletje"
+    ],
+    "👨🏿‍❤‍👨🏾": [
+        "donkere huidskleur",
+        "donkergetinte huidskleur",
+        "liefde",
+        "man",
+        "stel met hart",
+        "stel met hart: man, man, donkere huidskleur, donkergetinte huidskleur",
+        "stelletje"
+    ],
+    "👨🏿‍❤‍👨🏿": [
+        "donkere huidskleur",
+        "liefde",
+        "man",
+        "stel met hart",
+        "stel met hart: man, man, donkere huidskleur",
+        "stelletje"
     ],
     "👨‍🦰": [
         "man",
@@ -3601,6 +6443,46 @@
         "vrouw",
         "vrouw: donkere huidskleur"
     ],
+    "🧔‍♀": [
+        "baard",
+        "vrouw",
+        "vrouw: baard"
+    ],
+    "🧔🏻‍♀": [
+        "baard",
+        "lichte huidskleur",
+        "vrouw",
+        "vrouw: baard",
+        "vrouw: lichte huidskleur, baard"
+    ],
+    "🧔🏼‍♀": [
+        "baard",
+        "lichtgetinte huidskleur",
+        "vrouw",
+        "vrouw: baard",
+        "vrouw: lichtgetinte huidskleur, baard"
+    ],
+    "🧔🏽‍♀": [
+        "baard",
+        "getinte huidskleur",
+        "vrouw",
+        "vrouw: baard",
+        "vrouw: getinte huidskleur, baard"
+    ],
+    "🧔🏾‍♀": [
+        "baard",
+        "donkergetinte huidskleur",
+        "vrouw",
+        "vrouw: baard",
+        "vrouw: donkergetinte huidskleur, baard"
+    ],
+    "🧔🏿‍♀": [
+        "baard",
+        "donkere huidskleur",
+        "vrouw",
+        "vrouw: baard",
+        "vrouw: donkere huidskleur, baard"
+    ],
     "👱‍♀": [
         "blond",
         "haar",
@@ -3646,6 +6528,886 @@
         "vrouw",
         "vrouw met blond haar",
         "vrouw met blond haar: donkere huidskleur"
+    ],
+    "👩🏻‍❤‍💋‍👨🏻": [
+        "kus",
+        "kus: vrouw, man, lichte huidskleur",
+        "lichte huidskleur",
+        "man",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏻‍❤‍💋‍👨🏼": [
+        "kus",
+        "kus: vrouw, man, lichte huidskleur, lichtgetinte huidskleur",
+        "lichte huidskleur",
+        "lichtgetinte huidskleur",
+        "man",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏻‍❤‍💋‍👨🏽": [
+        "getinte huidskleur",
+        "kus",
+        "kus: vrouw, man, lichte huidskleur, getinte huidskleur",
+        "lichte huidskleur",
+        "man",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏻‍❤‍💋‍👨🏾": [
+        "donkergetinte huidskleur",
+        "kus",
+        "kus: vrouw, man, lichte huidskleur, donkergetinte huidskleur",
+        "lichte huidskleur",
+        "man",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏻‍❤‍💋‍👨🏿": [
+        "donkere huidskleur",
+        "kus",
+        "kus: vrouw, man, lichte huidskleur, donkere huidskleur",
+        "lichte huidskleur",
+        "man",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏼‍❤‍💋‍👨🏻": [
+        "kus",
+        "kus: vrouw, man, lichtgetinte huidskleur, lichte huidskleur",
+        "lichte huidskleur",
+        "lichtgetinte huidskleur",
+        "man",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏼‍❤‍💋‍👨🏼": [
+        "kus",
+        "kus: vrouw, man, lichtgetinte huidskleur",
+        "lichtgetinte huidskleur",
+        "man",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏼‍❤‍💋‍👨🏽": [
+        "getinte huidskleur",
+        "kus",
+        "kus: vrouw, man, lichtgetinte huidskleur, getinte huidskleur",
+        "lichtgetinte huidskleur",
+        "man",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏼‍❤‍💋‍👨🏾": [
+        "donkergetinte huidskleur",
+        "kus",
+        "kus: vrouw, man, lichtgetinte huidskleur, donkergetinte huidskleur",
+        "lichtgetinte huidskleur",
+        "man",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏼‍❤‍💋‍👨🏿": [
+        "donkere huidskleur",
+        "kus",
+        "kus: vrouw, man, lichtgetinte huidskleur, donkere huidskleur",
+        "lichtgetinte huidskleur",
+        "man",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏽‍❤‍💋‍👨🏻": [
+        "getinte huidskleur",
+        "kus",
+        "kus: vrouw, man, getinte huidskleur, lichte huidskleur",
+        "lichte huidskleur",
+        "man",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏽‍❤‍💋‍👨🏼": [
+        "getinte huidskleur",
+        "kus",
+        "kus: vrouw, man, getinte huidskleur, lichtgetinte huidskleur",
+        "lichtgetinte huidskleur",
+        "man",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏽‍❤‍💋‍👨🏽": [
+        "getinte huidskleur",
+        "kus",
+        "kus: vrouw, man, getinte huidskleur",
+        "man",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏽‍❤‍💋‍👨🏾": [
+        "donkergetinte huidskleur",
+        "getinte huidskleur",
+        "kus",
+        "kus: vrouw, man, getinte huidskleur, donkergetinte huidskleur",
+        "man",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏽‍❤‍💋‍👨🏿": [
+        "donkere huidskleur",
+        "getinte huidskleur",
+        "kus",
+        "kus: vrouw, man, getinte huidskleur, donkere huidskleur",
+        "man",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏾‍❤‍💋‍👨🏻": [
+        "donkergetinte huidskleur",
+        "kus",
+        "kus: vrouw, man, donkergetinte huidskleur, lichte huidskleur",
+        "lichte huidskleur",
+        "man",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏾‍❤‍💋‍👨🏼": [
+        "donkergetinte huidskleur",
+        "kus",
+        "kus: vrouw, man, donkergetinte huidskleur, lichtgetinte huidskleur",
+        "lichtgetinte huidskleur",
+        "man",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏾‍❤‍💋‍👨🏽": [
+        "donkergetinte huidskleur",
+        "getinte huidskleur",
+        "kus",
+        "kus: vrouw, man, donkergetinte huidskleur, getinte huidskleur",
+        "man",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏾‍❤‍💋‍👨🏾": [
+        "donkergetinte huidskleur",
+        "kus",
+        "kus: vrouw, man, donkergetinte huidskleur",
+        "man",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏾‍❤‍💋‍👨🏿": [
+        "donkere huidskleur",
+        "donkergetinte huidskleur",
+        "kus",
+        "kus: vrouw, man, donkergetinte huidskleur, donkere huidskleur",
+        "man",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏿‍❤‍💋‍👨🏻": [
+        "donkere huidskleur",
+        "kus",
+        "kus: vrouw, man, donkere huidskleur, lichte huidskleur",
+        "lichte huidskleur",
+        "man",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏿‍❤‍💋‍👨🏼": [
+        "donkere huidskleur",
+        "kus",
+        "kus: vrouw, man, donkere huidskleur, lichtgetinte huidskleur",
+        "lichtgetinte huidskleur",
+        "man",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏿‍❤‍💋‍👨🏽": [
+        "donkere huidskleur",
+        "getinte huidskleur",
+        "kus",
+        "kus: vrouw, man, donkere huidskleur, getinte huidskleur",
+        "man",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏿‍❤‍💋‍👨🏾": [
+        "donkere huidskleur",
+        "donkergetinte huidskleur",
+        "kus",
+        "kus: vrouw, man, donkere huidskleur, donkergetinte huidskleur",
+        "man",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏿‍❤‍💋‍👨🏿": [
+        "donkere huidskleur",
+        "kus",
+        "kus: vrouw, man, donkere huidskleur",
+        "man",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏻‍❤‍💋‍👩🏻": [
+        "kus",
+        "kus: vrouw, vrouw, lichte huidskleur",
+        "lichte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏻‍❤‍💋‍👩🏼": [
+        "kus",
+        "kus: vrouw, vrouw, lichte huidskleur, lichtgetinte huidskleur",
+        "lichte huidskleur",
+        "lichtgetinte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏻‍❤‍💋‍👩🏽": [
+        "getinte huidskleur",
+        "kus",
+        "kus: vrouw, vrouw, lichte huidskleur, getinte huidskleur",
+        "lichte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏻‍❤‍💋‍👩🏾": [
+        "donkergetinte huidskleur",
+        "kus",
+        "kus: vrouw, vrouw, lichte huidskleur, donkergetinte huidskleur",
+        "lichte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏻‍❤‍💋‍👩🏿": [
+        "donkere huidskleur",
+        "kus",
+        "kus: vrouw, vrouw, lichte huidskleur, donkere huidskleur",
+        "lichte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏼‍❤‍💋‍👩🏻": [
+        "kus",
+        "kus: vrouw, vrouw, lichtgetinte huidskleur, lichte huidskleur",
+        "lichte huidskleur",
+        "lichtgetinte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏼‍❤‍💋‍👩🏼": [
+        "kus",
+        "kus: vrouw, vrouw, lichtgetinte huidskleur",
+        "lichtgetinte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏼‍❤‍💋‍👩🏽": [
+        "getinte huidskleur",
+        "kus",
+        "kus: vrouw, vrouw, lichtgetinte huidskleur, getinte huidskleur",
+        "lichtgetinte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏼‍❤‍💋‍👩🏾": [
+        "donkergetinte huidskleur",
+        "kus",
+        "kus: vrouw, vrouw, lichtgetinte huidskleur, donkergetinte huidskleur",
+        "lichtgetinte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏼‍❤‍💋‍👩🏿": [
+        "donkere huidskleur",
+        "kus",
+        "kus: vrouw, vrouw, lichtgetinte huidskleur, donkere huidskleur",
+        "lichtgetinte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏽‍❤‍💋‍👩🏻": [
+        "getinte huidskleur",
+        "kus",
+        "kus: vrouw, vrouw, getinte huidskleur, lichte huidskleur",
+        "lichte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏽‍❤‍💋‍👩🏼": [
+        "getinte huidskleur",
+        "kus",
+        "kus: vrouw, vrouw, getinte huidskleur, lichtgetinte huidskleur",
+        "lichtgetinte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏽‍❤‍💋‍👩🏽": [
+        "getinte huidskleur",
+        "kus",
+        "kus: vrouw, vrouw, getinte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏽‍❤‍💋‍👩🏾": [
+        "donkergetinte huidskleur",
+        "getinte huidskleur",
+        "kus",
+        "kus: vrouw, vrouw, getinte huidskleur, donkergetinte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏽‍❤‍💋‍👩🏿": [
+        "donkere huidskleur",
+        "getinte huidskleur",
+        "kus",
+        "kus: vrouw, vrouw, getinte huidskleur, donkere huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏾‍❤‍💋‍👩🏻": [
+        "donkergetinte huidskleur",
+        "kus",
+        "kus: vrouw, vrouw, donkergetinte huidskleur, lichte huidskleur",
+        "lichte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏾‍❤‍💋‍👩🏼": [
+        "donkergetinte huidskleur",
+        "kus",
+        "kus: vrouw, vrouw, donkergetinte huidskleur, lichtgetinte huidskleur",
+        "lichtgetinte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏾‍❤‍💋‍👩🏽": [
+        "donkergetinte huidskleur",
+        "getinte huidskleur",
+        "kus",
+        "kus: vrouw, vrouw, donkergetinte huidskleur, getinte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏾‍❤‍💋‍👩🏾": [
+        "donkergetinte huidskleur",
+        "kus",
+        "kus: vrouw, vrouw, donkergetinte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏾‍❤‍💋‍👩🏿": [
+        "donkere huidskleur",
+        "donkergetinte huidskleur",
+        "kus",
+        "kus: vrouw, vrouw, donkergetinte huidskleur, donkere huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏿‍❤‍💋‍👩🏻": [
+        "donkere huidskleur",
+        "kus",
+        "kus: vrouw, vrouw, donkere huidskleur, lichte huidskleur",
+        "lichte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏿‍❤‍💋‍👩🏼": [
+        "donkere huidskleur",
+        "kus",
+        "kus: vrouw, vrouw, donkere huidskleur, lichtgetinte huidskleur",
+        "lichtgetinte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏿‍❤‍💋‍👩🏽": [
+        "donkere huidskleur",
+        "getinte huidskleur",
+        "kus",
+        "kus: vrouw, vrouw, donkere huidskleur, getinte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏿‍❤‍💋‍👩🏾": [
+        "donkere huidskleur",
+        "donkergetinte huidskleur",
+        "kus",
+        "kus: vrouw, vrouw, donkere huidskleur, donkergetinte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏿‍❤‍💋‍👩🏿": [
+        "donkere huidskleur",
+        "kus",
+        "kus: vrouw, vrouw, donkere huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏻‍❤‍👨🏻": [
+        "lichte huidskleur",
+        "liefde",
+        "man",
+        "stel met hart",
+        "stel met hart: vrouw, man, lichte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏻‍❤‍👨🏼": [
+        "lichte huidskleur",
+        "lichtgetinte huidskleur",
+        "liefde",
+        "man",
+        "stel met hart",
+        "stel met hart: vrouw, man, lichte huidskleur, lichtgetinte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏻‍❤‍👨🏽": [
+        "getinte huidskleur",
+        "lichte huidskleur",
+        "liefde",
+        "man",
+        "stel met hart",
+        "stel met hart: vrouw, man, lichte huidskleur, getinte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏻‍❤‍👨🏾": [
+        "donkergetinte huidskleur",
+        "lichte huidskleur",
+        "liefde",
+        "man",
+        "stel met hart",
+        "stel met hart: vrouw, man, lichte huidskleur, donkergetinte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏻‍❤‍👨🏿": [
+        "donkere huidskleur",
+        "lichte huidskleur",
+        "liefde",
+        "man",
+        "stel met hart",
+        "stel met hart: vrouw, man, lichte huidskleur, donkere huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏼‍❤‍👨🏻": [
+        "lichte huidskleur",
+        "lichtgetinte huidskleur",
+        "liefde",
+        "man",
+        "stel met hart",
+        "stel met hart: vrouw, man, lichtgetinte huidskleur, lichte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏼‍❤‍👨🏼": [
+        "lichtgetinte huidskleur",
+        "liefde",
+        "man",
+        "stel met hart",
+        "stel met hart: vrouw, man, lichtgetinte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏼‍❤‍👨🏽": [
+        "getinte huidskleur",
+        "lichtgetinte huidskleur",
+        "liefde",
+        "man",
+        "stel met hart",
+        "stel met hart: vrouw, man, lichtgetinte huidskleur, getinte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏼‍❤‍👨🏾": [
+        "donkergetinte huidskleur",
+        "lichtgetinte huidskleur",
+        "liefde",
+        "man",
+        "stel met hart",
+        "stel met hart: vrouw, man, lichtgetinte huidskleur, donkergetinte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏼‍❤‍👨🏿": [
+        "donkere huidskleur",
+        "lichtgetinte huidskleur",
+        "liefde",
+        "man",
+        "stel met hart",
+        "stel met hart: vrouw, man, lichtgetinte huidskleur, donkere huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏽‍❤‍👨🏻": [
+        "getinte huidskleur",
+        "lichte huidskleur",
+        "liefde",
+        "man",
+        "stel met hart",
+        "stel met hart: vrouw, man, getinte huidskleur, lichte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏽‍❤‍👨🏼": [
+        "getinte huidskleur",
+        "lichtgetinte huidskleur",
+        "liefde",
+        "man",
+        "stel met hart",
+        "stel met hart: vrouw, man, getinte huidskleur, lichtgetinte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏽‍❤‍👨🏽": [
+        "getinte huidskleur",
+        "liefde",
+        "man",
+        "stel met hart",
+        "stel met hart: vrouw, man, getinte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏽‍❤‍👨🏾": [
+        "donkergetinte huidskleur",
+        "getinte huidskleur",
+        "liefde",
+        "man",
+        "stel met hart",
+        "stel met hart: vrouw, man, getinte huidskleur, donkergetinte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏽‍❤‍👨🏿": [
+        "donkere huidskleur",
+        "getinte huidskleur",
+        "liefde",
+        "man",
+        "stel met hart",
+        "stel met hart: vrouw, man, getinte huidskleur, donkere huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏾‍❤‍👨🏻": [
+        "donkergetinte huidskleur",
+        "lichte huidskleur",
+        "liefde",
+        "man",
+        "stel met hart",
+        "stel met hart: vrouw, man, donkergetinte huidskleur, lichte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏾‍❤‍👨🏼": [
+        "donkergetinte huidskleur",
+        "lichtgetinte huidskleur",
+        "liefde",
+        "man",
+        "stel met hart",
+        "stel met hart: vrouw, man, donkergetinte huidskleur, lichtgetinte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏾‍❤‍👨🏽": [
+        "donkergetinte huidskleur",
+        "getinte huidskleur",
+        "liefde",
+        "man",
+        "stel met hart",
+        "stel met hart: vrouw, man, donkergetinte huidskleur, getinte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏾‍❤‍👨🏾": [
+        "donkergetinte huidskleur",
+        "liefde",
+        "man",
+        "stel met hart",
+        "stel met hart: vrouw, man, donkergetinte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏾‍❤‍👨🏿": [
+        "donkere huidskleur",
+        "donkergetinte huidskleur",
+        "liefde",
+        "man",
+        "stel met hart",
+        "stel met hart: vrouw, man, donkergetinte huidskleur, donkere huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏿‍❤‍👨🏻": [
+        "donkere huidskleur",
+        "lichte huidskleur",
+        "liefde",
+        "man",
+        "stel met hart",
+        "stel met hart: vrouw, man, donkere huidskleur, lichte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏿‍❤‍👨🏼": [
+        "donkere huidskleur",
+        "lichtgetinte huidskleur",
+        "liefde",
+        "man",
+        "stel met hart",
+        "stel met hart: vrouw, man, donkere huidskleur, lichtgetinte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏿‍❤‍👨🏽": [
+        "donkere huidskleur",
+        "getinte huidskleur",
+        "liefde",
+        "man",
+        "stel met hart",
+        "stel met hart: vrouw, man, donkere huidskleur, getinte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏿‍❤‍👨🏾": [
+        "donkere huidskleur",
+        "donkergetinte huidskleur",
+        "liefde",
+        "man",
+        "stel met hart",
+        "stel met hart: vrouw, man, donkere huidskleur, donkergetinte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏿‍❤‍👨🏿": [
+        "donkere huidskleur",
+        "liefde",
+        "man",
+        "stel met hart",
+        "stel met hart: vrouw, man, donkere huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏻‍❤‍👩🏻": [
+        "lichte huidskleur",
+        "liefde",
+        "stel met hart",
+        "stel met hart: vrouw, vrouw, lichte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏻‍❤‍👩🏼": [
+        "lichte huidskleur",
+        "lichtgetinte huidskleur",
+        "liefde",
+        "stel met hart",
+        "stel met hart: vrouw, vrouw, lichte huidskleur, lichtgetinte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏻‍❤‍👩🏽": [
+        "getinte huidskleur",
+        "lichte huidskleur",
+        "liefde",
+        "stel met hart",
+        "stel met hart: vrouw, vrouw, lichte huidskleur, getinte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏻‍❤‍👩🏾": [
+        "donkergetinte huidskleur",
+        "lichte huidskleur",
+        "liefde",
+        "stel met hart",
+        "stel met hart: vrouw, vrouw, lichte huidskleur, donkergetinte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏻‍❤‍👩🏿": [
+        "donkere huidskleur",
+        "lichte huidskleur",
+        "liefde",
+        "stel met hart",
+        "stel met hart: vrouw, vrouw, lichte huidskleur, donkere huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏼‍❤‍👩🏻": [
+        "lichte huidskleur",
+        "lichtgetinte huidskleur",
+        "liefde",
+        "stel met hart",
+        "stel met hart: vrouw, vrouw, lichtgetinte huidskleur, lichte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏼‍❤‍👩🏼": [
+        "lichtgetinte huidskleur",
+        "liefde",
+        "stel met hart",
+        "stel met hart: vrouw, vrouw, lichtgetinte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏼‍❤‍👩🏽": [
+        "getinte huidskleur",
+        "lichtgetinte huidskleur",
+        "liefde",
+        "stel met hart",
+        "stel met hart: vrouw, vrouw, lichtgetinte huidskleur, getinte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏼‍❤‍👩🏾": [
+        "donkergetinte huidskleur",
+        "lichtgetinte huidskleur",
+        "liefde",
+        "stel met hart",
+        "stel met hart: vrouw, vrouw, lichtgetinte huidskleur, donkergetinte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏼‍❤‍👩🏿": [
+        "donkere huidskleur",
+        "lichtgetinte huidskleur",
+        "liefde",
+        "stel met hart",
+        "stel met hart: vrouw, vrouw, lichtgetinte huidskleur, donkere huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏽‍❤‍👩🏻": [
+        "getinte huidskleur",
+        "lichte huidskleur",
+        "liefde",
+        "stel met hart",
+        "stel met hart: vrouw, vrouw, getinte huidskleur, lichte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏽‍❤‍👩🏼": [
+        "getinte huidskleur",
+        "lichtgetinte huidskleur",
+        "liefde",
+        "stel met hart",
+        "stel met hart: vrouw, vrouw, getinte huidskleur, lichtgetinte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏽‍❤‍👩🏽": [
+        "getinte huidskleur",
+        "liefde",
+        "stel met hart",
+        "stel met hart: vrouw, vrouw, getinte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏽‍❤‍👩🏾": [
+        "donkergetinte huidskleur",
+        "getinte huidskleur",
+        "liefde",
+        "stel met hart",
+        "stel met hart: vrouw, vrouw, getinte huidskleur, donkergetinte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏽‍❤‍👩🏿": [
+        "donkere huidskleur",
+        "getinte huidskleur",
+        "liefde",
+        "stel met hart",
+        "stel met hart: vrouw, vrouw, getinte huidskleur, donkere huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏾‍❤‍👩🏻": [
+        "donkergetinte huidskleur",
+        "lichte huidskleur",
+        "liefde",
+        "stel met hart",
+        "stel met hart: vrouw, vrouw, donkergetinte huidskleur, lichte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏾‍❤‍👩🏼": [
+        "donkergetinte huidskleur",
+        "lichtgetinte huidskleur",
+        "liefde",
+        "stel met hart",
+        "stel met hart: vrouw, vrouw, donkergetinte huidskleur, lichtgetinte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏾‍❤‍👩🏽": [
+        "donkergetinte huidskleur",
+        "getinte huidskleur",
+        "liefde",
+        "stel met hart",
+        "stel met hart: vrouw, vrouw, donkergetinte huidskleur, getinte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏾‍❤‍👩🏾": [
+        "donkergetinte huidskleur",
+        "liefde",
+        "stel met hart",
+        "stel met hart: vrouw, vrouw, donkergetinte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏾‍❤‍👩🏿": [
+        "donkere huidskleur",
+        "donkergetinte huidskleur",
+        "liefde",
+        "stel met hart",
+        "stel met hart: vrouw, vrouw, donkergetinte huidskleur, donkere huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏿‍❤‍👩🏻": [
+        "donkere huidskleur",
+        "lichte huidskleur",
+        "liefde",
+        "stel met hart",
+        "stel met hart: vrouw, vrouw, donkere huidskleur, lichte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏿‍❤‍👩🏼": [
+        "donkere huidskleur",
+        "lichtgetinte huidskleur",
+        "liefde",
+        "stel met hart",
+        "stel met hart: vrouw, vrouw, donkere huidskleur, lichtgetinte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏿‍❤‍👩🏽": [
+        "donkere huidskleur",
+        "getinte huidskleur",
+        "liefde",
+        "stel met hart",
+        "stel met hart: vrouw, vrouw, donkere huidskleur, getinte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏿‍❤‍👩🏾": [
+        "donkere huidskleur",
+        "donkergetinte huidskleur",
+        "liefde",
+        "stel met hart",
+        "stel met hart: vrouw, vrouw, donkere huidskleur, donkergetinte huidskleur",
+        "stelletje",
+        "vrouw"
+    ],
+    "👩🏿‍❤‍👩🏿": [
+        "donkere huidskleur",
+        "liefde",
+        "stel met hart",
+        "stel met hart: vrouw, vrouw, donkere huidskleur",
+        "stelletje",
+        "vrouw"
     ],
     "👩‍🦰": [
         "rood haar",
@@ -3789,43 +7551,61 @@
     ],
     "🧓": [
         "genderneutraal",
+        "niet nader omschreven geslacht",
         "oud",
-        "oudere volwassene"
+        "ouder persoon",
+        "oudere persoon",
+        "volwassene"
     ],
     "🧓🏻": [
         "genderneutraal",
         "lichte huidskleur",
+        "niet nader omschreven geslacht",
         "oud",
-        "oudere volwassene",
-        "oudere volwassene: lichte huidskleur"
+        "ouder persoon",
+        "oudere persoon",
+        "oudere persoon: lichte huidskleur",
+        "volwassene"
     ],
     "🧓🏼": [
         "genderneutraal",
         "lichtgetinte huidskleur",
+        "niet nader omschreven geslacht",
         "oud",
-        "oudere volwassene",
-        "oudere volwassene: lichtgetinte huidskleur"
+        "ouder persoon",
+        "oudere persoon",
+        "oudere persoon: lichtgetinte huidskleur",
+        "volwassene"
     ],
     "🧓🏽": [
         "genderneutraal",
         "getinte huidskleur",
+        "niet nader omschreven geslacht",
         "oud",
-        "oudere volwassene",
-        "oudere volwassene: getinte huidskleur"
+        "ouder persoon",
+        "oudere persoon",
+        "oudere persoon: getinte huidskleur",
+        "volwassene"
     ],
     "🧓🏾": [
         "donkergetinte huidskleur",
         "genderneutraal",
+        "niet nader omschreven geslacht",
         "oud",
-        "oudere volwassene",
-        "oudere volwassene: donkergetinte huidskleur"
+        "ouder persoon",
+        "oudere persoon",
+        "oudere persoon: donkergetinte huidskleur",
+        "volwassene"
     ],
     "🧓🏿": [
         "donkere huidskleur",
         "genderneutraal",
+        "niet nader omschreven geslacht",
         "oud",
-        "oudere volwassene",
-        "oudere volwassene: donkere huidskleur"
+        "ouder persoon",
+        "oudere persoon",
+        "oudere persoon: donkere huidskleur",
+        "volwassene"
     ],
     "👴": [
         "man",
@@ -4187,8 +7967,6 @@
         "gebaar",
         "hand",
         "illegaal",
-        "nee",
-        "niet",
         "persoon die nee-gebaar maakt",
         "verboden"
     ],
@@ -4197,8 +7975,6 @@
         "hand",
         "illegaal",
         "lichte huidskleur",
-        "nee",
-        "niet",
         "persoon die nee-gebaar maakt",
         "persoon die nee-gebaar maakt: lichte huidskleur",
         "verboden"
@@ -4208,8 +7984,6 @@
         "hand",
         "illegaal",
         "lichtgetinte huidskleur",
-        "nee",
-        "niet",
         "persoon die nee-gebaar maakt",
         "persoon die nee-gebaar maakt: lichtgetinte huidskleur",
         "verboden"
@@ -4219,8 +7993,6 @@
         "getinte huidskleur",
         "hand",
         "illegaal",
-        "nee",
-        "niet",
         "persoon die nee-gebaar maakt",
         "persoon die nee-gebaar maakt: getinte huidskleur",
         "verboden"
@@ -4230,8 +8002,6 @@
         "gebaar",
         "hand",
         "illegaal",
-        "nee",
-        "niet",
         "persoon die nee-gebaar maakt",
         "persoon die nee-gebaar maakt: donkergetinte huidskleur",
         "verboden"
@@ -4241,8 +8011,6 @@
         "gebaar",
         "hand",
         "illegaal",
-        "nee",
-        "niet",
         "persoon die nee-gebaar maakt",
         "persoon die nee-gebaar maakt: donkere huidskleur",
         "verboden"
@@ -4309,7 +8077,6 @@
         "gebaar",
         "hand",
         "illegaal",
-        "nee",
         "verboden",
         "vrouw",
         "vrouw die nee-gebaar maakt"
@@ -4319,7 +8086,6 @@
         "hand",
         "illegaal",
         "lichte huidskleur",
-        "nee",
         "verboden",
         "vrouw",
         "vrouw die nee-gebaar maakt",
@@ -4330,7 +8096,6 @@
         "hand",
         "illegaal",
         "lichtgetinte huidskleur",
-        "nee",
         "verboden",
         "vrouw",
         "vrouw die nee-gebaar maakt",
@@ -4341,7 +8106,6 @@
         "getinte huidskleur",
         "hand",
         "illegaal",
-        "nee",
         "verboden",
         "vrouw",
         "vrouw die nee-gebaar maakt",
@@ -4352,7 +8116,6 @@
         "gebaar",
         "hand",
         "illegaal",
-        "nee",
         "verboden",
         "vrouw",
         "vrouw die nee-gebaar maakt",
@@ -4363,7 +8126,6 @@
         "gebaar",
         "hand",
         "illegaal",
-        "nee",
         "verboden",
         "vrouw",
         "vrouw die nee-gebaar maakt",
@@ -5503,7 +9265,6 @@
     ],
     "👨‍⚕": [
         "dokter",
-        "gezondheidsmedewerker",
         "gezondheidszorg",
         "man",
         "mannelijke gezondheidsmedewerker",
@@ -5512,7 +9273,6 @@
     ],
     "👨🏻‍⚕": [
         "dokter",
-        "gezondheidsmedewerker",
         "gezondheidszorg",
         "lichte huidskleur",
         "man",
@@ -5523,7 +9283,6 @@
     ],
     "👨🏼‍⚕": [
         "dokter",
-        "gezondheidsmedewerker",
         "gezondheidszorg",
         "lichtgetinte huidskleur",
         "man",
@@ -5535,7 +9294,6 @@
     "👨🏽‍⚕": [
         "dokter",
         "getinte huidskleur",
-        "gezondheidsmedewerker",
         "gezondheidszorg",
         "man",
         "mannelijke gezondheidsmedewerker",
@@ -5546,7 +9304,6 @@
     "👨🏾‍⚕": [
         "dokter",
         "donkergetinte huidskleur",
-        "gezondheidsmedewerker",
         "gezondheidszorg",
         "man",
         "mannelijke gezondheidsmedewerker",
@@ -5557,7 +9314,6 @@
     "👨🏿‍⚕": [
         "dokter",
         "donkere huidskleur",
-        "gezondheidsmedewerker",
         "gezondheidszorg",
         "man",
         "mannelijke gezondheidsmedewerker",
@@ -5658,14 +9414,12 @@
         "student: donkere huidskleur"
     ],
     "👨‍🎓": [
-        "jongen",
         "man",
         "mannelijke student",
         "scholier",
         "student"
     ],
     "👨🏻‍🎓": [
-        "jongen",
         "lichte huidskleur",
         "man",
         "mannelijke student",
@@ -5674,7 +9428,6 @@
         "student"
     ],
     "👨🏼‍🎓": [
-        "jongen",
         "lichtgetinte huidskleur",
         "man",
         "mannelijke student",
@@ -5684,7 +9437,6 @@
     ],
     "👨🏽‍🎓": [
         "getinte huidskleur",
-        "jongen",
         "man",
         "mannelijke student",
         "mannelijke student: getinte huidskleur",
@@ -5693,7 +9445,6 @@
     ],
     "👨🏾‍🎓": [
         "donkergetinte huidskleur",
-        "jongen",
         "man",
         "mannelijke student",
         "mannelijke student: donkergetinte huidskleur",
@@ -5702,7 +9453,6 @@
     ],
     "👨🏿‍🎓": [
         "donkere huidskleur",
-        "jongen",
         "man",
         "mannelijke student",
         "mannelijke student: donkere huidskleur",
@@ -5710,14 +9460,12 @@
         "student"
     ],
     "👩‍🎓": [
-        "meisje",
         "scholiere",
         "studente",
         "vrouw"
     ],
     "👩🏻‍🎓": [
         "lichte huidskleur",
-        "meisje",
         "scholiere",
         "studente",
         "studente: lichte huidskleur",
@@ -5725,7 +9473,6 @@
     ],
     "👩🏼‍🎓": [
         "lichtgetinte huidskleur",
-        "meisje",
         "scholiere",
         "studente",
         "studente: lichtgetinte huidskleur",
@@ -5733,7 +9480,6 @@
     ],
     "👩🏽‍🎓": [
         "getinte huidskleur",
-        "meisje",
         "scholiere",
         "studente",
         "studente: getinte huidskleur",
@@ -5741,7 +9487,6 @@
     ],
     "👩🏾‍🎓": [
         "donkergetinte huidskleur",
-        "meisje",
         "scholiere",
         "studente",
         "studente: donkergetinte huidskleur",
@@ -5749,7 +9494,6 @@
     ],
     "👩🏿‍🎓": [
         "donkere huidskleur",
-        "meisje",
         "scholiere",
         "studente",
         "studente: donkere huidskleur",
@@ -6476,7 +10220,6 @@
     "👨‍🏭": [
         "arbeider",
         "fabriek",
-        "fabrieksarbeider",
         "industrieel",
         "lopende band",
         "man",
@@ -6485,7 +10228,6 @@
     "👨🏻‍🏭": [
         "arbeider",
         "fabriek",
-        "fabrieksarbeider",
         "industrieel",
         "lichte huidskleur",
         "lopende band",
@@ -6496,7 +10238,6 @@
     "👨🏼‍🏭": [
         "arbeider",
         "fabriek",
-        "fabrieksarbeider",
         "industrieel",
         "lichtgetinte huidskleur",
         "lopende band",
@@ -6507,7 +10248,6 @@
     "👨🏽‍🏭": [
         "arbeider",
         "fabriek",
-        "fabrieksarbeider",
         "getinte huidskleur",
         "industrieel",
         "lopende band",
@@ -6519,7 +10259,6 @@
         "arbeider",
         "donkergetinte huidskleur",
         "fabriek",
-        "fabrieksarbeider",
         "industrieel",
         "lopende band",
         "man",
@@ -6530,7 +10269,6 @@
         "arbeider",
         "donkere huidskleur",
         "fabriek",
-        "fabrieksarbeider",
         "industrieel",
         "lopende band",
         "man",
@@ -6822,8 +10560,7 @@
         "mannelijke wetenschapper",
         "natuurkundige",
         "scheikundige",
-        "wetenschapper",
-        "wiskundige"
+        "wetenschapper"
     ],
     "👨🏻‍🔬": [
         "bioloog",
@@ -6834,8 +10571,7 @@
         "mannelijke wetenschapper: lichte huidskleur",
         "natuurkundige",
         "scheikundige",
-        "wetenschapper",
-        "wiskundige"
+        "wetenschapper"
     ],
     "👨🏼‍🔬": [
         "bioloog",
@@ -6846,8 +10582,7 @@
         "mannelijke wetenschapper: lichtgetinte huidskleur",
         "natuurkundige",
         "scheikundige",
-        "wetenschapper",
-        "wiskundige"
+        "wetenschapper"
     ],
     "👨🏽‍🔬": [
         "bioloog",
@@ -6858,8 +10593,7 @@
         "mannelijke wetenschapper: getinte huidskleur",
         "natuurkundige",
         "scheikundige",
-        "wetenschapper",
-        "wiskundige"
+        "wetenschapper"
     ],
     "👨🏾‍🔬": [
         "bioloog",
@@ -6870,8 +10604,7 @@
         "mannelijke wetenschapper: donkergetinte huidskleur",
         "natuurkundige",
         "scheikundige",
-        "wetenschapper",
-        "wiskundige"
+        "wetenschapper"
     ],
     "👨🏿‍🔬": [
         "bioloog",
@@ -6882,8 +10615,7 @@
         "mannelijke wetenschapper: donkere huidskleur",
         "natuurkundige",
         "scheikundige",
-        "wetenschapper",
-        "wiskundige"
+        "wetenschapper"
     ],
     "👩‍🔬": [
         "biologe",
@@ -6891,8 +10623,7 @@
         "natuurkundige",
         "scheikundige",
         "vrouw",
-        "wetenschapster",
-        "wiskundige"
+        "wetenschapster"
     ],
     "👩🏻‍🔬": [
         "biologe",
@@ -6902,8 +10633,7 @@
         "scheikundige",
         "vrouw",
         "wetenschapster",
-        "wetenschapster: lichte huidskleur",
-        "wiskundige"
+        "wetenschapster: lichte huidskleur"
     ],
     "👩🏼‍🔬": [
         "biologe",
@@ -6913,8 +10643,7 @@
         "scheikundige",
         "vrouw",
         "wetenschapster",
-        "wetenschapster: lichtgetinte huidskleur",
-        "wiskundige"
+        "wetenschapster: lichtgetinte huidskleur"
     ],
     "👩🏽‍🔬": [
         "biologe",
@@ -6924,8 +10653,7 @@
         "scheikundige",
         "vrouw",
         "wetenschapster",
-        "wetenschapster: getinte huidskleur",
-        "wiskundige"
+        "wetenschapster: getinte huidskleur"
     ],
     "👩🏾‍🔬": [
         "biologe",
@@ -6935,8 +10663,7 @@
         "scheikundige",
         "vrouw",
         "wetenschapster",
-        "wetenschapster: donkergetinte huidskleur",
-        "wiskundige"
+        "wetenschapster: donkergetinte huidskleur"
     ],
     "👩🏿‍🔬": [
         "biologe",
@@ -6946,8 +10673,7 @@
         "scheikundige",
         "vrouw",
         "wetenschapster",
-        "wetenschapster: donkere huidskleur",
-        "wiskundige"
+        "wetenschapster: donkere huidskleur"
     ],
     "🧑‍💻": [
         "ontwikkelaar",
@@ -7767,14 +11493,12 @@
     ],
     "👮": [
         "agent",
-        "mensen",
         "politie",
         "politieagent"
     ],
     "👮🏻": [
         "agent",
         "lichte huidskleur",
-        "mensen",
         "politie",
         "politieagent",
         "politieagent: lichte huidskleur"
@@ -7782,7 +11506,6 @@
     "👮🏼": [
         "agent",
         "lichtgetinte huidskleur",
-        "mensen",
         "politie",
         "politieagent",
         "politieagent: lichtgetinte huidskleur"
@@ -7790,7 +11513,6 @@
     "👮🏽": [
         "agent",
         "getinte huidskleur",
-        "mensen",
         "politie",
         "politieagent",
         "politieagent: getinte huidskleur"
@@ -7798,7 +11520,6 @@
     "👮🏾": [
         "agent",
         "donkergetinte huidskleur",
-        "mensen",
         "politie",
         "politieagent",
         "politieagent: donkergetinte huidskleur"
@@ -7806,7 +11527,6 @@
     "👮🏿": [
         "agent",
         "donkere huidskleur",
-        "mensen",
         "politie",
         "politieagent",
         "politieagent: donkere huidskleur"
@@ -8048,36 +11768,30 @@
         "vrouwelijke detective: donkere huidskleur"
     ],
     "💂": [
-        "mensen",
         "wachter"
     ],
     "💂🏻": [
         "lichte huidskleur",
-        "mensen",
         "wachter",
         "wachter: lichte huidskleur"
     ],
     "💂🏼": [
         "lichtgetinte huidskleur",
-        "mensen",
         "wachter",
         "wachter: lichtgetinte huidskleur"
     ],
     "💂🏽": [
         "getinte huidskleur",
-        "mensen",
         "wachter",
         "wachter: getinte huidskleur"
     ],
     "💂🏾": [
         "donkergetinte huidskleur",
-        "mensen",
         "wachter",
         "wachter: donkergetinte huidskleur"
     ],
     "💂🏿": [
         "donkere huidskleur",
-        "mensen",
         "wachter",
         "wachter: donkere huidskleur"
     ],
@@ -8165,6 +11879,46 @@
         "geheim",
         "krijger",
         "ninja",
+        "verborgen"
+    ],
+    "🥷🏻": [
+        "geheim",
+        "krijger",
+        "lichte huidskleur",
+        "ninja",
+        "ninja: lichte huidskleur",
+        "verborgen"
+    ],
+    "🥷🏼": [
+        "geheim",
+        "krijger",
+        "lichtgetinte huidskleur",
+        "ninja",
+        "ninja: lichtgetinte huidskleur",
+        "verborgen"
+    ],
+    "🥷🏽": [
+        "geheim",
+        "getinte huidskleur",
+        "krijger",
+        "ninja",
+        "ninja: getinte huidskleur",
+        "verborgen"
+    ],
+    "🥷🏾": [
+        "donkergetinte huidskleur",
+        "geheim",
+        "krijger",
+        "ninja",
+        "ninja: donkergetinte huidskleur",
+        "verborgen"
+    ],
+    "🥷🏿": [
+        "donkere huidskleur",
+        "geheim",
+        "krijger",
+        "ninja",
+        "ninja: donkere huidskleur",
         "verborgen"
     ],
     "👷": [
@@ -8305,6 +12059,58 @@
         "vrouwelijke bouwvakker",
         "vrouwelijke bouwvakker: donkere huidskleur"
     ],
+    "🫅": [
+        "edele",
+        "heerser",
+        "iemand van koninklijken bloede",
+        "persoon met kroon",
+        "regaal"
+    ],
+    "🫅🏻": [
+        "edele",
+        "heerser",
+        "iemand van koninklijken bloede",
+        "lichte huidskleur",
+        "persoon met kroon",
+        "persoon met kroon: lichte huidskleur",
+        "regaal"
+    ],
+    "🫅🏼": [
+        "edele",
+        "heerser",
+        "iemand van koninklijken bloede",
+        "lichtgetinte huidskleur",
+        "persoon met kroon",
+        "persoon met kroon: lichtgetinte huidskleur",
+        "regaal"
+    ],
+    "🫅🏽": [
+        "edele",
+        "getinte huidskleur",
+        "heerser",
+        "iemand van koninklijken bloede",
+        "persoon met kroon",
+        "persoon met kroon: getinte huidskleur",
+        "regaal"
+    ],
+    "🫅🏾": [
+        "donkergetinte huidskleur",
+        "edele",
+        "heerser",
+        "iemand van koninklijken bloede",
+        "persoon met kroon",
+        "persoon met kroon: donkergetinte huidskleur",
+        "regaal"
+    ],
+    "🫅🏿": [
+        "donkere huidskleur",
+        "edele",
+        "heerser",
+        "iemand van koninklijken bloede",
+        "persoon met kroon",
+        "persoon met kroon: donkere huidskleur",
+        "regaal"
+    ],
     "🤴": [
         "prins"
     ],
@@ -8335,14 +12141,12 @@
     ],
     "👸": [
         "fantasie",
-        "mensen",
         "prinses",
         "sprookje"
     ],
     "👸🏻": [
         "fantasie",
         "lichte huidskleur",
-        "mensen",
         "prinses",
         "prinses: lichte huidskleur",
         "sprookje"
@@ -8350,7 +12154,6 @@
     "👸🏼": [
         "fantasie",
         "lichtgetinte huidskleur",
-        "mensen",
         "prinses",
         "prinses: lichtgetinte huidskleur",
         "sprookje"
@@ -8358,7 +12161,6 @@
     "👸🏽": [
         "fantasie",
         "getinte huidskleur",
-        "mensen",
         "prinses",
         "prinses: getinte huidskleur",
         "sprookje"
@@ -8366,7 +12168,6 @@
     "👸🏾": [
         "donkergetinte huidskleur",
         "fantasie",
-        "mensen",
         "prinses",
         "prinses: donkergetinte huidskleur",
         "sprookje"
@@ -8374,7 +12175,6 @@
     "👸🏿": [
         "donkere huidskleur",
         "fantasie",
-        "mensen",
         "prinses",
         "prinses: donkere huidskleur",
         "sprookje"
@@ -8882,6 +12682,110 @@
         "zwanger",
         "zwangere vrouw",
         "zwangere vrouw: donkere huidskleur"
+    ],
+    "🫃": [
+        "buik",
+        "opgeblazen",
+        "vol",
+        "zwanger",
+        "zwangere man"
+    ],
+    "🫃🏻": [
+        "buik",
+        "lichte huidskleur",
+        "opgeblazen",
+        "vol",
+        "zwanger",
+        "zwangere man",
+        "zwangere man: lichte huidskleur"
+    ],
+    "🫃🏼": [
+        "buik",
+        "lichtgetinte huidskleur",
+        "opgeblazen",
+        "vol",
+        "zwanger",
+        "zwangere man",
+        "zwangere man: lichtgetinte huidskleur"
+    ],
+    "🫃🏽": [
+        "buik",
+        "getinte huidskleur",
+        "opgeblazen",
+        "vol",
+        "zwanger",
+        "zwangere man",
+        "zwangere man: getinte huidskleur"
+    ],
+    "🫃🏾": [
+        "buik",
+        "donkergetinte huidskleur",
+        "opgeblazen",
+        "vol",
+        "zwanger",
+        "zwangere man",
+        "zwangere man: donkergetinte huidskleur"
+    ],
+    "🫃🏿": [
+        "buik",
+        "donkere huidskleur",
+        "opgeblazen",
+        "vol",
+        "zwanger",
+        "zwangere man",
+        "zwangere man: donkere huidskleur"
+    ],
+    "🫄": [
+        "buik",
+        "opgeblazen",
+        "vol",
+        "zwanger",
+        "zwanger persoon"
+    ],
+    "🫄🏻": [
+        "buik",
+        "lichte huidskleur",
+        "opgeblazen",
+        "vol",
+        "zwanger",
+        "zwanger persoon",
+        "zwanger persoon: lichte huidskleur"
+    ],
+    "🫄🏼": [
+        "buik",
+        "lichtgetinte huidskleur",
+        "opgeblazen",
+        "vol",
+        "zwanger",
+        "zwanger persoon",
+        "zwanger persoon: lichtgetinte huidskleur"
+    ],
+    "🫄🏽": [
+        "buik",
+        "getinte huidskleur",
+        "opgeblazen",
+        "vol",
+        "zwanger",
+        "zwanger persoon",
+        "zwanger persoon: getinte huidskleur"
+    ],
+    "🫄🏾": [
+        "buik",
+        "donkergetinte huidskleur",
+        "opgeblazen",
+        "vol",
+        "zwanger",
+        "zwanger persoon",
+        "zwanger persoon: donkergetinte huidskleur"
+    ],
+    "🫄🏿": [
+        "buik",
+        "donkere huidskleur",
+        "opgeblazen",
+        "vol",
+        "zwanger",
+        "zwanger persoon",
+        "zwanger persoon: donkere huidskleur"
     ],
     "🤱": [
         "baby",
@@ -10190,6 +14094,12 @@
         "ondode",
         "vrouwelijke zombie"
     ],
+    "🧌": [
+        "fantasie",
+        "monster",
+        "sprookje",
+        "trol"
+    ],
     "💆": [
         "gezicht",
         "massage",
@@ -11237,48 +15147,42 @@
     "🏃": [
         "hardlopen",
         "hardloper",
-        "marathon",
-        "sport"
+        "marathon"
     ],
     "🏃🏻": [
         "hardlopen",
         "hardloper",
         "hardloper: lichte huidskleur",
         "lichte huidskleur",
-        "marathon",
-        "sport"
+        "marathon"
     ],
     "🏃🏼": [
         "hardlopen",
         "hardloper",
         "hardloper: lichtgetinte huidskleur",
         "lichtgetinte huidskleur",
-        "marathon",
-        "sport"
+        "marathon"
     ],
     "🏃🏽": [
         "getinte huidskleur",
         "hardlopen",
         "hardloper",
         "hardloper: getinte huidskleur",
-        "marathon",
-        "sport"
+        "marathon"
     ],
     "🏃🏾": [
         "donkergetinte huidskleur",
         "hardlopen",
         "hardloper",
         "hardloper: donkergetinte huidskleur",
-        "marathon",
-        "sport"
+        "marathon"
     ],
     "🏃🏿": [
         "donkere huidskleur",
         "hardlopen",
         "hardloper",
         "hardloper: donkere huidskleur",
-        "marathon",
-        "sport"
+        "marathon"
     ],
     "🏃‍♂": [
         "hardlopen",
@@ -14814,6 +18718,36 @@
         "kus",
         "stelletje"
     ],
+    "💏🏻": [
+        "kus",
+        "kus: lichte huidskleur",
+        "lichte huidskleur",
+        "stelletje"
+    ],
+    "💏🏼": [
+        "kus",
+        "kus: lichtgetinte huidskleur",
+        "lichtgetinte huidskleur",
+        "stelletje"
+    ],
+    "💏🏽": [
+        "getinte huidskleur",
+        "kus",
+        "kus: getinte huidskleur",
+        "stelletje"
+    ],
+    "💏🏾": [
+        "donkergetinte huidskleur",
+        "kus",
+        "kus: donkergetinte huidskleur",
+        "stelletje"
+    ],
+    "💏🏿": [
+        "donkere huidskleur",
+        "kus",
+        "kus: donkere huidskleur",
+        "stelletje"
+    ],
     "👩‍❤‍💋‍👨": [
         "kus",
         "kus: vrouw, man",
@@ -14836,6 +18770,41 @@
     "💑": [
         "liefde",
         "stel met hart",
+        "stelletje"
+    ],
+    "💑🏻": [
+        "lichte huidskleur",
+        "liefde",
+        "stel met hart",
+        "stel met hart: lichte huidskleur",
+        "stelletje"
+    ],
+    "💑🏼": [
+        "lichtgetinte huidskleur",
+        "liefde",
+        "stel met hart",
+        "stel met hart: lichtgetinte huidskleur",
+        "stelletje"
+    ],
+    "💑🏽": [
+        "getinte huidskleur",
+        "liefde",
+        "stel met hart",
+        "stel met hart: getinte huidskleur",
+        "stelletje"
+    ],
+    "💑🏾": [
+        "donkergetinte huidskleur",
+        "liefde",
+        "stel met hart",
+        "stel met hart: donkergetinte huidskleur",
+        "stelletje"
+    ],
+    "💑🏿": [
+        "donkere huidskleur",
+        "liefde",
+        "stel met hart",
+        "stel met hart: donkere huidskleur",
         "stelletje"
     ],
     "👩‍❤‍👨": [
@@ -15470,7 +19439,7 @@
         "stink­dier"
     ],
     "🦘": [
-        "Aus­tralië",
+        "Australië",
         "buideldier",
         "kangoeroe",
         "springen",
@@ -15667,16 +19636,21 @@
         "schelp",
         "spiraal"
     ],
+    "🪸": [
+        "koraal",
+        "oceaan",
+        "rif"
+    ],
     "🐌": [
         "slak"
     ],
     "🦋": [
         "insect",
         "mooi",
-        "schoonheid",
         "vlinder"
     ],
     "🐛": [
+        "beestje",
         "insect"
     ],
     "🐜": [
@@ -15706,7 +19680,8 @@
     "🪳": [
         "bakkerstor",
         "insect",
-        "kakkerlak"
+        "kakkerlak",
+        "ongedierte"
     ],
     "🕷️": [
         "insect",
@@ -15764,6 +19739,15 @@
     "💮": [
         "bloem",
         "witte bloem"
+    ],
+    "🪷": [
+        "India",
+        "Vietnam",
+        "bloem",
+        "boeddhisme",
+        "hindoeïsme",
+        "lotus",
+        "puurheid"
     ],
     "🏵️": [
         "plant",
@@ -15865,6 +19849,18 @@
         "waaiend",
         "waait",
         "wind"
+    ],
+    "🪹": [
+        "leeg nest",
+        "nestelen"
+    ],
+    "🪺": [
+        "nest met eieren",
+        "nestelen"
+    ],
+    "🍄": [
+        "paddenstoel",
+        "zwam"
     ],
     "🍇": [
         "druif",
@@ -16018,15 +20014,17 @@
         "smaakmaker",
         "ui"
     ],
-    "🍄": [
-        "paddenstoel",
-        "zwam"
-    ],
     "🥜": [
         "groente",
         "noot",
         "pinda",
         "pinda’s",
+        "voedsel"
+    ],
+    "🫘": [
+        "bonen",
+        "kidneyboon",
+        "peulvrucht",
         "voedsel"
     ],
     "🌰": [
@@ -16162,8 +20160,9 @@
     "🍳": [
         "bakken",
         "ei",
+        "koekenpan",
         "koken",
-        "pan"
+        "ontbijt"
     ],
     "🥘": [
         "casserole",
@@ -16257,10 +20256,11 @@
         "zoet"
     ],
     "🍢": [
+        "kebab",
         "oden",
+        "spies",
         "stokje",
-        "zeevruchten",
-        "zeevruchten op een stokje"
+        "zeevruchten"
     ],
     "🍣": [
         "sushi"
@@ -16288,7 +20288,7 @@
         "dango",
         "dessert",
         "japans",
-        "kleefrijstballetjes",
+        "spies",
         "stokje",
         "zoet"
     ],
@@ -16527,6 +20527,13 @@
         "whiskey",
         "whisky"
     ],
+    "🫗": [
+        "drinken",
+        "glas",
+        "leeg",
+        "morsen",
+        "vloeistof uitgieten"
+    ],
     "🥤": [
         "beker met rietje",
         "frisdrank",
@@ -16540,8 +20547,12 @@
         "thee"
     ],
     "🧃": [
+        "drankje",
+        "pakje",
         "pakje drinken",
-        "pakje sap"
+        "rietje",
+        "sap",
+        "zoet"
     ],
     "🧉": [
         "drank",
@@ -16579,6 +20590,14 @@
         "koken",
         "mes",
         "wapen"
+    ],
+    "🫙": [
+        "bewaren",
+        "leeg",
+        "pot",
+        "saus",
+        "specerij",
+        "verpakking"
     ],
     "🏺": [
         "amfora",
@@ -16783,7 +20802,6 @@
     ],
     "🏰": [
         "europees",
-        "gebouw",
         "kasteel"
     ],
     "💒": [
@@ -16878,7 +20896,6 @@
         "zonsondergang"
     ],
     "🌇": [
-        "gebouw",
         "schemer",
         "zon",
         "zonsondergang"
@@ -16898,6 +20915,11 @@
         "draaimolen",
         "draaimolenpaard",
         "paard"
+    ],
+    "🛝": [
+        "glijbaan",
+        "speeltuin",
+        "spelen"
     ],
     "🎡": [
         "pretpark",
@@ -16948,7 +20970,7 @@
         "hogesnelheidstrein met kogelneus",
         "kogeltrein",
         "snelheid",
-        "spoor",
+        "spoorweg",
         "trein"
     ],
     "🚆": [
@@ -17056,7 +21078,6 @@
     ],
     "🛻": [
         "bestelbak",
-        "laadbak",
         "laadbakwagen",
         "pick-up"
     ],
@@ -17116,8 +21137,7 @@
     ],
     "🛼": [
         "rollerskate",
-        "rolschaats",
-        "schaats"
+        "rolschaats"
     ],
     "🚏": [
         "bus",
@@ -17146,6 +21166,11 @@
         "brandstof",
         "pomp",
         "station"
+    ],
+    "🛞": [
+        "cirkel",
+        "draaien",
+        "wiel"
     ],
     "🚨": [
         "auto",
@@ -17182,6 +21207,14 @@
         "anker",
         "hulpmiddel",
         "schip"
+    ],
+    "🛟": [
+        "drijven",
+        "redden",
+        "reddingsboei",
+        "reddingsgordel",
+        "reddingsvest",
+        "veiligheid"
     ],
     "⛵️": [
         "boot",
@@ -17275,13 +21308,11 @@
     ],
     "🛰️": [
         "ruimte",
-        "satelliet",
-        "voertuig"
+        "satelliet"
     ],
     "🚀": [
         "raket",
-        "ruimte",
-        "voertuig"
+        "ruimte"
     ],
     "🛸": [
         "ufo",
@@ -17529,7 +21560,6 @@
     "🕦": [
         "11",
         "11:30",
-        "30",
         "dertig",
         "elf",
         "half twaalf",
@@ -17800,10 +21830,10 @@
         "pompoen"
     ],
     "🎄": [
+        "Kerstmis",
         "boom",
-        "feest",
         "kerstboom",
-        "kerstmis"
+        "viering"
     ],
     "🎆": [
         "feest",
@@ -17835,14 +21865,14 @@
         "feest",
         "feestknaller",
         "hoera",
-        "popper",
+        "knaller",
         "viering"
     ],
     "🎊": [
         "bal",
         "confetti",
         "confettibal",
-        "feest"
+        "viering"
     ],
     "🎋": [
         "boom",
@@ -17869,7 +21899,7 @@
         "feest",
         "karper",
         "karperslinger",
-        "wimpel"
+        "slinger"
     ],
     "🎐": [
         "bel",
@@ -18047,8 +22077,7 @@
     "🥊": [
         "boksen",
         "bokshandschoen",
-        "handschoen",
-        "sport"
+        "handschoen"
     ],
     "🥋": [
         "judo",
@@ -18061,9 +22090,7 @@
     "🥅": [
         "doel",
         "doelnet",
-        "goal",
-        "net",
-        "sport"
+        "net"
     ],
     "⛳️": [
         "golf",
@@ -18086,6 +22113,7 @@
         "snorkelen"
     ],
     "🎽": [
+        "atletiek",
         "hardloopshirt",
         "hardlopen",
         "shirt",
@@ -18124,6 +22152,16 @@
         "vlieger",
         "zweven"
     ],
+    "🔫": [
+        "blaffer",
+        "gereedschap",
+        "pistool",
+        "revolver",
+        "vuurwapen",
+        "wapen",
+        "water",
+        "waterpistool"
+    ],
     "🎱": [
         "8",
         "8 ball",
@@ -18145,18 +22183,9 @@
         "tovenaar",
         "toverstok"
     ],
-    "🧿": [
-        "Nazar",
-        "Nazar-amulet",
-        "amulet",
-        "boze oog",
-        "kraal",
-        "talisman"
-    ],
     "🎮️": [
         "controller",
         "game",
-        "gamecontroller",
         "videogame"
     ],
     "🕹️": [
@@ -18192,6 +22221,13 @@
         "piñata",
         "viering"
     ],
+    "🪩": [
+        "dans",
+        "disco",
+        "feest",
+        "glitter",
+        "spiegelbal"
+    ],
     "🪆": [
         "matroesjka",
         "pop",
@@ -18200,29 +22236,21 @@
     ],
     "♠️": [
         "kaart",
-        "kaarten",
-        "ruiten",
         "schoppen",
         "spel"
     ],
     "♥️": [
-        "hart",
         "harten",
         "kaart",
-        "kaarten",
         "spel"
     ],
     "♦️": [
         "kaart",
-        "kaarten",
-        "ruit",
         "ruiten",
         "spel"
     ],
     "♣️": [
         "kaart",
-        "kaarten",
-        "klaver",
         "klaveren",
         "spel"
     ],
@@ -18257,9 +22285,9 @@
     "🎭️": [
         "kunst",
         "masker",
+        "optreden",
         "theater",
         "toneel",
-        "toneelkunst",
         "toneelkunsten"
     ],
     "🖼️": [
@@ -18299,6 +22327,7 @@
         "wol"
     ],
     "🪢": [
+        "geknoopt",
         "knoop",
         "knopen",
         "kronkel",
@@ -18384,9 +22413,11 @@
         "zwempak"
     ],
     "🩲": [
+        "onderbroek",
         "ondergoed",
         "slip",
-        "zwembroek"
+        "zwembroek",
+        "zwemkleding"
     ],
     "🩳": [
         "korte broek",
@@ -18433,7 +22464,11 @@
         "tas"
     ],
     "🩴": [
-        "teenslipper"
+        "slipper",
+        "strandslipper",
+        "teenslipper",
+        "teenslof",
+        "zori"
     ],
     "👞": [
         "herenschoen",
@@ -18451,7 +22486,6 @@
     "🥾": [
         "kamperen",
         "schoen",
-        "trotteur",
         "wandelen",
         "wandelschoen"
     ],
@@ -18517,7 +22551,12 @@
         "pet"
     ],
     "🪖": [
-        "legerhelm"
+        "helm",
+        "leger",
+        "legerhelm",
+        "militair",
+        "soldaat",
+        "vechter"
     ],
     "⛑️": [
         "gezicht",
@@ -18572,11 +22611,9 @@
     "📢": [
         "luid",
         "luidspreker",
-        "toespraak",
-        "toespreken"
+        "toespraak"
     ],
     "📣": [
-        "communicatie",
         "juichen",
         "megafoon"
     ],
@@ -18622,13 +22659,10 @@
     "🎚️": [
         "muziek",
         "niveau",
-        "schuif",
-        "schuifje",
         "schuifregelaar"
     ],
     "🎛️": [
         "bediening",
-        "controle",
         "controleknoppen",
         "knoppen",
         "muziek"
@@ -18648,18 +22682,19 @@
     "🎷": [
         "instrument",
         "muziek",
-        "muziekinstrument",
         "sax",
         "saxofoon"
     ],
     "🪗": [
-        "accordeon"
+        "accordeon",
+        "bandoneon",
+        "concertina",
+        "trekzak"
     ],
     "🎸": [
         "gitaar",
         "instrument",
-        "muziek",
-        "muziekinstrument"
+        "muziek"
     ],
     "🎹": [
         "instrument",
@@ -18671,13 +22706,11 @@
     "🎺": [
         "instrument",
         "muziek",
-        "muziekinstrument",
         "trompet"
     ],
     "🎻": [
         "instrument",
         "muziek",
-        "muziekinstrument",
         "viool"
     ],
     "🪕": [
@@ -18692,7 +22725,11 @@
         "trommelstokken"
     ],
     "🪘": [
-        "hoge trom"
+        "beat",
+        "conga",
+        "drummen",
+        "hoge trom",
+        "ritme"
     ],
     "📱": [
         "mobiel",
@@ -18724,6 +22761,11 @@
     ],
     "🔋": [
         "batterij"
+    ],
+    "🪫": [
+        "batterij bijna leeg",
+        "electronisch",
+        "weinig batterijlading"
     ],
     "🔌": [
         "elektriciteit",
@@ -18808,9 +22850,7 @@
         "video"
     ],
     "🎬️": [
-        "entertainment",
         "film",
-        "klap",
         "klapbord",
         "klapper"
     ],
@@ -18863,7 +22903,6 @@
         "gloeilamp",
         "idee",
         "licht",
-        "peertje",
         "strip"
     ],
     "🔦": [
@@ -18982,7 +23021,12 @@
         "zak met geld"
     ],
     "🪙": [
-        "munt"
+        "geld",
+        "goud",
+        "metaal",
+        "munt",
+        "schat",
+        "zilver"
     ],
     "💴": [
         "bankbiljet",
@@ -19030,7 +23074,6 @@
         "vliegend geld"
     ],
     "💳️": [
-        "bank",
         "creditcard",
         "geld",
         "kaart",
@@ -19052,10 +23095,9 @@
         "yen"
     ],
     "✉️": [
+        "brief",
         "e-mail",
-        "email",
-        "envelop",
-        "mail"
+        "envelop"
     ],
     "📧": [
         "brief",
@@ -19104,7 +23146,6 @@
     "📫️": [
         "brievenbus",
         "gesloten",
-        "gesloten brievenbus met vlaggetje",
         "gesloten brievenbus met vlaggetje omhoog",
         "post",
         "postbus"
@@ -19134,7 +23175,8 @@
     ],
     "📮": [
         "brievenbus",
-        "post"
+        "post",
+        "postbus"
     ],
     "🗳️": [
         "doos",
@@ -19160,9 +23202,7 @@
     ],
     "🖌️": [
         "kwast",
-        "penseel",
-        "schilderen",
-        "schilderkwast"
+        "schilderen"
     ],
     "🖍️": [
         "krijt",
@@ -19182,7 +23222,6 @@
     ],
     "📂": [
         "bestand",
-        "geopende bestandsmap",
         "geopende map",
         "map",
         "open"
@@ -19190,7 +23229,6 @@
     "🗂️": [
         "index",
         "kaart",
-        "kaarten",
         "tabbladen"
     ],
     "📅": [
@@ -19258,8 +23296,7 @@
     "🖇️": [
         "aan elkaar",
         "paperclip",
-        "twee paperclips aan elkaar",
-        "vastgemaakt"
+        "twee paperclips aan elkaar"
     ],
     "📏": [
         "liniaal",
@@ -19273,6 +23310,7 @@
     ],
     "✂️": [
         "gereedschap",
+        "knippen",
         "schaar"
     ],
     "🗃️": [
@@ -19294,21 +23332,25 @@
         "slot"
     ],
     "🔓️": [
+        "geopend",
         "geopend hangslot",
-        "hangslot",
-        "open"
+        "open",
+        "openen"
     ],
     "🔏": [
+        "inkt",
+        "pen",
         "privacy",
+        "slot",
         "slot met pen",
-        "slot met vulpen",
         "vulpen"
     ],
     "🔐": [
         "beveiligd",
         "gesloten",
         "gesloten slot met sleutel",
-        "slot met sleutel"
+        "sleutel",
+        "slok"
     ],
     "🔑": [
         "beveiligd",
@@ -19355,17 +23397,20 @@
         "wapen"
     ],
     "⚔️": [
+        "gekruist",
         "gekruiste zwaarden",
         "wapen",
         "zwaarden"
     ],
-    "🔫": [
-        "pistool",
-        "revolver",
-        "wapen"
+    "💣️": [
+        "bom",
+        "strip"
     ],
     "🪃": [
-        "boemerang"
+        "Australië",
+        "boemerang",
+        "reactie",
+        "terugslag"
     ],
     "🏹": [
         "boog",
@@ -19375,17 +23420,24 @@
         "wapen"
     ],
     "🛡️": [
-        "bescherming",
-        "schild"
+        "schild",
+        "wapen"
     ],
     "🪚": [
-        "houtzaag"
+        "gereedschap",
+        "hout",
+        "houtzaag",
+        "timmerman",
+        "zaag"
     ],
     "🔧": [
         "gereedschap",
-        "moersleutel"
+        "moersleutel",
+        "schroefsleutel"
     ],
     "🪛": [
+        "gereedschap",
+        "schroef",
         "schroevendraaier"
     ],
     "🔩": [
@@ -19396,17 +23448,21 @@
     ],
     "⚙️": [
         "gereedschap",
+        "radertje",
+        "tandrad",
         "tandwiel"
     ],
     "🗜️": [
         "bankschroef",
         "gereedschap",
-        "lijmklem"
+        "lijmklem",
+        "samendrukken"
     ],
     "⚖️": [
-        "gereedschap",
-        "gewichten",
-        "recht",
+        "Libra",
+        "balans",
+        "dierenriem",
+        "gerechtigheid",
         "weegschaal"
     ],
     "🦯": [
@@ -19423,7 +23479,12 @@
         "kettingen"
     ],
     "🪝": [
-        "haak"
+        "aanbeveling",
+        "bocht",
+        "haak",
+        "kronkel",
+        "vangen",
+        "verstrikken"
     ],
     "🧰": [
         "gereedschap",
@@ -19438,7 +23499,10 @@
         "magnetisch"
     ],
     "🪜": [
-        "ladder"
+        "klimmen",
+        "ladder",
+        "sport",
+        "trede"
     ],
     "⚗️": [
         "distilleerkolf",
@@ -19471,11 +23535,13 @@
     ],
     "🔬": [
         "gereedschap",
-        "microscoop"
+        "microscoop",
+        "wetenschap"
     ],
     "🔭": [
         "gereedschap",
-        "telescoop"
+        "telescoop",
+        "wetenschap"
     ],
     "📡": [
         "antenne",
@@ -19484,32 +23550,50 @@
         "schotel"
     ],
     "💉": [
-        "dokter",
+        "geneeskunde",
+        "injectie",
         "injectiespuit",
-        "medicijn",
         "naald",
-        "spuit"
+        "ziek"
     ],
     "🩸": [
         "bloeddonor",
         "bloeddruppel",
-        "medicijnen",
-        "menstruatie"
+        "bloeden",
+        "geneeskunde",
+        "menstruatie",
+        "verwonding"
     ],
     "💊": [
         "dokter",
-        "medicijn",
-        "pil"
+        "geneeskunde",
+        "pil",
+        "ziek"
     ],
     "🩹": [
         "pleister",
         "verband"
     ],
+    "🩼": [
+        "gewond",
+        "handicap",
+        "kruk",
+        "mobiliteitshulp",
+        "stok",
+        "wandelstok"
+    ],
     "🩺": [
         "dokter",
+        "geneeskunde",
         "hart",
-        "medicijnen",
         "ste­tho­scoop"
+    ],
+    "🩻": [
+        "botten",
+        "dokter",
+        "medisch",
+        "röntgenfoto",
+        "skelet"
     ],
     "🚪": [
         "deur"
@@ -19623,7 +23707,20 @@
         "zeep",
         "zeephouder"
     ],
+    "🫧": [
+        "bubbel",
+        "onderwater",
+        "schoon",
+        "zeep",
+        "zeepbellen"
+    ],
     "🪥": [
+        "badkamer",
+        "hygiëne",
+        "poetsen",
+        "reinigen",
+        "tand",
+        "tanden",
         "tandenborstel"
     ],
     "🧽": [
@@ -19647,30 +23744,60 @@
     ],
     "🚬": [
         "roken",
-        "roken toegestaan",
-        "symbool"
+        "sigaret"
     ],
     "⚰️": [
         "dood",
-        "doodskist",
-        "kist"
+        "doodskist"
     ],
     "🪦": [
-        "grafsteen"
+        "begraafplaats",
+        "graf",
+        "grafsteen",
+        "grafzerk",
+        "kerkhof"
     ],
     "⚱️": [
         "as",
+        "begrafenis",
         "dood",
         "urn"
     ],
+    "🧿": [
+        "Nazar",
+        "Nazar-amulet",
+        "amulet",
+        "boze oog",
+        "kraal",
+        "talisman"
+    ],
+    "🪬": [
+        "Fatima",
+        "Maria",
+        "Mirjam",
+        "amulet",
+        "bescherming",
+        "hamsa",
+        "hand"
+    ],
     "🗿": [
-        "beeld",
+        "gezicht",
         "moai",
         "moai-beeld",
-        "paaseiliand"
+        "standbeeld"
     ],
     "🪧": [
-        "plakkaat"
+        "bord",
+        "demonstratie",
+        "plakkaat",
+        "poster",
+        "protest"
+    ],
+    "🪪": [
+        "ID",
+        "beveiliging",
+        "legitimatiebewijs",
+        "vergunning"
     ],
     "🏧": [
         "automaat",
@@ -19678,30 +23805,29 @@
         "pinnen"
     ],
     "🚮": [
-        "afval in prullenbak gooien",
+        "afval",
         "prullenbak",
-        "prullenbaksymbool",
-        "symbool"
+        "prullenbaksymbool"
     ],
     "🚰": [
         "drinkwater",
         "drinkwatersymbool"
     ],
     "♿️": [
-        "rolstoel",
         "rolstoelsymbool",
-        "symbool",
         "toegang"
     ],
     "🚹️": [
-        "Heren-wc",
         "herentoilet",
-        "symbool"
+        "man",
+        "toilet",
+        "wc"
     ],
     "🚺️": [
-        "Dames-wc",
         "damestoilet",
-        "symbool"
+        "toilet",
+        "vrouw",
+        "wc"
     ],
     "🚻": [
         "toilet",
@@ -19716,6 +23842,8 @@
     ],
     "🚾": [
         "toilet",
+        "wasgelegenheid",
+        "water",
         "wc"
     ],
     "🛂": [
@@ -19737,14 +23865,14 @@
         "koffers"
     ],
     "⚠️": [
-        "symbool",
         "waarschuwing"
     ],
     "🚸": [
-        "kinderen",
-        "kinderoversteek",
-        "oversteek",
-        "symbool"
+        "kind",
+        "oversteekplaats",
+        "overstekende kinderen",
+        "verkeer",
+        "voetganger"
     ],
     "⛔️": [
         "Verboden toegang",
@@ -19754,25 +23882,35 @@
         "verboden"
     ],
     "🚫": [
-        "Verboden toegang",
-        "symbool",
+        "nee",
+        "niet",
+        "niet toegestaan",
+        "toegang",
         "verboden"
     ],
     "🚳": [
         "fiets",
-        "fietsen niet toegestaan",
+        "fietsen",
         "geen fietsen",
-        "niet fietsen",
-        "voertuig"
+        "nee",
+        "niet toegestaan",
+        "verboden"
     ],
     "🚭️": [
+        "nee",
+        "niet",
         "niet roken",
-        "symbool"
+        "niet toegestaan",
+        "roken",
+        "verboden"
     ],
     "🚯": [
-        "geen afval",
+        "afval",
         "geen afval weggooien",
-        "symbool"
+        "nee",
+        "niet",
+        "niet toegestaan",
+        "verboden"
     ],
     "🚱": [
         "geen drinkwater",
@@ -19781,57 +23919,63 @@
     ],
     "🚷": [
         "geen voetgangers",
-        "symbool",
-        "voetganger",
-        "voetgangers niet toegestaan",
-        "wandelaar"
+        "nee",
+        "niet",
+        "niet toegestaan",
+        "verboden",
+        "voetganger"
     ],
     "📵": [
         "geen mobiele telefoon",
-        "geen oproepen",
         "mobiel",
-        "telefoon"
+        "mobiele telefoon",
+        "nee",
+        "telefoon",
+        "verboden"
     ],
     "🔞": [
         "18",
+        "achttien",
+        "leeftijdsbeperking",
+        "minderjarig",
         "niemand onder de 18",
-        "onder de 18",
-        "onder de 18 verboden"
+        "niemand onder de achttien",
+        "verboden"
     ],
     "☢️": [
         "radioactief",
         "symbool"
     ],
     "☣️": [
-        "bio",
-        "biologisch",
         "biologisch gevaar",
-        "gevaar"
+        "symbool"
     ],
     "⬆️": [
         "noord",
         "pijl",
         "pijl omhoog",
-        "richting"
+        "richting",
+        "windrichting"
     ],
     "↗️": [
         "noordoost",
         "pijl",
         "pijl rechtsomhoog",
-        "rechtsboven",
-        "rechtsomhoog"
+        "richting",
+        "windrichting"
     ],
     "➡️": [
         "oost",
         "pijl",
         "pijl naar rechts",
-        "richting"
+        "richting",
+        "windrichting"
     ],
     "↘️": [
         "pijl",
         "pijl rechtsomlaag",
-        "rechtsbeneden",
-        "rechtsomlaag",
+        "richting",
+        "windrichting",
         "zuidoost"
     ],
     "⬇️": [
@@ -19839,6 +23983,7 @@
         "pijl",
         "pijl omlaag",
         "richting",
+        "windrichting",
         "zuid"
     ],
     "↙️": [
@@ -19852,14 +23997,15 @@
         "pijl",
         "pijl naar links",
         "richting",
-        "west"
+        "west",
+        "windrichting"
     ],
     "↖️": [
-        "linksboven",
-        "linksomhoog",
         "noordwest",
         "pijl",
-        "pijl linksomhoog"
+        "pijl linksomhoog",
+        "richting",
+        "windrichting"
     ],
     "↕️": [
         "pijl",
@@ -19869,84 +24015,75 @@
         "pijl",
         "pijl naar links en rechts"
     ],
+    "↮": [
+        "streep met pijl naar links/rechts"
+    ],
     "↩️": [
-        "links",
         "pijl",
-        "pijl naar rechts die naar links draait",
-        "rechts"
+        "pijl naar rechts die naar links draait"
     ],
     "↪️": [
-        "links",
         "pijl",
-        "pijl naar links die naar rechts draait",
-        "rechts"
+        "pijl naar links die naar rechts draait"
     ],
     "⤴️": [
-        "omhoog",
         "pijl",
-        "pijl naar rechts die omhoog draait",
-        "rechts"
+        "pijl naar rechts die omhoog draait"
     ],
     "⤵️": [
         "omlaag",
         "pijl",
-        "pijl naar rechts die omlaag draait",
-        "rechts"
+        "pijl naar rechts die omlaag draait"
     ],
     "🔃": [
-        "opnieuw laden-symbool",
-        "pijlen",
-        "verticale pijlen met de klok mee",
-        "verticale pijlen rechtsom"
+        "met de klok mee",
+        "opnieuw laden",
+        "pijl",
+        "verticale pijlen met de klok mee"
     ],
     "🔄": [
-        "linksom",
-        "pijlen",
-        "pijlen tegen de klok in"
+        "achteruit",
+        "in tegengestelde richting",
+        "pijl",
+        "pijlen tegen de klok in",
+        "tegen de klok in"
     ],
     "🔙": [
         "BACK-pijl",
-        "linkerpijl",
         "pijl",
-        "terug met linkerpijl",
-        "terugpijl"
+        "terug"
     ],
     "🔚": [
         "END-pijl",
-        "einde met linkerpijl",
-        "eindepijl",
-        "linkerpijl",
+        "einde",
         "pijl"
     ],
     "🔛": [
-        "AAN met uitroepteken en pijl",
         "ON!-pijl",
+        "aan",
         "pijl",
-        "uitroep",
-        "uitroepteken"
+        "teken"
     ],
     "🔜": [
-        "Binnenkort",
-        "Binnenkort met rechterpijl",
         "SOON-pijl",
+        "binnenkort",
         "pijl"
     ],
     "🔝": [
-        "Omhoog met pijl-omhoog",
         "TOP-pijl",
+        "bovenkant",
         "omhoog",
-        "pijl-omhoog"
+        "pijl"
     ],
     "🛐": [
         "bidden",
         "gebedsruimte",
-        "religie",
-        "tempel"
+        "religie"
     ],
     "⚛️": [
+        "atheïst",
         "atoom",
-        "atoomsymbool",
-        "symbool"
+        "atoomsymbool"
     ],
     "🕉️": [
         "hindoeïsme",
@@ -19955,7 +24092,6 @@
         "religie"
     ],
     "✡️": [
-        "Jodenster",
         "david",
         "davidster",
         "jodendom",
@@ -19997,92 +24133,120 @@
         "wassende maan en ster"
     ],
     "☮️": [
-        "symbool",
         "vrede",
         "vredessymbool"
     ],
     "🕎": [
-        "joods",
         "kandelaar",
+        "kandelaber",
         "menora",
         "religie"
     ],
     "🔯": [
         "ster",
         "waarzeggen",
-        "waarzeggerij",
-        "zes punten",
         "zespuntige ster"
     ],
     "♈️": [
-        "ram (sterrenbeeld)",
-        "sterrenbeeld"
+        "Aries",
+        "dierenriem",
+        "ram",
+        "ram (sterrenbeeld)"
     ],
     "♉️": [
-        "sterrenbeeld",
+        "Taurus",
+        "dierenriem",
+        "os",
+        "stier",
         "stier (sterrenbeeld)"
     ],
     "♊️": [
-        "sterrenbeeld",
+        "Gemini",
+        "dierenriem",
+        "tweelingen",
         "tweelingen (sterrenbeeld)"
     ],
     "♋️": [
-        "kreeft (sterrenbeeld)",
-        "sterrenbeeld"
+        "Cancer",
+        "dierenriem",
+        "kreeft",
+        "kreeft (sterrenbeeld)"
     ],
     "♌️": [
-        "leeuw (sterrenbeeld)",
-        "sterrenbeeld"
+        "Leo",
+        "dierenriem",
+        "leeuw",
+        "leeuw (sterrenbeeld)"
     ],
     "♍️": [
-        "maagd (sterrenbeeld)",
-        "sterrenbeeld"
+        "Virgo",
+        "dierenriem",
+        "maagd (sterrenbeeld)"
     ],
     "♎️": [
-        "sterrenbeeld",
+        "Libra",
+        "balans",
+        "dierenriem",
+        "gerechtigheid",
+        "weegschaal",
         "weegschaal (sterrenbeeld)"
     ],
     "♏️": [
+        "Scorpio",
+        "dierenriem",
+        "schorpioen",
         "schorpioen (sterrenbeeld)",
-        "sterrenbeeld"
+        "scorpius"
     ],
     "♐️": [
+        "Sagittarius",
+        "boogschutter",
         "boogschutter (sterrenbeeld)",
-        "sterrenbeeld"
+        "dierenriem"
     ],
     "♑️": [
-        "steenbok (sterrenbeeld)",
-        "sterrenbeeld"
+        "Capricorn",
+        "dierenriem",
+        "steenbok",
+        "steenbok (sterrenbeeld)"
     ],
     "♒️": [
-        "sterrenbeeld",
+        "Aquarius",
+        "dierenriem",
+        "drager",
+        "water",
         "waterman (sterrenbeeld)"
     ],
     "♓️": [
-        "sterrenbeeld",
+        "Pisces",
+        "dierenriem",
+        "vissen",
         "vissen (sterrenbeeld)"
     ],
     "⛎": [
-        "slangendrager (sterrenbeeld)",
-        "sterrenbeeld"
+        "Ophiuchus",
+        "dierenriem",
+        "drager",
+        "serpent",
+        "slang",
+        "slangendrager (sterrenbeeld)"
     ],
     "🔀": [
-        "gekruiste pijlen naar rechts",
+        "gekruist",
         "knop voor shuffle",
-        "pijlen",
-        "shuffle"
+        "pijl"
     ],
     "🔁": [
         "herhalen",
         "knop voor herhalen",
-        "pijlen",
-        "rechtsom"
+        "met de klok mee",
+        "pijl"
     ],
     "🔂": [
         "eenmaal",
         "knop voor één herhalen",
-        "pijl",
-        "rechtsom"
+        "met de klok mee",
+        "pijl"
     ],
     "▶": [
         "afspelen",
@@ -20092,30 +24256,33 @@
         "rechts"
     ],
     "⏩": [
-        "dubbele pijl rechts",
+        "dubbel",
         "knop voor snel vooruitspoelen",
         "pijl",
-        "rechts"
+        "snel",
+        "vooruit"
     ],
     "⏭": [
+        "driehoek",
         "knop voor volgende nummer",
-        "pijlen",
-        "rechts",
-        "volgende"
+        "pijl",
+        "volgend nummer",
+        "volgende scène"
     ],
     "⏯": [
         "afspelen",
-        "knop voor afspelen of onderbreken",
-        "onderbreken",
+        "driehoek",
+        "knop voor afspelen of pauzeren",
+        "pauzeren",
         "pijl",
         "rechts"
     ],
     "◀": [
-        "achterstevoren",
-        "afspelen",
+        "driehoek",
         "knop voor terugspoelen",
         "links",
-        "pijl"
+        "pijl",
+        "terugspoelen"
     ],
     "⏪": [
         "dubbele pijl links",
@@ -20125,27 +24292,29 @@
         "terugspoelen"
     ],
     "⏮": [
+        "driehoek",
         "knop voor vorige nummer",
         "pijl",
-        "vorige nummer"
+        "vorige nummer",
+        "vorige scène"
     ],
     "🔼": [
-        "driehoek",
+        "knop",
         "knop voor omhoog",
-        "omhoog",
-        "pijl"
+        "pijl",
+        "rood"
     ],
     "⏫": [
-        "dubbele pijl omhoog",
+        "dubbel",
         "knop voor versneld omhoog",
-        "omhoog",
         "pijl"
     ],
     "🔽": [
-        "driehoek",
+        "knop",
         "knop voor omlaag",
         "omlaag",
-        "pijl"
+        "pijl",
+        "rood"
     ],
     "⏬": [
         "dubbel",
@@ -20154,9 +24323,11 @@
         "pijl"
     ],
     "⏸️": [
-        "onderbreken",
+        "dubbel",
         "pauzeknop",
-        "pauzeren"
+        "pauzeren",
+        "streep",
+        "verticaal"
     ],
     "⏹️": [
         "knop voor stoppen",
@@ -20173,8 +24344,10 @@
         "uitwerpen"
     ],
     "🎦": [
+        "bioscoop",
+        "camera",
         "film",
-        "filmsymbool",
+        "filmen",
         "knop voor filmen"
     ],
     "🔅": [
@@ -20189,9 +24362,12 @@
         "knop voor hogere helderheid"
     ],
     "📶": [
-        "bereik",
+        "antenne",
+        "mobiel",
         "mobiel signaal",
-        "signaalsterkte"
+        "mobiele telefoon",
+        "streep",
+        "telefoon"
     ],
     "📳": [
         "mobiel",
@@ -20209,16 +24385,12 @@
         "uit"
     ],
     "♀️": [
-        "symbool",
-        "teken",
         "vrouw",
         "vrouwelijkheidssymbool"
     ],
     "♂️": [
         "man",
-        "mannelijkheidssymbool",
-        "symbool",
-        "teken"
+        "mannelijkheidssymbool"
     ],
     "⚧️": [
         "transgender",
@@ -20251,6 +24423,11 @@
         "wiskunde",
         "÷"
     ],
+    "🟰": [
+        "gelijkheid",
+        "vetgedrukt gelijkteken",
+        "wiskunde"
+    ],
     "♾️": [
         "eeuwig",
         "grenzeloos",
@@ -20279,9 +24456,9 @@
     "❓️": [
         "?",
         "interpunctie",
+        "rood vraagteken",
         "teken",
-        "vraag",
-        "vraagteken"
+        "vraag"
     ],
     "❔": [
         "?",
@@ -20302,9 +24479,9 @@
     "❗️": [
         "!",
         "interpunctie",
+        "rood uitroepteken",
         "teken",
-        "uitroep",
-        "uitroepteken"
+        "uitroep"
     ],
     "〰️": [
         "golvend",
@@ -20329,35 +24506,32 @@
         "esculaap"
     ],
     "♻️": [
-        "gevuld universeel recycling-symbool",
         "recycling",
-        "recycling-symbool",
-        "symbool",
-        "universeel"
+        "recycling-symbool"
     ],
     "⚜": [
         "fleur de lis",
-        "frans",
-        "franse lelie",
-        "symbool"
+        "franse lelie"
     ],
     "🔱": [
         "anker",
         "drietand",
         "drietand-symbool",
-        "embleem"
+        "gereedschap",
+        "schip",
+        "symbool"
     ],
     "📛": [
-        "badge",
         "kaartje",
         "naam",
         "naamkaartje"
     ],
     "🔰": [
         "Japans",
+        "Japans symbool voor beginner",
         "beginner",
-        "groen en geel",
-        "groen en geel blad"
+        "blad",
+        "chevron"
     ],
     "⭕️": [
         "cirkel",
@@ -20387,6 +24561,7 @@
     "❌": [
         "annuleren",
         "kruis",
+        "kruisteken",
         "teken",
         "vermenigvuldigen",
         "vermenigvuldiging",
@@ -20406,14 +24581,13 @@
         "lus"
     ],
     "➿": [
-        "Japan",
+        "dubbel",
         "dubbele gekrulde lus",
-        "gekrulde lus",
-        "gratis bellen"
+        "krul",
+        "lus"
     ],
     "〽️": [
         "markering",
-        "rolwisseling",
         "rolwisselingsmarkering",
         "teken"
     ],
@@ -20443,7 +24617,8 @@
     "™️": [
         "handelsmerk",
         "handelsmerksymbool",
-        "symbool"
+        "symbool",
+        "tm"
     ],
     "#⃣": [
         "toets",
@@ -20498,75 +24673,72 @@
         "toets: 10"
     ],
     "🔠": [
+        "ABCD",
         "Latijns",
         "hoofdletters",
-        "hoofdletters invoeren"
+        "invoeren",
+        "letters"
     ],
     "🔡": [
         "Latijns",
+        "abcd",
+        "invoeren",
         "kleine letters",
-        "kleine letters Latijns",
-        "kleine letters invoeren"
+        "letters"
     ],
     "🔢": [
+        "1234",
         "cijfers",
-        "cijfers invoeren"
+        "invoeren"
     ],
     "🔣": [
+        "invoeren",
         "symbolen",
-        "symbolen invoeren"
+        "〒♪&%"
     ],
     "🔤": [
-        "ABC",
         "Latijns",
         "Latijns alfabet",
-        "Latijns alfabet invoeren",
-        "Nederlands"
+        "abc",
+        "alfabet",
+        "invoeren",
+        "letters"
     ],
     "🅰️": [
-        "A",
-        "bloed",
+        "a",
         "bloedgroep",
-        "bloedgroep A",
-        "groep A"
+        "bloedgroep A"
     ],
     "🆎": [
-        "AB",
-        "bloed",
+        "ab",
         "bloedgroep",
-        "bloedgroep AB",
-        "groep AB"
+        "bloedgroep AB"
     ],
     "🅱️": [
-        "B",
-        "bloed",
+        "b",
         "bloedgroep",
-        "bloedgroep B",
-        "groep B"
+        "bloedgroep B"
     ],
     "🆑": [
-        "Wissen-symbool",
-        "wisknop"
+        "CL-knop",
+        "cl"
     ],
     "🆒": [
         "COOL-knop",
-        "cool-symbool"
+        "cool"
     ],
     "🆓": [
         "FREE-knop",
-        "gratis-symbool",
-        "kosteloos",
-        "symbool"
+        "gratis"
     ],
     "ℹ️": [
-        "informatie",
-        "teken"
+        "i",
+        "informatie"
     ],
     "🆔": [
-        "ID",
-        "ID-symbool",
-        "identiteit",
-        "symbool"
+        "ID-knop",
+        "id",
+        "identiteit"
     ],
     "Ⓜ️": [
         "M in cirkel",
@@ -20575,151 +24747,164 @@
     ],
     "🆕": [
         "NEW-knop",
-        "Nieuw-symbool",
-        "symbool"
+        "nieuw"
     ],
     "🆖": [
         "NG-knop",
-        "Niet goed-symbool",
-        "symbool"
+        "ng"
     ],
     "🅾️": [
-        "O",
-        "bloed",
         "bloedgroep",
         "bloedgroep O",
-        "groep O"
+        "o"
     ],
     "🆗": [
-        "OK-knop",
-        "OK-symbool"
+        "OK",
+        "OK-knop"
     ],
     "🅿️": [
         "P-knop",
         "parkeerplaats"
     ],
     "🆘": [
-        "Help",
         "SOS-knop",
-        "SOS-symbool",
-        "symbool"
+        "help",
+        "sos"
     ],
     "🆙": [
-        "OMHOOG-symbool",
         "UP!-knop",
-        "symbool"
+        "omhoog",
+        "teken"
     ],
     "🆚": [
         "VS-knop",
-        "symbool",
-        "vs",
-        "vs-symbool"
+        "versus",
+        "vs"
     ],
     "🈁": [
+        "Japans",
+        "Japans teken voor ‘hier’",
         "Japans woordteken voor ‘hier’",
-        "japans",
-        "koko",
-        "vierkant"
+        "katakana",
+        "‘hier’",
+        "ココ"
     ],
     "🈂️": [
-        "Japans teken voor ‘dienst’ of ‘dienstenheffing’",
-        "japans",
-        "sa",
-        "vierkant"
+        "Japans",
+        "Japans teken voor ‘dienstenheffing’",
+        "Japans teken voor ‘dienst’",
+        "katakana",
+        "‘dienstenheffing’",
+        "サ"
     ],
     "🈷": [
+        "Japans",
         "Japans teken voor ‘maandelijks bedrag’",
-        "japans",
-        "maan",
-        "vierkant"
+        "ideogram",
+        "‘maandelijks bedrag’",
+        "月"
     ],
     "🈶": [
+        "Japans",
         "Japans teken voor ‘niet gratis’",
-        "bestaan",
-        "japans",
-        "vierkant"
+        "ideogram",
+        "‘niet gratis’",
+        "有"
     ],
     "🈯": [
+        "Japans",
         "Japans teken voor ‘gereserveerd’",
-        "japans",
-        "vierkant",
-        "vinger"
+        "ideogram",
+        "‘gereserveerd’",
+        "指"
     ],
     "🉐": [
+        "Japans",
         "Japans teken voor ‘koopje’",
-        "cirkel",
-        "japans",
-        "voordeel"
+        "ideogram",
+        "‘koopje’",
+        "得"
     ],
     "🈹": [
+        "Japans",
         "Japans teken voor ‘korting’",
-        "japans",
-        "verdelen",
-        "vierkant"
+        "ideogram",
+        "‘korting’",
+        "割"
     ],
     "🈚": [
+        "Japans",
         "Japans teken voor ‘gratis’",
-        "japans",
-        "ontkenning",
-        "vierkant"
+        "ideogram",
+        "‘gratis’",
+        "無"
     ],
     "🈲": [
+        "Japans",
         "Japans teken voor ‘verboden’",
-        "japans",
-        "verbieden",
-        "vierkant"
+        "ideogram",
+        "‘verboden’",
+        "禁"
     ],
     "🉑": [
         "Japans",
         "Japans teken voor ‘acceptabel’",
-        "accepteren",
-        "rond"
+        "ideogram",
+        "‘acceptabel’",
+        "可"
     ],
     "🈸": [
         "Japans",
         "Japans teken voor ‘toepassing’",
-        "toepassen",
-        "vierkant"
+        "ideogram",
+        "‘toepassing’",
+        "申"
     ],
     "🈴": [
         "Japans",
         "Japans teken voor ‘voldoende (cijfer)‘",
-        "samen",
-        "vierkant"
+        "ideogram",
+        "‘voldoende (cijfer)‘",
+        "合"
     ],
     "🈳": [
         "Japans",
         "Japans teken voor ‘plaats vrij’",
-        "leeg",
-        "vierkant"
+        "ideogram",
+        "‘plaats vrij’",
+        "空"
     ],
     "㊗️": [
         "Japans",
         "Japans teken voor ‘gefeliciteerd’",
-        "cirkel",
-        "gefeliciteerd"
+        "ideogram",
+        "‘gefeliciteerd’",
+        "祝"
     ],
     "㊙️": [
         "Japans",
         "Japans teken voor ‘geheim’",
-        "cirkel",
-        "geheim"
+        "ideogram",
+        "‘geheim’",
+        "秘"
     ],
     "🈺": [
         "Japans",
         "Japans teken voor ‘geopend’",
-        "vierkant",
-        "werkend"
+        "ideogram",
+        "‘geopend’",
+        "営"
     ],
     "🈵": [
         "Japans",
         "Japans teken voor ‘vol, geen plaats’",
-        "vierkant",
-        "volheid"
+        "ideogram",
+        "‘vol, geen plaats’",
+        "満"
     ],
     "🔴": [
         "cirkel",
-        "grote rode cirkel",
+        "geometrisch",
         "rode cirkel",
         "rood"
     ],
@@ -20742,7 +24927,7 @@
         "blauw",
         "blauwe cirkel",
         "cirkel",
-        "grote blauwe cirkel"
+        "geometrisch"
     ],
     "🟣": [
         "cirkel",
@@ -20756,14 +24941,12 @@
     ],
     "⚫️": [
         "cirkel",
-        "grote zwarte cirkel",
-        "zwart",
+        "geometrisch",
         "zwarte cirkel"
     ],
     "⚪️": [
         "cirkel",
-        "grote witte cirkel",
-        "wit",
+        "geometrisch",
         "witte cirkel"
     ],
     "🟥": [
@@ -20802,22 +24985,19 @@
         "vierkant"
     ],
     "⬛️": [
-        "groot",
+        "geometrisch",
         "groot zwart vierkant",
-        "vierkant",
-        "zwart"
+        "vierkant"
     ],
     "⬜️": [
-        "groot",
+        "geometrisch",
         "groot wit vierkant",
-        "vierkant",
-        "wit"
+        "vierkant"
     ],
     "◼️": [
-        "middelgroot",
+        "geometrisch",
         "middelgroot zwart vierkant",
-        "vierkant",
-        "zwart"
+        "vierkant"
     ],
     "◻️": [
         "middelgroot",
@@ -20826,10 +25006,9 @@
         "wit"
     ],
     "◾️": [
+        "geometrisch",
         "klein tot middelgroot zwart vierkant",
-        "redelijk klein",
-        "vierkant",
-        "zwart"
+        "vierkant"
     ],
     "◽️": [
         "klein tot middelgroot wit vierkant",
@@ -20838,66 +25017,72 @@
         "wit"
     ],
     "▪️": [
-        "klein",
+        "geometrisch",
         "klein zwart vierkant",
-        "vierkant",
-        "zwart"
+        "vierkant"
     ],
     "▫️": [
-        "klein",
+        "geometrisch",
         "klein wit vierkant",
-        "vierkant",
-        "wit"
+        "vierkant"
     ],
     "🔶": [
+        "geometrisch",
         "grote oranje ruit",
         "oranje",
         "ruit"
     ],
     "🔷": [
         "blauw",
+        "geometrisch",
         "grote blauwe ruit",
         "ruit"
     ],
     "🔸": [
+        "geometrisch",
         "kleine oranje ruit",
         "oranje",
         "ruit"
     ],
     "🔹": [
         "blauw",
+        "geometrisch",
         "kleine blauwe ruit",
         "ruit"
     ],
     "🔺": [
-        "driehoek",
+        "geometrisch",
         "rode omhoogwijzende driehoek",
         "rood"
     ],
     "🔻": [
-        "driehoek",
+        "geometrisch",
+        "omlaag",
         "rode omlaagwijzende driehoek",
         "rood"
     ],
     "💠": [
-        "bloem",
-        "emotie",
+        "binnen",
+        "geometrisch",
         "ruit",
-        "ruitvorm",
         "ruitvorm met stip erin",
-        "schattig"
+        "strip"
     ],
     "🔘": [
+        "geometrisch",
         "keuze",
         "keuzerondje",
         "rondje"
     ],
     "🔳": [
+        "geometrisch",
         "knop",
+        "omlijnd",
         "vierkant",
         "witte vierkante knop"
     ],
     "🔲": [
+        "geometrisch",
         "knop",
         "vierkant",
         "zwarte vierkante knop"
@@ -20905,16 +25090,11 @@
     "🏁": [
         "geblokt",
         "geblokte vlag",
-        "racen",
-        "sport",
-        "vlag"
+        "racen"
     ],
     "🚩": [
-        "driehoekige locatievlag",
         "driehoekige vlag",
-        "locatie",
-        "locatie-informatievlag",
-        "vlag"
+        "locatie"
     ],
     "🎌": [
         "feest",
@@ -21827,7 +26007,7 @@
     ],
     "🇸🇿": [
         "vlag",
-        "vlag: eSwatini"
+        "vlag: Eswatini"
     ],
     "🇹🇦": [
         "vlag",
@@ -21996,6 +26176,179 @@
     "🏴󠁧󠁢󠁷󠁬󠁳󠁿": [
         "vlag",
         "vlag: Wales"
+    ],
+    "¤": [
+        "onbekende munteenheid"
+    ],
+    "¢": [
+        "cent"
+    ],
+    "$": [
+        "USD",
+        "dollar",
+        "geld",
+        "peso"
+    ],
+    "£": [
+        "Brits pond",
+        "EGP",
+        "GBP",
+        "valuta"
+    ],
+    "¥": [
+        "CNY",
+        "JPY",
+        "valuta",
+        "yen",
+        "yuan"
+    ],
+    "֏": [
+        "Armeense dram"
+    ],
+    "؋": [
+        "Afghaanse afghani"
+    ],
+    "৳": [
+        "Bengalese taka"
+    ],
+    "฿": [
+        "Thaise baht"
+    ],
+    "៛": [
+        "Cambodjaanse riel"
+    ],
+    "₡": [
+        "Costa Ricaanse colon"
+    ],
+    "₢": [
+        "BRB",
+        "cruzeiro",
+        "valuta"
+    ],
+    "₣": [
+        "Franse franc",
+        "franc",
+        "valuta"
+    ],
+    "₤": [
+        "lira",
+        "valuta"
+    ],
+    "₥": [
+        "mil",
+        "mill"
+    ],
+    "₦": [
+        "Nigeriaanse naira"
+    ],
+    "₧": [
+        "Spaanse peseta"
+    ],
+    "₩": [
+        "KPW",
+        "KRW",
+        "won"
+    ],
+    "₪": [
+        "Israëlische nieuwe shekel"
+    ],
+    "₫": [
+        "Vietnamese dong"
+    ],
+    "€": [
+        "EUR",
+        "euro",
+        "valuta"
+    ],
+    "₭": [
+        "Laotiaanse kip"
+    ],
+    "₮": [
+        "Mongoolse tugrik"
+    ],
+    "₰": [
+        "Duitse pfennig",
+        "pfennig",
+        "valuta"
+    ],
+    "₱": [
+        "peso"
+    ],
+    "₲": [
+        "Paraguayaanse guarani"
+    ],
+    "₳": [
+        "ARA",
+        "austral",
+        "valuta"
+    ],
+    "₴": [
+        "Oekraïense hryvnia"
+    ],
+    "₵": [
+        "Ghanese cedi"
+    ],
+    "₶": [
+        "livre tournois",
+        "valuta"
+    ],
+    "₷": [
+        "spesmilo",
+        "valuta"
+    ],
+    "₸": [
+        "Kazachse tenge"
+    ],
+    "₹": [
+        "Indiase roepie",
+        "roepie",
+        "valuta"
+    ],
+    "₺": [
+        "Turkse lira"
+    ],
+    "₼": [
+        "Azerbeidzjaanse manat"
+    ],
+    "₽": [
+        "roebel",
+        "valuta"
+    ],
+    "₾": [
+        "Georgische lari"
+    ],
+    "₿": [
+        "BTC",
+        "bitcoin"
+    ],
+    "₨": [
+        "roepie",
+        "valuta"
+    ],
+    "﷼": [
+        "rial",
+        "valuta"
+    ],
+    "¹": [
+        "superscript",
+        "superscript één",
+        "één"
+    ],
+    "²": [
+        "in het kwadraat",
+        "superscript",
+        "superscript twee",
+        "twee"
+    ],
+    "³": [
+        "drie",
+        "kubieke",
+        "superscript",
+        "superscript drie"
+    ],
+    "µ": [
+        "maat",
+        "mu"
     ],
     "🏻": [
         "huidskleur",

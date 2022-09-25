@@ -1,4 +1,351 @@
 {
+    "‾": [
+        "surlignéation",
+        "trait suscrit",
+        "vinculé"
+    ],
+    "…": [
+        "ellipse"
+    ],
+    "〈": [
+        "chevron",
+        "chevron angulaire",
+        "chevron pointu",
+        "crochet",
+        "crochet oblique ouvrant",
+        "crochets obliques",
+        "tuple"
+    ],
+    "〉": [
+        "chevron",
+        "chevron angulaire",
+        "chevron angulaire fermant",
+        "chevron pointu",
+        "crochet",
+        "crochet oblique fermant",
+        "crochets obliques",
+        "tuple"
+    ],
+    "《": [
+        "crochet",
+        "crochet en chevron",
+        "crochet en chevron double ouvrant"
+    ],
+    "》": [
+        "crochet",
+        "crochet en chevron double",
+        "crochet en chevron double fermant"
+    ],
+    "「": [
+        "anglet gauche ouvrant",
+        "crochet",
+        "crochet de partie entière"
+    ],
+    "」": [
+        "anglet fermant",
+        "crochet",
+        "crochet de partie entière"
+    ],
+    "¶": [
+        "alinéa",
+        "paragraphe",
+        "paraphe",
+        "pied-de-mouche",
+        "symbole du paragraphe"
+    ],
+    "@": [
+        "a commercial",
+        "arobas",
+        "arobase",
+        "arroba",
+        "arrobe"
+    ],
+    "/": [
+        "barre de division",
+        "barre de fraction",
+        "barre oblique",
+        "trait oblique"
+    ],
+    "\\": [
+        "barre oblique inverse",
+        "barre oblique inversée",
+        "oblique"
+    ],
+    "&": [
+        "esperluette",
+        "et",
+        "perluette",
+        "perluète"
+    ],
+    "#️": [
+        "croisillon",
+        "dièse",
+        "lb",
+        "livre",
+        "numéro"
+    ],
+    "%": [
+        "pour cent"
+    ],
+    "‧": [
+        "emplacement de coupure de mots",
+        "point",
+        "tiret",
+        "union"
+    ],
+    "※": [
+        "appel de note",
+        "marque de référence"
+    ],
+    "`": [
+        "accent",
+        "grave"
+    ],
+    "´": [
+        "accent",
+        "aigu"
+    ],
+    "¨": [
+        "tréma"
+    ],
+    "↢": [
+        "flèche vers la gauche empennée"
+    ],
+    "↣": [
+        "flèche vers la droite empennée"
+    ],
+    "↫": [
+        "flèche vers la gauche à boucle"
+    ],
+    "↬": [
+        "flèche vers la droite à boucle"
+    ],
+    "↴": [
+        "flèche vers la droite avec pointe vers le bas"
+    ],
+    "↶": [
+        "flèche semi-circulaire sens antihoraire supérieure"
+    ],
+    "↷": [
+        "flèche semi-circulaire sens horaire supérieure"
+    ],
+    "⇃": [
+        "barbillon",
+        "harpon vers le bas avec barbillon vers la gauche"
+    ],
+    "⇐": [
+        "double flèche vers la gauche"
+    ],
+    "⇑": [
+        "double flèche vers le haut"
+    ],
+    "⇒": [
+        "double flèche vers la droite"
+    ],
+    "⇓": [
+        "double flèche vers le bas"
+    ],
+    "⇔": [
+        "double flèche gauche-droite"
+    ],
+    "⇎": [
+        "double flèche gauche-droite barrée"
+    ],
+    "⇖": [
+        "double flèche nord-ouest"
+    ],
+    "⇗": [
+        "double flèche nord-est"
+    ],
+    "⇘": [
+        "double flèche sud-est"
+    ],
+    "⇙": [
+        "double flèche sud-ouest"
+    ],
+    "⇚": [
+        "triple flèche vers la gauche"
+    ],
+    "⇛": [
+        "triple flèche vers la droite"
+    ],
+    "⇠": [
+        "flèche à traits discontinus vers la gauche"
+    ],
+    "⇡": [
+        "flèche à traits discontinus vers le haut"
+    ],
+    "⇢": [
+        "flèche à traits discontinus vers la droite"
+    ],
+    "⇣": [
+        "flèche à traits discontinus vers le bas"
+    ],
+    "∀": [
+        "pour tous",
+        "pour tout",
+        "quel que soit",
+        "tout",
+        "universel"
+    ],
+    "∋": [
+        "contient comme élément",
+        "élément"
+    ],
+    "∎": [
+        "ce qu’il fallait démontrer",
+        "cqfd"
+    ],
+    "÷": [
+        "division"
+    ],
+    "×": [
+        "multiplication"
+    ],
+    "≮": [
+        "inégalité",
+        "mathématiques",
+        "pas plus petit que"
+    ],
+    "≠": [
+        "inégalité",
+        "inéquation",
+        "pas égal"
+    ],
+    "≯": [
+        "inégalité",
+        "mathématiques",
+        "pas plus grand que"
+    ],
+    "|": [
+        "barre",
+        "barre de sheffer",
+        "barre verticale",
+        "ligne",
+        "ligne verticale",
+        "trait"
+    ],
+    "∓": [
+        "moins-ou-plus",
+        "plus-moins"
+    ],
+    "≅": [
+        "approximativement égal à",
+        "congruence",
+        "isomorphisme",
+        "mathématiques",
+        "égalité"
+    ],
+    "≣": [
+        "mathématiques",
+        "strictement équivalent à",
+        "égalité"
+    ],
+    "≤": [
+        "inférieur à",
+        "inégalité",
+        "plus petit ou égal",
+        "égal"
+    ],
+    "≥": [
+        "inégalité",
+        "plus grand ou égal",
+        "supérieur à",
+        "égal"
+    ],
+    "≦": [
+        "Plus petit que par-dessus égal à",
+        "inégalité",
+        "mathématiques"
+    ],
+    "≧": [
+        "inégalité",
+        "mathématiques",
+        "plus grand que par-dessus égal à"
+    ],
+    "≪": [
+        "beaucoup plus petit que",
+        "inégalité",
+        "mathématiques",
+        "très inférieur à"
+    ],
+    "≫": [
+        "beaucoup plus grand que",
+        "inégalité",
+        "mathématiques",
+        "très supérieur à"
+    ],
+    "≳": [
+        "inégalité",
+        "mathématiques",
+        "plus grand ou équivalent à",
+        "supérieur ou équivalent à"
+    ],
+    "≺": [
+        "mathématiques",
+        "opérateur ensembliste",
+        "précède"
+    ],
+    "≻": [
+        "mathématiques",
+        "opérateur ensembliste",
+        "suit"
+    ],
+    "⊁": [
+        "mathématiques",
+        "ne suit pas",
+        "opérateur ensembliste"
+    ],
+    "⊃": [
+        "mathématiques",
+        "opérateur ensembliste",
+        "sur-ensemble de"
+    ],
+    "⊆": [
+        "sous-ensemble ou égal à"
+    ],
+    "⊇": [
+        "mathématiques",
+        "opérateur ensembliste",
+        "sur-ensemble ou égal à"
+    ],
+    "⊕": [
+        "plus",
+        "plus cerclé"
+    ],
+    "⊖": [
+        "différence symétrique",
+        "moins cerclé",
+        "érosion"
+    ],
+    "⊗": [
+        "fois cerclé",
+        "multiplié par cerclé",
+        "produit tensoriel",
+        "vecteur pointant vers l’intérieur de la page"
+    ],
+    "⋘": [
+        "considérablement inférieur à",
+        "considérablement plus petit que",
+        "inégalité",
+        "mathématiques"
+    ],
+    "⋙": [
+        "considérablement plus grand que",
+        "considérablement supérieur à",
+        "inégalité",
+        "mathématiques"
+    ],
+    "▧": [
+        "carré hachuré du haut à gauche vers le bas à droite en diagonale"
+    ],
+    "▨": [
+        "Vote carré hachuré du haut à droite vers le bas à gauche",
+        "carré hachuré du haut à droite vers le bas à gauche"
+    ],
+    "◘": [
+        "point en inversion"
+    ],
     "😀": [
         "grand sourire",
         "large sourire",
@@ -35,7 +382,12 @@
         "visage avec large sourire, les yeux fermés"
     ],
     "😅": [
-        "un visage en sueur avec large sourire"
+        "froide",
+        "sourire",
+        "sueur",
+        "un visage en sueur avec large sourire",
+        "visage",
+        "visage en sueur avec large sourire"
     ],
     "🤣": [
         "rire",
@@ -135,7 +487,6 @@
         "œil"
     ],
     "🥲": [
-        "Visage souriant avec une larme",
         "fier",
         "larme",
         "soulagé",
@@ -324,10 +675,16 @@
         "visage éméché"
     ],
     "😵": [
-        "croches",
-        "tournis",
+        "inconscient",
+        "mort",
         "visage",
-        "yeux",
+        "visage inconscient"
+    ],
+    "😵‍💫": [
+        "confusion",
+        "hagard",
+        "tête qui tourne",
+        "visage avec yeux en spirale",
         "étourdi"
     ],
     "🥳": [
@@ -362,7 +719,6 @@
     "😮": [
         "bouche ouverte",
         "compassion",
-        "impressionné",
         "visage",
         "visage épaté"
     ],
@@ -679,6 +1035,20 @@
         "brisé",
         "cœur"
     ],
+    "❤‍🔥": [
+        "amour",
+        "cœur en feu",
+        "désir",
+        "feu",
+        "passion"
+    ],
+    "❤‍🩹": [
+        "cœur avec bandages",
+        "en convalescence",
+        "réconforter",
+        "récupérer",
+        "soigner"
+    ],
     "❤️": [
         "cœur",
         "rouge"
@@ -704,6 +1074,8 @@
         "violet"
     ],
     "🤎": [
+        "brun",
+        "cœur",
         "cœur brun"
     ],
     "💯": [
@@ -743,10 +1115,6 @@
         "fuir",
         "se sauver",
         "s’enfuir"
-    ],
-    "💣️": [
-        "bande dessinée",
-        "bombe"
     ],
     "💬": [
         "bande dessinée",
@@ -1002,6 +1370,328 @@
         "spock",
         "vulcain"
     ],
+    "🫱🏻": [
+        "main vers la droite : peau claire"
+    ],
+    "🫱🏼": [
+        "droite",
+        "main vers la droite",
+        "main vers la droite : peau modérément claire",
+        "peau modérément claire",
+        "vers la droite"
+    ],
+    "🫱🏽": [
+        "main vers la droite : peau légèrement mate"
+    ],
+    "🫱🏾": [
+        "droite",
+        "main vers la droite",
+        "main vers la droite : peau modérément foncée",
+        "peau modérément foncée",
+        "vers la droite"
+    ],
+    "🫱🏿": [
+        "main vers la droite : peau foncée"
+    ],
+    "🫱🏻‍🫲🏼": [
+        "accord",
+        "main",
+        "peau claire",
+        "peau modérément claire",
+        "poignée",
+        "poignée de main",
+        "poignée de main : peau claire et peau modérément claire",
+        "présentation",
+        "rencontre"
+    ],
+    "🫱🏻‍🫲🏽": [
+        "accord",
+        "main",
+        "peau claire",
+        "peau légèrement mate",
+        "poignée",
+        "poignée de main",
+        "poignée de main : peau claire et peau légèrement mate",
+        "présentation",
+        "rencontre"
+    ],
+    "🫱🏻‍🫲🏾": [
+        "accord",
+        "main",
+        "peau claire",
+        "peau modérément foncée",
+        "poignée",
+        "poignée de main",
+        "poignée de main : peau claire et peau modérément foncée",
+        "présentation",
+        "rencontre"
+    ],
+    "🫱🏻‍🫲🏿": [
+        "accord",
+        "main",
+        "peau claire",
+        "peau foncée",
+        "poignée",
+        "poignée de main",
+        "poignée de main : peau claire et peau foncée",
+        "présentation",
+        "rencontre"
+    ],
+    "🫱🏼‍🫲🏻": [
+        "accord",
+        "main",
+        "peau claire",
+        "peau modérément claire",
+        "poignée",
+        "poignée de main",
+        "poignée de main : peau modérément claire et peau claire",
+        "présentation",
+        "rencontre"
+    ],
+    "🫱🏼‍🫲🏽": [
+        "accord",
+        "main",
+        "peau légèrement mate",
+        "peau modérément claire",
+        "poignée",
+        "poignée de main",
+        "poignée de main : peau modérément claire et peau légèrement mate",
+        "présentation",
+        "rencontre"
+    ],
+    "🫱🏼‍🫲🏾": [
+        "accord",
+        "main",
+        "peau modérément claire",
+        "peau modérément foncée",
+        "poignée",
+        "poignée de main",
+        "poignée de main : peau modérément claire et peau modérément foncée",
+        "présentation",
+        "rencontre"
+    ],
+    "🫱🏼‍🫲🏿": [
+        "accord",
+        "main",
+        "peau foncée",
+        "peau modérément claire",
+        "poignée",
+        "poignée de main",
+        "poignée de main : peau modérément claire et peau foncée",
+        "présentation",
+        "rencontre"
+    ],
+    "🫱🏽‍🫲🏻": [
+        "accord",
+        "main",
+        "peau claire",
+        "peau légèrement mate",
+        "poignée",
+        "poignée de main",
+        "poignée de main : peau légèrement mate et peau claire",
+        "présentation",
+        "rencontre"
+    ],
+    "🫱🏽‍🫲🏼": [
+        "accord",
+        "main",
+        "peau légèrement mate",
+        "peau modérément claire",
+        "poignée",
+        "poignée de main",
+        "poignée de main : peau légèrement mate et peau modérément claire",
+        "présentation",
+        "rencontre"
+    ],
+    "🫱🏽‍🫲🏾": [
+        "accord",
+        "main",
+        "peau légèrement mate",
+        "peau modérément foncée",
+        "poignée",
+        "poignée de main",
+        "poignée de main : peau légèrement mate et peau modérément foncée",
+        "présentation",
+        "rencontre"
+    ],
+    "🫱🏽‍🫲🏿": [
+        "accord",
+        "main",
+        "peau foncée",
+        "peau légèrement mate",
+        "poignée",
+        "poignée de main",
+        "poignée de main : peau légèrement mate et peau foncée",
+        "présentation",
+        "rencontre"
+    ],
+    "🫱🏾‍🫲🏻": [
+        "accord",
+        "main",
+        "peau claire",
+        "peau modérément foncée",
+        "poignée",
+        "poignée de main",
+        "poignée de main : peau modérément foncée et peau claire",
+        "présentation",
+        "rencontre"
+    ],
+    "🫱🏾‍🫲🏼": [
+        "accord",
+        "main",
+        "peau modérément claire",
+        "peau modérément foncée",
+        "poignée",
+        "poignée de main",
+        "poignée de main : peau modérément foncée et peau modérément claire",
+        "présentation",
+        "rencontre"
+    ],
+    "🫱🏾‍🫲🏽": [
+        "accord",
+        "main",
+        "peau légèrement mate",
+        "peau modérément foncée",
+        "poignée",
+        "poignée de main",
+        "poignée de main : peau modérément foncée et peau légèrement mate",
+        "présentation",
+        "rencontre"
+    ],
+    "🫱🏾‍🫲🏿": [
+        "accord",
+        "main",
+        "peau foncée",
+        "peau modérément foncée",
+        "poignée",
+        "poignée de main",
+        "poignée de main : peau modérément foncée et peau foncée",
+        "présentation",
+        "rencontre"
+    ],
+    "🫱🏿‍🫲🏻": [
+        "accord",
+        "main",
+        "peau claire",
+        "peau foncée",
+        "poignée",
+        "poignée de main",
+        "poignée de main : peau foncée et peau claire",
+        "présentation",
+        "rencontre"
+    ],
+    "🫱🏿‍🫲🏼": [
+        "accord",
+        "main",
+        "peau foncée",
+        "peau modérément claire",
+        "poignée",
+        "poignée de main",
+        "poignée de main : peau foncée et peau modérément claire",
+        "présentation",
+        "rencontre"
+    ],
+    "🫱🏿‍🫲🏽": [
+        "accord",
+        "main",
+        "peau foncée",
+        "peau légèrement mate",
+        "poignée",
+        "poignée de main",
+        "poignée de main : peau foncée et peau légèrement mate",
+        "présentation",
+        "rencontre"
+    ],
+    "🫱🏿‍🫲🏾": [
+        "accord",
+        "main",
+        "peau foncée",
+        "peau modérément foncée",
+        "poignée",
+        "poignée de main",
+        "poignée de main : peau foncée et peau modérément foncée",
+        "présentation",
+        "rencontre"
+    ],
+    "🫲🏻": [
+        "main vers la gauche : peau claire"
+    ],
+    "🫲🏼": [
+        "gauche",
+        "main vers la gauche",
+        "main vers la gauche : peau modérément claire",
+        "peau modérément claire",
+        "vers la gauche"
+    ],
+    "🫲🏽": [
+        "main vers la gauche : peau légèrement mate"
+    ],
+    "🫲🏾": [
+        "gauche",
+        "main vers la gauche",
+        "main vers la gauche : peau modérément foncée",
+        "peau modérément foncée",
+        "vers la gauche"
+    ],
+    "🫲🏿": [
+        "main vers la gauche : peau foncée"
+    ],
+    "🫳🏻": [
+        "main paume vers le bas : peau claire"
+    ],
+    "🫳🏼": [
+        "chasser",
+        "faire partir",
+        "laisser tomber",
+        "main paume vers le bas",
+        "main paume vers le bas : peau modérément claire",
+        "ouste",
+        "peau modérément claire",
+        "rejeter"
+    ],
+    "🫳🏽": [
+        "main paume vers le bas : peau légèrement mate"
+    ],
+    "🫳🏾": [
+        "chasser",
+        "faire partir",
+        "laisser tomber",
+        "main paume vers le bas",
+        "main paume vers le bas : peau modérément foncée",
+        "ouste",
+        "peau modérément foncée",
+        "rejeter"
+    ],
+    "🫳🏿": [
+        "main paume vers le bas : peau foncée"
+    ],
+    "🫴🏻": [
+        "main paume vers le haut : peau claire"
+    ],
+    "🫴🏼": [
+        "appeler de la main",
+        "attirer",
+        "faire venir",
+        "main paume vers le haut",
+        "main paume vers le haut : peau modérément claire",
+        "offre",
+        "peau modérément claire"
+    ],
+    "🫴🏽": [
+        "main paume vers le haut : peau légèrement mate"
+    ],
+    "🫴🏾": [
+        "appeler de la main",
+        "attirer",
+        "faire venir",
+        "main paume vers le haut",
+        "main paume vers le haut : peau modérément foncée",
+        "offre",
+        "peau modérément foncée"
+    ],
+    "🫴🏿": [
+        "main paume vers le haut : peau foncée"
+    ],
     "👌": [
         "OK",
         "main",
@@ -1200,6 +1890,35 @@
         "doigts croisés : peau foncée",
         "main",
         "peau foncée"
+    ],
+    "🫰🏻": [
+        "main avec index et pouce croisés : peau claire"
+    ],
+    "🫰🏼": [
+        "amour",
+        "argent",
+        "cher",
+        "claquer des doigts",
+        "cœur",
+        "main avec index et pouce croisés",
+        "main avec index et pouce croisés : peau modérément claire",
+        "peau modérément claire"
+    ],
+    "🫰🏽": [
+        "main avec index et pouce croisés : peau légèrement mate"
+    ],
+    "🫰🏾": [
+        "amour",
+        "argent",
+        "cher",
+        "claquer des doigts",
+        "cœur",
+        "main avec index et pouce croisés",
+        "main avec index et pouce croisés : peau modérément foncée",
+        "peau modérément foncée"
+    ],
+    "🫰🏿": [
+        "main avec index et pouce croisés : peau foncée"
     ],
     "🤟": [
         "amour",
@@ -1633,6 +2352,29 @@
         "index pointant vers le haut : peau foncée",
         "peau foncée"
     ],
+    "🫵🏻": [
+        "index pointant vers l’utilisateur : peau claire"
+    ],
+    "🫵🏼": [
+        "index pointant vers l’utilisateur",
+        "index pointant vers l’utilisateur : peau modérément claire",
+        "peau modérément claire",
+        "pointer",
+        "toi"
+    ],
+    "🫵🏽": [
+        "index pointant vers l’utilisateur : peau légèrement mate"
+    ],
+    "🫵🏾": [
+        "index pointant vers l’utilisateur",
+        "index pointant vers l’utilisateur : peau modérément foncée",
+        "peau modérément foncée",
+        "pointer",
+        "toi"
+    ],
+    "🫵🏿": [
+        "index pointant vers l’utilisateur : peau foncée"
+    ],
     "👍️": [
         "OK",
         "génial",
@@ -1980,6 +2722,29 @@
         "mains levées : peau foncée",
         "peau foncée"
     ],
+    "🫶🏻": [
+        "mains qui forment un cœur : peau claire"
+    ],
+    "🫶🏼": [
+        "amour",
+        "cœur",
+        "mains qui forment un cœur",
+        "mains qui forment un cœur : peau modérément claire",
+        "peau modérément claire"
+    ],
+    "🫶🏽": [
+        "mains qui forment un cœur : peau légèrement mate"
+    ],
+    "🫶🏾": [
+        "amour",
+        "cœur",
+        "mains qui forment un cœur",
+        "mains qui forment un cœur : peau modérément foncée",
+        "peau modérément foncée"
+    ],
+    "🫶🏿": [
+        "mains qui forment un cœur : peau foncée"
+    ],
     "👐": [
         "main",
         "mains ouvertes",
@@ -2071,6 +2836,56 @@
         "main",
         "poignée",
         "poignée de main",
+        "présentation",
+        "rencontre"
+    ],
+    "🤝🏻": [
+        "accord",
+        "main",
+        "peau claire",
+        "poignée",
+        "poignée de main",
+        "poignée de main : peau claire",
+        "présentation",
+        "rencontre"
+    ],
+    "🤝🏼": [
+        "accord",
+        "main",
+        "peau modérément claire",
+        "poignée",
+        "poignée de main",
+        "poignée de main : peau modérément claire",
+        "présentation",
+        "rencontre"
+    ],
+    "🤝🏽": [
+        "accord",
+        "main",
+        "peau légèrement mate",
+        "poignée",
+        "poignée de main",
+        "poignée de main : peau légèrement mate",
+        "présentation",
+        "rencontre"
+    ],
+    "🤝🏾": [
+        "accord",
+        "main",
+        "peau modérément foncée",
+        "poignée",
+        "poignée de main",
+        "poignée de main : peau modérément foncée",
+        "présentation",
+        "rencontre"
+    ],
+    "🤝🏿": [
+        "accord",
+        "main",
+        "peau foncée",
+        "poignée",
+        "poignée de main",
+        "poignée de main : peau foncée",
         "présentation",
         "rencontre"
     ],
@@ -2612,6 +3427,308 @@
         "personne blonde",
         "personne blonde : peau foncée"
     ],
+    "🧑🏻‍❤‍💋‍🧑🏼": [
+        "adulte",
+        "baiser",
+        "bisou",
+        "bisou : adulte, adulte, peau claire et peau modérément claire",
+        "couple",
+        "peau claire",
+        "peau modérément claire"
+    ],
+    "🧑🏻‍❤‍💋‍🧑🏽": [
+        "bisou : adulte, adulte, peau claire et peau légèrement mate"
+    ],
+    "🧑🏻‍❤‍💋‍🧑🏾": [
+        "adulte",
+        "baiser",
+        "bisou",
+        "bisou : adulte, adulte, peau claire et peau modérément foncée",
+        "couple",
+        "peau claire",
+        "peau modérément foncée"
+    ],
+    "🧑🏻‍❤‍💋‍🧑🏿": [
+        "bisou : adulte, adulte, peau claire et peau foncée"
+    ],
+    "🧑🏼‍❤‍💋‍🧑🏻": [
+        "adulte",
+        "baiser",
+        "bisou",
+        "bisou : adulte, adulte, peau modérément claire et peau claire",
+        "couple",
+        "peau claire",
+        "peau modérément claire"
+    ],
+    "🧑🏼‍❤‍💋‍🧑🏽": [
+        "adulte",
+        "baiser",
+        "bisou",
+        "bisou : adulte, adulte, peau modérément claire et peau légèrement mate",
+        "couple",
+        "peau légèrement mate",
+        "peau modérément claire"
+    ],
+    "🧑🏼‍❤‍💋‍🧑🏾": [
+        "adulte",
+        "baiser",
+        "bisou",
+        "bisou : adulte, adulte, peau modérément claire et peau modérément foncée",
+        "couple",
+        "peau modérément claire",
+        "peau modérément foncée"
+    ],
+    "🧑🏼‍❤‍💋‍🧑🏿": [
+        "adulte",
+        "baiser",
+        "bisou",
+        "bisou : adulte, adulte, peau modérément claire et peau foncée",
+        "couple",
+        "peau foncée",
+        "peau modérément claire"
+    ],
+    "🧑🏽‍❤‍💋‍🧑🏻": [
+        "bisou : adulte, adulte, peau légèrement mate et peau claire"
+    ],
+    "🧑🏽‍❤‍💋‍🧑🏼": [
+        "adulte",
+        "baiser",
+        "bisou",
+        "bisou : adulte, adulte, peau légèrement mate et peau modérément claire",
+        "couple",
+        "peau légèrement mate",
+        "peau modérément claire"
+    ],
+    "🧑🏽‍❤‍💋‍🧑🏾": [
+        "adulte",
+        "baiser",
+        "bisou",
+        "bisou : adulte, adulte, peau légèrement mate et peau modérément foncée",
+        "couple",
+        "peau légèrement mate",
+        "peau modérément foncée"
+    ],
+    "🧑🏽‍❤‍💋‍🧑🏿": [
+        "bisou : adulte, adulte, peau légèrement mate et peau foncée"
+    ],
+    "🧑🏾‍❤‍💋‍🧑🏻": [
+        "adulte",
+        "baiser",
+        "bisou",
+        "bisou : adulte, adulte, peau modérément foncée et peau claire",
+        "couple",
+        "peau claire",
+        "peau modérément foncée"
+    ],
+    "🧑🏾‍❤‍💋‍🧑🏼": [
+        "adulte",
+        "baiser",
+        "bisou",
+        "bisou : adulte, adulte, peau modérément foncée et peau modérément claire",
+        "couple",
+        "peau modérément claire",
+        "peau modérément foncée"
+    ],
+    "🧑🏾‍❤‍💋‍🧑🏽": [
+        "adulte",
+        "baiser",
+        "bisou",
+        "bisou : adulte, adulte, peau modérément foncée et peau légèrement mate",
+        "couple",
+        "peau légèrement mate",
+        "peau modérément foncée"
+    ],
+    "🧑🏾‍❤‍💋‍🧑🏿": [
+        "adulte",
+        "baiser",
+        "bisou",
+        "bisou : adulte, adulte, peau modérément foncée et peau foncée",
+        "couple",
+        "peau foncée",
+        "peau modérément foncée"
+    ],
+    "🧑🏿‍❤‍💋‍🧑🏻": [
+        "bisou : adulte, adulte, peau foncée et peau claire"
+    ],
+    "🧑🏿‍❤‍💋‍🧑🏼": [
+        "adulte",
+        "baiser",
+        "bisou",
+        "bisou : adulte, adulte, peau foncée et peau modérément claire",
+        "couple",
+        "peau foncée",
+        "peau modérément claire"
+    ],
+    "🧑🏿‍❤‍💋‍🧑🏽": [
+        "bisou : adulte, adulte, peau foncée et peau légèrement mate"
+    ],
+    "🧑🏿‍❤‍💋‍🧑🏾": [
+        "adulte",
+        "baiser",
+        "bisou",
+        "bisou : adulte, adulte, peau foncée et peau modérément foncée",
+        "couple",
+        "peau foncée",
+        "peau modérément foncée"
+    ],
+    "🧑🏻‍❤‍🧑🏼": [
+        "adulte",
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : adulte, adulte, peau claire et peau modérément claire",
+        "cœur",
+        "peau claire",
+        "peau modérément claire"
+    ],
+    "🧑🏻‍❤‍🧑🏽": [
+        "couple avec cœur : adulte, adulte, peau claire et peau légèrement mate"
+    ],
+    "🧑🏻‍❤‍🧑🏾": [
+        "adulte",
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : adulte, adulte, peau claire et peau modérément foncée",
+        "cœur",
+        "peau claire",
+        "peau modérément foncée"
+    ],
+    "🧑🏻‍❤‍🧑🏿": [
+        "couple avec cœur : adulte, adulte, peau claire et peau foncée"
+    ],
+    "🧑🏼‍❤‍🧑🏻": [
+        "adulte",
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : adulte, adulte, peau modérément claire et peau claire",
+        "cœur",
+        "peau claire",
+        "peau modérément claire"
+    ],
+    "🧑🏼‍❤‍🧑🏽": [
+        "adulte",
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : adulte, adulte, peau modérément claire et peau légèrement mate",
+        "cœur",
+        "peau légèrement mate",
+        "peau modérément claire"
+    ],
+    "🧑🏼‍❤‍🧑🏾": [
+        "adulte",
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : adulte, adulte, peau modérément claire et peau modérément foncée",
+        "cœur",
+        "peau modérément claire",
+        "peau modérément foncée"
+    ],
+    "🧑🏼‍❤‍🧑🏿": [
+        "adulte",
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : adulte, adulte, peau modérément claire et peau foncée",
+        "cœur",
+        "peau foncée",
+        "peau modérément claire"
+    ],
+    "🧑🏽‍❤‍🧑🏻": [
+        "couple avec cœur : adulte, adulte, peau légèrement mate et peau claire"
+    ],
+    "🧑🏽‍❤‍🧑🏼": [
+        "adulte",
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : adulte, adulte, peau légèrement mate et peau modérément claire",
+        "cœur",
+        "peau légèrement mate",
+        "peau modérément claire"
+    ],
+    "🧑🏽‍❤‍🧑🏾": [
+        "adulte",
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : adulte, adulte, peau légèrement mate et peau modérément foncée",
+        "cœur",
+        "peau légèrement mate",
+        "peau modérément foncée"
+    ],
+    "🧑🏽‍❤‍🧑🏿": [
+        "couple avec cœur : adulte, adulte, peau légèrement mate et peau foncée"
+    ],
+    "🧑🏾‍❤‍🧑🏻": [
+        "adulte",
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : adulte, adulte, peau modérément foncée et peau claire",
+        "cœur",
+        "peau claire",
+        "peau modérément foncée"
+    ],
+    "🧑🏾‍❤‍🧑🏼": [
+        "adulte",
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : adulte, adulte, peau modérément foncée et peau modérément claire",
+        "cœur",
+        "peau modérément claire",
+        "peau modérément foncée"
+    ],
+    "🧑🏾‍❤‍🧑🏽": [
+        "adulte",
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : adulte, adulte, peau modérément foncée et peau légèrement mate",
+        "cœur",
+        "peau légèrement mate",
+        "peau modérément foncée"
+    ],
+    "🧑🏾‍❤‍🧑🏿": [
+        "adulte",
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : adulte, adulte, peau modérément foncée et peau foncée",
+        "cœur",
+        "peau foncée",
+        "peau modérément foncée"
+    ],
+    "🧑🏿‍❤‍🧑🏻": [
+        "couple avec cœur : adulte, adulte, peau foncée et peau claire"
+    ],
+    "🧑🏿‍❤‍🧑🏼": [
+        "adulte",
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : adulte, adulte, peau foncée et peau modérément claire",
+        "cœur",
+        "peau foncée",
+        "peau modérément claire"
+    ],
+    "🧑🏿‍❤‍🧑🏽": [
+        "couple avec cœur : adulte, adulte, peau foncée et peau légèrement mate"
+    ],
+    "🧑🏿‍❤‍🧑🏾": [
+        "adulte",
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : adulte, adulte, peau foncée et peau modérément foncée",
+        "cœur",
+        "peau foncée",
+        "peau modérément foncée"
+    ],
     "🧑‍🦰": [
         "adulte",
         "adulte : cheveux roux",
@@ -2838,47 +3955,93 @@
         "barbe",
         "barbu",
         "homme barbu",
-        "personne"
+        "personne",
+        "personne barbue"
     ],
     "🧔🏻": [
         "barbe",
         "barbu",
         "homme barbu",
-        "homme barbu : peau claire",
         "peau claire",
-        "personne"
+        "personne",
+        "personne barbue",
+        "personne barbue : peau claire"
     ],
     "🧔🏼": [
         "barbe",
         "barbu",
         "homme barbu",
-        "homme barbu : peau modérément claire",
         "peau modérément claire",
-        "personne"
+        "personne",
+        "personne barbue",
+        "personne barbue : peau modérément claire"
     ],
     "🧔🏽": [
         "barbe",
         "barbu",
         "homme barbu",
-        "homme barbu : peau légèrement mate",
         "peau légèrement mate",
-        "personne"
+        "personne",
+        "personne barbue",
+        "personne barbue : peau légèrement mate"
     ],
     "🧔🏾": [
         "barbe",
         "barbu",
         "homme barbu",
-        "homme barbu : peau modérément foncée",
         "peau modérément foncée",
-        "personne"
+        "personne",
+        "personne barbue",
+        "personne barbue : peau modérément foncée"
     ],
     "🧔🏿": [
         "barbe",
         "barbu",
         "homme barbu",
-        "homme barbu : peau foncée",
         "peau foncée",
-        "personne"
+        "personne",
+        "personne barbue",
+        "personne barbue : peau foncée"
+    ],
+    "🧔‍♂": [
+        "barbe",
+        "homme",
+        "homme barbu"
+    ],
+    "🧔🏻‍♂": [
+        "barbe",
+        "homme",
+        "homme barbu",
+        "homme barbu : peau claire",
+        "peau claire"
+    ],
+    "🧔🏼‍♂": [
+        "barbe",
+        "homme",
+        "homme barbu",
+        "homme barbu : peau modérément claire",
+        "peau modérément claire"
+    ],
+    "🧔🏽‍♂": [
+        "barbe",
+        "homme",
+        "homme barbu",
+        "homme barbu : peau légèrement mate",
+        "peau légèrement mate"
+    ],
+    "🧔🏾‍♂": [
+        "barbe",
+        "homme",
+        "homme barbu",
+        "homme barbu : peau modérément foncée",
+        "peau modérément foncée"
+    ],
+    "🧔🏿‍♂": [
+        "barbe",
+        "homme",
+        "homme barbu",
+        "homme barbu : peau foncée",
+        "peau foncée"
     ],
     "👱‍♂": [
         "blond",
@@ -2913,6 +4076,360 @@
         "homme",
         "homme blond : peau foncée",
         "peau foncée"
+    ],
+    "👨🏻‍❤‍💋‍👨🏻": [
+        "bisou : homme, homme et peau claire"
+    ],
+    "👨🏻‍❤‍💋‍👨🏼": [
+        "baiser",
+        "bisou",
+        "bisou : homme, homme, peau claire et peau modérément claire",
+        "couple",
+        "homme",
+        "peau claire",
+        "peau modérément claire"
+    ],
+    "👨🏻‍❤‍💋‍👨🏽": [
+        "bisou : homme, homme, peau claire et peau légèrement mate"
+    ],
+    "👨🏻‍❤‍💋‍👨🏾": [
+        "baiser",
+        "bisou",
+        "bisou : homme, homme, peau claire et peau modérément foncée",
+        "couple",
+        "homme",
+        "peau claire",
+        "peau modérément foncée"
+    ],
+    "👨🏻‍❤‍💋‍👨🏿": [
+        "bisou : homme, homme, peau claire et peau foncée"
+    ],
+    "👨🏼‍❤‍💋‍👨🏻": [
+        "baiser",
+        "bisou",
+        "bisou : homme, homme, peau modérément claire et peau claire",
+        "couple",
+        "homme",
+        "peau claire",
+        "peau modérément claire"
+    ],
+    "👨🏼‍❤‍💋‍👨🏼": [
+        "baiser",
+        "bisou",
+        "bisou : homme, homme et peau modérément claire",
+        "couple",
+        "homme",
+        "peau modérément claire"
+    ],
+    "👨🏼‍❤‍💋‍👨🏽": [
+        "baiser",
+        "bisou",
+        "bisou : homme, homme, peau modérément claire et peau légèrement mate",
+        "couple",
+        "homme",
+        "peau légèrement mate",
+        "peau modérément claire"
+    ],
+    "👨🏼‍❤‍💋‍👨🏾": [
+        "baiser",
+        "bisou",
+        "bisou : homme, homme, peau modérément claire et peau modérément foncée",
+        "couple",
+        "homme",
+        "peau modérément claire",
+        "peau modérément foncée"
+    ],
+    "👨🏼‍❤‍💋‍👨🏿": [
+        "baiser",
+        "bisou",
+        "bisou : homme, homme, peau modérément claire et peau foncée",
+        "couple",
+        "homme",
+        "peau foncée",
+        "peau modérément claire"
+    ],
+    "👨🏽‍❤‍💋‍👨🏻": [
+        "bisou : homme, homme, peau légèrement mate et peau claire"
+    ],
+    "👨🏽‍❤‍💋‍👨🏼": [
+        "baiser",
+        "bisou",
+        "bisou : homme, homme, peau légèrement mate et peau modérément claire",
+        "couple",
+        "homme",
+        "peau légèrement mate",
+        "peau modérément claire"
+    ],
+    "👨🏽‍❤‍💋‍👨🏽": [
+        "bisou : homme, homme et peau légèrement mate"
+    ],
+    "👨🏽‍❤‍💋‍👨🏾": [
+        "baiser",
+        "bisou",
+        "bisou : homme, homme, peau légèrement mate et peau modérément foncée",
+        "couple",
+        "homme",
+        "peau légèrement mate",
+        "peau modérément foncée"
+    ],
+    "👨🏽‍❤‍💋‍👨🏿": [
+        "bisou : homme, homme, peau légèrement mate et peau foncée"
+    ],
+    "👨🏾‍❤‍💋‍👨🏻": [
+        "baiser",
+        "bisou",
+        "bisou : homme, homme, peau modérément foncée et peau claire",
+        "couple",
+        "homme",
+        "peau claire",
+        "peau modérément foncée"
+    ],
+    "👨🏾‍❤‍💋‍👨🏼": [
+        "baiser",
+        "bisou",
+        "bisou : homme, homme, peau modérément foncée et peau modérément claire",
+        "couple",
+        "homme",
+        "peau modérément claire",
+        "peau modérément foncée"
+    ],
+    "👨🏾‍❤‍💋‍👨🏽": [
+        "baiser",
+        "bisou",
+        "bisou : homme, homme, peau modérément foncée et peau légèrement mate",
+        "couple",
+        "homme",
+        "peau légèrement mate",
+        "peau modérément foncée"
+    ],
+    "👨🏾‍❤‍💋‍👨🏾": [
+        "baiser",
+        "bisou",
+        "bisou : homme, homme et peau modérément foncée",
+        "couple",
+        "homme",
+        "peau modérément foncée"
+    ],
+    "👨🏾‍❤‍💋‍👨🏿": [
+        "baiser",
+        "bisou",
+        "bisou : homme, homme, peau modérément foncée et peau foncée",
+        "couple",
+        "homme",
+        "peau foncée",
+        "peau modérément foncée"
+    ],
+    "👨🏿‍❤‍💋‍👨🏻": [
+        "bisou : homme, homme, peau foncée et peau claire"
+    ],
+    "👨🏿‍❤‍💋‍👨🏼": [
+        "baiser",
+        "bisou",
+        "bisou : homme, homme, peau foncée et peau modérément claire",
+        "couple",
+        "homme",
+        "peau foncée",
+        "peau modérément claire"
+    ],
+    "👨🏿‍❤‍💋‍👨🏽": [
+        "bisou : homme, homme, peau foncée et peau légèrement mate"
+    ],
+    "👨🏿‍❤‍💋‍👨🏾": [
+        "baiser",
+        "bisou",
+        "bisou : homme, homme, peau foncée et peau modérément foncée",
+        "couple",
+        "homme",
+        "peau foncée",
+        "peau modérément foncée"
+    ],
+    "👨🏿‍❤‍💋‍👨🏿": [
+        "bisou : homme, homme et peau foncée"
+    ],
+    "👨🏻‍❤‍👨🏻": [
+        "couple avec cœur : homme, homme et peau claire"
+    ],
+    "👨🏻‍❤‍👨🏼": [
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : homme, homme, peau claire et peau modérément claire",
+        "cœur",
+        "homme",
+        "peau claire",
+        "peau modérément claire"
+    ],
+    "👨🏻‍❤‍👨🏽": [
+        "couple avec cœur : homme, homme, peau claire et peau légèrement mate"
+    ],
+    "👨🏻‍❤‍👨🏾": [
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : homme, homme, peau claire et peau modérément foncée",
+        "cœur",
+        "homme",
+        "peau claire",
+        "peau modérément foncée"
+    ],
+    "👨🏻‍❤‍👨🏿": [
+        "couple avec cœur : homme, homme, peau claire et peau foncée"
+    ],
+    "👨🏼‍❤‍👨🏻": [
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : homme, homme, peau modérément claire et peau claire",
+        "cœur",
+        "homme",
+        "peau claire",
+        "peau modérément claire"
+    ],
+    "👨🏼‍❤‍👨🏼": [
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : homme, homme et peau modérément claire",
+        "cœur",
+        "homme",
+        "peau modérément claire"
+    ],
+    "👨🏼‍❤‍👨🏽": [
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : homme, homme, peau modérément claire et peau légèrement mate",
+        "cœur",
+        "homme",
+        "peau légèrement mate",
+        "peau modérément claire"
+    ],
+    "👨🏼‍❤‍👨🏾": [
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : homme, homme, peau modérément claire et peau modérément foncée",
+        "cœur",
+        "homme",
+        "peau modérément claire",
+        "peau modérément foncée"
+    ],
+    "👨🏼‍❤‍👨🏿": [
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : homme, homme, peau modérément claire et peau foncée",
+        "cœur",
+        "homme",
+        "peau foncée",
+        "peau modérément claire"
+    ],
+    "👨🏽‍❤‍👨🏻": [
+        "couple avec cœur : homme, homme, peau légèrement mate et peau claire"
+    ],
+    "👨🏽‍❤‍👨🏼": [
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : homme, homme, peau légèrement mate et peau modérément claire",
+        "cœur",
+        "homme",
+        "peau légèrement mate",
+        "peau modérément claire"
+    ],
+    "👨🏽‍❤‍👨🏽": [
+        "couple avec cœur : homme, homme et peau légèrement mate"
+    ],
+    "👨🏽‍❤‍👨🏾": [
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : homme, homme, peau légèrement mate et peau modérément foncée",
+        "cœur",
+        "homme",
+        "peau légèrement mate",
+        "peau modérément foncée"
+    ],
+    "👨🏽‍❤‍👨🏿": [
+        "couple avec cœur : homme, homme, peau légèrement mate et peau foncée"
+    ],
+    "👨🏾‍❤‍👨🏻": [
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : homme, homme, peau modérément foncée et peau claire",
+        "cœur",
+        "homme",
+        "peau claire",
+        "peau modérément foncée"
+    ],
+    "👨🏾‍❤‍👨🏼": [
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : homme, homme, peau modérément foncée et peau modérément claire",
+        "cœur",
+        "homme",
+        "peau modérément claire",
+        "peau modérément foncée"
+    ],
+    "👨🏾‍❤‍👨🏽": [
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : homme, homme, peau modérément foncée et peau légèrement mate",
+        "cœur",
+        "homme",
+        "peau légèrement mate",
+        "peau modérément foncée"
+    ],
+    "👨🏾‍❤‍👨🏾": [
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : homme, homme et peau modérément foncée",
+        "cœur",
+        "homme",
+        "peau modérément foncée"
+    ],
+    "👨🏾‍❤‍👨🏿": [
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : homme, homme, peau modérément foncée et peau foncée",
+        "cœur",
+        "homme",
+        "peau foncée",
+        "peau modérément foncée"
+    ],
+    "👨🏿‍❤‍👨🏻": [
+        "couple avec cœur : homme, homme, peau foncée et peau claire"
+    ],
+    "👨🏿‍❤‍👨🏼": [
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : homme, homme, peau foncée et peau modérément claire",
+        "cœur",
+        "homme",
+        "peau foncée",
+        "peau modérément claire"
+    ],
+    "👨🏿‍❤‍👨🏽": [
+        "couple avec cœur : homme, homme, peau foncée et peau légèrement mate"
+    ],
+    "👨🏿‍❤‍👨🏾": [
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : homme, homme, peau foncée et peau modérément foncée",
+        "cœur",
+        "homme",
+        "peau foncée",
+        "peau modérément foncée"
+    ],
+    "👨🏿‍❤‍👨🏿": [
+        "couple avec cœur : homme, homme et peau foncée"
     ],
     "👨‍🦰": [
         "adulte",
@@ -3112,6 +4629,34 @@
         "femme : peau foncée",
         "peau foncée"
     ],
+    "🧔‍♀": [
+        "femme barbue"
+    ],
+    "🧔🏻‍♀": [
+        "femme barbue",
+        "femme barbue : peau claire",
+        "peau claire"
+    ],
+    "🧔🏼‍♀": [
+        "femme barbue",
+        "femme barbue : peau modérément claire",
+        "peau modérément claire"
+    ],
+    "🧔🏽‍♀": [
+        "femme barbue",
+        "femme barbue : peau légèrement mate",
+        "peau légèrement mate"
+    ],
+    "🧔🏾‍♀": [
+        "femme barbue",
+        "femme barbue : peau modérément foncée",
+        "peau modérément foncée"
+    ],
+    "🧔🏿‍♀": [
+        "femme barbue",
+        "femme barbue : peau foncée",
+        "peau foncée"
+    ],
     "👱‍♀": [
         "blonde",
         "femme"
@@ -3145,6 +4690,746 @@
         "femme",
         "femme blonde : peau foncée",
         "peau foncée"
+    ],
+    "👩🏻‍❤‍💋‍👨🏻": [
+        "bisou : femme, homme et peau claire"
+    ],
+    "👩🏻‍❤‍💋‍👨🏼": [
+        "baiser",
+        "bisou",
+        "bisou : femme, homme, peau claire et peau modérément claire",
+        "couple",
+        "femme",
+        "homme",
+        "peau claire",
+        "peau modérément claire"
+    ],
+    "👩🏻‍❤‍💋‍👨🏽": [
+        "bisou : femme, homme, peau claire et peau légèrement mate"
+    ],
+    "👩🏻‍❤‍💋‍👨🏾": [
+        "baiser",
+        "bisou",
+        "bisou : femme, homme, peau claire et peau modérément foncée",
+        "couple",
+        "femme",
+        "homme",
+        "peau claire",
+        "peau modérément foncée"
+    ],
+    "👩🏻‍❤‍💋‍👨🏿": [
+        "bisou : femme, homme, peau claire et peau foncée"
+    ],
+    "👩🏼‍❤‍💋‍👨🏻": [
+        "baiser",
+        "bisou",
+        "bisou : femme, homme, peau modérément claire et peau claire",
+        "couple",
+        "femme",
+        "homme",
+        "peau claire",
+        "peau modérément claire"
+    ],
+    "👩🏼‍❤‍💋‍👨🏼": [
+        "baiser",
+        "bisou",
+        "bisou : femme, homme et peau modérément claire",
+        "couple",
+        "femme",
+        "homme",
+        "peau modérément claire"
+    ],
+    "👩🏼‍❤‍💋‍👨🏽": [
+        "baiser",
+        "bisou",
+        "bisou : femme, homme, peau modérément claire et peau légèrement mate",
+        "couple",
+        "femme",
+        "homme",
+        "peau légèrement mate",
+        "peau modérément claire"
+    ],
+    "👩🏼‍❤‍💋‍👨🏾": [
+        "baiser",
+        "bisou",
+        "bisou : femme, homme, peau modérément claire et peau modérément foncée",
+        "couple",
+        "femme",
+        "homme",
+        "peau modérément claire",
+        "peau modérément foncée"
+    ],
+    "👩🏼‍❤‍💋‍👨🏿": [
+        "baiser",
+        "bisou",
+        "bisou : femme, homme, peau modérément claire et peau foncée",
+        "couple",
+        "femme",
+        "homme",
+        "peau foncée",
+        "peau modérément claire"
+    ],
+    "👩🏽‍❤‍💋‍👨🏻": [
+        "bisou : femme, homme, peau légèrement mate et peau claire"
+    ],
+    "👩🏽‍❤‍💋‍👨🏼": [
+        "baiser",
+        "bisou",
+        "bisou : femme, homme, peau légèrement mate et peau modérément claire",
+        "couple",
+        "femme",
+        "homme",
+        "peau légèrement mate",
+        "peau modérément claire"
+    ],
+    "👩🏽‍❤‍💋‍👨🏽": [
+        "bisou : femme, homme et peau légèrement mate"
+    ],
+    "👩🏽‍❤‍💋‍👨🏾": [
+        "baiser",
+        "bisou",
+        "bisou : femme, homme, peau légèrement mate et peau modérément foncée",
+        "couple",
+        "femme",
+        "homme",
+        "peau légèrement mate",
+        "peau modérément foncée"
+    ],
+    "👩🏽‍❤‍💋‍👨🏿": [
+        "bisou : femme, homme, peau légèrement mate et peau foncée"
+    ],
+    "👩🏾‍❤‍💋‍👨🏻": [
+        "baiser",
+        "bisou",
+        "bisou : femme, homme, peau modérément foncée et peau claire",
+        "couple",
+        "femme",
+        "homme",
+        "peau claire",
+        "peau modérément foncée"
+    ],
+    "👩🏾‍❤‍💋‍👨🏼": [
+        "baiser",
+        "bisou",
+        "bisou : femme, homme, peau modérément foncée et peau modérément claire",
+        "couple",
+        "femme",
+        "homme",
+        "peau modérément claire",
+        "peau modérément foncée"
+    ],
+    "👩🏾‍❤‍💋‍👨🏽": [
+        "baiser",
+        "bisou",
+        "bisou : femme, homme, peau modérément foncée et peau légèrement mate",
+        "couple",
+        "femme",
+        "homme",
+        "peau légèrement mate",
+        "peau modérément foncée"
+    ],
+    "👩🏾‍❤‍💋‍👨🏾": [
+        "baiser",
+        "bisou",
+        "bisou : femme, homme et peau modérément foncée",
+        "couple",
+        "femme",
+        "homme",
+        "peau modérément foncée"
+    ],
+    "👩🏾‍❤‍💋‍👨🏿": [
+        "baiser",
+        "bisou",
+        "bisou : femme, homme, peau modérément foncée et peau foncée",
+        "couple",
+        "femme",
+        "homme",
+        "peau foncée",
+        "peau modérément foncée"
+    ],
+    "👩🏿‍❤‍💋‍👨🏻": [
+        "bisou : femme, homme, peau foncée et peau claire"
+    ],
+    "👩🏿‍❤‍💋‍👨🏼": [
+        "baiser",
+        "bisou",
+        "bisou : femme, homme, peau foncée et peau modérément claire",
+        "couple",
+        "femme",
+        "homme",
+        "peau foncée",
+        "peau modérément claire"
+    ],
+    "👩🏿‍❤‍💋‍👨🏽": [
+        "bisou : femme, homme, peau foncée et peau légèrement mate"
+    ],
+    "👩🏿‍❤‍💋‍👨🏾": [
+        "baiser",
+        "bisou",
+        "bisou : femme, homme, peau foncée et peau modérément foncée",
+        "couple",
+        "femme",
+        "homme",
+        "peau foncée",
+        "peau modérément foncée"
+    ],
+    "👩🏿‍❤‍💋‍👨🏿": [
+        "bisou : femme, homme et peau foncée"
+    ],
+    "👩🏻‍❤‍💋‍👩🏻": [
+        "bisou : femme, femme et peau claire"
+    ],
+    "👩🏻‍❤‍💋‍👩🏼": [
+        "baiser",
+        "bisou",
+        "bisou : femme, femme, peau claire et peau modérément claire",
+        "couple",
+        "femme",
+        "peau claire",
+        "peau modérément claire"
+    ],
+    "👩🏻‍❤‍💋‍👩🏽": [
+        "bisou : femme, femme, peau claire et peau légèrement mate"
+    ],
+    "👩🏻‍❤‍💋‍👩🏾": [
+        "baiser",
+        "bisou",
+        "bisou : femme, femme, peau claire et peau modérément foncée",
+        "couple",
+        "femme",
+        "peau claire",
+        "peau modérément foncée"
+    ],
+    "👩🏻‍❤‍💋‍👩🏿": [
+        "bisou : femme, femme, peau claire et peau foncée"
+    ],
+    "👩🏼‍❤‍💋‍👩🏻": [
+        "baiser",
+        "bisou",
+        "bisou : femme, femme, peau modérément claire et peau claire",
+        "couple",
+        "femme",
+        "peau claire",
+        "peau modérément claire"
+    ],
+    "👩🏼‍❤‍💋‍👩🏼": [
+        "baiser",
+        "bisou",
+        "bisou : femme, femme et peau modérément claire",
+        "couple",
+        "femme",
+        "peau modérément claire"
+    ],
+    "👩🏼‍❤‍💋‍👩🏽": [
+        "baiser",
+        "bisou",
+        "bisou : femme, femme, peau modérément claire et peau légèrement mate",
+        "couple",
+        "femme",
+        "peau légèrement mate",
+        "peau modérément claire"
+    ],
+    "👩🏼‍❤‍💋‍👩🏾": [
+        "baiser",
+        "bisou",
+        "bisou : femme, femme, peau modérément claire et peau modérément foncée",
+        "couple",
+        "femme",
+        "peau modérément claire",
+        "peau modérément foncée"
+    ],
+    "👩🏼‍❤‍💋‍👩🏿": [
+        "baiser",
+        "bisou",
+        "bisou : femme, femme, peau modérément claire et peau foncée",
+        "couple",
+        "femme",
+        "peau foncée",
+        "peau modérément claire"
+    ],
+    "👩🏽‍❤‍💋‍👩🏻": [
+        "bisou : femme, femme, peau légèrement mate et peau claire"
+    ],
+    "👩🏽‍❤‍💋‍👩🏼": [
+        "baiser",
+        "bisou",
+        "bisou : femme, femme, peau légèrement mate et peau modérément claire",
+        "couple",
+        "femme",
+        "peau légèrement mate",
+        "peau modérément claire"
+    ],
+    "👩🏽‍❤‍💋‍👩🏽": [
+        "bisou : femme, femme et peau légèrement mate"
+    ],
+    "👩🏽‍❤‍💋‍👩🏾": [
+        "baiser",
+        "bisou",
+        "bisou : femme, femme, peau légèrement mate et peau modérément foncée",
+        "couple",
+        "femme",
+        "peau légèrement mate",
+        "peau modérément foncée"
+    ],
+    "👩🏽‍❤‍💋‍👩🏿": [
+        "bisou : femme, femme, peau légèrement mate et peau foncée"
+    ],
+    "👩🏾‍❤‍💋‍👩🏻": [
+        "baiser",
+        "bisou",
+        "bisou : femme, femme, peau modérément foncée et peau claire",
+        "couple",
+        "femme",
+        "peau claire",
+        "peau modérément foncée"
+    ],
+    "👩🏾‍❤‍💋‍👩🏼": [
+        "baiser",
+        "bisou",
+        "bisou : femme, femme, peau modérément foncée et peau modérément claire",
+        "couple",
+        "femme",
+        "peau modérément claire",
+        "peau modérément foncée"
+    ],
+    "👩🏾‍❤‍💋‍👩🏽": [
+        "baiser",
+        "bisou",
+        "bisou : femme, femme, peau modérément foncée et peau légèrement mate",
+        "couple",
+        "femme",
+        "peau légèrement mate",
+        "peau modérément foncée"
+    ],
+    "👩🏾‍❤‍💋‍👩🏾": [
+        "baiser",
+        "bisou",
+        "bisou : femme, femme et peau modérément foncée",
+        "couple",
+        "femme",
+        "peau modérément foncée"
+    ],
+    "👩🏾‍❤‍💋‍👩🏿": [
+        "baiser",
+        "bisou",
+        "bisou : femme, femme, peau modérément foncée et peau foncée",
+        "couple",
+        "femme",
+        "peau foncée",
+        "peau modérément foncée"
+    ],
+    "👩🏿‍❤‍💋‍👩🏻": [
+        "bisou : femme, femme, peau foncée et peau claire"
+    ],
+    "👩🏿‍❤‍💋‍👩🏼": [
+        "baiser",
+        "bisou",
+        "bisou : femme, femme, peau foncée et peau modérément claire",
+        "couple",
+        "femme",
+        "peau foncée",
+        "peau modérément claire"
+    ],
+    "👩🏿‍❤‍💋‍👩🏽": [
+        "bisou : femme, femme, peau foncée et peau légèrement mate"
+    ],
+    "👩🏿‍❤‍💋‍👩🏾": [
+        "baiser",
+        "bisou",
+        "bisou : femme, femme, peau foncée et peau modérément foncée",
+        "couple",
+        "femme",
+        "peau foncée",
+        "peau modérément foncée"
+    ],
+    "👩🏿‍❤‍💋‍👩🏿": [
+        "bisou : femme, femme et peau foncée"
+    ],
+    "👩🏻‍❤‍👨🏻": [
+        "couple avec cœur : femme, homme et peau claire"
+    ],
+    "👩🏻‍❤‍👨🏼": [
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : femme, homme, peau claire et peau modérément claire",
+        "cœur",
+        "femme",
+        "homme",
+        "peau claire",
+        "peau modérément claire"
+    ],
+    "👩🏻‍❤‍👨🏽": [
+        "couple avec cœur : femme, homme, peau claire et peau légèrement mate"
+    ],
+    "👩🏻‍❤‍👨🏾": [
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : femme, homme, peau claire et peau modérément foncée",
+        "cœur",
+        "femme",
+        "homme",
+        "peau claire",
+        "peau modérément foncée"
+    ],
+    "👩🏻‍❤‍👨🏿": [
+        "couple avec cœur : femme, homme, peau claire et peau foncée"
+    ],
+    "👩🏼‍❤‍👨🏻": [
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : femme, homme, peau modérément claire et peau claire",
+        "cœur",
+        "femme",
+        "homme",
+        "peau claire",
+        "peau modérément claire"
+    ],
+    "👩🏼‍❤‍👨🏼": [
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : femme, homme et peau modérément claire",
+        "cœur",
+        "femme",
+        "homme",
+        "peau modérément claire"
+    ],
+    "👩🏼‍❤‍👨🏽": [
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : femme, homme, peau modérément claire et peau légèrement mate",
+        "cœur",
+        "femme",
+        "homme",
+        "peau légèrement mate",
+        "peau modérément claire"
+    ],
+    "👩🏼‍❤‍👨🏾": [
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : femme, homme, peau modérément claire et peau modérément foncée",
+        "cœur",
+        "femme",
+        "homme",
+        "peau modérément claire",
+        "peau modérément foncée"
+    ],
+    "👩🏼‍❤‍👨🏿": [
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : femme, homme, peau modérément claire et peau foncée",
+        "cœur",
+        "femme",
+        "homme",
+        "peau foncée",
+        "peau modérément claire"
+    ],
+    "👩🏽‍❤‍👨🏻": [
+        "couple avec cœur : femme, homme, peau légèrement mate et peau claire"
+    ],
+    "👩🏽‍❤‍👨🏼": [
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : femme, homme, peau légèrement mate et peau modérément claire",
+        "cœur",
+        "femme",
+        "homme",
+        "peau légèrement mate",
+        "peau modérément claire"
+    ],
+    "👩🏽‍❤‍👨🏽": [
+        "couple avec cœur : femme, homme et peau légèrement mate"
+    ],
+    "👩🏽‍❤‍👨🏾": [
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : femme, homme, peau légèrement mate et peau modérément foncée",
+        "cœur",
+        "femme",
+        "homme",
+        "peau légèrement mate",
+        "peau modérément foncée"
+    ],
+    "👩🏽‍❤‍👨🏿": [
+        "couple avec cœur : femme, homme, peau légèrement mate et peau foncée"
+    ],
+    "👩🏾‍❤‍👨🏻": [
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : femme, homme, peau modérément foncée et peau claire",
+        "cœur",
+        "femme",
+        "homme",
+        "peau claire",
+        "peau modérément foncée"
+    ],
+    "👩🏾‍❤‍👨🏼": [
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : femme, homme, peau modérément foncée et peau modérément claire",
+        "cœur",
+        "femme",
+        "homme",
+        "peau modérément claire",
+        "peau modérément foncée"
+    ],
+    "👩🏾‍❤‍👨🏽": [
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : femme, homme, peau modérément foncée et peau légèrement mate",
+        "cœur",
+        "femme",
+        "homme",
+        "peau légèrement mate",
+        "peau modérément foncée"
+    ],
+    "👩🏾‍❤‍👨🏾": [
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : femme, homme et peau modérément foncée",
+        "cœur",
+        "femme",
+        "homme",
+        "peau modérément foncée"
+    ],
+    "👩🏾‍❤‍👨🏿": [
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : femme, homme, peau modérément foncée et peau foncée",
+        "cœur",
+        "femme",
+        "homme",
+        "peau foncée",
+        "peau modérément foncée"
+    ],
+    "👩🏿‍❤‍👨🏻": [
+        "couple avec cœur : femme, homme, peau foncée et peau claire"
+    ],
+    "👩🏿‍❤‍👨🏼": [
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : femme, homme, peau foncée et peau modérément claire",
+        "cœur",
+        "femme",
+        "homme",
+        "peau foncée",
+        "peau modérément claire"
+    ],
+    "👩🏿‍❤‍👨🏽": [
+        "couple avec cœur : femme, homme, peau foncée et peau légèrement mate"
+    ],
+    "👩🏿‍❤‍👨🏾": [
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : femme, homme, peau foncée et peau modérément foncée",
+        "cœur",
+        "femme",
+        "homme",
+        "peau foncée",
+        "peau modérément foncée"
+    ],
+    "👩🏿‍❤‍👨🏿": [
+        "couple avec cœur : femme, homme et peau foncée"
+    ],
+    "👩🏻‍❤‍👩🏻": [
+        "couple avec cœur : femme, femme et peau claire"
+    ],
+    "👩🏻‍❤‍👩🏼": [
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : femme, femme, peau claire et peau modérément claire",
+        "cœur",
+        "femme",
+        "peau claire",
+        "peau modérément claire"
+    ],
+    "👩🏻‍❤‍👩🏽": [
+        "couple avec cœur : femme, femme, peau claire et peau légèrement mate"
+    ],
+    "👩🏻‍❤‍👩🏾": [
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : femme, femme, peau claire et peau modérément foncée",
+        "cœur",
+        "femme",
+        "peau claire",
+        "peau modérément foncée"
+    ],
+    "👩🏻‍❤‍👩🏿": [
+        "couple avec cœur : femme, femme, peau claire et peau foncée"
+    ],
+    "👩🏼‍❤‍👩🏻": [
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : femme, femme, peau modérément claire et peau claire",
+        "cœur",
+        "femme",
+        "peau claire",
+        "peau modérément claire"
+    ],
+    "👩🏼‍❤‍👩🏼": [
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : femme, femme et peau modérément claire",
+        "cœur",
+        "femme",
+        "peau modérément claire"
+    ],
+    "👩🏼‍❤‍👩🏽": [
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : femme, femme, peau modérément claire et peau légèrement mate",
+        "cœur",
+        "femme",
+        "peau légèrement mate",
+        "peau modérément claire"
+    ],
+    "👩🏼‍❤‍👩🏾": [
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : femme, femme, peau modérément claire et peau modérément foncée",
+        "cœur",
+        "femme",
+        "peau modérément claire",
+        "peau modérément foncée"
+    ],
+    "👩🏼‍❤‍👩🏿": [
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : femme, femme, peau modérément claire et peau foncée",
+        "cœur",
+        "femme",
+        "peau foncée",
+        "peau modérément claire"
+    ],
+    "👩🏽‍❤‍👩🏻": [
+        "couple avec cœur : femme, femme, peau légèrement mate et peau claire"
+    ],
+    "👩🏽‍❤‍👩🏼": [
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : femme, femme, peau légèrement mate et peau modérément claire",
+        "cœur",
+        "femme",
+        "peau légèrement mate",
+        "peau modérément claire"
+    ],
+    "👩🏽‍❤‍👩🏽": [
+        "couple avec cœur : femme, femme et peau légèrement mate"
+    ],
+    "👩🏽‍❤‍👩🏾": [
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : femme, femme, peau légèrement mate et peau modérément foncée",
+        "cœur",
+        "femme",
+        "peau légèrement mate",
+        "peau modérément foncée"
+    ],
+    "👩🏽‍❤‍👩🏿": [
+        "couple avec cœur : femme, femme, peau légèrement mate et peau foncée"
+    ],
+    "👩🏾‍❤‍👩🏻": [
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : femme, femme, peau modérément foncée et peau claire",
+        "cœur",
+        "femme",
+        "peau claire",
+        "peau modérément foncée"
+    ],
+    "👩🏾‍❤‍👩🏼": [
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : femme, femme, peau modérément foncée et peau modérément claire",
+        "cœur",
+        "femme",
+        "peau modérément claire",
+        "peau modérément foncée"
+    ],
+    "👩🏾‍❤‍👩🏽": [
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : femme, femme, peau modérément foncée et peau légèrement mate",
+        "cœur",
+        "femme",
+        "peau légèrement mate",
+        "peau modérément foncée"
+    ],
+    "👩🏾‍❤‍👩🏾": [
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : femme, femme et peau modérément foncée",
+        "cœur",
+        "femme",
+        "peau modérément foncée"
+    ],
+    "👩🏾‍❤‍👩🏿": [
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : femme, femme, peau modérément foncée et peau foncée",
+        "cœur",
+        "femme",
+        "peau foncée",
+        "peau modérément foncée"
+    ],
+    "👩🏿‍❤‍👩🏻": [
+        "couple avec cœur : femme, femme, peau foncée et peau claire"
+    ],
+    "👩🏿‍❤‍👩🏼": [
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : femme, femme, peau foncée et peau modérément claire",
+        "cœur",
+        "femme",
+        "peau foncée",
+        "peau modérément claire"
+    ],
+    "👩🏿‍❤‍👩🏽": [
+        "couple avec cœur : femme, femme, peau foncée et peau légèrement mate"
+    ],
+    "👩🏿‍❤‍👩🏾": [
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : femme, femme, peau foncée et peau modérément foncée",
+        "cœur",
+        "femme",
+        "peau foncée",
+        "peau modérément foncée"
+    ],
+    "👩🏿‍❤‍👩🏿": [
+        "couple avec cœur : femme, femme et peau foncée"
     ],
     "👩‍🦰": [
         "adulte",
@@ -4991,11 +7276,27 @@
         "professionnel de la santé homme : peau foncée",
         "santé"
     ],
+    "👩‍⚕": [
+        "docteur",
+        "docteure",
+        "femme",
+        "infirmière",
+        "professionnelle de la santé",
+        "santé"
+    ],
     "👩🏻‍⚕": [
-        "professionnelle de la santé : peau claire"
+        "docteur",
+        "docteure",
+        "femme",
+        "infirmière",
+        "peau claire",
+        "professionnelle de la santé",
+        "professionnelle de la santé : peau claire",
+        "santé"
     ],
     "👩🏼‍⚕": [
         "docteur",
+        "docteure",
         "femme",
         "infirmière",
         "peau modérément claire",
@@ -5004,10 +7305,18 @@
         "santé"
     ],
     "👩🏽‍⚕": [
-        "professionnelle de la santé : peau légèrement mate"
+        "docteur",
+        "docteure",
+        "femme",
+        "infirmière",
+        "peau légèrement mate",
+        "professionnelle de la santé",
+        "professionnelle de la santé : peau légèrement mate",
+        "santé"
     ],
     "👩🏾‍⚕": [
         "docteur",
+        "docteure",
         "femme",
         "infirmière",
         "peau modérément foncée",
@@ -5016,7 +7325,14 @@
         "santé"
     ],
     "👩🏿‍⚕": [
-        "professionnelle de la santé : peau foncée"
+        "docteur",
+        "docteure",
+        "femme",
+        "infirmière",
+        "peau foncée",
+        "professionnelle de la santé",
+        "professionnelle de la santé : peau foncée",
+        "santé"
     ],
     "🧑‍🎓": [
         "diplômé",
@@ -5559,32 +7875,68 @@
         "mécanicienne : peau foncée"
     ],
     "🧑‍🏭": [
-        "travailleur d’usine"
+        "assemblage",
+        "industrie",
+        "ouvrier",
+        "ouvrier (tous genres)",
+        "ouvrière",
+        "travailleur d’usine",
+        "usine"
     ],
     "🧑🏻‍🏭": [
+        "assemblage",
+        "industrie",
+        "ouvrier",
+        "ouvrier (tous genres)",
+        "ouvrière",
         "peau claire",
         "travailleur d’usine",
-        "travailleur d’usine : peau claire"
+        "travailleur d’usine : peau claire",
+        "usine"
     ],
     "🧑🏼‍🏭": [
+        "assemblage",
+        "industrie",
+        "ouvrier",
+        "ouvrier (tous genres)",
+        "ouvrière",
         "peau modérément claire",
         "travailleur d’usine",
-        "travailleur d’usine : peau modérément claire"
+        "travailleur d’usine : peau modérément claire",
+        "usine"
     ],
     "🧑🏽‍🏭": [
+        "assemblage",
+        "industrie",
+        "ouvrier",
+        "ouvrier (tous genres)",
+        "ouvrière",
         "peau légèrement mate",
         "travailleur d’usine",
-        "travailleur d’usine : peau légèrement mate"
+        "travailleur d’usine : peau légèrement mate",
+        "usine"
     ],
     "🧑🏾‍🏭": [
+        "assemblage",
+        "industrie",
+        "ouvrier",
+        "ouvrier (tous genres)",
+        "ouvrière",
         "peau modérément foncée",
         "travailleur d’usine",
-        "travailleur d’usine : peau modérément foncée"
+        "travailleur d’usine : peau modérément foncée",
+        "usine"
     ],
     "🧑🏿‍🏭": [
+        "assemblage",
+        "industrie",
+        "ouvrier",
+        "ouvrier (tous genres)",
+        "ouvrière",
         "peau foncée",
         "travailleur d’usine",
-        "travailleur d’usine : peau foncée"
+        "travailleur d’usine : peau foncée",
+        "usine"
     ],
     "👨‍🏭": [
         "assemblage",
@@ -6569,52 +8921,52 @@
         "pompier femme : peau foncée"
     ],
     "👮": [
-        "agent de la paix",
         "flic",
         "officier",
+        "officier de police",
         "police",
         "policier"
     ],
     "👮🏻": [
-        "agent de la paix",
         "flic",
         "officier",
+        "officier de police",
         "peau claire",
         "police",
         "policier",
         "policier : peau claire"
     ],
     "👮🏼": [
-        "agent de la paix",
         "flic",
         "officier",
+        "officier de police",
         "peau modérément claire",
         "police",
         "policier",
         "policier : peau modérément claire"
     ],
     "👮🏽": [
-        "agent de la paix",
         "flic",
         "officier",
+        "officier de police",
         "peau légèrement mate",
         "police",
         "policier",
         "policier : peau légèrement mate"
     ],
     "👮🏾": [
-        "agent de la paix",
         "flic",
         "officier",
+        "officier de police",
         "peau modérément foncée",
         "police",
         "policier",
         "policier : peau modérément foncée"
     ],
     "👮🏿": [
-        "agent de la paix",
         "flic",
         "officier",
+        "officier de police",
         "peau foncée",
         "police",
         "policier",
@@ -6838,6 +9190,31 @@
     "💂🏿‍♀": [
         "garde femme : peau foncée"
     ],
+    "🥷🏻": [
+        "ninja : peau claire"
+    ],
+    "🥷🏼": [
+        "furtif",
+        "guerrier",
+        "masqué",
+        "ninja",
+        "ninja : peau modérément claire",
+        "peau modérément claire"
+    ],
+    "🥷🏽": [
+        "ninja : peau légèrement mate"
+    ],
+    "🥷🏾": [
+        "furtif",
+        "guerrier",
+        "masqué",
+        "ninja",
+        "ninja : peau modérément foncée",
+        "peau modérément foncée"
+    ],
+    "🥷🏿": [
+        "ninja : peau foncée"
+    ],
     "👷🏻": [
         "personnel du bâtiment : peau claire"
     ],
@@ -6912,6 +9289,33 @@
     ],
     "👷🏿‍♀": [
         "ouvrière du bâtiment : peau foncée"
+    ],
+    "🫅🏻": [
+        "personne avec une couronne : peau claire"
+    ],
+    "🫅🏼": [
+        "monarque",
+        "noble",
+        "peau modérément claire",
+        "personne avec une couronne",
+        "personne avec une couronne : peau modérément claire",
+        "royal",
+        "royauté"
+    ],
+    "🫅🏽": [
+        "personne avec une couronne : peau légèrement mate"
+    ],
+    "🫅🏾": [
+        "monarque",
+        "noble",
+        "peau modérément foncée",
+        "personne avec une couronne",
+        "personne avec une couronne : peau modérément foncée",
+        "royal",
+        "royauté"
+    ],
+    "🫅🏿": [
+        "personne avec une couronne : peau foncée"
     ],
     "🤴🏻": [
         "prince : peau claire"
@@ -7323,6 +9727,56 @@
     "🤰🏿": [
         "femme enceinte : peau foncée"
     ],
+    "🫃🏻": [
+        "homme enceinte : peau claire"
+    ],
+    "🫃🏼": [
+        "enceinte",
+        "grossesse",
+        "homme enceinte",
+        "homme enceinte : peau modérément claire",
+        "peau modérément claire",
+        "ventre"
+    ],
+    "🫃🏽": [
+        "homme enceinte : peau légèrement mate"
+    ],
+    "🫃🏾": [
+        "enceinte",
+        "grossesse",
+        "homme enceinte",
+        "homme enceinte : peau modérément foncée",
+        "peau modérément foncée",
+        "ventre"
+    ],
+    "🫃🏿": [
+        "homme enceinte : peau foncée"
+    ],
+    "🫄🏻": [
+        "personne enceinte : peau claire"
+    ],
+    "🫄🏼": [
+        "enceinte",
+        "grossesse",
+        "peau modérément claire",
+        "personne enceinte",
+        "personne enceinte : peau modérément claire",
+        "ventre"
+    ],
+    "🫄🏽": [
+        "personne enceinte : peau légèrement mate"
+    ],
+    "🫄🏾": [
+        "enceinte",
+        "grossesse",
+        "peau modérément foncée",
+        "personne enceinte",
+        "personne enceinte : peau modérément foncée",
+        "ventre"
+    ],
+    "🫄🏿": [
+        "personne enceinte : peau foncée"
+    ],
     "🤱🏻": [
         "allaitement : peau claire"
     ],
@@ -7581,36 +10035,54 @@
         "personnage de Noël : peau foncée"
     ],
     "🦸": [
-        "gentil, héroïne, héros, super pouvoirs",
+        "gentil",
+        "héros",
+        "héroïne",
+        "super pouvoirs",
         "superhéros"
     ],
     "🦸🏻": [
-        "gentil, héroïne, héros, super pouvoirs",
+        "gentil",
+        "héros",
+        "héroïne",
         "peau claire",
+        "super pouvoirs",
         "superhéros",
         "superhéros : peau claire"
     ],
     "🦸🏼": [
-        "gentil, héroïne, héros, super pouvoirs",
+        "gentil",
+        "héros",
+        "héroïne",
         "peau modérément claire",
+        "super pouvoirs",
         "superhéros",
         "superhéros : peau modérément claire"
     ],
     "🦸🏽": [
-        "gentil, héroïne, héros, super pouvoirs",
+        "gentil",
+        "héros",
+        "héroïne",
         "peau légèrement mate",
+        "super pouvoirs",
         "superhéros",
         "superhéros : peau légèrement mate"
     ],
     "🦸🏾": [
-        "gentil, héroïne, héros, super pouvoirs",
+        "gentil",
+        "héros",
+        "héroïne",
         "peau modérément foncée",
+        "super pouvoirs",
         "superhéros",
         "superhéros : peau modérément foncée"
     ],
     "🦸🏿": [
-        "gentil, héroïne, héros, super pouvoirs",
+        "gentil",
+        "héros",
+        "héroïne",
         "peau foncée",
+        "super pouvoirs",
         "superhéros",
         "superhéros : peau foncée"
     ],
@@ -7676,38 +10148,31 @@
         "super-héroïne",
         "super-héroïne : peau foncée"
     ],
-    "🦹": [
-        "criminel, mal, méchant, super pouvoir",
-        "super-vilain"
-    ],
     "🦹🏻": [
-        "criminel, mal, méchant, super pouvoir",
-        "peau claire",
-        "super-vilain",
         "super-vilain : peau claire"
     ],
     "🦹🏼": [
-        "criminel, mal, méchant, super pouvoir",
+        "criminel",
+        "mal",
+        "méchant",
         "peau modérément claire",
+        "super-pouvoir",
         "super-vilain",
         "super-vilain : peau modérément claire"
     ],
     "🦹🏽": [
-        "criminel, mal, méchant, super pouvoir",
-        "peau légèrement mate",
-        "super-vilain",
         "super-vilain : peau légèrement mate"
     ],
     "🦹🏾": [
-        "criminel, mal, méchant, super pouvoir",
+        "criminel",
+        "mal",
+        "méchant",
         "peau modérément foncée",
+        "super-pouvoir",
         "super-vilain",
         "super-vilain : peau modérément foncée"
     ],
     "🦹🏿": [
-        "criminel, mal, méchant, super pouvoir",
-        "peau foncée",
-        "super-vilain",
         "super-vilain : peau foncée"
     ],
     "🦹‍♂": [
@@ -8837,23 +11302,8 @@
     "👨🏿‍🦯": [
         "homme avec canne blanche : peau foncée"
     ],
-    "👩‍🦯": [
-        "accessibilité",
-        "aveugle",
-        "déficiente visuelle",
-        "femme",
-        "femme avec canne blanche",
-        "malvoyante"
-    ],
     "👩🏻‍🦯": [
-        "accessibilité",
-        "aveugle",
-        "déficiente visuelle",
-        "femme",
-        "femme avec canne blanche",
-        "femme avec canne blanche : peau claire",
-        "malvoyante",
-        "peau claire"
+        "femme avec canne blanche : peau claire"
     ],
     "👩🏼‍🦯": [
         "accessibilité",
@@ -8866,14 +11316,7 @@
         "peau modérément claire"
     ],
     "👩🏽‍🦯": [
-        "accessibilité",
-        "aveugle",
-        "déficiente visuelle",
-        "femme",
-        "femme avec canne blanche",
-        "femme avec canne blanche : peau légèrement mate",
-        "malvoyante",
-        "peau légèrement mate"
+        "femme avec canne blanche : peau légèrement mate"
     ],
     "👩🏾‍🦯": [
         "accessibilité",
@@ -8886,14 +11329,7 @@
         "peau modérément foncée"
     ],
     "👩🏿‍🦯": [
-        "accessibilité",
-        "aveugle",
-        "déficiente visuelle",
-        "femme",
-        "femme avec canne blanche",
-        "femme avec canne blanche : peau foncée",
-        "malvoyante",
-        "peau foncée"
+        "femme avec canne blanche : peau foncée"
     ],
     "🧑‍🦼": [
         "accessibilité",
@@ -9064,32 +11500,31 @@
     "👩🏿‍🦽": [
         "femme en fauteuil roulant manuel : peau foncée"
     ],
-    "🏃": [
-        "personne qui court"
-    ],
     "🏃🏻": [
-        "peau claire",
-        "personne qui court",
         "personne qui court : peau claire"
     ],
     "🏃🏼": [
+        "coureur",
+        "course à pied",
+        "jogging",
+        "marathon",
         "peau modérément claire",
         "personne qui court",
         "personne qui court : peau modérément claire"
     ],
     "🏃🏽": [
-        "peau légèrement mate",
-        "personne qui court",
         "personne qui court : peau légèrement mate"
     ],
     "🏃🏾": [
+        "coureur",
+        "course à pied",
+        "jogging",
+        "marathon",
         "peau modérément foncée",
         "personne qui court",
         "personne qui court : peau modérément foncée"
     ],
     "🏃🏿": [
-        "peau foncée",
-        "personne qui court",
         "personne qui court : peau foncée"
     ],
     "🏃‍♂": [
@@ -12468,6 +14903,29 @@
         "union",
         "zodiaque"
     ],
+    "💏🏻": [
+        "bisou : peau claire"
+    ],
+    "💏🏼": [
+        "baiser",
+        "bisou",
+        "bisou : peau modérément claire",
+        "couple",
+        "peau modérément claire"
+    ],
+    "💏🏽": [
+        "bisou : peau légèrement mate"
+    ],
+    "💏🏾": [
+        "baiser",
+        "bisou",
+        "bisou : peau modérément foncée",
+        "couple",
+        "peau modérément foncée"
+    ],
+    "💏🏿": [
+        "bisou : peau foncée"
+    ],
     "👩‍❤‍💋‍👨": [
         "bisou : femme et homme"
     ],
@@ -12476,6 +14934,31 @@
     ],
     "👩‍❤‍💋‍👩": [
         "bisou : femme et femme"
+    ],
+    "💑🏻": [
+        "couple avec cœur : peau claire"
+    ],
+    "💑🏼": [
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : peau modérément claire",
+        "cœur",
+        "peau modérément claire"
+    ],
+    "💑🏽": [
+        "couple avec cœur : peau légèrement mate"
+    ],
+    "💑🏾": [
+        "amour",
+        "couple",
+        "couple avec cœur",
+        "couple avec cœur : peau modérément foncée",
+        "cœur",
+        "peau modérément foncée"
+    ],
+    "💑🏿": [
+        "couple avec cœur : peau foncée"
     ],
     "👩‍❤‍👨": [
         "couple avec cœur : femme et homme"
@@ -12723,6 +15206,7 @@
     ],
     "🐷": [
         "cochon",
+        "porc",
         "tête",
         "tête de cochon"
     ],
@@ -12738,7 +15222,8 @@
         "groin",
         "nez",
         "nez de cochon",
-        "porc"
+        "porc",
+        "tête"
     ],
     "🐏": [
         "bélier",
@@ -13078,6 +15563,10 @@
         "feuille",
         "virevoltante"
     ],
+    "🍄": [
+        "champignon",
+        "vénéneux"
+    ],
     "🍉": [
         "fruit",
         "melon d’eau"
@@ -13142,15 +15631,17 @@
         "condiment",
         "oignon"
     ],
-    "🍄": [
-        "champignon",
-        "vénéneux"
-    ],
     "🥜": [
         "arachide",
         "arachides",
         "cacahuète",
         "noisette"
+    ],
+    "🫘": [
+        "fèves",
+        "haricot rouge",
+        "légumineuse",
+        "nourriture"
     ],
     "🍞": [
         "baguette",
@@ -13277,6 +15768,15 @@
         "bol",
         "bol de riz",
         "riz"
+    ],
+    "🍛": [
+        "cari",
+        "carry",
+        "cary",
+        "curry",
+        "kari",
+        "riz",
+        "riz au curry"
     ],
     "🍠": [
         "douce",
@@ -13501,21 +16001,21 @@
         "zodiaque"
     ],
     "🌍": [
-        "afrique",
-        "europe",
+        "Afrique",
+        "Europe",
         "globe",
         "globe qui montre l’Europe et l’Afrique",
         "monde"
     ],
     "🌎️": [
-        "amérique",
+        "Amérique",
         "globe",
         "globe qui montre l’Amérique",
         "monde"
     ],
     "🌏": [
-        "asie",
-        "australie",
+        "Asie",
+        "Australie",
         "globe",
         "globe qui montre l’Asie et l’Australie",
         "monde"
@@ -13531,6 +16031,11 @@
         "carte",
         "carte du monde",
         "monde"
+    ],
+    "🗾": [
+        "Japon",
+        "carte",
+        "carte du Japon"
     ],
     "🏔️": [
         "enneigée",
@@ -13612,7 +16117,9 @@
     "🏥": [
         "bâtiment",
         "docteur",
-        "hôpital"
+        "hôpital",
+        "médecin",
+        "médecine"
     ],
     "🏩": [
         "couples",
@@ -13646,6 +16153,7 @@
         "temple"
     ],
     "⛩️": [
+        "religion",
         "sanctuaire",
         "shinto"
     ],
@@ -13667,12 +16175,14 @@
     ],
     "🌅": [
         "levant",
+        "lever de soleil",
         "matin",
         "soleil"
     ],
     "🌆": [
         "coucher",
         "crépuscule",
+        "paysage urbain",
         "soir",
         "soleil",
         "ville",
@@ -13681,6 +16191,7 @@
     "🌇": [
         "coucher",
         "coucher de soleil",
+        "crépuscule",
         "soleil"
     ],
     "🌉": [
@@ -13699,6 +16210,11 @@
         "cheval de carrousel",
         "manège"
     ],
+    "🛝": [
+        "aire de jeu",
+        "glissade",
+        "jouer"
+    ],
     "🎡": [
         "grande roue",
         "parc d’attractions"
@@ -13711,7 +16227,6 @@
     "🚂": [
         "chemin de fer",
         "locomotive",
-        "moteur",
         "train",
         "vapeur"
     ],
@@ -13781,7 +16296,7 @@
         "bus",
         "bus de face",
         "de face",
-        "à l’arrivée"
+        "à l’arrivé"
     ],
     "🚎": [
         "bus",
@@ -13842,6 +16357,10 @@
     ],
     "🚛": [
         "camion semi-remorque"
+    ],
+    "🛵": [
+        "scooter",
+        "scouteur"
     ],
     "🚲️": [
         "bicyclette",
@@ -14008,6 +16527,8 @@
         "premier croissant de lune"
     ],
     "🌓": [
+        "lune",
+        "premier quartier",
         "premier quartier de lune"
     ],
     "🌔": [
@@ -14023,11 +16544,6 @@
         "gibbeuse décroissante",
         "lune",
         "lune gibbeuse décroissante"
-    ],
-    "🌗": [
-        "dernier quartier",
-        "dernier quartier de lune",
-        "lune"
     ],
     "🌘": [
         "dernier croissant",
@@ -14076,7 +16592,7 @@
     ],
     "⭐️": [
         "étoile",
-        "étoile blanche moyenne"
+        "étoile moyenne"
     ],
     "🌟": [
         "brillante",
@@ -14192,7 +16708,9 @@
     "⚡️": [
         "danger",
         "haute tension",
-        "électricité"
+        "éclair",
+        "électricité",
+        "électrocuter"
     ],
     "❄️": [
         "flocon",
@@ -14320,7 +16838,7 @@
     ],
     "🎟️": [
         "billet",
-        "billet d’entrée",
+        "billets d’entrée",
         "entrée",
         "spectacle"
     ],
@@ -14509,19 +17027,21 @@
         "sorcier",
         "sorcière"
     ],
-    "🧿": [
-        "amulette",
-        "mauvais œil",
-        "nazar",
-        "talisman"
-    ],
     "🎲": [
         "dé",
+        "dés",
         "jeu"
     ],
     "🧩": [
         "casse-tête",
         "pièce"
+    ],
+    "🧸": [
+        "jeu",
+        "jouet",
+        "ours en peluche",
+        "peluche",
+        "toutou"
     ],
     "🪅": [
         "fête",
@@ -14581,7 +17101,6 @@
         "broderie",
         "coudre",
         "couture",
-        "coutures",
         "points"
     ],
     "🥽": [
@@ -14592,6 +17111,9 @@
         "soudure"
     ],
     "🦺": [
+        "sécurité",
+        "urgence",
+        "veste",
         "veste de sécurité"
     ],
     "👕": [
@@ -14642,6 +17164,13 @@
         "sandales de plage",
         "tongs",
         "zōri"
+    ],
+    "👞": [
+        "chaussure",
+        "chaussure d’homme",
+        "homme",
+        "soulier",
+        "vêtements"
     ],
     "👟": [
         "chaussure",
@@ -14766,7 +17295,10 @@
         "tambour"
     ],
     "🪘": [
-        "djembé"
+        "conga",
+        "djembé",
+        "rythme",
+        "tambour"
     ],
     "📱": [
         "téléphone",
@@ -14879,9 +17411,6 @@
         "cahier",
         "carnet"
     ],
-    "📒": [
-        "carnet de compte"
-    ],
     "📑": [
         "marque",
         "marqueur",
@@ -14899,26 +17428,22 @@
     "💴": [
         "billet",
         "billet en yens",
-        "yen",
-        "yens"
+        "yen"
     ],
     "💵": [
         "billet",
         "billet en dollars",
-        "dollar",
-        "dollars"
+        "dollar"
     ],
     "💶": [
         "billet",
         "billet en euros",
-        "euro",
-        "euros"
+        "euro"
     ],
     "💷": [
         "billet",
         "billet en livres",
-        "livre",
-        "livres"
+        "livre"
     ],
     "💳️": [
         "argent",
@@ -15009,14 +17534,11 @@
         "rolodex"
     ],
     "📈": [
+        "croissance",
         "graphique",
         "graphique en hausse",
-        "hausse"
-    ],
-    "📉": [
-        "baisse",
-        "graphique",
-        "graphique en baisse"
+        "hausse",
+        "tendance"
     ],
     "📊": [
         "barres",
@@ -15070,6 +17592,7 @@
         "cadenas avec clé",
         "clé",
         "fermé",
+        "sécurisé",
         "sûr",
         "verrouillé"
     ],
@@ -15083,10 +17606,9 @@
         "marteau et pic",
         "pic"
     ],
-    "🛠️": [
-        "clé à molette",
-        "marteau",
-        "marteau et clé à molette"
+    "💣️": [
+        "bande dessinée",
+        "bombe"
     ],
     "🪃": [
         "australie",
@@ -15103,27 +17625,31 @@
         "zodiaque"
     ],
     "🪚": [
-        "scie à bois"
-    ],
-    "🪛": [
+        "bois",
         "outil",
-        "tounevis",
-        "tournevis"
+        "scie",
+        "scie à bois",
+        "scie égoïne"
     ],
     "⚙️": [
         "engrenage",
         "outil"
     ],
     "🗜️": [
-        "serre-joint"
+        "outil",
+        "serre-joint",
+        "étau"
     ],
     "⚖️": [
         "balance",
         "balance à poids",
         "zodiaque"
     ],
-    "🔗": [
-        "chaînons"
+    "🪜": [
+        "barreau",
+        "escabeau",
+        "monter",
+        "échelle"
     ],
     "🔬": [
         "microscope",
@@ -15133,8 +17659,7 @@
     "🪞": [
         "glace",
         "miroir",
-        "réflecteur",
-        "réflexion"
+        "reflet"
     ],
     "🛋️": [
         "canapé",
@@ -15161,7 +17686,7 @@
         "piège à souris"
     ],
     "🧻": [
-        "essuie-mai",
+        "essuie-main",
         "essuie-tout",
         "papier hygiénique",
         "papier toilette",
@@ -15183,6 +17708,12 @@
         "panier",
         "panier d’épicerie",
         "shopping"
+    ],
+    "🧿": [
+        "amulette",
+        "mauvais œil",
+        "nazar",
+        "talisman"
     ],
     "🗿": [
         "moaï",
@@ -15213,7 +17744,9 @@
         "toilettes"
     ],
     "🚼️": [
-        "symbole bébé"
+        "bébé",
+        "symbole bébé",
+        "table à langer"
     ],
     "🚾": [
         "symbole Toilettes",
@@ -15532,7 +18065,12 @@
         "sens des aiguilles d’une montre"
     ],
     "▶": [
-        "bouton de lecture"
+        "bouton de lecture",
+        "bouton lecture",
+        "droite",
+        "flèche",
+        "lecture",
+        "triangle"
     ],
     "⏩": [
         "avance rapide",
@@ -15557,7 +18095,12 @@
         "triangle"
     ],
     "◀": [
-        "bouton de retour"
+        "bouton de retour",
+        "bouton retour",
+        "flèche",
+        "gauche",
+        "retour",
+        "triangle"
     ],
     "⏪": [
         "bouton de retour rapide",
@@ -15683,21 +18226,9 @@
         "signe de division",
         "÷"
     ],
-    "‼️": [
-        "double",
-        "double point d’exclamation",
-        "point d’exclamation",
-        "ponctuation"
-    ],
-    "⁉️": [
-        "point d’exclamation",
-        "point d’interrogation",
-        "points d’exclamation et d’interrogation",
-        "ponctuation",
-        "question"
-    ],
     "❓️": [
         "point d’interrogation",
+        "point d’interrogation rouge",
         "ponctuation",
         "question"
     ],
@@ -15726,6 +18257,10 @@
         "symbole du dollar en gras"
     ],
     "⚕️": [
+        "Asclépios",
+        "médecine",
+        "professionnel de la santé",
+        "symbole de la médecine",
         "symbole la médecine"
     ],
     "♻️": [
@@ -15777,8 +18312,11 @@
         "étoile à huit branches"
     ],
     "©️": [
+        "c",
         "copyright",
-        "symbole copyright"
+        "droit d’auteur",
+        "symbole copyright",
+        "©"
     ],
     "™️": [
         "marque de commerce",
@@ -15871,56 +18409,34 @@
         "lettres",
         "saisie"
     ],
-    "🅰️": [
-        "a",
-        "groupe sanguin",
-        "groupe sanguin A"
-    ],
-    "🆎": [
-        "ab",
-        "groupe sanguin",
-        "groupe sanguin AB"
-    ],
-    "🅱️": [
-        "ab",
-        "groupe sanguin",
-        "groupe sanguin B"
-    ],
     "🆑": [
         "bouton Effacer",
         "cl",
         "effacer"
     ],
     "🆓": [
-        "free"
+        "bouton free",
+        "free",
+        "gratuit"
     ],
     "ℹ️": [
         "i",
         "informations"
     ],
-    "🆔": [
-        "bouton Identifiant",
-        "id",
-        "identitfiant",
-        "identité"
-    ],
     "🆕": [
+        "bouton NEW",
         "bouton Nouveau",
         "new",
         "nouveau"
     ],
     "🆖": [
         "NG",
+        "bouton NG",
         "bouton Pas bien",
-        "interdit",
         "no go",
         "not good",
+        "pas bien",
         "pas bon"
-    ],
-    "🅾️": [
-        "groupe sanguin",
-        "groupe sanguin O",
-        "o"
     ],
     "🅿️": [
         "icône Stationnement",
@@ -16067,35 +18583,83 @@
     ],
     "🔴": [
         "cercle",
-        "disque rouge",
+        "disque",
         "géométrie",
         "rond",
         "rouge",
         "sphère"
     ],
     "🟠": [
-        "cercle orange"
+        "cercle",
+        "cercle orange",
+        "disque",
+        "géométrie",
+        "orange",
+        "rond",
+        "sphère"
     ],
     "🟡": [
-        "cercle jaune"
+        "cercle",
+        "cercle jaune",
+        "disque",
+        "géométrie",
+        "jaune",
+        "rond",
+        "sphère"
     ],
     "🟢": [
-        "cercle vert"
+        "cercle",
+        "cercle vert",
+        "disque",
+        "géométrie",
+        "rond",
+        "sphère",
+        "vert"
     ],
     "🔵": [
-        "rond bleu"
+        "bleu",
+        "cercle",
+        "disque",
+        "géométrie",
+        "rond",
+        "rond bleu",
+        "sphère"
     ],
     "🟣": [
-        "cercle violet"
+        "cercle",
+        "cercle violet",
+        "disque",
+        "géométrie",
+        "rond",
+        "sphère",
+        "violet"
     ],
     "🟤": [
-        "cercle brun"
+        "brun",
+        "cercle",
+        "cercle brun",
+        "disque",
+        "géométrie",
+        "rond",
+        "sphère"
     ],
     "⚫️": [
-        "rond noir"
+        "cercle",
+        "disque",
+        "géométrie",
+        "noir",
+        "rond",
+        "rond noir",
+        "sphère"
     ],
     "⚪️": [
-        "rond blanc"
+        "blanc",
+        "cercle",
+        "disque",
+        "géométrie",
+        "rond",
+        "rond blanc",
+        "sphère"
     ],
     "🟥": [
         "carré",
@@ -16122,6 +18686,8 @@
         "violet"
     ],
     "🟫": [
+        "brun",
+        "carré",
         "carré brun"
     ],
     "◼️": [
@@ -16148,16 +18714,19 @@
         "grand losange",
         "grand losange orange",
         "géométrie",
+        "losange",
         "orange"
     ],
     "🔷": [
         "bleu",
         "grand losange",
         "grand losange bleu",
-        "géométrie"
+        "géométrie",
+        "losange"
     ],
     "🔸": [
         "géométrie",
+        "losange",
         "orange",
         "petit losange",
         "petit losange orange"
@@ -16165,6 +18734,7 @@
     "🔹": [
         "bleu",
         "géométrie",
+        "losange",
         "petit losange",
         "petit losange bleu"
     ],
@@ -16482,7 +19052,7 @@
         "drapeau : Grèce"
     ],
     "🇬🇸": [
-        "drapeau : Géorgie du Sud et îles Sandwich du Sud"
+        "drapeau : Géorgie du Sud-et-les Îles Sandwich du Sud"
     ],
     "🇬🇹": [
         "drapeau : Guatemala"
@@ -16981,6 +19551,51 @@
     ],
     "🏴󠁧󠁢󠁷󠁬󠁳󠁿": [
         "drapeau : Pays de Galles"
+    ],
+    "¤": [
+        "Devise inconnue"
+    ],
+    "₣": [
+        "devise",
+        "franc",
+        "franc français"
+    ],
+    "₤": [
+        "devise",
+        "lire"
+    ],
+    "₥": [
+        "mill"
+    ],
+    "₭": [
+        "kip laotien"
+    ],
+    "₰": [
+        "devise",
+        "penny allemand"
+    ],
+    "₳": [
+        "austral",
+        "devise"
+    ],
+    "₶": [
+        "devise",
+        "livre tournois"
+    ],
+    "₷": [
+        "devise",
+        "spesmilo"
+    ],
+    "₼": [
+        "manat azerbaïdjanais"
+    ],
+    "₨": [
+        "devise",
+        "roupie"
+    ],
+    "﷼": [
+        "devise",
+        "rial"
     ],
     "🏻": [
         "peau",

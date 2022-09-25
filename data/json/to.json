@@ -1,4 +1,1311 @@
 {
+    "‾": [
+        "kohi hake"
+    ],
+    "_": [
+        "fakaʻilonga",
+        "hifo",
+        "kohi",
+        "kohi hifo"
+    ],
+    "-": [
+        "fakaʻilonga",
+        "haifine",
+        "haifine-kole",
+        "kohi",
+        "kole"
+    ],
+    "‐": [
+        "fakaʻilonga",
+        "haifine",
+        "kohi"
+    ],
+    "–": [
+        "fakaʻilonga",
+        "kohi",
+        "kohi nounou",
+        "nounou"
+    ],
+    "—": [
+        "fakaʻilonga",
+        "kohi",
+        "kohi lōloa",
+        "lōloa"
+    ],
+    "―": [
+        "fakalava",
+        "fakaʻilonga",
+        "kohi",
+        "kohi fakalava"
+    ],
+    "・": [
+        "fakasiapani",
+        "fakaʻilonga",
+        "loto",
+        "toti",
+        "toti ʻi loto fakasiapani"
+    ],
+    ",": [
+        "fakaʻilonga",
+        "koma"
+    ],
+    "،": [
+        "fakaʻalepea",
+        "fakaʻilonga",
+        "koma",
+        "koma fakaʻalepea"
+    ],
+    "、": [
+        "fakaʻilonga",
+        "fakaʻēsia",
+        "koma",
+        "koma fakaʻēsia"
+    ],
+    ";": [
+        "fakaʻilonga",
+        "semikoloni"
+    ],
+    "؛": [
+        "fakaʻalepea",
+        "fakaʻilonga",
+        "semikoloni",
+        "semikoloni fakaʻalepea"
+    ],
+    ":": [
+        "fakaʻilonga",
+        "koloni"
+    ],
+    "!": [
+        "fakaʻilonga",
+        "kalanga"
+    ],
+    "¡": [
+        "fakaʻilonga",
+        "fulihi",
+        "kalanga",
+        "kalanga fulihi"
+    ],
+    "?": [
+        "fakaʻilonga",
+        "fehuʻi"
+    ],
+    "¿": [
+        "fakaʻilonga",
+        "fehuʻi",
+        "fehuʻi fulihi",
+        "fulihi"
+    ],
+    "؟": [
+        "fakaʻalepea",
+        "fakaʻilonga",
+        "fehuʻi",
+        "fehuʻi fakaʻalepea"
+    ],
+    "‽": [
+        "fehuʻikalanga"
+    ],
+    ".": [
+        "fakaʻilonga",
+        "piliote",
+        "toti"
+    ],
+    "…": [
+        "fakaʻilonga",
+        "tolu",
+        "toti",
+        "totitolu"
+    ],
+    "。": [
+        "fakaʻilonga",
+        "fakaʻēsia",
+        "toti",
+        "toti fakaʻēsia"
+    ],
+    "·": [
+        "fakaʻilonga",
+        "loto",
+        "toti",
+        "toti ʻi loto"
+    ],
+    "'": [
+        "fakaʻilonga",
+        "lea hiki",
+        "lea hiki hika"
+    ],
+    "‘": [
+        "fakaʻilonga",
+        "lea hiki",
+        "lea hiki hema"
+    ],
+    "’": [
+        "fakaʻilonga",
+        "lea hiki",
+        "lea hiki mataʻu"
+    ],
+    "‚": [
+        "fakaʻilonga",
+        "lea hiki",
+        "lea hiki mataʻu hifo"
+    ],
+    "“": [
+        "fakaʻilonga",
+        "lea hiki",
+        "lea hiki lōua hema",
+        "ua"
+    ],
+    "”": [
+        "fakaʻilonga",
+        "lea hiki",
+        "lea hiki lōua mataʻu",
+        "ua"
+    ],
+    "„": [
+        "fakaʻilonga",
+        "lea hiki",
+        "lea hiki lōua mataʻu hifo",
+        "ua"
+    ],
+    "«": [
+        "fakaʻilonga",
+        "lea hiki",
+        "lea hiki fakatouliki lōua hema",
+        "touliki",
+        "ua"
+    ],
+    "»": [
+        "fakaʻilonga",
+        "lea hiki",
+        "lea hiki fakatouliki lōua mataʻu",
+        "touliki",
+        "ua"
+    ],
+    ")": [
+        "fakaʻilonga",
+        "haʻi",
+        "haʻi tuku"
+    ],
+    "[": [
+        "fakaʻilonga",
+        "haʻi",
+        "haʻi tapafā toʻo",
+        "tapafā"
+    ],
+    "]": [
+        "fakaʻilonga",
+        "haʻi",
+        "haʻi tapafā tuku",
+        "tapafā"
+    ],
+    "{": [
+        "fakaʻilonga",
+        "haʻi",
+        "haʻi mingimingi toʻo",
+        "mingimingi"
+    ],
+    "}": [
+        "fakaʻilonga",
+        "haʻi",
+        "haʻi mingimingi tuku",
+        "mingimingi"
+    ],
+    "〈": [
+        "afeitui",
+        "fakaʻilonga",
+        "haʻi",
+        "haʻi afeitui toʻo"
+    ],
+    "〉": [
+        "afeitui",
+        "fakaʻilonga",
+        "haʻi",
+        "haʻi afeitui tuku"
+    ],
+    "《": [
+        "afeitui",
+        "afeitui lōua toʻo",
+        "fakaʻilonga",
+        "haʻi",
+        "haʻi afeitui lōua toʻo",
+        "ua"
+    ],
+    "》": [
+        "afeitui",
+        "fakaʻilonga",
+        "haʻi",
+        "haʻi afeitui lōua tuku",
+        "ua"
+    ],
+    "「": [
+        "fakaʻilonga",
+        "haʻi",
+        "haʻi tuliki toʻo",
+        "tuliki"
+    ],
+    "」": [
+        "fakaʻilonga",
+        "haʻi",
+        "haʻi tuliki tuku",
+        "tuliki"
+    ],
+    "『": [
+        "fakaʻilonga",
+        "fakaʻilonga haʻi ngeʻesi tuliki toʻo",
+        "haʻi",
+        "ngeʻesi",
+        "ngeʻesi haʻi tuliki toʻo",
+        "tuliki"
+    ],
+    "』": [
+        "fakaʻilonga",
+        "haʻi",
+        "ngeʻesi",
+        "ngeʻesi haʻi tuliki tuku",
+        "tuliki"
+    ],
+    "【": [
+        "fakaʻilonga",
+        "haʻi",
+        "haʻi sioʻata ʻesiafi toʻo",
+        "ngeʻesi haʻi sioʻata toʻo",
+        "sioʻata ʻesiafi"
+    ],
+    "】": [
+        "fakaʻilonga",
+        "haʻi",
+        "haʻi sioʻata ʻesiafi tuku",
+        "sioʻata ʻesiafi"
+    ],
+    "〔": [
+        "fakaʻilonga",
+        "haʻi",
+        "haʻi ʻuno toʻo",
+        "ʻuno"
+    ],
+    "〕": [
+        "fakaʻilonga",
+        "haʻi",
+        "haʻi ʻuno tuku",
+        "ʻuno"
+    ],
+    "〖": [
+        "fakaʻilonga",
+        "haʻi",
+        "ngeʻesi",
+        "ngeʻesi haʻi sioʻata ʻesiafi toʻo",
+        "sioʻata ʻesiafi"
+    ],
+    "〗": [
+        "fakaʻilonga",
+        "haʻi",
+        "ngeʻesi",
+        "ngeʻesi haʻi sioʻata ʻesiafi tuku",
+        "sioʻata ʻesiafi"
+    ],
+    "§": [
+        "fakaʻilonga",
+        "kupu"
+    ],
+    "¶": [
+        "fakaʻilonga",
+        "palakalafi"
+    ],
+    "@": [
+        "fakaʻilonga",
+        "hiku vilovilo"
+    ],
+    "*️": [
+        "fakafetuʻu",
+        "fakaʻilonga"
+    ],
+    "/": [
+        "fakaʻilonga",
+        "kohi",
+        "kohimuʻa",
+        "muʻa"
+    ],
+    "\\": [
+        "fakaʻilonga",
+        "kohi",
+        "kohimui",
+        "mui"
+    ],
+    "&": [
+        "fakaʻilonga",
+        "mo",
+        "pea",
+        "pea-mo"
+    ],
+    "#️": [
+        "fakaʻilonga",
+        "fetāʻoaki"
+    ],
+    "%": [
+        "fakaʻilonga",
+        "peseti"
+    ],
+    "‰": [
+        "fakaʻilonga",
+        "pemila"
+    ],
+    "†": [
+        "fakaʻilonga",
+        "fakaʻilonga heletui",
+        "heletui"
+    ],
+    "‡": [
+        "fakaʻilonga",
+        "heletui",
+        "heletui lōua"
+    ],
+    "•": [
+        "fakaʻilonga",
+        "fakaʻilonga toti",
+        "pulukōkō"
+    ],
+    "‧": [
+        "fakaʻilonga",
+        "haifine",
+        "toti",
+        "toti fakahaifine"
+    ],
+    "′": [
+        "fakaʻilonga",
+        "fakaʻilonga tiki",
+        "tiki"
+    ],
+    "″": [
+        "fakaʻilonga",
+        "lōua",
+        "tiki",
+        "tiki lōua"
+    ],
+    "‴": [
+        "fakaʻilonga",
+        "lōtolu",
+        "tiki",
+        "tiki lōtolu"
+    ],
+    "‸": [
+        "liʻaki"
+    ],
+    "※": [
+        "fakaʻilonga",
+        "tukuatu"
+    ],
+    "⁂": [
+        "ʻū fetuʻu"
+    ],
+    "`": [
+        "fakamamafa",
+        "fakamamafa kehe",
+        "kehe"
+    ],
+    "´": [
+        "fakamamafa",
+        "fakamamafa tonga",
+        "tonga"
+    ],
+    "^": [
+        "fakamamafa",
+        "fakamamafa tatā",
+        "hake",
+        "tatā"
+    ],
+    "¨": [
+        "fakamamafa",
+        "fakamamafa totiua",
+        "toti",
+        "ua"
+    ],
+    "°": [
+        "fakaʻilonga",
+        "tikili"
+    ],
+    "℗": [
+        "fakaʻilonga",
+        "mafai-pulusi",
+        "ongo",
+        "ongo mafai-pulusi"
+    ],
+    "←": [
+        "hema",
+        "ngahau",
+        "ngahau ki toʻohema",
+        "ngahau siʻi ki toʻohema"
+    ],
+    "↚": [
+        "ngahau ki toʻohema moe kohi"
+    ],
+    "→": [
+        "mataʻu",
+        "ngahau",
+        "ngahau ki toʻomataʻu",
+        "ngahau siʻi ki toʻomataʻu"
+    ],
+    "↛": [
+        "ngahau ki toʻomataʻu moe kohi"
+    ],
+    "↑": [
+        "hake",
+        "ngahau",
+        "ngahau ki ʻolunga",
+        "ngahau siʻi ki ʻolunga",
+        "ʻolunga"
+    ],
+    "↓": [
+        "hifo",
+        "lalo",
+        "ngahau",
+        "ngahau ki lalo",
+        "ngahau siʻi ki lalo"
+    ],
+    "↜": [
+        "ngahau ki toʻohema fafasi"
+    ],
+    "↝": [
+        "ngahau ki toʻomataʻu fafasi"
+    ],
+    "↞": [
+        "ngahau ʻuluua ki toʻohema"
+    ],
+    "↟": [
+        "ngahau ʻuluua ki ʻolunga"
+    ],
+    "↠": [
+        "ngahau ʻuluua ki toʻomataʻu"
+    ],
+    "↡": [
+        "ngahau ʻuluua ki lalo"
+    ],
+    "↢": [
+        "ngahau ki toʻohema moe hiku"
+    ],
+    "↣": [
+        "ngahau ki toʻomataʻu moe hiku"
+    ],
+    "↤": [
+        "ngahau ki toʻohema meihe pā"
+    ],
+    "↥": [
+        "ngahau ki ʻolunga meihe pā"
+    ],
+    "↦": [
+        "ngahau ki toʻomataʻu meihe pā"
+    ],
+    "↧": [
+        "ngahau ki lalo meihe pā"
+    ],
+    "↨": [
+        "ngahau ki ʻolunga mo lalo moe tuʻunga"
+    ],
+    "↫": [
+        "ngahau ki toʻohema fakakahoa"
+    ],
+    "↬": [
+        "ngahau ki toʻomataʻu fakakahoa"
+    ],
+    "↭": [
+        "ngahau ki toʻohema-mataʻu fafasi"
+    ],
+    "↯": [
+        "ngahau ki lalo fepikopikoaki"
+    ],
+    "↰": [
+        "ngahau ki ʻolunga afe ki toʻohema"
+    ],
+    "↱": [
+        "ngahau ki ʻolunga afe ki toʻomataʻu"
+    ],
+    "↲": [
+        "ngahau ki lalo afe ki toʻohema"
+    ],
+    "↳": [
+        "ngahau ki lalo afe ki toʻomataʻu"
+    ],
+    "↴": [
+        "ngahau ki toʻomataʻu tafihu ki lalo"
+    ],
+    "↵": [
+        "ngahau ki lalo tafihu ki toʻohema"
+    ],
+    "↶": [
+        "ngahau vilovilo vaeuahake toʻohema"
+    ],
+    "↷": [
+        "ngahau vilovilo vaeuahake toʻomataʻu"
+    ],
+    "↸": [
+        "ngahau tokelau-hihifo moe pā lōloa"
+    ],
+    "↹": [
+        "ngahau ki toʻohema ʻi olunga ʻoe toʻomataʻu moe pā"
+    ],
+    "↺": [
+        "ngahau ava vilovilo toʻohema"
+    ],
+    "↻": [
+        "ngahau ava vilovilo toʻomataʻu"
+    ],
+    "↼": [
+        "taovelo talahake ki toʻohema"
+    ],
+    "↽": [
+        "taovelo talahifo ki toʻohema"
+    ],
+    "↾": [
+        "taovelo talamataʻu ki ʻolunga"
+    ],
+    "↿": [
+        "taovelo talahema ki ʻolunga"
+    ],
+    "⇀": [
+        "taovelo talahake ki toʻomataʻu"
+    ],
+    "⇁": [
+        "taovelo talahifo ki toʻomataʻu"
+    ],
+    "⇂": [
+        "taovelo talamataʻu ki lalo"
+    ],
+    "⇃": [
+        "taovelo talahema ki lalo"
+    ],
+    "⇄": [
+        "ngahau ki toʻomataʻu ʻi olunga ʻoe toʻohema"
+    ],
+    "⇅": [
+        "hake",
+        "hifo",
+        "lalo",
+        "ongo ngahau",
+        "ongo ngahau ki ʻolunga mo lalo",
+        "ʻolunga"
+    ],
+    "⇆": [
+        "hema",
+        "mataʻu",
+        "ongo ngahau",
+        "ongo ngahau ki toʻomataʻu mo toʻohema"
+    ],
+    "⇇": [
+        "ngahau fakahoa ki toʻohema"
+    ],
+    "⇈": [
+        "ngahau fakahoa ki ʻolunga"
+    ],
+    "⇉": [
+        "ngahau fakahoa ki toʻomataʻu"
+    ],
+    "⇊": [
+        "ngahau fakahoa ki lalo"
+    ],
+    "⇋": [
+        "taovelo ki toʻohema ʻi olunga ʻoe toʻomataʻu"
+    ],
+    "⇌": [
+        "taovelo ki toʻomataʻu ʻi olunga ʻoe toʻohema"
+    ],
+    "⇐": [
+        "ngahau lōua ki toʻohema"
+    ],
+    "⇍": [
+        "ngahau lōua ki toʻohema moe kohi"
+    ],
+    "⇑": [
+        "ngahau lōua ki ʻolunga"
+    ],
+    "⇒": [
+        "ngahau lōua ki toʻomataʻu"
+    ],
+    "⇏": [
+        "ngahau lōua ki toʻomataʻu moe kohi"
+    ],
+    "⇓": [
+        "ngahau lōua ki lalo"
+    ],
+    "⇔": [
+        "ngahau lōua ki toʻohema-mataʻu"
+    ],
+    "⇎": [
+        "ngahau lōua ki toʻohema-mataʻu moe kohi"
+    ],
+    "⇖": [
+        "ngahau lōua ki tokelauhihifo"
+    ],
+    "⇗": [
+        "ngahau lōua ki tokelauhahake"
+    ],
+    "⇘": [
+        "ngahau lōua ki tongahahake"
+    ],
+    "⇙": [
+        "ngahau lōua ki tongahihifo"
+    ],
+    "⇚": [
+        "ngahau lōtolu ki toʻohema"
+    ],
+    "⇛": [
+        "ngahau lōtolu ki toʻomataʻu"
+    ],
+    "⇜": [
+        "ngahau tafihifihu ki toʻohema"
+    ],
+    "⇝": [
+        "ngahau tafihifihu ki toʻomataʻu"
+    ],
+    "⇞": [
+        "ngahau ki ʻolunga moe kohi lōua"
+    ],
+    "⇟": [
+        "ngahau ki lalo moe kohi lōua"
+    ],
+    "⇠": [
+        "ngahau kohikohi ki toʻohema"
+    ],
+    "⇡": [
+        "ngahau kohikohi ki ʻolunga"
+    ],
+    "⇢": [
+        "ngahau kohikohi ki toʻomataʻu"
+    ],
+    "⇣": [
+        "ngahau kohikohi ki lalo"
+    ],
+    "⇤": [
+        "ngahau ki toʻohema moe pā"
+    ],
+    "⇥": [
+        "ngahau ki toʻomataʻu moe pā"
+    ],
+    "⇦": [
+        "ngeʻesi ngahau ki toʻohema"
+    ],
+    "⇧": [
+        "ngeʻesi ngahau ki ʻolunga"
+    ],
+    "⇨": [
+        "ngeʻesi ngahau ki toʻomataʻu"
+    ],
+    "⇩": [
+        "ngeʻesi ngahau ki lalo"
+    ],
+    "⇪": [
+        "ngeʻesi ngahau ki olunga meihe pā"
+    ],
+    "⇵": [
+        "ngahau ki lalo mo ki ʻolunga"
+    ],
+    "∀": [
+        "kātoa"
+    ],
+    "∂": [
+        "faikehekehe fakakonga"
+    ],
+    "∃": [
+        "ʻoku ʻi ai"
+    ],
+    "∅": [
+        "ngeʻesi seti"
+    ],
+    "∆": [
+        "fakaʻilonga",
+        "tuputaha"
+    ],
+    "∇": [
+        "fakaʻilonga",
+        "fulihi",
+        "tapatolu",
+        "tapatolu fulihi"
+    ],
+    "∈": [
+        "fakaʻilonga",
+        "konga",
+        "ʻelemēniti"
+    ],
+    "∉": [
+        "ʻikai ha memipa"
+    ],
+    "∋": [
+        "memipa ʻoku faʻo"
+    ],
+    "∎": [
+        "ngataʻanga ʻoe fakamoʻoni"
+    ],
+    "∏": [
+        "liunga lōlahi"
+    ],
+    "∑": [
+        "tānaki lōlahi"
+    ],
+    "+": [
+        "fakaʻilonga",
+        "tānaki"
+    ],
+    "±": [
+        "fakaʻilonga",
+        "kole",
+        "tānaki",
+        "tānaki-kole"
+    ],
+    "÷": [
+        "fakaʻilonga",
+        "vahevahe"
+    ],
+    "×": [
+        "fakaʻilonga",
+        "liunga"
+    ],
+    "<": [
+        "fakaʻilonga",
+        "hifo",
+        "siʻi",
+        "siʻihifo"
+    ],
+    "≮": [
+        "ʻikai siʻihifo"
+    ],
+    "=": [
+        "fakaʻilonga",
+        "tatau"
+    ],
+    "≠": [
+        "fakaʻilonga",
+        "tatau",
+        "taʻe",
+        "taʻetatau",
+        "ʻikai"
+    ],
+    ">": [
+        "fakaʻilonga",
+        "hake",
+        "lahi",
+        "lahihake"
+    ],
+    "≯": [
+        "ʻikai lahihake"
+    ],
+    "¬": [
+        "fakaʻikai",
+        "fakaʻilonga",
+        "ʻikai"
+    ],
+    "|": [
+        "fakaʻilonga",
+        "laine tuʻutonu",
+        "tuʻutonu"
+    ],
+    "~": [
+        "fafasi",
+        "fakaʻilonga",
+        "peau"
+    ],
+    "−": [
+        "fakaʻilonga",
+        "kole"
+    ],
+    "⁻": [
+        "fakaʻilonga",
+        "hake",
+        "kole",
+        "kole hake"
+    ],
+    "∓": [
+        "kole pe tānaki"
+    ],
+    "∕": [
+        "kohi vahevahe"
+    ],
+    "⁄": [
+        "kohi fakakiseni"
+    ],
+    "∗": [
+        "fakafuofua fakafetuʻu"
+    ],
+    "∘": [
+        "fakafuofua mama"
+    ],
+    "∙": [
+        "fakafuofua pulukōkō"
+    ],
+    "√": [
+        "aka-tautakele",
+        "fakaʻilonga"
+    ],
+    "∝": [
+        "fakahoatatau ki"
+    ],
+    "∞": [
+        "fakaʻilonga",
+        "taʻengata"
+    ],
+    "∟": [
+        "tuliki totonu"
+    ],
+    "∠": [
+        "tuliki"
+    ],
+    "∣": [
+        "vahe"
+    ],
+    "∥": [
+        "palāleli"
+    ],
+    "∧": [
+        "pea mo"
+    ],
+    "∩": [
+        "fakaʻilonga",
+        "fehauaki"
+    ],
+    "∪": [
+        "fakaʻilonga",
+        "fekauʻaki"
+    ],
+    "∴": [
+        "ko ia ai"
+    ],
+    "∵": [
+        "koeʻuhi"
+    ],
+    "∷": [
+        "hoatatau"
+    ],
+    "∼": [
+        "fakafuofua fafasi"
+    ],
+    "∽": [
+        "fakafuofua fafasi fulihi"
+    ],
+    "∾": [
+        "ʻesa fakapikopiko mo fulihi"
+    ],
+    "≃": [
+        "tatau ʻihe taʻengata"
+    ],
+    "≅": [
+        "ngali tatau"
+    ],
+    "≈": [
+        "fakaʻilonga",
+        "meimei",
+        "meimeitatau",
+        "tatau"
+    ],
+    "≌": [
+        "tatau kātoa"
+    ],
+    "≒": [
+        "meimei tatau fakaʻēsia"
+    ],
+    "≖": [
+        "mama ʻi loto tatau"
+    ],
+    "≡": [
+        "fakaʻilonga",
+        "tatau",
+        "tuʻupau"
+    ],
+    "≣": [
+        "tatau kātoa ʻaupito"
+    ],
+    "≤": [
+        "fakaʻilonga",
+        "hifo",
+        "siʻi",
+        "siʻihifo pe tatau",
+        "tatau"
+    ],
+    "≥": [
+        "fakaʻilonga",
+        "hake",
+        "lahi",
+        "lahihake pe tatau",
+        "tatau"
+    ],
+    "≦": [
+        "siʻihifo ʻihe tatau"
+    ],
+    "≧": [
+        "lahihake ʻihe tatau"
+    ],
+    "≪": [
+        "fuʻu siʻihifo"
+    ],
+    "≫": [
+        "fuʻu lahihake"
+    ],
+    "≬": [
+        "vahaʻa"
+    ],
+    "≳": [
+        "lahihake fafasi"
+    ],
+    "≺": [
+        "tōmuʻa"
+    ],
+    "≻": [
+        "tōmui"
+    ],
+    "⊁": [
+        "ʻikai tōmui"
+    ],
+    "⊂": [
+        "fakakonga",
+        "fakaʻilonga",
+        "konga"
+    ],
+    "⊃": [
+        "fakafano"
+    ],
+    "⊆": [
+        "fakakonga tatau"
+    ],
+    "⊇": [
+        "fakafano tatau"
+    ],
+    "⊕": [
+        "tānaki fakafuopotopoto"
+    ],
+    "⊖": [
+        "kole fakafuopotopoto"
+    ],
+    "⊗": [
+        "liunga fakafuopotopoto"
+    ],
+    "⊘": [
+        "vahevahe fakafuopotopoto"
+    ],
+    "⊙": [
+        "toti fakafuopotopoto"
+    ],
+    "⊚": [
+        "mama fakafuopotopoto"
+    ],
+    "⊛": [
+        "fakafetuʻu fakafuopotopoto"
+    ],
+    "⊞": [
+        "tānaki fakatapafā"
+    ],
+    "⊟": [
+        "kole fakatapafā"
+    ],
+    "⊥": [
+        "foʻi tākisi hake"
+    ],
+    "⊮": [
+        "ʻikai fakamālohi"
+    ],
+    "⊰": [
+        "tōmuʻa felāveʻi"
+    ],
+    "⊱": [
+        "tōmui felāveʻi"
+    ],
+    "⋭": [
+        "ʻIkai ʻi ai ha pupunga fakakonga totonu tatau"
+    ],
+    "⊶": [
+        "tupuʻi"
+    ],
+    "⊹": [
+        "fakatokaʻanga fika fakahoa fakahēmitia"
+    ],
+    "⊿": [
+        "tapatolu hangatonu"
+    ],
+    "⋁": [
+        "pe fakaʻuhingatotonu lōlahi"
+    ],
+    "⋂": [
+        "fehauaki lōlahi"
+    ],
+    "⋃": [
+        "iunioni lōlahi"
+    ],
+    "⋅": [
+        "fakafuofua toti"
+    ],
+    "⋆": [
+        "fakafuofua fetuʻu"
+    ],
+    "⋈": [
+        "hoko totonu"
+    ],
+    "⋒": [
+        "fehauaki lōua"
+    ],
+    "⋘": [
+        "siʻihifo ʻaupito"
+    ],
+    "⋙": [
+        "lahihake ʻaupito"
+    ],
+    "⋮": [
+        "totitolu tuʻutonu"
+    ],
+    "⋯": [
+        "totitolu lotoloto fakalava"
+    ],
+    "⋰": [
+        "totitolu hemehema hake"
+    ],
+    "⋱": [
+        "totitolu hemehema hifo"
+    ],
+    "■": [
+        "tapafā fonu"
+    ],
+    "□": [
+        "ngeʻesi tapafā"
+    ],
+    "▢": [
+        "ngeʻesi tapafā moe tuliki fuopotopoto"
+    ],
+    "▣": [
+        "tapafā fonu ʻi loto ʻoe ngeʻesi tapafā"
+    ],
+    "▤": [
+        "tapafā fonu he meʻa fakalava"
+    ],
+    "▥": [
+        "tapafā fonu he meʻa tuʻutonu"
+    ],
+    "▦": [
+        "tapafā fonu he lalava tuʻutonu"
+    ],
+    "▧": [
+        "tapafā fonu he meʻa hemehema hifo"
+    ],
+    "▨": [
+        "tapafā fonu he meʻa hemehema hake"
+    ],
+    "▩": [
+        "tapafā fonu he lalava hemehema"
+    ],
+    "▬": [
+        "tapafā tuliki-totonu fonu"
+    ],
+    "▭": [
+        "ngeʻesi tapafā tuliki-totonu"
+    ],
+    "▮": [
+        "tapafā tuliki-totonu fakatuʻu fonu"
+    ],
+    "▰": [
+        "tapafā palāleli fonu"
+    ],
+    "▲": [
+        "fonu",
+        "hake",
+        "tapatolu",
+        "tapatolu fonu ki ʻolunga",
+        "ʻolunga"
+    ],
+    "△": [
+        "ngeʻesi tapatolu ki ʻolunga"
+    ],
+    "▴": [
+        "tapatolu siʻi fonu ki ʻolunga"
+    ],
+    "▵": [
+        "ngeʻesi tapatolu siʻi ki ʻolunga"
+    ],
+    "▷": [
+        "ngeʻesi tapatolu ki toʻomataʻu"
+    ],
+    "▸": [
+        "tapatolu siʻi fonu ki toʻomataʻu"
+    ],
+    "▹": [
+        "ngeʻesi tapatolu siʻi ki toʻomataʻu"
+    ],
+    "►": [
+        "hui fonu ki toʻomataʻu"
+    ],
+    "▻": [
+        "ngeʻesi hui ki toʻomataʻu"
+    ],
+    "▼": [
+        "fonu",
+        "hifo",
+        "lalo",
+        "tapatolu",
+        "tapatolu fonu ki lalo"
+    ],
+    "▽": [
+        "ngeʻesi tapatolu ki lalo"
+    ],
+    "▾": [
+        "tapatolu siʻi fonu ki lalo"
+    ],
+    "▿": [
+        "ngeʻesi tapatolu siʻi ki lalo"
+    ],
+    "◁": [
+        "ngeʻesi tapatolu ki toʻohema"
+    ],
+    "◂": [
+        "tapatolu siʻi fonu ki toʻohema"
+    ],
+    "◃": [
+        "ngeʻesi tapatolu siʻi ki toʻohema"
+    ],
+    "◄": [
+        "hui fonu ki toʻohema"
+    ],
+    "◅": [
+        "ngeʻesi hui ki toʻohema"
+    ],
+    "◆": [
+        "taiamoni fonu"
+    ],
+    "◇": [
+        "ngeʻesi taiamoni"
+    ],
+    "◈": [
+        "taiamoni fonu ʻi loto ʻoe ngeʻesi taiamoni"
+    ],
+    "◉": [
+        "fuopotopoto fonu ʻi loto ʻoe ngeʻesi fuopotopoto"
+    ],
+    "◊": [
+        "mafao",
+        "taiamoni",
+        "taiamoni mafao"
+    ],
+    "○": [
+        "fuopotopoto",
+        "ngeʻesi",
+        "ngeʻesi fuopotopoto"
+    ],
+    "◌": [
+        "fuopotopoto fakatoti"
+    ],
+    "◍": [
+        "fuopotopoto fonu he meʻa tuʻutonu"
+    ],
+    "◎": [
+        "fuopotopoto fakatumuʻaki-taha"
+    ],
+    "●": [
+        "fonu",
+        "fuopotopoto",
+        "fuopotopoto fonu"
+    ],
+    "◐": [
+        "fuopotopoto fonu ʻi toʻohema"
+    ],
+    "◑": [
+        "fuopotopoto fonu ʻi toʻomataʻu"
+    ],
+    "◒": [
+        "fuopotopoto fonu ʻi lalo"
+    ],
+    "◓": [
+        "fuopotopoto fonu ʻi ʻolunga"
+    ],
+    "◔": [
+        "fuopotopoto fonu ʻihe vahefā toʻomataʻu-ʻolunga"
+    ],
+    "◕": [
+        "fuopotopoto maha ʻihe vahefā toʻohema-ʻolunga"
+    ],
+    "◖": [
+        "fuopotopoto fonu vaeua toʻohema"
+    ],
+    "◗": [
+        "fuopotopoto fonu vaeua toʻomataʻu"
+    ],
+    "◘": [
+        "pulukōkō fulihi"
+    ],
+    "◙": [
+        "ngeʻesi fuopotopoto ʻi loto ʻoe tapafā fonu"
+    ],
+    "◜": [
+        "fuopotopoto vahefā toʻohema-ʻolunga"
+    ],
+    "◝": [
+        "fuopotopoto vahefā toʻomataʻu-ʻolunga"
+    ],
+    "◞": [
+        "fuopotopoto vahefā toʻomataʻu-lalo"
+    ],
+    "◟": [
+        "fuopotopoto vahefā toʻohema-lalo"
+    ],
+    "◠": [
+        "fuopotopoto vaeua ʻi ʻolunga"
+    ],
+    "◡": [
+        "fuopotopoto vaeua ʻi lalo"
+    ],
+    "◢": [
+        "tapafā fonu toʻomataʻu-lalo"
+    ],
+    "◣": [
+        "tapafā fonu toʻohema-lalo"
+    ],
+    "◤": [
+        "tapafā fonu toʻohema-ʻolunga"
+    ],
+    "◥": [
+        "tapafā fonu toʻomataʻu-ʻolunga"
+    ],
+    "◦": [
+        "ngeʻesi pulukōkō"
+    ],
+    "◯": [
+        "fuopotopoto",
+        "ngeʻesi",
+        "ngeʻesi fuopotopoto lahi"
+    ],
+    "◳": [
+        "ngeʻesi tapafā vahefā toʻomataʻu-ʻolunga"
+    ],
+    "◷": [
+        "ngeʻesi fuopotopoto vahefā toʻomataʻu-ʻolunga"
+    ],
+    "◿": [
+        "tapatolu toʻomataʻu-lalo"
+    ],
+    "♪": [
+        "nota vaevalu",
+        "tuʻungafasi"
+    ],
+    "⨧": [
+        "tānaki kohi ua"
+    ],
+    "⨯": [
+        "liunga ʻotufika ʻi tuʻa"
+    ],
+    "⨼": [
+        "liunga ʻotufika ʻi loto"
+    ],
+    "⩣": [
+        "pe fakaʻuhingatotonu pā lōua hake"
+    ],
+    "⩽": [
+        "siʻihifo tatau fakahei"
+    ],
+    "⪍": [
+        "siʻihifo moe meimei tatau"
+    ],
+    "⪚": [
+        "laine lōua tatau lahihake"
+    ],
+    "⪺": [
+        "tōmui ʻikai meimei tatau hake"
+    ],
+    "♭": [
+        "falati",
+        "tuʻungafasi"
+    ],
+    "♯": [
+        "saapa",
+        "tuʻungafasi"
+    ],
     "😀": [
         "mata fiefia"
     ],
@@ -28,6 +1335,12 @@
     ],
     "🙃": [
         "mata fulihi"
+    ],
+    "🫠": [
+        "mata",
+        "mata vaia",
+        "puli",
+        "vaia"
     ],
     "😉": [
         "mata fakakuitaha"
@@ -89,11 +1402,29 @@
     "🤭": [
         "mata moe nima ʻi muʻa ʻoe ngutu"
     ],
+    "🫢": [
+        "mata",
+        "mata matalahi moe nima ʻi muʻa ʻoe ngutu",
+        "teteki",
+        "ʻohovale"
+    ],
+    "🫣": [
+        "ilifia",
+        "mata",
+        "mata moe foʻimata tauasi",
+        "tauasi"
+    ],
     "🤫": [
         "mata fiemaʻu fakalongolongo"
     ],
     "🤔": [
         "mataʻi fakakaukau"
+    ],
+    "🫡": [
+        "fetapa",
+        "mata",
+        "mata fetapa",
+        "salute"
     ],
     "🤐": [
         "mata moe ngutu meʻa-fakamaʻu-fusi"
@@ -108,7 +1439,19 @@
         "mata matanoa"
     ],
     "😶": [
-        "mata taʻe ngutu"
+        "mata",
+        "mata taʻengutu",
+        "ngutu",
+        "ʻikai"
+    ],
+    "🫥": [
+        "mata",
+        "mata fakalaine toti",
+        "puli",
+        "taʻehāmai"
+    ],
+    "😶‍🌫": [
+        "mata ʻihe ʻao"
     ],
     "😏": [
         "mata katakata manuki"
@@ -121,6 +1464,9 @@
     ],
     "😬": [
         "mata mioʻi"
+    ],
+    "😮‍💨": [
+        "mata hō"
     ],
     "🤥": [
         "mata moe ihu lōloa"
@@ -170,6 +1516,9 @@
     "😵": [
         "mata ninimo"
     ],
+    "😵‍💫": [
+        "mata takatakai"
+    ],
     "🤯": [
         "mata pahū"
     ],
@@ -194,6 +1543,12 @@
     "😕": [
         "mata puputuʻu"
     ],
+    "🫤": [
+        "fakahihifi",
+        "mata",
+        "mata ngutu fakahihifi",
+        "taʻepau"
+    ],
     "😟": [
         "mata lotohohaʻa"
     ],
@@ -217,6 +1572,12 @@
     ],
     "🥺": [
         "mata kole"
+    ],
+    "🥹": [
+        "lotomamahi",
+        "mata",
+        "mata loʻimata maʻu",
+        "tuʻuaki"
     ],
     "😦": [
         "mata fingo moe ngutu fakamanga"
@@ -347,9 +1708,6 @@
     "🙊": [
         "ngeli ʻikai lea kovi"
     ],
-    "💋": [
-        "ʻilonga loungutu"
-    ],
     "💌": [
         "tohi ʻofa"
     ],
@@ -383,6 +1741,12 @@
     "💔": [
         "loto lavea"
     ],
+    "❤‍🔥": [
+        "mafu afi"
+    ],
+    "❤‍🩹": [
+        "mafu monomono"
+    ],
     "❤️": [
         "mafu kulokula"
     ],
@@ -410,6 +1774,9 @@
     "🤍": [
         "mafu hinehina"
     ],
+    "💋": [
+        "ʻilonga loungutu"
+    ],
     "💯": [
         "poini ʻe teau"
     ],
@@ -430,9 +1797,6 @@
     ],
     "🕳️": [
         "ava"
-    ],
-    "💣️": [
-        "pulukōkō"
     ],
     "💬": [
         "pulalea"
@@ -592,6 +1956,310 @@
         "nima mavaeua",
         "nima mavaeua: kili ʻuliʻuli"
     ],
+    "🫱": [
+        "mataʻu",
+        "nima",
+        "nima ki mataʻu",
+        "toʻomataʻu"
+    ],
+    "🫱🏻": [
+        "kili hinehina",
+        "mataʻu",
+        "nima",
+        "nima ki mataʻu",
+        "nima ki mataʻu: kili hinehina",
+        "toʻomataʻu"
+    ],
+    "🫱🏼": [
+        "kili kelokelo",
+        "mataʻu",
+        "nima",
+        "nima ki mataʻu",
+        "nima ki mataʻu: kili kelokelo",
+        "toʻomataʻu"
+    ],
+    "🫱🏽": [
+        "kili melomelo",
+        "mataʻu",
+        "nima",
+        "nima ki mataʻu",
+        "nima ki mataʻu: kili melomelo",
+        "toʻomataʻu"
+    ],
+    "🫱🏾": [
+        "kili melomelo-ʻuliʻuli",
+        "mataʻu",
+        "nima",
+        "nima ki mataʻu",
+        "nima ki mataʻu: kili melomelo-ʻuliʻuli",
+        "toʻomataʻu"
+    ],
+    "🫱🏿": [
+        "kili ʻuliʻuli",
+        "mataʻu",
+        "nima",
+        "nima ki mataʻu",
+        "nima ki mataʻu: kili ʻuliʻuli",
+        "toʻomataʻu"
+    ],
+    "🫱🏻‍🫲🏼": [
+        "kili hinehina",
+        "kili kelokelo",
+        "lulululu",
+        "lulululu: kili hinehina mo e kili kelokelo"
+    ],
+    "🫱🏻‍🫲🏽": [
+        "kili hinehina",
+        "kili melomelo",
+        "lulululu",
+        "lulululu: kili hinehina mo e kili melomelo"
+    ],
+    "🫱🏻‍🫲🏾": [
+        "kili hinehina",
+        "kili melomelo-ʻuliʻuli",
+        "lulululu",
+        "lulululu: kili hinehina mo e kili melomelo-ʻuliʻuli"
+    ],
+    "🫱🏻‍🫲🏿": [
+        "kili hinehina",
+        "kili ʻuliʻuli",
+        "lulululu",
+        "lulululu: kili hinehina mo e kili ʻuliʻuli"
+    ],
+    "🫱🏼‍🫲🏻": [
+        "kili hinehina",
+        "kili kelokelo",
+        "lulululu",
+        "lulululu: kili kelokelo mo e kili hinehina"
+    ],
+    "🫱🏼‍🫲🏽": [
+        "kili kelokelo",
+        "kili melomelo",
+        "lulululu",
+        "lulululu: kili kelokelo mo e kili melomelo"
+    ],
+    "🫱🏼‍🫲🏾": [
+        "kili kelokelo",
+        "kili melomelo-ʻuliʻuli",
+        "lulululu",
+        "lulululu: kili kelokelo mo e kili melomelo-ʻuliʻuli"
+    ],
+    "🫱🏼‍🫲🏿": [
+        "kili kelokelo",
+        "kili ʻuliʻuli",
+        "lulululu",
+        "lulululu: kili kelokelo mo e kili ʻuliʻuli"
+    ],
+    "🫱🏽‍🫲🏻": [
+        "kili hinehina",
+        "kili melomelo",
+        "lulululu",
+        "lulululu: kili melomelo mo e kili hinehina"
+    ],
+    "🫱🏽‍🫲🏼": [
+        "kili kelokelo",
+        "kili melomelo",
+        "lulululu",
+        "lulululu: kili melomelo mo e kili kelokelo"
+    ],
+    "🫱🏽‍🫲🏾": [
+        "kili melomelo",
+        "kili melomelo-ʻuliʻuli",
+        "lulululu",
+        "lulululu: kili melomelo mo e kili melomelo-ʻuliʻuli"
+    ],
+    "🫱🏽‍🫲🏿": [
+        "kili melomelo",
+        "kili ʻuliʻuli",
+        "lulululu",
+        "lulululu: kili melomelo mo e kili ʻuliʻuli"
+    ],
+    "🫱🏾‍🫲🏻": [
+        "kili hinehina",
+        "kili melomelo-ʻuliʻuli",
+        "lulululu",
+        "lulululu: kili melomelo-ʻuliʻuli mo e kili hinehina"
+    ],
+    "🫱🏾‍🫲🏼": [
+        "kili kelokelo",
+        "kili melomelo-ʻuliʻuli",
+        "lulululu",
+        "lulululu: kili melomelo-ʻuliʻuli mo e kili kelokelo"
+    ],
+    "🫱🏾‍🫲🏽": [
+        "kili melomelo",
+        "kili melomelo-ʻuliʻuli",
+        "lulululu",
+        "lulululu: kili melomelo-ʻuliʻuli mo e kili melomelo"
+    ],
+    "🫱🏾‍🫲🏿": [
+        "kili melomelo-ʻuliʻuli",
+        "kili ʻuliʻuli",
+        "lulululu",
+        "lulululu: kili melomelo-ʻuliʻuli mo e kili ʻuliʻuli"
+    ],
+    "🫱🏿‍🫲🏻": [
+        "kili hinehina",
+        "kili ʻuliʻuli",
+        "lulululu",
+        "lulululu: kili ʻuliʻuli mo e kili hinehina"
+    ],
+    "🫱🏿‍🫲🏼": [
+        "kili kelokelo",
+        "kili ʻuliʻuli",
+        "lulululu",
+        "lulululu: kili ʻuliʻuli mo e kili kelokelo"
+    ],
+    "🫱🏿‍🫲🏽": [
+        "kili melomelo",
+        "kili ʻuliʻuli",
+        "lulululu",
+        "lulululu: kili ʻuliʻuli mo e kili melomelo"
+    ],
+    "🫱🏿‍🫲🏾": [
+        "kili melomelo-ʻuliʻuli",
+        "kili ʻuliʻuli",
+        "lulululu",
+        "lulululu: kili ʻuliʻuli mo e kili melomelo-ʻuliʻuli"
+    ],
+    "🫲": [
+        "hema",
+        "nima",
+        "ninma ki hema",
+        "toʻohema"
+    ],
+    "🫲🏻": [
+        "hema",
+        "kili hinehina",
+        "nima",
+        "ninma ki hema",
+        "ninma ki hema: kili hinehina",
+        "toʻohema"
+    ],
+    "🫲🏼": [
+        "hema",
+        "kili kelokelo",
+        "nima",
+        "ninma ki hema",
+        "ninma ki hema: kili kelokelo",
+        "toʻohema"
+    ],
+    "🫲🏽": [
+        "hema",
+        "kili melomelo",
+        "nima",
+        "ninma ki hema",
+        "ninma ki hema: kili melomelo",
+        "toʻohema"
+    ],
+    "🫲🏾": [
+        "hema",
+        "kili melomelo-ʻuliʻuli",
+        "nima",
+        "ninma ki hema",
+        "ninma ki hema: kili melomelo-ʻuliʻuli",
+        "toʻohema"
+    ],
+    "🫲🏿": [
+        "hema",
+        "kili ʻuliʻuli",
+        "nima",
+        "ninma ki hema",
+        "ninma ki hema: kili ʻuliʻuli",
+        "toʻohema"
+    ],
+    "🫳": [
+        "hifo",
+        "nima",
+        "nima ʻohifo",
+        "toʻohifo"
+    ],
+    "🫳🏻": [
+        "hifo",
+        "kili hinehina",
+        "nima",
+        "nima ʻohifo",
+        "nima ʻohifo: kili hinehina",
+        "toʻohifo"
+    ],
+    "🫳🏼": [
+        "hifo",
+        "kili kelokelo",
+        "nima",
+        "nima ʻohifo",
+        "nima ʻohifo: kili kelokelo",
+        "toʻohifo"
+    ],
+    "🫳🏽": [
+        "hifo",
+        "kili melomelo",
+        "nima",
+        "nima ʻohifo",
+        "nima ʻohifo: kili melomelo",
+        "toʻohifo"
+    ],
+    "🫳🏾": [
+        "hifo",
+        "kili melomelo-ʻuliʻuli",
+        "nima",
+        "nima ʻohifo",
+        "nima ʻohifo: kili melomelo-ʻuliʻuli",
+        "toʻohifo"
+    ],
+    "🫳🏿": [
+        "hifo",
+        "kili ʻuliʻuli",
+        "nima",
+        "nima ʻohifo",
+        "nima ʻohifo: kili ʻuliʻuli",
+        "toʻohifo"
+    ],
+    "🫴": [
+        "hake",
+        "nima",
+        "nima ʻohake",
+        "toʻohake"
+    ],
+    "🫴🏻": [
+        "hake",
+        "kili hinehina",
+        "nima",
+        "nima ʻohake",
+        "nima ʻohake: kili hinehina",
+        "toʻohake"
+    ],
+    "🫴🏼": [
+        "hake",
+        "kili kelokelo",
+        "nima",
+        "nima ʻohake",
+        "nima ʻohake: kili kelokelo",
+        "toʻohake"
+    ],
+    "🫴🏽": [
+        "hake",
+        "kili melomelo",
+        "nima",
+        "nima ʻohake",
+        "nima ʻohake: kili melomelo",
+        "toʻohake"
+    ],
+    "🫴🏾": [
+        "hake",
+        "kili melomelo-ʻuliʻuli",
+        "nima",
+        "nima ʻohake",
+        "nima ʻohake: kili melomelo-ʻuliʻuli",
+        "toʻohake"
+    ],
+    "🫴🏿": [
+        "hake",
+        "kili ʻuliʻuli",
+        "nima",
+        "nima ʻohake",
+        "nima ʻohake: kili ʻuliʻuli",
+        "toʻohake"
+    ],
     "👌": [
         "nima fakaʻilonga sai"
     ],
@@ -731,6 +2399,52 @@
         "kili ʻuliʻuli",
         "louhiʻinima fehauaki",
         "louhiʻinima fehauaki: kili ʻuliʻuli"
+    ],
+    "🫰": [
+        "fisipā",
+        "louhiʻinima moe motuʻatuhu fehauaki",
+        "mamafa",
+        "paʻanga"
+    ],
+    "🫰🏻": [
+        "fisipā",
+        "kili hinehina",
+        "louhiʻinima moe motuʻatuhu fehauaki",
+        "louhiʻinima moe motuʻatuhu fehauaki: kili hinehina",
+        "mamafa",
+        "paʻanga"
+    ],
+    "🫰🏼": [
+        "fisipā",
+        "kili kelokelo",
+        "louhiʻinima moe motuʻatuhu fehauaki",
+        "louhiʻinima moe motuʻatuhu fehauaki: kili kelokelo",
+        "mamafa",
+        "paʻanga"
+    ],
+    "🫰🏽": [
+        "fisipā",
+        "kili melomelo",
+        "louhiʻinima moe motuʻatuhu fehauaki",
+        "louhiʻinima moe motuʻatuhu fehauaki: kili melomelo",
+        "mamafa",
+        "paʻanga"
+    ],
+    "🫰🏾": [
+        "fisipā",
+        "kili melomelo-ʻuliʻuli",
+        "louhiʻinima moe motuʻatuhu fehauaki",
+        "louhiʻinima moe motuʻatuhu fehauaki: kili melomelo-ʻuliʻuli",
+        "mamafa",
+        "paʻanga"
+    ],
+    "🫰🏿": [
+        "fisipā",
+        "kili ʻuliʻuli",
+        "louhiʻinima moe motuʻatuhu fehauaki",
+        "louhiʻinima moe motuʻatuhu fehauaki: kili ʻuliʻuli",
+        "mamafa",
+        "paʻanga"
     ],
     "🤟": [
         "nima fakaʻilonga mafu"
@@ -984,6 +2698,46 @@
         "tuhu tonu ki ʻolunga",
         "tuhu tonu ki ʻolunga: kili ʻuliʻuli"
     ],
+    "🫵": [
+        "ko koe",
+        "tuhu",
+        "tuhu tonu ki muʻa"
+    ],
+    "🫵🏻": [
+        "kili hinehina",
+        "ko koe",
+        "tuhu",
+        "tuhu tonu ki muʻa",
+        "tuhu tonu ki muʻa: kili hinehina"
+    ],
+    "🫵🏼": [
+        "kili kelokelo",
+        "ko koe",
+        "tuhu",
+        "tuhu tonu ki muʻa",
+        "tuhu tonu ki muʻa: kili kelokelo"
+    ],
+    "🫵🏽": [
+        "kili melomelo",
+        "ko koe",
+        "tuhu",
+        "tuhu tonu ki muʻa",
+        "tuhu tonu ki muʻa: kili melomelo"
+    ],
+    "🫵🏾": [
+        "kili melomelo-ʻuliʻuli",
+        "ko koe",
+        "tuhu",
+        "tuhu tonu ki muʻa",
+        "tuhu tonu ki muʻa: kili melomelo-ʻuliʻuli"
+    ],
+    "🫵🏿": [
+        "kili ʻuliʻuli",
+        "ko koe",
+        "tuhu",
+        "tuhu tonu ki muʻa",
+        "tuhu tonu ki muʻa: kili ʻuliʻuli"
+    ],
     "👍️": [
         "motuʻatuhu ki ʻolunga"
     ],
@@ -1208,6 +2962,40 @@
         "ongo nima hiki ki ʻolunga",
         "ongo nima hiki ki ʻolunga: kili ʻuliʻuli"
     ],
+    "🫶": [
+        "ongo nima fakamafu",
+        "ʻofa"
+    ],
+    "🫶🏻": [
+        "kili hinehina",
+        "ongo nima fakamafu",
+        "ongo nima fakamafu: kili hinehina",
+        "ʻofa"
+    ],
+    "🫶🏼": [
+        "kili kelokelo",
+        "ongo nima fakamafu",
+        "ongo nima fakamafu: kili kelokelo",
+        "ʻofa"
+    ],
+    "🫶🏽": [
+        "kili melomelo",
+        "ongo nima fakamafu",
+        "ongo nima fakamafu: kili melomelo",
+        "ʻofa"
+    ],
+    "🫶🏾": [
+        "kili melomelo-ʻuliʻuli",
+        "ongo nima fakamafu",
+        "ongo nima fakamafu: kili melomelo-ʻuliʻuli",
+        "ʻofa"
+    ],
+    "🫶🏿": [
+        "kili ʻuliʻuli",
+        "ongo nima fakamafu",
+        "ongo nima fakamafu: kili ʻuliʻuli",
+        "ʻofa"
+    ],
     "👐": [
         "nima homo"
     ],
@@ -1266,6 +3054,31 @@
     ],
     "🤝": [
         "lulululu"
+    ],
+    "🤝🏻": [
+        "kili hinehina",
+        "lulululu",
+        "lulululu: kili hinehina"
+    ],
+    "🤝🏼": [
+        "kili kelokelo",
+        "lulululu",
+        "lulululu: kili kelokelo"
+    ],
+    "🤝🏽": [
+        "kili melomelo",
+        "lulululu",
+        "lulululu: kili melomelo"
+    ],
+    "🤝🏾": [
+        "kili melomelo-ʻuliʻuli",
+        "lulululu",
+        "lulululu: kili melomelo-ʻuliʻuli"
+    ],
+    "🤝🏿": [
+        "kili ʻuliʻuli",
+        "lulululu",
+        "lulululu: kili ʻuliʻuli"
     ],
     "🙏": [
         "ongo nima tataʻo"
@@ -1592,6 +3405,12 @@
     "👄": [
         "ngutu"
     ],
+    "🫦": [
+        "hohaʻa",
+        "lotomoʻua",
+        "ngutu",
+        "uʻu loungutu"
+    ],
     "👶": [
         "valevale"
     ],
@@ -1759,6 +3578,286 @@
         "kili ʻuliʻuli",
         "tokotaha ʻulu kelo",
         "tokotaha ʻulu kelo: kili ʻuliʻuli"
+    ],
+    "🧑🏻‍❤‍💋‍🧑🏼": [
+        "kakai lalahi",
+        "kili hinehina",
+        "kili kelokelo",
+        "ʻuma",
+        "ʻuma: kakai lalahi, kakai lalahi, kili hinehina mo e kili kelokelo"
+    ],
+    "🧑🏻‍❤‍💋‍🧑🏽": [
+        "kakai lalahi",
+        "kili hinehina",
+        "kili melomelo",
+        "ʻuma",
+        "ʻuma: kakai lalahi, kakai lalahi, kili hinehina mo e kili melomelo"
+    ],
+    "🧑🏻‍❤‍💋‍🧑🏾": [
+        "kakai lalahi",
+        "kili hinehina",
+        "kili melomelo-ʻuliʻuli",
+        "ʻuma",
+        "ʻuma: kakai lalahi, kakai lalahi, kili hinehina mo e kili melomelo-ʻuliʻuli"
+    ],
+    "🧑🏻‍❤‍💋‍🧑🏿": [
+        "kakai lalahi",
+        "kili hinehina",
+        "kili ʻuliʻuli",
+        "ʻuma",
+        "ʻuma: kakai lalahi, kakai lalahi, kili hinehina mo e kili ʻuliʻuli"
+    ],
+    "🧑🏼‍❤‍💋‍🧑🏻": [
+        "kakai lalahi",
+        "kili hinehina",
+        "kili kelokelo",
+        "ʻuma",
+        "ʻuma: kakai lalahi, kakai lalahi, kili kelokelo mo e kili hinehina"
+    ],
+    "🧑🏼‍❤‍💋‍🧑🏽": [
+        "kakai lalahi",
+        "kili kelokelo",
+        "kili melomelo",
+        "ʻuma",
+        "ʻuma: kakai lalahi, kakai lalahi, kili kelokelo mo e kili melomelo"
+    ],
+    "🧑🏼‍❤‍💋‍🧑🏾": [
+        "kakai lalahi",
+        "kili kelokelo",
+        "kili melomelo-ʻuliʻuli",
+        "ʻuma",
+        "ʻuma: kakai lalahi, kakai lalahi, kili kelokelo mo e kili melomelo-ʻuliʻuli"
+    ],
+    "🧑🏼‍❤‍💋‍🧑🏿": [
+        "kakai lalahi",
+        "kili kelokelo",
+        "kili ʻuliʻuli",
+        "ʻuma",
+        "ʻuma: kakai lalahi, kakai lalahi, kili kelokelo mo e kili ʻuliʻuli"
+    ],
+    "🧑🏽‍❤‍💋‍🧑🏻": [
+        "kakai lalahi",
+        "kili hinehina",
+        "kili melomelo",
+        "ʻuma",
+        "ʻuma: kakai lalahi, kakai lalahi, kili melomelo mo e kili hinehina"
+    ],
+    "🧑🏽‍❤‍💋‍🧑🏼": [
+        "kakai lalahi",
+        "kili kelokelo",
+        "kili melomelo",
+        "ʻuma",
+        "ʻuma: kakai lalahi, kakai lalahi, kili melomelo mo e kili kelokelo"
+    ],
+    "🧑🏽‍❤‍💋‍🧑🏾": [
+        "kakai lalahi",
+        "kili melomelo",
+        "kili melomelo-ʻuliʻuli",
+        "ʻuma",
+        "ʻuma: kakai lalahi, kakai lalahi, kili melomelo mo e kili melomelo-ʻuliʻuli"
+    ],
+    "🧑🏽‍❤‍💋‍🧑🏿": [
+        "kakai lalahi",
+        "kili melomelo",
+        "kili ʻuliʻuli",
+        "ʻuma",
+        "ʻuma: kakai lalahi, kakai lalahi, kili melomelo mo e kili ʻuliʻuli"
+    ],
+    "🧑🏾‍❤‍💋‍🧑🏻": [
+        "kakai lalahi",
+        "kili hinehina",
+        "kili melomelo-ʻuliʻuli",
+        "ʻuma",
+        "ʻuma: kakai lalahi, kakai lalahi, kili melomelo-ʻuliʻuli mo e kili hinehina"
+    ],
+    "🧑🏾‍❤‍💋‍🧑🏼": [
+        "kakai lalahi",
+        "kili kelokelo",
+        "kili melomelo-ʻuliʻuli",
+        "ʻuma",
+        "ʻuma: kakai lalahi, kakai lalahi, kili melomelo-ʻuliʻuli mo e kili kelokelo"
+    ],
+    "🧑🏾‍❤‍💋‍🧑🏽": [
+        "kakai lalahi",
+        "kili melomelo",
+        "kili melomelo-ʻuliʻuli",
+        "ʻuma",
+        "ʻuma: kakai lalahi, kakai lalahi, kili melomelo-ʻuliʻuli mo e kili melomelo"
+    ],
+    "🧑🏾‍❤‍💋‍🧑🏿": [
+        "kakai lalahi",
+        "kili melomelo-ʻuliʻuli",
+        "kili ʻuliʻuli",
+        "ʻuma",
+        "ʻuma: kakai lalahi, kakai lalahi, kili melomelo-ʻuliʻuli mo e kili ʻuliʻuli"
+    ],
+    "🧑🏿‍❤‍💋‍🧑🏻": [
+        "kakai lalahi",
+        "kili hinehina",
+        "kili ʻuliʻuli",
+        "ʻuma",
+        "ʻuma: kakai lalahi, kakai lalahi, kili ʻuliʻuli mo e kili hinehina"
+    ],
+    "🧑🏿‍❤‍💋‍🧑🏼": [
+        "kakai lalahi",
+        "kili kelokelo",
+        "kili ʻuliʻuli",
+        "ʻuma",
+        "ʻuma: kakai lalahi, kakai lalahi, kili ʻuliʻuli mo e kili kelokelo"
+    ],
+    "🧑🏿‍❤‍💋‍🧑🏽": [
+        "kakai lalahi",
+        "kili melomelo",
+        "kili ʻuliʻuli",
+        "ʻuma",
+        "ʻuma: kakai lalahi, kakai lalahi, kili ʻuliʻuli mo e kili melomelo"
+    ],
+    "🧑🏿‍❤‍💋‍🧑🏾": [
+        "kakai lalahi",
+        "kili melomelo-ʻuliʻuli",
+        "kili ʻuliʻuli",
+        "ʻuma",
+        "ʻuma: kakai lalahi, kakai lalahi, kili ʻuliʻuli mo e kili melomelo-ʻuliʻuli"
+    ],
+    "🧑🏻‍❤‍🧑🏼": [
+        "kakai lalahi",
+        "kili hinehina",
+        "kili kelokelo",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili hinehina mo e kili kelokelo"
+    ],
+    "🧑🏻‍❤‍🧑🏽": [
+        "kakai lalahi",
+        "kili hinehina",
+        "kili melomelo",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili hinehina mo e kili melomelo"
+    ],
+    "🧑🏻‍❤‍🧑🏾": [
+        "kakai lalahi",
+        "kili hinehina",
+        "kili melomelo-ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili hinehina mo e kili melomelo-ʻuliʻuli"
+    ],
+    "🧑🏻‍❤‍🧑🏿": [
+        "kakai lalahi",
+        "kili hinehina",
+        "kili ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili hinehina mo e kili ʻuliʻuli"
+    ],
+    "🧑🏼‍❤‍🧑🏻": [
+        "kakai lalahi",
+        "kili hinehina",
+        "kili kelokelo",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili kelokelo mo e kili hinehina"
+    ],
+    "🧑🏼‍❤‍🧑🏽": [
+        "kakai lalahi",
+        "kili kelokelo",
+        "kili melomelo",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili kelokelo mo e kili melomelo"
+    ],
+    "🧑🏼‍❤‍🧑🏾": [
+        "kakai lalahi",
+        "kili kelokelo",
+        "kili melomelo-ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili kelokelo mo e kili melomelo-ʻuliʻuli"
+    ],
+    "🧑🏼‍❤‍🧑🏿": [
+        "kakai lalahi",
+        "kili kelokelo",
+        "kili ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili kelokelo mo e kili ʻuliʻuli"
+    ],
+    "🧑🏽‍❤‍🧑🏻": [
+        "kakai lalahi",
+        "kili hinehina",
+        "kili melomelo",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili melomelo mo e kili hinehina"
+    ],
+    "🧑🏽‍❤‍🧑🏼": [
+        "kakai lalahi",
+        "kili kelokelo",
+        "kili melomelo",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili melomelo mo e kili kelokelo"
+    ],
+    "🧑🏽‍❤‍🧑🏾": [
+        "kakai lalahi",
+        "kili melomelo",
+        "kili melomelo-ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili melomelo mo e kili melomelo-ʻuliʻuli"
+    ],
+    "🧑🏽‍❤‍🧑🏿": [
+        "kakai lalahi",
+        "kili melomelo",
+        "kili ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili melomelo mo e kili ʻuliʻuli"
+    ],
+    "🧑🏾‍❤‍🧑🏻": [
+        "kakai lalahi",
+        "kili hinehina",
+        "kili melomelo-ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili melomelo-ʻuliʻuli mo e kili hinehina"
+    ],
+    "🧑🏾‍❤‍🧑🏼": [
+        "kakai lalahi",
+        "kili kelokelo",
+        "kili melomelo-ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili melomelo-ʻuliʻuli mo e kili kelokelo"
+    ],
+    "🧑🏾‍❤‍🧑🏽": [
+        "kakai lalahi",
+        "kili melomelo",
+        "kili melomelo-ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili melomelo-ʻuliʻuli mo e kili melomelo"
+    ],
+    "🧑🏾‍❤‍🧑🏿": [
+        "kakai lalahi",
+        "kili melomelo-ʻuliʻuli",
+        "kili ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili melomelo-ʻuliʻuli mo e kili ʻuliʻuli"
+    ],
+    "🧑🏿‍❤‍🧑🏻": [
+        "kakai lalahi",
+        "kili hinehina",
+        "kili ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili ʻuliʻuli mo e kili hinehina"
+    ],
+    "🧑🏿‍❤‍🧑🏼": [
+        "kakai lalahi",
+        "kili kelokelo",
+        "kili ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili ʻuliʻuli mo e kili kelokelo"
+    ],
+    "🧑🏿‍❤‍🧑🏽": [
+        "kakai lalahi",
+        "kili melomelo",
+        "kili ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili ʻuliʻuli mo e kili melomelo"
+    ],
+    "🧑🏿‍❤‍🧑🏾": [
+        "kakai lalahi",
+        "kili melomelo-ʻuliʻuli",
+        "kili ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: kakai lalahi, kakai lalahi, kili ʻuliʻuli mo e kili melomelo-ʻuliʻuli"
     ],
     "🧑‍🦰": [
         "kakai lalahi",
@@ -1929,31 +4028,73 @@
         "tangata: kili ʻuliʻuli"
     ],
     "🧔": [
-        "tangata kava"
+        "kava",
+        "tokotaha",
+        "tokotaha kava"
     ],
     "🧔🏻": [
+        "kava",
         "kili hinehina",
-        "tangata kava",
-        "tangata kava: kili hinehina"
+        "tokotaha",
+        "tokotaha kava: kili hinehina"
     ],
     "🧔🏼": [
+        "kava",
         "kili kelokelo",
-        "tangata kava",
-        "tangata kava: kili kelokelo"
+        "tokotaha",
+        "tokotaha kava: kili kelokelo"
     ],
     "🧔🏽": [
+        "kava",
         "kili melomelo",
-        "tangata kava",
-        "tangata kava: kili melomelo"
+        "tokotaha",
+        "tokotaha kava: kili melomelo"
     ],
     "🧔🏾": [
+        "kava",
         "kili melomelo-ʻuliʻuli",
-        "tangata kava",
-        "tangata kava: kili melomelo-ʻuliʻuli"
+        "tokotaha",
+        "tokotaha kava: kili melomelo-ʻuliʻuli"
     ],
     "🧔🏿": [
+        "kava",
         "kili ʻuliʻuli",
-        "tangata kava",
+        "tokotaha",
+        "tokotaha kava: kili ʻuliʻuli"
+    ],
+    "🧔‍♂": [
+        "kava",
+        "tangata",
+        "tangata kava"
+    ],
+    "🧔🏻‍♂": [
+        "kava",
+        "kili hinehina",
+        "tangata",
+        "tangata kava: kili hinehina"
+    ],
+    "🧔🏼‍♂": [
+        "kava",
+        "kili kelokelo",
+        "tangata",
+        "tangata kava: kili kelokelo"
+    ],
+    "🧔🏽‍♂": [
+        "kava",
+        "kili melomelo",
+        "tangata",
+        "tangata kava: kili melomelo"
+    ],
+    "🧔🏾‍♂": [
+        "kava",
+        "kili melomelo-ʻuliʻuli",
+        "tangata",
+        "tangata kava: kili melomelo-ʻuliʻuli"
+    ],
+    "🧔🏿‍♂": [
+        "kava",
+        "kili ʻuliʻuli",
+        "tangata",
         "tangata kava: kili ʻuliʻuli"
     ],
     "👱‍♂": [
@@ -1983,6 +4124,346 @@
         "kili ʻuliʻuli",
         "tangata ʻulu kelo",
         "tangata ʻulu kelo: kili ʻuliʻuli"
+    ],
+    "👨🏻‍❤‍💋‍👨🏻": [
+        "kili hinehina",
+        "tangata",
+        "ʻuma",
+        "ʻuma: tangata, tangata mo e kili hinehina"
+    ],
+    "👨🏻‍❤‍💋‍👨🏼": [
+        "kili hinehina",
+        "kili kelokelo",
+        "tangata",
+        "ʻuma",
+        "ʻuma: tangata, tangata, kili hinehina mo e kili kelokelo"
+    ],
+    "👨🏻‍❤‍💋‍👨🏽": [
+        "kili hinehina",
+        "kili melomelo",
+        "tangata",
+        "ʻuma",
+        "ʻuma: tangata, tangata, kili hinehina mo e kili melomelo"
+    ],
+    "👨🏻‍❤‍💋‍👨🏾": [
+        "kili hinehina",
+        "kili melomelo-ʻuliʻuli",
+        "tangata",
+        "ʻuma",
+        "ʻuma: tangata, tangata, kili hinehina mo e kili melomelo-ʻuliʻuli"
+    ],
+    "👨🏻‍❤‍💋‍👨🏿": [
+        "kili hinehina",
+        "kili ʻuliʻuli",
+        "tangata",
+        "ʻuma",
+        "ʻuma: tangata, tangata, kili hinehina mo e kili ʻuliʻuli"
+    ],
+    "👨🏼‍❤‍💋‍👨🏻": [
+        "kili hinehina",
+        "kili kelokelo",
+        "tangata",
+        "ʻuma",
+        "ʻuma: tangata, tangata, kili kelokelo mo e kili hinehina"
+    ],
+    "👨🏼‍❤‍💋‍👨🏼": [
+        "kili kelokelo",
+        "tangata",
+        "ʻuma",
+        "ʻuma: tangata, tangata mo e kili kelokelo"
+    ],
+    "👨🏼‍❤‍💋‍👨🏽": [
+        "kili kelokelo",
+        "kili melomelo",
+        "tangata",
+        "ʻuma",
+        "ʻuma: tangata, tangata, kili kelokelo mo e kili melomelo"
+    ],
+    "👨🏼‍❤‍💋‍👨🏾": [
+        "kili kelokelo",
+        "kili melomelo-ʻuliʻuli",
+        "tangata",
+        "ʻuma",
+        "ʻuma: tangata, tangata, kili kelokelo mo e kili melomelo-ʻuliʻuli"
+    ],
+    "👨🏼‍❤‍💋‍👨🏿": [
+        "kili kelokelo",
+        "kili ʻuliʻuli",
+        "tangata",
+        "ʻuma",
+        "ʻuma: tangata, tangata, kili kelokelo mo e kili ʻuliʻuli"
+    ],
+    "👨🏽‍❤‍💋‍👨🏻": [
+        "kili hinehina",
+        "kili melomelo",
+        "tangata",
+        "ʻuma",
+        "ʻuma: tangata, tangata, kili melomelo mo e kili hinehina"
+    ],
+    "👨🏽‍❤‍💋‍👨🏼": [
+        "kili kelokelo",
+        "kili melomelo",
+        "tangata",
+        "ʻuma",
+        "ʻuma: tangata, tangata, kili melomelo mo e kili kelokelo"
+    ],
+    "👨🏽‍❤‍💋‍👨🏽": [
+        "kili melomelo",
+        "tangata",
+        "ʻuma",
+        "ʻuma: tangata, tangata mo e kili melomelo"
+    ],
+    "👨🏽‍❤‍💋‍👨🏾": [
+        "kili melomelo",
+        "kili melomelo-ʻuliʻuli",
+        "tangata",
+        "ʻuma",
+        "ʻuma: tangata, tangata, kili melomelo mo e kili melomelo-ʻuliʻuli"
+    ],
+    "👨🏽‍❤‍💋‍👨🏿": [
+        "kili melomelo",
+        "kili ʻuliʻuli",
+        "tangata",
+        "ʻuma",
+        "ʻuma: tangata, tangata, kili melomelo mo e kili ʻuliʻuli"
+    ],
+    "👨🏾‍❤‍💋‍👨🏻": [
+        "kili hinehina",
+        "kili melomelo-ʻuliʻuli",
+        "tangata",
+        "ʻuma",
+        "ʻuma: tangata, tangata, kili melomelo-ʻuliʻuli mo e kili hinehina"
+    ],
+    "👨🏾‍❤‍💋‍👨🏼": [
+        "kili kelokelo",
+        "kili melomelo-ʻuliʻuli",
+        "tangata",
+        "ʻuma",
+        "ʻuma: tangata, tangata, kili melomelo-ʻuliʻuli mo e kili kelokelo"
+    ],
+    "👨🏾‍❤‍💋‍👨🏽": [
+        "kili melomelo",
+        "kili melomelo-ʻuliʻuli",
+        "tangata",
+        "ʻuma",
+        "ʻuma: tangata, tangata, kili melomelo-ʻuliʻuli mo e kili melomelo"
+    ],
+    "👨🏾‍❤‍💋‍👨🏾": [
+        "kili melomelo-ʻuliʻuli",
+        "tangata",
+        "ʻuma",
+        "ʻuma: tangata, tangata mo e kili melomelo-ʻuliʻuli"
+    ],
+    "👨🏾‍❤‍💋‍👨🏿": [
+        "kili melomelo-ʻuliʻuli",
+        "kili ʻuliʻuli",
+        "tangata",
+        "ʻuma",
+        "ʻuma: tangata, tangata, kili melomelo-ʻuliʻuli mo e kili ʻuliʻuli"
+    ],
+    "👨🏿‍❤‍💋‍👨🏻": [
+        "kili hinehina",
+        "kili ʻuliʻuli",
+        "tangata",
+        "ʻuma",
+        "ʻuma: tangata, tangata, kili ʻuliʻuli mo e kili hinehina"
+    ],
+    "👨🏿‍❤‍💋‍👨🏼": [
+        "kili kelokelo",
+        "kili ʻuliʻuli",
+        "tangata",
+        "ʻuma",
+        "ʻuma: tangata, tangata, kili ʻuliʻuli mo e kili kelokelo"
+    ],
+    "👨🏿‍❤‍💋‍👨🏽": [
+        "kili melomelo",
+        "kili ʻuliʻuli",
+        "tangata",
+        "ʻuma",
+        "ʻuma: tangata, tangata, kili ʻuliʻuli mo e kili melomelo"
+    ],
+    "👨🏿‍❤‍💋‍👨🏾": [
+        "kili melomelo-ʻuliʻuli",
+        "kili ʻuliʻuli",
+        "tangata",
+        "ʻuma",
+        "ʻuma: tangata, tangata, kili ʻuliʻuli mo e kili melomelo-ʻuliʻuli"
+    ],
+    "👨🏿‍❤‍💋‍👨🏿": [
+        "kili ʻuliʻuli",
+        "tangata",
+        "ʻuma",
+        "ʻuma: tangata, tangata mo e kili ʻuliʻuli"
+    ],
+    "👨🏻‍❤‍👨🏻": [
+        "kili hinehina",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: tangata, tangata mo e kili hinehina",
+        "tangata"
+    ],
+    "👨🏻‍❤‍👨🏼": [
+        "kili hinehina",
+        "kili kelokelo",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: tangata, tangata, kili hinehina mo e kili kelokelo",
+        "tangata"
+    ],
+    "👨🏻‍❤‍👨🏽": [
+        "kili hinehina",
+        "kili melomelo",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: tangata, tangata, kili hinehina mo e kili melomelo",
+        "tangata"
+    ],
+    "👨🏻‍❤‍👨🏾": [
+        "kili hinehina",
+        "kili melomelo-ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: tangata, tangata, kili hinehina mo e kili melomelo-ʻuliʻuli",
+        "tangata"
+    ],
+    "👨🏻‍❤‍👨🏿": [
+        "kili hinehina",
+        "kili ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: tangata, tangata, kili hinehina mo e kili ʻuliʻuli",
+        "tangata"
+    ],
+    "👨🏼‍❤‍👨🏻": [
+        "kili hinehina",
+        "kili kelokelo",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: tangata, tangata, kili kelokelo mo e kili hinehina",
+        "tangata"
+    ],
+    "👨🏼‍❤‍👨🏼": [
+        "kili kelokelo",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: tangata, tangata mo e kili kelokelo",
+        "tangata"
+    ],
+    "👨🏼‍❤‍👨🏽": [
+        "kili kelokelo",
+        "kili melomelo",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: tangata, tangata, kili kelokelo mo e kili melomelo",
+        "tangata"
+    ],
+    "👨🏼‍❤‍👨🏾": [
+        "kili kelokelo",
+        "kili melomelo-ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: tangata, tangata, kili kelokelo mo e kili melomelo-ʻuliʻuli",
+        "tangata"
+    ],
+    "👨🏼‍❤‍👨🏿": [
+        "kili kelokelo",
+        "kili ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: tangata, tangata, kili kelokelo mo e kili ʻuliʻuli",
+        "tangata"
+    ],
+    "👨🏽‍❤‍👨🏻": [
+        "kili hinehina",
+        "kili melomelo",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: tangata, tangata, kili melomelo mo e kili hinehina",
+        "tangata"
+    ],
+    "👨🏽‍❤‍👨🏼": [
+        "kili kelokelo",
+        "kili melomelo",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: tangata, tangata, kili melomelo mo e kili kelokelo",
+        "tangata"
+    ],
+    "👨🏽‍❤‍👨🏽": [
+        "kili melomelo",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: tangata, tangata mo e kili melomelo",
+        "tangata"
+    ],
+    "👨🏽‍❤‍👨🏾": [
+        "kili melomelo",
+        "kili melomelo-ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: tangata, tangata, kili melomelo mo e kili melomelo-ʻuliʻuli",
+        "tangata"
+    ],
+    "👨🏽‍❤‍👨🏿": [
+        "kili melomelo",
+        "kili ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: tangata, tangata, kili melomelo mo e kili ʻuliʻuli",
+        "tangata"
+    ],
+    "👨🏾‍❤‍👨🏻": [
+        "kili hinehina",
+        "kili melomelo-ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: tangata, tangata, kili melomelo-ʻuliʻuli mo e kili hinehina",
+        "tangata"
+    ],
+    "👨🏾‍❤‍👨🏼": [
+        "kili kelokelo",
+        "kili melomelo-ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: tangata, tangata, kili melomelo-ʻuliʻuli mo e kili kelokelo",
+        "tangata"
+    ],
+    "👨🏾‍❤‍👨🏽": [
+        "kili melomelo",
+        "kili melomelo-ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: tangata, tangata, kili melomelo-ʻuliʻuli mo e kili melomelo",
+        "tangata"
+    ],
+    "👨🏾‍❤‍👨🏾": [
+        "kili melomelo-ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: tangata, tangata mo e kili melomelo-ʻuliʻuli",
+        "tangata"
+    ],
+    "👨🏾‍❤‍👨🏿": [
+        "kili melomelo-ʻuliʻuli",
+        "kili ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: tangata, tangata, kili melomelo-ʻuliʻuli mo e kili ʻuliʻuli",
+        "tangata"
+    ],
+    "👨🏿‍❤‍👨🏻": [
+        "kili hinehina",
+        "kili ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: tangata, tangata, kili ʻuliʻuli mo e kili hinehina",
+        "tangata"
+    ],
+    "👨🏿‍❤‍👨🏼": [
+        "kili kelokelo",
+        "kili ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: tangata, tangata, kili ʻuliʻuli mo e kili kelokelo",
+        "tangata"
+    ],
+    "👨🏿‍❤‍👨🏽": [
+        "kili melomelo",
+        "kili ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: tangata, tangata, kili ʻuliʻuli mo e kili melomelo",
+        "tangata"
+    ],
+    "👨🏿‍❤‍👨🏾": [
+        "kili melomelo-ʻuliʻuli",
+        "kili ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: tangata, tangata, kili ʻuliʻuli mo e kili melomelo-ʻuliʻuli",
+        "tangata"
+    ],
+    "👨🏿‍❤‍👨🏿": [
+        "kili ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: tangata, tangata mo e kili ʻuliʻuli",
+        "tangata"
     ],
     "👨‍🦰": [
         "tangata",
@@ -2152,6 +4633,34 @@
         "fefine: kili ʻuliʻuli",
         "kili ʻuliʻuli"
     ],
+    "🧔‍♀": [
+        "fefine kava"
+    ],
+    "🧔🏻‍♀": [
+        "fefine kava",
+        "fefine kava: kili hinehina",
+        "kili hinehina"
+    ],
+    "🧔🏼‍♀": [
+        "fefine kava",
+        "fefine kava: kili kelokelo",
+        "kili kelokelo"
+    ],
+    "🧔🏽‍♀": [
+        "fefine kava",
+        "fefine kava: kili melomelo",
+        "kili melomelo"
+    ],
+    "🧔🏾‍♀": [
+        "fefine kava",
+        "fefine kava: kili melomelo-ʻuliʻuli",
+        "kili melomelo-ʻuliʻuli"
+    ],
+    "🧔🏿‍♀": [
+        "fefine kava",
+        "fefine kava: kili ʻuliʻuli",
+        "kili ʻuliʻuli"
+    ],
     "👱‍♀": [
         "fefine ʻulu kelo"
     ],
@@ -2179,6 +4688,736 @@
         "fefine ʻulu kelo",
         "fefine ʻulu kelo: kili ʻuliʻuli",
         "kili ʻuliʻuli"
+    ],
+    "👩🏻‍❤‍💋‍👨🏻": [
+        "fefine",
+        "kili hinehina",
+        "tangata",
+        "ʻuma",
+        "ʻuma: fefine, tangata mo e kili hinehina"
+    ],
+    "👩🏻‍❤‍💋‍👨🏼": [
+        "fefine",
+        "kili hinehina",
+        "kili kelokelo",
+        "tangata",
+        "ʻuma",
+        "ʻuma: fefine, tangata, kili hinehina mo e kili kelokelo"
+    ],
+    "👩🏻‍❤‍💋‍👨🏽": [
+        "fefine",
+        "kili hinehina",
+        "kili melomelo",
+        "tangata",
+        "ʻuma",
+        "ʻuma: fefine, tangata, kili hinehina mo e kili melomelo"
+    ],
+    "👩🏻‍❤‍💋‍👨🏾": [
+        "fefine",
+        "kili hinehina",
+        "kili melomelo-ʻuliʻuli",
+        "tangata",
+        "ʻuma",
+        "ʻuma: fefine, tangata, kili hinehina mo e kili melomelo-ʻuliʻuli"
+    ],
+    "👩🏻‍❤‍💋‍👨🏿": [
+        "fefine",
+        "kili hinehina",
+        "kili ʻuliʻuli",
+        "tangata",
+        "ʻuma",
+        "ʻuma: fefine, tangata, kili hinehina mo e kili ʻuliʻuli"
+    ],
+    "👩🏼‍❤‍💋‍👨🏻": [
+        "fefine",
+        "kili hinehina",
+        "kili kelokelo",
+        "tangata",
+        "ʻuma",
+        "ʻuma: fefine, tangata, kili kelokelo mo e kili hinehina"
+    ],
+    "👩🏼‍❤‍💋‍👨🏼": [
+        "fefine",
+        "kili kelokelo",
+        "tangata",
+        "ʻuma",
+        "ʻuma: fefine, tangata mo e kili kelokelo"
+    ],
+    "👩🏼‍❤‍💋‍👨🏽": [
+        "fefine",
+        "kili kelokelo",
+        "kili melomelo",
+        "tangata",
+        "ʻuma",
+        "ʻuma: fefine, tangata, kili kelokelo mo e kili melomelo"
+    ],
+    "👩🏼‍❤‍💋‍👨🏾": [
+        "fefine",
+        "kili kelokelo",
+        "kili melomelo-ʻuliʻuli",
+        "tangata",
+        "ʻuma",
+        "ʻuma: fefine, tangata, kili kelokelo mo e kili melomelo-ʻuliʻuli"
+    ],
+    "👩🏼‍❤‍💋‍👨🏿": [
+        "fefine",
+        "kili kelokelo",
+        "kili ʻuliʻuli",
+        "tangata",
+        "ʻuma",
+        "ʻuma: fefine, tangata, kili kelokelo mo e kili ʻuliʻuli"
+    ],
+    "👩🏽‍❤‍💋‍👨🏻": [
+        "fefine",
+        "kili hinehina",
+        "kili melomelo",
+        "tangata",
+        "ʻuma",
+        "ʻuma: fefine, tangata, kili melomelo mo e kili hinehina"
+    ],
+    "👩🏽‍❤‍💋‍👨🏼": [
+        "fefine",
+        "kili kelokelo",
+        "kili melomelo",
+        "tangata",
+        "ʻuma",
+        "ʻuma: fefine, tangata, kili melomelo mo e kili kelokelo"
+    ],
+    "👩🏽‍❤‍💋‍👨🏽": [
+        "fefine",
+        "kili melomelo",
+        "tangata",
+        "ʻuma",
+        "ʻuma: fefine, tangata mo e kili melomelo"
+    ],
+    "👩🏽‍❤‍💋‍👨🏾": [
+        "fefine",
+        "kili melomelo",
+        "kili melomelo-ʻuliʻuli",
+        "tangata",
+        "ʻuma",
+        "ʻuma: fefine, tangata, kili melomelo mo e kili melomelo-ʻuliʻuli"
+    ],
+    "👩🏽‍❤‍💋‍👨🏿": [
+        "fefine",
+        "kili melomelo",
+        "kili ʻuliʻuli",
+        "tangata",
+        "ʻuma",
+        "ʻuma: fefine, tangata, kili melomelo mo e kili ʻuliʻuli"
+    ],
+    "👩🏾‍❤‍💋‍👨🏻": [
+        "fefine",
+        "kili hinehina",
+        "kili melomelo-ʻuliʻuli",
+        "tangata",
+        "ʻuma",
+        "ʻuma: fefine, tangata, kili melomelo-ʻuliʻuli mo e kili hinehina"
+    ],
+    "👩🏾‍❤‍💋‍👨🏼": [
+        "fefine",
+        "kili kelokelo",
+        "kili melomelo-ʻuliʻuli",
+        "tangata",
+        "ʻuma",
+        "ʻuma: fefine, tangata, kili melomelo-ʻuliʻuli mo e kili kelokelo"
+    ],
+    "👩🏾‍❤‍💋‍👨🏽": [
+        "fefine",
+        "kili melomelo",
+        "kili melomelo-ʻuliʻuli",
+        "tangata",
+        "ʻuma",
+        "ʻuma: fefine, tangata, kili melomelo-ʻuliʻuli mo e kili melomelo"
+    ],
+    "👩🏾‍❤‍💋‍👨🏾": [
+        "fefine",
+        "kili melomelo-ʻuliʻuli",
+        "tangata",
+        "ʻuma",
+        "ʻuma: fefine, tangata mo e kili melomelo-ʻuliʻuli"
+    ],
+    "👩🏾‍❤‍💋‍👨🏿": [
+        "fefine",
+        "kili melomelo-ʻuliʻuli",
+        "kili ʻuliʻuli",
+        "tangata",
+        "ʻuma",
+        "ʻuma: fefine, tangata, kili melomelo-ʻuliʻuli mo e kili ʻuliʻuli"
+    ],
+    "👩🏿‍❤‍💋‍👨🏻": [
+        "fefine",
+        "kili hinehina",
+        "kili ʻuliʻuli",
+        "tangata",
+        "ʻuma",
+        "ʻuma: fefine, tangata, kili ʻuliʻuli mo e kili hinehina"
+    ],
+    "👩🏿‍❤‍💋‍👨🏼": [
+        "fefine",
+        "kili kelokelo",
+        "kili ʻuliʻuli",
+        "tangata",
+        "ʻuma",
+        "ʻuma: fefine, tangata, kili ʻuliʻuli mo e kili kelokelo"
+    ],
+    "👩🏿‍❤‍💋‍👨🏽": [
+        "fefine",
+        "kili melomelo",
+        "kili ʻuliʻuli",
+        "tangata",
+        "ʻuma",
+        "ʻuma: fefine, tangata, kili ʻuliʻuli mo e kili melomelo"
+    ],
+    "👩🏿‍❤‍💋‍👨🏾": [
+        "fefine",
+        "kili melomelo-ʻuliʻuli",
+        "kili ʻuliʻuli",
+        "tangata",
+        "ʻuma",
+        "ʻuma: fefine, tangata, kili ʻuliʻuli mo e kili melomelo-ʻuliʻuli"
+    ],
+    "👩🏿‍❤‍💋‍👨🏿": [
+        "fefine",
+        "kili ʻuliʻuli",
+        "tangata",
+        "ʻuma",
+        "ʻuma: fefine, tangata mo e kili ʻuliʻuli"
+    ],
+    "👩🏻‍❤‍💋‍👩🏻": [
+        "fefine",
+        "kili hinehina",
+        "ʻuma",
+        "ʻuma: fefine, fefine mo e kili hinehina"
+    ],
+    "👩🏻‍❤‍💋‍👩🏼": [
+        "fefine",
+        "kili hinehina",
+        "kili kelokelo",
+        "ʻuma",
+        "ʻuma: fefine, fefine, kili hinehina mo e kili kelokelo"
+    ],
+    "👩🏻‍❤‍💋‍👩🏽": [
+        "fefine",
+        "kili hinehina",
+        "kili melomelo",
+        "ʻuma",
+        "ʻuma: fefine, fefine, kili hinehina mo e kili melomelo"
+    ],
+    "👩🏻‍❤‍💋‍👩🏾": [
+        "fefine",
+        "kili hinehina",
+        "kili melomelo-ʻuliʻuli",
+        "ʻuma",
+        "ʻuma: fefine, fefine, kili hinehina mo e kili melomelo-ʻuliʻuli"
+    ],
+    "👩🏻‍❤‍💋‍👩🏿": [
+        "fefine",
+        "kili hinehina",
+        "kili ʻuliʻuli",
+        "ʻuma",
+        "ʻuma: fefine, fefine, kili hinehina mo e kili ʻuliʻuli"
+    ],
+    "👩🏼‍❤‍💋‍👩🏻": [
+        "fefine",
+        "kili hinehina",
+        "kili kelokelo",
+        "ʻuma",
+        "ʻuma: fefine, fefine, kili kelokelo mo e kili hinehina"
+    ],
+    "👩🏼‍❤‍💋‍👩🏼": [
+        "fefine",
+        "kili kelokelo",
+        "ʻuma",
+        "ʻuma: fefine, fefine mo e kili kelokelo"
+    ],
+    "👩🏼‍❤‍💋‍👩🏽": [
+        "fefine",
+        "kili kelokelo",
+        "kili melomelo",
+        "ʻuma",
+        "ʻuma: fefine, fefine, kili kelokelo mo e kili melomelo"
+    ],
+    "👩🏼‍❤‍💋‍👩🏾": [
+        "fefine",
+        "kili kelokelo",
+        "kili melomelo-ʻuliʻuli",
+        "ʻuma",
+        "ʻuma: fefine, fefine, kili kelokelo mo e kili melomelo-ʻuliʻuli"
+    ],
+    "👩🏼‍❤‍💋‍👩🏿": [
+        "fefine",
+        "kili kelokelo",
+        "kili ʻuliʻuli",
+        "ʻuma",
+        "ʻuma: fefine, fefine, kili kelokelo mo e kili ʻuliʻuli"
+    ],
+    "👩🏽‍❤‍💋‍👩🏻": [
+        "fefine",
+        "kili hinehina",
+        "kili melomelo",
+        "ʻuma",
+        "ʻuma: fefine, fefine, kili melomelo mo e kili hinehina"
+    ],
+    "👩🏽‍❤‍💋‍👩🏼": [
+        "fefine",
+        "kili kelokelo",
+        "kili melomelo",
+        "ʻuma",
+        "ʻuma: fefine, fefine, kili melomelo mo e kili kelokelo"
+    ],
+    "👩🏽‍❤‍💋‍👩🏽": [
+        "fefine",
+        "kili melomelo",
+        "ʻuma",
+        "ʻuma: fefine, fefine mo e kili melomelo"
+    ],
+    "👩🏽‍❤‍💋‍👩🏾": [
+        "fefine",
+        "kili melomelo",
+        "kili melomelo-ʻuliʻuli",
+        "ʻuma",
+        "ʻuma: fefine, fefine, kili melomelo mo e kili melomelo-ʻuliʻuli"
+    ],
+    "👩🏽‍❤‍💋‍👩🏿": [
+        "fefine",
+        "kili melomelo",
+        "kili ʻuliʻuli",
+        "ʻuma",
+        "ʻuma: fefine, fefine, kili melomelo mo e kili ʻuliʻuli"
+    ],
+    "👩🏾‍❤‍💋‍👩🏻": [
+        "fefine",
+        "kili hinehina",
+        "kili melomelo-ʻuliʻuli",
+        "ʻuma",
+        "ʻuma: fefine, fefine, kili melomelo-ʻuliʻuli mo e kili hinehina"
+    ],
+    "👩🏾‍❤‍💋‍👩🏼": [
+        "fefine",
+        "kili kelokelo",
+        "kili melomelo-ʻuliʻuli",
+        "ʻuma",
+        "ʻuma: fefine, fefine, kili melomelo-ʻuliʻuli mo e kili kelokelo"
+    ],
+    "👩🏾‍❤‍💋‍👩🏽": [
+        "fefine",
+        "kili melomelo",
+        "kili melomelo-ʻuliʻuli",
+        "ʻuma",
+        "ʻuma: fefine, fefine, kili melomelo-ʻuliʻuli mo e kili melomelo"
+    ],
+    "👩🏾‍❤‍💋‍👩🏾": [
+        "fefine",
+        "kili melomelo-ʻuliʻuli",
+        "ʻuma",
+        "ʻuma: fefine, fefine mo e kili melomelo-ʻuliʻuli"
+    ],
+    "👩🏾‍❤‍💋‍👩🏿": [
+        "fefine",
+        "kili melomelo-ʻuliʻuli",
+        "kili ʻuliʻuli",
+        "ʻuma",
+        "ʻuma: fefine, fefine, kili melomelo-ʻuliʻuli mo e kili ʻuliʻuli"
+    ],
+    "👩🏿‍❤‍💋‍👩🏻": [
+        "fefine",
+        "kili hinehina",
+        "kili ʻuliʻuli",
+        "ʻuma",
+        "ʻuma: fefine, fefine, kili ʻuliʻuli mo e kili hinehina"
+    ],
+    "👩🏿‍❤‍💋‍👩🏼": [
+        "fefine",
+        "kili kelokelo",
+        "kili ʻuliʻuli",
+        "ʻuma",
+        "ʻuma: fefine, fefine, kili ʻuliʻuli mo e kili kelokelo"
+    ],
+    "👩🏿‍❤‍💋‍👩🏽": [
+        "fefine",
+        "kili melomelo",
+        "kili ʻuliʻuli",
+        "ʻuma",
+        "ʻuma: fefine, fefine, kili ʻuliʻuli mo e kili melomelo"
+    ],
+    "👩🏿‍❤‍💋‍👩🏾": [
+        "fefine",
+        "kili melomelo-ʻuliʻuli",
+        "kili ʻuliʻuli",
+        "ʻuma",
+        "ʻuma: fefine, fefine, kili ʻuliʻuli mo e kili melomelo-ʻuliʻuli"
+    ],
+    "👩🏿‍❤‍💋‍👩🏿": [
+        "fefine",
+        "kili ʻuliʻuli",
+        "ʻuma",
+        "ʻuma: fefine, fefine mo e kili ʻuliʻuli"
+    ],
+    "👩🏻‍❤‍👨🏻": [
+        "fefine",
+        "kili hinehina",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: fefine, tangata mo e kili hinehina",
+        "tangata"
+    ],
+    "👩🏻‍❤‍👨🏼": [
+        "fefine",
+        "kili hinehina",
+        "kili kelokelo",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: fefine, tangata, kili hinehina mo e kili kelokelo",
+        "tangata"
+    ],
+    "👩🏻‍❤‍👨🏽": [
+        "fefine",
+        "kili hinehina",
+        "kili melomelo",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: fefine, tangata, kili hinehina mo e kili melomelo",
+        "tangata"
+    ],
+    "👩🏻‍❤‍👨🏾": [
+        "fefine",
+        "kili hinehina",
+        "kili melomelo-ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: fefine, tangata, kili hinehina mo e kili melomelo-ʻuliʻuli",
+        "tangata"
+    ],
+    "👩🏻‍❤‍👨🏿": [
+        "fefine",
+        "kili hinehina",
+        "kili ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: fefine, tangata, kili hinehina mo e kili ʻuliʻuli",
+        "tangata"
+    ],
+    "👩🏼‍❤‍👨🏻": [
+        "fefine",
+        "kili hinehina",
+        "kili kelokelo",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: fefine, tangata, kili kelokelo mo e kili hinehina",
+        "tangata"
+    ],
+    "👩🏼‍❤‍👨🏼": [
+        "fefine",
+        "kili kelokelo",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: fefine, tangata mo e kili kelokelo",
+        "tangata"
+    ],
+    "👩🏼‍❤‍👨🏽": [
+        "fefine",
+        "kili kelokelo",
+        "kili melomelo",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: fefine, tangata, kili kelokelo mo e kili melomelo",
+        "tangata"
+    ],
+    "👩🏼‍❤‍👨🏾": [
+        "fefine",
+        "kili kelokelo",
+        "kili melomelo-ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: fefine, tangata, kili kelokelo mo e kili melomelo-ʻuliʻuli",
+        "tangata"
+    ],
+    "👩🏼‍❤‍👨🏿": [
+        "fefine",
+        "kili kelokelo",
+        "kili ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: fefine, tangata, kili kelokelo mo e kili ʻuliʻuli",
+        "tangata"
+    ],
+    "👩🏽‍❤‍👨🏻": [
+        "fefine",
+        "kili hinehina",
+        "kili melomelo",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: fefine, tangata, kili melomelo mo e kili hinehina",
+        "tangata"
+    ],
+    "👩🏽‍❤‍👨🏼": [
+        "fefine",
+        "kili kelokelo",
+        "kili melomelo",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: fefine, tangata, kili melomelo mo e kili kelokelo",
+        "tangata"
+    ],
+    "👩🏽‍❤‍👨🏽": [
+        "fefine",
+        "kili melomelo",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: fefine, tangata mo e kili melomelo",
+        "tangata"
+    ],
+    "👩🏽‍❤‍👨🏾": [
+        "fefine",
+        "kili melomelo",
+        "kili melomelo-ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: fefine, tangata, kili melomelo mo e kili melomelo-ʻuliʻuli",
+        "tangata"
+    ],
+    "👩🏽‍❤‍👨🏿": [
+        "fefine",
+        "kili melomelo",
+        "kili ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: fefine, tangata, kili melomelo mo e kili ʻuliʻuli",
+        "tangata"
+    ],
+    "👩🏾‍❤‍👨🏻": [
+        "fefine",
+        "kili hinehina",
+        "kili melomelo-ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: fefine, tangata, kili melomelo-ʻuliʻuli mo e kili hinehina",
+        "tangata"
+    ],
+    "👩🏾‍❤‍👨🏼": [
+        "fefine",
+        "kili kelokelo",
+        "kili melomelo-ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: fefine, tangata, kili melomelo-ʻuliʻuli mo e kili kelokelo",
+        "tangata"
+    ],
+    "👩🏾‍❤‍👨🏽": [
+        "fefine",
+        "kili melomelo",
+        "kili melomelo-ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: fefine, tangata, kili melomelo-ʻuliʻuli mo e kili melomelo",
+        "tangata"
+    ],
+    "👩🏾‍❤‍👨🏾": [
+        "fefine",
+        "kili melomelo-ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: fefine, tangata mo e kili melomelo-ʻuliʻuli",
+        "tangata"
+    ],
+    "👩🏾‍❤‍👨🏿": [
+        "fefine",
+        "kili melomelo-ʻuliʻuli",
+        "kili ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: fefine, tangata, kili melomelo-ʻuliʻuli mo e kili ʻuliʻuli",
+        "tangata"
+    ],
+    "👩🏿‍❤‍👨🏻": [
+        "fefine",
+        "kili hinehina",
+        "kili ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: fefine, tangata, kili ʻuliʻuli mo e kili hinehina",
+        "tangata"
+    ],
+    "👩🏿‍❤‍👨🏼": [
+        "fefine",
+        "kili kelokelo",
+        "kili ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: fefine, tangata, kili ʻuliʻuli mo e kili kelokelo",
+        "tangata"
+    ],
+    "👩🏿‍❤‍👨🏽": [
+        "fefine",
+        "kili melomelo",
+        "kili ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: fefine, tangata, kili ʻuliʻuli mo e kili melomelo",
+        "tangata"
+    ],
+    "👩🏿‍❤‍👨🏾": [
+        "fefine",
+        "kili melomelo-ʻuliʻuli",
+        "kili ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: fefine, tangata, kili ʻuliʻuli mo e kili melomelo-ʻuliʻuli",
+        "tangata"
+    ],
+    "👩🏿‍❤‍👨🏿": [
+        "fefine",
+        "kili ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: fefine, tangata mo e kili ʻuliʻuli",
+        "tangata"
+    ],
+    "👩🏻‍❤‍👩🏻": [
+        "fefine",
+        "kili hinehina",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: fefine, fefine mo e kili hinehina"
+    ],
+    "👩🏻‍❤‍👩🏼": [
+        "fefine",
+        "kili hinehina",
+        "kili kelokelo",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: fefine, fefine, kili hinehina mo e kili kelokelo"
+    ],
+    "👩🏻‍❤‍👩🏽": [
+        "fefine",
+        "kili hinehina",
+        "kili melomelo",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: fefine, fefine, kili hinehina mo e kili melomelo"
+    ],
+    "👩🏻‍❤‍👩🏾": [
+        "fefine",
+        "kili hinehina",
+        "kili melomelo-ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: fefine, fefine, kili hinehina mo e kili melomelo-ʻuliʻuli"
+    ],
+    "👩🏻‍❤‍👩🏿": [
+        "fefine",
+        "kili hinehina",
+        "kili ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: fefine, fefine, kili hinehina mo e kili ʻuliʻuli"
+    ],
+    "👩🏼‍❤‍👩🏻": [
+        "fefine",
+        "kili hinehina",
+        "kili kelokelo",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: fefine, fefine, kili kelokelo mo e kili hinehina"
+    ],
+    "👩🏼‍❤‍👩🏼": [
+        "fefine",
+        "kili kelokelo",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: fefine, fefine mo e kili kelokelo"
+    ],
+    "👩🏼‍❤‍👩🏽": [
+        "fefine",
+        "kili kelokelo",
+        "kili melomelo",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: fefine, fefine, kili kelokelo mo e kili melomelo"
+    ],
+    "👩🏼‍❤‍👩🏾": [
+        "fefine",
+        "kili kelokelo",
+        "kili melomelo-ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: fefine, fefine, kili kelokelo mo e kili melomelo-ʻuliʻuli"
+    ],
+    "👩🏼‍❤‍👩🏿": [
+        "fefine",
+        "kili kelokelo",
+        "kili ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: fefine, fefine, kili kelokelo mo e kili ʻuliʻuli"
+    ],
+    "👩🏽‍❤‍👩🏻": [
+        "fefine",
+        "kili hinehina",
+        "kili melomelo",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: fefine, fefine, kili melomelo mo e kili hinehina"
+    ],
+    "👩🏽‍❤‍👩🏼": [
+        "fefine",
+        "kili kelokelo",
+        "kili melomelo",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: fefine, fefine, kili melomelo mo e kili kelokelo"
+    ],
+    "👩🏽‍❤‍👩🏽": [
+        "fefine",
+        "kili melomelo",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: fefine, fefine mo e kili melomelo"
+    ],
+    "👩🏽‍❤‍👩🏾": [
+        "fefine",
+        "kili melomelo",
+        "kili melomelo-ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: fefine, fefine, kili melomelo mo e kili melomelo-ʻuliʻuli"
+    ],
+    "👩🏽‍❤‍👩🏿": [
+        "fefine",
+        "kili melomelo",
+        "kili ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: fefine, fefine, kili melomelo mo e kili ʻuliʻuli"
+    ],
+    "👩🏾‍❤‍👩🏻": [
+        "fefine",
+        "kili hinehina",
+        "kili melomelo-ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: fefine, fefine, kili melomelo-ʻuliʻuli mo e kili hinehina"
+    ],
+    "👩🏾‍❤‍👩🏼": [
+        "fefine",
+        "kili kelokelo",
+        "kili melomelo-ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: fefine, fefine, kili melomelo-ʻuliʻuli mo e kili kelokelo"
+    ],
+    "👩🏾‍❤‍👩🏽": [
+        "fefine",
+        "kili melomelo",
+        "kili melomelo-ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: fefine, fefine, kili melomelo-ʻuliʻuli mo e kili melomelo"
+    ],
+    "👩🏾‍❤‍👩🏾": [
+        "fefine",
+        "kili melomelo-ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: fefine, fefine mo e kili melomelo-ʻuliʻuli"
+    ],
+    "👩🏾‍❤‍👩🏿": [
+        "fefine",
+        "kili melomelo-ʻuliʻuli",
+        "kili ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: fefine, fefine, kili melomelo-ʻuliʻuli mo e kili ʻuliʻuli"
+    ],
+    "👩🏿‍❤‍👩🏻": [
+        "fefine",
+        "kili hinehina",
+        "kili ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: fefine, fefine, kili ʻuliʻuli mo e kili hinehina"
+    ],
+    "👩🏿‍❤‍👩🏼": [
+        "fefine",
+        "kili kelokelo",
+        "kili ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: fefine, fefine, kili ʻuliʻuli mo e kili kelokelo"
+    ],
+    "👩🏿‍❤‍👩🏽": [
+        "fefine",
+        "kili melomelo",
+        "kili ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: fefine, fefine, kili ʻuliʻuli mo e kili melomelo"
+    ],
+    "👩🏿‍❤‍👩🏾": [
+        "fefine",
+        "kili melomelo-ʻuliʻuli",
+        "kili ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: fefine, fefine, kili ʻuliʻuli mo e kili melomelo-ʻuliʻuli"
+    ],
+    "👩🏿‍❤‍👩🏿": [
+        "fefine",
+        "kili ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: fefine, fefine mo e kili ʻuliʻuli"
     ],
     "👩‍🦰": [
         "fefine",
@@ -4843,6 +8082,31 @@
     "🥷": [
         "mata ninisā"
     ],
+    "🥷🏻": [
+        "kili hinehina",
+        "mata ninisā",
+        "mata ninisā: kili hinehina"
+    ],
+    "🥷🏼": [
+        "kili kelokelo",
+        "mata ninisā",
+        "mata ninisā: kili kelokelo"
+    ],
+    "🥷🏽": [
+        "kili melomelo",
+        "mata ninisā",
+        "mata ninisā: kili melomelo"
+    ],
+    "🥷🏾": [
+        "kili melomelo-ʻuliʻuli",
+        "mata ninisā",
+        "mata ninisā: kili melomelo-ʻuliʻuli"
+    ],
+    "🥷🏿": [
+        "kili ʻuliʻuli",
+        "mata ninisā",
+        "mata ninisā: kili ʻuliʻuli"
+    ],
     "👷": [
         "tokotaha ngāue langa"
     ],
@@ -4926,6 +8190,46 @@
         "fefine ngāue langa",
         "fefine ngāue langa: kili ʻuliʻuli",
         "kili ʻuliʻuli"
+    ],
+    "🫅": [
+        "kalauni",
+        "tokotaha ʻai kalauni",
+        "tuʻi"
+    ],
+    "🫅🏻": [
+        "kalauni",
+        "kili hinehina",
+        "tokotaha ʻai kalauni",
+        "tokotaha ʻai kalauni: kili hinehina",
+        "tuʻi"
+    ],
+    "🫅🏼": [
+        "kalauni",
+        "kili kelokelo",
+        "tokotaha ʻai kalauni",
+        "tokotaha ʻai kalauni: kili kelokelo",
+        "tuʻi"
+    ],
+    "🫅🏽": [
+        "kalauni",
+        "kili melomelo",
+        "tokotaha ʻai kalauni",
+        "tokotaha ʻai kalauni: kili melomelo",
+        "tuʻi"
+    ],
+    "🫅🏾": [
+        "kalauni",
+        "kili melomelo-ʻuliʻuli",
+        "tokotaha ʻai kalauni",
+        "tokotaha ʻai kalauni: kili melomelo-ʻuliʻuli",
+        "tuʻi"
+    ],
+    "🫅🏿": [
+        "kalauni",
+        "kili ʻuliʻuli",
+        "tokotaha ʻai kalauni",
+        "tokotaha ʻai kalauni: kili ʻuliʻuli",
+        "tuʻi"
     ],
     "🤴": [
         "ʻalo tangata"
@@ -5124,88 +8428,355 @@
         "kili ʻuliʻuli"
     ],
     "🤵": [
-        "tangata vala kakato"
+        "kakato",
+        "tangata",
+        "tokotaha vala kakato",
+        "vala"
     ],
     "🤵🏻": [
+        "kakato",
         "kili hinehina",
-        "tangata vala kakato",
-        "tangata vala kakato: kili hinehina"
+        "tangata",
+        "tokotaha vala kakato",
+        "tokotaha vala kakato: kili hinehina",
+        "vala"
     ],
     "🤵🏼": [
+        "kakato",
         "kili kelokelo",
-        "tangata vala kakato",
-        "tangata vala kakato: kili kelokelo"
+        "tangata",
+        "tokotaha vala kakato",
+        "tokotaha vala kakato: kili kelokelo",
+        "vala"
     ],
     "🤵🏽": [
+        "kakato",
         "kili melomelo",
-        "tangata vala kakato",
-        "tangata vala kakato: kili melomelo"
+        "tangata",
+        "tokotaha vala kakato",
+        "tokotaha vala kakato: kili melomelo",
+        "vala"
     ],
     "🤵🏾": [
+        "kakato",
         "kili melomelo-ʻuliʻuli",
-        "tangata vala kakato",
-        "tangata vala kakato: kili melomelo-ʻuliʻuli"
+        "tangata",
+        "tokotaha vala kakato",
+        "tokotaha vala kakato: kili melomelo-ʻuliʻuli",
+        "vala"
     ],
     "🤵🏿": [
+        "kakato",
         "kili ʻuliʻuli",
+        "tangata",
+        "tokotaha vala kakato",
+        "tokotaha vala kakato: kili ʻuliʻuli",
+        "vala"
+    ],
+    "🤵‍♂": [
+        "kakato",
+        "tangata",
         "tangata vala kakato",
-        "tangata vala kakato: kili ʻuliʻuli"
+        "vala"
     ],
-    "👰": [
-        "fefine tui veili"
+    "🤵🏻‍♂": [
+        "kakato",
+        "kili hinehina",
+        "tangata",
+        "tangata vala kakato: kili hinehina",
+        "vala"
     ],
-    "👰🏻": [
-        "fefine tui veili",
-        "fefine tui veili: kili hinehina",
+    "🤵🏼‍♂": [
+        "kakato",
+        "kili kelokelo",
+        "tangata",
+        "tangata vala kakato: kili kelokelo",
+        "vala"
+    ],
+    "🤵🏽‍♂": [
+        "kakato",
+        "kili melomelo",
+        "tangata",
+        "tangata vala kakato: kili melomelo",
+        "vala"
+    ],
+    "🤵🏾‍♂": [
+        "kakato",
+        "kili melomelo-ʻuliʻuli",
+        "tangata",
+        "tangata vala kakato: kili melomelo-ʻuliʻuli",
+        "vala"
+    ],
+    "🤵🏿‍♂": [
+        "kakato",
+        "kili ʻuliʻuli",
+        "tangata",
+        "tangata vala kakato: kili ʻuliʻuli",
+        "vala"
+    ],
+    "🤵‍♀": [
+        "fefine vala kakato"
+    ],
+    "🤵🏻‍♀": [
+        "fefine vala kakato",
+        "fefine vala kakato: kili hinehina",
         "kili hinehina"
     ],
-    "👰🏼": [
-        "fefine tui veili",
-        "fefine tui veili: kili kelokelo",
+    "🤵🏼‍♀": [
+        "fefine vala kakato",
+        "fefine vala kakato: kili kelokelo",
         "kili kelokelo"
     ],
-    "👰🏽": [
-        "fefine tui veili",
-        "fefine tui veili: kili melomelo",
+    "🤵🏽‍♀": [
+        "fefine vala kakato",
+        "fefine vala kakato: kili melomelo",
         "kili melomelo"
     ],
-    "👰🏾": [
-        "fefine tui veili",
-        "fefine tui veili: kili melomelo-ʻuliʻuli",
+    "🤵🏾‍♀": [
+        "fefine vala kakato",
+        "fefine vala kakato: kili melomelo-ʻuliʻuli",
         "kili melomelo-ʻuliʻuli"
     ],
-    "👰🏿": [
-        "fefine tui veili",
-        "fefine tui veili: kili ʻuliʻuli",
+    "🤵🏿‍♀": [
+        "fefine vala kakato",
+        "fefine vala kakato: kili ʻuliʻuli",
         "kili ʻuliʻuli"
     ],
+    "👰": [
+        "tokotaha",
+        "tokotaha tui veili",
+        "tui",
+        "veili"
+    ],
+    "👰🏻": [
+        "kili hinehina",
+        "tokotaha",
+        "tokotaha tui veili: kili hinehina",
+        "tui",
+        "veili"
+    ],
+    "👰🏼": [
+        "kili kelokelo",
+        "tokotaha",
+        "tokotaha tui veili: kili kelokelo",
+        "tui",
+        "veili"
+    ],
+    "👰🏽": [
+        "kili melomelo",
+        "tokotaha",
+        "tokotaha tui veili: kili melomelo",
+        "tui",
+        "veili"
+    ],
+    "👰🏾": [
+        "kili melomelo-ʻuliʻuli",
+        "tokotaha",
+        "tokotaha tui veili: kili melomelo-ʻuliʻuli",
+        "tui",
+        "veili"
+    ],
+    "👰🏿": [
+        "kili ʻuliʻuli",
+        "tokotaha",
+        "tokotaha tui veili: kili ʻuliʻuli",
+        "tui",
+        "veili"
+    ],
+    "👰‍♂": [
+        "tangata tui veili"
+    ],
+    "👰🏻‍♂": [
+        "kili hinehina",
+        "tangata tui veili",
+        "tangata tui veili: kili hinehina"
+    ],
+    "👰🏼‍♂": [
+        "kili kelokelo",
+        "tangata tui veili",
+        "tangata tui veili: kili kelokelo"
+    ],
+    "👰🏽‍♂": [
+        "kili melomelo",
+        "tangata tui veili",
+        "tangata tui veili: kili melomelo"
+    ],
+    "👰🏾‍♂": [
+        "kili melomelo-ʻuliʻuli",
+        "tangata tui veili",
+        "tangata tui veili: kili melomelo-ʻuliʻuli"
+    ],
+    "👰🏿‍♂": [
+        "kili ʻuliʻuli",
+        "tangata tui veili",
+        "tangata tui veili: kili ʻuliʻuli"
+    ],
+    "👰‍♀": [
+        "fefine",
+        "fefine tui veili",
+        "tui",
+        "veili"
+    ],
+    "👰🏻‍♀": [
+        "fefine",
+        "fefine tui veili: kili hinehina",
+        "kili hinehina",
+        "tui",
+        "veili"
+    ],
+    "👰🏼‍♀": [
+        "fefine",
+        "fefine tui veili: kili kelokelo",
+        "kili kelokelo",
+        "tui",
+        "veili"
+    ],
+    "👰🏽‍♀": [
+        "fefine",
+        "fefine tui veili: kili melomelo",
+        "kili melomelo",
+        "tui",
+        "veili"
+    ],
+    "👰🏾‍♀": [
+        "fefine",
+        "fefine tui veili: kili melomelo-ʻuliʻuli",
+        "kili melomelo-ʻuliʻuli",
+        "tui",
+        "veili"
+    ],
+    "👰🏿‍♀": [
+        "fefine",
+        "fefine tui veili: kili ʻuliʻuli",
+        "kili ʻuliʻuli",
+        "tui",
+        "veili"
+    ],
     "🤰": [
+        "fefine feitama",
         "feitama"
     ],
     "🤰🏻": [
+        "fefine feitama",
+        "fefine feitama: kili hinehina",
         "feitama",
-        "feitama: kili hinehina",
         "kili hinehina"
     ],
     "🤰🏼": [
+        "fefine feitama",
+        "fefine feitama: kili kelokelo",
         "feitama",
-        "feitama: kili kelokelo",
         "kili kelokelo"
     ],
     "🤰🏽": [
+        "fefine feitama",
+        "fefine feitama: kili melomelo",
         "feitama",
-        "feitama: kili melomelo",
         "kili melomelo"
     ],
     "🤰🏾": [
+        "fefine feitama",
+        "fefine feitama: kili melomelo-ʻuliʻuli",
         "feitama",
-        "feitama: kili melomelo-ʻuliʻuli",
         "kili melomelo-ʻuliʻuli"
     ],
     "🤰🏿": [
+        "fefine feitama",
+        "fefine feitama: kili ʻuliʻuli",
         "feitama",
-        "feitama: kili ʻuliʻuli",
         "kili ʻuliʻuli"
+    ],
+    "🫃": [
+        "feitama",
+        "kete lahi",
+        "puputa",
+        "tangata feitama"
+    ],
+    "🫃🏻": [
+        "feitama",
+        "kete lahi",
+        "kili hinehina",
+        "puputa",
+        "tangata feitama",
+        "tangata feitama: kili hinehina"
+    ],
+    "🫃🏼": [
+        "feitama",
+        "kete lahi",
+        "kili kelokelo",
+        "puputa",
+        "tangata feitama",
+        "tangata feitama: kili kelokelo"
+    ],
+    "🫃🏽": [
+        "feitama",
+        "kete lahi",
+        "kili melomelo",
+        "puputa",
+        "tangata feitama",
+        "tangata feitama: kili melomelo"
+    ],
+    "🫃🏾": [
+        "feitama",
+        "kete lahi",
+        "kili melomelo-ʻuliʻuli",
+        "puputa",
+        "tangata feitama",
+        "tangata feitama: kili melomelo-ʻuliʻuli"
+    ],
+    "🫃🏿": [
+        "feitama",
+        "kete lahi",
+        "kili ʻuliʻuli",
+        "puputa",
+        "tangata feitama",
+        "tangata feitama: kili ʻuliʻuli"
+    ],
+    "🫄": [
+        "feitama",
+        "kete lahi",
+        "puputa",
+        "tokotaha feitama"
+    ],
+    "🫄🏻": [
+        "feitama",
+        "kete lahi",
+        "kili hinehina",
+        "puputa",
+        "tokotaha feitama",
+        "tokotaha feitama: kili hinehina"
+    ],
+    "🫄🏼": [
+        "feitama",
+        "kete lahi",
+        "kili kelokelo",
+        "puputa",
+        "tokotaha feitama",
+        "tokotaha feitama: kili kelokelo"
+    ],
+    "🫄🏽": [
+        "feitama",
+        "kete lahi",
+        "kili melomelo",
+        "puputa",
+        "tokotaha feitama",
+        "tokotaha feitama: kili melomelo"
+    ],
+    "🫄🏾": [
+        "feitama",
+        "kete lahi",
+        "kili melomelo-ʻuliʻuli",
+        "puputa",
+        "tokotaha feitama",
+        "tokotaha feitama: kili melomelo-ʻuliʻuli"
+    ],
+    "🫄🏿": [
+        "feitama",
+        "kete lahi",
+        "kili ʻuliʻuli",
+        "puputa",
+        "tokotaha feitama",
+        "tokotaha feitama: kili ʻuliʻuli"
     ],
     "🤱": [
         "fakahuhu"
@@ -5234,6 +8805,90 @@
         "fakahuhu",
         "fakahuhu: kili ʻuliʻuli",
         "kili ʻuliʻuli"
+    ],
+    "👩‍🍼": [
+        "fefine fakahuhu"
+    ],
+    "👩🏻‍🍼": [
+        "fefine fakahuhu",
+        "fefine fakahuhu: kili hinehina",
+        "kili hinehina"
+    ],
+    "👩🏼‍🍼": [
+        "fefine fakahuhu",
+        "fefine fakahuhu: kili kelokelo",
+        "kili kelokelo"
+    ],
+    "👩🏽‍🍼": [
+        "fefine fakahuhu",
+        "fefine fakahuhu: kili melomelo",
+        "kili melomelo"
+    ],
+    "👩🏾‍🍼": [
+        "fefine fakahuhu",
+        "fefine fakahuhu: kili melomelo-ʻuliʻuli",
+        "kili melomelo-ʻuliʻuli"
+    ],
+    "👩🏿‍🍼": [
+        "fefine fakahuhu",
+        "fefine fakahuhu: kili ʻuliʻuli",
+        "kili ʻuliʻuli"
+    ],
+    "👨‍🍼": [
+        "tangata fakahuhu"
+    ],
+    "👨🏻‍🍼": [
+        "kili hinehina",
+        "tangata fakahuhu",
+        "tangata fakahuhu: kili hinehina"
+    ],
+    "👨🏼‍🍼": [
+        "kili kelokelo",
+        "tangata fakahuhu",
+        "tangata fakahuhu: kili kelokelo"
+    ],
+    "👨🏽‍🍼": [
+        "kili melomelo",
+        "tangata fakahuhu",
+        "tangata fakahuhu: kili melomelo"
+    ],
+    "👨🏾‍🍼": [
+        "kili melomelo-ʻuliʻuli",
+        "tangata fakahuhu",
+        "tangata fakahuhu: kili melomelo-ʻuliʻuli"
+    ],
+    "👨🏿‍🍼": [
+        "kili ʻuliʻuli",
+        "tangata fakahuhu",
+        "tangata fakahuhu: kili ʻuliʻuli"
+    ],
+    "🧑‍🍼": [
+        "tokotaha fakahuhu"
+    ],
+    "🧑🏻‍🍼": [
+        "kili hinehina",
+        "tokotaha fakahuhu",
+        "tokotaha fakahuhu: kili hinehina"
+    ],
+    "🧑🏼‍🍼": [
+        "kili kelokelo",
+        "tokotaha fakahuhu",
+        "tokotaha fakahuhu: kili kelokelo"
+    ],
+    "🧑🏽‍🍼": [
+        "kili melomelo",
+        "tokotaha fakahuhu",
+        "tokotaha fakahuhu: kili melomelo"
+    ],
+    "🧑🏾‍🍼": [
+        "kili melomelo-ʻuliʻuli",
+        "tokotaha fakahuhu",
+        "tokotaha fakahuhu: kili melomelo-ʻuliʻuli"
+    ],
+    "🧑🏿‍🍼": [
+        "kili ʻuliʻuli",
+        "tokotaha fakahuhu",
+        "tokotaha fakahuhu: kili ʻuliʻuli"
     ],
     "👼": [
         "ʻangelo valevale"
@@ -5264,59 +8919,105 @@
         "ʻangelo valevale: kili ʻuliʻuli"
     ],
     "🎅": [
-        "Sānita Kalausi"
+        "Sānita Kalausi",
+        "tangata"
     ],
     "🎅🏻": [
         "Sānita Kalausi",
         "Sānita Kalausi: kili hinehina",
-        "kili hinehina"
+        "kili hinehina",
+        "tangata"
     ],
     "🎅🏼": [
         "Sānita Kalausi",
         "Sānita Kalausi: kili kelokelo",
-        "kili kelokelo"
+        "kili kelokelo",
+        "tangata"
     ],
     "🎅🏽": [
         "Sānita Kalausi",
         "Sānita Kalausi: kili melomelo",
-        "kili melomelo"
+        "kili melomelo",
+        "tangata"
     ],
     "🎅🏾": [
         "Sānita Kalausi",
         "Sānita Kalausi: kili melomelo-ʻuliʻuli",
-        "kili melomelo-ʻuliʻuli"
+        "kili melomelo-ʻuliʻuli",
+        "tangata"
     ],
     "🎅🏿": [
         "Sānita Kalausi",
         "Sānita Kalausi: kili ʻuliʻuli",
-        "kili ʻuliʻuli"
+        "kili ʻuliʻuli",
+        "tangata"
     ],
     "🤶": [
-        "Sānita Kalausi fefine"
+        "Sānita Kalausi",
+        "Sānita Kalausi fefine",
+        "fefine"
     ],
     "🤶🏻": [
+        "Sānita Kalausi",
         "Sānita Kalausi fefine",
         "Sānita Kalausi fefine: kili hinehina",
+        "fefine",
         "kili hinehina"
     ],
     "🤶🏼": [
+        "Sānita Kalausi",
         "Sānita Kalausi fefine",
         "Sānita Kalausi fefine: kili kelokelo",
+        "fefine",
         "kili kelokelo"
     ],
     "🤶🏽": [
+        "Sānita Kalausi",
         "Sānita Kalausi fefine",
         "Sānita Kalausi fefine: kili melomelo",
+        "fefine",
         "kili melomelo"
     ],
     "🤶🏾": [
+        "Sānita Kalausi",
         "Sānita Kalausi fefine",
         "Sānita Kalausi fefine: kili melomelo-ʻuliʻuli",
+        "fefine",
         "kili melomelo-ʻuliʻuli"
     ],
     "🤶🏿": [
+        "Sānita Kalausi",
         "Sānita Kalausi fefine",
         "Sānita Kalausi fefine: kili ʻuliʻuli",
+        "fefine",
+        "kili ʻuliʻuli"
+    ],
+    "🧑‍🎄": [
+        "Sānita Kalausi tokotaha"
+    ],
+    "🧑🏻‍🎄": [
+        "Sānita Kalausi tokotaha",
+        "Sānita Kalausi tokotaha: kili hinehina",
+        "kili hinehina"
+    ],
+    "🧑🏼‍🎄": [
+        "Sānita Kalausi tokotaha",
+        "Sānita Kalausi tokotaha: kili kelokelo",
+        "kili kelokelo"
+    ],
+    "🧑🏽‍🎄": [
+        "Sānita Kalausi tokotaha",
+        "Sānita Kalausi tokotaha: kili melomelo",
+        "kili melomelo"
+    ],
+    "🧑🏾‍🎄": [
+        "Sānita Kalausi tokotaha",
+        "Sānita Kalausi tokotaha: kili melomelo-ʻuliʻuli",
+        "kili melomelo-ʻuliʻuli"
+    ],
+    "🧑🏿‍🎄": [
+        "Sānita Kalausi tokotaha",
+        "Sānita Kalausi tokotaha: kili ʻuliʻuli",
         "kili ʻuliʻuli"
     ],
     "🦸": [
@@ -5924,6 +9625,10 @@
     ],
     "🧟‍♀": [
         "tēvolo fefine"
+    ],
+    "🧌": [
+        "fakatele",
+        "fakaʻulia"
     ],
     "💆": [
         "tokotaha fotofotaʻi"
@@ -8912,6 +12617,31 @@
     "💏": [
         "ʻuma"
     ],
+    "💏🏻": [
+        "kili hinehina",
+        "ʻuma",
+        "ʻuma: kili hinehina"
+    ],
+    "💏🏼": [
+        "kili kelokelo",
+        "ʻuma",
+        "ʻuma: kili kelokelo"
+    ],
+    "💏🏽": [
+        "kili melomelo",
+        "ʻuma",
+        "ʻuma: kili melomelo"
+    ],
+    "💏🏾": [
+        "kili melomelo-ʻuliʻuli",
+        "ʻuma",
+        "ʻuma: kili melomelo-ʻuliʻuli"
+    ],
+    "💏🏿": [
+        "kili ʻuliʻuli",
+        "ʻuma",
+        "ʻuma: kili ʻuliʻuli"
+    ],
     "👩‍❤‍💋‍👨": [
         "fefine",
         "tangata",
@@ -8930,6 +12660,31 @@
     ],
     "💑": [
         "ongo tokoua moe mafu"
+    ],
+    "💑🏻": [
+        "kili hinehina",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: kili hinehina"
+    ],
+    "💑🏼": [
+        "kili kelokelo",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: kili kelokelo"
+    ],
+    "💑🏽": [
+        "kili melomelo",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: kili melomelo"
+    ],
+    "💑🏾": [
+        "kili melomelo-ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: kili melomelo-ʻuliʻuli"
+    ],
+    "💑🏿": [
+        "kili ʻuliʻuli",
+        "ongo tokoua moe mafu",
+        "ongo tokoua moe mafu: kili ʻuliʻuli"
     ],
     "👩‍❤‍👨": [
         "fefine",
@@ -9144,7 +12899,8 @@
         "kosi",
         "tula",
         "ʻulu",
-        "ʻulu tula"
+        "ʻulu tula",
+        "ʻulupoko"
     ],
     "🐵": [
         "mataʻi-ngeli"
@@ -9191,6 +12947,9 @@
     ],
     "🐈️": [
         "pusi"
+    ],
+    "🐈‍⬛": [
+        "pusi ʻuliʻuli"
     ],
     "🦁": [
         "mataʻi-laione"
@@ -9315,6 +13074,9 @@
     ],
     "🐻": [
         "mataʻi-pea"
+    ],
+    "🐻‍❄": [
+        "pea hinehina"
     ],
     "🐨": [
         "pea-ʻuliʻuli-moe-hinehina"
@@ -9459,6 +13221,9 @@
     "🐚": [
         "keleʻa"
     ],
+    "🪸": [
+        "feo"
+    ],
     "🐌": [
         "ʻelili"
     ],
@@ -9517,6 +13282,9 @@
     ],
     "💮": [
         "matalaʻiʻakau hinehina"
+    ],
+    "🪷": [
+        "hainitevai"
     ],
     "🏵️": [
         "potupotutatau"
@@ -9577,6 +13345,15 @@
     ],
     "🍃": [
         "lau ngaungaue matangi"
+    ],
+    "🪹": [
+        "ngeʻesi pununga"
+    ],
+    "🪺": [
+        "pununga moe foʻimanu"
+    ],
+    "🍄": [
+        "fakamalu-ʻa-tēvolo"
     ],
     "🍇": [
         "kālepi"
@@ -9673,11 +13450,11 @@
     "🧅": [
         "ʻonioni"
     ],
-    "🍄": [
-        "fakamalu-ʻa-tēvolo"
-    ],
     "🥜": [
         "pīnati"
+    ],
+    "🫘": [
+        "piini"
     ],
     "🌰": [
         "ifi"
@@ -9935,6 +13712,9 @@
     "🥃": [
         "ipu sioʻata"
     ],
+    "🫗": [
+        "lilingi vai"
+    ],
     "🥤": [
         "ipu moe vaʻakauinu"
     ],
@@ -9964,6 +13744,9 @@
     ],
     "🔪": [
         "hele paipa"
+    ],
+    "🫙": [
+        "siā"
     ],
     "🏺": [
         "tukuʻanga uaine"
@@ -10151,6 +13934,9 @@
     "🎠": [
         "hoosi vaʻinga"
     ],
+    "🛝": [
+        "malaʻe vaʻinga"
+    ],
     "🎡": [
         "veʻeteka vaʻinga"
     ],
@@ -10295,6 +14081,9 @@
     "⛽️": [
         "pausa"
     ],
+    "🛞": [
+        "veʻelapa"
+    ],
     "🚨": [
         "maama meʻalele polisi"
     ],
@@ -10312,6 +14101,9 @@
     ],
     "⚓️": [
         "taula"
+    ],
+    "🛟": [
+        "poe"
     ],
     "⛵️": [
         "vakalā"
@@ -10789,6 +14581,10 @@
     "🪁": [
         "lofa"
     ],
+    "🔫": [
+        "pekenene",
+        "pekenene vai"
+    ],
     "🎱": [
         "pulu fika 8"
     ],
@@ -10797,9 +14593,6 @@
     ],
     "🪄": [
         "vaʻakau fakamēsiki"
-    ],
-    "🧿": [
-        "mana nasā"
     ],
     "🎮️": [
         "vaʻinga vitiō"
@@ -10821,6 +14614,9 @@
     ],
     "🪅": [
         "tamapua lole"
+    ],
+    "🪩": [
+        "pula-hulohula"
     ],
     "🪆": [
         "tamapua fakaʻotu"
@@ -11110,6 +14906,9 @@
         "maka",
         "maka fakaʻuhila",
         "ʻuhila"
+    ],
+    "🪫": [
+        "maka meimei mate"
     ],
     "🔌": [
         "ʻumosi ʻuhila"
@@ -11440,13 +15239,14 @@
         "hamala moe sipana"
     ],
     "🗡️": [
-        "hele tui"
+        "hele tui",
+        "heletā"
     ],
     "⚔️": [
         "heletā fehauaki"
     ],
-    "🔫": [
-        "pekenene"
+    "💣️": [
+        "pulukōkō"
     ],
     "🪃": [
         "pūmalengi"
@@ -11458,7 +15258,8 @@
         "pā"
     ],
     "🪚": [
-        "kili"
+        "kili",
+        "tufunga"
     ],
     "🔧": [
         "sipana"
@@ -11482,7 +15283,8 @@
         "tokotoko fakaʻeke"
     ],
     "🔗": [
-        "kupu"
+        "kupu",
+        "kupuʻi sēini"
     ],
     "⛓️": [
         "sēini"
@@ -11533,8 +15335,14 @@
     "🩹": [
         "haʻihaʻi fakapipiki"
     ],
+    "🩼": [
+        "kalatisi"
+    ],
     "🩺": [
         "meʻa fakaongo"
+    ],
+    "🩻": [
+        "huelo fakaʻēkesi"
     ],
     "🚪": [
         "matapā"
@@ -11620,12 +15428,21 @@
     "⚱️": [
         "hina fakamomofi"
     ],
+    "🧿": [
+        "mana nasā"
+    ],
+    "🪬": [
+        "mataʻinima"
+    ],
     "🗿": [
         "Lapanui",
         "moai"
     ],
     "🪧": [
         "fakaʻilonga sikinali"
+    ],
+    "🪪": [
+        "kaati id"
     ],
     "🏧": [
         "mīsini",
@@ -11809,6 +15626,9 @@
         "ngahau",
         "ngahau ki toʻohema mo toʻomataʻu"
     ],
+    "↮": [
+        "ngahau ki toʻohema-mataʻu moe kohi"
+    ],
     "↩️": [
         "afe",
         "hema",
@@ -11896,253 +15716,449 @@
         "lotu"
     ],
     "☸️": [
+        "Tāma",
+        "veʻeteka",
         "veʻeteka ʻo Tāma"
     ],
     "☯️": [
         "ingi-iangi"
     ],
     "✝️": [
+        "fakalatina",
+        "kolosi",
         "kolosi fakalatina"
     ],
     "☦️": [
+        "fakakalisi",
+        "kolosi",
         "kolosi fakakalisi"
     ],
     "☪️": [
-        "fetuʻu moe kalipa"
+        "fakamahometi",
+        "fetuʻu",
+        "fetuʻu moe kalipa",
+        "kalipa"
     ],
     "☮️": [
+        "melino",
+        "ʻilonga",
         "ʻilonga fakamelino"
     ],
     "🕎": [
         "menola"
     ],
     "🔯": [
-        "fetuʻu tapaono moe ʻila"
+        "fetuʻu",
+        "fetuʻu tapaono moe ʻila",
+        "tapaono",
+        "ʻila"
     ],
     "♈️": [
         "Sipi tangata (pupunga)"
     ],
     "♉️": [
-        "Pulu tau (pupunga)"
+        "Pulu tau (pupunga)",
+        "pulu",
+        "pupunga",
+        "tau"
     ],
     "♊️": [
-        "Māhanga taʻane (pupunga)"
+        "Māhanga taʻane (pupunga)",
+        "māhanga",
+        "pupunga",
+        "taʻane"
     ],
     "♋️": [
-        "ʻUo (pupunga)"
+        "paka",
+        "pupunga",
+        "ʻUo (pupunga)",
+        "ʻuo"
     ],
     "♌️": [
-        "Laione (pupunga)"
+        "Laione (pupunga)",
+        "laione",
+        "pupunga"
     ],
     "♍️": [
-        "Taupoʻou (pupunga)"
+        "Taupoʻou (pupunga)",
+        "pupunga",
+        "taupoʻou"
     ],
     "♎️": [
-        "Fuatautau (pupunga)"
+        "Fuatautau (pupunga)",
+        "fuatautau",
+        "pupunga"
     ],
     "♏️": [
-        "Sikipio (pupunga)"
+        "Sikipio (pupunga)",
+        "pupunga",
+        "skipio"
     ],
     "♐️": [
-        "Tangata fana (pupunga)"
+        "Tangata fana (pupunga)",
+        "fana",
+        "pupunga",
+        "tangata"
     ],
     "♑️": [
-        "Kositahi (pupunga)"
+        "Kositahi (pupunga)",
+        "kosi",
+        "kositahi",
+        "pupunga"
     ],
     "♒️": [
-        "Fineʻutuvai (pupunga)"
+        "Fineʻutuvai (pupunga)",
+        "fefine",
+        "pupunga",
+        "tangata",
+        "ʻutuvai"
     ],
     "♓️": [
-        "Ongo ika (pupunga)"
+        "Ongo ika (pupunga)",
+        "ika",
+        "ongo",
+        "pupunga"
     ],
     "⛎": [
-        "Tangata toʻo ngata (pupunga)"
+        "Tangata",
+        "Tangata toʻo ngata (pupunga)",
+        "ngata",
+        "pupunga"
     ],
     "🔀": [
-        "meʻalolomi tuifio"
+        "meʻalolomi",
+        "meʻalolomi tuifio",
+        "tuifio"
     ],
     "🔁": [
-        "meʻalolomi toutou"
+        "meʻalolomi",
+        "meʻalolomi toutou",
+        "toutou"
     ],
     "🔂": [
-        "meʻalolomi toe tuʻotaha"
+        "meʻalolomi",
+        "meʻalolomi toe tuʻotaha",
+        "taha"
     ],
     "▶": [
-        "meʻalolomi tā"
+        "meʻalolomi",
+        "meʻalolomi tā",
+        "tā"
     ],
     "⏩": [
-        "meʻalolomi fakalaka vave"
+        "fakalaka",
+        "meʻalolomi",
+        "meʻalolomi fakalaka vave",
+        "vave"
     ],
     "⏭": [
+        "fasi",
+        "hoko",
+        "meʻalolomi",
         "meʻalolomi fasi hoko"
     ],
     "⏯": [
-        "meʻalolomi tā pe tatali"
+        "meʻalolomi",
+        "meʻalolomi tā pe tatali",
+        "tatali",
+        "tā"
     ],
     "◀": [
+        "foki",
+        "meʻalolomi",
         "meʻalolomi foki"
     ],
     "⏪": [
-        "meʻalolomi foki vave"
+        "foki",
+        "meʻalolomi",
+        "meʻalolomi foki vave",
+        "vave"
     ],
     "⏮": [
+        "fasi",
+        "ki muʻa",
+        "meʻalolomi",
         "meʻalolomi fasi kimuʻa"
     ],
     "🔼": [
+        "hake",
+        "meʻalolomi",
         "meʻalolomi hake"
     ],
     "⏫": [
-        "meʻalolomi hake vave"
+        "hake",
+        "meʻalolomi",
+        "meʻalolomi hake vave",
+        "vave"
     ],
     "🔽": [
+        "hifo",
+        "meʻalolomi",
         "meʻalolomi hifo"
     ],
     "⏬": [
-        "meʻalolomi hifo vave"
+        "hifo",
+        "meʻalolomi",
+        "meʻalolomi hifo vave",
+        "vave"
     ],
     "⏸️": [
-        "meʻalolomi tatali"
+        "meʻalolomi",
+        "meʻalolomi tatali",
+        "tatali"
     ],
     "⏹️": [
-        "meʻalolomi taʻofi"
+        "meʻalolomi",
+        "meʻalolomi taʻofi",
+        "taʻofi"
     ],
     "⏺️": [
+        "hiki",
+        "meʻalolomi",
         "meʻalolomi hiki"
     ],
     "⏏️": [
-        "meʻalolomi toʻo"
+        "meʻalolomi",
+        "meʻalolomi toʻo",
+        "toʻo"
     ],
     "🎦": [
-        "fale heleʻuhila"
+        "faiva",
+        "fale",
+        "fale heleʻuhila",
+        "heleʻuhila"
     ],
     "🔅": [
-        "meʻalolomi fakapōpōʻuli"
+        "meʻalolomi",
+        "meʻalolomi fakapōpōʻuli",
+        "pōpōʻuli"
     ],
     "🔆": [
+        "maama",
+        "meʻalolomi",
         "meʻalolomi fakamaama"
     ],
     "📶": [
+        "pā",
         "pā lave"
     ],
     "📳": [
-        "foni tetetete"
+        "foni",
+        "foni tetetete",
+        "tetetete"
     ],
     "📴": [
-        "foni toʻotoʻo tāmateʻi"
+        "foni",
+        "foni toʻotoʻo tāmateʻi",
+        "toʻotoʻo",
+        "tāmateʻi"
     ],
     "♀️": [
+        "fefine",
+        "ʻilonga",
         "ʻilonga fakafefine"
     ],
     "♂️": [
+        "tangata",
+        "ʻilonga",
         "ʻilonga fakatangata"
     ],
     "⚧️": [
+        "fakaleiti",
+        "tomupoi",
+        "ʻilonga",
         "ʻilonga fakaleiti moe tomupoi"
     ],
     "✖️": [
-        "fakaʻilonga liunga mamafa"
+        "fakaʻilonga",
+        "liunga",
+        "liunga mamafa"
     ],
     "➕": [
-        "fakaʻilonga tānaki mamafa"
+        "fakaʻilonga",
+        "tānaki",
+        "tānaki mamafa"
     ],
     "➖": [
-        "fakaʻilonga kole mamafa"
+        "fakaʻilonga",
+        "kole",
+        "kole mamafa"
     ],
     "➗": [
-        "fakaʻilonga vahevahe mamafa"
+        "fakaʻilonga",
+        "vahevahe",
+        "vahevahe mamafa"
+    ],
+    "🟰": [
+        "tatau mamafa"
     ],
     "♾️": [
-        "taʻengata"
+        "fakaʻilonga",
+        "taʻengata",
+        "taʻengata mamafa"
     ],
     "‼️": [
-        "fakaʻiloʻilonga kalanga"
+        "fakaʻilonga",
+        "kalanga",
+        "kalanga lōua",
+        "lōua"
     ],
     "⁉️": [
-        "fakaʻiloʻilonga kalanga-fehuʻi"
+        "fakaʻilonga",
+        "fehuʻi",
+        "kalanga",
+        "kalanga-fehuʻi"
     ],
     "❓️": [
-        "fakaʻilonga fehuʻi"
+        "fakaʻilonga",
+        "fehuʻi",
+        "fehuʻi kulokula"
     ],
     "❔": [
-        "fakaʻilonga fehuʻi hinehina"
+        "fakaʻilonga",
+        "fehuʻi",
+        "fehuʻi hinehina"
     ],
     "❕": [
-        "fakaʻilonga kalanga hinehina"
+        "fakaʻilonga",
+        "kalanga",
+        "kalanga hinehina"
     ],
     "❗️": [
-        "fakaʻilonga kalanga"
+        "fakaʻilonga",
+        "kalanga",
+        "kalanga kulokula"
     ],
     "〰️": [
-        "fakaʻilonga kohi fafasi"
+        "fafasi",
+        "fakaʻilonga",
+        "kohi",
+        "kohi fafasi"
     ],
     "💱": [
+        "fakafetongi",
+        "pangikē",
+        "paʻanga",
         "paʻanga fakafetongi"
     ],
     "💲": [
-        "fakaʻilonga paʻanga mamafa"
+        "fakaʻilonga",
+        "paʻanga",
+        "paʻanga mamafa"
     ],
     "⚕️": [
+        "tōketā",
+        "ʻilonga",
         "ʻilonga tōketā"
     ],
     "♻️": [
+        "ngāueʻaki foʻou",
+        "ʻilonga",
         "ʻilonga ngāueʻaki foʻou"
     ],
     "⚜": [
+        "Falanisē",
+        "lile",
+        "ʻilonga",
         "ʻilonga lile"
     ],
     "🔱": [
+        "matatolu",
+        "tahi",
+        "tao",
         "tao matatolu"
     ],
     "📛": [
+        "hingoa",
+        "kaati",
         "kaati hingoa"
     ],
     "🔰": [
+        "fakasiapani",
+        "langalangafoʻou",
+        "tokotaha",
         "tokotaha langalangafoʻou fakasiapani"
     ],
     "⭕️": [
-        "fuopotopoto mamafa"
+        "fuopotopoto",
+        "fuopotopoto mamafa",
+        "ngeʻesi"
     ],
     "✅": [
-        "fakaʻilonga sivi hinehina"
+        "fakaʻilonga",
+        "meʻalolomi",
+        "meʻalolomi sivi",
+        "sivi"
     ],
     "☑️": [
-        "pepa fili moe fakaʻilonga sivi"
+        "fakaʻilonga",
+        "fili",
+        "puha",
+        "puha fili moe sivi",
+        "sivi"
     ],
     "✔️": [
-        "fakaʻilonga sivi mamafa"
+        "fakaʻilonga",
+        "sivi",
+        "sivi mamafa"
     ],
     "❌": [
-        "fakaʻilonga kolosi"
+        "fakaʻilonga",
+        "kolosi"
     ],
     "❎": [
-        "meʻalolomi fakaʻilonga kolosi"
+        "fakaʻilonga",
+        "kolosi",
+        "meʻalolomi",
+        "meʻalolomi kolosi"
     ],
     "➰": [
-        "laine fakasākisi"
+        "laine",
+        "laine fakasākisi",
+        "sākisi"
     ],
     "➿": [
-        "laine fakasākisi lōua"
+        "laine",
+        "laine fakasākisi lōua",
+        "sākisi",
+        "ua"
     ],
     "〽️": [
-        "fakaʻilonga liliu faʻahi"
+        "fakaʻilonga",
+        "faʻahi",
+        "liliu",
+        "liliu faʻahi"
     ],
     "✳️": [
-        "fakaʻilonga fakafetuʻu huelovalu"
+        "fakaʻilonga",
+        "fetuʻu",
+        "fetuʻu huelovalu",
+        "huelo",
+        "valu"
     ],
     "✴️": [
-        "fakaʻilonga fakafetuʻu tapavalu"
+        "fakaʻilonga",
+        "fetuʻu",
+        "fetuʻu tapavalu",
+        "tapa",
+        "valu"
     ],
     "❇️": [
-        "ʻilonga fetapatapaki"
+        "fakaʻilonga",
+        "fetapaki",
+        "fetapatapaki"
     ],
     "©️": [
-        "fakaʻilonga mafai-pulusi"
+        "fakaʻilonga",
+        "mafai-pulusi"
     ],
     "®️": [
-        "fakaʻilonga lēsisita"
+        "fakaʻilonga",
+        "lēsisita"
     ],
     "™️": [
-        "fakaʻilonga fefakatauʻaki"
+        "fakaʻilonga",
+        "fefakatauʻaki"
     ],
     "#⃣": [
         "tatā foʻi kī",
@@ -12197,72 +16213,128 @@
         "tatā foʻi kī: 10"
     ],
     "🔠": [
-        "hū mataʻitohi lahi pē"
+        "AEF",
+        "hū mataʻitohi lahi pē",
+        "lahi",
+        "mataʻitohi"
     ],
     "🔡": [
-        "hū mataʻitohi siʻi pē"
+        "aef",
+        "hū mataʻitohi siʻi pē",
+        "mataʻitohi",
+        "siʻi"
     ],
     "🔢": [
-        "hū mataʻifika pē"
+        "123",
+        "hū mataʻifika pē",
+        "mataʻifika"
     ],
     "🔣": [
+        "@&%",
+        "fakaʻilonga",
         "hū fakaʻilonga pē"
     ],
     "🔤": [
-        "hū mataʻitohi fakalatina"
+        "hū mataʻitohi fakalatina",
+        "latina",
+        "mataʻitohi"
     ],
     "🅰️": [
+        "A",
+        "faʻahinga toto",
+        "meʻalolomi",
         "meʻalolomi faʻahinga toto A"
     ],
     "🆎": [
+        "AB",
+        "faʻahinga toto",
+        "meʻalolomi",
         "meʻalolomi faʻahinga toto AB"
     ],
     "🅱️": [
+        "B",
+        "faʻahinga toto",
+        "meʻalolomi",
         "meʻalolomi faʻahinga toto B"
     ],
     "🆑": [
+        "CL",
+        "meʻalolomi",
         "meʻalolomi CL"
     ],
     "🆒": [
+        "COOL",
+        "meʻalolomi",
         "meʻalolomi COOL"
     ],
     "🆓": [
+        "FREE",
+        "meʻalolomi",
         "meʻalolomi FREE"
     ],
     "ℹ️": [
+        "fakamatala",
+        "fakaʻilonga",
         "fakaʻilonga fakamatala"
     ],
     "🆔": [
+        "ID",
+        "meʻalolomi",
         "meʻalolomi ID"
     ],
     "Ⓜ️": [
-        "fakaʻilonga M fuopotopoto"
+        "M",
+        "fakaʻilonga",
+        "fakaʻilonga M fuopotopoto",
+        "fuopotopoto"
     ],
     "🆕": [
+        "NEW",
+        "meʻalolomi",
         "meʻalolomi NEW"
     ],
     "🆖": [
-        "meʻalolomi NG"
+        "NG",
+        "meʻalolomi",
+        "meʻalolomi NG",
+        "Ŋ"
     ],
     "🅾️": [
+        "O",
+        "faʻahinga toto",
+        "meʻalolomi",
         "meʻalolomi faʻahinga toto O"
     ],
     "🆗": [
-        "meʻalolomi OK"
+        "meʻalolomi OK",
+        "sai"
     ],
     "🅿️": [
-        "meʻalolomi P"
+        "P",
+        "meʻalolomi",
+        "meʻalolomi P",
+        "tau"
     ],
     "🆘": [
-        "meʻalolomi SOS"
+        "SOS",
+        "meʻalolomi",
+        "meʻalolomi SOS",
+        "tokoni mai"
     ],
     "🆙": [
+        "UP!",
+        "meʻalolomi",
         "meʻalolomi UP!"
     ],
     "🆚": [
+        "VS",
+        "meʻalolomi",
         "meʻalolomi VS"
     ],
     "🈁": [
+        "fakasiapani",
+        "heni",
+        "meʻalolomi",
         "meʻalolomi «ʻi heni» (fakasiapani)"
     ],
     "🈂️": [
@@ -12278,149 +16350,266 @@
         "moʻua fakamāhina"
     ],
     "🈶": [
-        "meʻalolomi «totongi» (fakasiapani)"
+        "fakasiapani",
+        "meʻalolomi",
+        "meʻalolomi «totongi» (fakasiapani)",
+        "totongi"
     ],
     "🈯": [
-        "meʻalolomi «taʻofi» (fakasiapani)"
+        "fakasiapani",
+        "meʻalolomi",
+        "meʻalolomi «taʻofi» (fakasiapani)",
+        "taʻofi"
     ],
     "🉐": [
+        "fakasiapani",
+        "maʻamaʻa",
+        "meʻalolomi",
         "meʻalolomi «maʻamaʻa» (fakasiapani)"
     ],
     "🈹": [
+        "fakamaʻamaʻa",
+        "fakasiapani",
+        "meʻalolomi",
         "meʻalolomi «fakamaʻamaʻa» (fakasiapani)"
     ],
     "🈚": [
-        "meʻalolomi «taʻetotongi» (fakasiapani)"
+        "fakasiapani",
+        "meʻalolomi",
+        "meʻalolomi «taʻetotongi» (fakasiapani)",
+        "taʻetotongi"
     ],
     "🈲": [
-        "meʻalolomi «tapu» (fakasiapani)"
+        "fakasiapani",
+        "meʻalolomi",
+        "meʻalolomi «tapu» (fakasiapani)",
+        "tapu"
     ],
     "🉑": [
+        "ala tali",
+        "fakasiapani",
+        "meʻalolomi",
         "meʻalolomi «ala tali» (fakasiapani)"
     ],
     "🈸": [
-        "meʻalolomi «ʻai heni» (fakasiapani)"
+        "fakasiapani",
+        "meʻalolomi",
+        "meʻalolomi «ʻai heni» (fakasiapani)",
+        "ʻai heni"
     ],
     "🈴": [
+        "fakasiapani",
+        "fika lava",
+        "meʻalolomi",
         "meʻalolomi «fika lava» (fakasiapani)"
     ],
     "🈳": [
+        "fakasiapani",
+        "loki ʻatā",
+        "meʻalolomi",
         "meʻalolomi «loki ʻatā» (fakasiapani)"
     ],
     "㊗️": [
+        "fakamālō",
+        "fakasiapani",
+        "meʻalolomi",
+        "meʻalolomi « fakamālō» (fakasiapani)",
         "meʻalolomi «fakamālō» (fakasiapani)"
     ],
     "㊙️": [
+        "fakasiapani",
+        "lilolilo",
+        "meʻalolomi",
+        "meʻalolomi « lilolilo» (fakasiapani)",
         "meʻalolomi «lilolilo» (fakasiapani)"
     ],
     "🈺": [
+        "ava he ngāue",
+        "fakasiapani",
+        "meʻalolomi",
         "meʻalolomi «ava he ngāue» (fakasiapani)"
     ],
     "🈵": [
+        "fakasiapani",
+        "hala loki ʻatā",
+        "meʻalolomi",
         "meʻalolomi «hala loki ʻatā» (fakasiapani)"
     ],
     "🔴": [
-        "fuopotopoto kulokula"
+        "fuopotopoto",
+        "fuopotopoto kulokula",
+        "kulokula"
     ],
     "🟠": [
-        "fuopotopoto lanumoli"
+        "fuopotopoto",
+        "fuopotopoto lanumoli",
+        "lanumoli"
     ],
     "🟡": [
+        "engeenga",
+        "fuopotopoto",
         "fuopotopoto engeenga"
     ],
     "🟢": [
-        "fuopotopoto lanumata"
+        "fuopotopoto",
+        "fuopotopoto lanumata",
+        "lanumata"
     ],
     "🔵": [
-        "fuopotopoto lanupulū"
+        "fuopotopoto",
+        "fuopotopoto lanupulū",
+        "lanupulū"
     ],
     "🟣": [
-        "fuopotopoto lanumoli",
-        "fuopotopoto lanuvaioleti"
+        "fuopotopoto",
+        "fuopotopoto lanuvaioleti",
+        "lanuvaioleti"
     ],
     "🟤": [
-        "fuopotopoto melomelo"
+        "fuopotopoto",
+        "fuopotopoto melomelo",
+        "melomelo"
     ],
     "⚫️": [
-        "fuopotopoto ʻuluʻuli"
+        "fuopotopoto",
+        "fuopotopoto ʻuluʻuli",
+        "ʻuluʻuli"
     ],
     "⚪️": [
-        "fuopotopoto hinehina"
+        "fuopotopoto",
+        "fuopotopoto hinehina",
+        "hinehina"
     ],
     "🟥": [
+        "kulokula",
+        "tapafā",
         "tapafā kulokula"
     ],
     "🟧": [
+        "lanumoli",
+        "tapafā",
         "tapafā lanumoli"
     ],
     "🟨": [
+        "engeenga",
+        "tapafā",
         "tapafā engeenga"
     ],
     "🟩": [
+        "lanumata",
+        "tapafā",
         "tapafā lanumata"
     ],
     "🟦": [
+        "lanupulū",
+        "tapafā",
         "tapafā lanupulū"
     ],
     "🟪": [
+        "lanuvaioleti",
+        "tapafā",
         "tapafā lanuvaioleti"
     ],
     "🟫": [
+        "melomelo",
+        "tapafā",
         "tapafā melomelo"
     ],
     "⬛️": [
-        "tapafā lahi mo ʻuliʻuli"
+        "tapafā",
+        "tapafā lahi mo ʻuliʻuli",
+        "ʻuliʻuli"
     ],
     "⬜️": [
+        "hinehina",
+        "tapafā",
         "tapafā lahi mo hinehina"
     ],
     "◼️": [
-        "tapafā tauloto mo ʻuliʻuli"
+        "tapafā",
+        "tapafā tauloto mo ʻuliʻuli",
+        "ʻuliʻuli"
     ],
     "◻️": [
+        "hinehina",
+        "tapafā",
         "tapafā tauloto mo hinehina"
     ],
     "◾️": [
-        "tapafā siʻi mo ʻuliʻuli"
+        "tapafā",
+        "tapafā siʻi mo ʻuliʻuli",
+        "ʻuliʻuli"
     ],
     "◽️": [
+        "hinehina",
+        "tapafā",
         "tapafā siʻi mo hinehina"
     ],
     "▪️": [
-        "tapafā siʻisiʻi mo ʻuliʻuli"
+        "tapafā",
+        "tapafā siʻisiʻi mo ʻuliʻuli",
+        "ʻuliʻuli"
     ],
     "▫️": [
+        "hinehina",
+        "tapafā",
         "tapafā siʻisiʻi mo hinehina"
     ],
     "🔶": [
+        "lanumoli",
+        "taiamoni",
         "taiamoni lahi mo lanumoli"
     ],
     "🔷": [
+        "lanupulū",
+        "taiamoni",
         "taiamoni lahi mo lanupulū"
     ],
     "🔸": [
+        "lanumoli",
+        "taiamoni",
         "taiamoni siʻi mo lanumoli"
     ],
     "🔹": [
+        "lanupulū",
+        "taiamoni",
         "taiamoni siʻi mo lanupulū"
     ],
     "🔺": [
-        "tapatolu ki ʻolunga kulokula"
+        "hake",
+        "kulokula",
+        "tapatolu",
+        "tapatolu ki ʻolunga kulokula",
+        "ʻolunga"
     ],
     "🔻": [
+        "hifo",
+        "kulokula",
+        "lalo",
+        "tapatolu",
         "tapatolu kulokula ki lalo"
     ],
     "💠": [
-        "taiamoni moe ʻila"
+        "taiamoni",
+        "taiamoni moe ʻila",
+        "ʻila"
     ],
     "🔘": [
+        "lētio",
+        "meʻalolomi",
         "meʻalolomi lētio"
     ],
     "🔳": [
-        "meʻalolomi tapafā hinehina"
+        "hinehina",
+        "meʻalolomi",
+        "meʻalolomi tapafā hinehina",
+        "tapafā"
     ],
     "🔲": [
-        "meʻalolomi tapafā ʻuliʻuli"
+        "meʻalolomi",
+        "meʻalolomi tapafā ʻuliʻuli",
+        "tapafā",
+        "ʻuliʻuli"
     ],
     "🏁": [
         "fuka",
@@ -13494,6 +17683,113 @@
     "🇿🇼": [
         "fuka",
         "fuka: Simipapuei"
+    ],
+    "¤": [
+        "Pa’anga Ta’e’ilo"
+    ],
+    "¢": [
+        "paʻanga",
+        "seniti"
+    ],
+    "$": [
+        "paʻanga",
+        "tola",
+        "ʻAmelika"
+    ],
+    "£": [
+        "Pilitānia",
+        "paʻanga",
+        "sōvaleni"
+    ],
+    "¥": [
+        "Siapani",
+        "ieni",
+        "paʻanga"
+    ],
+    "₢": [
+        "paʻanga fakapalāsili"
+    ],
+    "₣": [
+        "paʻanga fakafalanisē"
+    ],
+    "₤": [
+        "paʻanga fakaʻītali"
+    ],
+    "₥": [
+        "mili",
+        "paʻanga"
+    ],
+    "₩": [
+        "Kolea",
+        "paʻanga",
+        "uoni"
+    ],
+    "€": [
+        "paʻanga",
+        "ʻEulope",
+        "ʻeulo"
+    ],
+    "₰": [
+        "sēniti fakasiamane"
+    ],
+    "₱": [
+        "Sepeni",
+        "paʻanga",
+        "peso"
+    ],
+    "₳": [
+        "paʻanga fakaʻasenitina"
+    ],
+    "₶": [
+        "paʻanga motuʻa fakafalanisē"
+    ],
+    "₷": [
+        "paʻanga fakaʻesipulanito"
+    ],
+    "₹": [
+        "lupi",
+        "lupi fakaʻinitia",
+        "paʻanga",
+        "ʻInitia"
+    ],
+    "₽": [
+        "Lūsia",
+        "lupi",
+        "lupi fakalūsia",
+        "paʻanga"
+    ],
+    "₿": [
+        "fakapulipuli",
+        "makapiti",
+        "paʻanga"
+    ],
+    "₨": [
+        "paʻanga fakaʻinitia"
+    ],
+    "﷼": [
+        "paʻanga fakaʻalepea"
+    ],
+    "¹": [
+        "fakaʻilonga",
+        "hake",
+        "taha",
+        "taha hake"
+    ],
+    "²": [
+        "fakaʻilonga",
+        "hake",
+        "ua",
+        "ua hake"
+    ],
+    "³": [
+        "fakaʻilonga",
+        "hake",
+        "tolu",
+        "tolu hake"
+    ],
+    "µ": [
+        "fakaʻilonga",
+        "maikalo"
     ],
     "🏻": [
         "faʻahinga 1–2",

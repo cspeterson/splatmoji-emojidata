@@ -1,3 +1,347 @@
+‾	üst çizgi
+_	alt satır, alt tire, alt çizgi
+-	eksi, tire, tire-eksi, çizgi
+‐	tire, tire işareti, çizgi
+–	tire, çizgi
+—	tire, uzun, uzun tire
+―	yatay çizgi, çizgi, çubuk
+・	katakana, katakana orta nokta, orta nokta
+,	virgül
+،	arapça, arapça virgül, virgül
+、	ideografik, ideografik virgül, virgül
+;	noktalı virgül
+؛	arapça, arapça noktalı virgül, noktalı virgül
+:	iki nokta
+!	ünlem, ünlem işareti
+¡	ters, ters ünlem işareti, ünlem, ünlem işareti
+?	soru, soru işareti
+¿	soru, soru işareti, ters, ters soru işareti
+؟	arapça, arapça soru işareti, soru, soru işareti
+‽	soru ve ünlem işareti
+.	nokta, tam durak
+…	eksilti, eksiltme, üç nokta
+。	ideografik, ideografik nokta, nokta, tam durak
+·	nokta, orta, orta nokta, ortaya konan nokta
+'	daktilo kesme işareti, kesme, tek kesme, tek tırnak, tırnak
+‘	akıllı tırnak, kesme işareti, sol kesme işareti, tek kesme, tırnak
+’	akıllı tırnak, kesme işareti, sağ kesme işareti, tek kesme, tırnak
+‚	alt tırnak, kesme, sağ alt kesme işareti, tırnak
+“	akıllı tırnak, sol tırnak işareti, tırnak, çift tırnak
+”	akıllı tırnak, sağ tırnak işareti, tırnak, çift tırnak
+„	akıllı tırnak, sağ alt tırnak işareti, tırnak, çift tırnak
+«	açılı, düzeltme işareti, köşeli çift ayraç, parantezler, sol, sola bakan köşeli tırnak işareti, tırnak işareti
+»	açılı, düzeltme işareti, köşeli çift ayraç, parantezler, sağ, sağa bakan köşeli tırnak işareti, tırnak işareti
+)	ayraç, kapalı parantez, parantez, yuvarlak ayraç, yuvarlak parantez
+[	açık kare parantez, kare parantez, parantez
+]	kapalı kare parantez, kare parantez, parantez
+{	açık süslü ayraç, martı kanat, süslü ayraç, süslü parantez
+}	kapalı süslü ayraç, martı kanat, süslü ayraç, süslü parantez
+〈	açık açılı ayraç, açılı ayraç, açılı parantez, sivri ayraç
+〉	açılı ayraç, açılı parantez, kapalı açılı ayraç, sivri ayraç
+《	ayraç, açık çift açılı ayraç, çift açılı ayraç
+》	ayraç, kapalı çift açılı ayraç, çift açılı ayraç
+「	ayraç, açık köşeli ayraç, köşeli ayraç
+」	ayraç, kapalı köşeli ayraç, köşeli ayraç
+『	ayraç, açık köşeli oyuk ayraç, köşeli oyuk ayraç
+』	ayraç, kapalı köşeli oyuk ayraç, kapalı oyuk köşeli ayraç, oyuk köşeli ayraç
+【	ayraç, açık siyah lens ayraç, lens ayraç, merceksel ayraç
+】	ayraç, kapalı siyah lens ayraç, lens ayraç, merceksel ayraç
+〔	ayraç, açık kaplumbağa kabuğu şeklinde ayraç, kabuk ayraç, kaplumbağa kabuğu şeklinde ayraç
+〕	ayraç, kabuk ayraç, kapalı kaplumbağa kabuğu şeklinde ayraç, kaplumbağa kabuğu şeklinde ayraç
+〖	ayraç, açık oyuk mercek ayraç, oyuk mercek ayraç, oyuklu merceksel ayraç
+〗	ayraç, kapalı oyuk lens ayraç, oyuk lens ayraç, oyuklu merceksel ayraç
+§	bölüm, bölüm işareti, paragraf, parça
+¶	paragraf, paragraf işareti, pilcrow
+@	ampersat, bahsetme, konum, kuyruklu a
+*️	asterisk, joker, yıldız
+/	eğik, eğik çizgi, yatık çizgi
+\	ters eğik çizgi, ters yatık çizgi
+&	ampersan, ve
+#️	etiket, hashtag, kare, karma, sayı, sayı işareti
+%	yüzde
+‰	binde, binde bir
+†	dikili taş, kama, kama işareti, obelus
+‡	dikili taş, kama, obelus, çift, çift kama işareti
+•	madde imi, nokta
+‧	nokta, tire, tireleme noktası, çizgi
+′	üssü
+″	iki üssü, üssü
+‴	üssü, üç üssü
+‸	düzeltme işareti
+※	referans işareti
+⁂	üç yıldız işareti
+`	aksan, aksan işareti, işaret, ton, vurgu
+´	aksan, tiz aksan, tiz vurgu
+^	aksan, inceltme, inceltme işareti, xor, zikzak çıta, şapka işareti
+¨	ikilenme, umlaut, çift nokta
+°	derece, kanıt, saat
+℗	kayıt, ses, ses kaydı telif hakkı, telif hakkı
+←	ok, sol, solu gösteren ok
+↚	sola doğru çizgili ok
+→	ok, sağ, sağı gösteren ok
+↛	sağa doğru çizgili ok
+↑	ok, yukarı, yukarı gösteren ok
+↓	aşağı, aşağı gösteren ok, ok
+↜	sola doğru dalgalı ok
+↝	sağa doğru dalgalı ok
+↞	sola doğru çift başlı ok
+↟	yukarı doğru çift başlı ok
+↠	sağa doğru çift başlı ok
+↡	aşağı doğru çift başlı ok
+↢	sola doğru kuyruklu ok
+↣	sağa doğru kuyruklu ok
+↤	sola doğru çubuktan ok
+↥	yukarı doğru çubuktan ok
+↦	sağa doğru çubuktan ok
+↧	aşağı doğru çubuktan ok
+↨	yukarı aşağı tabanlı ok
+↫	sola döngülü ok
+↬	sağa döngülü ok
+↭	sol sağ dalgalı ok
+↯	aşağı yönlü zikzak ok
+↰	solda ipucu ile yukarı ok
+↱	sağda ipucu ile yukarı ok
+↲	solda ipucu ile aşağı ok
+↳	sağda ipucu ile aşağı ok
+↴	aşağı doğru köşesi olan sağ ok
+↵	sola doğru köşesi olan aşağı ok
+↶	saat yönünün tersinde üst yarım daireli ok
+↷	saat yönünde üst yarım daireli ok
+↸	kuzeybatı yönlü uzun çubuklu ok
+↹	sağ ok çubuğu üstünde sol ok çubuğu
+↺	saat yönünün tersinde açık daireli ok
+↻	saat yönünde açık daireli ok
+↼	yukarı kancalı sol yönlü zıpkın
+↽	aşağı kancalı sol yönlü zıpkın
+↾	sağ kancalı yukarı yönlü zıpkın
+↿	sol kancalı yukarı yönlü zıpkın
+⇀	yukarı kancalı sağ yönlü zıpkın
+⇁	aşağı kancalı sağ yönlü zıpkın
+⇂	sağ kancalı aşağı yönlü zıpkın
+⇃	sol kancalı aşağı yönlü zıpkın
+⇄	sol ok üzerinde sağ ok
+⇅	aşağı, ok, yukarı, yukarı ve aşağı bakan oklar
+⇆	altta sağa üstte sola bakan oklar, ok, sağ, sol
+⇇	sola eşleştirilmiş oklar
+⇈	yukarı eşleştirilmiş oklar
+⇉	aşağı doğru eşleştirilmiş oklar
+⇊	aşağı eşleştirilmiş oklar
+⇋	sağ zıpkın üstünde sol zıpkın
+⇌	sol zıpkın üstünde sağ zıpkın
+⇐	sola çift ok
+⇍	sola çizgili çift ok
+⇑	yukarı çift ok
+⇒	sağa çift ok
+⇏	sağa çizgili çift ok
+⇓	aşağı çift ok
+⇔	sol sağ çift ok
+⇎	sol sağ çizgili çift ok
+⇖	kuzeybatı yönlü çift ok
+⇗	kuzeydoğu yönlü çift ok
+⇘	güneydoğu yönlü çift ok
+⇙	güneybatı yönlü çift ok
+⇚	sola üçlü ok
+⇛	sağa üçlü ok
+⇜	sola eğri ok
+⇝	sağa eğri ok
+⇞	çift çizgili yukarı ok
+⇟	çift çizgili aşağı ok
+⇠	sola çizgili ok
+⇡	yukarı çizgili ok
+⇢	sağa çizgili ok
+⇣	aşağı çizgili ok
+⇤	sol ok çubuğu
+⇥	sağ ok çubuğu
+⇦	sola boş ok
+⇧	yukarı boş ok
+⇨	sağa boş ok
+⇩	aşağı boş ok
+⇪	çubuktan yukarı boş ok
+⇵	aşağı ok sol yukarı ok
+∀	tümü için
+∂	kısmi fark
+∃	vardır
+∅	boş küme
+∆	artım, üçgen
+∇	nabla, üçgen
+∈	eleman, elemanıdır, içerir, küme, üyelik
+∉	elemanı değildir
+∋	eleman olarak kapsar
+∎	silinmiş öğe
+∏	n öğeli çarpım
+∑	n öğeli toplama
++	artı, artı işareti, ekle
+±	artı-eksi
+÷	bölme, bölme işareti, bölüm, obelus
+×	çarpma, çarpma işareti, çarpım
+<	açık etiket, açılış etiketi, etiket, küçüktür
+≮	küçük değildir
+=	eşit, eşittir
+≠	denksizlik, eşit değildir, eşitsizlik
+>	büyüktür, etiket, kapalı etiket, kapanış etiketi
+≯	büyük değildir
+¬	olumsuzlama, olumsuzluk
+|	Sheffer inme, dikey, dikey çizgi, çizgi, çubuk
+~	yaklaşık
+−	eksi, eksi işareti, çıkarma
+⁻	eksi, üs, üs eksi, üst eksi simgesi, üst simge
+∓	artı veya eksi
+∕	bölme çizgisi
+⁄	kesir bölme işareti
+∗	yıldız işareti işleci
+∘	döngü işleci
+∙	madde işareti işleci
+√	kare, karekök, kök, radikal, radikal ifade, taban
+∝	orantılı
+∞	sonsuzluk, sonsuzluk işareti
+∟	dik açı
+∠	açı
+∣	bölen
+∥	paralel
+∧	mantıksal ve
+∩	kesişim, küme
+∪	birleşim, küme, toplam
+∫	entegral
+∬	çift entegral
+∮	çevre entegrali
+∴	öyleyse
+∵	çünkü
+∶	oran
+∷	orantı
+∼	tilde işleci
+∽	ters tilde
+∾	ters çevrilmiş yavaş s
+≃	asimptotik olarak eşit
+≅	yaklaşık olarak eşit
+≈	neredeyse eşit, yaklaştırma, yaklaşık
+≌	tamamen eşit
+≒	yaklaşık olarak eşit veya sanalı
+≖	eşitlikte döngü
+≡	aynı, denk, denktir, üçlü
+≣	tamamen eşdeğeri
+≤	eşitsizlik, eşittir, küçük eşit, küçüktür
+≥	büyük eşit, büyüktür, eşit, eşitsizlik
+≦	küçük eşittirden büyük
+≧	büyük eşittirden küçük
+≪	çok daha küçüktür
+≫	çok daha büyüktür
+≬	arasında
+≳	büyük veya eşdeğer
+≺	önce gelir
+≻	sonra gelir
+⊁	sonra gelmez
+⊂	alt küme, alt kümesi, alt kümesidir, küme
+⊃	üst küme
+⊆	alt küme eşittir
+⊇	üst küme eşittir
+⊕	daire içinde artı
+⊖	daire içinde eksi
+⊗	daire içinde çarpı
+⊘	daire içinde bölme işareti
+⊙	daire içinde nokta işleci
+⊚	daire içinde döngü işleci
+⊛	daire içinde yıldız işareti işleci
+⊞	kare içinde artı
+⊟	kare içinde eksi
+⊥	üst iğne
+⊮	gerektirmez
+⊰	bağıntıya göre önce gelir
+⊱	bağıntıya göre sonra gelir
+⋭	normal alt grup olarak kapsamaz
+⊶	orijinal
+⊹	hermit eşleniği matrisi
+⊿	dik üçgen
+⋁	n öğeli mantıksal veya
+⋂	n öğeli kesişim
+⋃	n öğeli birleşim
+⋅	nokta işleci
+⋆	yıldız işleci
+⋈	doğal birleşim
+⋒	çift kesişim
+⋘	çok fazla küçüktür
+⋙	çok fazla büyüktür
+⋮	dikey üç nokta
+⋯	orta çizgi yatay üç nokta
+⋰	yukarı sağa çapraz üç nokta
+⋱	aşağı sağa çapraz üç nokta
+■	dolu kare
+□	boş kare
+▢	yuvarlak köşeli boş kare
+▣	dolu kareli boş kare
+▤	yatay doldurulan kare
+▥	dikey doldurulan kare
+▦	dikgen çapraz çizgi ile doldurulan kare
+▧	sol üstten sağ alta doğru doldurulan kare
+▨	sağ üstten sol alta doğru doldurulan kare
+▩	köşegen çapraz çizgi ile doldurulan kare
+▬	dolu dikdörtgen
+▭	boş dikdörtgen
+▮	dolu dikey dikdörtgen
+▰	dolu paralelkenar
+▲	içi dolu, ok, yukarı, yukarı bakan içi dolu üçgen, üçgen
+△	içi boş yukarıyı gösteren üçgen
+▴	içi dolu yukarıyı gösteren küçük üçgen
+▵	içi boş yukarıyı gösteren küçük üçgen
+▷	içi boş sağı gösteren üçgen
+▸	içi dolu sağı gösteren küçük üçgen
+▹	içi boş sağı gösteren küçük üçgen
+►	içi dolu sağ işaretçi
+▻	içi boş sağ işaretçi
+▼	aşağı, aşağı bakan içi dolu üçgen, içi dolu, ok, üçgen
+▽	içi boş aşağıyı gösteren üçgen
+▾	içi dolu aşağıyı gösteren küçük üçgen
+▿	içi boş aşağıyı gösteren küçük üçgen
+◁	içi boş sol üçgen
+◂	içi dolu solu gösteren küçük üçgen
+◃	içi boş solu gösteren küçük üçgen
+◄	içi dolu sol işaretçi
+◅	içi boş sol işaretçi
+◆	dolu baklava
+◇	boş baklava
+◈	dolu baklavalı boş baklava
+◉	dolu daireli boş daire
+◊	baklava, elmas, eşkenar dörtgen
+○	boş daire, daire, halka
+◌	noktalı daire
+◍	dikey doldurulan daire
+◎	hedef merkezi
+●	içi dolu çember, çember
+◐	sol yarısı dolu daire
+◑	sağ yarısı dolu daire
+◒	alt yarısı dolu daire
+◓	üst yarısı dolu daire
+◔	sağ üst karesi dolu daire
+◕	sol üst karesi dolu olmayan daire
+◖	sol yarı dolu daire
+◗	sağ yarı dolu daire
+◘	ters madde işareti
+◙	içi boş daireli dolu kare
+◜	sol üst çeyrek dairesi dairesel olan yay
+◝	sağ üst çeyrek dairesi dairesel olan yay
+◞	sağ alt çeyrek dairesi dairesel olan yay
+◟	sol alt çeyrek dairesi dairesel olan yay
+◠	üst yarım daire
+◡	alt yarım daire
+◢	içi dolu sağ alt üçgen
+◣	içi dolu sol alt üçgen
+◤	içi dolu sol üst üçgen
+◥	içi dolu sağ üst üçgen
+◦	içi boş madde işareti
+◯	büyük boş daire, daire, halka
+◳	sağ üst çeyrek kareli boş kare
+◷	sağ üst çeyrek daireli boş daire
+◿	sağ alt üçgen
+♪	müzik, nota, sekizinci, sekizinci nota
+⨧	altı iki olan artı simgesi
+⨯	vektör çapraz çarpım
+⨼	iç çarpım
+⩣	mantıksal veya çift alt çubuklu
+⩽	küçüktür veya eğimli eşittir
+⪍	benzer veya eşittir üstündeki küçüktür
+⪚	çift çizgili eşittir veya büyüktür
+⪺	hemen hemen eşit değil üstünde sonra gelir
+♭	bemol, düz, müzik, nota
+♯	diyez, müzik, nota
 😀	gülen yüz, gülme, lol, neşeli, sırıtan yüz, yüz
 😃	ağzı açık gülen yüz, ağzı açık sırıtma, gülen yüz, gülme, gülümseme, lol, neşeli, yüz
 😄	ağzı açık gülen gözler, gülen gözlerle ağzı açık sırıtma, gülen yüz, gülme, gülümseme, lol, neşeli
@@ -8,6 +352,7 @@
 😂	gözyaşları, sevinç, sevinç gözyaşları, sevinç gözyaşları olan yüz, yüz
 🙂	gülme, hafifçe gülümseyen yüz, yüz
 🙃	ters yüz, yüz
+🫠	erime, eriyen yüz, kaybolma, sıvılaşma, çözülme
 😉	göz kırpan yüz, göz kırpma, yüz
 😊	ağzı açık gülme, gülümseyen gözler, gülümseyen yüz, gülümseyen yüz ve gözler, yüz
 😇	gülümseme, yüz, ışık halkalı gülümseme, ışık halkası
@@ -28,17 +373,23 @@
 🤑	ağız, para, para ağızlı yüz, yüz
 🤗	kucaklama, kucaklayarak gülümseme, sarılma, yüz
 🤭	eliyle ağzını kapatan yüz, tüh
+🫢	el ağızdayken gözler açık yüz, hayret, inanamama, korku, sürpriz, utanma, şaşkınlık
+🫣	dikizleme, gizlice bakan yüz, gizlice bakma, gözetleme
 🤫	sessiz, sus işareti yapan yüz, şişt
 🤔	düşünen yüz, düşünme, yüz
+🫡	asker, güneşli, onay, selam, selamlayan yüz
 🤐	ağzı fermuarlı yüz, ağız, fermuar, yüz
 🤨	güvenmeyen, tek kaşı çatık yüz, şüpheci
 😐️	duygusuz, duygusuz yüz, nötr, yorum yok, yüz
 😑	ifadesiz yüz, yorum yok, yüz
 😶	ağzı olmayan yüz, ağız, sakin, sessiz, yüz
+🫥	depresif, gizlenme, görünmez, içe dönük, kaybolma, noktalı çizgili yüz
+😶‍🌫	bulutlardaki kafa, bulutlardaki yüz, dalgın, sisler arasındaki yüz
 😏	imalı gülümseme, yapmacık gülümseyen, yapmacık gülümseyen yüz, yüz
 😒	keyifsiz yüz, mutsuz, yüz
 🙄	gözler, gözlerini deviren yüz, yuvarlanma, yüz
 😬	dişlerini gösteren yüz, yüz
+😮‍💨	fısıldama, nefes veren yüz, nefes verme, rahatlama, sızlanma, ıslık
 🤥	pinokyo, yalan söyleme, yalan söyleyen yüz, yüz
 😌	rahatlamış, rahatlamış yüz, yüz
 😔	düşünceli, düşünceli yüz, karamsar, yüz
@@ -55,14 +406,16 @@
 🥶	buz kesme, buz sarkıtları, donma, morarmış yüz, soğuk, üşümüş yüz
 🥴	kaymış gözler, sarhoş, sarhoş yüz, sersemlemiş, titreyen ağız, çakırkeyif
 😵	sersemlemiş yüz, yüz
+😵‍💫	hipnotize, kafası bulanık, sarmal, sarmal gözlü yüz, sersem, sıkıntı
 🤯	patlayan kafa, şoke
 🤠	kadın kovboy, kovboy, kovboy şapkalı yüz, yüz, şapka
 🥳	kutlama, parti, parti düdüğü, partide eğlenen yüz, şapka
-🥸	burun, gizlenmek, gizlenmiş yüz, gizli, gözlük, kimliğini gizleyen, maskeli, takma ad, yüz
+🥸	burun, gizlenmiş yüz, gizli, gözlük, kimliğini gizleyen, maskeli, yüz
 😎	gülümseme, güneş gözlükleri, güneş gözlükleriyle gülümseme, güneş gözlüklü gülümseme, soğukkanlı Jane, soğukkanlı Joe, yüz
 🤓	bilgili, inek öğrenci, ukala, ukala yüz, yüz
 🧐	kendini beğenmiş, tek cam gözlüklü yüz
 😕	kafası karışmış, kafası karışık yüz, yüz
+🫤	hayal kırıklığına uğramış, hüsran, kırgın, şüpheli, şüpheli yüz
 😟	endişeli yüz, yüz
 🙁	asık surat, biraz asık surat, yüz
 ☹️	asık, asık surat, yüz
@@ -71,6 +424,7 @@
 😲	afallamış, afallamış yüz, tamamen şoke olmuş, yüz, şoke olmuş
 😳	kızarmış ve şaşkın yüz, kızarmış yüz, yüz, şaşkınlık içinde, şaşırmış
 🥺	acıklı bakışlar, merhamet, yalvaran yüz, yalvarma
+🥹	ağlamaklı, direnmek, gurur, gözleri dolmuş yüz, kızgın, üzgün
 😦	açık ağızlı hoşnutsuz yüz, ağzı açık, hoşnutsuz, hoşnutsuz yüz, yüz
 😧	acı çeken, kederli yüz, yüz
 😨	korkmuş, korkulu yüz, yüz
@@ -114,7 +468,6 @@
 🙈	görmedim, görmeyen maymun, maymun
 🙉	duymadım, duymayan maymun, maymun
 🙊	bilmiyorum, maymun, söylemeyen maymun
-💋	dudaklar, romantizm, öpücük, öpücük izi
 💌	aşk mektubu, kalp, kalpli mektup, mektup, romantizm
 💘	aşk, duygu, kalp, ok, ok saplanmış kalp
 💝	duygu, kalp, kurdele, kurdeleli kalp, sevgililer günü
@@ -126,6 +479,8 @@
 💟	kalp, kalpli dekorasyon
 ❣️	işaret, kalp, kalp şeklinde ünlem işareti, noktalama, ünlem işareti
 💔	duygu, kalp, kırma, kırık kalp, kırılmış
+❤‍🔥	alev, arzu, ateşli kalp, aşk, kalp, kutsal kalp, tutku
+❤‍🩹	daha sağlıklı, iyi, iyileşen, iyileşen kalp, onarılan
 ❤️	kalp, kırmızı kalp
 🧡	portakal, turuncu kalp
 💛	duygu, kalp, sarı, sarı kalp
@@ -135,6 +490,7 @@
 🤎	kahverengi, kahverengi kalp, kalp
 🖤	fena, kalp, kötü, siyah, siyah kalp
 🤍	beyaz, beyaz kalp, kalp
+💋	dudaklar, romantizm, öpücük, öpücük izi
 💯	100, 100 puan, skor, yüz puan
 💢	duygu, çizgi roman, öfke işareti, öfke simgesi, öfkeli
 💥	duygu, çarpışma, çarpışma işareti, çizgi roman
@@ -142,7 +498,6 @@
 💦	duygu, ter, ter damlası, terli, çizgi roman
 💨	duygu, hızla fırlama, kaçma, koşma, çizgi roman
 🕳️	delik
-💣️	bomba, duygu, çizgi roman
 💬	balon, iletişim, iletişim balonu, konuşma balonu, çizgi roman
 👁‍🗨	göz, konuşma balonu, konuşma balonunda göz, tanıklık
 🗨️	diyalog, konuşma, sol konuşma balonu
@@ -179,6 +534,50 @@
 🖖🏽	Vulkan selamı, Vulkan selamı: orta cilt tonu, beden, el, orta cilt tonu, parmak, spock, vulcan selamı, vulkan
 🖖🏾	Vulkan selamı, Vulkan selamı: orta koyu cilt tonu, beden, el, orta koyu cilt tonu, parmak, spock, vulcan selamı, vulkan
 🖖🏿	Vulkan selamı, Vulkan selamı: koyu cilt tonu, beden, el, koyu cilt tonu, parmak, spock, vulcan selamı, vulkan
+🫱	el, sağ, sağa bakan el
+🫱🏻	açık cilt tonu, el, sağ, sağa bakan el, sağa bakan el: açık cilt tonu
+🫱🏼	el, orta açık cilt tonu, sağ, sağa bakan el, sağa bakan el: orta açık cilt tonu
+🫱🏽	el, orta cilt tonu, sağ, sağa bakan el, sağa bakan el: orta cilt tonu
+🫱🏾	el, orta koyu cilt tonu, sağ, sağa bakan el, sağa bakan el: orta koyu cilt tonu
+🫱🏿	el, koyu cilt tonu, sağ, sağa bakan el, sağa bakan el: koyu cilt tonu
+🫱🏻‍🫲🏼	anlaşma, açık cilt tonu, el, el sıkışma, el sıkışma: açık cilt tonu orta açık cilt tonu, orta açık cilt tonu, sallama, toplantı
+🫱🏻‍🫲🏽	anlaşma, açık cilt tonu, el, el sıkışma, el sıkışma: açık cilt tonu orta cilt tonu, orta cilt tonu, sallama, toplantı
+🫱🏻‍🫲🏾	anlaşma, açık cilt tonu, el, el sıkışma, el sıkışma: açık cilt tonu orta koyu cilt tonu, orta koyu cilt tonu, sallama, toplantı
+🫱🏻‍🫲🏿	anlaşma, açık cilt tonu, el, el sıkışma, el sıkışma: açık cilt tonu koyu cilt tonu, koyu cilt tonu, sallama, toplantı
+🫱🏼‍🫲🏻	anlaşma, açık cilt tonu, el, el sıkışma, el sıkışma: orta açık cilt tonu açık cilt tonu, orta açık cilt tonu, sallama, toplantı
+🫱🏼‍🫲🏽	anlaşma, el, el sıkışma, el sıkışma: orta açık cilt tonu orta cilt tonu, orta açık cilt tonu, orta cilt tonu, sallama, toplantı
+🫱🏼‍🫲🏾	anlaşma, el, el sıkışma, el sıkışma: orta açık cilt tonu orta koyu cilt tonu, orta açık cilt tonu, orta koyu cilt tonu, sallama, toplantı
+🫱🏼‍🫲🏿	anlaşma, el, el sıkışma, el sıkışma: orta açık cilt tonu koyu cilt tonu, koyu cilt tonu, orta açık cilt tonu, sallama, toplantı
+🫱🏽‍🫲🏻	anlaşma, açık cilt tonu, el, el sıkışma, el sıkışma: orta cilt tonu açık cilt tonu, orta cilt tonu, sallama, toplantı
+🫱🏽‍🫲🏼	anlaşma, el, el sıkışma, el sıkışma: orta cilt tonu orta açık cilt tonu, orta açık cilt tonu, orta cilt tonu, sallama, toplantı
+🫱🏽‍🫲🏾	anlaşma, el, el sıkışma, el sıkışma: orta cilt tonu orta koyu cilt tonu, orta cilt tonu, orta koyu cilt tonu, sallama, toplantı
+🫱🏽‍🫲🏿	anlaşma, el, el sıkışma, el sıkışma: orta cilt tonu koyu cilt tonu, koyu cilt tonu, orta cilt tonu, sallama, toplantı
+🫱🏾‍🫲🏻	anlaşma, açık cilt tonu, el, el sıkışma, el sıkışma: orta koyu cilt tonu açık cilt tonu, orta koyu cilt tonu, sallama, toplantı
+🫱🏾‍🫲🏼	anlaşma, el, el sıkışma, el sıkışma: orta koyu cilt tonu orta açık cilt tonu, orta açık cilt tonu, orta koyu cilt tonu, sallama, toplantı
+🫱🏾‍🫲🏽	anlaşma, el, el sıkışma, el sıkışma: orta koyu cilt tonu orta cilt tonu, orta cilt tonu, orta koyu cilt tonu, sallama, toplantı
+🫱🏾‍🫲🏿	anlaşma, el, el sıkışma, el sıkışma: orta koyu cilt tonu koyu cilt tonu, koyu cilt tonu, orta koyu cilt tonu, sallama, toplantı
+🫱🏿‍🫲🏻	anlaşma, açık cilt tonu, el, el sıkışma, el sıkışma: koyu cilt tonu açık cilt tonu, koyu cilt tonu, sallama, toplantı
+🫱🏿‍🫲🏼	anlaşma, el, el sıkışma, el sıkışma: koyu cilt tonu orta açık cilt tonu, koyu cilt tonu, orta açık cilt tonu, sallama, toplantı
+🫱🏿‍🫲🏽	anlaşma, el, el sıkışma, el sıkışma: koyu cilt tonu orta cilt tonu, koyu cilt tonu, orta cilt tonu, sallama, toplantı
+🫱🏿‍🫲🏾	anlaşma, el, el sıkışma, el sıkışma: koyu cilt tonu orta koyu cilt tonu, koyu cilt tonu, orta koyu cilt tonu, sallama, toplantı
+🫲	el, sol, sola bakan el
+🫲🏻	açık cilt tonu, el, sol, sola bakan el, sola bakan el: açık cilt tonu
+🫲🏼	el, orta açık cilt tonu, sol, sola bakan el, sola bakan el: orta açık cilt tonu
+🫲🏽	el, orta cilt tonu, sol, sola bakan el, sola bakan el: orta cilt tonu
+🫲🏾	el, orta koyu cilt tonu, sol, sola bakan el, sola bakan el: orta koyu cilt tonu
+🫲🏿	el, koyu cilt tonu, sol, sola bakan el, sola bakan el: koyu cilt tonu
+🫳	atmak, avuç içi aşağı bakan el, düşürmek, kışkışlamak
+🫳🏻	atmak, avuç içi aşağı bakan el, avuç içi aşağı bakan el: açık cilt tonu, açık cilt tonu, düşürmek, kışkışlamak
+🫳🏼	atmak, avuç içi aşağı bakan el, avuç içi aşağı bakan el: orta açık cilt tonu, düşürmek, kışkışlamak, orta açık cilt tonu
+🫳🏽	atmak, avuç içi aşağı bakan el, avuç içi aşağı bakan el: orta cilt tonu, düşürmek, kışkışlamak, orta cilt tonu
+🫳🏾	atmak, avuç içi aşağı bakan el, avuç içi aşağı bakan el: orta koyu cilt tonu, düşürmek, kışkışlamak, orta koyu cilt tonu
+🫳🏿	atmak, avuç içi aşağı bakan el, avuç içi aşağı bakan el: koyu cilt tonu, düşürmek, koyu cilt tonu, kışkışlamak
+🫴	avuç içi yukarı bakan el, el etmek, yakalamak, çağırmak
+🫴🏻	avuç içi yukarı bakan el, avuç içi yukarı bakan el: açık cilt tonu, açık cilt tonu, el etmek, yakalamak, çağırmak
+🫴🏼	avuç içi yukarı bakan el, avuç içi yukarı bakan el: orta açık cilt tonu, el etmek, orta açık cilt tonu, yakalamak, çağırmak
+🫴🏽	avuç içi yukarı bakan el, avuç içi yukarı bakan el: orta cilt tonu, el etmek, orta cilt tonu, yakalamak, çağırmak
+🫴🏾	avuç içi yukarı bakan el, avuç içi yukarı bakan el: orta koyu cilt tonu, el etmek, orta koyu cilt tonu, yakalamak, çağırmak
+🫴🏿	avuç içi yukarı bakan el, avuç içi yukarı bakan el: koyu cilt tonu, el etmek, koyu cilt tonu, yakalamak, çağırmak
 👌	Tamam, Tamam el işareti, el, işaret, tamam işareti
 👌🏻	Tamam, Tamam el işareti, açık cilt tonu, el, işaret, tamam işareti, tamam işareti: açık cilt tonu
 👌🏼	Tamam, Tamam el işareti, el, işaret, orta açık cilt tonu, tamam işareti, tamam işareti: orta açık cilt tonu
@@ -209,6 +608,12 @@
 🤞🏽	el, orta cilt tonu, parmak, çapraz, şans, şans dileme, şans dileme: orta cilt tonu
 🤞🏾	el, orta koyu cilt tonu, parmak, çapraz, şans, şans dileme, şans dileme: orta koyu cilt tonu
 🤞🏿	el, koyu cilt tonu, parmak, çapraz, şans, şans dileme, şans dileme: koyu cilt tonu
+🫰	aşk, işaret parmağı ve baş parmak birbirine geçmiş el, kalp, pahalı, para
+🫰🏻	açık cilt tonu, aşk, işaret parmağı ve baş parmak birbirine geçmiş el, işaret parmağı ve baş parmak birbirine geçmiş el: açık cilt tonu, kalp, pahalı, para
+🫰🏼	aşk, işaret parmağı ve baş parmak birbirine geçmiş el, işaret parmağı ve baş parmak birbirine geçmiş el: orta açık cilt tonu, kalp, orta açık cilt tonu, pahalı, para
+🫰🏽	aşk, işaret parmağı ve baş parmak birbirine geçmiş el, işaret parmağı ve baş parmak birbirine geçmiş el: orta cilt tonu, kalp, orta cilt tonu, pahalı, para
+🫰🏾	aşk, işaret parmağı ve baş parmak birbirine geçmiş el, işaret parmağı ve baş parmak birbirine geçmiş el: orta koyu cilt tonu, kalp, orta koyu cilt tonu, pahalı, para
+🫰🏿	aşk, işaret parmağı ve baş parmak birbirine geçmiş el, işaret parmağı ve baş parmak birbirine geçmiş el: koyu cilt tonu, kalp, koyu cilt tonu, pahalı, para
 🤟	SS, el, seni seviyorum işareti
 🤟🏻	SS, açık cilt tonu, el, seni seviyorum işareti, seni seviyorum işareti: açık cilt tonu
 🤟🏼	SS, el, orta açık cilt tonu, seni seviyorum işareti, seni seviyorum işareti: orta açık cilt tonu
@@ -263,6 +668,12 @@
 ☝🏽	beden, el, gösterme, işaret parmağı, orta cilt tonu, parmak, yukarı, yukarıyı gösteren işaret parmağı, yukarıyı gösteren işaret parmağı: orta cilt tonu
 ☝🏾	beden, el, gösterme, işaret parmağı, orta koyu cilt tonu, parmak, yukarı, yukarıyı gösteren işaret parmağı, yukarıyı gösteren işaret parmağı: orta koyu cilt tonu
 ☝🏿	beden, el, gösterme, işaret parmağı, koyu cilt tonu, parmak, yukarı, yukarıyı gösteren işaret parmağı, yukarıyı gösteren işaret parmağı: koyu cilt tonu
+🫵	işaret, karşıyı işaret eden işaret parmağı, sen
+🫵🏻	açık cilt tonu, işaret, karşıyı işaret eden işaret parmağı, karşıyı işaret eden işaret parmağı: açık cilt tonu, sen
+🫵🏼	işaret, karşıyı işaret eden işaret parmağı, karşıyı işaret eden işaret parmağı: orta açık cilt tonu, orta açık cilt tonu, sen
+🫵🏽	işaret, karşıyı işaret eden işaret parmağı, karşıyı işaret eden işaret parmağı: orta cilt tonu, orta cilt tonu, sen
+🫵🏾	işaret, karşıyı işaret eden işaret parmağı, karşıyı işaret eden işaret parmağı: orta koyu cilt tonu, orta koyu cilt tonu, sen
+🫵🏿	işaret, karşıyı işaret eden işaret parmağı, karşıyı işaret eden işaret parmağı: koyu cilt tonu, koyu cilt tonu, sen
 👍️	baş parmak, baş parmak yukarıda, el, işaret, yukarı
 👍🏻	açık cilt tonu, baş parmak, baş parmak yukarıda, baş parmak yukarıda: açık cilt tonu, el, işaret, yukarı
 👍🏼	baş parmak, baş parmak yukarıda, baş parmak yukarıda: orta açık cilt tonu, el, işaret, orta açık cilt tonu, yukarı
@@ -311,6 +722,12 @@
 🙌🏽	eller havaya, eller havaya: orta cilt tonu, her iki el, kutlama, kutlamak için iki eli birden kaldırma, orta cilt tonu
 🙌🏾	eller havaya, eller havaya: orta koyu cilt tonu, her iki el, kutlama, kutlamak için iki eli birden kaldırma, orta koyu cilt tonu
 🙌🏿	eller havaya, eller havaya: koyu cilt tonu, her iki el, koyu cilt tonu, kutlama, kutlamak için iki eli birden kaldırma
+🫶	aşk, kalp, kalp oluşturan eller, sevgi
+🫶🏻	açık cilt tonu, aşk, kalp, kalp oluşturan eller, kalp oluşturan eller: açık cilt tonu, sevgi
+🫶🏼	aşk, kalp, kalp oluşturan eller, kalp oluşturan eller: orta açık cilt tonu, orta açık cilt tonu, sevgi
+🫶🏽	aşk, kalp, kalp oluşturan eller, kalp oluşturan eller: orta cilt tonu, orta cilt tonu, sevgi
+🫶🏾	aşk, kalp, kalp oluşturan eller, kalp oluşturan eller: orta koyu cilt tonu, orta koyu cilt tonu, sevgi
+🫶🏿	aşk, kalp, kalp oluşturan eller, kalp oluşturan eller: koyu cilt tonu, koyu cilt tonu, sevgi
 👐	açık, el, eller açık, eller açık işareti, işaret
 👐🏻	açık, açık cilt tonu, el, eller açık, eller açık işareti, eller açık: açık cilt tonu, işaret
 👐🏼	açık, el, eller açık, eller açık işareti, eller açık: orta açık cilt tonu, işaret, orta açık cilt tonu
@@ -324,6 +741,11 @@
 🤲🏾	dua eden eller, iki avuç açık, iki avuç açık: orta koyu cilt tonu, orta koyu cilt tonu
 🤲🏿	dua eden eller, iki avuç açık, iki avuç açık: koyu cilt tonu, koyu cilt tonu
 🤝	anlaşma, el, el sıkışma, sallama, toplantı
+🤝🏻	anlaşma, açık cilt tonu, el, el sıkışma, el sıkışma: açık cilt tonu, sallama, toplantı
+🤝🏼	anlaşma, el, el sıkışma, el sıkışma: orta açık cilt tonu, orta açık cilt tonu, sallama, toplantı
+🤝🏽	anlaşma, el, el sıkışma, el sıkışma: orta cilt tonu, orta cilt tonu, sallama, toplantı
+🤝🏾	anlaşma, el, el sıkışma, el sıkışma: orta koyu cilt tonu, orta koyu cilt tonu, sallama, toplantı
+🤝🏿	anlaşma, el, el sıkışma, el sıkışma: koyu cilt tonu, koyu cilt tonu, sallama, toplantı
 🙏	birleşen eller, dua, dua etme, el, hareket
 🙏🏻	açık cilt tonu, birleşen eller, birleşen eller: açık cilt tonu, dua, dua etme, el, hareket
 🙏🏼	birleşen eller, birleşen eller: orta açık cilt tonu, dua, dua etme, el, hareket, orta açık cilt tonu
@@ -395,6 +817,7 @@
 👁️	beden, göz
 👅	dil, gövde, yüz
 👄	ağız, dudaklar, gövde, yüz
+🫦	davetkar, endişeli, gergin, korku, rahatsız, ısırılan dudak
 👶	bebek, kişiler
 👶🏻	açık cilt tonu, bebek, bebek: açık cilt tonu, kişiler
 👶🏼	bebek, bebek: orta açık cilt tonu, kişiler, orta açık cilt tonu
@@ -413,12 +836,12 @@
 👦🏽	erkek çocuk, erkek çocuk: orta cilt tonu, kişiler, orta cilt tonu
 👦🏾	erkek çocuk, erkek çocuk: orta koyu cilt tonu, kişiler, orta koyu cilt tonu
 👦🏿	erkek çocuk, erkek çocuk: koyu cilt tonu, kişiler, koyu cilt tonu
-👧	kişiler, kız çocuk
-👧🏻	açık cilt tonu, kişiler, kız çocuk, kız çocuk: açık cilt tonu
-👧🏼	kişiler, kız çocuk, kız çocuk: orta açık cilt tonu, orta açık cilt tonu
-👧🏽	kişiler, kız çocuk, kız çocuk: orta cilt tonu, orta cilt tonu
-👧🏾	kişiler, kız çocuk, kız çocuk: orta koyu cilt tonu, orta koyu cilt tonu
-👧🏿	kişiler, koyu cilt tonu, kız çocuk, kız çocuk: koyu cilt tonu
+👧	genç, kişiler, kız çocuk
+👧🏻	açık cilt tonu, genç, kişiler, kız çocuk, kız çocuk: açık cilt tonu
+👧🏼	genç, kişiler, kız çocuk, kız çocuk: orta açık cilt tonu, orta açık cilt tonu
+👧🏽	genç, kişiler, kız çocuk, kız çocuk: orta cilt tonu, orta cilt tonu
+👧🏾	genç, kişiler, kız çocuk, kız çocuk: orta koyu cilt tonu, orta koyu cilt tonu
+👧🏿	genç, kişiler, koyu cilt tonu, kız çocuk, kız çocuk: koyu cilt tonu
 🧑	kişi, yetişkin
 🧑🏻	açık cilt tonu, kişi, yetişkin, yetişkin: açık cilt tonu
 🧑🏼	kişi, orta açık cilt tonu, yetişkin, yetişkin: orta açık cilt tonu
@@ -431,6 +854,46 @@
 👱🏽	orta cilt tonu, sarı saçlı kişi, sarışın, sarışın kişi, sarışın kişi: orta cilt tonu, saç
 👱🏾	orta koyu cilt tonu, sarı saçlı kişi, sarışın, sarışın kişi, sarışın kişi: orta koyu cilt tonu, saç
 👱🏿	koyu cilt tonu, sarı saçlı kişi, sarışın, sarışın kişi, sarışın kişi: koyu cilt tonu, saç
+🧑🏻‍❤‍💋‍🧑🏼	açık cilt tonu, kişiler, orta açık cilt tonu, romantizm, yetişkin, öpücük, öpücük: yetişkin yetişkin açık cilt tonu orta açık cilt tonu, öpüşme
+🧑🏻‍❤‍💋‍🧑🏽	açık cilt tonu, kişiler, orta cilt tonu, romantizm, yetişkin, öpücük, öpücük: yetişkin yetişkin açık cilt tonu orta cilt tonu, öpüşme
+🧑🏻‍❤‍💋‍🧑🏾	açık cilt tonu, kişiler, orta koyu cilt tonu, romantizm, yetişkin, öpücük, öpücük: yetişkin yetişkin açık cilt tonu orta koyu cilt tonu, öpüşme
+🧑🏻‍❤‍💋‍🧑🏿	açık cilt tonu, kişiler, koyu cilt tonu, romantizm, yetişkin, öpücük, öpücük: yetişkin yetişkin açık cilt tonu koyu cilt tonu, öpüşme
+🧑🏼‍❤‍💋‍🧑🏻	açık cilt tonu, kişiler, orta açık cilt tonu, romantizm, yetişkin, öpücük, öpücük: yetişkin yetişkin orta açık cilt tonu açık cilt tonu, öpüşme
+🧑🏼‍❤‍💋‍🧑🏽	kişiler, orta açık cilt tonu, orta cilt tonu, romantizm, yetişkin, öpücük, öpücük: yetişkin yetişkin orta açık cilt tonu orta cilt tonu, öpüşme
+🧑🏼‍❤‍💋‍🧑🏾	kişiler, orta açık cilt tonu, orta koyu cilt tonu, romantizm, yetişkin, öpücük, öpücük: yetişkin yetişkin orta açık cilt tonu orta koyu cilt tonu, öpüşme
+🧑🏼‍❤‍💋‍🧑🏿	kişiler, koyu cilt tonu, orta açık cilt tonu, romantizm, yetişkin, öpücük, öpücük: yetişkin yetişkin orta açık cilt tonu koyu cilt tonu, öpüşme
+🧑🏽‍❤‍💋‍🧑🏻	açık cilt tonu, kişiler, orta cilt tonu, romantizm, yetişkin, öpücük, öpücük: yetişkin yetişkin orta cilt tonu açık cilt tonu, öpüşme
+🧑🏽‍❤‍💋‍🧑🏼	kişiler, orta açık cilt tonu, orta cilt tonu, romantizm, yetişkin, öpücük, öpücük: yetişkin yetişkin orta cilt tonu orta açık cilt tonu, öpüşme
+🧑🏽‍❤‍💋‍🧑🏾	kişiler, orta cilt tonu, orta koyu cilt tonu, romantizm, yetişkin, öpücük, öpücük: yetişkin yetişkin orta cilt tonu orta koyu cilt tonu, öpüşme
+🧑🏽‍❤‍💋‍🧑🏿	kişiler, koyu cilt tonu, orta cilt tonu, romantizm, yetişkin, öpücük, öpücük: yetişkin yetişkin orta cilt tonu koyu cilt tonu, öpüşme
+🧑🏾‍❤‍💋‍🧑🏻	açık cilt tonu, kişiler, orta koyu cilt tonu, romantizm, yetişkin, öpücük, öpücük: yetişkin yetişkin orta koyu cilt tonu açık cilt tonu, öpüşme
+🧑🏾‍❤‍💋‍🧑🏼	kişiler, orta açık cilt tonu, orta koyu cilt tonu, romantizm, yetişkin, öpücük, öpücük: yetişkin yetişkin orta koyu cilt tonu orta açık cilt tonu, öpüşme
+🧑🏾‍❤‍💋‍🧑🏽	kişiler, orta cilt tonu, orta koyu cilt tonu, romantizm, yetişkin, öpücük, öpücük: yetişkin yetişkin orta koyu cilt tonu orta cilt tonu, öpüşme
+🧑🏾‍❤‍💋‍🧑🏿	kişiler, koyu cilt tonu, orta koyu cilt tonu, romantizm, yetişkin, öpücük, öpücük: yetişkin yetişkin orta koyu cilt tonu koyu cilt tonu, öpüşme
+🧑🏿‍❤‍💋‍🧑🏻	açık cilt tonu, kişiler, koyu cilt tonu, romantizm, yetişkin, öpücük, öpücük: yetişkin yetişkin koyu cilt tonu açık cilt tonu, öpüşme
+🧑🏿‍❤‍💋‍🧑🏼	kişiler, koyu cilt tonu, orta açık cilt tonu, romantizm, yetişkin, öpücük, öpücük: yetişkin yetişkin koyu cilt tonu orta açık cilt tonu, öpüşme
+🧑🏿‍❤‍💋‍🧑🏽	kişiler, koyu cilt tonu, orta cilt tonu, romantizm, yetişkin, öpücük, öpücük: yetişkin yetişkin koyu cilt tonu orta cilt tonu, öpüşme
+🧑🏿‍❤‍💋‍🧑🏾	kişiler, koyu cilt tonu, orta koyu cilt tonu, romantizm, yetişkin, öpücük, öpücük: yetişkin yetişkin koyu cilt tonu orta koyu cilt tonu, öpüşme
+🧑🏻‍❤‍🧑🏼	açık cilt tonu, kalp, kalpli çift, kalpli çift: yetişkin yetişkin açık cilt tonu orta açık cilt tonu, kişiler, orta açık cilt tonu, romantizm, yetişkin
+🧑🏻‍❤‍🧑🏽	açık cilt tonu, kalp, kalpli çift, kalpli çift: yetişkin yetişkin açık cilt tonu orta cilt tonu, kişiler, orta cilt tonu, romantizm, yetişkin
+🧑🏻‍❤‍🧑🏾	açık cilt tonu, kalp, kalpli çift, kalpli çift: yetişkin yetişkin açık cilt tonu orta koyu cilt tonu, kişiler, orta koyu cilt tonu, romantizm, yetişkin
+🧑🏻‍❤‍🧑🏿	açık cilt tonu, kalp, kalpli çift, kalpli çift: yetişkin yetişkin açık cilt tonu koyu cilt tonu, kişiler, koyu cilt tonu, romantizm, yetişkin
+🧑🏼‍❤‍🧑🏻	açık cilt tonu, kalp, kalpli çift, kalpli çift: yetişkin yetişkin orta açık cilt tonu açık cilt tonu, kişiler, orta açık cilt tonu, romantizm, yetişkin
+🧑🏼‍❤‍🧑🏽	kalp, kalpli çift, kalpli çift: yetişkin yetişkin orta açık cilt tonu orta cilt tonu, kişiler, orta açık cilt tonu, orta cilt tonu, romantizm, yetişkin
+🧑🏼‍❤‍🧑🏾	kalp, kalpli çift, kalpli çift: yetişkin yetişkin orta açık cilt tonu orta koyu cilt tonu, kişiler, orta açık cilt tonu, orta koyu cilt tonu, romantizm, yetişkin
+🧑🏼‍❤‍🧑🏿	kalp, kalpli çift, kalpli çift: yetişkin yetişkin orta açık cilt tonu koyu cilt tonu, kişiler, koyu cilt tonu, orta açık cilt tonu, romantizm, yetişkin
+🧑🏽‍❤‍🧑🏻	açık cilt tonu, kalp, kalpli çift, kalpli çift: yetişkin yetişkin orta cilt tonu açık cilt tonu, kişiler, orta cilt tonu, romantizm, yetişkin
+🧑🏽‍❤‍🧑🏼	kalp, kalpli çift, kalpli çift: yetişkin yetişkin orta cilt tonu orta açık cilt tonu, kişiler, orta açık cilt tonu, orta cilt tonu, romantizm, yetişkin
+🧑🏽‍❤‍🧑🏾	kalp, kalpli çift, kalpli çift: yetişkin yetişkin orta cilt tonu orta koyu cilt tonu, kişiler, orta cilt tonu, orta koyu cilt tonu, romantizm, yetişkin
+🧑🏽‍❤‍🧑🏿	kalp, kalpli çift, kalpli çift: yetişkin yetişkin orta cilt tonu koyu cilt tonu, kişiler, koyu cilt tonu, orta cilt tonu, romantizm, yetişkin
+🧑🏾‍❤‍🧑🏻	açık cilt tonu, kalp, kalpli çift, kalpli çift: yetişkin yetişkin orta koyu cilt tonu açık cilt tonu, kişiler, orta koyu cilt tonu, romantizm, yetişkin
+🧑🏾‍❤‍🧑🏼	kalp, kalpli çift, kalpli çift: yetişkin yetişkin orta koyu cilt tonu orta açık cilt tonu, kişiler, orta açık cilt tonu, orta koyu cilt tonu, romantizm, yetişkin
+🧑🏾‍❤‍🧑🏽	kalp, kalpli çift, kalpli çift: yetişkin yetişkin orta koyu cilt tonu orta cilt tonu, kişiler, orta cilt tonu, orta koyu cilt tonu, romantizm, yetişkin
+🧑🏾‍❤‍🧑🏿	kalp, kalpli çift, kalpli çift: yetişkin yetişkin orta koyu cilt tonu koyu cilt tonu, kişiler, koyu cilt tonu, orta koyu cilt tonu, romantizm, yetişkin
+🧑🏿‍❤‍🧑🏻	açık cilt tonu, kalp, kalpli çift, kalpli çift: yetişkin yetişkin koyu cilt tonu açık cilt tonu, kişiler, koyu cilt tonu, romantizm, yetişkin
+🧑🏿‍❤‍🧑🏼	kalp, kalpli çift, kalpli çift: yetişkin yetişkin koyu cilt tonu orta açık cilt tonu, kişiler, koyu cilt tonu, orta açık cilt tonu, romantizm, yetişkin
+🧑🏿‍❤‍🧑🏽	kalp, kalpli çift, kalpli çift: yetişkin yetişkin koyu cilt tonu orta cilt tonu, kişiler, koyu cilt tonu, orta cilt tonu, romantizm, yetişkin
+🧑🏿‍❤‍🧑🏾	kalp, kalpli çift, kalpli çift: yetişkin yetişkin koyu cilt tonu orta koyu cilt tonu, kişiler, koyu cilt tonu, orta koyu cilt tonu, romantizm, yetişkin
 🧑‍🦰	kişi, kızıl saç, yetişkin, yetişkin: kızıl saç
 🧑🏻‍🦰	açık cilt tonu, kişi, kızıl saç, yetişkin, yetişkin: açık cilt tonu kızıl saç
 🧑🏼‍🦰	kişi, kızıl saç, orta açık cilt tonu, yetişkin, yetişkin: orta açık cilt tonu kızıl saç
@@ -467,12 +930,68 @@
 🧔🏽	orta cilt tonu, sakal, sakallı kişi, sakallı kişi: orta cilt tonu
 🧔🏾	orta koyu cilt tonu, sakal, sakallı kişi, sakallı kişi: orta koyu cilt tonu
 🧔🏿	koyu cilt tonu, sakal, sakallı kişi, sakallı kişi: koyu cilt tonu
+🧔‍♂	erkek, erkek: sakal, sakal
+🧔🏻‍♂	açık cilt tonu, erkek, erkek: açık cilt tonu sakal, erkek: sakal, sakal
+🧔🏼‍♂	erkek, erkek: orta açık cilt tonu sakal, erkek: sakal, orta açık cilt tonu, sakal
+🧔🏽‍♂	erkek, erkek: orta cilt tonu sakal, erkek: sakal, orta cilt tonu, sakal
+🧔🏾‍♂	erkek, erkek: orta koyu cilt tonu sakal, erkek: sakal, orta koyu cilt tonu, sakal
+🧔🏿‍♂	erkek, erkek: koyu cilt tonu sakal, erkek: sakal, koyu cilt tonu, sakal
 👱‍♂	adam, erkek, sarışın, sarışın erkek
 👱🏻‍♂	adam, açık cilt tonu, erkek, sarışın, sarışın erkek: açık cilt tonu
 👱🏼‍♂	adam, erkek, orta açık cilt tonu, sarışın, sarışın erkek: orta açık cilt tonu
 👱🏽‍♂	adam, erkek, orta cilt tonu, sarışın, sarışın erkek: orta cilt tonu
 👱🏾‍♂	adam, erkek, orta koyu cilt tonu, sarışın, sarışın erkek: orta koyu cilt tonu
 👱🏿‍♂	adam, erkek, koyu cilt tonu, sarışın, sarışın erkek: koyu cilt tonu
+👨🏻‍❤‍💋‍👨🏻	açık cilt tonu, erkek, kişiler, romantizm, öpücük, öpücük: erkek erkek açık cilt tonu, öpüşme
+👨🏻‍❤‍💋‍👨🏼	açık cilt tonu, erkek, kişiler, orta açık cilt tonu, romantizm, öpücük, öpücük: erkek erkek açık cilt tonu orta açık cilt tonu, öpüşme
+👨🏻‍❤‍💋‍👨🏽	açık cilt tonu, erkek, kişiler, orta cilt tonu, romantizm, öpücük, öpücük: erkek erkek açık cilt tonu orta cilt tonu, öpüşme
+👨🏻‍❤‍💋‍👨🏾	açık cilt tonu, erkek, kişiler, orta koyu cilt tonu, romantizm, öpücük, öpücük: erkek erkek açık cilt tonu orta koyu cilt tonu, öpüşme
+👨🏻‍❤‍💋‍👨🏿	açık cilt tonu, erkek, kişiler, koyu cilt tonu, romantizm, öpücük, öpücük: erkek erkek açık cilt tonu koyu cilt tonu, öpüşme
+👨🏼‍❤‍💋‍👨🏻	açık cilt tonu, erkek, kişiler, orta açık cilt tonu, romantizm, öpücük, öpücük: erkek erkek orta açık cilt tonu açık cilt tonu, öpüşme
+👨🏼‍❤‍💋‍👨🏼	erkek, kişiler, orta açık cilt tonu, romantizm, öpücük, öpücük: erkek erkek orta açık cilt tonu, öpüşme
+👨🏼‍❤‍💋‍👨🏽	erkek, kişiler, orta açık cilt tonu, orta cilt tonu, romantizm, öpücük, öpücük: erkek erkek orta açık cilt tonu orta cilt tonu, öpüşme
+👨🏼‍❤‍💋‍👨🏾	erkek, kişiler, orta açık cilt tonu, orta koyu cilt tonu, romantizm, öpücük, öpücük: erkek erkek orta açık cilt tonu orta koyu cilt tonu, öpüşme
+👨🏼‍❤‍💋‍👨🏿	erkek, kişiler, koyu cilt tonu, orta açık cilt tonu, romantizm, öpücük, öpücük: erkek erkek orta açık cilt tonu koyu cilt tonu, öpüşme
+👨🏽‍❤‍💋‍👨🏻	açık cilt tonu, erkek, kişiler, orta cilt tonu, romantizm, öpücük, öpücük: erkek erkek orta cilt tonu açık cilt tonu, öpüşme
+👨🏽‍❤‍💋‍👨🏼	erkek, kişiler, orta açık cilt tonu, orta cilt tonu, romantizm, öpücük, öpücük: erkek erkek orta cilt tonu orta açık cilt tonu, öpüşme
+👨🏽‍❤‍💋‍👨🏽	erkek, kişiler, orta cilt tonu, romantizm, öpücük, öpücük: erkek erkek orta cilt tonu, öpüşme
+👨🏽‍❤‍💋‍👨🏾	erkek, kişiler, orta cilt tonu, orta koyu cilt tonu, romantizm, öpücük, öpücük: erkek erkek orta cilt tonu orta koyu cilt tonu, öpüşme
+👨🏽‍❤‍💋‍👨🏿	erkek, kişiler, koyu cilt tonu, orta cilt tonu, romantizm, öpücük, öpücük: erkek erkek orta cilt tonu koyu cilt tonu, öpüşme
+👨🏾‍❤‍💋‍👨🏻	açık cilt tonu, erkek, kişiler, orta koyu cilt tonu, romantizm, öpücük, öpücük: erkek erkek orta koyu cilt tonu açık cilt tonu, öpüşme
+👨🏾‍❤‍💋‍👨🏼	erkek, kişiler, orta açık cilt tonu, orta koyu cilt tonu, romantizm, öpücük, öpücük: erkek erkek orta koyu cilt tonu orta açık cilt tonu, öpüşme
+👨🏾‍❤‍💋‍👨🏽	erkek, kişiler, orta cilt tonu, orta koyu cilt tonu, romantizm, öpücük, öpücük: erkek erkek orta koyu cilt tonu orta cilt tonu, öpüşme
+👨🏾‍❤‍💋‍👨🏾	erkek, kişiler, orta koyu cilt tonu, romantizm, öpücük, öpücük: erkek erkek orta koyu cilt tonu, öpüşme
+👨🏾‍❤‍💋‍👨🏿	erkek, kişiler, koyu cilt tonu, orta koyu cilt tonu, romantizm, öpücük, öpücük: erkek erkek orta koyu cilt tonu koyu cilt tonu, öpüşme
+👨🏿‍❤‍💋‍👨🏻	açık cilt tonu, erkek, kişiler, koyu cilt tonu, romantizm, öpücük, öpücük: erkek erkek koyu cilt tonu açık cilt tonu, öpüşme
+👨🏿‍❤‍💋‍👨🏼	erkek, kişiler, koyu cilt tonu, orta açık cilt tonu, romantizm, öpücük, öpücük: erkek erkek koyu cilt tonu orta açık cilt tonu, öpüşme
+👨🏿‍❤‍💋‍👨🏽	erkek, kişiler, koyu cilt tonu, orta cilt tonu, romantizm, öpücük, öpücük: erkek erkek koyu cilt tonu orta cilt tonu, öpüşme
+👨🏿‍❤‍💋‍👨🏾	erkek, kişiler, koyu cilt tonu, orta koyu cilt tonu, romantizm, öpücük, öpücük: erkek erkek koyu cilt tonu orta koyu cilt tonu, öpüşme
+👨🏿‍❤‍💋‍👨🏿	erkek, kişiler, koyu cilt tonu, romantizm, öpücük, öpücük: erkek erkek koyu cilt tonu, öpüşme
+👨🏻‍❤‍👨🏻	açık cilt tonu, erkek, kalp, kalpli çift, kalpli çift: erkek erkek açık cilt tonu, kişiler, romantizm
+👨🏻‍❤‍👨🏼	açık cilt tonu, erkek, kalp, kalpli çift, kalpli çift: erkek erkek açık cilt tonu orta açık cilt tonu, kişiler, orta açık cilt tonu, romantizm
+👨🏻‍❤‍👨🏽	açık cilt tonu, erkek, kalp, kalpli çift, kalpli çift: erkek erkek açık cilt tonu orta cilt tonu, kişiler, orta cilt tonu, romantizm
+👨🏻‍❤‍👨🏾	açık cilt tonu, erkek, kalp, kalpli çift, kalpli çift: erkek erkek açık cilt tonu orta koyu cilt tonu, kişiler, orta koyu cilt tonu, romantizm
+👨🏻‍❤‍👨🏿	açık cilt tonu, erkek, kalp, kalpli çift, kalpli çift: erkek erkek açık cilt tonu koyu cilt tonu, kişiler, koyu cilt tonu, romantizm
+👨🏼‍❤‍👨🏻	açık cilt tonu, erkek, kalp, kalpli çift, kalpli çift: erkek erkek orta açık cilt tonu açık cilt tonu, kişiler, orta açık cilt tonu, romantizm
+👨🏼‍❤‍👨🏼	erkek, kalp, kalpli çift, kalpli çift: erkek erkek orta açık cilt tonu, kişiler, orta açık cilt tonu, romantizm
+👨🏼‍❤‍👨🏽	erkek, kalp, kalpli çift, kalpli çift: erkek erkek orta açık cilt tonu orta cilt tonu, kişiler, orta açık cilt tonu, orta cilt tonu, romantizm
+👨🏼‍❤‍👨🏾	erkek, kalp, kalpli çift, kalpli çift: erkek erkek orta açık cilt tonu orta koyu cilt tonu, kişiler, orta açık cilt tonu, orta koyu cilt tonu, romantizm
+👨🏼‍❤‍👨🏿	erkek, kalp, kalpli çift, kalpli çift: erkek erkek orta açık cilt tonu koyu cilt tonu, kişiler, koyu cilt tonu, orta açık cilt tonu, romantizm
+👨🏽‍❤‍👨🏻	açık cilt tonu, erkek, kalp, kalpli çift, kalpli çift: erkek erkek orta cilt tonu açık cilt tonu, kişiler, orta cilt tonu, romantizm
+👨🏽‍❤‍👨🏼	erkek, kalp, kalpli çift, kalpli çift: erkek erkek orta cilt tonu orta açık cilt tonu, kişiler, orta açık cilt tonu, orta cilt tonu, romantizm
+👨🏽‍❤‍👨🏽	erkek, kalp, kalpli çift, kalpli çift: erkek erkek orta cilt tonu, kişiler, orta cilt tonu, romantizm
+👨🏽‍❤‍👨🏾	erkek, kalp, kalpli çift, kalpli çift: erkek erkek orta cilt tonu orta koyu cilt tonu, kişiler, orta cilt tonu, orta koyu cilt tonu, romantizm
+👨🏽‍❤‍👨🏿	erkek, kalp, kalpli çift, kalpli çift: erkek erkek orta cilt tonu koyu cilt tonu, kişiler, koyu cilt tonu, orta cilt tonu, romantizm
+👨🏾‍❤‍👨🏻	açık cilt tonu, erkek, kalp, kalpli çift, kalpli çift: erkek erkek orta koyu cilt tonu açık cilt tonu, kişiler, orta koyu cilt tonu, romantizm
+👨🏾‍❤‍👨🏼	erkek, kalp, kalpli çift, kalpli çift: erkek erkek orta koyu cilt tonu orta açık cilt tonu, kişiler, orta açık cilt tonu, orta koyu cilt tonu, romantizm
+👨🏾‍❤‍👨🏽	erkek, kalp, kalpli çift, kalpli çift: erkek erkek orta koyu cilt tonu orta cilt tonu, kişiler, orta cilt tonu, orta koyu cilt tonu, romantizm
+👨🏾‍❤‍👨🏾	erkek, kalp, kalpli çift, kalpli çift: erkek erkek orta koyu cilt tonu, kişiler, orta koyu cilt tonu, romantizm
+👨🏾‍❤‍👨🏿	erkek, kalp, kalpli çift, kalpli çift: erkek erkek orta koyu cilt tonu koyu cilt tonu, kişiler, koyu cilt tonu, orta koyu cilt tonu, romantizm
+👨🏿‍❤‍👨🏻	açık cilt tonu, erkek, kalp, kalpli çift, kalpli çift: erkek erkek koyu cilt tonu açık cilt tonu, kişiler, koyu cilt tonu, romantizm
+👨🏿‍❤‍👨🏼	erkek, kalp, kalpli çift, kalpli çift: erkek erkek koyu cilt tonu orta açık cilt tonu, kişiler, koyu cilt tonu, orta açık cilt tonu, romantizm
+👨🏿‍❤‍👨🏽	erkek, kalp, kalpli çift, kalpli çift: erkek erkek koyu cilt tonu orta cilt tonu, kişiler, koyu cilt tonu, orta cilt tonu, romantizm
+👨🏿‍❤‍👨🏾	erkek, kalp, kalpli çift, kalpli çift: erkek erkek koyu cilt tonu orta koyu cilt tonu, kişiler, koyu cilt tonu, orta koyu cilt tonu, romantizm
+👨🏿‍❤‍👨🏿	erkek, kalp, kalpli çift, kalpli çift: erkek erkek koyu cilt tonu, kişiler, koyu cilt tonu, romantizm
 👨‍🦰	erkek, erkek: kızıl saç, kişiler, kızıl saç
 👨🏻‍🦰	açık cilt tonu, erkek, erkek: açık cilt tonu kızıl saç, kişiler, kızıl saç
 👨🏼‍🦰	erkek, erkek: orta açık cilt tonu kızıl saç, kişiler, kızıl saç, orta açık cilt tonu
@@ -503,12 +1022,118 @@
 👩🏽	kadın, kadın: orta cilt tonu, kişiler, orta cilt tonu
 👩🏾	kadın, kadın: orta koyu cilt tonu, kişiler, orta koyu cilt tonu
 👩🏿	kadın, kadın: koyu cilt tonu, kişiler, koyu cilt tonu
+🧔‍♀	kadın, kadın: sakal, sakal
+🧔🏻‍♀	açık cilt tonu, kadın, kadın: açık cilt tonu sakal, kadın: sakal, sakal
+🧔🏼‍♀	kadın, kadın: orta açık cilt tonu sakal, kadın: sakal, orta açık cilt tonu, sakal
+🧔🏽‍♀	kadın, kadın: orta cilt tonu sakal, kadın: sakal, orta cilt tonu, sakal
+🧔🏾‍♀	kadın, kadın: orta koyu cilt tonu sakal, kadın: sakal, orta koyu cilt tonu, sakal
+🧔🏿‍♀	kadın, kadın: koyu cilt tonu sakal, kadın: sakal, koyu cilt tonu, sakal
 👱‍♀	bayan, kadın, sarışın, sarışın kadın
 👱🏻‍♀	açık cilt tonu, bayan, kadın, sarışın, sarışın kadın: açık cilt tonu
 👱🏼‍♀	bayan, kadın, orta açık cilt tonu, sarışın, sarışın kadın: orta açık cilt tonu
 👱🏽‍♀	bayan, kadın, orta cilt tonu, sarışın, sarışın kadın: orta cilt tonu
 👱🏾‍♀	bayan, kadın, orta koyu cilt tonu, sarışın, sarışın kadın: orta koyu cilt tonu
 👱🏿‍♀	bayan, kadın, koyu cilt tonu, sarışın, sarışın kadın: koyu cilt tonu
+👩🏻‍❤‍💋‍👨🏻	açık cilt tonu, erkek, kadın, kişiler, romantizm, öpücük, öpücük: kadın erkek açık cilt tonu, öpüşme
+👩🏻‍❤‍💋‍👨🏼	açık cilt tonu, erkek, kadın, kişiler, orta açık cilt tonu, romantizm, öpücük, öpücük: kadın erkek açık cilt tonu orta açık cilt tonu, öpüşme
+👩🏻‍❤‍💋‍👨🏽	açık cilt tonu, erkek, kadın, kişiler, orta cilt tonu, romantizm, öpücük, öpücük: kadın erkek açık cilt tonu orta cilt tonu, öpüşme
+👩🏻‍❤‍💋‍👨🏾	açık cilt tonu, erkek, kadın, kişiler, orta koyu cilt tonu, romantizm, öpücük, öpücük: kadın erkek açık cilt tonu orta koyu cilt tonu, öpüşme
+👩🏻‍❤‍💋‍👨🏿	açık cilt tonu, erkek, kadın, kişiler, koyu cilt tonu, romantizm, öpücük, öpücük: kadın erkek açık cilt tonu koyu cilt tonu, öpüşme
+👩🏼‍❤‍💋‍👨🏻	açık cilt tonu, erkek, kadın, kişiler, orta açık cilt tonu, romantizm, öpücük, öpücük: kadın erkek orta açık cilt tonu açık cilt tonu, öpüşme
+👩🏼‍❤‍💋‍👨🏼	erkek, kadın, kişiler, orta açık cilt tonu, romantizm, öpücük, öpücük: kadın erkek orta açık cilt tonu, öpüşme
+👩🏼‍❤‍💋‍👨🏽	erkek, kadın, kişiler, orta açık cilt tonu, orta cilt tonu, romantizm, öpücük, öpücük: kadın erkek orta açık cilt tonu orta cilt tonu, öpüşme
+👩🏼‍❤‍💋‍👨🏾	erkek, kadın, kişiler, orta açık cilt tonu, orta koyu cilt tonu, romantizm, öpücük, öpücük: kadın erkek orta açık cilt tonu orta koyu cilt tonu, öpüşme
+👩🏼‍❤‍💋‍👨🏿	erkek, kadın, kişiler, koyu cilt tonu, orta açık cilt tonu, romantizm, öpücük, öpücük: kadın erkek orta açık cilt tonu koyu cilt tonu, öpüşme
+👩🏽‍❤‍💋‍👨🏻	açık cilt tonu, erkek, kadın, kişiler, orta cilt tonu, romantizm, öpücük, öpücük: kadın erkek orta cilt tonu açık cilt tonu, öpüşme
+👩🏽‍❤‍💋‍👨🏼	erkek, kadın, kişiler, orta açık cilt tonu, orta cilt tonu, romantizm, öpücük, öpücük: kadın erkek orta cilt tonu orta açık cilt tonu, öpüşme
+👩🏽‍❤‍💋‍👨🏽	erkek, kadın, kişiler, orta cilt tonu, romantizm, öpücük, öpücük: kadın erkek orta cilt tonu, öpüşme
+👩🏽‍❤‍💋‍👨🏾	erkek, kadın, kişiler, orta cilt tonu, orta koyu cilt tonu, romantizm, öpücük, öpücük: kadın erkek orta cilt tonu orta koyu cilt tonu, öpüşme
+👩🏽‍❤‍💋‍👨🏿	erkek, kadın, kişiler, koyu cilt tonu, orta cilt tonu, romantizm, öpücük, öpücük: kadın erkek orta cilt tonu koyu cilt tonu, öpüşme
+👩🏾‍❤‍💋‍👨🏻	açık cilt tonu, erkek, kadın, kişiler, orta koyu cilt tonu, romantizm, öpücük, öpücük: kadın erkek orta koyu cilt tonu açık cilt tonu, öpüşme
+👩🏾‍❤‍💋‍👨🏼	erkek, kadın, kişiler, orta açık cilt tonu, orta koyu cilt tonu, romantizm, öpücük, öpücük: kadın erkek orta koyu cilt tonu orta açık cilt tonu, öpüşme
+👩🏾‍❤‍💋‍👨🏽	erkek, kadın, kişiler, orta cilt tonu, orta koyu cilt tonu, romantizm, öpücük, öpücük: kadın erkek orta koyu cilt tonu orta cilt tonu, öpüşme
+👩🏾‍❤‍💋‍👨🏾	erkek, kadın, kişiler, orta koyu cilt tonu, romantizm, öpücük, öpücük: kadın erkek orta koyu cilt tonu, öpüşme
+👩🏾‍❤‍💋‍👨🏿	erkek, kadın, kişiler, koyu cilt tonu, orta koyu cilt tonu, romantizm, öpücük, öpücük: kadın erkek orta koyu cilt tonu koyu cilt tonu, öpüşme
+👩🏿‍❤‍💋‍👨🏻	açık cilt tonu, erkek, kadın, kişiler, koyu cilt tonu, romantizm, öpücük, öpücük: kadın erkek koyu cilt tonu açık cilt tonu, öpüşme
+👩🏿‍❤‍💋‍👨🏼	erkek, kadın, kişiler, koyu cilt tonu, orta açık cilt tonu, romantizm, öpücük, öpücük: kadın erkek koyu cilt tonu orta açık cilt tonu, öpüşme
+👩🏿‍❤‍💋‍👨🏽	erkek, kadın, kişiler, koyu cilt tonu, orta cilt tonu, romantizm, öpücük, öpücük: kadın erkek koyu cilt tonu orta cilt tonu, öpüşme
+👩🏿‍❤‍💋‍👨🏾	erkek, kadın, kişiler, koyu cilt tonu, orta koyu cilt tonu, romantizm, öpücük, öpücük: kadın erkek koyu cilt tonu orta koyu cilt tonu, öpüşme
+👩🏿‍❤‍💋‍👨🏿	erkek, kadın, kişiler, koyu cilt tonu, romantizm, öpücük, öpücük: kadın erkek koyu cilt tonu, öpüşme
+👩🏻‍❤‍💋‍👩🏻	açık cilt tonu, kadın, kişiler, romantizm, öpücük, öpücük: kadın kadın açık cilt tonu, öpüşme
+👩🏻‍❤‍💋‍👩🏼	açık cilt tonu, kadın, kişiler, orta açık cilt tonu, romantizm, öpücük, öpücük: kadın kadın açık cilt tonu orta açık cilt tonu, öpüşme
+👩🏻‍❤‍💋‍👩🏽	açık cilt tonu, kadın, kişiler, orta cilt tonu, romantizm, öpücük, öpücük: kadın kadın açık cilt tonu orta cilt tonu, öpüşme
+👩🏻‍❤‍💋‍👩🏾	açık cilt tonu, kadın, kişiler, orta koyu cilt tonu, romantizm, öpücük, öpücük: kadın kadın açık cilt tonu orta koyu cilt tonu, öpüşme
+👩🏻‍❤‍💋‍👩🏿	açık cilt tonu, kadın, kişiler, koyu cilt tonu, romantizm, öpücük, öpücük: kadın kadın açık cilt tonu koyu cilt tonu, öpüşme
+👩🏼‍❤‍💋‍👩🏻	açık cilt tonu, kadın, kişiler, orta açık cilt tonu, romantizm, öpücük, öpücük: kadın kadın orta açık cilt tonu açık cilt tonu, öpüşme
+👩🏼‍❤‍💋‍👩🏼	kadın, kişiler, orta açık cilt tonu, romantizm, öpücük, öpücük: kadın kadın orta açık cilt tonu, öpüşme
+👩🏼‍❤‍💋‍👩🏽	kadın, kişiler, orta açık cilt tonu, orta cilt tonu, romantizm, öpücük, öpücük: kadın kadın orta açık cilt tonu orta cilt tonu, öpüşme
+👩🏼‍❤‍💋‍👩🏾	kadın, kişiler, orta açık cilt tonu, orta koyu cilt tonu, romantizm, öpücük, öpücük: kadın kadın orta açık cilt tonu orta koyu cilt tonu, öpüşme
+👩🏼‍❤‍💋‍👩🏿	kadın, kişiler, koyu cilt tonu, orta açık cilt tonu, romantizm, öpücük, öpücük: kadın kadın orta açık cilt tonu koyu cilt tonu, öpüşme
+👩🏽‍❤‍💋‍👩🏻	açık cilt tonu, kadın, kişiler, orta cilt tonu, romantizm, öpücük, öpücük: kadın kadın orta cilt tonu açık cilt tonu, öpüşme
+👩🏽‍❤‍💋‍👩🏼	kadın, kişiler, orta açık cilt tonu, orta cilt tonu, romantizm, öpücük, öpücük: kadın kadın orta cilt tonu orta açık cilt tonu, öpüşme
+👩🏽‍❤‍💋‍👩🏽	kadın, kişiler, orta cilt tonu, romantizm, öpücük, öpücük: kadın kadın orta cilt tonu, öpüşme
+👩🏽‍❤‍💋‍👩🏾	kadın, kişiler, orta cilt tonu, orta koyu cilt tonu, romantizm, öpücük, öpücük: kadın kadın orta cilt tonu orta koyu cilt tonu, öpüşme
+👩🏽‍❤‍💋‍👩🏿	kadın, kişiler, koyu cilt tonu, orta cilt tonu, romantizm, öpücük, öpücük: kadın kadın orta cilt tonu koyu cilt tonu, öpüşme
+👩🏾‍❤‍💋‍👩🏻	açık cilt tonu, kadın, kişiler, orta koyu cilt tonu, romantizm, öpücük, öpücük: kadın kadın orta koyu cilt tonu açık cilt tonu, öpüşme
+👩🏾‍❤‍💋‍👩🏼	kadın, kişiler, orta açık cilt tonu, orta koyu cilt tonu, romantizm, öpücük, öpücük: kadın kadın orta koyu cilt tonu orta açık cilt tonu, öpüşme
+👩🏾‍❤‍💋‍👩🏽	kadın, kişiler, orta cilt tonu, orta koyu cilt tonu, romantizm, öpücük, öpücük: kadın kadın orta koyu cilt tonu orta cilt tonu, öpüşme
+👩🏾‍❤‍💋‍👩🏾	kadın, kişiler, orta koyu cilt tonu, romantizm, öpücük, öpücük: kadın kadın orta koyu cilt tonu, öpüşme
+👩🏾‍❤‍💋‍👩🏿	kadın, kişiler, koyu cilt tonu, orta koyu cilt tonu, romantizm, öpücük, öpücük: kadın kadın orta koyu cilt tonu koyu cilt tonu, öpüşme
+👩🏿‍❤‍💋‍👩🏻	açık cilt tonu, kadın, kişiler, koyu cilt tonu, romantizm, öpücük, öpücük: kadın kadın koyu cilt tonu açık cilt tonu, öpüşme
+👩🏿‍❤‍💋‍👩🏼	kadın, kişiler, koyu cilt tonu, orta açık cilt tonu, romantizm, öpücük, öpücük: kadın kadın koyu cilt tonu orta açık cilt tonu, öpüşme
+👩🏿‍❤‍💋‍👩🏽	kadın, kişiler, koyu cilt tonu, orta cilt tonu, romantizm, öpücük, öpücük: kadın kadın koyu cilt tonu orta cilt tonu, öpüşme
+👩🏿‍❤‍💋‍👩🏾	kadın, kişiler, koyu cilt tonu, orta koyu cilt tonu, romantizm, öpücük, öpücük: kadın kadın koyu cilt tonu orta koyu cilt tonu, öpüşme
+👩🏿‍❤‍💋‍👩🏿	kadın, kişiler, koyu cilt tonu, romantizm, öpücük, öpücük: kadın kadın koyu cilt tonu, öpüşme
+👩🏻‍❤‍👨🏻	açık cilt tonu, erkek, kadın, kalp, kalpli çift, kalpli çift: kadın erkek açık cilt tonu, kişiler, romantizm
+👩🏻‍❤‍👨🏼	açık cilt tonu, erkek, kadın, kalp, kalpli çift, kalpli çift: kadın erkek açık cilt tonu orta açık cilt tonu, kişiler, orta açık cilt tonu, romantizm
+👩🏻‍❤‍👨🏽	açık cilt tonu, erkek, kadın, kalp, kalpli çift, kalpli çift: kadın erkek açık cilt tonu orta cilt tonu, kişiler, orta cilt tonu, romantizm
+👩🏻‍❤‍👨🏾	açık cilt tonu, erkek, kadın, kalp, kalpli çift, kalpli çift: kadın erkek açık cilt tonu orta koyu cilt tonu, kişiler, orta koyu cilt tonu, romantizm
+👩🏻‍❤‍👨🏿	açık cilt tonu, erkek, kadın, kalp, kalpli çift, kalpli çift: kadın erkek açık cilt tonu koyu cilt tonu, kişiler, koyu cilt tonu, romantizm
+👩🏼‍❤‍👨🏻	açık cilt tonu, erkek, kadın, kalp, kalpli çift, kalpli çift: kadın erkek orta açık cilt tonu açık cilt tonu, kişiler, orta açık cilt tonu, romantizm
+👩🏼‍❤‍👨🏼	erkek, kadın, kalp, kalpli çift, kalpli çift: kadın erkek orta açık cilt tonu, kişiler, orta açık cilt tonu, romantizm
+👩🏼‍❤‍👨🏽	erkek, kadın, kalp, kalpli çift, kalpli çift: kadın erkek orta açık cilt tonu orta cilt tonu, kişiler, orta açık cilt tonu, orta cilt tonu, romantizm
+👩🏼‍❤‍👨🏾	erkek, kadın, kalp, kalpli çift, kalpli çift: kadın erkek orta açık cilt tonu orta koyu cilt tonu, kişiler, orta açık cilt tonu, orta koyu cilt tonu, romantizm
+👩🏼‍❤‍👨🏿	erkek, kadın, kalp, kalpli çift, kalpli çift: kadın erkek orta açık cilt tonu koyu cilt tonu, kişiler, koyu cilt tonu, orta açık cilt tonu, romantizm
+👩🏽‍❤‍👨🏻	açık cilt tonu, erkek, kadın, kalp, kalpli çift, kalpli çift: kadın erkek orta cilt tonu açık cilt tonu, kişiler, orta cilt tonu, romantizm
+👩🏽‍❤‍👨🏼	erkek, kadın, kalp, kalpli çift, kalpli çift: kadın erkek orta cilt tonu orta açık cilt tonu, kişiler, orta açık cilt tonu, orta cilt tonu, romantizm
+👩🏽‍❤‍👨🏽	erkek, kadın, kalp, kalpli çift, kalpli çift: kadın erkek orta cilt tonu, kişiler, orta cilt tonu, romantizm
+👩🏽‍❤‍👨🏾	erkek, kadın, kalp, kalpli çift, kalpli çift: kadın erkek orta cilt tonu orta koyu cilt tonu, kişiler, orta cilt tonu, orta koyu cilt tonu, romantizm
+👩🏽‍❤‍👨🏿	erkek, kadın, kalp, kalpli çift, kalpli çift: kadın erkek orta cilt tonu koyu cilt tonu, kişiler, koyu cilt tonu, orta cilt tonu, romantizm
+👩🏾‍❤‍👨🏻	açık cilt tonu, erkek, kadın, kalp, kalpli çift, kalpli çift: kadın erkek orta koyu cilt tonu açık cilt tonu, kişiler, orta koyu cilt tonu, romantizm
+👩🏾‍❤‍👨🏼	erkek, kadın, kalp, kalpli çift, kalpli çift: kadın erkek orta koyu cilt tonu orta açık cilt tonu, kişiler, orta açık cilt tonu, orta koyu cilt tonu, romantizm
+👩🏾‍❤‍👨🏽	erkek, kadın, kalp, kalpli çift, kalpli çift: kadın erkek orta koyu cilt tonu orta cilt tonu, kişiler, orta cilt tonu, orta koyu cilt tonu, romantizm
+👩🏾‍❤‍👨🏾	erkek, kadın, kalp, kalpli çift, kalpli çift: kadın erkek orta koyu cilt tonu, kişiler, orta koyu cilt tonu, romantizm
+👩🏾‍❤‍👨🏿	erkek, kadın, kalp, kalpli çift, kalpli çift: kadın erkek orta koyu cilt tonu koyu cilt tonu, kişiler, koyu cilt tonu, orta koyu cilt tonu, romantizm
+👩🏿‍❤‍👨🏻	açık cilt tonu, erkek, kadın, kalp, kalpli çift, kalpli çift: kadın erkek koyu cilt tonu açık cilt tonu, kişiler, koyu cilt tonu, romantizm
+👩🏿‍❤‍👨🏼	erkek, kadın, kalp, kalpli çift, kalpli çift: kadın erkek koyu cilt tonu orta açık cilt tonu, kişiler, koyu cilt tonu, orta açık cilt tonu, romantizm
+👩🏿‍❤‍👨🏽	erkek, kadın, kalp, kalpli çift, kalpli çift: kadın erkek koyu cilt tonu orta cilt tonu, kişiler, koyu cilt tonu, orta cilt tonu, romantizm
+👩🏿‍❤‍👨🏾	erkek, kadın, kalp, kalpli çift, kalpli çift: kadın erkek koyu cilt tonu orta koyu cilt tonu, kişiler, koyu cilt tonu, orta koyu cilt tonu, romantizm
+👩🏿‍❤‍👨🏿	erkek, kadın, kalp, kalpli çift, kalpli çift: kadın erkek koyu cilt tonu, kişiler, koyu cilt tonu, romantizm
+👩🏻‍❤‍👩🏻	açık cilt tonu, kadın, kalp, kalpli çift, kalpli çift: kadın kadın açık cilt tonu, kişiler, romantizm
+👩🏻‍❤‍👩🏼	açık cilt tonu, kadın, kalp, kalpli çift, kalpli çift: kadın kadın açık cilt tonu orta açık cilt tonu, kişiler, orta açık cilt tonu, romantizm
+👩🏻‍❤‍👩🏽	açık cilt tonu, kadın, kalp, kalpli çift, kalpli çift: kadın kadın açık cilt tonu orta cilt tonu, kişiler, orta cilt tonu, romantizm
+👩🏻‍❤‍👩🏾	açık cilt tonu, kadın, kalp, kalpli çift, kalpli çift: kadın kadın açık cilt tonu orta koyu cilt tonu, kişiler, orta koyu cilt tonu, romantizm
+👩🏻‍❤‍👩🏿	açık cilt tonu, kadın, kalp, kalpli çift, kalpli çift: kadın kadın açık cilt tonu koyu cilt tonu, kişiler, koyu cilt tonu, romantizm
+👩🏼‍❤‍👩🏻	açık cilt tonu, kadın, kalp, kalpli çift, kalpli çift: kadın kadın orta açık cilt tonu açık cilt tonu, kişiler, orta açık cilt tonu, romantizm
+👩🏼‍❤‍👩🏼	kadın, kalp, kalpli çift, kalpli çift: kadın kadın orta açık cilt tonu, kişiler, orta açık cilt tonu, romantizm
+👩🏼‍❤‍👩🏽	kadın, kalp, kalpli çift, kalpli çift: kadın kadın orta açık cilt tonu orta cilt tonu, kişiler, orta açık cilt tonu, orta cilt tonu, romantizm
+👩🏼‍❤‍👩🏾	kadın, kalp, kalpli çift, kalpli çift: kadın kadın orta açık cilt tonu orta koyu cilt tonu, kişiler, orta açık cilt tonu, orta koyu cilt tonu, romantizm
+👩🏼‍❤‍👩🏿	kadın, kalp, kalpli çift, kalpli çift: kadın kadın orta açık cilt tonu koyu cilt tonu, kişiler, koyu cilt tonu, orta açık cilt tonu, romantizm
+👩🏽‍❤‍👩🏻	açık cilt tonu, kadın, kalp, kalpli çift, kalpli çift: kadın kadın orta cilt tonu açık cilt tonu, kişiler, orta cilt tonu, romantizm
+👩🏽‍❤‍👩🏼	kadın, kalp, kalpli çift, kalpli çift: kadın kadın orta cilt tonu orta açık cilt tonu, kişiler, orta açık cilt tonu, orta cilt tonu, romantizm
+👩🏽‍❤‍👩🏽	kadın, kalp, kalpli çift, kalpli çift: kadın kadın orta cilt tonu, kişiler, orta cilt tonu, romantizm
+👩🏽‍❤‍👩🏾	kadın, kalp, kalpli çift, kalpli çift: kadın kadın orta cilt tonu orta koyu cilt tonu, kişiler, orta cilt tonu, orta koyu cilt tonu, romantizm
+👩🏽‍❤‍👩🏿	kadın, kalp, kalpli çift, kalpli çift: kadın kadın orta cilt tonu koyu cilt tonu, kişiler, koyu cilt tonu, orta cilt tonu, romantizm
+👩🏾‍❤‍👩🏻	açık cilt tonu, kadın, kalp, kalpli çift, kalpli çift: kadın kadın orta koyu cilt tonu açık cilt tonu, kişiler, orta koyu cilt tonu, romantizm
+👩🏾‍❤‍👩🏼	kadın, kalp, kalpli çift, kalpli çift: kadın kadın orta koyu cilt tonu orta açık cilt tonu, kişiler, orta açık cilt tonu, orta koyu cilt tonu, romantizm
+👩🏾‍❤‍👩🏽	kadın, kalp, kalpli çift, kalpli çift: kadın kadın orta koyu cilt tonu orta cilt tonu, kişiler, orta cilt tonu, orta koyu cilt tonu, romantizm
+👩🏾‍❤‍👩🏾	kadın, kalp, kalpli çift, kalpli çift: kadın kadın orta koyu cilt tonu, kişiler, orta koyu cilt tonu, romantizm
+👩🏾‍❤‍👩🏿	kadın, kalp, kalpli çift, kalpli çift: kadın kadın orta koyu cilt tonu koyu cilt tonu, kişiler, koyu cilt tonu, orta koyu cilt tonu, romantizm
+👩🏿‍❤‍👩🏻	açık cilt tonu, kadın, kalp, kalpli çift, kalpli çift: kadın kadın koyu cilt tonu açık cilt tonu, kişiler, koyu cilt tonu, romantizm
+👩🏿‍❤‍👩🏼	kadın, kalp, kalpli çift, kalpli çift: kadın kadın koyu cilt tonu orta açık cilt tonu, kişiler, koyu cilt tonu, orta açık cilt tonu, romantizm
+👩🏿‍❤‍👩🏽	kadın, kalp, kalpli çift, kalpli çift: kadın kadın koyu cilt tonu orta cilt tonu, kişiler, koyu cilt tonu, orta cilt tonu, romantizm
+👩🏿‍❤‍👩🏾	kadın, kalp, kalpli çift, kalpli çift: kadın kadın koyu cilt tonu orta koyu cilt tonu, kişiler, koyu cilt tonu, orta koyu cilt tonu, romantizm
+👩🏿‍❤‍👩🏿	kadın, kalp, kalpli çift, kalpli çift: kadın kadın koyu cilt tonu, kişiler, koyu cilt tonu, romantizm
 👩‍🦰	kadın, kadın: kızıl saç, kişiler, kızıl saç
 👩🏻‍🦰	açık cilt tonu, kadın, kadın: açık cilt tonu kızıl saç, kişiler, kızıl saç
 👩🏼‍🦰	kadın, kadın: orta açık cilt tonu kızıl saç, kişiler, kızıl saç, orta açık cilt tonu
@@ -593,12 +1218,12 @@
 🙅🏽	hareket, hayır, hayır hareketi, hayır hareketi: orta cilt tonu, iyi değil, orta cilt tonu, yasak, yüz
 🙅🏾	hareket, hayır, hayır hareketi, hayır hareketi: orta koyu cilt tonu, iyi değil, orta koyu cilt tonu, yasak, yüz
 🙅🏿	hareket, hayır, hayır hareketi, hayır hareketi: koyu cilt tonu, iyi değil, koyu cilt tonu, yasak, yüz
-🙅‍♂	erkek, hareket, hayır, hayır hareketi yapan erkek, jest, yasak
-🙅🏻‍♂	açık cilt tonu, erkek, hareket, hayır, hayır hareketi yapan erkek, hayır hareketi yapan erkek: açık cilt tonu, jest, yasak
-🙅🏼‍♂	erkek, hareket, hayır, hayır hareketi yapan erkek, hayır hareketi yapan erkek: orta açık cilt tonu, jest, orta açık cilt tonu, yasak
-🙅🏽‍♂	erkek, hareket, hayır, hayır hareketi yapan erkek, hayır hareketi yapan erkek: orta cilt tonu, jest, orta cilt tonu, yasak
-🙅🏾‍♂	erkek, hareket, hayır, hayır hareketi yapan erkek, hayır hareketi yapan erkek: orta koyu cilt tonu, jest, orta koyu cilt tonu, yasak
-🙅🏿‍♂	erkek, hareket, hayır, hayır hareketi yapan erkek, hayır hareketi yapan erkek: koyu cilt tonu, jest, koyu cilt tonu, yasak
+🙅‍♂	el, erkek, hareket, hayır, hayır hareketi yapan erkek, iyi değil, yasak
+🙅🏻‍♂	açık cilt tonu, el, erkek, hareket, hayır, hayır hareketi yapan erkek, hayır hareketi yapan erkek: açık cilt tonu, iyi değil, yasak
+🙅🏼‍♂	el, erkek, hareket, hayır, hayır hareketi yapan erkek, hayır hareketi yapan erkek: orta açık cilt tonu, iyi değil, orta açık cilt tonu, yasak
+🙅🏽‍♂	el, erkek, hareket, hayır, hayır hareketi yapan erkek, hayır hareketi yapan erkek: orta cilt tonu, iyi değil, orta cilt tonu, yasak
+🙅🏾‍♂	el, erkek, hareket, hayır, hayır hareketi yapan erkek, hayır hareketi yapan erkek: orta koyu cilt tonu, iyi değil, orta koyu cilt tonu, yasak
+🙅🏿‍♂	el, erkek, hareket, hayır, hayır hareketi yapan erkek, hayır hareketi yapan erkek: koyu cilt tonu, iyi değil, koyu cilt tonu, yasak
 🙅‍♀	bayan, el, hareket, hayır, hayır hareketi yapan kadın, iyi değil, kadın, yasak
 🙅🏻‍♀	açık cilt tonu, bayan, el, hareket, hayır, hayır hareketi yapan kadın, hayır hareketi yapan kadın: açık cilt tonu, iyi değil, kadın, yasak
 🙅🏼‍♀	bayan, el, hareket, hayır, hayır hareketi yapan kadın, hayır hareketi yapan kadın: orta açık cilt tonu, iyi değil, kadın, orta açık cilt tonu, yasak
@@ -1074,6 +1699,11 @@
 💂🏾‍♀	bayan, kadın, kadın muhafız: orta koyu cilt tonu, muhafız, orta koyu cilt tonu
 💂🏿‍♀	bayan, kadın, kadın muhafız: koyu cilt tonu, koyu cilt tonu, muhafız
 🥷	dövüşçü, gizli, ninja, saklı
+🥷🏻	açık cilt tonu, dövüşçü, gizli, ninja, ninja: açık cilt tonu, saklı
+🥷🏼	dövüşçü, gizli, ninja, ninja: orta açık cilt tonu, orta açık cilt tonu, saklı
+🥷🏽	dövüşçü, gizli, ninja, ninja: orta cilt tonu, orta cilt tonu, saklı
+🥷🏾	dövüşçü, gizli, ninja, ninja: orta koyu cilt tonu, orta koyu cilt tonu, saklı
+🥷🏿	dövüşçü, gizli, koyu cilt tonu, ninja, ninja: koyu cilt tonu, saklı
 👷	inşaat, inşaat işçisi, işçi, kişiler
 👷🏻	açık cilt tonu, inşaat, inşaat işçisi, inşaat işçisi: açık cilt tonu, işçi, kişiler
 👷🏼	inşaat, inşaat işçisi, inşaat işçisi: orta açık cilt tonu, işçi, kişiler, orta açık cilt tonu
@@ -1092,6 +1722,12 @@
 👷🏽‍♀	bayan, inşaat, işçi, kadın, kadın inşaat işçisi, kadın inşaat işçisi: orta cilt tonu, orta cilt tonu
 👷🏾‍♀	bayan, inşaat, işçi, kadın, kadın inşaat işçisi, kadın inşaat işçisi: orta koyu cilt tonu, orta koyu cilt tonu
 👷🏿‍♀	bayan, inşaat, işçi, kadın, kadın inşaat işçisi, kadın inşaat işçisi: koyu cilt tonu, koyu cilt tonu
+🫅	kral, kraliyet, soylu, taç takmış insan
+🫅🏻	açık cilt tonu, kral, kraliyet, soylu, taç takmış insan, taç takmış insan: açık cilt tonu
+🫅🏼	kral, kraliyet, orta açık cilt tonu, soylu, taç takmış insan, taç takmış insan: orta açık cilt tonu
+🫅🏽	kral, kraliyet, orta cilt tonu, soylu, taç takmış insan, taç takmış insan: orta cilt tonu
+🫅🏾	kral, kraliyet, orta koyu cilt tonu, soylu, taç takmış insan, taç takmış insan: orta koyu cilt tonu
+🫅🏿	koyu cilt tonu, kral, kraliyet, soylu, taç takmış insan, taç takmış insan: koyu cilt tonu
 🤴	prens
 🤴🏻	açık cilt tonu, prens, prens: açık cilt tonu
 🤴🏼	orta açık cilt tonu, prens, prens: orta açık cilt tonu
@@ -1176,6 +1812,18 @@
 🤰🏽	hamile, hamile kadın: orta cilt tonu, kadın, orta cilt tonu
 🤰🏾	hamile, hamile kadın: orta koyu cilt tonu, kadın, orta koyu cilt tonu
 🤰🏿	hamile, hamile kadın: koyu cilt tonu, kadın, koyu cilt tonu
+🫃	göbekli, hamile, hamile adam, şişmiş
+🫃🏻	açık cilt tonu, göbekli, hamile, hamile adam, hamile adam: açık cilt tonu, şişmiş
+🫃🏼	göbekli, hamile, hamile adam, hamile adam: orta açık cilt tonu, orta açık cilt tonu, şişmiş
+🫃🏽	göbekli, hamile, hamile adam, hamile adam: orta cilt tonu, orta cilt tonu, şişmiş
+🫃🏾	göbekli, hamile, hamile adam, hamile adam: orta koyu cilt tonu, orta koyu cilt tonu, şişmiş
+🫃🏿	göbekli, hamile, hamile adam, hamile adam: koyu cilt tonu, koyu cilt tonu, şişmiş
+🫄	göbekli, hamile, hamile kişi, şişmiş
+🫄🏻	açık cilt tonu, göbekli, hamile, hamile kişi, hamile kişi: açık cilt tonu, şişmiş
+🫄🏼	göbekli, hamile, hamile kişi, hamile kişi: orta açık cilt tonu, orta açık cilt tonu, şişmiş
+🫄🏽	göbekli, hamile, hamile kişi, hamile kişi: orta cilt tonu, orta cilt tonu, şişmiş
+🫄🏾	göbekli, hamile, hamile kişi, hamile kişi: orta koyu cilt tonu, orta koyu cilt tonu, şişmiş
+🫄🏿	göbekli, hamile, hamile kişi, hamile kişi: koyu cilt tonu, koyu cilt tonu, şişmiş
 🤱	bebek, emziren kadın, emzirme, göğüs
 🤱🏻	açık cilt tonu, bebek, emziren kadın, emziren kadın: açık cilt tonu, emzirme, göğüs
 🤱🏼	bebek, emziren kadın, emziren kadın: orta açık cilt tonu, emzirme, göğüs, orta açık cilt tonu
@@ -1356,6 +2004,7 @@
 🧟	hortlak, yürüyen ölü, zombi
 🧟‍♂	erkek zombi, hortlak, yürüyen ölü
 🧟‍♀	hortlak, kadın zombi, yürüyen ölü
+🧌	fantezi, peri masalı, trol, yaratık
 💆	masaj, salon, yüz masajı
 💆🏻	açık cilt tonu, masaj, salon, yüz masajı, yüz masajı: açık cilt tonu
 💆🏼	masaj, orta açık cilt tonu, salon, yüz masajı, yüz masajı: orta açık cilt tonu
@@ -1943,10 +2592,20 @@
 👨🏿‍🤝‍👨🏾	el ele tutuşan, el ele tutuşan erkekler, el ele tutuşan erkekler: koyu cilt tonu orta koyu cilt tonu, el ele tutuşan iki erkek, erkek, ikizler, kişiler, koyu cilt tonu, orta koyu cilt tonu, çift
 👬🏿	el ele tutuşan, el ele tutuşan erkekler, el ele tutuşan erkekler: koyu cilt tonu, el ele tutuşan iki erkek, erkek, ikizler, kişiler, koyu cilt tonu, çift
 💏	kişiler, romantizm, öpücük, öpüşme
+💏🏻	açık cilt tonu, kişiler, romantizm, öpücük, öpücük: açık cilt tonu, öpüşme
+💏🏼	kişiler, orta açık cilt tonu, romantizm, öpücük, öpücük: orta açık cilt tonu, öpüşme
+💏🏽	kişiler, orta cilt tonu, romantizm, öpücük, öpücük: orta cilt tonu, öpüşme
+💏🏾	kişiler, orta koyu cilt tonu, romantizm, öpücük, öpücük: orta koyu cilt tonu, öpüşme
+💏🏿	kişiler, koyu cilt tonu, romantizm, öpücük, öpücük: koyu cilt tonu, öpüşme
 👩‍❤‍💋‍👨	erkek, kadın, kişiler, romantizm, öpücük, öpücük: kadın erkek, öpüşme
 👨‍❤‍💋‍👨	erkek, kişiler, romantizm, öpücük, öpücük: erkek erkek, öpüşme
 👩‍❤‍💋‍👩	kadın, kişiler, romantizm, öpücük, öpücük: kadın kadın, öpüşme
 💑	kalp, kalpli çift, kişiler, romantizm
+💑🏻	açık cilt tonu, kalp, kalpli çift, kalpli çift: açık cilt tonu, kişiler, romantizm
+💑🏼	kalp, kalpli çift, kalpli çift: orta açık cilt tonu, kişiler, orta açık cilt tonu, romantizm
+💑🏽	kalp, kalpli çift, kalpli çift: orta cilt tonu, kişiler, orta cilt tonu, romantizm
+💑🏾	kalp, kalpli çift, kalpli çift: orta koyu cilt tonu, kişiler, orta koyu cilt tonu, romantizm
+💑🏿	kalp, kalpli çift, kalpli çift: koyu cilt tonu, kişiler, koyu cilt tonu, romantizm
 👩‍❤‍👨	erkek, kadın, kalp, kalpli çift, kalpli çift: kadın erkek, kişiler, romantizm
 👨‍❤‍👨	erkek, kalp, kalpli çift, kalpli çift: erkek erkek, kişiler, romantizm
 👩‍❤‍👩	kadın, kalp, kalpli çift, kalpli çift: kadın kadın, kişiler, romantizm
@@ -2032,7 +2691,7 @@
 🐭	fare, fare yüzü, hayvan, yüz
 🐁	fare
 🐀	sıçan
-🐹	hamster, hayvan, yüz
+🐹	evcil hayvan, hamster, yüz
 🐰	hayvan, tavşan, tavşan yüzü, yüz
 🐇	hayvan, tavşan
 🐿️	sincap
@@ -2086,6 +2745,7 @@
 🦈	balık, köpek balığı
 🐙	ahtapot, hayvan
 🐚	deniz kabuğu, hayvan, spiral deniz kabuğu
+🪸	mercan, okyanus, resif
 🐌	salyangoz
 🦋	böcek, kelebek, şirin
 🐛	böcek, hayvan, kırkayak, tırtıl
@@ -2105,6 +2765,7 @@
 💐	buket, romantizm, çiçek
 🌸	kiraz, kiraz çiçeği, çiçek, çiçek izleme
 💮	beyaz çiçek, damga, iyi çalışma damgası, çiçek
+🪷	Budizm, Hindistan, Hinduizm, Vietnam, nilüfer, saflık, çiçek
 🏵️	bitki, gülce, çiçek rozet
 🌹	bitki, gül, çiçek
 🥀	solmuş, solmuş çiçek, çiçek
@@ -2125,6 +2786,9 @@
 🍁	akçaağaç yaprağı, düşen yaprak, yaprak
 🍂	düşen, düşen yapraklar, düşmüş, yaprak, yapraklar
 🍃	esen, rüzgar, rüzgardaki yaprak, yaprak
+🪹	boş yuva, yuva
+🪺	yumurta bulunan yuva, yuva
+🍄	bitki, mantar
 🍇	meyve, üzüm
 🍈	kavun, meyve
 🍉	karpuz, meyve
@@ -2141,7 +2805,7 @@
 🍓	meyve, yumuşak meyve, çilek
 🫐	dağ mersini, mavi, mersin, yaban mersini
 🥝	kivi, meyve, yiyecek
-🍅	domates, sebze
+🍅	domates, meyve, sebze
 🫒	yiyecek, zeytin
 🥥	Hindistan cevizi, palmiye, pina colada
 🥑	avokado, meyve, yiyecek
@@ -2156,8 +2820,8 @@
 🥦	brokoli, yabani lahana
 🧄	baharat, sarımsak
 🧅	baharat, soğan
-🍄	bitki, mantar
 🥜	fındık, fıstık, sebze, yer fıstığı, yiyecek
+🫘	baklagil, fasulye, gıda
 🌰	bitki, kestane
 🍞	ekmek, ekmek dilimi, restoran
 🥐	ay çöreği, ekmek, fransız, kruvasan, yiyecek
@@ -2206,7 +2870,7 @@
 🍤	karides, kızarmış karides, restoran
 🍥	balık, balık köftesi, restoran, rulo balık köftesi
 🥮	ay pastası, festival, sonbahar, yuèbǐng
-🍡	dango, pirinç tatlısı, pirinç tatlısı topları, restoran, çubukta pirinç tatlısı topları
+🍡	Japon pirinç tatlısı, dango, pirinç tatlısı, pirinç tatlısı topları, restoran, çubukta pirinç tatlısı topları
 🥟	empanada, gyōza, jiaozi, mantı, pierogi, potsticker
 🥠	fal kurabiyesi, kehanet
 🥡	yiyecek paketi
@@ -2243,6 +2907,7 @@
 🍻	bar, bira, bira kupaları tokuşturma, kupa, kupalar, restoran
 🥂	bardak, içecek, kadeh tokuşturma, kutlama, tokuşturma
 🥃	bardak, kısa ve geniş, kısa ve geniş bardak, likör, tek içki, viski
+🫗	bardak, dökme, dökülen sıvı, içecek, sıvı boş
 🥤	pipetli bardak
 🧋	baloncuk, bubble tea, inci, inci çayı, süt, çay
 🧃	içecek kutusu, kutu meyve suyu
@@ -2253,6 +2918,7 @@
 🍴	bıçak, restoran, çatal, çatal ve bıçak
 🥄	kaşık, yemek takımı
 🔪	bıçak, mutfak bıçağı
+🫙	baharatlık, boş, kavanoz, saklama kabı, sos
 🏺	alet, amfora, antika, içecek, kap, silah
 🌍	Afrika, Avrupa, dünya, yerkürede Avrupa-Afrika
 🌎️	Amerika, Amerika bölgeleri, dünya, yerkürede Amerika
@@ -2260,7 +2926,7 @@
 🌐	boylamlar, dünya, meridyen, meridyenli yerküre, yerküre
 🗺️	dünya, dünya haritası, harita
 🗾	Japonya, Japonya haritası, harita
-🧭	manyetik, navigasyon, orienteering, pusula
+🧭	hedef bulma, manyetik, navigasyon, pusula, yön bulma
 🏔️	dağ, kar, karla kaplı dağ, soğuk
 ⛰️	dağ
 🌋	dağ, volkan, yanardağ, yanardağ patlaması
@@ -2309,18 +2975,19 @@
 🌃	gece, yıldızlar, yıldızlı gece
 🏙️	bina, şehir, şehir manzarası
 🌄	dağ, dağların arasından güneşin doğuşu, dağların ardında güneş, sabah güneşi
-🌅	güneşin doğuşu, sabah güneşi
+🌅	güneşin doğuşu, sabah güneşi, şafak
 🌆	akşam, alacakaranlık, bina, gün batımı, manzara, şehir, şehirde alacakaranlık
 🌇	alacakaranlık, bina, binaların üzerinden gün batımı, gün batımı
 🌉	gece, gece vakti köprü
 ♨️	hamam, kaplıca, sıcak, ılıca
 🎠	at, atlıkarınca, atlıkarınca atı, eğlence
+🛝	eğlence parkı, kaydırak, oyun
 🎡	dolap, dönme, dönme dolap, eğlence, eğlence parkı
 🎢	eğlence, eğlence parkı, hız, hız treni, tren
 💈	berber, berber dükkanı, berber işareti, işaret
 🎪	eğlence, sirk çadırı, çadır
 🚂	buharlı lokomotif, lokomotif, taşıt, tren
-🚃	demiryolu, elektrik, elektrikli tren, taşıt, tramvay, vagon
+🚃	demir yolu, elektrik, elektrikli tren, taşıt, tramvay, vagon
 🚄	shinkansen, taşıt, tren, yüksek hızlı tren
 🚅	mermi burunlu, mermi burunlu shinkansen, shinkansen, taşıt, tren, yuvarlak uçlu yüksek hızlı tren
 🚆	demiryolu, taşıt, tren
@@ -2363,12 +3030,14 @@
 🛤️	tren, tren yolu
 🛢️	benzin, fıçı, petrol, petrol varili, varil
 ⛽️	akaryakıt istasyonu, benzin, istasyon, yakıt, yakıt pompası
+🛞	dönüş, lastik, tekerlek, çark
 🚨	polis arabası, polis lambası, polis tepe lambası
 🚥	trafik, trafik sinyalleri, yatay trafik ışıkları, yatay trafik ışığı, ışık
 🚦	dikey trafik ışıkları, dikey trafik ışığı, trafik, trafik sinyalleri, ışık
 🛑	dur, dur işareti, işaret, sekizgen
 🚧	inşaat, inşaat işareti, işaret
 ⚓️	gemi, işaret, çıpa
+🛟	cankurtaran, cankurtaran simidi, güvenlik, hayat kurtaran, yüzme
 ⛵️	deniz tatil yeri, tatil yeri, tekne, yat, yelkenli tekne
 🛶	bot, kano
 🚤	sürat teknesi, taşıt, tekne
@@ -2469,7 +3138,7 @@
 🔥	alev, ateş
 💧	damlacık, ter, terli, çizgi roman
 🌊	dalga, okyanus dalgası, su dalgası
-🎃	Halloween, fener, jack, kabak, kabak fener, kutlama
+🎃	cadılar bayramı, fener, halloween, jack, kabak, kabak fener, kutlama
 🎄	Noel ağacı, ağaç, kutlama
 🎆	havai fişek, kutlama
 🎇	fişek, havai fişek, kutlama
@@ -2489,7 +3158,7 @@
 🎁	kutlama, paketlenmiş hediye, paketli, paketli hediye
 🎗️	anma, anma kurdelesi, kurdele, kutlama
 🎟️	bilet, giriş, giriş bileti
-🎫	bilet, eğlence
+🎫	bilet, giriş
 🎖️	askeri, askeri madalya, kutlama, madalya
 🏆️	zafer kupası, ödül
 🏅	madalya, spor madalyası
@@ -2501,7 +3170,7 @@
 🥎	eldiven, kol, softball, top
 🏀	basketbol, basketbol potası, pota, spor, top
 🏐	maç, top, voleybol
-🏈	Amerikan, amerikan futbolu, spor, top
+🏈	amerikan, amerikan futbolu, spor, top
 🏉	futbol topu, ragbi, spor, top
 🎾	spor, tenis, tenis raketi ve topu, tenis topu, top
 🥏	frizbi, ultimate
@@ -2526,10 +3195,10 @@
 🎯	hedef, hedefe isabet, isabet, oyun, tam isabet
 🪀	inip çıkma, oyuncak, yoyo
 🪁	süzülme, uçma, uçurtma
+🔫	revolver, silah, su tabancası, tabanca
 🎱	bilardo, oyun, sekiz top
 🔮	fal, fal bakma, kristal, kristal küre, küre
 🪄	büyücü, cadı, sihir, sihirli asa
-🧿	boncuk, kem göz, mavi boncuk, muska, nazar, nazarlık, tılsım
 🎮️	kontrol cihazı, oyun, oyun kontrol cihazı, video oyunu
 🕹️	oyun, oyun çubuğu, video oyunu
 🎰	kumar, kumar makinesi, oyun
@@ -2537,6 +3206,7 @@
 🧩	ipucu, kenetleme, parça, puzzle, yapboz, yapboz parçası
 🧸	dolgu, oyun, oyuncak, oyuncak ayı, pelüş
 🪅	kutlama, parti, pinyata
+🪩	aynalı küre, dans, disko, parlak, parti
 🪆	Rusya, bebek, iç içe, matruşka
 ♠️	iskambil, kart, maça, pik
 ♥️	iskambil, kart, kupa, kör
@@ -2632,6 +3302,7 @@
 📟️	iletişim, çağrı cihazı
 📠	faks makinesi, iletişim
 🔋	pil
+🪫	düşük enerji, düşük pil, elektronik
 🔌	elektrik, elektrik fişi
 💻️	bilgisayar, dizüstü bilgisayar, kişisel
 🖥️	bilgisayar, masaüstü, masaüstü bilgisayar
@@ -2743,7 +3414,7 @@
 🛠️	alet, ingiliz anahtarı, çekiç, çekiç ve ingiliz anahtarı, çekiç ve somun anahtarı
 🗡️	bıçak, hançer, silah
 ⚔️	kılıç, silah, çapraz, çapraz kılıçlar, çarpı, çatma
-🔫	revolver, silah, tabanca
+💣️	bomba, duygu, çizgi roman
 🪃	avustralya, bumerang, geri tepme, sekme, tepki
 🏹	araç, burç, ok, ok ve yay, okçu, silah, yay
 🛡️	kalkan, silah
@@ -2772,7 +3443,9 @@
 🩸	aybaşı, ilaç, kan bağışı, kan damlası, mens, regl, âdet
 💊	doktor, hap, ilaç
 🩹	bandaj, bant, yapışkanlı bandaj, yara bandı
+🩼	baston, değnek, engelli, engellilik, koltuk değneği, yürüme yardımı
 🩺	doktor, kalp, stetoskop, tıp
+🩻	doktor, iskelet, kemik, röntgen, tıbbi, x ışını
 🚪	kapı
 🛗	asansör, erişilebilirlik, lift
 🪞	ayna, reflektör, spekulum, yansıma, yansıtıcı
@@ -2793,6 +3466,7 @@
 🧻	kağıt havlu, kağıt rulosu, tuvalet kağıdı
 🪣	fıçı, kap, kepçe, kova
 🧼	banyo, kalıp, köpük, sabun, sabunluk, temizlik
+🫧	baloncuk, kabarcık, sabun, su altı, temiz
 🪥	banyo, dental, diş, diş fırçası, fırça, hijyen, lavabo
 🧽	emici, gözenekli, sünger, temizlik
 🧯	ateş, söndürme, yangın, yangın söndürücü
@@ -2801,8 +3475,11 @@
 ⚰️	cenaze, tabut, ölüm
 🪦	defin, mezar, mezar taşı, mezarlık
 ⚱️	cenaze, kül, kül kavanozu, vazo, ölüm
+🧿	boncuk, kem göz, mavi boncuk, muska, nazar, nazarlık, tılsım
+🪬	Fatıma, Fatıma’nın Eli, Meryem, muska, nazarlık
 🗿	Moyai, heykel, moyai heykeli
 🪧	gösteri, işaret, protesto, tabela
+🪪	güvenlik, kimlik, kimlik bilgisi, kimlik kartı, lisans
 🏧	ATM işareti, otomatik, vezne
 🚮	işaret, çöp kutusu, çöp kutusu işareti, çöpü yerine atın
 🚰	içilebilir su, içme suyu, işaret
@@ -2811,7 +3488,7 @@
 🚺️	işaret, kadınlar tuvaleti, tuvalet
 🚻	lavabo, tuvalet, wc
 🚼️	bebek, bebek alt değiştirme yeri, bebek işareti, bebek teknede
-🚾	WC, lavabo, wc
+🚾	WC, lavabo, tuvalet, wc
 🛂	kontrol, pasaport, pasaport kontrolü
 🛃	gümrük
 🛄	bagaj, bagaj teslim
@@ -2839,6 +3516,7 @@
 ↖️	ara yön, kuzey batı, ok, sol yukarı ok, yön
 ↕️	ok, yukarı ve aşağı ok
 ↔️	ok, sol ve sağ ok
+↮	sol sağ çizgili ok
 ↩️	ok, sola kıvrımlı sağ ok
 ↪️	ok, sağa kıvrımlı sol ok
 ⤴️	ok, yukarı kıvrımlı sağ ok
@@ -2906,13 +3584,14 @@
 ➕	+, artı, artı işareti, işaret, matematik
 ➖	-, eksi, eksi işareti, işaret, matematik, −
 ➗	bölü, bölü işareti, işaret, matematik, ÷
+🟰	eşitlik, kalın eşittir işareti, matematik
 ♾️	evrensel, sonsuz, sonsuzluk, sınırsız
 ‼️	!, !!, işaret, noktalama, çift ünlem, ünlem
 ⁉️	!, !?, ?, işaret, noktalama, soru, ünlem, ünlemli soru işareti
-❓️	?, işaret, noktalama, soru, soru işareti
+❓️	?, işaret, kırmızı soru işareti, noktalama, soru, soru işareti
 ❔	?, beyaz soru işareti, işaret, noktalama, soru
 ❕	!, beyaz ünlem işareti, işaret, noktalama, ünlem
-❗️	!, noktalama, ünlem, ünlem işareti
+❗️	!, kırmızı ünlem işareti, noktalama, ünlem, ünlem işareti
 〰️	dalgalı, dalgalı çizgi, uzun ses işareti, çizgi
 💱	bozdurma, döviz, kambiyo, para
 💲	dolar, dolar işareti, koyu renk dolar işareti, para
@@ -3292,8 +3971,52 @@
 🏴󠁧󠁢󠁥󠁮󠁧󠁿	bayrak, bayrak: İngiltere
 🏴󠁧󠁢󠁳󠁣󠁴󠁿	bayrak, bayrak: İskoçya
 🏴󠁧󠁢󠁷󠁬󠁳󠁿	bayrak, bayrak: Galler
-🏻	açık cilt tonu, açık ten rengi, deri, emoji değiştirici, ton
-🏼	deri, emoji değiştirici, orta açık cilt tonu, orta açık ten rengi, ton
-🏽	deri, emoji değiştirici, orta cilt tonu, orta ten rengi, ton
-🏾	deri, emoji değiştirici, orta koyu cilt tonu, ton
-🏿	deri, emoji değiştirici, koyu cilt tonu, koyu ten rengi, ton
+¤	Bilinmeyen Para Birimi
+¢	sent
+$	ABD, dolar, para, pezo
+£	EGP, GBP, para birimi, sterlin
+¥	CNY, JPY, para birimi, yen, yuan
+֏	Ermenistan Dramı
+؋	Afganistan Afganisi
+৳	Bangladeş Takası
+฿	Tayland Bahtı
+៛	Kamboçya Rieli
+₡	Kosta Rika Kolonu
+₢	cruzeiro
+₣	fransız frangı
+₤	lira
+₥	mil, mill
+₦	Nijerya Nairası
+₧	İspanyol Pezetası
+₩	KPW, KRW, won
+₪	Yeni İsrail Şekeli
+₫	Vietnam Dongu
+€	EUR, avro, para birimi
+₭	Laos Kipi
+₮	Moğolistan Tugriki
+₰	alman senti
+₱	pezo
+₲	Paraguay Guaranisi
+₳	austral
+₴	Ukrayna Grivnası
+₵	Gana Sedisi
+₶	livre tournois
+₷	spesmilo
+₸	Kazakistan Tengesi
+₹	hint rupisi, para birimi, rupi
+₺	Türk Lirası
+₼	Azerbaycan Manatı
+₽	para birimi, ruble
+₾	Gürcistan Larisi
+₿	BTC, bitcoin
+₨	rupi
+﷼	riyal
+¹	bir, üs bir, üst bir simgesi, üst simge
+²	iki, karesi alınmış, üs iki, üst iki simgesi, üst simge
+³	küpü alınmış, üs üç, üst simge, üst üç simgesi, üç
+µ	mikro işareti, ölçüm
+🏻	açık cilt tonu, cilt tonu, tip 1–2
+🏼	cilt tonu, orta açık cilt tonu, tip 3
+🏽	cilt tonu, orta cilt tonu, tip 4
+🏾	cilt tonu, orta koyu cilt tonu, tip 5
+🏿	cilt tonu, koyu cilt tonu, tip 6
